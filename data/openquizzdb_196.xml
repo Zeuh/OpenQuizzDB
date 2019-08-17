@@ -1,0 +1,2035 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes" ?>
+<quizz fournisseur="OpenQuizzDB : Fournisseur de contenu libre"
+       url="https://www.openquizzdb.org"
+       rédacteur="Philippe Bresoux"
+       thème="Alan Turing (Père fondateur de l'informatique)"
+       difficulté="5 / 5">
+  <fr>
+  <débutant>
+    <contenu id="1">
+      <question>Quelle machine Alan Turing a-t-il cryptanalysé durant la Seconde Guerre mondiale ?</question>
+      <propositions>
+        <proposition id="1-1">Deep Blue</proposition>
+        <proposition id="1-2">ENIAC</proposition>
+        <proposition id="1-3">Delilah</proposition>
+        <proposition id="1-4">Enigma</proposition>
+      </propositions>
+      <réponse proposition="1-4">Enigma</réponse>
+      <anecdote>Enigma est une machine électromécanique portable servant au chiffrement et au déchiffrement de l'information.</anecdote>
+    </contenu>
+    <contenu id="2">
+      <question>Quelle expérience de pensée Alan Turing a-t-il présenté en 1936 ?</question>
+      <propositions>
+        <proposition id="2-1">Machine de Turing</proposition>
+        <proposition id="2-2">Parade de Turing</proposition>
+        <proposition id="2-3">Arcades de Turing</proposition>
+        <proposition id="2-4">Cercle de Turing</proposition>
+      </propositions>
+      <réponse proposition="2-1">Machine de Turing</réponse>
+      <anecdote>Ces expériences de pensée prendront tout leur sens avec la diffusion des ordinateurs, dans la seconde moitié du XXe siècle.</anecdote>
+    </contenu>
+    <contenu id="3">
+      <question>Qu'a-t-on retrouvé sur la table de nuit de Turing le jour de sa mort ?</question>
+      <propositions>
+        <proposition id="3-1">Cadran</proposition>
+        <proposition id="3-2">Manuscrit</proposition>
+        <proposition id="3-3">Clé</proposition>
+        <proposition id="3-4">Pomme</proposition>
+      </propositions>
+      <réponse proposition="3-4">Pomme</réponse>
+      <anecdote>L'autopsie du corps conclut à un suicide par empoisonnement au cyanure, même si sa mère tenta d'écarter cette thèse.</anecdote>
+    </contenu>
+    <contenu id="4">
+      <question>Quel programme Turing a-t-il écrit en mai 1952 pour réaliser son célèbre test ?</question>
+      <propositions>
+        <proposition id="4-1">Dames</proposition>
+        <proposition id="4-2">OXO</proposition>
+        <proposition id="4-3">Jeu d'échecs</proposition>
+        <proposition id="4-4">Jeu de l'oie</proposition>
+      </propositions>
+      <réponse proposition="4-3">Jeu d'échecs</réponse>
+      <anecdote>Ne disposant pas d'un ordinateur assez puissant pour l'exécuter, Alan Turing a simulé les calculs de la machine.</anecdote>
+    </contenu>
+    <contenu id="5">
+      <question>Des travaux de quel physicien Alan Turing s'est-il inspiré en 1928 ?</question>
+      <propositions>
+        <proposition id="5-1">Arthur Compton</proposition>
+        <proposition id="5-2">Lev Landau</proposition>
+        <proposition id="5-3">Werner Heisenberg</proposition>
+        <proposition id="5-4">Albert Einstein</proposition>
+      </propositions>
+      <réponse proposition="5-4">Albert Einstein</réponse>
+      <anecdote>Les travaux d'Einstein remettaient en cause les axiomes d'Euclide et les lois de la mécanique céleste de Galilée et Newton.</anecdote>
+    </contenu>
+    <contenu id="6">
+      <question>Dans quel système d'exploitation informatique l'algorithme de chiffrement d'Enigma a été implémenté ?</question>
+      <propositions>
+        <proposition id="6-1">UNIX</proposition>
+        <proposition id="6-2">Android</proposition>
+        <proposition id="6-3">Mac OS</proposition>
+        <proposition id="6-4">Windows</proposition>
+      </propositions>
+      <réponse proposition="6-1">UNIX</réponse>
+      <anecdote>Cette commande intégrée a été utilisée par des laboratoires civils et militaires qui croyaient protéger ainsi leurs communications.</anecdote>
+    </contenu>
+    <contenu id="7">
+      <question>Lequel de ces éléments ne fait pas partie de la machine de Turing ?</question>
+      <propositions>
+        <proposition id="7-1">Registre d'état</proposition>
+        <proposition id="7-2">Ruban infini</proposition>
+        <proposition id="7-3">Table d'actions</proposition>
+        <proposition id="7-4">Alimentation externe</proposition>
+      </propositions>
+      <réponse proposition="7-4">Alimentation externe</réponse>
+      <anecdote>Quoique son nom de machine puisse conduire à croire le contraire, une machine de Turing est un concept abstrait.</anecdote>
+    </contenu>
+    <contenu id="8">
+      <question>Quelle machine électromécanique fut inventée par l'Allemand Arthur Scherbius ?</question>
+      <propositions>
+        <proposition id="8-1">Enigma</proposition>
+        <proposition id="8-2">ACE</proposition>
+        <proposition id="8-3">Colossus</proposition>
+        <proposition id="8-4">Deep Blue</proposition>
+      </propositions>
+      <réponse proposition="8-1">Enigma</réponse>
+      <anecdote>Enigma fut utilisée principalement par les Allemands (Die Chiffriermaschine Enigma) pendant la Seconde Guerre mondiale.</anecdote>
+    </contenu>
+    <contenu id="9">
+      <question>Lequel de ces langages informatiques n'est pas Turing-complet ?</question>
+      <propositions>
+        <proposition id="9-1">C</proposition>
+        <proposition id="9-2">Java</proposition>
+        <proposition id="9-3">SQL</proposition>
+        <proposition id="9-4">Python</proposition>
+      </propositions>
+      <réponse proposition="9-3">SQL</réponse>
+      <anecdote>Un langage est dit Turing-complet s'il permet de représenter toutes les fonctions calculables au sens de Turing et Church.</anecdote>
+    </contenu>
+    <contenu id="10">
+      <question>Quel supercalculateur fut le premier à battre un champion du monde d'échecs ?</question>
+      <propositions>
+        <proposition id="10-1">Sequoia</proposition>
+        <proposition id="10-2">GENCI</proposition>
+        <proposition id="10-3">Deep Blue</proposition>
+        <proposition id="10-4">Myrinet</proposition>
+      </propositions>
+      <réponse proposition="10-3">Deep Blue</réponse>
+      <anecdote>L'Intelligence Artificielle démarre dans les années 1950 avec les travaux d'Alan Turing, qui se demande si une machine peut penser.</anecdote>
+    </contenu>
+  </débutant>
+  <confirmé>
+    <contenu id="11">
+      <question>Qu'est sensée imiter une machine faisant le test de Turing ?</question>
+      <propositions>
+        <proposition id="11-1">Silhouette</proposition>
+        <proposition id="11-2">Dessin</proposition>
+        <proposition id="11-3">Conversation</proposition>
+        <proposition id="11-4">Mouvement</proposition>
+      </propositions>
+      <réponse proposition="11-3">Conversation</réponse>
+      <anecdote>Le test de Turing est une proposition de test d'IA fondée sur la faculté d'une machine à imiter la conversation humaine.</anecdote>
+    </contenu>
+    <contenu id="12">
+      <question>Quelle thèse de Turing concerne la définition de la notion de calculabilité ?</question>
+      <propositions>
+        <proposition id="12-1">Thèse de Welchman</proposition>
+        <proposition id="12-2">Thèse de Church</proposition>
+        <proposition id="12-3">Thèse de Danz</proposition>
+        <proposition id="12-4">Thèse de Schwartz</proposition>
+      </propositions>
+      <réponse proposition="12-2">Thèse de Church</réponse>
+      <anecdote>Dans sa forme physique, elle affirme que la notion physique de la calculabilité est exprimée par un ensemble de règles de calcul.</anecdote>
+    </contenu>
+    <contenu id="13">
+      <question>Pour quelle raison Alan Turing a-t-il été poursuivi en justice en 1952 ?</question>
+      <propositions>
+        <proposition id="13-1">Sa religion</proposition>
+        <proposition id="13-2">Son argent</proposition>
+        <proposition id="13-3">Son savoir</proposition>
+        <proposition id="13-4">Son homosexualité</proposition>
+      </propositions>
+      <réponse proposition="13-4">Son homosexualité</réponse>
+      <anecdote>Pour éviter la prison suite à un fait divers lié à son homosexualité, Alan Turing a choisi la castration chimique par prise d'strogènes.</anecdote>
+    </contenu>
+    <contenu id="14">
+      <question>Comment Alan Turing a-t-il été retrouvé mort dans sa maison de Manchester ?</question>
+      <propositions>
+        <proposition id="14-1">Pendu</proposition>
+        <proposition id="14-2">Empoisonné</proposition>
+        <proposition id="14-3">Décapité</proposition>
+        <proposition id="14-4">Poignardé</proposition>
+      </propositions>
+      <réponse proposition="14-2">Empoisonné</réponse>
+      <anecdote>En 1954, à l'âge de seulement 41 ans, Alan Turing a été retrouvé dans sa chambre, mort d'un empoisonnement au cyanure.</anecdote>
+    </contenu>
+    <contenu id="15">
+      <question>Quel franco-maéricain a réalisé en 1982 le film franco-britannique 'Enigma' ?</question>
+      <propositions>
+        <proposition id="15-1">Jeannot Szwarc</proposition>
+        <proposition id="15-2">Alexandre Aja</proposition>
+        <proposition id="15-3">Olias Barco</proposition>
+        <proposition id="15-4">Didier Caron</proposition>
+      </propositions>
+      <réponse proposition="15-1">Jeannot Szwarc</réponse>
+      <anecdote>Le film 'Enigma' propose une belle affiche avec, entre autres, Martin Sheen, Brigitte Fossey, Sam Neill et Michael Lonsdale.</anecdote>
+    </contenu>
+    <contenu id="16">
+      <question>Qui a publié le roman 'Indécence manifeste' sur la vie de Turing ?</question>
+      <propositions>
+        <proposition id="16-1">Patrick Boman</proposition>
+        <proposition id="16-2">David Lagercrantz</proposition>
+        <proposition id="16-3">Ulf Durling</proposition>
+        <proposition id="16-4">Björn Larsson</proposition>
+      </propositions>
+      <réponse proposition="16-2">David Lagercrantz</réponse>
+      <anecdote>Lagercrantz est connu pour avoir écrit une biographie de Zlatan Ibrahimovic ainsi que le roman policier 'Ce qui ne me tue pas'.</anecdote>
+    </contenu>
+    <contenu id="17">
+      <question>Dans quelle ville Alan Turing est-il né le 23 juin 1912 ?</question>
+      <propositions>
+        <proposition id="17-1">Londres</proposition>
+        <proposition id="17-2">Bruxelles</proposition>
+        <proposition id="17-3">Stockholm</proposition>
+        <proposition id="17-4">Sydney</proposition>
+      </propositions>
+      <réponse proposition="17-1">Londres</réponse>
+      <anecdote>Il est né du fonctionnaire d'administration coloniale Julius Mathison Turing et de sa femme Ethel Sarah Turing (née Stoney).</anecdote>
+    </contenu>
+    <contenu id="18">
+      <question>Très jeune, en combien de temps Alan Turing a-t-il appris seul à lire ?</question>
+      <propositions>
+        <proposition id="18-1">6 jours</proposition>
+        <proposition id="18-2">2 mois</proposition>
+        <proposition id="18-3">3 semaines</proposition>
+        <proposition id="18-4">1 an</proposition>
+      </propositions>
+      <réponse proposition="18-3">3 semaines</réponse>
+      <anecdote>Très tôt, le jeune Turing montra les signes de son génie ainsi qu'une affinité précoce pour les chiffres et la résolution d'énigmes.</anecdote>
+    </contenu>
+    <contenu id="19">
+      <question>Dans quel site de décryptage du Royaume-Uni Turing et Knox ont-ils travaillé ?</question>
+      <propositions>
+        <proposition id="19-1">Base 23</proposition>
+        <proposition id="19-2">Thankful Village</proposition>
+        <proposition id="19-3">Bletchley Park</proposition>
+        <proposition id="19-4">Warship Camp</proposition>
+      </propositions>
+      <réponse proposition="19-3">Bletchley Park</réponse>
+      <anecdote>Bletchley Park y hébergeait pendant la Seconde Guerre mondiale une station secrète d'interception radio et une station d'émission.</anecdote>
+    </contenu>
+    <contenu id="20">
+      <question>À quel bâtiment préfabriqué Turing a-t-il été affecté pour l'Enigma navale ?</question>
+      <propositions>
+        <proposition id="20-1">Hut 8</proposition>
+        <proposition id="20-2">Zone 51</proposition>
+        <proposition id="20-3">Fox 34</proposition>
+        <proposition id="20-4">Delta 6</proposition>
+      </propositions>
+      <réponse proposition="20-1">Hut 8</réponse>
+      <anecdote>Alan Turing dira : 'J'ai traité ce problème parce que personne d'autre ne s'en occupait et que je pouvais l'avoir pour moi seul'.</anecdote>
+    </contenu>
+  </confirmé>
+  <expert>
+    <contenu id="21">
+      <question>Depuis quelle année le prix Turing est-il annuellement décerné ?</question>
+      <propositions>
+        <proposition id="21-1">1966</proposition>
+        <proposition id="21-2">1986</proposition>
+        <proposition id="21-3">1976</proposition>
+        <proposition id="21-4">1996</proposition>
+      </propositions>
+      <réponse proposition="21-1">1966</réponse>
+      <anecdote>Le prix est décerné à des personnes ayant apporté une contribution scientifique significative au domaine de la recherche informatique.</anecdote>
+    </contenu>
+    <contenu id="22">
+      <question>Quel était le prix approximatif (en euros) de l'Enigma-A, sorti en 1923 ?</question>
+      <propositions>
+        <proposition id="22-1">50 000 euros</proposition>
+        <proposition id="22-2">30 000 euros</proposition>
+        <proposition id="22-3">90 000 euros</proposition>
+        <proposition id="22-4">70 000 euros</proposition>
+      </propositions>
+      <réponse proposition="22-2">30 000 euros</réponse>
+      <anecdote>C'est finalement l'Enigma-D qui deviendra le modèle le plus répandu après son adoption par la Marine allemande en 1926.</anecdote>
+    </contenu>
+    <contenu id="23">
+      <question>Quelle machine à coder la voix a été réalisée par Alan Turing ?</question>
+      <propositions>
+        <proposition id="23-1">Frontera</proposition>
+        <proposition id="23-2">Enigma</proposition>
+        <proposition id="23-3">Delilah</proposition>
+        <proposition id="23-4">Kaneda</proposition>
+      </propositions>
+      <réponse proposition="23-3">Delilah</réponse>
+      <anecdote>Turing a découvert en 1943 les progrès des technologies électroniques en partant en mission de cryptanalyste.</anecdote>
+    </contenu>
+    <contenu id="24">
+      <question>À quels modèles Alan Turing va-t-il s'intéresser à la fin de sa vie ?</question>
+      <propositions>
+        <proposition id="24-1">Thermogenèse</proposition>
+        <proposition id="24-2">Biogenèse</proposition>
+        <proposition id="24-3">Morphogenèse</proposition>
+        <proposition id="24-4">Endurogenèse</proposition>
+      </propositions>
+      <réponse proposition="24-3">Morphogenèse</réponse>
+      <anecdote>La morphogenèse est l'ensemble des lois qui déterminent la forme, la structure des tissus, des organes et des organismes.</anecdote>
+    </contenu>
+    <contenu id="25">
+      <question>En quelle année la reine Élisabeth II a-t-elle gracié Turing à titre posthume ?</question>
+      <propositions>
+        <proposition id="25-1">1993</proposition>
+        <proposition id="25-2">2003</proposition>
+        <proposition id="25-3">1983</proposition>
+        <proposition id="25-4">2013</proposition>
+      </propositions>
+      <réponse proposition="25-4">2013</réponse>
+      <anecdote>Suite au déchiffrage de la machine Enigma, Alan Turing ne sera reconnu comme héros de guerre que 55 ans après sa mort.</anecdote>
+    </contenu>
+    <contenu id="26">
+      <question>Combien de pages contient le manuscrit de Turing vendu en 2015 ?</question>
+      <propositions>
+        <proposition id="26-1">56</proposition>
+        <proposition id="26-2">132</proposition>
+        <proposition id="26-3">398</proposition>
+        <proposition id="26-4">247</proposition>
+      </propositions>
+      <réponse proposition="26-1">56</réponse>
+      <anecdote>Alan Turing avait légué ses papiers comprenant des réflexions sur la notation de Leibniz au mathématicien Robin Gandy.</anecdote>
+    </contenu>
+    <contenu id="27">
+      <question>Quel mathématicien de Cambridge a aidé à améliorer la bombe de Turing ?</question>
+      <propositions>
+        <proposition id="27-1">John Herivel</proposition>
+        <proposition id="27-2">Harry Hinsley</proposition>
+        <proposition id="27-3">Hugh Foss</proposition>
+        <proposition id="27-4">Gordon Welchman</proposition>
+      </propositions>
+      <réponse proposition="27-4">Gordon Welchman</réponse>
+      <anecdote>Une fois fabriquée, la bombe devint l'outil fondamental le plus automatisé de l'attaque des messages chiffrés par Enigma.</anecdote>
+    </contenu>
+    <contenu id="28">
+      <question>Quel est le premier projet détaillé d'un ordinateur réalisé par Turing ?</question>
+      <propositions>
+        <proposition id="28-1">PGA</proposition>
+        <proposition id="28-2">KDE</proposition>
+        <proposition id="28-3">ACE</proposition>
+        <proposition id="28-4">RAR</proposition>
+      </propositions>
+      <réponse proposition="28-3">ACE</réponse>
+      <anecdote>Turing ne parviendra toutefois pas à s'entendre avec les ingénieurs électroniciens du NPL chargés de construire cette machine.</anecdote>
+    </contenu>
+    <contenu id="29">
+      <question>Quelle machine a contribué à orienter Turing vers la conception d'un ordinateur ?</question>
+      <propositions>
+        <proposition id="29-1">Gigantic</proposition>
+        <proposition id="29-2">Colossus</proposition>
+        <proposition id="29-3">Mastodonth</proposition>
+        <proposition id="29-4">Megalox</proposition>
+      </propositions>
+      <réponse proposition="29-2">Colossus</réponse>
+      <anecdote>Construit en onze mois, Colossus était constitué de 1 500 puis 2 400 tubes à vide et réalisait 5 000 opérations par seconde.</anecdote>
+    </contenu>
+    <contenu id="30">
+      <question>Qui fut directeur de la Hut 8 en l'absence d'Alan Turing ?</question>
+      <propositions>
+        <proposition id="30-1">Stuart Conquest</proposition>
+        <proposition id="30-2">Raymond Keene</proposition>
+        <proposition id="30-3">Hugh Alexander</proposition>
+        <proposition id="30-4">William Potter</proposition>
+      </propositions>
+      <réponse proposition="30-3">Hugh Alexander</réponse>
+      <anecdote>Après la Seconde Guerre mondiale, Hugh Alexander fut pendant vingt ans le chef de la section H (cryptanalyse) du GCHQ.</anecdote>
+    </contenu>
+  </expert>
+  </fr>
+  <en>
+  <débutant>
+    <contenu id="1">
+      <question>What machine did Alan Turing cryptanalyze during the Second World War ?</question>
+      <propositions>
+        <proposition id="1-1">Delilah</proposition>
+        <proposition id="1-2">Deep Blue</proposition>
+        <proposition id="1-3">Enigma</proposition>
+        <proposition id="1-4">ENIAC</proposition>
+      </propositions>
+      <réponse proposition="1-3">Enigma</réponse>
+      <anecdote>Enigma is a portable electromechanical machine used for encryption and information encryption.</anecdote>
+    </contenu>
+    <contenu id="2">
+      <question>What thought experiment did Alan Turing present in 1936 ?</question>
+      <propositions>
+        <proposition id="2-1">Turing machine</proposition>
+        <proposition id="2-2">Turing Arcades</proposition>
+        <proposition id="2-3">Turing Parade</proposition>
+        <proposition id="2-4">Turing Circle</proposition>
+      </propositions>
+      <réponse proposition="2-1">Turing machine</réponse>
+      <anecdote>These thought experiments will make sense with the spread of computers in the second half of the 20th century.</anecdote>
+    </contenu>
+    <contenu id="3">
+      <question>What was found on Turing's nightstand on the day of his death ?</question>
+      <propositions>
+        <proposition id="3-1">Key</proposition>
+        <proposition id="3-2">Apple</proposition>
+        <proposition id="3-3">Manuscript</proposition>
+        <proposition id="3-4">Dial</proposition>
+      </propositions>
+      <réponse proposition="3-2">Apple</réponse>
+      <anecdote>The autopsy of the body concludes suicide by cyanide poisoning, even though her mother tried to suppress this thesis.</anecdote>
+    </contenu>
+    <contenu id="4">
+      <question>What Turing program did he write in May 1952 to realize his famous test ?</question>
+      <propositions>
+        <proposition id="4-1">Game of goose</proposition>
+        <proposition id="4-2">Chess Game</proposition>
+        <proposition id="4-3">OXO</proposition>
+        <proposition id="4-4">Ladies</proposition>
+      </propositions>
+      <réponse proposition="4-2">Chess Game</réponse>
+      <anecdote>Not having a computer powerful enough to run it, Alan Turing simulated the machine's calculations.</anecdote>
+    </contenu>
+    <contenu id="5">
+      <question>What physicist's work was Alan Turing inspired in 1928 ?</question>
+      <propositions>
+        <proposition id="5-1">Albert Einstein</proposition>
+        <proposition id="5-2">Lev Landau</proposition>
+        <proposition id="5-3">Arthur Compton</proposition>
+        <proposition id="5-4">Werner Heisenberg</proposition>
+      </propositions>
+      <réponse proposition="5-1">Albert Einstein</réponse>
+      <anecdote>Einstein's work challenged Euclid's axioms and the laws of celestial mechanics of Galileo and Newton.</anecdote>
+    </contenu>
+    <contenu id="6">
+      <question>In which computer operating system did Enigma's encryption algorithm be implemented ?</question>
+      <propositions>
+        <proposition id="6-1">Windows</proposition>
+        <proposition id="6-2">Android</proposition>
+        <proposition id="6-3">UNIX</proposition>
+        <proposition id="6-4">Mac OS</proposition>
+      </propositions>
+      <réponse proposition="6-3">UNIX</réponse>
+      <anecdote>This integrated command was used by civilian and military laboratories that believed to protect their communications.</anecdote>
+    </contenu>
+    <contenu id="7">
+      <question>Which of these elements is not part of the Turing machine ?</question>
+      <propositions>
+        <proposition id="7-1">State Register</proposition>
+        <proposition id="7-2">Infinite ribbon</proposition>
+        <proposition id="7-3">External power supply</proposition>
+        <proposition id="7-4">Action table</proposition>
+      </propositions>
+      <réponse proposition="7-3">External power supply</réponse>
+      <anecdote>Although its machine name may lead to believe otherwise, a Turing machine is an abstract concept.</anecdote>
+    </contenu>
+    <contenu id="8">
+      <question>Which electromechanical machine was invented by the German Arthur Scherbius ?</question>
+      <propositions>
+        <proposition id="8-1">Deep Blue</proposition>
+        <proposition id="8-2">ACE</proposition>
+        <proposition id="8-3">Enigma</proposition>
+        <proposition id="8-4">Colossus</proposition>
+      </propositions>
+      <réponse proposition="8-3">Enigma</réponse>
+      <anecdote>Enigma was used mainly by the Germans (Die Chiffriermaschine Enigma) during the Second World War.</anecdote>
+    </contenu>
+    <contenu id="9">
+      <question>Which of these computer languages is not Turing-complete ?</question>
+      <propositions>
+        <proposition id="9-1">Python</proposition>
+        <proposition id="9-2">SQL</proposition>
+        <proposition id="9-3">C</proposition>
+        <proposition id="9-4">Java</proposition>
+      </propositions>
+      <réponse proposition="9-2">SQL</réponse>
+      <anecdote>A Turing-complete language is said to represent all computable functions in the sense of Turing and Church.</anecdote>
+    </contenu>
+    <contenu id="10">
+      <question>Which supercomputer was the first to beat a chess world champion ?</question>
+      <propositions>
+        <proposition id="10-1">Myrinet</proposition>
+        <proposition id="10-2">Sequoia</proposition>
+        <proposition id="10-3">Deep Blue</proposition>
+        <proposition id="10-4">GENCI</proposition>
+      </propositions>
+      <réponse proposition="10-3">Deep Blue</réponse>
+      <anecdote>Artificial Intelligence starts in the 1950s with the work of Alan Turing, who wonders if a machine can think.</anecdote>
+    </contenu>
+  </débutant>
+  <confirmé>
+    <contenu id="11">
+      <question>What does it make sense to imitate a machine doing the Turing test ?</question>
+      <propositions>
+        <proposition id="11-1">Silhouette</proposition>
+        <proposition id="11-2">Conversation</proposition>
+        <proposition id="11-3">Movement</proposition>
+        <proposition id="11-4">Drawing</proposition>
+      </propositions>
+      <réponse proposition="11-2">Conversation</réponse>
+      <anecdote>The Turing Test is an AI test proposal based on the ability of a machine to mimic human conversation.</anecdote>
+    </contenu>
+    <contenu id="12">
+      <question>What is Turing's theory about defining the notion of calculability ?</question>
+      <propositions>
+        <proposition id="12-1">Danz Thesis</proposition>
+        <proposition id="12-2">Church Thesis</proposition>
+        <proposition id="12-3">Schwartz's Thesis</proposition>
+        <proposition id="12-4">Welchman's Thesis</proposition>
+      </propositions>
+      <réponse proposition="12-2">Church Thesis</réponse>
+      <anecdote>In her physical form, she states that the physical concept of calculability is expressed by a set of rules of calculation.</anecdote>
+    </contenu>
+    <contenu id="13">
+      <question>Why was Alan Turing sued in 1952 ?</question>
+      <propositions>
+        <proposition id="13-1">His religion</proposition>
+        <proposition id="13-2">His knowledge</proposition>
+        <proposition id="13-3">His homosexuality</proposition>
+        <proposition id="13-4">His money</proposition>
+      </propositions>
+      <réponse proposition="13-3">His homosexuality</réponse>
+      <anecdote>To avoid the prison following a news story related to his homosexuality, Alan Turing chose chemical castration by taking oestrogens.</anecdote>
+    </contenu>
+    <contenu id="14">
+      <question>How was Alan Turing found dead in his Manchester home ?</question>
+      <propositions>
+        <proposition id="14-1">Stabbed</proposition>
+        <proposition id="14-2">Poisoned</proposition>
+        <proposition id="14-3">Dipped</proposition>
+        <proposition id="14-4">Hung</proposition>
+      </propositions>
+      <réponse proposition="14-2">Poisoned</réponse>
+      <anecdote>In 1954, at only 41 years old, Alan Turing was found in his room, died of cyanide poisoning.</anecdote>
+    </contenu>
+    <contenu id="15">
+      <question>Which Franco-American made the 1982 Franco-British film 'Enigma' ?</question>
+      <propositions>
+        <proposition id="15-1">Alexandre Aja</proposition>
+        <proposition id="15-2">Jeannot Szwarc</proposition>
+        <proposition id="15-3">Olias Barco</proposition>
+        <proposition id="15-4">Didier Caron</proposition>
+      </propositions>
+      <réponse proposition="15-2">Jeannot Szwarc</réponse>
+      <anecdote>The film 'Enigma' features a beautiful poster with, among others, Martin Sheen, Brigitte Fossey, Sam Neill and Michael Lonsdale.</anecdote>
+    </contenu>
+    <contenu id="16">
+      <question>Who published the novel 'Obvious Indecency' on the life of Turing ?</question>
+      <propositions>
+        <proposition id="16-1">Ulf Durling</proposition>
+        <proposition id="16-2">David Lagercrantz</proposition>
+        <proposition id="16-3">Patrick Boman</proposition>
+        <proposition id="16-4">Björn Larsson</proposition>
+      </propositions>
+      <réponse proposition="16-2">David Lagercrantz</réponse>
+      <anecdote>Lagercrantz is known for writing a biography of Zlatan Ibrahimovic as well as the detective novel 'What does not kill me'.</anecdote>
+    </contenu>
+    <contenu id="17">
+      <question>In which city was Alan Turing born June 23, 1912 ?</question>
+      <propositions>
+        <proposition id="17-1">London</proposition>
+        <proposition id="17-2">Brussels</proposition>
+        <proposition id="17-3">Sydney</proposition>
+        <proposition id="17-4">Stockholm</proposition>
+      </propositions>
+      <réponse proposition="17-1">London</réponse>
+      <anecdote>He was born to colonial administration officer Julius Mathison Turing and his wife Ethel Sarah Turing (born Stoney).</anecdote>
+    </contenu>
+    <contenu id="18">
+      <question>Very young, how long did Alan Turing learn to read alone ?</question>
+      <propositions>
+        <proposition id="18-1">3 weeks</proposition>
+        <proposition id="18-2">6 days</proposition>
+        <proposition id="18-3">2 months</proposition>
+        <proposition id="18-4">1 year</proposition>
+      </propositions>
+      <réponse proposition="18-1">3 weeks</réponse>
+      <anecdote>Early on, the young Turing showed signs of his genius as well as an early affinity for numbers and riddle resolution.</anecdote>
+    </contenu>
+    <contenu id="19">
+      <question>In which UK deciphering site did Turing and Knox work ?</question>
+      <propositions>
+        <proposition id="19-1">Base 23</proposition>
+        <proposition id="19-2">Bletchley Park</proposition>
+        <proposition id="19-3">Warship Camp</proposition>
+        <proposition id="19-4">Thankful Village</proposition>
+      </propositions>
+      <réponse proposition="19-2">Bletchley Park</réponse>
+      <anecdote>Bletchley Park hosted a secret radio intercepting station and a broadcast station during the Second World War.</anecdote>
+    </contenu>
+    <contenu id="20">
+      <question>What pre-fabricated building did Turing have been assigned to the Naval Enigma ?</question>
+      <propositions>
+        <proposition id="20-1">Hut 8</proposition>
+        <proposition id="20-2">Fox 34</proposition>
+        <proposition id="20-3">Area 51</proposition>
+        <proposition id="20-4">Delta 6</proposition>
+      </propositions>
+      <réponse proposition="20-1">Hut 8</réponse>
+      <anecdote>Alan Turing will say : 'I have treated this problem because no one else was taking care of it and I could have it for myself alone'.</anecdote>
+    </contenu>
+  </confirmé>
+  <expert>
+    <contenu id="21">
+      <question>Since which year has the Turing Prize been awarded annually ?</question>
+      <propositions>
+        <proposition id="21-1">1976</proposition>
+        <proposition id="21-2">1966</proposition>
+        <proposition id="21-3">1986</proposition>
+        <proposition id="21-4">1996</proposition>
+      </propositions>
+      <réponse proposition="21-2">1966</réponse>
+      <anecdote>The prize is awarded to individuals who have made a significant scientific contribution to the field of computer research.</anecdote>
+    </contenu>
+    <contenu id="22">
+      <question>What was the approximate price (in euros) of the Enigma-A, released in 1923 ?</question>
+      <propositions>
+        <proposition id="22-1">70 000 euros</proposition>
+        <proposition id="22-2">50 000 euros</proposition>
+        <proposition id="22-3">90 000 euros</proposition>
+        <proposition id="22-4">30 000 euros</proposition>
+      </propositions>
+      <réponse proposition="22-4">30 000 euros</réponse>
+      <anecdote>It is finally the Enigma-D which will become the most widespread model after its adoption by the German Navy in 1926.</anecdote>
+    </contenu>
+    <contenu id="23">
+      <question>Which voice coding machine was made by Alan Turing ?</question>
+      <propositions>
+        <proposition id="23-1">Kaneda</proposition>
+        <proposition id="23-2">Enigma</proposition>
+        <proposition id="23-3">Frontera</proposition>
+        <proposition id="23-4">Delilah</proposition>
+      </propositions>
+      <réponse proposition="23-4">Delilah</réponse>
+      <anecdote>Turing discovered in 1943 the progress of electronic technologies by starting a cryptanalyst mission.</anecdote>
+    </contenu>
+    <contenu id="24">
+      <question>What models will Alan Turing be interested in at the end of his life ?</question>
+      <propositions>
+        <proposition id="24-1">Morphogenesis</proposition>
+        <proposition id="24-2">Biogenesis</proposition>
+        <proposition id="24-3">Thermogenesis</proposition>
+        <proposition id="24-4">Endurogenesis</proposition>
+      </propositions>
+      <réponse proposition="24-1">Morphogenesis</réponse>
+      <anecdote>Morphogenesis is the set of laws that determine the form, structure of tissues, organs, and organisms.</anecdote>
+    </contenu>
+    <contenu id="25">
+      <question>In what year did Queen Elizabeth II grace Turing posthumously ?</question>
+      <propositions>
+        <proposition id="25-1">1983</proposition>
+        <proposition id="25-2">1993</proposition>
+        <proposition id="25-3">2013</proposition>
+        <proposition id="25-4">2003</proposition>
+      </propositions>
+      <réponse proposition="25-3">2013</réponse>
+      <anecdote>Following the deciphering of the Enigma machine, Alan Turing will only be recognized as a war hero 55 years after his death.</anecdote>
+    </contenu>
+    <contenu id="26">
+      <question>How many pages does the Turing manuscript sold in 2015 contain ?</question>
+      <propositions>
+        <proposition id="26-1">56</proposition>
+        <proposition id="26-2">247</proposition>
+        <proposition id="26-3">398</proposition>
+        <proposition id="26-4">132</proposition>
+      </propositions>
+      <réponse proposition="26-1">56</réponse>
+      <anecdote>Alan Turing had released his papers including some thoughts on Leibniz's notation to mathematician Robin Gandy.</anecdote>
+    </contenu>
+    <contenu id="27">
+      <question>Which Cambridge mathematician helped to improve the Turing bomb ?</question>
+      <propositions>
+        <proposition id="27-1">John Herivel</proposition>
+        <proposition id="27-2">Harry Hinsley</proposition>
+        <proposition id="27-3">Gordon Welchman</proposition>
+        <proposition id="27-4">Hugh Foss</proposition>
+      </propositions>
+      <réponse proposition="27-3">Gordon Welchman</réponse>
+      <anecdote>Once manufactured, the bomb became the most automated fundamental tool for Enigma encrypted message attacks.</anecdote>
+    </contenu>
+    <contenu id="28">
+      <question>What is the first detailed project of a computer made by Turing ?</question>
+      <propositions>
+        <proposition id="28-1">RAR</proposition>
+        <proposition id="28-2">KDE</proposition>
+        <proposition id="28-3">ACE</proposition>
+        <proposition id="28-4">PGA</proposition>
+      </propositions>
+      <réponse proposition="28-3">ACE</réponse>
+      <anecdote>Turing, however, will not be able to get along with the NPL electronics engineers charged with building this machine.</anecdote>
+    </contenu>
+    <contenu id="29">
+      <question>Which machine helped Turing to design a computer ?</question>
+      <propositions>
+        <proposition id="29-1">Colossus</proposition>
+        <proposition id="29-2">Gigantic</proposition>
+        <proposition id="29-3">Mastodonth</proposition>
+        <proposition id="29-4">Megalox</proposition>
+      </propositions>
+      <réponse proposition="29-1">Colossus</réponse>
+      <anecdote>Built in eleven months, Colossus consisted of 1,500 and 2,400 vacuum tubes and produced 5,000 operations per second.</anecdote>
+    </contenu>
+    <contenu id="30">
+      <question>Who was director of Hut 8 in the absence of Alan Turing ?</question>
+      <propositions>
+        <proposition id="30-1">Raymond Keene</proposition>
+        <proposition id="30-2">William Potter</proposition>
+        <proposition id="30-3">Hugh Alexander</proposition>
+        <proposition id="30-4">Stuart Conquest</proposition>
+      </propositions>
+      <réponse proposition="30-3">Hugh Alexander</réponse>
+      <anecdote>After the Second World War, Hugh Alexander was for twenty years the head of the H section (cryptanalysis) of the GCHQ.</anecdote>
+    </contenu>
+  </expert>
+  </en>
+  <de>
+  <débutant>
+    <contenu id="1">
+      <question>Welche Maschine hat Alan Turing während des Zweiten Weltkriegs kryptographiert ?</question>
+      <propositions>
+        <proposition id="1-1">Deep Blue</proposition>
+        <proposition id="1-2">Delilah</proposition>
+        <proposition id="1-3">ENIAC</proposition>
+        <proposition id="1-4">Enigma</proposition>
+      </propositions>
+      <réponse proposition="1-4">Enigma</réponse>
+      <anecdote>Enigma ist eine tragbare elektromechanische Maschine, die zur Verschlüsselung und Informationsverschlüsselung verwendet wird.</anecdote>
+    </contenu>
+    <contenu id="2">
+      <question>Welches Gedankenexperiment führte Alan Turing 1936 durch ?</question>
+      <propositions>
+        <proposition id="2-1">Turing Kreis</proposition>
+        <proposition id="2-2">Turingmaschine</proposition>
+        <proposition id="2-3">Turing Arcades</proposition>
+        <proposition id="2-4">Turing Parade</proposition>
+      </propositions>
+      <réponse proposition="2-2">Turingmaschine</réponse>
+      <anecdote>Diese Gedankenexperimente werden mit der Verbreitung von Computern in der zweiten Hälfte des 20.</anecdote>
+    </contenu>
+    <contenu id="3">
+      <question>Was wurde am Tag seines Todes auf Turings Nachttisch gefunden ?</question>
+      <propositions>
+        <proposition id="3-1">Wählen Sie</proposition>
+        <proposition id="3-2">Manuskript</proposition>
+        <proposition id="3-3">Apple</proposition>
+        <proposition id="3-4">Schlüssel</proposition>
+      </propositions>
+      <réponse proposition="3-3">Apple</réponse>
+      <anecdote>Die Autopsie des Körpers schließt den Selbstmord mit einer Cyanidvergiftung ab, obwohl ihre Mutter versucht hat, diese These zu unterdrücken.</anecdote>
+    </contenu>
+    <contenu id="4">
+      <question>Welches Turing-Programm schrieb er im Mai 1952, um seinen berühmten Test durchzuführen ?</question>
+      <propositions>
+        <proposition id="4-1">Spiel der Gans</proposition>
+        <proposition id="4-2">Damen</proposition>
+        <proposition id="4-3">Schachspiel</proposition>
+        <proposition id="4-4">OXO</proposition>
+      </propositions>
+      <réponse proposition="4-3">Schachspiel</réponse>
+      <anecdote>Alan Turing hatte keinen Computer, der leistungsfähig genug war, um ihn zu betreiben, und simulierte die Berechnungen der Maschine.</anecdote>
+    </contenu>
+    <contenu id="5">
+      <question>Welches Werk des Physikers wurde Alan Turing 1928 inspiriert ?</question>
+      <propositions>
+        <proposition id="5-1">Arthur Compton</proposition>
+        <proposition id="5-2">Werner Heisenberg</proposition>
+        <proposition id="5-3">Lev Landau</proposition>
+        <proposition id="5-4">Albert Einstein</proposition>
+      </propositions>
+      <réponse proposition="5-4">Albert Einstein</réponse>
+      <anecdote>Einsteins Arbeit stellte Euklids Axiome und die Gesetze der Himmelsmechanik von Galileo und Newton in Frage.</anecdote>
+    </contenu>
+    <contenu id="6">
+      <question>In welchem Computer-Betriebssystem wurde der Verschlüsselungsalgorithmus von Enigma implementiert ?</question>
+      <propositions>
+        <proposition id="6-1">Android</proposition>
+        <proposition id="6-2">UNIX</proposition>
+        <proposition id="6-3">Mac OS</proposition>
+        <proposition id="6-4">Windows</proposition>
+      </propositions>
+      <réponse proposition="6-2">UNIX</réponse>
+      <anecdote>Dieser integrierte Befehl wurde von zivilen und militärischen Labors verwendet, die glaubten, ihre Kommunikation zu schützen.</anecdote>
+    </contenu>
+    <contenu id="7">
+      <question>Welches dieser Elemente gehört nicht zur Turing-Maschine ?</question>
+      <propositions>
+        <proposition id="7-1">Unendliches Band</proposition>
+        <proposition id="7-2">Staatsregister</proposition>
+        <proposition id="7-3">Aktionstabelle</proposition>
+        <proposition id="7-4">Externe Stromversorgung</proposition>
+      </propositions>
+      <réponse proposition="7-4">Externe Stromversorgung</réponse>
+      <anecdote>Obwohl sein Maschinenname zu einer gegenteiligen Annahme führen kann, ist eine Turing-Maschine ein abstraktes Konzept.</anecdote>
+    </contenu>
+    <contenu id="8">
+      <question>Welche elektromechanische Maschine wurde vom Deutschen Arthur Scherbius erfunden ?</question>
+      <propositions>
+        <proposition id="8-1">ACE</proposition>
+        <proposition id="8-2">Koloss</proposition>
+        <proposition id="8-3">Enigma</proposition>
+        <proposition id="8-4">Deep Blue</proposition>
+      </propositions>
+      <réponse proposition="8-3">Enigma</réponse>
+      <anecdote>Enigma wurde hauptsächlich von den Deutschen (Die Chiffriermaschine Enigma) während des Zweiten Weltkriegs verwendet.</anecdote>
+    </contenu>
+    <contenu id="9">
+      <question>Welche dieser Computersprachen ist nicht vollständig ?</question>
+      <propositions>
+        <proposition id="9-1">Python</proposition>
+        <proposition id="9-2">Java</proposition>
+        <proposition id="9-3">C</proposition>
+        <proposition id="9-4">SQL</proposition>
+      </propositions>
+      <réponse proposition="9-4">SQL</réponse>
+      <anecdote>Eine Turing-vollständige Sprache soll alle berechenbaren Funktionen im Sinne von Turing und Kirche darstellen.</anecdote>
+    </contenu>
+    <contenu id="10">
+      <question>Welcher Supercomputer schlug als erster einen Schachweltmeister ?</question>
+      <propositions>
+        <proposition id="10-1">Myrinet</proposition>
+        <proposition id="10-2">Sequoia</proposition>
+        <proposition id="10-3">Deep Blue</proposition>
+        <proposition id="10-4">GENCI</proposition>
+      </propositions>
+      <réponse proposition="10-3">Deep Blue</réponse>
+      <anecdote>Künstliche Intelligenz beginnt in den 1950er Jahren mit der Arbeit von Alan Turing, der sich fragt, ob eine Maschine denken kann.</anecdote>
+    </contenu>
+  </débutant>
+  <confirmé>
+    <contenu id="11">
+      <question>Was macht es Sinn, eine Maschine zu imitieren, die den Turing-Test durchführt ?</question>
+      <propositions>
+        <proposition id="11-1">Zeichnen</proposition>
+        <proposition id="11-2">Silhouette</proposition>
+        <proposition id="11-3">Gespräch</proposition>
+        <proposition id="11-4">Bewegung</proposition>
+      </propositions>
+      <réponse proposition="11-3">Gespräch</réponse>
+      <anecdote>Der Turing-Test ist ein Vorschlag für einen AI-Test, der auf der Fähigkeit einer Maschine basiert, menschliche Gespräche nachzuahmen.</anecdote>
+    </contenu>
+    <contenu id="12">
+      <question>Was ist Turings Theorie über die Definition des Begriffs der Berechenbarkeit ?</question>
+      <propositions>
+        <proposition id="12-1">Schwartz-These</proposition>
+        <proposition id="12-2">Kirchenarbeit</proposition>
+        <proposition id="12-3">Danz Thesis</proposition>
+        <proposition id="12-4">Welchman-These</proposition>
+      </propositions>
+      <réponse proposition="12-2">Kirchenarbeit</réponse>
+      <anecdote>In ihrer physischen Form gibt sie an, dass das physische Konzept der Berechenbarkeit durch eine Reihe von Rechenregeln ausgedrückt wird.</anecdote>
+    </contenu>
+    <contenu id="13">
+      <question>Warum wurde Alan Turing 1952 verklagt ?</question>
+      <propositions>
+        <proposition id="13-1">Sein Wissen</proposition>
+        <proposition id="13-2">Seine Religion</proposition>
+        <proposition id="13-3">Seine Homosexualität</proposition>
+        <proposition id="13-4">Sein Geld</proposition>
+      </propositions>
+      <réponse proposition="13-3">Seine Homosexualität</réponse>
+      <anecdote>Um zu vermeiden, dass das Gefängnis eine Nachricht über seine Homosexualität verfolgt, entschied sich Alan Turing für die chemische Kastration durch Einnahme von Östrogenen.</anecdote>
+    </contenu>
+    <contenu id="14">
+      <question>Wie wurde Alan Turing in seinem Haus in Manchester tot aufgefunden ?</question>
+      <propositions>
+        <proposition id="14-1">Eingetaucht</proposition>
+        <proposition id="14-2">Vergiftet</proposition>
+        <proposition id="14-3">Erstochen</proposition>
+        <proposition id="14-4">Hung</proposition>
+      </propositions>
+      <réponse proposition="14-2">Vergiftet</réponse>
+      <anecdote>Im Jahr 1954, im Alter von nur 41 Jahren, wurde Alan Turing in seinem Zimmer gefunden, der an einer Cyanidvergiftung starb.</anecdote>
+    </contenu>
+    <contenu id="15">
+      <question>Welcher Amerikaner hat 1982 den französisch-britischen Film 'Enigma' gedreht ?</question>
+      <propositions>
+        <proposition id="15-1">Jeannot Szwarc</proposition>
+        <proposition id="15-2">Alexandre Aja</proposition>
+        <proposition id="15-3">Olias Barco</proposition>
+        <proposition id="15-4">Didier Caron</proposition>
+      </propositions>
+      <réponse proposition="15-1">Jeannot Szwarc</réponse>
+      <anecdote>Der Film 'Enigma' zeigt ein wunderschönes Plakat mit ua Martin Sheen, Brigitte Fossey, Sam Neill und Michael Lonsdale.</anecdote>
+    </contenu>
+    <contenu id="16">
+      <question>Wer hat den Roman 'Obvious Indecency' über das Leben von Turing veröffentlicht ?</question>
+      <propositions>
+        <proposition id="16-1">Patrick Boman</proposition>
+        <proposition id="16-2">David Lagercrantz</proposition>
+        <proposition id="16-3">Ulf Durling</proposition>
+        <proposition id="16-4">Björn Larsson</proposition>
+      </propositions>
+      <réponse proposition="16-2">David Lagercrantz</réponse>
+      <anecdote>Lagercrantz ist dafür bekannt, dass er eine Biografie von Zlatan Ibrahimovic sowie den Kriminalroman 'Was mich nicht umbringt' verfasst.</anecdote>
+    </contenu>
+    <contenu id="17">
+      <question>In welcher Stadt wurde Alan Turing am 23. Juni 1912 geboren ?</question>
+      <propositions>
+        <proposition id="17-1">Brüssel</proposition>
+        <proposition id="17-2">London</proposition>
+        <proposition id="17-3">Stockholm</proposition>
+        <proposition id="17-4">Sydney</proposition>
+      </propositions>
+      <réponse proposition="17-2">London</réponse>
+      <anecdote>Er wurde als Sohn des Kolonialverwaltungsbeamten Julius Mathison Turing und seiner Frau Ethel Sarah Turing (geb. Stoney) geboren.</anecdote>
+    </contenu>
+    <contenu id="18">
+      <question>Sehr jung, wie lange hat Alan Turing gelernt, alleine zu lesen ?</question>
+      <propositions>
+        <proposition id="18-1">2 Monate</proposition>
+        <proposition id="18-2">1 Jahr</proposition>
+        <proposition id="18-3">3 Wochen</proposition>
+        <proposition id="18-4">6 tage</proposition>
+      </propositions>
+      <réponse proposition="18-3">3 Wochen</réponse>
+      <anecdote>Schon früh zeigte der junge Turing Zeichen seines Genies sowie eine frühe Affinität zu Zahlen und Rätselauflösung.</anecdote>
+    </contenu>
+    <contenu id="19">
+      <question>An welcher britischen Entschlüsselungsstelle arbeiteten Turing und Knox ?</question>
+      <propositions>
+        <proposition id="19-1">Bletchley Park</proposition>
+        <proposition id="19-2">Kriegsschifflager</proposition>
+        <proposition id="19-3">Dankbares Dorf</proposition>
+        <proposition id="19-4">Basis 23</proposition>
+      </propositions>
+      <réponse proposition="19-1">Bletchley Park</réponse>
+      <anecdote>Im Bletchley Park gab es während des Zweiten Weltkriegs eine geheime Funk- und Rundfunkstation.</anecdote>
+    </contenu>
+    <contenu id="20">
+      <question>Welches vorgefertigte Gebäude wurde Turing dem Naval Enigma zugewiesen ?</question>
+      <propositions>
+        <proposition id="20-1">Delta 6</proposition>
+        <proposition id="20-2">Area 51</proposition>
+        <proposition id="20-3">Hütte 8</proposition>
+        <proposition id="20-4">Fox 34</proposition>
+      </propositions>
+      <réponse proposition="20-3">Hütte 8</réponse>
+      <anecdote>Alan Turing wird sagen : 'Ich habe dieses Problem behandelt, weil sich niemand darum gekümmert hat und ich es für mich alleine haben könnte'.</anecdote>
+    </contenu>
+  </confirmé>
+  <expert>
+    <contenu id="21">
+      <question>Seit welchem Jahr wird der Turing-Preis jährlich vergeben ?</question>
+      <propositions>
+        <proposition id="21-1">1976</proposition>
+        <proposition id="21-2">1996</proposition>
+        <proposition id="21-3">1986</proposition>
+        <proposition id="21-4">1966</proposition>
+      </propositions>
+      <réponse proposition="21-4">1966</réponse>
+      <anecdote>Der Preis wird an Personen vergeben, die einen bedeutenden wissenschaftlichen Beitrag auf dem Gebiet der Computerforschung geleistet haben.</anecdote>
+    </contenu>
+    <contenu id="22">
+      <question>Was war der ungefähre Preis (in Euro) des 1923 erschienenen Enigma-A ?</question>
+      <propositions>
+        <proposition id="22-1">50 000 euro</proposition>
+        <proposition id="22-2">70 000 euro</proposition>
+        <proposition id="22-3">90 000 euro</proposition>
+        <proposition id="22-4">30 000 euro</proposition>
+      </propositions>
+      <réponse proposition="22-4">30 000 euro</réponse>
+      <anecdote>Es ist schließlich der Enigma-D, der nach seiner Einführung durch die deutsche Marine im Jahr 1926 zum am weitesten verbreiteten Modell werden wird.</anecdote>
+    </contenu>
+    <contenu id="23">
+      <question>Welches Sprachcodierungsgerät wurde von Alan Turing hergestellt ?</question>
+      <propositions>
+        <proposition id="23-1">Kaneda</proposition>
+        <proposition id="23-2">Delilah</proposition>
+        <proposition id="23-3">Frontera</proposition>
+        <proposition id="23-4">Enigma</proposition>
+      </propositions>
+      <réponse proposition="23-2">Delilah</réponse>
+      <anecdote>Turing entdeckte 1943 den Fortschritt der elektronischen Technologien, indem er eine Cryptanalyst-Mission startete.</anecdote>
+    </contenu>
+    <contenu id="24">
+      <question>Für welche Modelle wird sich Alan Turing am Ende seines Lebens interessieren ?</question>
+      <propositions>
+        <proposition id="24-1">Morphogenese</proposition>
+        <proposition id="24-2">Biogenese</proposition>
+        <proposition id="24-3">Endurogenese</proposition>
+        <proposition id="24-4">Thermogenese</proposition>
+      </propositions>
+      <réponse proposition="24-1">Morphogenese</réponse>
+      <anecdote>Morphogenese ist ein Satz von Gesetzen, die Form, Struktur von Geweben, Organen und Organismen bestimmen.</anecdote>
+    </contenu>
+    <contenu id="25">
+      <question>In welchem Jahr hat Königin Elizabeth II. Turing posthum beschenkt ?</question>
+      <propositions>
+        <proposition id="25-1">1983</proposition>
+        <proposition id="25-2">2013</proposition>
+        <proposition id="25-3">2003</proposition>
+        <proposition id="25-4">1993</proposition>
+      </propositions>
+      <réponse proposition="25-2">2013</réponse>
+      <anecdote>Nach der Entschlüsselung der Enigma-Maschine wird Alan Turing erst 55 Jahre nach seinem Tod als Kriegsheld anerkannt.</anecdote>
+    </contenu>
+    <contenu id="26">
+      <question>Wie viele Seiten enthält das 2015 verkaufte Turing-Manuskript ?</question>
+      <propositions>
+        <proposition id="26-1">398</proposition>
+        <proposition id="26-2">56</proposition>
+        <proposition id="26-3">247</proposition>
+        <proposition id="26-4">132</proposition>
+      </propositions>
+      <réponse proposition="26-2">56</réponse>
+      <anecdote>Alan Turing hatte seine Arbeiten mit Überlegungen zu Leibniz 'Notation dem Mathematiker Robin Gandy hinterlassen.</anecdote>
+    </contenu>
+    <contenu id="27">
+      <question>Welcher Mathematiker aus Cambridge half bei der Verbesserung der Turing-Bombe ?</question>
+      <propositions>
+        <proposition id="27-1">John Herivel</proposition>
+        <proposition id="27-2">Hugh Foss</proposition>
+        <proposition id="27-3">Gordon Welchman</proposition>
+        <proposition id="27-4">Harry Hinsley</proposition>
+      </propositions>
+      <réponse proposition="27-3">Gordon Welchman</réponse>
+      <anecdote>Einmal hergestellt, wurde die Bombe das am meisten automatisierte grundlegende Werkzeug für Enigma-verschlüsselte Nachrichtenangriffe.</anecdote>
+    </contenu>
+    <contenu id="28">
+      <question>Was ist das erste Detailprojekt eines Computers von Turing ?</question>
+      <propositions>
+        <proposition id="28-1">KDE</proposition>
+        <proposition id="28-2">ACE</proposition>
+        <proposition id="28-3">PGA</proposition>
+        <proposition id="28-4">RAR</proposition>
+      </propositions>
+      <réponse proposition="28-2">ACE</réponse>
+      <anecdote>Turing wird jedoch nicht mit den NPL-Elektronikern auskommen können, die mit dem Bau dieser Maschine beauftragt sind.</anecdote>
+    </contenu>
+    <contenu id="29">
+      <question>Welche Maschine half Turing beim Entwerfen eines Computers ?</question>
+      <propositions>
+        <proposition id="29-1">Mastodonth</proposition>
+        <proposition id="29-2">Megalox</proposition>
+        <proposition id="29-3">Gigantisch</proposition>
+        <proposition id="29-4">Koloss</proposition>
+      </propositions>
+      <réponse proposition="29-4">Koloss</réponse>
+      <anecdote>Colossus wurde in elf Monaten gebaut, bestand aus 1.500 und 2.400 Vakuumröhren und führte 5.000 Operationen pro Sekunde durch.</anecdote>
+    </contenu>
+    <contenu id="30">
+      <question>Wer war in Abwesenheit von Alan Turing Direktor von Hut 8 ?</question>
+      <propositions>
+        <proposition id="30-1">Hugh Alexander</proposition>
+        <proposition id="30-2">Raymond Keene</proposition>
+        <proposition id="30-3">Stuart Conquest</proposition>
+        <proposition id="30-4">William Potter</proposition>
+      </propositions>
+      <réponse proposition="30-1">Hugh Alexander</réponse>
+      <anecdote>Nach dem Zweiten Weltkrieg war Hugh Alexander zwanzig Jahre lang Leiter der Abteilung H (Kryptoanalyse) des GCHQ.</anecdote>
+    </contenu>
+  </expert>
+  </de>
+  <es>
+  <débutant>
+    <contenu id="1">
+      <question>¿Qué máquina hizo Alan Turing durante la Segunda Guerra Mundial ?</question>
+      <propositions>
+        <proposition id="1-1">Delilah</proposition>
+        <proposition id="1-2">ENIAC</proposition>
+        <proposition id="1-3">Enigma</proposition>
+        <proposition id="1-4">Azul profundo</proposition>
+      </propositions>
+      <réponse proposition="1-3">Enigma</réponse>
+      <anecdote>Enigma es una máquina electromecánica portátil utilizada para el cifrado y el cifrado de la información.</anecdote>
+    </contenu>
+    <contenu id="2">
+      <question>¿Qué experimento mental presentó Alan Turing en 1936 ?</question>
+      <propositions>
+        <proposition id="2-1">Desfile de turing</proposition>
+        <proposition id="2-2">Círculo de Turing</proposition>
+        <proposition id="2-3">Arcadas de Turing</proposition>
+        <proposition id="2-4">Maquina de turing</proposition>
+      </propositions>
+      <réponse proposition="2-4">Maquina de turing</réponse>
+      <anecdote>Estos experimentos mentales tendrán sentido con la propagación de computadoras en la segunda mitad del siglo XX.</anecdote>
+    </contenu>
+    <contenu id="3">
+      <question>¿Qué se encontró en la mesa de noche de Turing el día de su muerte ?</question>
+      <propositions>
+        <proposition id="3-1">Manuscrito</proposition>
+        <proposition id="3-2">Marcar</proposition>
+        <proposition id="3-3">Llave</proposition>
+        <proposition id="3-4">Manzana</proposition>
+      </propositions>
+      <réponse proposition="3-4">Manzana</réponse>
+      <anecdote>La autopsia del cuerpo concluye el suicidio por envenenamiento por cianuro, a pesar de que su madre trató de suprimir esta tesis.</anecdote>
+    </contenu>
+    <contenu id="4">
+      <question>¿Qué programa de Turing escribió en mayo de 1952 para realizar su famosa prueba ?</question>
+      <propositions>
+        <proposition id="4-1">Juego de ganso</proposition>
+        <proposition id="4-2">Damas</proposition>
+        <proposition id="4-3">Juego de ajedrez</proposition>
+        <proposition id="4-4">OXO</proposition>
+      </propositions>
+      <réponse proposition="4-3">Juego de ajedrez</réponse>
+      <anecdote>Al no tener una computadora lo suficientemente poderosa para ejecutarla, Alan Turing simuló los cálculos de la máquina.</anecdote>
+    </contenu>
+    <contenu id="5">
+      <question>¿En qué trabajo del físico se inspiró Alan Turing en 1928 ?</question>
+      <propositions>
+        <proposition id="5-1">Werner Heisenberg</proposition>
+        <proposition id="5-2">Lev Landau</proposition>
+        <proposition id="5-3">Arthur Compton</proposition>
+        <proposition id="5-4">Albert Einstein</proposition>
+      </propositions>
+      <réponse proposition="5-4">Albert Einstein</réponse>
+      <anecdote>El trabajo de Einstein desafió los axiomas de Euclides y las leyes de la mecánica celeste de Galileo y Newton.</anecdote>
+    </contenu>
+    <contenu id="6">
+      <question>¿En qué sistema operativo de computadora se implementó el algoritmo de encriptación de Enigma ?</question>
+      <propositions>
+        <proposition id="6-1">Android</proposition>
+        <proposition id="6-2">Windows</proposition>
+        <proposition id="6-3">UNIX</proposition>
+        <proposition id="6-4">Mac OS</proposition>
+      </propositions>
+      <réponse proposition="6-3">UNIX</réponse>
+      <anecdote>Este comando integrado fue utilizado por laboratorios civiles y militares que creían proteger sus comunicaciones.</anecdote>
+    </contenu>
+    <contenu id="7">
+      <question>¿Cuál de estos elementos no forma parte de la máquina de Turing ?</question>
+      <propositions>
+        <proposition id="7-1">Mesa de accion</proposition>
+        <proposition id="7-2">Fuente de alimentación externa</proposition>
+        <proposition id="7-3">Registro Estatal</proposition>
+        <proposition id="7-4">Cinta infinita</proposition>
+      </propositions>
+      <réponse proposition="7-2">Fuente de alimentación externa</réponse>
+      <anecdote>Aunque su nombre de máquina puede llevar a creer lo contrario, una máquina de Turing es un concepto abstracto.</anecdote>
+    </contenu>
+    <contenu id="8">
+      <question>¿Qué máquina electromecánica fue inventada por el alemán Arthur Scherbius ?</question>
+      <propositions>
+        <proposition id="8-1">Enigma</proposition>
+        <proposition id="8-2">Coloso</proposition>
+        <proposition id="8-3">Azul profundo</proposition>
+        <proposition id="8-4">ACE</proposition>
+      </propositions>
+      <réponse proposition="8-1">Enigma</réponse>
+      <anecdote>El enigma fue utilizado principalmente por los alemanes (Die Chiffriermaschine Enigma) durante la Segunda Guerra Mundial.</anecdote>
+    </contenu>
+    <contenu id="9">
+      <question>¿Cuál de estos lenguajes de computadora no es Turing-completo ?</question>
+      <propositions>
+        <proposition id="9-1">SQL</proposition>
+        <proposition id="9-2">Python</proposition>
+        <proposition id="9-3">Java</proposition>
+        <proposition id="9-4">C</proposition>
+      </propositions>
+      <réponse proposition="9-1">SQL</réponse>
+      <anecdote>Se dice que un lenguaje completo de Turing representa todas las funciones computables en el sentido de Turing e Iglesia.</anecdote>
+    </contenu>
+    <contenu id="10">
+      <question>¿Qué supercomputadora fue la primera en vencer a un campeón mundial de ajedrez ?</question>
+      <propositions>
+        <proposition id="10-1">Sequoia</proposition>
+        <proposition id="10-2">Myrinet</proposition>
+        <proposition id="10-3">GENCI</proposition>
+        <proposition id="10-4">Azul profundo</proposition>
+      </propositions>
+      <réponse proposition="10-4">Azul profundo</réponse>
+      <anecdote>La inteligencia artificial comienza en la década de 1950 con el trabajo de Alan Turing, quien se pregunta si una máquina puede pensar.</anecdote>
+    </contenu>
+  </débutant>
+  <confirmé>
+    <contenu id="11">
+      <question>¿Qué sentido tiene imitar a una máquina que realiza la prueba de Turing ?</question>
+      <propositions>
+        <proposition id="11-1">Conversación</proposition>
+        <proposition id="11-2">Movimiento</proposition>
+        <proposition id="11-3">Dibujo</proposition>
+        <proposition id="11-4">Silueta</proposition>
+      </propositions>
+      <réponse proposition="11-1">Conversación</réponse>
+      <anecdote>La prueba de Turing es una propuesta de prueba de inteligencia artificial basada en la capacidad de una máquina para imitar la conversación humana.</anecdote>
+    </contenu>
+    <contenu id="12">
+      <question>¿Cuál es la teoría de Turing sobre la definición de la noción de cálculo ?</question>
+      <propositions>
+        <proposition id="12-1">Tesis de la iglesia</proposition>
+        <proposition id="12-2">Tesis de danz</proposition>
+        <proposition id="12-3">Tesis de Welchman</proposition>
+        <proposition id="12-4">Tesis de Schwartz</proposition>
+      </propositions>
+      <réponse proposition="12-1">Tesis de la iglesia</réponse>
+      <anecdote>En su forma física, afirma que el concepto físico de la capacidad de cálculo se expresa mediante un conjunto de reglas de cálculo.</anecdote>
+    </contenu>
+    <contenu id="13">
+      <question>¿Por qué se demandó a Alan Turing en 1952 ?</question>
+      <propositions>
+        <proposition id="13-1">Su conocimiento</proposition>
+        <proposition id="13-2">Su dinero</proposition>
+        <proposition id="13-3">Su religion</proposition>
+        <proposition id="13-4">Su homosexualidad</proposition>
+      </propositions>
+      <réponse proposition="13-4">Su homosexualidad</réponse>
+      <anecdote>Para evitar la prisión después de una noticia relacionada con su homosexualidad, Alan Turing eligió la castración química tomando estrógenos.</anecdote>
+    </contenu>
+    <contenu id="14">
+      <question>¿Cómo fue encontrado muerto Alan Turing en su casa de Manchester ?</question>
+      <propositions>
+        <proposition id="14-1">Envenenado</proposition>
+        <proposition id="14-2">Colgado</proposition>
+        <proposition id="14-3">Apuñalado</proposition>
+        <proposition id="14-4">Sumergido</proposition>
+      </propositions>
+      <réponse proposition="14-1">Envenenado</réponse>
+      <anecdote>En 1954, con solo 41 años de edad, Alan Turing fue encontrado en su habitación, murió de envenenamiento por cianuro.</anecdote>
+    </contenu>
+    <contenu id="15">
+      <question>¿Qué francoamericano hizo la película franco-británica de 1982 'Enigma' ?</question>
+      <propositions>
+        <proposition id="15-1">Olias barco</proposition>
+        <proposition id="15-2">Didier caron</proposition>
+        <proposition id="15-3">Alexandre aja</proposition>
+        <proposition id="15-4">Jeannot szwarc</proposition>
+      </propositions>
+      <réponse proposition="15-4">Jeannot szwarc</réponse>
+      <anecdote>La película 'Enigma' presenta un hermoso póster con, entre otros, Martin Sheen, Brigitte Fossey, Sam Neill y Michael Lonsdale.</anecdote>
+    </contenu>
+    <contenu id="16">
+      <question>¿Quién publicó la novela 'Obvious Indecency' sobre la vida de Turing ?</question>
+      <propositions>
+        <proposition id="16-1">Björn Larsson</proposition>
+        <proposition id="16-2">Ulf Durling</proposition>
+        <proposition id="16-3">Patrick Boman</proposition>
+        <proposition id="16-4">David lagercrantz</proposition>
+      </propositions>
+      <réponse proposition="16-4">David lagercrantz</réponse>
+      <anecdote>Lagercrantz es conocido por escribir una biografía de Zlatan Ibrahimovic, así como la novela policíaca 'Lo que no me mata'.</anecdote>
+    </contenu>
+    <contenu id="17">
+      <question>¿En qué ciudad nació Alan Turing el 23 de junio de 1912 ?</question>
+      <propositions>
+        <proposition id="17-1">Sydney</proposition>
+        <proposition id="17-2">Londres</proposition>
+        <proposition id="17-3">Estocolmo</proposition>
+        <proposition id="17-4">Bruselas</proposition>
+      </propositions>
+      <réponse proposition="17-2">Londres</réponse>
+      <anecdote>Nació del oficial de la administración colonial Julius Mathison Turing y su esposa Ethel Sarah Turing (nacido Stoney).</anecdote>
+    </contenu>
+    <contenu id="18">
+      <question>Muy joven, ¿cuánto tiempo aprendió a leer Alan Turing solo ?</question>
+      <propositions>
+        <proposition id="18-1">3 semanas</proposition>
+        <proposition id="18-2">2 meses</proposition>
+        <proposition id="18-3">6 dias</proposition>
+        <proposition id="18-4">1 año</proposition>
+      </propositions>
+      <réponse proposition="18-1">3 semanas</réponse>
+      <anecdote>Al principio, el joven Turing mostró signos de su genio, así como una afinidad temprana con los números y la resolución de acertijos.</anecdote>
+    </contenu>
+    <contenu id="19">
+      <question>¿En qué sitio de descifrado del Reino Unido funcionaron Turing y Knox ?</question>
+      <propositions>
+        <proposition id="19-1">Base 23</proposition>
+        <proposition id="19-2">Pueblo agradecido</proposition>
+        <proposition id="19-3">Bletchley Park</proposition>
+        <proposition id="19-4">Campo de guerra</proposition>
+      </propositions>
+      <réponse proposition="19-3">Bletchley Park</réponse>
+      <anecdote>Bletchley Park albergó una estación de intercepción de radio secreta y una estación de transmisión durante la Segunda Guerra Mundial.</anecdote>
+    </contenu>
+    <contenu id="20">
+      <question>¿Qué edificio prefabricado fue asignado a Turing Enigma naval ?</question>
+      <propositions>
+        <proposition id="20-1">Área 51</proposition>
+        <proposition id="20-2">Zorro 34</proposition>
+        <proposition id="20-3">Choza 8</proposition>
+        <proposition id="20-4">Delta 6</proposition>
+      </propositions>
+      <réponse proposition="20-3">Choza 8</réponse>
+      <anecdote>Alan Turing dirá que 'he tratado este problema porque nadie más se ocupaba de él y podría tenerlo solo para mí mismo'.</anecdote>
+    </contenu>
+  </confirmé>
+  <expert>
+    <contenu id="21">
+      <question>¿Desde qué año se otorga anualmente el Premio Turing ?</question>
+      <propositions>
+        <proposition id="21-1">1986</proposition>
+        <proposition id="21-2">1976</proposition>
+        <proposition id="21-3">1996</proposition>
+        <proposition id="21-4">1966</proposition>
+      </propositions>
+      <réponse proposition="21-4">1966</réponse>
+      <anecdote>El premio se otorga a las personas que hayan realizado una contribución científica significativa en el campo de la investigación con computadoras.</anecdote>
+    </contenu>
+    <contenu id="22">
+      <question>¿Cuál fue el precio aproximado (en euros) del Enigma-A, lanzado en 1923 ?</question>
+      <propositions>
+        <proposition id="22-1">30 000 euros</proposition>
+        <proposition id="22-2">70 000 euros</proposition>
+        <proposition id="22-3">50 000 euros</proposition>
+        <proposition id="22-4">90 000 euros</proposition>
+      </propositions>
+      <réponse proposition="22-1">30 000 euros</réponse>
+      <anecdote>Finalmente, es el Enigma-D el que se convertirá en el modelo más extendido después de su adopción por parte de la Armada alemana en 1926.</anecdote>
+    </contenu>
+    <contenu id="23">
+      <question>¿Qué máquina de codificación de voz fue hecha por Alan Turing ?</question>
+      <propositions>
+        <proposition id="23-1">Delilah</proposition>
+        <proposition id="23-2">Frontera</proposition>
+        <proposition id="23-3">Enigma</proposition>
+        <proposition id="23-4">Kaneda</proposition>
+      </propositions>
+      <réponse proposition="23-1">Delilah</réponse>
+      <anecdote>Turing descubrió en 1943 el progreso de las tecnologías electrónicas al iniciar una misión de criptoanalista.</anecdote>
+    </contenu>
+    <contenu id="24">
+      <question>¿En qué modelos estará interesado Alan Turing al final de su vida ?</question>
+      <propositions>
+        <proposition id="24-1">Endurogenesis</proposition>
+        <proposition id="24-2">Biogenesis</proposition>
+        <proposition id="24-3">Morfogenesis</proposition>
+        <proposition id="24-4">Termogénesis</proposition>
+      </propositions>
+      <réponse proposition="24-3">Morfogenesis</réponse>
+      <anecdote>La morfogénesis es el conjunto de leyes que determinan la forma, estructura de los tejidos, órganos y organismos.</anecdote>
+    </contenu>
+    <contenu id="25">
+      <question>¿En qué año la reina Isabel II agració a Turing póstumamente ?</question>
+      <propositions>
+        <proposition id="25-1">2013</proposition>
+        <proposition id="25-2">1993</proposition>
+        <proposition id="25-3">2003</proposition>
+        <proposition id="25-4">1983</proposition>
+      </propositions>
+      <réponse proposition="25-1">2013</réponse>
+      <anecdote>Tras el desciframiento de la máquina Enigma, Alan Turing solo será reconocido como un héroe de guerra 55 años después de su muerte.</anecdote>
+    </contenu>
+    <contenu id="26">
+      <question>¿Cuántas páginas contiene el manuscrito de Turing vendido en 2015 ?</question>
+      <propositions>
+        <proposition id="26-1">247</proposition>
+        <proposition id="26-2">398</proposition>
+        <proposition id="26-3">132</proposition>
+        <proposition id="26-4">56</proposition>
+      </propositions>
+      <réponse proposition="26-4">56</réponse>
+      <anecdote>Alan Turing había publicado sus artículos, incluidos algunos pensamientos sobre la notación de Leibniz al matemático Robin Gandy.</anecdote>
+    </contenu>
+    <contenu id="27">
+      <question>¿Qué matemático de Cambridge ayudó a mejorar la bomba de Turing ?</question>
+      <propositions>
+        <proposition id="27-1">John Herivel</proposition>
+        <proposition id="27-2">Hugh Foss</proposition>
+        <proposition id="27-3">Gordon welchman</proposition>
+        <proposition id="27-4">Harry Hinsley</proposition>
+      </propositions>
+      <réponse proposition="27-3">Gordon welchman</réponse>
+      <anecdote>Una vez fabricada, la bomba se convirtió en la herramienta fundamental más automatizada para los ataques de mensajes cifrados de Enigma.</anecdote>
+    </contenu>
+    <contenu id="28">
+      <question>¿Cuál es el primer proyecto detallado de una computadora hecha por Turing ?</question>
+      <propositions>
+        <proposition id="28-1">RAR</proposition>
+        <proposition id="28-2">KDE</proposition>
+        <proposition id="28-3">ACE</proposition>
+        <proposition id="28-4">PGA</proposition>
+      </propositions>
+      <réponse proposition="28-3">ACE</réponse>
+      <anecdote>Sin embargo, Turing no podrá llevarse bien con los ingenieros electrónicos de NPL encargados de construir esta máquina.</anecdote>
+    </contenu>
+    <contenu id="29">
+      <question>¿Qué máquina ayudó a Turing a diseñar una computadora ?</question>
+      <propositions>
+        <proposition id="29-1">Coloso</proposition>
+        <proposition id="29-2">Megalox</proposition>
+        <proposition id="29-3">Mastodonth</proposition>
+        <proposition id="29-4">Gigantesco</proposition>
+      </propositions>
+      <réponse proposition="29-1">Coloso</réponse>
+      <anecdote>Construido en once meses, Colossus consistió en 1,500 y 2,400 tubos de vacío y produjo 5,000 operaciones por segundo.</anecdote>
+    </contenu>
+    <contenu id="30">
+      <question>¿Quién fue el director de Hut 8 en ausencia de Alan Turing ?</question>
+      <propositions>
+        <proposition id="30-1">Stuart Conquest</proposition>
+        <proposition id="30-2">William Potter</proposition>
+        <proposition id="30-3">Raymond Keene</proposition>
+        <proposition id="30-4">Hugh Alexander</proposition>
+      </propositions>
+      <réponse proposition="30-4">Hugh Alexander</réponse>
+      <anecdote>Después de la Segunda Guerra Mundial, Hugh Alexander fue durante veinte años el jefe de la sección H (criptoanálisis) del GCHQ.</anecdote>
+    </contenu>
+  </expert>
+  </es>
+  <it>
+  <débutant>
+    <contenu id="1">
+      <question>Quale macchina ha fatto crittografare Alan Turing durante la seconda guerra mondiale ?</question>
+      <propositions>
+        <proposition id="1-1">ENIAC</proposition>
+        <proposition id="1-2">Enigma</proposition>
+        <proposition id="1-3">Deep Blue</proposition>
+        <proposition id="1-4">Delilah</proposition>
+      </propositions>
+      <réponse proposition="1-2">Enigma</réponse>
+      <anecdote>Enigma è una macchina elettromeccanica portatile utilizzata per la crittografia e la crittografia delle informazioni.</anecdote>
+    </contenu>
+    <contenu id="2">
+      <question>Che esperimento di pensiero ha presentato Alan Turing nel 1936 ?</question>
+      <propositions>
+        <proposition id="2-1">Parata di Turing</proposition>
+        <proposition id="2-2">Arcate di Turing</proposition>
+        <proposition id="2-3">Cerchio di Turing</proposition>
+        <proposition id="2-4">Macchina di Turing</proposition>
+      </propositions>
+      <réponse proposition="2-4">Macchina di Turing</réponse>
+      <anecdote>Questi esperimenti mentali avranno senso con la diffusione dei computer nella seconda metà del 20 ° secolo.</anecdote>
+    </contenu>
+    <contenu id="3">
+      <question>Cosa è stato trovato sul comodino di Turing nel giorno della sua morte ?</question>
+      <propositions>
+        <proposition id="3-1">Apple</proposition>
+        <proposition id="3-2">Quadrante</proposition>
+        <proposition id="3-3">Chiave</proposition>
+        <proposition id="3-4">Manoscritto</proposition>
+      </propositions>
+      <réponse proposition="3-1">Apple</réponse>
+      <anecdote>L'autopsia del corpo si conclude suicida per avvelenamento da cianuro, anche se sua madre ha cercato di sopprimere questa tesi.</anecdote>
+    </contenu>
+    <contenu id="4">
+      <question>Quale programma di Turing scrisse nel maggio del 1952 per realizzare il suo famoso test ?</question>
+      <propositions>
+        <proposition id="4-1">OXO</proposition>
+        <proposition id="4-2">Gioco di scacchi</proposition>
+        <proposition id="4-3">Gioco d'oca</proposition>
+        <proposition id="4-4">Signore</proposition>
+      </propositions>
+      <réponse proposition="4-2">Gioco di scacchi</réponse>
+      <anecdote>Non avendo un computer abbastanza potente per eseguirlo, Alan Turing simulava i calcoli della macchina.</anecdote>
+    </contenu>
+    <contenu id="5">
+      <question>Il lavoro di quel fisico fu ispirato da Alan Turing nel 1928 ?</question>
+      <propositions>
+        <proposition id="5-1">Albert Einstein</proposition>
+        <proposition id="5-2">Lev Landau</proposition>
+        <proposition id="5-3">Arthur Compton</proposition>
+        <proposition id="5-4">Werner Heisenberg</proposition>
+      </propositions>
+      <réponse proposition="5-1">Albert Einstein</réponse>
+      <anecdote>Il lavoro di Einstein sfidava gli assiomi di Euclide e le leggi della meccanica celeste di Galileo e Newton.</anecdote>
+    </contenu>
+    <contenu id="6">
+      <question>In quale sistema operativo per computer è stato implementato l'algoritmo di crittografia Enigma ?</question>
+      <propositions>
+        <proposition id="6-1">Windows</proposition>
+        <proposition id="6-2">UNIX</proposition>
+        <proposition id="6-3">Android</proposition>
+        <proposition id="6-4">Mac OS</proposition>
+      </propositions>
+      <réponse proposition="6-2">UNIX</réponse>
+      <anecdote>Questo comando integrato era usato da laboratori civili e militari che credevano di proteggere le loro comunicazioni.</anecdote>
+    </contenu>
+    <contenu id="7">
+      <question>Quale di questi elementi non fa parte della macchina di Turing ?</question>
+      <propositions>
+        <proposition id="7-1">Nastro infinito</proposition>
+        <proposition id="7-2">Alimentazione esterna</proposition>
+        <proposition id="7-3">Tabella delle azioni</proposition>
+        <proposition id="7-4">Registro di Stato</proposition>
+      </propositions>
+      <réponse proposition="7-2">Alimentazione esterna</réponse>
+      <anecdote>Sebbene il nome della sua macchina possa far credere diversamente, una macchina di Turing è un concetto astratto.</anecdote>
+    </contenu>
+    <contenu id="8">
+      <question>Quale macchina elettromeccanica è stata inventata dal tedesco Arthur Scherbius ?</question>
+      <propositions>
+        <proposition id="8-1">Colosso</proposition>
+        <proposition id="8-2">Deep Blue</proposition>
+        <proposition id="8-3">Enigma</proposition>
+        <proposition id="8-4">ACE</proposition>
+      </propositions>
+      <réponse proposition="8-3">Enigma</réponse>
+      <anecdote>L'enigma fu usato principalmente dai tedeschi (Die Chiffriermaschine Enigma) durante la seconda guerra mondiale.</anecdote>
+    </contenu>
+    <contenu id="9">
+      <question>Quale di queste lingue informatiche non è completa con Turing ?</question>
+      <propositions>
+        <proposition id="9-1">C</proposition>
+        <proposition id="9-2">SQL</proposition>
+        <proposition id="9-3">Python</proposition>
+        <proposition id="9-4">Java</proposition>
+      </propositions>
+      <réponse proposition="9-2">SQL</réponse>
+      <anecdote>Si dice che un linguaggio completo di Turing rappresenti tutte le funzioni computabili nel senso di Turing e Church.</anecdote>
+    </contenu>
+    <contenu id="10">
+      <question>Quale supercomputer è stato il primo a battere un campione del mondo di scacchi ?</question>
+      <propositions>
+        <proposition id="10-1">Deep Blue</proposition>
+        <proposition id="10-2">Mirinet</proposition>
+        <proposition id="10-3">Sequoia</proposition>
+        <proposition id="10-4">GENCI</proposition>
+      </propositions>
+      <réponse proposition="10-1">Deep Blue</réponse>
+      <anecdote>L'Intelligenza Artificiale inizia negli anni '50 con il lavoro di Alan Turing, che si chiede se una macchina possa pensare.</anecdote>
+    </contenu>
+  </débutant>
+  <confirmé>
+    <contenu id="11">
+      <question>Che cosa ha senso imitare una macchina che fa il test di Turing ?</question>
+      <propositions>
+        <proposition id="11-1">Disegno</proposition>
+        <proposition id="11-2">Silhouette</proposition>
+        <proposition id="11-3">Conversazione</proposition>
+        <proposition id="11-4">Movimento</proposition>
+      </propositions>
+      <réponse proposition="11-3">Conversazione</réponse>
+      <anecdote>Il test di Turing è una proposta di test di intelligenza artificiale basata sulla capacità di una macchina di imitare la conversazione umana.</anecdote>
+    </contenu>
+    <contenu id="12">
+      <question>Qual è la teoria di Turing sulla definizione della nozione di calcolabilità ?</question>
+      <propositions>
+        <proposition id="12-1">La tesi di Welchman</proposition>
+        <proposition id="12-2">La tesi di Schwartz</proposition>
+        <proposition id="12-3">Tesi di Chiesa</proposition>
+        <proposition id="12-4">Tesi di Danz</proposition>
+      </propositions>
+      <réponse proposition="12-3">Tesi di Chiesa</réponse>
+      <anecdote>Nella sua forma fisica, afferma che il concetto fisico di calcolabilità è espresso da un insieme di regole di calcolo.</anecdote>
+    </contenu>
+    <contenu id="13">
+      <question>Perché Alan Turing ha fatto causa nel 1952 ?</question>
+      <propositions>
+        <proposition id="13-1">La sua religione</proposition>
+        <proposition id="13-2">I suoi soldi</proposition>
+        <proposition id="13-3">La sua omosessualità</proposition>
+        <proposition id="13-4">La sua conoscenza</proposition>
+      </propositions>
+      <réponse proposition="13-3">La sua omosessualità</réponse>
+      <anecdote>Per evitare la prigione a seguito di una notizia legata alla sua omosessualità, Alan Turing ha scelto la castrazione chimica prendendo gli estrogeni.</anecdote>
+    </contenu>
+    <contenu id="14">
+      <question>Come è stato trovato Alan Turing morto nella sua casa di Manchester ?</question>
+      <propositions>
+        <proposition id="14-1">Immerso</proposition>
+        <proposition id="14-2">Avvelenato</proposition>
+        <proposition id="14-3">Hung</proposition>
+        <proposition id="14-4">Pugnalato</proposition>
+      </propositions>
+      <réponse proposition="14-2">Avvelenato</réponse>
+      <anecdote>Nel 1954, a soli 41 anni, Alan Turing fu ritrovato nella sua stanza, morto per avvelenamento da cianuro.</anecdote>
+    </contenu>
+    <contenu id="15">
+      <question>Quale franco-americano ha realizzato il film franco-britannico del 1982 'Enigma' ?</question>
+      <propositions>
+        <proposition id="15-1">Jeannot Szwarc</proposition>
+        <proposition id="15-2">Olias Barco</proposition>
+        <proposition id="15-3">Didier Caron</proposition>
+        <proposition id="15-4">Alexandre Aja</proposition>
+      </propositions>
+      <réponse proposition="15-1">Jeannot Szwarc</réponse>
+      <anecdote>Il film 'Enigma' presenta un bellissimo poster con, tra gli altri, Martin Sheen, Brigitte Fossey, Sam Neill e Michael Lonsdale.</anecdote>
+    </contenu>
+    <contenu id="16">
+      <question>Chi ha pubblicato il romanzo 'Ovvio Indecenza' sulla vita di Turing ?</question>
+      <propositions>
+        <proposition id="16-1">Patrick Boman</proposition>
+        <proposition id="16-2">Ulf Durling</proposition>
+        <proposition id="16-3">Björn Larsson</proposition>
+        <proposition id="16-4">David Lagercrantz</proposition>
+      </propositions>
+      <réponse proposition="16-4">David Lagercrantz</réponse>
+      <anecdote>Lagercrantz è noto per aver scritto una biografia di Zlatan Ibrahimovic e il romanzo poliziesco 'What not not kill me'.</anecdote>
+    </contenu>
+    <contenu id="17">
+      <question>In quale città era Alan Turing, nato il 23 giugno 1912 ?</question>
+      <propositions>
+        <proposition id="17-1">Bruxelles</proposition>
+        <proposition id="17-2">Stoccolma</proposition>
+        <proposition id="17-3">Londra</proposition>
+        <proposition id="17-4">Sydney</proposition>
+      </propositions>
+      <réponse proposition="17-3">Londra</réponse>
+      <anecdote>Era nato per l'ufficiale dell'amministrazione coloniale Julius Mathison Turing e sua moglie Ethel Sarah Turing (nata Stoney).</anecdote>
+    </contenu>
+    <contenu id="18">
+      <question>Molto giovane, per quanto tempo Alan Turing ha imparato a leggere da solo ?</question>
+      <propositions>
+        <proposition id="18-1">2 mesi</proposition>
+        <proposition id="18-2">6 giorni</proposition>
+        <proposition id="18-3">3 settimane</proposition>
+        <proposition id="18-4">1 anno</proposition>
+      </propositions>
+      <réponse proposition="18-3">3 settimane</réponse>
+      <anecdote>All'inizio, il giovane Turing mostrò segni del suo genio e una prima affinità per i numeri e la risoluzione dell'enigma.</anecdote>
+    </contenu>
+    <contenu id="19">
+      <question>In quale sito di decifrazione del Regno Unito hanno lavorato Turing e Knox ?</question>
+      <propositions>
+        <proposition id="19-1">Bletchley Park</proposition>
+        <proposition id="19-2">Campo di nave da guerra</proposition>
+        <proposition id="19-3">Base 23</proposition>
+        <proposition id="19-4">Villaggio grato</proposition>
+      </propositions>
+      <réponse proposition="19-1">Bletchley Park</réponse>
+      <anecdote>Bletchley Park ha ospitato una stazione di intercettazione radio segreta e una stazione di trasmissione durante la seconda guerra mondiale.</anecdote>
+    </contenu>
+    <contenu id="20">
+      <question>Quale edificio prefabbricato Turing è stato assegnato all'Enigma Navale ?</question>
+      <propositions>
+        <proposition id="20-1">Fox 34</proposition>
+        <proposition id="20-2">Area 51</proposition>
+        <proposition id="20-3">Capanna 8</proposition>
+        <proposition id="20-4">Delta 6</proposition>
+      </propositions>
+      <réponse proposition="20-3">Capanna 8</réponse>
+      <anecdote>Alan Turing dirà : 'Ho trattato questo problema perché nessun altro si stava prendendo cura di esso e potevo farlo da solo'.</anecdote>
+    </contenu>
+  </confirmé>
+  <expert>
+    <contenu id="21">
+      <question>Da quale anno è stato assegnato annualmente il Premio Turing ?</question>
+      <propositions>
+        <proposition id="21-1">1966</proposition>
+        <proposition id="21-2">1996</proposition>
+        <proposition id="21-3">1986</proposition>
+        <proposition id="21-4">1976</proposition>
+      </propositions>
+      <réponse proposition="21-1">1966</réponse>
+      <anecdote>Il premio è assegnato a persone che hanno dato un contributo scientifico significativo nel campo della ricerca sui computer.</anecdote>
+    </contenu>
+    <contenu id="22">
+      <question>Qual era il prezzo approssimativo (in euro) dell'Enigma-A, pubblicato nel 1923 ?</question>
+      <propositions>
+        <proposition id="22-1">50 000 euro</proposition>
+        <proposition id="22-2">30 000 euro</proposition>
+        <proposition id="22-3">90 000 euro</proposition>
+        <proposition id="22-4">70 000 euro</proposition>
+      </propositions>
+      <réponse proposition="22-2">30 000 euro</réponse>
+      <anecdote>È infine l'Enigma-D che diventerà il modello più diffuso dopo la sua adozione da parte della Marina tedesca nel 1926.</anecdote>
+    </contenu>
+    <contenu id="23">
+      <question>Quale codificatore vocale è stata creata da Alan Turing ?</question>
+      <propositions>
+        <proposition id="23-1">Kaneda</proposition>
+        <proposition id="23-2">Frontera</proposition>
+        <proposition id="23-3">Delilah</proposition>
+        <proposition id="23-4">Enigma</proposition>
+      </propositions>
+      <réponse proposition="23-3">Delilah</réponse>
+      <anecdote>Turing scoprì nel 1943 il progresso delle tecnologie elettroniche avviando una missione di crittanalista.</anecdote>
+    </contenu>
+    <contenu id="24">
+      <question>A quali modelli sarà interessato Alan Turing alla fine della sua vita ?</question>
+      <propositions>
+        <proposition id="24-1">Endurogenesi</proposition>
+        <proposition id="24-2">Morfogenesi</proposition>
+        <proposition id="24-3">Termogenesi</proposition>
+        <proposition id="24-4">Biogenesi</proposition>
+      </propositions>
+      <réponse proposition="24-2">Morfogenesi</réponse>
+      <anecdote>La morfogenesi è l'insieme di leggi che determinano la forma, la struttura dei tessuti, degli organi e degli organismi.</anecdote>
+    </contenu>
+    <contenu id="25">
+      <question>In quale anno la regina Elisabetta II concesse a Turing postumo ?</question>
+      <propositions>
+        <proposition id="25-1">2003</proposition>
+        <proposition id="25-2">2013</proposition>
+        <proposition id="25-3">1983</proposition>
+        <proposition id="25-4">1993</proposition>
+      </propositions>
+      <réponse proposition="25-2">2013</réponse>
+      <anecdote>Dopo la decifrazione della macchina Enigma, Alan Turing sarà riconosciuto come eroe di guerra solo 55 anni dopo la sua morte.</anecdote>
+    </contenu>
+    <contenu id="26">
+      <question>Quante pagine contiene il manoscritto di Turing venduto nel 2015 ?</question>
+      <propositions>
+        <proposition id="26-1">398</proposition>
+        <proposition id="26-2">132</proposition>
+        <proposition id="26-3">56</proposition>
+        <proposition id="26-4">247</proposition>
+      </propositions>
+      <réponse proposition="26-3">56</réponse>
+      <anecdote>Alan Turing aveva pubblicato i suoi articoli, tra cui alcuni pensieri sulla notazione di Leibniz al matematico Robin Gandy.</anecdote>
+    </contenu>
+    <contenu id="27">
+      <question>Quale matematico di Cambridge ha contribuito a migliorare la bomba di Turing ?</question>
+      <propositions>
+        <proposition id="27-1">Hugh Foss</proposition>
+        <proposition id="27-2">Harry Hinsley</proposition>
+        <proposition id="27-3">John Herivel</proposition>
+        <proposition id="27-4">Gordon Welchman</proposition>
+      </propositions>
+      <réponse proposition="27-4">Gordon Welchman</réponse>
+      <anecdote>Una volta prodotto, la bomba divenne lo strumento fondamentale più automatizzato per gli attacchi di messaggi crittografati Enigma.</anecdote>
+    </contenu>
+    <contenu id="28">
+      <question>Qual è il primo progetto dettagliato di un computer realizzato da Turing ?</question>
+      <propositions>
+        <proposition id="28-1">ACE</proposition>
+        <proposition id="28-2">PGA</proposition>
+        <proposition id="28-3">RAR</proposition>
+        <proposition id="28-4">KDE</proposition>
+      </propositions>
+      <réponse proposition="28-1">ACE</réponse>
+      <anecdote>Turing, tuttavia, non sarà in grado di andare d'accordo con gli ingegneri elettronici NPL incaricati di costruire questa macchina.</anecdote>
+    </contenu>
+    <contenu id="29">
+      <question>Quale macchina ha aiutato Turing a progettare un computer ?</question>
+      <propositions>
+        <proposition id="29-1">Megalox</proposition>
+        <proposition id="29-2">Colosso</proposition>
+        <proposition id="29-3">Mastodonte</proposition>
+        <proposition id="29-4">Gigante</proposition>
+      </propositions>
+      <réponse proposition="29-2">Colosso</réponse>
+      <anecdote>Costruito in undici mesi, Colossus consisteva di 1.500 e 2.400 tubi a vuoto e fatto 5.000 operazioni al secondo.</anecdote>
+    </contenu>
+    <contenu id="30">
+      <question>Chi era il direttore di Hut 8 in assenza di Alan Turing ?</question>
+      <propositions>
+        <proposition id="30-1">Hugh Alexander</proposition>
+        <proposition id="30-2">William Potter</proposition>
+        <proposition id="30-3">Raymond Keene</proposition>
+        <proposition id="30-4">Stuart Conquest</proposition>
+      </propositions>
+      <réponse proposition="30-1">Hugh Alexander</réponse>
+      <anecdote>Dopo la seconda guerra mondiale, Hugh Alexander fu per vent'anni il capo della sezione H (crittanalisi) del GCHQ.</anecdote>
+    </contenu>
+  </expert>
+  </it>
+  <nl>
+  <débutant>
+    <contenu id="1">
+      <question>Welke machine cryptografeerde Alan Turing tijdens de Tweede Wereldoorlog ?</question>
+      <propositions>
+        <proposition id="1-1">Enigma</proposition>
+        <proposition id="1-2">Deep Blue</proposition>
+        <proposition id="1-3">ENIAC</proposition>
+        <proposition id="1-4">Delilah</proposition>
+      </propositions>
+      <réponse proposition="1-1">Enigma</réponse>
+      <anecdote>Enigma is een draagbare elektromechanische machine die wordt gebruikt voor codering en informatie-encryptie.</anecdote>
+    </contenu>
+    <contenu id="2">
+      <question>Welk gedachte-experiment presenteerde Alan Turing in 1936 ?</question>
+      <propositions>
+        <proposition id="2-1">Turing Parade</proposition>
+        <proposition id="2-2">Turing Arcades</proposition>
+        <proposition id="2-3">Turing Circle</proposition>
+        <proposition id="2-4">Turing machine</proposition>
+      </propositions>
+      <réponse proposition="2-4">Turing machine</réponse>
+      <anecdote>Deze gedachte-experimenten zullen logisch zijn met de verspreiding van computers in de tweede helft van de 20e eeuw.</anecdote>
+    </contenu>
+    <contenu id="3">
+      <question>Wat is er te vinden op Turing's nachtkastje op de dag van zijn overlijden ?</question>
+      <propositions>
+        <proposition id="3-1">Apple</proposition>
+        <proposition id="3-2">Manuscript</proposition>
+        <proposition id="3-3">Kies</proposition>
+        <proposition id="3-4">Sleutel</proposition>
+      </propositions>
+      <réponse proposition="3-1">Apple</réponse>
+      <anecdote>De lijkschouwing van het lichaam eindigt zelfmoord door cyanidevergiftiging, hoewel haar moeder deze proefschrift probeerde te onderdrukken.</anecdote>
+    </contenu>
+    <contenu id="4">
+      <question>Welk Turing-programma schreef hij in mei 1952 om zijn beroemde test te realiseren ?</question>
+      <propositions>
+        <proposition id="4-1">Schaakspel</proposition>
+        <proposition id="4-2">Dames</proposition>
+        <proposition id="4-3">OXO</proposition>
+        <proposition id="4-4">Ganzengans</proposition>
+      </propositions>
+      <réponse proposition="4-1">Schaakspel</réponse>
+      <anecdote>Omdat er geen computer was die krachtig genoeg was om het uit te voeren, simuleerde Alan Turing de berekeningen van de machine.</anecdote>
+    </contenu>
+    <contenu id="5">
+      <question>Welk natuurkundig werk was Alan Turing ge ?nspireerd in 1928 ?</question>
+      <propositions>
+        <proposition id="5-1">Arthur Compton</proposition>
+        <proposition id="5-2">Lev Landau</proposition>
+        <proposition id="5-3">Werner Heisenberg</proposition>
+        <proposition id="5-4">Albert Einstein</proposition>
+      </propositions>
+      <réponse proposition="5-4">Albert Einstein</réponse>
+      <anecdote>Het werk van Einstein daagde de axioma's van Euclid en de wetten van de hemelse mechanica van Galileo en Newton uit.</anecdote>
+    </contenu>
+    <contenu id="6">
+      <question>In welk computerbesturingssysteem is het Enigma-versleutelingsalgoritme geïmplementeerd ?</question>
+      <propositions>
+        <proposition id="6-1">Windows</proposition>
+        <proposition id="6-2">Android</proposition>
+        <proposition id="6-3">Mac OS</proposition>
+        <proposition id="6-4">UNIX</proposition>
+      </propositions>
+      <réponse proposition="6-4">UNIX</réponse>
+      <anecdote>Dit geïntegreerde commando werd gebruikt door civiele en militaire laboratoria die dachten hun communicatie te beschermen.</anecdote>
+    </contenu>
+    <contenu id="7">
+      <question>Welke van deze elementen maakt geen deel uit van de Turing-machine ?</question>
+      <propositions>
+        <proposition id="7-1">Externe voeding</proposition>
+        <proposition id="7-2">Actietabel</proposition>
+        <proposition id="7-3">Staatsregister</proposition>
+        <proposition id="7-4">Oneindig lint</proposition>
+      </propositions>
+      <réponse proposition="7-1">Externe voeding</réponse>
+      <anecdote>Hoewel de naam van de machine anders kan doen geloven, is een Turing-machine een abstract concept.</anecdote>
+    </contenu>
+    <contenu id="8">
+      <question>Welke elektromechanische machine is uitgevonden door de Duitser Arthur Scherbius ?</question>
+      <propositions>
+        <proposition id="8-1">ACE</proposition>
+        <proposition id="8-2">Colossus</proposition>
+        <proposition id="8-3">Enigma</proposition>
+        <proposition id="8-4">Deep Blue</proposition>
+      </propositions>
+      <réponse proposition="8-3">Enigma</réponse>
+      <anecdote>Enigma werd voornamelijk gebruikt door de Duitsers (Die Chiffriermaschine Enigma) tijdens de Tweede Wereldoorlog.</anecdote>
+    </contenu>
+    <contenu id="9">
+      <question>Welke van deze computertalen is niet Turing-compleet ?</question>
+      <propositions>
+        <proposition id="9-1">Python</proposition>
+        <proposition id="9-2">C</proposition>
+        <proposition id="9-3">Java</proposition>
+        <proposition id="9-4">SQL</proposition>
+      </propositions>
+      <réponse proposition="9-4">SQL</réponse>
+      <anecdote>Een Turing-complete taal zou alle berekenbare functies vertegenwoordigen in de zin van Turing en Kerk.</anecdote>
+    </contenu>
+    <contenu id="10">
+      <question>Welke supercomputer was de eerste die een schaakwereldkampioen versloeg ?</question>
+      <propositions>
+        <proposition id="10-1">Sequoia</proposition>
+        <proposition id="10-2">Deep Blue</proposition>
+        <proposition id="10-3">Myrinet</proposition>
+        <proposition id="10-4">GENCI</proposition>
+      </propositions>
+      <réponse proposition="10-2">Deep Blue</réponse>
+      <anecdote>Kunstmatige intelligentie begint in de jaren 1950 met het werk van Alan Turing, die zich afvraagt of een machine kan denken.</anecdote>
+    </contenu>
+  </débutant>
+  <confirmé>
+    <contenu id="11">
+      <question>Wat is logisch om een machine te imiteren die de Turing-test doet ?</question>
+      <propositions>
+        <proposition id="11-1">Silhouet</proposition>
+        <proposition id="11-2">Tekening</proposition>
+        <proposition id="11-3">Beweging</proposition>
+        <proposition id="11-4">Gesprek</proposition>
+      </propositions>
+      <réponse proposition="11-4">Gesprek</réponse>
+      <anecdote>De Turing-test is een KI-testvoorstel op basis van het vermogen van een machine om menselijk gesprek na te bootsen.</anecdote>
+    </contenu>
+    <contenu id="12">
+      <question>Welke these van Turing heeft betrekking op de definitie van het begrip berekenbaarheid ?</question>
+      <propositions>
+        <proposition id="12-1">Schwartz's proefschrift</proposition>
+        <proposition id="12-2">Welchman's proefschrift</proposition>
+        <proposition id="12-3">Church's proefschrift</proposition>
+        <proposition id="12-4">Danz's proefschrift</proposition>
+      </propositions>
+      <réponse proposition="12-3">Church's proefschrift</réponse>
+      <anecdote>In haar fysieke vorm stelt ze dat het fysieke concept van berekenbaarheid wordt uitgedrukt door een reeks rekenregels.</anecdote>
+    </contenu>
+    <contenu id="13">
+      <question>Waarom werd Alan Turing aangeklaagd in 1952 ?</question>
+      <propositions>
+        <proposition id="13-1">Zijn religie</proposition>
+        <proposition id="13-2">Zijn geld</proposition>
+        <proposition id="13-3">Zijn kennis</proposition>
+        <proposition id="13-4">Zijn homoseksualiteit</proposition>
+      </propositions>
+      <réponse proposition="13-4">Zijn homoseksualiteit</réponse>
+      <anecdote>Om de gevangenis te vermijden na een nieuwsbericht met betrekking tot zijn homoseksualiteit, koos Alan Turing voor de chemische castratie door oestrogenen te nemen.</anecdote>
+    </contenu>
+    <contenu id="14">
+      <question>Hoe werd Alan Turing dood gevonden in zijn huis in Manchester ?</question>
+      <propositions>
+        <proposition id="14-1">Stabbed</proposition>
+        <proposition id="14-2">Gedimd</proposition>
+        <proposition id="14-3">Vergiftigd</proposition>
+        <proposition id="14-4">Hung</proposition>
+      </propositions>
+      <réponse proposition="14-3">Vergiftigd</réponse>
+      <anecdote>In 1954, op de leeftijd van slechts 41 jaar, werd Alan Turing gevonden in zijn kamer, stierf aan cyanidevergiftiging.</anecdote>
+    </contenu>
+    <contenu id="15">
+      <question>Welke Franco-Amerikaan maakte de 1982 Franco-Britse film 'Enigma' ?</question>
+      <propositions>
+        <proposition id="15-1">Didier Caron</proposition>
+        <proposition id="15-2">Olias Barco</proposition>
+        <proposition id="15-3">Jeannot Szwarc</proposition>
+        <proposition id="15-4">Alexandre Aja</proposition>
+      </propositions>
+      <réponse proposition="15-3">Jeannot Szwarc</réponse>
+      <anecdote>De film 'Enigma' heeft een prachtige poster met, onder andere, Martin Sheen, Brigitte Fossey, Sam Neill en Michael Lonsdale.</anecdote>
+    </contenu>
+    <contenu id="16">
+      <question>Wie publiceerde de roman 'Duidelijke onverschilligheid' over het leven van Turing ?</question>
+      <propositions>
+        <proposition id="16-1">Patrick Boman</proposition>
+        <proposition id="16-2">David Lagercrantz</proposition>
+        <proposition id="16-3">Björn Larsson</proposition>
+        <proposition id="16-4">Ulf Durling</proposition>
+      </propositions>
+      <réponse proposition="16-2">David Lagercrantz</réponse>
+      <anecdote>Lagercrantz staat bekend om het schrijven van een biografie van Zlatan Ibrahimovic en de detectivroman 'Wat mij niet doodt'.</anecdote>
+    </contenu>
+    <contenu id="17">
+      <question>In welke stad werd Alan Turing geboren op 23 juni 1912 ?</question>
+      <propositions>
+        <proposition id="17-1">Sydney</proposition>
+        <proposition id="17-2">Brussel</proposition>
+        <proposition id="17-3">Londen</proposition>
+        <proposition id="17-4">Stockholm</proposition>
+      </propositions>
+      <réponse proposition="17-3">Londen</réponse>
+      <anecdote>Hij werd geboren in de koloniale administratieofficier Julius Mathison Turing en zijn vrouw Ethel Sarah Turing (geboren Stoney).</anecdote>
+    </contenu>
+    <contenu id="18">
+      <question>Heel jong, hoe lang wist Alan Turing alleen te lezen ?</question>
+      <propositions>
+        <proposition id="18-1">6 dagen</proposition>
+        <proposition id="18-2">3 weken</proposition>
+        <proposition id="18-3">1 jaar</proposition>
+        <proposition id="18-4">2 maanden</proposition>
+      </propositions>
+      <réponse proposition="18-2">3 weken</réponse>
+      <anecdote>Al vroeg toonde de jonge Turing tekenen van zijn genialiteit en een vroege affiniteit met cijfers en raadsels.</anecdote>
+    </contenu>
+    <contenu id="19">
+      <question>Op welke Britse ontcijferingssite werkten Turing en Knox ?</question>
+      <propositions>
+        <proposition id="19-1">Basis 23</proposition>
+        <proposition id="19-2">Bletchley Park</proposition>
+        <proposition id="19-3">Warship Camp</proposition>
+        <proposition id="19-4">Dankbaar dorp</proposition>
+      </propositions>
+      <réponse proposition="19-2">Bletchley Park</réponse>
+      <anecdote>Bletchley Park heeft tijdens de Tweede Wereldoorlog een geheime radio-interceptiestation en een zendstation gehost.</anecdote>
+    </contenu>
+    <contenu id="20">
+      <question>Welk geprefabriceerd gebouw werd Turing toegewezen aan het Naval Enigma ?</question>
+      <propositions>
+        <proposition id="20-1">Fox 34</proposition>
+        <proposition id="20-2">Delta 6</proposition>
+        <proposition id="20-3">Area 51</proposition>
+        <proposition id="20-4">Hut 8</proposition>
+      </propositions>
+      <réponse proposition="20-4">Hut 8</réponse>
+      <anecdote>Alan Turing zal zeggen : 'Ik heb dit probleem behandeld omdat niemand anders ervoor zorgde en ik het alleen voor mezelf kon hebben'.</anecdote>
+    </contenu>
+  </confirmé>
+  <expert>
+    <contenu id="21">
+      <question>Sinds welk jaar wordt de Turing Prijs jaarlijks uitgereikt ?</question>
+      <propositions>
+        <proposition id="21-1">1966</proposition>
+        <proposition id="21-2">1996</proposition>
+        <proposition id="21-3">1986</proposition>
+        <proposition id="21-4">1976</proposition>
+      </propositions>
+      <réponse proposition="21-1">1966</réponse>
+      <anecdote>De prijs wordt toegekend aan personen die een belangrijke wetenschappelijke bijdrage hebben geleverd aan het computeronderzoek.</anecdote>
+    </contenu>
+    <contenu id="22">
+      <question>Wat was de geschatte prijs (in euro's) van de Enigma-A, uitgebracht in 1923 ?</question>
+      <propositions>
+        <proposition id="22-1">90 000 euro</proposition>
+        <proposition id="22-2">70 000 euro</proposition>
+        <proposition id="22-3">50 000 euro</proposition>
+        <proposition id="22-4">30 000 euro</proposition>
+      </propositions>
+      <réponse proposition="22-4">30 000 euro</réponse>
+      <anecdote>Het is tenslotte de Enigma-D die het meest wijdverspreide model zal worden na goedkeuring door de Duitse marine in 1926.</anecdote>
+    </contenu>
+    <contenu id="23">
+      <question>Welke spraakcodeermachine is gemaakt door Alan Turing ?</question>
+      <propositions>
+        <proposition id="23-1">Kaneda</proposition>
+        <proposition id="23-2">Delilah</proposition>
+        <proposition id="23-3">Frontera</proposition>
+        <proposition id="23-4">Enigma</proposition>
+      </propositions>
+      <réponse proposition="23-2">Delilah</réponse>
+      <anecdote>Turing ontdekte in 1943 de vooruitgang van elektronische technologieën door een cryptanalyst-missie te starten.</anecdote>
+    </contenu>
+    <contenu id="24">
+      <question>Op welke modellen is Alan Turing geïnteresseerd aan het einde van zijn leven ?</question>
+      <propositions>
+        <proposition id="24-1">Thermogenese</proposition>
+        <proposition id="24-2">Biogenesis</proposition>
+        <proposition id="24-3">Endurogenese</proposition>
+        <proposition id="24-4">Morphogenesis</proposition>
+      </propositions>
+      <réponse proposition="24-4">Morphogenesis</réponse>
+      <anecdote>Morphogenesis is de verzameling wetten die de vorm, structuur van weefsels, organen en organismen bepalen.</anecdote>
+    </contenu>
+    <contenu id="25">
+      <question>In welk jaar genoot koningin Elizabeth II Turing postuum ?</question>
+      <propositions>
+        <proposition id="25-1">2013</proposition>
+        <proposition id="25-2">2003</proposition>
+        <proposition id="25-3">1983</proposition>
+        <proposition id="25-4">1993</proposition>
+      </propositions>
+      <réponse proposition="25-1">2013</réponse>
+      <anecdote>Na het ontcijferen van de Enigma-machine wordt Alan Turing pas 55 jaar na zijn dood herkend als oorlogsheld.</anecdote>
+    </contenu>
+    <contenu id="26">
+      <question>Hoeveel pagina's bevat het Turing-manuscript verkocht in 2015 ?</question>
+      <propositions>
+        <proposition id="26-1">247</proposition>
+        <proposition id="26-2">398</proposition>
+        <proposition id="26-3">132</proposition>
+        <proposition id="26-4">56</proposition>
+      </propositions>
+      <réponse proposition="26-4">56</réponse>
+      <anecdote>Alan Turing had zijn papieren vrijgegeven, inclusief enkele gedachten over de notatie van Leibniz aan wiskundige Robin Gandy.</anecdote>
+    </contenu>
+    <contenu id="27">
+      <question>Welke Cambridge-wiskundige hielp de Turing-bom te verbeteren ?</question>
+      <propositions>
+        <proposition id="27-1">Hugh Foss</proposition>
+        <proposition id="27-2">Harry Hinsley</proposition>
+        <proposition id="27-3">Gordon Welchman</proposition>
+        <proposition id="27-4">John Herivel</proposition>
+      </propositions>
+      <réponse proposition="27-3">Gordon Welchman</réponse>
+      <anecdote>Eenmaal gefabriceerd, werd de bom de meest geautomatiseerde fundamentele tool voor gecodeerde berichtaanvallen met Enigma.</anecdote>
+    </contenu>
+    <contenu id="28">
+      <question>Wat is het eerste gedetailleerde project van een computer gemaakt door Turing ?</question>
+      <propositions>
+        <proposition id="28-1">RAR</proposition>
+        <proposition id="28-2">ACE</proposition>
+        <proposition id="28-3">KDE</proposition>
+        <proposition id="28-4">PGA</proposition>
+      </propositions>
+      <réponse proposition="28-2">ACE</réponse>
+      <anecdote>Turing kan echter niet overweg met de NPL-elektronica-ingenieurs die belast zijn met het bouwen van deze machine.</anecdote>
+    </contenu>
+    <contenu id="29">
+      <question>Welke machine heeft Turing geholpen bij het ontwerpen van een computer ?</question>
+      <propositions>
+        <proposition id="29-1">Megalox</proposition>
+        <proposition id="29-2">Gigantisch</proposition>
+        <proposition id="29-3">Mastodonth</proposition>
+        <proposition id="29-4">Colossus</proposition>
+      </propositions>
+      <réponse proposition="29-4">Colossus</réponse>
+      <anecdote>Gebouwd in elf maanden, bestond Colossus uit 1.500 en 2.400 vacuümbuizen en maakte 5.000 bewerkingen per seconde.</anecdote>
+    </contenu>
+    <contenu id="30">
+      <question>Wie was directeur van Hut 8 in afwezigheid van Alan Turing ?</question>
+      <propositions>
+        <proposition id="30-1">Hugh Alexander</proposition>
+        <proposition id="30-2">Stuart Conquest</proposition>
+        <proposition id="30-3">William Potter</proposition>
+        <proposition id="30-4">Raymond Keene</proposition>
+      </propositions>
+      <réponse proposition="30-1">Hugh Alexander</réponse>
+      <anecdote>Na de Tweede Wereldoorlog was Hugh Alexander twintig jaar lang hoofd van de H-sectie (cryptanalyse) van de GCHQ.</anecdote>
+    </contenu>
+  </expert>
+  </nl>          
+</quizz>

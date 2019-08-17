@@ -1,0 +1,374 @@
+{
+  "fournisseur": "OpenQuizzDB - Fournisseur de contenu libre (www.openquizzdb.org)",
+  "rédacteur": "Philippe Bresoux",
+  "thème": "Saints",
+  "difficulté": 3,
+  "quizz": {
+    "débutant": [
+      {
+        "id": 1,
+        "question": "Quelle sainte est la mère de la Vierge Marie, elle-même la Mère de Dieu ?",
+        "propositions": [
+          "Jeanne",
+          "Anne",
+          "Marthe",
+          "Odile"
+        ],
+        "réponse": "Anne",
+        "anecdote": "Les Églises catholique et orthodoxe accordent une place essentielle à Marie, qu'elles appellent « Sainte Vierge »."
+      },
+      {
+        "id": 2,
+        "question": "Quelle sainte est la patronne des musiciens ainsi que des brodeuses ?",
+        "propositions": [
+          "Sainte Véronique",
+          "Sainte Agathe",
+          "Sainte Cécile",
+          "Sainte Marguerite"
+        ],
+        "réponse": "Sainte Cécile",
+        "anecdote": "Ayant vécu à Rome, sa légende en fait une vierge qui, mariée de force, continua à respecter son vu de virginité."
+      },
+      {
+        "id": 3,
+        "question": "Quelle sainte lava les pieds de Jésus au cours du banquet chez Simon ?",
+        "propositions": [
+          "Béthanie",
+          "Marthe",
+          "Madeleine",
+          "Béatrice"
+        ],
+        "réponse": "Madeleine",
+        "anecdote": "L'Évangile selon Jean en fait la première personne à avoir vu Jésus après sa Résurrection, chargée d'avertir les apôtres. "
+      },
+      {
+        "id": 4,
+        "question": "Quel est le jour de la Saint-Valentin, devenu une fête laïque au XXe siècle ?",
+        "propositions": [
+          "Le 16 février",
+          "Le 18 février",
+          "Le 12 février",
+          "Le 14 février"
+        ],
+        "réponse": "Le 14 février",
+        "anecdote": "Les couples en profitent pour échanger des mots doux et des cadeaux comme preuves d'amour ainsi que des roses rouges."
+      },
+      {
+        "id": 5,
+        "question": "Par qui a été perpétré le massacre de la Saint-Barthélémy le 24 août 1572 ?",
+        "propositions": [
+          "Les Catholiques",
+          "Les Protestants",
+          "Les Anglicans",
+          "Les Chouans"
+        ],
+        "réponse": "Les Catholiques",
+        "anecdote": "Cet épisode tragique des guerres de religion résulte d'un enchevêtrement complexe de facteurs multiples."
+      },
+      {
+        "id": 6,
+        "question": "Quel saint ne faut-il pas trop honorer quand on surveille sa ligne ?",
+        "propositions": [
+          "Le saint-pierre",
+          "Le saint-germain",
+          "Le saint-charles",
+          "Le saint-honoré"
+        ],
+        "réponse": "Le saint-honoré",
+        "anecdote": "Le saint-honoré, qui porte le nom du patron des boulangers, est constitué de petits choux à la crème, nappés de caramel."
+      },
+      {
+        "id": 7,
+        "question": "Quel saint garde les clefs du salut des âmes et du Paradis ?",
+        "propositions": [
+          "Saint Luc",
+          "Saint Jean",
+          "Saint Pierre",
+          "Saint Thomas"
+        ],
+        "réponse": "Saint Pierre",
+        "anecdote": "Les statues de saint Pierre tenant les clefs du paradis sont toujours présentes dans les églises et cathédrales des diocèses."
+      },
+      {
+        "id": 8,
+        "question": "Sur de nombreux tableaux de maîtres, par quel oiseau le Saint-Esprit est-il symbolisé ?",
+        "propositions": [
+          "Une colombe",
+          "Une pie",
+          "Un merle",
+          "Une grue"
+        ],
+        "réponse": "Une colombe",
+        "anecdote": "Une colombe blanche tenant un rameau d'olivier dans le bec est reconnu dans le monde entier comme un symbole de paix."
+      },
+      {
+        "id": 9,
+        "question": "Quel saint, considéré comme le patron des voyageurs, a porté le Christ sur son dos ?",
+        "propositions": [
+          "Saint Christophe",
+          "Saint Marc",
+          "Saint Pierre",
+          "Saint Luc"
+        ],
+        "réponse": "Saint Christophe",
+        "anecdote": "Autrefois, Christophe de Lycie passait pour mettre à l'abri des maladies quiconque voyait sa statue."
+      },
+      {
+        "id": 10,
+        "question": "Durant quel mois ont lieu les saints de glace, célébrés les 11, 12 et 13 du mois ?",
+        "propositions": [
+          "Le mois de mars",
+          "Le mois de février",
+          "Le mois de juin",
+          "Le mois de mai"
+        ],
+        "réponse": "Le mois de mai",
+        "anecdote": "Chaque année, ces saints sont invoqués par les agriculteurs pour éviter l'effet d'une baisse de la température sur les cultures."
+      }
+    ],
+    "confirmé": [
+      {
+        "id": 11,
+        "question": "Qui était le compagnon de Paul de Tarse, désigné aussi sous le nom de saint Paul ?",
+        "propositions": [
+          "Saint Jean",
+          "Saint Luc",
+          "Saint Marc",
+          "Saint Matthieu"
+        ],
+        "réponse": "Saint Luc",
+        "anecdote": "Sans faire partie des « Douze », Saint Paul a marqué le christianisme par son interprétation de l'enseignement de Jésus."
+      },
+      {
+        "id": 12,
+        "question": "Dans quelle ville est né le moine Saint Émilion qui donna son nom au célèbre vignoble ?",
+        "propositions": [
+          "Saintes",
+          "Vannes",
+          "Nantes",
+          "Bordeaux"
+        ],
+        "réponse": "Vannes",
+        "anecdote": "Devenu moine à Saujon, près de Royan, il fut contraint à la fuite en raison de l'afflux de pèlerins à la suite de ses miracles."
+      },
+      {
+        "id": 13,
+        "question": "Dans le calendrier grégorien, quel mois honore le plus de saints ?",
+        "propositions": [
+          "Avril",
+          "Novembre",
+          "Juillet",
+          "Janvier"
+        ],
+        "réponse": "Novembre",
+        "anecdote": "Le calendrier grégorien, contenant des années bissextiles, est utilisé dans la majeure partie du monde pour les usages civils."
+      },
+      {
+        "id": 14,
+        "question": "Quelle princesse se paya au premier sens du terme la tête de Saint-Jean-Baptiste ?",
+        "propositions": [
+          "Judith",
+          "Salomé",
+          "Magdalène",
+          "Cléopâtre"
+        ],
+        "réponse": "Salomé",
+        "anecdote": "Connue sous le nom de Salomé, elle demanda pour sa mère Hérodiade la tête de Jean Baptiste présentée sur un plateau."
+      },
+      {
+        "id": 15,
+        "question": "Combien de périls attribue-t-on à Saint Patrick, le Saint patron des Irlandais ?",
+        "propositions": [
+          "6",
+          "12",
+          "3",
+          "10"
+        ],
+        "réponse": "12",
+        "anecdote": "Le motif de la souffrance dans les écritures de Patrick, fondateur du christianisme irlandais, encapsule ses « douze périls »."
+      },
+      {
+        "id": 16,
+        "question": "Quel animal se tient très souvent aux côtés de Saint-Roch ?",
+        "propositions": [
+          "Un cochon",
+          "Un chien",
+          "Une chèvre",
+          "Un cheval"
+        ],
+        "réponse": "Un chien",
+        "anecdote": "Dans le langage populaire, pour parler de deux personnes inséparables, on dit : « c'est saint Roch et son chien »."
+      },
+      {
+        "id": 17,
+        "question": "Quel écrivain et journaliste a écrit 'Le camps des Saints' ?",
+        "propositions": [
+          "Pierre Mac-Orlan",
+          "Léon-Paul Fargue",
+          "Jean Raspail",
+          "André Martel"
+        ],
+        "réponse": "Jean Raspail",
+        "anecdote": "Pendant vingt ans, Jean Raspail a couru le monde à la découverte de populations menacées par la confrontation avec la modernité."
+      },
+      {
+        "id": 18,
+        "question": "Quel ouvrage de Jacques de Voragine raconte la vie de 180 saints ?",
+        "propositions": [
+          "La Légende dorée",
+          "Hagiographus",
+          "La Sainte histoire",
+          "Leur vraie vie"
+        ],
+        "réponse": "La Légende dorée",
+        "anecdote": "Très rapidement, la 'Légende dorée' devient avec la 'Bible' l'uvre la plus lue par les adeptes de la religion."
+      },
+      {
+        "id": 19,
+        "question": "Selon Saint Jean, quel est le premier sens du mot « Apocalypse » ?",
+        "propositions": [
+          "Volonté divine",
+          "Révélation",
+          "Nouvelle vie",
+          "Cataclysme"
+        ],
+        "réponse": "Révélation",
+        "anecdote": "L''Apocalypse' ou encore 'Livre de la Révélation' décrit une vision allégorique qui prophétise la fin des Temps."
+      },
+      {
+        "id": 20,
+        "question": "Dans quelle ville belge se déroule la fête de la Saint-Jean ?",
+        "propositions": [
+          "Mons",
+          "Liège",
+          "Namur",
+          "Tournai"
+        ],
+        "réponse": "Mons",
+        "anecdote": "Depuis le 23 juin 1990, une nouvelle fête a repris grâce à un nouveau comité, l'association non lucrative 'Les Feux de saint Jean'."
+      }
+    ],
+    "expert": [
+      {
+        "id": 21,
+        "question": "Quel ordre fondé en 1212 fut réformé par sainte Colette après approbation de Pie II ?",
+        "propositions": [
+          "Les ursulines",
+          "Les chartreuses",
+          "Les carmélites",
+          "Les clarisses"
+        ],
+        "réponse": "Les clarisses",
+        "anecdote": "Colette de Corbie a fixé en quinze chapitres les détails de sa réforme qui avait pour but de rétablir la rigueur primitive."
+      },
+      {
+        "id": 22,
+        "question": "Quand célèbre-t-on la fête nationale du Québec, traditionnellement appelée la Saint-Jean-Baptiste ?",
+        "propositions": [
+          "Le 15 août",
+          "Le 4 juillet",
+          "Le 24 juin",
+          "Le 1<sup>er</sup>  juillet"
+        ],
+        "réponse": "Le 24 juin",
+        "anecdote": "En vertu de la Loi sur la fête nationale, le 24 juin est une journée fériée et chômée par presque tous les québecois."
+      },
+      {
+        "id": 23,
+        "question": "Auteur des 'Dialogues', en quelle année saint Grégoire, dit le Grand, fut-il élu pape ?",
+        "propositions": [
+          "590",
+          "588",
+          "598",
+          "594"
+        ],
+        "réponse": "590",
+        "anecdote": "C'est en l'honneur de Grégoire Ier que, deux siècles après sa mort, le Chant messin est appelé « chant grégorien »."
+      },
+      {
+        "id": 24,
+        "question": "Sous quel nom connaît-on également le « mal de Sainte-Marie » ?",
+        "propositions": [
+          "La gangrène",
+          "La gale",
+          "La dysenterie",
+          "Le ténia"
+        ],
+        "réponse": "La gale",
+        "anecdote": "La gale ou scabiose est une affection contagieuse de la peau, déterminée par une femelle acarien, le sarcopte."
+      },
+      {
+        "id": 25,
+        "question": "Quel était le véritable nom de saint Pierre, aussi appelé Kephas ?",
+        "propositions": [
+          "Jean",
+          "Luc",
+          "Paul",
+          "Simon"
+        ],
+        "réponse": "Simon",
+        "anecdote": "Saint Pierre est souvent représenté en possession de deux clés : l'une en or, céleste, l'autre en argent, terrestre."
+      },
+      {
+        "id": 26,
+        "question": "Quel spécialiste étudie et critique les écritures saintes ?",
+        "propositions": [
+          "Un scoliaste",
+          "Un scribe",
+          "Un écrivailleur",
+          "Un exégète"
+        ],
+        "réponse": "Un exégète",
+        "anecdote": "On pratique l'exégèse comme un travail préalable à lédition sur les travaux de tous les auteurs, anciens comme contemporains."
+      },
+      {
+        "id": 27,
+        "question": "Comment Sainte Barbe, fêtée le 4 décembre, est-elle décédée ?",
+        "propositions": [
+          "Empoisonnée",
+          "Décapitée",
+          "Lapidée",
+          "Crucifiée"
+        ],
+        "réponse": "Décapitée",
+        "anecdote": "Comme la jeune fille refusait d'abjurer sa foi, le gouverneur ordonna au père de trancher lui-même la tête de sa fille."
+      },
+      {
+        "id": 28,
+        "question": "Quel était le nom de famille de sainte Thérèse de Lisieux ?",
+        "propositions": [
+          "Dupont",
+          "Lefebvre",
+          "Martin",
+          "Dubois"
+        ],
+        "réponse": "Martin",
+        "anecdote": "Fille de Louis et Zélie Martin, Thérèse perd sa mère à l'âge de quatre ans et demi et deviendra une religieuse carmélite."
+      },
+      {
+        "id": 29,
+        "question": "Quel saint et mystique espagnol a été béatifié en 1675 et canonisé en 1726 ?",
+        "propositions": [
+          "Rodrigo da Fonseca",
+          "Jean de La Croix",
+          "Pierre Claver",
+          "Innocent Canoura"
+        ],
+        "réponse": "Jean de La Croix",
+        "anecdote": "Après sa mort, il fut très vite considéré comme l'un des plus grands mystiques espagnols, au même titre que Thérèse d'Avila."
+      },
+      {
+        "id": 30,
+        "question": "Quelles couleurs dominent les chapeaux portés pour la Sainte Catherine ?",
+        "propositions": [
+          "Jaune et verte",
+          "Rouge et bleue",
+          "Rose et orange",
+          "Grise et violette"
+        ],
+        "réponse": "Jaune et verte",
+        "anecdote": "Autrefois, les statues de sainte Catherine placées dans les églises étaient ornées d'une coiffe qui était renouvelée chaque année."
+      }
+    ]
+  }
+}

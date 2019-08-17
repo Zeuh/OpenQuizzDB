@@ -1,0 +1,343 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes" ?>
+<quizz fournisseur="OpenQuizzDB : Fournisseur de contenu libre"
+       url="http://www.openquizzdb.org"
+       rédacteur="Philippe Bresoux"
+       thème="Citations littéraires"
+       difficulté="4">
+  <débutant>
+    <contenu id="1">
+      <question>Complétez cette citation de Raymond Queneau : « Il faut de tout pour faire... »</question>
+      <propositions>
+        <proposition id="1-1">Son pain</proposition>
+        <proposition id="1-2">Affaire</proposition>
+        <proposition id="1-3">Rougir</proposition>
+        <proposition id="1-4">Un monde</proposition>
+      </propositions>
+      <réponse proposition="1-4">Un monde</réponse>
+      <anecdote>Raymond Queneau était un lecteur assidu et attentif de l'uvre de René Guénon, qu'il avait découvert en 1921.</anecdote>
+    </contenu>
+    <contenu id="2">
+      <question>Quel poète romantique a écrit : « Un seul être vous manque et tout est dépeuplé » ?</question>
+      <propositions>
+        <proposition id="2-1">Prosper Mérimée</proposition>
+        <proposition id="2-2">Chateaubriand</proposition>
+        <proposition id="2-3">Victor Hugo</proposition>
+        <proposition id="2-4">Lamartine</proposition>
+      </propositions>
+      <réponse proposition="2-4">Lamartine</réponse>
+      <anecdote>Admiré et salué par toute la génération romantique, Lamartine est parfois jugé plus sévèrement par les générations suivantes.</anecdote>
+    </contenu>
+    <contenu id="3">
+      <question>Complétez ces vers de Charles Baudelaire : « Là, tout n'est qu'ordre et beauté, luxe, calme et... »</question>
+      <propositions>
+        <proposition id="3-1">Sensualité</proposition>
+        <proposition id="3-2">Nudité</proposition>
+        <proposition id="3-3">Volupté</proposition>
+        <proposition id="3-4">Tranquillité</proposition>
+      </propositions>
+      <réponse proposition="3-3">Volupté</réponse>
+      <anecdote>Baudelaire détache la poésie de la morale, la proclame tout entière destinée au Beau et non à la Vérité.</anecdote>
+    </contenu>
+    <contenu id="4">
+      <question>Quel écrivain et mathématicien a dit : « Je pense, donc je suis » ?</question>
+      <propositions>
+        <proposition id="4-1">Isaac Newton</proposition>
+        <proposition id="4-2">Nicolaus Mercator</proposition>
+        <proposition id="4-3">Thomas Harriot</proposition>
+        <proposition id="4-4">René Descartes</proposition>
+      </propositions>
+      <réponse proposition="4-4">René Descartes</réponse>
+      <anecdote>Le « cogito » de Descartes fonde ainsi le système des sciences sur le sujet connaissant face au monde qu'il se représente.</anecdote>
+    </contenu>
+    <contenu id="5">
+      <question>Quel poète a dit dans 'Spleen' : « J'ai plus de souvenirs que si j'avais mille ans » ?</question>
+      <propositions>
+        <proposition id="5-1">Jean Giraudoux</proposition>
+        <proposition id="5-2">Arthur Rimbaud</proposition>
+        <proposition id="5-3">Charles Baudelaire</proposition>
+        <proposition id="5-4">Victor Hugo</proposition>
+      </propositions>
+      <réponse proposition="5-3">Charles Baudelaire</réponse>
+      <anecdote>Le spleen baudelairien désigne une profonde tristesse née du mal de vivre, que Charles Baudelaire exprime dans plusieurs poèmes.</anecdote>
+    </contenu>
+    <contenu id="6">
+      <question>Qui a dit à sa femme dans 'Le Petit Poucet' : « Je sens la chair fraîche » ?</question>
+      <propositions>
+        <proposition id="6-1">Le loup</proposition>
+        <proposition id="6-2">Le bûcheron</proposition>
+        <proposition id="6-3">LOgre</proposition>
+        <proposition id="6-4">Le roi</proposition>
+      </propositions>
+      <réponse proposition="6-3">LOgre</réponse>
+      <anecdote>'Le Petit Poucet' est un conte appartenant à la tradition orale, retranscrit et transformé par Charles Perrault en France.</anecdote>
+    </contenu>
+    <contenu id="7">
+      <question>Complétez ces paroles d'Hamlet : « Être ou ne pas être, là est... »</question>
+      <propositions>
+        <proposition id="7-1">Le dilemme</proposition>
+        <proposition id="7-2">La question</proposition>
+        <proposition id="7-3">Le destin</proposition>
+        <proposition id="7-4">La vérité</proposition>
+      </propositions>
+      <réponse proposition="7-2">La question</réponse>
+      <anecdote>'Hamlet' a fait l'objet d'analyses critiques extrêmement nombreuses et variées : thématiques, stylistiques, historiques et psychologiques.</anecdote>
+    </contenu>
+    <contenu id="8">
+      <question>Quel personnage de Molière dit : « Je me sens un cur à aimer toute la terre » ?</question>
+      <propositions>
+        <proposition id="8-1">Gargantua</proposition>
+        <proposition id="8-2">Sganarelle</proposition>
+        <proposition id="8-3">Tartuffe</proposition>
+        <proposition id="8-4">Dom Juan</proposition>
+      </propositions>
+      <réponse proposition="8-4">Dom Juan</réponse>
+      <anecdote>Provocateur impénitent, Dom Juan n'échappera pas à la vengeance du Ciel, qui le châtiera par le bras d'une statue de pierre.</anecdote>
+    </contenu>
+    <contenu id="9">
+      <question>Qu'est-ce que La Fontaine appelle « la machine ronde » ?</question>
+      <propositions>
+        <proposition id="9-1">La royauté</proposition>
+        <proposition id="9-2">Largent</proposition>
+        <proposition id="9-3">La terre</proposition>
+        <proposition id="9-4">La supercherie</proposition>
+      </propositions>
+      <réponse proposition="9-3">La terre</réponse>
+      <anecdote>Ses Fables constituent la principale uvre poétique de la période classique et l'un des chefs-d'uvre de la littérature française.</anecdote>
+    </contenu>
+    <contenu id="10">
+      <question>À qui Cyrano dit-il : « Non, non mon cher amour, je ne vous aimais pas » ?</question>
+      <propositions>
+        <proposition id="10-1">Bellerose</proposition>
+        <proposition id="10-2">Ragueneau</proposition>
+        <proposition id="10-3">Brissaille</proposition>
+        <proposition id="10-4">Roxane</proposition>
+      </propositions>
+      <réponse proposition="10-4">Roxane</réponse>
+      <anecdote>Le succès de la pièce ne s'est jamais démenti, en France (où elle est la pièce la plus jouée) comme à l'étranger.</anecdote>
+    </contenu>
+  </débutant>
+  <confirmé>
+    <contenu id="11">
+      <question>Qui a écrit dans 'Intermezzo' : « L'Humanité est une entreprise surhumaine » ?</question>
+      <propositions>
+        <proposition id="11-1">Jean Cocteau</proposition>
+        <proposition id="11-2">Jean Giraudoux</proposition>
+        <proposition id="11-3">Jean Anouilh</proposition>
+        <proposition id="11-4">Jean Genet</proposition>
+      </propositions>
+      <réponse proposition="11-2">Jean Giraudoux</réponse>
+      <anecdote>'Intermezzo' est une pièce de théâtre en trois actes de Jean Giraudoux, à l'humour décalé, parue en 1933.</anecdote>
+    </contenu>
+    <contenu id="12">
+      <question>À qui Aragon a-t-il écrit : « Ma vie en vérité commence le soir où je t'ai rencontré » ?</question>
+      <propositions>
+        <proposition id="12-1">Agnès Humbert</proposition>
+        <proposition id="12-2">Elsa Triolet</proposition>
+        <proposition id="12-3">Joséphine Baker</proposition>
+        <proposition id="12-4">Rose Guérin</proposition>
+      </propositions>
+      <réponse proposition="12-2">Elsa Triolet</réponse>
+      <anecdote>Ce recueil inaugure le long cycle consacré par l'auteur à sa compagne Elsa Triolet, avec qui il formera un couple mythique.</anecdote>
+    </contenu>
+    <contenu id="13">
+      <question>Dans quelle pièce Sartre a-t-il écrit : « Tous les moyens sont bons quand ils sont efficaces » ?</question>
+      <propositions>
+        <proposition id="13-1">Les Mains sales</proposition>
+        <proposition id="13-2">Les Mouches</proposition>
+        <proposition id="13-3">L'Engrenage</proposition>
+        <proposition id="13-4">Huis clos</proposition>
+      </propositions>
+      <réponse proposition="13-1">Les Mains sales</réponse>
+      <anecdote>Intransigeant et fidèle à ses idées, Jean-Paul Sartre a toujours rejeté tant les honneurs que toute forme de censure.</anecdote>
+    </contenu>
+    <contenu id="14">
+      <question>Quelle héroïne de Zola « la poitrine en avant, saluait avec un fin sourire » ?</question>
+      <propositions>
+        <proposition id="14-1">Nana</proposition>
+        <proposition id="14-2">Anna</proposition>
+        <proposition id="14-3">Elsa</proposition>
+        <proposition id="14-4">Sophia</proposition>
+      </propositions>
+      <réponse proposition="14-1">Nana</réponse>
+      <anecdote>Ses adversaires l'accuseront d'être un écrivain « pornographique » de par son « goût du sordide et du détail cru ».</anecdote>
+    </contenu>
+    <contenu id="15">
+      <question>Complétez cette citation de Lord Byron : « Le meilleur prophète de l'avenir est le... »</question>
+      <propositions>
+        <proposition id="15-1">Destin</proposition>
+        <proposition id="15-2">Pouvoir</proposition>
+        <proposition id="15-3">Passé</proposition>
+        <proposition id="15-4">Mensonge</proposition>
+      </propositions>
+      <réponse proposition="15-3">Passé</réponse>
+      <anecdote>Grand défenseur de la liberté, révolté contre la société de son temps, il s'est engagé dans toutes les luttes contre l'oppression.</anecdote>
+    </contenu>
+    <contenu id="16">
+      <question>Quel héros de Shakespeare dit devant une tombe : « J'aimais Ophélia » ?</question>
+      <propositions>
+        <proposition id="16-1">Claudius</proposition>
+        <proposition id="16-2">Polonius</proposition>
+        <proposition id="16-3">Hamlet</proposition>
+        <proposition id="16-4">Horatio</proposition>
+      </propositions>
+      <réponse proposition="16-3">Hamlet</réponse>
+      <anecdote>À la fin de la tragédie, Hamlet a causé la mort de Polonius, de Laërte, de Claudius et de deux connaissances de Wittenberg.</anecdote>
+    </contenu>
+    <contenu id="17">
+      <question>Complétez cette citation : « L'important n'est pas qu'une histoire soit véritable, mais quelle soit... »</question>
+      <propositions>
+        <proposition id="17-1">Vraie</proposition>
+        <proposition id="17-2">Juste</proposition>
+        <proposition id="17-3">Sensée</proposition>
+        <proposition id="17-4">Plausible</proposition>
+      </propositions>
+      <réponse proposition="17-1">Vraie</réponse>
+      <anecdote>L'ensemble des écrits de Victor Hugo représente un peu moins de quarante millions de caractères réunis en 53 volumes.</anecdote>
+    </contenu>
+    <contenu id="18">
+      <question>Dans quel livre Rabelais a-t-il écrit cette devise : « Fais ce que tu voudras » ?</question>
+      <propositions>
+        <proposition id="18-1">Pantagruel</proposition>
+        <proposition id="18-2">Gargantua</proposition>
+        <proposition id="18-3">Tiers Livre</proposition>
+        <proposition id="18-4">Le Quart Livre</proposition>
+      </propositions>
+      <réponse proposition="18-2">Gargantua</réponse>
+      <anecdote>Ses uvres majeures, comme 'Pantagruel' et 'Gargantua', sont considérées comme une des premières formes du roman moderne.</anecdote>
+    </contenu>
+    <contenu id="19">
+      <question>Qui a écrit : « Si Dieu nous a fait à son image, nous le lui avons bien rendu » ?</question>
+      <propositions>
+        <proposition id="19-1">Voltaire</proposition>
+        <proposition id="19-2">Chateaubriand</proposition>
+        <proposition id="19-3">Napoléon</proposition>
+        <proposition id="19-4">Lamartine</proposition>
+      </propositions>
+      <réponse proposition="19-1">Voltaire</réponse>
+      <anecdote>Son nom est resté attaché à son combat contre le fanatisme religieux, pour la tolérance et la liberté de pensée.</anecdote>
+    </contenu>
+    <contenu id="20">
+      <question>Quel héros de Pagnol dit que « pour gagner de l'argent, il faut bien en prendre à quelqu'un » ?</question>
+      <propositions>
+        <proposition id="20-1">Muche</proposition>
+        <proposition id="20-2">Topaze</proposition>
+        <proposition id="20-3">Tamise</proposition>
+        <proposition id="20-4">Castel-Bénac</proposition>
+      </propositions>
+      <réponse proposition="20-2">Topaze</réponse>
+      <anecdote>'Topaze' est une pièce de théâtre de Marcel Pagnol, représentée pour la première fois à Paris le 9 octobre 1928.</anecdote>
+    </contenu>
+  </confirmé>
+  <expert>
+    <contenu id="21">
+      <question>Qui a dédicacé son livre « à ceux qui nourris de grec et de latin sont morts de faim » ?</question>
+      <propositions>
+        <proposition id="21-1">Gustave Aimard</proposition>
+        <proposition id="21-2">Paul Avenel</proposition>
+        <proposition id="21-3">Jules Vallès</proposition>
+        <proposition id="21-4">Horace Bertin</proposition>
+      </propositions>
+      <réponse proposition="21-3">Jules Vallès</réponse>
+      <anecdote>Plus que le récit de sa vie, c'est la description de l'esprit dans lequel il a vécu, un esprit enthousiaste et naïf, qu'il offre au lecteur.</anecdote>
+    </contenu>
+    <contenu id="22">
+      <question>Complétez cette citation de Victor Hugo : « Quand je vous parle de moi, je vous parle de... »</question>
+      <propositions>
+        <proposition id="22-1">Nous</proposition>
+        <proposition id="22-2">Dieu</proposition>
+        <proposition id="22-3">Vous</proposition>
+        <proposition id="22-4">Vie</proposition>
+      </propositions>
+      <réponse proposition="22-3">Vous</réponse>
+      <anecdote>Ses romans rencontrent un grand succès populaire, avec 'Notre-Dame de Paris' et plus encore avec 'Les Misérables'.</anecdote>
+    </contenu>
+    <contenu id="23">
+      <question>Quel poète du XIXe siècle a écrit : « Ne mattends pas. Ce soir, le nuit sera noire et blanche » ?</question>
+      <propositions>
+        <proposition id="23-1">Auguste Arnould</proposition>
+        <proposition id="23-2">Gérard de Nerval</proposition>
+        <proposition id="23-3">Émile Carré</proposition>
+        <proposition id="23-4">Jules Breton</proposition>
+      </propositions>
+      <réponse proposition="23-2">Gérard de Nerval</réponse>
+      <anecdote>Le 26 janvier 1855, on le retrouva pendu aux barreaux d'une grille qui fermait un égout de la rue de la Vieille-Lanterne.</anecdote>
+    </contenu>
+    <contenu id="24">
+      <question>Qui a écrit : « Les femmes ont toujours aimé le navire mieux que le pilote » ?</question>
+      <propositions>
+        <proposition id="24-1">Jean Giraudoux</proposition>
+        <proposition id="24-2">Charles Baudelaire</proposition>
+        <proposition id="24-3">Victor Hugo</proposition>
+        <proposition id="24-4">Arthur Rimbaud</proposition>
+      </propositions>
+      <réponse proposition="24-1">Jean Giraudoux</réponse>
+      <anecdote>Peu de temps après la création de la pièce, Giraudoux sera victime d'un empoisonnement alimentaire et décédera le 31 janvier 1944.</anecdote>
+    </contenu>
+    <contenu id="25">
+      <question>Quel jeune poète a écrit dans 'Le Bateau ivre' : « J'ai rêvé la nuit verte aux neiges éblouies » ?</question>
+      <propositions>
+        <proposition id="25-1">René Descartes</proposition>
+        <proposition id="25-2">Arthur Rimbaud</proposition>
+        <proposition id="25-3">Jean Giraudoux</proposition>
+        <proposition id="25-4">Charles Baudelaire</proposition>
+      </propositions>
+      <réponse proposition="25-2">Arthur Rimbaud</réponse>
+      <anecdote>Des vers comme ceux du 'Bateau ivre', du 'Dormeur du val' ou de 'Voyelles' comptent parmi les plus célèbres de la poésie française.</anecdote>
+    </contenu>
+    <contenu id="26">
+      <question>Qui a écrit : « Le bon sens est la chose du monde la mieux partagée » ?</question>
+      <propositions>
+        <proposition id="26-1">Arthur Rimbaud</proposition>
+        <proposition id="26-2">Jean Giraudoux</proposition>
+        <proposition id="26-3">René Descartes</proposition>
+        <proposition id="26-4">Gérard de Nerval</proposition>
+      </propositions>
+      <réponse proposition="26-3">René Descartes</réponse>
+      <anecdote>Le 'Discours de la méthode' est le premier texte philosophique publié par René Descartes à La Haye le 8 juin 1637.</anecdote>
+    </contenu>
+    <contenu id="27">
+      <question>Quel dramaturge a dit qu'au théâtre « le vrai public ne comprend pas, il ressent » ?</question>
+      <propositions>
+        <proposition id="27-1">Jean Giraudoux</proposition>
+        <proposition id="27-2">Félicien Marceau</proposition>
+        <proposition id="27-3">Jean Genet</proposition>
+        <proposition id="27-4">Francis Joffo</proposition>
+      </propositions>
+      <réponse proposition="27-1">Jean Giraudoux</réponse>
+      <anecdote>Jean Giraudoux a participé comme d'autres dramaturges des années 1930-1940 à la réécriture des mythes antiques.</anecdote>
+    </contenu>
+    <contenu id="28">
+      <question>Qui a écrit : « Il ne faut pas laisser les intellectuels jouer avec les allumettes » ?</question>
+      <propositions>
+        <proposition id="28-1">Jacques Prévert</proposition>
+        <proposition id="28-2">Boris Vian</proposition>
+        <proposition id="28-3">Ken Russell</proposition>
+        <proposition id="28-4">Luis Bunuel</proposition>
+      </propositions>
+      <réponse proposition="28-1">Jacques Prévert</réponse>
+      <anecdote>Les poèmes de Jacques Prévert sont célèbres dans le monde francophone et massivement appris dans les écoles françaises.</anecdote>
+    </contenu>
+    <contenu id="29">
+      <question>Qui a dit à Las Cases : « L'homme doit avoir plusieurs femmes » ?</question>
+      <propositions>
+        <proposition id="29-1">Louis XVI</proposition>
+        <proposition id="29-2">Henri III</proposition>
+        <proposition id="29-3">Charles X</proposition>
+        <proposition id="29-4">Napoléon</proposition>
+      </propositions>
+      <réponse proposition="29-4">Napoléon</réponse>
+      <anecdote>Une tradition romantique fait de Napoléon l'archétype du « grand homme » appelé à bouleverser le monde.</anecdote>
+    </contenu>
+    <contenu id="30">
+      <question>Qui a écrit, au XVIIe siècle : « Le monde, chère Agnès, est une étrange chose » ?</question>
+      <propositions>
+        <proposition id="30-1">Molière</proposition>
+        <proposition id="30-2">Racine</proposition>
+        <proposition id="30-3">Corneille</proposition>
+        <proposition id="30-4">Rousseau</proposition>
+      </propositions>
+      <réponse proposition="30-1">Molière</réponse>
+      <anecdote>Interprète du rôle principal de la plupart de ses pièces, Molière est le plus grand créateur de formes de l'histoire du théâtre français.</anecdote>
+    </contenu>
+  </expert>
+</quizz>

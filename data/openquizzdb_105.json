@@ -1,0 +1,374 @@
+{
+  "fournisseur": "OpenQuizzDB - Fournisseur de contenu libre (www.openquizzdb.org)",
+  "rédacteur": "Philippe Bresoux",
+  "thème": "Méditerranée",
+  "difficulté": 2,
+  "quizz": {
+    "débutant": [
+      {
+        "id": 1,
+        "question": "Quelle ville longeant la Méditerranée accueille un Grand Prix de Formule 1 depuis 1929 ?",
+        "propositions": [
+          "Marseille",
+          "Monaco",
+          "Venise",
+          "Split"
+        ],
+        "réponse": "Monaco",
+        "anecdote": "La course inaugurale fut remportée le 14 avril 1929 par William Grover-Williams, au volant d'une Bugatti."
+      },
+      {
+        "id": 2,
+        "question": "Quel écrivain a rédigé le roman 'Le Tour du Monde en 80 jours' dans sa villa au cap dAntibes ?",
+        "propositions": [
+          "Victor Hugo",
+          "Stendhal",
+          "Marcel Proust",
+          "Jules Verne"
+        ],
+        "réponse": "Jules Verne",
+        "anecdote": "Le roman raconte la course autour du monde de Phileas Fogg, accompagné de son serviteur français."
+      },
+      {
+        "id": 3,
+        "question": "Quelle ville méditerranéenne accueille depuis 1946 un festival international du film ?",
+        "propositions": [
+          "Saint-Raphaël",
+          "Saint-Tropez",
+          "Nice",
+          "Cannes"
+        ],
+        "réponse": "Cannes",
+        "anecdote": "Les producteurs et distributeurs y trouvent des partenaires pour le financement de leurs projets de films."
+      },
+      {
+        "id": 4,
+        "question": "Quel vent froid et parfois violent souffle en direction du sud, principalement en Provence ?",
+        "propositions": [
+          "Le zéphyr",
+          "L'aquilons",
+          "Le mistral",
+          "Le noroît"
+        ],
+        "réponse": "Le mistral",
+        "anecdote": "Le caractère dominant du Mistral lui confère un rôle important dans l'originalité du climat provençal."
+      },
+      {
+        "id": 5,
+        "question": "Dans quelle ville de la Côte d'Azur peut-on marcher sur la promenade des Anglais ?",
+        "propositions": [
+          "Monaco",
+          "Marseille",
+          "Nice",
+          "Cannes"
+        ],
+        "réponse": "Nice",
+        "anecdote": "De nos jours, la promenade des Anglais est un des lieux de visite incontournables à Nice."
+      },
+      {
+        "id": 6,
+        "question": "Quelle série télévisée française a pour quartier fictif principal 'Le Mistral' ?",
+        "propositions": [
+          "Julie Lescaut",
+          "Nerdz",
+          "Braquo",
+          "Plus belle la vie"
+        ],
+        "réponse": "Plus belle la vie",
+        "anecdote": "Le 11 juillet 2008, 'Plus belle la vie' a atteint la barre du millième épisode, une première en France."
+      },
+      {
+        "id": 7,
+        "question": "Laquelle de ces îles ne se situe pas en Méditerranée mais bien en Afrique ?",
+        "propositions": [
+          "Sardaigne",
+          "Eubée",
+          "Chios",
+          "Madagascar"
+        ],
+        "réponse": "Madagascar",
+        "anecdote": "Cest la cinquième plus grande île du monde après l'Australie, le Groenland, la Nouvelle-Guinée et Bornéo."
+      },
+      {
+        "id": 8,
+        "question": "Quel est le nom du littoral méditerranéen qui englobe notamment Nice et Monaco ?",
+        "propositions": [
+          "Côte Camarguaise",
+          "Côte Bleue",
+          "Côte d'Azur",
+          "Côte Vermeille"
+        ],
+        "réponse": "Côte d'Azur",
+        "anecdote": "L'adjectif correspondant à Côte d'Azur est « azuréen » et ses habitants sont appelés les Azuréens."
+      },
+      {
+        "id": 9,
+        "question": "Quelle principauté se trouve sur le Côte d'Azur, au bord de la mer Méditerranée ?",
+        "propositions": [
+          "Liechtenstein",
+          "Monaco",
+          "Arménie",
+          "Vatican"
+        ],
+        "réponse": "Monaco",
+        "anecdote": "Monaco n'est pas une enclave en territoire français comme Saint-Marin et le Vatican en Italie."
+      },
+      {
+        "id": 10,
+        "question": "De quelle ville longeant la Méditerranée Brice provient-il dans une comédie française ?",
+        "propositions": [
+          "De Monaco",
+          "De Nice",
+          "De Marseille",
+          "De Cannes"
+        ],
+        "réponse": "De Nice",
+        "anecdote": "Apparu tout d'abord dans les sketches de Jean Dujardin, le personnage est apparu dans des films."
+      }
+    ],
+    "confirmé": [
+      {
+        "id": 11,
+        "question": "Quelle île grecque de l'archipel des Cyclades a subi la venue des Ch'tis en télévision ?",
+        "propositions": [
+          "Andros",
+          "Syros",
+          "Mykonos",
+          "Naxos"
+        ],
+        "réponse": "Mykonos",
+        "anecdote": "Un total de 36 épisodes a été tourné pour une diffusion du 3 septembre 2012 au 19 octobre 2012."
+      },
+      {
+        "id": 12,
+        "question": "Quelle ville méditerranéenne du Sud-Est de la France est connue pour ses calanques ?",
+        "propositions": [
+          "Marseille",
+          "Béziers",
+          "Montpellier",
+          "Perpignan"
+        ],
+        "réponse": "Marseille",
+        "anecdote": "Le mot calanque désigne une vallée creusée par une rivière, puis récupérée par la mer."
+      },
+      {
+        "id": 13,
+        "question": "Laquelle de ces mers ne se situe pas dans le bassin méditerranéen ?",
+        "propositions": [
+          "Mer de Crète",
+          "Mer du Groenland",
+          "Mer des Baléares",
+          "Mer de Ligurie"
+        ],
+        "réponse": "Mer du Groenland",
+        "anecdote": "La mer du Groenland est riche de microrganismes, base de la chaîne alimentaire marine."
+      },
+      {
+        "id": 14,
+        "question": "Dans quelle mer se situe le golfe de Venise, d'une profondeur moyenne de 34 mètres ?",
+        "propositions": [
+          "Mer Adriatique",
+          "Mer Égée",
+          "Mer d'Alboran",
+          "Mer Ionienne"
+        ],
+        "réponse": "Mer Adriatique",
+        "anecdote": "Le golfe de Venise reçoit les eaux du Tagliamento, du Piave, de l'Adige et de la Brenta."
+      },
+      {
+        "id": 15,
+        "question": "Laquelle de ces villes de France ne situe pas sur la Côte d'Azur ?",
+        "propositions": [
+          "Narbonne",
+          "Fréjus",
+          "Le Lavandou",
+          "Marseille"
+        ],
+        "réponse": "Narbonne",
+        "anecdote": "Narbonne est la commune la plus grande et la plus peuplée du département de l'Aude."
+      },
+      {
+        "id": 16,
+        "question": "À quel pays appartient l'archipel des Cyclades, formé d'environ 250 îles ?",
+        "propositions": [
+          "La Bulgarie",
+          "La Libye",
+          "La Turquie",
+          "La Grèce"
+        ],
+        "réponse": "La Grèce",
+        "anecdote": "On les appelle Cyclades car elles forment un cercle autour de lîle sacrée de Délos."
+      },
+      {
+        "id": 17,
+        "question": "Dans 'L'Odyssée' d'Homère, qui traverse la Méditerranée dans un long périple ?",
+        "propositions": [
+          "Jason",
+          "Ulysse",
+          "Hercule",
+          "Thésée"
+        ],
+        "réponse": "Ulysse",
+        "anecdote": "'L'Odyssée' est considérée comme lun des plus grands chefs-duvre de la littérature."
+      },
+      {
+        "id": 18,
+        "question": "Où se trouve le canal de Suez qui relie la mer Rouge à la mer Méditerranée ?",
+        "propositions": [
+          "En Égypte",
+          "En Tunisie",
+          "En Libye",
+          "En Algérie"
+        ],
+        "réponse": "En Égypte",
+        "anecdote": "Il permet aux navires d'aller d'Europe en Asie sans devoir contourner l'Afrique par le cap de Bonne-Espérance."
+      },
+      {
+        "id": 19,
+        "question": "À quel pays les golfes de Messénie, Corinthe et Laconie sont-ils rattachés ?",
+        "propositions": [
+          "La Turquie",
+          "L'Italie",
+          "La Grèce",
+          "La France"
+        ],
+        "réponse": "La Grèce",
+        "anecdote": "Le golfe de Corinthe est un profond bras de mer qui sépare le Péloponnèse de la Grèce continentale occidentale."
+      },
+      {
+        "id": 20,
+        "question": "Quel océan est relié à la mer Méditerranée par le détroit de Gibraltar ?",
+        "propositions": [
+          "Arctique",
+          "Atlantique",
+          "Pacifique",
+          "Indien"
+        ],
+        "réponse": "Atlantique",
+        "anecdote": "Le détroit de Gibraltar est le seul passage maritime entre l'océan Atlantique et la mer Méditerranée."
+      }
+    ],
+    "expert": [
+      {
+        "id": 21,
+        "question": "Quelle île tunisienne délimite au sud le golfe de Gabès, situé en Méditerranée ?",
+        "propositions": [
+          "Chergui",
+          "Djerba",
+          "Zembra",
+          "Gharbi"
+        ],
+        "réponse": "Djerba",
+        "anecdote": "Le 17 février 2012, Djerba fut proposée pour un futur classement à lUnesco."
+      },
+      {
+        "id": 22,
+        "question": "En quelle année un Airbus A320-232 de Airways Germany s'est-il crashé en Méditerranée ?",
+        "propositions": [
+          "2004",
+          "2000",
+          "2012",
+          "2008"
+        ],
+        "réponse": "2008",
+        "anecdote": "Des sept personnes qui se trouvaient à bord, six sont mortes et une est portée disparue."
+      },
+      {
+        "id": 23,
+        "question": "En 1998, quel objet ayant appartenu à Antoine de Saint-Exupéry a été repêché en Méditerranée ?",
+        "propositions": [
+          "Une montre",
+          "Des lunettes",
+          "Une gourmette",
+          "Une bague"
+        ],
+        "réponse": "Une gourmette",
+        "anecdote": "C'est un patron pêcheur marseillais, Jean-Claude Bianco, assisté de son second, qui fit la découverte."
+      },
+      {
+        "id": 24,
+        "question": "En quelle année fut créée la Mission Racine pour le développement du littoral de la Méditerranée ?",
+        "propositions": [
+          "1983",
+          "1993",
+          "1973",
+          "1963"
+        ],
+        "réponse": "1963",
+        "anecdote": "La Grande-Motte, l'une des stations balnéaires créées par la mission Racine."
+      },
+      {
+        "id": 25,
+        "question": "Dans quelle ville méditerranéenne la chanteuse française Jenifer est-elle née ?",
+        "propositions": [
+          "Sète",
+          "Nice",
+          "Marseille",
+          "Cannes"
+        ],
+        "réponse": "Nice",
+        "anecdote": "Jenifer est connue pour avoir fait partie du jury des quatre premières saisons de 'The Voice '."
+      },
+      {
+        "id": 26,
+        "question": "Comment se nomme la baie niçoise où se trouve la promenade des Anglais ?",
+        "propositions": [
+          "Baie des Anges",
+          "Baie des Ancres",
+          "Baie des Sirènes",
+          "Baie des Dieux"
+        ],
+        "réponse": "Baie des Anges",
+        "anecdote": "De nombreux récits et légendes font intervenir des anges du ciel à propos de cette baie."
+      },
+      {
+        "id": 27,
+        "question": "Du nord au sud, quelle est environ la longueur de la mer Égée, en Méditerranée ?",
+        "propositions": [
+          "600 km",
+          "400 km",
+          "800 km",
+          "200 km"
+        ],
+        "réponse": "600 km",
+        "anecdote": "La mer Égée baigne une très grande quantité d'îles dont la principale est la Crète."
+      },
+      {
+        "id": 28,
+        "question": "Dans quel pays se situe le secrétariat général de l'Union pour la Méditerranée, créé en 2008 ?",
+        "propositions": [
+          "Grèce",
+          "Israël",
+          "Espagne",
+          "Algérie"
+        ],
+        "réponse": "Espagne",
+        "anecdote": "L'organisation est destinée à renforcer les acquis du Partenariat euro-méditerranéen (Euromed) mis en place en 1995."
+      },
+      {
+        "id": 29,
+        "question": "En quelle année l'expression « Côte d'Azur » est-elle apparue par le biais de Stéphen Liégeard ?",
+        "propositions": [
+          "1887",
+          "1947",
+          "1917",
+          "1857"
+        ],
+        "réponse": "1887",
+        "anecdote": "Écrivain et poète français, Stéphen Liégeard remplaça ainsi l'ancienne dénomination « Riviera »."
+      },
+      {
+        "id": 30,
+        "question": "Qui est l'auteur de la chanson 'Supplique pour être enterré à la plage de Sète' ?",
+        "propositions": [
+          "Serge Gainsbourg",
+          "Gilbert Bécaud",
+          "Georges Brassens",
+          "Charles Trenet"
+        ],
+        "réponse": "Georges Brassens",
+        "anecdote": "Maxime Le Forestier a fréquemment repris le titre dans plusieurs albums en hommage à Brassens."
+      }
+    ]
+  }
+}

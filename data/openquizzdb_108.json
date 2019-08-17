@@ -1,0 +1,374 @@
+{
+  "fournisseur": "OpenQuizzDB - Fournisseur de contenu libre (www.openquizzdb.org)",
+  "rédacteur": "Philippe Bresoux",
+  "thème": "Rio 2016",
+  "difficulté": 4,
+  "quizz": {
+    "débutant": [
+      {
+        "id": 1,
+        "question": "Lequel de ces quartiers de la ville de Rio de Janeiro ne faisait pas partie des quartiers olympiques ?",
+        "propositions": [
+          "Brasilia",
+          "Barra",
+          "Copacabana",
+          "Deodoro"
+        ],
+        "réponse": "Brasilia",
+        "anecdote": "Brasilia est la capitale de la République fédérative du Brésil et le siège du gouvernement du District fédéral."
+      },
+      {
+        "id": 2,
+        "question": "Pour quel pays David Rudisha a-t-il essayé de conserver sa médaille d'or sur 800m à Rio ?",
+        "propositions": [
+          "La France",
+          "Les Fidji",
+          "L'Australie",
+          "Le Kenya"
+        ],
+        "réponse": "Le Kenya",
+        "anecdote": "Sixième d'une famille de sept enfants, David Rudisha est le fils de Daniel Rudisha, ancien athlète de haut niveau."
+      },
+      {
+        "id": 3,
+        "question": "Quel était le nom de la mascotte des Jeux olympiques d'été de 2016 ?",
+        "propositions": [
+          "Blaze",
+          "Smiley",
+          "Vinicius",
+          "Youppi"
+        ],
+        "réponse": "Vinicius",
+        "anecdote": "Depuis les Jeux d'hiver de 1968, chaque édition des Jeux (été et hiver) possède une mascotte officielle."
+      },
+      {
+        "id": 4,
+        "question": "Après les JO de 2016, aux mains de quelle ville la flamme olympique a-t-elle été remise ?",
+        "propositions": [
+          "Lima",
+          "Copenhague",
+          "Mexico",
+          "Tokyo"
+        ],
+        "réponse": "Tokyo",
+        "anecdote": "Le logo de la candidature japonaise représente des fleurs de cerisier, fleur symbole de Tokyo, disposées en cercle."
+      },
+      {
+        "id": 5,
+        "question": "Dans quel sport Usain Bolt a-t-il tenté la passe de trois pour l'or olympique à Rio en 2016 ?",
+        "propositions": [
+          "Le cyclisme",
+          "La boxe",
+          "Le triathlon",
+          "L'athlétisme"
+        ],
+        "réponse": "L'athlétisme",
+        "anecdote": "Son nom et ses performances en sprint ont valu à Usain Bolt le surnom de « Lightning Bolt », « l'Éclair »."
+      },
+      {
+        "id": 6,
+        "question": "Quel pays a été suspendu de toutes les disciplines d'athlétisme aux JO de 2016 ?",
+        "propositions": [
+          "Haïti",
+          "Le Canada",
+          "La Russie",
+          "L'Autriche"
+        ],
+        "réponse": "La Russie",
+        "anecdote": "Suite à des accusations de dopage, l'Agence mondiale antidopage appela à l'exclusion de la Russie des Jeux olympiques."
+      },
+      {
+        "id": 7,
+        "question": "Quelle numérotation romaine désigne les Jeux olympiques d'été de Rio de 2016 ?",
+        "propositions": [
+          "XVIII",
+          "XXIV",
+          "XXXI",
+          "LX"
+        ],
+        "réponse": "XXXI",
+        "anecdote": "À la suite du vote, le gouverneur de Tokyo Shintaro Ishihara a dénoncé la « logique invisible à l'uvre pour l'attribution des JO »."
+      },
+      {
+        "id": 8,
+        "question": "Quelle est la langue officielle du pays hôte des Jeux olympiques d'été de 2016 ?",
+        "propositions": [
+          "L'allemand",
+          "Le portugais",
+          "L'espagnol",
+          "Le français"
+        ],
+        "réponse": "Le portugais",
+        "anecdote": "Cette langue est parlée par une très grande majorité de la population et est utilisée dans les documents administratifs."
+      },
+      {
+        "id": 9,
+        "question": "Quel pays a été le dernier à entrer durant la parade des nations de Jeux olympiques de 2016 ?",
+        "propositions": [
+          "La Suisse",
+          "La Grèce",
+          "Le Sénégal",
+          "Le Brésil"
+        ],
+        "réponse": "Le Brésil",
+        "anecdote": "45 chefs dÉtat et de gouvernement ont assisté à la cérémonie d'ouverture ainsi que 55 ministres des Sports du monde entier."
+      },
+      {
+        "id": 10,
+        "question": "Quelle était la devise des Jeux olympiques d'été de 2016 qui eurent lieu à Rio ?",
+        "propositions": [
+          "Fais face",
+          "Cours toujours",
+          "Samba pour tous",
+          "Vis ta passion"
+        ],
+        "réponse": "Vis ta passion",
+        "anecdote": "Le lieu de la compétition a été choisi le 2 octobre 2009 et annoncé officiellement par Jacques Rogge."
+      }
+    ],
+    "confirmé": [
+      {
+        "id": 11,
+        "question": "L'équipe olympique de quel pays la star d'Internet Michelle Jenneke a-t-elle rejoint en 2016 ?",
+        "propositions": [
+          "L'Australie",
+          "La Russie",
+          "La Hongrie",
+          "L'Irlande"
+        ],
+        "réponse": "L'Australie",
+        "anecdote": "En 2010, Michelle Jenneke participa aux Jeux olympiques de la jeunesse à Singapour et termina deuxième du 100 m haies."
+      },
+      {
+        "id": 12,
+        "question": "Combien de courses a-t-on pu suivre en aviron aux Jeux olympiques de 2016 ?",
+        "propositions": [
+          "14",
+          "22",
+          "31",
+          "7"
+        ],
+        "réponse": "14",
+        "anecdote": "Le Lagoa Rodrigo de Freitas est une étendue naturelle d'eau située au sud de la ville de Rio de Janeiro."
+      },
+      {
+        "id": 13,
+        "question": "Quel est le nom de la plus grande installation des Jeux olympiques de Rio ?",
+        "propositions": [
+          "Rio Centro",
+          "Stade Maracana",
+          "Fort de Copacabana",
+          "Marina de Gloria"
+        ],
+        "réponse": "Stade Maracana",
+        "anecdote": "Le stade a une forme ovale, pour une superficie de 200 000 m2 et une capacité initiale de 220 000 spectateurs."
+      },
+      {
+        "id": 14,
+        "question": "Dans quelle épreuve olympique la star d'Internet Michelle Jenneke a-t-elle concouru à Rio ?",
+        "propositions": [
+          "Le marteau",
+          "Les haies",
+          "Le disque",
+          "Le javelot"
+        ],
+        "réponse": "Les haies",
+        "anecdote": "Michelle Jenneke fit sensation par une vidéo, postée sur YouTube, montrant son échauffement avant la course."
+      },
+      {
+        "id": 15,
+        "question": "Combien d'escrimeurs ont concouru pour une médaille d'or aux Jeux olympiques de Rio ?",
+        "propositions": [
+          "212",
+          "144",
+          "187",
+          "169"
+        ],
+        "réponse": "212",
+        "anecdote": "L'épreuve d'épée masculine par équipes remplace celle de sabre, et l'épreuve de sabre féminin par équipes remplace celle du fleuret."
+      },
+      {
+        "id": 16,
+        "question": "Laquelle de ces disciplines olympiques s'est déroulée à la réserve de Marapendi en 2016 ?",
+        "propositions": [
+          "Le football",
+          "Le golf",
+          "La boxe",
+          "Le basket-ball"
+        ],
+        "réponse": "Le golf",
+        "anecdote": "Le golf est réintégré au programme olympique en 2016 à Rio à la suite de la décision du CIO le 9 octobre 2009."
+      },
+      {
+        "id": 17,
+        "question": "Combien y a-t-il eu de sports au total lors des Jeux olympiques d'été de 2016 ?",
+        "propositions": [
+          "20",
+          "28",
+          "24",
+          "32"
+        ],
+        "réponse": "28",
+        "anecdote": "Cinq sports étaient candidats pour leur entrée en lice aux JO : le karaté, le squash, le rugby à sept, le roller et le golf."
+      },
+      {
+        "id": 18,
+        "question": "Quel pays a été le premier à entrer durant la parade des nations de Jeux olympiques de 2016 ?",
+        "propositions": [
+          "La France",
+          "La Grèce",
+          "Le Brésil",
+          "Les États-Unis"
+        ],
+        "réponse": "La Grèce",
+        "anecdote": "L'organisation de la cérémonie d'ouverture a été confiée à Fernando Meirelles, Daniela Thomas et Andrucha Waddington."
+      },
+      {
+        "id": 19,
+        "question": "Combien de trous comprenait le format du tournoi de golf des JO de Rio en 2016 ?",
+        "propositions": [
+          "16",
+          "72",
+          "18",
+          "34"
+        ],
+        "réponse": "72",
+        "anecdote": "Les épreuves pratiquées en stroke-play furent jouées sur 72 trous (un parcours de 18 trous joués 4 jours consécutifs)."
+      },
+      {
+        "id": 20,
+        "question": "Combien d'équipes se sont affrontées dans le tournoi masculin de basket-ball aux JO de Rio ?",
+        "propositions": [
+          "20",
+          "12",
+          "24",
+          "16"
+        ],
+        "réponse": "12",
+        "anecdote": "Il fallut attendre 1936 pour que le basket-ball devienne une épreuve officielle, qui vit le couronnement des États-Unis."
+      }
+    ],
+    "expert": [
+      {
+        "id": 21,
+        "question": "En tir à l'arc féminin, quelle équipe nationale a essayé de conserver sa médaille d'or à Rio ?",
+        "propositions": [
+          "L'Inde",
+          "Le Venezuela",
+          "La Corée du Sud",
+          "Le Mexique"
+        ],
+        "réponse": "La Corée du Sud",
+        "anecdote": "Absent du programme de 1924 à 1968, le tir à l'arc a été réintroduit à l'occasion des Jeux olympiques d'été de 1972 à Munich."
+      },
+      {
+        "id": 22,
+        "question": "Lequel de ces pays a été banni des Jeux olympiques d'été de 2016 ?",
+        "propositions": [
+          "La Corée du Sud",
+          "Le Koweït",
+          "L'Allemagne",
+          "Le Chili"
+        ],
+        "réponse": "Le Koweït",
+        "anecdote": "Les sportifs ont concouru sous la bannière olympique au sein de la délégation des athlètes olympiques indépendants."
+      },
+      {
+        "id": 23,
+        "question": "Combien de bénévoles ont permis le bon déroulement des Jeux olympiques de Rio de 2016 ?",
+        "propositions": [
+          "30 000",
+          "90 000",
+          "70 000",
+          "50 000"
+        ],
+        "réponse": "70 000",
+        "anecdote": "Le budget global du comité d'organisation pour Rio 2016, incluant les frais de candidature, s'élève à 7,4 milliards de réals."
+      },
+      {
+        "id": 24,
+        "question": "Quel était le jour de départ de la flamme olympique pour le Brésil en 2016 ?",
+        "propositions": [
+          "Le 16 juin",
+          "Le 27 avril",
+          "Le 4 juillet",
+          "Le 3 mai"
+        ],
+        "réponse": "Le 27 avril",
+        "anecdote": "La vasque olympique a été allumée par Vanderlei Cordeiro de Lima après avoir reçu la flamme des mains de Hortencia Marcari."
+      },
+      {
+        "id": 25,
+        "question": "Lequel de ces pays a participé à ses premiers Jeux olympiques à Rio en 2016 ?",
+        "propositions": [
+          "La Lettonie",
+          "La Lituanie",
+          "Le Kosovo",
+          "La Slovaquie"
+        ],
+        "réponse": "Le Kosovo",
+        "anecdote": "Le Soudan du Sud et le Kosovo ont porté à 206 le nombre de nations participantes à ces Jeux olympiques d'été."
+      },
+      {
+        "id": 26,
+        "question": "Quel est le nom de la mascotte des Jeux paralympiques de 2016 ?",
+        "propositions": [
+          "Joe",
+          "Bobby",
+          "Tom",
+          "Fredo"
+        ],
+        "réponse": "Tom",
+        "anecdote": "Ces Jeux voient l'introduction de deux nouveaux sports au programme paralympique, le canoë et le paratriathlon."
+      },
+      {
+        "id": 27,
+        "question": "En plus du tir à l'arc, quelle discipline olympique a eu lieu au sambodrome en 2016 ?",
+        "propositions": [
+          "Le marathon",
+          "Le basket-ball",
+          "Le water-polo",
+          "Le tir"
+        ],
+        "réponse": "Le marathon",
+        "anecdote": "Le sambodrome est une avenue entourée de gradins où se déroule le défilé des meilleures écoles de samba."
+      },
+      {
+        "id": 28,
+        "question": "Combien d'équipes ont constitué les poules du tournoi féminin de football pour les JO de 2016 ?",
+        "propositions": [
+          "8",
+          "12",
+          "16",
+          "20"
+        ],
+        "réponse": "12",
+        "anecdote": "En France, en 2015, le football restait, avec le rugby, le sport olympique le moins pratiqué par les femmes."
+      },
+      {
+        "id": 29,
+        "question": "Lequel de ces pays a participé à ses premiers Jeux olympiques d'été en 2016 ?",
+        "propositions": [
+          "La Mongolie",
+          "LÉgypte",
+          "Taïwan",
+          "Le Soudan du Sud"
+        ],
+        "réponse": "Le Soudan du Sud",
+        "anecdote": "Le Soudan du Sud est un pays d'Afrique orientale de langue anglaise dont la capitale est Djouba."
+      },
+      {
+        "id": 30,
+        "question": "Laquelle de ces disciplines a été ajoutée pour la voile aux Jeux olympiques de 2016 ?",
+        "propositions": [
+          "Skiff hommes",
+          "RS:X hommes",
+          "RS:X femmes",
+          "Skiff femmes"
+        ],
+        "réponse": "Skiff femmes",
+        "anecdote": "Les qualifications se sont effectuées lors des championnats du monde des deux années précédant la compétition."
+      }
+    ]
+  }
+}

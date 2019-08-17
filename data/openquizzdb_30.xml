@@ -1,0 +1,343 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes" ?>
+<quizz fournisseur="OpenQuizzDB : Fournisseur de contenu libre"
+       url="http://www.openquizzdb.org"
+       rédacteur="Philippe Bresoux"
+       thème="Bruxelles de nos jours"
+       difficulté="4">
+  <débutant>
+    <contenu id="1">
+      <question>Bruxelles est la capitale de la Communauté française et flamande de quel pays ?</question>
+      <propositions>
+        <proposition id="1-1">La Suisse</proposition>
+        <proposition id="1-2">L'Allemagne</proposition>
+        <proposition id="1-3">Les Pays-Bas</proposition>
+        <proposition id="1-4">La Belgique</proposition>
+      </propositions>
+      <réponse proposition="1-4">La Belgique</réponse>
+      <anecdote>Constituée de 19 communes, Bruxelles-Capitale est une région urbaine dotée de son propre gouvernement et parlement.</anecdote>
+    </contenu>
+    <contenu id="2">
+      <question>Laquelle des trois régions de Belgique Bruxelles compose-t-elle ?</question>
+      <propositions>
+        <proposition id="2-1">Bruxelles-Capitale</proposition>
+        <proposition id="2-2">Limbourg</proposition>
+        <proposition id="2-3">Région flamande</proposition>
+        <proposition id="2-4">Région wallonne</proposition>
+      </propositions>
+      <réponse proposition="2-1">Bruxelles-Capitale</réponse>
+      <anecdote>Si on la compare à la plupart des régions d'Europe, Bruxelles-capitale dispose d'un territoire relativement réduit.</anecdote>
+    </contenu>
+    <contenu id="3">
+      <question>À quel endroit du territoire belge est à peu près située la ville de Bruxelles ?</question>
+      <propositions>
+        <proposition id="3-1">Au Sud</proposition>
+        <proposition id="3-2">Au centre</proposition>
+        <proposition id="3-3">Au Nord</proposition>
+        <proposition id="3-4">À l'Ouest</proposition>
+      </propositions>
+      <réponse proposition="3-2">Au centre</réponse>
+      <anecdote>C'est à Bruxelles-Capitale que siègent la plupart des institutions de l'UE, ainsi que de nombreuses organisations internationales.</anecdote>
+    </contenu>
+    <contenu id="4">
+      <question>Par quelle ceinture autoroutière la banlieue de Bruxelles est-elle délimitée  ?</question>
+      <propositions>
+        <proposition id="4-1">Le Ring</proposition>
+        <proposition id="4-2">A601</proposition>
+        <proposition id="4-3">A17</proposition>
+        <proposition id="4-4">A1</proposition>
+      </propositions>
+      <réponse proposition="4-1">Le Ring</réponse>
+      <anecdote>Un des premiers tronçons du Ring a été construit à la fin des années 1960 en tant que morceau de l'autoroute Bruxelles-Paris.</anecdote>
+    </contenu>
+    <contenu id="5">
+      <question>Quel gratte-ciel situé à Bruxelles est le plus grand de Belgique ?</question>
+      <propositions>
+        <proposition id="5-1">Tour Astro</proposition>
+        <proposition id="5-2">Tour Rogier</proposition>
+        <proposition id="5-3">Tour du Midi</proposition>
+        <proposition id="5-4">Tour des Finances</proposition>
+      </propositions>
+      <réponse proposition="5-3">Tour du Midi</réponse>
+      <anecdote>Haute de 150 m, La Tour du Midi, qu'il ne faut pas confondre avec la Tour des Finances, se trouve en face de la gare du Midi.</anecdote>
+    </contenu>
+    <contenu id="6">
+      <question>Quel bâtiment est le siège de la Commission européenne, à Bruxelles ?</question>
+      <propositions>
+        <proposition id="6-1">Solvay</proposition>
+        <proposition id="6-2">Castellani</proposition>
+        <proposition id="6-3">Stoclet</proposition>
+        <proposition id="6-4">Berlaymont</proposition>
+      </propositions>
+      <réponse proposition="6-4">Berlaymont</réponse>
+      <anecdote>Le bâtiment Berlaymont abrite également les services attachés aux cabinets du président et des commissaires.</anecdote>
+    </contenu>
+    <contenu id="7">
+      <question>Quelle est la principale langue parlée à Bruxelles, capitale de la Belgique ?</question>
+      <propositions>
+        <proposition id="7-1">Le français</proposition>
+        <proposition id="7-2">L'allemand</proposition>
+        <proposition id="7-3">L'espagnol</proposition>
+        <proposition id="7-4">Le néerlandais</proposition>
+      </propositions>
+      <réponse proposition="7-1">Le français</réponse>
+      <anecdote>Toutefois, l'usage de l'anglais dans la région de Bruxelles-Capitale et sa périphérie est un phénomène en hausse.</anecdote>
+    </contenu>
+    <contenu id="8">
+      <question>Quelle est la plus importante université francophone de Bruxelles ?</question>
+      <propositions>
+        <proposition id="8-1">USL</proposition>
+        <proposition id="8-2">ULB</proposition>
+        <proposition id="8-3">UCL</proposition>
+        <proposition id="8-4">ULG</proposition>
+      </propositions>
+      <réponse proposition="8-2">ULB</réponse>
+      <anecdote>Fondée en 1834, l'ULB est régulièrement citée comme faisant partie des 150 meilleures universités mondiales.</anecdote>
+    </contenu>
+    <contenu id="9">
+      <question>Quel train, inspiré du TGV, relie Bruxelles à Paris, Amsterdam et Cologne ?</question>
+      <propositions>
+        <proposition id="9-1">Thalys</proposition>
+        <proposition id="9-2">Iris</proposition>
+        <proposition id="9-3">Elipsos</proposition>
+        <proposition id="9-4">Eurostar</proposition>
+      </propositions>
+      <réponse proposition="9-1">Thalys</réponse>
+      <anecdote>Les trains Thalys coexistent avec les rames Eurostar, les rames TGV Réseau ou Sud-Est et les rames ICE.</anecdote>
+    </contenu>
+    <contenu id="10">
+      <question>En combien de communes la Région de Bruxelles-Capitale est-elle divisée ?</question>
+      <propositions>
+        <proposition id="10-1">19</proposition>
+        <proposition id="10-2">28</proposition>
+        <proposition id="10-3">22</proposition>
+        <proposition id="10-4">25</proposition>
+      </propositions>
+      <réponse proposition="10-1">19</réponse>
+      <anecdote>La Ville de Bruxelles, la plus vaste dentre elles, s'étend du centre au nord de l'agglomération et est entourée par les 18 autres.</anecdote>
+    </contenu>
+  </débutant>
+  <confirmé>
+    <contenu id="11">
+      <question>Quel est le climat de la région de Bruxelles comme de l'ensemble de la Belgique ?</question>
+      <propositions>
+        <proposition id="11-1">Polaire</proposition>
+        <proposition id="11-2">Subarctique</proposition>
+        <proposition id="11-3">Tropical humide</proposition>
+        <proposition id="11-4">Tempéré océanique</proposition>
+      </propositions>
+      <réponse proposition="11-4">Tempéré océanique</réponse>
+      <anecdote>Ce climat est dû grâce à la proximité de l'océan Atlantique et du Gulf Stream qui régule le temps grâce à l'inertie calorifique de ses eaux.</anecdote>
+    </contenu>
+    <contenu id="12">
+      <question>Combien observe-t-on environ de jours de précipitations par an dans la région de Bruxelles ?</question>
+      <propositions>
+        <proposition id="12-1">50</proposition>
+        <proposition id="12-2">200</proposition>
+        <proposition id="12-3">100</proposition>
+        <proposition id="12-4">150</proposition>
+      </propositions>
+      <réponse proposition="12-2">200</réponse>
+      <anecdote>Ces statistiques de précipitations en font, après Dublin, la capitale la plus pluvieuse (en nombre de jours) d'Europe.</anecdote>
+    </contenu>
+    <contenu id="13">
+      <question>Quel quartier de Bruxelles est formé par le Palais royal, le Palais de la Nation et la place Royale ?</question>
+      <propositions>
+        <proposition id="13-1">Midi-Lemonnier</proposition>
+        <proposition id="13-2">Marolles</proposition>
+        <proposition id="13-3">Sablon</proposition>
+        <proposition id="13-4">Quartier des Palais</proposition>
+      </propositions>
+      <réponse proposition="13-4">Quartier des Palais</réponse>
+      <anecdote>En contrebas se situe la gare centrale et le Mont des Arts où se trouvent la Bibliothèque et la Cinémathèque royale de Belgique.</anecdote>
+    </contenu>
+    <contenu id="14">
+      <question>Quel est le plus grand quartier d'affaires de Bruxelles et de Belgique ?</question>
+      <propositions>
+        <proposition id="14-1">Saint-Job</proposition>
+        <proposition id="14-2">Helmet</proposition>
+        <proposition id="14-3">Diamant</proposition>
+        <proposition id="14-4">Léopold</proposition>
+      </propositions>
+      <réponse proposition="14-4">Léopold</réponse>
+      <anecdote>Aujourd'hui, les bâtiments administratifs ont remplacé la majorité des hôtels de maître et des maisons bourgeoises du quartier.</anecdote>
+    </contenu>
+    <contenu id="15">
+      <question>À Bruxelles, quelle forêt le bois de la Cambre prolonge-t-il ?</question>
+      <propositions>
+        <proposition id="15-1">Forêt de Soignes</proposition>
+        <proposition id="15-2">Forêt de Chaux</proposition>
+        <proposition id="15-3">Forêt de Retz</proposition>
+        <proposition id="15-4">Forêt de Brotonne</proposition>
+      </propositions>
+      <réponse proposition="15-1">Forêt de Soignes</réponse>
+      <anecdote>La forêt de Soignes est connexe avec le bois de la Cambre, promenade forestière et champêtre qui pénètre dans la ville.</anecdote>
+    </contenu>
+    <contenu id="16">
+      <question>À combien de personnes est estimée la population estudiantine de Bruxelles-Capitale ?</question>
+      <propositions>
+        <proposition id="16-1">50 000</proposition>
+        <proposition id="16-2">40 000</proposition>
+        <proposition id="16-3">30 000</proposition>
+        <proposition id="16-4">20 000</proposition>
+      </propositions>
+      <réponse proposition="16-1">50 000</réponse>
+      <anecdote>La population scolaire bruxelloises comptabilise pour l'année scolaire 2010/2011 un total de 231 567 élèves.</anecdote>
+    </contenu>
+    <contenu id="17">
+      <question>Quel train, majoritairement détenu par la SNCF, relie Bruxelles à Londres ?</question>
+      <propositions>
+        <proposition id="17-1">Thalys</proposition>
+        <proposition id="17-2">Alleo</proposition>
+        <proposition id="17-3">Vauban</proposition>
+        <proposition id="17-4">Eurostar</proposition>
+      </propositions>
+      <réponse proposition="17-4">Eurostar</réponse>
+      <anecdote>Composée de dix-huit voitures et de deux motrices, chaque rame mesure 393 m de long et peut transporter jusqu'à 750 passagers.</anecdote>
+    </contenu>
+    <contenu id="18">
+      <question>Quel axe routier bruxellois comprend une série de huit tunnels et de voies rapides ?</question>
+      <propositions>
+        <proposition id="18-1">Le petit nud</proposition>
+        <proposition id="18-2">La grande boucle</proposition>
+        <proposition id="18-3">Le grand ring</proposition>
+        <proposition id="18-4">La petite ceinture</proposition>
+      </propositions>
+      <réponse proposition="18-4">La petite ceinture</réponse>
+      <anecdote>Le cur de ville, appelé « Pentagone », est délimité par une ceinture de boulevards, équivalent des boulevards parisiens.</anecdote>
+    </contenu>
+    <contenu id="19">
+      <question>Comment est couramment nommé l'aéroport de Bruxelles-National ?</question>
+      <propositions>
+        <proposition id="19-1">Zaventem</proposition>
+        <proposition id="19-2">Wemmel</proposition>
+        <proposition id="19-3">Tremelo</proposition>
+        <proposition id="19-4">Ternat</proposition>
+      </propositions>
+      <réponse proposition="19-1">Zaventem</réponse>
+      <anecdote>L'aéroport est utilisé pour les vols européens et les vols internationaux vers l'Afrique, l'Asie ou le Moyen-Orient.</anecdote>
+    </contenu>
+    <contenu id="20">
+      <question>Quelle est la troisième plus grande salle de concert de Bruxelles, située dans la banlieue sud ?</question>
+      <propositions>
+        <proposition id="20-1">Le Botanique</proposition>
+        <proposition id="20-2">Tour et Taxis</proposition>
+        <proposition id="20-3">Cirque Royal</proposition>
+        <proposition id="20-4">Forest National</proposition>
+      </propositions>
+      <réponse proposition="20-4">Forest National</réponse>
+      <anecdote>Située sur la commune bruxelloise de Forest, elle est inaugurée au début de 1971 par des représentations du Ballet du XXe siècle.</anecdote>
+    </contenu>
+  </confirmé>
+  <expert>
+    <contenu id="21">
+      <question>Combien d'habitants pouvait-on compter environ dans la ville de Bruxelles au 1er janvier 2015 ?</question>
+      <propositions>
+        <proposition id="21-1">157 000</proposition>
+        <proposition id="21-2">197 000</proposition>
+        <proposition id="21-3">177 000</proposition>
+        <proposition id="21-4">137 000</proposition>
+      </propositions>
+      <réponse proposition="21-3">177 000</réponse>
+      <anecdote>Un projet gouvernemental de création d'une zone dont la population et les limites doivent être définies avec précision est en cours.</anecdote>
+    </contenu>
+    <contenu id="22">
+      <question>Comment est appelé le cur historique de la ville de Bruxelles ?</question>
+      <propositions>
+        <proposition id="22-1">Dodécagone</proposition>
+        <proposition id="22-2">Octogone</proposition>
+        <proposition id="22-3">Hexagone</proposition>
+        <proposition id="22-4">Pentagone</proposition>
+      </propositions>
+      <réponse proposition="22-4">Pentagone</réponse>
+      <anecdote>Équivalent du City road londonien, le Pentagone est toutefois aménagé au nord et à l'est en autoroutes urbaines.</anecdote>
+    </contenu>
+    <contenu id="23">
+      <question>Combien d'hectares d'espaces verts recouvrent la surface de la Région Bruxelles-Capitale ?</question>
+      <propositions>
+        <proposition id="23-1">6 000</proposition>
+        <proposition id="23-2">2 000</proposition>
+        <proposition id="23-3">4 000</proposition>
+        <proposition id="23-4">8 000</proposition>
+      </propositions>
+      <réponse proposition="23-4">8 000</réponse>
+      <anecdote>L'intégrité de l'ensemble des espaces verts bruxellois est classé site Natura 2000 pour conserver la faune et la flore.</anecdote>
+    </contenu>
+    <contenu id="24">
+      <question>En quelle année la ville de Bruxelles a-t-elle fêté son millénaire officiel ?</question>
+      <propositions>
+        <proposition id="24-1">1959</proposition>
+        <proposition id="24-2">1979</proposition>
+        <proposition id="24-3">1999</proposition>
+        <proposition id="24-4">1939</proposition>
+      </propositions>
+      <réponse proposition="24-2">1979</réponse>
+      <anecdote>On relève cependant des vestiges et toponymes relatifs à la civilisation des mégalithes, dolmens et pierres levées.</anecdote>
+    </contenu>
+    <contenu id="25">
+      <question>Avec quelle ville Bruxelles partage-t-elle le titre de ville comptant le plus de journalistes accrédités ?</question>
+      <propositions>
+        <proposition id="25-1">Marseille</proposition>
+        <proposition id="25-2">Washington</proposition>
+        <proposition id="25-3">Dublin</proposition>
+        <proposition id="25-4">Madrid</proposition>
+      </propositions>
+      <réponse proposition="25-2">Washington</réponse>
+      <anecdote>Washington a été créée à la suite de la signature du Residence Act en 1790, qui prévoyait la création d'une capitale fédérale.</anecdote>
+    </contenu>
+    <contenu id="26">
+      <question>Quel édifice bruxellois est considéré comme référence de l'architecture éclectique ?</question>
+      <propositions>
+        <proposition id="26-1">Maison Horta</proposition>
+        <proposition id="26-2">Café Métropole</proposition>
+        <proposition id="26-3">Villa Empain</proposition>
+        <proposition id="26-4">Palais de Justice</proposition>
+      </propositions>
+      <réponse proposition="26-4">Palais de Justice</réponse>
+      <anecdote>Situé sur la plus grande place de Bruxelles, le palais est plus vaste que la Basilique Saint-Pierre de Rome.</anecdote>
+    </contenu>
+    <contenu id="27">
+      <question>Quel style architectural bruxellois est l'uvre de Victor Horta, Paul Hankar et Henry Van de Velde ?</question>
+      <propositions>
+        <proposition id="27-1">Art déco</proposition>
+        <proposition id="27-2">Art nouveau</proposition>
+        <proposition id="27-3">Art baroque</proposition>
+        <proposition id="27-4">Art moderne</proposition>
+      </propositions>
+      <réponse proposition="27-2">Art nouveau</réponse>
+      <anecdote>Avant la Première Guerre mondiale, ce mouvement évolua vers un style plus géométrique, caractéristique du mouvement Art déco.</anecdote>
+    </contenu>
+    <contenu id="28">
+      <question>À combien de kilomètres s'étend le réseau d'égouts de la ville de Bruxelles ?</question>
+      <propositions>
+        <proposition id="28-1">1 500</proposition>
+        <proposition id="28-2">2 000</proposition>
+        <proposition id="28-3">2 500</proposition>
+        <proposition id="28-4">3 000</proposition>
+      </propositions>
+      <réponse proposition="28-1">1 500</réponse>
+      <anecdote>Il fait l'objet d'un plan d'assainissement et même de renouvellement des parties les plus anciennes remontant à plus d'un siècle.</anecdote>
+    </contenu>
+    <contenu id="29">
+      <question>Quel théâtre bruxellois est un bâtiment très caractéristique de l'architecture des années 1960 ?</question>
+      <propositions>
+        <proposition id="29-1">Théâtre 140</proposition>
+        <proposition id="29-2">Théâtre du Méridien</proposition>
+        <proposition id="29-3">Théâtre Mercelis</proposition>
+        <proposition id="29-4">Théâtre Varia</proposition>
+      </propositions>
+      <réponse proposition="29-1">Théâtre 140</réponse>
+      <anecdote>Le Théâtre 140 est une salle de spectacle bruxelloise fondée en 1963 par Jo Dekmine qui en resta directeur jusqu'en 2015.</anecdote>
+    </contenu>
+    <contenu id="30">
+      <question>Quel célèbre musée bruxellois est logé dans l'Hôtel du Lotto ?</question>
+      <propositions>
+        <proposition id="30-1">Musée Magritte</proposition>
+        <proposition id="30-2">Musée du cinéma</proposition>
+        <proposition id="30-3">Musée BELvue</proposition>
+        <proposition id="30-4">Musée du jouet</proposition>
+      </propositions>
+      <réponse proposition="30-1">Musée Magritte</réponse>
+      <anecdote>Au cours des siècles, les propriétaires se sont succédé pour transformer le bâtiment en hôtel, en bijouterie et enfin en musée.</anecdote>
+    </contenu>
+  </expert>
+</quizz>

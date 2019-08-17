@@ -1,0 +1,375 @@
+{
+  "fournisseur": "OpenQuizzDB - Fournisseur de contenu libre (www.openquizzdb.org)",
+  "rédacteur": "Philippe Bresoux",
+  "thème": "Feuilletons télévisés",
+  "difficulté": 2,
+  "quizz": {
+    "débutant": [
+      {
+        "id": 1,
+        "question": "Quel est le numéro au village du héros de la série 'Le prisonnier' ?",
+        "propositions": [
+          "Six",
+          "Trois",
+          "Deux",
+          "Onze"
+        ],
+        "réponse": "Six",
+        "anecdote": "'Le Prisonnier' utilise les ficelles du roman d'espionnage, teintées de science-fiction, d'allégorie et de drame psychologique."
+      },
+      {
+        "id": 2,
+        "question": "Quel animal porte le nom de Flipper, de la série du même nom ?",
+        "propositions": [
+          "Un lion",
+          "Un chien",
+          "Un dauphin",
+          "Un ours"
+        ],
+        "réponse": "Un dauphin",
+        "anecdote": "'Flipper le dauphin' est une série télévisée américaine en 88 épisodes de 25 minutes, créée par Ricou Browning et Jack Cowden."
+      },
+      {
+        "id": 3,
+        "question": "Quelle est la race du célèbre 'Lassie, chien fidèle', héros d'un feuilleton télévisé ?",
+        "propositions": [
+          "Cocker",
+          "Yorshire",
+          "Berger allemand",
+          "Colley"
+        ],
+        "réponse": "Colley",
+        "anecdote": "La production avait à l'origine engagé un colley femelle pour le rôle de Lassie, mais la chienne avait trop peur des cascades."
+      },
+      {
+        "id": 4,
+        "question": "Quel est le nom de la famille de Bobby, de JR et des autres dans 'Dallas' ?",
+        "propositions": [
+          "Krebbs",
+          "Ewing",
+          "Shepard",
+          "Barnes"
+        ],
+        "réponse": "Ewing",
+        "anecdote": "Le succès de 'Dallas' donnera naissance à un autre feuilleton, 'Côte Ouest', se déroulant en Californie, près de Los Angeles."
+      },
+      {
+        "id": 5,
+        "question": "Qui incarne 'Maguy' à la télévision aux côtés de Jean-Marc Thibault ?",
+        "propositions": [
+          "Sophie Artur",
+          "Marthe Villalonga",
+          "Mado Maurin",
+          "Rosy Varte"
+        ],
+        "réponse": "Rosy Varte",
+        "anecdote": "Rosy Varte est la seule comédienne de la série présente dans la totalité des 333 épisodes de 26 minutes environ."
+      },
+      {
+        "id": 6,
+        "question": "Quel personnage de 'Star Trek' et ami du capitaine Kirk a les oreilles pointues ?",
+        "propositions": [
+          "Chekov",
+          "Sulu",
+          "Spock",
+          "Scotty"
+        ],
+        "réponse": "Spock",
+        "anecdote": "Mi-homme mi-vulcain, Spock est torturé entre la raison et la logique de sa moitié vulcaine et les émotions humaines."
+      },
+      {
+        "id": 7,
+        "question": "Quel est le grade de Columbo, interprété sur les écrans par Peter Falk ?",
+        "propositions": [
+          "Sergent",
+          "Commandant",
+          "Capitaine",
+          "Lieutenant"
+        ],
+        "réponse": "Lieutenant",
+        "anecdote": "Columbo viendrait du personnage qu'interprète Charles Vanel dans 'Les Diaboliques', le film d'Henri-Georges Clouzot sorti en 1955."
+      },
+      {
+        "id": 8,
+        "question": "Comment se prénomme le fidèle serviteur du célèbre Zorro ?",
+        "propositions": [
+          "Esteban",
+          "Galindo",
+          "Garcia",
+          "Bernardo"
+        ],
+        "réponse": "Bernardo",
+        "anecdote": "Muet, Bernardo se fait passer pour sourd afin de laisser traîner ses oreilles un peu partout et d'ensuite rendre compte à son maître."
+      },
+      {
+        "id": 9,
+        "question": "Qui interprète la chanson 'Bioman' ainsi que le deuxième générique de 'Capitaine Flam' ?",
+        "propositions": [
+          "Sébastien Roch",
+          "Christophe Rippert",
+          "Gérard Vives",
+          "Bernard Minet"
+        ],
+        "réponse": "Bernard Minet",
+        "anecdote": "À partir de 1987, Bernard Minet est présent à la télévision chaque mercredi dans le 'Club Dorothée' sur TF1, au sein des Musclés."
+      },
+      {
+        "id": 10,
+        "question": "Quelle marque de voiture est conduite par le séduisant Thomas Magnum ?",
+        "propositions": [
+          "BMW",
+          "Audi",
+          "Porsche",
+          "Ferrari"
+        ],
+        "réponse": "Ferrari",
+        "anecdote": "Initialement, les producteurs voulaient que Magnum conduise une Porsche 928 mais Porsche a refusé cette commande spéciale."
+      }
+    ],
+    "confirmé": [
+      {
+        "id": 11,
+        "question": "Dans quelle série française l'actrice Chantal Nobel dirige-t-elle un journal ?",
+        "propositions": [
+          "Anges et Loups",
+          "Marc et Sophie",
+          "Châteauvallon",
+          "Navarro"
+        ],
+        "réponse": "Châteauvallon",
+        "anecdote": "La trame de la série télévisée 'Châteauvallon' ainsi que les six premiers épisodes ont été écrits par le romancier Georges Conchon."
+      },
+      {
+        "id": 12,
+        "question": "Quelle est l'occupation principale des Shadoks créés par Jacques Rouxel ?",
+        "propositions": [
+          "Pomper",
+          "Dormir",
+          "Jouer",
+          "Manger"
+        ],
+        "réponse": "Pomper",
+        "anecdote": "La langue Shadok, que certains appelèrent la langue Gabuzomeuse, comprend quatre phonèmes de base : GA, BU, ZO, MEU."
+      },
+      {
+        "id": 13,
+        "question": "Quel est le métier de Jessica Fletcher dans la série télévisée 'Arabesque' ?",
+        "propositions": [
+          "Avocate",
+          "Peintre",
+          "Journaliste",
+          "Écrivain"
+        ],
+        "réponse": "Écrivain",
+        "anecdote": "Le succès d''Arabesque' a permis la mise en chantier de la série dérivée 'La Loi du privé', basée sur le personnage d'Harry McGraw."
+      },
+      {
+        "id": 14,
+        "question": "Qui est le chef de l'équipe de 'Mission Impossible' dans la série des années 60 ?",
+        "propositions": [
+          "Barney Collier",
+          "Willy Armitage",
+          "Jim Phelps",
+          "Cinnamon Carter"
+        ],
+        "réponse": "Jim Phelps",
+        "anecdote": "Le premier film déclencha la colère de Peter Graves, furieux que Brian De Palma ait pu faire de Jim Phelps un criminel."
+      },
+      {
+        "id": 15,
+        "question": "Quel policier est le chevalier servant et collègue de Dee Dee Mc Call à la télévision ?",
+        "propositions": [
+          "Rick Hunter",
+          "Matt Helm",
+          "Sam Spade",
+          "Jim Phelps"
+        ],
+        "réponse": "Rick Hunter",
+        "anecdote": "Placé dans une case horaire le vendredi soir en concurrence avec 'Dallas', la série aura des difficultés à trouver son public."
+      },
+      {
+        "id": 16,
+        "question": "Quel personnage de feuilleton télévisé conduit la plupart du temps une Aston-Martin jaune ?",
+        "propositions": [
+          "Kojak",
+          "Brett Sinclair",
+          "Arsène Lupin",
+          "Jessica Fletcher"
+        ],
+        "réponse": "Brett Sinclair",
+        "anecdote": "L'exemplaire de la série, de couleur Bahama Yellow, a été racheté en 1995 par un fan qui l'a fait restaurer dans son état d'origine."
+      },
+      {
+        "id": 17,
+        "question": "Quelle est la profession de 'l'Homme qui tombe à pic' dans la série du même nom ?",
+        "propositions": [
+          "Vendeur de voitures",
+          "Cascadeur",
+          "Astronaute",
+          "Banquier"
+        ],
+        "réponse": "Cascadeur",
+        "anecdote": "Colt Seavers, un cascadeur d'Hollywood, devient chasseur de primes lorsque le cinéma ne lui fournit pas suffisamment de travail."
+      },
+      {
+        "id": 18,
+        "question": "Quelle série télévisée raconte les mésaventures d'un centre vétérinaire en Afrique ?",
+        "propositions": [
+          "Lassie",
+          "Mon ami Ben",
+          "Woobinda",
+          "Daktari"
+        ],
+        "réponse": "Daktari",
+        "anecdote": "La série 'Daktari' ne fut pas tournée en Afrique mais plutôt  à 43 km au nord de Los Angeles, à Africa USA, en Californie."
+      },
+      {
+        "id": 19,
+        "question": "À qui Tony Curtis s'adresse-t-il en prononçant les mots « son altesse » ?",
+        "propositions": [
+          "Guy Williams",
+          "Peter Falk",
+          "Don Diamond",
+          "Roger Moore"
+        ],
+        "réponse": "Roger Moore",
+        "anecdote": "Michel Roux raconte que Tony Curtis lui aurait demandé d'assurer par contrat tous ses doublages (voix française) à venir."
+      },
+      {
+        "id": 20,
+        "question": "Dans quel ancien feuilleton Barney réussit-il des prodiges techniques ?",
+        "propositions": [
+          "Star Trek",
+          "Mission Impossible",
+          "Bioman",
+          "Le prisonnier"
+        ],
+        "réponse": "Mission Impossible",
+        "anecdote": "Cette série, très innovante par sa forme, connut un succès considérable mais fut arrêtée au terme de sa septième saison."
+      }
+    ],
+    "expert": [
+      {
+        "id": 21,
+        "question": "Quel est le grade de Steve Austin, l'homme bionique des années 80 ?",
+        "propositions": [
+          "Commandant",
+          "Lieutenant",
+          "Colonel",
+          "Capitaine"
+        ],
+        "réponse": "Colonel",
+        "anecdote": "Le crash d'avion pendant le générique utilise le film du crash réel d'un prototype, le 10 mai 1967 sur la Edwards Air Force Base."
+      },
+      {
+        "id": 22,
+        "question": "Quelle est la profession de Marc dans le feuilleton télévisé 'Marc et Sophie' ?",
+        "propositions": [
+          "Styliste",
+          "Vétérinaire",
+          "Banquier",
+          "Concierge"
+        ],
+        "réponse": "Vétérinaire",
+        "anecdote": "La majeure partie des histoires se déroule dans l'appartement comprenant la salle d'attente (commune) et leurs cabinets."
+      },
+      {
+        "id": 23,
+        "question": "À quoi reconnaît-on 'Les envahisseurs' dans la série du même nom ?",
+        "propositions": [
+          "Aux yeux",
+          "Au langage",
+          "Au petit doigt",
+          "Aux pieds"
+        ],
+        "réponse": "Au petit doigt",
+        "anecdote": "La série s'inscrit dans la mode de la science-fiction qui avait elle-même supplanté les innombrables films noirs en vogue."
+      },
+      {
+        "id": 24,
+        "question": "Quel genre d'animal est Ben, le héros de la série 'Mon ami Ben' ?",
+        "propositions": [
+          "Un lion",
+          "Un éléphant",
+          "Une panthère",
+          "Un ours brun"
+        ],
+        "réponse": "Un ours brun",
+        "anecdote": "Au générique, le jeune héros est incarné par Clint Howard, qui n'est autre que le frère de l'acteur et réalisateur Ron Howard."
+      },
+      {
+        "id": 25,
+        "question": "Comme se prénommait le poney héros d'un ancien feuilleton télévisé ?",
+        "propositions": [
+          "Suzy",
+          "Doly",
+          "Poly",
+          "Harry"
+        ],
+        "réponse": "Poly",
+        "anecdote": "Mehdi El Glaoui, alors âgé de cinq ans au début du feuilleton 'Poly', est le fils de l'actrice et réalisatrice française Cécile Aubry."
+      },
+      {
+        "id": 26,
+        "question": "Quel feuilleton réunissait Pierre et Bob, à savoir Edward Meeks et Yves Rénier ?",
+        "propositions": [
+          "Les Globes-trotters",
+          "Allô Police",
+          "Commandant X",
+          "Quand on est deux"
+        ],
+        "réponse": "Les Globes-trotters",
+        "anecdote": "Cette série met en scène les aventures de deux journalistes qui font le pari de faire le tour du monde avec leurs seules économies."
+      },
+      {
+        "id": 27,
+        "question": "Dans quel feuilleton policier Joe La Fiamma a-t-il déposé un bonsaï sur son bureau ?",
+        "propositions": [
+          "Kojak",
+          "Arabesque",
+          "Texas Police",
+          "NCIS"
+        ],
+        "réponse": "Texas Police",
+        "anecdote": "En France, la série télévisée 'Texas Police', avec Michael Beck et Michael Paré, a été découverte par le public sur TF1 en 1988."
+      },
+      {
+        "id": 28,
+        "question": "Dans quelle ville Taggart, héros du feuilleton télévisé du même nom, mène-t-il ses enquêtes ?",
+        "propositions": [
+          "Dublin",
+          "Londres",
+          "Rome",
+          "Glasgow"
+        ],
+        "réponse": "Glasgow",
+        "anecdote": "Cette série est vue comme relevant du film noir par ses intrigues particulièrement sombres et son atmosphère lourde et menaçante."
+      },
+      {
+        "id": 29,
+        "question": "Quel acteur incarne Arsène Lupin dans un feuilleton télévisé sorti en 1971 ?",
+        "propositions": [
+          "Henri Virlogeux",
+          "Roger Carel",
+          "Georges Descrières",
+          "Yvon Bouchard"
+        ],
+        "réponse": "Georges Descrières",
+        "anecdote": "En 1980, Jean-Claude Brialy a pris la succession de Georges Descrières dans la peau d'Arsène Lupin, le gentleman-cambioleur."
+      },
+      {
+        "id": 30,
+        "question": "Quel est le prénom de Kojak, élégant policier au crâne rasé ?",
+        "propositions": [
+          "Roger",
+          "Theo",
+          "Walter",
+          "Denis"
+        ],
+        "réponse": "Theo",
+        "anecdote": "C'est au cours du huitième épisode (saison 1) que Theo Kojak apparaît pour la première fois avec une sucette à la bouche.
+"
+      }
+    ]
+  }
+}

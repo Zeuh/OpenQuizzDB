@@ -1,0 +1,374 @@
+{
+  "fournisseur": "OpenQuizzDB - Fournisseur de contenu libre (www.openquizzdb.org)",
+  "rédacteur": "Philippe Bresoux",
+  "thème": "Réalisatrices françaises",
+  "difficulté": 4,
+  "quizz": {
+    "débutant": [
+      {
+        "id": 1,
+        "question": "Quelle comédie de Josiane Balasko traite de lhomosexualité féminine ?",
+        "propositions": [
+          "Cliente",
+          "Les Keufs",
+          "Sac de nuds",
+          "Gazon maudit"
+        ],
+        "réponse": "Gazon maudit",
+        "anecdote": "Josiane Balasko a voulu réaliser un film empreint d'humour et de scènes alliant la poésie au comique de situations tragiques et drôles."
+      },
+      {
+        "id": 2,
+        "question": "Qui a réalisé le film 'Le Goût des autres', ayant obtenu de nombreuses récompenses ?",
+        "propositions": [
+          "Isabelle Montoya",
+          "Agnès Jaoui",
+          "Coline Serreau",
+          "Zabou Breitman"
+        ],
+        "réponse": "Agnès Jaoui",
+        "anecdote": "Jean-Pierre Darroussin apparaît furtivement dans une scène du film, dans le public de la salle de théâtre."
+      },
+      {
+        "id": 3,
+        "question": "Dans lequel de ses films Valérie Lemercier se fait-elle passer pour un garçon ?",
+        "propositions": [
+          "Le Derrière",
+          "Quadrille",
+          "100% cachemire",
+          "Palais Royal !"
+        ],
+        "réponse": "Le Derrière",
+        "anecdote": "Valérie Lemercier a adapté au cinéma la pièce de Sacha Guitry, 'Quadrille', et a réalisé une quinzaine de films publicitaires."
+      },
+      {
+        "id": 4,
+        "question": "À qui doit-on le film 'Je vous trouve très beau', avec Michel Blanc ?",
+        "propositions": [
+          "Isabelle Mergault",
+          "Coline Serreau",
+          "Zabou Breitman",
+          "Josiane Balasko"
+        ],
+        "réponse": "Isabelle Mergault",
+        "anecdote": "Le titre finalement retenu correspond à la phrase standard en français apprise par toutes les candidates roumaines au mariage."
+      },
+      {
+        "id": 5,
+        "question": "Quelle actrice de 'La Boum' a réalisé 'La Disparue de Deauville' en 2007 ?",
+        "propositions": [
+          "Dominique Lavanant",
+          "Sophie Marceau",
+          "Brigitte Fossey",
+          "Denise Grey"
+        ],
+        "réponse": "Sophie Marceau",
+        "anecdote": "Le film a été tourné essentiellement dans la ville du Havre, dans le célèbre centre commercial Espace Coty."
+      },
+      {
+        "id": 6,
+        "question": "Qui a filmé 'Trois hommes et un couffin', film aux dix millions d'entrées ?",
+        "propositions": [
+          "Agnès Jaoui",
+          "Christine Laurent ",
+          "Coline Serreau",
+          "Florence Quentin"
+        ],
+        "réponse": "Coline Serreau",
+        "anecdote": "Ce film aux trois Césars possède un remake américain, 'Trois hommes et un bébé', et un remake indien, 'Heyy Babyy'."
+      },
+      {
+        "id": 7,
+        "question": "À qui doit-on le film 'Rouge Baiser' qui propulsa Charlotte Valandrey ?",
+        "propositions": [
+          "Isabelle Mergault",
+          "Véra Belmont",
+          "Agnès Jaoui",
+          "Zabou Breitman"
+        ],
+        "réponse": "Véra Belmont",
+        "anecdote": "Le titre est une allusion détournée au rouge à lèvres 'Rouge Baiser' des Parfums Christian Dior lancé en 1955."
+      },
+      {
+        "id": 8,
+        "question": "Quelle réalisatrice vous propose de 'Se souvenir des belles choses' ?",
+        "propositions": [
+          "Zabou Breitman",
+          "Coline Serreau",
+          "Agnès Jaoui",
+          "Josiane Balasko"
+        ],
+        "réponse": "Zabou Breitman",
+        "anecdote": "Isabelle Carré et Bernard Campan ont reçu pour ce film la Chistera de bronze au Festival de Saint-Jean-de-Luz."
+      },
+      {
+        "id": 9,
+        "question": "Quel film de Nicole Garcia a réuni Lanvin et Giraudeau sur les écrans ?",
+        "propositions": [
+          "Selon Charlie",
+          "Un beau dimanche",
+          "15 août",
+          "Le Fils préféré"
+        ],
+        "réponse": "Le Fils préféré",
+        "anecdote": "Ce film, sorti en 1994, a valu à Gérard Lanvin de recevoir un an plus tard le César du meilleur acteur."
+      },
+      {
+        "id": 10,
+        "question": "Quel animal est aussi le titre d'un film réalisé par Isabelle Nanty ?",
+        "propositions": [
+          "Le Lion",
+          "Le Buffle",
+          "Le Lama",
+          "Le Bison"
+        ],
+        "réponse": "Le Bison",
+        "anecdote": "Tout sépare un gardienne d'immeuble de son voisin bohème : pourtant, un évènement inattendu va les contraindre à s'entraider."
+      }
+    ],
+    "confirmé": [
+      {
+        "id": 11,
+        "question": "Qui est l'actrice principale du film 'Chimère' réalisé par Claire Devers ?",
+        "propositions": [
+          "Sophie Marceau",
+          "Josiane Balasko",
+          "Béatrice Dalle",
+          "Mélanie Laurent"
+        ],
+        "réponse": "Béatrice Dalle",
+        "anecdote": "Ce drame, interprété par Francis Frappat et Béatrice Dalle, traite brillamment de la désagrégation d'un couple."
+      },
+      {
+        "id": 12,
+        "question": "Quel est le thème du film 'France Boutique', réalisé par Tonie Marshall ?",
+        "propositions": [
+          "Le téléachat",
+          "La mode",
+          "Les réseaux sociaux",
+          "Le mariage"
+        ],
+        "réponse": "Le téléachat",
+        "anecdote": "Pour camper sa présentatrice, à la fois sexy et lucide mais de manière décalée, Tonie Marshall a fait appel à Judith Godrèche."
+      },
+      {
+        "id": 13,
+        "question": "Quel film de Coline Serreau a réuni Vincent Lindon et Catherine Frot sur les écrans ?",
+        "propositions": [
+          "Chaos",
+          "La Belle Verte",
+          "La Crise",
+          "Couleur locale"
+        ],
+        "réponse": "Chaos",
+        "anecdote": "C'est la troisième fois que Vincent Lindon tourne sous la direction de Coline Serreau, après 'La Crise' en 1992 et 'La Belle Verte' en 1996."
+      },
+      {
+        "id": 14,
+        "question": "Qui a présenté son film 'La Bataille de Solférino ' au festival de Cannes 2013 ?",
+        "propositions": [
+          "Christine Laurent",
+          "Justine Triet",
+          "Isabelle Montoya",
+          "Julie Lipinski"
+        ],
+        "réponse": "Justine Triet",
+        "anecdote": "Une partie du film a été réellement filmée le jour de la victoire de François Hollande au deuxième tour de l'élection présidentielle."
+      },
+      {
+        "id": 15,
+        "question": "Quel film de Danièle Thompson a remporté un franc succès auprès du public ?",
+        "propositions": [
+          "Le Code a changé",
+          "Le Dîner de Cons",
+          "Bernie",
+          "Les Visiteurs"
+        ],
+        "réponse": "Le Code a changé",
+        "anecdote": "La porte d'accès à la cour est celle du 10 place du Jourdain à Paris 20ème (cette place jouxte la rue de Belleville)."
+      },
+      {
+        "id": 16,
+        "question": "Quelle réalisatrice a filmé des aristocrates désargentés dans un film de 2006 ?",
+        "propositions": [
+          "Ch. de Turckheim",
+          "Marie-France Pisier",
+          "Florence Quentin",
+          "Agnès Jaoui"
+        ],
+        "réponse": "Ch. de Turckheim",
+        "anecdote": "Le film 'Les Aristos', sorti en 2006, a été tourné à Nandy et au château de Vaux-le-Vicomte."
+      },
+      {
+        "id": 17,
+        "question": "Quel film de Lola Doillon a pour actrice principale Kristin Scott Thomas ?",
+        "propositions": [
+          "La Doublure",
+          "Cherchez Hortense",
+          "Contre toi",
+          "Bel Ami"
+        ],
+        "réponse": "Contre toi",
+        "anecdote": "Intéressée par le sujet, Lola Doillon a ici voulu saisir les sentiments d'une personne enfermée avec quelqu'un qu'elle déteste."
+      },
+      {
+        "id": 18,
+        "question": "Qui a réalisé le film 'Olé!', avec Gad Elmaleh et Gérard Depardieu ?",
+        "propositions": [
+          "Josiane Balasko",
+          "Marie-France Pisier",
+          "Florence Quentin",
+          "Agnès Jaoui"
+        ],
+        "réponse": "Florence Quentin",
+        "anecdote": "La chanson magistralement interprétée par Carmen à un moment du film est 'Obsesion' d'Aventura."
+      },
+      {
+        "id": 19,
+        "question": "Quel film de Stéphanie Murat, sorti en 2013, a été coproduit par Thierry Ardisson ?",
+        "propositions": [
+          "Fred",
+          "Jim",
+          "Max",
+          "Karl"
+        ],
+        "réponse": "Max",
+        "anecdote": "Avant la mise en scène, Stéphanie Murat avait effectué ses premiers pas dans le monde du septième art en tant que comédienne."
+      },
+      {
+        "id": 20,
+        "question": "Quelle comédie dramatique française de Claire Simon a pour décor la RATP ?",
+        "propositions": [
+          "Gare de l'Est",
+          "Gare de l'Ouest",
+          "Gare du Sud",
+          "Gare du Nord"
+        ],
+        "réponse": "Gare du Nord",
+        "anecdote": "Reda Kateb a reçu le Bayard d'Or du meilleur comédien au Festival international du film francophone de Namur 2013."
+      }
+    ],
+    "expert": [
+      {
+        "id": 21,
+        "question": "Quel film de Mélanie Laurent est adapté du premier roman d'Anne-Sophie Brasme ?",
+        "propositions": [
+          "Les Adoptés",
+          "De moins en moins",
+          "Respire",
+          "À ses pieds"
+        ],
+        "réponse": "Respire",
+        "anecdote": "Mélanie Laurent signe avec 'Respire' un très beau film, suffocant et tendu, sur la cruauté et la fragilité adolescentes."
+      },
+      {
+        "id": 22,
+        "question": "Lequel de ces films n'est pas de Catherine Breillat, romancière, réalisatrice et scénariste française ?",
+        "propositions": [
+          "Barbe bleue ",
+          "Rouge Baiser",
+          "Romance ",
+          "Tapage nocturne "
+        ],
+        "réponse": "Rouge Baiser",
+        "anecdote": "En janvier 2014, Catherine Breillat a été promue au grade de commandeur de l'ordre des Arts et des Lettres."
+      },
+      {
+        "id": 23,
+        "question": "Quel film réalisé par Arielle Dombasle est librement inspiré de Jean Cocteau ?",
+        "propositions": [
+          "Gradiva",
+          "Sagan",
+          "Opium",
+          "Vatel"
+        ],
+        "réponse": "Opium",
+        "anecdote": "Éric Neuhoff estime que le film est « ahurissant de prétention » et le qualifie « d'amateurisme pompeux »."
+      },
+      {
+        "id": 24,
+        "question": "Dans quel film Jeanne Moreau est-elle à la fois actrice et réalisatrice ?",
+        "propositions": [
+          "Plein sud",
+          "Lumière",
+          "Chère Louise",
+          "Monsieur Klein"
+        ],
+        "réponse": "Lumière",
+        "anecdote": "Avec ce film, Francine Racette a été nominée aux Césars 1977 pour le prix de la meilleure actrice dans un second rôle."
+      },
+      {
+        "id": 25,
+        "question": "Lequel de ces films n'est pas de la réalisatrice Tonie Marshall ?",
+        "propositions": [
+          "Passe-passe",
+          "Vénus beauté",
+          "Quadrille",
+          "France Boutique"
+        ],
+        "réponse": "Quadrille",
+        "anecdote": "Tonie Marshall est la fille de l'actrice française Micheline Presle et de l'acteur et réalisateur américain William Marshall."
+      },
+      {
+        "id": 26,
+        "question": "Quel est le titre du premier film de Macha Makeïeff, sorti en 1985 ?",
+        "propositions": [
+          "Contre toi",
+          "Le Derrière",
+          "Le Code a changé",
+          "Tam-Tam"
+        ],
+        "réponse": "Tam-Tam",
+        "anecdote": "Macha Makeïeff a par ailleurs fondé avec Jérôme Deschamps et Sophie Tatischeff en 2001 « Les Films de mon Oncle »."
+      },
+      {
+        "id": 27,
+        "question": "Quelle réalisatrice française a proposé en 2005 'Le Plus Beau Jour de ma vie' ?",
+        "propositions": [
+          "Julie Lipinski",
+          "Christine Laurent",
+          "Isabelle Montoya",
+          "Justine Triet"
+        ],
+        "réponse": "Julie Lipinski",
+        "anecdote": "Le couple succède ainsi au tandem Jean Dujardin-Mathilde Seigner et au duo Thomas Jouannet-Olivia Bonamy."
+      },
+      {
+        "id": 28,
+        "question": "Qui a réalisé le film 'Le Bal du gouverneur', adapté de son propre roman ?",
+        "propositions": [
+          "Justine Triet",
+          "Marie-France Pisier",
+          "Julie Lipinski",
+          "Josiane Balasko"
+        ],
+        "réponse": "Marie-France Pisier",
+        "anecdote": "Le roman, autant que le film sont en grande partie autobiographiques, même si les noms ont été changés."
+      },
+      {
+        "id": 29,
+        "question": "Quelle réalisatrice a créé le Kino K, basé sur la rencontre et la transmission ?",
+        "propositions": [
+          "Isabelle Mergault",
+          "Isabelle Langerome",
+          "Isabelle Montoya",
+          "Isabelle Nanty"
+        ],
+        "réponse": "Isabelle Montoya",
+        "anecdote": "Le défi étant de réaliser des films en trois jours de l'écriture à la projection en passant par la création musicale."
+      },
+      {
+        "id": 30,
+        "question": "À quelle réalisatrice doit-on le film 'Call Me Agostino' sorti en 2006 ?",
+        "propositions": [
+          "Christine Laurent",
+          "Marie-France Pisier",
+          "Florence Quentin",
+          "Agnès Jaoui"
+        ],
+        "réponse": "Christine Laurent",
+        "anecdote": "Christine Laurent forme avec Pascal Bonitzer le tandem qui écrit les scripts et dialogues des films de Jacques Rivette."
+      }
+    ]
+  }
+}

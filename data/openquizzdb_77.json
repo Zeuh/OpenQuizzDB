@@ -1,0 +1,374 @@
+{
+  "fournisseur": "OpenQuizzDB - Fournisseur de contenu libre (www.openquizzdb.org)",
+  "rédacteur": "Philippe Bresoux",
+  "thème": "Haut en couleur",
+  "difficulté": 3,
+  "quizz": {
+    "débutant": [
+      {
+        "id": 1,
+        "question": "Sur quel album de Tintin, proche de l'actualité de l'époque, peut-on voir un dragon noir ?",
+        "propositions": [
+          "L'île noire",
+          "Le Soleil rouge",
+          "Le Lotus bleu",
+          "Le Crabe vert"
+        ],
+        "réponse": "Le Lotus bleu",
+        "anecdote": "'Le Lotus bleu' est le premier album directement publié par les Éditions Casterman possédant des hors-texte."
+      },
+      {
+        "id": 2,
+        "question": "En football, quel carton entraîne un arrêt de jeu et une expulsion ?",
+        "propositions": [
+          "Blanc",
+          "Jaune",
+          "Vert",
+          "Rouge"
+        ],
+        "réponse": "Rouge",
+        "anecdote": "Le carton rouge a été inventé à la suite de la Coupe du monde de football de 1966 après un quart de finale particulièrement tendu."
+      },
+      {
+        "id": 3,
+        "question": "Quelles couleurs faut-il associer pour obtenir du vert, couleur de la plupart des feuillages ?",
+        "propositions": [
+          "Orange et gris",
+          "Jaune et bleu",
+          "Rouge et noir",
+          "Marron et beige"
+        ],
+        "réponse": "Jaune et bleu",
+        "anecdote": "Contrairement à d'autres couleurs, le vert conserve son nom, vert pâle ou vert foncé, vert vif ou vert grisâtre."
+      },
+      {
+        "id": 4,
+        "question": "Laquelle de ces couleurs est aussi un album de Fredericks Goldman Jones ?",
+        "propositions": [
+          "Vert",
+          "Rouge",
+          "Jaune",
+          "Bleu"
+        ],
+        "réponse": "Rouge",
+        "anecdote": "Cet album a la particularité d'avoir, pour sa version collector, une pochette en aluminium, dont la face est entièrement sculptée."
+      },
+      {
+        "id": 5,
+        "question": "Quelle maison est « adossée à la colline dont les propriétaires ont jeté la clef » ?",
+        "propositions": [
+          "Verte",
+          "Rouge",
+          "Bleue",
+          "Blanche"
+        ],
+        "réponse": "Bleue",
+        "anecdote": "En 2011, la maison située au 3841 de la 18th Street était peinte en vert clair. Les propriétaires acceptèrent de la repeindre en bleu."
+      },
+      {
+        "id": 6,
+        "question": "Quel petit vin se boit sous les tonnelles du côté de Nogent ?",
+        "propositions": [
+          "Blanc",
+          "Rosé",
+          "Gris",
+          "Rouge"
+        ],
+        "réponse": "Blanc",
+        "anecdote": "Cette chanson, écrite en 1943, a été composée par Charles Borel-Clerc et chantée par Lina Margy."
+      },
+      {
+        "id": 7,
+        "question": "Comment est la souris dans une célèbre comptine pour enfants ?",
+        "propositions": [
+          "Verte",
+          "Blanche",
+          "Noire",
+          "Rose"
+        ],
+        "réponse": "Verte",
+        "anecdote": "Cette chanson anonyme et très connue paraît remonter de la fin du XVII<sup>e</sup> siècle ou au commencement du XVIII<sup>e</sup> siècle."
+      },
+      {
+        "id": 8,
+        "question": "Comment voyez-vous les éléphants après avoir abusé du cannabis ?",
+        "propositions": [
+          "Verts",
+          "Jaunes",
+          "Oranges",
+          "Roses"
+        ],
+        "réponse": "Roses",
+        "anecdote": "Le cannabis récréatif est considéré comme une drogue douce du fait de l'impossibilité de faire une overdose en fumant."
+      },
+      {
+        "id": 9,
+        "question": "Qui ont déçu la France en juin 2010 lors de la Coupe du monde de football ?",
+        "propositions": [
+          "Les Bleus",
+          "Les Verts",
+          "Les Jaunes",
+          "Les Rouges"
+        ],
+        "réponse": "Les Bleus",
+        "anecdote": "Le maillot de l'équipe de France de football arbore une étoile au-dessus du coq depuis sa victoire en Coupe du monde 1998."
+      },
+      {
+        "id": 10,
+        "question": "De quelle couleur Édith Piaf voyait-elle la vie sur une musique composée par Louiguy ?",
+        "propositions": [
+          "En blanc",
+          "En rose",
+          "En bleu",
+          "En gris"
+        ],
+        "réponse": "En rose",
+        "anecdote": "C'est sous ce titre que l'adaptation du film 'La Môme' est sortie dans de nombreux pays (dont le Canada)."
+      }
+    ],
+    "confirmé": [
+      {
+        "id": 11,
+        "question": "Quelle est la couleur de la célèbre île dessinée par Hergé ?",
+        "propositions": [
+          "Rouge",
+          "Bleue",
+          "Verte",
+          "Noire"
+        ],
+        "réponse": "Noire",
+        "anecdote": "Dans l'édition de 1965, Hergé redessina l'album à la demande des anglais jugeant la Grande-Bretagne non conforme à la réalité."
+      },
+      {
+        "id": 12,
+        "question": "Le curaçao est une liqueur d'orange généralement présentée de quelle couleur ?",
+        "propositions": [
+          "Bleue",
+          "Rouge",
+          "Orange",
+          "Verte"
+        ],
+        "réponse": "Bleue",
+        "anecdote": "Le curaçao est une liqueur d'orange titrant entre 20 et 40 degrés, utilisée pour confectionner de nombreux cocktails."
+      },
+      {
+        "id": 13,
+        "question": "Quel gâteau est généralement fourré de cerises au sirop ?",
+        "propositions": [
+          "Rose des sables",
+          "Sabayon rouge",
+          "Forêt noire",
+          "Dame blanche"
+        ],
+        "réponse": "Forêt noire",
+        "anecdote": "Ce gâteau est monté à partir de génoise au cacao, parfumée au kirsch, et fourrée de cerises au sirop et de crème chantilly."
+      },
+      {
+        "id": 14,
+        "question": "Comment est le chien dans un célèbre roman policier écrit par Georges Simenon ?",
+        "propositions": [
+          "Bleu",
+          "Rouge",
+          "Blanc",
+          "Jaune"
+        ],
+        "réponse": "Jaune",
+        "anecdote": "La présence du chien jaune aux tournants de l'action apparaît comme le motif symbolique de la peur mystérieuse qui plane."
+      },
+      {
+        "id": 15,
+        "question": "Dans quelle ville êtes-vous si vous êtes au bout de la Côte Bleue ?",
+        "propositions": [
+          "Wimereux",
+          "Martigues",
+          "Escalles",
+          "Wissant"
+        ],
+        "réponse": "Martigues",
+        "anecdote": "La Côte Bleue désigne la portion de côte méditerranéenne située à louest de Marseille, jusqu'à l'embouchure de l'étang de Berre."
+      },
+      {
+        "id": 16,
+        "question": "Qu'est ce qui est rouge dans un film de Jean-Pierre Melville ?",
+        "propositions": [
+          "Le flic",
+          "Le silence",
+          "Le cercle",
+          "Le souffle"
+        ],
+        "réponse": "Le cercle",
+        "anecdote": "'Le Cercle rouge' est l'avant-dernier film de Bourvil, alors déjà victime de la maladie de Kahler."
+      },
+      {
+        "id": 17,
+        "question": "Lequel de ces romans, écrit par Michel Déon, est paru en avril 1973 aux éditions Gallimard ?",
+        "propositions": [
+          "Le cercle rouge",
+          "La jument verte",
+          "La chambre jaune",
+          "Un taxi mauve"
+        ],
+        "réponse": "Un taxi mauve",
+        "anecdote": "Ce roman, dont le récit se déroule en Irlande, a été adapté par Yves Boisset dans son film 'Un taxi mauve' en 1977."
+      },
+      {
+        "id": 18,
+        "question": "De quelle couleur est la jument du roman de Marcel Aymé, écrit en 1933 ?",
+        "propositions": [
+          "Verte",
+          "Noire",
+          "Orange",
+          "Rouge"
+        ],
+        "réponse": "Verte",
+        "anecdote": "Une aire de repos sur l'A39, située à Colonne dans le Jura, a été appelée l'« aire de la Jument verte »."
+      },
+      {
+        "id": 19,
+        "question": "Quelle est la couleur de la panthère de Blake Edwards ?",
+        "propositions": [
+          "Verte",
+          "Rose",
+          "Grise",
+          "Blanche"
+        ],
+        "réponse": "Rose",
+        "anecdote": "'La Panthère rose' est une série de onze films réalisés entre 1963 et 2009, la plupart par Blake Edwards."
+      },
+      {
+        "id": 20,
+        "question": "Quel instrument le peintre utilise-t-il pour mélanger de teintes ?",
+        "propositions": [
+          "Un chevalet",
+          "Un fusain",
+          "Un pastel",
+          "Une palette"
+        ],
+        "réponse": "Une palette",
+        "anecdote": "La palette classique est de forme ovoïde et en bois et pensée pour les artistes utilisant des couleurs en tubes."
+      }
+    ],
+    "expert": [
+      {
+        "id": 21,
+        "question": "Lequel de ces vins n'existe ni en rouge ni en blanc mais exclusivement en rosé ?",
+        "propositions": [
+          "Tavel",
+          "Merlot",
+          "Chardonnay",
+          "Gamay"
+        ],
+        "réponse": "Tavel",
+        "anecdote": "Le romancier Honoré de Balzac disait que c'est un des rares rosés que l'on puisse avantageusement laisser vieillir."
+      },
+      {
+        "id": 22,
+        "question": "Qui a écrit 'Le mystère de la chambre jaune', la première aventure de Joseph Rouletabille ?",
+        "propositions": [
+          "Léon Barry",
+          "Marc Bernard",
+          "Pierre Boulle",
+          "Gaston Leroux"
+        ],
+        "réponse": "Gaston Leroux",
+        "anecdote": "L'uvre a été publiée pour la première fois en douze livraisons dans le supplément littéraire de 'L'Illustration' en septembre 1907."
+      },
+      {
+        "id": 23,
+        "question": "Quelle est la couleur du corbeau dans une chanson de Johnny Hallyday ?",
+        "propositions": [
+          "Blanc",
+          "Bleu",
+          "Noir",
+          "Gris"
+        ],
+        "réponse": "Noir",
+        "anecdote": "Né de père belge et de mère française, Johnny Hallyday opta pour la nationalité française, le 15 juin 1961, à l'âge de 18 ans."
+      },
+      {
+        "id": 24,
+        "question": "Qu'est-ce qui est rouge dans un film de Gérard Krawczyk ?",
+        "propositions": [
+          "La Vie",
+          "L'Auberge",
+          "Le Taxi",
+          "La Tulipe"
+        ],
+        "réponse": "L'Auberge",
+        "anecdote": "Le film est un remake du film 'L'Auberge rouge' de Claude Autant-Lara, sorti en 1951 et inspiré des crimes de l'auberge de Peyrebeille."
+      },
+      {
+        "id": 25,
+        "question": "Qu'est ce qui porte la couleur noire dans le titre d'un film de Richard Berry ?",
+        "propositions": [
+          "Un parapluie",
+          "Une porte",
+          "Une boîte",
+          "Un chapeau"
+        ],
+        "réponse": "Une boîte",
+        "anecdote": "Des scènes du film ont été tournées à Cherbourg, précisément dans le sous-marin Le Redoutable en cale sèche à la Cité de la mer."
+      },
+      {
+        "id": 26,
+        "question": "À quelle couleur associez-vous l'ictère correspondant à la coloration de la peau et des muqueuses ?",
+        "propositions": [
+          "Jaune",
+          "Gris",
+          "Bleu",
+          "Vert"
+        ],
+        "réponse": "Jaune",
+        "anecdote": "L'ictère peut être plus ou moins intense, mais lorsqu'il débute il est uniquement visible au niveau des conjonctives de l'il."
+      },
+      {
+        "id": 27,
+        "question": "De quelle couleur est l'aiguille située au sommet du Massif de la Vanoise ?",
+        "propositions": [
+          "Rose",
+          "Rouge",
+          "Jaune",
+          "Verte"
+        ],
+        "réponse": "Rouge",
+        "anecdote": "L'aiguille Rouge est le point culminant de la station des Arcs. Son accès est possible par le téléphérique qui monte jusqu'au sommet."
+      },
+      {
+        "id": 28,
+        "question": "Quelle est la couleur du poney de John Steinbeck dans son roman court pour la jeunesse ?",
+        "propositions": [
+          "Orange",
+          "Rouge",
+          "Jaune",
+          "Rose"
+        ],
+        "réponse": "Rouge",
+        "anecdote": "Le roman a été traduit en français par Marcel Duhamel et Max Morise en 1946 dans le recueil 'La Grande Vallée'."
+      },
+      {
+        "id": 29,
+        "question": "Quelle massif des Alpes se situe entre la Suisse et l'Italie ?",
+        "propositions": [
+          "Le mont Rose",
+          "Le mont jaune",
+          " Le mont gris",
+          "Le Mont-Blanc"
+        ],
+        "réponse": "Le mont Rose",
+        "anecdote": "Situé à la frontière entre la Suisse et l'Italie, le mont Rose est le deuxième plus haut massif des Alpes après celui du Mont-Blanc."
+      },
+      {
+        "id": 30,
+        "question": "En aviation, quelle est la couleur de la boîte noire enregistrant des informations liées au vol ?",
+        "propositions": [
+          "Verte",
+          "Noire",
+          "Orange",
+          "Blanche"
+        ],
+        "réponse": "Orange",
+        "anecdote": "Dans la pratique, les boîtes noires sont de couleur orange ou rouge avec des bandes blanches réfléchissantes."
+      }
+    ]
+  }
+}

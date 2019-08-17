@@ -1,0 +1,374 @@
+{
+  "fournisseur": "OpenQuizzDB - Fournisseur de contenu libre (www.openquizzdb.org)",
+  "rédacteur": "Philippe Bresoux",
+  "thème": "Santé et bien-être (Le secret du bonheur c'est d'être bien avec soi)",
+  "difficulté": 3,
+  "quizz": {
+    "débutant": [
+      {
+        "id": 1,
+        "question": "De combien de dents se compose une dentition définitive complète ?",
+        "propositions": [
+          "32",
+          "44",
+          "40",
+          "36"
+        ],
+        "réponse": "32",
+        "anecdote": "La dent est formée de 3 parties distinctes : la couronne (visible), la racine (dans l'os) et le desmodonte qui relie la racine à l'os."
+      },
+      {
+        "id": 2,
+        "question": "Quel type de thermomètre médical fut interdit en France en 1999 ?",
+        "propositions": [
+          "Infrarouge",
+          "De Galilée",
+          "À mercure",
+          "À retournement"
+        ],
+        "réponse": "À mercure",
+        "anecdote": "Le reproche fait au thermomètre à mercure vient qu'il représente un danger en cas de bris, ce qui arrive très fréquemment."
+      },
+      {
+        "id": 3,
+        "question": "En cas de stress, quelle hormone est libérée dans l'organisme ?",
+        "propositions": [
+          "Escaline",
+          "Dopamine",
+          "Éphédrine",
+          "Adrénaline"
+        ],
+        "réponse": "Adrénaline",
+        "anecdote": "Entraînant une accélération du rythme cardiaque, l'adrénaline répond à un besoin d'énergie pour faire face au danger."
+      },
+      {
+        "id": 4,
+        "question": "Quel traitement permet de soigner les maux du corps par l'eau de mer ?",
+        "propositions": [
+          "La réflexologie",
+          "La sophrologie",
+          "La thalassothérapie",
+          "La naturopathie"
+        ],
+        "réponse": "La thalassothérapie",
+        "anecdote": "Les établissements thermaux offrent (aussi) des soins non médicalisés (de confort) appelés souvent « remise en forme »."
+      },
+      {
+        "id": 5,
+        "question": "À quelle fréquence doit-on se faire vacciner contre la grippe ?",
+        "propositions": [
+          "Tous les 5 ans",
+          "Tous les 10 ans",
+          "Tous les 2 ans",
+          "Tous les ans"
+        ],
+        "réponse": "Tous les ans",
+        "anecdote": "Le virus grippal infecte d'autres mammifères que l'Homme, mais c'est chez l'oiseau qu'elle est la plus fréquente."
+      },
+      {
+        "id": 6,
+        "question": "Quelle est la première cause de mortalité évitable en France ?",
+        "propositions": [
+          "L'alcool",
+          "Le sucre",
+          "Le tabac",
+          "La drogue"
+        ],
+        "réponse": "Le tabac",
+        "anecdote": "Outre la dépendance, le tabagisme est responsable de nombreuses maladies dont plus d'une dizaine de cancers différents."
+      },
+      {
+        "id": 7,
+        "question": "Par quoi les os sont-ils reliés entre eux au niveau des articulations ?",
+        "propositions": [
+          "Les tendons",
+          "Les ligaments",
+          "Les bourses",
+          "Les gaines"
+        ],
+        "réponse": "Les ligaments",
+        "anecdote": "Un ligament est une courte bande de tissu conjonctif fibreux composée principalement de longues molécules de collagène."
+      },
+      {
+        "id": 8,
+        "question": "Quel médicament est censé agir sur le malade par autosuggestion ?",
+        "propositions": [
+          "La dermatose",
+          "Le placebo",
+          "L'insuline",
+          "La fistule"
+        ],
+        "réponse": "Le placebo",
+        "anecdote": "Le placebo a une efficacité prouvée avec une moyenne de patients ressentant un effet de 15 à 25%, selon les études."
+      },
+      {
+        "id": 9,
+        "question": "Quels globules assurent le transport de l'oxygène dans le sang ?",
+        "propositions": [
+          "Bleus",
+          "Rouges",
+          "Blancs",
+          "Jaunes"
+        ],
+        "réponse": "Rouges",
+        "anecdote": "La moelle osseuse assure le renouvellement des cellules du sang : les globules et plaquettes sont produits au cur des os."
+      },
+      {
+        "id": 10,
+        "question": "Que peut faire un sportif pour éviter l'arrivée de crampes ?",
+        "propositions": [
+          "Manger",
+          "Fumer",
+          "Boire",
+          "Dormir"
+        ],
+        "réponse": "Boire",
+        "anecdote": "La boisson (une demi-cuillerée à café de sel par litre d'eau) apporte les sels minéraux nécessaires au contrôle de la tension musculaire."
+      }
+    ],
+    "confirmé": [
+      {
+        "id": 11,
+        "question": "Lesquels de ces muscles sont les plus actifs du corps humain ?",
+        "propositions": [
+          "Ceux de l'il",
+          "Ceux de la langue",
+          "Ceux du bras",
+          "Ceux de la jambe"
+        ],
+        "réponse": "Ceux de l'il",
+        "anecdote": "Les muscles oculomoteurs, au nombre de six, servent aux déplacements de l'il : 4 muscles droits et 2 muscles obliques."
+      },
+      {
+        "id": 12,
+        "question": "Qu'obtient-on par la saponification d'une base caustique sur un corps gras ?",
+        "propositions": [
+          "Du dentifrice",
+          "Du savon",
+          "De la laque",
+          "Du shampoing"
+        ],
+        "réponse": "Du savon",
+        "anecdote": "Initialement, cette réaction est connue pour transformer le mélange d'un ester de glycérol et d'une base forte en savon."
+      },
+      {
+        "id": 13,
+        "question": "En France, jusqu'à quel âge peut-on effectuer un don de sang total ?",
+        "propositions": [
+          "60 ans",
+          "50 ans",
+          "70 ans",
+          "40 ans"
+        ],
+        "réponse": "70 ans",
+        "anecdote": "Il faut en revanche être en bonne forme et avoir au minimum 18 ans et moins de 60 ans pour faire son premier don de sang."
+      },
+      {
+        "id": 14,
+        "question": "Quelle maladie infectieuse est la plus répandue dans le monde ?",
+        "propositions": [
+          "La méningite",
+          "Le SIDA",
+          "La toxoplasmose",
+          "Le paludisme"
+        ],
+        "réponse": "Le paludisme",
+        "anecdote": "Avec 207 millions de personnes malades et 627 000 décès en 2012, le paludisme demeure la parasitose la plus importante."
+      },
+      {
+        "id": 15,
+        "question": "Quelle partie des cellules contient le patrimoine génétique ?",
+        "propositions": [
+          "Le noyau",
+          "Le chromosome",
+          "Le pore",
+          "Le ribosome"
+        ],
+        "réponse": "Le noyau",
+        "anecdote": "Le noyau contient le matériel génétique (ADN), sous la forme d'un complexe ADN-protéines appelé « chromatine »."
+      },
+      {
+        "id": 16,
+        "question": "Où se trouve sur la langue la zone qui détecte la saveur sucrée ?",
+        "propositions": [
+          "Sur le bout",
+          "Au centre",
+          "Au fond",
+          "Sur les côtés"
+        ],
+        "réponse": "Sur le bout",
+        "anecdote": "Chez l'humain, les papilles gustatives permettent de reconnaître les différentes saveurs : sucré, salé, amer, l'umami et l'acide."
+      },
+      {
+        "id": 17,
+        "question": "Quelle est la position la plus fatigante pour la colonne vertébrale ?",
+        "propositions": [
+          "En équilibre",
+          "Debout",
+          "Assise",
+          "Couchée"
+        ],
+        "réponse": "Assise",
+        "anecdote": "La position assise exerce une forte pression sur le dernier disque lombaire qui peu à peu risque l'écrasement et donc des séquelles."
+      },
+      {
+        "id": 18,
+        "question": "Quelle partie de la rhubarbe est-il fortement déconseillé de consommer ?",
+        "propositions": [
+          "Les feuilles",
+          "Le pétiole",
+          "Les racines",
+          "Les fleurs"
+        ],
+        "réponse": "Les feuilles",
+        "anecdote": "Très toxiques, les feuilles de la rhubarbe contenant de l'acide oxalique sont parfois utilisées dans la préparation d'insecticides."
+      },
+      {
+        "id": 19,
+        "question": "Que sécrètent principalement les glandes sudoripares ?",
+        "propositions": [
+          "Les poils",
+          "Les cheveux",
+          "Les ongles",
+          "La sueur"
+        ],
+        "réponse": "La sueur",
+        "anecdote": "Les glandes sudoripares (ou sudorales) font partie des glandes exocrines et permettent le phénomène de transpiration."
+      },
+      {
+        "id": 20,
+        "question": "Quelle affection cutanée résulte de l'inflammation des follicules pileux ?",
+        "propositions": [
+          "La varice",
+          "L'acné",
+          "L'angiome",
+          "La cirrhose"
+        ],
+        "réponse": "L'acné",
+        "anecdote": "L'acné est le plus souvent primitive et commence généralement à la puberté, marquant l'adolescence de 85% des gens."
+      }
+    ],
+    "expert": [
+      {
+        "id": 21,
+        "question": "Dans quel pays a été pratiquée la première greffe du visage ?",
+        "propositions": [
+          "Espagne",
+          "France",
+          "États-Unis",
+          "Chine"
+        ],
+        "réponse": "France",
+        "anecdote": "La première greffe partielle du visage au monde fut pratiquée au CHU de Lyon sur une femme de 38 ans, Isabelle Dinoire."
+      },
+      {
+        "id": 22,
+        "question": "Combien de couleurs différentes l'il humain est-il capable de distinguer ?",
+        "propositions": [
+          "300 000",
+          "400 000",
+          "100 000",
+          "200 000"
+        ],
+        "réponse": "300 000",
+        "anecdote": "Chaque il humain est capable de discerner plus facilement les nuances de verts ou de rouges que les nuances de bleus."
+      },
+      {
+        "id": 23,
+        "question": "Quel opiacé de synthèse est utilisé comme substitut à l'héroïne ?",
+        "propositions": [
+          "La méthadone",
+          "Le chanvre",
+          "La kétamine",
+          "Le paracétamol"
+        ],
+        "réponse": "La méthadone",
+        "anecdote": "En tant qu'analgésique narcotique, la méthadone est également utilisée pour soulager des douleurs sévères."
+      },
+      {
+        "id": 24,
+        "question": "Quelle hormone prise en excès est principalement liée à la calvitie ?",
+        "propositions": [
+          "La testostérone",
+          "La cortisone",
+          "La progestérone",
+          "L'acétone"
+        ],
+        "réponse": "La testostérone",
+        "anecdote": "La testostérone est sécrétée essentiellement par les gonades, c'est-à-dire les testicules des mâles et les ovaires des femelles."
+      },
+      {
+        "id": 25,
+        "question": "Quelle médecine douce est fondée sur l'utilisation des huiles essentielles ?",
+        "propositions": [
+          "L'homéopathie",
+          "La réflexologie",
+          "La naturopathie",
+          "L'aromathérapie"
+        ],
+        "réponse": "L'aromathérapie",
+        "anecdote": "L'aromathérapie est à différencier de la phytothérapie qui fait quant à elle usage de l'ensemble des éléments d'une plante."
+      },
+      {
+        "id": 26,
+        "question": "Quelle hormone fait baisser le taux de glucose dans le sang ?",
+        "propositions": [
+          "L'insuline",
+          "La testostérone",
+          "La thyroïde",
+          "La méthadone"
+        ],
+        "réponse": "L'insuline",
+        "anecdote": "La libération de glucose par le foie dans le sang est très fortement limitée par un taux sanguin élevé en insuline."
+      },
+      {
+        "id": 27,
+        "question": "De quel arbre provient la molécule qui permet la fabrication de l'aspirine ?",
+        "propositions": [
+          "Le hêtre",
+          "Le bouleau",
+          "Le saule",
+          "Le sapin"
+        ],
+        "réponse": "Le saule",
+        "anecdote": "On a retrouvé la mention de décoctions de feuilles de saule dans un papyrus égyptien dès 1550 av. J.-C. (papyrus Ebers)."
+      },
+      {
+        "id": 28,
+        "question": "De quelle substance l'organisme des albinos est-il dépourvu ?",
+        "propositions": [
+          "De mélanine",
+          "De quinine",
+          "De dopamine",
+          "D'insuline"
+        ],
+        "réponse": "De mélanine",
+        "anecdote": "Chez l'homme, la peau est blanc cireux ou légèrement rosée, alors que les cheveux sont blancs, comme les poils, sourcils et cils."
+      },
+      {
+        "id": 29,
+        "question": "Quel fut le premier antibiotique découvert en 1928 par Alexander Fleming ?",
+        "propositions": [
+          "L'acétarsol",
+          "Le triclosan",
+          "La dopamine",
+          "La pénicilline"
+        ],
+        "réponse": "La pénicilline",
+        "anecdote": "L'industrialisation à grande échelle de la pénicilline a été menée à bien durant toute la durée de la Seconde Guerre mondiale."
+      },
+      {
+        "id": 30,
+        "question": "Quelle plante réputée pour ses vertus digestives est aussi une héroïne de cinéma ?",
+        "propositions": [
+          "Mystique",
+          "Angélique",
+          "Catwoman",
+          "Nebula"
+        ],
+        "réponse": "Angélique",
+        "anecdote": "Le genre Angelica (les angéliques) comprend environ 70 espèces de grandes plantes herbacées vivaces de la famille des Apiaceae."
+      }
+    ]
+  }
+}

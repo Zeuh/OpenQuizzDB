@@ -1,0 +1,374 @@
+{
+  "fournisseur": "OpenQuizzDB - Fournisseur de contenu libre (www.openquizzdb.org)",
+  "rédacteur": "Philippe Bresoux",
+  "thème": "La Durance",
+  "difficulté": 5,
+  "quizz": {
+    "débutant": [
+      {
+        "id": 1,
+        "question": "De quelle région historique et culturelle de France la Durance est-elle la plus importante rivière ?",
+        "propositions": [
+          "La Provence",
+          "Le Limousin",
+          "La Touraine",
+          "Le Poitou"
+        ],
+        "réponse": "La Provence",
+        "anecdote": "Fortement inspiré par la Durance, la crue de 1907 est évoquée par Jean Giono dans son roman 'La Provence perdue'."
+      },
+      {
+        "id": 2,
+        "question": "Pour quelle raison la Durance, rivière dite « capricieuse », était-elle autrefois redoutée ?",
+        "propositions": [
+          "Sa température",
+          "Ses crues",
+          "Sa couleur",
+          "Ses boues"
+        ],
+        "réponse": "Ses crues",
+        "anecdote": "Un bassin montagneux, des roches sensibles à lérosion et un couvert végétal peu protecteur contribuent aux crues de la Durance."
+      },
+      {
+        "id": 3,
+        "question": "Combien de départements à proprement parler la Durance traverse-t-elle ?",
+        "propositions": [
+          "Six",
+          "Quatre",
+          "Huit",
+          "Deux"
+        ],
+        "réponse": "Deux",
+        "anecdote": "Elle traverse les Hautes-Alpes et les Alpes-de-Haute-Provence, puis fait la frontière entre le Vaucluse et les Bouches-du-Rhône."
+      },
+      {
+        "id": 4,
+        "question": "Quel paysage caractérise la Haute-Durance, de sa source à Serre-Ponçon ?",
+        "propositions": [
+          "Montagneux",
+          "Sablonneux",
+          "Plat",
+          "Boisé"
+        ],
+        "réponse": "Montagneux",
+        "anecdote": "Jusqu'au lac de Serre-Ponçon, la Durance circule dans une vallée plus ou moins large entourée de hautes montagnes."
+      },
+      {
+        "id": 5,
+        "question": "Quelles constructions ont été érigées le long du cours moyen de la Durance ?",
+        "propositions": [
+          "Des barrages",
+          "Des hôpitaux",
+          "Des écoles",
+          "Des musées"
+        ],
+        "réponse": "Des barrages",
+        "anecdote": "Ce sont plutôt des prises deau dont le but principal est de dévier la plus grande partie du débit de la rivière dans le canal EDF."
+      },
+      {
+        "id": 6,
+        "question": "Redoutée pour ses crues et pour ses étiages, comment était autrefois « dite » la Durance ?",
+        "propositions": [
+          "Capricieuse",
+          "Venimeuse",
+          "Mystérieuse",
+          "Majestueuse"
+        ],
+        "réponse": "Capricieuse",
+        "anecdote": "La Durance est une rivière à la fois alpine et méditerranéenne à la morphologie bien particulière."
+      },
+      {
+        "id": 7,
+        "question": "Dans quel type de catégorie de cours d'eau peut-on classer la Durance longue de 323 km ?",
+        "propositions": [
+          "Ruisseau",
+          "Rivière",
+          "Fleuve",
+          "Canal"
+        ],
+        "réponse": "Rivière",
+        "anecdote": "La Durance, difficilement franchissable, reste sur la moitié de son parcours une frontière entre départements."
+      },
+      {
+        "id": 8,
+        "question": "À qui a-t-on confié la mission de laménagement hydroélectrique Durance-Verdon ?",
+        "propositions": [
+          "IRSN",
+          "SDN",
+          "ANDRA",
+          "EDF"
+        ],
+        "réponse": "EDF",
+        "anecdote": "Cet aménagement décidé en 1955 a pris plus de trente ans pour sa réalisation complète qui fut achevée en 1992."
+      },
+      {
+        "id": 9,
+        "question": "Quel écrivain est probablement le plus connu à sêtre inspiré de la Durance pour son uvre ?",
+        "propositions": [
+          "Jean Proal",
+          "Pierre Martel",
+          "Pierre Magnan",
+          "Jean Giono"
+        ],
+        "réponse": "Jean Giono",
+        "anecdote": "Il sen est servi dans sa géographie imaginaire de la Provence, la transformant en fleuve (il en parle au masculin)."
+      },
+      {
+        "id": 10,
+        "question": "Quelle forme de cours d'eau la Durance conserve-t-elle sur la plus grande partie de son cours ?",
+        "propositions": [
+          "En tresses",
+          "En losanges",
+          "En carrés",
+          "En ronds"
+        ],
+        "réponse": "En tresses",
+        "anecdote": "Un cours d'eau en tresses présente de nombreuses divisions ou connexions entre ses bras appelées anastomoses."
+      }
+    ],
+    "confirmé": [
+      {
+        "id": 11,
+        "question": "Dans quel fleuve dont elle est le deuxième affluent par la longueur la Durance se jette-t-elle ?",
+        "propositions": [
+          "Le Rhône",
+          "La Seine",
+          "La Meuse",
+          "La Garonne"
+        ],
+        "réponse": "Le Rhône",
+        "anecdote": "La Durance a été soumise à un effort continu d'aménagement, en particulier depuis le XIXe siècle."
+      },
+      {
+        "id": 12,
+        "question": "Au sud-ouest de quelle commune de France la Durance se jette-t-elle dans le Rhône ?",
+        "propositions": [
+          "Caen",
+          "Toulon",
+          "Avignon",
+          "Limoges"
+        ],
+        "réponse": "Avignon",
+        "anecdote": "La Durance se jette dans le Rhône entre le Vaucluse et les Bouches-du-Rhône dont elle matérialise la limite."
+      },
+      {
+        "id": 13,
+        "question": "Quelle distance est parcourue par la Durance, du Sommet des Anges au confluent avec le Rhône ?",
+        "propositions": [
+          "305 km",
+          "438 km",
+          "242 km",
+          "542 km"
+        ],
+        "réponse": "305 km",
+        "anecdote": "Toutefois, le plus long cours est tracé par le système Clarée-Durance avec une longueur de 323,8 km."
+      },
+      {
+        "id": 14,
+        "question": "Combien de communes sont arrosées ou longées par la Durance sur cinq départements ?",
+        "propositions": [
+          "106",
+          "146",
+          "66",
+          "186"
+        ],
+        "réponse": "106",
+        "anecdote": "Les villes qui bordent la Durance sont installées de manière à se protéger des inondations et de crues éventuelles."
+      },
+      {
+        "id": 15,
+        "question": "Quel écrivain a fait de la Durance un personnage dans son roman 'L'Enfant et la Rivière' ?",
+        "propositions": [
+          "Joseph Aude",
+          "Guy Barruol",
+          "Henri Bosco",
+          "Paul Manivet"
+        ],
+        "réponse": "Henri Bosco",
+        "anecdote": "Henri Bosco est issu d'une famille provençale, ligure et piémontaise, dont les origines les mieux identifiées se trouvent près de Gênes."
+      },
+      {
+        "id": 16,
+        "question": "Quels fragments sont utilisés pour la couche de roulement des routes et les bétons résistants ?",
+        "propositions": [
+          "Des projections",
+          "Des granulats",
+          "Des adjuvants",
+          "Des armatures"
+        ],
+        "réponse": "Des granulats",
+        "anecdote": "Les quelques usines utilisant lénergie de la rivière ont fermé ou sont toutefois en cours de fermeture."
+      },
+      {
+        "id": 17,
+        "question": "À partir de quelle année la force motrice de la Durance a-t-elle produit de l'électricité ?",
+        "propositions": [
+          "1968",
+          "1948",
+          "1928",
+          "1908"
+        ],
+        "réponse": "1908",
+        "anecdote": "Cette activité démarre avec la construction dune centrale à La Brillanne par lÉnergie électrique du littoral méditerranéen."
+      },
+      {
+        "id": 18,
+        "question": "Quel pourcentage de ressource en eau la Durance fournit-elle aujourd'hui à la ville de Marseille ?",
+        "propositions": [
+          "88 %",
+          "44 %",
+          "22 %",
+          "66 %"
+        ],
+        "réponse": "66 %",
+        "anecdote": "De 1839 à 1854, l'ingénieur Franz Mayor de Montricher a construit un canal destiné à approvisionner Marseille en eau potable."
+      },
+      {
+        "id": 19,
+        "question": "Durant quel siècle se sont produites les crues les plus violentes sur la Durance ?",
+        "propositions": [
+          "XXe siècle",
+          "XIXe siècle",
+          "XVIIe siècle",
+          "XVIIIe siècle"
+        ],
+        "réponse": "XIXe siècle",
+        "anecdote": "C'est en 1843, 1856, 1882 et 1886 que se produisirent les crues les plus spectaculaires de la Durance."
+      },
+      {
+        "id": 20,
+        "question": "Dans quel réseau la Durance est-elle classée, jouant un rôle important de corridor biologique ?",
+        "propositions": [
+          "Natura 2000",
+          "Shelterbelt",
+          "Paneurope",
+          "Émeraude"
+        ],
+        "réponse": "Natura 2000",
+        "anecdote": "Le réseau Natura 2000 rassemble des sites naturels ou semi-naturels de l'Union européenne à grande valeur patrimoniale."
+      }
+    ],
+    "expert": [
+      {
+        "id": 21,
+        "question": "À quelle altitude la Durance prend-elle sa source sur les pentes du sommet des Anges ?",
+        "propositions": [
+          "3 142 mètres",
+          "2 390 mètres",
+          "4 687 mètres",
+          "1 854 mètres"
+        ],
+        "réponse": "2 390 mètres",
+        "anecdote": "La Durance prend ses sources vers 2 390 mètres d'altitude, au pré de Gondran, sur les pentes du sommet des Anges."
+      },
+      {
+        "id": 22,
+        "question": "Quel affluent de la Durance prend sa source sur les pentes du mont Thabor, au Seuil des Rochilles ?",
+        "propositions": [
+          "Le Calavon",
+          "La Luye",
+          "La Clarée",
+          "Le Verdon"
+        ],
+        "réponse": "La Clarée",
+        "anecdote": "La Clarée emprunte la vallée de Clarée et, après un cours de 28 km, rejoint la Durance, longue de 8 km à cet endroit."
+      },
+      {
+        "id": 23,
+        "question": "Laquelle de ces propositions ne désigne pas un des affluents principaux de la Durance ?",
+        "propositions": [
+          "Verdon",
+          "Ubaye",
+          "Calavon",
+          "Lauzon"
+        ],
+        "réponse": "Lauzon",
+        "anecdote": "27 cours deau dune longueur supérieure à 20 kilomètres se jettent dans la Durance (d'amont en aval)."
+      },
+      {
+        "id": 24,
+        "question": "Dans quel palais de Marseille la Durance est-elle représentée en groupe sculpté majestueux ?",
+        "propositions": [
+          "Longchamp",
+          "Pesciolini",
+          "Renard",
+          "Giraudy"
+        ],
+        "réponse": "Longchamp",
+        "anecdote": "Il fut construit entre 1862 et 1869 par l'architecte Espérandieu afin de célébrer l'arrivée des eaux de la Durance dans la ville."
+      },
+      {
+        "id": 25,
+        "question": "Dans quel film de François Villiers retrouve-t-on la construction du barrage de Serre-Ponçon ?",
+        "propositions": [
+          "L'Autre femme",
+          "L'Eau vive",
+          "La Duchesse",
+          "La Verte Moisson"
+        ],
+        "réponse": "L'Eau vive",
+        "anecdote": "Pour les séquences de l'inondation, c'est le barrage de Chaudanne qui est la « doublure » du barrage de Serre-Ponçon."
+      },
+      {
+        "id": 26,
+        "question": "Dans quelle ville de la vallée de la Durance le réacteur ITER est-il en cours de construction ?",
+        "propositions": [
+          "Valensole",
+          "Saint-Julien",
+          "Craponne",
+          "Cadarache"
+        ],
+        "réponse": "Cadarache",
+        "anecdote": "Le centre d'études de Cadarache comprend 21 installations nucléaires de base et emploie en moyenne 500 personnes."
+      },
+      {
+        "id": 27,
+        "question": "Quel pont est longtemps resté le seul passage en dur d'une rive à l'autre de la Durance ?",
+        "propositions": [
+          "Pont de Sisteron",
+          "Pont de Bézave",
+          "Pont de Plauche",
+          "Pont de Bontoux"
+        ],
+        "réponse": "Pont de Sisteron",
+        "anecdote": "Le pont de la Baume (ancien pont de Sisteron) est long de 40 m, large de 6, et repose sur une arche de 28 m de portée."
+      },
+      {
+        "id": 28,
+        "question": "Dans les années 1920 et 1930, quel élément polluant a eu comme effet de rougir la Durance ?",
+        "propositions": [
+          "Le gypse",
+          "L'Ocre",
+          "Le Natron",
+          "La bauxite"
+        ],
+        "réponse": "La bauxite",
+        "anecdote": "La bauxite est une roche latéritique blanche, rouge ou grise, caractérisée par sa forte teneur en alumine et en oxydes de fer."
+      },
+      {
+        "id": 29,
+        "question": "Quelle est la profondeur moyenne de la Durance, entraînant de fortes variations de températures ?",
+        "propositions": [
+          "52 cm",
+          "32 cm",
+          "72 cm",
+          "92 cm"
+        ],
+        "réponse": "32 cm",
+        "anecdote": "Les organismes aquatiques sont adaptés à ces changements selon la saison (de 0 à 28 °C) et selon lheure de la journée."
+      },
+      {
+        "id": 30,
+        "question": "Quelle ville fut emportée par la Durance dans la plus ancienne trace écrite d'une crue ?",
+        "propositions": [
+          "Sarla",
+          "Gama",
+          "Capa",
+          "Rama"
+        ],
+        "réponse": "Rama",
+        "anecdote": "Le site est fréquenté depuis lAntiquité puisque la station de 'Rama', aujourd'hui La Roche-de-Rame, est citée dans plusieurs itinéraires."
+      }
+    ]
+  }
+}

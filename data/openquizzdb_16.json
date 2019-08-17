@@ -1,0 +1,374 @@
+{
+  "fournisseur": "OpenQuizzDB - Fournisseur de contenu libre (https://www.openquizzdb.org)",
+  "rédacteur": "Philippe Bresoux",
+  "thème": "Steven Spielberg (On mélange des rêves quand on fait des films)",
+  "difficulté": 3 / 5,
+  "quizz": {
+    "débutant": [
+      {
+        "id": 1,
+        "question": "Quelle est la nationalité du réalisateur et producteur Steven Spielberg ?",
+        "propositions": [
+          "Marocaine",
+          "Américaine",
+          "Canadienne",
+          "Tunisienne"
+        ],
+        "réponse": "Américaine",
+        "anecdote": "Steven Spielberg est né à Cincinnati, dans l'Ohio, le 18 décembre 1946, d'un père informaticien et d'une mère pianiste."
+      },
+      {
+        "id": 2,
+        "question": "Quel film de Spielberg a été le premier véritable blockbuster du cinéma américain ?",
+        "propositions": [
+          "Minority Report",
+          "Les Dents de la mer",
+          "Jurassic Park",
+          "La Couleur pourpre"
+        ],
+        "réponse": "Les Dents de la mer",
+        "anecdote": "Le film 'Les Dents de la mer' est adapté du roman éponyme de Peter Benchley, publié en 1974 aux éditions Doubleday."
+      },
+      {
+        "id": 3,
+        "question": "Qui est sans conteste le compositeur attitré des films de Steven Spielberg ?",
+        "propositions": [
+          "John Barry ",
+          "James Horner",
+          "Giorgio Moroder",
+          "John Williams"
+        ],
+        "réponse": "John Williams",
+        "anecdote": "Avec 49 nominations aux Oscars, Williams est la deuxième personne la plus nommée après Walt Disney."
+      },
+      {
+        "id": 4,
+        "question": "Quelle saga de Spielberg mélange aventures et personnages hauts en couleur ?",
+        "propositions": [
+          "Les Dents de la mer",
+          "Transformers",
+          "Jurassic Park",
+          "Indiana Jones"
+        ],
+        "réponse": "Indiana Jones",
+        "anecdote": "Le récit de ses premières aventures mêle fiction et réalité, Indy rencontrant des personnages ayant réellement existé."
+      },
+      {
+        "id": 5,
+        "question": "De quelle actrice, présente dans le film 'E.T.', Steven Spielberg est-il le parrain ?",
+        "propositions": [
+          "Drew Barrymore",
+          "Neve Campbell",
+          "Téa Leoni",
+          "Christina Ricci"
+        ],
+        "réponse": "Drew Barrymore",
+        "anecdote": "Après avoir tourné des films de série B, elle a fait un retour fracassant dans les années 1990 notamment avec 'Scream'."
+      },
+      {
+        "id": 6,
+        "question": "Quel film de dinosaures a rapporté plus de 900 millions de dollars de recette ?",
+        "propositions": [
+          "Raptor",
+          "Carnosaur",
+          "Jurassic Park",
+          "Future War"
+        ],
+        "réponse": "Jurassic Park",
+        "anecdote": "La sortie du premier film s'est accompagnée d'un véritable travail de préparation à long terme pour intéresser le public."
+      },
+      {
+        "id": 7,
+        "question": "Quel soldat faut-il sauver dans un film réalisé par Steven Spielberg ?",
+        "propositions": [
+          "Soldat Garner",
+          "Soldat Ryan",
+          "Soldat Moore",
+          "Soldat Adams"
+        ],
+        "réponse": "Soldat Ryan",
+        "anecdote": "La reconstitution très réaliste du débarquement de Normandie est l'un des points forts du film."
+      },
+      {
+        "id": 8,
+        "question": "Quel film représente le plus grand succès commercial de la carrière de Steven Spielberg ?",
+        "propositions": [
+          "Amistad",
+          "Hook",
+          "Jurassic Park",
+          "Empire du soleil"
+        ],
+        "réponse": "Jurassic Park",
+        "anecdote": "Deux ans après sa ressortie en 3D, le film a fait partie de la sélection Cannes Classics lors du Festival de Cannes 2015."
+      },
+      {
+        "id": 9,
+        "question": "Quel film de Steven Spielberg est en fait une adaptation de Peter Pan ?",
+        "propositions": [
+          "Amistad",
+          "Sugarland Express",
+          "Hook",
+          "Munich"
+        ],
+        "réponse": "Hook",
+        "anecdote": "Le scénario montre un Peter Pan adulte, devenu un avocat d'affaires marié et père de deux enfants."
+      },
+      {
+        "id": 10,
+        "question": "Un projet converti en film, raconté sur fond de Shoah, a pour titre 'La Liste de'...",
+        "propositions": [
+          "Schindler",
+          "Hermann",
+          "Brecht",
+          "Dickmann"
+        ],
+        "réponse": "Schindler",
+        "anecdote": "Oskar Schindler a réussi à sauver environ 1 100 Juifs promis à la mort dans le camp de concentration de Plaszow."
+      }
+    ],
+    "confirmé": [
+      {
+        "id": 11,
+        "question": "Quel téléfilm est devenu le premier gros succès de Steven Spielberg auprès du grand public ?",
+        "propositions": [
+          "Amistad",
+          "Munich",
+          "Duel",
+          "1941"
+        ],
+        "réponse": "Duel",
+        "anecdote": "'Duel' met en scène un représentant en informatique, interprété par Dennis Weaver, dont la vie est menacée par un camion poids lourd."
+      },
+      {
+        "id": 12,
+        "question": "Avec qui Steven Spielberg est-il associé dans la réalisation de la saga 'Indiana Jones' ?",
+        "propositions": [
+          "George Lucas",
+          "Ridley Scott",
+          "James Cameron",
+          "Ron Howard"
+        ],
+        "réponse": "George Lucas",
+        "anecdote": "Par l'intermédiaire de sa société Lucasfilm, George Lucas produit des fictions et des documentaires pour le cinéma."
+      },
+      {
+        "id": 13,
+        "question": "Dans quel film un jeune Anglais est-il pris dans la tourmente de la Seconde Guerre mondiale ?",
+        "propositions": [
+          "La Couleur pourpre",
+          "Empire du soleil",
+          "Le Terminal",
+          "Minority Report"
+        ],
+        "réponse": "Empire du soleil",
+        "anecdote": "Le film 'Empire du soleil' est pour Christian Bale, qui interprète le héros, son premier rôle au cinéma."
+      },
+      {
+        "id": 14,
+        "question": "Quel film raconte la vie d'une famille noire aux États-Unis du début à la moitié du XXème siècle ?",
+        "propositions": [
+          "Le Livre témoin",
+          "Sugarland Express",
+          "La Couleur pourpre",
+          "Empire du soleil"
+        ],
+        "réponse": "La Couleur pourpre",
+        "anecdote": "Aux Oscars, le film 'La Couleur pourpre' a été nominé dans toutes les catégories à l'exception de meilleur réalisateur."
+      },
+      {
+        "id": 15,
+        "question": "Quel film a rassemblé sur les écrans Morgan Freeman et Anthony Hopkins ?",
+        "propositions": [
+          "Amistad",
+          "Indiana Jones",
+          "Minority Report",
+          "Lincoln"
+        ],
+        "réponse": "Amistad",
+        "anecdote": "Le film est inspiré de faits authentiques, une mutinerie d'un groupe d'esclaves africains transportés à bord de La Amistad en 1839."
+      },
+      {
+        "id": 16,
+        "question": "Dans quel film de Steven Spielberg un policier est-il piégé par un trinôme de devins ?",
+        "propositions": [
+          "Sugarland Express",
+          "Hook",
+          "Minority Report",
+          "Amistad"
+        ],
+        "réponse": "Minority Report",
+        "anecdote": "Le film 'Minority Report', lui-même adaptation de la nouvelle éponyme, a connu deux adaptations sous forme de jeu vidéo."
+      },
+      {
+        "id": 17,
+        "question": "Quel film réalisé par Steven Spielberg se déroule presque exclusivement dans un aéroport ?",
+        "propositions": [
+          "La Couleur pourpre",
+          "Le Terminal",
+          "Minority Report",
+          "Empire du soleil"
+        ],
+        "réponse": "Le Terminal",
+        "anecdote": "Le rôle de Lucy, la jeune fille que Viktor aide à fermer sa valise, est interprété par Sasha Spielberg, la fille du cinéaste."
+      },
+      {
+        "id": 18,
+        "question": "Quelle saga de Michael Bay a été produite par Steven Spielberg ?",
+        "propositions": [
+          "Transformers",
+          "The Island",
+          "Armageddon",
+          "Bad Boys"
+        ],
+        "réponse": "Transformers",
+        "anecdote": "C'est Lorenzo Di Bonaventura qui conseilla Shia LaBeouf à Michael Bay après avoir travaillé avec lui dans 'Constantine'."
+      },
+      {
+        "id": 19,
+        "question": "Quel personnage de BD est à la base du premier film en 3D sorti par Steven Spielberg ?",
+        "propositions": [
+          "Jason Todd",
+          "Le Rôdeur",
+          "Tintin",
+          "Max Payne"
+        ],
+        "réponse": "Tintin",
+        "anecdote": "Sony et Paramount ont investi 100 millions d'euros dans la campagne médiatique du film 'Tintin'."
+      },
+      {
+        "id": 20,
+        "question": "Sur quelle planète se déroulent les films de science-fiction réalisés par Steven Spielberg ?",
+        "propositions": [
+          "Sur Mars",
+          "Sur la Lune",
+          "Sur Terre",
+          "Sur Jupiter"
+        ],
+        "réponse": "Sur Terre",
+        "anecdote": "Steven Spielberg, surnommé « le roi du divertissement », a personnellement reçu trois Oscars."
+      }
+    ],
+    "expert": [
+      {
+        "id": 21,
+        "question": "Combien d'Oscars Steven Spielberg a-t-il reçu durant sa carrière ?",
+        "propositions": [
+          "Trois",
+          "Cinq",
+          "Deux",
+          "Quatre"
+        ],
+        "réponse": "Trois",
+        "anecdote": "Steven Spielberg a reçu un Oscar pour le meilleur film (en 1994) et deux du meilleur réalisateur (en 1994 et 1999)."
+      },
+      {
+        "id": 22,
+        "question": "Quel titre porte le premier long-métrage réalisé pour le cinéma par Steven Spielberg ?",
+        "propositions": [
+          "Hook",
+          "Empire du soleil",
+          "Sugarland Express",
+          "Cheval de guerre"
+        ],
+        "réponse": "Sugarland Express",
+        "anecdote": "Ce film est le premier de Steven Spielberg réalisé pour le cinéma ('Firelight' étant un home-movie et 'Duel' à l'origine un téléfilm)."
+      },
+      {
+        "id": 23,
+        "question": "Quel film fantastique, réalisé par Tobe Hooper, a été produit par Steven Spielberg ?",
+        "propositions": [
+          "Poltergeist",
+          "La Mouche",
+          "Dead Zone",
+          "Beetlejuice"
+        ],
+        "réponse": "Poltergeist",
+        "anecdote": "La franchise de Poltergeist est considérée comme maudite suite à la mort prématurée de plusieurs personnes associées au film."
+      },
+      {
+        "id": 24,
+        "question": "En quelle année Steven Spielberg a-t-il présidé le Festival de Cannes ?",
+        "propositions": [
+          "2007",
+          "2011",
+          "2009",
+          "2013"
+        ],
+        "réponse": "2013",
+        "anecdote": "En 1977, Steven Spielberg fut président du jury du cinquième Festival international du film fantastique d'Avoriaz."
+      },
+      {
+        "id": 25,
+        "question": "De quelle société de production Steven Spielberg est-il le fondateur ?",
+        "propositions": [
+          "Playtone",
+          "Amblin",
+          "Blue Sky",
+          "Pacific Data"
+        ],
+        "réponse": "Amblin",
+        "anecdote": "Le nom du studio Amblin est inspiré d'un des premiers films de Steven Spielberg, 'Amblin'', datant de 1968."
+      },
+      {
+        "id": 26,
+        "question": "Dans quel film de Spielberg Audrey Hepburn apparaît-elle pour la dernière fois ?",
+        "propositions": [
+          "Hook",
+          "Always",
+          "Duel",
+          "Amistad"
+        ],
+        "réponse": "Always",
+        "anecdote": "Une fois le film terminé, Steven Spielberg offrit une Mazda MX5 Mk1 à Richard Dreyfuss, Holly Hunter et John Goodman."
+      },
+      {
+        "id": 27,
+        "question": "Quel film de Spielberg, sorti en 2012, a reçu douze nominations aux Oscars ?",
+        "propositions": [
+          "Le Terminal",
+          "Minority Report",
+          "Empire du soleil",
+          "Lincoln"
+        ],
+        "réponse": "Lincoln",
+        "anecdote": "Son interprète principal, Daniel Day-Lewis, a remporté quant à lui l'Oscar du meilleur acteur."
+      },
+      {
+        "id": 28,
+        "question": "Quel réalisateur de cinéma est très souvent appelé le « Spielberg français » ?",
+        "propositions": [
+          "Luc Besson",
+          "Guillaume Canet",
+          "Bertrand Tavernier",
+          "Patrice Leconte"
+        ],
+        "réponse": "Luc Besson",
+        "anecdote": "Luc Besson est surtout internationalement connu pour les séries de films 'Taxi', 'Taken' et 'Le Transporteur'."
+      },
+      {
+        "id": 29,
+        "question": "Quel épisode de la série télévisée 'Colombo' a été réalisé par Steven Spielberg ?",
+        "propositions": [
+          "Poids mort",
+          "Faux Témoin",
+          "Plein Cadre",
+          "Le Livre témoin"
+        ],
+        "réponse": "Le Livre témoin",
+        "anecdote": "Dans cet épisode de 'Colombo', l'assassin est amené à commettre un second crime pour assurer ses arrières."
+      },
+      {
+        "id": 30,
+        "question": "Quel réalisateur français Steven Spielberg considère-t-il comme son modèle ?",
+        "propositions": [
+          "Michel Deville",
+          "Jean-Jacques Annaud",
+          "Claude Zidi",
+          "François Truffaut"
+        ],
+        "réponse": "François Truffaut",
+        "anecdote": "François Truffaut fut critique historique de la revue 'les Cahiers du cinéma' et figure majeure de la Nouvelle Vague."
+      }
+    ]
+  }
+}

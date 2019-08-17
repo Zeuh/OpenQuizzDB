@@ -1,0 +1,344 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes" ?>
+<quizz fournisseur="OpenQuizzDB : Fournisseur de contenu libre"
+       url="http://www.openquizzdb.org"
+       rédacteur="Philippe Bresoux"
+       thème="Grandes randonnées"
+       difficulté="3">
+  <débutant>
+    <contenu id="1">
+      <question>De quelles couleurs sont généralement balisés les chemins de grande randonnée ?</question>
+      <propositions>
+        <proposition id="1-1">Rouge et blanche</proposition>
+        <proposition id="1-2">Jaune et rouge</proposition>
+        <proposition id="1-3">Bleue et verte</proposition>
+        <proposition id="1-4">Orange et grise</proposition>
+      </propositions>
+      <réponse proposition="1-1">Rouge et blanche</réponse>
+      <anecdote>Les sentiers de grande randonnée sont en Europe des itinéraires pédestres balisés parfois sur plusieurs centaines de kilomètres.</anecdote>
+    </contenu>
+    <contenu id="2">
+      <question>Par quelle lettre sont identifiés les sentiers européens de grande randonnée ?</question>
+      <propositions>
+        <proposition id="2-1">E</proposition>
+        <proposition id="2-2">G</proposition>
+        <proposition id="2-3">R</proposition>
+        <proposition id="2-4">S</proposition>
+      </propositions>
+      <réponse proposition="2-1">E</réponse>
+      <anecdote>Chacun de ces sentiers, long de plusieurs milliers de kilomètres, traverse plusieurs pays européens.</anecdote>
+    </contenu>
+    <contenu id="3">
+      <question>De quelle grande ville de France le GR 1 fait-il le tour ?</question>
+      <propositions>
+        <proposition id="3-1">Lille</proposition>
+        <proposition id="3-2">Paris</proposition>
+        <proposition id="3-3">Lyon</proposition>
+        <proposition id="3-4">Marseille</proposition>
+      </propositions>
+      <réponse proposition="3-2">Paris</réponse>
+      <anecdote>Le GR 1 passe par la Porte Maillot, le Bois de Boulogne, les forêts de Marly, Rambouillet, Fontainebleau, Crécy et enfin Feucherolles.</anecdote>
+    </contenu>
+    <contenu id="4">
+      <question>Lequel de ces accessoires est le plus adapté à une grande randonnée ?</question>
+      <propositions>
+        <proposition id="4-1">Boussole</proposition>
+        <proposition id="4-2">Tire-bouchon</proposition>
+        <proposition id="4-3">Oreiller</proposition>
+        <proposition id="4-4">Aiguille</proposition>
+      </propositions>
+      <réponse proposition="4-1">Boussole</réponse>
+      <anecdote>Cet instrument de navigation est constitué d'une aiguille magnétisée qui s'aligne sur le champ magnétique de la Terre.</anecdote>
+    </contenu>
+    <contenu id="5">
+      <question>Quel type de randonnée s'effectue à pied  en suivant un itinéraire, balisé ou non, seul ou en groupe ?</question>
+      <propositions>
+        <proposition id="5-1">Pédestre</proposition>
+        <proposition id="5-2">Cyclotouriste</proposition>
+        <proposition id="5-3">Asine</proposition>
+        <proposition id="5-4">Équestre</proposition>
+      </propositions>
+      <réponse proposition="5-1">Pédestre</réponse>
+      <anecdote>C'est à la fois un loisir de découverte et une forme d'exercice physique, facilement accessible et praticable.</anecdote>
+    </contenu>
+    <contenu id="6">
+      <question>Quelle forme de randonnée pédestre utilise des bâtons de marche spécifiques ?</question>
+      <propositions>
+        <proposition id="6-1">Marche nordique</proposition>
+        <proposition id="6-2">Marche afghane</proposition>
+        <proposition id="6-3">Marche rapide</proposition>
+        <proposition id="6-4">Marche sportive</proposition>
+      </propositions>
+      <réponse proposition="6-1">Marche nordique</réponse>
+      <anecdote>La marche nordique, extrêmement populaire dans les pays scandinaves, se pratique été comme hiver.</anecdote>
+    </contenu>
+    <contenu id="7">
+      <question>Que faut-il éviter de faire lorsque vous vous lancez dans une randonnée ?</question>
+      <propositions>
+        <proposition id="7-1">Avertir un proche</proposition>
+        <proposition id="7-2">Partir seul</proposition>
+        <proposition id="7-3">Regarder le ciel</proposition>
+        <proposition id="7-4">Préparer son sac</proposition>
+      </propositions>
+      <réponse proposition="7-2">Partir seul</réponse>
+      <anecdote>En randonnée, un incident peut parfois prendre une tournure beaucoup plus grave en raison de l'isolement.</anecdote>
+    </contenu>
+    <contenu id="8">
+      <question>Lequel des objets désigne un des éléments les plus importants du randonneur ?</question>
+      <propositions>
+        <proposition id="8-1">Des pantoufles</proposition>
+        <proposition id="8-2">Une tirelire</proposition>
+        <proposition id="8-3">Un sac à dos</proposition>
+        <proposition id="8-4">Une console de jeu</proposition>
+      </propositions>
+      <réponse proposition="8-3">Un sac à dos</réponse>
+      <anecdote>Si le sac à dos est trop lourd, mal réglé ou si son contenu mal réparti, des effets sur la santé peuvent apparaître.</anecdote>
+    </contenu>
+    <contenu id="9">
+      <question>Quel bâtiment situé en montagne est destiné à fournir un abri aux randonneurs ?</question>
+      <propositions>
+        <proposition id="9-1">Une caserne</proposition>
+        <proposition id="9-2">Un bunker</proposition>
+        <proposition id="9-3">Un refuge</proposition>
+        <proposition id="9-4">Une tenaille</proposition>
+      </propositions>
+      <réponse proposition="9-3">Un refuge</réponse>
+      <anecdote>Actuellement, le Club alpin français gère un tiers des refuges ouverts au public, soit 127, principalement dans les Alpes et les Pyrénées.</anecdote>
+    </contenu>
+    <contenu id="10">
+      <question>Quelle pratique de randonnée est devenue un loisir très prisé du monde naturiste ?</question>
+      <propositions>
+        <proposition id="10-1">Le trekking</proposition>
+        <proposition id="10-2">La marche nordique</proposition>
+        <proposition id="10-3">Le biathlon</proposition>
+        <proposition id="10-4">La randonue</proposition>
+      </propositions>
+      <réponse proposition="10-4">La randonue</réponse>
+      <anecdote>La randonue consiste à profiter de la sensation de bien-être que procure un corps débarrassé de vêtements en pleine nature.</anecdote>
+    </contenu>
+  </débutant>
+  <confirmé>
+    <contenu id="11">
+      <question>Où se trouve le siège de la Fédération française de la randonnée pédestre ?</question>
+      <propositions>
+        <proposition id="11-1">Marseille</proposition>
+        <proposition id="11-2">Toulouse</proposition>
+        <proposition id="11-3">Paris</proposition>
+        <proposition id="11-4">Lyon</proposition>
+      </propositions>
+      <réponse proposition="11-3">Paris</réponse>
+      <anecdote>Tout d'abord nommé Comité national des sentiers de grande randonnée (CNSGR), il est reconnu d'utilité publique en 1971.</anecdote>
+    </contenu>
+    <contenu id="12">
+      <question>Dans quel pays ont été tracés les premiers sentiers de grande randonnée (GR) ?</question>
+      <propositions>
+        <proposition id="12-1">Belgique</proposition>
+        <proposition id="12-2">Suisse</proposition>
+        <proposition id="12-3">Espagne</proposition>
+        <proposition id="12-4">France</proposition>
+      </propositions>
+      <réponse proposition="12-4">France</réponse>
+      <anecdote>La plupart des sentiers GR de France, du Luxembourg et de Belgique sont publiés par la Fédération Française de la Randonnée Pédestre.</anecdote>
+    </contenu>
+    <contenu id="13">
+      <question>Quelles personnes des fédérations nationales entretiennent les sentiers et les balisages des GR ?</question>
+      <propositions>
+        <proposition id="13-1">Des alpinistes</proposition>
+        <proposition id="13-2">Des bénévoles</proposition>
+        <proposition id="13-3">Des officiels</proposition>
+        <proposition id="13-4">Des bûcherons</proposition>
+      </propositions>
+      <réponse proposition="13-2">Des bénévoles</réponse>
+      <anecdote>En France, le balisage des GRP est identique au balisage des GR mais les traits blancs sont remplacés par des traits jaunes.</anecdote>
+    </contenu>
+    <contenu id="14">
+      <question>Quel sentier de grande randonnée relie Amsterdam à Paris en passant par la Belgique ?</question>
+      <propositions>
+        <proposition id="14-1">GR 20</proposition>
+        <proposition id="14-2">GR 5</proposition>
+        <proposition id="14-3">GR 10</proposition>
+        <proposition id="14-4">GR 12</proposition>
+      </propositions>
+      <réponse proposition="14-4">GR 12</réponse>
+      <anecdote>En France, les départements traversés par le GR 12 sont les Ardennes, l'Aisne,
+l'Oise et le Val-d'Oise.</anecdote>
+    </contenu>
+    <contenu id="15">
+      <question>Combien existe-t-il de sentiers européens de grande randonnée ?</question>
+      <propositions>
+        <proposition id="15-1">Dix</proposition>
+        <proposition id="15-2">Douze</proposition>
+        <proposition id="15-3">Quinze</proposition>
+        <proposition id="15-4">Vingt</proposition>
+      </propositions>
+      <réponse proposition="15-2">Douze</réponse>
+      <anecdote>Les sentiers européens de grande randonnée ont été créés sous l'égide de la Fédération européenne de la randonnée pédestre.</anecdote>
+    </contenu>
+    <contenu id="16">
+      <question>Quel parcours de randonnée se situe entre le canton du Valais et la Vallée d'Aoste ?</question>
+      <propositions>
+        <proposition id="16-1">Bisse du Trient</proposition>
+        <proposition id="16-2">Tour du Cervin</proposition>
+        <proposition id="16-3">Via Alpina</proposition>
+        <proposition id="16-4">Gorges du Seyon</proposition>
+      </propositions>
+      <réponse proposition="16-2">Tour du Cervin</réponse>
+      <anecdote>Ce tour a été inauguré officiellement en 2002, il commence et se termine au village de Randa, et il compte environ 10 étapes.</anecdote>
+    </contenu>
+    <contenu id="17">
+      <question>Comment appelle-t-on une randonnée pédestre effectuée dans une région montagneuse ?</question>
+      <propositions>
+        <proposition id="17-1">Raid</proposition>
+        <proposition id="17-2">Bivouac</proposition>
+        <proposition id="17-3">Marche nordique</proposition>
+        <proposition id="17-4">Trekking</proposition>
+      </propositions>
+      <réponse proposition="17-4">Trekking</réponse>
+      <anecdote>Depuis une vingtaine dannées, la définition sest élargie et désigne désormais une randonnée itinérante de plusieurs jours.</anecdote>
+    </contenu>
+    <contenu id="18">
+      <question>Quel campement rudimentaire permet de passer la nuit en pleine nature ?</question>
+      <propositions>
+        <proposition id="18-1">Le gîte</proposition>
+        <proposition id="18-2">La colonie</proposition>
+        <proposition id="18-3">Le bivouac</proposition>
+        <proposition id="18-4">La guitoune</proposition>
+      </propositions>
+      <réponse proposition="18-3">Le bivouac</réponse>
+      <anecdote>Pour de nombreux peuples nomades dans le monde, le bivouac est encore un mode d'hébergement courant.</anecdote>
+    </contenu>
+    <contenu id="19">
+      <question>Quelle île est traversée du nord au sud par le GR 20 en passant par la chaîne de montagnes ?</question>
+      <propositions>
+        <proposition id="19-1">La Jamaïque</proposition>
+        <proposition id="19-2">La Corse</proposition>
+        <proposition id="19-3">La Sicile</proposition>
+        <proposition id="19-4">La Tasmanie</proposition>
+      </propositions>
+      <réponse proposition="19-2">La Corse</réponse>
+      <anecdote>Bien qu'aucun équipement particulier ne soit suggéré, le GR 20 reste un parcours de montagne.</anecdote>
+    </contenu>
+    <contenu id="20">
+      <question>Qui a réalisé le film 'Mortelle Randonnée', sorti sur les écrans en 1983 ?</question>
+      <propositions>
+        <proposition id="20-1">Michel Audiard</proposition>
+        <proposition id="20-2">Claude Berri</proposition>
+        <proposition id="20-3">Élie Chouraqui</proposition>
+        <proposition id="20-4">Claude Miller</proposition>
+      </propositions>
+      <réponse proposition="20-4">Claude Miller</réponse>
+      <anecdote>Le film est tiré d'un roman de Marc Behm, également adapté en 1999 par Stephan Elliott avec Ewan McGregor et Ashley Judd.</anecdote>
+    </contenu>
+  </confirmé>
+  <expert>
+    <contenu id="21">
+      <question>En quelle année est né le GR 5, premier sentier de grande randonnée belge ?</question>
+      <propositions>
+        <proposition id="21-1">1983</proposition>
+        <proposition id="21-2">1962</proposition>
+        <proposition id="21-3">1954</proposition>
+        <proposition id="21-4">1977</proposition>
+      </propositions>
+      <réponse proposition="21-2">1962</réponse>
+      <anecdote>Totalisant 2 600 kilomètres de distance, le GR 5 part de la mer du Nord pour rejoindre la mer Méditerranée à Nice en France.</anecdote>
+    </contenu>
+    <contenu id="22">
+      <question>En France, que représente environ la distance cumulée des GR ?</question>
+      <propositions>
+        <proposition id="22-1">20 000 km</proposition>
+        <proposition id="22-2">60 000 km</proposition>
+        <proposition id="22-3">80 000 km</proposition>
+        <proposition id="22-4">40 000 km</proposition>
+      </propositions>
+      <réponse proposition="22-2">60 000 km</réponse>
+      <anecdote>En Belgique, toutes variantes et alternatives confondues, cela représente environ 6 400 km de traits blancs et rouges.</anecdote>
+    </contenu>
+    <contenu id="23">
+      <question>Le trait rouge des GR est en fait la marque de quelle communauté ?</question>
+      <propositions>
+        <proposition id="23-1">Les montagnards</proposition>
+        <proposition id="23-2">Les alpinistes</proposition>
+        <proposition id="23-3">Les bûcherons</proposition>
+        <proposition id="23-4">Les bergers</proposition>
+      </propositions>
+      <réponse proposition="23-3">Les bûcherons</réponse>
+      <anecdote>Ce choix peut être vu comme une réminiscence des deux couleurs prédominantes dans les peintures et les masques des Amérindiens.</anecdote>
+    </contenu>
+    <contenu id="24">
+      <question>Quelle est la longueur totale du GR 5 reliant la Mer du Nord à la Méditerranée ?</question>
+      <propositions>
+        <proposition id="24-1">3 900 km</proposition>
+        <proposition id="24-2">2 600 km</proposition>
+        <proposition id="24-3">1 300 km</proposition>
+        <proposition id="24-4">5 200 km</proposition>
+      </propositions>
+      <réponse proposition="24-2">2 600 km</réponse>
+      <anecdote>Le GR 5 passe aux Pays-Bas, en Belgique, au Luxembourg, en France où il traverse les Vosges et le Jura, en Suisse.</anecdote>
+    </contenu>
+    <contenu id="25">
+      <question>Comment est appelé le sentier européen du littoral s'étendant le long des côtes d'Europe ?</question>
+      <propositions>
+        <proposition id="25-1">GR 20</proposition>
+        <proposition id="25-2">PR 5</proposition>
+        <proposition id="25-3">E9</proposition>
+        <proposition id="25-4">GRP 7</proposition>
+      </propositions>
+      <réponse proposition="25-3">E9</réponse>
+      <anecdote>Le sentier suit les côtes atlantiques du Portugal, de l'Espagne et de la France jusqu'à Roscoff.</anecdote>
+    </contenu>
+    <contenu id="26">
+      <question>Laquelle de ces propositions désigne un chemin du pèlerinage de Saint-Jacques-de-Compostelle ?</question>
+      <propositions>
+        <proposition id="26-1">Via Francosa</proposition>
+        <proposition id="26-2">Via Dominicis</proposition>
+        <proposition id="26-3">Via Romana</proposition>
+        <proposition id="26-4">Via Podiensis</proposition>
+      </propositions>
+      <réponse proposition="26-4">Via Podiensis</réponse>
+      <anecdote>De Genève à Pampelune, les deux chemins sont balisés en tant que sentier de grande randonnée GR 65.</anecdote>
+    </contenu>
+    <contenu id="27">
+      <question>Quel a été le premier chemin de grande randonnée balisé en France ?</question>
+      <propositions>
+        <proposition id="27-1">GR 4</proposition>
+        <proposition id="27-2">GR 2</proposition>
+        <proposition id="27-3">GR 1</proposition>
+        <proposition id="27-4">GR 3</proposition>
+      </propositions>
+      <réponse proposition="27-4">GR 3</réponse>
+      <anecdote>Les débuts de sa réalisation remontent à 1947, année de la création de la Fédération française de la randonnée pédestre.</anecdote>
+    </contenu>
+    <contenu id="28">
+      <question>Sur quel canal peut-on lancer un appel d'urgence lors d'une randonnée en montagne ?</question>
+      <propositions>
+        <proposition id="28-1">Canal +</proposition>
+        <proposition id="28-2">Canal Z</proposition>
+        <proposition id="28-3">Canal E</proposition>
+        <proposition id="28-4">Canal J</proposition>
+      </propositions>
+      <réponse proposition="28-3">Canal E</réponse>
+      <anecdote>Certains talkie-walkies dédiés à la randonnée pédestre présentent un bouton d'urgence réglé sur cette fréquence.</anecdote>
+    </contenu>
+    <contenu id="29">
+      <question>Quel sentier de randonnée permet de traverser les Cévennes, le Gardon et le Gard ?</question>
+      <propositions>
+        <proposition id="29-1">GR 18</proposition>
+        <proposition id="29-2">GR 12</proposition>
+        <proposition id="29-3">GR 6</proposition>
+        <proposition id="29-4">GR 24</proposition>
+      </propositions>
+      <réponse proposition="29-3">GR 6</réponse>
+      <anecdote>Sur le trajet du GR 6, on peut admirer, entre autres merveilles, plusieurs sites du patrimoine mondial de l'UNESCO.</anecdote>
+    </contenu>
+    <contenu id="30">
+      <question>Quel sentier est considéré comme l'un des classiques des sentiers de longue distance ?</question>
+      <propositions>
+        <proposition id="30-1">TMB</proposition>
+        <proposition id="30-2">CGI</proposition>
+        <proposition id="30-3">VGA</proposition>
+        <proposition id="30-4">USB</proposition>
+      </propositions>
+      <réponse proposition="30-1">TMB</réponse>
+      <anecdote>La route circulaire du Tour du Mont-Blanc est normalement empruntée dans le sens antihoraire, sur une durée de 7 à 10 jours.</anecdote>
+    </contenu>
+  </expert>
+</quizz>

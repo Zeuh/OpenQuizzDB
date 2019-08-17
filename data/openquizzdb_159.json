@@ -1,0 +1,374 @@
+{
+  "fournisseur": "OpenQuizzDB - Fournisseur de contenu libre (www.openquizzdb.org)",
+  "rédacteur": "Philippe Bresoux",
+  "thème": "Variété française (Sans variété, point de beauté)",
+  "difficulté": 2,
+  "quizz": {
+    "débutant": [
+      {
+        "id": 1,
+        "question": "Quel auteur-compositeur-interprète est 'Tombé pour la France' ?",
+        "propositions": [
+          "Étienne Daho",
+          "Marc Lavoine",
+          "Francis Cabrel",
+          "Maxime Le Forestier"
+        ],
+        "réponse": "Étienne Daho",
+        "anecdote": "Né à Oran (Algérie) et figure de la pop française, Étienne Daho est issu de la vague du rock rennais du tout début des années 1980."
+      },
+      {
+        "id": 2,
+        "question": "Où est « la maison bleue sur la colline » chantée par Maxime Le Forestier ?",
+        "propositions": [
+          "Puerto Rico",
+          "Oslo",
+          "San Francisco",
+          "Mexico"
+        ],
+        "réponse": "San Francisco",
+        "anecdote": "Son premier album studio intitulé 'Mon frère', vendu à un million d'exemplaires, deviendra la bande-son de toute une génération."
+      },
+      {
+        "id": 3,
+        "question": "Quel était le prénom du 'Chanteur' de Daniel Balavoine ?",
+        "propositions": [
+          "Charlie",
+          "Henri",
+          "Eddy",
+          "Johnny"
+        ],
+        "réponse": "Henri",
+        "anecdote": "Devenu un titre marquant du répertoire de Balavoine, 'Le Chanteur' est également celui qui a véritablement lancé sa carrière."
+      },
+      {
+        "id": 4,
+        "question": "Qui est l'artiste pour qui « ça n'a pas plané » au festival Eurovision 1987 ?",
+        "propositions": [
+          "Jean-Claude Pascal",
+          "Marc Lavoine",
+          "Plastic Bertrand",
+          "Hugues Aufray"
+        ],
+        "réponse": "Plastic Bertrand",
+        "anecdote": "Le nom « Plastic Bertrand » fait référence à Bert Bertrand, un journaliste rock belge qui incarnait le microcosme belge du punk."
+      },
+      {
+        "id": 5,
+        "question": "Où Michel Sardou danse-t-il la java dans une de ses chansons ?",
+        "propositions": [
+          "À Rio",
+          "À Broadway",
+          "À Manille",
+          "À Venise"
+        ],
+        "réponse": "À Broadway",
+        "anecdote": "En cinquante années de carrière, il a enregistré 25 albums studio et 18 albums live, réunissant un total de près de 350 chansons."
+      },
+      {
+        "id": 6,
+        "question": "Quel groupe de gitans s'est imposé au Top 50 en 1987 ?",
+        "propositions": [
+          "Las Ketchup",
+          "Pata Negra",
+          "Gipsy Kings",
+          "Alabina"
+        ],
+        "réponse": "Gipsy Kings",
+        "anecdote": "Le groupe composé de musiciens issus de deux familles, les Baliardo et les Reyes, originaires de Montpellier et d'Arles."
+      },
+      {
+        "id": 7,
+        "question": "Dans quelle région habite la dame chantée par Francis Cabrel ?",
+        "propositions": [
+          "En Haute-Savoie",
+          "En Ardèche",
+          "En Gironde",
+          "En Haute-Corse"
+        ],
+        "réponse": "En Haute-Savoie",
+        "anecdote": "Francis Cabrel, père de trois filles dont une adoptée, connaît très bien le répertoire de Bob Dylan dont il est un fan inconditionnel."
+      },
+      {
+        "id": 8,
+        "question": "Quel dessert sert l'abominable homme des neiges dans une chanson de Lio ?",
+        "propositions": [
+          "Une dame blanche",
+          "Un banana split",
+          "Un éclair",
+          "Un merveilleux"
+        ],
+        "réponse": "Un banana split",
+        "anecdote": "En 2012, la chanteuse Lio a prêté son image pour une campagne de la Croix-Rouge belge dont elle a été pour l'occasion la marraine."
+      },
+      {
+        "id": 9,
+        "question": "Comment se prénomme la métisse d'Ibiza chantée par Julien Clerc ?",
+        "propositions": [
+          "Marbella",
+          "Cassandra",
+          "Rosanna",
+          "Mélissa"
+        ],
+        "réponse": "Mélissa",
+        "anecdote": "Avec 'Mélissa', Julien Clerc confirme son succès et devient un chanteur « désirable » sur toutes les stations de télévision."
+      },
+      {
+        "id": 10,
+        "question": "De qui Chantal Goya a-t-elle affirmé être la cousine dans une chanson ?",
+        "propositions": [
+          "Bécassine",
+          "Joséphine",
+          "Amandine",
+          "Clémentine"
+        ],
+        "réponse": "Bécassine",
+        "anecdote": "Elle doit son nom de scène à Jean-Jacques Debout qui trouvait qu'elle ressemblait à un portrait peint par Francisco de Goya."
+      }
+    ],
+    "confirmé": [
+      {
+        "id": 11,
+        "question": "Quel duo français avait 'Besoin de rien, envie de toi' en 1984 ?",
+        "propositions": [
+          "Peter et Sloane",
+          "Luna Parker",
+          "Les Rita Mitsuko",
+          "Sheila et Ringo"
+        ],
+        "réponse": "Peter et Sloane",
+        "anecdote": "Boudé par les radios FM, Europe 1 diffusera pourtant ce titre sorti à l'origine en face B de 'Ma vie avec toi, ta vie avec moi'."
+      },
+      {
+        "id": 12,
+        "question": "Quel titre du groupe Trust a fait lever de nombreux poings à la fin des années 70 ?",
+        "propositions": [
+          "Idéal",
+          "Serre les poings",
+          "Antisocial",
+          "Fatalité"
+        ],
+        "réponse": "Antisocial",
+        "anecdote": "'Antisocial' est le titre le plus connu du groupe, titre assez bien représentatif du ton engagé et révolté du groupe à cette époque."
+      },
+      {
+        "id": 13,
+        "question": "Dans quelle chanson Michel Delpech regardait-il passer les oies sauvages ?",
+        "propositions": [
+          "Les Divorcés",
+          "Le Chasseur",
+          "Pour un flirt",
+          "Chez Laurette"
+        ],
+        "réponse": "Le Chasseur",
+        "anecdote": "C'est en 1967 que Johnny Stark, imprésario de Mireille Mathieu, le prend en main et l'aide à se forger une image de vedette."
+      },
+      {
+        "id": 14,
+        "question": "Dans quelle ville 'Nathalie' guidait-elle Gilbert Bécaud dans une des ses chansons ?",
+        "propositions": [
+          "Belgrade",
+          "Paris",
+          "Moscou",
+          "Madrid"
+        ],
+        "réponse": "Moscou",
+        "anecdote": "Gilbert Bécaud a gagné son surnom de « Monsieur 100 000 volts » grâce à son sens du swing et à ses fans souvent survoltés."
+      },
+      {
+        "id": 15,
+        "question": "Quelle est la matière préférée de la chanteuse Caroline Loeb ?",
+        "propositions": [
+          "La soie",
+          "Le coton",
+          "Le lin",
+          "La ouate"
+        ],
+        "réponse": "La ouate",
+        "anecdote": "Parmi les choristes de 'C'est la ouate', on notera la participation d'Amina qui représentera la France au Concours Eurovision."
+      },
+      {
+        "id": 16,
+        "question": "Quel artiste strasbourgeois au grand cur chantait 'Pour le plaisir' ?",
+        "propositions": [
+          "Herbert Léonard",
+          "Gérard Blanc",
+          "Alain Souchon",
+          "Hervé Vilard"
+        ],
+        "réponse": "Herbert Léonard",
+        "anecdote": "C'est Vline Buggy qui découvrira le jeune compositeur Julien Lepers et contactera Herbert Léonard pour les unir en musique."
+      },
+      {
+        "id": 17,
+        "question": "Quelle montagne a été chantée par le corse Pascal Danel ?",
+        "propositions": [
+          "L'Everest",
+          "L'Aconcagua",
+          "Le Kilimandjaro",
+          "Le Mont Blanc"
+        ],
+        "réponse": "Le Kilimandjaro",
+        "anecdote": "Repris dans plus de 180 versions dans le monde, 'Kilimandjaro' sera un des plus grands standards français de la décennie."
+      },
+      {
+        "id": 18,
+        "question": "De quoi la 'Paulette' des Charlots est-elle la reine dans une de leurs chansons ?",
+        "propositions": [
+          "Des paupiettes",
+          "Des gaufrettes",
+          "Des courgettes",
+          "Des rillettes"
+        ],
+        "réponse": "Des paupiettes",
+        "anecdote": "Les Charlots ont assuré les premières parties de Françoise Hardy (1965), Johnny Hallyday (1967) ou encore Claude François (1968)."
+      },
+      {
+        "id": 19,
+        "question": "Quelle chanson interprétée par Elsa figure sur la BO de 'La femme de ma vie' ?",
+        "propositions": [
+          "Bouscule-moi",
+          "Un roman d'amitié",
+          "T'en vas pas",
+          "Jamais nous"
+        ],
+        "réponse": "T'en vas pas",
+        "anecdote": "Cet essai sera couronné de succès puisqu'il lui permettra d'être, à l'âge de 13 ans, la plus jeune artiste n°1 du Top 50."
+      },
+      {
+        "id": 20,
+        "question": "De quelle ville sont originaires les groupes Gold et Images ?",
+        "propositions": [
+          "Grenoble",
+          "Toulouse",
+          "Reims",
+          "Arras"
+        ],
+        "réponse": "Toulouse",
+        "anecdote": "En 1990, le chanteur Émile Wandelmer quitte le groupe Gold à la suite d'un désaccord sur l'orientation musicale future du groupe."
+      }
+    ],
+    "expert": [
+      {
+        "id": 21,
+        "question": "Qu'est-ce que 'Macumba' dans la chanson de Jean-Pierre Mader ?",
+        "propositions": [
+          "Un village",
+          "Une danseuse",
+          "Un cabaret",
+          "Un bateau"
+        ],
+        "réponse": "Un cabaret",
+        "anecdote": "Après des études d'Informatique, Jean-Pierre Mader sera bassiste dans un groupe toulousain Tangara puis dans un orchestre de bal."
+      },
+      {
+        "id": 22,
+        "question": "Quelle chanteuse a été lancée grâce à l'imprésario Johnny Stark ?",
+        "propositions": [
+          "Annie Cordy",
+          "Nana Mouskouri",
+          "Sylvie Vartan",
+          "Mireille Mathieu"
+        ],
+        "réponse": "Mireille Mathieu",
+        "anecdote": "En 2005, la chanteuse a reçu un disque de rubis (non reconnu par le SNEP) annonçant la vente de 122 millions de disques."
+      },
+      {
+        "id": 23,
+        "question": "Quelle chanson Sheila et Ringo ont-ils chanté en duo après leur mariage ?",
+        "propositions": [
+          "Comme hier",
+          "Rosanna",
+          "Tendrement",
+          "Les Gondoles à Venise"
+        ],
+        "réponse": "Les Gondoles à Venise",
+        "anecdote": "Le disque par la suite revisité a initialement été écrit par Paul et Lana Sebastian sous le titre 'Les clés qui n'ouvrent pas ta porte'."
+      },
+      {
+        "id": 24,
+        "question": "Qui a composé la comédie musicale pour enfants 'Émilie Jolie' ?",
+        "propositions": [
+          "Julien Clerc",
+          "Étienne Daho",
+          "Philippe Chatel",
+          "Laurent Voulzy"
+        ],
+        "réponse": "Philippe Chatel",
+        "anecdote": "Suite à cette comédie musicale, le prénom Émilie a été donné à 11 885 petites filles en 1980, contre 5 074 seulement en 1979."
+      },
+      {
+        "id": 25,
+        "question": "Par quelle chanson Renaud s'est attaqué violemment aux défauts de la France ?",
+        "propositions": [
+          "Déserteur",
+          "Miss Maggie",
+          "Ma gonzesse",
+          "Hexagone"
+        ],
+        "réponse": "Hexagone",
+        "anecdote": "Renaud utilise ses chansons pour critiquer la société, rendre hommage ou faire sourire par un usage intensif de l'argot."
+      },
+      {
+        "id": 26,
+        "question": "À qui le clip de Jean-Louis Aubert, 'Juste une illusion', rend-il hommage ?",
+        "propositions": [
+          "Georges Méliès",
+          "George Lucas",
+          "David Copperfield",
+          "Steven Spielberg"
+        ],
+        "réponse": "Georges Méliès",
+        "anecdote": "C'est avec Richard Kolinka, son ami de toujours, qu'il publia le 6 juin 1986 ce tube sous le nom de Aubert'n'Ko."
+      },
+      {
+        "id": 27,
+        "question": "Quel chanteur a, après un 'coup de folie', déclaré son amour de la 'musique noire' ?",
+        "propositions": [
+          "Charlélie Couture",
+          "Jean-Pierre Mader",
+          "Thierry Pastor",
+          "Gérard Blanc"
+        ],
+        "réponse": "Thierry Pastor",
+        "anecdote": "'Le coup de folie', titre phare du répertoire de Thierry Pastor (il avait alors 21 ans) a été produit par Roland Magdane."
+      },
+      {
+        "id": 28,
+        "question": "Quel rôle interprète Alain Souchon dans le clip 'La ballade de Jim' ?",
+        "propositions": [
+          "Tous",
+          "Le policier",
+          "Le pompier",
+          "Le marin"
+        ],
+        "réponse": "Tous",
+        "anecdote": "Alain Souchon est le père des auteurs-compositeurs-interprètes Pierre et Charles Souchon connus sous le nom de scène de Ours."
+      },
+      {
+        "id": 29,
+        "question": "À quel groupe appartenait Gérard Blanc, au retour remarqué avec 'Une autre histoire</",
+        "propositions": [
+          "Martin Circus",
+          "Bimbo Jet",
+          "Taï Phong",
+          "Les Poppys"
+        ],
+        "réponse": "Martin Circus",
+        "anecdote": "Vendu à 850 000 exemplaires, le vidéo clip de 'Une autre histoire' met en scène Annie Pujol dans le désert marocain."
+      },
+      {
+        "id": 30,
+        "question": "Quelle est la particularité de l'avion chanté par Charlélie Couture ?",
+        "propositions": [
+          "Il n'a pas d'ailes",
+          "Il ne vole pas",
+          "Il est jaune",
+          "Il est vide"
+        ],
+        "réponse": "Il n'a pas d'ailes",
+        "anecdote": "Charlélie Couture est un artiste « multiste », comme il aime être présenté, explorant de multiples disciplines artistiques."
+      }
+    ]
+  }
+}

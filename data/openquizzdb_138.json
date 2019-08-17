@@ -1,0 +1,374 @@
+{
+  "fournisseur": "OpenQuizzDB - Fournisseur de contenu libre (www.openquizzdb.org)",
+  "rédacteur": "Philippe Bresoux",
+  "thème": "Haltérophilie",
+  "difficulté": 4,
+  "quizz": {
+    "débutant": [
+      {
+        "id": 1,
+        "question": "L'haltérophilie est un sport consistant à soulever quels objets ?",
+        "propositions": [
+          "Des disques",
+          "Des javelots",
+          "Des marteaux",
+          "Des poids"
+        ],
+        "réponse": "Des poids",
+        "anecdote": "C'est un sport de force nécessitant également maîtrise d'une technique particulière, vitesse, souplesse, coordination et équilibre."
+      },
+      {
+        "id": 2,
+        "question": "En compétition d'haltérophilie, les deux mouvements évalués sont l'épaulé-jeté et...",
+        "propositions": [
+          "Lépaulé",
+          "Larraché",
+          "Le jeté",
+          "Le lancé"
+        ],
+        "réponse": "Larraché",
+        "anecdote": "La somme du meilleur essai réalisé par l'athlète à l'arraché et du meilleur essai à l'épaulé-jeté donne le total olympique."
+      },
+      {
+        "id": 3,
+        "question": "En haltérophilie, de combien dessais l'athlète dispose-t-il pour chaque mouvement ?",
+        "propositions": [
+          "Cinq",
+          "Quatre",
+          "Trois",
+          "Six"
+        ],
+        "réponse": "Trois",
+        "anecdote": "L'haltérophilie est à l'heure actuelle l'unique sport de force inscrit au programme des Jeux olympiques."
+      },
+      {
+        "id": 4,
+        "question": "Combien de sports de force sont inscrits au programme des Jeux olympiques ?",
+        "propositions": [
+          "Trois",
+          "Quatre",
+          "Deux",
+          "Un"
+        ],
+        "réponse": "Un",
+        "anecdote": "C'est en Grèce, en Arménie, en Turquie et en Bulgarie que ce sport universel est le plus populaire."
+      },
+      {
+        "id": 5,
+        "question": "Quel produit un haltérophile utilise-t-il pour améliorer la prise de barre ?",
+        "propositions": [
+          "La vaseline",
+          "La farine",
+          "La rouille",
+          "La magnésie"
+        ],
+        "réponse": "La magnésie",
+        "anecdote": "Sous forme de poudre, le carbonate de magnésium est utilisé comme anti-transpirant dans de nombreux sports."
+      },
+      {
+        "id": 6,
+        "question": "Combien pèse généralement la barre utilisée par les femmes en haltérophilie ?",
+        "propositions": [
+          "45 kg",
+          "35 kg",
+          "15 kg",
+          "25 kg"
+        ],
+        "réponse": "15 kg",
+        "anecdote": "Sur la partie centrale de la barre, un moletage rend la barre rugueuse et facilite la prise."
+      },
+      {
+        "id": 7,
+        "question": "En haltérophilie, les disques sont la plupart du temps constitué de métal mais aussi de...",
+        "propositions": [
+          "Polypropylène",
+          "Caoutchouc",
+          "Carbone",
+          "Feutre"
+        ],
+        "réponse": "Caoutchouc",
+        "anecdote": "Sur chaque côté de la barre (15 kg ou 20 kg), on glisse des disques qui sont maintenus par un collier pesant 2,5 kg."
+      },
+      {
+        "id": 8,
+        "question": "Quel problème médical touche très sévèrement le milieu haltérophile ?",
+        "propositions": [
+          "Le SIDA",
+          "Lanémie",
+          "Lhémophilie",
+          "Le dopage"
+        ],
+        "réponse": "Le dopage",
+        "anecdote": "Avant les championnats du monde de 1995, 64 cas de dopage avérés furent signalés, amenant le CIO à de sévères mesures."
+      },
+      {
+        "id": 9,
+        "question": "Quel mouvement est effectué en haltérophilie en soulevant la barre en deux fois ?",
+        "propositions": [
+          "Un arraché",
+          "Un épaulé-jeté",
+          "Un développé",
+          "Un lancé"
+        ],
+        "réponse": "Un épaulé-jeté",
+        "anecdote": "Le jeté, bras tendus au-dessus de la tête, se fait généralement en fente, cest-à-dire une jambe en avant, l'autre en arrière."
+      },
+      {
+        "id": 10,
+        "question": "Quel haltérophile français a remporté l'or aux Championnats d'Europe de 2015 ?",
+        "propositions": [
+          "Benjamin Hennequin",
+          "Charles Rigoulot",
+          "Pierre Fulla",
+          "Jean Debuf"
+        ],
+        "réponse": "Benjamin Hennequin",
+        "anecdote": "Sélectionné pour les JO de 2012 en moins de 85kg, Hennequin sera éliminé sans avoir réussi à soulever la moindre barre."
+      }
+    ],
+    "confirmé": [
+      {
+        "id": 11,
+        "question": "Durant lesquels de ces Jeux l'haltérophilie était-elle absente du programme olympique ?",
+        "propositions": [
+          "1904",
+          "1900",
+          "1920",
+          "1932"
+        ],
+        "réponse": "1900",
+        "anecdote": "L'haltérophilie a retrouvé le programme olympique aux Jeux olympiques d'été de 1904 ainsi que lors des Jeux suivants."
+      },
+      {
+        "id": 12,
+        "question": "Quel mouvement haltérophile a été abandonné depuis les Jeux de 1972 ?",
+        "propositions": [
+          "Lépaulé-jeté",
+          "Le développé",
+          "Le lancé",
+          "Larraché"
+        ],
+        "réponse": "Le développé",
+        "anecdote": "Cela a permis de diminuer la durée des compétitions, sans oublier que ce dernier mouvement ne rejoignait en aucun cas les muscles."
+      },
+      {
+        "id": 13,
+        "question": "Quelle est la hauteur maximale de la ceinture de cuir portée par certains haltérophiles ?",
+        "propositions": [
+          "80 mm",
+          "120 mm",
+          "60 mm",
+          "100 mm"
+        ],
+        "réponse": "120 mm",
+        "anecdote": "L'haltérophile porte des chaussures spéciales, rigides et stables, qui comportent un talon de quelques centimètres."
+      },
+      {
+        "id": 14,
+        "question": "En haltérophilie, quel est le poids caractéristique d'un grand disque rouge ?",
+        "propositions": [
+          "45 kg",
+          "35 kg",
+          "15 kg",
+          "25 kg"
+        ],
+        "réponse": "25 kg",
+        "anecdote": "Les disques sont en métal et en caoutchouc (afin d'amortir les chocs) et respectent un code de couleur bien défini."
+      },
+      {
+        "id": 15,
+        "question": "En haltérophilie, quelle couleur de disque propose un poids de 10 kilos ?",
+        "propositions": [
+          "Bleu",
+          "Jaune",
+          "Rouge",
+          "Vert"
+        ],
+        "réponse": "Vert",
+        "anecdote": "Des disques de 2,0 kg à 0,5 kg ont été ajoutés depuis que la règle du 1,0 kg prévaut (2005) lors des compétitions."
+      },
+      {
+        "id": 16,
+        "question": "Combien compte-t-on de catégories de poids en haltérophilie masculine ?",
+        "propositions": [
+          "Six",
+          "Huit",
+          "Deux",
+          "Quatre"
+        ],
+        "réponse": "Huit",
+        "anecdote": "Les huit catégories sont : 56, 62, 69, 77, 85, 94, 105 et +105 kg (pour les seniors, à partir de vingt ans)."
+      },
+      {
+        "id": 17,
+        "question": "Quel haltérophile est devenu l'une des figures de l'émission 'Sport Dimanche' ?",
+        "propositions": [
+          "Roland Chavigny",
+          "Pierre Fulla",
+          "Louis Hostin",
+          "Pascal Landré"
+        ],
+        "réponse": "Pierre Fulla",
+        "anecdote": "Pierre Fulla a été sept fois champion de France (poids plume) et a battu 38 records de France au cours de sa carrière."
+      },
+      {
+        "id": 18,
+        "question": "Quel haltérophile soviétique a été pas moins de vingt-deux fois champion du monde ?",
+        "propositions": [
+          "Aleksandr Kurlovich",
+          "Andrei Chemerkin",
+          "Sultan Rakhmanov",
+          "Vassili Alexeiev"
+        ],
+        "réponse": "Vassili Alexeiev",
+        "anecdote": "Il fut ainsi le premier homme à lever 600 kg au total olympique, avant de porter ce record à 612,5 kg le 28 juin 1970."
+      },
+      {
+        "id": 19,
+        "question": "Quel haltérophile franco-camerounais est devenu champion du monde en 2006 ?",
+        "propositions": [
+          "Tigran Martirosyan",
+          "Bernardin Matam",
+          "Ernest Cadine",
+          "Vencelas Dabaya"
+        ],
+        "réponse": "Vencelas Dabaya",
+        "anecdote": "Cet athlète a participé aux Jeux olympiques d'été de 2004 sous les couleurs du Cameroun dont il était le porte-drapeau."
+      },
+      {
+        "id": 20,
+        "question": "Qui a décroché l'or en 2006 au tournoi de l'Union européenne des moins de 63kg ?",
+        "propositions": [
+          "Mélanie Bardis",
+          "Agnès Chiquet",
+          "Sabrina Richard",
+          "Manon Lorentz"
+        ],
+        "réponse": "Agnès Chiquet",
+        "anecdote": "À ce jour, Agnès Chiquet reste titulaire de plusieurs records de France Junior, encore invaincus (177 kg au total)."
+      }
+    ],
+    "expert": [
+      {
+        "id": 21,
+        "question": "Dans quelle ville s'est tenu en 1887 le premier concours haltérophile ?",
+        "propositions": [
+          "Madrid",
+          "Berlin",
+          "Bruxelles",
+          "Londres"
+        ],
+        "réponse": "Londres",
+        "anecdote": "Des clubs d'haltérophiles menés par des hommes forts virent le jour en Allemagne dès le début des années 1880."
+      },
+      {
+        "id": 22,
+        "question": "Où furent organisés les premiers championnats d'Europe dhaltérophilie en 1896 ?",
+        "propositions": [
+          "Rotterdam",
+          "Rome",
+          "Lisbonne",
+          "Lyon"
+        ],
+        "réponse": "Rotterdam",
+        "anecdote": "L'haltérophilie est présente dès les premiers Jeux olympiques modernes, aux Jeux olympiques d'été de 1896."
+      },
+      {
+        "id": 23,
+        "question": "Quel haltérophile détient le record de l'épaulé-jeté le plus lourd réussi en compétition ?",
+        "propositions": [
+          "Vassili Alexeiev",
+          "Benjamin Hennequin",
+          "Leonid Taranenko",
+          "Vencelas Dabaya"
+        ],
+        "réponse": "Leonid Taranenko",
+        "anecdote": "Représentant l'Union soviétique, il gagne la médaille d'or dans la catégorie des 110 kilogrammes en soulevant au total 422,5 kg."
+      },
+      {
+        "id": 24,
+        "question": "Quel haltérophile est devenu un pionnier de l'entraînement à haute altitude ?",
+        "propositions": [
+          "Ernest Cadine",
+          "Pierre Fulla",
+          "Serge Reding",
+          "Marcel Paterni"
+        ],
+        "réponse": "Marcel Paterni",
+        "anecdote": "Dans la catégorie des poids moyens, il fut médaillé de bronze aux Championnats du monde d'haltérophilie 1958 et 1961."
+      },
+      {
+        "id": 25,
+        "question": "Quel haltérophile, gravement blessé en 1931, dû mettre un terme à sa carrière ?",
+        "propositions": [
+          "Ernest Cadine",
+          "Louis Hostin",
+          "Charles Rigoulot",
+          "Tommy Kono"
+        ],
+        "réponse": "Charles Rigoulot",
+        "anecdote": "Charles Rigoulot est en fait le chef de file d'une prestigieuse école française d'haltérophilie d'entre-deux-guerres."
+      },
+      {
+        "id": 26,
+        "question": "Qui est devenu le premier champion olympique français dans la catégorie des mi-lourds ?",
+        "propositions": [
+          "Louis Hostin",
+          "Ernest Cadine",
+          "Pierre Fulla",
+          "Charles Rigoulot"
+        ],
+        "réponse": "Ernest Cadine",
+        "anecdote": "Par la suite, Ernest Cadine entreprendra une carrière au music-hall, réalisant des démonstrations de force."
+      },
+      {
+        "id": 27,
+        "question": "Qui s'est reconverti au catch chez René Ben Chemoul dans les années 1960 ?",
+        "propositions": [
+          "Jean Debuf",
+          "Charles Rigoulot",
+          "Pierre Fulla",
+          "Ernest Cadine"
+        ],
+        "réponse": "Jean Debuf",
+        "anecdote": "Jean Debuf fut le porte-drapeau de l'équipe de France aux Jeux olympiques d'été de 1956 à Melbourne."
+      },
+      {
+        "id": 28,
+        "question": "Quel champion américain a terminé sa carrière d'haltérophile aux Jeux olympiques d'Atlanta ?",
+        "propositions": [
+          "Kevin Owens",
+          "Mark Henry",
+          "Luke Gallows",
+          "Karl Anderson"
+        ],
+        "réponse": "Mark Henry",
+        "anecdote": "Mark Henry est devenu champion européen de la WWF, champion de l'ECW puis champion du monde poids-lourds de la WWE."
+      },
+      {
+        "id": 29,
+        "question": "Quel haltérophile turc détient tous les records du monde de sa catégorie (moins de 56kg) ?",
+        "propositions": [
+          "Mete Binay",
+          "Halil Mutlu",
+          "Erol Bilgin",
+          "Erdal Sunar"
+        ],
+        "réponse": "Halil Mutlu",
+        "anecdote": "Il a remporté la médaille d'or en moins de 56 kg successivement aux Jeux olympiques d'été de 1996, de 2000 et de 2004."
+      },
+      {
+        "id": 30,
+        "question": "Quel haltérophile belge, bien que non professionnel, a participé à trois olympiades ?",
+        "propositions": [
+          "Marcel Paterni",
+          "Mark Henry",
+          "Serge Reding",
+          "Pierre Fulla"
+        ],
+        "réponse": "Serge Reding",
+        "anecdote": "Serge Reding fut médaillé d'argent aux Jeux de Mexico en 1968 ainsi que plusieurs fois recordman du monde."
+      }
+    ]
+  }
+}

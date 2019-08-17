@@ -1,0 +1,2228 @@
+{
+  "fournisseur": "OpenQuizzDB - Fournisseur de contenu libre (https://www.openquizzdb.org)",
+  "rédacteur": "Philippe Bresoux",
+  "thème": "Questions de nombres (Les nombres gouvernent le monde)",
+  "difficulté": "3 / 5",
+  "quizz": {
+    "fr": [
+      {
+      "débutant": [
+      {
+        "id": 1,
+        "question": "Combien de travaux Hercule dut-il exécuter pour Eurysthée, roi de Tirynthe ?",
+        "propositions": [
+          "10",
+          "100",
+          "40",
+          "12"
+        ],
+        "réponse": "12",
+        "anecdote": "Héraclès correspond à l'Hercule romain, au Melqart phénicien, à l'Hercle étrusque et au Kakasbos en Asie Mineure."
+      },
+      {
+        "id": 2,
+        "question": "À quel âge Nadia Comaneci a-t-elle obtenu la note parfaite de 10 aux Jeux olympiques ?",
+        "propositions": [
+          "14 ans",
+          "16 ans",
+          "13 ans",
+          "15 ans"
+        ],
+        "réponse": "14 ans",
+        "anecdote": "Nadia Comaneci a été naturalisée américaine après sa carrière sportive, n'ayant donc jamais représenté ce pays en compétition."
+      },
+      {
+        "id": 3,
+        "question": "Quelle est la différence chiffrée entre le carré de 87 et le carré de 86 ?",
+        "propositions": [
+          "86",
+          "87",
+          "1",
+          "173"
+        ],
+        "réponse": "173",
+        "anecdote": "Tout nombre réel strictement positif est le carré d'exactement deux nombres, l'un strictement positif, l'autre strictement négatif."
+      },
+      {
+        "id": 4,
+        "question": "Combien de milliers de passagers le Titanic pouvait-il contenir à son bord ?",
+        "propositions": [
+          "4 000",
+          "2 000",
+          "3 000",
+          "1 000"
+        ],
+        "réponse": "3 000",
+        "anecdote": "La coque du Titanic était pourvue de seize compartiments étanches servant à protéger le navire en cas de voies d'eau."
+      },
+      {
+        "id": 5,
+        "question": "En quelle année Charlemagne a-t-il été couronné empereur à Rome ?",
+        "propositions": [
+          "900",
+          "700",
+          "600",
+          "800"
+        ],
+        "réponse": "800",
+        "anecdote": "Souverain réformateur, soucieux de culture, il protège les arts et lettres et est à l'origine de la renaissance carolingienne."
+      },
+      {
+        "id": 6,
+        "question": "En mesure, quelle est la valeur en millimètres d'un pouce anglais ?",
+        "propositions": [
+          "45 mm",
+          "32 mm",
+          "25 mm",
+          "16 mm"
+        ],
+        "réponse": "25 mm",
+        "anecdote": "Le pouce est une unité de longueur datant du Moyen Âge, aujourd'hui utilisée pour les tailles des pneus ou des écrans d'ordinateurs."
+      },
+      {
+        "id": 7,
+        "question": "Quel âge avait Mozart lorsque son premier opéra fut joué en public ?",
+        "propositions": [
+          "15 ans",
+          "17 ans",
+          "13 ans",
+          "11 ans"
+        ],
+        "réponse": "13 ans",
+        "anecdote": "Mort à 35 ans, Mozart laisse derrière lui 626 uvres répertoriées qui embrassent tous les genres musicaux de son époque."
+      },
+      {
+        "id": 8,
+        "question": "Dans la mythologie grecque, combien d'Argonautes ont accompagné Jason ?",
+        "propositions": [
+          "50",
+          "500",
+          "40",
+          "100"
+        ],
+        "réponse": "50",
+        "anecdote": "Le périple des Argonautes a donné lieu à plusieurs péplums qui s'inspirent assez librement des différentes sources du mythe."
+      },
+      {
+        "id": 9,
+        "question": "En quelle année a eu lieu le tout premier Festival de Cannes ?",
+        "propositions": [
+          "1966",
+          "1956",
+          "1976",
+          "1946"
+        ],
+        "réponse": "1946",
+        "anecdote": "Le Festival fut fondé en 1946 sur un projet de Jean Zay, ministre de l'Éducation nationale et des Beaux-arts du Front populaire."
+      },
+      {
+        "id": 10,
+        "question": "Combien d'année Robinson Crusoé a-t-il passées sur son île ?",
+        "propositions": [
+          "20",
+          "16",
+          "24",
+          "28"
+        ],
+        "réponse": "28",
+        "anecdote": "'Robinson Crusoé' est un roman anglais écrit par Daniel Defoe dont l'histoire s'inspire très librement de la vie d'Alexandre Selkirk."
+      }
+    ],
+    "confirmé": [
+      {
+        "id": 11,
+        "question": "En informatique, combien y a-t-il d'octets dans un kilooctet ?",
+        "propositions": [
+          "32",
+          "512",
+          "256",
+          "1 024"
+        ],
+        "réponse": "1 024",
+        "anecdote": "Le terme est utilisé comme unité de mesure en informatique pour indiquer la capacité de mémorisation des mémoires."
+      },
+      {
+        "id": 12,
+        "question": "En quelle année Michel Preud'homme a-t-il décroché le Prix Lev Yachine ?",
+        "propositions": [
+          "1992",
+          "1988",
+          "1990",
+          "1994"
+        ],
+        "réponse": "1994",
+        "anecdote": "Michel Preud'homme a occupé le poste d'entraîneur au Standard de Liège, après avoir été le directeur sportif du même club."
+      },
+      {
+        "id": 13,
+        "question": "Combien le site de Carnac compte-t-il de menhirs dans ses alignements ?",
+        "propositions": [
+          "1 934",
+          "2 394",
+          "2 934",
+          "1 394"
+        ],
+        "réponse": "2 934",
+        "anecdote": "Le site de Carnac est située sur la limite nord de Mor braz, entre le golfe du Morbihan à l'est et la presqu'île de Quiberon à l'ouest."
+      },
+      {
+        "id": 14,
+        "question": "Combien dénombre-t-on à ce jour de satellites naturels connus autour de Jupiter ?",
+        "propositions": [
+          "69",
+          "59",
+          "39",
+          "49"
+        ],
+        "réponse": "69",
+        "anecdote": "Jupiter est la deuxième planète du Système solaire, après Saturne, avec le plus grand nombre de satellites naturels observés."
+      },
+      {
+        "id": 15,
+        "question": "Quelle distance sépare la ligne de départ de la première haie au 400m haie ?",
+        "propositions": [
+          "18 m",
+          "37 m",
+          "29 m",
+          "45 m"
+        ],
+        "réponse": "45 m",
+        "anecdote": "Les meilleurs athlètes masculins finissent la course en environ 47 secondes et les athlètes féminines en environ 53 secondes."
+      },
+      {
+        "id": 16,
+        "question": "Combien de matchs l'équipe nationale de foot belge a-t-elle disputés avec Guy Thys ?",
+        "propositions": [
+          "100",
+          "140",
+          "80",
+          "120"
+        ],
+        "réponse": "100",
+        "anecdote": "Né à Anvers et fils de Ivan Thys, Guy Thys a été l'entraîneur de l'équipe nationale belge de football le plus couronné de succès."
+      },
+      {
+        "id": 17,
+        "question": "Quel est le pourcentage de silicium entrant dans la composition de l'écorce terrestre ?",
+        "propositions": [
+          "32 %",
+          "8 %",
+          "25 %",
+          "19 %"
+        ],
+        "réponse": "25 %",
+        "anecdote": "Le silicium n'est comparativement présent qu'en relativement faible quantité dans la matière constituant le vivant."
+      },
+      {
+        "id": 18,
+        "question": "Combien d'années Ferdinand Marcos a-t-il été président des Philippines ?",
+        "propositions": [
+          "17",
+          "21",
+          "25",
+          "19"
+        ],
+        "réponse": "21",
+        "anecdote": "Marcos peut être considéré comme un expert du détournement de fonds: il aurait détourné des milliards de dollars du Trésor philippin."
+      },
+      {
+        "id": 19,
+        "question": "Combien de spectateurs peuvent aujourd'hui accueillir les arènes de Vérone ?",
+        "propositions": [
+          "22 000",
+          "19 000",
+          "13 000",
+          "16 000"
+        ],
+        "réponse": "22 000",
+        "anecdote": "Presque tous les soirs de mars à septembre environ, des spectacles ont lieu et ont pour thème les anciens combats de gladiateurs."
+      },
+      {
+        "id": 20,
+        "question": "Combien de pièces contenait le palais impérial dans la Cité interdite ?",
+        "propositions": [
+          "6 666",
+          "9 999",
+          "7 777",
+          "8 888"
+        ],
+        "réponse": "9 999",
+        "anecdote": "Le chiffre de 9 999 s'explique par le fait que seules leurs divinités avaient le droit de construire un palais comprenant 10 000 pièces."
+      }
+    ],
+    "expert": [
+      {
+        "id": 21,
+        "question": "Quelle est la longueur totale du pont du Golden Gate de San Francisco ?",
+        "propositions": [
+          "1 280 m",
+          "1 146 m",
+          "996 m",
+          "1 073 m"
+        ],
+        "réponse": "1 280 m",
+        "anecdote": "Le pont du Golden Gate fut, jusqu'en 1964, le pont suspendu le plus long du monde et reste un célèbre monument de San Francisco."
+      },
+      {
+        "id": 22,
+        "question": "Combien de chansons d'Elvis Presley ont été numéro un au hit-parade américain ?",
+        "propositions": [
+          "14",
+          "12",
+          "18",
+          "16"
+        ],
+        "réponse": "18",
+        "anecdote": "Elvis a contribué à populariser le genre naissant du rockabilly, un mélange énergique de musique country et de rhythm and blues."
+      },
+      {
+        "id": 23,
+        "question": "Dans la mythologie grecque, combien le géant Argos avait-il d'yeux ?",
+        "propositions": [
+          "60",
+          "80",
+          "100",
+          "40"
+        ],
+        "réponse": "100",
+        "anecdote": "Il y en a en permanence cinquante qui dorment et cinquante qui veillent, de sorte qu'il soit impossible de tromper sa vigilance."
+      },
+      {
+        "id": 24,
+        "question": "De combien de fois la superficie de la Chine est-elle plus grande que celle du Japon ?",
+        "propositions": [
+          "39",
+          "9",
+          "19",
+          "29"
+        ],
+        "réponse": "39",
+        "anecdote": "Le Japon forme, depuis 1945, un archipel de 6 852 îles dont les quatre plus grandes sont Hokkaido, Honshu, Shikoku, et Kyushu."
+      },
+      {
+        "id": 25,
+        "question": "Quelle est la longueur de la cordillère des Andes culminant à 6 962 mètres ?",
+        "propositions": [
+          "9 700 km",
+          "6 700 km",
+          "8 300 km",
+          "7 100 km"
+        ],
+        "réponse": "7 100 km",
+        "anecdote": "La cordillère des Andes débute au Venezuela puis traverse la Colombie, l'Équateur, le Pérou, la Bolivie, le Chili et l'Argentine."
+      },
+      {
+        "id": 26,
+        "question": "Quelle est la longueur du tunnel ferroviaire japonais du Seikan ?",
+        "propositions": [
+          "37 km",
+          "53 km",
+          "42 km",
+          "29 km"
+        ],
+        "réponse": "53 km",
+        "anecdote": "Le tunnel du Seikan est légèrement plus long que le tunnel sous la Manche et comporte un tronçon de 23.3 km sous le fond marin."
+      },
+      {
+        "id": 27,
+        "question": "Combien de confettis ont été lancés sur John Glenn après son voyage célèbre spatial ?",
+        "propositions": [
+          "2 828 tonnes",
+          "3 474 tonnes",
+          "1 732 tonnes",
+          "4 437 tonnes"
+        ],
+        "réponse": "3 474 tonnes",
+        "anecdote": "Après avoir quitté la NASA en 1963, il entame une carrière politique infructueuse qui l'oblige à se tourner vers le monde des affaires."
+      },
+      {
+        "id": 28,
+        "question": "Combien de soldats environ compte l'armée enterrée de l'empereur Qin ?",
+        "propositions": [
+          "4 000",
+          "8 000",
+          "6 000",
+          "10 000"
+        ],
+        "réponse": "8 000",
+        "anecdote": "Des couleurs minérales étaient appliquées après cuisson sur les statues permettant ainsi de distinguer les différentes unités."
+      },
+      {
+        "id": 29,
+        "question": "En quelle année Nicolas Appert a-t-il découvert la boîte de conserve ?",
+        "propositions": [
+          "1847",
+          "1902",
+          "1795",
+          "1829"
+        ],
+        "réponse": "1795",
+        "anecdote": "L'appertisation peut être définie comme un procédé de conservation qui consiste à stériliser par la chaleur des denrées périssables."
+      },
+      {
+        "id": 30,
+        "question": "Quel est le nombre d'îles présentes sur l'ensemble du territoire finlandais ?",
+        "propositions": [
+          "120 000",
+          "140 000",
+          "160 000",
+          "180 000"
+        ],
+        "réponse": "180 000",
+        "anecdote": "La plupart des îles sont dans le Sud-Ouest, dans l'archipel d'Aland, et le long de la côte méridionale du golfe de Finlande."
+      }
+      ]
+      }
+    ],
+    "en": [
+    {
+      "débutant": [
+      {
+        "id": 1,
+        "question": "How many works did Hercules execute for Eurystheus, King of Tiryns ?",
+        "propositions": [
+          "100",
+          "40",
+          "12",
+          "10"
+        ],
+        "réponse": "12",
+        "anecdote": "Hebrew corresponds to Roman Hercules, Phenician Melqart, Artifical Circle and Kakasbos in Asia Minor."
+      },
+      {
+        "id": 2,
+        "question": "At what age did Nadia Comaneci get the perfect score of 10 at the Olympics ?",
+        "propositions": [
+          "15 years old",
+          "14 years old",
+          "13 years old",
+          "16 years old"
+        ],
+        "réponse": "14 years old",
+        "anecdote": "Nadia Comaneci was naturalized American after her sports career, having never represented this country in competition."
+      },
+      {
+        "id": 3,
+        "question": "What is the difference between the 87 and the 86 square ?",
+        "propositions": [
+          "1",
+          "173",
+          "87",
+          "86"
+        ],
+        "réponse": "173",
+        "anecdote": "Every strictly positive real number is the square of exactly two numbers, one strictly positive, the other strictly negative."
+      },
+      {
+        "id": 4,
+        "question": "How many thousands of passengers could the Titanic hold on board ?",
+        "propositions": [
+          "1,000",
+          "4,000",
+          "3,000",
+          "2,000"
+        ],
+        "réponse": "3,000",
+        "anecdote": "The Titanic's hull was equipped with sixteen watertight compartments to protect the ship from waterways."
+      },
+      {
+        "id": 5,
+        "question": "In which year was Charlemagne crowned emperor in Rome ?",
+        "propositions": [
+          "700",
+          "600",
+          "800",
+          "900"
+        ],
+        "réponse": "800",
+        "anecdote": "Sovereign reformer, culturally conscious, he protects the arts and letters and is at the origin of the Carolingian renaissance."
+      },
+      {
+        "id": 6,
+        "question": "In measure, what is the value in millimeters of an inch ?",
+        "propositions": [
+          "32 mm",
+          "16 mm",
+          "45 mm",
+          "25 mm"
+        ],
+        "réponse": "25 mm",
+        "anecdote": "The thumb is a unit dating back to the Middle Ages, now used for tire sizes or computer screens."
+      },
+      {
+        "id": 7,
+        "question": "What age had Mozart when his first opera was performed in public ?",
+        "propositions": [
+          "17 years old",
+          "11 years old",
+          "13 years old",
+          "15 years old"
+        ],
+        "réponse": "13 years old",
+        "anecdote": "Died at the age of 35, Mozart leaves behind him 626 works of art that embrace all the musical genres of his time."
+      },
+      {
+        "id": 8,
+        "question": "In Greek mythology, how many Argonauts accompanied Jason ?",
+        "propositions": [
+          "50",
+          "40",
+          "500",
+          "100"
+        ],
+        "réponse": "50",
+        "anecdote": "The Argonauts plague has given rise to several pleas that are inspired quite freely from different sources of myth."
+      },
+      {
+        "id": 9,
+        "question": "In which year did the first Cannes Film Festival take place ?",
+        "propositions": [
+          "1966",
+          "1946",
+          "1956",
+          "1976"
+        ],
+        "réponse": "1946",
+        "anecdote": "The Festival was founded in 1946 on a project by Jean Zay, Minister of National Education and Fine Arts of the Popular Front."
+      },
+      {
+        "id": 10,
+        "question": "How many years has Robinson Crusoe spent on his island ?",
+        "propositions": [
+          "28",
+          "16",
+          "24",
+          "20"
+        ],
+        "réponse": "28",
+        "anecdote": "'Robinson Crusoe' is an English novel written by Daniel Defoe whose story is very freely inspired by the life of Alexander Selkirk."
+      }
+    ],
+    "confirmé": [
+      {
+        "id": 11,
+        "question": "In computing, how many bytes are in a kilobyte ?",
+        "propositions": [
+          "1 024",
+          "256",
+          "32",
+          "512"
+        ],
+        "réponse": "1 024",
+        "anecdote": "The term is used as a computer measurement unit to indicate memory memorization ability."
+      },
+      {
+        "id": 12,
+        "question": "In which year did Michel Preud'homme win the Lev Yachine Prize ?",
+        "propositions": [
+          "1994",
+          "1988",
+          "1990",
+          "1992"
+        ],
+        "réponse": "1994",
+        "anecdote": "Michel Preud'homme held the coaching post at Standard de Liege, after being the sports director of the same club."
+      },
+      {
+        "id": 13,
+        "question": "How much does the site of Carnac have menhirs in its alignments ?",
+        "propositions": [
+          "1 934",
+          "2 934",
+          "1 394",
+          "2 394"
+        ],
+        "réponse": "2 934",
+        "anecdote": "The Carnac site is located on the northern limit of Mor Braz, between the Gulf of Morbihan to the east and the Quiberon peninsula to the west."
+      },
+      {
+        "id": 14,
+        "question": "How many so far are known natural satellites around Jupiter ?",
+        "propositions": [
+          "59",
+          "69",
+          "39",
+          "49"
+        ],
+        "réponse": "69",
+        "anecdote": "Jupiter is the second planet of the Solar System, after Saturn, with the largest number of natural satellites observed."
+      },
+      {
+        "id": 15,
+        "question": "How far is the departure line from the first hurdle to the 400m hurdle ?",
+        "propositions": [
+          "18 m",
+          "29 m",
+          "45 m",
+          "37 m"
+        ],
+        "réponse": "45 m",
+        "anecdote": "The best male athletes finish the race in about 47 seconds and the female athletes in about 53 seconds."
+      },
+      {
+        "id": 16,
+        "question": "How many matches has the Belgian national football team played with Guy Thys ?",
+        "propositions": [
+          "80",
+          "120",
+          "140",
+          "100"
+        ],
+        "réponse": "100",
+        "anecdote": "Born in Antwerp and son of Ivan Thys, Guy Thys was the coach of the most successful Belgian national football team."
+      },
+      {
+        "id": 17,
+        "question": "What is the percentage of silicon used in the composition of the terrestrial bark ?",
+        "propositions": [
+          "25%",
+          "8%",
+          "32%",
+          "19%"
+        ],
+        "réponse": "25%",
+        "anecdote": "Silicon is comparatively only present in relatively small amounts in the matter constituting the living."
+      },
+      {
+        "id": 18,
+        "question": "How many years has Ferdinand Marcos been President of the Philippines ?",
+        "propositions": [
+          "19",
+          "17",
+          "21",
+          "25"
+        ],
+        "réponse": "21",
+        "anecdote": "Marcos may be considered as an expert on the disbursement of funds: he would have turned away billions of dollars from the Philippine Treasury."
+      },
+      {
+        "id": 19,
+        "question": "How many spectators can today welcome the arenas of Verona ?",
+        "propositions": [
+          "22,000",
+          "13 000",
+          "16,000",
+          "19,000"
+        ],
+        "réponse": "22,000",
+        "anecdote": "Almost every night from March to September, shows take place and have the theme of ancient gladiatorial fights."
+      },
+      {
+        "id": 20,
+        "question": "How many pieces contained the imperial palace in the Forbidden City ?",
+        "propositions": [
+          "8,888",
+          "9,999",
+          "6,666",
+          "7,777"
+        ],
+        "réponse": "9,999",
+        "anecdote": "The figure of 9,999 is explained by the fact that only their divinities were allowed to build a palace with 10,000 pieces."
+      }
+    ],
+    "expert": [
+      {
+        "id": 21,
+        "question": "What is the total length of the Golden Gate Bridge in San Francisco ?",
+        "propositions": [
+          "1 146 m",
+          "1 073 m",
+          "996 m",
+          "1 280 m"
+        ],
+        "réponse": "1 280 m",
+        "anecdote": "The Golden Gate Bridge was, until 1964, the longest suspension bridge in the world and remains a famous monument of San Francisco."
+      },
+      {
+        "id": 22,
+        "question": "How many songs of Elvis Presley were number one in the American hit parade ?",
+        "propositions": [
+          "12",
+          "14",
+          "16",
+          "18"
+        ],
+        "réponse": "18",
+        "anecdote": "Elvis has helped popularize the nascent rockabilly genre, an energetic mix of country music and rhythm and blues."
+      },
+      {
+        "id": 23,
+        "question": "In Greek mythology, how much did the giant Argos have eyes ?",
+        "propositions": [
+          "80",
+          "40",
+          "100",
+          "60"
+        ],
+        "réponse": "100",
+        "anecdote": "There are always fifty who sleep and fifty who watch, so that it is impossible to deceive his vigilance."
+      },
+      {
+        "id": 24,
+        "question": "How often is China's area larger than Japan's ?",
+        "propositions": [
+          "9",
+          "39",
+          "29",
+          "19"
+        ],
+        "réponse": "39",
+        "anecdote": "Since 1945, Japan has formed an archipelago of 6,852 islands, the four largest of which are Hokkaido, Honshu, Shikoku, and Kyushu."
+      },
+      {
+        "id": 25,
+        "question": "What is the length of the Andes mountain range at 6,962 meters ?",
+        "propositions": [
+          "6,700 km",
+          "7,100 km",
+          "8,300 km",
+          "9,700 km"
+        ],
+        "réponse": "7,100 km",
+        "anecdote": "The Andes cordillera begins in Venezuela and then crosses Colombia, Ecuador, Peru, Bolivia, Chile and Argentina."
+      },
+      {
+        "id": 26,
+        "question": "How long is the Seikan Japanese Railway Tunnel ?",
+        "propositions": [
+          "29 km",
+          "37 km",
+          "53 km",
+          "42 km"
+        ],
+        "réponse": "53 km",
+        "anecdote": "The Seikan tunnel is slightly longer than the Channel Tunnel and has a 23.3 km section under the seabed."
+      },
+      {
+        "id": 27,
+        "question": "How many confetti were thrown at John Glenn after his famous space trip ?",
+        "propositions": [
+          "3,474 tonnes",
+          "1,732 tonnes",
+          "2,828 tonnes",
+          "4,437 tonnes"
+        ],
+        "réponse": "3,474 tonnes",
+        "anecdote": "After leaving NASA in 1963, he began an unsuccessful political career that forced him to turn to the business world."
+      },
+      {
+        "id": 28,
+        "question": "How many soldiers does the Emperor Qin's buried army have ?",
+        "propositions": [
+          "10,000",
+          "4,000",
+          "8,000",
+          "6,000"
+        ],
+        "réponse": "8,000",
+        "anecdote": "Mineral colors were applied after cooking on the statues thus making it possible to distinguish the different units."
+      },
+      {
+        "id": 29,
+        "question": "In which year did Nicolas Appert discover the tin can ?",
+        "propositions": [
+          "1847",
+          "1795",
+          "1829",
+          "1902"
+        ],
+        "réponse": "1795",
+        "anecdote": "Canning can be defined as a process of conservation which consists in sterilizing by heat the perishable goods."
+      },
+      {
+        "id": 30,
+        "question": "What is the number of islands present in all of Finland ?",
+        "propositions": [
+          "180,000",
+          "160,000",
+          "120,000",
+          "140,000"
+        ],
+        "réponse": "180,000",
+        "anecdote": "Most of the islands are in the South West, in the Aland Archipelago, and along the southern coast of the Gulf of Finland."
+      }
+      ]
+      }
+    ],
+    "de": [
+    {
+      "débutant": [
+      {
+        "id": 1,
+        "question": "Wie viele Werke hat Herkules für Eurystheus, König von Tiryns, ausgeführt ?",
+        "propositions": [
+          "100",
+          "10",
+          "40",
+          "12"
+        ],
+        "réponse": "12",
+        "anecdote": "Hebräisch entspricht Roman Hercules, Phönizier Melqart, Künstlicher Kreis und Kakasbos in Kleinasien."
+      },
+      {
+        "id": 2,
+        "question": "In welchem Alter erreichte Nadia Comaneci bei den Olympischen Spielen die perfekte Punktzahl von 10 ?",
+        "propositions": [
+          "13 Jahre alt",
+          "16 Jahre alt",
+          "14 Jahre alt",
+          "15 Jahre alt"
+        ],
+        "réponse": "14 Jahre alt",
+        "anecdote": "Nadia Comaneci wurde nach ihrer Sportkarriere in den USA eingebürgert, nachdem sie dieses Land noch nie im Wettbewerb vertreten hatte."
+      },
+      {
+        "id": 3,
+        "question": "Was ist der Unterschied zwischen dem 87er und dem 86er Quadrat ?",
+        "propositions": [
+          "1",
+          "87",
+          "86",
+          "173"
+        ],
+        "réponse": "173",
+        "anecdote": "Jede streng positive reelle Zahl ist das Quadrat aus genau zwei Zahlen, eine streng positive und eine streng negative."
+      },
+      {
+        "id": 4,
+        "question": "Wie viele tausend Passagiere konnte die Titanic an Bord halten ?",
+        "propositions": [
+          "1.000",
+          "3.000",
+          "4.000",
+          "2.000"
+        ],
+        "réponse": "3.000",
+        "anecdote": "Der Rumpf der Titanic war mit sechzehn wasserdichten Fächern ausgestattet, um das Schiff vor Wasserstraßen zu schützen."
+      },
+      {
+        "id": 5,
+        "question": "In welchem Jahr wurde Karl der Große in Rom zum Kaiser gekrönt ?",
+        "propositions": [
+          "700",
+          "800",
+          "600",
+          "900"
+        ],
+        "réponse": "800",
+        "anecdote": "Souveräner Reformer, kulturbewusst, beschützt die Künste und Briefe und steht am Ursprung der karolingischen Renaissance."
+      },
+      {
+        "id": 6,
+        "question": "Was ist der Millimeter-Zoll-Wert ?",
+        "propositions": [
+          "45 mm",
+          "25 mm",
+          "32 mm",
+          "16 mm"
+        ],
+        "réponse": "25 mm",
+        "anecdote": "Der Daumen ist eine Einheit aus dem Mittelalter, die heute für Reifengrößen oder Computerbildschirme verwendet wird."
+      },
+      {
+        "id": 7,
+        "question": "In welchem Alter war Mozart, als seine erste Oper öffentlich aufgeführt wurde ?",
+        "propositions": [
+          "17 Jahre",
+          "11 Jahre",
+          "15 Jahre",
+          "13 Jahre"
+        ],
+        "réponse": "13 Jahre",
+        "anecdote": "Mozart ist 35 Jahre alt und hinterlässt 626 Kunstwerke, die alle musikalischen Genres seiner Zeit umfassen."
+      },
+      {
+        "id": 8,
+        "question": "Wie viele Argonauten begleiteten Jason in der griechischen Mythologie ?",
+        "propositions": [
+          "50",
+          "40",
+          "100",
+          "500"
+        ],
+        "réponse": "50",
+        "anecdote": "Die Argonautenpest hat zu mehreren Klagegründen geführt, die sich ganz frei von verschiedenen Mythosquellen inspirieren lassen."
+      },
+      {
+        "id": 9,
+        "question": "In welchem Jahr fanden die ersten Filmfestspiele von Cannes statt ?",
+        "propositions": [
+          "1976",
+          "1966",
+          "1956",
+          "1946"
+        ],
+        "réponse": "1946",
+        "anecdote": "Das Festival wurde 1946 auf der Grundlage eines Projekts von Jean Zay, Minister für nationale Bildung und Bildende Kunst der Volksfront, gegründet."
+      },
+      {
+        "id": 10,
+        "question": "Wie viele Jahre hat Robinson Crusoe auf seiner Insel verbracht ?",
+        "propositions": [
+          "20",
+          "24",
+          "16",
+          "28"
+        ],
+        "réponse": "28",
+        "anecdote": "'Robinson Crusoe' ist ein englischer Roman von Daniel Defoe, dessen Geschichte sehr frei vom Leben von Alexander Selkirk inspiriert ist."
+      }
+    ],
+    "confirmé": [
+      {
+        "id": 11,
+        "question": "Wie viele Bytes enthält ein Kilobyte ?",
+        "propositions": [
+          "512",
+          "256",
+          "1 024",
+          "32"
+        ],
+        "réponse": "1 024",
+        "anecdote": "Der Begriff wird als Computermesseinheit verwendet, um die Fähigkeit zum Speichern von Speichern anzuzeigen."
+      },
+      {
+        "id": 12,
+        "question": "In welchem Jahr hat Michel Preud'homme den Lev Yachine-Preis gewonnen ?",
+        "propositions": [
+          "1990",
+          "1994",
+          "1992",
+          "1988"
+        ],
+        "réponse": "1994",
+        "anecdote": "Michel Preud'homme bekleidete den Trainerposten bei Standard de Liège, nachdem er der Sportdirektor desselben Vereins war."
+      },
+      {
+        "id": 13,
+        "question": "Wie viel Menhire hat der Standort Carnac in seinen Ausrichtungen ?",
+        "propositions": [
+          "2 934",
+          "1 934",
+          "1 394",
+          "2 394"
+        ],
+        "réponse": "2 934",
+        "anecdote": "Der Standort Carnac befindet sich an der Nordgrenze von Mor Braz, zwischen dem Golf von Morbihan im Osten und der Halbinsel Quiberon im Westen."
+      },
+      {
+        "id": 14,
+        "question": "Wie viele natürliche Satelliten sind bisher rund um Jupiter bekannt ?",
+        "propositions": [
+          "59",
+          "49",
+          "69",
+          "39"
+        ],
+        "réponse": "69",
+        "anecdote": "Jupiter ist nach Saturn der zweite Planet des Sonnensystems, auf dem die meisten natürlichen Satelliten beobachtet werden."
+      },
+      {
+        "id": 15,
+        "question": "Wie weit ist die Abfahrtslinie von der ersten Hürde bis zur 400-m-Hürde ?",
+        "propositions": [
+          "29 m",
+          "45 m",
+          "37 m",
+          "18 m"
+        ],
+        "réponse": "45 m",
+        "anecdote": "Die besten männlichen Athleten beenden das Rennen in ca. 47 Sekunden und die weiblichen Athleten in ca. 53 Sekunden."
+      },
+      {
+        "id": 16,
+        "question": "Wie viele Spiele hat die belgische Fußballnationalmannschaft mit Guy Thys gespielt ?",
+        "propositions": [
+          "80",
+          "120",
+          "100",
+          "140"
+        ],
+        "réponse": "100",
+        "anecdote": "Guy Thys wurde in Antwerpen als Sohn von Ivan Thys geboren und war der Trainer der erfolgreichsten belgischen Fußballnationalmannschaft."
+      },
+      {
+        "id": 17,
+        "question": "Wie viel Prozent Silizium werden für die Zusammensetzung der Erdrinde verwendet ?",
+        "propositions": [
+          "19%",
+          "8%",
+          "32%",
+          "25%"
+        ],
+        "réponse": "25%",
+        "anecdote": "Silizium ist in der Materie der Lebenden vergleichsweise nur in relativ geringen Mengen vorhanden."
+      },
+      {
+        "id": 18,
+        "question": "Wie viele Jahre war Ferdinand Marcos Präsident der Philippinen ?",
+        "propositions": [
+          "17",
+          "19",
+          "21",
+          "25"
+        ],
+        "réponse": "21",
+        "anecdote": "Marcos kann als Experte für die Auszahlung von Geldern gelten: Er hätte Milliarden von Dollar vom philippinischen Finanzministerium abgewiesen."
+      },
+      {
+        "id": 19,
+        "question": "Wie viele Zuschauer können heute die Arenen von Verona begrüßen ?",
+        "propositions": [
+          "16.000",
+          "19.000",
+          "13 000",
+          "22.000"
+        ],
+        "réponse": "22.000",
+        "anecdote": "Fast jede Nacht von März bis September finden Shows statt, die das Thema antiker Gladiatorenkämpfe haben."
+      },
+      {
+        "id": 20,
+        "question": "Wie viele Stücke enthielten den Kaiserpalast in der Verbotenen Stadt ?",
+        "propositions": [
+          "6 666",
+          "7.777",
+          "8.888",
+          "9.999"
+        ],
+        "réponse": "9.999",
+        "anecdote": "Die Zahl von 9.999 erklärt sich aus der Tatsache, dass nur ihre Gottheiten einen Palast mit 10.000 Stücken errichten durften."
+      }
+    ],
+    "expert": [
+      {
+        "id": 21,
+        "question": "Wie lang ist die Golden Gate Bridge in San Francisco insgesamt ?",
+        "propositions": [
+          "1 146 m",
+          "1 073 m",
+          "996 m",
+          "1 280 m"
+        ],
+        "réponse": "1 280 m",
+        "anecdote": "Die Golden Gate Bridge war bis 1964 die längste Hängebrücke der Welt und ist bis heute ein berühmtes Denkmal von San Francisco."
+      },
+      {
+        "id": 22,
+        "question": "Wie viele Songs von Elvis Presley waren die Nummer eins in der amerikanischen Hitparade ?",
+        "propositions": [
+          "18",
+          "16",
+          "14",
+          "12"
+        ],
+        "réponse": "18",
+        "anecdote": "Elvis hat geholfen, das aufkeimende Rockabilly-Genre, eine energiegeladene Mischung aus Country-Musik und Rhythmus und Blues, bekannt zu machen."
+      },
+      {
+        "id": 23,
+        "question": "Wie viele Augen hatte der Riese Argos in der griechischen Mythologie ?",
+        "propositions": [
+          "80",
+          "60",
+          "40",
+          "100"
+        ],
+        "réponse": "100",
+        "anecdote": "Es gibt immer fünfzig, die schlafen und fünfzig, die zuschauen, so dass es unmöglich ist, seine Wachsamkeit zu täuschen."
+      },
+      {
+        "id": 24,
+        "question": "Wie oft ist Chinas Fläche größer als die Japans ?",
+        "propositions": [
+          "29",
+          "9",
+          "39",
+          "19"
+        ],
+        "réponse": "39",
+        "anecdote": "Seit 1945 hat Japan ein Archipel von 6.852 Inseln gebildet, von denen die vier größten Hokkaido, Honshu, Shikoku und Kyushu sind."
+      },
+      {
+        "id": 25,
+        "question": "Wie lang sind die Anden mit 6.962 Metern ?",
+        "propositions": [
+          "7.100 km",
+          "6.700 km",
+          "8.300 km",
+          "9.700 km"
+        ],
+        "réponse": "7.100 km",
+        "anecdote": "Die Andenkordillere beginnt in Venezuela und durchquert dann Kolumbien, Ecuador, Peru, Bolivien, Chile und Argentinien."
+      },
+      {
+        "id": 26,
+        "question": "Wie lang ist der japanische Eisenbahntunnel von Seikan ?",
+        "propositions": [
+          "53 km",
+          "29 km",
+          "37 km",
+          "42 km"
+        ],
+        "réponse": "53 km",
+        "anecdote": "Der Seikan-Tunnel ist etwas länger als der Kanaltunnel und hat einen Abschnitt von 23,3 km unter dem Meeresboden."
+      },
+      {
+        "id": 27,
+        "question": "Wie viele Konfetti wurden nach seiner berühmten Raumfahrt auf John Glenn geworfen ?",
+        "propositions": [
+          "4,437 Tonnen",
+          "1,732 Tonnen",
+          "3,474 Tonnen",
+          "2,828 Tonnen"
+        ],
+        "réponse": "3,474 Tonnen",
+        "anecdote": "Nachdem er die NASA 1963 verlassen hatte, begann eine erfolglose politische Karriere, die ihn zwang, sich der Geschäftswelt zuzuwenden."
+      },
+      {
+        "id": 28,
+        "question": "Wie viele Soldaten hat die beerdigte Armee des Kaisers Qin ?",
+        "propositions": [
+          "8.000",
+          "4.000",
+          "6.000",
+          "10.000"
+        ],
+        "réponse": "8.000",
+        "anecdote": "Nach dem Garen der Statuen wurden Mineralfarben aufgetragen, wodurch die verschiedenen Einheiten unterschieden werden konnten."
+      },
+      {
+        "id": 29,
+        "question": "In welchem Jahr entdeckte Nicolas Appert die Blechdose ?",
+        "propositions": [
+          "1902",
+          "1829",
+          "1847",
+          "1795"
+        ],
+        "réponse": "1795",
+        "anecdote": "Einmachen kann als ein Konservierungsprozess definiert werden, der darin besteht, die verderblichen Waren durch Erhitzen zu sterilisieren."
+      },
+      {
+        "id": 30,
+        "question": "Wie viele Inseln gibt es in ganz Finnland ?",
+        "propositions": [
+          "160.000",
+          "180.000",
+          "120.000",
+          "140.000"
+        ],
+        "réponse": "180.000",
+        "anecdote": "Die meisten Inseln liegen im Südwesten, im Aland-Archipel und an der Südküste des Finnischen Meerbusens."
+      }
+      ]
+      }
+    ],
+    "es": [
+    {
+      "débutant": [
+      {
+        "id": 1,
+        "question": "¿Cuántas obras ejecutó Hércules para Eurystheus, el rey de Tiryns ?",
+        "propositions": [
+          "40",
+          "12",
+          "100",
+          "10"
+        ],
+        "réponse": "12",
+        "anecdote": "El hebreo corresponde a Roman Hercules, Phenician Melqart, Artifical Circle y Kakasbos in Asia Minor."
+      },
+      {
+        "id": 2,
+        "question": "¿A qué edad obtuvo Nadia Comaneci la puntuación perfecta de 10 en los Juegos Olímpicos ?",
+        "propositions": [
+          "15 años",
+          "14 años",
+          "16 años",
+          "13 años"
+        ],
+        "réponse": "14 años",
+        "anecdote": "Nadia Comaneci se naturalizó en Estados Unidos después de su carrera deportiva, ya que nunca representó a este país en la competencia."
+      },
+      {
+        "id": 3,
+        "question": "¿Cuál es la diferencia entre el 87 y el 86 cuadrado ?",
+        "propositions": [
+          "1",
+          "87",
+          "86",
+          "173"
+        ],
+        "réponse": "173",
+        "anecdote": "Cada número real estrictamente positivo es el cuadrado de exactamente dos números, uno estrictamente positivo y el otro estrictamente negativo."
+      },
+      {
+        "id": 4,
+        "question": "¿Cuántos miles de pasajeros podría sostener el Titanic a bordo ?",
+        "propositions": [
+          "4,000",
+          "1,000",
+          "2,000",
+          "3,000"
+        ],
+        "réponse": "3,000",
+        "anecdote": "El casco del Titanic estaba equipado con dieciséis compartimentos estancos para proteger la nave de los cursos de agua."
+      },
+      {
+        "id": 5,
+        "question": "¿En qué año fue coronado emperador Carlomagno en Roma ?",
+        "propositions": [
+          "800",
+          "700",
+          "600",
+          "900"
+        ],
+        "réponse": "800",
+        "anecdote": "Soberano reformador, con conciencia cultural, protege las artes y las letras y está en el origen del renacimiento carolingio."
+      },
+      {
+        "id": 6,
+        "question": "En medida, ¿cuál es el valor en milímetros de pulgada ?",
+        "propositions": [
+          "16 mm",
+          "25 mm",
+          "45 mm",
+          "32 mm"
+        ],
+        "réponse": "25 mm",
+        "anecdote": "El pulgar es una unidad que se remonta a la Edad Media, que ahora se usa para tamaños de neumáticos o pantallas de computadora."
+      },
+      {
+        "id": 7,
+        "question": "¿Qué edad tenía Mozart cuando se realizó su primera ópera en público ?",
+        "propositions": [
+          "11 años",
+          "15 años",
+          "17 años",
+          "13 años"
+        ],
+        "réponse": "13 años",
+        "anecdote": "Murió a la edad de 35 años, Mozart deja atrás 626 obras de arte que abarcan todos los géneros musicales de su época."
+      },
+      {
+        "id": 8,
+        "question": "En la mitología griega, ¿cuántos argonautas acompañaron a Jason ?",
+        "propositions": [
+          "40",
+          "50",
+          "500",
+          "100"
+        ],
+        "réponse": "50",
+        "anecdote": "La plaga de los argonautas ha dado lugar a varios motivos que se inspiran con bastante libertad de diferentes fuentes del mito."
+      },
+      {
+        "id": 9,
+        "question": "¿En qué año tuvo lugar el primer Festival de Cine de Cannes ?",
+        "propositions": [
+          "1976",
+          "1956",
+          "1966",
+          "1946"
+        ],
+        "réponse": "1946",
+        "anecdote": "El Festival se fundó en 1946 en un proyecto de Jean Zay, Ministro de Educación Nacional y Bellas Artes del Frente Popular."
+      },
+      {
+        "id": 10,
+        "question": "¿Cuántos años ha pasado Robinson Crusoe en su isla ?",
+        "propositions": [
+          "28",
+          "20",
+          "24",
+          "16"
+        ],
+        "réponse": "28",
+        "anecdote": "'Robinson Crusoe' es una novela inglesa escrita por Daniel Defoe cuya historia está inspirada en la vida de Alexander Selkirk."
+      }
+    ],
+    "confirmé": [
+      {
+        "id": 11,
+        "question": "En computación, ¿cuántos bytes hay en un kilobyte ?",
+        "propositions": [
+          "512",
+          "256",
+          "32",
+          "1 024"
+        ],
+        "réponse": "1 024",
+        "anecdote": "El término se usa como una unidad de medida de computadora para indicar la capacidad de memorización de la memoria."
+      },
+      {
+        "id": 12,
+        "question": "¿En qué año ganó Michel Preud'homme el Premio Lev Yachine ?",
+        "propositions": [
+          "1994",
+          "1990",
+          "1988",
+          "1992"
+        ],
+        "réponse": "1994",
+        "anecdote": "Michel Preud'homme ocupó el puesto de entrenador en el Standard de Liège, después de ser el director deportivo del mismo club."
+      },
+      {
+        "id": 13,
+        "question": "¿Cuánto tiene el sitio de Carnac menhires en sus alineaciones ?",
+        "propositions": [
+          "1 394",
+          "2 934",
+          "2 394",
+          "1 934"
+        ],
+        "réponse": "2 934",
+        "anecdote": "El sitio de Carnac está ubicado en el límite norte de Mor Braz, entre el Golfo de Morbihan al este y la península de Quiberon al oeste."
+      },
+      {
+        "id": 14,
+        "question": "¿Cuántos son los satélites naturales conocidos alrededor de Júpiter ?",
+        "propositions": [
+          "59",
+          "39",
+          "49",
+          "69"
+        ],
+        "réponse": "69",
+        "anecdote": "Júpiter es el segundo planeta del Sistema Solar, después de Saturno, con el mayor número de satélites naturales observados."
+      },
+      {
+        "id": 15,
+        "question": "¿A qué distancia está la línea de salida desde el primer obstáculo hasta los 400 m ?",
+        "propositions": [
+          "29 m",
+          "45 m",
+          "37 m",
+          "18 m"
+        ],
+        "réponse": "45 m",
+        "anecdote": "Los mejores atletas masculinos terminan la carrera en unos 47 segundos y las atletas femeninas en unos 53 segundos."
+      },
+      {
+        "id": 16,
+        "question": "¿Cuántos partidos ha jugado la selección belga de fútbol con Guy Thys ?",
+        "propositions": [
+          "120",
+          "100",
+          "140",
+          "80"
+        ],
+        "réponse": "100",
+        "anecdote": "Nacido en Amberes e hijo de Ivan Thys, Guy Thys fue el entrenador del equipo de fútbol nacional belga más exitoso."
+      },
+      {
+        "id": 17,
+        "question": "¿Cuál es el porcentaje de silicio utilizado en la composición de la corteza terrestre ?",
+        "propositions": [
+          "19%",
+          "25%",
+          "8%",
+          "32%"
+        ],
+        "réponse": "25%",
+        "anecdote": "El silicio está comparativamente solo presente en cantidades relativamente pequeñas en la materia que constituye el ser vivo."
+      },
+      {
+        "id": 18,
+        "question": "¿Cuántos años ha sido Ferdinand Marcos presidente de Filipinas ?",
+        "propositions": [
+          "21",
+          "25",
+          "19",
+          "17"
+        ],
+        "réponse": "21",
+        "anecdote": "Marcos puede ser considerado como un experto en el desembolso de fondos: habría rechazado miles de millones de dólares del Tesoro de Filipinas."
+      },
+      {
+        "id": 19,
+        "question": "¿Cuántos espectadores pueden hoy dar la bienvenida a las arenas de Verona ?",
+        "propositions": [
+          "22,000",
+          "16,000",
+          "13 000",
+          "19,000"
+        ],
+        "réponse": "22,000",
+        "anecdote": "Casi todas las noches de marzo a septiembre, los espectáculos tienen lugar y tienen el tema de antiguas luchas de gladiadores."
+      },
+      {
+        "id": 20,
+        "question": "¿Cuántas piezas contenía el palacio imperial en la Ciudad Prohibida ?",
+        "propositions": [
+          "7,777",
+          "9,999",
+          "6,666",
+          "8,888"
+        ],
+        "réponse": "9,999",
+        "anecdote": "La cifra de 9.999 se explica por el hecho de que solo a sus divinidades se les permitió construir un palacio con 10.000 piezas."
+      }
+    ],
+    "expert": [
+      {
+        "id": 21,
+        "question": "¿Cuál es la longitud total del puente Golden Gate en San Francisco ?",
+        "propositions": [
+          "1 073 m",
+          "996 m",
+          "1 146 m",
+          "1 280 m"
+        ],
+        "réponse": "1 280 m",
+        "anecdote": "El puente Golden Gate fue, hasta 1964, el puente colgante más largo del mundo y sigue siendo un famoso monumento de San Francisco."
+      },
+      {
+        "id": 22,
+        "question": "¿Cuántas canciones de Elvis Presley fueron las número uno en el desfile de éxitos de Estados Unidos ?",
+        "propositions": [
+          "16",
+          "18",
+          "14",
+          "12"
+        ],
+        "réponse": "18",
+        "anecdote": "Elvis ha ayudado a popularizar el incipiente género rockabilly, una combinación enérgica de música country, rhythm and blues."
+      },
+      {
+        "id": 23,
+        "question": "En la mitología griega, ¿cuánto tenía el gigante Argos ojos ?",
+        "propositions": [
+          "100",
+          "40",
+          "80",
+          "60"
+        ],
+        "réponse": "100",
+        "anecdote": "Siempre hay cincuenta que duermen y cincuenta que miran, por lo que es imposible engañar a su vigilancia."
+      },
+      {
+        "id": 24,
+        "question": "¿Con qué frecuencia es el área de China más grande que la de Japón ?",
+        "propositions": [
+          "9",
+          "29",
+          "19",
+          "39"
+        ],
+        "réponse": "39",
+        "anecdote": "Desde 1945, Japón ha formado un archipiélago de 6.852 islas, las cuatro más grandes de las cuales son Hokkaido, Honshu, Shikoku y Kyushu."
+      },
+      {
+        "id": 25,
+        "question": "¿Cuál es la longitud de la cordillera de los Andes a 6,962 metros ?",
+        "propositions": [
+          "9,700 km",
+          "6,700 km",
+          "8,300 km",
+          "7,100 km"
+        ],
+        "réponse": "7,100 km",
+        "anecdote": "La cordillera de los Andes comienza en Venezuela y luego cruza Colombia, Ecuador, Perú, Bolivia, Chile y Argentina."
+      },
+      {
+        "id": 26,
+        "question": "¿Cuánto dura el túnel ferroviario japonés Seikan ?",
+        "propositions": [
+          "53 km",
+          "42 km",
+          "29 km",
+          "37 km"
+        ],
+        "réponse": "53 km",
+        "anecdote": "El túnel Seikan es un poco más largo que el Túnel del Canal y tiene una sección de 23,3 km bajo el lecho marino."
+      },
+      {
+        "id": 27,
+        "question": "¿Cuántos confeti fueron arrojados a John Glenn después de su famoso viaje espacial ?",
+        "propositions": [
+          "3,474 toneladas",
+          "2,828 toneladas",
+          "4,437 toneladas",
+          "1,732 toneladas"
+        ],
+        "réponse": "3,474 toneladas",
+        "anecdote": "Después de dejar la NASA en 1963, comenzó una exitosa carrera política que lo obligó a dedicarse al mundo de los negocios."
+      },
+      {
+        "id": 28,
+        "question": "¿Cuántos soldados tiene el ejército enterrado del emperador Qin ?",
+        "propositions": [
+          "4,000",
+          "6,000",
+          "8,000",
+          "10,000"
+        ],
+        "réponse": "8,000",
+        "anecdote": "Los colores minerales se aplicaron después de cocinar en las estatuas, lo que permitió distinguir las diferentes unidades."
+      },
+      {
+        "id": 29,
+        "question": "¿En qué año descubrió la lata Nicolas Appert ?",
+        "propositions": [
+          "1847",
+          "1795",
+          "1829",
+          "1902"
+        ],
+        "réponse": "1795",
+        "anecdote": "El enlatado se puede definir como un proceso de conservación que consiste en esterilizar por calor los productos perecederos."
+      },
+      {
+        "id": 30,
+        "question": "¿Cuál es el número de islas presentes en toda Finlandia ?",
+        "propositions": [
+          "180,000",
+          "160,000",
+          "120,000",
+          "140,000"
+        ],
+        "réponse": "180,000",
+        "anecdote": "La mayoría de las islas se encuentran en el suroeste, en el archipiélago de Aland, y en la costa sur del golfo de Finlandia."
+      }
+      ]
+      }
+    ],
+    "it": [
+    {
+      "débutant": [
+      {
+        "id": 1,
+        "question": "Quanti lavori ha eseguito Hercules per Eurystheus, King of Tiryns ?",
+        "propositions": [
+          "10",
+          "100",
+          "12",
+          "40"
+        ],
+        "réponse": "12",
+        "anecdote": "L'ebraico corrisponde a Ercole Romano, Fenice Melqart, Cerchio Artificiale e Kakasbo in Asia Minore."
+      },
+      {
+        "id": 2,
+        "question": "A che età Nadia Comaneci ha ottenuto il punteggio perfetto di 10 alle Olimpiadi ?",
+        "propositions": [
+          "16 anni",
+          "13 anni",
+          "14 anni",
+          "15 anni"
+        ],
+        "réponse": "14 anni",
+        "anecdote": "Nadia Comaneci è stata naturalizzata americana dopo la sua carriera sportiva, non avendo mai rappresentato questo paese in competizione."
+      },
+      {
+        "id": 3,
+        "question": "Qual è la differenza tra la 87 e la 86 piazza ?",
+        "propositions": [
+          "173",
+          "86",
+          "1",
+          "87"
+        ],
+        "réponse": "173",
+        "anecdote": "Ogni numero reale strettamente positivo è il quadrato di esattamente due numeri, uno strettamente positivo, l'altro strettamente negativo."
+      },
+      {
+        "id": 4,
+        "question": "Quante migliaia di passeggeri potrebbero tenere il Titanic a bordo ?",
+        "propositions": [
+          "4.000",
+          "2.000",
+          "1.000",
+          "3.000"
+        ],
+        "réponse": "3.000",
+        "anecdote": "Lo scafo del Titanic era dotato di sedici compartimenti stagni per proteggere la nave dai corsi d'acqua."
+      },
+      {
+        "id": 5,
+        "question": "In quale anno Carlo Magno fu incoronato imperatore a Roma ?",
+        "propositions": [
+          "900",
+          "800",
+          "600",
+          "700"
+        ],
+        "réponse": "800",
+        "anecdote": "Sovrano riformatore, culturalmente cosciente, protegge le arti e le lettere ed è all'origine del rinascimento carolingio."
+      },
+      {
+        "id": 6,
+        "question": "In misura, qual è il valore in millimetri di un pollice ?",
+        "propositions": [
+          "45 mm",
+          "25 mm",
+          "32 mm",
+          "16 mm"
+        ],
+        "réponse": "25 mm",
+        "anecdote": "Il pollice è un'unità risalente al Medioevo, ora utilizzata per taglie di pneumatici o schermi di computer."
+      },
+      {
+        "id": 7,
+        "question": "Che età aveva Mozart quando la sua prima opera fu rappresentata in pubblico ?",
+        "propositions": [
+          "17 anni",
+          "11 anni",
+          "13 anni",
+          "15 anni"
+        ],
+        "réponse": "13 anni",
+        "anecdote": "Morto all'età di 35 anni, Mozart lascia alle sue spalle 626 opere provate che abbracciano tutti i generi musicali della sua epoca."
+      },
+      {
+        "id": 8,
+        "question": "Nella mitologia greca, quanti Argonauti hanno accompagnato Jason ?",
+        "propositions": [
+          "40",
+          "100",
+          "50",
+          "500"
+        ],
+        "réponse": "50",
+        "anecdote": "La piaga degli Argonauti ha dato origine a numerosi motivi ispirati abbastanza liberamente da diverse fonti di mito."
+      },
+      {
+        "id": 9,
+        "question": "In quale anno si è svolto il primo Festival di Cannes ?",
+        "propositions": [
+          "1946",
+          "1956",
+          "1966",
+          "1976"
+        ],
+        "réponse": "1946",
+        "anecdote": "Il Festival è stato fondato nel 1946 su progetto di Jean Zay, Ministro dell'Istruzione Nazionale e delle Belle Arti del Fronte Popolare."
+      },
+      {
+        "id": 10,
+        "question": "Quanti anni ha trascorso Robinson Crusoe nella sua isola ?",
+        "propositions": [
+          "20",
+          "28",
+          "16",
+          "24"
+        ],
+        "réponse": "28",
+        "anecdote": "'Robinson Crusoe' è un romanzo inglese scritto da Daniel Defoe la cui storia è ispirata molto liberamente alla vita di Alexander Selkirk."
+      }
+    ],
+    "confirmé": [
+      {
+        "id": 11,
+        "question": "Nel calcolo, quanti byte sono in un kilobyte ?",
+        "propositions": [
+          "512",
+          "32",
+          "256",
+          "1 024"
+        ],
+        "réponse": "1 024",
+        "anecdote": "Il termine è usato come unità di misura del computer per indicare la capacità di memorizzazione della memoria."
+      },
+      {
+        "id": 12,
+        "question": "In quale anno Michel Preud'homme ha vinto il Premio Lev Yachine ?",
+        "propositions": [
+          "1994",
+          "1988",
+          "1990",
+          "1992"
+        ],
+        "réponse": "1994",
+        "anecdote": "Michel Preud'homme ha ricoperto la carica di allenatore dello Standard de Liège, dopo essere stato il direttore sportivo dello stesso club."
+      },
+      {
+        "id": 13,
+        "question": "Quanto il sito di Carnac ha i menhir nei suoi allineamenti ?",
+        "propositions": [
+          "2 394",
+          "1 394",
+          "2 934",
+          "1 934"
+        ],
+        "réponse": "2 934",
+        "anecdote": "Il sito Carnac si trova al limite settentrionale di Mor Braz, tra il Golfo di Morbihan a est e la penisola di Quiberon a ovest."
+      },
+      {
+        "id": 14,
+        "question": "Quanti sono finora noti i satelliti naturali attorno a Giove ?",
+        "propositions": [
+          "49",
+          "39",
+          "69",
+          "59"
+        ],
+        "réponse": "69",
+        "anecdote": "Giove è il secondo pianeta del Sistema Solare, dopo Saturno, con il maggior numero di satelliti naturali osservati."
+      },
+      {
+        "id": 15,
+        "question": "Quanto dista la linea di partenza dal primo ostacolo alla barriera dei 400 metri ?",
+        "propositions": [
+          "18 m",
+          "37 m",
+          "29 m",
+          "45 m"
+        ],
+        "réponse": "45 m",
+        "anecdote": "I migliori atleti di sesso maschile terminano la gara in circa 47 secondi e le atlete in circa 53 secondi."
+      },
+      {
+        "id": 16,
+        "question": "Quante partite ha giocato la squadra nazionale belga con Guy Thys ?",
+        "propositions": [
+          "80",
+          "100",
+          "140",
+          "120"
+        ],
+        "réponse": "100",
+        "anecdote": "Nato ad Anversa e figlio di Ivan Thys, Guy Thys è stato l'allenatore della squadra nazionale di calcio belga di maggior successo."
+      },
+      {
+        "id": 17,
+        "question": "Qual è la percentuale di silicio utilizzato nella composizione della corteccia terrestre ?",
+        "propositions": [
+          "25%",
+          "19%",
+          "8%",
+          "32%"
+        ],
+        "réponse": "25%",
+        "anecdote": "Il silicio è comparativamente presente solo in quantità relativamente piccole nella materia che costituisce il vivente."
+      },
+      {
+        "id": 18,
+        "question": "Da quanti anni Ferdinand Marcos è stato presidente delle Filippine ?",
+        "propositions": [
+          "19",
+          "17",
+          "25",
+          "21"
+        ],
+        "réponse": "21",
+        "anecdote": "Marcos potrebbe essere considerato un esperto per l'erogazione di fondi: avrebbe allontanato miliardi di dollari dal Tesoro delle Filippine."
+      },
+      {
+        "id": 19,
+        "question": "Quanti spettatori possono oggi accogliere le arene di Verona ?",
+        "propositions": [
+          "16.000",
+          "13 000",
+          "19.000",
+          "22.000"
+        ],
+        "réponse": "22.000",
+        "anecdote": "Quasi tutte le sere da marzo a settembre, gli spettacoli hanno luogo e hanno il tema delle antiche lotte dei gladiatori."
+      },
+      {
+        "id": 20,
+        "question": "Quanti pezzi contenevano il palazzo imperiale nella Città Proibita ?",
+        "propositions": [
+          "9.999",
+          "8.888",
+          "6.666",
+          "7.777"
+        ],
+        "réponse": "9.999",
+        "anecdote": "La cifra di 9.999 è spiegata dal fatto che solo le loro divinità potevano costruire un palazzo con 10.000 pezzi."
+      }
+    ],
+    "expert": [
+      {
+        "id": 21,
+        "question": "Qual è la lunghezza totale del Golden Gate Bridge a San Francisco ?",
+        "propositions": [
+          "1 146 m",
+          "1 073 m",
+          "996 m",
+          "1 280 m"
+        ],
+        "réponse": "1 280 m",
+        "anecdote": "Il Golden Gate Bridge fu, fino al 1964, il ponte sospeso più lungo del mondo e rimane un famoso monumento di San Francisco."
+      },
+      {
+        "id": 22,
+        "question": "Quante canzoni di Elvis Presley erano al primo posto nella hit parade americana ?",
+        "propositions": [
+          "18",
+          "12",
+          "16",
+          "14"
+        ],
+        "réponse": "18",
+        "anecdote": "Elvis ha contribuito a diffondere il nascente genere rockabilly, un energico mix di musica country e rhythm and blues."
+      },
+      {
+        "id": 23,
+        "question": "Nella mitologia greca, quanto ha visto il gigante Argos ?",
+        "propositions": [
+          "80",
+          "60",
+          "40",
+          "100"
+        ],
+        "réponse": "100",
+        "anecdote": "Ci sono sempre cinquanta che dormono e cinquanta che guardano, così che è impossibile ingannare la sua vigilanza."
+      },
+      {
+        "id": 24,
+        "question": "Quante volte l'area della Cina è più grande di quella del Giappone ?",
+        "propositions": [
+          "19",
+          "39",
+          "9",
+          "29"
+        ],
+        "réponse": "39",
+        "anecdote": "Dal 1945, il Giappone ha formato un arcipelago di 6.852 isole, le quattro più grandi delle quali sono Hokkaido, Honshu, Shikoku e Kyushu."
+      },
+      {
+        "id": 25,
+        "question": "Qual è la lunghezza della catena montuosa delle Ande a 6.962 metri ?",
+        "propositions": [
+          "8.300 km",
+          "7.100 km",
+          "9.700 km",
+          "6.700 km"
+        ],
+        "réponse": "7.100 km",
+        "anecdote": "La Cordigliera delle Ande inizia in Venezuela e attraversa poi Colombia, Ecuador, Perù, Bolivia, Cile e Argentina."
+      },
+      {
+        "id": 26,
+        "question": "Quanto dura il tunnel ferroviario giapponese di Seikan ?",
+        "propositions": [
+          "42 km",
+          "37 km",
+          "29 km",
+          "53 km"
+        ],
+        "réponse": "53 km",
+        "anecdote": "Il tunnel di Seikan è leggermente più lungo del tunnel sotto la Manica e ha una sezione di 23,3 km sotto il fondo del mare."
+      },
+      {
+        "id": 27,
+        "question": "Quanti coriandoli sono stati lanciati a John Glenn dopo il suo famoso viaggio nello spazio ?",
+        "propositions": [
+          "2,828 tonnellate",
+          "4,437 tonnellate",
+          "3,474 tonnellate",
+          "1,732 tonnellate"
+        ],
+        "réponse": "3,474 tonnellate",
+        "anecdote": "Dopo aver lasciato la NASA nel 1963, iniziò una carriera politica senza successo che lo costrinse a rivolgersi al mondo degli affari."
+      },
+      {
+        "id": 28,
+        "question": "Quanti soldati ha l'esercito sepolto dell'Imperatore Qin ?",
+        "propositions": [
+          "4.000",
+          "6.000",
+          "10.000",
+          "8.000"
+        ],
+        "réponse": "8.000",
+        "anecdote": "I colori minerali sono stati applicati dopo la cottura sulle statue, rendendo così possibile distinguere le diverse unità."
+      },
+      {
+        "id": 29,
+        "question": "In quale anno Nicolas Appert ha scoperto il barattolo di latta ?",
+        "propositions": [
+          "1795",
+          "1847",
+          "1829",
+          "1902"
+        ],
+        "réponse": "1795",
+        "anecdote": "L'inscatolamento può essere definito come un processo di conservazione che consiste nella sterilizzazione a caldo delle merci deperibili."
+      },
+      {
+        "id": 30,
+        "question": "Qual è il numero di isole presenti in tutta la Finlandia ?",
+        "propositions": [
+          "140.000",
+          "160.000",
+          "120.000",
+          "180.000"
+        ],
+        "réponse": "180.000",
+        "anecdote": "La maggior parte delle isole si trova nel sud-ovest, nell'arcipelago di Aland e lungo la costa meridionale del Golfo di Finlandia."
+      }
+      ]
+      }
+    ],
+    "nl": [
+    {
+      "débutant": [
+      {
+        "id": 1,
+        "question": "Hoeveel werken heeft Hercules uitgevoerd voor Eurystheus, koning van Tiryns ?",
+        "propositions": [
+          "100",
+          "10",
+          "40",
+          "12"
+        ],
+        "réponse": "12",
+        "anecdote": "Hebreeuws komt overeen met Roman Hercules, Phenician Melqart, Artifical Circle en Kakasbos in Klein-Azië."
+      },
+      {
+        "id": 2,
+        "question": "Op welke leeftijd kreeg Nadia Comaneci de perfecte score van 10 op de Olympische Spelen ?",
+        "propositions": [
+          "16 jaar oud",
+          "15 jaar oud",
+          "13 jaar oud",
+          "14 jaar oud"
+        ],
+        "réponse": "14 jaar oud",
+        "anecdote": "Nadia Comaneci werd Amerikaan genaturaliseerd na haar sportcarrière en had dit land nog nooit in competitie vertegenwoordigd."
+      },
+      {
+        "id": 3,
+        "question": "Wat is het verschil tussen het 87 en het 86 vierkant ?",
+        "propositions": [
+          "87",
+          "86",
+          "1",
+          "173"
+        ],
+        "réponse": "173",
+        "anecdote": "Elk strikt positief reëel getal is het kwadraat van precies twee getallen, één strikt positief, de andere strikt negatief."
+      },
+      {
+        "id": 4,
+        "question": "Hoeveel duizenden passagiers kon de Titanic aan boord houden ?",
+        "propositions": [
+          "1.000",
+          "4.000",
+          "2.000",
+          "3000"
+        ],
+        "réponse": "3000",
+        "anecdote": "De romp van de Titanic was uitgerust met zestien waterdichte compartimenten om het schip tegen waterwegen te beschermen."
+      },
+      {
+        "id": 5,
+        "question": "In welk jaar werd Karel de Grote tot keizer gekroond in Rome ?",
+        "propositions": [
+          "900",
+          "800",
+          "600",
+          "700"
+        ],
+        "réponse": "800",
+        "anecdote": "Soeverein hervormer, cultureel bewust, hij beschermt de kunst en letters en is de oorsprong van de Karolingische renaissance."
+      },
+      {
+        "id": 6,
+        "question": "Wat is de waarde in millimeters van een inch in maat ?",
+        "propositions": [
+          "32 mm",
+          "45 mm",
+          "16 mm",
+          "25 mm"
+        ],
+        "réponse": "25 mm",
+        "anecdote": "De duim is een eenheid die dateert uit de Middeleeuwen en wordt nu gebruikt voor bandenmaten of computerschermen."
+      },
+      {
+        "id": 7,
+        "question": "Hoe oud was Mozart toen zijn eerste opera in het openbaar werd uitgevoerd ?",
+        "propositions": [
+          "11 jaar",
+          "17 jaar",
+          "15 jaar",
+          "13 jaar oud"
+        ],
+        "réponse": "13 jaar oud",
+        "anecdote": "Op zijn 35e stierf Mozart met achterlating van 626 kunstwerken die alle muzikale genres van zijn tijd omvatten."
+      },
+      {
+        "id": 8,
+        "question": "Hoeveel Argonauten vergezelden Jason in de Griekse mythologie ?",
+        "propositions": [
+          "500",
+          "100",
+          "40",
+          "50"
+        ],
+        "réponse": "50",
+        "anecdote": "De Argonauts-pest heeft aanleiding gegeven tot verschillende smeekbeden die vrijelijk geïnspireerd zijn door verschillende bronnen van mythen."
+      },
+      {
+        "id": 9,
+        "question": "In welk jaar vond het eerste Filmfestival van Cannes plaats ?",
+        "propositions": [
+          "1956",
+          "1966",
+          "1976",
+          "1946"
+        ],
+        "réponse": "1946",
+        "anecdote": "Het festival werd in 1946 opgericht op initiatief van Jean Zay, minister van Nationale Educatie en Schone Kunsten van het Volksfront."
+      },
+      {
+        "id": 10,
+        "question": "Hoeveel jaar heeft Robinson Crusoë op zijn eiland doorgebracht ?",
+        "propositions": [
+          "16",
+          "28",
+          "24",
+          "20"
+        ],
+        "réponse": "28",
+        "anecdote": "'Robinson Crusoe' is een Engelse roman geschreven door Daniel Defoe, wiens verhaal is geïnspireerd op het leven van Alexander Selkirk."
+      }
+    ],
+    "confirmé": [
+      {
+        "id": 11,
+        "question": "Hoeveel computers zijn in een kilobyte berekend ?",
+        "propositions": [
+          "512",
+          "32",
+          "256",
+          "1 024"
+        ],
+        "réponse": "1 024",
+        "anecdote": "De term wordt gebruikt als een computer-meeteenheid om geheugenopslagcapaciteit aan te geven."
+      },
+      {
+        "id": 12,
+        "question": "In welk jaar won Michel Preud'homme de Lev Yachine-prijs ?",
+        "propositions": [
+          "1990",
+          "1994",
+          "1992",
+          "1988"
+        ],
+        "réponse": "1994",
+        "anecdote": "Michel Preud'homme bekleedde de coachingspost bij Standard de Liege, nadat hij de sportdirecteur van dezelfde club was."
+      },
+      {
+        "id": 13,
+        "question": "Hoeveel heeft de site van Carnac menhirs in zijn afstemming ?",
+        "propositions": [
+          "2 394",
+          "2 934",
+          "1 394",
+          "1 934"
+        ],
+        "réponse": "2 934",
+        "anecdote": "De site van Carnac ligt aan de noordelijke grens van Mor Braz, tussen de Golf van Morbihan in het oosten en het schiereiland Quiberon in het westen."
+      },
+      {
+        "id": 14,
+        "question": "Hoeveel tot nu toe zijn bekende natuurlijke satellieten rond Jupiter ?",
+        "propositions": [
+          "69",
+          "59",
+          "39",
+          "49"
+        ],
+        "réponse": "69",
+        "anecdote": "Jupiter is de tweede planeet van het zonnestelsel, na Saturnus, met het grootste aantal waargenomen natuurlijke satellieten."
+      },
+      {
+        "id": 15,
+        "question": "Hoe ver is de vertreklijn van de eerste horde naar de 400 m hindernis ?",
+        "propositions": [
+          "18 m",
+          "29 m",
+          "37 m",
+          "45 m"
+        ],
+        "réponse": "45 m",
+        "anecdote": "De beste mannelijke atleten eindigen de race in ongeveer 47 seconden en de vrouwelijke atleten in ongeveer 53 seconden."
+      },
+      {
+        "id": 16,
+        "question": "Hoeveel wedstrijden heeft het Belgische nationale voetbalteam gespeeld met Guy Thys ?",
+        "propositions": [
+          "120",
+          "100",
+          "140",
+          "80"
+        ],
+        "réponse": "100",
+        "anecdote": "Guy Thys werd geboren in Antwerpen en zoon van Ivan Thys en was de coach van het meest succesvolle Belgische nationale voetbalteam."
+      },
+      {
+        "id": 17,
+        "question": "Wat is het percentage silicium dat wordt gebruikt in de samenstelling van de terrestrische schors ?",
+        "propositions": [
+          "25%",
+          "19%",
+          "32%",
+          "8%"
+        ],
+        "réponse": "25%",
+        "anecdote": "Silicium is relatief slechts in relatief kleine hoeveelheden aanwezig in de materie die de levenden vormt."
+      },
+      {
+        "id": 18,
+        "question": "Hoeveel jaar is Ferdinand Marcos president van de Filipijnen geweest ?",
+        "propositions": [
+          "17",
+          "19",
+          "25",
+          "21"
+        ],
+        "réponse": "21",
+        "anecdote": "Marcos kan worden beschouwd als een expert in het uitbetalen van fondsen: hij zou miljarden dollars van de Filippijnse schatkist hebben afgewend."
+      },
+      {
+        "id": 19,
+        "question": "Hoeveel toeschouwers kunnen vandaag de arena's van Verona verwelkomen ?",
+        "propositions": [
+          "19.000",
+          "16.000",
+          "22.000",
+          "13 000"
+        ],
+        "réponse": "22.000",
+        "anecdote": "Bijna elke avond van maart tot september vinden er shows plaats met het thema van oude gladiatorengevechten."
+      },
+      {
+        "id": 20,
+        "question": "Hoeveel stukken bevatten het keizerlijk paleis in de Verboden Stad ?",
+        "propositions": [
+          "9.999",
+          "8.888",
+          "7.777",
+          "6.666"
+        ],
+        "réponse": "9.999",
+        "anecdote": "Het cijfer van 9.999 wordt verklaard door het feit dat alleen hun godheden een paleis mochten bouwen met 10.000 stuks."
+      }
+    ],
+    "expert": [
+      {
+        "id": 21,
+        "question": "Wat is de totale lengte van de Golden Gate Bridge in San Francisco ?",
+        "propositions": [
+          "1 146 m",
+          "996 m",
+          "1 073 m",
+          "1 280 m"
+        ],
+        "réponse": "1 280 m",
+        "anecdote": "De Golden Gate Bridge was tot 1964 de langste hangbrug ter wereld en blijft een beroemd monument van San Francisco."
+      },
+      {
+        "id": 22,
+        "question": "Hoeveel nummers van Elvis Presley waren nummer één in de Amerikaanse hitlijsten ?",
+        "propositions": [
+          "18",
+          "16",
+          "12",
+          "14"
+        ],
+        "réponse": "18",
+        "anecdote": "Elvis heeft het ontluikende rockabilly-genre gepopulariseerd, een energieke mix van countrymuziek en ritme en blues."
+      },
+      {
+        "id": 23,
+        "question": "In de Griekse mythologie, hoeveel had de reus Argos ogen ?",
+        "propositions": [
+          "100",
+          "60",
+          "80",
+          "40"
+        ],
+        "réponse": "100",
+        "anecdote": "Er zijn altijd vijftig die slapen en vijftig die waken, zodat het onmogelijk is om zijn waakzaamheid te misleiden."
+      },
+      {
+        "id": 24,
+        "question": "Hoe vaak is China's gebied groter dan dat van Japan ?",
+        "propositions": [
+          "19",
+          "9",
+          "39",
+          "29"
+        ],
+        "réponse": "39",
+        "anecdote": "Sinds 1945 heeft Japan een archipel gevormd van 6.852 eilanden, waarvan de vier grootste zijn Hokkaido, Honshu, Shikoku en Kyushu."
+      },
+      {
+        "id": 25,
+        "question": "Hoe lang is het Andesgebergte op 6.962 meter ?",
+        "propositions": [
+          "8.300 km",
+          "7.100 km",
+          "9.700 km",
+          "6.700 km"
+        ],
+        "réponse": "7.100 km",
+        "anecdote": "De Andes-cordillera begint in Venezuela en passeert vervolgens Colombia, Ecuador, Peru, Bolivia, Chili en Argentinië."
+      },
+      {
+        "id": 26,
+        "question": "Hoe lang is de Seikan Japanese Railway Tunnel ?",
+        "propositions": [
+          "53 km",
+          "42 km",
+          "37 km",
+          "29 km"
+        ],
+        "réponse": "53 km",
+        "anecdote": "De Seikan-tunnel is iets langer dan de Kanaaltunnel en heeft een deel van 23,3 km onder de zeebodem."
+      },
+      {
+        "id": 27,
+        "question": "Hoeveel confetti werden er naar John Glenn gegooid na zijn beroemde ruimtereis ?",
+        "propositions": [
+          "2.828 ton",
+          "1.732 ton",
+          "4.437 ton",
+          "3,474 ton"
+        ],
+        "réponse": "3,474 ton",
+        "anecdote": "Nadat hij in 1963 de NASA had verlaten, begon hij aan een niet-succesvolle politieke carrière die hem dwong zich tot het bedrijfsleven te wenden."
+      },
+      {
+        "id": 28,
+        "question": "Hoeveel soldaten heeft het leger van de keizer Qin ?",
+        "propositions": [
+          "4.000",
+          "8,000",
+          "6.000",
+          "10.000"
+        ],
+        "réponse": "8,000",
+        "anecdote": "Minerale kleuren werden aangebracht na het koken op de standbeelden, waardoor het mogelijk was om de verschillende eenheden te onderscheiden."
+      },
+      {
+        "id": 29,
+        "question": "In welk jaar heeft Nicolas Appert het blik ontdekt ?",
+        "propositions": [
+          "1829",
+          "1847",
+          "1902",
+          "1795"
+        ],
+        "réponse": "1795",
+        "anecdote": "Inblikken kan worden gedefinieerd als een proces van conservering dat bestaat uit het steriliseren door warmte van de bederfelijke goederen."
+      },
+      {
+        "id": 30,
+        "question": "Hoe groot is het aantal eilanden in heel Finland ?",
+        "propositions": [
+          "120.000",
+          "140.000",
+          "180.000",
+          "160.000"
+        ],
+        "réponse": "180.000",
+        "anecdote": "De meeste eilanden liggen in het zuidwesten, in de Aland-archipel en aan de zuidkust van de Finse Golf."
+      }
+      ]
+      }
+    ]
+  }
+}

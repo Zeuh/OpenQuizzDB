@@ -1,0 +1,2035 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes" ?>
+<quizz fournisseur="OpenQuizzDB : Fournisseur de contenu libre"
+       url="https://www.openquizzdb.org"
+       rédacteur="Philippe Bresoux"
+       thème="Animaux en tout genre (Les animaux sont les anges de cette terre)"
+       difficulté="2">
+  <fr>
+  <débutant>
+    <contenu id="1">
+      <question>Pourquoi les ours polaires se couchent-ils dans la neige lorsqu'ils courent ?</question>
+      <propositions>
+        <proposition id="1-1">Se reposer</proposition>
+        <proposition id="1-2">Manger</proposition>
+        <proposition id="1-3">Dormir</proposition>
+        <proposition id="1-4">Se rafraîchir</proposition>
+      </propositions>
+      <réponse proposition="1-4">Se rafraîchir</réponse>
+      <anecdote>Les ours polaires peuvent rapidement avoir trop chaud sous leur fourrure très épaisse et leur couche de graisse isolante.</anecdote>
+    </contenu>
+    <contenu id="2">
+      <question>Quelle partie du corps permet aux hippocampes de nager ?</question>
+      <propositions>
+        <proposition id="2-1">Queue</proposition>
+        <proposition id="2-2">Tête</proposition>
+        <proposition id="2-3">Nageoire ventrale</proposition>
+        <proposition id="2-4">Nageoire dorsale</proposition>
+      </propositions>
+      <réponse proposition="2-4">Nageoire dorsale</réponse>
+      <anecdote>Malgré qu'ils soient des poissons, les hippocampes ne nagent que très lentement en effectuant des mouvements onduleux.</anecdote>
+    </contenu>
+    <contenu id="3">
+      <question>Pour quelle raison ne pouvons-nous pas entendre les cris de la chauve-souris ?</question>
+      <propositions>
+        <proposition id="3-1">Trop aigu</proposition>
+        <proposition id="3-2">Trop fort</proposition>
+        <proposition id="3-3">Trop grave</proposition>
+        <proposition id="3-4">Trop faible</proposition>
+      </propositions>
+      <réponse proposition="3-1">Trop aigu</réponse>
+      <anecdote>Les chauves-souris émettent et reçoivent des ultrasons que notre oreille ne peux percevoir (max 20 000 hertz).</anecdote>
+    </contenu>
+    <contenu id="4">
+      <question>À quoi servait la coquille du tridacne géant dans de nombreuses églises ?</question>
+      <propositions>
+        <proposition id="4-1">Tronc</proposition>
+        <proposition id="4-2">Corbeille à pain</proposition>
+        <proposition id="4-3">Bénitier</proposition>
+        <proposition id="4-4">Chandelier</proposition>
+      </propositions>
+      <réponse proposition="4-3">Bénitier</réponse>
+      <anecdote>Il y a 300 ans, les coquilles étaient considérées comme des objets précieux et servaient de bénitier à l'entrée des églises.</anecdote>
+    </contenu>
+    <contenu id="5">
+      <question>Quelle lourde et pénible tâche incombe à la reine des fourmis ?</question>
+      <propositions>
+        <proposition id="5-1">Chercher à manger</proposition>
+        <proposition id="5-2">Défendre le nid</proposition>
+        <proposition id="5-3">Tuer les mâles</proposition>
+        <proposition id="5-4">Pondre des ufs</proposition>
+      </propositions>
+      <réponse proposition="5-4">Pondre des ufs</réponse>
+      <anecdote>La reine est la seule fourmi du nid à pondre des ufs qui sont en réalité des larves écloses dont naîtront les futures fourmis.</anecdote>
+    </contenu>
+    <contenu id="6">
+      <question>Qu'est-ce que les coccinelles aiment tout particulièrement manger ?</question>
+      <propositions>
+        <proposition id="6-1">Pétales</proposition>
+        <proposition id="6-2">Pucerons</proposition>
+        <proposition id="6-3">Écorces</proposition>
+        <proposition id="6-4">Éxcréments</proposition>
+      </propositions>
+      <réponse proposition="6-2">Pucerons</réponse>
+      <anecdote>Considérées comme animaux utiles, on élève les coccinelles puis on les utilise pour combattre écologiquement les parasites.</anecdote>
+    </contenu>
+    <contenu id="7">
+      <question>Pour quelle raison les nécrophores se battent-ils entre eux ?</question>
+      <propositions>
+        <proposition id="7-1">Un territoire</proposition>
+        <proposition id="7-2">Des femelles</proposition>
+        <proposition id="7-3">Des cadavres</proposition>
+        <proposition id="7-4">De l'or</proposition>
+      </propositions>
+      <réponse proposition="7-3">Des cadavres</réponse>
+      <anecdote>Un couple de nécrophores enterre un animal mort dans le sol et y pond ses ufs dont les larves sont nourries.</anecdote>
+    </contenu>
+    <contenu id="8">
+      <question>De quel type d'environnement un acarien a-t-il besoin pour vivre ?</question>
+      <propositions>
+        <proposition id="8-1">Humide</proposition>
+        <proposition id="8-2">Ensoleillé</proposition>
+        <proposition id="8-3">Gras</proposition>
+        <proposition id="8-4">Sec</proposition>
+      </propositions>
+      <réponse proposition="8-1">Humide</réponse>
+      <anecdote>Sans les acariens, qui nichent dans nos matelas mais surtout dans les endroits humides, les forêts seraient submergées de feuilles mortes.</anecdote>
+    </contenu>
+    <contenu id="9">
+      <question>Quelle partie du corps de la limace lui permet-elle de découper les plantes ?</question>
+      <propositions>
+        <proposition id="9-1">Dents</proposition>
+        <proposition id="9-2">Langue</proposition>
+        <proposition id="9-3">Palais</proposition>
+        <proposition id="9-4">Bras</proposition>
+      </propositions>
+      <réponse proposition="9-2">Langue</réponse>
+      <anecdote>Telle une lime, la langue rêche de la limace râpe les plantes tendres en petits morceaux et dépouille ainsi les jeunes salades.</anecdote>
+    </contenu>
+    <contenu id="10">
+      <question>Que montre le loup le plus faible après une lutte pour la hiérarchie ?</question>
+      <propositions>
+        <proposition id="10-1">Son ventre</proposition>
+        <proposition id="10-2">Sa langue</proposition>
+        <proposition id="10-3">Ses dents</proposition>
+        <proposition id="10-4">Sa queue</proposition>
+      </propositions>
+      <réponse proposition="10-1">Son ventre</réponse>
+      <anecdote>Le loup inférieur n'est ainsi pas blessé mais devra à l'avenir se soumettre au mâle dominant, selon leur hiérarchie prononcée.</anecdote>
+    </contenu>
+  </débutant>
+  <confirmé>
+    <contenu id="11">
+      <question>Quelle est la cause de mortalité la plus fréquente chez les éléphants en liberté ?</question>
+      <propositions>
+        <proposition id="11-1">Maladie</proposition>
+        <proposition id="11-2">Trompe cassée</proposition>
+        <proposition id="11-3">Morsure de serpents</proposition>
+        <proposition id="11-4">Usure des dents</proposition>
+      </propositions>
+      <réponse proposition="11-4">Usure des dents</réponse>
+      <anecdote>Lorsque la dernière molaire est usée par la mastication, l'éléphant ne peut plus de nourrir suffisamment et meurt tristement de faim.</anecdote>
+    </contenu>
+    <contenu id="12">
+      <question>Grâce à quelle partie de son corps la taupe s'oriente-t-elle sous terre ?</question>
+      <propositions>
+        <proposition id="12-1">Yeux</proposition>
+        <proposition id="12-2">Museau</proposition>
+        <proposition id="12-3">Oreilles</proposition>
+        <proposition id="12-4">Vibrisses</proposition>
+      </propositions>
+      <réponse proposition="12-4">Vibrisses</réponse>
+      <anecdote>Les taupes s'orientent presque exclusivement en utilisant une sorte de moustaches et tâtent leur nourriture de cette manière.</anecdote>
+    </contenu>
+    <contenu id="13">
+      <question>À part le cheval, à quel autre animal le tapir est-il apparenté ?</question>
+      <propositions>
+        <proposition id="13-1">Rhinocéros</proposition>
+        <proposition id="13-2">Éléphant</proposition>
+        <proposition id="13-3">Cochon</proposition>
+        <proposition id="13-4">Hamster</proposition>
+      </propositions>
+      <réponse proposition="13-1">Rhinocéros</réponse>
+      <anecdote>Les tapirs, de la famille des ongulés, utilisent leur trompe comme main et peuvent ainsi la rétracter lorsque celle-ci les gêne.</anecdote>
+    </contenu>
+    <contenu id="14">
+      <question>Comment les mille-pattes se protègent-ils de leurs prédateurs ?</question>
+      <propositions>
+        <proposition id="14-1">Par camouflage</proposition>
+        <proposition id="14-2">En criant</proposition>
+        <proposition id="14-3">Par leurs sécrétions</proposition>
+        <proposition id="14-4">En mordant</proposition>
+      </propositions>
+      <réponse proposition="14-3">Par leurs sécrétions</réponse>
+      <anecdote>En cas de danger, les mille-pattes émettent une substance rouge caustique à l'odeur nauséabonde via des glandes sur leurs anneaux.</anecdote>
+    </contenu>
+    <contenu id="15">
+      <question>Quels animaux volent souvent aux hyènes la proie qu'elles ont chassée ?</question>
+      <propositions>
+        <proposition id="15-1">Buffles</proposition>
+        <proposition id="15-2">Guépards</proposition>
+        <proposition id="15-3">Lions</proposition>
+        <proposition id="15-4">Gnous</proposition>
+      </propositions>
+      <réponse proposition="15-3">Lions</réponse>
+      <anecdote>Les hyènes chassent généralement en meute d'environ quarante individus des animaux tels que les zèbres ou les gnous.</anecdote>
+    </contenu>
+    <contenu id="16">
+      <question>Combien pèse environ la plus petite espèce de musaraigne connue ?</question>
+      <propositions>
+        <proposition id="16-1">130 grammes</proposition>
+        <proposition id="16-2">2 grammes</proposition>
+        <proposition id="16-3">70 grammes</proposition>
+        <proposition id="16-4">20 grammes</proposition>
+      </propositions>
+      <réponse proposition="16-2">2 grammes</réponse>
+      <anecdote>Notre musaraigne pygmée locale est, quant à elle, deux fois plus grande et plus lourde que ce pachyure étrusque.</anecdote>
+    </contenu>
+    <contenu id="17">
+      <question>De quelle manière le lynx a-t-il l'habitude de marquer son territoire ?</question>
+      <propositions>
+        <proposition id="17-1">Éraflures</proposition>
+        <proposition id="17-2">Souris mortes</proposition>
+        <proposition id="17-3">Excréments</proposition>
+        <proposition id="17-4">Poils</proposition>
+      </propositions>
+      <réponse proposition="17-1">Éraflures</réponse>
+      <anecdote>Outre des éraflures, les lynx utilisent parfois également leur urine comme marque odorante afin de délimiter leur domaine.</anecdote>
+    </contenu>
+    <contenu id="18">
+      <question>Taillé pour la course, jusqu'à quelle vitesse un guépard peut-il courir ?</question>
+      <propositions>
+        <proposition id="18-1">150 km/h</proposition>
+        <proposition id="18-2">120 km/h</proposition>
+        <proposition id="18-3">60 km/h</proposition>
+        <proposition id="18-4">90 km/h</proposition>
+      </propositions>
+      <réponse proposition="18-2">120 km/h</réponse>
+      <anecdote>Le plus rapide des animaux ne peut maintenir cette vitesse que sur quelques centaines de mètres, laissant une chance aux gazelles.</anecdote>
+    </contenu>
+    <contenu id="19">
+      <question>Comment les cloportes se protègent-ils des attaques ?</question>
+      <propositions>
+        <proposition id="19-1">En s'enfuyant</proposition>
+        <proposition id="19-2">En s'envolant</proposition>
+        <proposition id="19-3">En s'enterrant</proposition>
+        <proposition id="19-4">En s'enroulant</proposition>
+      </propositions>
+      <réponse proposition="19-4">En s'enroulant</réponse>
+      <anecdote>Le corps d'un cloporte, dans ce cas immobile, est composé de plusieurs anneaux solides qui rappellent une armure de chevalier.</anecdote>
+    </contenu>
+    <contenu id="20">
+      <question>Quel animal est le plus grand ennemi connu de la buse variable ?</question>
+      <propositions>
+        <proposition id="20-1">Aigle</proposition>
+        <proposition id="20-2">Ours brun</proposition>
+        <proposition id="20-3">Renard</proposition>
+        <proposition id="20-4">Homme</proposition>
+      </propositions>
+      <réponse proposition="20-4">Homme</réponse>
+      <anecdote>De nombreuses buses sont écrasées par l'homme lorsqu'elles tentent de récupérer des cadavres d'animaux sur les autoroutes.</anecdote>
+    </contenu>
+  </confirmé>
+  <expert>
+    <contenu id="21">
+      <question>Après combien de temps un bébé tigre reçoit-il de la viande pour la première fois ?</question>
+      <propositions>
+        <proposition id="21-1">Un mois</proposition>
+        <proposition id="21-2">Six mois</proposition>
+        <proposition id="21-3">Un an</proposition>
+        <proposition id="21-4">Six ans</proposition>
+      </propositions>
+      <réponse proposition="21-2">Six mois</réponse>
+      <anecdote>Au cours des six premiers mois, les bébés tigres qui ne connaissent pas leur père sont allaités par leur mère.</anecdote>
+    </contenu>
+    <contenu id="22">
+      <question>Combien de litres de lait une vache performante produit-elle chaque jour ?</question>
+      <propositions>
+        <proposition id="22-1">35 l</proposition>
+        <proposition id="22-2">5 l</proposition>
+        <proposition id="22-3">15 l</proposition>
+        <proposition id="22-4">25 l</proposition>
+      </propositions>
+      <réponse proposition="22-1">35 l</réponse>
+      <anecdote>Ces vaches fortement exploitées souffrent le plus souvent d'une inflammation des pis et nécessitent beaucoup de médicaments.</anecdote>
+    </contenu>
+    <contenu id="23">
+      <question>De quelle fonction vitale le fennec peut-il étonnamment se passer ?</question>
+      <propositions>
+        <proposition id="23-1">Voir</proposition>
+        <proposition id="23-2">Boire</proposition>
+        <proposition id="23-3">Dormir</proposition>
+        <proposition id="23-4">Manger</proposition>
+      </propositions>
+      <réponse proposition="23-2">Boire</réponse>
+      <anecdote>Le liquide que le fennec absorbe grâce à son alimentation lui suffit et est donc admirablement adapté à la vie dans le désert.</anecdote>
+    </contenu>
+    <contenu id="24">
+      <question>Quel est le plus grand des aras parmi les perroquets connus à ce jour ?</question>
+      <propositions>
+        <proposition id="24-1">Ararauna</proposition>
+        <proposition id="24-2">Chloroptère</proposition>
+        <proposition id="24-3">Macao</proposition>
+        <proposition id="24-4">Hyacinthe</proposition>
+      </propositions>
+      <réponse proposition="24-4">Hyacinthe</réponse>
+      <anecdote>Ce perroquet d'environ 150 cm, queue comprise, possède un plumage bleu clair uni et vit principalement en Bolivie et au Brésil.</anecdote>
+    </contenu>
+    <contenu id="25">
+      <question>De manière générale, combien d'heures par jour un panda géant est-il occupé à manger ?</question>
+      <propositions>
+        <proposition id="25-1">Quatre</proposition>
+        <proposition id="25-2">Seize</proposition>
+        <proposition id="25-3">Huit</proposition>
+        <proposition id="25-4">Douze</proposition>
+      </propositions>
+      <réponse proposition="25-2">Seize</réponse>
+      <anecdote>Le panda géant mange uniquement des jeunes pousses de bambou mais celles-ci ne sont toutefois pas très nourrissantes.</anecdote>
+    </contenu>
+    <contenu id="26">
+      <question>Combien de temps un bébé morse est-il allaité par sa mère ?</question>
+      <propositions>
+        <proposition id="26-1">1 mois</proposition>
+        <proposition id="26-2">1 an</proposition>
+        <proposition id="26-3">18 mois</proposition>
+        <proposition id="26-4">6 mois</proposition>
+      </propositions>
+      <réponse proposition="26-3">18 mois</réponse>
+      <anecdote>Après une période de 12 mois de gestation, le bébé morse pèse plus de 50 kg et sait déjà nager au bout de deux semaines seulement.</anecdote>
+    </contenu>
+    <contenu id="27">
+      <question>Pour quelle raison les martres tuent-elles parfois les poules ?</question>
+      <propositions>
+        <proposition id="27-1">Sang</proposition>
+        <proposition id="27-2">Pattes</proposition>
+        <proposition id="27-3">Foie</proposition>
+        <proposition id="27-4">Cuisses</proposition>
+      </propositions>
+      <réponse proposition="27-1">Sang</réponse>
+      <anecdote>Les martres boivent uniquement le sang et laissent le reste, préférant manger des lapins, des ufs, des lézards ou des insectes.</anecdote>
+    </contenu>
+    <contenu id="28">
+      <question>De quoi est constituée la sonnette du serpent à sonnette ?</question>
+      <propositions>
+        <proposition id="28-1">Calcaire</proposition>
+        <proposition id="28-2">Pierres</proposition>
+        <proposition id="28-3">Corne</proposition>
+        <proposition id="28-4">Bois</proposition>
+      </propositions>
+      <réponse proposition="28-3">Corne</réponse>
+      <anecdote>Les six à dix anneaux de corne situés à l'extrémité de la queue du serpent à sonnette proviennent des mues précédentes.</anecdote>
+    </contenu>
+    <contenu id="29">
+      <question>Durant quelle saison de l'année peut-on entendre le hibou crier ?</question>
+      <propositions>
+        <proposition id="29-1">Printemps</proposition>
+        <proposition id="29-2">Hiver</proposition>
+        <proposition id="29-3">Été</proposition>
+        <proposition id="29-4">Automne</proposition>
+      </propositions>
+      <réponse proposition="29-1">Printemps</réponse>
+      <anecdote>Le hibou mâle crie en avril et en mai pour attirer l'attention d'une femelle qui restera alors toute sa vie fidèlement à ses côtés.</anecdote>
+    </contenu>
+    <contenu id="30">
+      <question>De combien de piquants est composée la fourrure du hérisson mâle ?</question>
+      <propositions>
+        <proposition id="30-1">8 000</proposition>
+        <proposition id="30-2">16 000</proposition>
+        <proposition id="30-3">12 000</proposition>
+        <proposition id="30-4">4 000</proposition>
+      </propositions>
+      <réponse proposition="30-2">16 000</réponse>
+      <anecdote>En cas de danger, le hérisson peut ainsi dresser ses nombreux piquants et s'enrouler sur lui-même pour se protéger des ennemis.</anecdote>
+    </contenu>
+  </expert>
+  </fr>
+  <en>
+  <débutant>
+    <contenu id="1">
+      <question>Why do polar bears lie in the snow when they run ?</question>
+      <propositions>
+        <proposition id="1-1">To refresh</proposition>
+        <proposition id="1-2">Sleeping</proposition>
+        <proposition id="1-3">To rest</proposition>
+        <proposition id="1-4">To eat</proposition>
+      </propositions>
+      <réponse proposition="1-1">To refresh</réponse>
+      <anecdote>Polar bears can quickly become too hot under their very thick fur and their layer of insulating fat.</anecdote>
+    </contenu>
+    <contenu id="2">
+      <question>What part of the body allows seahorses to swim ?</question>
+      <propositions>
+        <proposition id="2-1">Tail</proposition>
+        <proposition id="2-2">Ventral fin</proposition>
+        <proposition id="2-3">Head</proposition>
+        <proposition id="2-4">Dorsal fin</proposition>
+      </propositions>
+      <réponse proposition="2-4">Dorsal fin</réponse>
+      <anecdote>Although they are fish, seahorses swim very slowly with wavy movements.</anecdote>
+    </contenu>
+    <contenu id="3">
+      <question>Why can not we hear the cries of the bat ?</question>
+      <propositions>
+        <proposition id="3-1">Too strong</proposition>
+        <proposition id="3-2">Too weak</proposition>
+        <proposition id="3-3">Too acute</proposition>
+        <proposition id="3-4">Too serious</proposition>
+      </propositions>
+      <réponse proposition="3-3">Too acute</réponse>
+      <anecdote>The bats emit and receive ultrasounds that our ear can not perceive (max 20 000 hertz).</anecdote>
+    </contenu>
+    <contenu id="4">
+      <question>What was the name of the giant tridacne shell in many churches ?</question>
+      <propositions>
+        <proposition id="4-1">Chandelier</proposition>
+        <proposition id="4-2">Trunk</proposition>
+        <proposition id="4-3">Betonier</proposition>
+        <proposition id="4-4">Bread basket</proposition>
+      </propositions>
+      <réponse proposition="4-3">Betonier</réponse>
+      <anecdote>300 years ago, shells were considered precious objects and served as a bene fi t at the entrances to churches.</anecdote>
+    </contenu>
+    <contenu id="5">
+      <question>What heavy and painful task lies with the queen of ants ?</question>
+      <propositions>
+        <proposition id="5-1">Seeking to eat</proposition>
+        <proposition id="5-2">Kill the males</proposition>
+        <proposition id="5-3">Defend the nest</proposition>
+        <proposition id="5-4">Lay eggs</proposition>
+      </propositions>
+      <réponse proposition="5-4">Lay eggs</réponse>
+      <anecdote>The queen is the only ant in the nest to hatch eggs, which are actually hatched larvae from which the future ants will be born.</anecdote>
+    </contenu>
+    <contenu id="6">
+      <question>What do ladybirds especially like to eat ?</question>
+      <propositions>
+        <proposition id="6-1">Petals</proposition>
+        <proposition id="6-2">Elécces</proposition>
+        <proposition id="6-3">Aphids</proposition>
+        <proposition id="6-4">Crystals</proposition>
+      </propositions>
+      <réponse proposition="6-3">Aphids</réponse>
+      <anecdote>Considered useful animals, ladybugs are raised and then used to fight pests ecologically.</anecdote>
+    </contenu>
+    <contenu id="7">
+      <question>Why do the necrophores fight each other ?</question>
+      <propositions>
+        <proposition id="7-1">Females</proposition>
+        <proposition id="7-2">Territory</proposition>
+        <proposition id="7-3">Corpses</proposition>
+        <proposition id="7-4">Gold</proposition>
+      </propositions>
+      <réponse proposition="7-3">Corpses</réponse>
+      <anecdote>A couple of necrophores bury a dead animal in the ground and lay eggs there whose larvae are fed.</anecdote>
+    </contenu>
+    <contenu id="8">
+      <question>What kind of environment does a mite need to live ?</question>
+      <propositions>
+        <proposition id="8-1">Sunny</proposition>
+        <proposition id="8-2">Sec</proposition>
+        <proposition id="8-3">Wet</proposition>
+        <proposition id="8-4">Fat</proposition>
+      </propositions>
+      <réponse proposition="8-3">Wet</réponse>
+      <anecdote>Without the mites, which nest in our mattresses but especially in damp places, the forests would be submerged with dead leaves.</anecdote>
+    </contenu>
+    <contenu id="9">
+      <question>What part of the body of the slug does it allow to cut the plants ?</question>
+      <propositions>
+        <proposition id="9-1">Bras</proposition>
+        <proposition id="9-2">Teeth</proposition>
+        <proposition id="9-3">Palace</proposition>
+        <proposition id="9-4">Language</proposition>
+      </propositions>
+      <réponse proposition="9-4">Language</réponse>
+      <anecdote>Like a file, the slug's sluggish tongue grows the tender plants into small pieces and thus strips the young salads.</anecdote>
+    </contenu>
+    <contenu id="10">
+      <question>What does the weakest wolf show after a fight for the hierarchy ?</question>
+      <propositions>
+        <proposition id="10-1">Her belly</proposition>
+        <proposition id="10-2">His language</proposition>
+        <proposition id="10-3">His cock</proposition>
+        <proposition id="10-4">His teeth</proposition>
+      </propositions>
+      <réponse proposition="10-1">Her belly</réponse>
+      <anecdote>The lower wolf is thus not injured but will in the future have to submit to the dominant mate, according to their pronounced hierarchy.</anecdote>
+    </contenu>
+  </débutant>
+  <confirmé>
+    <contenu id="11">
+      <question>What is the most common cause of death among elephants in freedom ?</question>
+      <propositions>
+        <proposition id="11-1">Wear of teeth</proposition>
+        <proposition id="11-2">Broken trumpet</proposition>
+        <proposition id="11-3">Disease</proposition>
+        <proposition id="11-4">Bite of snakes</proposition>
+      </propositions>
+      <réponse proposition="11-1">Wear of teeth</réponse>
+      <anecdote>When the last molar is worn out by chewing, the elephant can no longer feed enough and dies sadly of hunger.</anecdote>
+    </contenu>
+    <contenu id="12">
+      <question>With what part of her body does the mole move under the ground ?</question>
+      <propositions>
+        <proposition id="12-1">Vibrisses</proposition>
+        <proposition id="12-2">Eyes</proposition>
+        <proposition id="12-3">Ears</proposition>
+        <proposition id="12-4">Muzzle</proposition>
+      </propositions>
+      <réponse proposition="12-1">Vibrisses</réponse>
+      <anecdote>The moles orient themselves almost exclusively by using a kind of mustache and kill their food in this way.</anecdote>
+    </contenu>
+    <contenu id="13">
+      <question>Apart from the horse, which other animal is the tapir related to ?</question>
+      <propositions>
+        <proposition id="13-1">Rhinoceros</proposition>
+        <proposition id="13-2">Hamster</proposition>
+        <proposition id="13-3">Pig</proposition>
+        <proposition id="13-4">Elephant</proposition>
+      </propositions>
+      <réponse proposition="13-1">Rhinoceros</réponse>
+      <anecdote>The tapirs, of the family of the ungulates, use their trunk like hand and can thus retract it when this one disturbs them.</anecdote>
+    </contenu>
+    <contenu id="14">
+      <question>How do millipedes protect themselves from their predators ?</question>
+      <propositions>
+        <proposition id="14-1">By their secretations</proposition>
+        <proposition id="14-2">Shouting</proposition>
+        <proposition id="14-3">By camouflage</proposition>
+        <proposition id="14-4">By biting</proposition>
+      </propositions>
+      <réponse proposition="14-1">By their secretations</réponse>
+      <anecdote>In case of danger, the centipedes emit a caustic red substance to the nauseating odor abounds via glands on their rings.</anecdote>
+    </contenu>
+    <contenu id="15">
+      <question>Which animals often steal from hyenas the prey they have hunted ?</question>
+      <propositions>
+        <proposition id="15-1">Lions</proposition>
+        <proposition id="15-2">Wildebeest</proposition>
+        <proposition id="15-3">Guards</proposition>
+        <proposition id="15-4">Buffalo</proposition>
+      </propositions>
+      <réponse proposition="15-1">Lions</réponse>
+      <anecdote>Hyenas usually hunt in packs of about forty individuals of animals such as zebras or wildebeest.</anecdote>
+    </contenu>
+    <contenu id="16">
+      <question>How much is about the smallest species of shrew known ?</question>
+      <propositions>
+        <proposition id="16-1">2 grams</proposition>
+        <proposition id="16-2">70 grams</proposition>
+        <proposition id="16-3">20 grams</proposition>
+        <proposition id="16-4">130 grams</proposition>
+      </propositions>
+      <réponse proposition="16-1">2 grams</réponse>
+      <anecdote>Our local pygmy shrew is about twice as big and heavier than this peculiar shrimp.</anecdote>
+    </contenu>
+    <contenu id="17">
+      <question>How does the lynx usually mark its territory ?</question>
+      <propositions>
+        <proposition id="17-1">Hair</proposition>
+        <proposition id="17-2">Dead mice</proposition>
+        <proposition id="17-3">Erections</proposition>
+        <proposition id="17-4">Excrement</proposition>
+      </propositions>
+      <réponse proposition="17-3">Erections</réponse>
+      <anecdote>In addition to scuffing, lynxes sometimes also use their urine as a scent mark to define their area.</anecdote>
+    </contenu>
+    <contenu id="18">
+      <question>Cut for the race, how fast can a hurdle run ?</question>
+      <propositions>
+        <proposition id="18-1">90 km / h</proposition>
+        <proposition id="18-2">120 km / h</proposition>
+        <proposition id="18-3">150 km / h</proposition>
+        <proposition id="18-4">60 km / h</proposition>
+      </propositions>
+      <réponse proposition="18-2">120 km / h</réponse>
+      <anecdote>The fastest animal can only maintain this speed for a few hundred meters, giving the gazelles a chance.</anecdote>
+    </contenu>
+    <contenu id="19">
+      <question>How do sowbugs protect themselves from attacks ?</question>
+      <propositions>
+        <proposition id="19-1">In flight</proposition>
+        <proposition id="19-2">By flying away</proposition>
+        <proposition id="19-3">By burying himself</proposition>
+        <proposition id="19-4">By wrapping up</proposition>
+      </propositions>
+      <réponse proposition="19-4">By wrapping up</réponse>
+      <anecdote>The body of a woodlouse, in this case immobile, is composed of several solid rings that recall a knight's armor.</anecdote>
+    </contenu>
+    <contenu id="20">
+      <question>Which animal is the biggest known enemy of the variable nozzle ?</question>
+      <propositions>
+        <proposition id="20-1">Man</proposition>
+        <proposition id="20-2">Aigle</proposition>
+        <proposition id="20-3">Renard</proposition>
+        <proposition id="20-4">Brown bear</proposition>
+      </propositions>
+      <réponse proposition="20-1">Man</réponse>
+      <anecdote>Many buzzards are crushed by humans as they attempt to recover dead animals from highways.</anecdote>
+    </contenu>
+  </confirmé>
+  <expert>
+    <contenu id="21">
+      <question>After how long does a baby get meat for the first time ?</question>
+      <propositions>
+        <proposition id="21-1">Six months</proposition>
+        <proposition id="21-2">Six years</proposition>
+        <proposition id="21-3">One month</proposition>
+        <proposition id="21-4">One year</proposition>
+      </propositions>
+      <réponse proposition="21-1">Six months</réponse>
+      <anecdote>In the first six months, baby tigers who do not know their father are breastfed by their mother.</anecdote>
+    </contenu>
+    <contenu id="22">
+      <question>How many liters of milk does a high-performance cow produce each day ?</question>
+      <propositions>
+        <proposition id="22-1">5</proposition>
+        <proposition id="22-2">15</proposition>
+        <proposition id="22-3">35</proposition>
+        <proposition id="22-4">25</proposition>
+      </propositions>
+      <réponse proposition="22-3">35</réponse>
+      <anecdote>These heavily exploited cows most often suffer from inflammation of the udders and require many medications.</anecdote>
+    </contenu>
+    <contenu id="23">
+      <question>What vital function can the fennec amazingly do without ?</question>
+      <propositions>
+        <proposition id="23-1">Sleeping</proposition>
+        <proposition id="23-2">See</proposition>
+        <proposition id="23-3">To eat</proposition>
+        <proposition id="23-4">Drink</proposition>
+      </propositions>
+      <réponse proposition="23-4">Drink</réponse>
+      <anecdote>The liquid that the fennec absorbs thanks to its diet is enough for him and is therefore admirably adapted to life in the desert.</anecdote>
+    </contenu>
+    <contenu id="24">
+      <question>What is the largest of the macaws among the parrots known to date ?</question>
+      <propositions>
+        <proposition id="24-1">Hyacinthe</proposition>
+        <proposition id="24-2">Ararauna</proposition>
+        <proposition id="24-3">Macao</proposition>
+        <proposition id="24-4">Chloroptera</proposition>
+      </propositions>
+      <réponse proposition="24-1">Hyacinthe</réponse>
+      <anecdote>This parrot of about 150 cm, tail included, has a plain blue plumage and lives mainly in Bolivia and Brazil.</anecdote>
+    </contenu>
+    <contenu id="25">
+      <question>In general, how many hours a day is a giant panda busy eating ?</question>
+      <propositions>
+        <proposition id="25-1">Four</proposition>
+        <proposition id="25-2">Twelve</proposition>
+        <proposition id="25-3">Sixteen</proposition>
+        <proposition id="25-4">Eight</proposition>
+      </propositions>
+      <réponse proposition="25-3">Sixteen</réponse>
+      <anecdote>The giant panda eats only young bamboo shoots but these are not very nutritious.</anecdote>
+    </contenu>
+    <contenu id="26">
+      <question>How long is a baby boy breastfed by his mother ?</question>
+      <propositions>
+        <proposition id="26-1">1 year</proposition>
+        <proposition id="26-2">6 months</proposition>
+        <proposition id="26-3">18 months</proposition>
+        <proposition id="26-4">1 month</proposition>
+      </propositions>
+      <réponse proposition="26-3">18 months</réponse>
+      <anecdote>After a period of 12 months of gestation, the baby walrus weighs more than 50 kg and can already swim after only two weeks.</anecdote>
+    </contenu>
+    <contenu id="27">
+      <question>Why do martens sometimes kill chickens ?</question>
+      <propositions>
+        <proposition id="27-1">Liver</proposition>
+        <proposition id="27-2">Thighs</proposition>
+        <proposition id="27-3">Paws</proposition>
+        <proposition id="27-4">Blood</proposition>
+      </propositions>
+      <réponse proposition="27-4">Blood</réponse>
+      <anecdote>Martens only drink blood and leave the rest, preferring to eat rabbits, eggs, lettuce or insects.</anecdote>
+    </contenu>
+    <contenu id="28">
+      <question>What is the bell of the rattlesnake made of ?</question>
+      <propositions>
+        <proposition id="28-1">Wood</proposition>
+        <proposition id="28-2">Limestone</proposition>
+        <proposition id="28-3">Horn</proposition>
+        <proposition id="28-4">Stones</proposition>
+      </propositions>
+      <réponse proposition="28-3">Horn</réponse>
+      <anecdote>The six to ten rings of horn located at the end of the rattlesnake's tail come from the previous moults.</anecdote>
+    </contenu>
+    <contenu id="29">
+      <question>During what season of the year can we hear the owl scream ?</question>
+      <propositions>
+        <proposition id="29-1">Summer</proposition>
+        <proposition id="29-2">Autumn</proposition>
+        <proposition id="29-3">Spring</proposition>
+        <proposition id="29-4">Winter</proposition>
+      </propositions>
+      <réponse proposition="29-3">Spring</réponse>
+      <anecdote>The owl shrieks in April and May to attract the attention of a female who will then remain loyal to his side all his life.</anecdote>
+    </contenu>
+    <contenu id="30">
+      <question>How many quills is composed of the fur of the male hedgehog ?</question>
+      <propositions>
+        <proposition id="30-1">8,000</proposition>
+        <proposition id="30-2">12,000</proposition>
+        <proposition id="30-3">16,000</proposition>
+        <proposition id="30-4">4,000</proposition>
+      </propositions>
+      <réponse proposition="30-3">16,000</réponse>
+      <anecdote>In case of danger, the hedgehog can set its many quills and curl up on itself to protect the enemies.</anecdote>
+    </contenu>
+  </expert>
+  </en>
+  <de>
+  <débutant>
+    <contenu id="1">
+      <question>Warum liegen Eisbären beim Laufen im Schnee ?</question>
+      <propositions>
+        <proposition id="1-1">Zu essen</proposition>
+        <proposition id="1-2">Zu aktualisieren</proposition>
+        <proposition id="1-3">Sich ausruhen</proposition>
+        <proposition id="1-4">Schlafen</proposition>
+      </propositions>
+      <réponse proposition="1-2">Zu aktualisieren</réponse>
+      <anecdote>Eisbären können unter ihrem sehr dicken Fell und ihrer isolierenden Fettschicht schnell zu heiß werden.</anecdote>
+    </contenu>
+    <contenu id="2">
+      <question>In welchem Körperteil können Seepferdchen schwimmen ?</question>
+      <propositions>
+        <proposition id="2-1">Ventralflosse</proposition>
+        <proposition id="2-2">Kopf</proposition>
+        <proposition id="2-3">Schwanz</proposition>
+        <proposition id="2-4">Rückenflosse</proposition>
+      </propositions>
+      <réponse proposition="2-4">Rückenflosse</réponse>
+      <anecdote>Obwohl sie Fische sind, schwimmen Seepferdchen sehr langsam mit welligen Bewegungen.</anecdote>
+    </contenu>
+    <contenu id="3">
+      <question>Warum können wir nicht die Schreie der Fledermaus hören ?</question>
+      <propositions>
+        <proposition id="3-1">Zu stark</proposition>
+        <proposition id="3-2">Zu schwach</proposition>
+        <proposition id="3-3">Zu akut</proposition>
+        <proposition id="3-4">Zu ernst</proposition>
+      </propositions>
+      <réponse proposition="3-3">Zu akut</réponse>
+      <anecdote>Die Fledermäuse senden und empfangen Ultraschall, den unser Ohr nicht wahrnehmen kann (max. 20.000 Hertz).</anecdote>
+    </contenu>
+    <contenu id="4">
+      <question>Wie hieß die riesige Tridacne-Muschel in vielen Kirchen ?</question>
+      <propositions>
+        <proposition id="4-1">Kofferraum</proposition>
+        <proposition id="4-2">Kronleuchter</proposition>
+        <proposition id="4-3">Betonier</proposition>
+        <proposition id="4-4">Brotkorb</proposition>
+      </propositions>
+      <réponse proposition="4-3">Betonier</réponse>
+      <anecdote>Vor 300 Jahren galten Muscheln als kostbare Gegenstände und dienten den Kircheneingängen als Gewinn.</anecdote>
+    </contenu>
+    <contenu id="5">
+      <question>Welche schwere und schmerzhafte Aufgabe liegt bei der Ameisenkönigin ?</question>
+      <propositions>
+        <proposition id="5-1">Verteidige das Nest</proposition>
+        <proposition id="5-2">Eier legen</proposition>
+        <proposition id="5-3">Töte die Männchen</proposition>
+        <proposition id="5-4">Ich suche essen</proposition>
+      </propositions>
+      <réponse proposition="5-2">Eier legen</réponse>
+      <anecdote>Die Königin ist die einzige Ameise im Nest, die Eier brütet, aus denen tatsächlich Larven geschlüpft sind, aus denen die zukünftigen Ameisen geboren werden.</anecdote>
+    </contenu>
+    <contenu id="6">
+      <question>Was essen Marienkäfer besonders gerne ?</question>
+      <propositions>
+        <proposition id="6-1">Blütenblätter</proposition>
+        <proposition id="6-2">Kristalle</proposition>
+        <proposition id="6-3">Elécces</proposition>
+        <proposition id="6-4">Blattläuse</proposition>
+      </propositions>
+      <réponse proposition="6-4">Blattläuse</réponse>
+      <anecdote>Als nützliche Tiere werden Marienkäfer gezüchtet, die dann zur ökologischen Bekämpfung von Schädlingen eingesetzt werden.</anecdote>
+    </contenu>
+    <contenu id="7">
+      <question>Warum bekämpfen sich die Nekrophoren ?</question>
+      <propositions>
+        <proposition id="7-1">Gold</proposition>
+        <proposition id="7-2">Gebiet</proposition>
+        <proposition id="7-3">Leichen</proposition>
+        <proposition id="7-4">Frauen</proposition>
+      </propositions>
+      <réponse proposition="7-3">Leichen</réponse>
+      <anecdote>Ein paar Nekrophoren begraben ein totes Tier in der Erde und legen dort Eier, deren Larven gefüttert werden.</anecdote>
+    </contenu>
+    <contenu id="8">
+      <question>In welcher Umgebung muss eine Milbe leben ?</question>
+      <propositions>
+        <proposition id="8-1">Sec</proposition>
+        <proposition id="8-2">Nass</proposition>
+        <proposition id="8-3">Sunny</proposition>
+        <proposition id="8-4">Fett</proposition>
+      </propositions>
+      <réponse proposition="8-2">Nass</réponse>
+      <anecdote>Ohne die Milben, die in unseren Matratzen nisten, vor allem an feuchten Orten, würden die Wälder mit toten Blättern bedeckt sein.</anecdote>
+    </contenu>
+    <contenu id="9">
+      <question>Mit welchem Körperteil der Schnecke können die Pflanzen geschnitten werden ?</question>
+      <propositions>
+        <proposition id="9-1">Palast</proposition>
+        <proposition id="9-2">Sprache</proposition>
+        <proposition id="9-3">Zähne</proposition>
+        <proposition id="9-4">Bras</proposition>
+      </propositions>
+      <réponse proposition="9-2">Sprache</réponse>
+      <anecdote>Wie eine Feile zieht die träge Zunge der Schnecke die zarten Pflanzen in kleine Stücke und streift so die jungen Salate ab.</anecdote>
+    </contenu>
+    <contenu id="10">
+      <question>Was zeigt der schwächste Wolf nach einem Kampf um die Hierarchie ?</question>
+      <propositions>
+        <proposition id="10-1">Seine Zähne</proposition>
+        <proposition id="10-2">Ihr Bauch</proposition>
+        <proposition id="10-3">Seine Sprache</proposition>
+        <proposition id="10-4">Sein schwanz</proposition>
+      </propositions>
+      <réponse proposition="10-2">Ihr Bauch</réponse>
+      <anecdote>Der niedere Wolf wird also nicht verletzt, muss sich aber nach seiner ausgeprägten Hierarchie dem dominanten Partner unterwerfen.</anecdote>
+    </contenu>
+  </débutant>
+  <confirmé>
+    <contenu id="11">
+      <question>Was ist die häufigste Todesursache bei Elefanten in Freiheit ?</question>
+      <propositions>
+        <proposition id="11-1">Biss von Schlangen</proposition>
+        <proposition id="11-2">Gebrochene Trompete</proposition>
+        <proposition id="11-3">Verschleiß der Zähne</proposition>
+        <proposition id="11-4">Krankheit</proposition>
+      </propositions>
+      <réponse proposition="11-3">Verschleiß der Zähne</réponse>
+      <anecdote>Wenn der letzte Molar durch Kauen verschlissen ist, kann der Elefant nicht mehr genug füttern und stirbt traurig an Hunger.</anecdote>
+    </contenu>
+    <contenu id="12">
+      <question>Mit welchem Teil ihres Körpers bewegt sich der Maulwurf unter der Erde ?</question>
+      <propositions>
+        <proposition id="12-1">Augen</proposition>
+        <proposition id="12-2">Ohren</proposition>
+        <proposition id="12-3">Vibrisses</proposition>
+        <proposition id="12-4">Schnauze</proposition>
+      </propositions>
+      <réponse proposition="12-3">Vibrisses</réponse>
+      <anecdote>Die Maulwürfe orientieren sich fast ausschließlich an einer Art Schnurrbart und töten so ihre Nahrung.</anecdote>
+    </contenu>
+    <contenu id="13">
+      <question>Mit welchem anderen Tier ist der Tapir außer mit dem Pferd verwandt ?</question>
+      <propositions>
+        <proposition id="13-1">Elefant</proposition>
+        <proposition id="13-2">Nashorn</proposition>
+        <proposition id="13-3">Schwein</proposition>
+        <proposition id="13-4">Hamster</proposition>
+      </propositions>
+      <réponse proposition="13-2">Nashorn</réponse>
+      <anecdote>Die Tapire der Familie der Huftiere benutzen ihren Kofferraum wie eine Hand und können ihn daher zurückziehen, wenn dieser sie stört.</anecdote>
+    </contenu>
+    <contenu id="14">
+      <question>Wie schützen sich Tausendfüßler vor ihren Feinden ?</question>
+      <propositions>
+        <proposition id="14-1">Schreien</proposition>
+        <proposition id="14-2">Durch ihre Sekretionen</proposition>
+        <proposition id="14-3">Durch Beißen</proposition>
+        <proposition id="14-4">Durch Tarnung</proposition>
+      </propositions>
+      <réponse proposition="14-2">Durch ihre Sekretionen</réponse>
+      <anecdote>Bei Gefahr geben die Tausendfüßler eine ätzende rote Substanz aus, die über Drüsen an ihren Ringen zu den übelriechenden Gerüchen führt.</anecdote>
+    </contenu>
+    <contenu id="15">
+      <question>Welche Tiere stehlen oft die Beute, die sie gejagt haben, von Hyänen ?</question>
+      <propositions>
+        <proposition id="15-1">Wachen</proposition>
+        <proposition id="15-2">Buffalo</proposition>
+        <proposition id="15-3">Löwen</proposition>
+        <proposition id="15-4">Gnus</proposition>
+      </propositions>
+      <réponse proposition="15-3">Löwen</réponse>
+      <anecdote>Hyänen jagen in der Regel in Rudeln von etwa vierzig Tieren wie Zebras oder Gnus.</anecdote>
+    </contenu>
+    <contenu id="16">
+      <question>Wie viel ist über die kleinste Spitzmausart bekannt ?</question>
+      <propositions>
+        <proposition id="16-1">130 g</proposition>
+        <proposition id="16-2">2 Gramm</proposition>
+        <proposition id="16-3">20 g</proposition>
+        <proposition id="16-4">70 g</proposition>
+      </propositions>
+      <réponse proposition="16-2">2 Gramm</réponse>
+      <anecdote>Unser einheimischer Zwergspitzmaus ist etwa doppelt so groß und schwerer als diese eigentümliche Garnele.</anecdote>
+    </contenu>
+    <contenu id="17">
+      <question>Wie markiert der Luchs normalerweise sein Territorium ?</question>
+      <propositions>
+        <proposition id="17-1">Exkremente</proposition>
+        <proposition id="17-2">Tote Mäuse</proposition>
+        <proposition id="17-3">Haar</proposition>
+        <proposition id="17-4">Erektionen</proposition>
+      </propositions>
+      <réponse proposition="17-4">Erektionen</réponse>
+      <anecdote>Zusätzlich zum Abreiben verwenden Luchse manchmal auch ihren Urin als Duftmarke, um ihren Bereich zu definieren.</anecdote>
+    </contenu>
+    <contenu id="18">
+      <question>Schnitt fürs Rennen, wie schnell kann eine Hürde laufen ?</question>
+      <propositions>
+        <proposition id="18-1">150 km / h</proposition>
+        <proposition id="18-2">60 km / h</proposition>
+        <proposition id="18-3">90 km / h</proposition>
+        <proposition id="18-4">120 km / h</proposition>
+      </propositions>
+      <réponse proposition="18-4">120 km / h</réponse>
+      <anecdote>Das schnellste Tier kann diese Geschwindigkeit nur einige hundert Meter beibehalten, was den Gazellen eine Chance gibt.</anecdote>
+    </contenu>
+    <contenu id="19">
+      <question>Wie schützen sich die Insekten vor Angriffen ?</question>
+      <propositions>
+        <proposition id="19-1">Indem er sich begraben hat</proposition>
+        <proposition id="19-2">Durch wegfliegen</proposition>
+        <proposition id="19-3">Durch das Einwickeln von</proposition>
+        <proposition id="19-4">Im Flug</proposition>
+      </propositions>
+      <réponse proposition="19-3">Durch das Einwickeln von</réponse>
+      <anecdote>Der Körper eines Holzlaus, in diesem Fall unbeweglich, besteht aus mehreren massiven Ringen, die an die Rüstung eines Ritters erinnern.</anecdote>
+    </contenu>
+    <contenu id="20">
+      <question>Welches Tier ist der größte bekannte Feind der variablen Düse ?</question>
+      <propositions>
+        <proposition id="20-1">Braunbär</proposition>
+        <proposition id="20-2">Aigle</proposition>
+        <proposition id="20-3">Mann</proposition>
+        <proposition id="20-4">Renard</proposition>
+      </propositions>
+      <réponse proposition="20-3">Mann</réponse>
+      <anecdote>Viele Bussarde werden von Menschen zerquetscht, während sie versuchen, tote Tiere von Autobahnen zu bergen.</anecdote>
+    </contenu>
+  </confirmé>
+  <expert>
+    <contenu id="21">
+      <question>Nach wie lange bekommt ein Baby zum ersten Mal Fleisch ?</question>
+      <propositions>
+        <proposition id="21-1">Sechs Jahre</proposition>
+        <proposition id="21-2">Sechs Monate</proposition>
+        <proposition id="21-3">Ein Monat</proposition>
+        <proposition id="21-4">Ein Jahr</proposition>
+      </propositions>
+      <réponse proposition="21-2">Sechs Monate</réponse>
+      <anecdote>In den ersten sechs Monaten werden Baby-Tiger, die ihren Vater nicht kennen, von ihrer Mutter gestillt.</anecdote>
+    </contenu>
+    <contenu id="22">
+      <question>Wie viele Liter Milch produziert eine Hochleistungskuh täglich ?</question>
+      <propositions>
+        <proposition id="22-1">25</proposition>
+        <proposition id="22-2">5</proposition>
+        <proposition id="22-3">35</proposition>
+        <proposition id="22-4">15</proposition>
+      </propositions>
+      <réponse proposition="22-3">35</réponse>
+      <anecdote>Diese stark ausgebeuteten Kühe leiden meistens an einer Euterentzündung und benötigen viele Medikamente.</anecdote>
+    </contenu>
+    <contenu id="23">
+      <question>Auf welche lebenswichtige Funktion kann der Fennec erstaunlich verzichten ?</question>
+      <propositions>
+        <proposition id="23-1">Zu essen</proposition>
+        <proposition id="23-2">Siehe</proposition>
+        <proposition id="23-3">Trinken</proposition>
+        <proposition id="23-4">Schlafen</proposition>
+      </propositions>
+      <réponse proposition="23-3">Trinken</réponse>
+      <anecdote>Die Flüssigkeit, die der Fennek dank seiner Nahrung aufnimmt, reicht ihm aus und ist daher wunderbar an das Leben in der Wüste angepasst.</anecdote>
+    </contenu>
+    <contenu id="24">
+      <question>Was ist der größte der Aras unter den bisher bekannten Papageien ?</question>
+      <propositions>
+        <proposition id="24-1">Hyacinthe</proposition>
+        <proposition id="24-2">Ararauna</proposition>
+        <proposition id="24-3">Macao</proposition>
+        <proposition id="24-4">Chloroptera</proposition>
+      </propositions>
+      <réponse proposition="24-1">Hyacinthe</réponse>
+      <anecdote>Dieser Papagei von etwa 150 cm, einschließlich Schwanz, hat ein einfaches blaues Gefieder und lebt hauptsächlich in Bolivien und Brasilien.</anecdote>
+    </contenu>
+    <contenu id="25">
+      <question>Wie viele Stunden am Tag ist ein Riesenpanda damit beschäftigt, zu essen ?</question>
+      <propositions>
+        <proposition id="25-1">Vier</proposition>
+        <proposition id="25-2">Zwölf</proposition>
+        <proposition id="25-3">Acht</proposition>
+        <proposition id="25-4">Sechzehn</proposition>
+      </propositions>
+      <réponse proposition="25-4">Sechzehn</réponse>
+      <anecdote>Der große Panda frisst nur junge Bambussprossen, aber diese sind nicht sehr nahrhaft.</anecdote>
+    </contenu>
+    <contenu id="26">
+      <question>Wie lange wird ein Baby von seiner Mutter gestillt ?</question>
+      <propositions>
+        <proposition id="26-1">6 Monate</proposition>
+        <proposition id="26-2">1 Jahr</proposition>
+        <proposition id="26-3">1 Monat</proposition>
+        <proposition id="26-4">18 Monate</proposition>
+      </propositions>
+      <réponse proposition="26-4">18 Monate</réponse>
+      <anecdote>Nach 12 Monaten der Schwangerschaft wiegt das Walrossbaby mehr als 50 kg und kann bereits nach zwei Wochen schwimmen.</anecdote>
+    </contenu>
+    <contenu id="27">
+      <question>Warum töten Marder manchmal Hühner ?</question>
+      <propositions>
+        <proposition id="27-1">Pfoten</proposition>
+        <proposition id="27-2">Oberschenkel</proposition>
+        <proposition id="27-3">Leber</proposition>
+        <proposition id="27-4">Blut</proposition>
+      </propositions>
+      <réponse proposition="27-4">Blut</réponse>
+      <anecdote>Marder trinken nur Blut und lassen den Rest übrig. Sie essen lieber Kaninchen, Eier, Eidechsen oder Insekten.</anecdote>
+    </contenu>
+    <contenu id="28">
+      <question>Woraus besteht die Glocke der Klapperschlange ?</question>
+      <propositions>
+        <proposition id="28-1">Holz</proposition>
+        <proposition id="28-2">Kalkstein</proposition>
+        <proposition id="28-3">Steine</proposition>
+        <proposition id="28-4">Horn</proposition>
+      </propositions>
+      <réponse proposition="28-4">Horn</réponse>
+      <anecdote>Die sechs bis zehn Hornringe am Ende des Schwanzes der Klapperschlange stammen von den vorherigen Moults.</anecdote>
+    </contenu>
+    <contenu id="29">
+      <question>In welcher Jahreszeit können wir die Eule schreien hören ?</question>
+      <propositions>
+        <proposition id="29-1">Herbst</proposition>
+        <proposition id="29-2">Sommer</proposition>
+        <proposition id="29-3">Winter</proposition>
+        <proposition id="29-4">Frühling</proposition>
+      </propositions>
+      <réponse proposition="29-4">Frühling</réponse>
+      <anecdote>Die Eule schreit im April und Mai, um die Aufmerksamkeit einer Frau auf sich zu ziehen, die dann zeitlebens treu bleiben wird.</anecdote>
+    </contenu>
+    <contenu id="30">
+      <question>Wie viele Federn besteht aus dem Fell des männlichen Igels ?</question>
+      <propositions>
+        <proposition id="30-1">16.000</proposition>
+        <proposition id="30-2">12.000</proposition>
+        <proposition id="30-3">4.000</proposition>
+        <proposition id="30-4">8.000</proposition>
+      </propositions>
+      <réponse proposition="30-1">16.000</réponse>
+      <anecdote>Im Gefahrenfall kann der Igel seine vielen Federn aufstellen und sich zusammenrollen, um die Feinde zu schützen.</anecdote>
+    </contenu>
+  </expert>
+  </de>
+  <es>
+  <débutant>
+    <contenu id="1">
+      <question>¿Por qué los osos polares yacen en la nieve cuando corren ?</question>
+      <propositions>
+        <proposition id="1-1">Para comer</proposition>
+        <proposition id="1-2">Para actualizar</proposition>
+        <proposition id="1-3">Para descansar</proposition>
+        <proposition id="1-4">Durmiendo</proposition>
+      </propositions>
+      <réponse proposition="1-2">Para actualizar</réponse>
+      <anecdote>Los osos polares pueden calentarse rápidamente bajo su pelaje muy grueso y su capa de grasa aislante.</anecdote>
+    </contenu>
+    <contenu id="2">
+      <question>¿Qué parte del cuerpo permite que los caballitos de mar naden ?</question>
+      <propositions>
+        <proposition id="2-1">Aleta ventral</proposition>
+        <proposition id="2-2">Cola</proposition>
+        <proposition id="2-3">Aleta dorsal</proposition>
+        <proposition id="2-4">Cabeza</proposition>
+      </propositions>
+      <réponse proposition="2-3">Aleta dorsal</réponse>
+      <anecdote>Aunque son peces, los caballitos de mar nadan muy lentamente con movimientos ondulados.</anecdote>
+    </contenu>
+    <contenu id="3">
+      <question>¿Por qué no podemos escuchar los gritos del murciélago ?</question>
+      <propositions>
+        <proposition id="3-1">Demasiado débil</proposition>
+        <proposition id="3-2">Demasiado fuerte</proposition>
+        <proposition id="3-3">Demasiado serio</proposition>
+        <proposition id="3-4">Demasiado agudo</proposition>
+      </propositions>
+      <réponse proposition="3-4">Demasiado agudo</réponse>
+      <anecdote>Los murciélagos emiten y reciben ultrasonidos que nuestro oído no puede percibir (máximo 20 000 hertz).</anecdote>
+    </contenu>
+    <contenu id="4">
+      <question>¿Cuál era el nombre del caparazón de tridacne gigante en muchas iglesias ?</question>
+      <propositions>
+        <proposition id="4-1">Betonier</proposition>
+        <proposition id="4-2">Tronco</proposition>
+        <proposition id="4-3">Canasta De Pan</proposition>
+        <proposition id="4-4">Araña de luces</proposition>
+      </propositions>
+      <réponse proposition="4-1">Betonier</réponse>
+      <anecdote>Hace 300 años, las conchas se consideraban objetos preciosos y servían como un beneficio en las entradas a las iglesias.</anecdote>
+    </contenu>
+    <contenu id="5">
+      <question>¿Qué tarea pesada y dolorosa recae en la reina de las hormigas ?</question>
+      <propositions>
+        <proposition id="5-1">Mata a los machos</proposition>
+        <proposition id="5-2">Defender el nido</proposition>
+        <proposition id="5-3">Buscando comer</proposition>
+        <proposition id="5-4">Poner huevos</proposition>
+      </propositions>
+      <réponse proposition="5-4">Poner huevos</réponse>
+      <anecdote>La reina es la única hormiga en el nido para incubar huevos, que en realidad son larvas de las cuales nacerán las futuras hormigas.</anecdote>
+    </contenu>
+    <contenu id="6">
+      <question>¿Qué les gusta comer especialmente a las mariquitas ?</question>
+      <propositions>
+        <proposition id="6-1">Pétalos</proposition>
+        <proposition id="6-2">Áfidos</proposition>
+        <proposition id="6-3">Cristales</proposition>
+        <proposition id="6-4">Elécces</proposition>
+      </propositions>
+      <réponse proposition="6-2">Áfidos</réponse>
+      <anecdote>Considerados animales útiles, las mariquitas se crían y luego se usan para combatir las plagas ecológicamente.</anecdote>
+    </contenu>
+    <contenu id="7">
+      <question>¿Por qué los necróforos luchan entre sí ?</question>
+      <propositions>
+        <proposition id="7-1">Oro</proposition>
+        <proposition id="7-2">Territorio</proposition>
+        <proposition id="7-3">Cadáveres</proposition>
+        <proposition id="7-4">Hembras</proposition>
+      </propositions>
+      <réponse proposition="7-3">Cadáveres</réponse>
+      <anecdote>Un par de necróforos entierran a un animal muerto en el suelo y ponen huevos cuyas larvas son alimentadas.</anecdote>
+    </contenu>
+    <contenu id="8">
+      <question>¿Qué tipo de ambiente necesita un ácaro para vivir ?</question>
+      <propositions>
+        <proposition id="8-1">Soleado</proposition>
+        <proposition id="8-2">Gordo</proposition>
+        <proposition id="8-3">Mojado</proposition>
+        <proposition id="8-4">Sec</proposition>
+      </propositions>
+      <réponse proposition="8-3">Mojado</réponse>
+      <anecdote>Sin los ácaros, que anidan en nuestros colchones, pero especialmente en lugares húmedos, los bosques se sumergirían con hojas muertas.</anecdote>
+    </contenu>
+    <contenu id="9">
+      <question>¿Qué parte del cuerpo de la babosa permite cortar las plantas ?</question>
+      <propositions>
+        <proposition id="9-1">Dientes</proposition>
+        <proposition id="9-2">Palacio</proposition>
+        <proposition id="9-3">Idioma</proposition>
+        <proposition id="9-4">Bras</proposition>
+      </propositions>
+      <réponse proposition="9-3">Idioma</réponse>
+      <anecdote>Como una lima, la lengua lenta de la babosa hace que las plantas tiernas se conviertan en trozos pequeños y de esta manera se quitan las ensaladas jóvenes.</anecdote>
+    </contenu>
+    <contenu id="10">
+      <question>¿Qué muestra el lobo más débil después de una lucha por la jerarquía ?</question>
+      <propositions>
+        <proposition id="10-1">Su polla</proposition>
+        <proposition id="10-2">Su vientre</proposition>
+        <proposition id="10-3">Sus dientes</proposition>
+        <proposition id="10-4">Su idioma</proposition>
+      </propositions>
+      <réponse proposition="10-2">Su vientre</réponse>
+      <anecdote>Por lo tanto, el lobo inferior no está lesionado, pero en el futuro tendrá que someterse a la pareja dominante, de acuerdo con su jerarquía pronunciada.</anecdote>
+    </contenu>
+  </débutant>
+  <confirmé>
+    <contenu id="11">
+      <question>¿Cuál es la causa más común de muerte entre los elefantes en libertad ?</question>
+      <propositions>
+        <proposition id="11-1">Mordedura de serpientes</proposition>
+        <proposition id="11-2">Enfermedad</proposition>
+        <proposition id="11-3">Trompeta rota</proposition>
+        <proposition id="11-4">Desgaste de los dientes</proposition>
+      </propositions>
+      <réponse proposition="11-4">Desgaste de los dientes</réponse>
+      <anecdote>Cuando el último molar se agota al masticar, el elefante ya no puede alimentarse lo suficiente y muere tristemente de hambre.</anecdote>
+    </contenu>
+    <contenu id="12">
+      <question>¿Con qué parte de su cuerpo se mueve el lunar debajo del suelo ?</question>
+      <propositions>
+        <proposition id="12-1">Bozal</proposition>
+        <proposition id="12-2">Orejas</proposition>
+        <proposition id="12-3">Vibris</proposition>
+        <proposition id="12-4">Ojos</proposition>
+      </propositions>
+      <réponse proposition="12-3">Vibris</réponse>
+      <anecdote>Los lunares se orientan casi exclusivamente usando una especie de bigote y matan su comida de esta manera.</anecdote>
+    </contenu>
+    <contenu id="13">
+      <question>Aparte del caballo, ¿con qué otro animal está relacionado el tapir ?</question>
+      <propositions>
+        <proposition id="13-1">Cerdo</proposition>
+        <proposition id="13-2">Elefante</proposition>
+        <proposition id="13-3">Rinoceronte</proposition>
+        <proposition id="13-4">Hámster</proposition>
+      </propositions>
+      <réponse proposition="13-3">Rinoceronte</réponse>
+      <anecdote>Los tapires, de la familia de los ungulados, usan su tronco como una mano y, por lo tanto, pueden retraerlo cuando éste los perturba.</anecdote>
+    </contenu>
+    <contenu id="14">
+      <question>¿Cómo se protegen los milpiés de sus depredadores ?</question>
+      <propositions>
+        <proposition id="14-1">Gritando</proposition>
+        <proposition id="14-2">Mordiendo</proposition>
+        <proposition id="14-3">Por camuflaje</proposition>
+        <proposition id="14-4">Por sus secreciones</proposition>
+      </propositions>
+      <réponse proposition="14-4">Por sus secreciones</réponse>
+      <anecdote>En caso de peligro, los ciempiés emiten una sustancia cáustica roja al olor nauseabundo que abunda a través de las glándulas en sus anillos.</anecdote>
+    </contenu>
+    <contenu id="15">
+      <question>¿Qué animales a menudo roban de las hienas la presa que han cazado ?</question>
+      <propositions>
+        <proposition id="15-1">Búfalo</proposition>
+        <proposition id="15-2">Guardias</proposition>
+        <proposition id="15-3">Ñu</proposition>
+        <proposition id="15-4">Leones</proposition>
+      </propositions>
+      <réponse proposition="15-4">Leones</réponse>
+      <anecdote>Las hienas generalmente cazan en paquetes de aproximadamente cuarenta individuos de animales como cebras o ñus.</anecdote>
+    </contenu>
+    <contenu id="16">
+      <question>¿Cuánto se trata de la especie más pequeña de musaraña conocida ?</question>
+      <propositions>
+        <proposition id="16-1">2 gramos</proposition>
+        <proposition id="16-2">70 gramos</proposition>
+        <proposition id="16-3">20 gramos</proposition>
+        <proposition id="16-4">130 gramos</proposition>
+      </propositions>
+      <réponse proposition="16-1">2 gramos</réponse>
+      <anecdote>Nuestra musaraña pigmea local es aproximadamente dos veces más grande y más pesada que este camarón peculiar.</anecdote>
+    </contenu>
+    <contenu id="17">
+      <question>¿Cómo suele marcar el lince su territorio ?</question>
+      <propositions>
+        <proposition id="17-1">Erecciones</proposition>
+        <proposition id="17-2">Ratones muertos</proposition>
+        <proposition id="17-3">Pelo</proposition>
+        <proposition id="17-4">Excremento</proposition>
+      </propositions>
+      <réponse proposition="17-1">Erecciones</réponse>
+      <anecdote>Además de desgastar, los linces a veces también usan su orina como una marca de olor para definir su área.</anecdote>
+    </contenu>
+    <contenu id="18">
+      <question>Corte para la carrera, ¿qué tan rápido puede correr un obstáculo ?</question>
+      <propositions>
+        <proposition id="18-1">150 km / h</proposition>
+        <proposition id="18-2">120 km / h</proposition>
+        <proposition id="18-3">60 km / h</proposition>
+        <proposition id="18-4">90 km / h</proposition>
+      </propositions>
+      <réponse proposition="18-2">120 km / h</réponse>
+      <anecdote>El animal más rápido solo puede mantener esta velocidad unos cientos de metros, lo que le da una oportunidad a las gacelas.</anecdote>
+    </contenu>
+    <contenu id="19">
+      <question>¿Cómo se protegen los sowbugs de los ataques ?</question>
+      <propositions>
+        <proposition id="19-1">En vuelo</proposition>
+        <proposition id="19-2">Al terminar</proposition>
+        <proposition id="19-3">Volando lejos</proposition>
+        <proposition id="19-4">Enterrándose a sí mismo</proposition>
+      </propositions>
+      <réponse proposition="19-2">Al terminar</réponse>
+      <anecdote>El cuerpo de un woodlouse, en este caso inmóvil, se compone de varios anillos sólidos que recuerdan la armadura de un caballero.</anecdote>
+    </contenu>
+    <contenu id="20">
+      <question>¿Qué animal es el mayor enemigo conocido de la boquilla variable ?</question>
+      <propositions>
+        <proposition id="20-1">Renard</proposition>
+        <proposition id="20-2">Aigle</proposition>
+        <proposition id="20-3">Oso pardo</proposition>
+        <proposition id="20-4">Hombre</proposition>
+      </propositions>
+      <réponse proposition="20-4">Hombre</réponse>
+      <anecdote>Muchos buitres son aplastados por los humanos cuando intentan recuperar animales muertos de las carreteras.</anecdote>
+    </contenu>
+  </confirmé>
+  <expert>
+    <contenu id="21">
+      <question>¿Después de cuánto tiempo obtiene carne un bebé por primera vez ?</question>
+      <propositions>
+        <proposition id="21-1">Un año</proposition>
+        <proposition id="21-2">Seis años</proposition>
+        <proposition id="21-3">Seis meses</proposition>
+        <proposition id="21-4">Un mes</proposition>
+      </propositions>
+      <réponse proposition="21-3">Seis meses</réponse>
+      <anecdote>En los primeros seis meses, los tigres bebés que no conocen a su padre son amamantados por su madre.</anecdote>
+    </contenu>
+    <contenu id="22">
+      <question>¿Cuántos litros de leche produce una vaca de alto rendimiento cada día ?</question>
+      <propositions>
+        <proposition id="22-1">35</proposition>
+        <proposition id="22-2">15</proposition>
+        <proposition id="22-3">25</proposition>
+        <proposition id="22-4">5</proposition>
+      </propositions>
+      <réponse proposition="22-1">35</réponse>
+      <anecdote>Estas vacas muy explotadas suelen sufrir de inflamación de las ubres y requieren muchos medicamentos.</anecdote>
+    </contenu>
+    <contenu id="23">
+      <question>¿Con qué función vital pueden hacer asombrosamente los Fennec ?</question>
+      <propositions>
+        <proposition id="23-1">Para comer</proposition>
+        <proposition id="23-2">Ver</proposition>
+        <proposition id="23-3">Bebida</proposition>
+        <proposition id="23-4">Durmiendo</proposition>
+      </propositions>
+      <réponse proposition="23-3">Bebida</réponse>
+      <anecdote>El líquido que el fennec absorbe gracias a su dieta es suficiente para él y, por lo tanto, se adapta admirablemente a la vida en el desierto.</anecdote>
+    </contenu>
+    <contenu id="24">
+      <question>¿Cuál es la más grande de las guacamayas entre los loros conocidos hasta la fecha ?</question>
+      <propositions>
+        <proposition id="24-1">Hyacinthe</proposition>
+        <proposition id="24-2">Ararauna</proposition>
+        <proposition id="24-3">Cloropteros</proposition>
+        <proposition id="24-4">Macao</proposition>
+      </propositions>
+      <réponse proposition="24-1">Hyacinthe</réponse>
+      <anecdote>Este loro de unos 150 cm, con la cola incluida, tiene un plumaje azul claro y vive principalmente en Bolivia y Brasil.</anecdote>
+    </contenu>
+    <contenu id="25">
+      <question>En general, ¿cuántas horas al día come un panda gigante ocupado ?</question>
+      <propositions>
+        <proposition id="25-1">Dieciséis</proposition>
+        <proposition id="25-2">Ocho</proposition>
+        <proposition id="25-3">Cuatro</proposition>
+        <proposition id="25-4">Doce</proposition>
+      </propositions>
+      <réponse proposition="25-1">Dieciséis</réponse>
+      <anecdote>El panda gigante solo come brotes de bambú jóvenes, pero estos no son muy nutritivos.</anecdote>
+    </contenu>
+    <contenu id="26">
+      <question>¿Por cuánto tiempo es amamantado un bebé por su madre ?</question>
+      <propositions>
+        <proposition id="26-1">6 meses</proposition>
+        <proposition id="26-2">18 meses</proposition>
+        <proposition id="26-3">1 año</proposition>
+        <proposition id="26-4">1 mes</proposition>
+      </propositions>
+      <réponse proposition="26-2">18 meses</réponse>
+      <anecdote>Después de un período de 12 meses de gestación, la morsa bebé pesa más de 50 kg y ya puede nadar después de solo dos semanas.</anecdote>
+    </contenu>
+    <contenu id="27">
+      <question>¿Por qué martens a veces matan pollos ?</question>
+      <propositions>
+        <proposition id="27-1">Muslos</proposition>
+        <proposition id="27-2">Sangre</proposition>
+        <proposition id="27-3">Hígado</proposition>
+        <proposition id="27-4">Patas</proposition>
+      </propositions>
+      <réponse proposition="27-2">Sangre</réponse>
+      <anecdote>Martens solo bebe sangre y deja el resto, prefiriendo comer conejos, huevos, lagartijas o insectos.</anecdote>
+    </contenu>
+    <contenu id="28">
+      <question>¿De qué está hecha la campana de la serpiente de cascabel ?</question>
+      <propositions>
+        <proposition id="28-1">Madera</proposition>
+        <proposition id="28-2">Piedra caliza</proposition>
+        <proposition id="28-3">Piedras</proposition>
+        <proposition id="28-4">Cuerno</proposition>
+      </propositions>
+      <réponse proposition="28-4">Cuerno</réponse>
+      <anecdote>Los seis a diez anillos de cuerno ubicados al final de la cola de la serpiente de cascabel provienen de las mudas anteriores.</anecdote>
+    </contenu>
+    <contenu id="29">
+      <question>¿En qué estación del año podemos escuchar el grito del búho ?</question>
+      <propositions>
+        <proposition id="29-1">Primavera</proposition>
+        <proposition id="29-2">Invierno</proposition>
+        <proposition id="29-3">Otoño</proposition>
+        <proposition id="29-4">Verano</proposition>
+      </propositions>
+      <réponse proposition="29-1">Primavera</réponse>
+      <anecdote>El búho grita en abril y mayo para atraer la atención de una mujer que permanecerá leal a su lado durante toda su vida.</anecdote>
+    </contenu>
+    <contenu id="30">
+      <question>¿Cuántas plumas está compuesta de la piel del erizo masculino ?</question>
+      <propositions>
+        <proposition id="30-1">16,000</proposition>
+        <proposition id="30-2">12,000</proposition>
+        <proposition id="30-3">8,000</proposition>
+        <proposition id="30-4">4,000</proposition>
+      </propositions>
+      <réponse proposition="30-1">16,000</réponse>
+      <anecdote>En caso de peligro, el erizo puede colocar sus muchas púas y acurrucarse sobre sí mismo para proteger a los enemigos.</anecdote>
+    </contenu>
+  </expert>
+  </es>
+  <it>
+  <débutant>
+    <contenu id="1">
+      <question>Perché gli orsi polari giacciono nella neve quando corrono ?</question>
+      <propositions>
+        <proposition id="1-1">Mangiare</proposition>
+        <proposition id="1-2">Dormire</proposition>
+        <proposition id="1-3">Per aggiornare</proposition>
+        <proposition id="1-4">Riposare</proposition>
+      </propositions>
+      <réponse proposition="1-3">Per aggiornare</réponse>
+      <anecdote>Gli orsi polari possono diventare troppo caldi sotto la loro pelliccia molto spessa e il loro strato di grasso isolante.</anecdote>
+    </contenu>
+    <contenu id="2">
+      <question>Quale parte del corpo permette ai cavallucci marini di nuotare ?</question>
+      <propositions>
+        <proposition id="2-1">Testa</proposition>
+        <proposition id="2-2">Pinne ventrali</proposition>
+        <proposition id="2-3">Coda</proposition>
+        <proposition id="2-4">Pinna dorsale</proposition>
+      </propositions>
+      <réponse proposition="2-4">Pinna dorsale</réponse>
+      <anecdote>Sebbene siano pesci, i cavallucci marini nuotano molto lentamente con movimenti ondulati.</anecdote>
+    </contenu>
+    <contenu id="3">
+      <question>Perché non possiamo sentire le grida del pipistrello ?</question>
+      <propositions>
+        <proposition id="3-1">Troppo debole</proposition>
+        <proposition id="3-2">Troppo acuto</proposition>
+        <proposition id="3-3">Troppo serio</proposition>
+        <proposition id="3-4">Troppo forte</proposition>
+      </propositions>
+      <réponse proposition="3-2">Troppo acuto</réponse>
+      <anecdote>I pipistrelli emettono e ricevono gli ultrasuoni che il nostro orecchio non riesce a percepire (max 20.000 hertz).</anecdote>
+    </contenu>
+    <contenu id="4">
+      <question>Qual era il nome della gigantesca conchiglia tridacne in molte chiese ?</question>
+      <propositions>
+        <proposition id="4-1">Trunk</proposition>
+        <proposition id="4-2">Lampadario</proposition>
+        <proposition id="4-3">Betonier</proposition>
+        <proposition id="4-4">Cestino del pane</proposition>
+      </propositions>
+      <réponse proposition="4-3">Betonier</réponse>
+      <anecdote>300 anni fa, le conchiglie erano considerate oggetti preziosi e servivano come vantaggio agli ingressi delle chiese.</anecdote>
+    </contenu>
+    <contenu id="5">
+      <question>Quale compito pesante e doloroso ricade sulla regina delle formiche ?</question>
+      <propositions>
+        <proposition id="5-1">Cerco di mangiare</proposition>
+        <proposition id="5-2">Lay uova</proposition>
+        <proposition id="5-3">Uccidi i maschi</proposition>
+        <proposition id="5-4">Difendere il nido</proposition>
+      </propositions>
+      <réponse proposition="5-2">Lay uova</réponse>
+      <anecdote>La regina è l'unica formica nel nido a covare uova, che sono in realtà larve tratteggiate da cui nasceranno le future formiche.</anecdote>
+    </contenu>
+    <contenu id="6">
+      <question>Che cosa amano particolarmente le coccinelle ?</question>
+      <propositions>
+        <proposition id="6-1">Afidi</proposition>
+        <proposition id="6-2">Elécces</proposition>
+        <proposition id="6-3">Cristalli</proposition>
+        <proposition id="6-4">Petali</proposition>
+      </propositions>
+      <réponse proposition="6-1">Afidi</réponse>
+      <anecdote>Considerati animali utili, le coccinelle vengono allevate e quindi utilizzate per combattere ecologicamente i parassiti.</anecdote>
+    </contenu>
+    <contenu id="7">
+      <question>Perché i necrophores si combattono ?</question>
+      <propositions>
+        <proposition id="7-1">Femmine</proposition>
+        <proposition id="7-2">Territorio</proposition>
+        <proposition id="7-3">Cadaveri</proposition>
+        <proposition id="7-4">Oro</proposition>
+      </propositions>
+      <réponse proposition="7-3">Cadaveri</réponse>
+      <anecdote>Un paio di necrophores seppelliscono un animale morto nel terreno e depongono uova le cui larve vengono nutrite.</anecdote>
+    </contenu>
+    <contenu id="8">
+      <question>Che tipo di ambiente ha bisogno di un acaro per vivere ?</question>
+      <propositions>
+        <proposition id="8-1">Bagnato</proposition>
+        <proposition id="8-2">Grasso</proposition>
+        <proposition id="8-3">Sec</proposition>
+        <proposition id="8-4">Soleggiato</proposition>
+      </propositions>
+      <réponse proposition="8-1">Bagnato</réponse>
+      <anecdote>Senza gli acari, che nidificano nei nostri materassi ma soprattutto in luoghi umidi, le foreste sarebbero sommerse da foglie morte.</anecdote>
+    </contenu>
+    <contenu id="9">
+      <question>Quale parte del corpo della lumaca consente di tagliare le piante ?</question>
+      <propositions>
+        <proposition id="9-1">Lingua</proposition>
+        <proposition id="9-2">Denti</proposition>
+        <proposition id="9-3">Palazzo</proposition>
+        <proposition id="9-4">Reggiseni</proposition>
+      </propositions>
+      <réponse proposition="9-1">Lingua</réponse>
+      <anecdote>Come una lima, la lingua pigra della lumaca coltiva le piante teneri in piccoli pezzi e quindi spoglia le giovani insalate.</anecdote>
+    </contenu>
+    <contenu id="10">
+      <question>Cosa mostra il lupo più debole dopo una lotta per la gerarchia ?</question>
+      <propositions>
+        <proposition id="10-1">La sua pancia</proposition>
+        <proposition id="10-2">La sua lingua</proposition>
+        <proposition id="10-3">Il suo cazzo</proposition>
+        <proposition id="10-4">I suoi denti</proposition>
+      </propositions>
+      <réponse proposition="10-1">La sua pancia</réponse>
+      <anecdote>Il lupo inferiore non è quindi ferito, ma dovrà in futuro presentarsi al compagno dominante, secondo la loro pronunciata gerarchia.</anecdote>
+    </contenu>
+  </débutant>
+  <confirmé>
+    <contenu id="11">
+      <question>Qual è la causa più comune di morte tra gli elefanti in libertà ?</question>
+      <propositions>
+        <proposition id="11-1">Morso di serpenti</proposition>
+        <proposition id="11-2">Tromba rotta</proposition>
+        <proposition id="11-3">Usura dei denti</proposition>
+        <proposition id="11-4">Malattia</proposition>
+      </propositions>
+      <réponse proposition="11-3">Usura dei denti</réponse>
+      <anecdote>Quando l'ultimo molare è consumato masticando, l'elefante non può più nutrirsi abbastanza e muore tristemente per la fame.</anecdote>
+    </contenu>
+    <contenu id="12">
+      <question>Con quale parte del suo corpo la talpa si muove sotto terra ?</question>
+      <propositions>
+        <proposition id="12-1">Orecchie</proposition>
+        <proposition id="12-2">Occhi</proposition>
+        <proposition id="12-3">Vibrisses</proposition>
+        <proposition id="12-4">Muso</proposition>
+      </propositions>
+      <réponse proposition="12-3">Vibrisses</réponse>
+      <anecdote>Le talpe si orientano quasi esclusivamente usando una sorta di baffi e uccidono il loro cibo in questo modo.</anecdote>
+    </contenu>
+    <contenu id="13">
+      <question>A parte il cavallo, a quale altro animale è collegato il tapiro ?</question>
+      <propositions>
+        <proposition id="13-1">Maiale</proposition>
+        <proposition id="13-2">Criceto</proposition>
+        <proposition id="13-3">Rinoceronte</proposition>
+        <proposition id="13-4">Elefante</proposition>
+      </propositions>
+      <réponse proposition="13-3">Rinoceronte</réponse>
+      <anecdote>I tapiri, della famiglia degli ungulati, usano il loro tronco come una mano e possono quindi ritrarlo quando questo li disturba.</anecdote>
+    </contenu>
+    <contenu id="14">
+      <question>In che modo i millepiedi proteggono se stessi dai loro predatori ?</question>
+      <propositions>
+        <proposition id="14-1">Mordendo</proposition>
+        <proposition id="14-2">Con le loro secretazioni</proposition>
+        <proposition id="14-3">Gridare</proposition>
+        <proposition id="14-4">Per mimetizzazione</proposition>
+      </propositions>
+      <réponse proposition="14-2">Con le loro secretazioni</réponse>
+      <anecdote>In caso di pericolo, i millepiedi emettono una sostanza rossa caustica per l'odore nauseabondo abbonda di ghiandole sui loro anelli.</anecdote>
+    </contenu>
+    <contenu id="15">
+      <question>Quali animali rubano spesso alle iene la preda che hanno cacciato ?</question>
+      <propositions>
+        <proposition id="15-1">Buffalo</proposition>
+        <proposition id="15-2">Guardie</proposition>
+        <proposition id="15-3">Gnu</proposition>
+        <proposition id="15-4">Lions</proposition>
+      </propositions>
+      <réponse proposition="15-4">Lions</réponse>
+      <anecdote>Le iene di solito cacciano in branchi di una quarantina di animali come zebre o gnu.</anecdote>
+    </contenu>
+    <contenu id="16">
+      <question>Quanto parla della più piccola specie di toporagno conosciuta ?</question>
+      <propositions>
+        <proposition id="16-1">130 grammi</proposition>
+        <proposition id="16-2">20 grammi</proposition>
+        <proposition id="16-3">70 grammi</proposition>
+        <proposition id="16-4">2 grammi</proposition>
+      </propositions>
+      <réponse proposition="16-4">2 grammi</réponse>
+      <anecdote>Il nostro toporagno pigmeo locale è circa due volte più grande e più pesante di questo gambero particolare.</anecdote>
+    </contenu>
+    <contenu id="17">
+      <question>In che modo la lince di solito segna il suo territorio ?</question>
+      <propositions>
+        <proposition id="17-1">Erezioni</proposition>
+        <proposition id="17-2">Escrementi</proposition>
+        <proposition id="17-3">Capelli</proposition>
+        <proposition id="17-4">Topi morti</proposition>
+      </propositions>
+      <réponse proposition="17-1">Erezioni</réponse>
+      <anecdote>Oltre a raschiare, le linci a volte usano anche le loro urine come segni di odore per definire la loro area.</anecdote>
+    </contenu>
+    <contenu id="18">
+      <question>Tagliare per la gara, quanto velocemente può correre un ostacolo ?</question>
+      <propositions>
+        <proposition id="18-1">60 km / h</proposition>
+        <proposition id="18-2">120 km / h</proposition>
+        <proposition id="18-3">150 km / h</proposition>
+        <proposition id="18-4">90 km / h</proposition>
+      </propositions>
+      <réponse proposition="18-2">120 km / h</réponse>
+      <anecdote>L'animale più veloce può mantenere questa velocità solo per poche centinaia di metri, dando una possibilità alle gazzelle.</anecdote>
+    </contenu>
+    <contenu id="19">
+      <question>In che modo i sowbug si proteggono dagli attacchi ?</question>
+      <propositions>
+        <proposition id="19-1">Seppellendosi</proposition>
+        <proposition id="19-2">Volando via</proposition>
+        <proposition id="19-3">In volo</proposition>
+        <proposition id="19-4">Concludendo</proposition>
+      </propositions>
+      <réponse proposition="19-4">Concludendo</réponse>
+      <anecdote>Il corpo di un woodlouse, in questo caso immobile, è composto da diversi anelli solidi che ricordano l'armatura di un cavaliere.</anecdote>
+    </contenu>
+    <contenu id="20">
+      <question>Quale animale è il più grande nemico conosciuto della bocchetta variabile ?</question>
+      <propositions>
+        <proposition id="20-1">Renard</proposition>
+        <proposition id="20-2">Orso bruno</proposition>
+        <proposition id="20-3">Man</proposition>
+        <proposition id="20-4">Aigle</proposition>
+      </propositions>
+      <réponse proposition="20-3">Man</réponse>
+      <anecdote>Molte poiane sono schiacciate dagli umani mentre tentano di recuperare animali morti dalle autostrade.</anecdote>
+    </contenu>
+  </confirmé>
+  <expert>
+    <contenu id="21">
+      <question>Dopo quanto tempo un bambino prende la carne per la prima volta ?</question>
+      <propositions>
+        <proposition id="21-1">Un mese</proposition>
+        <proposition id="21-2">Sei anni</proposition>
+        <proposition id="21-3">Un anno</proposition>
+        <proposition id="21-4">Sei mesi</proposition>
+      </propositions>
+      <réponse proposition="21-4">Sei mesi</réponse>
+      <anecdote>Nei primi sei mesi, le tigri che non conoscono il padre sono allattate dalla madre.</anecdote>
+    </contenu>
+    <contenu id="22">
+      <question>Quanti litri di latte produce una mucca ad alte prestazioni ogni giorno ?</question>
+      <propositions>
+        <proposition id="22-1">15</proposition>
+        <proposition id="22-2">5</proposition>
+        <proposition id="22-3">25</proposition>
+        <proposition id="22-4">35</proposition>
+      </propositions>
+      <réponse proposition="22-4">35</réponse>
+      <anecdote>Queste mucche fortemente sfruttate soffrono molto spesso di infiammazione delle mammelle e richiedono molti farmaci.</anecdote>
+    </contenu>
+    <contenu id="23">
+      <question>Di quale funzione vitale può davvero rinunciare il fennec ?</question>
+      <propositions>
+        <proposition id="23-1">Mangiare</proposition>
+        <proposition id="23-2">Bere</proposition>
+        <proposition id="23-3">Dormire</proposition>
+        <proposition id="23-4">Vedi</proposition>
+      </propositions>
+      <réponse proposition="23-2">Bere</réponse>
+      <anecdote>Il liquido che il fennec assorbe grazie alla sua dieta è sufficiente per lui ed è quindi mirabilmente adattato alla vita nel deserto.</anecdote>
+    </contenu>
+    <contenu id="24">
+      <question>Qual è la più grande tra are pappagalli noti fino ad oggi ?</question>
+      <propositions>
+        <proposition id="24-1">ararauna</proposition>
+        <proposition id="24-2">Hyacinthe</proposition>
+        <proposition id="24-3">Macau</proposition>
+        <proposition id="24-4">Chloroptera</proposition>
+      </propositions>
+      <réponse proposition="24-2">Hyacinthe</réponse>
+      <anecdote>Questo pappagallo di circa 150 cm, coda inclusa, ha un semplice piumaggio blu pallido e vive principalmente in Bolivia e in Brasile.</anecdote>
+    </contenu>
+    <contenu id="25">
+      <question>In generale, quante ore al giorno è un panda gigante impegnato a mangiare ?</question>
+      <propositions>
+        <proposition id="25-1">Sedici</proposition>
+        <proposition id="25-2">Otto</proposition>
+        <proposition id="25-3">Dodici</proposition>
+        <proposition id="25-4">Quattro</proposition>
+      </propositions>
+      <réponse proposition="25-1">Sedici</réponse>
+      <anecdote>Il panda gigante mangia solo giovani germogli di bambù, ma questi non sono molto nutrienti.</anecdote>
+    </contenu>
+    <contenu id="26">
+      <question>Quanto dura un bambino allattato da sua madre ?</question>
+      <propositions>
+        <proposition id="26-1">18 mesi</proposition>
+        <proposition id="26-2">1 mese</proposition>
+        <proposition id="26-3">1 anno</proposition>
+        <proposition id="26-4">6 mesi</proposition>
+      </propositions>
+      <réponse proposition="26-1">18 mesi</réponse>
+      <anecdote>Dopo un periodo di 12 mesi di gestazione, il tricheco pesa più di 50 kg e può già nuotare dopo solo due settimane.</anecdote>
+    </contenu>
+    <contenu id="27">
+      <question>Perché a volte le martore uccidono i polli ?</question>
+      <propositions>
+        <proposition id="27-1">Fegato</proposition>
+        <proposition id="27-2">Cosce</proposition>
+        <proposition id="27-3">Zampe</proposition>
+        <proposition id="27-4">Sangue</proposition>
+      </propositions>
+      <réponse proposition="27-4">Sangue</réponse>
+      <anecdote>Le martore bevono solo sangue e lasciano il resto, preferendo mangiare conigli, uova, lattuga o insetti.</anecdote>
+    </contenu>
+    <contenu id="28">
+      <question>Di cosa è fatta la campana del serpente a sonagli ?</question>
+      <propositions>
+        <proposition id="28-1">Calcare</proposition>
+        <proposition id="28-2">Legno</proposition>
+        <proposition id="28-3">Pietre</proposition>
+        <proposition id="28-4">Corno</proposition>
+      </propositions>
+      <réponse proposition="28-4">Corno</réponse>
+      <anecdote>I sei - dieci anelli di corno situati alla fine della coda del serpente a sonagli provengono dalle mute precedenti.</anecdote>
+    </contenu>
+    <contenu id="29">
+      <question>Durante quale stagione dell'anno possiamo sentire il gufo urlare ?</question>
+      <propositions>
+        <proposition id="29-1">Estate</proposition>
+        <proposition id="29-2">Inverno</proposition>
+        <proposition id="29-3">Primavera</proposition>
+        <proposition id="29-4">Autunno</proposition>
+      </propositions>
+      <réponse proposition="29-3">Primavera</réponse>
+      <anecdote>Il gufo urla in aprile e maggio per attirare l'attenzione di una donna che rimarrà fedele al suo fianco per tutta la vita.</anecdote>
+    </contenu>
+    <contenu id="30">
+      <question>Quante piume sono composte dalla pelliccia del riccio maschio ?</question>
+      <propositions>
+        <proposition id="30-1">16.000</proposition>
+        <proposition id="30-2">12.000</proposition>
+        <proposition id="30-3">8.000</proposition>
+        <proposition id="30-4">4.000</proposition>
+      </propositions>
+      <réponse proposition="30-1">16.000</réponse>
+      <anecdote>In caso di pericolo, il riccio può impostare le sue numerose penne e rannicchiarsi su se stesso per proteggere i nemici.</anecdote>
+    </contenu>
+  </expert>
+  </it>
+  <nl>
+  <débutant>
+    <contenu id="1">
+      <question>Waarom liggen ijsberen in de sneeuw als ze rennen ?</question>
+      <propositions>
+        <proposition id="1-1">Rusten</proposition>
+        <proposition id="1-2">Slapen</proposition>
+        <proposition id="1-3">Eten</proposition>
+        <proposition id="1-4">Vernieuwen</proposition>
+      </propositions>
+      <réponse proposition="1-4">Vernieuwen</réponse>
+      <anecdote>IJsberen kunnen snel te heet worden onder hun zeer dikke vacht en hun isolerende vetlaag.</anecdote>
+    </contenu>
+    <contenu id="2">
+      <question>In welk deel van het lichaam kunnen zeepaardjes zwemmen ?</question>
+      <propositions>
+        <proposition id="2-1">Hoofd</proposition>
+        <proposition id="2-2">Staart</proposition>
+        <proposition id="2-3">Rugvin</proposition>
+        <proposition id="2-4">Ventrale vin</proposition>
+      </propositions>
+      <réponse proposition="2-3">Rugvin</réponse>
+      <anecdote>Hoewel ze vis zijn, zwemmen zeepaardjes heel langzaam met golvende bewegingen.</anecdote>
+    </contenu>
+    <contenu id="3">
+      <question>Waarom kunnen we het geroep van de knuppel niet horen ?</question>
+      <propositions>
+        <proposition id="3-1">Te serieus</proposition>
+        <proposition id="3-2">Te zwak</proposition>
+        <proposition id="3-3">Te acuut</proposition>
+        <proposition id="3-4">Te sterk</proposition>
+      </propositions>
+      <réponse proposition="3-3">Te acuut</réponse>
+      <anecdote>De vleermuizen zenden en ontvangen echo's die ons oor niet kan waarnemen (max. 20.000 hertz).</anecdote>
+    </contenu>
+    <contenu id="4">
+      <question>Hoe heette de gigantische tridacne-schaal in veel kerken ?</question>
+      <propositions>
+        <proposition id="4-1">Kroonluchter</proposition>
+        <proposition id="4-2">Broodmand</proposition>
+        <proposition id="4-3">Trunk</proposition>
+        <proposition id="4-4">Betonier</proposition>
+      </propositions>
+      <réponse proposition="4-4">Betonier</réponse>
+      <anecdote>300 jaar geleden werden schelpen beschouwd als waardevolle voorwerpen en dienden ze als een voordeel bij de toegang tot kerken.</anecdote>
+    </contenu>
+    <contenu id="5">
+      <question>Welke zware en pijnlijke taak ligt bij de koningin der mieren ?</question>
+      <propositions>
+        <proposition id="5-1">Eieren leggen</proposition>
+        <proposition id="5-2">Verdedig het nest</proposition>
+        <proposition id="5-3">Dood de mannetjes</proposition>
+        <proposition id="5-4">Op zoek naar eten</proposition>
+      </propositions>
+      <réponse proposition="5-1">Eieren leggen</réponse>
+      <anecdote>De koningin is de enige mier in het nest die eieren uitbroedt, wat eigenlijk uitgebroede larven zijn waaruit de toekomstige mieren geboren zullen worden.</anecdote>
+    </contenu>
+    <contenu id="6">
+      <question>Wat houden lieveheersbeestjes vooral van eten ?</question>
+      <propositions>
+        <proposition id="6-1">Kristallen</proposition>
+        <proposition id="6-2">Bladluizen</proposition>
+        <proposition id="6-3">Elécces</proposition>
+        <proposition id="6-4">Bloemblaadjes</proposition>
+      </propositions>
+      <réponse proposition="6-2">Bladluizen</réponse>
+      <anecdote>Als bruikbare dieren worden lieveheersbeestjes opgevoed en vervolgens gebruikt om ecologisch ongedierte te bestrijden.</anecdote>
+    </contenu>
+    <contenu id="7">
+      <question>Waarom vechten de necrophores met elkaar ?</question>
+      <propositions>
+        <proposition id="7-1">Grondgebied</proposition>
+        <proposition id="7-2">Goud</proposition>
+        <proposition id="7-3">Vrouwtjes</proposition>
+        <proposition id="7-4">Corpses</proposition>
+      </propositions>
+      <réponse proposition="7-4">Corpses</réponse>
+      <anecdote>Een aantal necroforen begraven een dood dier in de grond en leggen daar eieren waarvan de larven worden gevoerd.</anecdote>
+    </contenu>
+    <contenu id="8">
+      <question>In wat voor soort omgeving moet een mijt leven ?</question>
+      <propositions>
+        <proposition id="8-1">Zonnig</proposition>
+        <proposition id="8-2">Nat</proposition>
+        <proposition id="8-3">Vet</proposition>
+        <proposition id="8-4">Sec</proposition>
+      </propositions>
+      <réponse proposition="8-2">Nat</réponse>
+      <anecdote>Zonder de mijten, die nestelen in onze matrassen maar vooral op vochtige plaatsen, zouden de bossen worden ondergedompeld in dode bladeren.</anecdote>
+    </contenu>
+    <contenu id="9">
+      <question>Uit welk deel van het lichaam van de slak kan de plant worden gesneden ?</question>
+      <propositions>
+        <proposition id="9-1">Paleis</proposition>
+        <proposition id="9-2">Taal</proposition>
+        <proposition id="9-3">Bras</proposition>
+        <proposition id="9-4">Tanden</proposition>
+      </propositions>
+      <réponse proposition="9-2">Taal</réponse>
+      <anecdote>Net als een dossier, groeit de trage tong van de slak de tere planten in kleine stukjes en verwijdert zo de jonge salades.</anecdote>
+    </contenu>
+    <contenu id="10">
+      <question>Wat laat de zwakste wolf zien na een strijd om de hiërarchie ?</question>
+      <propositions>
+        <proposition id="10-1">Zijn taal</proposition>
+        <proposition id="10-2">Zijn tanden</proposition>
+        <proposition id="10-3">Haar buik</proposition>
+        <proposition id="10-4">Zijn pik</proposition>
+      </propositions>
+      <réponse proposition="10-3">Haar buik</réponse>
+      <anecdote>De lagere wolf is dus niet gewond maar zal zich in de toekomst moeten onderwerpen aan de dominante partner, volgens hun uitgesproken hiërarchie.</anecdote>
+    </contenu>
+  </débutant>
+  <confirmé>
+    <contenu id="11">
+      <question>Wat is de meest voorkomende doodsoorzaak onder olifanten in vrijheid ?</question>
+      <propositions>
+        <proposition id="11-1">Ziekte</proposition>
+        <proposition id="11-2">Slijtage van tanden</proposition>
+        <proposition id="11-3">Bijten van slangen</proposition>
+        <proposition id="11-4">Gebroken trompet</proposition>
+      </propositions>
+      <réponse proposition="11-2">Slijtage van tanden</réponse>
+      <anecdote>Als de laatste kies is versleten door te kauwen, kan de olifant niet meer genoeg eten geven en sterft hij verdrietig van de honger.</anecdote>
+    </contenu>
+    <contenu id="12">
+      <question>Met welk deel van haar lichaam beweegt de mol zich onder de grond ?</question>
+      <propositions>
+        <proposition id="12-1">Ogen</proposition>
+        <proposition id="12-2">Vibrisses</proposition>
+        <proposition id="12-3">Oren</proposition>
+        <proposition id="12-4">Muilkorf</proposition>
+      </propositions>
+      <réponse proposition="12-2">Vibrisses</réponse>
+      <anecdote>De moedervogels oriënteren zich bijna uitsluitend door een soort snor te gebruiken en doden hun voedsel op deze manier.</anecdote>
+    </contenu>
+    <contenu id="13">
+      <question>Afgezien van het paard, met welk ander dier is de tapir verwant ?</question>
+      <propositions>
+        <proposition id="13-1">Varken</proposition>
+        <proposition id="13-2">Neushoorn</proposition>
+        <proposition id="13-3">Hamster</proposition>
+        <proposition id="13-4">Olifant</proposition>
+      </propositions>
+      <réponse proposition="13-2">Neushoorn</réponse>
+      <anecdote>De tapirs, van de familie van de hoefdieren, gebruiken hun slurfachtige hand en kunnen deze dus intrekken wanneer deze hen stoort.</anecdote>
+    </contenu>
+    <contenu id="14">
+      <question>Hoe beschermen duizendpoten zichzelf tegen hun roofdieren ?</question>
+      <propositions>
+        <proposition id="14-1">Door camouflage</proposition>
+        <proposition id="14-2">Door bij te bijten</proposition>
+        <proposition id="14-3">Schreeuwen</proposition>
+        <proposition id="14-4">Door hun geheimen</proposition>
+      </propositions>
+      <réponse proposition="14-4">Door hun geheimen</réponse>
+      <anecdote>In geval van gevaar zenden de duizendpoten een bijtende rode substantie uit naar de misselijkmakende geur die via klieren op hun ringen aanwezig is.</anecdote>
+    </contenu>
+    <contenu id="15">
+      <question>Welke dieren stelen vaak van hyena's de prooi waarop ze hebben gejaagd ?</question>
+      <propositions>
+        <proposition id="15-1">Lions</proposition>
+        <proposition id="15-2">Bewakers</proposition>
+        <proposition id="15-3">Buffalo</proposition>
+        <proposition id="15-4">Wildebeest</proposition>
+      </propositions>
+      <réponse proposition="15-1">Lions</réponse>
+      <anecdote>Hyena's jagen meestal in pakken van ongeveer veertig dieren, zoals zebra's of gnoes.</anecdote>
+    </contenu>
+    <contenu id="16">
+      <question>Hoeveel is er over de kleinste soort shrew bekend ?</question>
+      <propositions>
+        <proposition id="16-1">20 gram</proposition>
+        <proposition id="16-2">130 gram</proposition>
+        <proposition id="16-3">70 gram</proposition>
+        <proposition id="16-4">2 gram</proposition>
+      </propositions>
+      <réponse proposition="16-4">2 gram</réponse>
+      <anecdote>Onze lokale pygmee feeks is ongeveer twee keer zo groot en zwaarder dan deze eigenaardige garnaal.</anecdote>
+    </contenu>
+    <contenu id="17">
+      <question>Hoe markeert de lynx zijn territorium gewoonlijk ?</question>
+      <propositions>
+        <proposition id="17-1">Erecties</proposition>
+        <proposition id="17-2">Uitwerpselen</proposition>
+        <proposition id="17-3">Dode muizen</proposition>
+        <proposition id="17-4">Haar</proposition>
+      </propositions>
+      <réponse proposition="17-1">Erecties</réponse>
+      <anecdote>Naast het schuren gebruiken lynxen soms ook hun urine als geurvlek om hun gebied te definiëren.</anecdote>
+    </contenu>
+    <contenu id="18">
+      <question>Gesneden voor de race, hoe snel kan een hindernis lopen ?</question>
+      <propositions>
+        <proposition id="18-1">120 km / h</proposition>
+        <proposition id="18-2">150 km / h</proposition>
+        <proposition id="18-3">90 km / h</proposition>
+        <proposition id="18-4">60 km / h</proposition>
+      </propositions>
+      <réponse proposition="18-1">120 km / h</réponse>
+      <anecdote>Het snelste dier kan deze snelheid maar een paar honderd meter volhouden, waardoor de gazelles een kans krijgen.</anecdote>
+    </contenu>
+    <contenu id="19">
+      <question>Hoe beschermen sowbugs zichzelf tegen aanvallen ?</question>
+      <propositions>
+        <proposition id="19-1">Tijdens de vlucht</proposition>
+        <proposition id="19-2">Door het inpakken</proposition>
+        <proposition id="19-3">Door zichzelf te begraven</proposition>
+        <proposition id="19-4">Door weg te vliegen</proposition>
+      </propositions>
+      <réponse proposition="19-2">Door het inpakken</réponse>
+      <anecdote>Het lichaam van een pissebed, in dit geval onbeweeglijk, is samengesteld uit verschillende massieve ringen die herinneren aan het pantser van een ridder.</anecdote>
+    </contenu>
+    <contenu id="20">
+      <question>Welk dier is de grootste bekende vijand van het variabele mondstuk ?</question>
+      <propositions>
+        <proposition id="20-1">Aigle</proposition>
+        <proposition id="20-2">Bruine beer</proposition>
+        <proposition id="20-3">Renard</proposition>
+        <proposition id="20-4">Man</proposition>
+      </propositions>
+      <réponse proposition="20-4">Man</réponse>
+      <anecdote>Veel buizerden worden verpletterd door mensen als ze proberen om dode dieren te herstellen van snelwegen.</anecdote>
+    </contenu>
+  </confirmé>
+  <expert>
+    <contenu id="21">
+      <question>Na hoe lang krijgt een baby voor het eerst vlees ?</question>
+      <propositions>
+        <proposition id="21-1">Zes jaar</proposition>
+        <proposition id="21-2">Een maand</proposition>
+        <proposition id="21-3">Een jaar</proposition>
+        <proposition id="21-4">Zes maanden</proposition>
+      </propositions>
+      <réponse proposition="21-4">Zes maanden</réponse>
+      <anecdote>In de eerste zes maanden krijgen babytijgers die hun vader niet kennen, borstvoeding van hun moeder.</anecdote>
+    </contenu>
+    <contenu id="22">
+      <question>Hoeveel liter melk produceert een krachtige koeien elke dag ?</question>
+      <propositions>
+        <proposition id="22-1">15</proposition>
+        <proposition id="22-2">35</proposition>
+        <proposition id="22-3">5</proposition>
+        <proposition id="22-4">25</proposition>
+      </propositions>
+      <réponse proposition="22-2">35</réponse>
+      <anecdote>Deze zwaar uitgebuite koeien lijden het vaakst aan een ontsteking van de uiers en vereisen veel medicijnen.</anecdote>
+    </contenu>
+    <contenu id="23">
+      <question>Welke vitale functie kan de fennec verrassend missen ?</question>
+      <propositions>
+        <proposition id="23-1">Bekijk</proposition>
+        <proposition id="23-2">Eten</proposition>
+        <proposition id="23-3">drinken</proposition>
+        <proposition id="23-4">Slapen</proposition>
+      </propositions>
+      <réponse proposition="23-3">drinken</réponse>
+      <anecdote>De vloeistof die de fennec absorbeert dankzij zijn voedsel is voldoende voor hem en is daarom bewonderenswaardig aangepast aan het leven in de woestijn.</anecdote>
+    </contenu>
+    <contenu id="24">
+      <question>Wat is de grootste van de ara's onder de tot nu toe bekende papegaaien ?</question>
+      <propositions>
+        <proposition id="24-1">Ararauna</proposition>
+        <proposition id="24-2">Macao</proposition>
+        <proposition id="24-3">Chloroptera</proposition>
+        <proposition id="24-4">Hyacinthe</proposition>
+      </propositions>
+      <réponse proposition="24-4">Hyacinthe</réponse>
+      <anecdote>Deze papegaai van ongeveer 150 cm, inclusief staart, heeft een effen blauw verenkleed en leeft voornamelijk in Bolivia en Brazilië.</anecdote>
+    </contenu>
+    <contenu id="25">
+      <question>Hoeveel uur per dag is een gigantische panda in het algemeen druk met eten ?</question>
+      <propositions>
+        <proposition id="25-1">Acht</proposition>
+        <proposition id="25-2">Zestien</proposition>
+        <proposition id="25-3">Vier</proposition>
+        <proposition id="25-4">Twaalf</proposition>
+      </propositions>
+      <réponse proposition="25-2">Zestien</réponse>
+      <anecdote>De gigantische panda eet alleen jonge bamboescheuten, maar deze zijn niet erg voedzaam.</anecdote>
+    </contenu>
+    <contenu id="26">
+      <question>Hoe lang wordt een babyjongen borstvoeding gegeven door zijn moeder ?</question>
+      <propositions>
+        <proposition id="26-1">18 maanden</proposition>
+        <proposition id="26-2">1 jaar</proposition>
+        <proposition id="26-3">6 maanden</proposition>
+        <proposition id="26-4">1 maand</proposition>
+      </propositions>
+      <réponse proposition="26-1">18 maanden</réponse>
+      <anecdote>Na een periode van 12 maanden zwangerschap weegt de baby-walrus meer dan 50 kg en kan hij al na slechts twee weken zwemmen.</anecdote>
+    </contenu>
+    <contenu id="27">
+      <question>Waarom doden marters soms kippen ?</question>
+      <propositions>
+        <proposition id="27-1">Bloed</proposition>
+        <proposition id="27-2">Dijen</proposition>
+        <proposition id="27-3">Poten</proposition>
+        <proposition id="27-4">Lever</proposition>
+      </propositions>
+      <réponse proposition="27-1">Bloed</réponse>
+      <anecdote>Martens drinkt alleen bloed en laat de rest achter en eet liever konijnen, eieren, sla of insecten.</anecdote>
+    </contenu>
+    <contenu id="28">
+      <question>Waarop is de bel van de ratelslang gemaakt ?</question>
+      <propositions>
+        <proposition id="28-1">Hout</proposition>
+        <proposition id="28-2">Stenen</proposition>
+        <proposition id="28-3">Hoorn</proposition>
+        <proposition id="28-4">Kalksteen</proposition>
+      </propositions>
+      <réponse proposition="28-3">Hoorn</réponse>
+      <anecdote>De zes tot tien ringen van hoorn gelegen aan het einde van de staart van de ratelslang komen uit de vorige ruien.</anecdote>
+    </contenu>
+    <contenu id="29">
+      <question>In welk seizoen van het jaar kunnen we de uil horen gillen ?</question>
+      <propositions>
+        <proposition id="29-1">Lente</proposition>
+        <proposition id="29-2">Winter</proposition>
+        <proposition id="29-3">Herfst</proposition>
+        <proposition id="29-4">Zomer</proposition>
+      </propositions>
+      <réponse proposition="29-1">Lente</réponse>
+      <anecdote>De uil schreeuwt in april en mei om de aandacht van een vrouw te trekken die dan zijn hele leven trouw aan zijn zijde zal blijven.</anecdote>
+    </contenu>
+    <contenu id="30">
+      <question>Hoeveel pennen bestaat uit de vacht van de mannelijke egel ?</question>
+      <propositions>
+        <proposition id="30-1">4.000</proposition>
+        <proposition id="30-2">16.000</proposition>
+        <proposition id="30-3">8,000</proposition>
+        <proposition id="30-4">12.000</proposition>
+      </propositions>
+      <réponse proposition="30-2">16.000</réponse>
+      <anecdote>In geval van gevaar kan de egel zijn vele stekels zetten en zichzelf opkrullen om de vijanden te beschermen.</anecdote>
+    </contenu>
+  </expert>
+  </nl>          
+</quizz>

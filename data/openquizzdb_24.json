@@ -1,0 +1,2198 @@
+{
+	"fournisseur": "OpenQuizzDB - Fournisseur de contenu libre (www.openquizzdb.org)",
+	"rédacteur": "Philippe Bresoux",
+	"thème": "Châteaux et châteaux forts (Imprenables et majestueux)",
+	"difficulté": 5,
+	"quizz": {
+		"fr": [{
+			"débutant": [{
+					"id": 1,
+					"question": "Dans les jardins de quel château peut-on admirer une superbe orangerie ?",
+					"propositions": [
+						"Sceaux",
+						"Fontainebleau",
+						"Versailles",
+						"Chenonceau"
+					],
+					"réponse": "Versailles",
+					"anecdote": "L'orangerie abrite en hiver 1 500 arbustes en caisse, en majorité des orangers mais aussi des lauriers, des grenadiers ou des myrtes."
+				},
+				{
+					"id": 2,
+					"question": "Quel château fut la résidence d'été des papes installés en Avignon au XIVe siècle ?",
+					"propositions": [
+						"Château Margaux",
+						"Châteauneuf-du-Pape",
+						"Château Pétrus",
+						"Château Lafite"
+					],
+					"réponse": "Châteauneuf-du-Pape",
+					"anecdote": "Son lien avec la Papauté d'Avignon a fortement marqué Châteauneuf-du-Pape ainsi que la viticulture de la région."
+				},
+				{
+					"id": 3,
+					"question": "Au début du Moyen Âge, en quelle matière les premiers châteaux forts étaient-ils construits ?",
+					"propositions": [
+						"Fer",
+						"Pierres",
+						"Paille",
+						"Bois"
+					],
+					"réponse": "Bois",
+					"anecdote": "Le château fort est une innovation européenne apparue au IXe siècle après la chute de l'Empire carolingien."
+				},
+				{
+					"id": 4,
+					"question": "Comment appelle-t-on la plus haute tour d'un château fort ?",
+					"propositions": [
+						"Donjon",
+						"Bastille",
+						"Guette",
+						"Tour flanquante"
+					],
+					"réponse": "Donjon",
+					"anecdote": "Les premiers grands donjons à base rectangulaire en pierre sont apparus dans la vallée de la Loire."
+				},
+				{
+					"id": 5,
+					"question": "Comment appelle-t-on le fossé, généralement rempli d'eau, qui entoure un château fort ?",
+					"propositions": [
+						"Chemise",
+						"Douves",
+						"Contrescarpe",
+						"Latrines"
+					],
+					"réponse": "Douves",
+					"anecdote": "L'usage des engins de siège, comme les tours et les béliers, était alors rendu difficile voire impossible."
+				},
+				{
+					"id": 6,
+					"question": "Quelle petite ouverture pratiquée dans le mur des châteaux permettait d'observer l'ennemi ?",
+					"propositions": [
+						"Criminelle",
+						"Meurtrière",
+						"Bouchère",
+						"Egorgeuse"
+					],
+					"réponse": "Meurtrière",
+					"anecdote": "Ces meurtrières, ou archères, permettaient aussi de lancer des traits d'arbalète ou des flèches."
+				},
+				{
+					"id": 7,
+					"question": "Quelle partie du château abritait autrefois les appartements du seigneur ?",
+					"propositions": [
+						"Hourd",
+						"Parapet",
+						"Beffroi",
+						"Donjon"
+					],
+					"réponse": "Donjon",
+					"anecdote": "En temps de paix, le donjon renferme également les trésors, les armes et les archives de la famille."
+				},
+				{
+					"id": 8,
+					"question": "Quelle était la résidence favorite des Rois de France à la renaissance ?",
+					"propositions": [
+						"Blois",
+						"Amboise",
+						"Meudon",
+						"Fontainebleau"
+					],
+					"réponse": "Blois",
+					"anecdote": "Le château royal réunit autour d'une même cour un panorama de l'architecture française du Moyen Âge à l'époque classique."
+				},
+				{
+					"id": 9,
+					"question": "Qui fut l'architecte des jardins à la française du château de Vaux-le-Vicomte ?",
+					"propositions": [
+						"Charles Le Brun",
+						"André Le Nôtre",
+						"Pascal Cribier",
+						"Louis le Vau"
+					],
+					"réponse": "André Le Nôtre",
+					"anecdote": "André Le Nôtre a su se placer à l'écart des intrigues de la Cour et obtenir les bonnes grâces d'un roi passionné de jardins."
+				},
+				{
+					"id": 10,
+					"question": "Que trouve-t-on en général derrière le pont-levis d'un château ?",
+					"propositions": [
+						"Tourelle",
+						"Douves",
+						"Herse",
+						"Meurtrières"
+					],
+					"réponse": "Herse",
+					"anecdote": "Le bas de la herse est souvent garni de pointes pour décourager quiconque de tenter de passer en dessous alors qu'elle descend."
+				}
+			],
+			"confirmé": [{
+					"id": 11,
+					"question": "Dans quel département pouvez-vous visiter le château de Chenonceau, à l'allure très féminine ?",
+					"propositions": [
+						"Finistère",
+						"Dordogne",
+						"Vaucluse",
+						"Indre-et-Loire"
+					],
+					"réponse": "Indre-et-Loire",
+					"anecdote": "Le château de Chenonceau fait partie des châteaux communément appelés les châteaux de la Loire."
+				},
+				{
+					"id": 12,
+					"question": "Comment appelle-t-on une petite tour dans un château fort ?",
+					"propositions": [
+						"Tourine",
+						"Tourelle",
+						"Touronne",
+						"Tourette"
+					],
+					"réponse": "Tourelle",
+					"anecdote": "Les tourelles ou « tournelles » servaient de tour de guet, à la défense d'un point faible ou d'une poterne."
+				},
+				{
+					"id": 13,
+					"question": "Dans quel château est présumé être enterré Léonard de Vinci ?",
+					"propositions": [
+						"Amboise",
+						"Saumur",
+						"Blois",
+						"Sully-Sur-Loire"
+					],
+					"réponse": "Amboise",
+					"anecdote": "De Vinci développa des idées très en avance sur son temps, comme l'avion, l'hélicoptère, le sous-marin et l'automobile."
+				},
+				{
+					"id": 14,
+					"question": "Quel château est à la base la résidence de chasse de François 1<sup>er</sup> ?",
+					"propositions": [
+						"Blois",
+						"Chambord",
+						"Tours",
+						"Amboise"
+					],
+					"réponse": "Chambord",
+					"anecdote": "Le château de Chambord bénéficie d'un jardin d'agrément et d'un parc de chasse classés monuments historiques."
+				},
+				{
+					"id": 15,
+					"question": "De quel château Hergé s'est-il inspiré pour créer le château de Moulinsart ?",
+					"propositions": [
+						"Chaumont-Sur-Loire",
+						"Villandry",
+						"Cheverny",
+						"Langeais"
+					],
+					"réponse": "Cheverny",
+					"anecdote": "Le château, élevé dans un style très classique, a été dessiné par Jacques Bougier, architecte d'une partie du château de Blois."
+				},
+				{
+					"id": 16,
+					"question": "Près de quelle ville Louis XIV a-t-il fait construire sa future résidence ?",
+					"propositions": [
+						"Chambord",
+						"Fontainebleau",
+						"Versailles",
+						"Angers"
+					],
+					"réponse": "Versailles",
+					"anecdote": "Le roi et la cour y résidèrent de façon permanente de 1682 à 1789, à l'exception des années de la Régence de 1715 à 1723."
+				},
+				{
+					"id": 17,
+					"question": "Dans quelle ville peut-on visiter le château des ducs de Bretagne ?",
+					"propositions": [
+						"Brest",
+						"Rennes",
+						"Nantes",
+						"Angers"
+					],
+					"réponse": "Nantes",
+					"anecdote": "Devenu propriété de la ville de Nantes en 1915, le château est affecté à un usage touristique et muséal depuis 1924."
+				},
+				{
+					"id": 18,
+					"question": "Quel ensemble architectural médiéval appartient au patrimoine mondial de l'UNESCO ?",
+					"propositions": [
+						"Liverdun",
+						"Cité de Carcassonne",
+						"Yvoire",
+						"Fénétrange"
+					],
+					"réponse": "Cité de Carcassonne",
+					"anecdote": "Cette cité fortifiée doit sa renommée à sa double enceinte, atteignant près de 3 km de longueur et comportant 52 tours."
+				},
+				{
+					"id": 19,
+					"question": "Quel château ayant appartenu au Grand Condé au XVIIe siècle était un lieu de fêtes ?",
+					"propositions": [
+						"Versailles",
+						"Chenonceau",
+						"Chantilly",
+						"Fontainebleau"
+					],
+					"réponse": "Chantilly",
+					"anecdote": "Les jardins du château de Chantilly sont une des plus remarquables créations d'André Le Nôtre."
+				},
+				{
+					"id": 20,
+					"question": "Dans quelle ville de France se trouve le château d'Henri IV, classé monument historique ?",
+					"propositions": [
+						"Bordeaux",
+						"Mont-de-Marsan",
+						"Toulouse",
+						"Pau"
+					],
+					"réponse": "Pau",
+					"anecdote": "Le château de Pau porte en lui les marques tourmentées de l'histoire moderne, sous la figure bienveillante du « Vert galant »."
+				}
+			],
+			"expert": [{
+					"id": 21,
+					"question": "Quelles tours coiffées de toitures coniques sont caractéristiques du château médiéval ?",
+					"propositions": [
+						"Poivrières",
+						"Safranières",
+						"Pimentières",
+						"Salières"
+					],
+					"réponse": "Poivrières",
+					"anecdote": "La poivrière est une guérite de maçonnerie à toit conique placée en encorbellement à l'angle d'un bastion."
+				},
+				{
+					"id": 22,
+					"question": "Quelle petite porte dérobée est parfois pratiquée dans une muraille de château ?",
+					"propositions": [
+						"Herse",
+						"Escarpe",
+						"Bretèche",
+						"Poterne"
+					],
+					"réponse": "Poterne",
+					"anecdote": "Placée dans le bas des courtines, au niveau des fossés, elle était généralement sous la protection des meurtrières d'une tour proche."
+				},
+				{
+					"id": 23,
+					"question": "Quelle muraille relie deux tours en architecture militaire médiévale ?",
+					"propositions": [
+						"Courtine",
+						"Escarpe",
+						"Poterne",
+						"Herse"
+					],
+					"réponse": "Courtine",
+					"anecdote": "Dans l'architecture militaire bastionnée, une courtine est un rempart reliant deux bastions."
+				},
+				{
+					"id": 24,
+					"question": "Quelle structure de pierre placée au sommet d'une tour permet un tir fichant ?",
+					"propositions": [
+						"Gabion",
+						"Mâchicoulis",
+						"Bastillon",
+						"Merlon"
+					],
+					"réponse": "Mâchicoulis",
+					"anecdote": "Ce système de défense active, en remplacement des hourds, sert à jeter divers matériaux pour défendre le pied des fortifications."
+				},
+				{
+					"id": 25,
+					"question": "Quel palais possède le même nom qu'un pays du 'Seigneur des anneaux' de Tolkien ?",
+					"propositions": [
+						"Palais Moria",
+						"Palais Mordor",
+						"Palais Gondor",
+						"Palais Rohan"
+					],
+					"réponse": "Palais Rohan",
+					"anecdote": "Le palais abrite trois musées : le musée des arts décoratifs, le musée des beaux-arts et le musée archéologique."
+				},
+				{
+					"id": 26,
+					"question": "Dans la rade de quelle ville peut-on apercevoir le château d'If ?",
+					"propositions": [
+						"Marseille",
+						"Nantes",
+						"Nice",
+						"Toulon"
+					],
+					"réponse": "Marseille",
+					"anecdote": "Cette construction carrée de trois étages mesure 28 mètres sur chaque côté, flanquée de 3 tours et percées de larges embrasures."
+				},
+				{
+					"id": 27,
+					"question": "Quel château classé comprend trois donjons bâtis à trois époques différentes ?",
+					"propositions": [
+						"Caen",
+						"Olivet",
+						"Falaise",
+						"Vire"
+					],
+					"réponse": "Falaise",
+					"anecdote": "Les phases de construction sont clairement identifiables, chacun des donjons correspondant à une période bien distincte."
+				},
+				{
+					"id": 28,
+					"question": "Quel château est notamment composé de 17 tours édifiées sous le règne de Saint-Louis ?",
+					"propositions": [
+						"Falaise",
+						"Angers",
+						"Toulon",
+						"Rambures"
+					],
+					"réponse": "Angers",
+					"anecdote": "La forteresse, aussi appelé château des ducs d'Anjou, est édifiée sur un promontoire de schiste ardoisier qui domine la Maine."
+				},
+				{
+					"id": 29,
+					"question": "Quel château de la Somme est bâti presque entièrement en briques ?",
+					"propositions": [
+						"Folleville",
+						"Raincheval",
+						"Bertangles",
+						"Rambures"
+					],
+					"réponse": "Rambures",
+					"anecdote": "Le château de Rambures fut épargné par Louis XIII lors des ordonnances de Richelieu."
+				},
+				{
+					"id": 30,
+					"question": "Quel château de Mayenne composé de huit tours fut construit en seulement une année ?",
+					"propositions": [
+						"Fresnay",
+						"Lassay",
+						"Terchant",
+						"Courbeveille"
+					],
+					"réponse": "Lassay",
+					"anecdote": "Les 2 tours des angles sud-est et sud-ouest sont circulaires, tandis que les 6 autres s'arasent intérieurement avec le mur des courtines."
+				}
+			]
+		}],
+		"en": [{
+			"débutant": [{
+					"id": 1,
+					"question": "In the gardens of what castle can we admire a beautiful orangery ?",
+					"propositions": [
+						"Fontainebleau",
+						"Chenonceau",
+						"Versailles",
+						"Seals"
+					],
+					"réponse": "Versailles",
+					"anecdote": "The orangery shelters in winter 1,500 shrubs in box, in majority of the orange trees but also laurels, grenadiers or myrtles."
+				},
+				{
+					"id": 2,
+					"question": "What castle was the summer residence of the popes settled in Avignon in the 14th century ?",
+					"propositions": [
+						"Château Margaux",
+						"Château Pétrus",
+						"Châteauneuf-du-Pape",
+						"Château Lafite"
+					],
+					"réponse": "Châteauneuf-du-Pape",
+					"anecdote": "Its link with the Papacy of Avignon strongly influenced Châteauneuf-du-Pape and the viticulture of the region."
+				},
+				{
+					"id": 3,
+					"question": "At the beginning of the Middle Ages, in what subject were the first strong castles built ?",
+					"propositions": [
+						"Stones",
+						"Straw",
+						"Iron",
+						"Wood"
+					],
+					"réponse": "Wood",
+					"anecdote": "The castle is a European innovation that appeared in the 9th century after the fall of the Carolingian Empire."
+				},
+				{
+					"id": 4,
+					"question": "What is the highest tower of a castle called ?",
+					"propositions": [
+						"Bastille",
+						"Dungeon",
+						"Guette",
+						"Flanking Tower"
+					],
+					"réponse": "Dungeon",
+					"anecdote": "The first large rectangular stone dungeons appeared in the Loire Valley."
+				},
+				{
+					"id": 5,
+					"question": "What is the name of the ditch, usually filled with water, that surrounds a strong castle ?",
+					"propositions": [
+						"Contrescarpe",
+						"Latrines",
+						"Shirt",
+						"Douves"
+					],
+					"réponse": "Douves",
+					"anecdote": "The use of gears, such as towers and bullies, was then made difficult or impossible."
+				},
+				{
+					"id": 6,
+					"question": "What little opening practiced in the wall of castles made it possible to observe the enemy ?",
+					"propositions": [
+						"Criminal",
+						"Boucher",
+						"Murder",
+						"Egorgous"
+					],
+					"réponse": "Murder",
+					"anecdote": "These murderers, or arches, also allowed to launch crossbows or arrows."
+				},
+				{
+					"id": 7,
+					"question": "Which part of the castle once housed the lord's apartments ?",
+					"propositions": [
+						"Dungeon",
+						"Parapet",
+						"Hourd",
+						"Belfry"
+					],
+					"réponse": "Dungeon",
+					"anecdote": "In peacetime, the dungeon also houses the treasures, weapons and archives of the family."
+				},
+				{
+					"id": 8,
+					"question": "What was the favorite residence of the Kings of France at the Renaissance ?",
+					"propositions": [
+						"Fontainebleau",
+						"Meudon",
+						"Amboise",
+						"Blois"
+					],
+					"réponse": "Blois",
+					"anecdote": "The royal castle around a courtyard has a panorama of French architecture from the Middle Ages to the classical era."
+				},
+				{
+					"id": 9,
+					"question": "Who was the architect of the French gardens of Château de Vaux-le-Vicomte ?",
+					"propositions": [
+						"André Le Nôtre",
+						"Charles Le Brun",
+						"Louis le Vau",
+						"Pascal Cribier"
+					],
+					"réponse": "André Le Nôtre",
+					"anecdote": "André Le Nôtre knew how to get away from the intrigues of the Court and to obtain the good graces of a passionate king of gardens."
+				},
+				{
+					"id": 10,
+					"question": "What is generally found behind the drawbridge of a castle ?",
+					"propositions": [
+						"Turret",
+						"Douves",
+						"Harrow",
+						"Murderers"
+					],
+					"réponse": "Harrow",
+					"anecdote": "The bottom of the harrow is often filled with spikes to discourage anyone from trying to pass underneath as it descends."
+				}
+			],
+			"confirmé": [{
+					"id": 11,
+					"question": "In which department can you visit the chateau Chenonceau, looking very feminine ?",
+					"propositions": [
+						"Finistère",
+						"Indre-et-Loire",
+						"Dordogne",
+						"Vaucluse"
+					],
+					"réponse": "Indre-et-Loire",
+					"anecdote": "The chateau of Chenonceau is one of the chateaux commonly called the chateaux of the Loire."
+				},
+				{
+					"id": 12,
+					"question": "What is the name of a small tower in a castle ?",
+					"propositions": [
+						"Turret",
+						"Touronne",
+						"Tourine",
+						"Tourette"
+					],
+					"réponse": "Turret",
+					"anecdote": "Turrets served as a watchtower, defending a weak point or a postern."
+				},
+				{
+					"id": 13,
+					"question": "Which castle is presumed to be buried Leonardo da Vinci ?",
+					"propositions": [
+						"Saumur",
+						"Amboise",
+						"Sully-Sur-Loire",
+						"Blois"
+					],
+					"réponse": "Amboise",
+					"anecdote": "De Vinci developed ideas that were far ahead of his time, such as the airplane, the helicopter, the submarine and the automobile."
+				},
+				{
+					"id": 14,
+					"question": "What castle is at the base of the hunting residence of François 1er ?",
+					"propositions": [
+						"Amboise",
+						"Tours",
+						"Blois",
+						"Chambord"
+					],
+					"réponse": "Chambord",
+					"anecdote": "The chateau of Chambord benefits from a pleasure garden and a hunting park classified historical monuments."
+				},
+				{
+					"id": 15,
+					"question": "What castle was Hergé inspired to create the Moulinsart castle ?",
+					"propositions": [
+						"Langeais",
+						"Villandry",
+						"Chaumont-Sur-Loire",
+						"Cheverny"
+					],
+					"réponse": "Cheverny",
+					"anecdote": "The castle, raised in a very classical style, was designed by Jacques Bougier, architect of a part of the castle of Blois."
+				},
+				{
+					"id": 16,
+					"question": "Near which city did Louis XIV build his future residence ?",
+					"propositions": [
+						"Chambord",
+						"Versailles",
+						"Fontainebleau",
+						"Angers"
+					],
+					"réponse": "Versailles",
+					"anecdote": "The king and the court resided there permanently from 1682 to 1789, with the exception of the years of the Regency from 1715 to 1723."
+				},
+				{
+					"id": 17,
+					"question": "In which city can one visit the castle of the dukes of Brittany ?",
+					"propositions": [
+						"Rennes",
+						"Brest",
+						"Nantes",
+						"Angers"
+					],
+					"réponse": "Nantes",
+					"anecdote": "Became property of the city of Nantes in 1915, the castle has been used for tourism and museums since 1924."
+				},
+				{
+					"id": 18,
+					"question": "Which medieval architectural ensemble belongs to UNESCO World Heritage ?",
+					"propositions": [
+						"Quoted from Carcassonne",
+						"Liverdun",
+						"Fénétrange",
+						"Yvoire"
+					],
+					"réponse": "Quoted from Carcassonne",
+					"anecdote": "This fortified city owes its fame to its double enclosure, reaching nearly 3 km in length and having 52 towers."
+				},
+				{
+					"id": 19,
+					"question": "Which castle that belonged to the Grand Condé in the 17th century was a place of celebration ?",
+					"propositions": [
+						"Versailles",
+						"Chenonceau",
+						"Chantilly",
+						"Fontainebleau"
+					],
+					"réponse": "Chantilly",
+					"anecdote": "Chantilly Castle Gardens are one of the most remarkable creations of André Le Nôtre."
+				},
+				{
+					"id": 20,
+					"question": "In which city of France is the castle of Henri IV, classified as a historical monument ?",
+					"propositions": [
+						"Bordeaux",
+						"Toulouse",
+						"Pau",
+						"Mont-de-Marsan"
+					],
+					"réponse": "Pau",
+					"anecdote": "The castle of Pau carries within it the tormented marks of modern history, under the benevolent figure of the gallant green."
+				}
+			],
+			"expert": [{
+					"id": 21,
+					"question": "Which towers with conical roofs are characteristic of the medieval castle ?",
+					"propositions": [
+						"Safraniers",
+						"Saltworks",
+						"Pimentières",
+						"Peppers"
+					],
+					"réponse": "Peppers",
+					"anecdote": "The pepper is a masonry gutter with a conical roof placed at the corner of a bastion."
+				},
+				{
+					"id": 22,
+					"question": "What little decrepit door is sometimes practiced in a castle wall ?",
+					"propositions": [
+						"Harrow",
+						"Bretèche",
+						"Poterne",
+						"Escarpe"
+					],
+					"réponse": "Poterne",
+					"anecdote": "Placed in the bottom of the curtain walls, at the level of the ditches, she was generally under the protection of the murderers of a nearby tower."
+				},
+				{
+					"id": 23,
+					"question": "Which wall connects two towers in medieval military architecture ?",
+					"propositions": [
+						"Harrow",
+						"Escarpe",
+						"Poterne",
+						"Courtine"
+					],
+					"réponse": "Courtine",
+					"anecdote": "In bastioned military architecture, a curtain wall is a rampart connecting two bastions."
+				},
+				{
+					"id": 24,
+					"question": "Which stone structure placed at the top of a tower allows a fuse ?",
+					"propositions": [
+						"Machicolation",
+						"Bastillon",
+						"Gabion",
+						"Merlon"
+					],
+					"réponse": "Machicolation",
+					"anecdote": "This active defense system, replacing the hoardings, is used to throw various materials to defend the foot of the fortifications."
+				},
+				{
+					"id": 25,
+					"question": "Which palace has the same name as a country of Tolkien's 'Lord of the Rings' ?",
+					"propositions": [
+						"Moria Palace",
+						"Mordor Palace",
+						"Rohan Palace",
+						"Gondor Palace"
+					],
+					"réponse": "Rohan Palace",
+					"anecdote": "The palace houses three museums: the museum of decorative arts, the museum of fine arts and the archaeological museum."
+				},
+				{
+					"id": 26,
+					"question": "In the harbor of which city can you see the castle of If ?",
+					"propositions": [
+						"Marseille",
+						"Toulon",
+						"Nice",
+						"Nantes"
+					],
+					"réponse": "Marseille",
+					"anecdote": "This three-storey square construction measures 28 meters on each side, flanked by 3 towers and pierced by wide embrasures."
+				},
+				{
+					"id": 27,
+					"question": "Which classed castle includes three dungeons built at three different times ?",
+					"propositions": [
+						"Caen",
+						"Vire",
+						"Falaise",
+						"Olivet"
+					],
+					"réponse": "Falaise",
+					"anecdote": "The phases of construction are clearly identifiable, each dungeon corresponding to a distinct period."
+				},
+				{
+					"id": 28,
+					"question": "Which castle is composed of 17 towers erected under the reign of Saint-Louis ?",
+					"propositions": [
+						"Toulon",
+						"Angers",
+						"Falaise",
+						"Rambures"
+					],
+					"réponse": "Angers",
+					"anecdote": "The Fortress, also called the castle of the Dukes of Anjou, is erected on a promontory slate slate overlooking Maine."
+				},
+				{
+					"id": 29,
+					"question": "Which castle of the Somme is built almost entirely in bricks ?",
+					"propositions": [
+						"Bertangles",
+						"Rambures",
+						"Folleville",
+						"Raincheval"
+					],
+					"réponse": "Rambures",
+					"anecdote": "The castle of Rambures was spared by Louis XIII during the ordinances of Richelieu."
+				},
+				{
+					"id": 30,
+					"question": "What Mayenne castle with eight towers was built in just one year ?",
+					"propositions": [
+						"Terchant",
+						"Fresnay",
+						"Courbeveille",
+						"Lassay"
+					],
+					"réponse": "Lassay",
+					"anecdote": "The two towers of the south-east and south-west angles are circular, while the other six are flanked by the wall of the curtain walls."
+				}
+			]
+		}],
+		"de": [{
+			"débutant": [{
+					"id": 1,
+					"question": "In welchen Gärten können wir eine schöne Orangerie bewundern ?",
+					"propositions": [
+						"Chenonceau",
+						"Versailles",
+						"Dichtungen",
+						"Fontainebleau"
+					],
+					"réponse": "Versailles",
+					"anecdote": "In der Orangerie gibt es im Winter 1.500 Sträucher, hauptsächlich Orangenbäume, aber auch Lorbeer, Granatäpfel oder Myrte."
+				},
+				{
+					"id": 2,
+					"question": "Welches Schloss war im 14. Jahrhundert die Sommerresidenz der Päpste in Avignon ?",
+					"propositions": [
+						"Château Lafite",
+						"Château Pétrus",
+						"Château Margaux",
+						"Châteauneuf-du-Pape"
+					],
+					"réponse": "Châteauneuf-du-Pape",
+					"anecdote": "Seine Verbindung mit dem Papsttum von Avignon beeinflusste Châteauneuf-du-Pape und den Weinbau der Region stark."
+				},
+				{
+					"id": 3,
+					"question": "In welchem Material wurden zu Beginn des Mittelalters die ersten Burgen gebaut ?",
+					"propositions": [
+						"Eisen",
+						"Holz",
+						"Steine",
+						"Stroh"
+					],
+					"réponse": "Holz",
+					"anecdote": "Das Schloss ist eine europäische Neuerung, die im neunten Jahrhundert nach dem Fall des karolingischen Reiches entstand."
+				},
+				{
+					"id": 4,
+					"question": "Wie heißt der höchste Turm einer Burg ?",
+					"propositions": [
+						"Bastille",
+						"Flankierender Turm",
+						"Dungeon",
+						"Guette"
+					],
+					"réponse": "Dungeon",
+					"anecdote": "Die ersten großen rechteckigen Steindungeons tauchten im Loire-Tal auf."
+				},
+				{
+					"id": 5,
+					"question": "Wie heißt der Graben, der normalerweise mit Wasser gefüllt ist und eine starke Burg umgibt ?",
+					"propositions": [
+						"Latrinen",
+						"Verdoppelt",
+						"Contrescarpe",
+						"Shirt"
+					],
+					"réponse": "Verdoppelt",
+					"anecdote": "Die Verwendung von Zahnrädern wie Türmen und Schlägern wurde dann erschwert oder unmöglich gemacht."
+				},
+				{
+					"id": 6,
+					"question": "Welche kleine Öffnung in der Burgmauer machte es möglich, den Feind zu beobachten ?",
+					"propositions": [
+						"Krimineller",
+						"Egorgous",
+						"Boucher",
+						"Mord"
+					],
+					"réponse": "Mord",
+					"anecdote": "Diese Mörder oder Bögen durften auch Armbrüste oder Pfeile abfeuern."
+				},
+				{
+					"id": 7,
+					"question": "In welchem Teil des Schlosses befanden sich einst die Wohnungen des Lords ?",
+					"propositions": [
+						"Brüstung",
+						"Glockenturm",
+						"Dungeon",
+						"Hourd"
+					],
+					"réponse": "Dungeon",
+					"anecdote": "In Friedenszeiten beherbergt der Dungeon auch die Schätze, Waffen und Archive der Familie."
+				},
+				{
+					"id": 8,
+					"question": "Was war die bevorzugte Residenz der Könige von Frankreich in der Renaissance ?",
+					"propositions": [
+						"Amboise",
+						"Meudon",
+						"Blois",
+						"Fontainebleau"
+					],
+					"réponse": "Blois",
+					"anecdote": "Das königliche Schloss um einen Innenhof bietet ein Panorama französischer Architektur vom Mittelalter bis zur Klassik."
+				},
+				{
+					"id": 9,
+					"question": "Wer war der Architekt der französischen Gärten des Château de Vaux-le-Vicomte ?",
+					"propositions": [
+						"Pascal Cribier",
+						"André Le Nôtre",
+						"Louis le Vau",
+						"Charles Le Brun"
+					],
+					"réponse": "André Le Nôtre",
+					"anecdote": "André Le Nêtre verstand es, sich von den Intrigen des Hofes zu distanzieren und die Gnade eines leidenschaftlichen Gartenkönigs zu erlangen."
+				},
+				{
+					"id": 10,
+					"question": "Was ist in der Regel hinter der Zugbrücke eines Schlosses zu finden ?",
+					"propositions": [
+						"Egge",
+						"Verdoppelt",
+						"Mörder",
+						"Turm"
+					],
+					"réponse": "Egge",
+					"anecdote": "Der Boden der Egge ist oft mit Stacheln gefüllt, um jeden davon abzuhalten, beim Abstieg unter ihm vorbeizukommen."
+				}
+			],
+			"confirmé": [{
+					"id": 11,
+					"question": "In welcher Abteilung können Sie das Schloss Chenonceau besuchen, das sehr feminin aussieht ?",
+					"propositions": [
+						"Vaucluse",
+						"Finistère",
+						"Indre-et-Loire",
+						"Dordogne"
+					],
+					"réponse": "Indre-et-Loire",
+					"anecdote": "Das Schloss von Chenonceau ist eines der Schlösser der Loire."
+				},
+				{
+					"id": 12,
+					"question": "Wie heißt ein kleiner Turm in einer Burg ?",
+					"propositions": [
+						"Turm",
+						"Tourine",
+						"Tourette",
+						"Touronne"
+					],
+					"réponse": "Turm",
+					"anecdote": "Die Türmchen oder 'Tournelles' dienten als Wachturm, um einen schwachen Punkt oder ein Postern zu verteidigen."
+				},
+				{
+					"id": 13,
+					"question": "Welches Schloss soll Leonardo da Vinci begraben haben ?",
+					"propositions": [
+						"Saumur",
+						"Amboise",
+						"Sully-sur-Loire",
+						"Blois"
+					],
+					"réponse": "Amboise",
+					"anecdote": "De Vinci entwickelte Ideen, die seiner Zeit weit voraus waren, wie das Flugzeug, der Hubschrauber, das U-Boot und das Auto."
+				},
+				{
+					"id": 14,
+					"question": "Welches Schloss befindet sich am Fuß des Jagdschlosses von François 1er ?",
+					"propositions": [
+						"Touren",
+						"Amboise",
+						"Chambord",
+						"Blois"
+					],
+					"réponse": "Chambord",
+					"anecdote": "Das Schloss von Chambord verfügt über einen Vergnügungsgarten und einen Jagdpark, der unter Denkmalschutz steht."
+				},
+				{
+					"id": 15,
+					"question": "Welche Burg hat Hergé dazu inspiriert, die Burg Moulinsart zu schaffen ?",
+					"propositions": [
+						"Chaumont-Sur-Loire",
+						"Cheverny",
+						"Langeais",
+						"Villandry"
+					],
+					"réponse": "Cheverny",
+					"anecdote": "Das Schloss wurde im klassischen Stil erbaut und von Jacques Bougier, Architekt eines Teils des Schlosses von Blois, entworfen."
+				},
+				{
+					"id": 16,
+					"question": "In der Nähe von welcher Stadt baute Ludwig XIV. Seinen zukünftigen Wohnsitz ?",
+					"propositions": [
+						"Chambord",
+						"Versailles",
+						"Angers",
+						"Fontainebleau"
+					],
+					"réponse": "Versailles",
+					"anecdote": "König und Hof lebten dort von 1682 bis 1789 dauerhaft, mit Ausnahme der Jahre der Regentschaft von 1715 bis 1723."
+				},
+				{
+					"id": 17,
+					"question": "In welcher Stadt kann man das Schloss der Herzöge der Bretagne besichtigen ?",
+					"propositions": [
+						"Brest",
+						"Rennes",
+						"Angers",
+						"Nantes"
+					],
+					"réponse": "Nantes",
+					"anecdote": "Das Schloss wurde 1915 in den Besitz der Stadt Nantes und wird seit 1924 für Tourismus und Museen genutzt."
+				},
+				{
+					"id": 18,
+					"question": "Welches mittelalterliche Architekturensemble gehört zum UNESCO-Welterbe ?",
+					"propositions": [
+						"Zitiert aus Carcassonne",
+						"Fénétrange",
+						"Liverdun",
+						"Yvoire"
+					],
+					"réponse": "Zitiert aus Carcassonne",
+					"anecdote": "Diese Festungsstadt verdankt ihren Ruhm der doppelten Einfriedung, die fast 3 km lang ist und 52 Türme besitzt."
+				},
+				{
+					"id": 19,
+					"question": "Welche Burg, die im 17. Jahrhundert zum Grand Condé gehörte, war ein Ort der Feierlichkeiten ?",
+					"propositions": [
+						"Chenonceau",
+						"Chantilly",
+						"Versailles",
+						"Fontainebleau"
+					],
+					"réponse": "Chantilly",
+					"anecdote": "Die Gärten von Chantilly Castle sind eine der bemerkenswertesten Kreationen von André Le Nôtre."
+				},
+				{
+					"id": 20,
+					"question": "In welcher Stadt Frankreichs ist das Schloss von Henri IV als historisches Denkmal eingestuft ?",
+					"propositions": [
+						"Pau",
+						"Bordeaux",
+						"Toulouse",
+						"Mont-de-Marsan"
+					],
+					"réponse": "Pau",
+					"anecdote": "Die Burg von Pau trägt die gequälten Zeichen der modernen Geschichte unter der wohlwollenden Figur des 'galanten Grüns'."
+				}
+			],
+			"expert": [{
+					"id": 21,
+					"question": "Welche Türme mit konischen Dächern kennzeichnen die mittelalterliche Burg ?",
+					"propositions": [
+						"Safraniers",
+						"Pimentières",
+						"Paprikaschoten",
+						"Salinen"
+					],
+					"réponse": "Paprikaschoten",
+					"anecdote": "Der Pfeffer ist eine gemauerte Rinne mit einem konischen Dach an der Ecke einer Bastion."
+				},
+				{
+					"id": 22,
+					"question": "Welche kleine altersschwache Tür wird manchmal in einer Burgmauer geübt ?",
+					"propositions": [
+						"Egge",
+						"Bretèche",
+						"Poterne",
+						"Escarpe"
+					],
+					"réponse": "Poterne",
+					"anecdote": "Sie befand sich im unteren Bereich der Vorhangmauern auf Höhe der Gräben und stand im Allgemeinen unter dem Schutz der Mörder eines nahegelegenen Turms."
+				},
+				{
+					"id": 23,
+					"question": "Welche Mauer verbindet in der mittelalterlichen Militärarchitektur zwei Türme ?",
+					"propositions": [
+						"Egge",
+						"Courtine",
+						"Escarpe",
+						"Poterne"
+					],
+					"réponse": "Courtine",
+					"anecdote": "In der bastionierten Militärarchitektur ist eine Vorhangmauer ein Wall, der zwei Bastionen verbindet."
+				},
+				{
+					"id": 24,
+					"question": "Welche Steinstruktur, die oben auf einem Turm platziert ist, ermöglicht eine Sicherung ?",
+					"propositions": [
+						"Gabion",
+						"Merlon",
+						"Maschikuli",
+						"Bastillon"
+					],
+					"réponse": "Maschikuli",
+					"anecdote": "Dieses aktive Verteidigungssystem, das die Horten ersetzt, wird verwendet, um verschiedene Materialien zu werfen, um den Fuß der Befestigungsanlagen zu verteidigen."
+				},
+				{
+					"id": 25,
+					"question": "Welcher Palast hat den gleichen Namen wie ein Land von Tolkiens 'Herr der Ringe' ?",
+					"propositions": [
+						"Rohan Palace",
+						"Mordor Palace",
+						"Gondor Palace",
+						"Moria Palace"
+					],
+					"réponse": "Rohan Palace",
+					"anecdote": "Der Palast beherbergt drei Museen: das Museum für dekorative Kunst, das Kunstmuseum und das archäologische Museum."
+				},
+				{
+					"id": 26,
+					"question": "In welchem Hafen kann man die Burg von If sehen ?",
+					"propositions": [
+						"Toulon",
+						"Marseille",
+						"Nantes",
+						"Nizza"
+					],
+					"réponse": "Marseille",
+					"anecdote": "Diese dreigeschossige quadratische Konstruktion misst auf jeder Seite 28 Meter, wird von 3 Türmen flankiert und von breiten Einschnitten durchbohrt."
+				},
+				{
+					"id": 27,
+					"question": "Welches klassifizierte Schloss umfasst drei Dungeons, die zu drei verschiedenen Zeitpunkten gebaut wurden ?",
+					"propositions": [
+						"Falaise",
+						"Olivet",
+						"Vire",
+						"Caen"
+					],
+					"réponse": "Falaise",
+					"anecdote": "Die Bauphasen sind eindeutig identifizierbar, wobei jeder Dungeon einer bestimmten Periode entspricht."
+				},
+				{
+					"id": 28,
+					"question": "Welches Schloss besteht aus 17 Türmen, die unter der Herrschaft von Saint-Louis errichtet wurden ?",
+					"propositions": [
+						"Rambures",
+						"Falaise",
+						"Angers",
+						"Toulon"
+					],
+					"réponse": "Angers",
+					"anecdote": "Die Festung, auch die Burg der Herzöge von Anjou genannt, ist auf einem Schiefer errichtet, der Maine überragt."
+				},
+				{
+					"id": 29,
+					"question": "Welche Burg der Somme ist fast ausschließlich aus Ziegeln gebaut ?",
+					"propositions": [
+						"Bertangles",
+						"Raincheval",
+						"Rambures",
+						"Folleville"
+					],
+					"réponse": "Rambures",
+					"anecdote": "Die Burg von Rambures wurde von Ludwig XIII Während der Verordnungen von Richelieu verschont."
+				},
+				{
+					"id": 30,
+					"question": "Welche Mayenne-Burg mit acht Türmen wurde in nur einem Jahr gebaut ?",
+					"propositions": [
+						"Fresnay",
+						"Courbeveille",
+						"Terchant",
+						"Lassay"
+					],
+					"réponse": "Lassay",
+					"anecdote": "Die beiden Türme des Südost- und Südwestwinkels sind kreisförmig, während die anderen sechs von der Mauer der Vorhangmauern flankiert werden."
+				}
+			]
+		}],
+		"es": [{
+			"débutant": [{
+					"id": 1,
+					"question": "¿En los jardines de qué castillo podemos admirar un hermoso invernadero ?",
+					"propositions": [
+						"Fontainebleau",
+						"Sellos",
+						"Chenonceau",
+						"Versalles"
+					],
+					"réponse": "Versalles",
+					"anecdote": "El invernadero tiene 1,500 arbustos en la caja en invierno, en su mayoría naranjos, pero también laureles, granadas o mirto."
+				},
+				{
+					"id": 2,
+					"question": "¿Qué castillo fue la residencia de verano de los papas que se asentaron en Aviñón en el siglo XIV ?",
+					"propositions": [
+						"Château Margaux",
+						"Château Pétrus",
+						"Château Lafite",
+						"Châteauneuf-du-Pape"
+					],
+					"réponse": "Châteauneuf-du-Pape",
+					"anecdote": "Su vínculo con el papado de Aviñón tuvo una gran influencia en Châteauneuf-du-Pape y la viticultura de la región."
+				},
+				{
+					"id": 3,
+					"question": "Al comienzo de la Edad Media, ¿en qué tema se construyeron los primeros castillos fuertes ?",
+					"propositions": [
+						"Madera",
+						"Piedras",
+						"Paja",
+						"Hierro"
+					],
+					"réponse": "Madera",
+					"anecdote": "El castillo es una innovación europea que apareció en el siglo IX después de la caída del Imperio carolingio."
+				},
+				{
+					"id": 4,
+					"question": "¿Cómo se llama la torre más alta de un castillo ?",
+					"propositions": [
+						"Mazmorra",
+						"Guette",
+						"Bastille",
+						"Torre de flanqueo"
+					],
+					"réponse": "Mazmorra",
+					"anecdote": "Las primeras grandes mazmorras de piedra rectangulares aparecieron en el valle del Loira."
+				},
+				{
+					"id": 5,
+					"question": "¿Cuál es el nombre de la zanja, generalmente llena de agua, que rodea un castillo fuerte ?",
+					"propositions": [
+						"Douves",
+						"Letrinas",
+						"Contrescarpe",
+						"Camisa"
+					],
+					"réponse": "Douves",
+					"anecdote": "El uso de engranajes, como torres y matones, se hizo entonces difícil o imposible."
+				},
+				{
+					"id": 6,
+					"question": "¿Qué pequeña abertura practicada en la muralla de castillos hizo posible observar al enemigo ?",
+					"propositions": [
+						"Boucher",
+						"Criminal",
+						"Egorgous",
+						"Asesinato"
+					],
+					"réponse": "Asesinato",
+					"anecdote": "Estos asesinos, o arcos, también permitieron lanzar ballestas o flechas."
+				},
+				{
+					"id": 7,
+					"question": "¿Qué parte del castillo una vez albergó los apartamentos del señor ?",
+					"propositions": [
+						"Parapet",
+						"Mazmorra",
+						"Hourd",
+						"Campanario"
+					],
+					"réponse": "Mazmorra",
+					"anecdote": "En tiempos de paz, la mazmorra también alberga los tesoros, armas y archivos de la familia."
+				},
+				{
+					"id": 8,
+					"question": "¿Cuál fue la residencia favorita de los reyes de Francia en el Renacimiento ?",
+					"propositions": [
+						"Amboise",
+						"Fontainebleau",
+						"Meudon",
+						"Blois"
+					],
+					"réponse": "Blois",
+					"anecdote": "El castillo real alrededor de un patio tiene un panorama de la arquitectura francesa desde la Edad Media hasta la época clásica."
+				},
+				{
+					"id": 9,
+					"question": "¿Quién fue el arquitecto de los jardines franceses de Château de Vaux-le-Vicomte ?",
+					"propositions": [
+						"Charles Le Brun",
+						"Louis le Vau",
+						"André Le Nôtre",
+						"Pascal Cribier"
+					],
+					"réponse": "André Le Nôtre",
+					"anecdote": "André Le Nôtre supo alejarse de las intrigas de la Corte y obtener las buenas gracias de un apasionado rey de los jardines."
+				},
+				{
+					"id": 10,
+					"question": "¿Qué se encuentra generalmente detrás del puente levadizo de un castillo ?",
+					"propositions": [
+						"Douves",
+						"Asesinos",
+						"Harrow",
+						"Torreta"
+					],
+					"réponse": "Harrow",
+					"anecdote": "La parte inferior de la grada a menudo está llena de púas para desalentar a cualquiera de intentar pasar por debajo a medida que desciende."
+				}
+			],
+			"confirmé": [{
+					"id": 11,
+					"question": "¿En qué departamento puedes visitar el chateau chenonceau, con un aspecto muy femenino ?",
+					"propositions": [
+						"Vaucluse",
+						"Dordogne",
+						"Indre y Loira",
+						"Finistère"
+					],
+					"réponse": "Indre y Loira",
+					"anecdote": "El castillo de Chenonceau es uno de los castillos comúnmente llamados los castillos del Loira."
+				},
+				{
+					"id": 12,
+					"question": "¿Cómo se llama una pequeña torre en un castillo ?",
+					"propositions": [
+						"Tourine",
+						"Torreta",
+						"Tourette",
+						"Touronne"
+					],
+					"réponse": "Torreta",
+					"anecdote": "Las torrecillas o 'tournelles' sirvieron como una torre de vigilancia, en defensa de un punto débil o una postern."
+				},
+				{
+					"id": 13,
+					"question": "¿Qué castillo se presume que está enterrado Leonardo da Vinci ?",
+					"propositions": [
+						"Sully-Sur-Loire",
+						"Blois",
+						"Amboise",
+						"Saumur"
+					],
+					"réponse": "Amboise",
+					"anecdote": "De Vinci desarrolló ideas que estaban muy por delante de su tiempo, como el avión, el helicóptero, el submarino y el automóvil."
+				},
+				{
+					"id": 14,
+					"question": "¿Qué castillo está en la base de la residencia de caza de François 1er ?",
+					"propositions": [
+						"Excursiones",
+						"Amboise",
+						"Chambord",
+						"Blois"
+					],
+					"réponse": "Chambord",
+					"anecdote": "El castillo de Chambord cuenta con un jardín de recreo y un parque de caza clasificado como monumentos históricos."
+				},
+				{
+					"id": 15,
+					"question": "¿En qué castillo se inspiró Hergé para crear el castillo de Moulinsart ?",
+					"propositions": [
+						"Chaumont-Sur-Loire",
+						"Cheverny",
+						"Langeais",
+						"Villandry"
+					],
+					"réponse": "Cheverny",
+					"anecdote": "El castillo, levantado en un estilo muy clásico, fue diseñado por Jacques Bougier, arquitecto de una parte del castillo de Blois."
+				},
+				{
+					"id": 16,
+					"question": "¿Cerca de qué ciudad construyó Luis XIV su futura residencia ?",
+					"propositions": [
+						"Fontainebleau",
+						"Versalles",
+						"Chambord",
+						"Angers"
+					],
+					"réponse": "Versalles",
+					"anecdote": "El rey y la corte residieron allí permanentemente de 1682 a 1789, con la excepción de los años de la Regencia de 1715 a 1723."
+				},
+				{
+					"id": 17,
+					"question": "¿En qué ciudad se puede visitar el castillo de los duques de Bretaña ?",
+					"propositions": [
+						"Rennes",
+						"Nantes",
+						"Brest",
+						"Angers"
+					],
+					"réponse": "Nantes",
+					"anecdote": "Convertido en propiedad de la ciudad de Nantes en 1915, el castillo ha sido utilizado para turismo y museos desde 1924."
+				},
+				{
+					"id": 18,
+					"question": "¿Qué conjunto arquitectónico medieval pertenece al patrimonio mundial de la UNESCO ?",
+					"propositions": [
+						"Fénétrange",
+						"Yvoire",
+						"Liverdun",
+						"Citado de Carcassonne"
+					],
+					"réponse": "Citado de Carcassonne",
+					"anecdote": "Esta ciudad fortificada debe su fama a su doble recinto, con casi 3 km de longitud y 52 torres."
+				},
+				{
+					"id": 19,
+					"question": "¿Qué castillo que perteneció al Grand Condé en el siglo XVII fue un lugar de celebración ?",
+					"propositions": [
+						"Versalles",
+						"Chantilly",
+						"Fontainebleau",
+						"Chenonceau"
+					],
+					"réponse": "Chantilly",
+					"anecdote": "Los jardines del castillo de Chantilly son una de las creaciones más notables de André Le Nôtre."
+				},
+				{
+					"id": 20,
+					"question": "¿En qué ciudad de Francia se encuentra el castillo de Enrique IV, clasificado como monumento histórico ?",
+					"propositions": [
+						"Toulouse",
+						"Mont-de-Marsan",
+						"Burdeos",
+						"Pau"
+					],
+					"réponse": "Pau",
+					"anecdote": "El castillo de Pau lleva en su interior las marcas atormentadas de la historia moderna, bajo la figura benévola del 'verde galante'."
+				}
+			],
+			"expert": [{
+					"id": 21,
+					"question": "¿Qué torres con tejados cónicos son características del castillo medieval ?",
+					"propositions": [
+						"Pimientos",
+						"Pimentières",
+						"Salinas",
+						"Safraniers"
+					],
+					"réponse": "Pimientos",
+					"anecdote": "El pimiento es un canal de mampostería con un techo cónico colocado en la esquina de un bastión."
+				},
+				{
+					"id": 22,
+					"question": "¿Qué pequeña puerta decrépita se practica a veces en un muro del castillo ?",
+					"propositions": [
+						"Escarpe",
+						"Poterne",
+						"Harrow",
+						"Bretaña"
+					],
+					"réponse": "Poterne",
+					"anecdote": "Colocada en el fondo de los muros cortina, al nivel de las zanjas, estaba generalmente bajo la protección de los asesinos de una torre cercana."
+				},
+				{
+					"id": 23,
+					"question": "¿Qué muro conecta dos torres en la arquitectura militar medieval ?",
+					"propositions": [
+						"Harrow",
+						"Poterne",
+						"Escarpe",
+						"Courtine"
+					],
+					"réponse": "Courtine",
+					"anecdote": "En la arquitectura militar de bastión, un muro cortina es una muralla que conecta dos bastiones."
+				},
+				{
+					"id": 24,
+					"question": "¿Qué estructura de piedra colocada en la parte superior de una torre permite un fusible ?",
+					"propositions": [
+						"Matacán",
+						"Bastillon",
+						"Gaviones",
+						"Merlon"
+					],
+					"réponse": "Matacán",
+					"anecdote": "Este sistema de defensa activa, que reemplaza las vallas, se utiliza para lanzar varios materiales para defender el pie de las fortificaciones."
+				},
+				{
+					"id": 25,
+					"question": "¿Qué palacio tiene el mismo nombre que un país del 'Señor de los Anillos' de Tolkien ?",
+					"propositions": [
+						"Palacio Gondor",
+						"Palacio de moria",
+						"Palacio de Mordor",
+						"Palacio rohan"
+					],
+					"réponse": "Palacio rohan",
+					"anecdote": "El palacio alberga tres museos: el museo de artes decorativas, el museo de bellas artes y el museo arqueológico."
+				},
+				{
+					"id": 26,
+					"question": "En el puerto de qué ciudad se puede ver el castillo de If ?",
+					"propositions": [
+						"Marsella",
+						"Nantes",
+						"Toulon",
+						"Bonito"
+					],
+					"réponse": "Marsella",
+					"anecdote": "Esta construcción cuadrada de tres pisos mide 28 metros a cada lado, flanqueada por 3 torres y perforada por grandes garras."
+				},
+				{
+					"id": 27,
+					"question": "¿Qué castillo clasificado incluye tres mazmorras construidas en tres momentos diferentes ?",
+					"propositions": [
+						"Falaise",
+						"Olivet",
+						"Caen",
+						"Vire"
+					],
+					"réponse": "Falaise",
+					"anecdote": "Las fases de construcción son claramente identificables, y cada mazmorra corresponde a un período distinto."
+				},
+				{
+					"id": 28,
+					"question": "¿Qué castillo se compone de 17 torres erigidas bajo el reinado de Saint-Louis ?",
+					"propositions": [
+						"Angers",
+						"Toulon",
+						"Rambures",
+						"Falaise"
+					],
+					"réponse": "Angers",
+					"anecdote": "La fortaleza, también llamada el castillo de los duques de Anjou, se erige sobre una pizarra de promontorio que domina Maine."
+				},
+				{
+					"id": 29,
+					"question": "¿Qué castillo del Somme está construido casi en su totalidad en ladrillos ?",
+					"propositions": [
+						"Folleville",
+						"Raincheval",
+						"Bertangles",
+						"Rambures"
+					],
+					"réponse": "Rambures",
+					"anecdote": "El castillo de Rambures se salvó de Luis XIII durante las ordenanzas de Richelieu."
+				},
+				{
+					"id": 30,
+					"question": "¿Qué castillo de Mayenne con ocho torres fue construido en solo un año ?",
+					"propositions": [
+						"Fresnay",
+						"Lassay",
+						"Terchant",
+						"Courbeveille"
+					],
+					"réponse": "Lassay",
+					"anecdote": "Las dos torres de los ángulos sureste y suroeste son circulares, mientras que las otras seis están flanqueadas por el muro de los muros cortina."
+				}
+			]
+		}],
+		"it": [{
+			"débutant": [{
+					"id": 1,
+					"question": "Nei giardini di quale castello possiamo ammirare una bella limonaia ?",
+					"propositions": [
+						"Versailles",
+						"Fontainebleau",
+						"Chenonceau",
+						"Sigilli"
+					],
+					"réponse": "Versailles",
+					"anecdote": "L'Orangerie ha 1.500 arbusti nella scatola in inverno, principalmente aranci ma anche allori, melograni o mirto."
+				},
+				{
+					"id": 2,
+					"question": "Quale castello era la residenza estiva dei papi stabilitasi ad Avignone nel XIV secolo ?",
+					"propositions": [
+						"Château Margaux",
+						"Château Lafite",
+						"Châteauneuf-du-Pape",
+						"Château Pétrus"
+					],
+					"réponse": "Châteauneuf-du-Pape",
+					"anecdote": "Il suo legame con il Papato di Avignone ha fortemente influenzato Châteauneuf-du-Pape e la viticoltura della regione."
+				},
+				{
+					"id": 3,
+					"question": "All'inizio del Medioevo, in quale materia furono costruiti i primi castelli forti ?",
+					"propositions": [
+						"Ferro",
+						"Paglia",
+						"Pietre",
+						"Legno"
+					],
+					"réponse": "Legno",
+					"anecdote": "Il castello è un'innovazione europea apparsa nel IX secolo dopo la caduta dell'impero carolingio."
+				},
+				{
+					"id": 4,
+					"question": "Qual è la torre più alta di un castello chiamato ?",
+					"propositions": [
+						"Dungeon",
+						"Guette",
+						"Torre di Fianco",
+						"Bastiglia"
+					],
+					"réponse": "Dungeon",
+					"anecdote": "I primi grandi dungeon in pietra rettangolare apparvero nella Valle della Loira."
+				},
+				{
+					"id": 5,
+					"question": "Qual è il nome del fossato, di solito pieno d'acqua, che circonda un forte castello ?",
+					"propositions": [
+						"Contrescarpe",
+						"Latrine",
+						"Douves",
+						"Camicia"
+					],
+					"réponse": "Douves",
+					"anecdote": "L'uso di ingranaggi, come torri e bulli, è stato quindi reso difficile o impossibile."
+				},
+				{
+					"id": 6,
+					"question": "Quale piccola apertura praticata nel muro di castelli consentiva di osservare il nemico ?",
+					"propositions": [
+						"Omicidio",
+						"Egorgous",
+						"Criminale",
+						"Boucher"
+					],
+					"réponse": "Omicidio",
+					"anecdote": "Questi assassini, o archi, hanno anche permesso di lanciare balestre o frecce."
+				},
+				{
+					"id": 7,
+					"question": "Quale parte del castello ospitava gli appartamenti del signore ?",
+					"propositions": [
+						"Hourd",
+						"Parapetto",
+						"Dungeon",
+						"Campanile"
+					],
+					"réponse": "Dungeon",
+					"anecdote": "In tempo di pace, il dungeon ospita anche i tesori, le armi e gli archivi della famiglia."
+				},
+				{
+					"id": 8,
+					"question": "Qual era la residenza preferita dei re di Francia al Rinascimento ?",
+					"propositions": [
+						"Amboise",
+						"Fontainebleau",
+						"Blois",
+						"Meudon"
+					],
+					"réponse": "Blois",
+					"anecdote": "Il castello reale attorno a un cortile ha un panorama dell'architettura francese dal Medioevo all'era classica."
+				},
+				{
+					"id": 9,
+					"question": "Chi era l'architetto dei giardini francesi di Château de Vaux-le-Vicomte ?",
+					"propositions": [
+						"André Le Nôtre",
+						"Pascal Cribier",
+						"Louis le Vau",
+						"Charles Le Brun"
+					],
+					"réponse": "André Le Nôtre",
+					"anecdote": "André Le Nétre sapeva come mettersi a distanza dagli intrighi della Corte e ottenere le grazie di un re appassionato di giardini."
+				},
+				{
+					"id": 10,
+					"question": "Cosa si trova generalmente dietro il ponte levatoio di un castello ?",
+					"propositions": [
+						"Torretta",
+						"Erpice",
+						"Douves",
+						"Assassini"
+					],
+					"réponse": "Erpice",
+					"anecdote": "Il fondo dell'erpice è spesso pieno di punte per scoraggiare chiunque a cercare di passare sotto mentre scende."
+				}
+			],
+			"confirmé": [{
+					"id": 11,
+					"question": "In quale dipartimento puoi visitare il castello di Chenonceau, con un aspetto molto femminile ?",
+					"propositions": [
+						"Indre-et-Loire",
+						"Dordogne",
+						"Vaucluse",
+						"Finistère"
+					],
+					"réponse": "Indre-et-Loire",
+					"anecdote": "Il castello di Chenonceau è uno dei castelli comunemente chiamati i castelli della Loira."
+				},
+				{
+					"id": 12,
+					"question": "Come si chiama una piccola torre in un castello ?",
+					"propositions": [
+						"Tourette",
+						"Tourine",
+						"Torretta",
+						"Touronne"
+					],
+					"réponse": "Torretta",
+					"anecdote": "Le torrette o 'tournelles' fungevano da torre di avvistamento, in difesa di un punto debole o di una postern."
+				},
+				{
+					"id": 13,
+					"question": "Quale castello è presumibilmente sepolto Leonardo da Vinci ?",
+					"propositions": [
+						"Sully-Sur-Loire",
+						"Saumur",
+						"Blois",
+						"Amboise"
+					],
+					"réponse": "Amboise",
+					"anecdote": "De Vinci sviluppò idee che erano molto più avanti del suo tempo, come l'aeroplano, l'elicottero, il sottomarino e l'automobile."
+				},
+				{
+					"id": 14,
+					"question": "Quale castello è alla base della residenza di caccia di François 1er ?",
+					"propositions": [
+						"Tours",
+						"Blois",
+						"Chambord",
+						"Amboise"
+					],
+					"réponse": "Chambord",
+					"anecdote": "Il castello di Chambord beneficia di un giardino di piacere e un parco di caccia classificato monumenti storici."
+				},
+				{
+					"id": 15,
+					"question": "Quale castello fu ispirato da Hergé a creare il castello di Moulinsart ?",
+					"propositions": [
+						"Villandry",
+						"Cheverny",
+						"Chaumont-Sur-Loire",
+						"Langeais"
+					],
+					"réponse": "Cheverny",
+					"anecdote": "Il castello, costruito in uno stile molto classico, è stato progettato da Jacques Bougier, architetto di una parte del castello di Blois."
+				},
+				{
+					"id": 16,
+					"question": "Vicino a quale città Luigi XIV costruì la sua futura residenza ?",
+					"propositions": [
+						"Fontainebleau",
+						"Chambord",
+						"Versailles",
+						"Angers"
+					],
+					"réponse": "Versailles",
+					"anecdote": "Il re e la corte vi risiedevano permanentemente dal 1682 al 1789, ad eccezione degli anni della Reggenza dal 1715 al 1723."
+				},
+				{
+					"id": 17,
+					"question": "In quale città si può visitare il castello dei duchi di Bretagna ?",
+					"propositions": [
+						"Brest",
+						"Angers",
+						"Rennes",
+						"Nantes"
+					],
+					"réponse": "Nantes",
+					"anecdote": "Divenne proprietà della città di Nantes nel 1915, il castello è stato utilizzato per turismo e musei dal 1924."
+				},
+				{
+					"id": 18,
+					"question": "Quale complesso architettonico medievale appartiene al patrimonio mondiale dell'UNESCO ?",
+					"propositions": [
+						"Liverdun",
+						"Citato da Carcassonne",
+						"Fénétrange",
+						"Yvoire"
+					],
+					"réponse": "Citato da Carcassonne",
+					"anecdote": "Questa città fortificata deve la sua fama al suo doppio recinto, raggiungendo quasi 3 km di lunghezza e con 52 torri."
+				},
+				{
+					"id": 19,
+					"question": "Quale castello apparteneva al Grand Condé nel XVII secolo era un luogo di festa ?",
+					"propositions": [
+						"Chenonceau",
+						"Versailles",
+						"Chantilly",
+						"Fontainebleau"
+					],
+					"réponse": "Chantilly",
+					"anecdote": "I giardini del castello di Chantilly sono una delle creazioni più straordinarie di André Le Nôtre."
+				},
+				{
+					"id": 20,
+					"question": "In quale città della Francia si trova il castello di Enrico IV, classificato come monumento storico ?",
+					"propositions": [
+						"Bordeaux",
+						"Pau",
+						"Tolosa",
+						"Mont-de-Marsan"
+					],
+					"réponse": "Pau",
+					"anecdote": "Il castello di Pau porta in sé i segni tormentati della storia moderna, sotto la benevola figura del 'verde galante'."
+				}
+			],
+			"expert": [{
+					"id": 21,
+					"question": "Quali torri con tetti conici sono caratteristiche del castello medievale ?",
+					"propositions": [
+						"Peperoni",
+						"Pimentières",
+						"Safraniers",
+						"Saltworks"
+					],
+					"réponse": "Peperoni",
+					"anecdote": "Il pepe è una grondaia in muratura con un tetto conico posto all'angolo di un bastione."
+				},
+				{
+					"id": 22,
+					"question": "Quale piccola porta decrepita a volte viene praticata in un muro del castello ?",
+					"propositions": [
+						"Erpice",
+						"Escarpe",
+						"Bretèche",
+						"Poterne"
+					],
+					"réponse": "Poterne",
+					"anecdote": "Collocata sul fondo delle cortine, a livello dei fossati, era generalmente sotto la protezione degli assassini di una torre vicina."
+				},
+				{
+					"id": 23,
+					"question": "Quale muro collega due torri nell'architettura militare medievale ?",
+					"propositions": [
+						"Escarpe",
+						"Erpice",
+						"Poterne",
+						"Courtine"
+					],
+					"réponse": "Courtine",
+					"anecdote": "Nell'architettura militare bastionata, una cortina muraria è un bastione che collega due bastioni."
+				},
+				{
+					"id": 24,
+					"question": "Quale struttura di pietra posta nella parte superiore di una torre consente una miccia ?",
+					"propositions": [
+						"Gabion",
+						"Bastillon",
+						"Piombatoia",
+						"Merlon"
+					],
+					"réponse": "Piombatoia",
+					"anecdote": "Questo sistema di difesa attivo, che sostituisce i tabelloni, viene utilizzato per lanciare vari materiali per difendere il piede delle fortificazioni."
+				},
+				{
+					"id": 25,
+					"question": "Quale palazzo ha lo stesso nome di un paese del 'Signore degli Anelli' di Tolkien ?",
+					"propositions": [
+						"Palazzo di Gondor",
+						"Palazzo dei Rohan",
+						"Palazzo Mordor",
+						"Palazzo Moria"
+					],
+					"réponse": "Palazzo dei Rohan",
+					"anecdote": "Il palazzo ospita tre musei: il museo delle arti decorative, il museo delle belle arti e il museo archeologico."
+				},
+				{
+					"id": 26,
+					"question": "Nel porto di quale città puoi vedere il castello di If ?",
+					"propositions": [
+						"Nantes",
+						"Marsiglia",
+						"Tolone",
+						"Nizza"
+					],
+					"réponse": "Marsiglia",
+					"anecdote": "Questa costruzione quadrata a tre piani misura 28 metri per lato, fiancheggiata da 3 torri e forata da ampie feritoie."
+				},
+				{
+					"id": 27,
+					"question": "Quale castello classificato include tre dungeon costruiti in tre momenti diversi ?",
+					"propositions": [
+						"Vire",
+						"Olivet",
+						"Caen",
+						"Falaise"
+					],
+					"réponse": "Falaise",
+					"anecdote": "Le fasi di costruzione sono chiaramente identificabili, ogni dungeon corrisponde a un periodo distinto."
+				},
+				{
+					"id": 28,
+					"question": "Quale castello è composto da 17 torri erette sotto il regno di Saint-Louis ?",
+					"propositions": [
+						"Rambures",
+						"Angers",
+						"Falaise",
+						"Tolone"
+					],
+					"réponse": "Angers",
+					"anecdote": "La fortezza, chiamata anche il castello dei duchi di Angiò, è eretta su un ardesia di ardesia del promontorio che domina il Maine."
+				},
+				{
+					"id": 29,
+					"question": "Quale castello della Somme è costruito quasi interamente in mattoni ?",
+					"propositions": [
+						"Folleville",
+						"Rambures",
+						"Bertangles",
+						"Raincheval"
+					],
+					"réponse": "Rambures",
+					"anecdote": "Il castello di Rambures fu risparmiato da Luigi XIII durante le ordinanze di Richelieu."
+				},
+				{
+					"id": 30,
+					"question": "Quale castello di Mayenne con otto torri fu costruito in un solo anno ?",
+					"propositions": [
+						"Courbeveille",
+						"Fresnay",
+						"Terchant",
+						"Lassay"
+					],
+					"réponse": "Lassay",
+					"anecdote": "Le due torri degli angoli sud-est e sud-ovest sono circolari, mentre le altre sei sono fiancheggiate dal muro delle cortine."
+				}
+			]
+		}],
+		"nl": [{
+			"débutant": [{
+					"id": 1,
+					"question": "In de tuinen van welk kasteel kunnen we een prachtige oranjerie bewonderen ?",
+					"propositions": [
+						"Fontainebleau",
+						"Versailles",
+						"Zeehonden",
+						"Chenonceau"
+					],
+					"réponse": "Versailles",
+					"anecdote": "De Oranjerie heeft in de winter 1500 bosheesters, meestal sinaasappelbomen, maar ook lauweren, granaatappels of mirte."
+				},
+				{
+					"id": 2,
+					"question": "Welk kasteel was de zomerresidentie van de pausen die zich in de 14e eeuw in Avignon vestigden ?",
+					"propositions": [
+						"Châteauneuf-du-Pape",
+						"Château Lafite",
+						"Château Pétrus",
+						"Château Margaux"
+					],
+					"réponse": "Châteauneuf-du-Pape",
+					"anecdote": "De link met het pausdom van Avignon heeft de Châteauneuf-du-Pape en de wijnbouw van de regio sterk beïnvloed."
+				},
+				{
+					"id": 3,
+					"question": "Aan het begin van de Middeleeuwen, in welk onderwerp waren de eerste sterke kastelen gebouwd ?",
+					"propositions": [
+						"Straw",
+						"Hout",
+						"IJzer",
+						"Stenen"
+					],
+					"réponse": "Hout",
+					"anecdote": "Het kasteel is een Europese innovatie die verscheen in de 9e eeuw na de val van het Karolingische rijk."
+				},
+				{
+					"id": 4,
+					"question": "Wat is de hoogste toren van een kasteel genaamd ?",
+					"propositions": [
+						"Bastille",
+						"Kerker",
+						"Flankerende toren",
+						"Guette"
+					],
+					"réponse": "Kerker",
+					"anecdote": "De eerste grote rechthoekige stenen kerkers verschenen in de Loire-vallei."
+				},
+				{
+					"id": 5,
+					"question": "Hoe heet de sloot, meestal gevuld met water, die een sterk kasteel omringt ?",
+					"propositions": [
+						"Latrines",
+						"Contrescarpe",
+						"Overhemd",
+						"Douves"
+					],
+					"réponse": "Douves",
+					"anecdote": "Het gebruik van tandwielen, zoals torens en pesters, werd toen moeilijk of onmogelijk gemaakt."
+				},
+				{
+					"id": 6,
+					"question": "Welke kleine opening in de muur van kastelen maakte het mogelijk om de vijand te observeren ?",
+					"propositions": [
+						"Egorgous",
+						"Criminal",
+						"Boucher",
+						"Murder"
+					],
+					"réponse": "Murder",
+					"anecdote": "Deze moordenaars, of bogen, lieten ook kruisbogen of pijlen los."
+				},
+				{
+					"id": 7,
+					"question": "In welk deel van het kasteel waren ooit de appartementen van de heer gehuisvest ?",
+					"propositions": [
+						"Kerker",
+						"Parapet",
+						"Hourd",
+						"Belfort"
+					],
+					"réponse": "Kerker",
+					"anecdote": "In vredestijd herbergt de kerker ook de schatten, wapens en archieven van het gezin."
+				},
+				{
+					"id": 8,
+					"question": "Wat was de favoriete verblijfplaats van de koningen van Frankrijk in de Renaissance ?",
+					"propositions": [
+						"Amboise",
+						"Fontainebleau",
+						"Meudon",
+						"Blois"
+					],
+					"réponse": "Blois",
+					"anecdote": "Het koninklijke kasteel rond een binnenplaats heeft een panorama van de Franse architectuur vanaf de middeleeuwen tot het klassieke tijdperk."
+				},
+				{
+					"id": 9,
+					"question": "Wie was de architect van de Franse tuinen in het Château de Vaux-le-Vicomte ?",
+					"propositions": [
+						"André Le Nôtre",
+						"Pascal Cribier",
+						"Charles Le Brun",
+						"Louis le Vau"
+					],
+					"réponse": "André Le Nôtre",
+					"anecdote": "André Le Nôtre wist zich op afstand te houden van de intriges van het Hof en de goede genade te verkrijgen van een gepassioneerde koning der tuinen."
+				},
+				{
+					"id": 10,
+					"question": "Wat zit er meestal achter de ophaalbrug van een kasteel ?",
+					"propositions": [
+						"Harrow",
+						"Moordenaars",
+						"Douves",
+						"Turret"
+					],
+					"réponse": "Harrow",
+					"anecdote": "De bodem van de eg is vaak gevuld met spikes om te voorkomen dat iemand onderdoor probeert te passeren als deze afdaalt."
+				}
+			],
+			"confirmé": [{
+					"id": 11,
+					"question": "Op welke afdeling kunt u het kasteel Chenonceau bezoeken, met een zeer vrouwelijk uiterlijk ?",
+					"propositions": [
+						"Vaucluse",
+						"Dordogne",
+						"Indre-et-Loire",
+						"Finistère"
+					],
+					"réponse": "Indre-et-Loire",
+					"anecdote": "Het kasteel van Chenonceau is een van de kastelen die gewoonlijk de kastelen van de Loire worden genoemd."
+				},
+				{
+					"id": 12,
+					"question": "Wat is de naam van een kleine toren in een kasteel ?",
+					"propositions": [
+						"Tourine",
+						"Turret",
+						"Touronne",
+						"Tourette"
+					],
+					"réponse": "Turret",
+					"anecdote": "De torentjes of 'tournelles' dienden als wachttoren, ter verdediging van een zwak punt of een hek."
+				},
+				{
+					"id": 13,
+					"question": "Welk kasteel wordt vermoed begraven te worden Leonardo da Vinci ?",
+					"propositions": [
+						"Sully-Sur-Loire",
+						"Amboise",
+						"Blois",
+						"Saumur"
+					],
+					"réponse": "Amboise",
+					"anecdote": "De Vinci ontwikkelde ideeën die zijn tijd ver vooruit waren, zoals het vliegtuig, de helikopter, de onderzeeër en de auto."
+				},
+				{
+					"id": 14,
+					"question": "Welk kasteel ligt aan de voet van het jachthuis van François 1er ?",
+					"propositions": [
+						"Amboise",
+						"Rondleidingen",
+						"Blois",
+						"Chambord"
+					],
+					"réponse": "Chambord",
+					"anecdote": "Het kasteel van Chambord profiteert van een pleziertuin en een jachtpark met historische monumenten."
+				},
+				{
+					"id": 15,
+					"question": "Welk kasteel Hergé is geïnspireerd om het Château de Moulinsart te maken ?",
+					"propositions": [
+						"Chaumont-Sur-Loire",
+						"Langeais",
+						"Villandry",
+						"Cheverny"
+					],
+					"réponse": "Cheverny",
+					"anecdote": "Het kasteel, opgetrokken in een zeer klassieke stijl, werd ontworpen door Jacques Bougier, architect van een deel van het kasteel van Blois."
+				},
+				{
+					"id": 16,
+					"question": "In welke stad heeft Lodewijk XIV zijn toekomstige verblijfplaats gebouwd ?",
+					"propositions": [
+						"Fontainebleau",
+						"Angers",
+						"Chambord",
+						"Versailles"
+					],
+					"réponse": "Versailles",
+					"anecdote": "De koning en de rechtbank woonden daar permanent van 1682 tot 1789, met uitzondering van de jaren van de Regency van 1715 tot 1723."
+				},
+				{
+					"id": 17,
+					"question": "In welke stad kan men het kasteel van de hertogen van Bretagne bezoeken ?",
+					"propositions": [
+						"Angers",
+						"Nantes",
+						"Rennes",
+						"Brest"
+					],
+					"réponse": "Nantes",
+					"anecdote": "Werd eigendom van de stad Nantes in 1915, het kasteel wordt sinds 1924 gebruikt voor toerisme en musea."
+				},
+				{
+					"id": 18,
+					"question": "Welk middeleeuws architecturaal ensemble behoort tot het werelderfgoed van UNESCO ?",
+					"propositions": [
+						"Geciteerd uit Carcassonne",
+						"Liverdun",
+						"Yvoire",
+						"Fénétrange"
+					],
+					"réponse": "Geciteerd uit Carcassonne",
+					"anecdote": "Deze versterkte stad dankt zijn bekendheid aan zijn dubbele omheining, die bijna 3 km lang is en 52 torens heeft."
+				},
+				{
+					"id": 19,
+					"question": "Welk kasteel dat toebehoorde aan de Grand Condé in de 17e eeuw was een feestelijk festijn ?",
+					"propositions": [
+						"Fontainebleau",
+						"Chenonceau",
+						"Chantilly",
+						"Versailles"
+					],
+					"réponse": "Chantilly",
+					"anecdote": "Chantilly Castle Gardens zijn een van de meest opmerkelijke creaties van André Le Nôtre."
+				},
+				{
+					"id": 20,
+					"question": "In welke stad van Frankrijk is het kasteel van Henri IV, geclassificeerd als een historisch monument ?",
+					"propositions": [
+						"Toulouse",
+						"Bordeaux",
+						"Mont-de-Marsan",
+						"Pau"
+					],
+					"réponse": "Pau",
+					"anecdote": "Het kasteel van Pau draagt de gekwelde tekens van de moderne geschiedenis, onder de welwillende figuur van de 'dappere groene'."
+				}
+			],
+			"expert": [{
+					"id": 21,
+					"question": "Welke torens met kegelvormige daken zijn kenmerkend voor het middeleeuwse kasteel ?",
+					"propositions": [
+						"Zoutwerken",
+						"Peppers",
+						"Pimentières",
+						"Safraniers"
+					],
+					"réponse": "Peppers",
+					"anecdote": "De peper is een metselgoot met een kegelvormig dak geplaatst op de hoek van een bastion."
+				},
+				{
+					"id": 22,
+					"question": "Welke kleine afgeleefde deur wordt soms beoefend in een kasteelmuur ?",
+					"propositions": [
+						"Escarpe",
+						"Bretèche",
+						"Poterne",
+						"Harrow"
+					],
+					"réponse": "Poterne",
+					"anecdote": "Geplaatst op de bodem van de vliesgevels, ter hoogte van de sloten, bevond ze zich over het algemeen onder de bescherming van de moordenaars van een nabijgelegen toren."
+				},
+				{
+					"id": 23,
+					"question": "Welke muur verbindt twee torens in middeleeuwse militaire architectuur ?",
+					"propositions": [
+						"Poterne",
+						"Escarpe",
+						"Courtine",
+						"Harrow"
+					],
+					"réponse": "Courtine",
+					"anecdote": "In de gebastioneerde militaire architectuur is een vliesgevel een wal die twee bastions met elkaar verbindt."
+				},
+				{
+					"id": 24,
+					"question": "Welke stenen structuur op de top van een toren maakt een lont mogelijk ?",
+					"propositions": [
+						"Gabion",
+						"Bastillon",
+						"Mezekouw",
+						"Merlon"
+					],
+					"réponse": "Mezekouw",
+					"anecdote": "Dit actieve verdedigingssysteem, ter vervanging van de reclameborden, wordt gebruikt om verschillende materialen te gooien om de voet van de vestingwerken te verdedigen."
+				},
+				{
+					"id": 25,
+					"question": "Welk paleis heeft dezelfde naam als een land van Tolkiens 'Lord of the Rings' ?",
+					"propositions": [
+						"Rohan Palace",
+						"Gondor Palace",
+						"Moria Palace",
+						"Mordor Palace"
+					],
+					"réponse": "Rohan Palace",
+					"anecdote": "Het paleis herbergt drie musea: het museum voor decoratieve kunst, het museum voor schone kunsten en het archeologisch museum."
+				},
+				{
+					"id": 26,
+					"question": "In de haven van welke stad zie je het kasteel van If ?",
+					"propositions": [
+						"Toulon",
+						"Nantes",
+						"Nice",
+						"Marseille"
+					],
+					"réponse": "Marseille",
+					"anecdote": "Deze vierkante constructie met drie verdiepingen meet 28 meter aan elke kant, geflankeerd door 3 torens en doorboord door brede schietgaten."
+				},
+				{
+					"id": 27,
+					"question": "Welk kasteel telt drie kerkers die op drie verschillende tijden zijn gebouwd ?",
+					"propositions": [
+						"Caen",
+						"Olivet",
+						"Falaise",
+						"Vire"
+					],
+					"réponse": "Falaise",
+					"anecdote": "De fasen van de constructie zijn duidelijk herkenbaar, waarbij elke kerker overeenkomt met een bepaalde periode."
+				},
+				{
+					"id": 28,
+					"question": "Welk kasteel is samengesteld uit 17 torens die onder het bewind van Saint-Louis zijn opgetrokken ?",
+					"propositions": [
+						"Rambures",
+						"Angers",
+						"Falaise",
+						"Toulon"
+					],
+					"réponse": "Angers",
+					"anecdote": "Het fort, ook wel het kasteel van de hertogen van Anjou genoemd, is opgetrokken op een leisteen van leisteen met uitzicht op Maine."
+				},
+				{
+					"id": 29,
+					"question": "Welk kasteel van de Somme wordt bijna volledig in baksteen gebouwd ?",
+					"propositions": [
+						"Rambures",
+						"Bertangles",
+						"Raincheval",
+						"Folleville"
+					],
+					"réponse": "Rambures",
+					"anecdote": "Het kasteel van Rambures werd gespaard door Lodewijk XIII tijdens de verordeningen van Richelieu."
+				},
+				{
+					"id": 30,
+					"question": "Welk Mayenne-kasteel met acht torens werd gebouwd in slechts een jaar ?",
+					"propositions": [
+						"Terchant",
+						"Courbeveille",
+						"Fresnay",
+						"Lassay"
+					],
+					"réponse": "Lassay",
+					"anecdote": "De twee torens van de zuidoost- en zuidwesthoek zijn cirkelvormig, terwijl de andere zes worden geflankeerd door de wand van de vliesgevels."
+				}
+			]
+		}]
+	}
+}

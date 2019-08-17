@@ -1,0 +1,374 @@
+{
+  "fournisseur": "OpenQuizzDB - Fournisseur de contenu libre (www.openquizzdb.org)",
+  "rédacteur": "Philippe Bresoux",
+  "thème": "Musée du Louvre",
+  "difficulté": 4,
+  "quizz": {
+    "débutant": [
+      {
+        "id": 1,
+        "question": "Quel est le jour de fermeture du Musée du Louvre, situé au centre de Paris ?",
+        "propositions": [
+          "Le mardi",
+          "Le vendredi",
+          "Le mercredi",
+          "Le lundi"
+        ],
+        "réponse": "Le mardi",
+        "anecdote": "Le musée du Louvre est l'un des plus grands musées du monde, et le plus grand de Paris."
+      },
+      {
+        "id": 2,
+        "question": "Quand le Louvre est-il devenu un musée, le plus grand de Paris ?",
+        "propositions": [
+          "Au Moyen Âge",
+          "À la Révolution",
+          "Dès l'Antiquité",
+          "Sous Mitterrand"
+        ],
+        "réponse": "À la Révolution",
+        "anecdote": "Le musée du Louvre a pris naissance sous Louis XV mais n'aboutira véritablement qu'avec la Révolution."
+      },
+      {
+        "id": 3,
+        "question": "Que trouve-t-on sous le musée du Louvre, dans le 1er arrondissement de Paris ?",
+        "propositions": [
+          "Une bibliothèque",
+          "Une piscine",
+          "Une galerie",
+          "Un parc"
+        ],
+        "réponse": "Une galerie",
+        "anecdote": "Le Louvre est le musée le plus visité au monde, et le site culturel payant le plus visité de France."
+      },
+      {
+        "id": 4,
+        "question": "Quel métier fut exercé au Louvre par Jean-François Champollion ?",
+        "propositions": [
+          "Surveillant",
+          "Conservateur",
+          "Architecte",
+          "Archéologue"
+        ],
+        "réponse": "Conservateur",
+        "anecdote": "Considéré comme le père de l'égyptologie, Champollion fut le premier à déchiffrer les hiéroglyphes."
+      },
+      {
+        "id": 5,
+        "question": "Comment était utilisé le Louvre à sa construction en 1190 ?",
+        "propositions": [
+          "En ferme",
+          "En forteresse",
+          "En musée",
+          "En bureau"
+        ],
+        "réponse": "En forteresse",
+        "anecdote": "C'est en voulant renforcer la défense de Paris que Philippe Auguste entreprît de faire construire une enceinte."
+      },
+      {
+        "id": 6,
+        "question": "Lequel de ces célèbres personnages de jeu vidéo a évolué au Louvre ?",
+        "propositions": [
+          "Solid Snake",
+          "Lara Croft",
+          "Gordon Freeman",
+          "Sonic"
+        ],
+        "réponse": "Lara Croft",
+        "anecdote": "'Tomb Raider : l'Ange des ténèbres' est le sixième épisode de la série 'Tomb Raider'."
+      },
+      {
+        "id": 7,
+        "question": "En quoi est construite la Pyramide du Louvre, située au milieu de la cour Napoléon du musée ?",
+        "propositions": [
+          "En pierre",
+          "En verre",
+          "En carton",
+          "En bois"
+        ],
+        "réponse": "En verre",
+        "anecdote": "La Pyramide du Louvre est située au milieu de la cour Napoléon du musée du Louvre à Paris."
+      },
+      {
+        "id": 8,
+        "question": "Combien de panneaux de verre composent la Pyramide du Louvre ?",
+        "propositions": [
+          "832",
+          "673",
+          "427",
+          "1 044"
+        ],
+        "réponse": "673",
+        "anecdote": "Commandée par François Mitterrand en 1983, la pyramide a été conçue par l'architecte sino-américain Ieoh Ming Pei."
+      },
+      {
+        "id": 9,
+        "question": "Au Louvre, quelles uvres sont exposées dans les Cours Marly et Puget ?",
+        "propositions": [
+          "Des tableaux",
+          "Des momies",
+          "Des croquis",
+          "Des sculptures"
+        ],
+        "réponse": "Des sculptures",
+        "anecdote": "À ses débuts, le musée n'exposait que des sculptures antiques, à lexception de deux statues de Michel-Ange."
+      },
+      {
+        "id": 10,
+        "question": "Que ne peut-on pas faire dans le Carrousel du Louvre ?",
+        "propositions": [
+          "Photographier",
+          "Manger",
+          "Acheter",
+          "Nager"
+        ],
+        "réponse": "Nager",
+        "anecdote": "Le carrousel du Louvre, géré par la société Viparis, fait référence à la place du Carrousel toute proche."
+      }
+    ],
+    "confirmé": [
+      {
+        "id": 11,
+        "question": "Quel artiste a peint 'L'Embarquement d'Ulysse' en 1646 ?",
+        "propositions": [
+          "Le Limousin",
+          "Le Parisien",
+          "Le Lorrain",
+          "Le Lyonnais"
+        ],
+        "réponse": "Le Lorrain",
+        "anecdote": "Claude Gellée, dit « le Lorrain, est un peintre lorrain, figure emblématique du paysage de style classique."
+      },
+      {
+        "id": 12,
+        "question": "Quelle écriture est-il possible de déchiffrer sur la Stèle de Minnakht ?",
+        "propositions": [
+          "Du cunéiforme",
+          "Des hiéroglyphes",
+          "Du chinois",
+          "Du grec"
+        ],
+        "réponse": "Des hiéroglyphes",
+        "anecdote": "Faite de calcaire, la stèle trouvée à Akhmîm mesure 1,48 mètre par 0,89 mètre."
+      },
+      {
+        "id": 13,
+        "question": "Quel autre musée se cache dans les bâtiments du Louvre ?",
+        "propositions": [
+          "Sciences",
+          "Arts décoratifs",
+          "Renaissance",
+          "Italien"
+        ],
+        "réponse": "Arts décoratifs",
+        "anecdote": "Les Arts décoratifs sont nés de l'école royale gratuite de dessin créée en 1766 par Jean-Jacques Bachelier."
+      },
+      {
+        "id": 14,
+        "question": "Combien le musée du Louvre possède-t-il de tableaux de Léonard de Vinci ?",
+        "propositions": [
+          "34",
+          "5",
+          "16",
+          "22"
+        ],
+        "réponse": "5",
+        "anecdote": "Léonard de Vinci est souvent décrit comme l'archétype et le symbole de l'homme de la Renaissance."
+      },
+      {
+        "id": 15,
+        "question": "Qui a peint une uvre représentant dipe répondant à l'énigme du sphinx ?",
+        "propositions": [
+          "Van Eyck",
+          "Degas",
+          "Ingres",
+          "Poussin"
+        ],
+        "réponse": "Ingres",
+        "anecdote": "'dipe explique l'énigme du sphinx' a été légué en 1878 au musée du Louvre par la comtesse Duchâtel."
+      },
+      {
+        "id": 16,
+        "question": "Quelle exposition annuelle présentait au Louvre les artistes officiels ?",
+        "propositions": [
+          "La Crèche",
+          "La Vente",
+          "La Biennale",
+          "Le Salon"
+        ],
+        "réponse": "Le Salon",
+        "anecdote": "La manifestation, orthographiée initialement « Sallon », fut organisée par l'Académie à partir de 1737."
+      },
+      {
+        "id": 17,
+        "question": "Que peut-on voir depuis le passage Richelieu en regardant vers le Louvre ?",
+        "propositions": [
+          "Des tableaux",
+          "Des tombes",
+          "Des sculptures",
+          "Des dessins"
+        ],
+        "réponse": "Des sculptures",
+        "anecdote": "Le passage Richelieu est ouvert jusqu'à 18h30 les soirs de nocturne, 17h30 les autres jours."
+      },
+      {
+        "id": 18,
+        "question": "Combien peut-on environ monter de marches d'escaliers au Musée du Louvre ?",
+        "propositions": [
+          "5 000",
+          "15 000",
+          "10 000",
+          "20 000"
+        ],
+        "réponse": "10 000",
+        "anecdote": "Musée universaliste, le Louvre couvre une chronologie et une aire géographique étendues, depuis l'Antiquité jusqu'à 1848."
+      },
+      {
+        "id": 19,
+        "question": "Dans quelle ville se situeront les futures réserves du Louvre ?",
+        "propositions": [
+          "Lyon",
+          "Bruxelles",
+          "Lievin",
+          "Pau"
+        ],
+        "réponse": "Lievin",
+        "anecdote": "Les critères du projet sont de construire un bâtiment pouvant accueillir qualitativement 250 000 uvres."
+      },
+      {
+        "id": 20,
+        "question": "Combien de carats composent le Régent, célèbre diamant du Musée du Louvre ?",
+        "propositions": [
+          "210 carats",
+          "300 carats",
+          "140 carats",
+          "60 carats"
+        ],
+        "réponse": "140 carats",
+        "anecdote": "Le Régent est considéré comme l'une des pierres précieuses les plus remarquables de la Couronne de France."
+      }
+    ],
+    "expert": [
+      {
+        "id": 21,
+        "question": "Quelle est l'origine de la présence au Louvre des 'Noces de Cana' de Véronèse ?",
+        "propositions": [
+          "Un cadeau",
+          "Un achat",
+          "Un pillage",
+          "Un oubli"
+        ],
+        "réponse": "Un pillage",
+        "anecdote": "Les 'Noces de Cana' est actuellement exposé au musée du Louvre, faisant face à la Joconde de Léonard de Vinci."
+      },
+      {
+        "id": 22,
+        "question": "En principe, le musée du Louvre ne conserve que des uvres datant d'avant quelle date ?",
+        "propositions": [
+          "1701",
+          "1848",
+          "1940",
+          "1683"
+        ],
+        "réponse": "1848",
+        "anecdote": "Avec ses 460 000 uvres, le Louvre présente l'art occidental du Moyen Âge à 1848."
+      },
+      {
+        "id": 23,
+        "question": "Dans quel département du Louvre peut-on voir 'Les Oiseaux' de Braque ?",
+        "propositions": [
+          "Contemporain",
+          "Étrusque",
+          "Peinture",
+          "Objets d'art"
+        ],
+        "réponse": "Étrusque",
+        "anecdote": "C'est dans la salle Henri II du pavillon Sully du Louvre que se trouvent les antiquités étrusques."
+      },
+      {
+        "id": 24,
+        "question": "Quelle église fait face au Musée du Louvre, avec son porche gothique flamboyant à cinq baies ?",
+        "propositions": [
+          "St Titien",
+          "St Léonard",
+          "St Germain",
+          "Notre-Dame"
+        ],
+        "réponse": "St Germain",
+        "anecdote": "La majeure partie du quartier Saint-Germain-l'Auxerrois est occupée par le palais du Louvre et les jardins des Tuileries."
+      },
+      {
+        "id": 25,
+        "question": "De quel pays viennent les grands taureaux barbus présentés au Louvre ?",
+        "propositions": [
+          "Irak",
+          "Chili",
+          "Égypte",
+          "Allemagne"
+        ],
+        "réponse": "Irak",
+        "anecdote": "Des génies protecteurs, taureaux ailés à tête humaine, étaient les gardiens de certaines portes de la ville et du palais."
+      },
+      {
+        "id": 26,
+        "question": "Comment appelle-t-on un portrait peint sur un support de format circulaire ?",
+        "propositions": [
+          "Un uno",
+          "Un tondo",
+          "Une roue",
+          "Un oval"
+        ],
+        "réponse": "Un tondo",
+        "anecdote": "Depuis l'Antiquité, le cercle, la sphère et le disque renvoient à l'idée de perfection."
+      },
+      {
+        "id": 27,
+        "question": "Quel martyr plein de flèches a été peint par Andrea Mantegna vers 1480 ?",
+        "propositions": [
+          "Jésus",
+          "Judas",
+          "Saint Louis",
+          "Saint Sébastien"
+        ],
+        "réponse": "Saint Sébastien",
+        "anecdote": "Lors de son long séjour à Mantoue, Mantegna résidait près de léglise dédiée à saint Sébastien."
+      },
+      {
+        "id": 28,
+        "question": "Quel artisan, très présent au Louvre, a donné son nom à une école d'ameublement parisienne ?",
+        "propositions": [
+          "Boulle",
+          "Billard",
+          "Bill",
+          "Billot"
+        ],
+        "réponse": "Boulle",
+        "anecdote": "Ébéniste du roi, André-Charles Boulle fut le premier de son temps à appliquer du bronze doré à l'ébénisterie."
+      },
+      {
+        "id": 29,
+        "question": "Qui a peint un portrait de Mary Cassatt intitulé 'La Visite au Louvre' ?",
+        "propositions": [
+          "Monet",
+          "Picasso",
+          "Pissaro",
+          "Degas"
+        ],
+        "réponse": "Degas",
+        "anecdote": "Après son baccalauréat en 1853, Edgar Degas passa ses journées au Louvre où il fut admis comme « copiste »."
+      },
+      {
+        "id": 30,
+        "question": "De quelle origine est 'L'ivoire Barberini', chef duvre du Musée du Louvre ?",
+        "propositions": [
+          "Bouddhiste",
+          "Byzantine",
+          "Islamique",
+          "Étrusque"
+        ],
+        "réponse": "Byzantine",
+        "anecdote": "'L'ivoire Barberini' est un feuillet d'ivoire composé de quatre plaques sculptées dans le style classicisant dit théodosien tardif."
+      }
+    ]
+  }
+}

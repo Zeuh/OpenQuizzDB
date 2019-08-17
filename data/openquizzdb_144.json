@@ -1,0 +1,374 @@
+{
+  "fournisseur": "OpenQuizzDB - Fournisseur de contenu libre (www.openquizzdb.org)",
+  "rédacteur": "Philippe Bresoux",
+  "thème": "Boxe",
+  "difficulté": 2,
+  "quizz": {
+    "débutant": [
+      {
+        "id": 1,
+        "question": "De quelle série de six films un champion de boxe est-il la vedette ?",
+        "propositions": [
+          "Rambo",
+          "Ritchie",
+          "Randy",
+          "Rocky"
+        ],
+        "réponse": "Rocky",
+        "anecdote": "Le thème du film 'Rocky' est très largement inspiré du célèbre combat entre Mohamed Ali et Chuck Wepner."
+      },
+      {
+        "id": 2,
+        "question": "Des suites de quelle maladie le boxeur Tommy Morrison dut-il se retirer du circuit ?",
+        "propositions": [
+          "La grippe",
+          "La mononucléose",
+          "Le sida",
+          "Le cancer"
+        ],
+        "réponse": "Le sida",
+        "anecdote": "On attribue parfois à Tommy Morrison un lien de parenté avec l'acteur John Wayne, dont le vrai nom est Marion Robert Morrison."
+      },
+      {
+        "id": 3,
+        "question": "Quel boxeur est le seul à avoir jamais remporté un titre mondial à tout juste 20 ans ?",
+        "propositions": [
+          "Trevor Berbick",
+          "James Smith",
+          "Tony Tucker",
+          "Mike Tyson"
+        ],
+        "réponse": "Mike Tyson",
+        "anecdote": "Mike Tyson, surnommé « Kid Dynamite » ou « Iron Mike », a marqué l'histoire de la boxe par son parcours hors du commun."
+      },
+      {
+        "id": 4,
+        "question": "En boxe, quel emplacement de forme carrée est délimité par des cordes ?",
+        "propositions": [
+          "Le green",
+          "Le court",
+          "Le podium",
+          "Le ring"
+        ],
+        "réponse": "Le ring",
+        "anecdote": "Compte tenu du grand nombre d'organisations internationales, les dimensions dun ring de boxe peuvent sensiblement varier."
+      },
+      {
+        "id": 5,
+        "question": "Combien de temps dure un round de boxe chez les hommes ?",
+        "propositions": [
+          "Quatre minutes",
+          "Cinq minutes",
+          "Deux minutes",
+          "Trois minutes"
+        ],
+        "réponse": "Trois minutes",
+        "anecdote": "Les boxeurs professionnels s'affrontent en 4 rounds de 3 minutes et jusqu'à 12 rounds de 3 minutes lorsqu'un titre est en jeu."
+      },
+      {
+        "id": 6,
+        "question": "En boxe, que jette-t-on pour signifier l'abandon dun match ?",
+        "propositions": [
+          "Une ceinture",
+          "Un gant",
+          "Une éponge",
+          "Une culotte"
+        ],
+        "réponse": "Une éponge",
+        "anecdote": "Il est recommandé de revêtir des protections adéquates et appropriées pour tous les entraînements de boxe."
+      },
+      {
+        "id": 7,
+        "question": "En boxe, quel coup touche le boxeur adverse en passant sous sa garde ?",
+        "propositions": [
+          "Un direct",
+          "Un uppercut",
+          "Un crochet",
+          "Une esquive"
+        ],
+        "réponse": "Un uppercut",
+        "anecdote": "En boxe anglaise, au XVIIIe siècle, le boxeur anglais Dutch Sam a donné le nom d'uppercut à ce coup appelé auparavant « undercut »."
+      },
+      {
+        "id": 8,
+        "question": "Quel « instrument » est parfois commun aux boxeurs et aux petites filles ?",
+        "propositions": [
+          "Le protège-dents",
+          "Les gants",
+          "La ceinture",
+          "La corde à sauter"
+        ],
+        "réponse": "La corde à sauter",
+        "anecdote": "La pratique de la corde à sauter dans le milieu de la boxe est bénéfique pour le cur mais également le système respiratoire."
+      },
+      {
+        "id": 9,
+        "question": "Quel ballon est utilisé pour les entraînements des boxeurs ?",
+        "propositions": [
+          "Ballon ovale",
+          "Ballon à eau",
+          "Punching ball",
+          "Ballon gonflable"
+        ],
+        "réponse": "Punching ball",
+        "anecdote": "Cet exercice permet d'améliorer sa technique de frappe, sa précision, sa vitesse et stimule le système cardiovasculaire."
+      },
+      {
+        "id": 10,
+        "question": "Quel champion de boxe, incarné par Carl Weathers, Rocky doit-il affronter au cinéma ?",
+        "propositions": [
+          "Tony Gazzo",
+          "Apollo Creed",
+          "Mickey Goldmill",
+          "Tony Gazzo"
+        ],
+        "réponse": "Apollo Creed",
+        "anecdote": "'Rocky' est un film américain de John G. Avildsen sorti en 1976, écrit et interprété par Sylvester Stallone, qui fut un énorme succès."
+      }
+    ],
+    "confirmé": [
+      {
+        "id": 11,
+        "question": "Dans quel film, sorti en 1999, Denzel Washington interprète-t-il le boxeur Rubin Carter ?",
+        "propositions": [
+          "The Boxer",
+          "Hurricane Carter",
+          "Raging Bull",
+          "Rocky Balboa"
+        ],
+        "réponse": "Hurricane Carter",
+        "anecdote": "Très critiqué et controversé, 'Hurricane Carter' serait plus une fiction basée sur des faits réels qu'un véritable biopic sur le boxeur."
+      },
+      {
+        "id": 12,
+        "question": "Qui interprète le rôle de la jeune boxeuse dans 'Million Dollar Baby', de Clint Eastwood ?",
+        "propositions": [
+          "Reese Witherspoon",
+          "Halle Berry",
+          "Hilary Swank",
+          "Charlize Theron"
+        ],
+        "réponse": "Hilary Swank",
+        "anecdote": "Pour se préparer au rôle, Hilary Swank, qui n'a eu que trois mois, s'est entraînée avec Hector Roca, un ancien coach."
+      },
+      {
+        "id": 13,
+        "question": "Combien peut-on compter de cordes autour des rings de boxe ?",
+        "propositions": [
+          "Sept ou huit",
+          "Cinq ou six",
+          "Trois ou quatre",
+          "Une ou deux"
+        ],
+        "réponse": "Trois ou quatre",
+        "anecdote": "Un ring de boxe mesure entre 6 et 8m de côté, repose sur un plancher de 1m de hauteur et possède deux « coins neutres »."
+      },
+      {
+        "id": 14,
+        "question": "Combien de temps un boxeur au tapis est-il compté avant de passer K.O. ?",
+        "propositions": [
+          "Vingt secondes",
+          "Quinze secondes",
+          "Cinq secondes",
+          "Dix secondes"
+        ],
+        "réponse": "Dix secondes",
+        "anecdote": "Le KO technique ou TKO est décidé par l'arbitre quand un des adversaires est blessé et est incapable de continuer le combat."
+      },
+      {
+        "id": 15,
+        "question": "Dans quel film la boxe a-t-elle évolué pour devenir un sport high-tech ?",
+        "propositions": [
+          "Planète Hurlante",
+          "Real Steel",
+          "Transformers",
+          "Total Recall"
+        ],
+        "réponse": "Real Steel",
+        "anecdote": "En avril 2011, DreamWorks a annoncé qu'une suite est en préparation. John Gatins a été chargé du scénario."
+      },
+      {
+        "id": 16,
+        "question": "Si vous pesez 48 kilos, dans quelle catégorie boxeriez-vous ?",
+        "propositions": [
+          "Coqs",
+          "Plumes",
+          "Pailles",
+          "Mouches"
+        ],
+        "réponse": "Mouches",
+        "anecdote": "Le britannique Jimmy Wilde est reconnu comme étant le tout premier boxeur champion du monde des poids mouches."
+      },
+      {
+        "id": 17,
+        "question": "Quel est le seul type de boxe a avoir été admis aux Jeux olympiques en 1901 ?",
+        "propositions": [
+          "Coréenne",
+          "Vietnamienne",
+          "Anglaise",
+          "Française"
+        ],
+        "réponse": "Anglaise",
+        "anecdote": "La boxe fut pratiquée comme un sport à part entière dans la Grèce antique lors des Jeux panhelléniques à Olympie."
+      },
+      {
+        "id": 18,
+        "question": "Quel acteur incarne un boxeur dans le film 'Espion et demi' ?",
+        "propositions": [
+          "Eddie Murphy",
+          "Will Smith",
+          "Denzel Washington",
+          "Bruce Willis"
+        ],
+        "réponse": "Eddie Murphy",
+        "anecdote": "'Espion et demi' est une adaptation de la série télévisée américaine 'Les Espions' diffusée pendant 3 saisons à partir de 1965."
+      },
+      {
+        "id": 19,
+        "question": "Dans quel film, sorti en 2001, Will Smith interprète-t-il le boxeur Mohammed Ali ?",
+        "propositions": [
+          "Break Out",
+          "Ali",
+          "Bad Boys",
+          "Saving Face"
+        ],
+        "réponse": "Ali",
+        "anecdote": "Le film retrace l'engagement du boxeur qui changera de nom aux côtés du mouvement Nation of Islam et de Malcolm X."
+      },
+      {
+        "id": 20,
+        "question": "Quel célèbre boxeur a été marié à la talentueuse Édith Piaf ?",
+        "propositions": [
+          "Marcel Cerdan",
+          "Thierry Jacob",
+          "Pierre Langlois",
+          "Raymond Grassi"
+        ],
+        "réponse": "Marcel Cerdan",
+        "anecdote": "Marcel Cerdans, né Marcellin Cerdan, est mort dans un accident d'avion survenu dans l'archipel des Açores en 1949."
+      }
+    ],
+    "expert": [
+      {
+        "id": 21,
+        "question": "Dans quelle catégorie Marcel Cerdan fut-il jadis un grand boxeur ?",
+        "propositions": [
+          "Lourds",
+          "Moyens",
+          "Légers",
+          "Mi-lourds"
+        ],
+        "réponse": "Moyens",
+        "anecdote": "La victoire la plus rapide obtenue par Marcel Cerdan fut accomplie en pas moins de 22 secondes face à Gustave Humery en 1942."
+      },
+      {
+        "id": 22,
+        "question": "Quel boxeur américain était surnommé « le Cobra de Cincinnati » ?",
+        "propositions": [
+          "Rocky Marciano",
+          "Joe Louis",
+          "Ezzard Charles",
+          "Ike Williams"
+        ],
+        "réponse": "Ezzard Charles",
+        "anecdote": "Champion du monde, il n'a toutefois jamais reçu la ferveur d'un public qui ne lui a jamais pardonné sa victoire sur le grand Joe Louis."
+      },
+      {
+        "id": 23,
+        "question": "Quel était le précédent nom donné à la boxe française ?",
+        "propositions": [
+          "La savate",
+          "Le pugilat",
+          "Le pancrace",
+          "La lutte"
+        ],
+        "réponse": "La savate",
+        "anecdote": "Ce sport de combat, apparu au XIXe siècle, consiste pour les deux adversaires à se porter des coups avec les poings et les pieds."
+      },
+      {
+        "id": 24,
+        "question": "Quel champion de boxe américain était surnommé 'Marvellous' ?",
+        "propositions": [
+          "Terry Ryan",
+          "Marvin Hagler",
+          "Cove Green",
+          "Sonny Williams"
+        ],
+        "réponse": "Marvin Hagler",
+        "anecdote": "Son dernier combat lui a permis d'empocher la coquette somme de 12 millions de dollars, un record pour l'époque."
+      },
+      {
+        "id": 25,
+        "question": "En battant quel boxeur Marcel Cerdan devint-il champion du monde des moyens en 1948 ?",
+        "propositions": [
+          "Tony Zale",
+          "Jake LaMotta",
+          "José Ferrer",
+          "Gustave Humery"
+        ],
+        "réponse": "Tony Zale",
+        "anecdote": "Marcel Cerdan est mort le 28 octobre 1949 dans un accident d'avion survenu au-dessus de l'archipel des Açores (Portugal)."
+      },
+      {
+        "id": 26,
+        "question": "Quel est le prénom de la fille de Mohammed Ali, devenue championne du monde de boxe ?",
+        "propositions": [
+          "Laila",
+          "Léa",
+          "Alicia",
+          "Loana"
+        ],
+        "réponse": "Laila",
+        "anecdote": "Boxeuse à fort tempérament comme son père, son nom attire les foules dans les salles, faisant ainsi connaître la boxe féminine."
+      },
+      {
+        "id": 27,
+        "question": "Quel boxeur français est devenu champion du monde militaire amateur en 2008 ?",
+        "propositions": [
+          "Jean Josselin",
+          "Antoine Palatis",
+          "Yoann Boyeaux",
+          "Alexis Vastine"
+        ],
+        "réponse": "Alexis Vastine",
+        "anecdote": "Alexis Vastine a trouvé la mort à 28 ans alors qu'il participait au tournage de l'émission de télé-réalité 'Dropped' de TF1."
+      },
+      {
+        "id": 28,
+        "question": "Quel romancier américain raconte un combat de boxe dans 'Cinquante mille dollars' ?",
+        "propositions": [
+          "Joshua Slocum",
+          "Samuel Engel",
+          "Rudyard Kipling",
+          "Ernest Hemingway"
+        ],
+        "réponse": "Ernest Hemingway",
+        "anecdote": "Ce recueil d'écrits, qui reprend le thème du combat de boxe et du champion, représente la seule pièce de théâtre de l'auteur."
+      },
+      {
+        "id": 29,
+        "question": "Quelle star de la boxe Vincent Moscato a-t-il reçu dans son émission radio ?",
+        "propositions": [
+          "Bruce Seldon",
+          "Tony Tucker",
+          "James Smith",
+          "Mike Tyson"
+        ],
+        "réponse": "Mike Tyson",
+        "anecdote": "C'est dans son émission sur RMC 'Super Moscato Show' qu'il a reçu son idole, à Paris, pour son livre 'La vérité et rien d'autre'."
+      },
+      {
+        "id": 30,
+        "question": "Quel boxeur américain a été le sportif le mieux rémunéré du monde en 2011 ?",
+        "propositions": [
+          "Junior Witter",
+          "Genaro Hernandez",
+          "Arturo Gatti",
+          "Floyd Mayweather"
+        ],
+        "réponse": "Floyd Mayweather",
+        "anecdote": "Surnommé « Pretty Boy », il est l'un des meilleurs boxeurs des années 2000, demeuré invaincu en plus de 18 ans de carrière."
+      }
+    ]
+  }
+}

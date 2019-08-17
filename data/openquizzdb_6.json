@@ -1,0 +1,374 @@
+{
+  "fournisseur": "OpenQuizzDB - Fournisseur de contenu libre (https://www.openquizzdb.org)",
+  "rédacteur": "Philippe Bresoux",
+  "thème": "Bières belges (Patrimoine exporté dans le monde entier)",
+  "difficulté": 4 / 5,
+  "quizz": {
+    "débutant": [
+      {
+        "id": 1,
+        "question": "Quelle bière belge est fabriquée en ajoutant des cerises acides au lambic ?",
+        "propositions": [
+          "La Duvel",
+          "La Kriek",
+          "La Leffe",
+          "La Chimay"
+        ],
+        "réponse": "La Kriek",
+        "anecdote": "Jadis, certaines brasseries produisaient des krieks réalisées à partir d'un mélange de lagers (ou pils) et de cerises."
+      },
+      {
+        "id": 2,
+        "question": "Laquelle de ces propositions ne désigne pas une couleur de bière belge ?",
+        "propositions": [
+          "Noire",
+          "Rouge",
+          "Ambrée",
+          "Blonde"
+        ],
+        "réponse": "Rouge",
+        "anecdote": "La bière est une boisson obtenue par fermentation de céréales, généralement de grains d'orge."
+      },
+      {
+        "id": 3,
+        "question": "Quelle bière belge, produit phare de la brasserie Dubuisson, titre 12% ?",
+        "propositions": [
+          "La Mort Subite",
+          "La Tongerlo",
+          "La Bush",
+          "La Stella"
+        ],
+        "réponse": "La Bush",
+        "anecdote": "Également appelée « Bush 12 », on peut lire sur son étiquette qu'elle est la plus forte bière de Belgique."
+      },
+      {
+        "id": 4,
+        "question": "Quel label figure sur une bouteille de Leffe, développée en de nombreuses variétés ?",
+        "propositions": [
+          "Bière d'Abbaye",
+          "Trappiste",
+          "Swiss Made",
+          "Bière Bio"
+        ],
+        "réponse": "Bière d'Abbaye",
+        "anecdote": "Du nom d'un quartier de Dinant dans la vallée de la Meuse, la bière de Leffe fait partie de la variété des bières d'abbaye."
+      },
+      {
+        "id": 5,
+        "question": "Quelle bière belge se boit dans un verre soutenu par un socle en bois ?",
+        "propositions": [
+          "Bacchus",
+          "Kwak",
+          "Duvel",
+          "Lupulus"
+        ],
+        "réponse": "Kwak",
+        "anecdote": "La légende veut que le nom de la Kwak provienne du bruit que l'on entend quand on boit son verre cul-sec."
+      },
+      {
+        "id": 6,
+        "question": "Quel système de fermeture est utilisé sur les bouteilles de Quintine ?",
+        "propositions": [
+          "Bouchon mécanique",
+          "Capsule",
+          "Bouchon à visser",
+          "Bouchon de liège"
+        ],
+        "réponse": "Bouchon mécanique",
+        "anecdote": "La Brasserie Ellezelloise produit plusieurs bières artisanales parmi lesquelles la Quintine."
+      },
+      {
+        "id": 7,
+        "question": "Quelle bière belge conserve son statut de référence par excellence au pays des blanches ?",
+        "propositions": [
+          "Bacchus",
+          "Corsendonk",
+          "Hoegaarden",
+          "Floreffe"
+        ],
+        "réponse": "Hoegaarden",
+        "anecdote": "Selon une certaine croyance populaire, la bière Hoegaarden est souvent citée comme étant la première bière blanche."
+      },
+      {
+        "id": 8,
+        "question": "Quel intrus se cache parmi ces bières de Chimay, ni filtrées ni pasteurisées ?",
+        "propositions": [
+          "Rosée",
+          "Rouge",
+          "Blanche",
+          "Bleue"
+        ],
+        "réponse": "Rosée",
+        "anecdote": "La Chimay est une bière trappiste belge, produite à l'abbaye Notre-Dame de Scourmont."
+      },
+      {
+        "id": 9,
+        "question": "Laquelle de ces bières belges se présente dans une bouteille de forme ovale ?",
+        "propositions": [
+          "Bush",
+          "Kriek",
+          "Orval",
+          "Leffe"
+        ],
+        "réponse": "Orval",
+        "anecdote": "L'Orval se caractérise par une amertume assez forte et gagne à mûrir en cave pendant quelques mois."
+      },
+      {
+        "id": 10,
+        "question": "Laquelle de ces bières belges, moins connue du grand public, est aromatisée au miel ?",
+        "propositions": [
+          "Ename",
+          "Barbar",
+          "Affligem",
+          "Caracole"
+        ],
+        "réponse": "Barbar",
+        "anecdote": "La Barbar est considérée par de nombreux amateurs de bières comme « le repos du guerrier »."
+      }
+    ],
+    "confirmé": [
+      {
+        "id": 11,
+        "question": "La Gauloise est une bière belge dont la bouteille propose quelle contenance ?",
+        "propositions": [
+          "25 cl",
+          "50 cl",
+          "75 cl",
+          "33 cl"
+        ],
+        "réponse": "33 cl",
+        "anecdote": "La brasserie du Bocq est une brasserie belge située à Purnode, dans la commune d'Yvoir en Belgique."
+      },
+      {
+        "id": 12,
+        "question": "Quel intrus se cache parmi ces bières de Rochefort, brassées en abbaye depuis 1595 ?",
+        "propositions": [
+          "Rochefort 8",
+          "Rochefort 6",
+          "Rochefort 10",
+          "Rochefort 12"
+        ],
+        "réponse": "Rochefort 12",
+        "anecdote": "À Rochefort, la quantité de bière fabriquée est volontairement limitée à 300 hectolitres par semaine."
+      },
+      {
+        "id": 13,
+        "question": "Quel roi de Sardaigne possède, en Belgique, une bière blonde dorée ?",
+        "propositions": [
+          "Charles VI",
+          "Philippe II",
+          "Charles Quint",
+          "Ferdinand I<sup>er</sup>"
+        ],
+        "réponse": "Charles Quint",
+        "anecdote": "La brasserie Haacht, qui produit la Charles Quint, est une brasserie belge  située dans la province du Brabant flamand."
+      },
+      {
+        "id": 14,
+        "question": "Laquelle de ces villes de Belgique possède une cuvée de bière blonde ?",
+        "propositions": [
+          "Ciney",
+          "Waremme",
+          "Couvin",
+          "Verviers"
+        ],
+        "réponse": "Ciney",
+        "anecdote": "Il existe trois sortes de bières de Ciney : Ciney Blonde, Ciney Brune et Ciney Spéciale."
+      },
+      {
+        "id": 15,
+        "question": "La Delirium Tremens présente sur sa bouteille une étiquette de quelle couleur ?",
+        "propositions": [
+          "Rouge",
+          "Bleue",
+          "Jaune",
+          "Verte"
+        ],
+        "réponse": "Bleue",
+        "anecdote": "En 1992, la « Confrérie de l'Éléphant Rose » a été créée pour promouvoir la Delirium Tremens et autres bières de Melle."
+      },
+      {
+        "id": 16,
+        "question": "Laquelle de ces bières belges existe en version classique ainsi qu'en version biologique ?",
+        "propositions": [
+          "Moinette",
+          "Duvel",
+          "Chimay",
+          "Barbar"
+        ],
+        "réponse": "Moinette",
+        "anecdote": "La Moinette est une bière à la mousse abondante, à l'arôme malté et houblonné ainsi qu'au goût légèrement amer."
+      },
+      {
+        "id": 17,
+        "question": "Quelle célèbre bière belge, produite dans la province du Hainaut, contient de la vitamine C ?",
+        "propositions": [
+          "Orval",
+          "St Feuillien",
+          "Rochefort 10",
+          "Chimay"
+        ],
+        "réponse": "St Feuillien",
+        "anecdote": "La gamme St Feuillien se décline en quatre versions reprises parmi les bières belges d'abbaye reconnues."
+      },
+      {
+        "id": 18,
+        "question": "Quelle bière annoncée comme blanche a pourtant une couleur presque ambrée ?",
+        "propositions": [
+          "St. Bernardus",
+          "Westmalle",
+          "Grimbergen",
+          "Vedett"
+        ],
+        "réponse": "Grimbergen",
+        "anecdote": "Grimbergen est une marque de bière d'origine belge appartenant aujourd'hui aux groupes Carlsberg et Heineken."
+      },
+      {
+        "id": 19,
+        "question": "Quelle bière belge désigne aussi une chanson interprétée par Lady Gaga ?",
+        "propositions": [
+          "Born This Way",
+          "Hair",
+          "Judas",
+          "Bloody Mary"
+        ],
+        "réponse": "Judas",
+        "anecdote": "Alken-Maes est une entreprise brassicole belge créée en 1988 lors de la fusion des brasseries Maes et Alken."
+      },
+      {
+        "id": 20,
+        "question": "Quelle bière belge est reconnaissable grâce à son lutin au bonnet rouge ?",
+        "propositions": [
+          "La Maes",
+          "La Barbar",
+          "La Durboyse",
+          "La Chouffe"
+        ],
+        "réponse": "La Chouffe",
+        "anecdote": "L'arôme très particulier de la Chouffe mélange à la fois fleur d'oranger et pomme acide."
+      }
+    ],
+    "expert": [
+      {
+        "id": 21,
+        "question": "Quelle bière de fermentation spontanée est produite au sud de Bruxelles ?",
+        "propositions": [
+          "Triple",
+          "Pils",
+          "Lambic",
+          "Stout"
+        ],
+        "réponse": "Lambic",
+        "anecdote": "La lambic est une bière plus ou moins acide selon son âge, sans pétillant ni mousse, titrant environ cinq degrés d'alcool. "
+      },
+      {
+        "id": 22,
+        "question": "Quelle brasserie belge produit la Brigand, bière ambrée à fermentation haute ?",
+        "propositions": [
+          "Liefmans",
+          "Bosteels",
+          "Van Honsebrouck",
+          "Van Steenberge"
+        ],
+        "réponse": "Van Honsebrouck",
+        "anecdote": "On brasse principalement chez Van Honsebrouck les marques de bières Kasteel, St-Louis, Brigand et Bacchus."
+      },
+      {
+        "id": 23,
+        "question": "Quelle bière belge présente un escargot étrange sur son étiquette ?",
+        "propositions": [
+          "Caracole",
+          "Rochefort",
+          "Moinette",
+          "Gordon"
+        ],
+        "réponse": "Caracole",
+        "anecdote": "La production annuelle de la brasserie Caracole est de 1600 hl, au rythme d'environ un brassin par semaine."
+      },
+      {
+        "id": 24,
+        "question": "Quel animal blanc est utilisé comme logo de la bière Palm ?",
+        "propositions": [
+          "Un lion",
+          "Un ours",
+          "Un éléphant",
+          "Un cheval"
+        ],
+        "réponse": "Un cheval",
+        "anecdote": "L'histoire de Palm commence en 1597 par la signature d'un acte de vente d'une ferme, ce qui explique le choix du logo."
+      },
+      {
+        "id": 25,
+        "question": "Laquelle de ces propositions désigne une bière belge ambrée ?",
+        "propositions": [
+          "Saison 1800",
+          "Saison 1900",
+          "Saison 1600",
+          "Saison 1700"
+        ],
+        "réponse": "Saison 1900",
+        "anecdote": "La Saison 1900, produite par la brasserie Lefebvre, est une bière de tradition wallonne."
+      },
+      {
+        "id": 26,
+        "question": "Laquelle de ces bières belges possède un label biologique ?",
+        "propositions": [
+          "Blanche du Hainaut",
+          "Ciney",
+          "Zulte",
+          "Affligem"
+        ],
+        "réponse": "Blanche du Hainaut",
+        "anecdote": "La Brasserie Dupont est une entreprise belge établie à Tourpes dans la commune de Leuze-en-Hainaut, au centre du Hainaut occidental."
+      },
+      {
+        "id": 27,
+        "question": "La Troublette, brassée près de la ville de Dinant, est une bière de quelle couleur ?",
+        "propositions": [
+          "Brune",
+          "Blanche",
+          "Ambrée",
+          "Noire"
+        ],
+        "réponse": "Blanche",
+        "anecdote": "La Troublette est une bière blanche de la brasserie Caracole, légère et rafraîchissante, qui existe aussi en bio."
+      },
+      {
+        "id": 28,
+        "question": "Quelle bière belge est réputée comme étant une « bière vivante » ?",
+        "propositions": [
+          "Charles Quint",
+          "St Feuillien",
+          "Grimbergen",
+          "Bon Secours"
+        ],
+        "réponse": "Bon Secours",
+        "anecdote": "La gamme de bières Bon Secours est une gamme de bières artisanales belges de type « bière d'abbaye », à fermentation haute."
+      },
+      {
+        "id": 29,
+        "question": "Laquelle de ces bières belges sort tout droit de la brasserie Roman ?",
+        "propositions": [
+          "Rochefort",
+          "Caracole",
+          "Moinette",
+          "Ename"
+        ],
+        "réponse": "Ename",
+        "anecdote": "La brasserie Roman paie une redevance au musée de la ville d'Ename pour l'utilisation de l'appellation « Abbaye d'Ename »."
+      },
+      {
+        "id": 30,
+        "question": "Quelle bière belge affiche un géant sur ses étiquettes ?",
+        "propositions": [
+          "Rochefort",
+          "Judas",
+          "Palm",
+          "Gouyasse"
+        ],
+        "réponse": "Gouyasse",
+        "anecdote": "La brasserie se visite en 50 minutes et se termine par la dégustation d'une bière au choix parmi les bières brassées."
+      }
+    ]
+  }
+}

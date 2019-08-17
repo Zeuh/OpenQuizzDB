@@ -1,0 +1,2228 @@
+{
+  "fournisseur": "OpenQuizzDB - Fournisseur de contenu libre (https://www.openquizzdb.org)",
+  "rédacteur": "Alexandre Verfaillie",
+  "thème": "Microsoft (Votre potentiel notre passion)",
+  "difficulté": "3 / 5",
+  "quizz": {
+    "fr": [
+      {
+      "débutant": [
+      {
+        "id": 1,
+        "question": "Dans quelle ville se situait en 2018 le siège social de Microsoft ?",
+        "propositions": [
+          "Redmond",
+          "Paris",
+          "Londres",
+          "New-York"
+        ],
+        "réponse": "Redmond",
+        "anecdote": "Cette ville de l'État de Washington abrite le siège social de l'éditeur de logiciels Microsoft et de la branche américaine de Nintendo."
+      },
+      {
+        "id": 2,
+        "question": "Quel nom porte la console de jeux vidéo conçue par Microsoft ?",
+        "propositions": [
+          "Wii",
+          "Game Gear",
+          "Xbox",
+          "PlayStation"
+        ],
+        "réponse": "Xbox",
+        "anecdote": "Une Xbox ne pouvait à l'origine exécuter que des programmes Xbox provenant d'un média au format propriétaire Microsoft sur DVD."
+      },
+      {
+        "id": 3,
+        "question": "Qui est, avec Bill Gates, le cofondateur de la société Microsoft ?",
+        "propositions": [
+          "Paul Allen",
+          "Elon Musk",
+          "Alex Spanos",
+          "Larry Ellison"
+        ],
+        "réponse": "Paul Allen",
+        "anecdote": "Paul Allen est aussi patron actionnaire d'un empire financier de multiples sociétés dans les domaines des hautes technologies."
+      },
+      {
+        "id": 4,
+        "question": "Quel célèbre simulateur de vol pour PC a été conçu par Microsoft ?",
+        "propositions": [
+          "Freight Simulator",
+          "Fog Simulator",
+          "Flight Simulator",
+          "Fight Simulator"
+        ],
+        "réponse": "Flight Simulator",
+        "anecdote": "Bill Gates est fasciné par le roman 'Vol de nuit' d'Antoine de Saint Exupéry qui raconte en détail la sensation de voler dans un petit avion."
+      },
+      {
+        "id": 5,
+        "question": "Quel nom a été choisi par Microsoft pour la commercialisation de son smartphone ?",
+        "propositions": [
+          "Lumia",
+          "Loubna",
+          "Lomna",
+          "Loumnia"
+        ],
+        "réponse": "Lumia",
+        "anecdote": "Cette série de smartphones et d'une tablette tactile est le résultat d'une coopération avec Nokia, constructeur des téléphones."
+      },
+      {
+        "id": 6,
+        "question": "Quel système d'exploitation fut commercialisé entre Windows 98 et Windows XP ?",
+        "propositions": [
+          "Windows ME",
+          "Windows VE",
+          "Windows TE",
+          "Windows RE"
+        ],
+        "réponse": "Windows ME",
+        "anecdote": "Entièrement basé sur Windows 98, lui-même basé sur Windows 95, Windows ME était le pendant familial et multimédia de Windows."
+      },
+      {
+        "id": 7,
+        "question": "Quel service de stockage en ligne a été inventé par la société Microsoft ?",
+        "propositions": [
+          "OneDrive",
+          "FourDrive",
+          "ThreeDrive",
+          "TwoDrive"
+        ],
+        "réponse": "OneDrive",
+        "anecdote": "Le service peut s'utiliser de deux manières : à travers un navigateur web ou à travers le logiciel OneDrive qui permet une synchronisation."
+      },
+      {
+        "id": 8,
+        "question": "Quel est le nom de la tablette conçue par les designers de chez Microsoft ?",
+        "propositions": [
+          "Surface",
+          "Tabsoft",
+          "Hurricane",
+          "Storm"
+        ],
+        "réponse": "Surface",
+        "anecdote": "La première génération de tablette a été introduite en 2012 où deux versions de Surface sont présentées : Surface RT et Surface Pro."
+      },
+      {
+        "id": 9,
+        "question": "En quelle année la multinationale Microsoft Corporation a-t-elle été fondée ?",
+        "propositions": [
+          "2005",
+          "1975",
+          "1995",
+          "1985"
+        ],
+        "réponse": "1975",
+        "anecdote": "Son activité principale consiste à développer et vendre des systèmes d'exploitation, des logiciels et des produits matériels dérivés."
+      },
+      {
+        "id": 10,
+        "question": "Quel mot se cache derrière la lettre O du système d'exploitation MS-DOS ?",
+        "propositions": [
+          "Operating",
+          "Operator",
+          "Opale",
+          "Opera"
+        ],
+        "réponse": "Operating",
+        "anecdote": "Ce système fonctionnant en mode réel, monotâche et mono-utilisateur, était équipé par défaut d'une interface en ligne de commande."
+      }
+    ],
+    "confirmé": [
+      {
+        "id": 11,
+        "question": "Qui a remplacé Bill Gates comme Chief Executive Officer en janvier 2000 ?",
+        "propositions": [
+          "Steve Jobs",
+          "Satya Nadella",
+          "Steve Ballmer",
+          "Steve Stones"
+        ],
+        "réponse": "Steve Ballmer",
+        "anecdote": "Depuis 2014, Steve Ballmer est le nouveau propriétaire des Clippers, une franchise de basket-ball de la NBA basée à Los Angeles."
+      },
+      {
+        "id": 12,
+        "question": "Quel est le prénom de la femme de Bill Gates, née à Dallas en 1964 ?",
+        "propositions": [
+          "Mandy",
+          "Melinda",
+          "Melanie",
+          "Melissa"
+        ],
+        "réponse": "Melinda",
+        "anecdote": "Pour la fondation qu'elle copréside depuis 1999, Melinda Gates effectue plusieurs voyages par an dans des pays d'Afrique et d'Asie."
+      },
+      {
+        "id": 13,
+        "question": "Quelle somme Bill Gates va-t-il dépenser pour combattre le réchauffement climatique ?",
+        "propositions": [
+          "500 millions de dollars",
+          "1 milliard de dollars",
+          "2 milliards de dollars",
+          "150 millions de dollars"
+        ],
+        "réponse": "2 milliards de dollars",
+        "anecdote": "Bill Gates est devenu, en grande partie grâce au succès commercial de Microsoft, l'homme le plus riche du monde de 1996 à 2007."
+      },
+      {
+        "id": 14,
+        "question": "De combien le nombre d'employés de Microsoft a-t-il évolué de 2005 à 2014 ?",
+        "propositions": [
+          "Doublé",
+          "Quadruplé",
+          "Quintuplé",
+          "Triplé"
+        ],
+        "réponse": "Doublé",
+        "anecdote": "L'introduction en bourse de Microsoft ont fait quatre milliardaires et environ 12 000 millionnaires parmi les employés de Microsoft."
+      },
+      {
+        "id": 15,
+        "question": "En quelle année la société Microsoft a-t-elle acheté le logiciel Skype ?",
+        "propositions": [
+          "2011",
+          "2001",
+          "2008",
+          "2009"
+        ],
+        "réponse": "2011",
+        "anecdote": "Skype est un logiciel qui permet aux utilisateurs de passer des appels téléphoniques ou vidéo via Internet, ainsi que le partage d'écran."
+      },
+      {
+        "id": 16,
+        "question": "Quelle est la signification des lettres RT du nom de produit Windows RT ?",
+        "propositions": [
+          "RogueTime",
+          "Officiellement Aucune",
+          "RunTime",
+          "RandTime"
+        ],
+        "réponse": "Officiellement Aucune",
+        "anecdote": "Système d'exploitation dérivé de Windows 8, le sigle RT n'a pas de signification officielle mais fait généralement référence à Runtime."
+      },
+      {
+        "id": 17,
+        "question": "Quel matériel peut contrôler une interface sans utiliser de manette ?",
+        "propositions": [
+          "Konect",
+          "Kinect",
+          "PowerShot",
+          "Xbox Gun"
+        ],
+        "réponse": "Kinect",
+        "anecdote": "Initialement connu sous le nom Project Natal, le mot-valise Kinect est issu des mots anglais kinetic (cinétique) et connect (connecter)."
+      },
+      {
+        "id": 18,
+        "question": "Après combien d'années le successeur de Windows XP a-t-il été commercialisé ?",
+        "propositions": [
+          "6 ans",
+          "4 ans",
+          "3 ans",
+          "5 ans"
+        ],
+        "réponse": "5 ans",
+        "anecdote": "Remplacé par Windows Vista, Windows XP (en version Familiale et Professionnelle) a été vendu à près de 400 millions de copies."
+      },
+      {
+        "id": 19,
+        "question": "Quelle interface graphique a remplacé le thème Luna de Windows XP ?",
+        "propositions": [
+          "Zorro",
+          "Rollo",
+          "Doro",
+          "Aero"
+        ],
+        "réponse": "Aero",
+        "anecdote": "L'interface Aero a été conçue pour être plus puissante, plus efficace et plus plaisante esthétiquement que l'ancien thème Luna."
+      },
+      {
+        "id": 20,
+        "question": "En 2019, combien de fois Microsoft a-t-il adapté son logo depuis sa création ?",
+        "propositions": [
+          "1 fois",
+          "4 fois",
+          "2 fois",
+          "3 fois"
+        ],
+        "réponse": "4 fois",
+        "anecdote": "Les produits du dernier logo sont Office pour le carré rouge, Xbox pour le carré vert, Windows pour le carré bleu et Bing pour le carré jaune."
+      }
+    ],
+    "expert": [
+      {
+        "id": 21,
+        "question": "Quelle est la forme du logo aux teintes bleutées de Cortana ?",
+        "propositions": [
+          "Rectangulaire",
+          "Ovale",
+          "Carrée",
+          "Ronde"
+        ],
+        "réponse": "Ronde",
+        "anecdote": "Cortana est l'assistant personnel intelligent développé par Microsoft pour sa plateforme Windows Phone à partir de la version 8.1."
+      },
+      {
+        "id": 22,
+        "question": "Quel budget de communication fut associé au lancement du moteur de recherche Bing ?",
+        "propositions": [
+          "65 millions",
+          "90 millions",
+          "15 millions",
+          "30 millions"
+        ],
+        "réponse": "90 millions",
+        "anecdote": "Bing, anciennement Live Search, Windows Live Search et MSN Search, est un moteur de recherche rendu public le 3 juin 2009."
+      },
+      {
+        "id": 23,
+        "question": "Quel projet de réalité augmentée a été présenté par Microsoft ?",
+        "propositions": [
+          "Tinyput",
+          "Skinput",
+          "Skinfall",
+          "Skinproject"
+        ],
+        "réponse": "Skinput",
+        "anecdote": "En février 2011, Microsoft Research a présenté sa prospective en réalité augmentée, notamment avec les projets Skinput et Light Space."
+      },
+      {
+        "id": 24,
+        "question": "En combien de branches techniques la gamme Windows est-elle composée ?",
+        "propositions": [
+          "Trois",
+          "Quatre",
+          "Cinq",
+          "Deux"
+        ],
+        "réponse": "Cinq",
+        "anecdote": "Les cinq branches techniques de Windows sont la branche 16 bits, la branche Windows 9x, la branche NT, la branche CE et la branche NT."
+      },
+      {
+        "id": 25,
+        "question": "Quel concurrent Microsoft a-t-il condamné lors de la sortie de Internet Explorer 3.0 ?",
+        "propositions": [
+          "NetPlan",
+          "NetView",
+          "Netscape",
+          "NetBrowser"
+        ],
+        "réponse": "Netscape",
+        "anecdote": "Le support de Netscape Navigator a cessé en 2008, mais il est à l'origine du navigateur Mozilla Firefox, toujours en développement."
+      },
+      {
+        "id": 26,
+        "question": "Quelle entreprise, connue pour son jeu Minecraft, a été rachetée par Microsoft ?",
+        "propositions": [
+          "Mojing",
+          "Mojung",
+          "Motang",
+          "Mojang"
+        ],
+        "réponse": "Mojang",
+        "anecdote": "En 2011, le fondateur de Napster et l'ancien président de Facebook Solidarité, Sean Parker, proposèrent d'investir dans Mojang."
+      },
+      {
+        "id": 27,
+        "question": "Quel est le nom de code du projet associé au navigateur internet Microsoft Edge ?",
+        "propositions": [
+          "Spartan",
+          "Runny",
+          "Ben",
+          "John"
+        ],
+        "réponse": "Spartan",
+        "anecdote": "Depuis le mois de février 2018, Edge n'est plus une exclusivité à Windows 10 : Microsoft a porté le navigateur sur iOS et Android."
+      },
+      {
+        "id": 28,
+        "question": "Quelle section du magasin en ligne de Microsoft a été supprimée en juillet 2019 ?",
+        "propositions": [
+          "Ebooks",
+          "WinBooks",
+          "ChromeBooks",
+          "Tbooks"
+        ],
+        "réponse": "Ebooks",
+        "anecdote": "Les livres numériques (gratuits ou achetés sur la plateforme) ne seront plus lisibles suite à l'arrêt des serveurs de DRM."
+      },
+      {
+        "id": 29,
+        "question": "Quel est le petit nom donné au bracelet de sport commercialisé par Microsoft ?",
+        "propositions": [
+          "Microsoft Band",
+          "Microsoft Pace",
+          "Microsoft Lace",
+          "Microsoft Bracelet"
+        ],
+        "réponse": "Microsoft Band",
+        "anecdote": "Commercialisé en 2014, il s'agit du premier appareil propulsé par Microsoft Health, le nouveau service de santé de Microsoft."
+      },
+      {
+        "id": 30,
+        "question": "Quelle est la surface approximative du Microsoft Redmond Campus ?",
+        "propositions": [
+          "8 km²",
+          "900 000 m²",
+          "80 km²",
+          "100 000 m²"
+        ],
+        "réponse": "80 km²",
+        "anecdote": "Les campus historiques de l'Est et de l'Ouest comptent plus de 120 bâtiments de près de 700000 m² sur plus de 200 hectares."
+      }
+      ]
+      }
+    ],
+    "en": [
+    {
+      "débutant": [
+      {
+        "id": 1,
+        "question": "In which city was in 2018 the headquarters of Microsoft ?",
+        "propositions": [
+          "Paris",
+          "London",
+          "New York",
+          "Redmond"
+        ],
+        "réponse": "Redmond",
+        "anecdote": "This Washington state town is home to the headquarters of the Microsoft software publisher and the American branch of Nintendo."
+      },
+      {
+        "id": 2,
+        "question": "What name is the video game console designed by Microsoft ?",
+        "propositions": [
+          "Xbox",
+          "Wii",
+          "Game Gear",
+          "PlayStation"
+        ],
+        "réponse": "Xbox",
+        "anecdote": "An Xbox could originally only run Xbox programs from a proprietary Microsoft DVD format media."
+      },
+      {
+        "id": 3,
+        "question": "Who, with Bill Gates, is the co-founder of Microsoft ?",
+        "propositions": [
+          "Alex Spanos",
+          "Larry Ellison",
+          "Paul Allen",
+          "Elon Musk"
+        ],
+        "réponse": "Paul Allen",
+        "anecdote": "Paul Allen is also a shareholder of a financial empire of multiple companies in the fields of high technologies."
+      },
+      {
+        "id": 4,
+        "question": "Which famous flight simulator for PC has been designed by Microsoft ?",
+        "propositions": [
+          "Flight Simulator",
+          "Fight Simulator",
+          "Freight Simulator",
+          "Fog Simulator"
+        ],
+        "réponse": "Flight Simulator",
+        "anecdote": "Bill Gates is fascinated by Antoine de Saint Exupéry's novel 'Night Flight', which tells the story of flying in a small plane."
+      },
+      {
+        "id": 5,
+        "question": "Which name was chosen by Microsoft for the marketing of its smartphone ?",
+        "propositions": [
+          "Lomna",
+          "Lumia",
+          "Loubna",
+          "Loumnia"
+        ],
+        "réponse": "Lumia",
+        "anecdote": "This series of smartphones and a touch pad is the result of cooperation with Nokia, the manufacturer of telephones."
+      },
+      {
+        "id": 6,
+        "question": "Which operating system was marketed between Windows 98 and Windows XP ?",
+        "propositions": [
+          "Windows TE",
+          "Windows VE",
+          "Windows RE",
+          "Windows ME"
+        ],
+        "réponse": "Windows ME",
+        "anecdote": "Fully based on Windows 98, itself based on Windows 95, Windows ME was the Windows family and multimedia pendant."
+      },
+      {
+        "id": 7,
+        "question": "Which online storage service was invented by Microsoft ?",
+        "propositions": [
+          "TwoDrive",
+          "ThreeDrive",
+          "FourDrive",
+          "OneDrive"
+        ],
+        "réponse": "OneDrive",
+        "anecdote": "The service can be used in two ways: through a web browser or through the OneDrive software that allows synchronization."
+      },
+      {
+        "id": 8,
+        "question": "What is the name of the tablet designed by Microsoft designers ?",
+        "propositions": [
+          "Hurricane",
+          "Tabsoft",
+          "Storm",
+          "Surface"
+        ],
+        "réponse": "Surface",
+        "anecdote": "The first tablet generation was introduced in 2012 where two versions of Surface are presented: Surface RT and Surface Pro."
+      },
+      {
+        "id": 9,
+        "question": "In which year was the multinational corporation Microsoft Corporation founded ?",
+        "propositions": [
+          "2005",
+          "1985",
+          "1975",
+          "1995"
+        ],
+        "réponse": "1975",
+        "anecdote": "Its core business is the development and sale of operating systems, software and hardware products."
+      },
+      {
+        "id": 10,
+        "question": "What word is behind the letter O of the MS-DOS operating system ?",
+        "propositions": [
+          "Opal",
+          "Opera",
+          "Operating",
+          "Operator"
+        ],
+        "réponse": "Operating",
+        "anecdote": "This system running in real-world, single-user and single-user mode, was required by a command-line interface."
+      }
+    ],
+    "confirmé": [
+      {
+        "id": 11,
+        "question": "Who replaced Bill Gates as Chief Executive Officer in January 2000 ?",
+        "propositions": [
+          "Steve Jobs",
+          "Steve Stones",
+          "Steve Ballmer",
+          "Satya Nadella"
+        ],
+        "réponse": "Steve Ballmer",
+        "anecdote": "Since 2014, Steve Ballmer is the new owner of the Clippers, an NBA basketball franchise based in Los Angeles."
+      },
+      {
+        "id": 12,
+        "question": "What is the name of Bill Gates' wife, born in Dallas in 1964 ?",
+        "propositions": [
+          "Melissa",
+          "Melinda",
+          "Melanie",
+          "Mandy"
+        ],
+        "réponse": "Melinda",
+        "anecdote": "For the foundation she has co-chaired since 1999, Melinda Gates travels several times a year to countries in Africa and Asia."
+      },
+      {
+        "id": 13,
+        "question": "How much will Bill Gates spend on fighting climate change ?",
+        "propositions": [
+          "500 million dollars",
+          "$ 2 billion",
+          "$ 1 billion",
+          "$ 150 million"
+        ],
+        "réponse": "$ 2 billion",
+        "anecdote": "Bill Gates became, thanks in large part to the commercial success of Microsoft, the richest man in the world from 1996 to 2007."
+      },
+      {
+        "id": 14,
+        "question": "How much did Microsoft's workforce increase from 2005 to 2014 ?",
+        "propositions": [
+          "Quintuplé",
+          "Doubled",
+          "Triplé",
+          "Quadrupled"
+        ],
+        "réponse": "Doubled",
+        "anecdote": "The IPO of Microsoft made four billionaires and about 12,000 millionaires among Microsoft employees."
+      },
+      {
+        "id": 15,
+        "question": "In which year did Microsoft purchase the Skype software ?",
+        "propositions": [
+          "2011",
+          "2009",
+          "2008",
+          "2001"
+        ],
+        "réponse": "2011",
+        "anecdote": "Skype is software that allows users to make phone or video calls over the Internet, as well as screen sharing."
+      },
+      {
+        "id": 16,
+        "question": "What is the meaning of the RT letters of the Windows RT product name ?",
+        "propositions": [
+          "RandTime",
+          "Officially None",
+          "RogueTime",
+          "RunTime"
+        ],
+        "réponse": "Officially None",
+        "anecdote": "Operating system derived from Windows 8, the acronym RT has no official meaning but is usually referred to as Runtime."
+      },
+      {
+        "id": 17,
+        "question": "Which hardware can control an interface without using a controller ?",
+        "propositions": [
+          "Konect",
+          "Kinect",
+          "PowerShot",
+          "Xbox Gun"
+        ],
+        "réponse": "Kinect",
+        "anecdote": "Originally known as Project Natal, the Kinect wordmark comes from the English words kinetic (kinetic) and connect (connect)."
+      },
+      {
+        "id": 18,
+        "question": "After how many years has the successor of Windows XP been marketed ?",
+        "propositions": [
+          "3 years",
+          "4 years",
+          "5 years",
+          "6 years"
+        ],
+        "réponse": "5 years",
+        "anecdote": "Replaced by Windows Vista, Windows XP (Home and Professional) has been sold to nearly 400 million copies."
+      },
+      {
+        "id": 19,
+        "question": "Which GUI has replaced the Luna theme of Windows XP ?",
+        "propositions": [
+          "Aero",
+          "Zorro",
+          "Rollo",
+          "Doro"
+        ],
+        "réponse": "Aero",
+        "anecdote": "The Aero interface has been designed to be more powerful, more efficient and more aesthetically pleasing than the old Luna theme."
+      },
+      {
+        "id": 20,
+        "question": "In 2019, how many times has Microsoft adapted its commercial logo since its inception ?",
+        "propositions": [
+          "2 times",
+          "3 times",
+          "4 times",
+          "1 time"
+        ],
+        "réponse": "4 times",
+        "anecdote": "The products of the latest logo are Office for the red square, Xbox for the square, Windows for the blue square and Bing for the yellow square."
+      }
+    ],
+    "expert": [
+      {
+        "id": 21,
+        "question": "What is the shape of the logo with blue hues of Cortana ?",
+        "propositions": [
+          "Carree",
+          "Rectangular",
+          "Round",
+          "Oval"
+        ],
+        "réponse": "Round",
+        "anecdote": "Cortana is the name of the intelligent personal assistant developed by Microsoft for its Windows Phone platform from version 8.1."
+      },
+      {
+        "id": 22,
+        "question": "What communication budget was associated with the launch of the Bing search engine ?",
+        "propositions": [
+          "15 million",
+          "65 million",
+          "90 million",
+          "30 million"
+        ],
+        "réponse": "90 million",
+        "anecdote": "Bing, formerly Live Search, Windows Live Search and MSN Search, is a search engine released on June 3, 2009."
+      },
+      {
+        "id": 23,
+        "question": "What augmented reality project has been presented by Microsoft ?",
+        "propositions": [
+          "Tinyput",
+          "Skinput",
+          "Skinfall",
+          "Skinproject"
+        ],
+        "réponse": "Skinput",
+        "anecdote": "In February 2011, Microsoft Research presented its prospective in augmented reality, particularly with the projects Skinput and Light Space."
+      },
+      {
+        "id": 24,
+        "question": "In how many technical branches is the Windows range composed ?",
+        "propositions": [
+          "Five",
+          "Two",
+          "Four",
+          "Three"
+        ],
+        "réponse": "Five",
+        "anecdote": "The five technical branches of Windows are the 16-bit branch, the Windows 9x branch, the NT branch, the CE branch, and the NT branch."
+      },
+      {
+        "id": 25,
+        "question": "What Microsoft competitor did he condemn at the release of Internet Explorer 3.0 ?",
+        "propositions": [
+          "Netscape",
+          "NetView",
+          "NetPlan",
+          "NetBrowser"
+        ],
+        "réponse": "Netscape",
+        "anecdote": "Support for Netscape Navigator ceased in 2008, but it is the source of the Mozilla Firefox browser, still in development."
+      },
+      {
+        "id": 26,
+        "question": "Which company, known for its game Minecraft, was bought by Microsoft in 2014 ?",
+        "propositions": [
+          "Mojung",
+          "Mojing",
+          "Motang",
+          "Mojang"
+        ],
+        "réponse": "Mojang",
+        "anecdote": "In 2011, Napster's founder and former Facebook Solidarity CEO, Sean Parker, proposed investing in Mojang."
+      },
+      {
+        "id": 27,
+        "question": "What is the code name of the project associated with the Microsoft Edge browser ?",
+        "propositions": [
+          "Spartan",
+          "Runny",
+          "Ben",
+          "John"
+        ],
+        "réponse": "Spartan",
+        "anecdote": "Since the month of February 2018, Edge is no longer an exclusivity to Windows 10: Microsoft has ported the browser on iOS and Android."
+      },
+      {
+        "id": 28,
+        "question": "Which section of the Microsoft Online Store was deleted in July 2019 ?",
+        "propositions": [
+          "Ebooks",
+          "Tbooks",
+          "ChromeBooks",
+          "WinBooks"
+        ],
+        "réponse": "Ebooks",
+        "anecdote": "Digital books (free or purchased on the platform) will no longer be readable following the shutdown of the DRM servers."
+      },
+      {
+        "id": 29,
+        "question": "What is the small name given to the sport bracelet marketed by Microsoft ?",
+        "propositions": [
+          "Microsoft Lace",
+          "Microsoft Pace",
+          "Microsoft Bracelet",
+          "Microsoft Band"
+        ],
+        "réponse": "Microsoft Band",
+        "anecdote": "Marketed in 2014, this is the first device powered by Microsoft Health, Microsoft's new health service."
+      },
+      {
+        "id": 30,
+        "question": "What is the approximate area of the Microsoft Redmond Campus ?",
+        "propositions": [
+          "900,000 m²",
+          "8 km²",
+          "80 km²",
+          "100,000 m²"
+        ],
+        "réponse": "80 km²",
+        "anecdote": "The historic campuses of East and West have more than 120 buildings of nearly 700,000 m² on more than 200 hectares."
+      }
+      ]
+      }
+    ],
+    "de": [
+    {
+      "débutant": [
+      {
+        "id": 1,
+        "question": "In welcher Stadt befand sich 2018 der Hauptsitz von Microsoft ?",
+        "propositions": [
+          "London",
+          "New York",
+          "Redmond",
+          "Paris"
+        ],
+        "réponse": "Redmond",
+        "anecdote": "In dieser Stadt im US-Bundesstaat Washington befinden sich der Hauptsitz des Microsoft-Softwareherstellers und die amerikanische Niederlassung von Nintendo."
+      },
+      {
+        "id": 2,
+        "question": "Wie heißt die von Microsoft entwickelte Videospielkonsole ?",
+        "propositions": [
+          "Game Gear",
+          "Wii",
+          "Xbox",
+          "PlayStation"
+        ],
+        "réponse": "Xbox",
+        "anecdote": "Auf einer Xbox konnten ursprünglich nur Xbox-Programme von einem proprietären Microsoft-DVD-Format ausgeführt werden."
+      },
+      {
+        "id": 3,
+        "question": "Wer ist mit Bill Gates der Mitbegründer von Microsoft ?",
+        "propositions": [
+          "Paul Allen",
+          "Larry Ellison",
+          "Alex Spanos",
+          "Elon Musk"
+        ],
+        "réponse": "Paul Allen",
+        "anecdote": "Paul Allen ist auch ein Anteilseigner eines Finanzimperiums mehrerer Unternehmen auf dem Gebiet der Hochtechnologie."
+      },
+      {
+        "id": 4,
+        "question": "Welcher berühmte Flugsimulator für PC wurde von Microsoft entwickelt ?",
+        "propositions": [
+          "Freight Simulator",
+          "Fight Simulator",
+          "Fog Simulator",
+          "Flight Simulator"
+        ],
+        "réponse": "Flight Simulator",
+        "anecdote": "Bill Gates ist fasziniert von Antoine de Saint Exupérys Roman 'Nachtflug', der die Geschichte des Fliegens in einem kleinen Flugzeug erzählt."
+      },
+      {
+        "id": 5,
+        "question": "Welchen Namen hat Microsoft für die Vermarktung seines Smartphones gewählt ?",
+        "propositions": [
+          "Lumia",
+          "Loumnia",
+          "Lomna",
+          "Loubna"
+        ],
+        "réponse": "Lumia",
+        "anecdote": "Diese Serie von Smartphones und einem Touchpad ist das Ergebnis der Zusammenarbeit mit Nokia, dem Hersteller von Telefonen."
+      },
+      {
+        "id": 6,
+        "question": "Welches Betriebssystem wurde zwischen Windows 98 und Windows XP vermarktet ?",
+        "propositions": [
+          "Windows VE",
+          "Windows TE",
+          "Windows ME",
+          "Windows RE"
+        ],
+        "réponse": "Windows ME",
+        "anecdote": "Windows ME, das vollständig auf Windows 98 und Windows 95 basiert, war die Windows-Produktfamilie und das Multimedia-Pendant."
+      },
+      {
+        "id": 7,
+        "question": "Welcher Online-Speicherdienst wurde von Microsoft erfunden ?",
+        "propositions": [
+          "FourDrive",
+          "ThreeDrive",
+          "TwoDrive",
+          "OneDrive"
+        ],
+        "réponse": "OneDrive",
+        "anecdote": "Der Dienst kann auf zwei Arten verwendet werden: über einen Webbrowser oder über die OneDrive-Software, die die Synchronisierung ermöglicht."
+      },
+      {
+        "id": 8,
+        "question": "Wie heißt das von Microsoft-Designern entworfene Tablet ?",
+        "propositions": [
+          "Tabsoft",
+          "Oberfläche",
+          "Hurrikan",
+          "Sturm"
+        ],
+        "réponse": "Oberfläche",
+        "anecdote": "Die erste Tablet-Generation wurde 2012 vorgestellt, wo zwei Versionen von Surface vorgestellt werden: Surface RT und Surface Pro."
+      },
+      {
+        "id": 9,
+        "question": "In welchem Jahr wurde das multinationale Unternehmen Microsoft Corporation gegründet ?",
+        "propositions": [
+          "1975",
+          "2005",
+          "1995",
+          "1985"
+        ],
+        "réponse": "1975",
+        "anecdote": "Kerngeschäft ist die Entwicklung und der Vertrieb von Betriebssystemen, Software- und Hardwareprodukten."
+      },
+      {
+        "id": 10,
+        "question": "Welches Wort steckt hinter dem Buchstaben O des MS-DOS-Betriebssystems ?",
+        "propositions": [
+          "Betrieb",
+          "Opera",
+          "Betreiber",
+          "Opal"
+        ],
+        "réponse": "Betrieb",
+        "anecdote": "Dieses System, das im realen Einzelbenutzer- und Einzelbenutzermodus ausgeführt wird, war standardmäßig mit einer Befehlszeilenschnittstelle ausgestattet."
+      }
+    ],
+    "confirmé": [
+      {
+        "id": 11,
+        "question": "Wer hat Bill Gates im Januar 2000 als Chief Executive Officer abgelöst ?",
+        "propositions": [
+          "Steve Ballmer",
+          "Satya Nadella",
+          "Steve Stones",
+          "Steve Jobs"
+        ],
+        "réponse": "Steve Ballmer",
+        "anecdote": "Seit 2014 ist Steve Ballmer der neue Eigentümer der Clippers, einer NBA-Basketball-Franchise mit Sitz in Los Angeles."
+      },
+      {
+        "id": 12,
+        "question": "Wie heißt die Frau von Bill Gates, die 1964 in Dallas geboren wurde ?",
+        "propositions": [
+          "Melanie",
+          "Mandy",
+          "Melissa",
+          "Melinda"
+        ],
+        "réponse": "Melinda",
+        "anecdote": "Für die Stiftung, deren Mitvorsitzende sie seit 1999 ist, reist Melinda Gates mehrmals im Jahr in Länder Afrikas und Asiens."
+      },
+      {
+        "id": 13,
+        "question": "Wie viel wird Bill Gates für die Bekämpfung des Klimawandels ausgeben ?",
+        "propositions": [
+          "1 Mrd. USD",
+          "500 Millionen Dollar",
+          "2 Mrd. USD",
+          "150 Mio. USD"
+        ],
+        "réponse": "2 Mrd. USD",
+        "anecdote": "Bill Gates wurde, vor allem dank des kommerziellen Erfolgs von Microsoft, von 1996 bis 2007 zum reichsten Mann der Welt."
+      },
+      {
+        "id": 14,
+        "question": "Um wie viel hat sich die Belegschaft von Microsoft von 2005 bis 2014 erhöht ?",
+        "propositions": [
+          "Vervierfacht",
+          "Verdoppelt",
+          "Quintuplé",
+          "Triplé"
+        ],
+        "réponse": "Verdoppelt",
+        "anecdote": "Der Börsengang von Microsoft brachte Microsoft-Mitarbeitern vier Milliardäre und rund 12.000 Millionäre ein."
+      },
+      {
+        "id": 15,
+        "question": "In welchem Jahr hat Microsoft die Skype-Software gekauft ?",
+        "propositions": [
+          "2009",
+          "2008",
+          "2011",
+          "2001"
+        ],
+        "réponse": "2011",
+        "anecdote": "Skype ist eine Software, mit der Benutzer Telefon- oder Videoanrufe über das Internet sowie die Bildschirmfreigabe durchführen können."
+      },
+      {
+        "id": 16,
+        "question": "Was bedeuten die RT-Buchstaben des Windows RT-Produktnamens ?",
+        "propositions": [
+          "RandTime",
+          "Offiziell keine",
+          "RogueTime",
+          "RunTime"
+        ],
+        "réponse": "Offiziell keine",
+        "anecdote": "Betriebssystem von Windows 8, das Akronym RT hat keine offizielle Bedeutung, bezieht sich aber normalerweise auf Runtime."
+      },
+      {
+        "id": 17,
+        "question": "Welche Hardware kann eine Schnittstelle ohne Controller steuern ?",
+        "propositions": [
+          "Konect",
+          "PowerShot",
+          "Kinect",
+          "Xbox Gun"
+        ],
+        "réponse": "Kinect",
+        "anecdote": "Ursprünglich als Project Natal bekannt, stammt die Kinect-Wortmarke aus den englischen Wörtern kinetic (kinetic) und connect (connect)."
+      },
+      {
+        "id": 18,
+        "question": "Nach wie vielen Jahren wurde der Nachfolger von Windows XP vermarktet ?",
+        "propositions": [
+          "5 Jahre",
+          "3 Jahre",
+          "4 Jahre",
+          "6 Jahre"
+        ],
+        "réponse": "5 Jahre",
+        "anecdote": "Windows XP (Home und Professional) wurde durch Windows Vista ersetzt und in einer Auflage von fast 400 Millionen Exemplaren verkauft."
+      },
+      {
+        "id": 19,
+        "question": "Welche Benutzeroberfläche hat das Luna-Thema von Windows XP ersetzt ?",
+        "propositions": [
+          "Zorro",
+          "Rollo",
+          "Doro",
+          "Aero"
+        ],
+        "réponse": "Aero",
+        "anecdote": "Die Aero-Benutzeroberfläche wurde so gestaltet, dass sie leistungsfähiger, effizienter und ästhetischer ist als das alte Luna-Thema."
+      },
+      {
+        "id": 20,
+        "question": "Wie oft hat Microsoft im Jahr 2019 sein kommerzielles Logo seit seiner Einführung angepasst ?",
+        "propositions": [
+          "4 mal",
+          "3 mal",
+          "1 Mal",
+          "2 mal"
+        ],
+        "réponse": "4 mal",
+        "anecdote": "Die Produkte des neuesten Logos sind Office für das rote Quadrat, Xbox für das Quadrat, Windows für das blaue Quadrat und Bing für das gelbe Quadrat."
+      }
+    ],
+    "expert": [
+      {
+        "id": 21,
+        "question": "Wie sieht das Logo in Cortana-Blautönen aus ?",
+        "propositions": [
+          "Runde",
+          "Oval",
+          "Platz",
+          "Rechteckig"
+        ],
+        "réponse": "Runde",
+        "anecdote": "Cortana ist der Name des intelligenten persönlichen Assistenten, den Microsoft für seine Windows Phone-Plattform ab Version 8.1."
+      },
+      {
+        "id": 22,
+        "question": "Welches Kommunikationsbudget war mit dem Start der Bing-Suchmaschine verbunden ?",
+        "propositions": [
+          "65 Millionen",
+          "90 Millionen",
+          "30 Millionen",
+          "15 Millionen"
+        ],
+        "réponse": "90 Millionen",
+        "anecdote": "Bing, früher Live Search, Windows Live Search und MSN Search, ist eine am 3. Juni 2009 veröffentlichte Suchmaschine."
+      },
+      {
+        "id": 23,
+        "question": "Welches Augmented Reality-Projekt wurde von Microsoft vorgestellt ?",
+        "propositions": [
+          "Skinput",
+          "Hautfall",
+          "Hautprojekt",
+          "Tinyput"
+        ],
+        "réponse": "Skinput",
+        "anecdote": "Im Februar 2011 präsentierte Microsoft Research seine Perspektive in Augmented Reality, insbesondere mit den Projekten Skinput und Light Space."
+      },
+      {
+        "id": 24,
+        "question": "Aus wie vielen technischen Branchen besteht das Windows-Sortiment ?",
+        "propositions": [
+          "Fünf",
+          "Vier",
+          "Drei",
+          "Zwei"
+        ],
+        "réponse": "Fünf",
+        "anecdote": "Die fünf technischen Zweige von Windows sind der 16-Bit-Zweig, der Windows 9x-Zweig, der NT-Zweig, der CE-Zweig und der NT-Zweig."
+      },
+      {
+        "id": 25,
+        "question": "Welchen Microsoft-Konkurrenten hat er bei der Veröffentlichung von Internet Explorer 3.0 verurteilt ?",
+        "propositions": [
+          "NetBrowser",
+          "NetPlan",
+          "NetView",
+          "Netscape"
+        ],
+        "réponse": "Netscape",
+        "anecdote": "Die Unterstützung für Netscape Navigator wurde 2008 eingestellt, aber es ist der Ursprung des Mozilla Firefox-Browsers, der noch in der Entwicklung ist."
+      },
+      {
+        "id": 26,
+        "question": "Welches Unternehmen, das für sein Spiel Minecraft bekannt ist, wurde 2014 von Microsoft gekauft ?",
+        "propositions": [
+          "Mojing",
+          "Mojang",
+          "Motang",
+          "Mojung"
+        ],
+        "réponse": "Mojang",
+        "anecdote": "Im Jahr 2011 bot Napsters Gründer und ehemaliger Solidarit?-Facebook-Präsident Sean Parker an, in Mojang zu investieren."
+      },
+      {
+        "id": 27,
+        "question": "Wie lautet der Codename des Projekts, das dem Microsoft Edge-Browser zugeordnet ist ?",
+        "propositions": [
+          "John",
+          "Spartanisch",
+          "Flüssig",
+          "Ben"
+        ],
+        "réponse": "Spartanisch",
+        "anecdote": "Seit Februar 2018 ist Edge keine Exklusivität mehr für Windows 10: Microsoft hat den Browser auf iOS und Android portiert."
+      },
+      {
+        "id": 28,
+        "question": "Welcher Bereich des Microsoft-Onlineshops wurde im Juli 2019 entfernt ?",
+        "propositions": [
+          "ChromeBooks",
+          "WinBooks",
+          "Tbooks",
+          "Ebooks"
+        ],
+        "réponse": "Ebooks",
+        "anecdote": "Digitale Bücher (kostenlos oder auf der Plattform gekauft) können nach dem Stoppen der DRM-Server nicht mehr gelesen werden."
+      },
+      {
+        "id": 29,
+        "question": "Wie heißt das von Microsoft vertriebene Sportarmband ?",
+        "propositions": [
+          "Microsoft Armband",
+          "Microsoft Band",
+          "Microsoft Pace",
+          "Microsoft Lace"
+        ],
+        "réponse": "Microsoft Band",
+        "anecdote": "Dieses Gerät wurde 2014 auf den Markt gebracht und ist das erste Gerät, das von Microsoft Health, dem neuen Gesundheitsdienst von Microsoft, betrieben wird."
+      },
+      {
+        "id": 30,
+        "question": "Was ist die ungefähre Fläche des Microsoft Redmond Campus ?",
+        "propositions": [
+          "900.000 m2",
+          "80 km²",
+          "8 km²",
+          "100.000 m²"
+        ],
+        "réponse": "80 km²",
+        "anecdote": "Die historischen Standorte von Ost und West verfügen über mehr als 120 Gebäude von fast 700.000 m² auf mehr als 200 Hektar."
+      }
+      ]
+      }
+    ],
+    "es": [
+    {
+      "débutant": [
+      {
+        "id": 1,
+        "question": "¿En qué ciudad se encontraba, en 2018, la sede de Microsoft ?",
+        "propositions": [
+          "Nueva york",
+          "Londres",
+          "Redmond",
+          "Paris"
+        ],
+        "réponse": "Redmond",
+        "anecdote": "Esta ciudad del estado de Washington alberga la sede del editor de software de Microsoft y la sucursal estadounidense de Nintendo."
+      },
+      {
+        "id": 2,
+        "question": "¿Cuál es el nombre de la consola de videojuegos diseñada por Microsoft ?",
+        "propositions": [
+          "Xbox",
+          "Game Gear",
+          "PlayStation",
+          "Wii"
+        ],
+        "réponse": "Xbox",
+        "anecdote": "Originalmente, una Xbox solo podía ejecutar programas de Xbox desde un medio de formato de DVD propietario."
+      },
+      {
+        "id": 3,
+        "question": "¿Quién, con Bill Gates, es el co-fundador de Microsoft ?",
+        "propositions": [
+          "Larry Ellison",
+          "Paul Allen",
+          "Alex Spanos",
+          "Elon Musk"
+        ],
+        "réponse": "Paul Allen",
+        "anecdote": "Paul Allen también es accionista de un imperio financiero de múltiples compañías en los campos de las altas tecnologías."
+      },
+      {
+        "id": 4,
+        "question": "¿Qué famoso simulador de vuelo para PC ha sido diseñado por Microsoft ?",
+        "propositions": [
+          "Freight Simulator",
+          "Fog Simulator",
+          "Fight Simulator",
+          "Flight Simulator"
+        ],
+        "réponse": "Flight Simulator",
+        "anecdote": "Bill Gates está fascinado por la novela de Antoine de Saint Exupéry 'Night Flight', que narra la historia de volar en un avión pequeño."
+      },
+      {
+        "id": 5,
+        "question": "¿Qué nombre eligió Microsoft para la comercialización de su teléfono inteligente ?",
+        "propositions": [
+          "Loubna",
+          "Loumnia",
+          "Lomna",
+          "Lumia"
+        ],
+        "réponse": "Lumia",
+        "anecdote": "Esta serie de teléfonos inteligentes y un panel táctil es el resultado de la cooperación con Nokia, el fabricante de teléfonos."
+      },
+      {
+        "id": 6,
+        "question": "¿Qué sistema operativo se comercializó entre Windows 98 y Windows XP ?",
+        "propositions": [
+          "Windows RE",
+          "Windows ME",
+          "Windows VE",
+          "Windows TE"
+        ],
+        "réponse": "Windows ME",
+        "anecdote": "Totalmente basado en Windows 98, basado en Windows 95, Windows ME era la familia de Windows y el colgante multimedia."
+      },
+      {
+        "id": 7,
+        "question": "¿Qué servicio de almacenamiento en línea fue inventado por Microsoft ?",
+        "propositions": [
+          "FourDrive",
+          "OneDrive",
+          "TwoDrive",
+          "ThreeDrive"
+        ],
+        "réponse": "OneDrive",
+        "anecdote": "El servicio se puede utilizar de dos maneras: a través de un navegador web o del software OneDrive que permite la sincronización."
+      },
+      {
+        "id": 8,
+        "question": "¿Cuál es el nombre de la tableta diseñada por los diseñadores de Microsoft ?",
+        "propositions": [
+          "Tabsoft",
+          "Superficie",
+          "Huracán",
+          "Tormenta"
+        ],
+        "réponse": "Superficie",
+        "anecdote": "La primera generación de tabletas se introdujo en 2012, donde se presentan dos versiones de Surface: Surface RT y Surface Pro."
+      },
+      {
+        "id": 9,
+        "question": "¿En qué año se fundó la corporación multinacional Microsoft Corporation ?",
+        "propositions": [
+          "1985",
+          "2005",
+          "1975",
+          "1995"
+        ],
+        "réponse": "1975",
+        "anecdote": "Su negocio principal es el desarrollo y venta de productos de sistemas operativos, software y hardware."
+      },
+      {
+        "id": 10,
+        "question": "¿Qué palabra está detrás de la letra O del sistema operativo MS-DOS ?",
+        "propositions": [
+          "Ópera",
+          "Operador",
+          "Operando",
+          "Ópalo"
+        ],
+        "réponse": "Operando",
+        "anecdote": "Este sistema que se ejecuta en el mundo real, en modo de usuario único y en modo de usuario único, era requerido por una interfaz de línea de comandos."
+      }
+    ],
+    "confirmé": [
+      {
+        "id": 11,
+        "question": "¿Quién reemplazó a Bill Gates como Director Ejecutivo en enero de 2000 ?",
+        "propositions": [
+          "Steve Stones",
+          "Steve Ballmer",
+          "Steve Jobs",
+          "Satya Nadella"
+        ],
+        "réponse": "Steve Ballmer",
+        "anecdote": "Desde 2014, Steve Ballmer es el nuevo propietario de los Clippers, una franquicia de baloncesto de la NBA con sede en Los Ángeles."
+      },
+      {
+        "id": 12,
+        "question": "¿Cuál es el nombre de la esposa de Bill Gates, nacida en Dallas en 1964 ?",
+        "propositions": [
+          "Melinda",
+          "Mandy",
+          "Melanie",
+          "Melissa"
+        ],
+        "réponse": "Melinda",
+        "anecdote": "Para la fundación que ha copresidido desde 1999, Melinda Gates viaja varias veces al año a países de África y Asia."
+      },
+      {
+        "id": 13,
+        "question": "¿Cuánto gastará Bill Gates en la lucha contra el calentamiento global ?",
+        "propositions": [
+          "$ 2 mil millones",
+          "500 millones de dólares",
+          "$ 150 millones",
+          "$ 1 mil millones"
+        ],
+        "réponse": "$ 2 mil millones",
+        "anecdote": "Bill Gates se convirtió, gracias en gran parte al éxito comercial de Microsoft, en el hombre más rico del mundo desde 1996 hasta 2007."
+      },
+      {
+        "id": 14,
+        "question": "¿Cuánto aumentó la fuerza laboral de Microsoft de 2005 a 2014 ?",
+        "propositions": [
+          "Triplé",
+          "Doblado",
+          "Cuadruplicado",
+          "Quintuplé"
+        ],
+        "réponse": "Doblado",
+        "anecdote": "La IPO de Microsoft hizo cuatro multimillonarios y unos 12,000 millonarios entre los empleados de Microsoft."
+      },
+      {
+        "id": 15,
+        "question": "¿En qué año compró Microsoft el software de Skype ?",
+        "propositions": [
+          "2001",
+          "2008",
+          "2009",
+          "2011"
+        ],
+        "réponse": "2011",
+        "anecdote": "Skype es un software que permite a los usuarios realizar llamadas telefónicas o de video a través de Internet, así como compartir la pantalla."
+      },
+      {
+        "id": 16,
+        "question": "¿Cuál es el significado de las letras RT del nombre del producto Windows RT ?",
+        "propositions": [
+          "RogueTime",
+          "Oficialmente ninguna",
+          "RunTime",
+          "RandTime"
+        ],
+        "réponse": "Oficialmente ninguna",
+        "anecdote": "Sistema operativo derivado de Windows 8, el acrónimo RT no tiene un significado oficial, pero generalmente se conoce como tiempo de ejecución."
+      },
+      {
+        "id": 17,
+        "question": "¿Qué hardware puede controlar una interfaz sin usar un controlador ?",
+        "propositions": [
+          "Kinect",
+          "Konect",
+          "PowerShot",
+          "Xbox Gun"
+        ],
+        "réponse": "Kinect",
+        "anecdote": "Originalmente conocido como Proyecto Natal, la marca de palabra Kinect proviene de las palabras en inglés cinética (cinética) y conectar (conectar)."
+      },
+      {
+        "id": 18,
+        "question": "¿Después de cuántos años se ha comercializado el sucesor de Windows XP ?",
+        "propositions": [
+          "6 años",
+          "5 años",
+          "3 años",
+          "4 años"
+        ],
+        "réponse": "5 años",
+        "anecdote": "Reemplazado por Windows Vista, Windows XP (Home and Professional) se ha vendido a casi 400 millones de copias."
+      },
+      {
+        "id": 19,
+        "question": "¿Qué GUI ha reemplazado el tema de Luna de Windows XP ?",
+        "propositions": [
+          "Rollo",
+          "Aero",
+          "Zorro",
+          "Doro"
+        ],
+        "réponse": "Aero",
+        "anecdote": "La interfaz Aero ha sido diseñada para ser más potente, más eficiente y más estética que el antiguo tema de Luna."
+      },
+      {
+        "id": 20,
+        "question": "En 2019, ¿cuántas veces ha adaptado Microsoft su logotipo empresarial desde su inicio ?",
+        "propositions": [
+          "3 veces",
+          "2 veces",
+          "1 vez",
+          "4 veces"
+        ],
+        "réponse": "4 veces",
+        "anecdote": "Los últimos productos de logotipo son Office para el cuadrado rojo, Xbox para el cuadrado verde, Windows para el cuadrado azul y Bing para el cuadrado amarillo."
+      }
+    ],
+    "expert": [
+      {
+        "id": 21,
+        "question": "¿Cuál es la forma del logo en tonos azulados de Cortana ?",
+        "propositions": [
+          "Rectangular",
+          "Plaza",
+          "Ronda",
+          "Ovalo ","Ovale"
+        ],
+        "réponse": "Ronda",
+        "anecdote": "Cortana es el nombre del asistente personal inteligente desarrollado por Microsoft para su plataforma Windows Phone desde la versión 8.1."
+      },
+      {
+        "id": 22,
+        "question": "¿Qué presupuesto de comunicación se asoció con el lanzamiento del motor de búsqueda Bing ?",
+        "propositions": [
+          "90 millones",
+          "30 millones",
+          "15 millones",
+          "65 millones"
+        ],
+        "réponse": "90 millones",
+        "anecdote": "Bing, anteriormente Live Search, Windows Live Search y MSN Search, es un motor de búsqueda publicado el 3 de junio de 2009."
+      },
+      {
+        "id": 23,
+        "question": "¿Qué proyecto de realidad aumentada ha sido presentado por Microsoft ?",
+        "propositions": [
+          "Caída de la piel",
+          "Proyecto de piel",
+          "Skinput",
+          "Tinyput"
+        ],
+        "réponse": "Skinput",
+        "anecdote": "En febrero de 2011, Microsoft Research presentó su prospectiva en realidad aumentada, particularmente con los proyectos Skinput y Light Space."
+      },
+      {
+        "id": 24,
+        "question": "¿En cuántas ramas técnicas está compuesta la gama de Windows ?",
+        "propositions": [
+          "Dos",
+          "Tres",
+          "Cinco",
+          "Cuatro"
+        ],
+        "réponse": "Cinco",
+        "anecdote": "Las cinco ramas técnicas de Windows son la rama de 16 bits, la rama de Windows 9x, la rama de NT, la rama de CE y la rama de NT."
+      },
+      {
+        "id": 25,
+        "question": "¿A qué competidor de Microsoft condenó en el lanzamiento de Internet Explorer 3.0 ?",
+        "propositions": [
+          "NetView",
+          "NetPlan",
+          "Netscape",
+          "NetBrowser"
+        ],
+        "réponse": "Netscape",
+        "anecdote": "El soporte para Netscape Navigator cesó en 2008, pero es la fuente del navegador Mozilla Firefox, aún en desarrollo."
+      },
+      {
+        "id": 26,
+        "question": "¿Qué compañía, conocida por su juego Minecraft, fue comprada por Microsoft en 2014 ?",
+        "propositions": [
+          "Motang",
+          "Mojing",
+          "Mojang",
+          "Mojung"
+        ],
+        "réponse": "Mojang",
+        "anecdote": "En 2011, el fundador de Napster y ex CEO de Solidaridad de Facebook, Sean Parker, propuso invertir en Mojang."
+      },
+      {
+        "id": 27,
+        "question": "¿Cuál es el nombre en código del proyecto asociado con el navegador Microsoft Edge ?",
+        "propositions": [
+          "Ben",
+          "Runny",
+          "John",
+          "Espartano"
+        ],
+        "réponse": "Espartano",
+        "anecdote": "Desde febrero de 2018, Edge ya no es exclusivo de Windows 10: Microsoft ha portado el navegador en iOS y Android."
+      },
+      {
+        "id": 28,
+        "question": "¿Qué sección de Microsoft Online Store se eliminó en julio de 2019 ?",
+        "propositions": [
+          "ChromeBooks",
+          "Ebooks",
+          "Tbooks",
+          "WinBooks"
+        ],
+        "réponse": "Ebooks",
+        "anecdote": "Los libros digitales (gratuitos o comprados en la plataforma) ya no serán legibles después del cierre de los servidores DRM."
+      },
+      {
+        "id": 29,
+        "question": "¿Cuál es el pequeño nombre que recibe el brazalete deportivo comercializado por Microsoft ?",
+        "propositions": [
+          "Microsoft Pace",
+          "Pulsera de Microsoft",
+          "Microsoft Lace",
+          "Microsoft Band"
+        ],
+        "réponse": "Microsoft Band",
+        "anecdote": "Comercializado en 2014, este es el primer dispositivo impulsado por Microsoft Health, el nuevo servicio de salud de Microsoft."
+      },
+      {
+        "id": 30,
+        "question": "¿Cuál es el área aproximada de Microsoft Redmond Campus ?",
+        "propositions": [
+          "100.000 m²",
+          "80 km²",
+          "900,000 m²",
+          "8 km²"
+        ],
+        "réponse": "80 km²",
+        "anecdote": "Los campus históricos del este y el oeste tienen más de 120 edificios de casi 700,000 m² en más de 200 hectáreas."
+      }
+      ]
+      }
+    ],
+    "it": [
+    {
+      "débutant": [
+      {
+        "id": 1,
+        "question": "In quale città era nel 2018 la sede di Microsoft ?",
+        "propositions": [
+          "Londra",
+          "Redmond",
+          "New York",
+          "Parigi"
+        ],
+        "réponse": "Redmond",
+        "anecdote": "Questa città dello stato di Washington ospita la sede del produttore di software Microsoft e la filiale americana di Nintendo."
+      },
+      {
+        "id": 2,
+        "question": "Quale nome è la console per videogiochi progettata da Microsoft ?",
+        "propositions": [
+          "Game Gear",
+          "Xbox",
+          "Wii",
+          "PlayStation"
+        ],
+        "réponse": "Xbox",
+        "anecdote": "In origine, una Xbox poteva eseguire solo i programmi Xbox da un supporto in formato Microsoft DVD proprietario."
+      },
+      {
+        "id": 3,
+        "question": "Chi, con Bill Gates, è il co-fondatore di Microsoft ?",
+        "propositions": [
+          "Larry Ellison",
+          "Alex Spanos",
+          "Paul Allen",
+          "Elon Musk"
+        ],
+        "réponse": "Paul Allen",
+        "anecdote": "Paul Allen è anche azionista di un impero finanziario di più società nei settori delle alte tecnologie."
+      },
+      {
+        "id": 4,
+        "question": "Quale famoso simulatore di volo per PC è stato progettato da Microsoft ?",
+        "propositions": [
+          "Freight Simulator",
+          "Flight Simulator",
+          "Fog Simulator",
+          "Fight Simulator"
+        ],
+        "réponse": "Flight Simulator",
+        "anecdote": "Bill Gates è affascinato dal romanzo di Antoine de Saint Exupéry 'Night Flight', che racconta la storia di volare su un piccolo aereo."
+      },
+      {
+        "id": 5,
+        "question": "Quale nome è stato scelto da Microsoft per la commercializzazione del suo smartphone ?",
+        "propositions": [
+          "Loumnia",
+          "Lomna",
+          "Lumia",
+          "Loubna"
+        ],
+        "réponse": "Lumia",
+        "anecdote": "Questa serie di smartphone e un touch pad è il risultato della collaborazione con Nokia, il produttore di telefoni."
+      },
+      {
+        "id": 6,
+        "question": "Quale sistema operativo è stato commercializzato tra Windows 98 e Windows XP ?",
+        "propositions": [
+          "Windows VE",
+          "Windows ME",
+          "Windows RE",
+          "Windows TE"
+        ],
+        "réponse": "Windows ME",
+        "anecdote": "Completamente basato su Windows 98, a sua volta basato su Windows 95, Windows ME era la famiglia Windows e il pendente multimediale."
+      },
+      {
+        "id": 7,
+        "question": "Quale servizio di archiviazione online è stato inventato da Microsoft ?",
+        "propositions": [
+          "FourDrive",
+          "TwoDrive",
+          "ThreeDrive",
+          "OneDrive"
+        ],
+        "réponse": "OneDrive",
+        "anecdote": "Il servizio può essere utilizzato in due modi: tramite un browser Web o tramite il software OneDrive che consente la sincronizzazione."
+      },
+      {
+        "id": 8,
+        "question": "Qual è il nome del tablet progettato dai designer Microsoft ?",
+        "propositions": [
+          "Superficie",
+          "Uragano",
+          "Tempesta",
+          "Tabsoft"
+        ],
+        "réponse": "Superficie",
+        "anecdote": "La prima generazione di tablet è stata introdotta nel 2012 in cui sono presentate due versioni di Surface: Surface RT e Surface Pro."
+      },
+      {
+        "id": 9,
+        "question": "In quale anno è stata fondata la società multinazionale Microsoft Corporation ?",
+        "propositions": [
+          "1975",
+          "2005",
+          "1995",
+          "1985"
+        ],
+        "réponse": "1975",
+        "anecdote": "Il suo core business è lo sviluppo e la vendita di sistemi operativi, software e prodotti hardware."
+      },
+      {
+        "id": 10,
+        "question": "Qual è la parola dietro la lettera O del sistema operativo MS-DOS ?",
+        "propositions": [
+          "Operatore",
+          "Opera",
+          "Opale",
+          "Operativo"
+        ],
+        "réponse": "Operativo",
+        "anecdote": "Questo sistema in esecuzione in modalità reale, utente singolo e utente singolo, era richiesto da un'interfaccia della riga di comando."
+      }
+    ],
+    "confirmé": [
+      {
+        "id": 11,
+        "question": "Chi ha sostituito Bill Gates come amministratore delegato nel gennaio 2000 ?",
+        "propositions": [
+          "Satya Nadella",
+          "Steve Ballmer",
+          "Steve Stones",
+          "Steve Jobs"
+        ],
+        "réponse": "Steve Ballmer",
+        "anecdote": "Dal 2014, Steve Ballmer è il nuovo proprietario dei Clippers, una società di basket NBA con sede a Los Angeles."
+      },
+      {
+        "id": 12,
+        "question": "Come si chiama la moglie di Bill Gates, nata a Dallas nel 1964 ?",
+        "propositions": [
+          "Melinda",
+          "Mandy",
+          "Melissa",
+          "Melanie"
+        ],
+        "réponse": "Melinda",
+        "anecdote": "Per la fondazione che ha co-presieduto dal 1999, Melinda Gates viaggia diverse volte all'anno in paesi dell'Africa e dell'Asia."
+      },
+      {
+        "id": 13,
+        "question": "Quanto spenderà Bill Gates nella lotta al riscaldamento globale ?",
+        "propositions": [
+          "$ 150 milioni",
+          "$ 1 miliardo",
+          "$ 2 miliardi",
+          "500 milioni di dollari"
+        ],
+        "réponse": "$ 2 miliardi",
+        "anecdote": "Bill Gates è diventato, grazie in gran parte al successo commerciale di Microsoft, l'uomo più ricco del mondo dal 1996 al 2007."
+      },
+      {
+        "id": 14,
+        "question": "Quanto è aumentata la forza lavoro di Microsoft dal 2005 al 2014 ?",
+        "propositions": [
+          "Quadruplicato",
+          "Raddoppiata",
+          "Triplé",
+          "Quintuplé"
+        ],
+        "réponse": "Raddoppiata",
+        "anecdote": "L'IPO di Microsoft ha fatto quattro miliardari e circa 12.000 milionari tra i dipendenti Microsoft."
+      },
+      {
+        "id": 15,
+        "question": "In quale anno Microsoft ha acquistato il software Skype ?",
+        "propositions": [
+          "2009",
+          "2008",
+          "2001",
+          "2011"
+        ],
+        "réponse": "2011",
+        "anecdote": "Skype è un software che consente agli utenti di effettuare videochiamate o videochiamate su Internet, oltre alla condivisione dello schermo."
+      },
+      {
+        "id": 16,
+        "question": "Qual è il significato delle lettere RT del nome del prodotto Windows RT ?",
+        "propositions": [
+          "Ufficialmente nessuno",
+          "RogueTime",
+          "RandTime",
+          "RunTime"
+        ],
+        "réponse": "Ufficialmente nessuno",
+        "anecdote": "Sistema operativo derivato da Windows 8, l'acronimo RT non ha alcun significato ufficiale ma viene solitamente indicato come Runtime."
+      },
+      {
+        "id": 17,
+        "question": "Quale hardware può controllare un'interfaccia senza utilizzare un controller ?",
+        "propositions": [
+          "Xbox Gun",
+          "Kinect",
+          "PowerShot",
+          "Konect"
+        ],
+        "réponse": "Kinect",
+        "anecdote": "Originariamente noto come Project Natal, il marchio Kinect deriva dalle parole inglesi kinetic (kinetic) e connect (connect)."
+      },
+      {
+        "id": 18,
+        "question": "Dopo quanti anni è stato commercializzato il successore di Windows XP ?",
+        "propositions": [
+          "3 anni",
+          "5 anni",
+          "4 anni",
+          "6 anni"
+        ],
+        "réponse": "5 anni",
+        "anecdote": "Sostituito da Windows Vista, Windows XP (Home e Professional) è stato venduto a quasi 400 milioni di copie."
+      },
+      {
+        "id": 19,
+        "question": "Quale GUI ha sostituito il tema Luna di Windows XP ?",
+        "propositions": [
+          "Zorro",
+          "Doro",
+          "Aero",
+          "Rollo"
+        ],
+        "réponse": "Aero",
+        "anecdote": "L'interfaccia Aero è stata progettata per essere più potente, più efficiente e più esteticamente gradevole del vecchio tema Luna."
+      },
+      {
+        "id": 20,
+        "question": "Nel 2019, quante volte Microsoft ha adattato il suo logo commerciale sin dal suo inizio ?",
+        "propositions": [
+          "2 volte",
+          "1 volta",
+          "3 volte",
+          "4 volte"
+        ],
+        "réponse": "4 volte",
+        "anecdote": "I prodotti dell'ultimo logo sono Office per il quadrato rosso, Xbox per il quadrato, Windows per il quadrato blu e Bing per il quadrato giallo."
+      }
+    ],
+    "expert": [
+      {
+        "id": 21,
+        "question": "Qual è la forma del logo nei toni bluastri di Cortana ?",
+        "propositions": [
+          "Ovale",
+          "Round",
+          "Square",
+          "Rettangolare"
+        ],
+        "réponse": "Round",
+        "anecdote": "Cortana è il nome dell'assistente personale intelligente sviluppato da Microsoft per la sua piattaforma Windows Phone dalla versione 8.1."
+      },
+      {
+        "id": 22,
+        "question": "Quale budget di comunicazione è stato associato al lancio del motore di ricerca di Bing ?",
+        "propositions": [
+          "65 milioni",
+          "30 milioni",
+          "90 milioni",
+          "15 milioni"
+        ],
+        "réponse": "90 milioni",
+        "anecdote": "Bing, precedentemente Live Search, Windows Live Search e MSN Search, è un motore di ricerca pubblicato il 3 giugno 2009."
+      },
+      {
+        "id": 23,
+        "question": "Che progetto di realtà aumentata è stato presentato da Microsoft ?",
+        "propositions": [
+          "Tinyput",
+          "Skinput",
+          "Skinfall",
+          "Skinproject"
+        ],
+        "réponse": "Skinput",
+        "anecdote": "Nel febbraio 2011, Microsoft Research ha presentato le sue prospettive in realtà aumentata, in particolare con i progetti Skinput e Light Space."
+      },
+      {
+        "id": 24,
+        "question": "In quanti settori tecnici è composta la gamma Windows ?",
+        "propositions": [
+          "Due",
+          "Quattro",
+          "Tre",
+          "Cinque"
+        ],
+        "réponse": "Cinque",
+        "anecdote": "I cinque rami tecnici di Windows sono il ramo a 16 bit, il ramo Windows 9x, il ramo NT, il ramo CE e il ramo NT."
+      },
+      {
+        "id": 25,
+        "question": "Quale concorrente di Microsoft ha condannato quando ha rilasciato Internet Explorer 3.0 ?",
+        "propositions": [
+          "NetView",
+          "Netscape",
+          "NetPlan",
+          "NetBrowser"
+        ],
+        "réponse": "Netscape",
+        "anecdote": "Il supporto di Netscape Navigator è cessato nel 2008, ma è l'origine del browser Mozilla Firefox, ancora in fase di sviluppo."
+      },
+      {
+        "id": 26,
+        "question": "Quale compagnia, nota per il suo gioco Minecraft, è stata acquistata da Microsoft nel 2014 ?",
+        "propositions": [
+          "Mojung",
+          "Motang",
+          "Mojang",
+          "Mojing"
+        ],
+        "réponse": "Mojang",
+        "anecdote": "Nel 2011, il fondatore di Napster ed ex presidente di Solidarity di Facebook, Sean Parker, propose di investire a Mojang."
+      },
+      {
+        "id": 27,
+        "question": "Qual è il nome in codice del progetto associato al browser Microsoft Edge ?",
+        "propositions": [
+          "Runny",
+          "John",
+          "Spartan",
+          "Ben"
+        ],
+        "réponse": "Spartan",
+        "anecdote": "Dal mese di febbraio 2018, Edge non è più un'esclusiva per Windows 10: Microsoft ha portato il browser su iOS e Android."
+      },
+      {
+        "id": 28,
+        "question": "Quale sezione del Microsoft Online Store è stata cancellata a luglio 2019 ?",
+        "propositions": [
+          "WinBooks",
+          "Ebook",
+          "Tbooks",
+          "ChromeBooks"
+        ],
+        "réponse": "Ebook",
+        "anecdote": "I libri digitali (gratuiti o acquistati sulla piattaforma) non saranno più leggibili dopo l'arresto dei server DRM."
+      },
+      {
+        "id": 29,
+        "question": "Qual è il nome piccolo dato al braccialetto sportivo commercializzato da Microsoft ?",
+        "propositions": [
+          "Microsoft Band",
+          "Microsoft Lace",
+          "Microsoft Pace",
+          "Braccialetto Microsoft"
+        ],
+        "réponse": "Microsoft Band",
+        "anecdote": "Commercializzato nel 2014, questo è il primo dispositivo alimentato da Microsoft Health, il nuovo servizio sanitario di Microsoft."
+      },
+      {
+        "id": 30,
+        "question": "Qual è l'area approssimativa del Microsoft Redmond Campus ?",
+        "propositions": [
+          "80 km²",
+          "8 km²",
+          "100.000 m²",
+          "900.000 m²"
+        ],
+        "réponse": "80 km²",
+        "anecdote": "I campus storici di oriente e occidente hanno più di 120 edifici di quasi 700.000 m² su oltre 200 ettari."
+      }
+      ]
+      }
+    ],
+    "nl": [
+    {
+      "débutant": [
+      {
+        "id": 1,
+        "question": "In welke stad was in 2018 het hoofdkantoor van Microsoft ?",
+        "propositions": [
+          "Parijs",
+          "New York",
+          "Redmond",
+          "Londen"
+        ],
+        "réponse": "Redmond",
+        "anecdote": "Deze staat in de staat Washington is de thuisbasis van het hoofdkantoor van de Microsoft software-uitgever en de Amerikaanse tak van Nintendo."
+      },
+      {
+        "id": 2,
+        "question": "Welke naam is de videogameconsole ontworpen door Microsoft ?",
+        "propositions": [
+          "Game Gear",
+          "Wii",
+          "PlayStation",
+          "Xbox"
+        ],
+        "réponse": "Xbox",
+        "anecdote": "Een Xbox kan oorspronkelijk alleen Xbox-programma's uitvoeren vanaf een eigen Microsoft DVD-formaat media."
+      },
+      {
+        "id": 3,
+        "question": "Wie, met Bill Gates, is de mede-oprichter van Microsoft ?",
+        "propositions": [
+          "Elon Musk",
+          "Larry Ellison",
+          "Alex Spanos",
+          "Paul Allen"
+        ],
+        "réponse": "Paul Allen",
+        "anecdote": "Paul Allen is ook aandeelhouder van een financieel imperium van meerdere bedrijven op het gebied van geavanceerde technologieën."
+      },
+      {
+        "id": 4,
+        "question": "Welke beroemde vluchtsimulator voor pc is ontworpen door Microsoft ?",
+        "propositions": [
+          "Freight Simulator",
+          "Flight Simulator",
+          "Fog Simulator",
+          "Fight Simulator"
+        ],
+        "réponse": "Flight Simulator",
+        "anecdote": "Bill Gates is gefascineerd door de roman 'Night Flight' van Antoine de Saint Exupéry, die het verhaal vertelt van vliegen in een klein vliegtuig."
+      },
+      {
+        "id": 5,
+        "question": "Welke naam werd door Microsoft gekozen voor de marketing van zijn smartphone ?",
+        "propositions": [
+          "Loubna",
+          "Lomna",
+          "Lumia",
+          "Loumnia"
+        ],
+        "réponse": "Lumia",
+        "anecdote": "Deze serie smartphones en een touchpad is het resultaat van samenwerking met Nokia, fabrikant van telefoons."
+      },
+      {
+        "id": 6,
+        "question": "Welk besturingssysteem werd op de markt gebracht tussen Windows 98 en Windows XP ?",
+        "propositions": [
+          "Windows VE",
+          "Windows ME",
+          "Windows TE",
+          "Windows RE"
+        ],
+        "réponse": "Windows ME",
+        "anecdote": "Volledig gebaseerd op Windows 98, zelf gebaseerd op Windows 95, was Windows ME de Windows-familie en multimedia-pendant."
+      },
+      {
+        "id": 7,
+        "question": "Welke online opslagdienst is door Microsoft bedacht ?",
+        "propositions": [
+          "TwoDrive",
+          "FourDrive",
+          "OneDrive",
+          "ThreeDrive"
+        ],
+        "réponse": "OneDrive",
+        "anecdote": "De service kan op twee manieren worden gebruikt: via een webbrowser of via de OneDrive-software die synchronisatie mogelijk maakt."
+      },
+      {
+        "id": 8,
+        "question": "Hoe heet de tablet ontworpen door Microsoft-ontwerpers ?",
+        "propositions": [
+          "Storm",
+          "Oppervlakte",
+          "Tabsoft",
+          "Orkaan"
+        ],
+        "réponse": "Oppervlakte",
+        "anecdote": "De eerste tabletgeneratie werd geïntroduceerd in 2012, waar twee versies van Surface worden gepresenteerd: Surface RT en Surface Pro."
+      },
+      {
+        "id": 9,
+        "question": "In welk jaar werd de multinational Corporation Microsoft Corporation opgericht ?",
+        "propositions": [
+          "1975",
+          "1985",
+          "1995",
+          "2005"
+        ],
+        "réponse": "1975",
+        "anecdote": "Haar kernactiviteit is de ontwikkeling en verkoop van besturingssystemen, software en hardwareproducten."
+      },
+      {
+        "id": 10,
+        "question": "Welk woord staat achter de letter O van het MS-DOS-besturingssysteem ?",
+        "propositions": [
+          "Opera",
+          "Bediening",
+          "Opaal",
+          "Operator"
+        ],
+        "réponse": "Bediening",
+        "anecdote": "Dit systeem dat in real-world, single-user en single-user mode draait, was vereist door een command-line interface."
+      }
+    ],
+    "confirmé": [
+      {
+        "id": 11,
+        "question": "Wie heeft Bill Gates in januari 2000 vervangen als Chief Executive Officer ?",
+        "propositions": [
+          "Steve Stones",
+          "Satya Nadella",
+          "Steve Ballmer",
+          "Steve Jobs"
+        ],
+        "réponse": "Steve Ballmer",
+        "anecdote": "Sinds 2014 is Steve Ballmer de nieuwe eigenaar van de Clippers, een NBA-basketballfranchise gevestigd in Los Angeles."
+      },
+      {
+        "id": 12,
+        "question": "Hoe heet de vrouw van Bill Gates, geboren in 1964 in Dallas ?",
+        "propositions": [
+          "Melinda",
+          "Melanie",
+          "Melissa",
+          "Mandy"
+        ],
+        "réponse": "Melinda",
+        "anecdote": "Voor de stichting die ze sinds 1999 heeft voorgezeten, reist Melinda Gates verschillende keren per jaar naar landen in Afrika en Azië."
+      },
+      {
+        "id": 13,
+        "question": "Hoeveel zal Bill Gates besteden aan het bestrijden van klimaatverandering ?",
+        "propositions": [
+          "500 miljoen dollar",
+          "$ 2 miljard",
+          "$ 1 miljard",
+          "$ 150 miljoen"
+        ],
+        "réponse": "$ 2 miljard",
+        "anecdote": "Bill Gates werd, grotendeels dankzij het commerciële succes van Microsoft, de rijkste man van de wereld van 1996 tot 2007."
+      },
+      {
+        "id": 14,
+        "question": "Hoeveel steeg het personeelsbestand van Microsoft van 2005 tot 2014 ?",
+        "propositions": [
+          "Quintuplé",
+          "Vervaagd",
+          "Verdubbeld",
+          "Triplé"
+        ],
+        "réponse": "Verdubbeld",
+        "anecdote": "De IPO van Microsoft maakte vier miljardairs en ongeveer 12.000 miljonairs onder werknemers van Microsoft."
+      },
+      {
+        "id": 15,
+        "question": "In welk jaar heeft Microsoft de Skype-software gekocht ?",
+        "propositions": [
+          "2008",
+          "2011",
+          "2001",
+          "2009"
+        ],
+        "réponse": "2011",
+        "anecdote": "Skype is software waarmee gebruikers via internet telefoon- of videogesprekken kunnen voeren, evenals het delen van schermen."
+      },
+      {
+        "id": 16,
+        "question": "Wat is de betekenis van de RT-letters van de Windows RT-productnaam ?",
+        "propositions": [
+          "RogueTime",
+          "RunTime",
+          "Officieel Geen",
+          "RandTime"
+        ],
+        "réponse": "Officieel Geen",
+        "anecdote": "Besturingssysteem van Windows 8, het acroniem RT heeft geen officiële betekenis maar verwijst meestal naar Runtime."
+      },
+      {
+        "id": 17,
+        "question": "Welke hardware kan een interface besturen zonder een controller te gebruiken ?",
+        "propositions": [
+          "Konect",
+          "PowerShot",
+          "Xbox Gun",
+          "Kinect"
+        ],
+        "réponse": "Kinect",
+        "anecdote": "Oorspronkelijk bekend als Project Natal, komt het Kinect-woordmerk van de Engelse woorden kinetisch (kinetisch) en verbinden (verbinden)."
+      },
+      {
+        "id": 18,
+        "question": "Na hoeveel jaar is de opvolger van Windows XP op de markt gebracht ?",
+        "propositions": [
+          "6 jaar",
+          "5 jaar",
+          "4 jaar",
+          "3 jaar"
+        ],
+        "réponse": "5 jaar",
+        "anecdote": "Vervangen door Windows Vista, Windows XP (Home en Professional) is verkocht voor bijna 400 miljoen exemplaren."
+      },
+      {
+        "id": 19,
+        "question": "Welke GUI heeft het Luna-thema van Windows XP vervangen ?",
+        "propositions": [
+          "Doro",
+          "Aero",
+          "Zorro",
+          "Rollo"
+        ],
+        "réponse": "Aero",
+        "anecdote": "De Aero-interface is ontworpen om krachtiger, efficiënter en esthetisch aantrekkelijker te zijn dan het oude Luna-thema."
+      },
+      {
+        "id": 20,
+        "question": "Hoe vaak heeft Microsoft in 2019 het logo sinds de oprichting aangepast ?",
+        "propositions": [
+          "2 keer",
+          "1 keer",
+          "4 keer",
+          "3 keer"
+        ],
+        "réponse": "4 keer",
+        "anecdote": "De producten van het nieuwste logo zijn Office voor het rode vierkant, Xbox voor het vierkant, Windows voor het blauwe vierkant en Bing voor het gele vierkant."
+      }
+    ],
+    "expert": [
+      {
+        "id": 21,
+        "question": "Wat is de vorm van het logo in blauwachtige tinten van Cortana ?",
+        "propositions": [
+          "Rechthoekig",
+          "Ronde",
+          "Vierkant",
+          "Oval"
+        ],
+        "réponse": "Ronde",
+        "anecdote": "Cortana is de intelligente persoonlijke assistent die door Microsoft is ontwikkeld voor zijn Windows Phone-platform vanaf versie 8.1."
+      },
+      {
+        "id": 22,
+        "question": "Welk communicatiebudget was gekoppeld aan de lancering van de Bing-zoekmachine ?",
+        "propositions": [
+          "90 miljoen",
+          "65 miljoen",
+          "30 miljoen",
+          "15 miljoen"
+        ],
+        "réponse": "90 miljoen",
+        "anecdote": "Bing, voorheen Live Search, Windows Live Search en MSN Search, is een zoekmachine die op 3 juni 2009 is uitgebracht."
+      },
+      {
+        "id": 23,
+        "question": "Welk augmented reality-project is gepresenteerd door Microsoft ?",
+        "propositions": [
+          "Tinyput",
+          "Skinfall",
+          "Skinput",
+          "Skinproject"
+        ],
+        "réponse": "Skinput",
+        "anecdote": "In februari 2011 presenteerde Microsoft Research haar prospectieve in augmented reality, in het bijzonder met de projecten Skinput en Light Space."
+      },
+      {
+        "id": 24,
+        "question": "Hoeveel technische branches bestaat de Windows-reeks ?",
+        "propositions": [
+          "Twee",
+          "Vijf",
+          "Drie",
+          "Vier"
+        ],
+        "réponse": "Vijf",
+        "anecdote": "De vijf technische takken van Windows zijn de 16-bit branch, de Windows 9x branch, de NT branch, de CE branch en de NT branch."
+      },
+      {
+        "id": 25,
+        "question": "Welke Microsoft-concurrent veroordeelde hij toen de release van Internet Explorer 3.0 ?",
+        "propositions": [
+          "Netscape",
+          "NetBrowser",
+          "NetView",
+          "NetPlan"
+        ],
+        "réponse": "Netscape",
+        "anecdote": "Netscape Navigator-ondersteuning is in 2008 gestopt, maar het is de oorsprong van de Mozilla Firefox-browser, die nog in ontwikkeling is."
+      },
+      {
+        "id": 26,
+        "question": "Welk bedrijf, bekend van de game Minecraft, is in 2014 door Microsoft gekocht ?",
+        "propositions": [
+          "Motang",
+          "Mojung",
+          "Mojing",
+          "Mojang"
+        ],
+        "réponse": "Mojang",
+        "anecdote": "In 2011 stelde de oprichter en voormalige Facebook Solidarnity CEO van Napster, Sean Parker, voor om te investeren in Mojang."
+      },
+      {
+        "id": 27,
+        "question": "Wat is de codenaam van het project dat is gekoppeld aan de Microsoft Edge-browser ?",
+        "propositions": [
+          "Runny",
+          "Spartan",
+          "John",
+          "Ben"
+        ],
+        "réponse": "Spartan",
+        "anecdote": "Sinds februari 2018 is Edge niet langer exclusief voor Windows 10: Microsoft heeft de browser geport op iOS en Android."
+      },
+      {
+        "id": 28,
+        "question": "Welk gedeelte van de online winkel van Microsoft is in juli 2019 verwijderd ?",
+        "propositions": [
+          "ChromeBooks",
+          "Ebooks",
+          "Tbooks",
+          "WinBooks"
+        ],
+        "réponse": "Ebooks",
+        "anecdote": "Digitale boeken (gratis of gekocht op het platform) zijn niet langer leesbaar nadat de DRM-servers zijn gestopt."
+      },
+      {
+        "id": 29,
+        "question": "Wat is de kleine naam voor de sportarmband die door Microsoft op de markt wordt gebracht ?",
+        "propositions": [
+          "Microsoft Band",
+          "Microsoft Lace",
+          "Microsoft Pace",
+          "Microsoft Armband"
+        ],
+        "réponse": "Microsoft Band",
+        "anecdote": "Op de markt gebracht in 2014, is dit het eerste apparaat dat wordt aangedreven door Microsoft Health, de nieuwe gezondheidsdienst van Microsoft."
+      },
+      {
+        "id": 30,
+        "question": "Wat is de omgeving van de Microsoft Redmond Campus ?",
+        "propositions": [
+          "100.000 m²",
+          "8 km²",
+          "80 km²",
+          "900.000 m²"
+        ],
+        "réponse": "80 km²",
+        "anecdote": "De historische campussen van Oost en West hebben meer dan 120 gebouwen van bijna 700.000 m² op meer dan 200 hectare."
+      }
+      ]
+      }
+    ]
+  }
+}

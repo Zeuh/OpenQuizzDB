@@ -1,0 +1,374 @@
+{
+  "fournisseur": "OpenQuizzDB - Fournisseur de contenu libre (www.openquizzdb.org)",
+  "rédacteur": "Nicolas Humbert",
+  "thème": "L'appel du large",
+  "difficulté": 4,
+  "quizz": {
+    "débutant": [
+      {
+        "id": 1,
+        "question": "Le passage du Gois est une chaussée submersible qui relie quelle île française au continent ?",
+        "propositions": [
+          "Oléron",
+          "Ré",
+          "Noirmoutier",
+          "Yeu"
+        ],
+        "réponse": "Noirmoutier",
+        "anecdote": "Le passage n'est praticable en voiture ou à pied qu'à marée basse car il est recouvert à marée haute."
+      },
+      {
+        "id": 2,
+        "question": "Située en mer Ionienne, de quel pays l'île de Corfou dépend-elle ?",
+        "propositions": [
+          "Italie",
+          "Grèce",
+          "Croatie",
+          "Albanie"
+        ],
+        "réponse": "Grèce",
+        "anecdote": "L'île est connue dans l'histoire de la Grèce antique en tant que cité grecque sous le nom de Corcyre."
+      },
+      {
+        "id": 3,
+        "question": "Quelle île rattachée en 1913 à la Grèce est le berceau de la civilisation minoenne ?",
+        "propositions": [
+          "Crète",
+          "Rhodes",
+          "Délos",
+          "Eubée"
+        ],
+        "réponse": "Crète",
+        "anecdote": "Associé à la légende du palais du roi Minos, Cnossos est le cur et le site archéologique le plus important de la Crète."
+      },
+      {
+        "id": 4,
+        "question": "Dans quel océan se trouve l'île de Mayotte dans l'archipel des Comores ?",
+        "propositions": [
+          "Océan arctique",
+          "Océan indien",
+          "Océan pacifique",
+          "Océan atlantique"
+        ],
+        "réponse": "Océan indien",
+        "anecdote": "Mayotte est constituée de deux îles principales, Grande-Terre et Petite-Terre, et de plusieurs autres petites îles."
+      },
+      {
+        "id": 5,
+        "question": "De quel pays dépendent les îles Galapagos situées dans l'Est de l'océan Pacifique ?",
+        "propositions": [
+          "Pérou",
+          "Équateur",
+          "Vénézuéla",
+          "Colombie"
+        ],
+        "réponse": "Équateur",
+        "anecdote": "De manière non officielle, elles sont aussi nommées « les Enchantées », en espagnol « Las Enchantas »."
+      },
+      {
+        "id": 6,
+        "question": "Quel était l'ancien nom du Sri Lanka, État insulaire du sous-continent indien ?",
+        "propositions": [
+          "Formose",
+          "Ceylan",
+          "Cipango",
+          "Batavia"
+        ],
+        "réponse": "Ceylan",
+        "anecdote": "Le Sri Lanka possède deux langues officielles reconnues par la constitution du pays à parts égales, le cingalais et le tamoul."
+      },
+      {
+        "id": 7,
+        "question": "Où sont inhumés le peintre postimpressionniste Paul Gauguin ainsi que Jacques Brel ?",
+        "propositions": [
+          "Aux îles Marquises",
+          "Aux îles Gambier",
+          "Aux îles Tuamotu",
+          "Aux îles Australes"
+        ],
+        "réponse": "Aux îles Marquises",
+        "anecdote": "'Nafea faa ipoipo', vendu 7 francs à la mort de Gauguin, a été achetée 265 millions d'euros en 2015."
+      },
+      {
+        "id": 8,
+        "question": "À quel pays est rattachée la Tasmanie et ses mille petites îles ?",
+        "propositions": [
+          "Australie",
+          "Royaume-Uni",
+          "Nouvelle-Zélande",
+          "France"
+        ],
+        "réponse": "Australie",
+        "anecdote": "La Tasmanie fut baptisée « Île de l'Inspiration » en référence à son environnement naturel riche et préservé."
+      },
+      {
+        "id": 9,
+        "question": "Les îles Aléoutiennes sont divisées entre les États-Unis et quel autre pays ?",
+        "propositions": [
+          "La Russie",
+          "Le Canada",
+          "Le Brésil",
+          "Le Japon"
+        ],
+        "réponse": "La Russie",
+        "anecdote": "Les îles Aléoutiennes se prolongent vers l'ouest par les îles Komandorski (îles du Commandeur), situées en Russie."
+      },
+      {
+        "id": 10,
+        "question": "Sur quelle île se sont réfugiés les mutins du Bounty, trois-mâts de la Royal Navy ?",
+        "propositions": [
+          "Nauru",
+          "Cook",
+          "Moorea",
+          "Pitcairn"
+        ],
+        "réponse": "Pitcairn",
+        "anecdote": "Le récit de la mutinerie du Bounty a fait l'objet de nombreuses uvres de fiction."
+      }
+    ],
+    "confirmé": [
+      {
+        "id": 11,
+        "question": "Sur laquelle de ces îles méditerranéennes trouve-t-on un drapeau à tête de maure ?",
+        "propositions": [
+          "Ibiza",
+          "Crète",
+          "Sicile",
+          "Sardaigne"
+        ],
+        "réponse": "Sardaigne",
+        "anecdote": "La Sardaigne, séparée de la Corse par les bouches de Bonifacio, est située au milieu de la mer Méditerranée occidentale."
+      },
+      {
+        "id": 12,
+        "question": "Lequel de ces grands personnages de la musique classique séjourna à Majorque ?",
+        "propositions": [
+          "Frédéric Chopin",
+          "Franz Liszt",
+          "Hector Berlioz",
+          "Gustav Mahler"
+        ],
+        "réponse": "Frédéric Chopin",
+        "anecdote": "En 1838, Chopin séjourna à Majorque avec les deux enfants de George Sand, Solange et Maurice."
+      },
+      {
+        "id": 13,
+        "question": "Portoferraio est la principale agglomération de quelle île italienne ?",
+        "propositions": [
+          "Ischia",
+          "Elbe",
+          "Capri",
+          "Lipari"
+        ],
+        "réponse": "Elbe",
+        "anecdote": "Portoferraio se trouve sur la côte nord de l'île sur les rives occidentales de la baie homonyme."
+      },
+      {
+        "id": 14,
+        "question": "Sur quel lac peut-on voir les îles Borromées, au nombre de cinq ?",
+        "propositions": [
+          "Lac Majeur",
+          "Lac dIséo",
+          "Lac de Côme",
+          "Lac de Garde"
+        ],
+        "réponse": "Lac Majeur",
+        "anecdote": "La région bénéficie d'un climat qui apporte une douceur très appréciée dès le début du printemps."
+      },
+      {
+        "id": 15,
+        "question": "De quel archipel fait partie l'Île Maurice aux origines volcaniques ?",
+        "propositions": [
+          "Comores",
+          "Maldives",
+          "Mascareignes",
+          "Seychelles"
+        ],
+        "réponse": "Mascareignes",
+        "anecdote": "La musique et la danse mauricienne principale est le séga et le séga ravanne (séga typique de l'ancien temps)."
+      },
+      {
+        "id": 16,
+        "question": "Dans quel pays se trouve l'île de Komodo, entre Sumbawa et Florès ?",
+        "propositions": [
+          "Japon",
+          "Malaisie",
+          "Philippines",
+          "Indonésie"
+        ],
+        "réponse": "Indonésie",
+        "anecdote": "L'île n'est pas connue uniquement pour son héritage de condamnés mais aussi pour la faune unique qui y habite."
+      },
+      {
+        "id": 17,
+        "question": "De quel pays dépend l'archipel de Zanzibar formé de trois îles principales ?",
+        "propositions": [
+          "Afrique du Sud",
+          "Somalie",
+          "Tanzanie",
+          "Kenya"
+        ],
+        "réponse": "Tanzanie",
+        "anecdote": "Le nom de « Zanzibar » a été donné au Moyen Âge par les navigateurs, signifiant « la terre des noirs »."
+      },
+      {
+        "id": 18,
+        "question": "Le Puncak Jaya ou pyramide Carstensz est le point culminant de quelle île ?",
+        "propositions": [
+          "Sumatra",
+          "Tasmanie",
+          "Bornéo",
+          "Nouvelle-Guinée"
+        ],
+        "réponse": "Nouvelle-Guinée",
+        "anecdote": "Ses 4 884 mètres d'altitude font de cette montagne le point culminant de l'Indonésie et de l'Océanie."
+      },
+      {
+        "id": 19,
+        "question": "Quel était l'ancien nom de Jakarta, capitale de l'Indonésie à l'extrémité nord-ouest de Java ?",
+        "propositions": [
+          "Endive",
+          "Batavia",
+          "Laitue",
+          "Chicorée"
+        ],
+        "réponse": "Batavia",
+        "anecdote": "Les Néerlandais la rebaptisent Batavia en1619 et en font la capitale de facto des Indes orientales néerlandaises."
+      },
+      {
+        "id": 20,
+        "question": "Avec quel pays la France partage-t-elle l'île de Saint-Martin au nord des Antilles ?",
+        "propositions": [
+          "États-Unis",
+          "Pays-Bas",
+          "Royaume-Uni",
+          "Danemark"
+        ],
+        "réponse": "Pays-Bas",
+        "anecdote": "L'anglais, langue co-officielle avec le français et le néerlandais, est la principale langue utilisée sur l'île."
+      }
+    ],
+    "expert": [
+      {
+        "id": 21,
+        "question": "Dans quelle mer se situe l'île de Hainan et la base de lancement de Wenchang ?",
+        "propositions": [
+          "Mer Jaune",
+          "Mer de Chine",
+          "Mer du Japon",
+          "Mer Noire"
+        ],
+        "réponse": "Mer de Chine",
+        "anecdote": "Bénéficiant d'un climat agréable et d'attractions naturelles de qualité, Hainan est très prisée par les chinois."
+      },
+      {
+        "id": 22,
+        "question": "En hawaïen, que signifie « Honolulu », capitale de l'État d'Hawaï ?",
+        "propositions": [
+          "Baie abritée",
+          "Soleil cruel",
+          "Deux mers",
+          "Grand port"
+        ],
+        "réponse": "Baie abritée",
+        "anecdote": "Honolulu est connue pour son quartier touristique sur la plage de Waikiki et pour le cratère volcanique Diamond Head."
+      },
+      {
+        "id": 23,
+        "question": "Quelle est la capitale des îles anglo-normandes de Jersey ?",
+        "propositions": [
+          "Sainte Anne",
+          "Saint-Aubin",
+          "Saint-Hélier",
+          "Saint-Pierre-Port"
+        ],
+        "réponse": "Saint-Hélier",
+        "anecdote": "Au recensement de la population de 2001, Saint-Hélier comptait 28 310 habitants."
+      },
+      {
+        "id": 24,
+        "question": "Laquelle de ces îles ne fait pas partie des îles d'Hyères, aussi appelées îles d'Or ?",
+        "propositions": [
+          "Port-Cros",
+          "Ile des Embiez",
+          "Ile du Levant",
+          "Porquerolles"
+        ],
+        "réponse": "Ile des Embiez",
+        "anecdote": "Une partie des îles et de la zone maritime environnante constitue le parc national de Port-Cros."
+      },
+      {
+        "id": 25,
+        "question": "Que représente la mattanza en Sicile, à la fois fascinante et brutale ?",
+        "propositions": [
+          "Une danse masculine",
+          "Une pêche au thon",
+          "Un jeu de cartes",
+          "Un alcool vert"
+        ],
+        "réponse": "Une pêche au thon",
+        "anecdote": "En Sicile, pour les gourmands, les mois de mai et juin sont synonymes de thon à toutes les sauces."
+      },
+      {
+        "id": 26,
+        "question": "Quelle est la plus grande île de la mer Baltique, à 90 kilomètres à l'est de la Suède ?",
+        "propositions": [
+          "Rügen",
+          "Gotland",
+          "Bornholm",
+          "Falster"
+        ],
+        "réponse": "Gotland",
+        "anecdote": "Deux golfes principaux intègrent cet espace : le golfe de Botnie au nord et le golfe de Finlande à l'est."
+      },
+      {
+        "id": 27,
+        "question": "Au large de quel pays se trouve lîle dAruba, faisant partie des petites Antilles ?",
+        "propositions": [
+          "Brésil",
+          "Pérou",
+          "Venezuela",
+          "Mexique"
+        ],
+        "réponse": "Venezuela",
+        "anecdote": "L'île forme un État du Royaume des Pays-Bas à part entière depuis qu'elle s'est séparée des Antilles néerlandaises en 1986."
+      },
+      {
+        "id": 28,
+        "question": "Bénéficiant d'un climat tropical, quelle île était, par le passé, nommée l'île Bourbon ?",
+        "propositions": [
+          "Maurice",
+          "Mayotte",
+          "La Réunion",
+          "Madagascar"
+        ],
+        "réponse": "La Réunion",
+        "anecdote": "La Réunion est définitivement devenue « île de la Réunion » par arrêté du gouvernement provisoire du 7 mars 1848."
+      },
+      {
+        "id": 29,
+        "question": "D'une longueur de 140 kilomètres, dans quel pays se trouve l'île de Socotra ?",
+        "propositions": [
+          "Somalie",
+          "Égypte",
+          "Oman",
+          "Yémen"
+        ],
+        "réponse": "Yémen",
+        "anecdote": "Socotra est inscrite sur la liste du patrimoine mondial de l'Unesco en raison de sa biodiversité."
+      },
+      {
+        "id": 30,
+        "question": "Quelle est la langue officielle parlée sur l'île de Spitzberg ?",
+        "propositions": [
+          "Norvégien",
+          "Suédois",
+          "Russe",
+          "Danois"
+        ],
+        "réponse": "Norvégien",
+        "anecdote": "Spitzberg fut découverte de manière certaine par l'explorateur néerlandais Willem Barentsz en 1596."
+      }
+    ]
+  }
+}

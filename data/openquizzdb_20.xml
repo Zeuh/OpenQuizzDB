@@ -1,0 +1,344 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes" ?>
+<quizz fournisseur="OpenQuizzDB : Fournisseur de contenu libre"
+       url="https://www.openquizzdb.org"
+       rédacteur="Philippe Bresoux"
+       thème="Dans les méandres d'Internet (Le réseau des réseaux)"
+       difficulté="3 / 5">
+  <débutant>
+    <contenu id="1">
+      <question>Comment appelle-t-on une personne qui utilise Internet pour visiter des sites web ?</question>
+      <propositions>
+        <proposition id="1-1">Navigateur</proposition>
+        <proposition id="1-2">Internaute</proposition>
+        <proposition id="1-3">Webmaster</proposition>
+        <proposition id="1-4">Butineur</proposition>
+      </propositions>
+      <réponse proposition="1-2">Internaute</réponse>
+      <anecdote>Il est considéré que le pourcentage d'internautes par rapport à la population est un indice de développement économique.</anecdote>
+    </contenu>
+    <contenu id="2">
+      <question>Sur Internet, 'Google', 'Bing' et 'Yahoo' sont des exemples de moteurs de...</question>
+      <propositions>
+        <proposition id="2-1">Courrier</proposition>
+        <proposition id="2-2">Navigation</proposition>
+        <proposition id="2-3">Recherche</proposition>
+        <proposition id="2-4">Sauvegarde</proposition>
+      </propositions>
+      <réponse proposition="2-3">Recherche</réponse>
+      <anecdote>Certains sites offrent un moteur comme principale fonctionnalité, on appelle alors « moteur de recherche » le site lui-même.</anecdote>
+    </contenu>
+    <contenu id="3">
+      <question>Quel symbole typographique est toujours représenté dans les adresses e-mails ?</question>
+      <propositions>
+        <proposition id="3-1">Croisillon</proposition>
+        <proposition id="3-2">Arobase</proposition>
+        <proposition id="3-3">Esperluette</proposition>
+        <proposition id="3-4">Astérisque</proposition>
+      </propositions>
+      <réponse proposition="3-2">Arobase</réponse>
+      <anecdote>Une opinion commune voudrait que le mot « arobase » provienne de la contraction du terme typographique « a rond bas ».</anecdote>
+    </contenu>
+    <contenu id="4">
+      <question>Quelle encyclopédie collaborative est actuellement la plus utilisée sur Internet ?</question>
+      <propositions>
+        <proposition id="4-1">Wikipédia</proposition>
+        <proposition id="4-2">Framasoft</proposition>
+        <proposition id="4-3">Netalya</proposition>
+        <proposition id="4-4">Pandocréon</proposition>
+      </propositions>
+      <réponse proposition="4-1">Wikipédia</réponse>
+      <anecdote>Sur Wikipédia, n'importe qui pouvant accéder au site peut modifier la quasi-totalité de ses articles, sous réserve de modération.</anecdote>
+    </contenu>
+    <contenu id="5">
+      <question>Que sont 'Google Chrome', 'Internet Explorer' et 'Mozilla Firefox' ?</question>
+      <propositions>
+        <proposition id="5-1">Encyclopédies</proposition>
+        <proposition id="5-2">Navigateurs</proposition>
+        <proposition id="5-3">Routeurs</proposition>
+        <proposition id="5-4">Moteurs</proposition>
+      </propositions>
+      <réponse proposition="5-2">Navigateurs</réponse>
+      <anecdote>Le terme « navigateur » est inspiré de Netscape Navigator, le navigateur phare principalement utilisé en 1995 et 1996.</anecdote>
+    </contenu>
+    <contenu id="6">
+      <question>Quel logiciel est indispensable pour protéger votre ordinateur sur Internet ?</question>
+      <propositions>
+        <proposition id="6-1">Antivirus</proposition>
+        <proposition id="6-2">Navigateur</proposition>
+        <proposition id="6-3">Messagerie</proposition>
+        <proposition id="6-4">Chat</proposition>
+      </propositions>
+      <réponse proposition="6-1">Antivirus</réponse>
+      <anecdote>Les antivirus peuvent balayer le contenu d'un disque dur, mais également la mémoire vive de l'ordinateur.</anecdote>
+    </contenu>
+    <contenu id="7">
+      <question>Comment désigne-t-on un passionné d'Internet et des nouvelles technologies ?</question>
+      <propositions>
+        <proposition id="7-1">Hacker</proposition>
+        <proposition id="7-2">No life</proposition>
+        <proposition id="7-3">Geek</proposition>
+        <proposition id="7-4">Butineur</proposition>
+      </propositions>
+      <réponse proposition="7-3">Geek</réponse>
+      <anecdote>Du fait de ses passions diverses et de ses connaissances pointues, le geek est parfois perçu comme trop cérébral.</anecdote>
+    </contenu>
+    <contenu id="8">
+      <question>Quels outils permettent de « mettre en mémoire » une adresse web pour y revenir ultérieurement ?</question>
+      <propositions>
+        <proposition id="8-1">Adresses</proposition>
+        <proposition id="8-2">Onglets</proposition>
+        <proposition id="8-3">Extensions</proposition>
+        <proposition id="8-4">Favoris</proposition>
+      </propositions>
+      <réponse proposition="8-4">Favoris</réponse>
+      <anecdote>On retrouve principalement les favoris dans les logiciels de traitement de texte ou pour la navigation internet.</anecdote>
+    </contenu>
+    <contenu id="9">
+      <question>Comment appelle-t-on généralement une discussion instantanée passée sur Internet ?</question>
+      <propositions>
+        <proposition id="9-1">Cookie</proposition>
+        <proposition id="9-2">Chat</proposition>
+        <proposition id="9-3">Spam</proposition>
+        <proposition id="9-4">Hoax</proposition>
+      </propositions>
+      <réponse proposition="9-2">Chat</réponse>
+      <anecdote>Contrairement au courrier électronique, ce moyen de communication permet de conduire un dialogue interactif.</anecdote>
+    </contenu>
+    <contenu id="10">
+      <question>Quelle connexion sans fil pouvez-vous utiliser pour surfer plus facilement sur Internet ?</question>
+      <propositions>
+        <proposition id="10-1">Wi-Fi</proposition>
+        <proposition id="10-2">ADSL</proposition>
+        <proposition id="10-3">RNIS</proposition>
+        <proposition id="10-4">Fibre</proposition>
+      </propositions>
+      <réponse proposition="10-1">Wi-Fi</réponse>
+      <anecdote>La portée atteint plusieurs dizaines de mètres en intérieur (généralement entre une vingtaine et une cinquantaine de mètres).</anecdote>
+    </contenu>
+  </débutant>
+  <confirmé>
+    <contenu id="11">
+      <question>Quelle « box » est reliée à votre ordinateur pour vous connecter à Internet ?</question>
+      <propositions>
+        <proposition id="11-1">Routeur</proposition>
+        <proposition id="11-2">Modem</proposition>
+        <proposition id="11-3">Serveur</proposition>
+        <proposition id="11-4">Wi-Fi</proposition>
+      </propositions>
+      <réponse proposition="11-2">Modem</réponse>
+      <anecdote>Techniquement, l'appareil sert à convertir les données numériques de l'ordinateur en signal modulé, dit « analogique ».</anecdote>
+    </contenu>
+    <contenu id="12">
+      <question>Quel mot français est désormais utilisé pour traduire le mot « e-mail » ?</question>
+      <propositions>
+        <proposition id="12-1">Navigateur</proposition>
+        <proposition id="12-2">Courriel</proposition>
+        <proposition id="12-3">Progiciel</proposition>
+        <proposition id="12-4">Enveloppe</proposition>
+      </propositions>
+      <réponse proposition="12-2">Courriel</réponse>
+      <anecdote>Les règles de bon usage du courrier électronique sont décrites dans un document de référence appelé
+« nétiquette ».</anecdote>
+    </contenu>
+    <contenu id="13">
+      <question>Sur quel média sont enregistrés les sites web que vous visitez depuis votre ordinateur ?</question>
+      <propositions>
+        <proposition id="13-1">Wi-Fi</proposition>
+        <proposition id="13-2">Modem</proposition>
+        <proposition id="13-3">Serveur</proposition>
+        <proposition id="13-4">CD-ROM</proposition>
+      </propositions>
+      <réponse proposition="13-3">Serveur</réponse>
+      <anecdote>Le nombre de sites sur Internet a augmenté rapidement en 2005 et en 2006 grâce à la popularité croissante des blogs.</anecdote>
+    </contenu>
+    <contenu id="14">
+      <question>Que signifie le deuxième « w » du « www » utilisé dans la plupart des adresses de sites internet ?</question>
+      <propositions>
+        <proposition id="14-1">World</proposition>
+        <proposition id="14-2">Web</proposition>
+        <proposition id="14-3">Worse</proposition>
+        <proposition id="14-4">Wide</proposition>
+      </propositions>
+      <réponse proposition="14-4">Wide</réponse>
+      <anecdote>Le Web n'est qu'une des applications d'Internet, distincte entre autres du courriel, de la messagerie instantanée ou du partage de fichiers.</anecdote>
+    </contenu>
+    <contenu id="15">
+      <question>De combien de mégaoctets avez-vous besoin pour obtenir un gigaoctet ?</question>
+      <propositions>
+        <proposition id="15-1">49</proposition>
+        <proposition id="15-2">10 000</proposition>
+        <proposition id="15-3">100</proposition>
+        <proposition id="15-4">1 024</proposition>
+      </propositions>
+      <réponse proposition="15-4">1 024</réponse>
+      <anecdote>Les préfixes binaires sont souvent utilisés lorsque l'on doit traiter de grandes quantités d'octets.</anecdote>
+    </contenu>
+    <contenu id="16">
+      <question>Quel nom portait le précédent navigateur Internet de Microsoft, devenu aujourd'hui 'Microsoft Edge' ?</question>
+      <propositions>
+        <proposition id="16-1">Internet Explorer</proposition>
+        <proposition id="16-2">Safari</proposition>
+        <proposition id="16-3">Firefox</proposition>
+        <proposition id="16-4">Chrome</proposition>
+      </propositions>
+      <réponse proposition="16-1">Internet Explorer</réponse>
+      <anecdote>La version 11 du navigateur 'Internet Explorer' sera toujours présente dans Windows 10 avant le passage progressif à 'Microsoft Edge'.</anecdote>
+    </contenu>
+    <contenu id="17">
+      <question>Sur Internet, que signifie l'extension « .com » que l'on peut retrouver dans une adresse web ?</question>
+      <propositions>
+        <proposition id="17-1">Communautaire</proposition>
+        <proposition id="17-2">Commercial</proposition>
+        <proposition id="17-3">Commémoration</proposition>
+        <proposition id="17-4">Communication</proposition>
+      </propositions>
+      <réponse proposition="17-2">Commercial</réponse>
+      <anecdote>Initialement administré par le ministère de la Défense américain, le domaine .com est aujourd'hui exploité par la société Verisign.</anecdote>
+    </contenu>
+    <contenu id="18">
+      <question>Lequel de ces outils ne permet pas de visionner des pages web ?</question>
+      <propositions>
+        <proposition id="18-1">Internet Explorer</proposition>
+        <proposition id="18-2">Acrobat Reader</proposition>
+        <proposition id="18-3">Google Chrome</proposition>
+        <proposition id="18-4">Mozilla Firefox</proposition>
+      </propositions>
+      <réponse proposition="18-2">Acrobat Reader</réponse>
+      <anecdote>Adobe change régulièrement le nom des produits de la famille Acrobat et cela en subdivisant sa gamme.</anecdote>
+    </contenu>
+    <contenu id="19">
+      <question>Comment appelle-t-on un e-mail non sollicité reçu depuis Internet ?</question>
+      <propositions>
+        <proposition id="19-1">Bug</proposition>
+        <proposition id="19-2">Hoax</proposition>
+        <proposition id="19-3">Cookie</proposition>
+        <proposition id="19-4">Spam</proposition>
+      </propositions>
+      <réponse proposition="19-4">Spam</réponse>
+      <anecdote>Le spam désigne en général des envois en grande quantité effectués à des fins publicitaires.</anecdote>
+    </contenu>
+    <contenu id="20">
+      <question>Quel spécialiste de l'informatique est capable de pirater presque n'importe quel site Internet ?</question>
+      <propositions>
+        <proposition id="20-1">Cracker</proposition>
+        <proposition id="20-2">Driver</proposition>
+        <proposition id="20-3">Surfeur</proposition>
+        <proposition id="20-4">Hacker</proposition>
+      </propositions>
+      <réponse proposition="20-4">Hacker</réponse>
+      <anecdote>Les hackers sont classés en plusieurs catégories en fonction de leurs objectifs, de leur compétence et de la légalité de leurs actes.</anecdote>
+    </contenu>
+  </confirmé>
+  <expert>
+    <contenu id="21">
+      <question>Grâce à quoi tous les ordinateurs sur Internet sont-ils plus ou moins facilement repérables ?</question>
+      <propositions>
+        <proposition id="21-1">Antivirus</proposition>
+        <proposition id="21-2">Adresse IP</proposition>
+        <proposition id="21-3">Bornage</proposition>
+        <proposition id="21-4">Écran</proposition>
+      </propositions>
+      <réponse proposition="21-2">Adresse IP</réponse>
+      <anecdote>L'adresse IP est à la base du système d'acheminement (le routage) des messages sur Internet.</anecdote>
+    </contenu>
+    <contenu id="22">
+      <question>Quelle extension ajoutée à votre navigateur Internet préféré accentue ses possibilités ?</question>
+      <propositions>
+        <proposition id="22-1">Byte</proposition>
+        <proposition id="22-2">Backup</proposition>
+        <proposition id="22-3">Plug-in</proposition>
+        <proposition id="22-4">Spool</proposition>
+      </propositions>
+      <réponse proposition="22-3">Plug-in</réponse>
+      <anecdote>Certains plug-ins peuvent aussi être utilisés comme logiciel à part entière, on dit alors qu'ils sont « standalone ».</anecdote>
+    </contenu>
+    <contenu id="23">
+      <question>Comment appelle-t-on les canulars transmis par messagerie électronique ou via Internet ?</question>
+      <propositions>
+        <proposition id="23-1">Cookie</proposition>
+        <proposition id="23-2">Bug</proposition>
+        <proposition id="23-3">Hoax</proposition>
+        <proposition id="23-4">Virus</proposition>
+      </propositions>
+      <réponse proposition="23-3">Hoax</réponse>
+      <anecdote>Conçus pour apparaître crédibles et véritables, ces canulars peuvent parfois avoir un but malveillant.</anecdote>
+    </contenu>
+    <contenu id="24">
+      <question>De plus en plus de sites enregistrent sur votre ordinateur un témoin de passage appelé...</question>
+      <propositions>
+        <proposition id="24-1">Cookie</proposition>
+        <proposition id="24-2">Modem</proposition>
+        <proposition id="24-3">Spam</proposition>
+        <proposition id="24-4">Cupcake</proposition>
+      </propositions>
+      <réponse proposition="24-1">Cookie</réponse>
+      <anecdote>Existant depuis plus de 20 ans, les cookies permettent aux développeurs de sites internet de conserver des données utilisateur.</anecdote>
+    </contenu>
+    <contenu id="25">
+      <question>En quelle année a été envoyé le tout premier courriel ou courrier électronique ?</question>
+      <propositions>
+        <proposition id="25-1">1981</proposition>
+        <proposition id="25-2">1971</proposition>
+        <proposition id="25-3">1961</proposition>
+        <proposition id="25-4">1991</proposition>
+      </propositions>
+      <réponse proposition="25-2">1971</réponse>
+      <anecdote>Il faut disposer d'une adresse électronique et d'un client de messagerie permettant l'accès aux messages via un navigateur.</anecdote>
+    </contenu>
+    <contenu id="26">
+      <question>Quelle opération informatique illicite consiste à copier l'intégralité d'un site Internet sur son ordinateur ?</question>
+      <propositions>
+        <proposition id="26-1">Sauvegarde</proposition>
+        <proposition id="26-2">Copie</proposition>
+        <proposition id="26-3">Gravure</proposition>
+        <proposition id="26-4">Aspiration</proposition>
+      </propositions>
+      <réponse proposition="26-4">Aspiration</réponse>
+      <anecdote>Un site web est un ensemble de pages qui peuvent être consultées en suivant des hyperliens à l'intérieur du site lui-même.</anecdote>
+    </contenu>
+    <contenu id="27">
+      <question>Quelle abréviation est utilisée pour désigner une adresse de site Internet ?</question>
+      <propositions>
+        <proposition id="27-1">URL</proposition>
+        <proposition id="27-2">MP3</proposition>
+        <proposition id="27-3">TCP</proposition>
+        <proposition id="27-4">KBD</proposition>
+      </propositions>
+      <réponse proposition="27-1">URL</réponse>
+      <anecdote>En France, d'après le Journal officiel du 16 mars 1999, « URL » peut être traduit par adresse réticulaire ou adresse universelle.</anecdote>
+    </contenu>
+    <contenu id="28">
+      <question>Quel anniversaire le World Wide Web a-t-il fêté en 2014 ?</question>
+      <propositions>
+        <proposition id="28-1">Ses 15 ans</proposition>
+        <proposition id="28-2">Ses 25 ans</proposition>
+        <proposition id="28-3">Ses 35 ans</proposition>
+        <proposition id="28-4">Ses 45 ans</proposition>
+      </propositions>
+      <réponse proposition="28-2">Ses 25 ans</réponse>
+      <anecdote>En septembre 2014, Internet dépassait un milliard de sites en ligne pour près de trois milliards d'internautes.</anecdote>
+    </contenu>
+    <contenu id="29">
+      <question>Quel protocole est dédié à la transmission de fichiers sur Internet ?</question>
+      <propositions>
+        <proposition id="29-1">HTTP</proposition>
+        <proposition id="29-2">FTP</proposition>
+        <proposition id="29-3">TCP/IP</proposition>
+        <proposition id="29-4">IPX/SPX</proposition>
+      </propositions>
+      <réponse proposition="29-2">FTP</réponse>
+      <anecdote>Ce mécanisme de copie est souvent utilisé pour alimenter un site web hébergé chez un tiers.</anecdote>
+    </contenu>
+    <contenu id="30">
+      <question>Quel terme désigne le code de bonne conduite sur Internet ?</question>
+      <propositions>
+        <proposition id="30-1">Reboot</proposition>
+        <proposition id="30-2">Hameçonnage </proposition>
+        <proposition id="30-3">Nétiquette</proposition>
+        <proposition id="30-4">Phishing</proposition>
+      </propositions>
+      <réponse proposition="30-3">Nétiquette</réponse>
+      <anecdote>La « nétiquette » rassemble des tentatives de formalisation d'un certain contrat social pour l'Internet.</anecdote>
+    </contenu>
+  </expert>
+</quizz>

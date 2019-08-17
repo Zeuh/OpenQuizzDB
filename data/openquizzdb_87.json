@@ -1,0 +1,374 @@
+{
+  "fournisseur": "OpenQuizzDB - Fournisseur de contenu libre (www.openquizzdb.org)",
+  "rédacteur": "Philippe Bresoux",
+  "thème": "Maxime Chattam",
+  "difficulté": 3,
+  "quizz": {
+    "débutant": [
+      {
+        "id": 1,
+        "question": "Quel est le véritable nom du romancier français Maxime Chattam ?",
+        "propositions": [
+          "Bertrand Chattam",
+          "Maxime Drouot",
+          "Pascal Château",
+          "Maxime Ducrot"
+        ],
+        "réponse": "Maxime Drouot",
+        "anecdote": "Maxime Chattam est membre du collectif d'artistes 'La Ligue de l'Imaginaire'."
+      },
+      {
+        "id": 2,
+        "question": "Quel métier Maxime Chattam a-t-il exercé avant de devenir romancier ?",
+        "propositions": [
+          "Avocat",
+          "Libraire",
+          "Boucher",
+          "Comédien"
+        ],
+        "réponse": "Comédien",
+        "anecdote": "Après des cours de comédie au Cours Simon à Paris, Maxime Chattam o obtenu des rôles pour la télévision et la publicité."
+      },
+      {
+        "id": 3,
+        "question": "Chez quel éditeur Maxime Chattam a-t-il publié 'Les Arcanes du chaos' en 2006 ?",
+        "propositions": [
+          "Gallimard",
+          "Michel Lafon",
+          "Albin Michel",
+          "France Loisirs"
+        ],
+        "réponse": "Albin Michel",
+        "anecdote": "'Les Arcanes du chaos' donne un aspect troublant du monde où tout n'est que manipulation, argent et pouvoir."
+      },
+      {
+        "id": 4,
+        "question": "Dans quel domaine Maxime Chattam, auteur de romans policiers, a-t-il suivi une formation ?",
+        "propositions": [
+          "Ébénisterie",
+          "Pâtisserie",
+          "Criminologie",
+          "nologie"
+        ],
+        "réponse": "Criminologie",
+        "anecdote": "Maxime Chattam a suivi une formation en criminologie pendant un an à l'université de Saint-Denis."
+      },
+      {
+        "id": 5,
+        "question": "Sous quel pseudonyme Maxime Chattam a-t-il publié 'Le Cinquième Règne' en 2003 ?",
+        "propositions": [
+          "Michel Honaker",
+          "Michel Bussi",
+          "Maxime Williams",
+          "Michel Averlant"
+        ],
+        "réponse": "Maxime Williams",
+        "anecdote": "Ce roman fantastique, primé au festival de Gérardmer, sera le seul publié sous le pseudonyme de Maxime Williams."
+      },
+      {
+        "id": 6,
+        "question": "Avec quelle animatrice de télévision Maxime Chattam est-il marié ?",
+        "propositions": [
+          "Virginie Guilhaume",
+          "Faustine Bollaert",
+          "Laurence Ferrari",
+          "Valérie Damidot"
+        ],
+        "réponse": "Faustine Bollaert",
+        "anecdote": "Maxime et Faustine sont parents d'une fille, Abbie, née en juillet 2013 et d'un garçon, Peter né en juillet 2015."
+      },
+      {
+        "id": 7,
+        "question": "Quel est le prénom du personnage central du roman 'La Promesse des ténèbres' ?",
+        "propositions": [
+          "Kevin",
+          "David",
+          "Brady",
+          "Ronald"
+        ],
+        "réponse": "Brady",
+        "anecdote": "Brady O'Donnel, journaliste, rencontre une femme qui va changer sa vie : à sa poursuite, il va plonger en enfer."
+      },
+      {
+        "id": 8,
+        "question": "Combien de tomes Maxime Chattam a-t-il prévu pour sa série 'Autre-Monde' ?",
+        "propositions": [
+          "Quatre",
+          "Cinq",
+          "Six",
+          "Sept"
+        ],
+        "réponse": "Sept",
+        "anecdote": "Les deux cycles de la série 'Autre-Monde' de Maxime Chattam ont été publiés entre 2008 et 2016."
+      },
+      {
+        "id": 9,
+        "question": "Quel est le véritable prénom de Maxime Chattam, né à Herblay dans le Val-d'Oise ?",
+        "propositions": [
+          "Matt",
+          "Tobias",
+          "Maxime",
+          "Marc"
+        ],
+        "réponse": "Maxime",
+        "anecdote": "Maxime Chattam est un romancier français, né le 19 février 1976, spécialisé dans le roman policier."
+      },
+      {
+        "id": 10,
+        "question": "Quel est le titre du cinquième tome de la saga 'Autre-Monde' de Maxime Chattam ?",
+        "propositions": [
+          "Malronce",
+          "Neverland",
+          "Entropia",
+          "Oz"
+        ],
+        "réponse": "Oz",
+        "anecdote": "Matt, Tobias et Ambre se voient contraints d'aller chercher le second cur de la Terre."
+      }
+    ],
+    "confirmé": [
+      {
+        "id": 11,
+        "question": "Dans quel roman les deux héros sont-ils chercheurs mandatés par la Commission Européenne ?",
+        "propositions": [
+          "Maléfices",
+          "In tenebris",
+          "La Théorie Gaia",
+          "Prédateurs"
+        ],
+        "réponse": "La Théorie Gaia",
+        "anecdote": "'La Théorie Gaïa' existe également en livre audio, avec Laurent Jacquet pour narrateur."
+      },
+      {
+        "id": 12,
+        "question": "Dans 'Le Sang du temps', l'histoire se joue entre le Mont-Saint-Michel et quelle ville ?",
+        "propositions": [
+          "Berlin",
+          "Paris",
+          "Le Caire",
+          "Varsovie"
+        ],
+        "réponse": "Le Caire",
+        "anecdote": "L'histoire du livre est partagée entre des personnages évoluant en 1928 et en 2005."
+      },
+      {
+        "id": 13,
+        "question": "Dans quel livre retrouve-t-on pour la deuxième fois le duo Joshua Brolin / Annabel O'Donnel ?",
+        "propositions": [
+          "Malronce",
+          "Entropia",
+          "In tenebris",
+          "Maléfices"
+        ],
+        "réponse": "Maléfices",
+        "anecdote": "Maxime Chattam y met en toile de fond l'arachnophobie, visiblement la plus fréquente des phobies."
+      },
+      {
+        "id": 14,
+        "question": "Quelle histoire racontée par Maxime Chattam se déroule en partie au Mont Saint-Michel ?",
+        "propositions": [
+          "Malronce",
+          "Entropia",
+          "Maléfices",
+          "Le Sang du temps"
+        ],
+        "réponse": "Le Sang du temps",
+        "anecdote": "Dans 'Le Sang du temps', on retrouve entre autres la Fraternité abbatiale ainsi que Ludwig, le gardien du Mont."
+      },
+      {
+        "id": 15,
+        "question": "Dans quel livre Yael, héroïne principale, travaille-t-elle dans un magasin de taxidermie ?",
+        "propositions": [
+          "Prédateurs",
+          "Maléfices",
+          "Les Arcanes du chaos",
+          "Malronce"
+        ],
+        "réponse": "Les Arcanes du chaos",
+        "anecdote": "Chaque vendredi, un homme achète dans son magasin des paires d'yeux pour les arborer sur son manteau."
+      },
+      {
+        "id": 16,
+        "question": "L'enquête de quelle nouvelle de Maxime Chattam se déroule dans un lycée ?",
+        "propositions": [
+          "Carnages",
+          "Le Messager",
+          "Maligne",
+          "Gregory Harville"
+        ],
+        "réponse": "Carnages",
+        "anecdote": "Maxime Chattam a déjà publié six nouvelles entre 2001 et 2014, pour certaines disponibles sur le site officiel."
+      },
+      {
+        "id": 17,
+        "question": "Dans quel roman des adolescents auraient-ils mieux fait de ne pas toucher à un ancien grimoire ?",
+        "propositions": [
+          "Prédateurs",
+          "La Théorie Gaia",
+          "In tenebris",
+          "Le Cinquième Règne"
+        ],
+        "réponse": "Le Cinquième Règne",
+        "anecdote": "Le roman fantastique 'Le Cinquième Règne' a reçu le prix du roman fantastique du festival de Gérardmer."
+      },
+      {
+        "id": 18,
+        "question": "Quelle saison le livre 'In Tenebris' de Maxime Chattam représente-t-il ?",
+        "propositions": [
+          "L'automne",
+          "L'été",
+          "Le printemps",
+          "L'hiver"
+        ],
+        "réponse": "L'hiver",
+        "anecdote": "L'histoire se déroule en janvier 2002 à New York et dans ses environs, pendant un hiver très enneigé."
+      },
+      {
+        "id": 19,
+        "question": "Dans quel thriller des jumeaux homozygotes corsent-ils l'enquête du héros principal ?",
+        "propositions": [
+          "Entropia",
+          "Malronce",
+          "Maléfices",
+          "L'Âme du mal"
+        ],
+        "réponse": "L'Âme du mal",
+        "anecdote": "'L'Âme du mal', publié en 2002, est lauréat du Prix Sang d'encre et fait partie de la 'Trilogie du mal'."
+      },
+      {
+        "id": 20,
+        "question": "Quel roman de Maxime Chattam nous projette dans New York en compagnie de Matt et Tobias ?",
+        "propositions": [
+          "Maléfices",
+          "L'Alliance des Trois",
+          "Carnages",
+          "Prédateurs"
+        ],
+        "réponse": "L'Alliance des Trois",
+        "anecdote": "Le compositeur français Sébastien Pan a écrit une suite orchestrale de 52 minutes basée sur le roman 'L'Alliance des Trois'."
+      }
+    ],
+    "expert": [
+      {
+        "id": 21,
+        "question": "Dans quel roman à suspense l'univers des G.I. n'a-t-il pas échappé à Maxime Chattam ?",
+        "propositions": [
+          "Prédateurs",
+          "Léviatemps",
+          "Oz",
+          "Carnages"
+        ],
+        "réponse": "Prédateurs",
+        "anecdote": "Maxime Chattam nous emmène dans une histoire sombre à la poursuite d'un meurtrier aussi pervers qu'intelligent."
+      },
+      {
+        "id": 22,
+        "question": "Quel roman de Maxime Chattam a pour héros un écrivain vivant dans le Paris du XXe siècle ?",
+        "propositions": [
+          "L'Âme du mal",
+          "Neverland",
+          "Oz",
+          "Léviatemps"
+        ],
+        "réponse": "Léviatemps",
+        "anecdote": "Ce roman constitue le premier volet d'un « Diptyque du temps », dont le deuxième volume est 'Le Requiem des abysses'."
+      },
+      {
+        "id": 23,
+        "question": "Dans quelle ville peut-on suivre l'enquête de Brady O'Donnel dans 'La Promesse des ténèbres' ?",
+        "propositions": [
+          "New York",
+          "Paris",
+          "Berlin",
+          "Dublin"
+        ],
+        "réponse": "New York",
+        "anecdote": "'La Promesse des ténèbres' est un préquel de la Trilogie du Mal : 'L'Âme du mal', 'In Tenebris' et 'Maléfices'."
+      },
+      {
+        "id": 24,
+        "question": "Quelle est l'altération de Matt dans la série de romans 'Autre-Monde' ?",
+        "propositions": [
+          "La guérison",
+          "La force",
+          "La vitesse",
+          "La télékinésie"
+        ],
+        "réponse": "La force",
+        "anecdote": "Suite à un choc à la tête, Matt Carter est resté dans le coma pendant près de 5 mois."
+      },
+      {
+        "id": 25,
+        "question": "Combien de nouvelles Maxime Chattam a-t-il publié durant l'année 2001 ?",
+        "propositions": [
+          "Six",
+          "Huit",
+          "Quatre",
+          "Deux"
+        ],
+        "réponse": "Deux",
+        "anecdote": "Disponibles sur le site officiel, 'Le Messager' et 'Gregory Harville' ont été écrites en 2001."
+      },
+      {
+        "id": 26,
+        "question": "Lequel de ces personnages ne retrouve-t-on pas dans 'In Tenebris' de Maxime Chattam ?",
+        "propositions": [
+          "Annabel ODonnel",
+          "Guy de Timée",
+          "Jack Thayer",
+          "Joshua Brolin"
+        ],
+        "réponse": "Guy de Timée",
+        "anecdote": "Un avion explose au-dessus du Colorado en avril 1997, tuant plus de trois cents personnes, dont Harvey Morris, agent du FBI."
+      },
+      {
+        "id": 27,
+        "question": "Quelle ville de l'Oregon a inspiré Maxime Chattam pour son premier roman ?",
+        "propositions": [
+          "Hillsboro",
+          "Medford",
+          "Salem",
+          "Portland"
+        ],
+        "réponse": "Portland",
+        "anecdote": "Au cours de son enfance, Maxime Chattam a fait de fréquents séjours aux États-Unis, dont à Portland."
+      },
+      {
+        "id": 28,
+        "question": "Comment appelle-t-on un enfant lié à la nature dans la série 'Autre-Monde' ?",
+        "propositions": [
+          "Kloropanphyle",
+          "Gus",
+          "Raupéroden",
+          "Zélie"
+        ],
+        "réponse": "Kloropanphyle",
+        "anecdote": "Les Kloropanphyles sont des Pans qui vivent sur la canopée de la Mer Sèche, une forêt gigantesque."
+      },
+      {
+        "id": 29,
+        "question": "Quel acteur de doublage français a suggéré à Maxime Chattam décrire pour le théâtre ?",
+        "propositions": [
+          "Xavier Fagnon",
+          "Hervé Grull",
+          "Pierre Hatet",
+          "Philippe Catoire"
+        ],
+        "réponse": "Pierre Hatet",
+        "anecdote": "Pratiquant le doublage, Pierre Hatet est notamment connu pour être la voix française de Christopher Lloyd."
+      },
+      {
+        "id": 30,
+        "question": "Quelle chaîne de magasins a engagé Maxime Chattam en 1999 au rayon « livres policiers » ?",
+        "propositions": [
+          "Virgin",
+          "Furet du Nord",
+          "HMV",
+          "Fnac"
+        ],
+        "réponse": "Fnac",
+        "anecdote": "Fin 1999, Maxime Chattam est engagé à la Fnac, ce qui le mettra en contact avec les maisons d'éditions."
+      }
+    ]
+  }
+}

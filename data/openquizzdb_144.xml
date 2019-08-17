@@ -1,0 +1,343 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes" ?>
+<quizz fournisseur="OpenQuizzDB : Fournisseur de contenu libre"
+       url="http://www.openquizzdb.org"
+       rédacteur="Philippe Bresoux"
+       thème="Boxe"
+       difficulté="2">
+  <débutant>
+    <contenu id="1">
+      <question>De quelle série de six films un champion de boxe est-il la vedette ?</question>
+      <propositions>
+        <proposition id="1-1">Rambo</proposition>
+        <proposition id="1-2">Rocky</proposition>
+        <proposition id="1-3">Ritchie</proposition>
+        <proposition id="1-4">Randy</proposition>
+      </propositions>
+      <réponse proposition="1-2">Rocky</réponse>
+      <anecdote>Le thème du film 'Rocky' est très largement inspiré du célèbre combat entre Mohamed Ali et Chuck Wepner.</anecdote>
+    </contenu>
+    <contenu id="2">
+      <question>Des suites de quelle maladie le boxeur Tommy Morrison dut-il se retirer du circuit ?</question>
+      <propositions>
+        <proposition id="2-1">Le sida</proposition>
+        <proposition id="2-2">La mononucléose</proposition>
+        <proposition id="2-3">Le cancer</proposition>
+        <proposition id="2-4">La grippe</proposition>
+      </propositions>
+      <réponse proposition="2-1">Le sida</réponse>
+      <anecdote>On attribue parfois à Tommy Morrison un lien de parenté avec l'acteur John Wayne, dont le vrai nom est Marion Robert Morrison.</anecdote>
+    </contenu>
+    <contenu id="3">
+      <question>Quel boxeur est le seul à avoir jamais remporté un titre mondial à tout juste 20 ans ?</question>
+      <propositions>
+        <proposition id="3-1">Mike Tyson</proposition>
+        <proposition id="3-2">Trevor Berbick</proposition>
+        <proposition id="3-3">Tony Tucker</proposition>
+        <proposition id="3-4">James Smith</proposition>
+      </propositions>
+      <réponse proposition="3-1">Mike Tyson</réponse>
+      <anecdote>Mike Tyson, surnommé « Kid Dynamite » ou « Iron Mike », a marqué l'histoire de la boxe par son parcours hors du commun.</anecdote>
+    </contenu>
+    <contenu id="4">
+      <question>En boxe, quel emplacement de forme carrée est délimité par des cordes ?</question>
+      <propositions>
+        <proposition id="4-1">Le green</proposition>
+        <proposition id="4-2">Le court</proposition>
+        <proposition id="4-3">Le podium</proposition>
+        <proposition id="4-4">Le ring</proposition>
+      </propositions>
+      <réponse proposition="4-4">Le ring</réponse>
+      <anecdote>Compte tenu du grand nombre d'organisations internationales, les dimensions dun ring de boxe peuvent sensiblement varier.</anecdote>
+    </contenu>
+    <contenu id="5">
+      <question>Combien de temps dure un round de boxe chez les hommes ?</question>
+      <propositions>
+        <proposition id="5-1">Quatre minutes</proposition>
+        <proposition id="5-2">Trois minutes</proposition>
+        <proposition id="5-3">Deux minutes</proposition>
+        <proposition id="5-4">Cinq minutes</proposition>
+      </propositions>
+      <réponse proposition="5-2">Trois minutes</réponse>
+      <anecdote>Les boxeurs professionnels s'affrontent en 4 rounds de 3 minutes et jusqu'à 12 rounds de 3 minutes lorsqu'un titre est en jeu.</anecdote>
+    </contenu>
+    <contenu id="6">
+      <question>En boxe, que jette-t-on pour signifier l'abandon dun match ?</question>
+      <propositions>
+        <proposition id="6-1">Une culotte</proposition>
+        <proposition id="6-2">Un gant</proposition>
+        <proposition id="6-3">Une ceinture</proposition>
+        <proposition id="6-4">Une éponge</proposition>
+      </propositions>
+      <réponse proposition="6-4">Une éponge</réponse>
+      <anecdote>Il est recommandé de revêtir des protections adéquates et appropriées pour tous les entraînements de boxe.</anecdote>
+    </contenu>
+    <contenu id="7">
+      <question>En boxe, quel coup touche le boxeur adverse en passant sous sa garde ?</question>
+      <propositions>
+        <proposition id="7-1">Un uppercut</proposition>
+        <proposition id="7-2">Un direct</proposition>
+        <proposition id="7-3">Un crochet</proposition>
+        <proposition id="7-4">Une esquive</proposition>
+      </propositions>
+      <réponse proposition="7-1">Un uppercut</réponse>
+      <anecdote>En boxe anglaise, au XVIIIe siècle, le boxeur anglais Dutch Sam a donné le nom d'uppercut à ce coup appelé auparavant « undercut ».</anecdote>
+    </contenu>
+    <contenu id="8">
+      <question>Quel « instrument » est parfois commun aux boxeurs et aux petites filles ?</question>
+      <propositions>
+        <proposition id="8-1">Le protège-dents</proposition>
+        <proposition id="8-2">La corde à sauter</proposition>
+        <proposition id="8-3">Les gants</proposition>
+        <proposition id="8-4">La ceinture</proposition>
+      </propositions>
+      <réponse proposition="8-2">La corde à sauter</réponse>
+      <anecdote>La pratique de la corde à sauter dans le milieu de la boxe est bénéfique pour le cur mais également le système respiratoire.</anecdote>
+    </contenu>
+    <contenu id="9">
+      <question>Quel ballon est utilisé pour les entraînements des boxeurs ?</question>
+      <propositions>
+        <proposition id="9-1">Punching ball</proposition>
+        <proposition id="9-2">Ballon à eau</proposition>
+        <proposition id="9-3">Ballon gonflable</proposition>
+        <proposition id="9-4">Ballon ovale</proposition>
+      </propositions>
+      <réponse proposition="9-1">Punching ball</réponse>
+      <anecdote>Cet exercice permet d'améliorer sa technique de frappe, sa précision, sa vitesse et stimule le système cardiovasculaire.</anecdote>
+    </contenu>
+    <contenu id="10">
+      <question>Quel champion de boxe, incarné par Carl Weathers, Rocky doit-il affronter au cinéma ?</question>
+      <propositions>
+        <proposition id="10-1">Mickey Goldmill</proposition>
+        <proposition id="10-2">Tony Gazzo</proposition>
+        <proposition id="10-3">Tony Gazzo</proposition>
+        <proposition id="10-4">Apollo Creed</proposition>
+      </propositions>
+      <réponse proposition="10-4">Apollo Creed</réponse>
+      <anecdote>'Rocky' est un film américain de John G. Avildsen sorti en 1976, écrit et interprété par Sylvester Stallone, qui fut un énorme succès.</anecdote>
+    </contenu>
+  </débutant>
+  <confirmé>
+    <contenu id="11">
+      <question>Dans quel film, sorti en 1999, Denzel Washington interprète-t-il le boxeur Rubin Carter ?</question>
+      <propositions>
+        <proposition id="11-1">Raging Bull</proposition>
+        <proposition id="11-2">Rocky Balboa</proposition>
+        <proposition id="11-3">Hurricane Carter</proposition>
+        <proposition id="11-4">The Boxer</proposition>
+      </propositions>
+      <réponse proposition="11-3">Hurricane Carter</réponse>
+      <anecdote>Très critiqué et controversé, 'Hurricane Carter' serait plus une fiction basée sur des faits réels qu'un véritable biopic sur le boxeur.</anecdote>
+    </contenu>
+    <contenu id="12">
+      <question>Qui interprète le rôle de la jeune boxeuse dans 'Million Dollar Baby', de Clint Eastwood ?</question>
+      <propositions>
+        <proposition id="12-1">Reese Witherspoon</proposition>
+        <proposition id="12-2">Charlize Theron</proposition>
+        <proposition id="12-3">Halle Berry</proposition>
+        <proposition id="12-4">Hilary Swank</proposition>
+      </propositions>
+      <réponse proposition="12-4">Hilary Swank</réponse>
+      <anecdote>Pour se préparer au rôle, Hilary Swank, qui n'a eu que trois mois, s'est entraînée avec Hector Roca, un ancien coach.</anecdote>
+    </contenu>
+    <contenu id="13">
+      <question>Combien peut-on compter de cordes autour des rings de boxe ?</question>
+      <propositions>
+        <proposition id="13-1">Trois ou quatre</proposition>
+        <proposition id="13-2">Cinq ou six</proposition>
+        <proposition id="13-3">Une ou deux</proposition>
+        <proposition id="13-4">Sept ou huit</proposition>
+      </propositions>
+      <réponse proposition="13-1">Trois ou quatre</réponse>
+      <anecdote>Un ring de boxe mesure entre 6 et 8m de côté, repose sur un plancher de 1m de hauteur et possède deux « coins neutres ».</anecdote>
+    </contenu>
+    <contenu id="14">
+      <question>Combien de temps un boxeur au tapis est-il compté avant de passer K.O. ?</question>
+      <propositions>
+        <proposition id="14-1">Quinze secondes</proposition>
+        <proposition id="14-2">Vingt secondes</proposition>
+        <proposition id="14-3">Dix secondes</proposition>
+        <proposition id="14-4">Cinq secondes</proposition>
+      </propositions>
+      <réponse proposition="14-3">Dix secondes</réponse>
+      <anecdote>Le KO technique ou TKO est décidé par l'arbitre quand un des adversaires est blessé et est incapable de continuer le combat.</anecdote>
+    </contenu>
+    <contenu id="15">
+      <question>Dans quel film la boxe a-t-elle évolué pour devenir un sport high-tech ?</question>
+      <propositions>
+        <proposition id="15-1">Transformers</proposition>
+        <proposition id="15-2">Real Steel</proposition>
+        <proposition id="15-3">Planète Hurlante</proposition>
+        <proposition id="15-4">Total Recall</proposition>
+      </propositions>
+      <réponse proposition="15-2">Real Steel</réponse>
+      <anecdote>En avril 2011, DreamWorks a annoncé qu'une suite est en préparation. John Gatins a été chargé du scénario.</anecdote>
+    </contenu>
+    <contenu id="16">
+      <question>Si vous pesez 48 kilos, dans quelle catégorie boxeriez-vous ?</question>
+      <propositions>
+        <proposition id="16-1">Coqs</proposition>
+        <proposition id="16-2">Plumes</proposition>
+        <proposition id="16-3">Pailles</proposition>
+        <proposition id="16-4">Mouches</proposition>
+      </propositions>
+      <réponse proposition="16-4">Mouches</réponse>
+      <anecdote>Le britannique Jimmy Wilde est reconnu comme étant le tout premier boxeur champion du monde des poids mouches.</anecdote>
+    </contenu>
+    <contenu id="17">
+      <question>Quel est le seul type de boxe a avoir été admis aux Jeux olympiques en 1901 ?</question>
+      <propositions>
+        <proposition id="17-1">Anglaise</proposition>
+        <proposition id="17-2">Française</proposition>
+        <proposition id="17-3">Vietnamienne</proposition>
+        <proposition id="17-4">Coréenne</proposition>
+      </propositions>
+      <réponse proposition="17-1">Anglaise</réponse>
+      <anecdote>La boxe fut pratiquée comme un sport à part entière dans la Grèce antique lors des Jeux panhelléniques à Olympie.</anecdote>
+    </contenu>
+    <contenu id="18">
+      <question>Quel acteur incarne un boxeur dans le film 'Espion et demi' ?</question>
+      <propositions>
+        <proposition id="18-1">Bruce Willis</proposition>
+        <proposition id="18-2">Denzel Washington</proposition>
+        <proposition id="18-3">Eddie Murphy</proposition>
+        <proposition id="18-4">Will Smith</proposition>
+      </propositions>
+      <réponse proposition="18-3">Eddie Murphy</réponse>
+      <anecdote>'Espion et demi' est une adaptation de la série télévisée américaine 'Les Espions' diffusée pendant 3 saisons à partir de 1965.</anecdote>
+    </contenu>
+    <contenu id="19">
+      <question>Dans quel film, sorti en 2001, Will Smith interprète-t-il le boxeur Mohammed Ali ?</question>
+      <propositions>
+        <proposition id="19-1">Ali</proposition>
+        <proposition id="19-2">Saving Face</proposition>
+        <proposition id="19-3">Break Out</proposition>
+        <proposition id="19-4">Bad Boys</proposition>
+      </propositions>
+      <réponse proposition="19-1">Ali</réponse>
+      <anecdote>Le film retrace l'engagement du boxeur qui changera de nom aux côtés du mouvement Nation of Islam et de Malcolm X.</anecdote>
+    </contenu>
+    <contenu id="20">
+      <question>Quel célèbre boxeur a été marié à la talentueuse Édith Piaf ?</question>
+      <propositions>
+        <proposition id="20-1">Marcel Cerdan</proposition>
+        <proposition id="20-2">Thierry Jacob</proposition>
+        <proposition id="20-3">Raymond Grassi</proposition>
+        <proposition id="20-4">Pierre Langlois</proposition>
+      </propositions>
+      <réponse proposition="20-1">Marcel Cerdan</réponse>
+      <anecdote>Marcel Cerdans, né Marcellin Cerdan, est mort dans un accident d'avion survenu dans l'archipel des Açores en 1949.</anecdote>
+    </contenu>
+  </confirmé>
+  <expert>
+    <contenu id="21">
+      <question>Dans quelle catégorie Marcel Cerdan fut-il jadis un grand boxeur ?</question>
+      <propositions>
+        <proposition id="21-1">Moyens</proposition>
+        <proposition id="21-2">Mi-lourds</proposition>
+        <proposition id="21-3">Lourds</proposition>
+        <proposition id="21-4">Légers</proposition>
+      </propositions>
+      <réponse proposition="21-1">Moyens</réponse>
+      <anecdote>La victoire la plus rapide obtenue par Marcel Cerdan fut accomplie en pas moins de 22 secondes face à Gustave Humery en 1942.</anecdote>
+    </contenu>
+    <contenu id="22">
+      <question>Quel boxeur américain était surnommé « le Cobra de Cincinnati » ?</question>
+      <propositions>
+        <proposition id="22-1">Joe Louis</proposition>
+        <proposition id="22-2">Ezzard Charles</proposition>
+        <proposition id="22-3">Ike Williams</proposition>
+        <proposition id="22-4">Rocky Marciano</proposition>
+      </propositions>
+      <réponse proposition="22-2">Ezzard Charles</réponse>
+      <anecdote>Champion du monde, il n'a toutefois jamais reçu la ferveur d'un public qui ne lui a jamais pardonné sa victoire sur Joe Louis.</anecdote>
+    </contenu>
+    <contenu id="23">
+      <question>Quel était le précédent nom donné à la boxe française ?</question>
+      <propositions>
+        <proposition id="23-1">La lutte</proposition>
+        <proposition id="23-2">La savate</proposition>
+        <proposition id="23-3">Le pancrace</proposition>
+        <proposition id="23-4">Le pugilat</proposition>
+      </propositions>
+      <réponse proposition="23-2">La savate</réponse>
+      <anecdote>Ce sport de combat, apparu au XIXe siècle, consiste pour les deux adversaires à se porter des coups avec les poings et les pieds.</anecdote>
+    </contenu>
+    <contenu id="24">
+      <question>Quel champion de boxe américain était surnommé 'Marvellous' ?</question>
+      <propositions>
+        <proposition id="24-1">Terry Ryan</proposition>
+        <proposition id="24-2">Cove Green</proposition>
+        <proposition id="24-3">Sonny Williams</proposition>
+        <proposition id="24-4">Marvin Hagler</proposition>
+      </propositions>
+      <réponse proposition="24-4">Marvin Hagler</réponse>
+      <anecdote>Son dernier combat lui a permis d'empocher la coquette somme de 12 millions de dollars, un record pour l'époque.</anecdote>
+    </contenu>
+    <contenu id="25">
+      <question>En battant quel boxeur Marcel Cerdan devint-il champion du monde des moyens en 1948 ?</question>
+      <propositions>
+        <proposition id="25-1">Jake LaMotta</proposition>
+        <proposition id="25-2">Tony Zale</proposition>
+        <proposition id="25-3">José Ferrer</proposition>
+        <proposition id="25-4">Gustave Humery</proposition>
+      </propositions>
+      <réponse proposition="25-2">Tony Zale</réponse>
+      <anecdote>Marcel Cerdan est mort le 28 octobre 1949 dans un accident d'avion survenu au-dessus de l'archipel des Açores (Portugal).</anecdote>
+    </contenu>
+    <contenu id="26">
+      <question>Quel est le prénom de la fille de Mohammed Ali, devenue championne du monde de boxe ?</question>
+      <propositions>
+        <proposition id="26-1">Léa</proposition>
+        <proposition id="26-2">Laila</proposition>
+        <proposition id="26-3">Alicia</proposition>
+        <proposition id="26-4">Loana</proposition>
+      </propositions>
+      <réponse proposition="26-2">Laila</réponse>
+      <anecdote>Boxeuse à fort tempérament comme son père, son nom attire les foules dans les salles, faisant ainsi connaître la boxe féminine.</anecdote>
+    </contenu>
+    <contenu id="27">
+      <question>Quel boxeur français est devenu champion du monde militaire amateur en 2008 ?</question>
+      <propositions>
+        <proposition id="27-1">Antoine Palatis</proposition>
+        <proposition id="27-2">Yoann Boyeaux</proposition>
+        <proposition id="27-3">Jean Josselin</proposition>
+        <proposition id="27-4">Alexis Vastine</proposition>
+      </propositions>
+      <réponse proposition="27-4">Alexis Vastine</réponse>
+      <anecdote>Alexis Vastine a trouvé la mort à 28 ans alors qu'il participait au tournage de l'émission de télé-réalité 'Dropped' de TF1.</anecdote>
+    </contenu>
+    <contenu id="28">
+      <question>Quel romancier américain raconte un combat de boxe dans 'Cinquante mille dollars' ?</question>
+      <propositions>
+        <proposition id="28-1">Ernest Hemingway</proposition>
+        <proposition id="28-2">Joshua Slocum</proposition>
+        <proposition id="28-3">Samuel Engel</proposition>
+        <proposition id="28-4">Rudyard Kipling</proposition>
+      </propositions>
+      <réponse proposition="28-1">Ernest Hemingway</réponse>
+      <anecdote>Ce recueil d'écrits, qui reprend le thème du combat de boxe et du champion, représente la seule pièce de théâtre de l'auteur.</anecdote>
+    </contenu>
+    <contenu id="29">
+      <question>Quelle star de la boxe Vincent Moscato a-t-il reçu dans son émission radio ?</question>
+      <propositions>
+        <proposition id="29-1">Tony Tucker</proposition>
+        <proposition id="29-2">James Smith</proposition>
+        <proposition id="29-3">Bruce Seldon</proposition>
+        <proposition id="29-4">Mike Tyson</proposition>
+      </propositions>
+      <réponse proposition="29-4">Mike Tyson</réponse>
+      <anecdote>C'est dans son émission sur RMC 'Super Moscato Show' qu'il a reçu son idole, à Paris, pour son livre 'La vérité et rien d'autre'.</anecdote>
+    </contenu>
+    <contenu id="30">
+      <question>Quel boxeur américain a été le sportif le mieux rémunéré du monde en 2011 ?</question>
+      <propositions>
+        <proposition id="30-1">Genaro Hernandez</proposition>
+        <proposition id="30-2">Arturo Gatti</proposition>
+        <proposition id="30-3">Junior Witter</proposition>
+        <proposition id="30-4">Floyd Mayweather</proposition>
+      </propositions>
+      <réponse proposition="30-4">Floyd Mayweather</réponse>
+      <anecdote>Surnommé « Pretty Boy », il est l'un des meilleurs boxeurs des années 2000, demeuré invaincu en plus de 18 ans de carrière.</anecdote>
+    </contenu>
+  </expert>
+</quizz>

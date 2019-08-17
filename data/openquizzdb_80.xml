@@ -1,0 +1,343 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes" ?>
+<quizz fournisseur="OpenQuizzDB : Fournisseur de contenu libre"
+       url="http://www.openquizzdb.org"
+       rédacteur="Philippe Bresoux"
+       thème="Gastronomie étrangère"
+       difficulté="3">
+  <débutant>
+    <contenu id="1">
+      <question>Quel poisson faut-il pêcher pour obtenir du caviar bon marché ?</question>
+      <propositions>
+        <proposition id="1-1">Brochet</proposition>
+        <proposition id="1-2">Esturgeon</proposition>
+        <proposition id="1-3">Sandre</proposition>
+        <proposition id="1-4">Carpe</proposition>
+      </propositions>
+      <réponse proposition="1-2">Esturgeon</réponse>
+      <anecdote>Leur croissance lente et leur maturité tardive les rendent particulièrement vulnérables à la pêche et à d'autres menaces.</anecdote>
+    </contenu>
+    <contenu id="2">
+      <question>Qu'y a-t-il dans un cappuccino et pas dans un expresso ni même dans un café viennois ?</question>
+      <propositions>
+        <proposition id="2-1">De l'eau</proposition>
+        <proposition id="2-2">Du lait</proposition>
+        <proposition id="2-3">Du café</proposition>
+        <proposition id="2-4">Du sucre</proposition>
+      </propositions>
+      <réponse proposition="2-2">Du lait</réponse>
+      <anecdote>Alors que le cappuccino se fait avec du lait, quand on rajoute de la chantilly, il s'agit alors d'un café viennois.</anecdote>
+    </contenu>
+    <contenu id="3">
+      <question>Qu'est-ce qu'un blini, dont le nom vient du vieux slave « mlin », qui signifie « moudre » ?</question>
+      <propositions>
+        <proposition id="3-1">Une crêpe</proposition>
+        <proposition id="3-2">Un gâteau</proposition>
+        <proposition id="3-3">Une gaufre</proposition>
+        <proposition id="3-4">Une tarte</proposition>
+      </propositions>
+      <réponse proposition="3-1">Une crêpe</réponse>
+      <anecdote>Le blini est une sorte de crêpe de grande taille très fine, souvent servie en relation avec un rituel ou des fêtes religieuses.</anecdote>
+    </contenu>
+    <contenu id="4">
+      <question>Quel fruit sert à la préparation d'un apfelstrudel, gâteau traditionnel autrichien ?</question>
+      <propositions>
+        <proposition id="4-1">La prune</proposition>
+        <proposition id="4-2">La pêche</proposition>
+        <proposition id="4-3">La pomme</proposition>
+        <proposition id="4-4">La poire</proposition>
+      </propositions>
+      <réponse proposition="4-3">La pomme</réponse>
+      <anecdote>L'apfelstrudel est un gâteau fait d'une pâte feuilletée fine et fourrée de gros morceaux de pommes acidulées et de raisins secs.</anecdote>
+    </contenu>
+    <contenu id="5">
+      <question>Qu'y a-t-il dans un chili con carne en plus des haricots pimentés à la tomate ?</question>
+      <propositions>
+        <proposition id="5-1">Du sucre</proposition>
+        <proposition id="5-2">Des ananas</proposition>
+        <proposition id="5-3">Du raisin</proposition>
+        <proposition id="5-4">De la viande</proposition>
+      </propositions>
+      <réponse proposition="5-4">De la viande</réponse>
+      <anecdote>Bien qu'on l'associe souvent au Mexique, le chili n'est pas d'origine mexicaine mais texane.</anecdote>
+    </contenu>
+    <contenu id="6">
+      <question>Où fabrique-t-on le mousseux italien nommé « Asti Spumante » ?</question>
+      <propositions>
+        <proposition id="6-1">Rivoli</proposition>
+        <proposition id="6-2">Turin</proposition>
+        <proposition id="6-3">Biella</proposition>
+        <proposition id="6-4">Asti</proposition>
+      </propositions>
+      <réponse proposition="6-4">Asti</réponse>
+      <anecdote>Seuls ont droit à la DOCG les vins blancs récoltés à l'intérieur de l'aire de production définie par le décret.</anecdote>
+    </contenu>
+    <contenu id="7">
+      <question>Que trouve-t-on dans le sushi et dans le gohan japonais, cuit à l'eau sans aucun condiment ?</question>
+      <propositions>
+        <proposition id="7-1">Du riz</proposition>
+        <proposition id="7-2">Du buf</proposition>
+        <proposition id="7-3">Du canard</proposition>
+        <proposition id="7-4">Du saumon</proposition>
+      </propositions>
+      <réponse proposition="7-1">Du riz</réponse>
+      <anecdote>Équivalent du pain des Occidentaux, le Gohan est le riz cuit à la japonaise, il signifie également « repas » en japonais.</anecdote>
+    </contenu>
+    <contenu id="8">
+      <question>Les feuilles de quelle plante met-on dans le thé au Maroc ?</question>
+      <propositions>
+        <proposition id="8-1">Le bleuet</proposition>
+        <proposition id="8-2">La menthe</proposition>
+        <proposition id="8-3">L'eucalyptus</proposition>
+        <proposition id="8-4">L'anis</proposition>
+      </propositions>
+      <réponse proposition="8-2">La menthe</réponse>
+      <anecdote>Le thé à la menthe est une spécialité traditionnelle de la cuisine des pays du Maghreb.</anecdote>
+    </contenu>
+    <contenu id="9">
+      <question>Quelle ville située à l'est de Milan a donné son nom à un fromage bleu au goût prononcé ?</question>
+      <propositions>
+        <proposition id="9-1">Gorgonzola</proposition>
+        <proposition id="9-2">Bresso</proposition>
+        <proposition id="9-3">Dresano</proposition>
+        <proposition id="9-4">Corbetta</proposition>
+      </propositions>
+      <réponse proposition="9-1">Gorgonzola</réponse>
+      <anecdote>Depuis le 12 juin 1996, la dénomination Gorgonzola est protégée au niveau européen par une appellation d'origine protégée (AOP).</anecdote>
+    </contenu>
+    <contenu id="10">
+      <question>Que mettent les ménagères anglaises dans le Christmas Cake pour mieux le conserver ?</question>
+      <propositions>
+        <proposition id="10-1">De la crème</proposition>
+        <proposition id="10-2">Un alcool</proposition>
+        <proposition id="10-3">Du sapin</proposition>
+        <proposition id="10-4">De la gélatine</proposition>
+      </propositions>
+      <réponse proposition="10-2">Un alcool</réponse>
+      <anecdote>Il convient de faire mariner tous les fruits secs dans le whisky et les jus de citron et d'orange durant deux bonnes heures.</anecdote>
+    </contenu>
+  </débutant>
+  <confirmé>
+    <contenu id="11">
+      <question>Quelle est la forme traditionnelle des samoussas dans tout l'océan indien ?</question>
+      <propositions>
+        <proposition id="11-1">Ronde</proposition>
+        <proposition id="11-2">Triangulaire</proposition>
+        <proposition id="11-3">Ovale</proposition>
+        <proposition id="11-4">Carrée</proposition>
+      </propositions>
+      <réponse proposition="11-2">Triangulaire</réponse>
+      <anecdote>Le samoussa est composé d'une fine pâte de blé qui enrobe une farce traditionnellement faite de légumes ou de viande.</anecdote>
+    </contenu>
+    <contenu id="12">
+      <question>Que vous offre votre hôte Chinois quand il vous propose du « cha » ?</question>
+      <propositions>
+        <proposition id="12-1">Du café</proposition>
+        <proposition id="12-2">Du chocolat</proposition>
+        <proposition id="12-3">Du thé</proposition>
+        <proposition id="12-4">Du whisky</proposition>
+      </propositions>
+      <réponse proposition="12-3">Du thé</réponse>
+      <anecdote>Le thé est d'origine chinoise, en provenance des montagnes du Yunnan où il est connu depuis l'Antiquité.</anecdote>
+    </contenu>
+    <contenu id="13">
+      <question>Comment appelle-t-on la manière de cuisiner avec du beurre salé, du poivre et du jus de citron ?</question>
+      <propositions>
+        <proposition id="13-1">Beurrière</proposition>
+        <proposition id="13-2">Citronnée</proposition>
+        <proposition id="13-3">Poivrière</proposition>
+        <proposition id="13-4">Meunière</proposition>
+      </propositions>
+      <réponse proposition="13-4">Meunière</réponse>
+      <anecdote>La qualité gustative, la consistance et la couleur du beurre fermier varient selon la saison, le terroir et la qualité des prairies.</anecdote>
+    </contenu>
+    <contenu id="14">
+      <question>Avec quoi est fait le sashimi, mets traditionnel de la gastronomie japonaise ?</question>
+      <propositions>
+        <proposition id="14-1">Du poisson cru</proposition>
+        <proposition id="14-2">Du porc salé</proposition>
+        <proposition id="14-3">Du vin blanc</proposition>
+        <proposition id="14-4">Du canard laqué</proposition>
+      </propositions>
+      <réponse proposition="14-1">Du poisson cru</réponse>
+      <anecdote>Le mot « sashimi » est un terme japonais francisé signifiant littéralement « corps taillé ».</anecdote>
+    </contenu>
+    <contenu id="15">
+      <question>Qu'est-ce qu'une bombilla glissée dans le thé en Argentine ?</question>
+      <propositions>
+        <proposition id="15-1">Une paille</proposition>
+        <proposition id="15-2">Une cuillère</proposition>
+        <proposition id="15-3">Une pâte de fruit</proposition>
+        <proposition id="15-4">Une cerise</proposition>
+      </propositions>
+      <réponse proposition="15-1">Une paille</réponse>
+      <anecdote>L'utilisation de pailles minimise le contact de la boisson avec les dents et permet ainsi de réduire le risque de carie.</anecdote>
+    </contenu>
+    <contenu id="16">
+      <question>Que prenez-vous au petit-déjeuner à Osaka si vous vous pressez un mikan ?</question>
+      <propositions>
+        <proposition id="16-1">Un thé</proposition>
+        <proposition id="16-2">Un lait battu</proposition>
+        <proposition id="16-3">Un milk-shake</proposition>
+        <proposition id="16-4">Un jus d'orange</proposition>
+      </propositions>
+      <réponse proposition="16-4">Un jus d'orange</réponse>
+      <anecdote>Mikan est un terme japonais générique pour un agrume doux, désignant notamment la mandarine satsuma.</anecdote>
+    </contenu>
+    <contenu id="17">
+      <question>En Chine, à quel moment utilise-t-on avec dextérité des kuaizi ?</question>
+      <propositions>
+        <proposition id="17-1">Au repas</proposition>
+        <proposition id="17-2">En se levant</proposition>
+        <proposition id="17-3">Avant de dormir</proposition>
+        <proposition id="17-4">En voiture</proposition>
+      </propositions>
+      <réponse proposition="17-1">Au repas</réponse>
+      <anecdote>L'usage des baguettes est attesté en Chine dès le temps de la dynastie Shang.</anecdote>
+    </contenu>
+    <contenu id="18">
+      <question>Quels champignons met-on dans le riz du « djon-djon » haïtien ?</question>
+      <propositions>
+        <proposition id="18-1">Verts</proposition>
+        <proposition id="18-2">Noirs</proposition>
+        <proposition id="18-3">Bleus</proposition>
+        <proposition id="18-4">Rouges</proposition>
+      </propositions>
+      <réponse proposition="18-2">Noirs</réponse>
+      <anecdote>L'oreille de Judas est communément appelée « champignon noir » en gastronomie asiatique.</anecdote>
+    </contenu>
+    <contenu id="19">
+      <question>Quel est l'ingrédient principal d'un lassi que l'on peut boire en Inde ?</question>
+      <propositions>
+        <proposition id="19-1">Le yaourt</proposition>
+        <proposition id="19-2">Le vinaigre</proposition>
+        <proposition id="19-3">Le vin</proposition>
+        <proposition id="19-4">Le miel</proposition>
+      </propositions>
+      <réponse proposition="19-1">Le yaourt</réponse>
+      <anecdote>Le lassi, aliment de base dans la région Pendjab, existe en plusieurs versions : nature, salée, épicée ou sucrée.</anecdote>
+    </contenu>
+    <contenu id="20">
+      <question>Qu'est-ce que l'allium sativum, qui entre dans la composition de presque tous les plats coréens ?</question>
+      <propositions>
+        <proposition id="20-1">Du cumin</proposition>
+        <proposition id="20-2">Du thym</proposition>
+        <proposition id="20-3">Du céleri</proposition>
+        <proposition id="20-4">De l'ail</proposition>
+      </propositions>
+      <réponse proposition="20-4">De l'ail</réponse>
+      <anecdote>Quand on cuisine de l'ail, certains conseillent de retirer le germe, qui serait moins digeste que le reste de la gousse.</anecdote>
+    </contenu>
+  </confirmé>
+  <expert>
+    <contenu id="21">
+      <question>Quel contient le calalou que l'on vous proposera à la période de Pâques dans les Antilles ?</question>
+      <propositions>
+        <proposition id="21-1">Du cobra</proposition>
+        <proposition id="21-2">Du sanglier</proposition>
+        <proposition id="21-3">Du crabe</proposition>
+        <proposition id="21-4">Du faisan</proposition>
+      </propositions>
+      <réponse proposition="21-3">Du crabe</réponse>
+      <anecdote>Le calalou, typique de la période de Pâques, est fait à partir de crabes de terre et est accommodé de riz blanc.</anecdote>
+    </contenu>
+    <contenu id="22">
+      <question>Comment est le chocolat des confiseries nommées « gianduiotti » en Italie ?</question>
+      <propositions>
+        <proposition id="22-1">Au nougat</proposition>
+        <proposition id="22-2">Aux amandes</proposition>
+        <proposition id="22-3">Aux noisettes</proposition>
+        <proposition id="22-4">Aux fruits confits</proposition>
+      </propositions>
+      <réponse proposition="22-3">Aux noisettes</réponse>
+      <anecdote>Ce chocolat originaire de Turin est produit avec du gianduja, une pâte de noisette et de cacao.</anecdote>
+    </contenu>
+    <contenu id="23">
+      <question>Quel morceau de choix vous invite-t-on à gober au milieu d'un repas en Arabie Saoudite ?</question>
+      <propositions>
+        <proposition id="23-1">Langue de serpent</proposition>
+        <proposition id="23-2">Cur de souris</proposition>
+        <proposition id="23-3">il de mouton</proposition>
+        <proposition id="23-4">Queue de chat</proposition>
+      </propositions>
+      <réponse proposition="23-3">il de mouton</réponse>
+      <anecdote>Occupant 80 % de la péninsule Arabique, l'Arabie Saoudite est le plus grand pays du Moyen-Orient.</anecdote>
+    </contenu>
+    <contenu id="24">
+      <question>Que mettent les Tibétains à fermenter afin de pouvoir boire le chang, leur bière locale ?</question>
+      <propositions>
+        <proposition id="24-1">Du sel</proposition>
+        <proposition id="24-2">Du fromage</proposition>
+        <proposition id="24-3">Du riz</proposition>
+        <proposition id="24-4">De la graisse</proposition>
+      </propositions>
+      <réponse proposition="24-3">Du riz</réponse>
+      <anecdote>Ce type de bière au goût de cidre fermier se rencontre aussi en Inde, au Népal et au Bhoutan.</anecdote>
+    </contenu>
+    <contenu id="25">
+      <question>Avec la purée de quel fruit est fait le nectar arabe appelé « kanar-eldin » ?</question>
+      <propositions>
+        <proposition id="25-1">Abricot</proposition>
+        <proposition id="25-2">Pomme</proposition>
+        <proposition id="25-3">Pêche</proposition>
+        <proposition id="25-4">Poire</proposition>
+      </propositions>
+      <réponse proposition="25-1">Abricot</réponse>
+      <anecdote>La chair de l'abricot est sucrée, peu juteuse, ferme et jaune orangé suite à sa teneur en carotène, dimère de la vitamine A.</anecdote>
+    </contenu>
+    <contenu id="26">
+      <question>Quelle propriété contient l'ail qui intervient dans presque tous les plats coréens ?</question>
+      <propositions>
+        <proposition id="26-1">Aphrodisiaque</proposition>
+        <proposition id="26-2">Analgésique</proposition>
+        <proposition id="26-3">Antalgique</proposition>
+        <proposition id="26-4">Diurétique</proposition>
+      </propositions>
+      <réponse proposition="26-1">Aphrodisiaque</réponse>
+      <anecdote>Une tête d'ail se compose de plusieurs caïeux ou gousses d'ail, à l'odeur et au goût forts.</anecdote>
+    </contenu>
+    <contenu id="27">
+      <question>Que vous fournira-t-on avec le sel pour mettre sur vos frites en Angleterre ?</question>
+      <propositions>
+        <proposition id="27-1">Du lait</proposition>
+        <proposition id="27-2">Du vinaigre</proposition>
+        <proposition id="27-3">Du sirop</proposition>
+        <proposition id="27-4">Du sucre</proposition>
+      </propositions>
+      <réponse proposition="27-2">Du vinaigre</réponse>
+      <anecdote>La plupart des frites consommées dans le monde sont des frites surgelées produites industriellement.</anecdote>
+    </contenu>
+    <contenu id="28">
+      <question>Qu'y a-t-il dans le « miod », célèbre boisson polonaise et boisson préférée des dieux de l'Olympe ?</question>
+      <propositions>
+        <proposition id="28-1">Du raisin</proposition>
+        <proposition id="28-2">De la vodka</proposition>
+        <proposition id="28-3">Du riz</proposition>
+        <proposition id="28-4">Du miel</proposition>
+      </propositions>
+      <réponse proposition="28-4">Du miel</réponse>
+      <anecdote>Les bienfaits du miel produit par les abeilles à miel sont multiples et différents selon le type de miel.</anecdote>
+    </contenu>
+    <contenu id="29">
+      <question>Quel est l'ingrédient de base des rasgulla, confiseries indiennes traditionnelles ?</question>
+      <propositions>
+        <proposition id="29-1">Le lait</proposition>
+        <proposition id="29-2">Le chocolat</proposition>
+        <proposition id="29-3">La pomme</proposition>
+        <proposition id="29-4">Le miel</proposition>
+      </propositions>
+      <réponse proposition="29-1">Le lait</réponse>
+      <anecdote>Ces boules de fromage non mûr ou de lait caillé sont recouvertes d'un sirop sucré.</anecdote>
+    </contenu>
+    <contenu id="30">
+      <question>À quelle boisson les Tibétains rajoutent-ils leur tsampa matinal ?</question>
+      <propositions>
+        <proposition id="30-1">Au vin</proposition>
+        <proposition id="30-2">Au café</proposition>
+        <proposition id="30-3">Au champagne</proposition>
+        <proposition id="30-4">Au thé</proposition>
+      </propositions>
+      <réponse proposition="30-4">Au thé</réponse>
+      <anecdote>La Tsampa, aliment traditionnel de base au Tibet, est le nom tibétain de la farine d'orge du Tibet grillée.</anecdote>
+    </contenu>
+  </expert>
+</quizz>

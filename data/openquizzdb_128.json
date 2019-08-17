@@ -1,0 +1,374 @@
+{
+  "fournisseur": "OpenQuizzDB - Fournisseur de contenu libre (www.openquizzdb.org)",
+  "rédacteur": "Philippe Bresoux",
+  "thème": "Romantisme",
+  "difficulté": 5,
+  "quizz": {
+    "débutant": [
+      {
+        "id": 1,
+        "question": "L'école de peinture de Düsseldorf était un mouvement romantique important dans quel pays ?",
+        "propositions": [
+          "Allemagne",
+          "Espagne",
+          "Russie",
+          "Grande-Bretagne"
+        ],
+        "réponse": "Allemagne",
+        "anecdote": "Le paysage et la peinture de genre de Düsseldorf, en particulier, ont été leaders et pionniers pendant de nombreuses années."
+      },
+      {
+        "id": 2,
+        "question": "De quel pays François Rude était-il un sculpteur romantique ?",
+        "propositions": [
+          "Espagne",
+          "Italie",
+          "Allemagne",
+          "France"
+        ],
+        "réponse": "France",
+        "anecdote": "Ce sculpteur français est représentatif de la transition entre le néoclassicisme et le romantisme, dont il est un des maîtres."
+      },
+      {
+        "id": 3,
+        "question": "William Morris Hunt appartenait à une des familles artistiques de premier plan de quel pays ?",
+        "propositions": [
+          "Grande-Bretagne",
+          "Norvège",
+          "France",
+          "États-Unis"
+        ],
+        "réponse": "États-Unis",
+        "anecdote": "William Morris Hunt est un peintre américain et le chef de file du courant pictural en vogue à Boston au milieu du XIXe siècle."
+      },
+      {
+        "id": 4,
+        "question": "'La Bavaria' a été la première statue colossale à avoir été fondue en quelle matière ?",
+        "propositions": [
+          "Étain",
+          "Bronze",
+          "Nickel",
+          "Argent"
+        ],
+        "réponse": "Bronze",
+        "anecdote": "Dans la tête de la statue se trouve une plate-forme comportant deux bancs de six places chacun, accessibles par un escalier."
+      },
+      {
+        "id": 5,
+        "question": "L'école de Bristol regroupait des peintres influents de quel pays ?",
+        "propositions": [
+          "La Suisse",
+          "La France",
+          "L'Espagne",
+          "L'Angleterre"
+        ],
+        "réponse": "L'Angleterre",
+        "anecdote": "L'école de Bristol ressortit plus à l'association de peintres et d'amateurs qu'à un mouvement pictural autonome."
+      },
+      {
+        "id": 6,
+        "question": "Le monument dédié à Goethe et Schiler est un célèbre point de repère de quel pays ?",
+        "propositions": [
+          "L'Allemagne",
+          "La Roumanie",
+          "La Hongrie",
+          "La Pologne"
+        ],
+        "réponse": "L'Allemagne",
+        "anecdote": "Ville aux nombreux monuments historiques, Weimar a été inscrit par l'UNESCO au patrimoine mondial en décembre 1998."
+      },
+      {
+        "id": 7,
+        "question": "Outre la sculpture et la peinture, dans quel domaine Honoré Daumier excellait-il ?",
+        "propositions": [
+          "La poésie",
+          "L'architecture",
+          "La musique",
+          "La gravure"
+        ],
+        "réponse": "La gravure",
+        "anecdote": "Un timbre postal, d'une valeur de 0,45 + 0,10 franc et représentant Honré Daumier, a été émis le 23 mai 1961."
+      },
+      {
+        "id": 8,
+        "question": "Quel grand artiste a peint le célèbre tableau romantique 'La Barque de Dante' ?",
+        "propositions": [
+          "Girodet",
+          "Turner",
+          "Delacroix",
+          "Goya"
+        ],
+        "réponse": "Delacroix",
+        "anecdote": "Extrait de la 'Divine Comédie', la scène représente la visite aux Enfers de Dante Alighieri accompagné de Virgile."
+      },
+      {
+        "id": 9,
+        "question": "Lequel de ces termes indique l'effet de la lumière dans les paysages ?",
+        "propositions": [
+          "Symbolisme",
+          "Maniérisme",
+          "Luminisme",
+          "Néoclassicisme"
+        ],
+        "réponse": "Luminisme",
+        "anecdote": "Le luminisme est un nom générique pour désigner l'ensemble de l'art belge influencé par l'impressionnisme français."
+      },
+      {
+        "id": 10,
+        "question": "Quel peintre est célèbre pour sa troublante série des 'Peintures noires' ?",
+        "propositions": [
+          "Gros",
+          "Füssli",
+          "Corot",
+          "Goya"
+        ],
+        "réponse": "Goya",
+        "anecdote": "La série de peintures à l'huile auxquelles Goya ne donna aucun titre fut cataloguée en 1828 par un ami de Goya, Antonio de Brugada."
+      }
+    ],
+    "confirmé": [
+      {
+        "id": 11,
+        "question": "Dans le mouvement romantique de quel pays l'artiste et poète Carl Spitzweg était-il influent ?",
+        "propositions": [
+          "Espagne",
+          "Allemagne",
+          "Royaume-Uni",
+          "Italie"
+        ],
+        "réponse": "Allemagne",
+        "anecdote": "Carl Spitzweg parlait plusieurs langues et voyageait beaucoup, souvent à pied, visitant Paris, Londres, Prague, l'Italie et la Belgique."
+      },
+      {
+        "id": 12,
+        "question": "Quel artiste danois a peint 'Un groupe d'artistes danois à Rome' ?",
+        "propositions": [
+          "Hansen",
+          "Malmström",
+          "Bierstadt",
+          "Delacroix"
+        ],
+        "réponse": "Hansen",
+        "anecdote": "Achevée en 1837, la peinture à l'huile de Hansen est aujourd'hui exposée au Statens Museum for Kunst de Copenhague."
+      },
+      {
+        "id": 13,
+        "question": "Quel est le thème des sculptures de Frederic Remington, mêlant romantisme et réalisme ?",
+        "propositions": [
+          "L'Ouest américain",
+          "La mythologie",
+          "La royauté anglaise",
+          "Les animaux"
+        ],
+        "réponse": "L'Ouest américain",
+        "anecdote": "Alors qu'il est devenu célèbre pour ses descriptions de la vie dans l'ouest américain, Remington n'a visité la région que brièvement."
+      },
+      {
+        "id": 14,
+        "question": "Quelle scène le tableau de Turner 'Pluie, Vapeur et Vitesse' représente-t-il ?",
+        "propositions": [
+          "Un étang",
+          "Un sauna",
+          "Une usine",
+          "Une voie ferrée"
+        ],
+        "réponse": "Une voie ferrée",
+        "anecdote": "La toile, achevée en 1844, est exposée à la National Gallery de Londres, à la suite d'une acquisition de l'héritage Turner en 1856."
+      },
+      {
+        "id": 15,
+        "question": "Que cherche à apporter de nouveau à la peinture le mouvement romantique des Nazaréens ?",
+        "propositions": [
+          "La spiritualité",
+          "La nature",
+          "La musique",
+          "La Laïcité"
+        ],
+        "réponse": "La spiritualité",
+        "anecdote": "Le mouvement artistique des nazaréens a débuté grâce à des élèves de l'académie des Beaux-Arts de Vienne."
+      },
+      {
+        "id": 16,
+        "question": "Quel peintre français est célèbre pour ses lithographies satiriques de la bourgeoisie ?",
+        "propositions": [
+          "Delacroix",
+          "Géricault",
+          "Daumier",
+          "Fuseli"
+        ],
+        "réponse": "Daumier",
+        "anecdote": "La valeur de son uvre peinte, quelque cinq cents tableaux, a elle aussi été reconnue, bien quà titre posthume seulement."
+      },
+      {
+        "id": 17,
+        "question": "En peignant quels sujets Paul Delaroche a-t-il bâti la majorité de sa fortune ?",
+        "propositions": [
+          "L'Ouest américain",
+          "Les chiens",
+          "La royauté anglaise",
+          "Les enfants"
+        ],
+        "réponse": "La royauté anglaise",
+        "anecdote": "Delaroche a exécuté un grand nombre de portraits, parmi lesquels ceux de Guizot, Lamartine, Salvandy, Rémusat et Thiers."
+      },
+      {
+        "id": 18,
+        "question": "Sir Charles Barry est célèbre pour son rôle dans la reconstruction de quel édifice ?",
+        "propositions": [
+          "Basilique StPierre",
+          "Mur dHadrien",
+          "Abbaye de Tintern",
+          "Palais de Westminster"
+        ],
+        "réponse": "Palais de Westminster",
+        "anecdote": "Sa première commande importante lui vint en 1824, lorsqu'il remporta le concours visant la nouvelle Royal Manchester Institution."
+      },
+      {
+        "id": 19,
+        "question": "Le célèbre 'Portrait du duc de Wellington' est représentatif de l'uvre de quel peintre ?",
+        "propositions": [
+          "Danby",
+          "Hayez",
+          "Goya",
+          "Lawrence"
+        ],
+        "réponse": "Goya",
+        "anecdote": "Son chef-d'uvre est la série de peintures à l'huile sur mur sec qui décorent sa maison de campagne, les 'Peintures noires'."
+      },
+      {
+        "id": 20,
+        "question": "Quel artiste a peint l'émouvant tableau 'El tres de mayo de 1808 en Madrid' ?",
+        "propositions": [
+          "Blake",
+          "Mulready",
+          "Girodet",
+          "Goya"
+        ],
+        "réponse": "Goya",
+        "anecdote": "L'émotion que dégage la toile en fait l'une des représentations les plus connues de la dénonciation des horreurs liées à la guerre."
+      }
+    ],
+    "expert": [
+      {
+        "id": 21,
+        "question": "À quelle école l'artiste Asher Brown Durand était-il associé ?",
+        "propositions": [
+          "Lancaster",
+          "Hudson River School",
+          "Bristol",
+          "Norwich"
+        ],
+        "réponse": "Hudson River School",
+        "anecdote": "Les artistes de l'Hudson River School pensaient que la Nature était la manifestation de la puissance et de la bonté divine."
+      },
+      {
+        "id": 22,
+        "question": "Quel artiste allemand a peint le célèbre tableau 'Lever de lune sur la mer' ?",
+        "propositions": [
+          "Quidor",
+          "Raeburn",
+          "Friedrich",
+          "Runge"
+        ],
+        "réponse": "Friedrich",
+        "anecdote": "Ce tableau faisait partie de la collection impériale du palais de Ropcha aux abords de Saint-Pétersbourg."
+      },
+      {
+        "id": 23,
+        "question": "Quel sculpteur exprima une influence romantique dans la Statue de la Liberté ?",
+        "propositions": [
+          "Bartholdi",
+          "Daumier",
+          "Rude",
+          "Barye"
+        ],
+        "réponse": "Bartholdi",
+        "anecdote": "En 1879, à la mort de Viollet-le-Duc, Bartholdi fit appel à l'ingénieur Gustave Eiffel pour la structure interne de la statue."
+      },
+      {
+        "id": 24,
+        "question": "George Dawe est connu pour avoir peint plus de 300 tableaux sur quel sujet ?",
+        "propositions": [
+          "Les lions",
+          "Les trains",
+          "Les acrobates",
+          "Les généraux russes"
+        ],
+        "réponse": "Les généraux russes",
+        "anecdote": "Célèbre surtout pour ses portraits de l'empereur Alexandre Ier, il réalise à Saint-Pétersbourg 329 portraits de généraux russes."
+      },
+      {
+        "id": 25,
+        "question": "Dans quel pays le premier romantisme a-t-il vu le jour à Iéna ?",
+        "propositions": [
+          "Italie",
+          "Royaume-Uni",
+          "Allemagne",
+          "France"
+        ],
+        "réponse": "Allemagne",
+        "anecdote": "Ce mouvement reprend les fondations théoriques d'un renouveau esthétique et métaphysique initié par Wieland, Herder et Goethe."
+      },
+      {
+        "id": 26,
+        "question": "Quel artiste compte parmi ses uvres 'La Dentelière' travaillant la dentelle aux fuseaux ?",
+        "propositions": [
+          "Malmström",
+          "Stieler",
+          "Tropinine",
+          "Bierstadt"
+        ],
+        "réponse": "Tropinine",
+        "anecdote": "Vassili Tropinine, peintre romantique russe, est né serf, d'abord des comtes Munich, et garda ce statut une grande partie de sa vie."
+      },
+      {
+        "id": 27,
+        "question": "De quel mouvement ou école de peinture l'artiste Franz Pforr faisait-il partie ?",
+        "propositions": [
+          "Les Anciens",
+          "Les Nazaréens",
+          "Les Cubistes",
+          "Les Futuristes"
+        ],
+        "réponse": "Les Nazaréens",
+        "anecdote": "Malgré sa courte vie artistique, Franz Pforr est l'un des plus importants peintres du romantisme allemand."
+      },
+      {
+        "id": 28,
+        "question": "Quel artiste compte parmi ses uvres célèbres le tableau intitulé 'Spolarium' ?",
+        "propositions": [
+          "Juan Luna",
+          "George Stubbs",
+          "James Barry",
+          "Henry Fuseli"
+        ],
+        "réponse": "Juan Luna",
+        "anecdote": "Le groupe de rock philippin Eraserheads a composé un single intitulé 'Spoliarium' dans leur album 'Sticker Happy'."
+      },
+      {
+        "id": 29,
+        "question": "Quel artiste a peint un célèbre portrait d'Alexander von Humboldt ?",
+        "propositions": [
+          "Bierstadt",
+          "Weitsch",
+          "Hansen",
+          "Spitzweg"
+        ],
+        "réponse": "Weitsch",
+        "anecdote": "Par la qualité des relevés effectués lors de ses expéditions, von Humboldt a fondé les bases des explorations scientifiques."
+      },
+      {
+        "id": 30,
+        "question": "Quel peintre romantique réalisa la grande peinture 'Le Dernier jour de Pompéi' ?",
+        "propositions": [
+          "Girodet",
+          "Brioullov",
+          "Gros",
+          "Delacroix"
+        ],
+        "réponse": "Brioullov",
+        "anecdote": "Cette peinture valut à son auteur une notoriété internationale et l'admiration d'Alexandre Pouchkine qui lui dédia un poème."
+      }
+    ]
+  }
+}

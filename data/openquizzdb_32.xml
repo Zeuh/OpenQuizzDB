@@ -1,0 +1,343 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes" ?>
+<quizz fournisseur="OpenQuizzDB : Fournisseur de contenu libre"
+       url="http://www.openquizzdb.org"
+       rédacteur="Philippe Bresoux"
+       thème="Logiciels et applications web"
+       difficulté="2">
+  <débutant>
+    <contenu id="1">
+      <question>Quel logiciel de traitement de texte a été mis au point par Microsoft ?</question>
+      <propositions>
+        <proposition id="1-1">Word</proposition>
+        <proposition id="1-2">Access</proposition>
+        <proposition id="1-3">PowerPoint</proposition>
+        <proposition id="1-4">Excel</proposition>
+      </propositions>
+      <réponse proposition="1-1">Word</réponse>
+      <anecdote>Microsoft publie plusieurs logiciels de traitement de texte, mais 'Word' en reste la « vedette ».</anecdote>
+    </contenu>
+    <contenu id="2">
+      <question>Le logiciel Excel extrait de la suite bureautique Microsoft Office est un...</question>
+      <propositions>
+        <proposition id="2-1">Tableur</proposition>
+        <proposition id="2-2">Client de messagerie</proposition>
+        <proposition id="2-3">Navigateur internet</proposition>
+        <proposition id="2-4">Traitement de texte</proposition>
+      </propositions>
+      <réponse proposition="2-1">Tableur</réponse>
+      <anecdote>Excel a été critiqué pour ses problèmes de précision sur calculs à virgule flottante.</anecdote>
+    </contenu>
+    <contenu id="3">
+      <question>En informatique, comment appelle-t-on une erreur de programmation encore non localisée ?</question>
+      <propositions>
+        <proposition id="3-1">Un bug</proposition>
+        <proposition id="3-2">Un virus</proposition>
+        <proposition id="3-3">Un crack</proposition>
+        <proposition id="3-4">Un spam</proposition>
+      </propositions>
+      <réponse proposition="3-1">Un bug</réponse>
+      <anecdote>La gravité du dysfonctionnement informatique peut aller de bénigne à majeure.</anecdote>
+    </contenu>
+    <contenu id="4">
+      <question>Quelle version de Windows Microsoft a-t-il lancé le vendredi 26 octobre 2012 ?</question>
+      <propositions>
+        <proposition id="4-1">Windows CE</proposition>
+        <proposition id="4-2">Windows 8</proposition>
+        <proposition id="4-3">Windows Mobile</proposition>
+        <proposition id="4-4">Windows 7</proposition>
+      </propositions>
+      <réponse proposition="4-2">Windows 8</réponse>
+      <anecdote>La version Windows 8.1 est une mise à jour gratuite de Windows 8 disponible depuis 2013. </anecdote>
+    </contenu>
+    <contenu id="5">
+      <question>Comment est communément abrégée la publication assistée par ordinateur ?</question>
+      <propositions>
+        <proposition id="5-1">PAO</proposition>
+        <proposition id="5-2">USB</proposition>
+        <proposition id="5-3">CIO</proposition>
+        <proposition id="5-4">VGA</proposition>
+      </propositions>
+      <réponse proposition="5-1">PAO</réponse>
+      <anecdote>La PAO consiste à créer des documents imprimés en travaillant la composition et la typographie de documents.</anecdote>
+    </contenu>
+    <contenu id="6">
+      <question>Quelle application informatique de la société Apple permet de gérer facilement un iPod ?</question>
+      <propositions>
+        <proposition id="6-1">QuickTime</proposition>
+        <proposition id="6-2">iTunes</proposition>
+        <proposition id="6-3">FileMaker</proposition>
+        <proposition id="6-4">HyperCard</proposition>
+      </propositions>
+      <réponse proposition="6-2">iTunes</réponse>
+      <anecdote>'iTunes' faisait partie de la suite logicielle d'Apple 'iLife' jusqu'à la version '06.</anecdote>
+    </contenu>
+    <contenu id="7">
+      <question>En informatique, quel logiciel permet de créer des calculs automatiques ?</question>
+      <propositions>
+        <proposition id="7-1">Un tableur</proposition>
+        <proposition id="7-2">Un explorateur</proposition>
+        <proposition id="7-3">Un navigateur</proposition>
+        <proposition id="7-4">Un débogueur</proposition>
+      </propositions>
+      <réponse proposition="7-1">Un tableur</réponse>
+      <anecdote>Une feuille de calcul est une table d'informations la plupart du temps financières.</anecdote>
+    </contenu>
+    <contenu id="8">
+      <question>Quel pirate informatique casse les systèmes informatique et les logiciels protégés ?</question>
+      <propositions>
+        <proposition id="8-1">Un forceur</proposition>
+        <proposition id="8-2">Un pirateur</proposition>
+        <proposition id="8-3">Un blagueur</proposition>
+        <proposition id="8-4">Un hacker</proposition>
+      </propositions>
+      <réponse proposition="8-4">Un hacker</réponse>
+      <anecdote>Certains utilisent ce savoir-faire dans un cadre légal, d'autres étant hors-la-loi.</anecdote>
+    </contenu>
+    <contenu id="9">
+      <question>Quels logiciels installés sur PC, tablette ou smartphone, permettent de « surfer » sur Internet ?</question>
+      <propositions>
+        <proposition id="9-1">Des émulateurs</proposition>
+        <proposition id="9-2">Des navigateurs</proposition>
+        <proposition id="9-3">Des tableurs</proposition>
+        <proposition id="9-4">Des éditeurs</proposition>
+      </propositions>
+      <réponse proposition="9-2">Des navigateurs</réponse>
+      <anecdote>Le premier navigateur stable et largement diffusé fut 'NCSA Mosaic', en 1993.</anecdote>
+    </contenu>
+    <contenu id="10">
+      <question>Quel outil développé par le géant Google permet de gérer son emploi du temps ?</question>
+      <propositions>
+        <proposition id="10-1">Google TimeLine</proposition>
+        <proposition id="10-2">Google Tempo</proposition>
+        <proposition id="10-3">Google Agenda</proposition>
+        <proposition id="10-4">Google Mobile</proposition>
+      </propositions>
+      <réponse proposition="10-3">Google Agenda</réponse>
+      <anecdote>'Google Agenda' permet de partager des événements et des agendas et de les publier sur internet ou sur un site Web.</anecdote>
+    </contenu>
+  </débutant>
+  <confirmé>
+    <contenu id="11">
+      <question>Quelle grande société a reçu le feu vert en  2011 pour le rachat de 'Skype' ?</question>
+      <propositions>
+        <proposition id="11-1">Microsoft</proposition>
+        <proposition id="11-2">Apple</proposition>
+        <proposition id="11-3">Google</proposition>
+        <proposition id="11-4">Facebook</proposition>
+      </propositions>
+      <réponse proposition="11-1">Microsoft</réponse>
+      <anecdote>'Skype' est un logiciel gratuit qui permet de passer des appels téléphoniques et vidéo via Internet, ainsi que le partage d'écran.</anecdote>
+    </contenu>
+    <contenu id="12">
+      <question>Quel est probablement le plus connu des systèmes informatiques dits « libre » ?</question>
+      <propositions>
+        <proposition id="12-1">MS-DOS</proposition>
+        <proposition id="12-2">Windows</proposition>
+        <proposition id="12-3">Linux</proposition>
+        <proposition id="12-4">Mac OS</proposition>
+      </propositions>
+      <réponse proposition="12-3">Linux</réponse>
+      <anecdote>Linux est un système informatique qui fonctionne sur du matériel allant du téléphone portable au supercalculateur.</anecdote>
+    </contenu>
+    <contenu id="13">
+      <question>Quelle est le nom de la solution professionnelle de services Google ?</question>
+      <propositions>
+        <proposition id="13-1">Google Pro</proposition>
+        <proposition id="13-2">Google Apps</proposition>
+        <proposition id="13-3">Google Mac</proposition>
+        <proposition id="13-4">Google Serve</proposition>
+      </propositions>
+      <réponse proposition="13-2">Google Apps</réponse>
+      <anecdote>Ce site Web au service des entreprises met en ligne de nombreuses applications.</anecdote>
+    </contenu>
+    <contenu id="14">
+      <question>Quel logiciel est mis gratuitement et librement à disposition par son créateur ?</question>
+      <propositions>
+        <proposition id="14-1">Un software</proposition>
+        <proposition id="14-2">Un malware</proposition>
+        <proposition id="14-3">Un freeware</proposition>
+        <proposition id="14-4">Un adware</proposition>
+      </propositions>
+      <réponse proposition="14-3">Un freeware</réponse>
+      <anecdote>Il ne faut toutefois pas confondre freeware (gratuiciel) et shareware (partagiciel).</anecdote>
+    </contenu>
+    <contenu id="15">
+      <question>En avril 2012, quelle start-up Facebook a-t-il racheté pour un milliard de dollars ?</question>
+      <propositions>
+        <proposition id="15-1">Globalnet</proposition>
+        <proposition id="15-2">Instagram</proposition>
+        <proposition id="15-3">Valve</proposition>
+        <proposition id="15-4">Backelite</proposition>
+      </propositions>
+      <réponse proposition="15-2">Instagram</réponse>
+      <anecdote>'Instagram' est une application  cofondée et lancée par l'américain Kevin Systrom et le Brésilien Michel Mike Krieger en octobre 2010.</anecdote>
+    </contenu>
+    <contenu id="16">
+      <question>Au Québec, quel mot est souvent utilisé pour désigner le courrier électronique ?</question>
+      <propositions>
+        <proposition id="16-1">Emel</proposition>
+        <proposition id="16-2">Courriel</proposition>
+        <proposition id="16-3">Copitel</proposition>
+        <proposition id="16-4">Lettrinter</proposition>
+      </propositions>
+      <réponse proposition="16-2">Courriel</réponse>
+      <anecdote>Le courriel tend à être reconnu comme moyen valide de contacter une personne.</anecdote>
+    </contenu>
+    <contenu id="17">
+      <question>Quel logiciel de Microsoft a remplacé 'Windows Live Messenger' en 2013 ?</question>
+      <propositions>
+        <proposition id="17-1">Instagram</proposition>
+        <proposition id="17-2">QuickTime</proposition>
+        <proposition id="17-3">Skype</proposition>
+        <proposition id="17-4">Pidgin</proposition>
+      </propositions>
+      <réponse proposition="17-3">Skype</réponse>
+      <anecdote>'Skype' a été fondé en Estonie par Niklas Zennström et Janus Friis en 2003 et développé par 3 Estoniens à l'origine du logiciel 'KaZaA'.</anecdote>
+    </contenu>
+    <contenu id="18">
+      <question>Quel nom portait le navigateur Internet de Microsoft, devenu aujourd'hui 'Microsoft Edge' ?</question>
+      <propositions>
+        <proposition id="18-1">Firefox</proposition>
+        <proposition id="18-2">Safari</proposition>
+        <proposition id="18-3">Internet Explorer</proposition>
+        <proposition id="18-4">Chrome</proposition>
+      </propositions>
+      <réponse proposition="18-3">Internet Explorer</réponse>
+      <anecdote>La version 11 du navigateur sera toujours présente dans Windows 10 avant le passage progressif à Microsoft Edge.</anecdote>
+    </contenu>
+    <contenu id="19">
+      <question>Quel logiciel est indispensable pour protéger votre ordinateur sur Internet ?</question>
+      <propositions>
+        <proposition id="19-1">Un chat</proposition>
+        <proposition id="19-2">Un antivirus</proposition>
+        <proposition id="19-3">Un navigateur</proposition>
+        <proposition id="19-4">Une messagerie</proposition>
+      </propositions>
+      <réponse proposition="19-2">Un antivirus</réponse>
+      <anecdote>Les antivirus peuvent balayer le contenu d'un disque dur, mais également la mémoire vive de l'ordinateur.</anecdote>
+    </contenu>
+    <contenu id="20">
+      <question>Qui est le tout premier pape à avoir envoyé un message sur 'Twitter' ?</question>
+      <propositions>
+        <proposition id="20-1">Paul VI</proposition>
+        <proposition id="20-2">Jean-Paul II</proposition>
+        <proposition id="20-3">François</proposition>
+        <proposition id="20-4">Benoît XVI</proposition>
+      </propositions>
+      <réponse proposition="20-4">Benoît XVI</réponse>
+      <anecdote>Réputé conservateur, le cardinal Ratzinger a été élu le 19 avril 2005 pour succéder à Jean-Paul II.</anecdote>
+    </contenu>
+  </confirmé>
+  <expert>
+    <contenu id="21">
+      <question>Quel courrielleur créé par Mozilla est le compagnon idéal du navigateur 'Firefox' ?</question>
+      <propositions>
+        <proposition id="21-1">Sylpheed</proposition>
+        <proposition id="21-2">Foxmail</proposition>
+        <proposition id="21-3">Incredimail</proposition>
+        <proposition id="21-4">Thunderbird</proposition>
+      </propositions>
+      <réponse proposition="21-4">Thunderbird</réponse>
+      <anecdote>Tout comme 'Firefox', 'Thunderbird' et son interface en XUL est basé sur le moteur Gecko.</anecdote>
+    </contenu>
+    <contenu id="22">
+      <question>Quel nom porte la suite bureautique en ligne proposée par Microsoft ?</question>
+      <propositions>
+        <proposition id="22-1">OpenOffice</proposition>
+        <proposition id="22-2">StarOffice</proposition>
+        <proposition id="22-3">KOffice</proposition>
+        <proposition id="22-4">Office 365</proposition>
+      </propositions>
+      <réponse proposition="22-4">Office 365</réponse>
+      <anecdote>Les abonnements 'Office 365' pour les particuliers permettent de bénéficier de la version complète de la suite Office que l'on connaît.</anecdote>
+    </contenu>
+    <contenu id="23">
+      <question>Quel était le nom de code de la version 3.1 de Windows ?</question>
+      <propositions>
+        <proposition id="23-1">Opus</proposition>
+        <proposition id="23-2">Startus</proposition>
+        <proposition id="23-3">Janus</proposition>
+        <proposition id="23-4">Uranus</proposition>
+      </propositions>
+      <réponse proposition="23-3">Janus</réponse>
+      <anecdote>La version 3 a été la première à connaître un large succès, permettant à Microsoft de rivaliser avec l'Apple Macintosh.</anecdote>
+    </contenu>
+    <contenu id="24">
+      <question>Quel nom porte le service de stockage en ligne de Windows Live ?</question>
+      <propositions>
+        <proposition id="24-1">Onedrive</proposition>
+        <proposition id="24-2">Dropbox</proposition>
+        <proposition id="24-3">MediaFire</proposition>
+        <proposition id="24-4">RapidShare</proposition>
+      </propositions>
+      <réponse proposition="24-1">Onedrive</réponse>
+      <anecdote>Ce service en ligne de stockage et d'applications, créé en 2007, est une manifestation du concept de cloud computing.</anecdote>
+    </contenu>
+    <contenu id="25">
+      <question>Quel est le nouveau nom du logiciel gratuit de messagerie instantanée 'Gaim' ?</question>
+      <propositions>
+        <proposition id="25-1">Pidgin</proposition>
+        <proposition id="25-2">iShare</proposition>
+        <proposition id="25-3">Komunnity</proposition>
+        <proposition id="25-4">Connect</proposition>
+      </propositions>
+      <réponse proposition="25-1">Pidgin</réponse>
+      <anecdote>'Gaim' a été renommé en 'Pidgin' en 2007 en raison de plaintes de la société AOL et de sa marque AIM.</anecdote>
+    </contenu>
+    <contenu id="26">
+      <question>Quelle suite logicielle équivaut à Microsoft Office chez le géant Google ?</question>
+      <propositions>
+        <proposition id="26-1">OpenOffice</proposition>
+        <proposition id="26-2">Google Sites</proposition>
+        <proposition id="26-3">Google Documents</proposition>
+        <proposition id="26-4">Works</proposition>
+      </propositions>
+      <réponse proposition="26-3">Google Documents</réponse>
+      <anecdote>'Google Documents' est une suite des évolutions de 'Google Spreadsheets' et de 'Writely', logiciel de traitement de texte.</anecdote>
+    </contenu>
+    <contenu id="27">
+      <question>De quel pays la suite logicielle gratuite 'Opera' est-elle originaire ?</question>
+      <propositions>
+        <proposition id="27-1">France</proposition>
+        <proposition id="27-2">Autriche</proposition>
+        <proposition id="27-3">Italie</proposition>
+        <proposition id="27-4">Norvège</proposition>
+      </propositions>
+      <réponse proposition="27-4">Norvège</réponse>
+      <anecdote>'Opera' est un navigateur Web développé par la société norvégienne Opera Software, qui propose plusieurs logiciels relatifs à Internet.</anecdote>
+    </contenu>
+    <contenu id="28">
+      <question>Lequel de ces outils ne permet pas de visionner des pages web ?</question>
+      <propositions>
+        <proposition id="28-1">Acrobat Reader</proposition>
+        <proposition id="28-2">Google Chrome</proposition>
+        <proposition id="28-3">Internet Explorer</proposition>
+        <proposition id="28-4">Mozilla Firefox</proposition>
+      </propositions>
+      <réponse proposition="28-1">Acrobat Reader</réponse>
+      <anecdote>Adobe change régulièrement le nom des produits de la famille Acrobat et cela en subdivisant ses produits.</anecdote>
+    </contenu>
+    <contenu id="29">
+      <question>Combien de téléchargements dénombrait-on sur le célèbre 'App Store' fin 2012 ?</question>
+      <propositions>
+        <proposition id="29-1">35 milliards</proposition>
+        <proposition id="29-2">15 milliards</proposition>
+        <proposition id="29-3">5 milliards</proposition>
+        <proposition id="29-4">25 milliards</proposition>
+      </propositions>
+      <réponse proposition="29-1">35 milliards</réponse>
+      <anecdote>Depuis la mise à jour du système d'exploitation d'Apple iOS 7 en septembre 2013, l''App Store' possède un tout nouveau design.</anecdote>
+    </contenu>
+    <contenu id="30">
+      <question>Quelle est la date « officielle » de création de 'Wikipédia' en Français ?</question>
+      <propositions>
+        <proposition id="30-1">Le 15 janvier 2002</proposition>
+        <proposition id="30-2">Le 23 mars 2001</proposition>
+        <proposition id="30-3">Le 2 janvier 1999</proposition>
+        <proposition id="30-4">Le 8 décembre 2000</proposition>
+      </propositions>
+      <réponse proposition="30-2">Le 23 mars 2001</réponse>
+      <anecdote>Plusieurs moyens de consulter l'encyclopédie existent, tels que des sites web miroirs ou des applications pour smartphone.</anecdote>
+    </contenu>
+  </expert>
+</quizz>

@@ -1,0 +1,344 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes" ?>
+<quizz fournisseur="OpenQuizzDB : Fournisseur de contenu libre"
+       url="http://www.openquizzdb.org"
+       rédacteur="Philippe Bresoux"
+       thème="Japon"
+       difficulté="3">
+  <débutant>
+    <contenu id="1">
+      <question>Dans quel océan, le plus vaste du globe terrestre, le Japon se trouve-t-il ?</question>
+      <propositions>
+        <proposition id="1-1">Atlantique</proposition>
+        <proposition id="1-2">Pacifique</proposition>
+        <proposition id="1-3">Indien</proposition>
+        <proposition id="1-4">Arctique</proposition>
+      </propositions>
+      <réponse proposition="1-2">Pacifique</réponse>
+      <anecdote>Le Japon forme un archipel de 6 852 îles de plus de 100 m2, dont les quatre plus grandes sont Honshu, Hokkaido, Kyushu et Shikok.</anecdote>
+    </contenu>
+    <contenu id="2">
+      <question>Quelle activité très populaire au Japon signifie « orchestre vide » ?</question>
+      <propositions>
+        <proposition id="2-1">Origami</proposition>
+        <proposition id="2-2">Temari</proposition>
+        <proposition id="2-3">Karaté</proposition>
+        <proposition id="2-4">Karaoké</proposition>
+      </propositions>
+      <réponse proposition="2-4">Karaoké</réponse>
+      <anecdote>Ce serait Daisuke Inoue qui aurait inventé le 'KaraOK', ayant reçu le prix Nobel de la paix en 2004 pour cette invention.</anecdote>
+    </contenu>
+    <contenu id="3">
+      <question>Quelle ville est la capitale et la plus grande ville du Japon ?</question>
+      <propositions>
+        <proposition id="3-1">Tokyo</proposition>
+        <proposition id="3-2">Bangkok</proposition>
+        <proposition id="3-3">Pékin</proposition>
+        <proposition id="3-4">Séoul</proposition>
+      </propositions>
+      <réponse proposition="3-1">Tokyo</réponse>
+      <anecdote>Principal centre économique et financier du Japon, Tokyo est l'une des principales places financières asiatiques et mondiales.</anecdote>
+    </contenu>
+    <contenu id="4">
+      <question>Quelle feuille d'algue est utilisée pour la confection des makizushi ou sushis en rouleau ?</question>
+      <propositions>
+        <proposition id="4-1">Nori</proposition>
+        <proposition id="4-2">Mozuku</proposition>
+        <proposition id="4-3">Konbu</proposition>
+        <proposition id="4-4">Wakame</proposition>
+      </propositions>
+      <réponse proposition="4-1">Nori</réponse>
+      <anecdote>Une fois séchée, cette algue rouge comestible prend la couleur noire ou verte.</anecdote>
+    </contenu>
+    <contenu id="5">
+      <question>En 1941, quel pays décréta un embargo total sur le Japon ?</question>
+      <propositions>
+        <proposition id="5-1">URSS</proposition>
+        <proposition id="5-2">États-Unis</proposition>
+        <proposition id="5-3">Allemagne</proposition>
+        <proposition id="5-4">France</proposition>
+      </propositions>
+      <réponse proposition="5-2">États-Unis</réponse>
+      <anecdote>L'attaque de Pearl Harbor déclencha la guerre du Pacifique et engagea l'Empire du Japon dans la Seconde Guerre mondiale.</anecdote>
+    </contenu>
+    <contenu id="6">
+      <question>Quel nom était donné aux aviateurs suicidaires durant la Seconde guerre mondiale ?</question>
+      <propositions>
+        <proposition id="6-1">Samurai</proposition>
+        <proposition id="6-2">Kamikaze</proposition>
+        <proposition id="6-3">Kazoku</proposition>
+        <proposition id="6-4">Shinobi</proposition>
+      </propositions>
+      <réponse proposition="6-2">Kamikaze</réponse>
+      <anecdote>Par extension, ce terme est utilisé pour désigner toute personne qui sacrifie sa vie volontairement dans un attentat-suicide.</anecdote>
+    </contenu>
+    <contenu id="7">
+      <question>Quel nom de phénomène naturel est tiré du japonais signifiant « vague de port » ?</question>
+      <propositions>
+        <proposition id="7-1">Kendo</proposition>
+        <proposition id="7-2">Séisme</proposition>
+        <proposition id="7-3">Tsunami</proposition>
+        <proposition id="7-4">Sakura</proposition>
+      </propositions>
+      <réponse proposition="7-3">Tsunami</réponse>
+      <anecdote>En eau profonde, les vagues du tsunami ont une période se comptant en dizaines de minutes.</anecdote>
+    </contenu>
+    <contenu id="8">
+      <question>Quelle langue utilisant deux ensembles de caractères est majoritairement parlée au Japon ?
+</question>
+      <propositions>
+        <proposition id="8-1">Le coréen</proposition>
+        <proposition id="8-2">L'anglais</proposition>
+        <proposition id="8-3">Le chinois</proposition>
+        <proposition id="8-4">Le japonais</proposition>
+      </propositions>
+      <réponse proposition="8-4">Le japonais</réponse>
+      <anecdote>Aucune loi ne lui donne le statut de langue officielle, même si elle est la langue des documents officiels et de l'éducation.</anecdote>
+    </contenu>
+    <contenu id="9">
+      <question>À quel continent représentant environ 60 % de la population mondiale le Japon appartient-il ?</question>
+      <propositions>
+        <proposition id="9-1">Afrique</proposition>
+        <proposition id="9-2">Asie</proposition>
+        <proposition id="9-3">Europe</proposition>
+        <proposition id="9-4">Océanie</proposition>
+      </propositions>
+      <réponse proposition="9-2">Asie</réponse>
+      <anecdote>Ce continent abrite le plus haut sommet du monde, l'Everest qui culmine à 8 848 mètres, ainsi que la plus haute tour du monde.</anecdote>
+    </contenu>
+    <contenu id="10">
+      <question>Pendant la Seconde guerre mondiale, avec quel autre pays le Japon était-il allié ?</question>
+      <propositions>
+        <proposition id="10-1">L'Angleterre</proposition>
+        <proposition id="10-2">Les États-Unis</proposition>
+        <proposition id="10-3">L'Allemagne</proposition>
+        <proposition id="10-4">La France</proposition>
+      </propositions>
+      <réponse proposition="10-3">L'Allemagne</réponse>
+      <anecdote>Ce conflit armé à l'échelle planétaire opposa schématiquement deux camps : les Alliés et l'Axe.</anecdote>
+    </contenu>
+  </débutant>
+  <confirmé>
+    <contenu id="11">
+      <question>Quel mot japonais est utilisé pour décrire le jeu « pierre-feuille-ciseaux » ?</question>
+      <propositions>
+        <proposition id="11-1">Josei</proposition>
+        <proposition id="11-2">Maki</proposition>
+        <proposition id="11-3">Shifumi</proposition>
+        <proposition id="11-4">Hokaku</proposition>
+      </propositions>
+      <réponse proposition="11-3">Shifumi</réponse>
+      <anecdote>De nombreux spécialistes supposent que ce jeu est arrivé en Occident au contact du Japon.</anecdote>
+    </contenu>
+    <contenu id="12">
+      <question>Quel pays voisin entouré de nombreuses îles fut annexé par le Japon en 1910 ?</question>
+      <propositions>
+        <proposition id="12-1">Les Philippines</proposition>
+        <proposition id="12-2">L'Inde</proposition>
+        <proposition id="12-3">La Corée</proposition>
+        <proposition id="12-4">La Chine</proposition>
+      </propositions>
+      <réponse proposition="12-3">La Corée</réponse>
+      <anecdote>L'expansionnisme militaire du Japon prit de l'ampleur au cours de l'ère Showa avec l'invasion de la Mandchourie en 1931.</anecdote>
+    </contenu>
+    <contenu id="13">
+      <question>Quelle ville de la région du Kansai fut la capitale impériale du Japon de 794 à 1868 ?</question>
+      <propositions>
+        <proposition id="13-1">Noro</proposition>
+        <proposition id="13-2">Kamakura</proposition>
+        <proposition id="13-3">Kyoto</proposition>
+        <proposition id="13-4">Tokyo</proposition>
+      </propositions>
+      <réponse proposition="13-3">Kyoto</réponse>
+      <anecdote>Avec ses 2 000 temples, sanctuaires, palais, ponts et jardins, Kyoto est considérée comme le centre culturel du Japon.</anecdote>
+    </contenu>
+    <contenu id="14">
+      <question>Quelle marque d'électronique japonaise a fabriqué du matériel télégraphique ?</question>
+      <propositions>
+        <proposition id="14-1">Sega</proposition>
+        <proposition id="14-2">Toshiba</proposition>
+        <proposition id="14-3">Aiwa</proposition>
+        <proposition id="14-4">Sony</proposition>
+      </propositions>
+      <réponse proposition="14-2">Toshiba</réponse>
+      <anecdote>En 2009, la société est le troisième fabricants mondial de semi-conducteurs, derrière Intel et Samsung.</anecdote>
+    </contenu>
+    <contenu id="15">
+      <question>Quel animal, dont le corps est composé de trois parties, est le symbole du Japon ?</question>
+      <propositions>
+        <proposition id="15-1">La libellule</proposition>
+        <proposition id="15-2">Le dragon</proposition>
+        <proposition id="15-3">Le serpent</proposition>
+        <proposition id="15-4">Le Lion</proposition>
+      </propositions>
+      <réponse proposition="15-1">La libellule</réponse>
+      <anecdote>Le vol des libellules est très peu spécialisé, ce qui leur permet des prouesses interdites aux autres insectes.</anecdote>
+    </contenu>
+    <contenu id="16">
+      <question>Quelle ville japonaise a organisé les Jeux olympiques d'hiver de 1972 ?</question>
+      <propositions>
+        <proposition id="16-1">Nagano</proposition>
+        <proposition id="16-2">Yokohama</proposition>
+        <proposition id="16-3">Sapporo</proposition>
+        <proposition id="16-4">Kumamoto</proposition>
+      </propositions>
+      <réponse proposition="16-3">Sapporo</réponse>
+      <anecdote>Les premiers Jeux d'hiver attribués à Sapporo sont ceux de 1940, prévus la même année que les Jeux d'été de Tokyo.</anecdote>
+    </contenu>
+    <contenu id="17">
+      <question>Lequel de ces plats, communément appelé « pâté impérial », ne désigne pas un plat japonais ?</question>
+      <propositions>
+        <proposition id="17-1">Sashimi</proposition>
+        <proposition id="17-2">Nem ran</proposition>
+        <proposition id="17-3">Sushi</proposition>
+        <proposition id="17-4">Ramen</proposition>
+      </propositions>
+      <réponse proposition="17-2">Nem ran</réponse>
+      <anecdote>Le nem ran est un mets festif traditionnel du Viêt Nam très apprécié à l'ancienne cour impériale.</anecdote>
+    </contenu>
+    <contenu id="18">
+      <question>Au Japon, quelle figure d'origami au centre d'une légende est symbole de paix ?</question>
+      <propositions>
+        <proposition id="18-1">La libellule</proposition>
+        <proposition id="18-2">La grue</proposition>
+        <proposition id="18-3">Le panda</proposition>
+        <proposition id="18-4">La tortue</proposition>
+      </propositions>
+      <réponse proposition="18-2">La grue</réponse>
+      <anecdote>À l'instar de la cocotte en papier en Europe, la grue en papier est une figure emblématique au Japon.</anecdote>
+    </contenu>
+    <contenu id="19">
+      <question>Quelle société japonaise de jeux vidéo fournissait à l'origine des machines à sous ?</question>
+      <propositions>
+        <proposition id="19-1">Nintendo</proposition>
+        <proposition id="19-2">Crytek</proposition>
+        <proposition id="19-3">Blizzard</proposition>
+        <proposition id="19-4">Sega</proposition>
+      </propositions>
+      <réponse proposition="19-4">Sega</réponse>
+      <anecdote>Suite aux échecs commerciaux de la Saturn et de la Dreamcast, la société se retira de ce marché à la date du 31 janvier 2001.</anecdote>
+    </contenu>
+    <contenu id="20">
+      <question>Quel lieu de culte bouddhiste en forme de tour est utilisé pour exposer des reliques ?</question>
+      <propositions>
+        <proposition id="20-1">Le kakuki</proposition>
+        <proposition id="20-2">La pagode</proposition>
+        <proposition id="20-3">Le jardin zen</proposition>
+        <proposition id="20-4">Le sanctuaire</proposition>
+      </propositions>
+      <réponse proposition="20-2">La pagode</réponse>
+      <anecdote>C'est la forme qu'a prise le stûpa d'Inde, ou zedi, dans le monde chinois, en Asie de l'est.</anecdote>
+    </contenu>
+  </confirmé>
+  <expert>
+    <contenu id="21">
+      <question>Quelle sorte de cithare utilisée au Japon possède des cordes en fil de soie ?</question>
+      <propositions>
+        <proposition id="21-1">Le shakuhachi</proposition>
+        <proposition id="21-2">Le koto</proposition>
+        <proposition id="21-3">Le biwa</proposition>
+        <proposition id="21-4">Le taïko</proposition>
+      </propositions>
+      <réponse proposition="21-2">Le koto</réponse>
+      <anecdote>Originaire de Chine, le koto fut introduit au Japon entre le VIIe et le VIIIe siècle et était principalement joué à la Cour impériale.</anecdote>
+    </contenu>
+    <contenu id="22">
+      <question>Quel pourcentage des volcans actifs dans le monde se situent au Japon ?</question>
+      <propositions>
+        <proposition id="22-1">30 %</proposition>
+        <proposition id="22-2">40 %</proposition>
+        <proposition id="22-3">20 %</proposition>
+        <proposition id="22-4">10 %</proposition>
+      </propositions>
+      <réponse proposition="22-4">10 %</réponse>
+      <anecdote>Des milliers de secousses telluriques dintensité variable sont ressenties dans le Japon tout entier chaque année.</anecdote>
+    </contenu>
+    <contenu id="23">
+      <question>Quelle voie martiale japonaise est appelée « la voie de l'arc » ?</question>
+      <propositions>
+        <proposition id="23-1">Kendo</proposition>
+        <proposition id="23-2">Kyudo</proposition>
+        <proposition id="23-3">Judo</proposition>
+        <proposition id="23-4">Karaté</proposition>
+      </propositions>
+      <réponse proposition="23-2">Kyudo</réponse>
+      <anecdote>La pratique du kyudo tend à rechercher un mouvement parfait, pour pouvoir transcender à la fois l'esprit et le corps.</anecdote>
+    </contenu>
+    <contenu id="24">
+      <question>Quelle sorte de thé est traditionnellement utilisée pour la cérémonie du thé ?</question>
+      <propositions>
+        <proposition id="24-1">Matcha</proposition>
+        <proposition id="24-2">Bancha</proposition>
+        <proposition id="24-3">Genmaicha</proposition>
+        <proposition id="24-4">Sencha</proposition>
+      </propositions>
+      <réponse proposition="24-1">Matcha</réponse>
+      <anecdote>Le matcha, occasionnellement écrit maccha, est une poudre très fine de thé vert moulu, qui a été broyé entre deux pierres.</anecdote>
+    </contenu>
+    <contenu id="25">
+      <question>Quelle est la plus grande des îles du Japon, sur laquelle se trouvent Tokyo et Kyoto ?</question>
+      <propositions>
+        <proposition id="25-1">Shikoku</proposition>
+        <proposition id="25-2">Kyushu</proposition>
+        <proposition id="25-3">Honshu</proposition>
+        <proposition id="25-4">Hokkaido</proposition>
+      </propositions>
+      <réponse proposition="25-3">Honshu</réponse>
+      <anecdote>Avec une taille approchant celle de la Roumanie, Honshu représente environ 60 % de la surface totale du Japon.</anecdote>
+    </contenu>
+    <contenu id="26">
+      <question>Quel mets désigne une viande grillée dans une sauce de soja sucrée ?</question>
+      <propositions>
+        <proposition id="26-1">Le wasabi</proposition>
+        <proposition id="26-2">Le tempura</proposition>
+        <proposition id="26-3">Le sushi</proposition>
+        <proposition id="26-4">Le teriyaki</proposition>
+      </propositions>
+      <réponse proposition="26-4">Le teriyaki</réponse>
+      <anecdote>Au Japon, on peut trouver cette sauce prête à l'emploi dans les commerces spécialisés et dans la plupart des grandes surfaces.</anecdote>
+    </contenu>
+    <contenu id="27">
+      <question>Quelle île artificielle de Tokyo était à l'origine une forteresse ?</question>
+      <propositions>
+        <proposition id="27-1">Joypolis</proposition>
+        <proposition id="27-2">Shinjuku</proposition>
+        <proposition id="27-3">Odaiba</proposition>
+        <proposition id="27-4">Setagaya</proposition>
+      </propositions>
+      <réponse proposition="27-3">Odaiba</réponse>
+      <anecdote>Odaiba possède des hôtels, des commerces, des musées, et des bureaux dont ceux de Fuji TV conçus par Kenzoo Tange.</anecdote>
+    </contenu>
+    <contenu id="28">
+      <question>Quel est l'ancien nom de la ville de Tokyo, actuelle capitale du Japon ?</question>
+      <propositions>
+        <proposition id="28-1">Janon</proposition>
+        <proposition id="28-2">Edo</proposition>
+        <proposition id="28-3">Tsukiji</proposition>
+        <proposition id="28-4">Meiji</proposition>
+      </propositions>
+      <réponse proposition="28-2">Edo</réponse>
+      <anecdote>Edo, ancien nom de la ville de Tokyo, signifie « porte de la rivière » en référence à la rivière Sumida qui la traverse.</anecdote>
+    </contenu>
+    <contenu id="29">
+      <question>À quel autre pays le Japon conteste-t-il les îles Kouriles depuis 1945 ?</question>
+      <propositions>
+        <proposition id="29-1">La Russie</proposition>
+        <proposition id="29-2">La Chine</proposition>
+        <proposition id="29-3">La Corée du Nord</proposition>
+        <proposition id="29-4">La Corée du Sud</proposition>
+      </propositions>
+      <réponse proposition="29-1">La Russie</réponse>
+      <anecdote>L'ensemble des Kouriles fait aujourd'hui partie de la Fédération de Russie, plus précisément de l'Oblast de Sakhaline.</anecdote>
+    </contenu>
+    <contenu id="30">
+      <question>Quel quartier de Tokyo est considéré comme le quartier des étrangers et des expatriés ?</question>
+      <propositions>
+        <proposition id="30-1">Ginza</proposition>
+        <proposition id="30-2">Shiba</proposition>
+        <proposition id="30-3">Ueno</proposition>
+        <proposition id="30-4">Roppongi</proposition>
+      </propositions>
+      <réponse proposition="30-4">Roppongi</réponse>
+      <anecdote>Il est situé dans la portion sud du cercle décrit par la ligne circulaire Yamanote, au sud d'Akasaka et au nord de Azabu.</anecdote>
+    </contenu>
+  </expert>
+</quizz>

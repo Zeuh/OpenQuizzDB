@@ -1,0 +1,343 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes" ?>
+<quizz fournisseur="OpenQuizzDB : Fournisseur de contenu libre"
+       url="http://www.openquizzdb.org"
+       rédacteur="Philippe Bresoux"
+       thème="Game of Thrones"
+       difficulté="3">
+  <débutant>
+    <contenu id="1">
+      <question>Dans 'Game of Thrones', quel animal apparaît sur le blason de la maison Lannister ?</question>
+      <propositions>
+        <proposition id="1-1">Un lion</proposition>
+        <proposition id="1-2">Un cheval</proposition>
+        <proposition id="1-3">Un aigle</proposition>
+        <proposition id="1-4">Un ours</proposition>
+      </propositions>
+      <réponse proposition="1-1">Un lion</réponse>
+      <anecdote>La maison Lannister, la plus riche des Sept Couronnes, est la maison suzeraine des Terres de l'Ouest et a son siège à Castral Roc.</anecdote>
+    </contenu>
+    <contenu id="2">
+      <question>Comment se prénomme la jeune fille timide aux cheveux d'argent de la série 'Game of Thrones' ?</question>
+      <propositions>
+        <proposition id="2-1">Sansa</proposition>
+        <proposition id="2-2">Daenerys</proposition>
+        <proposition id="2-3">Arya</proposition>
+        <proposition id="2-4">Catelyn</proposition>
+      </propositions>
+      <réponse proposition="2-2">Daenerys</réponse>
+      <anecdote>Daenerys est la fille légitime du roi Aerys II Targaryen et de la reine Rhaella Targaryen.</anecdote>
+    </contenu>
+    <contenu id="3">
+      <question>Combien de couronnes composent le royaume de 'Game of Thrones' ?</question>
+      <propositions>
+        <proposition id="3-1">5</proposition>
+        <proposition id="3-2">10</proposition>
+        <proposition id="3-3">7</proposition>
+        <proposition id="3-4">3</proposition>
+      </propositions>
+      <réponse proposition="3-3">7</réponse>
+      <anecdote>Le Mur sépare le royaume des Sept Couronnes des terres glacées et sauvages situées au-delà.</anecdote>
+    </contenu>
+    <contenu id="4">
+      <question>Qui est la mère des dragons dans la série télévisée 'Game of Thrones' ?</question>
+      <propositions>
+        <proposition id="4-1">Lisa Arryn</proposition>
+        <proposition id="4-2">Daenerys Targaryen</proposition>
+        <proposition id="4-3">Jon Arryn</proposition>
+        <proposition id="4-4">Donan Martell</proposition>
+      </propositions>
+      <réponse proposition="4-2">Daenerys Targaryen</réponse>
+      <anecdote>Ses dragons ont grandi avec la jeune femme au point qu'elle peut presque les monter.</anecdote>
+    </contenu>
+    <contenu id="5">
+      <question>Comment Ned Stark est-il mort dans la série télévisée 'Game of Thrones' ?</question>
+      <propositions>
+        <proposition id="5-1">Brûlé vif</proposition>
+        <proposition id="5-2">Décapité</proposition>
+        <proposition id="5-3">Poignardé</proposition>
+        <proposition id="5-4">Pendu</proposition>
+      </propositions>
+      <réponse proposition="5-2">Décapité</réponse>
+      <anecdote>Eddard Stark est un homme profondément juste et noble, mais également dur et austère.</anecdote>
+    </contenu>
+    <contenu id="6">
+      <question>Que protège la Garde de Nuit dans la série télévisée 'Game of Thrones' ?</question>
+      <propositions>
+        <proposition id="6-1">La frontière</proposition>
+        <proposition id="6-2">La reine</proposition>
+        <proposition id="6-3">Le jardin</proposition>
+        <proposition id="6-4">Le Mur</proposition>
+      </propositions>
+      <réponse proposition="6-4">Le Mur</réponse>
+      <anecdote>La Garde de Nuit est un ordre militaire exclusivement masculin stationné sur le Mur, formidable édifice de glace.</anecdote>
+    </contenu>
+    <contenu id="7">
+      <question>Où habitent les Stark dans la série 'Game of Thrones' ?</question>
+      <propositions>
+        <proposition id="7-1">Corbois</proposition>
+        <proposition id="7-2">Winterfell</proposition>
+        <proposition id="7-3">Port-Réal</proposition>
+        <proposition id="7-4">Valyria</proposition>
+      </propositions>
+      <réponse proposition="7-2">Winterfell</réponse>
+      <anecdote>Winterfell a été construit par Brandon Stark « le Bâtisseur », l'un des premiers rois du Nord.</anecdote>
+    </contenu>
+    <contenu id="8">
+      <question>Quel est le titre de Cersei Lannister dans les premières saisons de 'Game of Thrones' ?</question>
+      <propositions>
+        <proposition id="8-1">Princesse</proposition>
+        <proposition id="8-2">Duchesse</proposition>
+        <proposition id="8-3">Reine</proposition>
+        <proposition id="8-4">Comtesse</proposition>
+      </propositions>
+      <réponse proposition="8-3">Reine</réponse>
+      <anecdote>Femme très ambitieuse et réputée pour sa beauté, elle supporte mal les restrictions.</anecdote>
+    </contenu>
+    <contenu id="9">
+      <question>Qui est la promise du roi Joffrey Baratheon dans la saga 'Game of Thrones' ?</question>
+      <propositions>
+        <proposition id="9-1">Sansa</proposition>
+        <proposition id="9-2">Arya</proposition>
+        <proposition id="9-3">Catelyn</proposition>
+        <proposition id="9-4">Daenerys</proposition>
+      </propositions>
+      <réponse proposition="9-1">Sansa</réponse>
+      <anecdote>Malgré cela, Joffrey humilie et fait battre Sansa à plusieurs reprises pour son propre amusement.</anecdote>
+    </contenu>
+    <contenu id="10">
+      <question>Quel personnage de 'Game of Thrones' a été jeté dans le vide par Jaime Lannister ?</question>
+      <propositions>
+        <proposition id="10-1">Ned</proposition>
+        <proposition id="10-2">Jon</proposition>
+        <proposition id="10-3">Bran</proposition>
+        <proposition id="10-4">Craster</proposition>
+      </propositions>
+      <réponse proposition="10-3">Bran</réponse>
+      <anecdote>Il ne faut confondre Bran avec le frère décédé de lord Eddard Stark en l'honneur duquel il a été prénommé.</anecdote>
+    </contenu>
+  </débutant>
+  <confirmé>
+    <contenu id="11">
+      <question>Quelle puissante forteresse se dresse sur une colline de Port-Réal dans 'Game of Thrones' ?</question>
+      <propositions>
+        <proposition id="11-1">Pointe-Vive</proposition>
+        <proposition id="11-2">Les Murmures</proposition>
+        <proposition id="11-3">Le Donjon Rouge</proposition>
+        <proposition id="11-4">Fort Jaune</proposition>
+      </propositions>
+      <réponse proposition="11-3">Le Donjon Rouge</réponse>
+      <anecdote>Les constructeurs et architectes de la forteresse furent mis à mort afin d'en préserver les secrets.</anecdote>
+    </contenu>
+    <contenu id="12">
+      <question>Depuis 2011, pour quel rôle Peter Dinklage est-il principalement connu ?</question>
+      <propositions>
+        <proposition id="12-1">Theon Greyjoy</proposition>
+        <proposition id="12-2">Tyrion Lannister</proposition>
+        <proposition id="12-3">Jon Snow</proposition>
+        <proposition id="12-4">Jaime Lannister</proposition>
+      </propositions>
+      <réponse proposition="12-2">Tyrion Lannister</réponse>
+      <anecdote>Peter Dinklage est aussi l'antagoniste principal, Bolivar Trask, dans 'X-Men: Days of Future Past'.</anecdote>
+    </contenu>
+    <contenu id="13">
+      <question>Comment est surnommé Sandor Clegane dans la série 'Game of Thrones' ?</question>
+      <propositions>
+        <proposition id="13-1">Le dragon</proposition>
+        <proposition id="13-2">Le brûlé</proposition>
+        <proposition id="13-3">Le limier / Le chien</proposition>
+        <proposition id="13-4">Le lion</proposition>
+      </propositions>
+      <réponse proposition="13-3">Le limier / Le chien</réponse>
+      <anecdote>Au début de la saga, Sandor Clegane est le garde du corps du prince Joffrey Baratheon.</anecdote>
+    </contenu>
+    <contenu id="14">
+      <question>Comment le prince Joffrey a-t-il baptisé son épée dans 'Game of Thrones' ?</question>
+      <propositions>
+        <proposition id="14-1">Dent-de-Lion</proposition>
+        <proposition id="14-2">Mangecur</proposition>
+        <proposition id="14-3">Coupe-lame</proposition>
+        <proposition id="14-4">Grand-griffe</proposition>
+      </propositions>
+      <réponse proposition="14-1">Dent-de-Lion</réponse>
+      <anecdote>Âgé de 12 ans au début de la saga, il est, sous des manières policées, cruel et vaniteux.</anecdote>
+    </contenu>
+    <contenu id="15">
+      <question>Dans 'Game of Thrones', quel est le principal château du Mur depuis l'abandon de Fort Nox ?</question>
+      <propositions>
+        <proposition id="15-1">Noirlac</proposition>
+        <proposition id="15-2">Tour Ombreuse</proposition>
+        <proposition id="15-3">Fort-Levant</proposition>
+        <proposition id="15-4">Châteaunoir</proposition>
+      </propositions>
+      <réponse proposition="15-4">Châteaunoir</réponse>
+      <anecdote>La Garde de Nuit est chargée de la défense de la frontière Nord des Sept Couronnes, et en particulier du Mur.</anecdote>
+    </contenu>
+    <contenu id="16">
+      <question>Dans 'Game of Thrones', pendant son coma, quel animal chuchote à Bran de voler ?</question>
+      <propositions>
+        <proposition id="16-1">Une corneille</proposition>
+        <proposition id="16-2">Une louve</proposition>
+        <proposition id="16-3">Un dragon</proposition>
+        <proposition id="16-4">Un serpent</proposition>
+      </propositions>
+      <réponse proposition="16-1">Une corneille</réponse>
+      <anecdote>Brandon est un enfant de sept ans, au début de la saga, qui rêve de devenir un jour un grand chevalier et d'intégrer la Garde Royale.</anecdote>
+    </contenu>
+    <contenu id="17">
+      <question>Quelle est la couleur des vêtements des hommes de la Garde de Nuit dans 'Game of Thrones' ?</question>
+      <propositions>
+        <proposition id="17-1">Blanche</proposition>
+        <proposition id="17-2">Noire</proposition>
+        <proposition id="17-3">Rouge</proposition>
+        <proposition id="17-4">Verte</proposition>
+      </propositions>
+      <réponse proposition="17-2">Noire</réponse>
+      <anecdote>L'acier des mailles et des armures de cette organisation militaire est lui aussi noirci.</anecdote>
+    </contenu>
+    <contenu id="18">
+      <question>Qui est surnommée la « Reine des Épines » dans la série 'Game of Thrones' ?</question>
+      <propositions>
+        <proposition id="18-1">Olenna Tyrell</proposition>
+        <proposition id="18-2">Lisa Arryn</proposition>
+        <proposition id="18-3">Bethany Redwyne</proposition>
+        <proposition id="18-4">Cersei Lannister</proposition>
+      </propositions>
+      <réponse proposition="18-1">Olenna Tyrell</réponse>
+      <anecdote>Olenna Tyrell, née Olenna Redwyne, est surnommée la Reine des Épines en raison de son caractère des plus piquants.</anecdote>
+    </contenu>
+    <contenu id="19">
+      <question>Combien d'Immaculés Daenerys décide-t-elle d'acheter dans 'Game of Thrones' ?</question>
+      <propositions>
+        <proposition id="19-1">5 000</proposition>
+        <proposition id="19-2">15 000</proposition>
+        <proposition id="19-3">20 000</proposition>
+        <proposition id="19-4">10 000</proposition>
+      </propositions>
+      <réponse proposition="19-4">10 000</réponse>
+      <anecdote>Dans 'Game of Thrones', le commerce des Immaculés est réservé aux huit familles les plus riches de la ville.</anecdote>
+    </contenu>
+    <contenu id="20">
+      <question>À quoi reconnaît-on la force d'un Dothraki dans la saga 'Game of Thrones' ?</question>
+      <propositions>
+        <proposition id="20-1">Ses cicatrices</proposition>
+        <proposition id="20-2">Son cheval</proposition>
+        <proposition id="20-3">Ses cheveux</proposition>
+        <proposition id="20-4">Son dragon</proposition>
+      </propositions>
+      <réponse proposition="20-2">Son cheval</réponse>
+      <anecdote>Le cheval est leur principale divinité, mais la Lune et le Soleil font également partie de leur panthéon.</anecdote>
+    </contenu>
+  </confirmé>
+  <expert>
+    <contenu id="21">
+      <question>Quel titre possède Benjen Stark, l'oncle de Jon Snow dans la série 'Game of Thrones' ?</question>
+      <propositions>
+        <proposition id="21-1">Premier Patrouilleur</proposition>
+        <proposition id="21-2">Lord Commandant</proposition>
+        <proposition id="21-3">Lord Intendant</proposition>
+        <proposition id="21-4">Premier Ingénieur</proposition>
+      </propositions>
+      <réponse proposition="21-1">Premier Patrouilleur</réponse>
+      <anecdote>Le visage aux traits ravinés et burinés de Benjen Stark contraste avec son regard gris-bleu rieur.</anecdote>
+    </contenu>
+    <contenu id="22">
+      <question>Quelle épée Jon offre-t-il à Arya dans la série télévisée 'Game of Thrones' ?</question>
+      <propositions>
+        <proposition id="22-1">Aiguille</proposition>
+        <proposition id="22-2">Été</proposition>
+        <proposition id="22-3">Blanche</proposition>
+        <proposition id="22-4">Dard</proposition>
+      </propositions>
+      <réponse proposition="22-1">Aiguille</réponse>
+      <anecdote>Aiguille est une épée de spadassin en acier château à la lame bleue-noire forgée par Mikken le forgeron de Winterfell.</anecdote>
+    </contenu>
+    <contenu id="23">
+      <question>Comment se nomme le loup de Bran, fils cadet de Catelyn dans 'Game of Thrones' ?</question>
+      <propositions>
+        <proposition id="23-1">Nymeria</proposition>
+        <proposition id="23-2">Broussaille</proposition>
+        <proposition id="23-3">Fantôme</proposition>
+        <proposition id="23-4">Été</proposition>
+      </propositions>
+      <réponse proposition="23-4">Été</réponse>
+      <anecdote>Une pâte de germe de Barral a donné à Bran la capacité de se glisser et de voir à travers les yeux des arbres.</anecdote>
+    </contenu>
+    <contenu id="24">
+      <question>Dans 'Game of Thrones', qui assassine Willem Lannister et Tion Frey dans leur cachot ?</question>
+      <propositions>
+        <proposition id="24-1">Catelyn Stark</proposition>
+        <proposition id="24-2">Richard Karstark</proposition>
+        <proposition id="24-3">Robb Stark</proposition>
+        <proposition id="24-4">Harrion Karstark</proposition>
+      </propositions>
+      <réponse proposition="24-2">Richard Karstark</réponse>
+      <anecdote>Le mutisme de Lord Rickard Karstark est souvent synonyme de grande défiance et de colère contenue.</anecdote>
+    </contenu>
+    <contenu id="25">
+      <question>Quel loup-garou surgit pour défendre Arya dans la saison 4 de 'Game of Thrones' ?</question>
+      <propositions>
+        <proposition id="25-1">Fantôme</proposition>
+        <proposition id="25-2">Vent Gris</proposition>
+        <proposition id="25-3">Nymeria</proposition>
+        <proposition id="25-4">Broussaille</proposition>
+      </propositions>
+      <réponse proposition="25-3">Nymeria</réponse>
+      <anecdote>Arya est une jeune fille d'une dizaine d'années qui préfère l'escrime et l'équitation à la couture.</anecdote>
+    </contenu>
+    <contenu id="26">
+      <question>Quelle servante apprend à Daenerys l'art féminin de l'amour dans la série 'Game of Thrones' ?</question>
+      <propositions>
+        <proposition id="26-1">Jhiqui</proposition>
+        <proposition id="26-2">Mysaria</proposition>
+        <proposition id="26-3">Doreah</proposition>
+        <proposition id="26-4">Irri</proposition>
+      </propositions>
+      <réponse proposition="26-3">Doreah</réponse>
+      <anecdote>Roxanne McKee est l'actrice britannique incarnant le personnage de Doreah dans 'Game of Thrones'.</anecdote>
+    </contenu>
+    <contenu id="27">
+      <question>Dans 'Game of Thrones', qui retrouve Mycah et le tue en le tranchant quasiment en deux ?</question>
+      <propositions>
+        <proposition id="27-1">Jory Cassel</proposition>
+        <proposition id="27-2">Sandor Clegane</proposition>
+        <proposition id="27-3">Jorah Mormont</proposition>
+        <proposition id="27-4">Jon Snow</proposition>
+      </propositions>
+      <réponse proposition="27-2">Sandor Clegane</réponse>
+      <anecdote>Né en l'an 285, Mycah est un garçon boucher, compagnon de jeu d'Arya Stark.</anecdote>
+    </contenu>
+    <contenu id="28">
+      <question>Qui est Craster dans la saga 'Game of Thrones' ?</question>
+      <propositions>
+        <proposition id="28-1">Un dresseur</proposition>
+        <proposition id="28-2">Un roi</proposition>
+        <proposition id="28-3">Un garde de Nuit</proposition>
+        <proposition id="28-4">Un sauvageon</proposition>
+      </propositions>
+      <réponse proposition="28-4">Un sauvageon</réponse>
+      <anecdote>Vivant au-delà du Mur, il lui manque une oreille et sa dentition est pourrie.</anecdote>
+    </contenu>
+    <contenu id="29">
+      <question>Qui tue Lord Jeor Mormont lors d'une mutinerie dans la série 'Game of Thrones' ?</question>
+      <propositions>
+        <proposition id="29-1">Craster</proposition>
+        <proposition id="29-2">Ollo le Manchot</proposition>
+        <proposition id="29-3">Samwell Tarly</proposition>
+        <proposition id="29-4">Fulk la Puce</proposition>
+      </propositions>
+      <réponse proposition="29-2">Ollo le Manchot</réponse>
+      <anecdote>Jeor Mormont, surnommé le « Vieil Ours », est le Lord Commandant des combattants ayant juré de défendre le Mur.</anecdote>
+    </contenu>
+    <contenu id="30">
+      <question>Dans 'Game of Thrones', qui ramène à chaque fois à la vie Béric Dondarrion grâce à la magie ?</question>
+      <propositions>
+        <proposition id="30-1">Mélisandre</proposition>
+        <proposition id="30-2">Azor Ahai</proposition>
+        <proposition id="30-3">Benerro</proposition>
+        <proposition id="30-4">Thoros de Myr</proposition>
+      </propositions>
+      <réponse proposition="30-4">Thoros de Myr</réponse>
+      <anecdote>Béric Dondarrion est décrit comme un jeune homme séduisant et frivole, aux cheveux roux dorés.</anecdote>
+    </contenu>
+  </expert>
+</quizz>

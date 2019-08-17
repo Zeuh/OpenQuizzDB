@@ -1,0 +1,374 @@
+{
+  "fournisseur": "OpenQuizzDB - Fournisseur de contenu libre (www.openquizzdb.org)",
+  "rédacteur": "Philippe Bresoux",
+  "thème": "Breaking Bad",
+  "difficulté": 2,
+  "quizz": {
+    "débutant": [
+      {
+        "id": 1,
+        "question": "Qui est le nom du personnage principal de la série télévisée 'Breaking Bad' ?",
+        "propositions": [
+          "Jesse Pinkman",
+          "Hank Schrader",
+          "Walter White",
+          "Saul Goodman"
+        ],
+        "réponse": "Walter White",
+        "anecdote": "Walter White est interprété par Bryan Cranston et doublé en version française par Jean-Louis Faure."
+      },
+      {
+        "id": 2,
+        "question": "Durant quelle saison de 'Breaking Bad' Walter White devient-il chauve ?",
+        "propositions": [
+          "Saison 4",
+          "Saison 1",
+          "Saison 3",
+          "Saison 2"
+        ],
+        "réponse": "Saison 1",
+        "anecdote": "Walter White est diagnostiqué d'un cancer du poumon et apprend qu'il ne lui reste plus que quelques mois à vivre."
+      },
+      {
+        "id": 3,
+        "question": "Quelle drogue est fabriquée et vendue par Walter White dans la série 'Breaking Bad' ?",
+        "propositions": [
+          "Méthamphétamine",
+          "Ketamine",
+          "Héroïne",
+          "Cocaïne"
+        ],
+        "réponse": "Méthamphétamine",
+        "anecdote": "Pure, la méthamphétamine se présente sous une forme solide cristalline incolore et inodore, qui peut rappeler du verre pilé."
+      },
+      {
+        "id": 4,
+        "question": "Dans quel type de véhicule « cuisinent » Walter et Jesse dans la série télé 'Breaking Bad' ?",
+        "propositions": [
+          "Un camion",
+          "Un camping-car",
+          "Un bus",
+          "Un taxi"
+        ],
+        "réponse": "Un camping-car",
+        "anecdote": "'Breaking Bad' a reçu un large succès critique et est à présent considérée comme l'une des meilleures séries télé américaines."
+      },
+      {
+        "id": 5,
+        "question": "De quelle maladie grave est atteint Walter White dans la série télé 'Breaking Bad' ?",
+        "propositions": [
+          "Cancer du colon",
+          "Cancer du poumon",
+          "Cancer de la peau",
+          "Cancer de la gorge"
+        ],
+        "réponse": "Cancer du poumon",
+        "anecdote": "Considérant qu'il n'a plus rien à perdre, Walt pense pouvoir assurer l'avenir financier de sa famille en fabriquant de la meth."
+      },
+      {
+        "id": 6,
+        "question": "Quel est le prénom de la femme de Walter White dans la série télévisée 'Breaking Bad' ?",
+        "propositions": [
+          "Jesse",
+          "Lidia",
+          "Skyler",
+          "Hilary"
+        ],
+        "réponse": "Skyler",
+        "anecdote": "Apprenant que son mari menait une double vie, Skyler demande le divorce, mais promet de ne pas révéler son secret."
+      },
+      {
+        "id": 7,
+        "question": "Quel est le métier du beau-frère de Walter dans la série 'Breaking Bad' ?",
+        "propositions": [
+          "Agent de la DEA",
+          "Agent de la NSA",
+          "Agent du FBI",
+          "Agent de la CIA"
+        ],
+        "réponse": "Agent de la DEA",
+        "anecdote": "C'est Hank qui fait part à Walter des énormes sommes d'argent brassées par le marché de la drogue."
+      },
+      {
+        "id": 8,
+        "question": "Avec quel ancien élève Walter White est-il devenu trafiquant de drogue dans 'Breaking Bad' ?",
+        "propositions": [
+          "Jesse Pinkman",
+          "Hank Schrader",
+          "Saul Goodman",
+          "Gustavo Fring"
+        ],
+        "réponse": "Jesse Pinkman",
+        "anecdote": "Jesse Pinkman est le seul personnage en plus de Walter White à apparaître dans tous les épisodes de la série."
+      },
+      {
+        "id": 9,
+        "question": "En plus de Walter White, qui apparaît dans tous les épisodes de 'Breaking Bad' ?",
+        "propositions": [
+          "Jesse Pinkman",
+          "Mark Johnson",
+          "Hank Schrader",
+          "Gus Fring"
+        ],
+        "réponse": "Jesse Pinkman",
+        "anecdote": "Pour son interprétation, Aaron Paul a remporté un Primetime Emmy Award dans la catégorie « série dramatique » en 2010 et 2012."
+      },
+      {
+        "id": 10,
+        "question": "Combien de saisons comporte la série télévisée à succès 'Breaking Bad', totalisant 62 épisodes ?",
+        "propositions": [
+          "6",
+          "5",
+          "8",
+          "7"
+        ],
+        "réponse": "5",
+        "anecdote": "Avec un culot fou, les scénaristes transgressent tous les codes et parviennent à surprendre lorsque l'on croit avoir tout vu, tout vécu."
+      }
+    ],
+    "confirmé": [
+      {
+        "id": 11,
+        "question": "Dans quelle ville se déroule l'action de la première saison de la série 'Breaking Bad' ?",
+        "propositions": [
+          "Roswell",
+          "Albuquerque",
+          "Farmington",
+          "Los Alamos"
+        ],
+        "réponse": "Albuquerque",
+        "anecdote": "La première saison de 'Breaking Bad' n'est composée que de sept épisodes à cause de la grève des scénaristes américains."
+      },
+      {
+        "id": 12,
+        "question": "Quel alter-ego Walter White a-t-il créé pour ses activités criminelles dans 'Breaking Bad' ?",
+        "propositions": [
+          "Iceberg",
+          "Gutenberg",
+          "Heisenberg",
+          "Einstein"
+        ],
+        "réponse": "Heisenberg",
+        "anecdote": "Walt se rend chez El Tuco sous le pseudonyme de « Heisenberg » et lui réclame 50 000 $ (pour sa drogue et pour Jesse)."
+      },
+      {
+        "id": 13,
+        "question": "Quel est le métier exercé par Hank Schrader dans 'Breaking Bad' ?",
+        "propositions": [
+          "Menuisier",
+          "Banquier",
+          "Avocat",
+          "Policier"
+        ],
+        "réponse": "Policier",
+        "anecdote": "Agent de la DEA, Hank enquête sur un nouveau producteur de meth dans la région, sans savoir qu'il s'agit de Walt."
+      },
+      {
+        "id": 14,
+        "question": "Quel est le prénom du beau-frère de Walter dans la série 'Breaking Bad' ?",
+        "propositions": [
+          "Mike",
+          "Harry",
+          "Franck",
+          "Hank"
+        ],
+        "réponse": "Hank",
+        "anecdote": "Grossier et brutal, Hank est aussi amateur de bière artisanale et de minéraux (ou roches comme il n'aime pas qu'on les nomme)."
+      },
+      {
+        "id": 15,
+        "question": "Quel patron de la drogue emploie Walter White dans la série télévisée 'Breaking Bad' ?",
+        "propositions": [
+          "Saul Goodman",
+          "Hank Schrader",
+          "Gus Fring",
+          "Jesse Pinkman"
+        ],
+        "réponse": "Gus Fring",
+        "anecdote": "Gustavo respecte le sang froid et la minutie de Walter, et va jusqu'à lui confier toute sa production de meth."
+      },
+      {
+        "id": 16,
+        "question": "Avec quel objet communique le vieux Salamanca dans la série télévisée 'Breaking Bad' ?",
+        "propositions": [
+          "Une sonnette",
+          "Une trompette",
+          "Un clavier",
+          "Un marqueur"
+        ],
+        "réponse": "Une sonnette",
+        "anecdote": "Patriarche de la famille et ancien homme de main de Don Eladio Vuente, Hector était un membre de haut rang du cartel de Juarez."
+      },
+      {
+        "id": 17,
+        "question": "Quel personnage de la série 'Breaking Bad' est la dernière personne à mourir ?",
+        "propositions": [
+          "Todd",
+          "Lidia",
+          "Flynn",
+          "Walter"
+        ],
+        "réponse": "Walter",
+        "anecdote": "Quand les forces de l'ordre débarquent chez Jack, elles ne trouvent que le corps sans vie de Walt étendu par terre."
+      },
+      {
+        "id": 18,
+        "question": "Quel scénariste, producteur et réalisateur américain est le créateur de la série à succès 'Breaking Bad' ?",
+        "propositions": [
+          "Vince Gilligan",
+          "Bryan Cranston",
+          "Allan Ball",
+          "Dick Wolf"
+        ],
+        "réponse": "Vince Gilligan",
+        "anecdote": "Vince Gilligan s'être tout d'abord fait connaître pour son travail de scénariste sur la série télévisée 'X-Files'."
+      },
+      {
+        "id": 19,
+        "question": "Quelle est la particularité physique du fils de Walter dans la série 'Breaking Bad' ?",
+        "propositions": [
+          "Handicapé",
+          "Sourd",
+          "Aveugle",
+          "Muet"
+        ],
+        "réponse": "Handicapé",
+        "anecdote": "Walter « Walt » White est professeur de chimie dans un lycée, et vit avec son fils handicapé et sa femme enceinte."
+      },
+      {
+        "id": 20,
+        "question": "Combien d'épisodes compte la série télévisée 'Breaking Bad', totalisant cinq saisons ?",
+        "propositions": [
+          "92",
+          "82",
+          "72",
+          "62"
+        ],
+        "réponse": "62",
+        "anecdote": "'Breaking Bad' a remporté 15 Emmy Awards ainsi qu'une excellente critique auprès des magazines."
+      }
+    ],
+    "expert": [
+      {
+        "id": 21,
+        "question": "Sur quelle chaîne était diffusé la série télévisée 'Breaking Bad' aux États-Unis ?",
+        "propositions": [
+          "CBS",
+          "ABC",
+          "AMC",
+          "HBO"
+        ],
+        "réponse": "AMC",
+        "anecdote": "La chaîne AMC a mis en place plusieurs sites web fictifs, qui reprennent des éléments de la série."
+      },
+      {
+        "id": 22,
+        "question": "Quel est le surnom de Jesse Pinkman dans la série télévisée 'Breaking Bad' ?",
+        "propositions": [
+          "Et Tuco",
+          "Gus",
+          "Capitaine Cook",
+          "Bad Pink"
+        ],
+        "réponse": "Capitaine Cook",
+        "anecdote": "Jesse était un mauvais élève au lycée, en grande partie du fait de son inattention en cours et de son apathie."
+      },
+      {
+        "id": 23,
+        "question": "Quelle est l'année de diffusion de la première saison de 'Breaking Bad' aux États-Unis ?",
+        "propositions": [
+          "2009",
+          "2007",
+          "2010",
+          "2008"
+        ],
+        "réponse": "2008",
+        "anecdote": "'Breaking Bad' a remporté douze Primetime Emmy Awards et a été nommée trois fois pour le prix de la meilleure série dramatique."
+      },
+      {
+        "id": 24,
+        "question": "De quoi est remplie la baignoire dans le deuxième épisode de la série 'Breaking Bad' ?",
+        "propositions": [
+          "D'huile",
+          "De glace",
+          "D'acide",
+          "De lait"
+        ],
+        "réponse": "D'acide",
+        "anecdote": "Walter et Jesse doivent gérer deux corps  dans le camping-car, dont l'un d'eux finira dans une baignoire remplie d'acide."
+      },
+      {
+        "id": 25,
+        "question": "Quelle copine de Jesse est morte d'une overdose dans la série 'Breaking Bad' ?",
+        "propositions": [
+          "Jane",
+          "Marie",
+          "Skyler",
+          "Jessica"
+        ],
+        "réponse": "Jane",
+        "anecdote": "Jesse et Jane vont tomber amoureux l'un de l'autre, Jesse prenant cette relation très au sérieux."
+      },
+      {
+        "id": 26,
+        "question": "Dans 'Breaking Bad', avec quoi Skyler forme-t-elle l'âge de Walter à chaque anniversaire ?",
+        "propositions": [
+          "Des oignons",
+          "Des spaghettis",
+          "Du bacon",
+          "Des saucisses"
+        ],
+        "réponse": "Du bacon",
+        "anecdote": "Le premier épisode de la première saisons débute sur le cinquantième anniversaire de Walt, fêté comme il se doit."
+      },
+      {
+        "id": 27,
+        "question": "Qu'a coûté environ, en dollars, la production de chaque épisode de 'Breaking Bad' ?",
+        "propositions": [
+          "1 million",
+          "2 millions",
+          "4 millions",
+          "3 millions"
+        ],
+        "réponse": "3 millions",
+        "anecdote": "Si les premiers scripts de la série plaçaient l'intrigue en Californie, les coûts de production ont poussé à changer d'État pour le tournage."
+      },
+      {
+        "id": 28,
+        "question": "Qui a produit la série télévisée à grand succès 'Breaking Bad' ?",
+        "propositions": [
+          "Mark Johnson",
+          "Bryan Cranston",
+          "Dean Norris",
+          "Vince Gilligan"
+        ],
+        "réponse": "Mark Johnson",
+        "anecdote": "Mark Johnson a obtenu l'Oscar du meilleur film pour avoir produit 'Rain Man' (avec Dustin Hoffman et Tom Cruise) en 1988."
+      },
+      {
+        "id": 29,
+        "question": "De quelle nationalité sont les jumeaux concurrents de Walt dans 'Breaking Bad' ?",
+        "propositions": [
+          "Mexicains",
+          "Espagnols",
+          "Anglais",
+          "Argentins"
+        ],
+        "réponse": "Mexicains",
+        "anecdote": "Gus Fring, le patron de la drogue, cherche à protéger son chimiste des menaces des jumeaux mexicains redoutables."
+      },
+      {
+        "id": 30,
+        "question": "Combien d'Emmy Awards la série 'Breaking Bad' a-t-elle remporté ?",
+        "propositions": [
+          "12",
+          "15",
+          "9",
+          "6"
+        ],
+        "réponse": "15",
+        "anecdote": "Parmi ceux-ci, quatre pour Bryan Cranston, trois pour Aaron Paul, deux pour Anna Gunn, deux de meilleure série télévisée dramatique."
+      }
+    ]
+  }
+}

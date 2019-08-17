@@ -1,0 +1,374 @@
+{
+  "fournisseur": "OpenQuizzDB - Fournisseur de contenu libre (www.openquizzdb.org)",
+  "rédacteur": "Philippe Bresoux",
+  "thème": "Folklore",
+  "difficulté": 3,
+  "quizz": {
+    "débutant": [
+      {
+        "id": 1,
+        "question": "Quelle plante automnale sert traditionnellement à fleurir les tombes à la Toussaint ?",
+        "propositions": [
+          "Pensée",
+          "Chrysanthème",
+          "Lys",
+          "Renoncule"
+        ],
+        "réponse": "Chrysanthème",
+        "anecdote": "Les plus connus des chrysanthèmes sont les chrysanthèmes d'automne, ou chrysanthèmes des fleuristes (pomponette)."
+      },
+      {
+        "id": 2,
+        "question": "Dans quelle ville Bernadette Soubirous a-t-elle déclaré avoir vu une apparition de la Vierge ?",
+        "propositions": [
+          "Lisieux",
+          "Lourdes",
+          "La Salette",
+          "Domrémy"
+        ],
+        "réponse": "Lourdes",
+        "anecdote": "Au cours d'une de ces apparitions, elle a creusé le sol pour y prendre de l'eau, réputée par la suite miraculeuse et source de guérisons."
+      },
+      {
+        "id": 3,
+        "question": "Quels mets cuisine-t-on traditionnellement lors de la fête de la Chandeleur ?",
+        "propositions": [
+          "Des brioches",
+          "Des tartes",
+          "Des crêpes",
+          "Des croissants"
+        ],
+        "réponse": "Des crêpes",
+        "anecdote": "La tradition attribue cette coutume au pape Gélase Ier qui faisait distribuer des crêpes aux pèlerins qui arrivaient à Rome."
+      },
+      {
+        "id": 4,
+        "question": "Quel animal est associé à la flatterie, au mensonge, à la malice et à la ruse ?",
+        "propositions": [
+          "Le renard",
+          "Le coyote",
+          "Le chacal",
+          "Le loup"
+        ],
+        "réponse": "Le renard",
+        "anecdote": "De nombreux peuples ont remarqué les murs rusées du renard dans leurs récits et les traduisent de manières différentes."
+      },
+      {
+        "id": 5,
+        "question": "Quel objet est généralement considéré comme ayant des vertus porte-bonheur ?",
+        "propositions": [
+          "Le fer à cheval",
+          "Le fer à repasser",
+          "Le fer à dorer",
+          "Le fer à friser"
+        ],
+        "réponse": "Le fer à cheval",
+        "anecdote": "Cette vertu viendrait du fait qu'un fer à cheval égaré était revendu au forgeron et permettait ainsi d'en récolter quelques espèces."
+      },
+      {
+        "id": 6,
+        "question": "Selon une croyance tenace, quels légumes seraient bons pour la vue ?",
+        "propositions": [
+          "Les brocolis",
+          "Les carottes",
+          "Les salsifis",
+          "Les haricots"
+        ],
+        "réponse": "Les carottes",
+        "anecdote": "L'apport énergétique réel de la carotte crue, riche en bêta-carotène (provitamine A), est de 26 kilocalories par 100g."
+      },
+      {
+        "id": 7,
+        "question": "De quelle ville du Nord de la France les berlingots appelés « bêtises » sont-ils une spécialité ?",
+        "propositions": [
+          "Arras",
+          "Cambrai",
+          "Lille",
+          "Rouen"
+        ],
+        "réponse": "Cambrai",
+        "anecdote": "Il s'agit de bonbons aromatisés à la menthe et rayés de sucre caramélisé, dont la recette serait en fait issue d'une erreur."
+      },
+      {
+        "id": 8,
+        "question": "Quel gâteau décore-t-on traditionnellement de sapins et de petits personnages ?",
+        "propositions": [
+          "La bûche de Noël",
+          "La galette des Rois",
+          "Le palet de dame",
+          "La forêt noire"
+        ],
+        "réponse": "La bûche de Noël",
+        "anecdote": "Cette coutume répandue dans toute l'Europe est attestée depuis le Moyen Âge et héritée de divers rites païens."
+      },
+      {
+        "id": 9,
+        "question": "Où mange-t-on régulièrement de la moussaka en buvant de la retsina ?",
+        "propositions": [
+          "Au Maroc",
+          "Au Canada",
+          "En Russie",
+          "En Grèce"
+        ],
+        "réponse": "En Grèce",
+        "anecdote": "La retsina est un vin blanc (ou rosé léger) dans lequel est rajoutée de la résine de pin au cours de la fermentation."
+      },
+      {
+        "id": 10,
+        "question": "Maman est en haut, qui fait des gâteaux, papa est en bas, qui fait...",
+        "propositions": [
+          "Des dégâts",
+          "Des rasta",
+          "Du nougat",
+          "Du cinéma"
+        ],
+        "réponse": "Du nougat",
+        "anecdote": "La berceuse, qui se retrouve dans toutes les sociétés du monde, est une chanson douce destinée à aider les enfants à s'endormir."
+      }
+    ],
+    "confirmé": [
+      {
+        "id": 11,
+        "question": "Quelle religieuse italienne est connue pour être avocate des causes désespérées ?",
+        "propositions": [
+          "Sainte Sophie",
+          "Sainte Cécile",
+          "Sainte Rita",
+          "Sainte Lise"
+        ],
+        "réponse": "Sainte Rita",
+        "anecdote": "Canonisée le 24 mai 1900 par le pape Léon XIII, un important sanctuaire fut érigé à Cascia en son honneur au début du XXe siècle."
+      },
+      {
+        "id": 12,
+        "question": "Quelle célèbre danse de cabaret était surtout pratiquée dans le quartier de Montmartre ?",
+        "propositions": [
+          "Le calypso",
+          "Le carmagnole",
+          "La carioca",
+          "Le cancan"
+        ],
+        "réponse": "Le cancan",
+        "anecdote": "Le cancan cristallise l'image d'une société parisienne frivole et canaille, proche de celle décrite dans 'La Vie parisienne' d'Offenbach."
+      },
+      {
+        "id": 13,
+        "question": "Quel thé est consommé par les japonais lors de la cérémonie du thé ?",
+        "propositions": [
+          "Le thé blanc",
+          "Le thé rouge",
+          "Le thé noir",
+          "Le thé vert"
+        ],
+        "réponse": "Le thé vert",
+        "anecdote": "Le rituel de la cérémonie du thé au Japon, préparé de manière traditionnelle, est influencé par le bouddhisme zen."
+      },
+      {
+        "id": 14,
+        "question": "Les branches de quel arbuste sont traditionnellement utilisées pour la fête des Rameaux ?",
+        "propositions": [
+          "Le houx",
+          "Le buis",
+          "Le chèvrefeuille",
+          "Le yucca"
+        ],
+        "réponse": "Le buis",
+        "anecdote": "Le buis est également un matériau très utilisé en tabletterie, notamment pour la conception de pièces de jeux d'échecs."
+      },
+      {
+        "id": 15,
+        "question": "Quel personnage type possède un costume fait de losanges multicolores ?",
+        "propositions": [
+          "Arlequin",
+          "Pierrot",
+          "Beltrame",
+          "Colombine"
+        ],
+        "réponse": "Arlequin",
+        "anecdote": "Les losanges de ce personnage de la commedia dell'arte représenteraient les multiples facettes d'Arlequin et sa pauvreté."
+      },
+      {
+        "id": 16,
+        "question": "Parmi les symboles de Marianne, que représente le bonnet phrygien ?",
+        "propositions": [
+          "La fraternité",
+          "Le pouvoir",
+          "La puissance",
+          "La liberté"
+        ],
+        "réponse": "La liberté",
+        "anecdote": "Le bonnet phrygien tire sa symbolique de liberté de sa parenté avec le « pileus » qui coiffait les esclaves affranchis de l'Empire romain."
+      },
+      {
+        "id": 17,
+        "question": "Quelle fête annuelle se déroule à Menton depuis plus de 70 ans ?",
+        "propositions": [
+          "Fête du Mimosa",
+          "Fête du Citron",
+          "Fête des Roses",
+          "Fête des Mandarines"
+        ],
+        "réponse": "Fête du Citron",
+        "anecdote": "Le citron est un des symboles de la ville de Menton où, grâce à un climat méditerranéen très doux, des citronniers fructifient."
+      },
+      {
+        "id": 18,
+        "question": "Quel animal est symbole de malheur pour les marins superstitieux ?",
+        "propositions": [
+          "Le castor",
+          "Le chat",
+          "Le lapin",
+          "Le chien"
+        ],
+        "réponse": "Le lapin",
+        "anecdote": "En France, les marins sont regroupés au Comité national des pêches maritimes et des élevages marins (CNPMEM)."
+      },
+      {
+        "id": 19,
+        "question": "Quel mot provençal désigne un lutin taquin et espiègle, doué de pouvoirs fantastiques ?",
+        "propositions": [
+          "Mourioche",
+          "Picolaton",
+          "Farfadet",
+          "Coulobre"
+        ],
+        "réponse": "Farfadet",
+        "anecdote": "Le farfadet est entre autres présent dans le folklore de la Vendée et du Poitou ainsi que dans la mythologie occitane."
+      },
+      {
+        "id": 20,
+        "question": "Comment se déplaçaient autrefois la plupart des bergers landais ?",
+        "propositions": [
+          "Avec des voiles",
+          "Avec des tracteurs",
+          "Avec des échasses",
+          "Avec des sabots"
+        ],
+        "réponse": "Avec des échasses",
+        "anecdote": "L'usage des échasses remonterait au XVIIIe siècle et prend fin au XIXe siècle, avec la disparition du système agro-pastoral."
+      }
+    ],
+    "expert": [
+      {
+        "id": 21,
+        "question": "Quelle danse folklorique bretonne devenue danse de salon a été fixée au XIXe siècle ?",
+        "propositions": [
+          "La galvaudée",
+          "La bourrée",
+          "La gavotte",
+          "La sarabande"
+        ],
+        "réponse": "La gavotte",
+        "anecdote": "Les gavottes bretonnes forment une grande famille de danses avec des variantes correspondant aux anciens terroirs."
+      },
+      {
+        "id": 22,
+        "question": "En Europe occidentale, quel « fruit » les belles du XVIe pouvaient-elles porter au cou ?",
+        "propositions": [
+          "Des myrtilles",
+          "Des fraises",
+          "Des cerises",
+          "Des framboises"
+        ],
+        "réponse": "Des fraises",
+        "anecdote": "La fraise est un col de lingerie formé de plis ou de godrons, placé autour du cou qu'il cache, mettant ainsi le visage en valeur."
+      },
+      {
+        "id": 23,
+        "question": "Dans quelle région de France mange-t-on les treize desserts de Noël ?",
+        "propositions": [
+          "Provence",
+          "Auvergne",
+          "Alsace",
+          "Bretagne"
+        ],
+        "réponse": "Provence",
+        "anecdote": "Les desserts peuvent être bus avec du vin cuit ou du vin muscat, tandis qu'à la fin apparaissent toutes les liqueurs maisons."
+      },
+      {
+        "id": 24,
+        "question": "Quel chant portugais tire son inspiration de poésies populaires et nostalgiques ?",
+        "propositions": [
+          "Le fado",
+          "Le bel canto",
+          "Le prado",
+          "Le largo"
+        ],
+        "réponse": "Le fado",
+        "anecdote": "Le fado est probablement apparu vers les années 1820 ou 1840 au Portugal, mais ses origines précises sont incertaines."
+      },
+      {
+        "id": 25,
+        "question": "En Irlande, que laisse-t-on sur la table avant de partir pour la messe de Noël ?",
+        "propositions": [
+          "Whisky et carottes",
+          "Pommes et citrons",
+          "Pain et sel",
+          "Gin et oranges"
+        ],
+        "réponse": "Whisky et carottes",
+        "anecdote": "Le symbole officiel du pays est la harpe celtique, mais le trèfle irlandais est souvent utilisé comme autre symbole (rugby)."
+      },
+      {
+        "id": 26,
+        "question": "Sous quel autre nom est également connu le Manneken-Pis de Bruxelles ?",
+        "propositions": [
+          "Le Petit Julien",
+          "Le Petit bouclé",
+          "Le Petit mouilleur",
+          "Le Petit bronzé"
+        ],
+        "réponse": "Le Petit Julien",
+        "anecdote": "Manneken-Pis est le symbole le plus connu des Bruxellois, qui personnifie aussi leur sens de l'humour et leur indépendance d'esprit."
+      },
+      {
+        "id": 27,
+        "question": "Quelle localité de France a réalisé la dentelle de la robe de mariée de Kate Middleton ?",
+        "propositions": [
+          "Tourcoing",
+          "Gravelines",
+          "Bergues",
+          "Caudry"
+        ],
+        "réponse": "Caudry",
+        "anecdote": "Caudry est, avec Calais, le centre mondial de la dentelle mécanique « Leavers » et exporte plus de 80% d'un produit raffiné."
+      },
+      {
+        "id": 28,
+        "question": "Dans quel pays les femmes portent-elles encore des mantilles ?",
+        "propositions": [
+          "Maroc",
+          "Grèce",
+          "Algérie",
+          "Espagne"
+        ],
+        "réponse": "Espagne",
+        "anecdote": "La mantille est un voile léger apparu en Espagne et au Portugal, porté à la messe par les femmes catholiques."
+      },
+      {
+        "id": 29,
+        "question": "Dans quelle ville de France est célébrée chaque année la fête des jonquilles ?",
+        "propositions": [
+          "Hauteluce",
+          "Tignes",
+          "Courchevel",
+          "Gérardmer"
+        ],
+        "réponse": "Gérardmer",
+        "anecdote": "C'est l'occasion pour les Gérômois de célébrer l'un des symboles de leur ville, en particulier en y défilant sur des chars fleuris."
+      },
+      {
+        "id": 30,
+        "question": "Quelles couleurs dominent les chapeaux portés pour la Sainte Catherine ?",
+        "propositions": [
+          "Grise et violette",
+          "Rose et orange",
+          "Jaune et verte",
+          "Rouge et bleue"
+        ],
+        "réponse": "Jaune et verte",
+        "anecdote": "Autrefois, les statues de sainte Catherine placées dans les églises étaient ornées d'une coiffe qui était renouvelée chaque année."
+      }
+    ]
+  }
+}

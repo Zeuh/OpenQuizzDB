@@ -1,0 +1,374 @@
+{
+  "fournisseur": "OpenQuizzDB - Fournisseur de contenu libre (www.openquizzdb.org)",
+  "rédacteur": "Philippe Bresoux",
+  "thème": "Chanteurs internationaux",
+  "difficulté": 2,
+  "quizz": {
+    "débutant": [
+      {
+        "id": 1,
+        "question": "Quel gagnant de la 'Nouvelle Star', diffusée sur M6, est surnommé « La Tortue » ?",
+        "propositions": [
+          "Steeve Estatof",
+          "Christophe Willem",
+          "Julien Doré",
+          "Jonatan Cerrada"
+        ],
+        "réponse": "Christophe Willem",
+        "anecdote": "Christophe est devenu Christophe Willem en référence au prénom William que ses parents avaient failli lui donner."
+      },
+      {
+        "id": 2,
+        "question": "En 1991, quel tube Yannick Noah a-t-il associé à la victoire de la France en coupe Davis ?",
+        "propositions": [
+          "Les Lionnes",
+          "Ose",
+          "Vagabond",
+          "Saga Africa"
+        ],
+        "réponse": "Saga Africa",
+        "anecdote": "Yannick Noah signe lui-même les paroles, mélange de français et d'expressions camerounaises."
+      },
+      {
+        "id": 3,
+        "question": "Quel chanteur prénommé Mathieu a émergé du succès remporté par les Linkup ?",
+        "propositions": [
+          "Corneille",
+          "Raphaël",
+          "M. Pokora",
+          "Keen'V"
+        ],
+        "réponse": "M. Pokora",
+        "anecdote": "Linkup est un boys band français, aujourd'hui dissous, vainqueur de la troisième saison de 'Popstars'."
+      },
+      {
+        "id": 4,
+        "question": "Quel est le style musical de l'album de Rohff, 'La fierté des années' ?",
+        "propositions": [
+          "La techno",
+          "Le rap",
+          "Le tango",
+          "Le disco"
+        ],
+        "réponse": "Le rap",
+        "anecdote": "Rohff est le rappeur français qui a vendu le plus d'album solo parmi les rappeurs toujours en activité."
+      },
+      {
+        "id": 5,
+        "question": "Quel Américano-Libanais est entré dans les charts avec 'Life in Cartoon Motion' ?",
+        "propositions": [
+          "Rida",
+          "Iwan",
+          "K. Maro",
+          "Mika"
+        ],
+        "réponse": "Mika",
+        "anecdote": "'Life in Cartoon Motion' a été certifié disque de diamant en France avec plus de 1 200 000 exemplaires écoulés."
+      },
+      {
+        "id": 6,
+        "question": "Quel jeune chanteur a charmé le public avec 'Vivo per lei', en duo avec Hélène Ségara ?",
+        "propositions": [
+          "M. Pokora",
+          "Matthieu Chedid",
+          "Pierre Vassiliu",
+          "Grégory Lemarchal"
+        ],
+        "réponse": "Grégory Lemarchal",
+        "anecdote": "Il sera hospitalisé d'urgence trois jours plus tard dans l'attente d'une greffe des poumons."
+      },
+      {
+        "id": 7,
+        "question": "Quel DJ, grand animateur des soirées d'Ibiza, a livré au public 'Pop Life' en 2007 ?",
+        "propositions": [
+          "Claude Challe",
+          "Bob Sinclar",
+          "David Guetta",
+          "Quentin Mosimann"
+        ],
+        "réponse": "David Guetta",
+        "anecdote": "En 2011, David Guetta est élu meilleur DJ du monde par le classement TOP 100 du magazine DJ Mag."
+      },
+      {
+        "id": 8,
+        "question": "Qui a chanté au pied de la Tour Eiffel devant plus de 800 000 personnes le 10 juin 2000 ?",
+        "propositions": [
+          "Christophe Maé",
+          "Patrick Bruel",
+          "Eddy Mitchell",
+          "Johnny Hallyday"
+        ],
+        "réponse": "Johnny Hallyday",
+        "anecdote": "Plus de 2 100 couvertures de magazines ont déjà été consacrées à Johnny Hallyday."
+      },
+      {
+        "id": 9,
+        "question": "Sous quel nom le rappeur et homme d'affaires américain Curtis Jackson fait-il carrière ?",
+        "propositions": [
+          "Big Sean",
+          "Fat Joe",
+          "50 cent",
+          "Mike D"
+        ],
+        "réponse": "50 cent",
+        "anecdote": "Avec l'aide d'Eminem et de Dr. Dre, Curtis Jackson est devenu le rappeur le plus populaire du moment."
+      },
+      {
+        "id": 10,
+        "question": "Avec quel chanteur le top model Heidi Klum a-t-elle été mariée durant sept ans ?",
+        "propositions": [
+          "Robbie Williams",
+          "Sean Paul",
+          "Paul McCartney",
+          "Seal"
+        ],
+        "réponse": "Seal",
+        "anecdote": "Heidi Klum a conçu sa propre ligne de vêtements qui a été incluse dans le catalogue de mode allemand 'Otto'."
+      }
+    ],
+    "confirmé": [
+      {
+        "id": 11,
+        "question": "Quel chanteur a interprété Andy Warhol dans le film 'Basquiat', en 1996 ?",
+        "propositions": [
+          "Bryan Ferry",
+          "David Bowie",
+          "Murray Head",
+          "Peter Gabriel"
+        ],
+        "réponse": "David Bowie",
+        "anecdote": "David Bowie avait déjà dédié une chanson à Andy Warhol dans son album 'Hunky Dory'."
+      },
+      {
+        "id": 12,
+        "question": "De quel nom le rappeur Curtis Jackson a-t-il signé une autobiographie de son enfance ?",
+        "propositions": [
+          "Bugz",
+          "50 cent",
+          "Eminem",
+          "Flo Rida"
+        ],
+        "réponse": "50 cent",
+        "anecdote": "Samuel L. Jackson s'était vu offrir dans le film le rôle de Levar, mais celui-ci déclina la proposition."
+      },
+      {
+        "id": 13,
+        "question": "Quel « amiral » de la chanson a été invité par Nicolas Sarkozy pour chanter un 14 juillet ?",
+        "propositions": [
+          "Patrick Hernandez",
+          "Michel Fugain",
+          "Michel Polnareff",
+          "Alain Chamfort"
+        ],
+        "réponse": "Michel Polnareff",
+        "anecdote": "« la France déroule le tapis rouge à Michel Polnareff, l'exilé fiscal, puis exilé tout court »."
+      },
+      {
+        "id": 14,
+        "question": "Quel DJ a repris un titre des années 80 pour faire un tube avec 'Living On Video' ?",
+        "propositions": [
+          "Vitalic",
+          "Pakito",
+          "Brodinski",
+          "Madeon"
+        ],
+        "réponse": "Pakito",
+        "anecdote": "Le pseudo de Julien Ranouil vient de 'Paquito el Chocolatero', une musique festive populaire en Espagne."
+      },
+      {
+        "id": 15,
+        "question": "Quel chanteur, prénommé Philippe, a débuté en 1989 avec le groupe de rap marseillais IAM ?",
+        "propositions": [
+          "Akhenaton",
+          "Imhotep",
+          "Kheops",
+          "Kephren"
+        ],
+        "réponse": "Akhenaton",
+        "anecdote": "Philippe Fragione est reconnu pour son maniement des figures de style et de la rime dans la tradition de la poésie arabe."
+      },
+      {
+        "id": 16,
+        "question": "Avec quel premier single le jeune Sean Kingston a-t-il connu un succès international ?",
+        "propositions": [
+          "Beautiful Girls",
+          "Beautiful Cars",
+          "Beautiful Birds",
+          "Beautiful Songs"
+        ],
+        "réponse": "Beautiful Girls",
+        "anecdote": "Le style musical de cet  auteur-compositeur-interprète jamaïco-américain est un mélange de reggae et de pop."
+      },
+      {
+        "id": 17,
+        "question": "Quel chanteur a sorti 'Musicology' puis '3121' deux ans plus tard ?",
+        "propositions": [
+          "Prince",
+          "Al Jarreau",
+          "James Brown",
+          "Bob James"
+        ],
+        "réponse": "Prince",
+        "anecdote": "La carrière de Prince Rogers Nelson, entamée en 1978, est l'une des plus denses dans l'univers de la pop."
+      },
+      {
+        "id": 18,
+        "question": "Quel membre des Rolling Stones a été opéré du cerveau après être tombé du haut d'un cocotier ?",
+        "propositions": [
+          "Ron Wood",
+          "Keith Richards",
+          "Mick Jagger",
+          "Charlie Watts"
+        ],
+        "réponse": "Keith Richards",
+        "anecdote": "Keith Richardsest l'auteur de la grande majorité du répertoire original dues Rolling Stones."
+      },
+      {
+        "id": 19,
+        "question": "Qui a sorti 'Soldats de fortune', presque dix ans après 'Métèque et mat' ?",
+        "propositions": [
+          "Mokobé",
+          "Brasco",
+          "Akhenaton",
+          "Soprano"
+        ],
+        "réponse": "Akhenaton",
+        "anecdote": "Sa reconnaissance artistique s'étend au-delà de la scène rap française dans laquelle il est l'un des plus influents."
+      },
+      {
+        "id": 20,
+        "question": "Sous quel nom Christophe Willem a-t-il dressé la liste des chansons de son premier album ?",
+        "propositions": [
+          "Heartbox",
+          "Double je",
+          "Inventaire",
+          "Cool"
+        ],
+        "réponse": "Inventaire",
+        "anecdote": "Christophe Willem a participé à l'album 'Sol En Si - Le concert des Grands Gamins au Zénith'."
+      }
+    ],
+    "expert": [
+      {
+        "id": 21,
+        "question": "Quel auteur de 'Dutty Rock' a auparavant représenté la Jamaïque en water-polo ?",
+        "propositions": [
+          "Shabba Ranks",
+          "Carl Douglas",
+          "Johnny Osbourne",
+          "Sean Paul"
+        ],
+        "réponse": "Sean Paul",
+        "anecdote": "À ce jour, Sean Paul a vendu plus de dix millions de disques à travers le monde."
+      },
+      {
+        "id": 22,
+        "question": "Qui montre qu'il a toujours de la ressource malgré un album intitulé 'Memory almost full' ?",
+        "propositions": [
+          "Billy Joel",
+          "Elton John",
+          "Cliff Richard",
+          "Paul McCartney"
+        ],
+        "réponse": "Paul McCartney",
+        "anecdote": "Paul McCartney est l'unique détenteur d'un disque de rhodium décerné en octobre 1979 par le Livre Guinness des records."
+      },
+      {
+        "id": 23,
+        "question": "Quelle star du rock, appelée « l'Iguane de Détroit », a été sorti de son lit dans une pub ?",
+        "propositions": [
+          "Iggy Pop",
+          "Dave Alexander",
+          "James Williamson",
+          "Mike Watt"
+        ],
+        "réponse": "Iggy Pop",
+        "anecdote": "The Stooges est historiquement un des premiers groupes précurseurs du mouvement punk."
+      },
+      {
+        "id": 24,
+        "question": "Sous quel nom le père de M a-t-il fait carrière bien avant lui ?",
+        "propositions": [
+          "Alain Bashung",
+          "Patrick Juvet",
+          "Michel Fugain",
+          "Louis Chedid"
+        ],
+        "réponse": "Louis Chedid",
+        "anecdote": "Louis Chedid est également le compositeur du conte musical 'Le Soldat rose' créé en 2006."
+      },
+      {
+        "id": 25,
+        "question": "Quel est le véritable prénom du rappeur et comédien français JoeyStarr ?",
+        "propositions": [
+          "Alain",
+          "Patrick",
+          "Michel",
+          "Didier"
+        ],
+        "réponse": "Didier",
+        "anecdote": "Son manager, Sébastien Farran, lui reconnaît une qualité première, celle de « l'authenticité »."
+      },
+      {
+        "id": 26,
+        "question": "Dans quel pays Cornelius Nyungura, dit Corneille, a-t-il passé son enfance ?",
+        "propositions": [
+          "Le Rwanda",
+          "Le Burundi",
+          "Le Cameroun",
+          "Le Kenya"
+        ],
+        "réponse": "Le Rwanda",
+        "anecdote": "Son premier album, 'Parce qu'on vient de loin', a été écrit, composé, arrangé et réalisé par lui-même."
+      },
+      {
+        "id": 27,
+        "question": "Qui est l'auteur-compositeur-interprète et guitariste du groupe Louise Attaque ?",
+        "propositions": [
+          "Pascal Auriat",
+          "Gaëtan Roussel",
+          "Stephan Eicher",
+          "Jean Constantin"
+        ],
+        "réponse": "Gaëtan Roussel",
+        "anecdote": "Louise attaque est un groupe de rock français formé en 1994, dont le premier album est sorti en 1997."
+      },
+      {
+        "id": 28,
+        "question": "Quel chanteur sensuel prête sa voix au chef cuisiner dans 'South Park' ?",
+        "propositions": [
+          "Al Green",
+          "James Brown",
+          "Issac Hayes",
+          "Barry White"
+        ],
+        "réponse": "Issac Hayes",
+        "anecdote": "L'humour de la série 'South park'se veut parodique, graveleux, raciste et scatologique."
+      },
+      {
+        "id": 29,
+        "question": "Avec quel groupe Justin Timberlake et Timbaland ont-ils enregistré 'Falling Down' ?",
+        "propositions": [
+          "The Police",
+          "A-Ha",
+          "Queen",
+          "Duran Duran"
+        ],
+        "réponse": "Duran Duran",
+        "anecdote": "Le clip de 'Falling Down' met en scène des mannequins dans un centre de désintoxication."
+      },
+      {
+        "id": 30,
+        "question": "Qui a commencé pâtissier avant de sortir un album solo intitulé 'Mon paradis' ?",
+        "propositions": [
+          "Dany Brillant",
+          "Patrick Fiori",
+          "Christophe Maé",
+          "Florent Pagny"
+        ],
+        "réponse": "Christophe Maé",
+        "anecdote": "L'album 'Mon paradis' (en référence à la Corse) est devenu disque de diamant avec 1 600 000 ventes."
+      }
+    ]
+  }
+}

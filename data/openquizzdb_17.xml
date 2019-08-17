@@ -1,0 +1,343 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes" ?>
+<quizz fournisseur="OpenQuizzDB : Fournisseur de contenu libre"
+       url="https://www.openquizzdb.org"
+       rédacteur="Philippe Bresoux"
+       thème="Sucre (Qui n'a jamais craqué pour des bonbons ?)"
+       difficulté="4 / 5">
+  <débutant>
+    <contenu id="1">
+      <question>Dans nos régions, de quelle betterave le sucre est-il principalement extrait ?</question>
+      <propositions>
+        <proposition id="1-1">Marinière</proposition>
+        <proposition id="1-2">Potagère</proposition>
+        <proposition id="1-3">Sucrière</proposition>
+        <proposition id="1-4">Fourragère</proposition>
+      </propositions>
+      <réponse proposition="1-3">Sucrière</réponse>
+      <anecdote>Les betteraves sucrières, dont il existe de nombreuses variétés, sont de couleur blanche et très enterrées.</anecdote>
+    </contenu>
+    <contenu id="2">
+      <question>De quel composé le sucre est-il majoritairement formé ?</question>
+      <propositions>
+        <proposition id="2-1">Maltose</proposition>
+        <proposition id="2-2">Fructose</proposition>
+        <proposition id="2-3">Saccharose</proposition>
+        <proposition id="2-4">Glucose</proposition>
+      </propositions>
+      <réponse proposition="2-3">Saccharose</réponse>
+      <anecdote>Les glucides, et plus particulièrement le saccharose, étaient autrefois appelés « hydrates de carbone ».</anecdote>
+    </contenu>
+    <contenu id="3">
+      <question>Comment appelle-t-on le sucre contenu dans les fruits ?</question>
+      <propositions>
+        <proposition id="3-1">Fructose</proposition>
+        <proposition id="3-2">Maltose</proposition>
+        <proposition id="3-3">Glucose</proposition>
+        <proposition id="3-4">Galactose</proposition>
+      </propositions>
+      <réponse proposition="3-1">Fructose</réponse>
+      <anecdote>Le fructose a un pouvoir sucrant supérieur au saccharose, de 20 à 40% selon les conditions.</anecdote>
+    </contenu>
+    <contenu id="4">
+      <question>Combien de morceaux de sucre contient une canette de Coca-Cola de 33cl ?</question>
+      <propositions>
+        <proposition id="4-1">15</proposition>
+        <proposition id="4-2">7</proposition>
+        <proposition id="4-3">11</proposition>
+        <proposition id="4-4">3</proposition>
+      </propositions>
+      <réponse proposition="4-2">7</réponse>
+      <anecdote>La consommation de boissons sucrées, si non compensée par une heure de sport par canette, est dommageable sur la durée de vie.</anecdote>
+    </contenu>
+    <contenu id="5">
+      <question>Quelle maladie peut être engendrée par une consommation excessive de sucre ?</question>
+      <propositions>
+        <proposition id="5-1">Grippe</proposition>
+        <proposition id="5-2">Dépression</proposition>
+        <proposition id="5-3">Hypertension</proposition>
+        <proposition id="5-4">Diabète</proposition>
+      </propositions>
+      <réponse proposition="5-4">Diabète</réponse>
+      <anecdote>Le diabète sucré (avec glycosurie), le plus fréquent chez nous, est lié à une anomalie de synthèse ou de l'action de l'insuline.</anecdote>
+    </contenu>
+    <contenu id="6">
+      <question>Quel nom est couramment employé pour désigner le « sucre roux » ?</question>
+      <propositions>
+        <proposition id="6-1">Cassonade</proposition>
+        <proposition id="6-2">Sucre candi</proposition>
+        <proposition id="6-3">Sucre glace</proposition>
+        <proposition id="6-4">Sucre gélifiant</proposition>
+      </propositions>
+      <réponse proposition="6-1">Cassonade</réponse>
+      <anecdote>En Belgique et dans le nord de la France, la cassonade désigne aussi une sorte de vergeoise.</anecdote>
+    </contenu>
+    <contenu id="7">
+      <question>En pâtisserie, que forme le sucre blanc mélangé avec un peu d'eau ?</question>
+      <propositions>
+        <proposition id="7-1">De la glace</proposition>
+        <proposition id="7-2">De la pâte</proposition>
+        <proposition id="7-3">Du sirop</proposition>
+        <proposition id="7-4">De la confiture</proposition>
+      </propositions>
+      <réponse proposition="7-3">Du sirop</réponse>
+      <anecdote>Le terme « sirop » est aussi employé pour qualifier des liquides visqueux contenant autre chose que du sucre en solution.</anecdote>
+    </contenu>
+    <contenu id="8">
+      <question>Lequel de ces termes ne désigne pas un glucide au pouvoir sucrant ?</question>
+      <propositions>
+        <proposition id="8-1">Maltose</proposition>
+        <proposition id="8-2">Fructose</proposition>
+        <proposition id="8-3">Halitose</proposition>
+        <proposition id="8-4">Glucose</proposition>
+      </propositions>
+      <réponse proposition="8-3">Halitose</réponse>
+      <anecdote>L'halitose, ou mauvaise haleine, est le fait d'avoir une haleine dont l'odeur est considérée comme incommodante.</anecdote>
+    </contenu>
+    <contenu id="9">
+      <question>Quel problème lié au sucre peut détruire l'émail dentaire ?</question>
+      <propositions>
+        <proposition id="9-1">Carie</proposition>
+        <proposition id="9-2">Gingivite</proposition>
+        <proposition id="9-3">Déglutition</proposition>
+        <proposition id="9-4">Fluor</proposition>
+      </propositions>
+      <réponse proposition="9-1">Carie</réponse>
+      <anecdote>Pour la plupart des autres mammifères, la carie témoigne d'une santé générale dégradée et de carences alimentaires.</anecdote>
+    </contenu>
+    <contenu id="10">
+      <question>Quel sucre fait « prendre » les confitures et gelées plus facilement ?</question>
+      <propositions>
+        <proposition id="10-1">Candi</proposition>
+        <proposition id="10-2">Glace</proposition>
+        <proposition id="10-3">Perlé</proposition>
+        <proposition id="10-4">Gélifiant</proposition>
+      </propositions>
+      <réponse proposition="10-4">Gélifiant</réponse>
+      <anecdote>L'origine animale de la gélatine n'est pas à préciser selon la réglementation sauf si l'origine est bovine.</anecdote>
+    </contenu>
+  </débutant>
+  <confirmé>
+    <contenu id="11">
+      <question>Quel terme scientifique est utilisé pour désigner le sucre de table ?</question>
+      <propositions>
+        <proposition id="11-1">Maltose</proposition>
+        <proposition id="11-2">Fructose</proposition>
+        <proposition id="11-3">Saccharose</proposition>
+        <proposition id="11-4">Glucose</proposition>
+      </propositions>
+      <réponse proposition="11-3">Saccharose</réponse>
+      <anecdote>Le pouvoir sucrant du saccharose sert de référence dans l'échelle des produits sucrants.</anecdote>
+    </contenu>
+    <contenu id="12">
+      <question>Combien de kilos de sucre les Français consomment-ils en moyenne chaque année ?</question>
+      <propositions>
+        <proposition id="12-1">30 kg</proposition>
+        <proposition id="12-2">10 kg</proposition>
+        <proposition id="12-3">50 kg</proposition>
+        <proposition id="12-4">70 kg</proposition>
+      </propositions>
+      <réponse proposition="12-1">30 kg</réponse>
+      <anecdote>Le sucre est une substance de saveur douce extraite principalement de la canne à sucre et de la betterave sucrière.</anecdote>
+    </contenu>
+    <contenu id="13">
+      <question>Le pouvoir sucrant de la stevia est combien de fois supérieur à celui du saccharose ?</question>
+      <propositions>
+        <proposition id="13-1">30 fois</proposition>
+        <proposition id="13-2">3 000 fois</proposition>
+        <proposition id="13-3">300 fois</proposition>
+        <proposition id="13-4">3 fois</proposition>
+      </propositions>
+      <réponse proposition="13-3">300 fois</réponse>
+      <anecdote>La stevia fut d'abord étudiée par le botaniste et médecin espagnol Petrus Jacobus Stevus, qui a donné son nom à la plante.</anecdote>
+    </contenu>
+    <contenu id="14">
+      <question>Au XIIe siècle, comment utilisait-on le sucre, d'abord réservé aux apothicaires ?</question>
+      <propositions>
+        <proposition id="14-1">Punition</proposition>
+        <proposition id="14-2">Médicament</proposition>
+        <proposition id="14-3">Conservateur</proposition>
+        <proposition id="14-4">Friandise</proposition>
+      </propositions>
+      <réponse proposition="14-2">Médicament</réponse>
+      <anecdote>Le sucre ne deviendra réellement un ingrédient utilisé en cuisine qu'au XVIIIe siècle.</anecdote>
+    </contenu>
+    <contenu id="15">
+      <question>Quelle est la durée impressionnante de conservation du sucre ?</question>
+      <propositions>
+        <proposition id="15-1">5 ans</proposition>
+        <proposition id="15-2">25 ans</proposition>
+        <proposition id="15-3">15 ans</proposition>
+        <proposition id="15-4">Illimitée</proposition>
+      </propositions>
+      <réponse proposition="15-4">Illimitée</réponse>
+      <anecdote>En France, les ventes de sucre sont passées de 5 kg/an/habitant en 1850 à 3035 kg dans les années 1970.</anecdote>
+    </contenu>
+    <contenu id="16">
+      <question>À quelle température faut-il chauffer le sucre pour obtenir du caramel ?</question>
+      <propositions>
+        <proposition id="16-1">50 °C</proposition>
+        <proposition id="16-2">150 °C</proposition>
+        <proposition id="16-3">200 °C</proposition>
+        <proposition id="16-4">100 °C</proposition>
+      </propositions>
+      <réponse proposition="16-2">150 °C</réponse>
+      <anecdote>Le nom de famille Caramel existe aussi et est plutôt répandu dans le Sud de la France.</anecdote>
+    </contenu>
+    <contenu id="17">
+      <question>Quel pays est le plus grand exportateur de sucre de betteraves ?</question>
+      <propositions>
+        <proposition id="17-1">France</proposition>
+        <proposition id="17-2">Brésil</proposition>
+        <proposition id="17-3">Russie</proposition>
+        <proposition id="17-4">Cameroun</proposition>
+      </propositions>
+      <réponse proposition="17-2">Brésil</réponse>
+      <anecdote>La culture de la betterave sucrière occupe environ 4,4 millions d'hectares dans le monde.</anecdote>
+    </contenu>
+    <contenu id="18">
+      <question>Quel sucre est obtenu par cristallisation lente d'un sirop formant de gros cristaux ?</question>
+      <propositions>
+        <proposition id="18-1">Perlé</proposition>
+        <proposition id="18-2">Glace</proposition>
+        <proposition id="18-3">Blond</proposition>
+        <proposition id="18-4">Candi</proposition>
+      </propositions>
+      <réponse proposition="18-4">Candi</réponse>
+      <anecdote>Le sucre candi, apparu en Europe au XIXe siècle, est constitué de sucre de canne sous forme de cristaux de très grande taille.</anecdote>
+    </contenu>
+    <contenu id="19">
+      <question>Quel est le pourcentage de saccharose contenu dans une canne à sucre ?</question>
+      <propositions>
+        <proposition id="19-1">24 %</proposition>
+        <proposition id="19-2">44 %</proposition>
+        <proposition id="19-3">34 %</proposition>
+        <proposition id="19-4">14 %</proposition>
+      </propositions>
+      <réponse proposition="19-4">14 %</réponse>
+      <anecdote>Avec deux milliards de tonnes produites, les cannes à sucre sont les premières plantes cultivées au niveau mondial.</anecdote>
+    </contenu>
+    <contenu id="20">
+      <question>Quelle est la couleur naturelle du sucre de betterave après extraction et purification ?</question>
+      <propositions>
+        <proposition id="20-1">Blanche</proposition>
+        <proposition id="20-2">Brune</proposition>
+        <proposition id="20-3">Jaune</proposition>
+        <proposition id="20-4">Noire</proposition>
+      </propositions>
+      <réponse proposition="20-1">Blanche</réponse>
+      <anecdote>La betterave sucrière est utilisée pour la production de sucre (dont la vergeoise), et secondairement d'alcool et d'éthanol-carburant. </anecdote>
+    </contenu>
+  </confirmé>
+  <expert>
+    <contenu id="21">
+      <question>Combien de calories vous apporte un morceau de sucre de six grammes ?</question>
+      <propositions>
+        <proposition id="21-1">42 kcal</proposition>
+        <proposition id="21-2">24 kcal</proposition>
+        <proposition id="21-3">54 kcal</proposition>
+        <proposition id="21-4">37 kcal</proposition>
+      </propositions>
+      <réponse proposition="21-2">24 kcal</réponse>
+      <anecdote>Le sucre en morceaux est classé par calibre : 'domino numéro 4' indiquera que la boîte (1 kg) comporte 4 rangées.</anecdote>
+    </contenu>
+    <contenu id="22">
+      <question>Quel dirigeant a permis le développement du sucre de betterave en France ?</question>
+      <propositions>
+        <proposition id="22-1">Napoléon</proposition>
+        <proposition id="22-2">Philippe II</proposition>
+        <proposition id="22-3">Louis XIV</proposition>
+        <proposition id="22-4">Charles VI</proposition>
+      </propositions>
+      <réponse proposition="22-1">Napoléon</réponse>
+      <anecdote>Premier empereur des Français, Napoléon réorganisa et réforma durablement l'État et la société.</anecdote>
+    </contenu>
+    <contenu id="23">
+      <question>Combien de pays produisent du sucre dans le monde ?</question>
+      <propositions>
+        <proposition id="23-1">59</proposition>
+        <proposition id="23-2">99</proposition>
+        <proposition id="23-3">119</proposition>
+        <proposition id="23-4">79</proposition>
+      </propositions>
+      <réponse proposition="23-3">119</réponse>
+      <anecdote>Sur 119 pays producteurs, 40 cultivent la betterave sucrière, et fournissaient environ 20% de la production en 2011.</anecdote>
+    </contenu>
+    <contenu id="24">
+      <question>Quelle saveur primaire vient compléter le sucré, le salé et l'acide ?</question>
+      <propositions>
+        <proposition id="24-1">Le piquant</proposition>
+        <proposition id="24-2">Le pimenté</proposition>
+        <proposition id="24-3">Le gras</proposition>
+        <proposition id="24-4">L'amer</proposition>
+      </propositions>
+      <réponse proposition="24-4">L'amer</réponse>
+      <anecdote>L'amertume est une caractéristique importante de la bière, au même titre que la teneur en alcool par exemple.</anecdote>
+    </contenu>
+    <contenu id="25">
+      <question>En quelle année est né le sucre en morceaux, réalisé grâce à un procédé artisanal ?</question>
+      <propositions>
+        <proposition id="25-1">1949</proposition>
+        <proposition id="25-2">1644</proposition>
+        <proposition id="25-3">1841</proposition>
+        <proposition id="25-4">1742</proposition>
+      </propositions>
+      <réponse proposition="25-3">1841</réponse>
+      <anecdote>Le sucre en morceaux est obtenu en liant des cristaux de sucre avec du sirop de sucre.</anecdote>
+    </contenu>
+    <contenu id="26">
+      <question>Par quelle peuplade la canne à sucre a-t-elle été introduite en Europe ?</question>
+      <propositions>
+        <proposition id="26-1">Perses</proposition>
+        <proposition id="26-2">Arabes</proposition>
+        <proposition id="26-3">Grecs</proposition>
+        <proposition id="26-4">Francs</proposition>
+      </propositions>
+      <réponse proposition="26-1">Perses</réponse>
+      <anecdote>La canne à sucre est une grande graminée tropicale herbacée à port de roseau, d'une hauteur allant de deux à six mètres.</anecdote>
+    </contenu>
+    <contenu id="27">
+      <question>Le mot « sucre », désignant les glucides ayant un pouvoir sucrant, provient de quel mot sanscrit ?</question>
+      <propositions>
+        <proposition id="27-1">Soukra</proposition>
+        <proposition id="27-2">Sinakra</proposition>
+        <proposition id="27-3">Sucara</proposition>
+        <proposition id="27-4">Sarkara</proposition>
+      </propositions>
+      <réponse proposition="27-4">Sarkara</réponse>
+      <anecdote>Le terme « sucre » provient du terme italien « zucchero », lui-même emprunté à l'arabe « sukkar ».</anecdote>
+    </contenu>
+    <contenu id="28">
+      <question>Qui a réussi le premier l'extraction du sucre de betterave en grande quantité ?</question>
+      <propositions>
+        <proposition id="28-1">Th. Jauge</proposition>
+        <proposition id="28-2">B. Delessert</proposition>
+        <proposition id="28-3">D. Bouton</proposition>
+        <proposition id="28-4">S. Bernard</proposition>
+      </propositions>
+      <réponse proposition="28-2">B. Delessert</réponse>
+      <anecdote>Benjamin Delessert est également le fondateur des Caisses d'épargne en France en 1818.</anecdote>
+    </contenu>
+    <contenu id="29">
+      <question>Combien de kilos de sucre donne en moyenne une tonne de betteraves ?</question>
+      <propositions>
+        <proposition id="29-1">170 kg</proposition>
+        <proposition id="29-2">140 kg</proposition>
+        <proposition id="29-3">110 kg</proposition>
+        <proposition id="29-4">200 kg</proposition>
+      </propositions>
+      <réponse proposition="29-2">140 kg</réponse>
+      <anecdote>Depuis quelques années, le jus de la betterave à sucre est utilisé comme fondant routier en Amérique du Nord.</anecdote>
+    </contenu>
+    <contenu id="30">
+      <question>Que rajoute-t-on dans le sucre glace pour éviter qu'il ne s'agglomère ?</question>
+      <propositions>
+        <proposition id="30-1">Jus de citron</proposition>
+        <proposition id="30-2">Amidon</proposition>
+        <proposition id="30-3">Huile</proposition>
+        <proposition id="30-4">Lécithine</proposition>
+      </propositions>
+      <réponse proposition="30-2">Amidon</réponse>
+      <anecdote>Le sucre glace est principalement utilisé pour la décoration des pâtisseries ou pour sucrer les blancs en neige.</anecdote>
+    </contenu>
+  </expert>
+</quizz>

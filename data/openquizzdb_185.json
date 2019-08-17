@@ -1,0 +1,2228 @@
+{
+  "fournisseur": "OpenQuizzDB - Fournisseur de contenu libre (www.openquizzdb.org)",
+  "rédacteur": "Philippe Bresoux",
+  "thème": "Sports d'hiver (En famille ou entre amis)",
+  "difficulté": 3,
+  "quizz": {
+    "fr": [
+      {
+      "débutant": [
+      {
+        "id": 1,
+        "question": "En ski, quel est le niveau de difficulté associé à une piste verte ?",
+        "propositions": [
+          "Facile",
+          "Très difficile",
+          "Difficile",
+          "Moyen"
+        ],
+        "réponse": "Facile",
+        "anecdote": "Les couleurs des pistes sont attribuées en fonction de la pente, de la longueur, de la largeur et de l'exposition au soleil et au vent."
+      },
+      {
+        "id": 2,
+        "question": "À part aux pieds, quelle est la façon la plus aisée de se déplacer avec des skis ?",
+        "propositions": [
+          "Dans le dos",
+          "Sur l'épaule",
+          "Sous le bras",
+          "Sur la tête"
+        ],
+        "réponse": "Sur l'épaule",
+        "anecdote": "L'ensemble des fixations, chaussures et vêtements bénéficie du spectaculaire essor des matériaux depuis soixante ans."
+      },
+      {
+        "id": 3,
+        "question": "Après une journée de glisse, quel est l'ingrédient principal de la fondue savoyarde ?",
+        "propositions": [
+          "Lard",
+          "Viande",
+          "Saucisse",
+          "Fromage"
+        ],
+        "réponse": "Fromage",
+        "anecdote": "La fondue savoyarde est devenue une recette de cuisine populaire en France avec l'essor des sports d'hiver et du tourisme alpin."
+      },
+      {
+        "id": 4,
+        "question": "Quel autre nom plus familier donne-t-on parfois au téléski qui vous mène en haut des pistes ?",
+        "propositions": [
+          "Porte-pieds",
+          "Attache-bras",
+          "Tire-fesses",
+          "Casse-tête"
+        ],
+        "réponse": "Tire-fesses",
+        "anecdote": "Le principe du tire-fesses consiste à passer entre les jambes un agrès (perche ou enrouleur) généralement terminé par une rondelle."
+      },
+      {
+        "id": 5,
+        "question": "Laquelle de ces couleurs ne permet pas de connaître la difficulté d'une piste de ski ?",
+        "propositions": [
+          "Rouge",
+          "Bleu",
+          "Vert",
+          "Mauve"
+        ],
+        "réponse": "Mauve",
+        "anecdote": "Toutefois, aucune norme ne définit la façon dont sont attribuées les couleurs aux pistes de skis, le choix étant laissé aux exploitants."
+      },
+      {
+        "id": 6,
+        "question": "De quoi a-t-on besoin pour pouvoir utiliser des remontées mécaniques ?",
+        "propositions": [
+          "Bonnet",
+          "Sac-à-dos",
+          "Empreinte",
+          "Forfait"
+        ],
+        "réponse": "Forfait",
+        "anecdote": "Le prix englobe souvent un forfait commun allant d'un jour à une semaine dans les stations de sports d'hiver pour le ski alpin."
+      },
+      {
+        "id": 7,
+        "question": "Qu'allez-vous chausser pour faire une randonnée sur de la neige molle ?",
+        "propositions": [
+          "Espadrilles",
+          "Raquettes",
+          "Bottes",
+          "Rollers"
+        ],
+        "réponse": "Raquettes",
+        "anecdote": "La raquette, fixée sous la chaussure de marche, augmente la surface de contact avec la neige et permet souvent de ne pas s'enfoncer."
+      },
+      {
+        "id": 8,
+        "question": "Mis à part les bosses, dans quel type de neige se pratique le monoski ?",
+        "propositions": [
+          "Poudreuse",
+          "En grains",
+          "Noire",
+          "Mouillée"
+        ],
+        "réponse": "Poudreuse",
+        "anecdote": "Le monoski se pratique encore à haut niveau en freeride et haute montagne et rivalise toujours avec le ski et le snowboard."
+      },
+      {
+        "id": 9,
+        "question": "À quoi procède-t-on sur les pistes de ski entre 17h le soir et 9h du matin ?",
+        "propositions": [
+          "Séchage",
+          "Saupoudrage",
+          "Mouillage",
+          "Damage"
+        ],
+        "réponse": "Damage",
+        "anecdote": "Une dameuse est un véhicule sur chenilles conçu pour améliorer la qualité de la neige pour la pratique des sports de glisse."
+      },
+      {
+        "id": 10,
+        "question": "Quel sport est pratiqué sur la glace avec de lourdes pierres en granite poli ?",
+        "propositions": [
+          "Bobsleigh",
+          "Luge",
+          "Skeleton",
+          "Curling"
+        ],
+        "réponse": "Curling",
+        "anecdote": "Le but du curling est de placer les pierres le plus près possible d'une cible circulaire dessinée sur la glace, appelée la maison."
+      }
+    ],
+    "confirmé": [
+      {
+        "id": 11,
+        "question": "Quel nom donne-t-on à la partie située à l'avant d'une fixation de ski ?",
+        "propositions": [
+          "Télémark",
+          "Butée",
+          "Ressort",
+          "Talonnière"
+        ],
+        "réponse": "Butée",
+        "anecdote": "La fixation est un composant capable de supporter les brusques secousses du ski tout en pouvant se relâcher en cas de chute."
+      },
+      {
+        "id": 12,
+        "question": "Quelles cartes vous permettent de vous repérer en montagne lors des randonnées ?",
+        "propositions": [
+          "IGN",
+          "APK",
+          "PMU",
+          "DKV"
+        ],
+        "réponse": "IGN",
+        "anecdote": "L'IGN a été créé par décret en 1940 (signé par Albert Lebrun et Philippe Pétain) et a succédé au Service géographique de l'Armée."
+      },
+      {
+        "id": 13,
+        "question": "Par quelle couleur lumineuse les engins de damage signalent-ils leur présence ?",
+        "propositions": [
+          "Verte",
+          "Orange",
+          "Mauve",
+          "Bleue"
+        ],
+        "réponse": "Orange",
+        "anecdote": "Les termes resurfaceuse et surfaceuse désignent les véhicules utilisés pour retravailler les surfaces de glace."
+      },
+      {
+        "id": 14,
+        "question": "Lequel de ces fromages n'est pas nécessaire à la réalisation d'une fondue savoyarde ?",
+        "propositions": [
+          "Comté",
+          "Roquefort",
+          "Beaufort",
+          "Emmental"
+        ],
+        "réponse": "Roquefort",
+        "anecdote": "Certaines variantes de la recette autorisent l'adjonction d'une petite quantité d'alcool de cerise (kirsch) pour rehausser le goût."
+      },
+      {
+        "id": 15,
+        "question": "Quelle substance utilise-t-on pour obtenir une glisse parfaite de ses skis ?",
+        "propositions": [
+          "Cérumen",
+          "Fart",
+          "Jojoba",
+          "Paraffine"
+        ],
+        "réponse": "Fart",
+        "anecdote": "Globalement, il existe deux grandes catégories de ce revêtement spécifique : le fart de glisse et le fart de retenue."
+      },
+      {
+        "id": 16,
+        "question": "Quel est le pourcentage de pente maximum que peut avoir une piste bleue ?",
+        "propositions": [
+          "25 %",
+          "15 %",
+          "35 %",
+          "45 %"
+        ],
+        "réponse": "25 %",
+        "anecdote": "Les pistes non-damées, appelées Skiroute, sont quant à elles signalées par un losange généralement de couleur rouge."
+      },
+      {
+        "id": 17,
+        "question": "Quelle station de ski Guillaume Tell aurait-il tout particulièrement apprécié ?",
+        "propositions": [
+          "La Plagne",
+          "Méribel",
+          "Tignes",
+          "Les Arcs"
+        ],
+        "réponse": "Les Arcs",
+        "anecdote": "Les station-villages des Arcs (Arc 1600, Arc 1800 et Arc 2000) sont des stations intégrées dites de troisième génération."
+      },
+      {
+        "id": 18,
+        "question": "Quelle technique utilise-t-on pour monter une pente douce sans remontée mécanique ?",
+        "propositions": [
+          "Montée en lapin",
+          "Montée en ours",
+          "Montée en canard",
+          "Montée en zèbre"
+        ],
+        "réponse": "Montée en canard",
+        "anecdote": "Bien que prévues pour hisser les skieurs vers le haut de la montagne, les remontées peuvent aussi servir en descente."
+      },
+      {
+        "id": 19,
+        "question": "Dans quel pays se situe la station skiable très prisée d'Innsbruck ?",
+        "propositions": [
+          "Suisse",
+          "France",
+          "Autriche",
+          "Allemagne"
+        ],
+        "réponse": "Autriche",
+        "anecdote": "Innsbruck a un niveau de vie très élevé, comme le reste des alpes autrichiennes, avec un PIB de 75 000 dollars par an et par habitant."
+      },
+      {
+        "id": 20,
+        "question": "Quelle est la forme caractéristique des bâtons de descente à ski ?",
+        "propositions": [
+          "En T",
+          "En U",
+          "En S",
+          "En V"
+        ],
+        "réponse": "En S",
+        "anecdote": "À cause du danger de la course de descente, les skieurs doivent s'entraîner plusieurs fois sur le parcours avant la course."
+      }
+    ],
+    "expert": [
+      {
+        "id": 21,
+        "question": "Quelle station française est considérée comme le berceau du ski nordique ?",
+        "propositions": [
+          "Les Arcs",
+          "Chamrousse",
+          "Isola 2000",
+          "Autrans"
+        ],
+        "réponse": "Autrans",
+        "anecdote": "Le ski nordique fait référence à plusieurs disciplines de ski d'inspiration scandinave relevant des activités nordiques."
+      },
+      {
+        "id": 22,
+        "question": "Dans quel pays pourrez-vous utiliser la grand domaine skiable de Courmayeur ?",
+        "propositions": [
+          "Autriche",
+          "Suisse",
+          "Italie",
+          "France"
+        ],
+        "réponse": "Italie",
+        "anecdote": "La saison d'exploitation hivernale de Courmayeur commence généralement début décembre, et se termine à la mi-avril."
+      },
+      {
+        "id": 23,
+        "question": "Quel type de skieur peut-on parfois voir virer en génuflexion ?",
+        "propositions": [
+          "Snowboardeur",
+          "Pisteur",
+          "Freestyleur",
+          "Télémarkeur"
+        ],
+        "réponse": "Télémarkeur",
+        "anecdote": "C'est l'une des plus anciennes techniques de ski inventée par un menuisier du comté de Telemark en Norvège, Sondre Norheim."
+      },
+      {
+        "id": 24,
+        "question": "Sur neige, quelle sensibilité ISO est la mieux adaptée pour la photographie ?",
+        "propositions": [
+          "400 ISO",
+          "800 ISO",
+          "100 ISO",
+          "200 ISO"
+        ],
+        "réponse": "100 ISO",
+        "anecdote": "En photographie, la sensibilité ISO est la mesure de la sensibilité à la lumière des pellicules et des capteurs numériques."
+      },
+      {
+        "id": 25,
+        "question": "Combien de niveaux compte l'échelle d'intensité d'avalanche ?",
+        "propositions": [
+          "Six",
+          "Cinq",
+          "Sept",
+          "Huit"
+        ],
+        "réponse": "Cinq",
+        "anecdote": "Les cinq niveaux composant le tableau de l'échelle sont : très faible, faible, moyen, élevée (XL) et exceptionnelle (XXL)."
+      },
+      {
+        "id": 26,
+        "question": "Dans quelle station française peut-on skier sur une piste longue de 22 km ?",
+        "propositions": [
+          "Chamrousse",
+          "Alpe d'Huez",
+          "Autrans",
+          "Grenoble"
+        ],
+        "réponse": "Alpe d'Huez",
+        "anecdote": "L'Alpe d'Huez comporte 135 pistes balisées dont 42 vertes, 37 bleues, 39 rouges et 17 noires, mais aussi 2 snowparks."
+      },
+      {
+        "id": 27,
+        "question": "Comment appelle-t-on l'espace situé entre deux skis placés côte à côte ?",
+        "propositions": [
+          "Half-pipe",
+          "Cambre",
+          "Télémark",
+          "Stem"
+        ],
+        "réponse": "Cambre",
+        "anecdote": "Le cambre varie beaucoup plus en freeride ou ski hors piste, déclinaison du ski alpin se rapprochant du ski de randonnée."
+      },
+      {
+        "id": 28,
+        "question": "Quelle est la différence entre un télésiège débrayable et un autre à pinces fixes ?",
+        "propositions": [
+          "Matériau",
+          "Vitesse",
+          "Couleur",
+          "Confort"
+        ],
+        "réponse": "Vitesse",
+        "anecdote": "Un siège suspendu sur pince fixe tourne toujours à la même vitesse alors qu'un siège débrayable ralenti à son entrée en gare."
+      },
+      {
+        "id": 29,
+        "question": "Dans quelle station peut-on voir le Mont-Blanc d'un côté et la Méditerranée de l'autre ?",
+        "propositions": [
+          "Isola 2000",
+          "Les Arcs",
+          "Autrans",
+          "Chamrousse"
+        ],
+        "réponse": "Isola 2000",
+        "anecdote": "Cette station de sports d'hiver est appelée ainsi à cause de son altitude moyenne qui est d'environ 2 000 mètres."
+      },
+      {
+        "id": 30,
+        "question": "Quel sport de descente se pratique sur un engin muni d'un guidon ?",
+        "propositions": [
+          "Snowscoot",
+          "Snowkite",
+          "Speed riding",
+          "Télémark"
+        ],
+        "réponse": "Snowscoot",
+        "anecdote": "Ce sport d'hiver, né dans les années 1990 et inspiré du BMX, se pratique en glissant sur la neige à l'aide d'un guidon."
+      }
+      ]
+      }
+    ],
+    "en": [
+    {
+      "débutant": [
+      {
+        "id": 1,
+        "question": "In skiing, what is the level of difficulty associated with a green track ?",
+        "propositions": [
+          "Very difficult",
+          "Medium",
+          "Difficult",
+          "Easy"
+        ],
+        "réponse": "Easy",
+        "anecdote": "Track colors are assigned based on slope, length, width, and sun and wind exposure."
+      },
+      {
+        "id": 2,
+        "question": "Apart from the feet, what is the easiest way to move with skis ?",
+        "propositions": [
+          "On the head",
+          "Under the arm",
+          "On the shoulder",
+          "In the back"
+        ],
+        "réponse": "On the shoulder",
+        "anecdote": "The set of bindings, shoes and clothes benefit from the spectacular rise of materials for sixty years."
+      },
+      {
+        "id": 3,
+        "question": "After a day of skiing, what is the main ingredient of Savoyard fondue ?",
+        "propositions": [
+          "Sausage",
+          "Meat",
+          "Cheese",
+          "Bacon"
+        ],
+        "réponse": "Cheese",
+        "anecdote": "Savoyard fondue has become a popular cooking recipe in France with the rise of winter sports and alpine tourism."
+      },
+      {
+        "id": 4,
+        "question": "What other, more familiar name do we sometimes give to the ski that takes you to the top of the slopes ?",
+        "propositions": [
+          "Buttocks",
+          "Footrest",
+          "Arm tie",
+          "Puzzle"
+        ],
+        "réponse": "Buttocks",
+        "anecdote": "The principle of the butt is to pass between the legs a device (boom or reel) generally terminated by a washer."
+      },
+      {
+        "id": 5,
+        "question": "Which of these colors does not allow to know the difficulty of a ski slope ?",
+        "propositions": [
+          "Mauve",
+          "Red",
+          "Green",
+          "Blue"
+        ],
+        "réponse": "Mauve",
+        "anecdote": "However, no standard defines how colors are assigned to ski slopes, as the choice is left to the operators."
+      },
+      {
+        "id": 6,
+        "question": "What is needed to use mechanical lifts ?",
+        "propositions": [
+          "Package",
+          "Bonnet",
+          "Footprint",
+          "Satchel"
+        ],
+        "réponse": "Package",
+        "anecdote": "The price often includes a common package ranging from one day to one week in ski resorts for downhill skiing."
+      },
+      {
+        "id": 7,
+        "question": "What will you wear for a hike on soft snow ?",
+        "propositions": [
+          "Rackets",
+          "Rollers",
+          "Boots",
+          "Espadrilles"
+        ],
+        "réponse": "Rackets",
+        "anecdote": "The racket, fixed under the walking shoe, increases the contact surface with the snow and often allows not to sink."
+      },
+      {
+        "id": 8,
+        "question": "Aside from bumps, in what type of snow is the monoski ?",
+        "propositions": [
+          "Black",
+          "Wet",
+          "In grains",
+          "Powder"
+        ],
+        "réponse": "Powder",
+        "anecdote": "The monoski is still practiced at high level in freeride and high mountain and still rivals skiing and snowboarding."
+      },
+      {
+        "id": 9,
+        "question": "What are we doing on the ski slopes between 5pm and 9am ?",
+        "propositions": [
+          "Mooring",
+          "Damage",
+          "Sprinkling",
+          "Drying"
+        ],
+        "réponse": "Damage",
+        "anecdote": "A snow groomer is a crawler vehicle designed to improve the quality of snow for the practice of board sports."
+      },
+      {
+        "id": 10,
+        "question": "What sport is practiced on the ice with heavy polished granite stones ?",
+        "propositions": [
+          "Skeleton",
+          "Bobsleigh",
+          "Curling",
+          "Luge"
+        ],
+        "réponse": "Curling",
+        "anecdote": "The goal of curling is to place the stones as close as possible to a circular target drawn on the ice, called the house."
+      }
+    ],
+    "confirmé": [
+      {
+        "id": 11,
+        "question": "What name is given to the part located at the front of a ski binding ?",
+        "propositions": [
+          "Goal",
+          "Spring",
+          "Heel",
+          "Télémark"
+        ],
+        "réponse": "Goal",
+        "anecdote": "The binding is a component able to withstand the sudden jolts of the ski while being able to relax in case of fall."
+      },
+      {
+        "id": 12,
+        "question": "Which maps allow you to find yourself in the mountains during hikes ?",
+        "propositions": [
+          "APK",
+          "DKV",
+          "IGN",
+          "PMU"
+        ],
+        "réponse": "IGN",
+        "anecdote": "The IGN was created by decree in 1940 (signed by Albert Lebrun and Philippe Pétain) and succeeded the Geographical Service of the Army."
+      },
+      {
+        "id": 13,
+        "question": "By what bright color do the grooming machines signal their presence ?",
+        "propositions": [
+          "Green",
+          "Orange",
+          "Mauve",
+          "Blue"
+        ],
+        "réponse": "Orange",
+        "anecdote": "The terms resurfacer and surfacer refer to the vehicles used to rework the ice surfaces."
+      },
+      {
+        "id": 14,
+        "question": "Which of these cheeses is not necessary for the creation of a Savoyard fondue ?",
+        "propositions": [
+          "Beaufort",
+          "Emmental",
+          "County",
+          "Roquefort"
+        ],
+        "réponse": "Roquefort",
+        "anecdote": "Some variations of the recipe allow the addition of a small amount of cherry alcohol (kirsch) to enhance the taste."
+      },
+      {
+        "id": 15,
+        "question": "What substance is used to get a perfect glide of his skis ?",
+        "propositions": [
+          "Cérumen",
+          "Fart",
+          "Jojoba",
+          "Paraffin"
+        ],
+        "réponse": "Fart",
+        "anecdote": "Overall, there are two main categories of this specific coating: glide wax and wax retaining."
+      },
+      {
+        "id": 16,
+        "question": "What is the maximum slope percentage that a blue track can have ?",
+        "propositions": [
+          "25%",
+          "45%",
+          "15%",
+          "35%"
+        ],
+        "réponse": "25%",
+        "anecdote": "The ungroomed tracks, called Skiroute, are for their part indicated by a rhombus generally of red color."
+      },
+      {
+        "id": 17,
+        "question": "Which Guillaume Tell ski resort would have particularly appreciated ?",
+        "propositions": [
+          "Medley",
+          "Les Arcs",
+          "Tignes",
+          "La Plagne"
+        ],
+        "réponse": "Les Arcs",
+        "anecdote": "The villages-villages of Les Arcs (Arc 1600, Arc 1800 and Arc 2000) are so-called third generation integrated stations."
+      },
+      {
+        "id": 18,
+        "question": "What technique is used to climb a gentle slope without a mechanical lift ?",
+        "propositions": [
+          "Mounted in zebra",
+          "Mounted in duck",
+          "Mounted in rabbit",
+          "Mounted in bears"
+        ],
+        "réponse": "Mounted in duck",
+        "anecdote": "Although designed to hoist skiers up the mountain, lifts can also be used downhill."
+      },
+      {
+        "id": 19,
+        "question": "In which country is the popular ski resort of Innsbruck located ?",
+        "propositions": [
+          "Austria",
+          "Germany",
+          "Switzerland",
+          "France"
+        ],
+        "réponse": "Austria",
+        "anecdote": "Innsbruck has a very high standard of living, like the rest of the Austrian Alps, with a GDP of 75,000 dollars per year and per capita."
+      },
+      {
+        "id": 20,
+        "question": "What is the characteristic shape of ski downhill ?",
+        "propositions": [
+          "In T",
+          "In V",
+          "In U",
+          "In S"
+        ],
+        "réponse": "In S",
+        "anecdote": "Because of the danger of the downhill race, skiers must train several times on the course before the race."
+      }
+    ],
+    "expert": [
+      {
+        "id": 21,
+        "question": "Which French station is considered the cradle of Nordic skiing ?",
+        "propositions": [
+          "Autrans",
+          "Les Arcs",
+          "Isola 2000",
+          "Chamrousse"
+        ],
+        "réponse": "Autrans",
+        "anecdote": "Nordic skiing refers to several Scandinavian-inspired ski disciplines related to Nordic activities."
+      },
+      {
+        "id": 22,
+        "question": "In which country can you use the large Courmayeur ski area ?",
+        "propositions": [
+          "Italy",
+          "Austria",
+          "France",
+          "Switzerland"
+        ],
+        "réponse": "Italy",
+        "anecdote": "The winter operating season of Courmayeur generally starts in early December, and ends in mid-April."
+      },
+      {
+        "id": 23,
+        "question": "What kind of skier can we sometimes see tackling ?",
+        "propositions": [
+          "Freestyler",
+          "Tracker",
+          "Teleporter",
+          "Snowboarder"
+        ],
+        "réponse": "Teleporter",
+        "anecdote": "This is one of the oldest ski techniques invented by a carpenter from Telemark County in Norway, Sondre Norheim."
+      },
+      {
+        "id": 24,
+        "question": "On snow, which sensitivity ISO is best suited for photography ?",
+        "propositions": [
+          "400 ISO",
+          "800 ISO",
+          "100 ISO",
+          "ISO 200"
+        ],
+        "réponse": "100 ISO",
+        "anecdote": "In photography, ISO sensitivity is the measure of the light sensitivity of films and digital sensors."
+      },
+      {
+        "id": 25,
+        "question": "How many levels does the avalanche scale have ?",
+        "propositions": [
+          "Six",
+          "Seven",
+          "Eight",
+          "Five"
+        ],
+        "réponse": "Five",
+        "anecdote": "The five levels composing the scale chart are: very weak, weak, medium, high (XL) and exceptional (XXL)."
+      },
+      {
+        "id": 26,
+        "question": "In which French station can you ski on a long track of 22 km ?",
+        "propositions": [
+          "Alpe d'Huez",
+          "Grenoble",
+          "Autrans",
+          "Chamrousse"
+        ],
+        "réponse": "Alpe d'Huez",
+        "anecdote": "Alpe d'Huez has 135 marked trails including 42 green, 37 blue, 39 red and 17 black, but also 2 snowparks."
+      },
+      {
+        "id": 27,
+        "question": "What is the name of the space between two skis placed side by side ?",
+        "propositions": [
+          "Half-pipe",
+          "Stem",
+          "Cambre",
+          "Télémark"
+        ],
+        "réponse": "Cambre",
+        "anecdote": "The camber varies much more freeride or off-piste skiing, declining alpine skiing approaching the ski touring."
+      },
+      {
+        "id": 28,
+        "question": "What is the difference between a telehandler and a fixed gripper ?",
+        "propositions": [
+          "Material",
+          "Comfort",
+          "Speed",
+          "Color"
+        ],
+        "réponse": "Speed",
+        "anecdote": "A seat suspended on a fixed clamp is still running at the same speed, while a decelerating seat is idling at the entrance to the station."
+      },
+      {
+        "id": 29,
+        "question": "In which station can we see Mont-Blanc on one side and the Mediterranean on the other ?",
+        "propositions": [
+          "Isola 2000",
+          "Les Arcs",
+          "Chamrousse",
+          "Autrans"
+        ],
+        "réponse": "Isola 2000",
+        "anecdote": "This winter sports resort is named because of its average altitude which is about 2 000 meters."
+      },
+      {
+        "id": 30,
+        "question": "What downhill sport is practiced on a machine equipped with a handlebar ?",
+        "propositions": [
+          "Snowscoot",
+          "Speed riding",
+          "Télémark",
+          "Snowkite"
+        ],
+        "réponse": "Snowscoot",
+        "anecdote": "This winter sport, born in the 1990s and inspired by BMX, is practiced by sliding on the snow with the help of a handlebar."
+      }
+      ]
+      }
+    ],
+    "de": [
+    {
+      "débutant": [
+      {
+        "id": 1,
+        "question": "Wie ist der Schwierigkeitsgrad einer grünen Spur beim Skifahren ?",
+        "propositions": [
+          "Einfach",
+          "Mittel",
+          "Sehr schwierig",
+          "Schwer"
+        ],
+        "réponse": "Einfach",
+        "anecdote": "Die Spurfarben werden basierend auf Neigung, Länge, Breite sowie Sonnen- und Windeinwirkung zugewiesen."
+      },
+      {
+        "id": 2,
+        "question": "Was ist neben den Füßen die einfachste Möglichkeit, sich mit Skiern zu bewegen ?",
+        "propositions": [
+          "Auf dem Kopf",
+          "Hinten",
+          "Auf der Schulter",
+          "Unter dem Arm"
+        ],
+        "réponse": "Auf der Schulter",
+        "anecdote": "Bindungen, Schuhe und Kleidung profitieren von dem spektakulären Aufstieg der Materialien über sechzig Jahre."
+      },
+      {
+        "id": 3,
+        "question": "Was ist nach einem Skitag der Hauptbestandteil des Savoyard Fondue ?",
+        "propositions": [
+          "Fleisch",
+          "Bacon",
+          "Wurst",
+          "Käse"
+        ],
+        "réponse": "Käse",
+        "anecdote": "Savoyard Fondue hat sich mit dem Aufstieg des Wintersports und des alpinen Tourismus zu einem beliebten Kochrezept in Frankreich entwickelt."
+      },
+      {
+        "id": 4,
+        "question": "Welchen anderen, bekannteren Namen geben wir manchmal dem Ski, der Sie auf die Piste bringt ?",
+        "propositions": [
+          "Armkrawatte",
+          "Fußstütze",
+          "Puzzle",
+          "Gesäß"
+        ],
+        "réponse": "Gesäß",
+        "anecdote": "Das Prinzip des Stoßes besteht darin, zwischen den Beinen eine Vorrichtung (Ausleger oder Haspel) durchzulassen, die im Allgemeinen durch eine Unterlegscheibe abgeschlossen wird."
+      },
+      {
+        "id": 5,
+        "question": "Welche dieser Farben lässt die Schwierigkeit einer Skipiste nicht erkennen ?",
+        "propositions": [
+          "Blau",
+          "Grün",
+          "Malvenfarben",
+          "Rot"
+        ],
+        "réponse": "Malvenfarben",
+        "anecdote": "Kein Standard definiert jedoch, wie den Pisten die Farben zugeordnet werden, da die Wahl den Bedienern überlassen bleibt."
+      },
+      {
+        "id": 6,
+        "question": "Was ist nötig, um mechanische Aufzüge zu benutzen ?",
+        "propositions": [
+          "Schulranzen",
+          "Mütze",
+          "Fußabdruck",
+          "Paket"
+        ],
+        "réponse": "Paket",
+        "anecdote": "Der Preis beinhaltet oft ein gemeinsames Paket von einem Tag bis zu einer Woche in Skigebieten zum Skifahren."
+      },
+      {
+        "id": 7,
+        "question": "Was wirst du für eine Wanderung auf weichem Schnee tragen ?",
+        "propositions": [
+          "Schläger",
+          "Stiefel",
+          "Rollen",
+          "Espadrilles"
+        ],
+        "réponse": "Schläger",
+        "anecdote": "Der unter dem Laufschuh befestigte Schläger vergrößert die Kontaktfläche mit dem Schnee und lässt oft nicht sinken."
+      },
+      {
+        "id": 8,
+        "question": "In welcher Art von Schnee steckt der Monoski ?",
+        "propositions": [
+          "Nass",
+          "Schwarz",
+          "In Körnern",
+          "Pulver"
+        ],
+        "réponse": "Pulver",
+        "anecdote": "Der Monoski wird im Freeride- und Hochgebirge noch immer auf hohem Niveau geübt und ist weiterhin Skifahren und Snowboarden."
+      },
+      {
+        "id": 9,
+        "question": "Was machen wir auf der Skipiste zwischen 17 und 9 Uhr ?",
+        "propositions": [
+          "Schaden",
+          "Anlegen",
+          "Trocknung",
+          "Streuen"
+        ],
+        "réponse": "Schaden",
+        "anecdote": "Ein Pistenfahrzeug ist ein Raupenfahrzeug, das entwickelt wurde, um die Schneequalität beim Brettsport zu verbessern."
+      },
+      {
+        "id": 10,
+        "question": "Welcher Sport wird mit schweren polierten Granitsteinen auf dem Eis ausgeübt ?",
+        "propositions": [
+          "Curling",
+          "Bobfahren",
+          "Rennrodel",
+          "Skelett"
+        ],
+        "réponse": "Curling",
+        "anecdote": "Das Ziel des Curlings ist es, die Steine so nahe wie möglich an einem kreisförmigen Ziel zu platzieren, das auf dem Eis, dem Haus, genannt wird."
+      }
+    ],
+    "confirmé": [
+      {
+        "id": 11,
+        "question": "Wie heißt das Teil, das sich an der Vorderseite einer Skibindung befindet ?",
+        "propositions": [
+          "Ziel",
+          "Frühling",
+          "Télémark",
+          "Ferse"
+        ],
+        "réponse": "Ziel",
+        "anecdote": "Die Bindung ist eine Komponente, die den plötzlichen Stößen des Skis standhält und sich im Fall eines Sturzes entspannen kann."
+      },
+      {
+        "id": 12,
+        "question": "Mit welchen Karten können Sie sich bei Wanderungen in den Bergen finden ?",
+        "propositions": [
+          "IGN",
+          "DKV",
+          "PMU",
+          "APK"
+        ],
+        "réponse": "IGN",
+        "anecdote": "Die IGN wurde 1940 per Dekret gegründet (unterzeichnet von Albert Lebrun und Philippe Pétain) und war Nachfolger des geographischen Dienstes der Armee."
+      },
+      {
+        "id": 13,
+        "question": "Durch welche helle Farbe signalisieren die Putzmaschinen ihre Anwesenheit ?",
+        "propositions": [
+          "Blau",
+          "Grün",
+          "Malvenfarben",
+          "Orange"
+        ],
+        "réponse": "Orange",
+        "anecdote": "Die Begriffe Resurfacer und Surfacer beziehen sich auf die Fahrzeuge, mit denen die Eisoberflächen bearbeitet werden."
+      },
+      {
+        "id": 14,
+        "question": "Welcher dieser Käsesorten ist für die Schaffung eines Savoyard-Fondues nicht erforderlich ?",
+        "propositions": [
+          "Grafschaft",
+          "Emmental",
+          "Beaufort",
+          "Roquefort"
+        ],
+        "réponse": "Roquefort",
+        "anecdote": "Einige Variationen des Rezepts erlauben die Zugabe einer kleinen Menge Kirschalkohol (Kirsch), um den Geschmack zu verbessern."
+      },
+      {
+        "id": 15,
+        "question": "Welche Substanz wird verwendet, um die Ski perfekt zu gleiten ?",
+        "propositions": [
+          "Paraffin",
+          "Jojoba",
+          "Furz",
+          "Cérumen"
+        ],
+        "réponse": "Furz",
+        "anecdote": "Insgesamt gibt es zwei Hauptkategorien dieser spezifischen Beschichtung: Gleitwachs und Wachsrückhaltung."
+      },
+      {
+        "id": 16,
+        "question": "Was ist der maximale Steigungsprozentsatz, den eine blaue Spur haben kann ?",
+        "propositions": [
+          "35%",
+          "15%",
+          "45%",
+          "25%"
+        ],
+        "réponse": "25%",
+        "anecdote": "Die unbesäumten Spuren, die als Skiroute bezeichnet werden, sind ihrerseits durch eine im Allgemeinen rote Farbe dargestellt."
+      },
+      {
+        "id": 17,
+        "question": "Welches Skigebiet hätte Guillaume Tell besonders geschätzt ?",
+        "propositions": [
+          "La Plagne",
+          "Tignes",
+          "Les Arcs",
+          "Medley"
+        ],
+        "réponse": "Les Arcs",
+        "anecdote": "Die Dörfer-Dörfer von Les Arcs (Arc 1600, Arc 1800 und Arc 2000) sind sogenannte integrierte Stationen der dritten Generation."
+      },
+      {
+        "id": 18,
+        "question": "Welche Technik wird verwendet, um einen sanften Hang ohne mechanischen Aufzug zu befahren ?",
+        "propositions": [
+          "In Bären montiert",
+          "Montiert in kaninchen",
+          "In Ente montiert",
+          "Montiert in zebra"
+        ],
+        "réponse": "In Ente montiert",
+        "anecdote": "Obwohl Skifahrer den Berg hochfahren sollen, können Lifte auch bergab benutzt werden."
+      },
+      {
+        "id": 19,
+        "question": "In welchem Land liegt das beliebte Skigebiet von Innsbruck ?",
+        "propositions": [
+          "Frankreich",
+          "Schweiz",
+          "Österreich",
+          "Deutschland"
+        ],
+        "réponse": "Österreich",
+        "anecdote": "Innsbruck hat wie der Rest der österreichischen Alpen einen sehr hohen Lebensstandard mit einem BIP von 75."
+      },
+      {
+        "id": 20,
+        "question": "Was ist die charakteristische Form der Abfahrt ?",
+        "propositions": [
+          "In T",
+          "In V",
+          "In U",
+          "In S"
+        ],
+        "réponse": "In S",
+        "anecdote": "Wegen der Gefahr des Downhill-Rennens müssen Skifahrer vor dem Rennen mehrmals auf der Strecke trainieren."
+      }
+    ],
+    "expert": [
+      {
+        "id": 21,
+        "question": "Welche französische Station gilt als Wiege des nordischen Skisports ?",
+        "propositions": [
+          "Isola 2000",
+          "Les Arcs",
+          "Autrans",
+          "Chamrousse"
+        ],
+        "réponse": "Autrans",
+        "anecdote": "Unter nordischem Skilauf versteht man mehrere skandinavisch inspirierte Skisportarten im Zusammenhang mit nordischen Aktivitäten."
+      },
+      {
+        "id": 22,
+        "question": "In welchem Land können Sie das große Skigebiet von Courmayeur nutzen ?",
+        "propositions": [
+          "Schweiz",
+          "Österreich",
+          "Italien",
+          "Frankreich"
+        ],
+        "réponse": "Italien",
+        "anecdote": "Die Wintersaison von Courmayeur beginnt in der Regel Anfang Dezember und endet Mitte April."
+      },
+      {
+        "id": 23,
+        "question": "Welche Art von Skifahrer können wir manchmal sehen ?",
+        "propositions": [
+          "Snowboarder",
+          "Freestyler",
+          "Tracker",
+          "Teleporter"
+        ],
+        "réponse": "Teleporter",
+        "anecdote": "Dies ist eine der ältesten Skitechniken, die von einem Schreiner aus dem norwegischen Telemark, Sondre Norheim, erfunden wurde."
+      },
+      {
+        "id": 24,
+        "question": "Welche Empfindlichkeit ist im Schnee am besten für die Fotografie geeignet ?",
+        "propositions": [
+          "ISO 200",
+          "800 ISO",
+          "100 ISO",
+          "400 ISO"
+        ],
+        "réponse": "100 ISO",
+        "anecdote": "In der Fotografie ist die ISO-Empfindlichkeit das Maß für die Lichtempfindlichkeit von Filmen und digitalen Sensoren."
+      },
+      {
+        "id": 25,
+        "question": "Wie viele Ebenen hat die Lawinenskala ?",
+        "propositions": [
+          "Acht",
+          "Fünf",
+          "Sieben",
+          "Sechs"
+        ],
+        "réponse": "Fünf",
+        "anecdote": "Die fünf Stufen, aus denen das Skalendiagramm besteht, sind: sehr schwach, schwach, mittel, hoch (XL) und außergewöhnlich (XXL)."
+      },
+      {
+        "id": 26,
+        "question": "In welcher französischen Station können Sie auf einer langen Strecke von 22 km Ski fahren ?",
+        "propositions": [
+          "Autrans",
+          "Grenoble",
+          "Alpe d'Huez",
+          "Chamrousse"
+        ],
+        "réponse": "Alpe d'Huez",
+        "anecdote": "Alpe d'Huez verfügt über 135 markierte Wege, darunter 42 grüne, 37 blaue, 39 rote und 17 schwarze, aber auch 2 Snowparks."
+      },
+      {
+        "id": 27,
+        "question": "Wie heißt der Raum zwischen zwei nebeneinander angeordneten Skiern ?",
+        "propositions": [
+          "Télémark",
+          "Halfpipe",
+          "Stamm",
+          "Cambre"
+        ],
+        "réponse": "Cambre",
+        "anecdote": "Der Camber variiert viel mehr Freeride- oder Off-Piste-Skifahren, wobei sich der alpine Skilauf dem Skitourengehen nähert."
+      },
+      {
+        "id": 28,
+        "question": "Was ist der Unterschied zwischen einem Teleskoplader und einem festen Greifer ?",
+        "propositions": [
+          "Material",
+          "Farbe",
+          "Komfort",
+          "Geschwindigkeit"
+        ],
+        "réponse": "Geschwindigkeit",
+        "anecdote": "Ein an einer feststehenden Klemme aufgehängter Sitz läuft immer noch mit der gleichen Geschwindigkeit, während ein langsamer Sitz am Eingang der Station leerläuft."
+      },
+      {
+        "id": 29,
+        "question": "In welcher Station können wir Mont-Blanc auf der einen Seite und das Mittelmeer auf der anderen Seite sehen ?",
+        "propositions": [
+          "Isola 2000",
+          "Autrans",
+          "Les Arcs",
+          "Chamrousse"
+        ],
+        "réponse": "Isola 2000",
+        "anecdote": "Dieser Wintersportort ist aufgrund seiner durchschnittlichen Höhe von etwa 2 000 Metern benannt."
+      },
+      {
+        "id": 30,
+        "question": "Welcher Downhill-Sport wird an einer Maschine mit Lenker betrieben ?",
+        "propositions": [
+          "Schneescooter",
+          "Télémark",
+          "Geschwindigkeitsreiten",
+          "Snowkite"
+        ],
+        "réponse": "Schneescooter",
+        "anecdote": "Diese Wintersportart, die in den 1990er Jahren geboren wurde und vom BMX inspiriert wurde, wird mit dem Lenker auf dem Schnee gleitend trainiert."
+      }
+      ]
+      }
+    ],
+    "es": [
+    {
+      "débutant": [
+      {
+        "id": 1,
+        "question": "En el esquí, ¿cuál es el nivel de dificultad asociado con una pista verde ?",
+        "propositions": [
+          "Fácil",
+          "Dificil",
+          "Muy dificil",
+          "Medio"
+        ],
+        "réponse": "Fácil",
+        "anecdote": "Los colores de la pista se asignan según la pendiente, la longitud, el ancho y la exposición al sol y al viento."
+      },
+      {
+        "id": 2,
+        "question": "Aparte de los pies, ¿cuál es la forma más fácil de moverse con los esquís ?",
+        "propositions": [
+          "En el hombro",
+          "En la cabeza",
+          "En la espalda",
+          "Debajo del brazo"
+        ],
+        "réponse": "En el hombro",
+        "anecdote": "El conjunto de encuadernaciones, zapatos y ropa se benefician del espectacular aumento de los materiales durante sesenta años."
+      },
+      {
+        "id": 3,
+        "question": "Después de un día de esquí, ¿cuál es el ingrediente principal de la fondue de Saboya ?",
+        "propositions": [
+          "Tocino",
+          "Carne",
+          "Salchicha",
+          "Queso"
+        ],
+        "réponse": "Queso",
+        "anecdote": "La fondue de Saboya se ha convertido en una receta de cocina popular en Francia con el auge de los deportes de invierno y el turismo alpino."
+      },
+      {
+        "id": 4,
+        "question": "¿Qué otro nombre más familiar le damos al esquí que te lleva a la cima de las pistas ?",
+        "propositions": [
+          "Lazo del brazo",
+          "Rompecabezas",
+          "Reposapiés",
+          "Glúteos"
+        ],
+        "réponse": "Glúteos",
+        "anecdote": "El principio de la culata es pasar entre las piernas un dispositivo (pluma o carrete) generalmente terminado por una arandela."
+      },
+      {
+        "id": 5,
+        "question": "¿Cuál de estos colores no permite conocer la dificultad de una pista de esquí ?",
+        "propositions": [
+          "Rojo",
+          "Azul",
+          "Malva",
+          "Verde"
+        ],
+        "réponse": "Malva",
+        "anecdote": "Sin embargo, ninguna norma define cómo se asignan los colores a las pistas de esquí, ya que la elección se deja a los operadores."
+      },
+      {
+        "id": 6,
+        "question": "¿Qué se necesita para usar elevadores mecánicos ?",
+        "propositions": [
+          "Satchel",
+          "Paquete",
+          "Huella",
+          "Bonnet"
+        ],
+        "réponse": "Paquete",
+        "anecdote": "El precio a menudo incluye un paquete común que va desde un día hasta una semana en estaciones de esquí para esquí alpino."
+      },
+      {
+        "id": 7,
+        "question": "¿Qué te pondrás para una caminata sobre nieve blanda ?",
+        "propositions": [
+          "Raquetas",
+          "Botas",
+          "Alpargatas",
+          "Rodillos"
+        ],
+        "réponse": "Raquetas",
+        "anecdote": "La raqueta, fija debajo del zapato para caminar, aumenta la superficie de contacto con la nieve y, a menudo, permite que no se hunda."
+      },
+      {
+        "id": 8,
+        "question": "Aparte de las protuberancias, ¿en qué tipo de nieve está el monoski ?",
+        "propositions": [
+          "En granos",
+          "Polvo",
+          "Negro",
+          "Mojado"
+        ],
+        "réponse": "Polvo",
+        "anecdote": "El monoski todavía se practica a alto nivel en freeride y alta montaña y aún rivaliza con el esquí y el snowboard."
+      },
+      {
+        "id": 9,
+        "question": "¿Qué estamos haciendo en las pistas de esquí entre las 5 pm y las 9 am ?",
+        "propositions": [
+          "Daños",
+          "Rociado",
+          "Secado",
+          "Amarre"
+        ],
+        "réponse": "Daños",
+        "anecdote": "Un peluquero de nieve es un vehículo sobre orugas diseñado para mejorar la calidad de la nieve para la práctica de deportes de tabla."
+      },
+      {
+        "id": 10,
+        "question": "¿Qué deporte se practica en el hielo con pesadas piedras de granito pulidas ?",
+        "propositions": [
+          "Luge",
+          "Curling",
+          "Esqueleto",
+          "Bobsleigh"
+        ],
+        "réponse": "Curling",
+        "anecdote": "El objetivo del rizado es colocar las piedras lo más cerca posible de un objetivo circular dibujado en el hielo, llamado la casa."
+      }
+    ],
+    "confirmé": [
+      {
+        "id": 11,
+        "question": "¿Qué nombre se le da a la parte ubicada en la parte delantera de una fijación de esquí ?",
+        "propositions": [
+          "Télémark",
+          "Primavera",
+          "Tacón",
+          "Meta"
+        ],
+        "réponse": "Meta",
+        "anecdote": "La fijación es un componente capaz de resistir las repentinas sacudidas del esquí mientras se relaja en caso de caída."
+      },
+      {
+        "id": 12,
+        "question": "¿Qué mapas te permiten encontrarte en las montañas durante las caminatas ?",
+        "propositions": [
+          "IGN",
+          "APK",
+          "DKV",
+          "PMU"
+        ],
+        "réponse": "IGN",
+        "anecdote": "El IGN fue creado por decreto en 1940 (firmado por Albert Lebrun y Philippe Painain) y sucedió al Servicio Geográfico del Ejército."
+      },
+      {
+        "id": 13,
+        "question": "¿Por qué color brillante señalan su presencia las máquinas de aseo ?",
+        "propositions": [
+          "Naranja",
+          "Verde",
+          "Malva",
+          "Azul"
+        ],
+        "réponse": "Naranja",
+        "anecdote": "Los términos resurfacer y surfacer se refieren a los vehículos utilizados para volver a trabajar las superficies de hielo."
+      },
+      {
+        "id": 14,
+        "question": "¿Cuál de estos quesos no es necesario para la creación de una fondue de Saboya ?",
+        "propositions": [
+          "Emmental",
+          "Roquefort",
+          "Beaufort",
+          "Condado"
+        ],
+        "réponse": "Roquefort",
+        "anecdote": "Algunas variaciones de la receta permiten agregar una pequeña cantidad de alcohol de cereza (kirsch) para mejorar el sabor."
+      },
+      {
+        "id": 15,
+        "question": "¿Qué sustancia se usa para obtener un deslizamiento perfecto de sus esquís ?",
+        "propositions": [
+          "Jojoba",
+          "Cérumen",
+          "Pedo",
+          "Parafina"
+        ],
+        "réponse": "Pedo",
+        "anecdote": "En general, hay dos categorías principales de este recubrimiento específico: cera deslizante y retención de cera."
+      },
+      {
+        "id": 16,
+        "question": "¿Cuál es el porcentaje máximo de pendiente que puede tener una pista azul ?",
+        "propositions": [
+          "45%",
+          "15%",
+          "35%",
+          "25%"
+        ],
+        "réponse": "25%",
+        "anecdote": "Las pistas sin aplanar, llamadas Skiroute, son por su parte indicadas por un rombo generalmente de color rojo."
+      },
+      {
+        "id": 17,
+        "question": "¿Qué estación de esquí de Guillaume Tell hubiera apreciado especialmente ?",
+        "propositions": [
+          "La Plagne",
+          "Medley",
+          "Tignes",
+          "Les Arcs"
+        ],
+        "réponse": "Les Arcs",
+        "anecdote": "Las aldeas y pueblos de Les Arcs (Arc 1600, Arc 1800 y Arc 2000) son las llamadas estaciones integradas de tercera generación."
+      },
+      {
+        "id": 18,
+        "question": "¿Qué técnica se utiliza para subir una pendiente suave sin un levantamiento mecánico ?",
+        "propositions": [
+          "Montado en cebra",
+          "Montado en conejo",
+          "Montado en osos",
+          "Montado en pato"
+        ],
+        "réponse": "Montado en pato",
+        "anecdote": "Aunque están diseñados para levantar esquiadores en la montaña, los ascensores también se pueden usar cuesta abajo."
+      },
+      {
+        "id": 19,
+        "question": "¿En qué país se encuentra la popular estación de esquí de Innsbruck ?",
+        "propositions": [
+          "Austria",
+          "Suiza",
+          "Francia",
+          "Alemania"
+        ],
+        "réponse": "Austria",
+        "anecdote": "Innsbruck tiene un nivel de vida muy alto, como el resto de los Alpes austriacos, con un PIB de 75,000 dólares por año y per cápita."
+      },
+      {
+        "id": 20,
+        "question": "¿Cuál es la forma característica del esquí cuesta abajo ?",
+        "propositions": [
+          "En v",
+          "En u",
+          "En s",
+          "En t"
+        ],
+        "réponse": "En s",
+        "anecdote": "Debido al peligro de la carrera cuesta abajo, los esquiadores deben entrenar varias veces en el campo antes de la carrera."
+      }
+    ],
+    "expert": [
+      {
+        "id": 21,
+        "question": "¿Qué estación francesa es considerada la cuna del esquí nórdico ?",
+        "propositions": [
+          "Isola 2000",
+          "Les Arcs",
+          "Autrans",
+          "Chamrousse"
+        ],
+        "réponse": "Autrans",
+        "anecdote": "El esquí nórdico se refiere a varias disciplinas de esquí de inspiración escandinava relacionadas con las actividades nórdicas."
+      },
+      {
+        "id": 22,
+        "question": "¿En qué país se puede utilizar la gran zona de esquí de Courmayeur ?",
+        "propositions": [
+          "Italia",
+          "Francia",
+          "Austria",
+          "Suiza"
+        ],
+        "réponse": "Italia",
+        "anecdote": "La temporada de operaciones de invierno de Courmayeur generalmente comienza a principios de diciembre y termina a mediados de abril."
+      },
+      {
+        "id": 23,
+        "question": "¿Qué tipo de esquiador podemos ver a veces abordando ?",
+        "propositions": [
+          "Freestyler",
+          "Teletransportador",
+          "Rastreador",
+          "Snowboarder"
+        ],
+        "réponse": "Teletransportador",
+        "anecdote": "Esta es una de las técnicas de esquí más antiguas inventadas por un carpintero del condado de Telemark en Noruega, Sondre Norheim."
+      },
+      {
+        "id": 24,
+        "question": "En la nieve, ¿qué sensibilidad ISO es la más adecuada para la fotografía ?",
+        "propositions": [
+          "ISO 200",
+          "800 ISO",
+          "400 ISO",
+          "100 ISO"
+        ],
+        "réponse": "100 ISO",
+        "anecdote": "En fotografía, la sensibilidad ISO es la medida de la sensibilidad a la luz de películas y sensores digitales."
+      },
+      {
+        "id": 25,
+        "question": "¿Cuántos niveles tiene la escala de avalancha ?",
+        "propositions": [
+          "Seis",
+          "Cinco",
+          "Ocho",
+          "Siete"
+        ],
+        "réponse": "Cinco",
+        "anecdote": "Los cinco niveles que componen el gráfico de escala son: muy débil, débil, medio, alto (XL) y excepcional (XXL)."
+      },
+      {
+        "id": 26,
+        "question": "¿En qué estación francesa se puede esquiar en una larga pista de 22 km ?",
+        "propositions": [
+          "Chamrousse",
+          "Alpe d'Huez",
+          "Autrans",
+          "Grenoble"
+        ],
+        "réponse": "Alpe d'Huez",
+        "anecdote": "Alpe d'Huez tiene 135 senderos marcados que incluyen 42 verdes, 37 azules, 39 rojos y 17 negros, pero también 2 snowparks."
+      },
+      {
+        "id": 27,
+        "question": "¿Cuál es el nombre del espacio entre dos esquís colocados lado a lado ?",
+        "propositions": [
+          "Medio tubo",
+          "Cambre",
+          "Tallo",
+          "Télémark"
+        ],
+        "réponse": "Cambre",
+        "anecdote": "La comba varía mucho más el freeride o el esquí fuera de pista, disminuyendo el esquí alpino que se aproxima al esquí de montaña."
+      },
+      {
+        "id": 28,
+        "question": "¿Cuál es la diferencia entre un manipulador telescópico y una pinza fija ?",
+        "propositions": [
+          "Color",
+          "Material",
+          "Comodidad",
+          "Velocidad"
+        ],
+        "réponse": "Velocidad",
+        "anecdote": "Un asiento suspendido en una abrazadera fija aún funciona a la misma velocidad, mientras que un asiento desacelerado está inactivo en la entrada de la estación."
+      },
+      {
+        "id": 29,
+        "question": "¿En qué estación podemos ver Mont-Blanc por un lado y el Mediterráneo por el otro ?",
+        "propositions": [
+          "Chamrousse",
+          "Autrans",
+          "Les Arcs",
+          "Isola 2000"
+        ],
+        "réponse": "Isola 2000",
+        "anecdote": "Este complejo de deportes de invierno lleva su nombre debido a su altitud media, que es de unos 2 000 metros."
+      },
+      {
+        "id": 30,
+        "question": "¿Qué deporte de descenso se practica en una máquina equipada con un manillar ?",
+        "propositions": [
+          "Snowkite",
+          "Snowscoot",
+          "Télémark",
+          "Velocidad de conducción"
+        ],
+        "réponse": "Snowscoot",
+        "anecdote": "Este deporte de invierno, nacido en los años 90 e inspirado en el BMX, se practica deslizándose sobre la nieve con la ayuda de un manillar."
+      }
+      ]
+      }
+    ],
+    "it": [
+    {
+      "débutant": [
+      {
+        "id": 1,
+        "question": "Nello sci, qual è il livello di difficoltà associato a una pista verde ?",
+        "propositions": [
+          "Molto difficile",
+          "Facile",
+          "Difficile",
+          "Medio"
+        ],
+        "réponse": "Facile",
+        "anecdote": "I colori traccia vengono assegnati in base alla pendenza, alla lunghezza, alla larghezza e all'esposizione al sole e al vento."
+      },
+      {
+        "id": 2,
+        "question": "Oltre ai piedi, qual è il modo più semplice per spostarsi con gli sci ?",
+        "propositions": [
+          "Sulla testa",
+          "Nella parte posteriore",
+          "Sotto il braccio",
+          "Sulla spalla"
+        ],
+        "réponse": "Sulla spalla",
+        "anecdote": "Il set di rilegature, scarpe e vestiti beneficiano della spettacolare crescita dei materiali per sessant'anni."
+      },
+      {
+        "id": 3,
+        "question": "Dopo una giornata di sci, qual è l'ingrediente principale della fonduta savoiarda ?",
+        "propositions": [
+          "Carne",
+          "Formaggio",
+          "Bacon",
+          "Salsiccia"
+        ],
+        "réponse": "Formaggio",
+        "anecdote": "La fonduta savoiarda è diventata una ricetta di cucina popolare in Francia con l'aumento degli sport invernali e del turismo alpino."
+      },
+      {
+        "id": 4,
+        "question": "Quale altro nome, più familiare, a volte diamo allo sci che ti porta in cima alle piste ?",
+        "propositions": [
+          "Cravatta a braccia",
+          "Poggiapiedi",
+          "Natiche",
+          "Puzzle"
+        ],
+        "réponse": "Natiche",
+        "anecdote": "Il principio del calcio è di passare tra le gambe un dispositivo (braccio o bobina) generalmente terminato da una rondella."
+      },
+      {
+        "id": 5,
+        "question": "Quale di questi colori non consente di conoscere la difficoltà di una pista da sci ?",
+        "propositions": [
+          "Malva",
+          "Blu",
+          "Verde",
+          "Rosso"
+        ],
+        "réponse": "Malva",
+        "anecdote": "Tuttavia, nessuno standard definisce come vengono assegnati i colori alle piste da sci, poiché la scelta è lasciata agli operatori."
+      },
+      {
+        "id": 6,
+        "question": "Cosa è necessario per utilizzare i sollevatori meccanici ?",
+        "propositions": [
+          "Bonnet",
+          "Cartella",
+          "Impronta",
+          "Pacchetto"
+        ],
+        "réponse": "Pacchetto",
+        "anecdote": "Il prezzo include spesso un pacchetto comune che va da un giorno ad una settimana nelle stazioni sciistiche per lo sci alpino."
+      },
+      {
+        "id": 7,
+        "question": "Cosa indosserai per un'escursione sulla neve soffice ?",
+        "propositions": [
+          "Espadrillas",
+          "Stivali",
+          "Racchette",
+          "Rulli"
+        ],
+        "réponse": "Racchette",
+        "anecdote": "La racchetta, fissata sotto la scarpa da camminata, aumenta la superficie di contatto con la neve e spesso consente di non affondare."
+      },
+      {
+        "id": 8,
+        "question": "A parte i colpi, in che tipo di neve c'è il monosci ?",
+        "propositions": [
+          "Polvere",
+          "Bagnato",
+          "Nero",
+          "In grani"
+        ],
+        "réponse": "Polvere",
+        "anecdote": "Il monosci è ancora praticato ad alto livello nel freeride e in alta montagna e continua a competere con lo sci e lo snowboard."
+      },
+      {
+        "id": 9,
+        "question": "Cosa stiamo facendo sulle piste da sci tra le 17:00 e le 9:00 ?",
+        "propositions": [
+          "Essiccazione",
+          "Spruzzatura",
+          "Ormeggio",
+          "Danno"
+        ],
+        "réponse": "Danno",
+        "anecdote": "Un battipista è un veicolo cingolato progettato per migliorare la qualità della neve per la pratica degli sport da tavola."
+      },
+      {
+        "id": 10,
+        "question": "Che sport si pratica sul ghiaccio con pesanti pietre di granito levigato ?",
+        "propositions": [
+          "Scheletro",
+          "Luge",
+          "Bob",
+          "Curling"
+        ],
+        "réponse": "Curling",
+        "anecdote": "L'obiettivo del curling è di posizionare le pietre il più vicino possibile a un bersaglio circolare disegnato sul ghiaccio, chiamato casa."
+      }
+    ],
+    "confirmé": [
+      {
+        "id": 11,
+        "question": "Quale nome viene dato alla parte situata nella parte anteriore di una rilegatura da sci ?",
+        "propositions": [
+          "Télémark",
+          "Heel",
+          "Primavera",
+          "Obiettivo"
+        ],
+        "réponse": "Obiettivo",
+        "anecdote": "La rilegatura è un componente in grado di resistere alle improvvise sobbalzi dello sci e allo stesso tempo di rilassarsi in caso di caduta."
+      },
+      {
+        "id": 12,
+        "question": "Quali mappe ti permettono di trovarti in montagna durante le escursioni ?",
+        "propositions": [
+          "DKV",
+          "APK",
+          "PMU",
+          "IGN"
+        ],
+        "réponse": "IGN",
+        "anecdote": "L'IGN fu creato con decreto nel 1940 (firmato da Albert Lebrun e Philippe Pétain) e succedette al servizio geografico dell'esercito."
+      },
+      {
+        "id": 13,
+        "question": "Con quale colore brillante le macchine governatrici segnalano la loro presenza ?",
+        "propositions": [
+          "Blu",
+          "Arancione",
+          "Verde",
+          "Malva"
+        ],
+        "réponse": "Arancione",
+        "anecdote": "I termini resurfacer e surfacer si riferiscono ai veicoli utilizzati per rielaborare le superfici ghiacciate."
+      },
+      {
+        "id": 14,
+        "question": "Quale di questi formaggi non è necessario per la creazione di una fonduta savoiarda ?",
+        "propositions": [
+          "Contea",
+          "Beaufort",
+          "Emmental",
+          "Roquefort"
+        ],
+        "réponse": "Roquefort",
+        "anecdote": "Alcune varianti della ricetta consentono l'aggiunta di una piccola quantità di alcol di ciliegio (kirsch) per migliorare il gusto."
+      },
+      {
+        "id": 15,
+        "question": "Quale sostanza viene utilizzata per ottenere una perfetta planata dei suoi sci ?",
+        "propositions": [
+          "Paraffina",
+          "Cérumen",
+          "Jojoba",
+          "Scoreggia"
+        ],
+        "réponse": "Scoreggia",
+        "anecdote": "Complessivamente, ci sono due categorie principali di questo rivestimento specifico: cera per glide e cera trattenere."
+      },
+      {
+        "id": 16,
+        "question": "Qual è la percentuale di pendenza massima che può avere una traccia blu ?",
+        "propositions": [
+          "35%",
+          "25%",
+          "15%",
+          "45%"
+        ],
+        "réponse": "25%",
+        "anecdote": "I brani non decorati, chiamati Skiroute, sono per la loro parte indicati da un rombo generalmente di colore rosso."
+      },
+      {
+        "id": 17,
+        "question": "Quale stazione sciistica di Guillaume Tell avrebbe particolarmente apprezzato ?",
+        "propositions": [
+          "Les Arcs",
+          "Tignes",
+          "Medley",
+          "La Plagne"
+        ],
+        "réponse": "Les Arcs",
+        "anecdote": "I villaggi-villaggi di Les Arcs (Arc 1600, Arc 1800 e Arc 2000) sono le cosiddette stazioni integrate di terza generazione."
+      },
+      {
+        "id": 18,
+        "question": "Quale tecnica viene utilizzata per scalare un pendio senza un sollevamento meccanico ?",
+        "propositions": [
+          "Montato negli orsi",
+          "Montato in anatra",
+          "Montato in coniglio",
+          "Montato in zebra"
+        ],
+        "réponse": "Montato in anatra",
+        "anecdote": "Sebbene sia progettato per sollevare gli sciatori sulla montagna, gli ascensori possono essere utilizzati anche in discesa."
+      },
+      {
+        "id": 19,
+        "question": "In quale paese si trova la famosa località sciistica di Innsbruck ?",
+        "propositions": [
+          "Francia",
+          "Svizzera",
+          "Germania",
+          "Austria"
+        ],
+        "réponse": "Austria",
+        "anecdote": "Innsbruck ha uno standard di vita molto elevato, come il resto delle Alpi austriache, con un PIL di 75."
+      },
+      {
+        "id": 20,
+        "question": "Qual è la forma caratteristica dello sci in discesa ?",
+        "propositions": [
+          "In S",
+          "In U",
+          "In V",
+          "In T"
+        ],
+        "réponse": "In S",
+        "anecdote": "A causa del pericolo della discesa, gli sciatori devono allenarsi più volte sul percorso prima della gara."
+      }
+    ],
+    "expert": [
+      {
+        "id": 21,
+        "question": "Quale stazione francese è considerata la culla dello sci nordico ?",
+        "propositions": [
+          "Isola 2000",
+          "Autrans",
+          "Chamrousse",
+          "Les Arcs"
+        ],
+        "réponse": "Autrans",
+        "anecdote": "Lo sci nordico si riferisce a diverse discipline sciistiche di ispirazione scandinava legate alle attività nordiche."
+      },
+      {
+        "id": 22,
+        "question": "In quale paese è possibile utilizzare l'ampio comprensorio sciistico di Courmayeur ?",
+        "propositions": [
+          "Austria",
+          "Italia",
+          "Svizzera",
+          "Francia"
+        ],
+        "réponse": "Italia",
+        "anecdote": "La stagione operativa invernale di Courmayeur inizia generalmente all'inizio di dicembre e termina a metà aprile."
+      },
+      {
+        "id": 23,
+        "question": "Che tipo di sciatore possiamo a volte vedere affrontare ?",
+        "propositions": [
+          "Teleporter",
+          "Tracker",
+          "Snowboarder",
+          "Freestyler"
+        ],
+        "réponse": "Teleporter",
+        "anecdote": "Questa è una delle più antiche tecniche di sci inventate da un falegname della contea di Telemark in Norvegia, Sondre Norheim."
+      },
+      {
+        "id": 24,
+        "question": "Sulla neve, quale sensibilità ISO è più adatta per la fotografia ?",
+        "propositions": [
+          "800 ISO",
+          "100 ISO",
+          "ISO 200",
+          "400 ISO"
+        ],
+        "réponse": "100 ISO",
+        "anecdote": "Nella fotografia, la sensibilità ISO è la misura della sensibilità alla luce di film e sensori digitali."
+      },
+      {
+        "id": 25,
+        "question": "Quanti livelli ha la scala da valanga ?",
+        "propositions": [
+          "Cinque",
+          "Sei",
+          "Sette",
+          "Otto"
+        ],
+        "réponse": "Cinque",
+        "anecdote": "I cinque livelli che compongono la scala sono: molto debole, debole, medio, alto (XL) ed eccezionale (XXL)."
+      },
+      {
+        "id": 26,
+        "question": "In quale stazione francese puoi sciare su una lunga pista di 22 km ?",
+        "propositions": [
+          "Grenoble",
+          "Alpe d'Huez",
+          "Chamrousse",
+          "Autrans"
+        ],
+        "réponse": "Alpe d'Huez",
+        "anecdote": "Alpe d'Huez ha 135 percorsi segnati di cui 42 verdi, 37 blu, 39 rossi e 17 neri, ma anche 2 snowpark."
+      },
+      {
+        "id": 27,
+        "question": "Qual è il nome dello spazio tra due sci affiancati ?",
+        "propositions": [
+          "Cambre",
+          "Half-pipe",
+          "Stelo",
+          "Télémark"
+        ],
+        "réponse": "Cambre",
+        "anecdote": "Il camber varia molto più freeride o fuori pista, declinando lo sci alpino che si avvicina allo scialpinismo."
+      },
+      {
+        "id": 28,
+        "question": "Qual è la differenza tra un sollevatore telescopico e una pinza fissa ?",
+        "propositions": [
+          "Comfort",
+          "Velocità",
+          "Colore",
+          "Materiale"
+        ],
+        "réponse": "Velocità",
+        "anecdote": "Un sedile sospeso su un morsetto fisso funziona ancora alla stessa velocità, mentre un sedile in decelerazione è inattivo all'ingresso della stazione."
+      },
+      {
+        "id": 29,
+        "question": "In quale stazione possiamo vedere il Monte Bianco da un lato e il Mediterraneo dall'altro ?",
+        "propositions": [
+          "Isola 2000",
+          "Chamrousse",
+          "Les Arcs",
+          "Autrans"
+        ],
+        "réponse": "Isola 2000",
+        "anecdote": "Questa stazione di sport invernali prende il nome dalla sua altitudine media di circa 2 000 metri."
+      },
+      {
+        "id": 30,
+        "question": "Che sport in discesa si pratica su una macchina equipaggiata con un manubrio ?",
+        "propositions": [
+          "Guida veloce",
+          "Snowkite",
+          "Snowscoot",
+          "Télémark"
+        ],
+        "réponse": "Snowscoot",
+        "anecdote": "Questo sport invernale, nato negli anni '90 e ispirato alla BMX, viene praticato scivolando sulla neve con l'aiuto di un manubrio."
+      }
+      ]
+      }
+    ],
+    "nl": [
+    {
+      "débutant": [
+      {
+        "id": 1,
+        "question": "Wat is de moeilijkheidsgraad van skiën in het skiën ?",
+        "propositions": [
+          "Moeilijk",
+          "Heel moeilijk",
+          "Medium",
+          "Eenvoudig"
+        ],
+        "réponse": "Eenvoudig",
+        "anecdote": "Trackkleuren worden toegewezen op basis van helling, lengte, breedte en blootstelling aan zon en wind."
+      },
+      {
+        "id": 2,
+        "question": "Wat is, naast de voeten, de gemakkelijkste manier om met ski's te bewegen ?",
+        "propositions": [
+          "Op de schouder",
+          "Onder de arm",
+          "Op het hoofd",
+          "Aan de achterkant"
+        ],
+        "réponse": "Op de schouder",
+        "anecdote": "De set bindingen, schoenen en kleding profiteren al zestig jaar van de spectaculaire opkomst van materialen."
+      },
+      {
+        "id": 3,
+        "question": "Na een dag skiën, wat is het belangrijkste ingrediënt van fondue uit de Savoie ?",
+        "propositions": [
+          "Kaas",
+          "Worst",
+          "Vlees",
+          "Bacon"
+        ],
+        "réponse": "Kaas",
+        "anecdote": "De fondue van Savoie is een populair kookrecept in Frankrijk geworden met de opkomst van wintersport en alpine toerisme."
+      },
+      {
+        "id": 4,
+        "question": "Welke andere, meer bekende naam geven we soms aan de ski die je naar de top van de hellingen brengt ?",
+        "propositions": [
+          "Wapening",
+          "Voetensteun",
+          "Billen",
+          "Puzzel"
+        ],
+        "réponse": "Billen",
+        "anecdote": "Het principe van de kolf is om tussen de benen een inrichting (giek of haspel) door te laten die in het algemeen wordt afgesloten door een wasmachine."
+      },
+      {
+        "id": 5,
+        "question": "Welke van deze kleuren laat niet toe de moeilijkheidsgraad van een skipiste te kennen ?",
+        "propositions": [
+          "Rood",
+          "Groen",
+          "Blauw",
+          "Mauve"
+        ],
+        "réponse": "Mauve",
+        "anecdote": "Geen enkele standaard definieert hoe kleuren worden toegewezen aan skihellingen, omdat de keuze aan de exploitanten wordt overgelaten."
+      },
+      {
+        "id": 6,
+        "question": "Wat is nodig om mechanische liften te gebruiken ?",
+        "propositions": [
+          "Voetafdruk",
+          "Pakket",
+          "Satchel",
+          "Bonnet"
+        ],
+        "réponse": "Pakket",
+        "anecdote": "De prijs omvat vaak een gemeenschappelijk pakket dat varieert van één dag tot één week in skiresorts voor alpineskiën."
+      },
+      {
+        "id": 7,
+        "question": "Wat ga je dragen voor een wandeling op zachte sneeuw ?",
+        "propositions": [
+          "Rollers",
+          "Rackets",
+          "Laarzen",
+          "Espadrilles"
+        ],
+        "réponse": "Rackets",
+        "anecdote": "Het racket, bevestigd onder de loopschoen, vergroot het contactoppervlak met de sneeuw en laat vaak niet wegzakken."
+      },
+      {
+        "id": 8,
+        "question": "Afgezien van hobbels, in wat voor soort sneeuw is de monoski ?",
+        "propositions": [
+          "Zwart",
+          "In granen",
+          "Poeder",
+          "Nat"
+        ],
+        "réponse": "Poeder",
+        "anecdote": "De monoski wordt nog steeds op hoog niveau beoefend in freeride en hoge bergen en nog steeds rivalen skiën en snowboarden."
+      },
+      {
+        "id": 9,
+        "question": "Wat doen we op de skihellingen tussen 17.00 en 9.00 uur ?",
+        "propositions": [
+          "Beregening",
+          "Ligplaats",
+          "Schade",
+          "Drogen"
+        ],
+        "réponse": "Schade",
+        "anecdote": "Een sneeuwgroommachine is een rupsvoertuig dat is ontworpen om de kwaliteit van sneeuw te verbeteren voor het beoefenen van boardsporten."
+      },
+      {
+        "id": 10,
+        "question": "Welke sport wordt er beoefend op het ijs met zwaar gepolijste granieten stenen ?",
+        "propositions": [
+          "Luge",
+          "Curling",
+          "Skelet",
+          "Bobslee"
+        ],
+        "réponse": "Curling",
+        "anecdote": "Het doel van curling is om de stenen zo dicht mogelijk bij een rond doelwit te plaatsen dat op het ijs is getekend, het huis genoemd."
+      }
+    ],
+    "confirmé": [
+      {
+        "id": 11,
+        "question": "Welke naam wordt gegeven aan het onderdeel aan de voorkant van een skibinding ?",
+        "propositions": [
+          "Doel",
+          "Heel",
+          "Lente",
+          "Télémark"
+        ],
+        "réponse": "Doel",
+        "anecdote": "De binding is een onderdeel dat bestand is tegen de plotselinge schokken van de ski en tegelijkertijd kan ontspannen in geval van val."
+      },
+      {
+        "id": 12,
+        "question": "Met welke kaarten kun je tijdens een wandeling jezelf in de bergen vinden ?",
+        "propositions": [
+          "PMU",
+          "APK",
+          "DKV",
+          "IGN"
+        ],
+        "réponse": "IGN",
+        "anecdote": "De IGN werd gecreëerd bij decreet in 1940 (ondertekend door Albert Lebrun en Philippe Pétain) en is geslaagd voor de Geografische Dienst van het Leger."
+      },
+      {
+        "id": 13,
+        "question": "Door welke heldere kleur signaleren de verzorgingsmachines hun aanwezigheid ?",
+        "propositions": [
+          "Mauve",
+          "Blauw",
+          "Groen",
+          "Oranje"
+        ],
+        "réponse": "Oranje",
+        "anecdote": "De termen resurfacer en surfacer verwijzen naar de voertuigen die worden gebruikt om de ijsoppervlakken opnieuw te bewerken."
+      },
+      {
+        "id": 14,
+        "question": "Welke van deze kazen is niet nodig om een fondue van de Savoie te maken ?",
+        "propositions": [
+          "Beaufort",
+          "Emmental",
+          "Roquefort",
+          "Comté"
+        ],
+        "réponse": "Roquefort",
+        "anecdote": "Sommige variaties van het recept maken toevoeging van een kleine hoeveelheid kersenalcohol (kirsch) mogelijk om de smaak te verbeteren."
+      },
+      {
+        "id": 15,
+        "question": "Welke stof wordt gebruikt om een perfecte glijvlucht van zijn ski's te krijgen ?",
+        "propositions": [
+          "Cérumen",
+          "Jojoba",
+          "Scheet",
+          "Paraffine"
+        ],
+        "réponse": "Scheet",
+        "anecdote": "Over het algemeen zijn er twee hoofdcategorieën van deze specifieke coating: glijwas en waxbehuizing."
+      },
+      {
+        "id": 16,
+        "question": "Wat is het maximale hellingspercentage dat een blauwe track kan hebben ?",
+        "propositions": [
+          "15%",
+          "25%",
+          "45%",
+          "35%"
+        ],
+        "réponse": "25%",
+        "anecdote": "De niet-verzorgde nummers, Skiroute genaamd, zijn van hun kant aangegeven met een ruit in het algemeen van rode kleur."
+      },
+      {
+        "id": 17,
+        "question": "Welk wintersportdorp Guillaume Tell zou bijzonder op prijs gesteld zijn ?",
+        "propositions": [
+          "La Plagne",
+          "Tignes",
+          "Medley",
+          "Les Arcs"
+        ],
+        "réponse": "Les Arcs",
+        "anecdote": "De dorpen-dorpen van Les Arcs (Arc 1600, Arc 1800 en Arc 2000) zijn zogenaamde derde generatie geïntegreerde stations."
+      },
+      {
+        "id": 18,
+        "question": "Welke techniek wordt gebruikt om zonder lift een zachte helling te beklimmen ?",
+        "propositions": [
+          "Gemonteerd in konijn",
+          "Gemonteerd in beren",
+          "Gemonteerd in zebra",
+          "Gemonteerd in eend"
+        ],
+        "réponse": "Gemonteerd in eend",
+        "anecdote": "Hoewel ze ontworpen zijn om skiërs de berg op te hijsen, kunnen liften ook heuvelafwaarts worden gebruikt."
+      },
+      {
+        "id": 19,
+        "question": "In welk land ligt het populaire skioord Innsbruck ?",
+        "propositions": [
+          "Oostenrijk",
+          "Duitsland",
+          "Frankrijk",
+          "Zwitserland"
+        ],
+        "réponse": "Oostenrijk",
+        "anecdote": "Innsbruck heeft een zeer hoge levensstandaard, net als de rest van de Oostenrijkse Alpen, met een BNP van 75."
+      },
+      {
+        "id": 20,
+        "question": "Wat is de karakteristieke vorm van ski downhill ?",
+        "propositions": [
+          "In T",
+          "In U",
+          "In S",
+          "In V"
+        ],
+        "réponse": "In S",
+        "anecdote": "Vanwege het gevaar van de afdaling moeten skiërs verschillende keren trainen op de baan vóór de race."
+      }
+    ],
+    "expert": [
+      {
+        "id": 21,
+        "question": "Welk Frans station wordt beschouwd als de bakermat van langlaufen ?",
+        "propositions": [
+          "Les Arcs",
+          "Isola 2000",
+          "Autrans",
+          "Chamrousse"
+        ],
+        "réponse": "Autrans",
+        "anecdote": "Langlaufen verwijst naar verschillende Scandinavisch geïnspireerde skidisciplines met betrekking tot Noordse activiteiten."
+      },
+      {
+        "id": 22,
+        "question": "In welk land kunt u het grote skigebied Courmayeur gebruiken ?",
+        "propositions": [
+          "Oostenrijk",
+          "Frankrijk",
+          "Italië",
+          "Zwitserland"
+        ],
+        "réponse": "Italië",
+        "anecdote": "Het winterbedrijf van Courmayeur begint over het algemeen begin december en eindigt medio april."
+      },
+      {
+        "id": 23,
+        "question": "Wat voor type skiër kunnen we soms zien aan het draaien van genuflexie ?",
+        "propositions": [
+          "Snowboarder",
+          "Freestyler",
+          "Teleporter",
+          "Tracker"
+        ],
+        "réponse": "Teleporter",
+        "anecdote": "Dit is een van de oudste skitechnieken die is uitgevonden door een timmerman uit de provincie Telemark in Noorwegen, Sondre Norheim."
+      },
+      {
+        "id": 24,
+        "question": "Op sneeuw, welke gevoeligheid is ISO het meest geschikt voor fotografie ?",
+        "propositions": [
+          "ISO 200",
+          "100 ISO",
+          "800 ISO",
+          "400 ISO"
+        ],
+        "réponse": "100 ISO",
+        "anecdote": "In fotografie is ISO-gevoeligheid de maat van de lichtgevoeligheid van films en digitale sensoren."
+      },
+      {
+        "id": 25,
+        "question": "Hoeveel niveaus heeft de lawineschaal ?",
+        "propositions": [
+          "Acht",
+          "Vijf",
+          "Seven",
+          "Zes"
+        ],
+        "réponse": "Vijf",
+        "anecdote": "De vijf niveaus waaruit de schaalgrafiek bestaat, zijn: erg zwak, zwak, gemiddeld, hoog (XL) en uitzonderlijk (XXL)."
+      },
+      {
+        "id": 26,
+        "question": "In welk Frans oord kan je skiën op een lang pad van 22 km ?",
+        "propositions": [
+          "Autrans",
+          "Grenoble",
+          "Chamrousse",
+          "Alpe d'Huez"
+        ],
+        "réponse": "Alpe d'Huez",
+        "anecdote": "Alpe d'Huez heeft 135 gemarkeerde routes, waaronder 42 groene, 37 blauwe, 39 rode en 17 zwarte, maar ook 2 snowparks."
+      },
+      {
+        "id": 27,
+        "question": "Wat is de naam van de ruimte tussen twee naast elkaar geplaatste ski's ?",
+        "propositions": [
+          "Télémark",
+          "Cambre",
+          "Halve pijp",
+          "Steel"
+        ],
+        "réponse": "Cambre",
+        "anecdote": "De camber varieert veel meer freeride of off-piste skiën, dalende alpine skiën naderen van de skitochten."
+      },
+      {
+        "id": 28,
+        "question": "Wat is het verschil tussen een verreiker en een vaste grijper ?",
+        "propositions": [
+          "Kleur",
+          "Snelheid",
+          "Materiaal",
+          "Comfort"
+        ],
+        "réponse": "Snelheid",
+        "anecdote": "Een stoel opgehangen aan een vaste klem draait nog steeds met dezelfde snelheid, terwijl een vertragende stoel stationair draait bij de ingang van het station."
+      },
+      {
+        "id": 29,
+        "question": "In welk station kunnen we de Mont-Blanc aan de ene kant en de Middellandse Zee aan de andere kant zien ?",
+        "propositions": [
+          "Isola 2000",
+          "Autrans",
+          "Chamrousse",
+          "Les Arcs"
+        ],
+        "réponse": "Isola 2000",
+        "anecdote": "Dit wintersportresort is genoemd vanwege zijn gemiddelde hoogte van ongeveer 2 000 meter."
+      },
+      {
+        "id": 30,
+        "question": "Welke afdalingssport wordt beoefend op een machine die is uitgerust met een stuur ?",
+        "propositions": [
+          "Télémark",
+          "Snowscoot",
+          "Snowkite",
+          "Snel rijden"
+        ],
+        "réponse": "Snowscoot",
+        "anecdote": "Deze wintersport, geboren in de jaren 1990 en geïnspireerd door BMX, wordt beoefend door in de sneeuw te glijden met behulp van een stuur."
+      }
+      ]
+      }
+    ]
+  }
+}

@@ -1,0 +1,374 @@
+{
+  "fournisseur": "OpenQuizzDB - Fournisseur de contenu libre (www.openquizzdb.org)",
+  "rédacteur": "Philippe Bresoux",
+  "thème": "Boissons sans alcool",
+  "difficulté": 2,
+  "quizz": {
+    "débutant": [
+      {
+        "id": 1,
+        "question": "Laquelle de ces propositions ne désigne pas une boisson énergisante ?",
+        "propositions": [
+          "Oasis",
+          "Dark Dog",
+          "Red Bull",
+          "Monster Energy"
+        ],
+        "réponse": "Oasis",
+        "anecdote": "La marque est aujourd'hui, en France, la première marque de boisson aux fruits non gazeuse."
+      },
+      {
+        "id": 2,
+        "question": "Quelle est la saveur du Champomy, appartenant à la marque Orangina Schweppes ?",
+        "propositions": [
+          "Citron",
+          "Pomme",
+          "Ananas",
+          "Orange"
+        ],
+        "réponse": "Pomme",
+        "anecdote": "En 2013, Orangina Schweppes se hisse à la seconde place du marché des boissons non-alcoolisées en France."
+      },
+      {
+        "id": 3,
+        "question": "Dans quelle région de France le Breizh Cola a-t-il été créé et commercialisé depuis 2002 ?",
+        "propositions": [
+          "Bretagne",
+          "Charente-Maritime",
+          "Île-de-France",
+          "Gironde"
+        ],
+        "réponse": "Bretagne",
+        "anecdote": "Ce cola régional français tire son nom de sa première composition, l'utilisation de noix de kola, et du nom breton de la Bretagne."
+      },
+      {
+        "id": 4,
+        "question": "Quelle star a popularisé dans les publicités de la marque Nespresso le slogan « What esle » ?",
+        "propositions": [
+          "John Travolta",
+          "Bard Pitt",
+          "Tom Hanks",
+          "George Clooney"
+        ],
+        "réponse": "George Clooney",
+        "anecdote": "En 2009, l'entreprise a réalisé un chiffre d'affaires de 1,94 milliard d'euros (2,77 milliards de francs suisses)."
+      },
+      {
+        "id": 5,
+        "question": "Quelles sont les deux couleurs de la marque Coca-Cola  fabriquée par la Coca-Cola Company ?",
+        "propositions": [
+          "Bleue et orange",
+          "Jaune et bleue",
+          "Rouge et blanche",
+          "Noire et verte"
+        ],
+        "réponse": "Rouge et blanche",
+        "anecdote": "Ce nom provient de deux ingrédients utilisés pour sa composition originelle : la feuille de coca et la noix de kola."
+      },
+      {
+        "id": 6,
+        "question": "Avec quoi les cafetières de la marque Senseo fonctionnent-elles ?",
+        "propositions": [
+          "Des dosettes",
+          "Du café soluble",
+          "Du café filtre",
+          "Des capsules"
+        ],
+        "réponse": "Des dosettes",
+        "anecdote": "La marque de cafetière est portée par les entreprises néerlandaises Philips et Douwe Egberts."
+      },
+      {
+        "id": 7,
+        "question": "Dans quel domaine la société Tropicana est-elle un des leaders mondiaux du marché ?",
+        "propositions": [
+          "Limonade",
+          "Bières sans alcool",
+          "Jus de fruits",
+          "Thé"
+        ],
+        "réponse": "Jus de fruits",
+        "anecdote": "L'entreprise a été fondée en 1947 par Anthony T. Rossi, un immigrant italien, avec à l'origine 50 employés."
+      },
+      {
+        "id": 8,
+        "question": "En 2014, quelle star française est apparue dans une publicité Nespresso aux côtés de George Clooney ?",
+        "propositions": [
+          "Jean Dujardin",
+          "Alain Delon",
+          "Jean-Paul Belmondo",
+          "Omar Sy"
+        ],
+        "réponse": "Jean Dujardin",
+        "anecdote": "Via ces stars, la marque cherche à ne pas correspondre au modèle de vente d'« un produit dans une boite »."
+      },
+      {
+        "id": 9,
+        "question": "Laquelle de ces propositions ne désigne pas une marque d'eau minérale ?",
+        "propositions": [
+          "Quézac",
+          "Saint-Yorre",
+          "Tropicana",
+          "Badoit"
+        ],
+        "réponse": "Tropicana",
+        "anecdote": "Après pressage, les fruits, transformés en jus, sont embouteillés selon la certification ISO 14001."
+      },
+      {
+        "id": 10,
+        "question": "Parmi ces différentes marques de sirops se cache un intrus, mais lequel ?",
+        "propositions": [
+          "Teisseire",
+          "Marie Dolin",
+          "Williams",
+          "Champomy"
+        ],
+        "réponse": "Champomy",
+        "anecdote": "Champomy est créée en 1989 par Pampryl et est présentée comme « la première boisson festive pour enfants »."
+      }
+    ],
+    "confirmé": [
+      {
+        "id": 11,
+        "question": "En 2009, quelle marque d'eau minérale a produit une publicité où des bébés faisaient du roller ?",
+        "propositions": [
+          "Badoit",
+          "Rozana",
+          "Volvic",
+          "Evian"
+        ],
+        "réponse": "Evian",
+        "anecdote": "Sa source se situe dans les Alpes à Évian-les-Bains dans le département de la Haute-Savoie."
+      },
+      {
+        "id": 12,
+        "question": "Quelle marque de boissons énergisantes a pour logo trois griffes vertes ?",
+        "propositions": [
+          "Monster Energy",
+          "Dark Dog",
+          "Rockstar",
+          "Red Bull"
+        ],
+        "réponse": "Monster Energy",
+        "anecdote": "La gamme comporte des boissons gazeuses énergétiques aux divers arômes fruités et des boissons non gazeuses à base de thé."
+      },
+      {
+        "id": 13,
+        "question": "Laquelle de ces propositions ne désigne pas un cocktail sans alcool ?",
+        "propositions": [
+          "Lassi sucré",
+          "Bloody Mary",
+          "Arnold Palmer",
+          "Fauxmosa"
+        ],
+        "réponse": "Bloody Mary",
+        "anecdote": "Le Bloody Mary est un cocktail plus ou moins fortement pimenté et épicé selon les goûts, à base de vodka."
+      },
+      {
+        "id": 14,
+        "question": "Quelle société a créé la marque de café Ricoré, café soluble avec de la chicorée ?",
+        "propositions": [
+          "Danone",
+          "Carrefour",
+          "Nestlé",
+          "Starbucks"
+        ],
+        "réponse": "Nestlé",
+        "anecdote": "La marque est principalement présente en France et dans une moindre mesure en Belgique et en Pologne."
+      },
+      {
+        "id": 15,
+        "question": "Les couleurs qui apparaissent sur le logo de la marque de café Carte Noire sont le noir, l'or et...",
+        "propositions": [
+          "Le blanc",
+          "Le bleu",
+          "Le vert",
+          "Le rouge"
+        ],
+        "réponse": "Le blanc",
+        "anecdote": "Le café est torréfié en France au sein d'une usine qui produit également les cafés Jacques Vabre et Café Grand'Mère."
+      },
+      {
+        "id": 16,
+        "question": "Laquelle des ces couleurs ne retrouve-t-on pas sur le logo de la marque Fanta ?",
+        "propositions": [
+          "Blanche",
+          "Orange",
+          "Bleue",
+          "Noire"
+        ],
+        "réponse": "Noire",
+        "anecdote": "Il existe environ 70 saveurs différentes de Fanta, bien que la plupart ne soient commercialisées que dans certaines parties du monde."
+      },
+      {
+        "id": 17,
+        "question": "Quelle boisson est connue pour contenir du ginger ale, sorte de soda au gingembre ?",
+        "propositions": [
+          "Gini",
+          "7 Up",
+          "Canada Dry",
+          "Fanta"
+        ],
+        "réponse": "Canada Dry",
+        "anecdote": "Bien que Canada Dry soit originaire du Canada, ses quartiers généraux industriels sont actuellement situés au Texas."
+      },
+      {
+        "id": 18,
+        "question": "Depuis 1972, quelle marque de café utilise dans ses publicités un expert nommé « gringo » ?",
+        "propositions": [
+          "Jacques Vabre",
+          "Café Grand'Mère",
+          "Senseo",
+          "Necafé"
+        ],
+        "réponse": "Jacques Vabre",
+        "anecdote": "Le café Jacques Vabre doit son nom à un ex-enseignan entré en 1946 dans le commerce de son beau-père."
+      },
+      {
+        "id": 19,
+        "question": "Pour quel jus de fruits Richard Gotainer a-t-il composé 'Y'a des fruits, y'a de l'eau' ?",
+        "propositions": [
+          "Joker",
+          "Banga",
+          "Oasis",
+          "Champomy"
+        ],
+        "réponse": "Banga",
+        "anecdote": "Créée en 1968 par Pampryl, la marque Banga était très populaire dans les années 1980."
+      },
+      {
+        "id": 20,
+        "question": "Si l'on vous parle de « l'ami du petit-déjeuner », à quelle marque de café pensez-vous ?",
+        "propositions": [
+          "Maxwell",
+          "Ricoré",
+          "Senseo",
+          "Malongo"
+        ],
+        "réponse": "Ricoré",
+        "anecdote": "Ricoré est célèbre pour sa saga publicitaire, créée en 1981, autour d'une musique composée par André Georget."
+      }
+    ],
+    "expert": [
+      {
+        "id": 21,
+        "question": "Laquelle de ces propositions ne désigne pas une marque vendant du pastis sans alcool ?",
+        "propositions": [
+          "Blancart",
+          "Pastis 51",
+          "Pastisade",
+          "Girard"
+        ],
+        "réponse": "Pastis 51",
+        "anecdote": "Elle se boit avec de l'eau fraîche et éventuellement des glaçons dans la proportion de un volume de pastis pour cinq ou sept d'eau."
+      },
+      {
+        "id": 22,
+        "question": "Quel ingrédient controversé se retrouve dans plusieurs boissons énergisantes de la marque Red Bull ?",
+        "propositions": [
+          "La taurine",
+          "La cocaïne",
+          "Le glutamate",
+          "La glycine"
+        ],
+        "réponse": "La taurine",
+        "anecdote": "La taurine est l'un des ingrédients retardant larrivée de la boisson dans certains pays, par application du principe de précaution."
+      },
+      {
+        "id": 23,
+        "question": "Dans sa recette initiale, quel ingrédient le Coca-Cola contenait-il ?",
+        "propositions": [
+          "De la cocaïne",
+          "De la marijuana",
+          "De l'héroïne",
+          "Du LSD"
+        ],
+        "réponse": "De la cocaïne",
+        "anecdote": "La première recette ancêtre du Coca-Cola, le 'French Wine Coca', est inventée par John Pemberton en 1885."
+      },
+      {
+        "id": 24,
+        "question": "Dans quel pays la boisson gazeuse nommée 'Applesin' remporte-t-elle un franc succès ?",
+        "propositions": [
+          "Canada",
+          "Argentine",
+          "Islande",
+          "Corée du Sud"
+        ],
+        "réponse": "Islande",
+        "anecdote": "Depuis 1955, la brasserie produit Eglsl Appelsín, véritable expérience islandaise du soda ou orangeade."
+      },
+      {
+        "id": 25,
+        "question": "La recette de quelle marque de cola est disponibles pour tous et reproductible librement ?",
+        "propositions": [
+          "Cola-Cola",
+          "OpenCola",
+          "FreeCola",
+          "Coco-Lala"
+        ],
+        "réponse": "OpenCola",
+        "anecdote": "Quelques militants de léthique FLOSS ont commencé un projet OpenCola italien, mais sans but lucratif."
+      },
+      {
+        "id": 26,
+        "question": "Laquelle de ces personnalités n'a jamais participé à une publicité pour la marque Pepsi ?",
+        "propositions": [
+          "Madonna",
+          "Michael Jackson",
+          "David Beckham",
+          "Zinédine Zidane"
+        ],
+        "réponse": "Zinédine Zidane",
+        "anecdote": "En 2010, les ventes de Pepsi Cola en France ont progressé de plus de 36 % sur les quatre premiers mois de lannée 200."
+      },
+      {
+        "id": 27,
+        "question": "Quelle boisson sans alcool est dorée comme l'alcool et a un nom qui sonne comme l'alcool ?",
+        "propositions": [
+          "Canada Dry",
+          "Sprite",
+          "Tropicana",
+          "Pepsi"
+        ],
+        "réponse": "Canada Dry",
+        "anecdote": "En 1934, Canada Dry fut l'une des premières marques à proposer des comic books comme cadeau gratuit."
+      },
+      {
+        "id": 28,
+        "question": "En quelle année la marque Pepsi a-t-elle été créée à New Bern, en Caroline du Nord ?",
+        "propositions": [
+          "1938",
+          "1898",
+          "1918",
+          "1958"
+        ],
+        "réponse": "1898",
+        "anecdote": "Caleb D. Bradham, pharmacien à New Bern, inventa une potion à base de noix de cola contre les troubles de la digestion."
+      },
+      {
+        "id": 29,
+        "question": "Dans quelle ville américaine la marque Minute Maid a-t-elle été créée en 1945 ?",
+        "propositions": [
+          "Chicago",
+          "Boston",
+          "New York",
+          "Washington"
+        ],
+        "réponse": "Boston",
+        "anecdote": "Plutôt que d'offrir son jus d'orange sous forme de poudre, la firme décida de créer un produit concentré surgelé."
+      },
+      {
+        "id": 30,
+        "question": "En quelle année la marque de boissons Schweppes a-t-elle été créée ?",
+        "propositions": [
+          "1983",
+          "1883",
+          "1683",
+          "1783"
+        ],
+        "réponse": "1783",
+        "anecdote": "À partir d'avril 2014, la nouvelle égérie de Schweppes devient Pénélope Cruzsur le thème de la sensualité."
+      }
+    ]
+  }
+}

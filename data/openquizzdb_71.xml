@@ -1,0 +1,343 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes" ?>
+<quizz fournisseur="OpenQuizzDB : Fournisseur de contenu libre"
+       url="http://www.openquizzdb.org"
+       rédacteur="Philippe Bresoux"
+       thème="Chimie"
+       difficulté="4">
+  <débutant>
+    <contenu id="1">
+      <question>Dans un laboratoire de chimie, quel nom porte un récipient en verre de forme sphérique ?</question>
+      <propositions>
+        <proposition id="1-1">Une pipette</proposition>
+        <proposition id="1-2">Une burette</proposition>
+        <proposition id="1-3">Une éprouvette</proposition>
+        <proposition id="1-4">Un ballon</proposition>
+      </propositions>
+      <réponse proposition="1-4">Un ballon</réponse>
+      <anecdote>Le ballon est très utilisé pour conduire des réactions chimiques en chimie organique.</anecdote>
+    </contenu>
+    <contenu id="2">
+      <question>Quel est le symbole chimique du magnésium, de numéro atomique 12 ?</question>
+      <propositions>
+        <proposition id="2-1">Mi</proposition>
+        <proposition id="2-2">Mn</proposition>
+        <proposition id="2-3">Mg</proposition>
+        <proposition id="2-4">Ma</proposition>
+      </propositions>
+      <réponse proposition="2-3">Mg</réponse>
+      <anecdote>Le magnésium est le huitième élément le plus abondant de la croûte terrestre et le troisième composant des sels dissous en mer.</anecdote>
+    </contenu>
+    <contenu id="3">
+      <question>Quel instrument permet de créer le « vide » dans une cloche en verre ?</question>
+      <propositions>
+        <proposition id="3-1">Une turbine à gaz</proposition>
+        <proposition id="3-2">Un tube axial</proposition>
+        <proposition id="3-3">Un moulin à eau</proposition>
+        <proposition id="3-4">Une pompe à air</proposition>
+      </propositions>
+      <réponse proposition="3-4">Une pompe à air</réponse>
+      <anecdote>C'est le physicien allemand Otto von Guericke qui, en étudiant les propriétés de l'air et la création du vide, a inventé la pompe à air.</anecdote>
+    </contenu>
+    <contenu id="4">
+      <question>Quel élément chimique a pour symbole Na et pour numéro atomique 11 ?</question>
+      <propositions>
+        <proposition id="4-1">Soufre</proposition>
+        <proposition id="4-2">Silicium</proposition>
+        <proposition id="4-3">Sélénium </proposition>
+        <proposition id="4-4">Sodium</proposition>
+      </propositions>
+      <réponse proposition="4-4">Sodium</réponse>
+      <anecdote>Le sodium est un métal mou et argenté, qui appartient aux métaux alcalins.</anecdote>
+    </contenu>
+    <contenu id="5">
+      <question>Quelle scientifique française a été lauréate du prix Nobel de Physique et de Chimie ?</question>
+      <propositions>
+        <proposition id="5-1">Mary Archer</proposition>
+        <proposition id="5-2">Susan Solomon</proposition>
+        <proposition id="5-3">Suzanne Fortier</proposition>
+        <proposition id="5-4">Marie Curie</proposition>
+      </propositions>
+      <réponse proposition="5-4">Marie Curie</réponse>
+      <anecdote>Marie Curie est la seule femme parmi tous les lauréats du Nobel à avoir été récompensée dans deux domaines scientifiques distincts.</anecdote>
+    </contenu>
+    <contenu id="6">
+      <question>Quel est le symbole chimique du fer, présent dans la nature sous forme pure ?</question>
+      <propositions>
+        <proposition id="6-1">Fl</proposition>
+        <proposition id="6-2">Fr</proposition>
+        <proposition id="6-3">F</proposition>
+        <proposition id="6-4">Fe</proposition>
+      </propositions>
+      <réponse proposition="6-4">Fe</réponse>
+      <anecdote>Le fer était connu dès le chalcolithique à travers les météorites ferreuses, et sa métallurgie demeura longtemps confidentielle.</anecdote>
+    </contenu>
+    <contenu id="7">
+      <question>Quel paramètre permet de déterminer si un milieu est acide, neutre ou basique ?</question>
+      <propositions>
+        <proposition id="7-1">La constante</proposition>
+        <proposition id="7-2">La base</proposition>
+        <proposition id="7-3">La puissance</proposition>
+        <proposition id="7-4">Le pH</proposition>
+      </propositions>
+      <réponse proposition="7-4">Le pH</réponse>
+      <anecdote>Les produits plus acides que lacide sulfurique à 100 % sont qualifiés de superacides.</anecdote>
+    </contenu>
+    <contenu id="8">
+      <question>Quel élément chimique, le plus commun des halogènes, a pour symbole « Cl » ?</question>
+      <propositions>
+        <proposition id="8-1">Le calcium</proposition>
+        <proposition id="8-2">Le chlore</proposition>
+        <proposition id="8-3">Le césium</proposition>
+        <proposition id="8-4">Le carbone</proposition>
+      </propositions>
+      <réponse proposition="8-2">Le chlore</réponse>
+      <anecdote>Certains virus (norovirus par exemple), certaines bactéries ou les biofilms peuvent développer une certaine résistance au chlore.</anecdote>
+    </contenu>
+    <contenu id="9">
+      <question>Quel métal en fusion pouvez-vous tenir dans le creux de la main ?</question>
+      <propositions>
+        <proposition id="9-1">Platine</proposition>
+        <proposition id="9-2">Iridium</proposition>
+        <proposition id="9-3">Manganèse</proposition>
+        <proposition id="9-4">Mercure</proposition>
+      </propositions>
+      <réponse proposition="9-4">Mercure</réponse>
+      <anecdote>Le mercure est le seul métal se présentant sous forme liquide dans les conditions normales de température et de pression.</anecdote>
+    </contenu>
+    <contenu id="10">
+      <question>Quelle est la formule chimique du sel alimentaire ou sel de cuisine ?</question>
+      <propositions>
+        <proposition id="10-1">CaCl</proposition>
+        <proposition id="10-2">CaCl2</proposition>
+        <proposition id="10-3">SlCl2</proposition>
+        <proposition id="10-4">NaCl</proposition>
+      </propositions>
+      <réponse proposition="10-4">NaCl</réponse>
+      <anecdote>Le sel de table ou sel alimentaire est composé essentiellement de chlorure de sodium.</anecdote>
+    </contenu>
+  </débutant>
+  <confirmé>
+    <contenu id="11">
+      <question>Quel élément chimique est représenté par le symbole B ?</question>
+      <propositions>
+        <proposition id="11-1">Le brome</proposition>
+        <proposition id="11-2">Le benzène</proposition>
+        <proposition id="11-3">Le bore</proposition>
+        <proposition id="11-4">Le bismuth</proposition>
+      </propositions>
+      <réponse proposition="11-3">Le bore</réponse>
+      <anecdote>Le bore a la résistance à la traction la plus élevée de tous les éléments connus.</anecdote>
+    </contenu>
+    <contenu id="12">
+      <question>Quel gaz a une odeur suffocante très désagréable et est extrêmement toxique ?</question>
+      <propositions>
+        <proposition id="12-1">Le brome</proposition>
+        <proposition id="12-2">Le césium</proposition>
+        <proposition id="12-3">Le fluor</proposition>
+        <proposition id="12-4">Le chlore</proposition>
+      </propositions>
+      <réponse proposition="12-4">Le chlore</réponse>
+      <anecdote>Le chlore est abondant dans la nature, son dérivé le plus important est le « sel de table » ou chlorure de sodium (NaCl).</anecdote>
+    </contenu>
+    <contenu id="13">
+      <question>Quel élément chimique porte un nom dérivé du mot latin « silex » ?</question>
+      <propositions>
+        <proposition id="13-1">Le sodium</proposition>
+        <proposition id="13-2">Le silicium</proposition>
+        <proposition id="13-3">Le soufre</proposition>
+        <proposition id="13-4">Le scandium</proposition>
+      </propositions>
+      <réponse proposition="13-2">Le silicium</réponse>
+      <anecdote>Le silicium est l'élément le plus abondant dans la croûte terrestre après l'oxygène.</anecdote>
+    </contenu>
+    <contenu id="14">
+      <question>Quel est le symbole chimique du potassium, d'aspect blanc métallique ?</question>
+      <propositions>
+        <proposition id="14-1">P</proposition>
+        <proposition id="14-2">K</proposition>
+        <proposition id="14-3">T</proposition>
+        <proposition id="14-4">O</proposition>
+      </propositions>
+      <réponse proposition="14-2">K</réponse>
+      <anecdote>Le potassium s'oxyde rapidement au contact de l'air et réagit violemment avec l'eau.</anecdote>
+    </contenu>
+    <contenu id="15">
+      <question>Quels éléments la chimie organique étudie-t-elle, à l'inverse de la chimie inorganique ?</question>
+      <propositions>
+        <proposition id="15-1">Azote et nickel</proposition>
+        <proposition id="15-2">Carbone et hydrogène</proposition>
+        <proposition id="15-3">Hélium et sodium</proposition>
+        <proposition id="15-4">Calcium et azote</proposition>
+      </propositions>
+      <réponse proposition="15-2">Carbone et hydrogène</réponse>
+      <anecdote>La chimie organique étudie leur structure, leurs propriétés, leur composition et leurs réactions.</anecdote>
+    </contenu>
+    <contenu id="16">
+      <question>En chimie, que signifie le pH qui mesure l'acidité ou la basicité d'une solution ?</question>
+      <propositions>
+        <proposition id="16-1">Processus halogène</proposition>
+        <proposition id="16-2">Particule hydrogène</proposition>
+        <proposition id="16-3">Potentiel hydrogène</proposition>
+        <proposition id="16-4">Pouvoir hirsute</proposition>
+      </propositions>
+      <réponse proposition="16-3">Potentiel hydrogène</réponse>
+      <anecdote>Il existe de nombreuses façons de mesurer l'acidité, et on utilise d'ailleurs fréquemment des indicateurs de pH.</anecdote>
+    </contenu>
+    <contenu id="17">
+      <question>Quel est le symbole chimique du sodium, qui appartient aux métaux alcalins ?</question>
+      <propositions>
+        <proposition id="17-1">Sd</proposition>
+        <proposition id="17-2">So</proposition>
+        <proposition id="17-3">Na</proposition>
+        <proposition id="17-4">Um</proposition>
+      </propositions>
+      <réponse proposition="17-3">Na</réponse>
+      <anecdote>On ne trouve pas le sodium à l'état de corps pur dans la nature, mais il est très abondant sous forme de composés.</anecdote>
+    </contenu>
+    <contenu id="18">
+      <question>De quel élément chimique proviennent à la fois la charbon et le diamant ?</question>
+      <propositions>
+        <proposition id="18-1">Le cuivre</proposition>
+        <proposition id="18-2">Le carbone</proposition>
+        <proposition id="18-3">Le cobalt</proposition>
+        <proposition id="18-4">Le chrome</proposition>
+      </propositions>
+      <réponse proposition="18-2">Le carbone</réponse>
+      <anecdote>Le carbone existe sous forme de sédiments, charbon, pétrole, et également sous sa forme pure graphite, le diamant.</anecdote>
+    </contenu>
+    <contenu id="19">
+      <question>Quelle est la formule chimique du dioxyde de carbone ?</question>
+      <propositions>
+        <proposition id="19-1">NaCl</proposition>
+        <proposition id="19-2">C3P0</proposition>
+        <proposition id="19-3">CO2</proposition>
+        <proposition id="19-4">H2O</proposition>
+      </propositions>
+      <réponse proposition="19-3">CO2</réponse>
+      <anecdote>Le dioxyde de carbone est communément appelé gaz carbonique ou anhydride carbonique.</anecdote>
+    </contenu>
+    <contenu id="20">
+      <question>Que signifie le E de E=MC2, exprimé en 1905 par Einstein dans le cadre de la relativité restreinte ?</question>
+      <propositions>
+        <proposition id="20-1">Écart</proposition>
+        <proposition id="20-2">Effet</proposition>
+        <proposition id="20-3">Énergie</proposition>
+        <proposition id="20-4">Élément</proposition>
+      </propositions>
+      <réponse proposition="20-3">Énergie</réponse>
+      <anecdote>L'équation fait partie des apports que certains contestent à Einstein dans le cadre de la controverse sur la paternité de la relativité.</anecdote>
+    </contenu>
+  </confirmé>
+  <expert>
+    <contenu id="21">
+      <question>Combien y a-t-il de périodes dans le tableau périodique de Mendeleïev ?</question>
+      <propositions>
+        <proposition id="21-1">Neuf</proposition>
+        <proposition id="21-2">Sept</proposition>
+        <proposition id="21-3">Cinq</proposition>
+        <proposition id="21-4">Trois</proposition>
+      </propositions>
+      <réponse proposition="21-2">Sept</réponse>
+      <anecdote>Son invention est attribuée au chimiste Mendeleïev, qui construisit en 1869 une table différente de celle qu'on utilise aujourd'hui.</anecdote>
+    </contenu>
+    <contenu id="22">
+      <question>De ces éléments chimiques, lequel comporte une voyelle dans son symbole ?</question>
+      <propositions>
+        <proposition id="22-1">Tellure</proposition>
+        <proposition id="22-2">Mercure</proposition>
+        <proposition id="22-3">Césium</proposition>
+        <proposition id="22-4">Rubidium</proposition>
+      </propositions>
+      <réponse proposition="22-1">Tellure</réponse>
+      <anecdote>Le tellure a été découvert en 1782 par Franz-Joseph Müller von Reichenstein dans des minerais d'or de Transylvanie.</anecdote>
+    </contenu>
+    <contenu id="23">
+      <question>Quel dosage colorimétrique permet de déterminer la concentration en phosphore ?</question>
+      <propositions>
+        <proposition id="23-1">Méthode de Kjeldahl</proposition>
+        <proposition id="23-2">Méthode de Briggs</proposition>
+        <proposition id="23-3">Méthode de Wijs</proposition>
+        <proposition id="23-4">Méthode de Bertrand</proposition>
+      </propositions>
+      <réponse proposition="23-2">Méthode de Briggs</réponse>
+      <anecdote>L'intensité de la coloration du complexe est proportionnelle à la concentration en phosphate.</anecdote>
+    </contenu>
+    <contenu id="24">
+      <question>Quel chimiste québécois a été un précurseur dans le domaine de la chimie quantique ?</question>
+      <propositions>
+        <proposition id="24-1">Bernard Cloutier</proposition>
+        <proposition id="24-2">Camille Sandorfy</proposition>
+        <proposition id="24-3">Christian Roy</proposition>
+        <proposition id="24-4">Léon Lortie</proposition>
+      </propositions>
+      <réponse proposition="24-2">Camille Sandorfy</réponse>
+      <anecdote>Certaines de ses études spectroscopiques aident à comprendre des processus biologiques.</anecdote>
+    </contenu>
+    <contenu id="25">
+      <question>Quel équipement de labo protège une substance des environnements humides ?</question>
+      <propositions>
+        <proposition id="25-1">Bécher</proposition>
+        <proposition id="25-2">Dessiccateur</proposition>
+        <proposition id="25-3">Décanteur</proposition>
+        <proposition id="25-4">Manchon</proposition>
+      </propositions>
+      <réponse proposition="25-2">Dessiccateur</réponse>
+      <anecdote>En fonction de l'usage qui en est fait, la verrerie de laboratoire est fabriquée dans différents types de verres ou de matières plastiques.</anecdote>
+    </contenu>
+    <contenu id="26">
+      <question>Quel métal brûle avec une flamme blanche aveuglante ?</question>
+      <propositions>
+        <proposition id="26-1">Le radium</proposition>
+        <proposition id="26-2">Le magnésium</proposition>
+        <proposition id="26-3">Le calcium</proposition>
+        <proposition id="26-4">Le baryum</proposition>
+      </propositions>
+      <réponse proposition="26-2">Le magnésium</réponse>
+      <anecdote>Le magnésium est le huitième élément le plus abondant de la croûte terrestre.</anecdote>
+    </contenu>
+    <contenu id="27">
+      <question>Que se passe-t-il si vous mettez un peu de vinaigre sur un uf cru ?</question>
+      <propositions>
+        <proposition id="27-1">Il vire au rouge</proposition>
+        <proposition id="27-2">Il durcit</proposition>
+        <proposition id="27-3">Il coagule</proposition>
+        <proposition id="27-4">Rien</proposition>
+      </propositions>
+      <réponse proposition="27-3">Il coagule</réponse>
+      <anecdote>Le mot « vinaigre » provient du mot « vin-aigre », le vin étant l'une des boissons alcoolisées les plus connues pour élaborer un vinaigre.</anecdote>
+    </contenu>
+    <contenu id="28">
+      <question>Dans le lait, quelle protéine permet aux graisses de se mélanger au liquide ?</question>
+      <propositions>
+        <proposition id="28-1">La gélatine</proposition>
+        <proposition id="28-2">La lectine</proposition>
+        <proposition id="28-3">La fibrine</proposition>
+        <proposition id="28-4">La caséine</proposition>
+      </propositions>
+      <réponse proposition="28-4">La caséine</réponse>
+      <anecdote>Dans la fabrication du fromage, la caséine précipite après adjonction d'acide ou de présure.</anecdote>
+    </contenu>
+    <contenu id="29">
+      <question>Quelle est la formule chimique du méthane, découvert et isolé par Alessandro Volta ?</question>
+      <propositions>
+        <proposition id="29-1">C3P0</proposition>
+        <proposition id="29-2">NaCl</proposition>
+        <proposition id="29-3">CH4</proposition>
+        <proposition id="29-4">H2O</proposition>
+      </propositions>
+      <réponse proposition="29-3">CH4</réponse>
+      <anecdote>Il s'agit du plus simple des hydrocarbures, et plus précisément du premier terme de la famille des alcanes.</anecdote>
+    </contenu>
+    <contenu id="30">
+      <question>Quel atome a des propriétés proches de celles du carbone ?</question>
+      <propositions>
+        <proposition id="30-1">Le bismuth</proposition>
+        <proposition id="30-2">Le silicium</proposition>
+        <proposition id="30-3">Le soufre</proposition>
+        <proposition id="30-4">Le césium</proposition>
+      </propositions>
+      <réponse proposition="30-2">Le silicium</réponse>
+      <anecdote>Le silicium est l'élément le plus abondant dans la croûte terrestre après l'oxygène, soit 25,7 % de sa masse.</anecdote>
+    </contenu>
+  </expert>
+</quizz>

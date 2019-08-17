@@ -1,0 +1,374 @@
+{
+  "fournisseur": "OpenQuizzDB - Fournisseur de contenu libre (www.openquizzdb.org)",
+  "rédacteur": "Philippe Bresoux",
+  "thème": "Faune et flore des champs",
+  "difficulté": 3,
+  "quizz": {
+    "débutant": [
+      {
+        "id": 1,
+        "question": "Quelle est la couleur du coquelicot, très abondante dans les terrains fraîchement remués ?",
+        "propositions": [
+          "Verte",
+          "Rouge",
+          "Jaune",
+          "Pourpre"
+        ],
+        "réponse": "Rouge",
+        "anecdote": "Le coquelicot se distingue par la couleur rouge de ses fleurs et par le fait qu'elle forme souvent des tapis colorés visibles de très loin."
+      },
+      {
+        "id": 2,
+        "question": "Quelle sorte de passereau mange les graines des chardons ?",
+        "propositions": [
+          "Rossignol",
+          "Pinson",
+          "Chardonneret",
+          "Fauvette"
+        ],
+        "réponse": "Chardonneret",
+        "anecdote": "Son bec est conique et pointu, spécialement adapté pour prélever les graines des plantes comme le chardon."
+      },
+      {
+        "id": 3,
+        "question": "Quelle vitesse maximale peut atteindre un lièvre, petit mammifère proche du lapin ?",
+        "propositions": [
+          "70 km/h",
+          "90 km/h",
+          "110 km/h",
+          "50 km/h"
+        ],
+        "réponse": "70 km/h",
+        "anecdote": "Le lièvre, du haut de ses 60 cm, est avec le lapin des neiges le plus grand lièvre d'Europe."
+      },
+      {
+        "id": 4,
+        "question": "Quelle partie du corps de la taupe lui permet de s'orienter à reculons sous la terre ?",
+        "propositions": [
+          "Sa tête",
+          "Ses pattes",
+          "Sa queue",
+          "Son museau"
+        ],
+        "réponse": "Sa queue",
+        "anecdote": "Leurs caractéristiques générales sont celles des petits mammifères fouisseurs qui creusent et vivent dans des galeries souterraines."
+      },
+      {
+        "id": 5,
+        "question": "Comment sont appelées les larves du hanneton qui sont radicivores ?",
+        "propositions": [
+          "Nymphes",
+          "Chenilles",
+          "Vers blancs",
+          "Coques"
+        ],
+        "réponse": "Vers blancs",
+        "anecdote": "Les vers blancs se transforment en nymphes. Au bout de 4 à 6 semaines, un coléoptère sortira du cocon."
+      },
+      {
+        "id": 6,
+        "question": "De quoi est faite la coquille de l'escargot de Bourgogne ?",
+        "propositions": [
+          "Calcaire",
+          "Schiste",
+          "Corne",
+          "Granit"
+        ],
+        "réponse": "Calcaire",
+        "anecdote": "La coquille en spirale de l'escargot de Bourgogne mesure jusqu'à 10 cm et est composée de calcaire."
+      },
+      {
+        "id": 7,
+        "question": "Comment s'appelle la femelle du renard, encore fréquemment appelé goupil ?",
+        "propositions": [
+          "Renarde",
+          "Renardelle",
+          "Renardine",
+          "Renardeaude"
+        ],
+        "réponse": "Renarde",
+        "anecdote": "Les caractéristiques générales des renards sont celles des Canidés, avec des nuances pour chaque espèce."
+      },
+      {
+        "id": 8,
+        "question": "Combien de vertèbres possède un ver de terre, dont plus de 5 000 espèces sont connues ?",
+        "propositions": [
+          "432",
+          "32",
+          "Aucune",
+          "178"
+        ],
+        "réponse": "Aucune",
+        "anecdote": "Un ver de terre est un invertébré et ne possède donc aucune vertèbre."
+      },
+      {
+        "id": 9,
+        "question": "Parmi ces propositions, laquelle désigne une sorte de « souris des champs » ?",
+        "propositions": [
+          "Muscardin",
+          "Mulet",
+          "Musaraigne",
+          "Mulot"
+        ],
+        "réponse": "Mulot",
+        "anecdote": "Les musaraignes, ressemblant à une souris vues de loin, malgré leur nez pointu, sont aussi parfois qualifiées par erreur de mulots."
+      },
+      {
+        "id": 10,
+        "question": "Quel partie du corps de la mouche bleue lui permet de manger ?",
+        "propositions": [
+          "La trompe",
+          "Les ailes",
+          "Les pattes",
+          "Les mâchoires"
+        ],
+        "réponse": "La trompe",
+        "anecdote": "Grâce à cette trompe, la mouche bleue peut aspirer pollens et nectars."
+      }
+    ],
+    "confirmé": [
+      {
+        "id": 11,
+        "question": "Quelle graminée cultivée comme céréale ou comme fourrage ne possède pas de barbe ?",
+        "propositions": [
+          "Seigle",
+          "Orge",
+          "Blé",
+          "Avoine"
+        ],
+        "réponse": "Avoine",
+        "anecdote": "L'avoine est la seule graminée à ne pas posséder de barbe, la barbe la plus longue se trouvant sur l'orge."
+      },
+      {
+        "id": 12,
+        "question": "Comment le lièvre est-il parfois appelé en raison de sa robe brune ?",
+        "propositions": [
+          "Augustin",
+          "Capucin",
+          "Jacobin",
+          "Chanoine"
+        ],
+        "réponse": "Capucin",
+        "anecdote": "La robe brune du lièvre ressemble à la bure des moines capucins, d'où son nom."
+      },
+      {
+        "id": 13,
+        "question": "Quelles plantes possédant des fruits à noyau peut-on trouver en lisière des forêts ?",
+        "propositions": [
+          "Les prunelles",
+          "Les nénuphars",
+          "Le lierre grimpant",
+          "Les cactus"
+        ],
+        "réponse": "Les prunelles",
+        "anecdote": "Leurs fruits, très astringents et acides, sont mangés par les oiseaux et les insectes en automne."
+      },
+      {
+        "id": 14,
+        "question": "Combien de points la coccinelle des légumineuses a-t-elle sur sa carapace ?",
+        "propositions": [
+          "24",
+          "44",
+          "14",
+          "34"
+        ],
+        "réponse": "24",
+        "anecdote": "La coccinelle des légumineuses possède des ailes oranges marquées de 24 points."
+      },
+      {
+        "id": 15,
+        "question": "Quelle est la particularité du vol du faucon crécerelle ?",
+        "propositions": [
+          "Il est stationnaire",
+          "Il est en vagues",
+          "Il est actif",
+          "Il est vertical"
+        ],
+        "réponse": "Il est stationnaire",
+        "anecdote": "Les ornithologues l'ont appelé ainsi à cause de son cri très aigu et plutôt désagréable."
+      },
+      {
+        "id": 16,
+        "question": "Entouré de ses poils piquants, quel âge un hérisson peut-il atteindre ?",
+        "propositions": [
+          "6 mois",
+          "De 1 à 3 ans",
+          "De 3 à 7 ans",
+          "De 8 à 12 ans"
+        ],
+        "réponse": "De 3 à 7 ans",
+        "anecdote": "Les épines ont une fonction de protection, mais les manuels antiques imaginaient qu'elles servaient à récolter de la nourriture."
+      },
+      {
+        "id": 17,
+        "question": "De combien de degrés le faucon crécerelle peut-il tourner la tête ?",
+        "propositions": [
+          "320",
+          "270",
+          "180",
+          "120"
+        ],
+        "réponse": "180",
+        "anecdote": "Le faucon crécerelle peut ainsi surveiller sa zone de chasse sans se déplacer."
+      },
+      {
+        "id": 18,
+        "question": "Considéré comme insecte ravageur, à quelle hauteur un criquet peut-il sauter ?",
+        "propositions": [
+          "12 cm",
+          "70 cm",
+          "130 cm",
+          "210 cm"
+        ],
+        "réponse": "70 cm",
+        "anecdote": "Par rapport à sa taille, aucun être vivant sur Terre n'est capable de sauter aussi haut."
+      },
+      {
+        "id": 19,
+        "question": "Comment appelle-t-on un bois de cerf à douze excroissances ?",
+        "propositions": [
+          "Un 12 cors",
+          "Un 12 breuil",
+          "Un 12 sylve",
+          "Un 12 fourré"
+        ],
+        "réponse": "Un 12 cors",
+        "anecdote": "Le cerf perd ses bois en février et les nouveaux bois auront deux excroissances de plus."
+      },
+      {
+        "id": 20,
+        "question": "Quel animal prétendument disparu depuis presque 100 ans est réapparu en 2009 ?",
+        "propositions": [
+          "Le faisan",
+          "Le chat sauvage",
+          "La vipère",
+          "La loutre"
+        ],
+        "réponse": "Le chat sauvage",
+        "anecdote": "Le chat sauvage a fait son apparition en Allemagne, après avoir disparu depuis 1912."
+      }
+    ],
+    "expert": [
+      {
+        "id": 21,
+        "question": "Quel est l'autre nom de la primevère, une des premières fleurs du printemps ?",
+        "propositions": [
+          "Coucou",
+          "Merle",
+          "Moineau",
+          "Pivert"
+        ],
+        "réponse": "Coucou",
+        "anecdote": "Les petites fleurs jaunes de la primevère annoncent le printemps comme le fait le coucou, l'oiseau."
+      },
+      {
+        "id": 22,
+        "question": "Quand fleurit la camomille sauvage, parfois appelée camomille allemande ?",
+        "propositions": [
+          "De juillet à février",
+          "De janvier à avril",
+          "De mai à septembre",
+          "De mai à juillet"
+        ],
+        "réponse": "De mai à septembre",
+        "anecdote": "Cette plante médicinale, utilisée depuis l'Antiquité gréco-latine, est simplement appelée « camomille » en herboristerie."
+      },
+      {
+        "id": 23,
+        "question": "Quel mustélidé, essentiellement rencontré en zone de montagne, change de fourrure en hiver ?",
+        "propositions": [
+          "L'hermine",
+          "Le blaireau",
+          "La loutre",
+          "Le putois"
+        ],
+        "réponse": "L'hermine",
+        "anecdote": "Vers la mi-mars l'hermine commence sa mue pour retrouver sa couleur d'été juste avant la saison des amours."
+      },
+      {
+        "id": 24,
+        "question": "Avec quelle plante peut-on confondre l'ail des ours, jadis associé à la magie blanche ?",
+        "propositions": [
+          "Muguet",
+          "Primevère",
+          "Basilic",
+          "Origan"
+        ],
+        "réponse": "Muguet",
+        "anecdote": "La confusion, assez fréquente, peut être très dangereuse et entraîner la mort."
+      },
+      {
+        "id": 25,
+        "question": "De quelle manière les musaraignes explorent-elles leur environnement ?",
+        "propositions": [
+          "Avec leur odorat",
+          "Par télépathie",
+          "Par infrarouge",
+          "Par écho"
+        ],
+        "réponse": "Par écho",
+        "anecdote": "La musaraigne lance des cris stridents qui sont renvoyés par des obstacles."
+      },
+      {
+        "id": 26,
+        "question": "Quelle espèce de corneille nichant en colonies possède un bec clair ?",
+        "propositions": [
+          "La corneille mantelée",
+          "La pie bavarde",
+          "La corneille noire",
+          "Le corbeau freux"
+        ],
+        "réponse": "Le corbeau freux",
+        "anecdote": "Le freux possède une robe tout à fait caractéristique, mais on peut cependant confondre les oisillons avec les corneilles."
+      },
+      {
+        "id": 27,
+        "question": "Quel est l'autre nom du chevreuil mâle, petit animal agile et très rapide ?",
+        "propositions": [
+          "Le renne",
+          "Le daim",
+          "Le brocard",
+          "Le cerf"
+        ],
+        "réponse": "Le brocard",
+        "anecdote": "Tous les chevreuils appartiennent à la famille des cervidés. Les mâles portent des bois."
+      },
+      {
+        "id": 28,
+        "question": "Comment les Américains nomment-ils le doryphore de la pomme de terre ?",
+        "propositions": [
+          "Big dory",
+          "Lady potatoe",
+          "Colorado beetle",
+          "Azirona bug"
+        ],
+        "réponse": "Colorado beetle",
+        "anecdote": "Le doryphore de la pomme de terre est originaire de lÉtat du Colorado, aux États-Unis."
+      },
+      {
+        "id": 29,
+        "question": "Laquelle de ces propositions ne désigne pas un coléoptère ?",
+        "propositions": [
+          "Cerf-volant",
+          "Scarabée zèbre",
+          "Bousier",
+          "Scarabée rhinocéros"
+        ],
+        "réponse": "Scarabée zèbre",
+        "anecdote": "La première paire d'ailes, quelquefois très colorée, appelée élytres, forme la carapace de ces insectes."
+      },
+      {
+        "id": 30,
+        "question": "Avec son masque noir bordé de blanc, d'où le raton laveur est-il originaire ?",
+        "propositions": [
+          "Amérique du Nord",
+          "Océanie",
+          "Afrique",
+          "Australie"
+        ],
+        "réponse": "Amérique du Nord",
+        "anecdote": "Le raton laveur doit son nom à son habitude, plus ou moins réelle, de tremper ses aliments dans leau avant de les manger."
+      }
+    ]
+  }
+}

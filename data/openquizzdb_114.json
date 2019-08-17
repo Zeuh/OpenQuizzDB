@@ -1,0 +1,374 @@
+{
+  "fournisseur": "OpenQuizzDB - Fournisseur de contenu libre (www.openquizzdb.org)",
+  "rédacteur": "Philippe Bresoux",
+  "thème": "Bob l'éponge",
+  "difficulté": 2,
+  "quizz": {
+    "débutant": [
+      {
+        "id": 1,
+        "question": "Tout le monde connaît Bob l'éponge, mais que représente-t-il en réalité ?",
+        "propositions": [
+          "Une palourde",
+          "Une éponge de mer",
+          "Une étoile de mer",
+          "Un hippocampe"
+        ],
+        "réponse": "Une éponge de mer",
+        "anecdote": "Bob travaille comme cuisinier au Crabe croustillant, un restaurant dirigé par un crabe, le Capitaine Krabs."
+      },
+      {
+        "id": 2,
+        "question": "De quelle couleur est le corps de Bob l'éponge, la célèbre éponge de mer ?",
+        "propositions": [
+          "Blanche",
+          "Jaune",
+          "Grise",
+          "Rose"
+        ],
+        "réponse": "Jaune",
+        "anecdote": "La plupart du temps, on ne voit que ses deux dents de devant, mais il a en fait toutes ses dents bien en place."
+      },
+      {
+        "id": 3,
+        "question": "Sur quelle chaîne de télévision était originalement diffusée la série 'Bob l'éponge' ?",
+        "propositions": [
+          "Nickelodeon",
+          "TF1",
+          "CBS",
+          "Fox"
+        ],
+        "réponse": "Nickelodeon",
+        "anecdote": "Première chaîne au monde spécialisée pour les enfants, Nickelodeon a émis en 1979 sous le nom de Pinwheel."
+      },
+      {
+        "id": 4,
+        "question": "Dans la saga 'Bob l'éponge', Sandy, qui vient de la surface, est en fait...",
+        "propositions": [
+          "Un écureuil",
+          "Un lama",
+          "Un hamster",
+          "Un chat"
+        ],
+        "réponse": "Un écureuil",
+        "anecdote": "Sandy s'est construit un dôme d'air en polyuréthane au fond de l'océan pour vivre normalement comme si elle était sur terre."
+      },
+      {
+        "id": 5,
+        "question": "Quel personnage et ami de Bob l'éponge vit sous un rocher ?",
+        "propositions": [
+          "Eugène",
+          "Patrick",
+          "Carlo",
+          "Sandy"
+        ],
+        "réponse": "Patrick",
+        "anecdote": "Ses loisirs sont surtout : regarder la télévision, manger des pâtés de crabe, pêcher la méduse et dormir."
+      },
+      {
+        "id": 6,
+        "question": "Quel est le nom du patron de Bob l'éponge dans la série du même nom ?",
+        "propositions": [
+          "M. Plaice",
+          "M. Krabs",
+          "M. Thomas",
+          "M. Bates"
+        ],
+        "réponse": "M. Krabs",
+        "anecdote": "Il parle comme un marin, il a beaucoup de connaissances dans le domaine de la mer et possède un bateau, le Cheapskate."
+      },
+      {
+        "id": 7,
+        "question": "Quel personnage terrestre de 'Bob l'éponge' hiberne en hiver ?",
+        "propositions": [
+          "Carlo",
+          "Patrick",
+          "Sandy",
+          "Plankton"
+        ],
+        "réponse": "Sandy",
+        "anecdote": "Sandy a pensé à rapporter des créatures terrestre dans son jardin et vit avec des oiseaux, des papillons et des araignées."
+      },
+      {
+        "id": 8,
+        "question": "Quel est la couleur de Patrick, célèbre compagnon de Bob l'éponge ?",
+        "propositions": [
+          "Jaune",
+          "Rose",
+          "Verte",
+          "Bleue"
+        ],
+        "réponse": "Rose",
+        "anecdote": "Patrick, l'étoile de mer saumon de Bikini Bottom habite seul sous une grosse pierre au 120 de la rue des Conques."
+      },
+      {
+        "id": 9,
+        "question": "Qu'est-ce Bob l'éponge aime faire avec Sandy dès qu'il a un peu de temps devant lui ?",
+        "propositions": [
+          "Du tennis",
+          "Du karaté",
+          "Du rugby",
+          "Du foot"
+        ],
+        "réponse": "Du karaté",
+        "anecdote": "Sandy est très gentille et souvent de bonne humeur, mais elle peut vite devenir agressive quand on se moque des écureuils."
+      },
+      {
+        "id": 10,
+        "question": "Lequel de ces mots est fréquemment prononcé par Gary l'escargot dans 'Bob l'éponge' ?",
+        "propositions": [
+          "Miaou",
+          "Meuh",
+          "Wouf",
+          "Bêêh"
+        ],
+        "réponse": "Miaou",
+        "anecdote": "Gary est beaucoup plus intelligent que son maître et a souvent de bien meilleures solutions aux problèmes que lui."
+      }
+    ],
+    "confirmé": [
+      {
+        "id": 11,
+        "question": "Quel est le nom du populaire hamburger vendu au Crabe Croustillant dans 'Bob l'éponge' ?",
+        "propositions": [
+          "Pâté de crabe",
+          "Burger aux huîtres",
+          "Burger de Neptune",
+          "Pâté en croûte"
+        ],
+        "réponse": "Pâté de crabe",
+        "anecdote": "Le restaurant est dirigé par Eugène Krabs, vétéran de la guerre, cupide, radin, possessif mais néanmoins sympathique."
+      },
+      {
+        "id": 12,
+        "question": "Quel était le nom initial anglais de Bob l'éponge avant qu'il ne devienne Bob l'éponge ?",
+        "propositions": [
+          "SpongeLarry",
+          "SpongeBoy",
+          "SpongeKid",
+          "SpongeFred"
+        ],
+        "réponse": "SpongeBoy",
+        "anecdote": "Une attraction 'SpongeBob SquarePants 4-D' se trouve dans le Six Flags Over Texas, aux États-Unis."
+      },
+      {
+        "id": 13,
+        "question": "À quel animateur et ex-biologiste doit-on la série télévisée 'Bob l'éponge' ?",
+        "propositions": [
+          "Scott MacDonald",
+          "Ash Brannon",
+          "Chris Sanders",
+          "Stephen Hillenburg"
+        ],
+        "réponse": "Stephen Hillenburg",
+        "anecdote": "Après le film, Stephen Hillenburg a cessé de travailler pour la série et a légué son rôle à Paul Tibbitt."
+      },
+      {
+        "id": 14,
+        "question": "Quel est le prénom du maître nageur de Goo Lagoon dans 'Bob l'éponge' ?",
+        "propositions": [
+          "Larry",
+          "Thomas",
+          "Benny",
+          "Ian"
+        ],
+        "réponse": "Larry",
+        "anecdote": "Aussi bizarre que cela puisse paraître, il y en effet a un lagon (fait de pétrole) à Bikini Bottom, sous l'océan."
+      },
+      {
+        "id": 15,
+        "question": "Qui est directrice et monitrice de l'école de conduite visible dans 'Bob l'éponge' ?",
+        "propositions": [
+          "Sandy",
+          "Potty",
+          "Mme. Puff",
+          "Mr. Krabs"
+        ],
+        "réponse": "Mme. Puff",
+        "anecdote": "Madame Puff est plus ou moins condamnée à avoir Bob comme élève jusqu'à la fin de sa vie."
+      },
+      {
+        "id": 16,
+        "question": "Quel est le nom de l'acolyte de l'Homme Sirène dans la série 'Bob l'éponge' ?",
+        "propositions": [
+          "Bernard l'Ermite",
+          "L'Homme Requin",
+          "Patrick Plastique",
+          "Le Garçon Palourde"
+        ],
+        "réponse": "Bernard l'Ermite",
+        "anecdote": "Bernard l'Ermitea les mêmes pouvoirs que l'Homme Sirène, c'est à dire qu'il peut invoquer les créatures du fond de l'océan."
+      },
+      {
+        "id": 17,
+        "question": "Quel triton est le Roi de la mer dans le dessin animé 'Bob l'éponge' ?",
+        "propositions": [
+          "Mars",
+          "Jupiter",
+          "Neptune",
+          "Pluton"
+        ],
+        "réponse": "Neptune",
+        "anecdote": "Neptune a un gros complexe : il est chauve et devient furieux quand sa couronne disparaît pour montrer sa calvitie."
+      },
+      {
+        "id": 18,
+        "question": "De quelle couleur sont les pantoufles de l'Homme Sirène dans 'Bob l'éponge' ?",
+        "propositions": [
+          "Rouge",
+          "Rose",
+          "Jaune",
+          "Bleue"
+        ],
+        "réponse": "Rose",
+        "anecdote": "À cause de son âge, l'Homme Sirène perd un peu la tête et oublie tout, même ce qu'il a mangé au petit déjeuner."
+      },
+      {
+        "id": 19,
+        "question": "Quel personnage de la série 'Bob l'éponge' aime peindre des autoportraits ?",
+        "propositions": [
+          "Bob l'éponge",
+          "Patrick",
+          "Carlo Tentacule",
+          "L'Homme Sirène"
+        ],
+        "réponse": "Carlo Tentacule",
+        "anecdote": "Carlo Tentacule est un calmar grognon qui vit dans les fonds des océans et prétend que Bob et Patrick sont des crétins."
+      },
+      {
+        "id": 20,
+        "question": "Quel est le travail exercé par Sandy dans 'Bob l'éponge' ?",
+        "propositions": [
+          "Enseignante",
+          "Policière",
+          "Scientifique",
+          "Journaliste"
+        ],
+        "réponse": "Scientifique",
+        "anecdote": "S'intéressant à l'astronomie, Sandy est déjà allée sur la Lune et a construit sa propre fusée pour y retourner."
+      }
+    ],
+    "expert": [
+      {
+        "id": 21,
+        "question": "De quelle couleur est la coquille de Gary dans 'Bob l'éponge' ?",
+        "propositions": [
+          "Blanche",
+          "Rose",
+          "Verte",
+          "Jaune"
+        ],
+        "réponse": "Rose",
+        "anecdote": "Animal domestique de Bob l'éponge, Gary l'escargot émet une large bande de salive après son passage."
+      },
+      {
+        "id": 22,
+        "question": "Qui a remporté la compétition « Bernard l'Hermite » en saison 1 de 'Bob l'éponge' ?",
+        "propositions": [
+          "Gary",
+          "Bob l'éponge",
+          "Sandy",
+          "Patrick"
+        ],
+        "réponse": "Bob l'éponge",
+        "anecdote": "Chaque épisode de 'Bob l'éponge' est constitué de 1 à 3 épisodes individuels (le plus généralement 2)."
+      },
+      {
+        "id": 23,
+        "question": "De quelle couleur sont les chaussures du désormais célèbre Bob l'éponge ?",
+        "propositions": [
+          "Rouges",
+          "Noires",
+          "Bleues",
+          "Jaunes"
+        ],
+        "réponse": "Noires",
+        "anecdote": "La création du personnage de Bob l'éponge a été pensée par Hillenburg en 1984 lors d'une étude de la biologie marine."
+      },
+      {
+        "id": 24,
+        "question": "Quel est la prénom de la fille de Mr. Krabs dans la saga 'Bob l'éponge' ?",
+        "propositions": [
+          "Sharon",
+          "Vanessa",
+          "Sandy",
+          "Pearl"
+        ],
+        "réponse": "Pearl",
+        "anecdote": "La raison pour laquelle la fille de Krabs est une baleine, de surcroît majorette adolescente, reste inconnue."
+      },
+      {
+        "id": 25,
+        "question": "Qui est arrivé à Bikini Bottom durant la saison 9 de la série 'Bob l'éponge' ?",
+        "propositions": [
+          "Rodney le lapin",
+          "Sid le serpent",
+          "Dawson le chien",
+          "Kenny le chat"
+        ],
+        "réponse": "Kenny le chat",
+        "anecdote": "Bikini Bottom est une ville dans l'Océan Pacifique représentant la véritable vie marine de l'île d'Atoll de Bikini."
+      },
+      {
+        "id": 26,
+        "question": "En quoi a été transformé le mari de Mme Puff dans la saga 'Bob l'éponge' ?",
+        "propositions": [
+          "En lampe",
+          "En chaise",
+          "En vélo",
+          "En tapis"
+        ],
+        "réponse": "En lampe",
+        "anecdote": "Transformé par les humains, la pauvre Madame Puff n'en parle jamais tant ça lui fait du chagrin de repenser à lui."
+      },
+      {
+        "id": 27,
+        "question": "Quel nom Patchy le pirate a-t-il donné à son perroquet domestique plus agaçant ?",
+        "propositions": [
+          "Potty",
+          "Marbles",
+          "Looney",
+          "Nutty"
+        ],
+        "réponse": "Potty",
+        "anecdote": "Le pirate est là pour présenter, toujours de manière très drôle, les épisodes spéciaux de 'Bob l'éponge'."
+      },
+      {
+        "id": 28,
+        "question": "En quoi se transforment ceux qui souffrent de la maladie de l'escargot fou dans 'Bob l'éponge' ?",
+        "propositions": [
+          "En écureuils",
+          "En vaches",
+          "En zombies",
+          "En chevaux"
+        ],
+        "réponse": "En zombies",
+        "anecdote": "Bob a la possibilité de prendre n'importe quelle forme, mais c'est surtout pour faire des gags."
+      },
+      {
+        "id": 29,
+        "question": "Dans 'Bob l'éponge', quel prénom Sandy a-t-elle donné à sa chenille qui deviendra papillon ?",
+        "propositions": [
+          "Wormy",
+          "Geoff",
+          "Catty",
+          "Paul"
+        ],
+        "réponse": "Wormy",
+        "anecdote": "Une fois devenue papillon, Bob et Patrick n'ont jamais vu de telles créatures et ils sont effrayés, tout comme les habitants."
+      },
+      {
+        "id": 30,
+        "question": "Quel personnage de la série 'Bob l'éponge' est l'heureux propriétaire d'un bateau invisible ?",
+        "propositions": [
+          "Mindy",
+          "L'Homme Sirène",
+          "Patrick",
+          "Plankton"
+        ],
+        "réponse": "L'Homme Sirène",
+        "anecdote": "L'Homme Sirène peut invoquer des créatures du fond des océans, lancer des boules d'eau ou faire des tourbillons."
+      }
+    ]
+  }
+}

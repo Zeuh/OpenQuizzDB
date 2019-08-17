@@ -1,0 +1,374 @@
+{
+  "fournisseur": "OpenQuizzDB - Fournisseur de contenu libre (www.openquizzdb.org)",
+  "rédacteur": "Philippe Bresoux",
+  "thème": "Culture et personnalités",
+  "difficulté": 3,
+  "quizz": {
+    "débutant": [
+      {
+        "id": 1,
+        "question": "De quelle poupée de 29 cm au succès international Ruth Handler est-elle la créatrice ?",
+        "propositions": [
+          "Jasmine",
+          "Rosella",
+          "Blondine",
+          "Barbie"
+        ],
+        "réponse": "Barbie",
+        "anecdote": "Barbie fait le régal des petites filles depuis 1959 et suscite aussi de nombreuses controverses suite à son image."
+      },
+      {
+        "id": 2,
+        "question": "Quel célèbre chef cuisinier et restaurateur français s'est donné la mort le 24 février 2003 ?",
+        "propositions": [
+          "Bernard Loiseau",
+          "Patrick Bertron",
+          "Richard Leblanc",
+          "Arnaud Lallement"
+        ],
+        "réponse": "Bernard Loiseau",
+        "anecdote": "Né en 1951, il avait été formé chez les frères Troisgros à Roanne et avait bâti un empire, faisant une marque de son nom."
+      },
+      {
+        "id": 3,
+        "question": "Quel écrivain belge a fait son entrée dans la collection 'La Pléiade' le 6 mars 2003 ?",
+        "propositions": [
+          "Roger Foulon",
+          "Georges Simenon",
+          "Michel Delville",
+          "Edmond Lacoste"
+        ],
+        "réponse": "Georges Simenon",
+        "anecdote": "Une belle consécration pour l'auteur qui côtoie Balzac, Proust et Kafka dans cette prestigieuse collection."
+      },
+      {
+        "id": 4,
+        "question": "Quel ex-Beatle a donné un concert sur la place Rouge de Moscou le 24 mai 2003 ?",
+        "propositions": [
+          "John Lennon",
+          "Paul McCartney",
+          "George Harrison",
+          "Ringo Starr"
+        ],
+        "réponse": "Paul McCartney",
+        "anecdote": "L'événement très inhabituel dans ce pays rassembla 20 000 personnes dont le président russe Vladimir Poutine."
+      },
+      {
+        "id": 5,
+        "question": "Des pommes, des poires et des scoubidous : quel chanteur nous a quitté en 2004 ?",
+        "propositions": [
+          "Eddy Mitchell",
+          "Sacha Distel",
+          "Enrico Macias",
+          "Claude Nougaro"
+        ],
+        "réponse": "Sacha Distel",
+        "anecdote": "La carrière du chanteur né le 29 janvier 1933 avait été lancée en 1958 avec la chanson 'Scoubidou'."
+      },
+      {
+        "id": 6,
+        "question": "Qui est l'auteur du best-seller 'Da Vinci Code' publié à des millions d'exemplaires ?",
+        "propositions": [
+          "Robert Bloch",
+          "Kent Anderson",
+          "David Baldacci",
+          "Dan Brown"
+        ],
+        "réponse": "Dan Brown",
+        "anecdote": "L'auteur signe là un roman d'aventures ésotériques dont l'un des épisodes clés de situe dans l'église Saint-Sulpice à Paris."
+      },
+      {
+        "id": 7,
+        "question": "Connu pour ses soirées blanches à Saint-Tropez, qui avait découvert entre autres Brel et Dalida ?",
+        "propositions": [
+          "Eddie Barclay",
+          "Tristan Duval",
+          "Valéry Zeitoun",
+          "Johnny Stark"
+        ],
+        "réponse": "Eddie Barclay",
+        "anecdote": "Célèbre pour ses huit mariages, Eddie Barclay avait rapporté des États-Unis le microsillon."
+      },
+      {
+        "id": 8,
+        "question": "Qui s'était fait connaître avec sa chanson 'Gaby oh Gaby', en 1980 ?",
+        "propositions": [
+          "Florent Pagny",
+          "Alain Souchon",
+          "Alain Bashung",
+          "Patrick Bruel"
+        ],
+        "réponse": "Alain Bashung",
+        "anecdote": "Ses nombreux tubes lui avaient permis de devenir l'artiste français le plus récompensé avec 11 victoires de la musique."
+      },
+      {
+        "id": 9,
+        "question": "Quel était le surnom de Michael Jackson qui nous quitta le 25 juin 2009 à seulement 50 ans ?",
+        "propositions": [
+          "Roi de la pop",
+          "Fils du roi",
+          "Dieu de la scène",
+          "Prince du raï"
+        ],
+        "réponse": "Roi de la pop",
+        "anecdote": "Star dès l'enfance avec ses frères, les Jackson Five, Michael Jackson a inventé les clips comme de véritables courts métrages."
+      },
+      {
+        "id": 10,
+        "question": "Le 10 juin 2000, quel chanteur a fêté ses 40 ans de carrière sur le Champ-de-Mars ?",
+        "propositions": [
+          "Sacha Distel",
+          "Paul McCartney",
+          "Claude Nougaro",
+          "Johnny Hallyday"
+        ],
+        "réponse": "Johnny Hallyday",
+        "anecdote": "Un million de personnes se sont déplacées pour entendre vingt-quatre tubes du chanteur dans ce concert gratuit."
+      }
+    ],
+    "confirmé": [
+      {
+        "id": 11,
+        "question": "Quel artiste originaire de Toulouse avait chanté sa « ville rose » comme personne ?",
+        "propositions": [
+          "Alain Bashung",
+          "Claude Nougaro",
+          "Marcel Amont",
+          "Francis Cabrel"
+        ],
+        "réponse": "Claude Nougaro",
+        "anecdote": "« Troubadour baroque » comme il aimait à se définir, il a été emporté par une longue maladie le 4 mars 2004."
+      },
+      {
+        "id": 12,
+        "question": "Quel chef cuisinier français a été sacré « meilleur cuisinier du monde » le 8 mars 2003 ?",
+        "propositions": [
+          "Norbert Tarayre",
+          "Thierry Marx",
+          "Alain Ducasse",
+          "Philippe Etchebest"
+        ],
+        "réponse": "Alain Ducasse",
+        "anecdote": "Directeur du Plaza Athénée à Paris, Alain Ducasse a reçu ce titre de l'Amarican Academy of Hspitality and Science."
+      },
+      {
+        "id": 13,
+        "question": "Quel chanteur et acteur a donné quatre concerts au Parc des Princes pour fêter ses 60 ans ?",
+        "propositions": [
+          "Johnny Hallyday",
+          "Dick Rivers",
+          "Marc Lavoine",
+          "Alain Souchon"
+        ],
+        "réponse": "Johnny Hallyday",
+        "anecdote": "60 000 spectateurs se sont pressés le 15 juin pour le dernier de ces concerts et pour fêter cet anniversaire."
+      },
+      {
+        "id": 14,
+        "question": "Quelle actrice française est morte des suites de coups de son compagnon le 1er août 2003 ?",
+        "propositions": [
+          "Marie Trintignant",
+          "Dominique Lavanant",
+          "Danielle Darrieux",
+          " Julie Depardieu"
+        ],
+        "réponse": "Marie Trintignant",
+        "anecdote": "Marie Trintignant s'était violemment disputée avec son compagnon Bertrand Cantat, leader du groupe Noir Désir."
+      },
+      {
+        "id": 15,
+        "question": "De son vrai nom Françoise Quirez, qui avait connu le succès dès son 1er livre, 'Bonjour tristesse' ?",
+        "propositions": [
+          "Jeanne Moreau",
+          "Françoise Sagan",
+          "Ingrid Bergman",
+          "Michèle Morgan"
+        ],
+        "réponse": "Françoise Sagan",
+        "anecdote": "Le « charmant petit monstre », tel que la surnommait François Mauriac, nous a laissé des livres d'un talent indiscutable."
+      },
+      {
+        "id": 16,
+        "question": "Quel personnage le dessinateur de BD Morris a-t-il laissé plus seul que jamais en 2001 ?",
+        "propositions": [
+          "Cédric",
+          "Papyrus",
+          "Gaston",
+          "Lucky Luke"
+        ],
+        "réponse": "Lucky Luke",
+        "anecdote": "Après 97 albums, le dessinateur belge né en 1923 s'imposait comme un maître de la ligne claire."
+      },
+      {
+        "id": 17,
+        "question": "Quelle présentatrice télé le prince Felipe d'Espagne a-t-il épousé le 22 mai 2004 ?",
+        "propositions": [
+          "Joaquina Vedruna",
+          "Letizia Ortiz",
+          "Clara del Rey",
+          "Conchita Puig"
+        ],
+        "réponse": "Letizia Ortiz",
+        "anecdote": "Les tenants de la tradition trouvèrent sacrilège qu'un futur roi épouse une roturière, divorcée de surcroît."
+      },
+      {
+        "id": 18,
+        "question": "À qui appartenaient les plus beaux yeux bleus d'Hollywood, définitivement fermés en 2008 ?",
+        "propositions": [
+          "Robert Duvall",
+          "Paul Newman",
+          "Ben Kingsley",
+          "Henry Fonda"
+        ],
+        "réponse": "Paul Newman",
+        "anecdote": "Ayant joué dans quelques soixante films, ses yeux bleus en avaient fait le séducteur d'Hollywood."
+      },
+      {
+        "id": 19,
+        "question": "Quelle femme fut élue à l'Académie française au fauteuil de Pierre Messmer ?",
+        "propositions": [
+          "Roselyne Bachelot",
+          "Élisabeth Hubert",
+          "Simone Veil",
+          "Marisol Touraine"
+        ],
+        "réponse": "Simone Veil",
+        "anecdote": "Figure majeure de la politique, plusieurs fois ministre, elle a été en 1975 l'instigatrice de la loi légalisant l'IVG."
+      },
+      {
+        "id": 20,
+        "question": "Quel auteur français populaire a laissé San-Antonio orphelin le 6 juin 2000 ?",
+        "propositions": [
+          "Pierre Forquin",
+          "François Brigneau",
+          "Frédéric Dard",
+          "Michel Carnal"
+        ],
+        "réponse": "Frédéric Dard",
+        "anecdote": "Les prolifiques aventures de San Antonio ont révélé Frédéric Dard comme un maître du langage populaire."
+      }
+    ],
+    "expert": [
+      {
+        "id": 21,
+        "question": "Quel est le titre du premier livre pour enfants écrit par la chanteuse américaine Madonna ?",
+        "propositions": [
+          "Les Roses Anglaises",
+          "Bonjour matin",
+          "Le beau Soleil",
+          "Il était une fois"
+        ],
+        "réponse": "Les Roses Anglaises",
+        "anecdote": "C'est à Paris que la chanteuse a choisi d'effectuer le lancement international de cet ouvrage publié en 30 langues."
+      },
+      {
+        "id": 22,
+        "question": "À quel écrivain et critique littéraire fut attribué le très prestigieux 100e prix Goncourt ?",
+        "propositions": [
+          "René Maran",
+          "Patrick Grainville",
+          "Henri Pourrat",
+          "Jacques-Pierre Amette"
+        ],
+        "réponse": "Jacques-Pierre Amette",
+        "anecdote": "Ce prix anniversaire a été attribué quinze jours plus tôt que prévu, passant ainsi devant le prix Femina."
+      },
+      {
+        "id": 23,
+        "question": "Quel auteur de romans d'espionnage a avoué en 2000 avoir bien été espion ?",
+        "propositions": [
+          "Nicolas Freeling",
+          "Adam Hall",
+          "Eric Ambler",
+          "John Le Carré"
+        ],
+        "réponse": "John Le Carré",
+        "anecdote": "Diplomate, John Le Carré travaillait en fait pour l'Intelligence Service depuis ses études à Berne."
+      },
+      {
+        "id": 24,
+        "question": "Quel anthropologue fut élu à la quasi unanimité à l'Académie française le 17 mars 2005 ?",
+        "propositions": [
+          "Alain Bertho",
+          "Didier Fassin",
+          "Alain Le Pichon",
+          "René Girard"
+        ],
+        "réponse": "René Girard",
+        "anecdote": "Son uvre anthropologique est formée à l'écart des courants philosophiques de son temps."
+      },
+      {
+        "id": 25,
+        "question": "Quelle chanteuse a retrouvé en 2001 sa photographie sur des paquets de préservatifs ?",
+        "propositions": [
+          "Britney Spears",
+          "Lady Gaga",
+          "Madonna",
+          "Janet Jackson"
+        ],
+        "réponse": "Madonna",
+        "anecdote": "La chanteuse qui n'avait pas donné son autorisation n'a pu les faire retirer, la photo étant exploitable à vie."
+      },
+      {
+        "id": 26,
+        "question": "Qui a mis un terme à sa carrière de styliste de haute couture le 22 janvier 2002 ?",
+        "propositions": [
+          "Alexander McQueen",
+          "Christian Dior",
+          "Yves Saint Laurent",
+          "André Courrèges"
+        ],
+        "réponse": "Yves Saint Laurent",
+        "anecdote": "Plusieurs milliers de personnes suivirent son dernier défilé sur le parvis du centre Pompidou, sur écran géant."
+      },
+      {
+        "id": 27,
+        "question": "Qui a créé la polémique en exposant ses uvres pop kitsch au cur du château de Versailles ?",
+        "propositions": [
+          "Lawrence Weiner",
+          "Jeff Koons",
+          "Andy Warhol",
+          "Mark Wallinger"
+        ],
+        "réponse": "Jeff Koons",
+        "anecdote": "L'installation du « roi du kitsch » chez le Roi-Soleil ne fut pas du goût de tous qui « porte atteinte aux intérêts de la France »."
+      },
+      {
+        "id": 28,
+        "question": "Qui fut le premier écrivain du Maghreb a revêtir l'habit vert de l'Académie française ?",
+        "propositions": [
+          "Assia Djebar",
+          "Anna Gréki",
+          "Salima Ghezali",
+          "Myriam Ben"
+        ],
+        "réponse": "Assia Djebar",
+        "anecdote": "À la fois essayiste, romancière et cinéaste, Assia Djebar est le premier écrivain du Maghreb à devenir « immortel »."
+      },
+      {
+        "id": 29,
+        "question": "Quelle chanteuse islandaise fut récompensée en 2000 pour sa performance d'actrice ?",
+        "propositions": [
+          "Heioa",
+          "Soley",
+          "Arndis Halla",
+          "Björk"
+        ],
+        "réponse": "Björk",
+        "anecdote": "Björk fut consacrée par le 53e festival de Cannes pour son interprétation dans le film danois 'Dancer in the Dark'."
+      },
+      {
+        "id": 30,
+        "question": "Sous quel nom d'artiste le Chanteur Claude Dhotel nous a-t-il quitté le 14 mars 2000 ?",
+        "propositions": [
+          "Claude Brassens",
+          "Claude Nougaro",
+          "Alain Bashung",
+          "C. Jérôme"
+        ],
+        "réponse": "C. Jérôme",
+        "anecdote": "Ses chansons comme 'Kiss me' ou 'C'est moi' en avaient fait le meilleur représentant de la chanson de variété populaire."
+      }
+    ]
+  }
+}

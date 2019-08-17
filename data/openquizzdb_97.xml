@@ -1,0 +1,343 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes" ?>
+<quizz fournisseur="OpenQuizzDB : Fournisseur de contenu libre"
+       url="http://www.openquizzdb.org"
+       rédacteur="Philippe Bresoux"
+       thème="Unités de mesure"
+       difficulté="3">
+  <débutant>
+    <contenu id="1">
+      <question>Quelle est l'abréviation du Système international d'unités, le plus largement employé au monde ?</question>
+      <propositions>
+        <proposition id="1-1">IUS</proposition>
+        <proposition id="1-2">UIS</proposition>
+        <proposition id="1-3">SI</proposition>
+        <proposition id="1-4">SIU</proposition>
+      </propositions>
+      <réponse proposition="1-3">SI</réponse>
+      <anecdote>Le Système international compte sept unités de base, censées quantifier des grandeurs physiques indépendantes.</anecdote>
+    </contenu>
+    <contenu id="2">
+      <question>Que mesure-t-on avec l'échelle Kelvin, du nom de William Thomson, Lord Kelvin ?</question>
+      <propositions>
+        <proposition id="2-1">Une vitesse</proposition>
+        <proposition id="2-2">Une température</proposition>
+        <proposition id="2-3">Une distance</proposition>
+        <proposition id="2-4">Un poids</proposition>
+      </propositions>
+      <réponse proposition="2-2">Une température</réponse>
+      <anecdote>À la différence du degré Celsius, le kelvin est une mesure absolue de la température.</anecdote>
+    </contenu>
+    <contenu id="3">
+      <question>Quelle est la température moyenne du corps humain en degrés Celsius ?</question>
+      <propositions>
+        <proposition id="3-1">36,8 °</proposition>
+        <proposition id="3-2">38,6 °</proposition>
+        <proposition id="3-3">34,6 °</proposition>
+        <proposition id="3-4">40,6 °</proposition>
+      </propositions>
+      <réponse proposition="3-1">36,8 °</réponse>
+      <anecdote>Les organes internes ne fonctionnent correctement que lorsqu'ils sont soumis à certaines gammes de température.</anecdote>
+    </contenu>
+    <contenu id="4">
+      <question>Qui développa la mesure de la magnitude suite à la publication de ses travaux en 1935 ?</question>
+      <propositions>
+        <proposition id="4-1">Pauling</proposition>
+        <proposition id="4-2">Rankine</proposition>
+        <proposition id="4-3">Monoyer</proposition>
+        <proposition id="4-4">Richter</proposition>
+      </propositions>
+      <réponse proposition="4-4">Richter</réponse>
+      <anecdote>Richter a obtenu un doctorat en physique théorique du California Institute of Technology (Caltech) en 1928.</anecdote>
+    </contenu>
+    <contenu id="5">
+      <question>Lequel de ces pays ou territoires n'utilise pas le degré Celsius ?</question>
+      <propositions>
+        <proposition id="5-1">États-Unis</proposition>
+        <proposition id="5-2">Italie</proposition>
+        <proposition id="5-3">Australie</proposition>
+        <proposition id="5-4">Canada</proposition>
+      </propositions>
+      <réponse proposition="5-1">États-Unis</réponse>
+      <anecdote>Les États-Unis, Belize et les Îles Caïman utilisent toujours l'échelle Fahrenheit.</anecdote>
+    </contenu>
+    <contenu id="6">
+      <question>Quel est le nom de l'unité du système international qui mesure une fréquence ?</question>
+      <propositions>
+        <proposition id="6-1">Joule</proposition>
+        <proposition id="6-2">Katal</proposition>
+        <proposition id="6-3">Hertz</proposition>
+        <proposition id="6-4">Becquerel</proposition>
+      </propositions>
+      <réponse proposition="6-3">Hertz</réponse>
+      <anecdote>La radio FM utilise la modulation de fréquence des ondes radios sur une bande allant de 87,5 MHz à 108 MHz.</anecdote>
+    </contenu>
+    <contenu id="7">
+      <question>Laquelle de ces échelles mesure l'intensité et la magnitude d'un séisme ?</question>
+      <propositions>
+        <proposition id="7-1">Richter</proposition>
+        <proposition id="7-2">Torro</proposition>
+        <proposition id="7-3">Leyden</proposition>
+        <proposition id="7-4">Ines</proposition>
+      </propositions>
+      <réponse proposition="7-1">Richter</réponse>
+      <anecdote>Le séisme le plus puissant mesuré, atteignant la valeur de 9,5, fut celui de 1960 au Chili.</anecdote>
+    </contenu>
+    <contenu id="8">
+      <question>Quelle est l'unité de mesure de la masse, selon le système SI ?</question>
+      <propositions>
+        <proposition id="8-1">La livre</proposition>
+        <proposition id="8-2">Le gramme</proposition>
+        <proposition id="8-3">Le pouce</proposition>
+        <proposition id="8-4">Le mètre</proposition>
+      </propositions>
+      <réponse proposition="8-2">Le gramme</réponse>
+      <anecdote>Le gramme a pour origine le gravet, unité de poids créée par la Convention nationale en août 1793.</anecdote>
+    </contenu>
+    <contenu id="9">
+      <question>Laquelle de ces propositions désigne une unité de mesure dans l'industrie de la joaillerie ?</question>
+      <propositions>
+        <proposition id="9-1">Le morgan</proposition>
+        <proposition id="9-2">La verste</proposition>
+        <proposition id="9-3">Le carat</proposition>
+        <proposition id="9-4">Le curie</proposition>
+      </propositions>
+      <réponse proposition="9-3">Le carat</réponse>
+      <anecdote>De l'or à 15 carats signifie que dans 24 g d'alliage, on trouve 15 g d'or pur. De l'or 24 carats est de l'or pur.</anecdote>
+    </contenu>
+    <contenu id="10">
+      <question>Dans le SI, quelle est l'unité de mesure d'une intensité électrique ?</question>
+      <propositions>
+        <proposition id="10-1">Mole</proposition>
+        <proposition id="10-2">Ampère</proposition>
+        <proposition id="10-3">Candela</proposition>
+        <proposition id="10-4">Kelvin</proposition>
+      </propositions>
+      <réponse proposition="10-2">Ampère</réponse>
+      <anecdote>Un courant d'un ampère correspond au transport d'une charge électrique d'un coulomb par seconde.</anecdote>
+    </contenu>
+  </débutant>
+  <confirmé>
+    <contenu id="11">
+      <question>Le mot « kilogramme » est dérivé du grec ancien kilo qui signifie...</question>
+      <propositions>
+        <proposition id="11-1">Lourd</proposition>
+        <proposition id="11-2">Cent</proposition>
+        <proposition id="11-3">Mille</proposition>
+        <proposition id="11-4">Gros</proposition>
+      </propositions>
+      <réponse proposition="11-3">Mille</réponse>
+      <anecdote>Le kilogramme est la seule unité SI de base possédant un préfixe (« kilo ») utilisé pour désigner le millier d'une unité dans son nom.</anecdote>
+    </contenu>
+    <contenu id="12">
+      <question>Quelle unité mesure l'activité catalytique, vitesse d'une réaction chimique ?</question>
+      <propositions>
+        <proposition id="12-1">Joule</proposition>
+        <proposition id="12-2">Katal</proposition>
+        <proposition id="12-3">Gray</proposition>
+        <proposition id="12-4">Siemens</proposition>
+      </propositions>
+      <réponse proposition="12-2">Katal</réponse>
+      <anecdote>Le katal est une unité introduite en octobre 1999 comme unité dérivée du Système international d'unités.</anecdote>
+    </contenu>
+    <contenu id="13">
+      <question>À partir de quelle valeur sur l'échelle de Turin une collision avec la Terre est-elle certaine ?</question>
+      <propositions>
+        <proposition id="13-1">Six</proposition>
+        <proposition id="13-2">Quatre</proposition>
+        <proposition id="13-3">Deux</proposition>
+        <proposition id="13-4">Huit</proposition>
+      </propositions>
+      <réponse proposition="13-4">Huit</réponse>
+      <anecdote>Cette valeur n'est pas définitive car elle dépend des connaissances et des observations en cours.</anecdote>
+    </contenu>
+    <contenu id="14">
+      <question>Quelle unité photométrique, tout comme la candela, permet de mesurer un flux lumineux ?</question>
+      <propositions>
+        <proposition id="14-1">Le lumen</proposition>
+        <proposition id="14-2">Le hertz</proposition>
+        <proposition id="14-3">Le lux</proposition>
+        <proposition id="14-4">Le tesla</proposition>
+      </propositions>
+      <réponse proposition="14-1">Le lumen</réponse>
+      <anecdote>Le lumen est une unité dérivée de la candella, fondée sur la perception humaine de la lumière.</anecdote>
+    </contenu>
+    <contenu id="15">
+      <question>Dans quel pays l'ancienne mesure de longueur appelée « verste » était-elle utilisée ?</question>
+      <propositions>
+        <proposition id="15-1">La Russie</proposition>
+        <proposition id="15-2">La Belgique</proposition>
+        <proposition id="15-3">La Suisse</proposition>
+        <proposition id="15-4">La Grèce</proposition>
+      </propositions>
+      <réponse proposition="15-1">La Russie</réponse>
+      <anecdote>La verste fut abolie en 1918 par un décret du soviet des commissaires du peuple.</anecdote>
+    </contenu>
+    <contenu id="16">
+      <question>À la suite de quel accident nucléaire l'échelle INES a-t-elle été mise en place ?</question>
+      <propositions>
+        <proposition id="16-1">Lucens</proposition>
+        <proposition id="16-2">Fukushima</proposition>
+        <proposition id="16-3">Three Mile Island</proposition>
+        <proposition id="16-4">Tchernobyl</proposition>
+      </propositions>
+      <réponse proposition="16-4">Tchernobyl</réponse>
+      <anecdote>Les événements signalés sont analysés en fonction de leurs conséquences, selon trois « zones dincidences ».</anecdote>
+    </contenu>
+    <contenu id="17">
+      <question>Quelle unité de volume anglo-saxonne, utilisée pour mesurer les liquides, correspond à 3,78 litres ?</question>
+      <propositions>
+        <proposition id="17-1">Le gallon US</proposition>
+        <proposition id="17-2">Le yard US</proposition>
+        <proposition id="17-3">La livre GB</proposition>
+        <proposition id="17-4">L'once US</proposition>
+      </propositions>
+      <réponse proposition="17-1">Le gallon US</réponse>
+      <anecdote>En 1824, la Grande-Bretagne adopta une mesure proche du gallon d'ale, et cette mesure devint le gallon impérial.</anecdote>
+    </contenu>
+    <contenu id="18">
+      <question>Laquelle de ces propositions désigne une unité de masse pratiquement plus usitée ?</question>
+      <propositions>
+        <proposition id="18-1">Le quintal</proposition>
+        <proposition id="18-2">Le curie</proposition>
+        <proposition id="18-3">La verste</proposition>
+        <proposition id="18-4">Le morgan</proposition>
+      </propositions>
+      <réponse proposition="18-1">Le quintal</réponse>
+      <anecdote>Il est interdit d'utiliser le quintal en tant qu'unité de masse dans les domaines du commerce.</anecdote>
+    </contenu>
+    <contenu id="19">
+      <question>Quelle est la nationalité du physicien qui a inspiré le nom de l'unité coulomb ?</question>
+      <propositions>
+        <proposition id="19-1">Anglaise</proposition>
+        <proposition id="19-2">Espagnole</proposition>
+        <proposition id="19-3">Portugaise</proposition>
+        <proposition id="19-4">Française</proposition>
+      </propositions>
+      <réponse proposition="19-4">Française</réponse>
+      <anecdote>Ingénieur de formation, surtout physicien, Coulomb a publié 7 traités sur l'électricité et le magnétisme.</anecdote>
+    </contenu>
+    <contenu id="20">
+      <question>Laquelle de ces échelles, développée vers 1700, mesure la température ?</question>
+      <propositions>
+        <proposition id="20-1">Kardashev</proposition>
+        <proposition id="20-2">Newton</proposition>
+        <proposition id="20-3">Scoville</proposition>
+        <proposition id="20-4">INES</proposition>
+      </propositions>
+      <réponse proposition="20-2">Newton</réponse>
+      <anecdote>L'échelle Newton est une échelle de mesure de température, développée vers 1700 par le physicien anglais Isaac Newton.</anecdote>
+    </contenu>
+  </confirmé>
+  <expert>
+    <contenu id="21">
+      <question>Dans le Système international d'unités, quelle est l'unité de mesure d'une quantité de matière ?</question>
+      <propositions>
+        <proposition id="21-1">Candela</proposition>
+        <proposition id="21-2">Ampère</proposition>
+        <proposition id="21-3">Mole</proposition>
+        <proposition id="21-4">Kelvin</proposition>
+      </propositions>
+      <réponse proposition="21-3">Mole</réponse>
+      <anecdote>La mole est une unité de comptage au même titre que la centaine, la vingtaine ou la douzaine.</anecdote>
+    </contenu>
+    <contenu id="22">
+      <question>Quel est le nom de l'unité qui mesure une pression et une contrainte ?</question>
+      <propositions>
+        <proposition id="22-1">Lux</proposition>
+        <proposition id="22-2">Farad</proposition>
+        <proposition id="22-3">Bequerel</proposition>
+        <proposition id="22-4">Pascal</proposition>
+      </propositions>
+      <réponse proposition="22-4">Pascal</réponse>
+      <anecdote>Le pascal étant une unité relativement petite par rapport aux valeurs usuelles, on utilise souvent ses multiples.</anecdote>
+    </contenu>
+    <contenu id="23">
+      <question>Quelle unité dérivée du système international permet de mesurer les angles plans ?</question>
+      <propositions>
+        <proposition id="23-1">La lieue</proposition>
+        <proposition id="23-2">Le radian</proposition>
+        <proposition id="23-3">Le curie</proposition>
+        <proposition id="23-4">Le morgan</proposition>
+      </propositions>
+      <réponse proposition="23-2">Le radian</réponse>
+      <anecdote>Le mot « radian » a été inventé au cours des années 1870 par Thomas Muir.</anecdote>
+    </contenu>
+    <contenu id="24">
+      <question>En quelle année le pied, utilisé comme unité de mesure, a-t-il été abandonné en France ?</question>
+      <propositions>
+        <proposition id="24-1">1799</proposition>
+        <proposition id="24-2">1899</proposition>
+        <proposition id="24-3">1599</proposition>
+        <proposition id="24-4">1699</proposition>
+      </propositions>
+      <réponse proposition="24-1">1799</réponse>
+      <anecdote>Cette unité est encore utilisée dans beaucoup de pays anglo-saxons et d'anciennes colonies de l'empire britannique.</anecdote>
+    </contenu>
+    <contenu id="25">
+      <question>Combien de kilomètres font 127 miles, distance séparant Lille de Paris ?</question>
+      <propositions>
+        <proposition id="25-1">204 km</proposition>
+        <proposition id="25-2">254 km</proposition>
+        <proposition id="25-3">134 km</proposition>
+        <proposition id="25-4">129 km</proposition>
+      </propositions>
+      <réponse proposition="25-1">204 km</réponse>
+      <anecdote>Il ne faut pas confondre le mille international avec le mile terrestre américain ou le « mille marin ».</anecdote>
+    </contenu>
+    <contenu id="26">
+      <question>Quelle échelle, créée en 1971, sert à classer les tornades par ordre de gravité ?</question>
+      <propositions>
+        <proposition id="26-1">Haines</proposition>
+        <proposition id="26-2">Brinell</proposition>
+        <proposition id="26-3">Danjon</proposition>
+        <proposition id="26-4">Fujita</proposition>
+      </propositions>
+      <réponse proposition="26-4">Fujita</réponse>
+      <anecdote>L'échelle de Fujita originale est constituée de 6 catégories, graduées de F0 à F5.</anecdote>
+    </contenu>
+    <contenu id="27">
+      <question>Laquelle de ces propositions désigne une unité de mesure utilisée dans l'industrie de la joaillerie ?</question>
+      <propositions>
+        <proposition id="27-1">Curie</proposition>
+        <proposition id="27-2">Verste</proposition>
+        <proposition id="27-3">Morgan</proposition>
+        <proposition id="27-4">Zolotnik</proposition>
+      </propositions>
+      <réponse proposition="27-4">Zolotnik</réponse>
+      <anecdote>Le zolotnik équivaut à un quart de carat, soit un nonante-sixième de gramme.</anecdote>
+    </contenu>
+    <contenu id="28">
+      <question>Dans quoi peut-on trouver un nombre d'Avogardo, nommé en l'honneur d'Amedeo Avogadro ?</question>
+      <propositions>
+        <proposition id="28-1">Une seconde</proposition>
+        <proposition id="28-2">Un kilogramme</proposition>
+        <proposition id="28-3">Une joule</proposition>
+        <proposition id="28-4">Une mole</proposition>
+      </propositions>
+      <réponse proposition="28-4">Une mole</réponse>
+      <anecdote>Il correspond au nombre d'atomes de carbone dans 12 grammes de l'isotope 12 du carbone.</anecdote>
+    </contenu>
+    <contenu id="29">
+      <question>Quelle est la valeur maximale de l'échelle de Glasgow, indicateur de l'état de conscience ?</question>
+      <propositions>
+        <proposition id="29-1">5</proposition>
+        <proposition id="29-2">10</proposition>
+        <proposition id="29-3">15</proposition>
+        <proposition id="29-4">20</proposition>
+      </propositions>
+      <réponse proposition="29-3">15</réponse>
+      <anecdote>Cette échelle fut développée par G. Teasdale et B. Jennet à l'institut de neurologie de Glasgow (Écosse).</anecdote>
+    </contenu>
+    <contenu id="30">
+      <question>Dans le Système international d'unités, quelle est l'unité de mesure d'une intensité lumineuse ?</question>
+      <propositions>
+        <proposition id="30-1">Ampère</proposition>
+        <proposition id="30-2">Candela</proposition>
+        <proposition id="30-3">Mole</proposition>
+        <proposition id="30-4">Kelvin</proposition>
+      </propositions>
+      <réponse proposition="30-2">Candela</réponse>
+      <anecdote>La candela a été définie le 21 octobre 1948 par la neuvième conférence générale des poids et mesures.</anecdote>
+    </contenu>
+  </expert>
+</quizz>

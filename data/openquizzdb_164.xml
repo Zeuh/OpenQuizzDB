@@ -1,0 +1,343 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes" ?>
+<quizz fournisseur="OpenQuizzDB : Fournisseur de contenu libre"
+       url="http://www.openquizzdb.org"
+       rédacteur="Philippe Bresoux"
+       thème="Santé et bien-être (Le secret du bonheur c'est d'être bien avec soi)"
+       difficulté="3">
+  <débutant>
+    <contenu id="1">
+      <question>De combien de dents se compose une dentition définitive complète ?</question>
+      <propositions>
+        <proposition id="1-1">36</proposition>
+        <proposition id="1-2">44</proposition>
+        <proposition id="1-3">40</proposition>
+        <proposition id="1-4">32</proposition>
+      </propositions>
+      <réponse proposition="1-4">32</réponse>
+      <anecdote>La dent est formée de 3 parties distinctes : la couronne (visible), la racine (dans l'os) et le desmodonte qui relie la racine à l'os.</anecdote>
+    </contenu>
+    <contenu id="2">
+      <question>Quel type de thermomètre médical fut interdit en France en 1999 ?</question>
+      <propositions>
+        <proposition id="2-1">À mercure</proposition>
+        <proposition id="2-2">De Galilée</proposition>
+        <proposition id="2-3">À retournement</proposition>
+        <proposition id="2-4">Infrarouge</proposition>
+      </propositions>
+      <réponse proposition="2-1">À mercure</réponse>
+      <anecdote>Le reproche fait au thermomètre à mercure vient qu'il représente un danger en cas de bris, ce qui arrive très fréquemment.</anecdote>
+    </contenu>
+    <contenu id="3">
+      <question>En cas de stress, quelle hormone est libérée dans l'organisme ?</question>
+      <propositions>
+        <proposition id="3-1">Adrénaline</proposition>
+        <proposition id="3-2">Escaline</proposition>
+        <proposition id="3-3">Dopamine</proposition>
+        <proposition id="3-4">Éphédrine</proposition>
+      </propositions>
+      <réponse proposition="3-1">Adrénaline</réponse>
+      <anecdote>Entraînant une accélération du rythme cardiaque, l'adrénaline répond à un besoin d'énergie pour faire face au danger.</anecdote>
+    </contenu>
+    <contenu id="4">
+      <question>Quel traitement permet de soigner les maux du corps par l'eau de mer ?</question>
+      <propositions>
+        <proposition id="4-1">La thalassothérapie</proposition>
+        <proposition id="4-2">La naturopathie</proposition>
+        <proposition id="4-3">La sophrologie</proposition>
+        <proposition id="4-4">La réflexologie</proposition>
+      </propositions>
+      <réponse proposition="4-1">La thalassothérapie</réponse>
+      <anecdote>Les établissements thermaux offrent (aussi) des soins non médicalisés (de confort) appelés souvent « remise en forme ».</anecdote>
+    </contenu>
+    <contenu id="5">
+      <question>À quelle fréquence doit-on se faire vacciner contre la grippe ?</question>
+      <propositions>
+        <proposition id="5-1">Tous les 10 ans</proposition>
+        <proposition id="5-2">Tous les ans</proposition>
+        <proposition id="5-3">Tous les 5 ans</proposition>
+        <proposition id="5-4">Tous les 2 ans</proposition>
+      </propositions>
+      <réponse proposition="5-2">Tous les ans</réponse>
+      <anecdote>Le virus grippal infecte d'autres mammifères que l'Homme, mais c'est chez l'oiseau qu'elle est la plus fréquente.</anecdote>
+    </contenu>
+    <contenu id="6">
+      <question>Quelle est la première cause de mortalité évitable en France ?</question>
+      <propositions>
+        <proposition id="6-1">Le tabac</proposition>
+        <proposition id="6-2">La drogue</proposition>
+        <proposition id="6-3">Le sucre</proposition>
+        <proposition id="6-4">L'alcool</proposition>
+      </propositions>
+      <réponse proposition="6-1">Le tabac</réponse>
+      <anecdote>Outre la dépendance, le tabagisme est responsable de nombreuses maladies dont plus d'une dizaine de cancers différents.</anecdote>
+    </contenu>
+    <contenu id="7">
+      <question>Par quoi les os sont-ils reliés entre eux au niveau des articulations ?</question>
+      <propositions>
+        <proposition id="7-1">Les ligaments</proposition>
+        <proposition id="7-2">Les gaines</proposition>
+        <proposition id="7-3">Les bourses</proposition>
+        <proposition id="7-4">Les tendons</proposition>
+      </propositions>
+      <réponse proposition="7-1">Les ligaments</réponse>
+      <anecdote>Un ligament est une courte bande de tissu conjonctif fibreux composée principalement de longues molécules de collagène.</anecdote>
+    </contenu>
+    <contenu id="8">
+      <question>Quel médicament est censé agir sur le malade par autosuggestion ?</question>
+      <propositions>
+        <proposition id="8-1">Le placebo</proposition>
+        <proposition id="8-2">La dermatose</proposition>
+        <proposition id="8-3">La fistule</proposition>
+        <proposition id="8-4">L'insuline</proposition>
+      </propositions>
+      <réponse proposition="8-1">Le placebo</réponse>
+      <anecdote>Le placebo a une efficacité prouvée avec une moyenne de patients ressentant un effet de 15 à 25%, selon les études.</anecdote>
+    </contenu>
+    <contenu id="9">
+      <question>Quels globules assurent le transport de l'oxygène dans le sang ?</question>
+      <propositions>
+        <proposition id="9-1">Rouges</proposition>
+        <proposition id="9-2">Bleus</proposition>
+        <proposition id="9-3">Jaunes</proposition>
+        <proposition id="9-4">Blancs</proposition>
+      </propositions>
+      <réponse proposition="9-1">Rouges</réponse>
+      <anecdote>La moelle osseuse assure le renouvellement des cellules du sang : les globules et plaquettes sont produits au cur des os.</anecdote>
+    </contenu>
+    <contenu id="10">
+      <question>Que peut faire un sportif pour éviter l'arrivée de crampes ?</question>
+      <propositions>
+        <proposition id="10-1">Dormir</proposition>
+        <proposition id="10-2">Manger</proposition>
+        <proposition id="10-3">Fumer</proposition>
+        <proposition id="10-4">Boire</proposition>
+      </propositions>
+      <réponse proposition="10-4">Boire</réponse>
+      <anecdote>La boisson (une demi-cuillerée à café de sel par litre d'eau) apporte les sels minéraux nécessaires au contrôle de la tension musculaire.</anecdote>
+    </contenu>
+  </débutant>
+  <confirmé>
+    <contenu id="11">
+      <question>Lesquels de ces muscles sont les plus actifs du corps humain ?</question>
+      <propositions>
+        <proposition id="11-1">Ceux de la langue</proposition>
+        <proposition id="11-2">Ceux de la jambe</proposition>
+        <proposition id="11-3">Ceux de l'il</proposition>
+        <proposition id="11-4">Ceux du bras</proposition>
+      </propositions>
+      <réponse proposition="11-3">Ceux de l'il</réponse>
+      <anecdote>Les muscles oculomoteurs, au nombre de six, servent aux déplacements de l'il : 4 muscles droits et 2 muscles obliques.</anecdote>
+    </contenu>
+    <contenu id="12">
+      <question>Qu'obtient-on par la saponification d'une base caustique sur un corps gras ?</question>
+      <propositions>
+        <proposition id="12-1">De la laque</proposition>
+        <proposition id="12-2">Du savon</proposition>
+        <proposition id="12-3">Du dentifrice</proposition>
+        <proposition id="12-4">Du shampoing</proposition>
+      </propositions>
+      <réponse proposition="12-2">Du savon</réponse>
+      <anecdote>Initialement, cette réaction est connue pour transformer le mélange d'un ester de glycérol et d'une base forte en savon.</anecdote>
+    </contenu>
+    <contenu id="13">
+      <question>En France, jusqu'à quel âge peut-on effectuer un don de sang total ?</question>
+      <propositions>
+        <proposition id="13-1">70 ans</proposition>
+        <proposition id="13-2">50 ans</proposition>
+        <proposition id="13-3">40 ans</proposition>
+        <proposition id="13-4">60 ans</proposition>
+      </propositions>
+      <réponse proposition="13-1">70 ans</réponse>
+      <anecdote>Il faut en revanche être en bonne forme et avoir au minimum 18 ans et moins de 60 ans pour faire son premier don de sang.</anecdote>
+    </contenu>
+    <contenu id="14">
+      <question>Quelle maladie infectieuse est la plus répandue dans le monde ?</question>
+      <propositions>
+        <proposition id="14-1">La méningite</proposition>
+        <proposition id="14-2">Le SIDA</proposition>
+        <proposition id="14-3">La toxoplasmose</proposition>
+        <proposition id="14-4">Le paludisme</proposition>
+      </propositions>
+      <réponse proposition="14-4">Le paludisme</réponse>
+      <anecdote>Avec 207 millions de personnes malades et 627 000 décès en 2012, le paludisme demeure la parasitose la plus importante.</anecdote>
+    </contenu>
+    <contenu id="15">
+      <question>Quelle partie des cellules contient le patrimoine génétique ?</question>
+      <propositions>
+        <proposition id="15-1">Le ribosome</proposition>
+        <proposition id="15-2">Le chromosome</proposition>
+        <proposition id="15-3">Le noyau</proposition>
+        <proposition id="15-4">Le pore</proposition>
+      </propositions>
+      <réponse proposition="15-3">Le noyau</réponse>
+      <anecdote>Le noyau contient le matériel génétique (ADN), sous la forme d'un complexe ADN-protéines appelé « chromatine ».</anecdote>
+    </contenu>
+    <contenu id="16">
+      <question>Où se trouve sur la langue la zone qui détecte la saveur sucrée ?</question>
+      <propositions>
+        <proposition id="16-1">Au centre</proposition>
+        <proposition id="16-2">Sur le bout</proposition>
+        <proposition id="16-3">Sur les côtés</proposition>
+        <proposition id="16-4">Au fond</proposition>
+      </propositions>
+      <réponse proposition="16-2">Sur le bout</réponse>
+      <anecdote>Chez l'humain, les papilles gustatives permettent de reconnaître les différentes saveurs : sucré, salé, amer, l'umami et l'acide.</anecdote>
+    </contenu>
+    <contenu id="17">
+      <question>Quelle est la position la plus fatigante pour la colonne vertébrale ?</question>
+      <propositions>
+        <proposition id="17-1">En équilibre</proposition>
+        <proposition id="17-2">Debout</proposition>
+        <proposition id="17-3">Assise</proposition>
+        <proposition id="17-4">Couchée</proposition>
+      </propositions>
+      <réponse proposition="17-3">Assise</réponse>
+      <anecdote>La position assise exerce une forte pression sur le dernier disque lombaire qui peu à peu risque l'écrasement et donc des séquelles.</anecdote>
+    </contenu>
+    <contenu id="18">
+      <question>Quelle partie de la rhubarbe est-il fortement déconseillé de consommer ?</question>
+      <propositions>
+        <proposition id="18-1">Le pétiole</proposition>
+        <proposition id="18-2">Les feuilles</proposition>
+        <proposition id="18-3">Les fleurs</proposition>
+        <proposition id="18-4">Les racines</proposition>
+      </propositions>
+      <réponse proposition="18-2">Les feuilles</réponse>
+      <anecdote>Très toxiques, les feuilles de la rhubarbe contenant de l'acide oxalique sont parfois utilisées dans la préparation d'insecticides.</anecdote>
+    </contenu>
+    <contenu id="19">
+      <question>Que sécrètent principalement les glandes sudoripares ?</question>
+      <propositions>
+        <proposition id="19-1">Les ongles</proposition>
+        <proposition id="19-2">Les cheveux</proposition>
+        <proposition id="19-3">La sueur</proposition>
+        <proposition id="19-4">Les poils</proposition>
+      </propositions>
+      <réponse proposition="19-3">La sueur</réponse>
+      <anecdote>Les glandes sudoripares (ou sudorales) font partie des glandes exocrines et permettent le phénomène de transpiration.</anecdote>
+    </contenu>
+    <contenu id="20">
+      <question>Quelle affection cutanée résulte de l'inflammation des follicules pileux ?</question>
+      <propositions>
+        <proposition id="20-1">La varice</proposition>
+        <proposition id="20-2">L'angiome</proposition>
+        <proposition id="20-3">La cirrhose</proposition>
+        <proposition id="20-4">L'acné</proposition>
+      </propositions>
+      <réponse proposition="20-4">L'acné</réponse>
+      <anecdote>L'acné est le plus souvent primitive et commence généralement à la puberté, marquant l'adolescence de 85% des gens.</anecdote>
+    </contenu>
+  </confirmé>
+  <expert>
+    <contenu id="21">
+      <question>Dans quel pays a été pratiquée la première greffe du visage ?</question>
+      <propositions>
+        <proposition id="21-1">États-Unis</proposition>
+        <proposition id="21-2">France</proposition>
+        <proposition id="21-3">Espagne</proposition>
+        <proposition id="21-4">Chine</proposition>
+      </propositions>
+      <réponse proposition="21-2">France</réponse>
+      <anecdote>La première greffe partielle du visage au monde fut pratiquée au CHU de Lyon sur une femme de 38 ans, Isabelle Dinoire.</anecdote>
+    </contenu>
+    <contenu id="22">
+      <question>Combien de couleurs différentes l'il humain est-il capable de distinguer ?</question>
+      <propositions>
+        <proposition id="22-1">300 000</proposition>
+        <proposition id="22-2">100 000</proposition>
+        <proposition id="22-3">400 000</proposition>
+        <proposition id="22-4">200 000</proposition>
+      </propositions>
+      <réponse proposition="22-1">300 000</réponse>
+      <anecdote>Chaque il humain est capable de discerner plus facilement les nuances de verts ou de rouges que les nuances de bleus.</anecdote>
+    </contenu>
+    <contenu id="23">
+      <question>Quel opiacé de synthèse est utilisé comme substitut à l'héroïne ?</question>
+      <propositions>
+        <proposition id="23-1">La kétamine</proposition>
+        <proposition id="23-2">La méthadone</proposition>
+        <proposition id="23-3">Le chanvre</proposition>
+        <proposition id="23-4">Le paracétamol</proposition>
+      </propositions>
+      <réponse proposition="23-2">La méthadone</réponse>
+      <anecdote>En tant qu'analgésique narcotique, la méthadone est également utilisée pour soulager des douleurs sévères.</anecdote>
+    </contenu>
+    <contenu id="24">
+      <question>Quelle hormone prise en excès est principalement liée à la calvitie ?</question>
+      <propositions>
+        <proposition id="24-1">La testostérone</proposition>
+        <proposition id="24-2">L'acétone</proposition>
+        <proposition id="24-3">La progestérone</proposition>
+        <proposition id="24-4">La cortisone</proposition>
+      </propositions>
+      <réponse proposition="24-1">La testostérone</réponse>
+      <anecdote>La testostérone est sécrétée essentiellement par les gonades, c'est-à-dire les testicules des mâles et les ovaires des femelles.</anecdote>
+    </contenu>
+    <contenu id="25">
+      <question>Quelle médecine douce est fondée sur l'utilisation des huiles essentielles ?</question>
+      <propositions>
+        <proposition id="25-1">La réflexologie</proposition>
+        <proposition id="25-2">L'aromathérapie</proposition>
+        <proposition id="25-3">L'homéopathie</proposition>
+        <proposition id="25-4">La naturopathie</proposition>
+      </propositions>
+      <réponse proposition="25-2">L'aromathérapie</réponse>
+      <anecdote>L'aromathérapie est à différencier de la phytothérapie qui fait quant à elle usage de l'ensemble des éléments d'une plante.</anecdote>
+    </contenu>
+    <contenu id="26">
+      <question>Quelle hormone fait baisser le taux de glucose dans le sang ?</question>
+      <propositions>
+        <proposition id="26-1">La testostérone</proposition>
+        <proposition id="26-2">La méthadone</proposition>
+        <proposition id="26-3">L'insuline</proposition>
+        <proposition id="26-4">La thyroïde</proposition>
+      </propositions>
+      <réponse proposition="26-3">L'insuline</réponse>
+      <anecdote>La libération de glucose par le foie dans le sang est très fortement limitée par un taux sanguin élevé en insuline.</anecdote>
+    </contenu>
+    <contenu id="27">
+      <question>De quel arbre provient la molécule qui permet la fabrication de l'aspirine ?</question>
+      <propositions>
+        <proposition id="27-1">Le sapin</proposition>
+        <proposition id="27-2">Le bouleau</proposition>
+        <proposition id="27-3">Le saule</proposition>
+        <proposition id="27-4">Le hêtre</proposition>
+      </propositions>
+      <réponse proposition="27-3">Le saule</réponse>
+      <anecdote>On a retrouvé la mention de décoctions de feuilles de saule dans un papyrus égyptien dès 1550 av. J.-C. (papyrus Ebers).</anecdote>
+    </contenu>
+    <contenu id="28">
+      <question>De quelle substance l'organisme des albinos est-il dépourvu ?</question>
+      <propositions>
+        <proposition id="28-1">De mélanine</proposition>
+        <proposition id="28-2">D'insuline</proposition>
+        <proposition id="28-3">De dopamine</proposition>
+        <proposition id="28-4">De quinine</proposition>
+      </propositions>
+      <réponse proposition="28-1">De mélanine</réponse>
+      <anecdote>Chez l'homme, la peau est blanc cireux ou légèrement rosée, alors que les cheveux sont blancs, comme les poils, sourcils et cils.</anecdote>
+    </contenu>
+    <contenu id="29">
+      <question>Quel fut le premier antibiotique découvert en 1928 par Alexander Fleming ?</question>
+      <propositions>
+        <proposition id="29-1">La dopamine</proposition>
+        <proposition id="29-2">L'acétarsol</proposition>
+        <proposition id="29-3">La pénicilline</proposition>
+        <proposition id="29-4">Le triclosan</proposition>
+      </propositions>
+      <réponse proposition="29-3">La pénicilline</réponse>
+      <anecdote>L'industrialisation à grande échelle de la pénicilline a été menée à bien durant toute la durée de la Seconde Guerre mondiale.</anecdote>
+    </contenu>
+    <contenu id="30">
+      <question>Quelle plante réputée pour ses vertus digestives est aussi une héroïne de cinéma ?</question>
+      <propositions>
+        <proposition id="30-1">Catwoman</proposition>
+        <proposition id="30-2">Mystique</proposition>
+        <proposition id="30-3">Angélique</proposition>
+        <proposition id="30-4">Nebula</proposition>
+      </propositions>
+      <réponse proposition="30-3">Angélique</réponse>
+      <anecdote>Le genre Angelica (les angéliques) comprend environ 70 espèces de grandes plantes herbacées vivaces de la famille des Apiaceae.</anecdote>
+    </contenu>
+  </expert>
+</quizz>

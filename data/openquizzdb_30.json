@@ -1,0 +1,374 @@
+{
+  "fournisseur": "OpenQuizzDB - Fournisseur de contenu libre (www.openquizzdb.org)",
+  "rédacteur": "Philippe Bresoux",
+  "thème": "Bruxelles de nos jours",
+  "difficulté": 4,
+  "quizz": {
+    "débutant": [
+      {
+        "id": 1,
+        "question": "Bruxelles est la capitale de la Communauté française et flamande de quel pays ?",
+        "propositions": [
+          "L'Allemagne",
+          "Les Pays-Bas",
+          "La Belgique",
+          "La Suisse"
+        ],
+        "réponse": "La Belgique",
+        "anecdote": "Constituée de 19 communes, Bruxelles-Capitale est une région urbaine dotée de son propre gouvernement et parlement."
+      },
+      {
+        "id": 2,
+        "question": "Laquelle des trois régions de Belgique Bruxelles compose-t-elle ?",
+        "propositions": [
+          "Région wallonne",
+          "Limbourg",
+          "Bruxelles-Capitale",
+          "Région flamande"
+        ],
+        "réponse": "Bruxelles-Capitale",
+        "anecdote": "Si on la compare à la plupart des régions d'Europe, Bruxelles-capitale dispose d'un territoire relativement réduit."
+      },
+      {
+        "id": 3,
+        "question": "À quel endroit du territoire belge est à peu près située la ville de Bruxelles ?",
+        "propositions": [
+          "À l'Ouest",
+          "Au Nord",
+          "Au Sud",
+          "Au centre"
+        ],
+        "réponse": "Au centre",
+        "anecdote": "C'est à Bruxelles-Capitale que siègent la plupart des institutions de l'UE, ainsi que de nombreuses organisations internationales."
+      },
+      {
+        "id": 4,
+        "question": "Par quelle ceinture autoroutière la banlieue de Bruxelles est-elle délimitée  ?",
+        "propositions": [
+          "Le Ring",
+          "A1",
+          "A17",
+          "A601"
+        ],
+        "réponse": "Le Ring",
+        "anecdote": "Un des premiers tronçons du Ring a été construit à la fin des années 1960 en tant que morceau de l'autoroute Bruxelles-Paris."
+      },
+      {
+        "id": 5,
+        "question": "Quel gratte-ciel situé à Bruxelles est le plus grand de Belgique ?",
+        "propositions": [
+          "Tour Astro",
+          "Tour des Finances",
+          "Tour du Midi",
+          "Tour Rogier"
+        ],
+        "réponse": "Tour du Midi",
+        "anecdote": "Haute de 150 m, La Tour du Midi, qu'il ne faut pas confondre avec la Tour des Finances, se trouve en face de la gare du Midi."
+      },
+      {
+        "id": 6,
+        "question": "Quel bâtiment est le siège de la Commission européenne, à Bruxelles ?",
+        "propositions": [
+          "Berlaymont",
+          "Stoclet",
+          "Solvay",
+          "Castellani"
+        ],
+        "réponse": "Berlaymont",
+        "anecdote": "Le bâtiment Berlaymont abrite également les services attachés aux cabinets du président et des commissaires."
+      },
+      {
+        "id": 7,
+        "question": "Quelle est la principale langue parlée à Bruxelles, capitale de la Belgique ?",
+        "propositions": [
+          "L'allemand",
+          "Le néerlandais",
+          "L'espagnol",
+          "Le français"
+        ],
+        "réponse": "Le français",
+        "anecdote": "Toutefois, l'usage de l'anglais dans la région de Bruxelles-Capitale et sa périphérie est un phénomène en hausse."
+      },
+      {
+        "id": 8,
+        "question": "Quelle est la plus importante université francophone de Bruxelles ?",
+        "propositions": [
+          "UCL",
+          "ULB",
+          "USL",
+          "ULG"
+        ],
+        "réponse": "ULB",
+        "anecdote": "Fondée en 1834, l'ULB est régulièrement citée comme faisant partie des 150 meilleures universités mondiales."
+      },
+      {
+        "id": 9,
+        "question": "Quel train, inspiré du TGV, relie Bruxelles à Paris, Amsterdam et Cologne ?",
+        "propositions": [
+          "Eurostar",
+          "Thalys",
+          "Elipsos",
+          "Iris"
+        ],
+        "réponse": "Thalys",
+        "anecdote": "Les trains Thalys coexistent avec les rames Eurostar, les rames TGV Réseau ou Sud-Est et les rames ICE."
+      },
+      {
+        "id": 10,
+        "question": "En combien de communes la Région de Bruxelles-Capitale est-elle divisée ?",
+        "propositions": [
+          "19",
+          "25",
+          "28",
+          "22"
+        ],
+        "réponse": "19",
+        "anecdote": "La Ville de Bruxelles, la plus vaste dentre elles, s'étend du centre au nord de l'agglomération et est entourée par les 18 autres."
+      }
+    ],
+    "confirmé": [
+      {
+        "id": 11,
+        "question": "Quel est le climat de la région de Bruxelles comme de l'ensemble de la Belgique ?",
+        "propositions": [
+          "Subarctique",
+          "Polaire",
+          "Tempéré océanique",
+          "Tropical humide"
+        ],
+        "réponse": "Tempéré océanique",
+        "anecdote": "Ce climat est dû grâce à la proximité de l'océan Atlantique et du Gulf Stream qui régule le temps grâce à l'inertie calorifique de ses eaux."
+      },
+      {
+        "id": 12,
+        "question": "Combien observe-t-on environ de jours de précipitations par an dans la région de Bruxelles ?",
+        "propositions": [
+          "150",
+          "100",
+          "50",
+          "200"
+        ],
+        "réponse": "200",
+        "anecdote": "Ces statistiques de précipitations en font, après Dublin, la capitale la plus pluvieuse (en nombre de jours) d'Europe."
+      },
+      {
+        "id": 13,
+        "question": "Quel quartier de Bruxelles est formé par le Palais royal, le Palais de la Nation et la place Royale ?",
+        "propositions": [
+          "Midi-Lemonnier",
+          "Marolles",
+          "Quartier des Palais",
+          "Sablon"
+        ],
+        "réponse": "Quartier des Palais",
+        "anecdote": "En contrebas se situe la gare centrale et le Mont des Arts où se trouvent la Bibliothèque et la Cinémathèque royale de Belgique."
+      },
+      {
+        "id": 14,
+        "question": "Quel est le plus grand quartier d'affaires de Bruxelles et de Belgique ?",
+        "propositions": [
+          "Léopold",
+          "Diamant",
+          "Saint-Job",
+          "Helmet"
+        ],
+        "réponse": "Léopold",
+        "anecdote": "Aujourd'hui, les bâtiments administratifs ont remplacé la majorité des hôtels de maître et des maisons bourgeoises du quartier."
+      },
+      {
+        "id": 15,
+        "question": "À Bruxelles, quelle forêt le bois de la Cambre prolonge-t-il ?",
+        "propositions": [
+          "Forêt de Brotonne",
+          "Forêt de Chaux",
+          "Forêt de Retz",
+          "Forêt de Soignes"
+        ],
+        "réponse": "Forêt de Soignes",
+        "anecdote": "La forêt de Soignes est connexe avec le bois de la Cambre, promenade forestière et champêtre qui pénètre dans la ville."
+      },
+      {
+        "id": 16,
+        "question": "À combien de personnes est estimée la population estudiantine de Bruxelles-Capitale ?",
+        "propositions": [
+          "30 000",
+          "20 000",
+          "40 000",
+          "50 000"
+        ],
+        "réponse": "50 000",
+        "anecdote": "La population scolaire bruxelloises comptabilise pour l'année scolaire 2010/2011 un total de 231 567 élèves."
+      },
+      {
+        "id": 17,
+        "question": "Quel train, majoritairement détenu par la SNCF, relie Bruxelles à Londres ?",
+        "propositions": [
+          "Eurostar",
+          "Alleo",
+          "Thalys",
+          "Vauban"
+        ],
+        "réponse": "Eurostar",
+        "anecdote": "Composée de dix-huit voitures et de deux motrices, chaque rame mesure 393 m de long et peut transporter jusqu'à 750 passagers."
+      },
+      {
+        "id": 18,
+        "question": "Quel axe routier bruxellois comprend une série de huit tunnels et de voies rapides ?",
+        "propositions": [
+          "La grande boucle",
+          "Le grand ring",
+          "La petite ceinture",
+          "Le petit nud"
+        ],
+        "réponse": "La petite ceinture",
+        "anecdote": "Le cur de ville, appelé « Pentagone », est délimité par une ceinture de boulevards, équivalent des boulevards parisiens."
+      },
+      {
+        "id": 19,
+        "question": "Comment est couramment nommé l'aéroport de Bruxelles-National ?",
+        "propositions": [
+          "Ternat",
+          "Wemmel",
+          "Tremelo",
+          "Zaventem"
+        ],
+        "réponse": "Zaventem",
+        "anecdote": "L'aéroport est utilisé pour les vols européens et les vols internationaux vers l'Afrique, l'Asie ou le Moyen-Orient."
+      },
+      {
+        "id": 20,
+        "question": "Quelle est la troisième plus grande salle de concert de Bruxelles, située dans la banlieue sud ?",
+        "propositions": [
+          "Cirque Royal",
+          "Tour et Taxis",
+          "Le Botanique",
+          "Forest National"
+        ],
+        "réponse": "Forest National",
+        "anecdote": "Située sur la commune bruxelloise de Forest, elle est inaugurée au début de 1971 par des représentations du Ballet du XXe siècle."
+      }
+    ],
+    "expert": [
+      {
+        "id": 21,
+        "question": "Combien d'habitants pouvait-on compter environ dans la ville de Bruxelles au 1er janvier 2015 ?",
+        "propositions": [
+          "197 000",
+          "157 000",
+          "137 000",
+          "177 000"
+        ],
+        "réponse": "177 000",
+        "anecdote": "Un projet gouvernemental de création d'une zone dont la population et les limites doivent être définies avec précision est en cours."
+      },
+      {
+        "id": 22,
+        "question": "Comment est appelé le cur historique de la ville de Bruxelles ?",
+        "propositions": [
+          "Hexagone",
+          "Octogone",
+          "Dodécagone",
+          "Pentagone"
+        ],
+        "réponse": "Pentagone",
+        "anecdote": "Équivalent du City road londonien, le Pentagone est toutefois aménagé au nord et à l'est en autoroutes urbaines."
+      },
+      {
+        "id": 23,
+        "question": "Combien d'hectares d'espaces verts recouvrent la surface de la Région Bruxelles-Capitale ?",
+        "propositions": [
+          "6 000",
+          "8 000",
+          "2 000",
+          "4 000"
+        ],
+        "réponse": "8 000",
+        "anecdote": "L'intégrité de l'ensemble des espaces verts bruxellois est classé site Natura 2000 pour conserver la faune et la flore."
+      },
+      {
+        "id": 24,
+        "question": "En quelle année la ville de Bruxelles a-t-elle fêté son millénaire officiel ?",
+        "propositions": [
+          "1939",
+          "1999",
+          "1979",
+          "1959"
+        ],
+        "réponse": "1979",
+        "anecdote": "On relève cependant des vestiges et toponymes relatifs à la civilisation des mégalithes, dolmens et pierres levées."
+      },
+      {
+        "id": 25,
+        "question": "Avec quelle ville Bruxelles partage-t-elle le titre de ville comptant le plus de journalistes accrédités ?",
+        "propositions": [
+          "Madrid",
+          "Dublin",
+          "Washington",
+          "Marseille"
+        ],
+        "réponse": "Washington",
+        "anecdote": "Washington a été créée à la suite de la signature du Residence Act en 1790, qui prévoyait la création d'une capitale fédérale."
+      },
+      {
+        "id": 26,
+        "question": "Quel édifice bruxellois est considéré comme référence de l'architecture éclectique ?",
+        "propositions": [
+          "Café Métropole",
+          "Palais de Justice",
+          "Villa Empain",
+          "Maison Horta"
+        ],
+        "réponse": "Palais de Justice",
+        "anecdote": "Situé sur la plus grande place de Bruxelles, le palais est plus vaste que la Basilique Saint-Pierre de Rome."
+      },
+      {
+        "id": 27,
+        "question": "Quel style architectural bruxellois est l'uvre de Victor Horta, Paul Hankar et Henry Van de Velde ?",
+        "propositions": [
+          "Art moderne",
+          "Art nouveau",
+          "Art déco",
+          "Art baroque"
+        ],
+        "réponse": "Art nouveau",
+        "anecdote": "Avant la Première Guerre mondiale, ce mouvement évolua vers un style plus géométrique, caractéristique du mouvement Art déco."
+      },
+      {
+        "id": 28,
+        "question": "À combien de kilomètres s'étend le réseau d'égouts de la ville de Bruxelles ?",
+        "propositions": [
+          "3 000",
+          "2 500",
+          "1 500",
+          "2 000"
+        ],
+        "réponse": "1 500",
+        "anecdote": "Il fait l'objet d'un plan d'assainissement et même de renouvellement des parties les plus anciennes remontant à plus d'un siècle."
+      },
+      {
+        "id": 29,
+        "question": "Quel théâtre bruxellois est un bâtiment très caractéristique de l'architecture des années 1960 ?",
+        "propositions": [
+          "Théâtre Mercelis",
+          "Théâtre du Méridien",
+          "Théâtre 140",
+          "Théâtre Varia"
+        ],
+        "réponse": "Théâtre 140",
+        "anecdote": "Le Théâtre 140 est une salle de spectacle bruxelloise fondée en 1963 par Jo Dekmine qui en resta directeur jusqu'en 2015."
+      },
+      {
+        "id": 30,
+        "question": "Quel célèbre musée bruxellois est logé dans l'Hôtel du Lotto ?",
+        "propositions": [
+          "Musée Magritte",
+          "Musée du cinéma",
+          "Musée du jouet",
+          "Musée BELvue"
+        ],
+        "réponse": "Musée Magritte",
+        "anecdote": "Au cours des siècles, les propriétaires se sont succédé pour transformer le bâtiment en hôtel, en bijouterie et enfin en musée."
+      }
+    ]
+  }
+}

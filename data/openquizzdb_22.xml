@@ -1,0 +1,343 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes" ?>
+<quizz fournisseur="OpenQuizzDB : Fournisseur de contenu libre"
+       url="http://www.openquizzdb.org"
+       rédacteur="Philippe Bresoux"
+       thème="Monuments du monde"
+       difficulté="4">
+  <débutant>
+    <contenu id="1">
+      <question>Dans quel pays se trouve la Liberté éclairant le monde, ou Statue de la Liberté ?</question>
+      <propositions>
+        <proposition id="1-1">États-Unis</proposition>
+        <proposition id="1-2">Canada</proposition>
+        <proposition id="1-3">France</proposition>
+        <proposition id="1-4">Royaume-Uni</proposition>
+      </propositions>
+      <réponse proposition="1-1">États-Unis</réponse>
+      <anecdote>Cette statue est située sur l'île de Liberty Island au sud de Manhattan, à l'embouchure de l'Hudson et à proximité d'Ellis Island.</anecdote>
+    </contenu>
+    <contenu id="2">
+      <question>Dans quel État européen se situe la Sagrada Familia, consacrée par Benoît XVI en 2010 ?</question>
+      <propositions>
+        <proposition id="2-1">En Espagne</proposition>
+        <proposition id="2-2">En Italie</proposition>
+        <proposition id="2-3">À Chypre</proposition>
+        <proposition id="2-4">Au Portugal</proposition>
+      </propositions>
+      <réponse proposition="2-1">En Espagne</réponse>
+      <anecdote>Cest l'un des exemples les plus connus du modernisme catalan et un monument emblématique de la ville de Barcelone.</anecdote>
+    </contenu>
+    <contenu id="3">
+      <question>Dans quel pays peut-on voir les pyramides de Gizeh, classées depuis 1979 ?</question>
+      <propositions>
+        <proposition id="3-1">En Afrique du Sud</proposition>
+        <proposition id="3-2">Au Maroc</proposition>
+        <proposition id="3-3">En Égypte</proposition>
+        <proposition id="3-4">En Tunisie</proposition>
+      </propositions>
+      <réponse proposition="3-3">En Égypte</réponse>
+      <anecdote>Les trois plus grandes et plus célèbres des pyramides d'Égypte sont celles de Khéops, Khéphren et Mykérinos.</anecdote>
+    </contenu>
+    <contenu id="4">
+      <question>Dans quel pays peut-on contempler la tour Eiffel, haute de 324 mètres ?</question>
+      <propositions>
+        <proposition id="4-1">Italie</proposition>
+        <proposition id="4-2">Royaume-Uni</proposition>
+        <proposition id="4-3">États-Unis</proposition>
+        <proposition id="4-4">France</proposition>
+      </propositions>
+      <réponse proposition="4-4">France</réponse>
+      <anecdote>Construite par Gustave Eiffel, ce monument est devenu le symbole de la capitale française et un site touristique de premier plan.</anecdote>
+    </contenu>
+    <contenu id="5">
+      <question>Dans quel pays européen peut-on regarder le Colisée, à l'origine amphithéâtre Flavien ?</question>
+      <propositions>
+        <proposition id="5-1">En Espagne</proposition>
+        <proposition id="5-2">En Italie</proposition>
+        <proposition id="5-3">Au Portugal</proposition>
+        <proposition id="5-4">En Grèce</proposition>
+      </propositions>
+      <réponse proposition="5-2">En Italie</réponse>
+      <anecdote>Cet immense amphithéâtre ovoïde est le plus grand jamais construit dans l'empire romain.</anecdote>
+    </contenu>
+    <contenu id="6">
+      <question>Dans quelle ville peut-on entendre sonner Big Ben, grande cloche de plus de 13 tonnes ?</question>
+      <propositions>
+        <proposition id="6-1">New York</proposition>
+        <proposition id="6-2">Pékin</proposition>
+        <proposition id="6-3">Paris</proposition>
+        <proposition id="6-4">Londres</proposition>
+      </propositions>
+      <réponse proposition="6-4">Londres</réponse>
+      <anecdote>Big Ben se trouve au sommet de l'Elizabeth Tower, la tour horloge du Palais de Westminster, qui est le siège du parlement britannique.</anecdote>
+    </contenu>
+    <contenu id="7">
+      <question>Dans quel pays retrouve-t-on la plus grande muraille du monde jamais construite ?</question>
+      <propositions>
+        <proposition id="7-1">En Chine</proposition>
+        <proposition id="7-2">En Inde</proposition>
+        <proposition id="7-3">En France</proposition>
+        <proposition id="7-4">En Afrique du Sud</proposition>
+      </propositions>
+      <réponse proposition="7-1">En Chine</réponse>
+      <anecdote>Depuis 1987, la Grande Muraille est classée au patrimoine mondial de l'UNESCO sous le numéro 438.</anecdote>
+    </contenu>
+    <contenu id="8">
+      <question>Quel musée parisien, indissociable de sa pyramide, est connu dans le monde entier ?</question>
+      <propositions>
+        <proposition id="8-1">Musée Rodin</proposition>
+        <proposition id="8-2">Musée Picasso</proposition>
+        <proposition id="8-3">Musée du Louvre</proposition>
+        <proposition id="8-4">Musée de Cluny</proposition>
+      </propositions>
+      <réponse proposition="8-3">Musée du Louvre</réponse>
+      <anecdote>Le Louvre est le musée le plus visité au monde ainsi que le site culturel payant le plus visité de France.</anecdote>
+    </contenu>
+    <contenu id="9">
+      <question>Dans quel pays se dresse le Machu Pichu, perché sur un promontoire rocheux ?</question>
+      <propositions>
+        <proposition id="9-1">Au Cambodge</proposition>
+        <proposition id="9-2">Au Chili</proposition>
+        <proposition id="9-3">Au Pérou</proposition>
+        <proposition id="9-4">En Bolivie</proposition>
+      </propositions>
+      <réponse proposition="9-3">Au Pérou</réponse>
+      <anecdote>Machu Picchu, ville sacrée oubliée durant des siècles, est considérée comme une uvre maîtresse de larchitecture inca.</anecdote>
+    </contenu>
+    <contenu id="10">
+      <question>Quel mur représente le lieu le plus sacré de la religion juive ?</question>
+      <propositions>
+        <proposition id="10-1">De la honte</proposition>
+        <proposition id="10-2">Des Lamentations</proposition>
+        <proposition id="10-3">Des sables</proposition>
+        <proposition id="10-4">Des Noms</proposition>
+      </propositions>
+      <réponse proposition="10-2">Des Lamentations</réponse>
+      <anecdote>Le Mur des Lamentations est révéré par les juifs pour sa proximité avec le Saint des Saints, situé sur le mont du Temple.</anecdote>
+    </contenu>
+  </débutant>
+  <confirmé>
+    <contenu id="11">
+      <question>Qui a cassé le nez du Sphinx qui se dresse devant les grandes pyramides du plateau de Gizeh ?</question>
+      <propositions>
+        <proposition id="11-1">Henri IV</proposition>
+        <proposition id="11-2">Napoléon</proposition>
+        <proposition id="11-3">Louis XV</proposition>
+        <proposition id="11-4">Charles IX</proposition>
+      </propositions>
+      <réponse proposition="11-2">Napoléon</réponse>
+      <anecdote>La suprématie des Blancs a conduit Napoléon à détruire le nez du Sphinx parce qu'il rappelait trop la majesté de l'homme noir.</anecdote>
+    </contenu>
+    <contenu id="12">
+      <question>Sur quelles îles se trouvent les Moaï, gigantesques ancêtres divinisés de pierre ?</question>
+      <propositions>
+        <proposition id="12-1">Îles de Pâques</proposition>
+        <proposition id="12-2">Îles de Noël</proposition>
+        <proposition id="12-3">Îles Galapagos</proposition>
+        <proposition id="12-4">Îles Cook</proposition>
+      </propositions>
+      <réponse proposition="12-1">Îles de Pâques</réponse>
+      <anecdote>La majorité de ces monolithes est sculptée dans du tuf issu principalement de la carrière de Rano Raraku.</anecdote>
+    </contenu>
+    <contenu id="13">
+      <question>Dans quel pays peut-on assister à un concert dans l'opéra de Sydney ?</question>
+      <propositions>
+        <proposition id="13-1">En Nouvelle-Zélande</proposition>
+        <proposition id="13-2">Dans les Samoa</proposition>
+        <proposition id="13-3">En Antarctique</proposition>
+        <proposition id="13-4">En Australie</proposition>
+      </propositions>
+      <réponse proposition="13-4">En Australie</réponse>
+      <anecdote>L'opéra est aujourd'hui une attraction touristique majeure de la ville bien que les visiteurs ne puissent assister aux représentations.</anecdote>
+    </contenu>
+    <contenu id="14">
+      <question>Aux États-Unis, quel célèbre bâtiment possède une forme de plan particulière ?</question>
+      <propositions>
+        <proposition id="14-1">Pickfair</proposition>
+        <proposition id="14-2">Le Pentagone</proposition>
+        <proposition id="14-3">Kirkbride</proposition>
+        <proposition id="14-4">Graceland</proposition>
+      </propositions>
+      <réponse proposition="14-2">Le Pentagone</réponse>
+      <anecdote>Cet immeuble de cinq étages, inauguré le 15 janvier 1943 est le plus vaste immeuble de bureaux du monde.</anecdote>
+    </contenu>
+    <contenu id="15">
+      <question>Quel grand monument métallique est représentatif de la ville de Bruxelles ?</question>
+      <propositions>
+        <proposition id="15-1">Atomium</proposition>
+        <proposition id="15-2">Luizenmolen</proposition>
+        <proposition id="15-3">Voortrekker</proposition>
+        <proposition id="15-4">Tour et Taxis</proposition>
+      </propositions>
+      <réponse proposition="15-1">Atomium</réponse>
+      <anecdote>L'Atomium représente la maille conventionnelle du cristal de fer (structure cubique centrée) agrandie 165 milliards de fois.</anecdote>
+    </contenu>
+    <contenu id="16">
+      <question>Dans laquelle de ces villes retrouve-t-on une réplique à échelle réduite de la tour Eiffel ?</question>
+      <propositions>
+        <proposition id="16-1">Moscou</proposition>
+        <proposition id="16-2">Hong Kong</proposition>
+        <proposition id="16-3">Chicago</proposition>
+        <proposition id="16-4">Las Vegas</proposition>
+      </propositions>
+      <réponse proposition="16-4">Las Vegas</réponse>
+      <anecdote>La réplique de 165 mètres se situe en face de l'hôtel-casino Paris Las Vegas sur le Las Vegas Strip.</anecdote>
+    </contenu>
+    <contenu id="17">
+      <question>Quel pont-aqueduc romain comportant trois étages enjambe le Gardon ?</question>
+      <propositions>
+        <proposition id="17-1">Le pont du Gard</proposition>
+        <proposition id="17-2">Le pont de Seyssel</proposition>
+        <proposition id="17-3">Le pont Caquot</proposition>
+        <proposition id="17-4">Le pont Napoléon</proposition>
+      </propositions>
+      <réponse proposition="17-1">Le pont du Gard</réponse>
+      <anecdote>Le pont assurait dans sa fonction première la continuité de l'aqueduc romain qui conduisait l'eau d'Uzès à Nîmes.</anecdote>
+    </contenu>
+    <contenu id="18">
+      <question>Dans quel pays se trouve Angkor Vat, sur le site archéologique d'Angkor ?</question>
+      <propositions>
+        <proposition id="18-1">En Thaïlande</proposition>
+        <proposition id="18-2">En Thaïlande</proposition>
+        <proposition id="18-3">Au Cambodge</proposition>
+        <proposition id="18-4">Au Vietnam</proposition>
+      </propositions>
+      <réponse proposition="18-3">Au Cambodge</réponse>
+      <anecdote>Les ruines d'Angkor sont situées dans les forêts au nord du Tonlé Sap, en bordure de la ville de Siem Reap.</anecdote>
+    </contenu>
+    <contenu id="19">
+      <question>Dans quelle ville française peut-on retrouver une tour surnommée 'Le Crayon' ?</question>
+      <propositions>
+        <proposition id="19-1">Limoges</proposition>
+        <proposition id="19-2">Toulouse</proposition>
+        <proposition id="19-3">Lyon</proposition>
+        <proposition id="19-4">Bordeaux</proposition>
+      </propositions>
+      <réponse proposition="19-3">Lyon</réponse>
+      <anecdote>La Tour Part-Dieu est un gratte-ciel de bureaux situé dans le quartier de la Part-Dieu à Lyon, en France.</anecdote>
+    </contenu>
+    <contenu id="20">
+      <question>Quels temples creusés dans la falaise ont été construits par le pharaon Ramsès II ?</question>
+      <propositions>
+        <proposition id="20-1">Abou Simbel</proposition>
+        <proposition id="20-2">Esna</proposition>
+        <proposition id="20-3">Mallawi</proposition>
+        <proposition id="20-4">Péluse</proposition>
+      </propositions>
+      <réponse proposition="20-1">Abou Simbel</réponse>
+      <anecdote>Les temples ont été construits au nord du lac Nasser sur le Nil, à environ soixante-dix kilomètres de la deuxième cataracte du Nil.</anecdote>
+    </contenu>
+  </confirmé>
+  <expert>
+    <contenu id="21">
+      <question>Quel pays renferme la Tour de Belém, inscrite au patrimoine mondial de l'UNESCO ?</question>
+      <propositions>
+        <proposition id="21-1">L'Espagne</proposition>
+        <proposition id="21-2">Le Portugal</proposition>
+        <proposition id="21-3">Israël</proposition>
+        <proposition id="21-4">LÉgypte</proposition>
+      </propositions>
+      <réponse proposition="21-2">Le Portugal</réponse>
+      <anecdote>La Tour de Belém a été construite sur les bords du Tage dans la freguesia de Santa Maria de Belém entre 1515 et 1521.</anecdote>
+    </contenu>
+    <contenu id="22">
+      <question>Dans quel pays africain se situe le Voortrekker Monument, rendant hommage aux pionniers boers ?</question>
+      <propositions>
+        <proposition id="22-1">Au Mali</proposition>
+        <proposition id="22-2">En Afrique du Sud</proposition>
+        <proposition id="22-3">En Égypte</proposition>
+        <proposition id="22-4">Au Ghana</proposition>
+      </propositions>
+      <réponse proposition="22-2">En Afrique du Sud</réponse>
+      <anecdote>Symbole du nationalisme afrikaner, le monument se dresse depuis 1949 sur une colline à l'entrée sud de la capitale sud-africaine.</anecdote>
+    </contenu>
+    <contenu id="23">
+      <question>Dans quel État sud-américain peut-on admirer une célèbre statue de Carlos Pellegrini ?</question>
+      <propositions>
+        <proposition id="23-1">En Bolivie</proposition>
+        <proposition id="23-2">Au Brésil</proposition>
+        <proposition id="23-3">En Argentine</proposition>
+        <proposition id="23-4">En Colombie</proposition>
+      </propositions>
+      <réponse proposition="23-3">En Argentine</réponse>
+      <anecdote>Durant sa période présidentielle, il réussit à assainir les finances de l'état et créa la Banque de la Nation Argentine.</anecdote>
+    </contenu>
+    <contenu id="24">
+      <question>Combien d'étages possède la tour de Pise, sur la Piazza dei Miracoli ?</question>
+      <propositions>
+        <proposition id="24-1">Cinq</proposition>
+        <proposition id="24-2">Huit</proposition>
+        <proposition id="24-3">Treize</proposition>
+        <proposition id="24-4">Dix</proposition>
+      </propositions>
+      <réponse proposition="24-2">Huit</réponse>
+      <anecdote>Sa célébrité vient notamment de son inclinaison caractéristique, qui est actuellement d'un angle de 3° 59' vers le sud.</anecdote>
+    </contenu>
+    <contenu id="25">
+      <question>Depuis 1934, qu'est devenue la basilique Sainte-Sophie de Constantinople ?</question>
+      <propositions>
+        <proposition id="25-1">Un musée</proposition>
+        <proposition id="25-2">Une mosquée</proposition>
+        <proposition id="25-3">Un hôtel</proposition>
+        <proposition id="25-4">Une église</proposition>
+      </propositions>
+      <réponse proposition="25-1">Un musée</réponse>
+      <anecdote>La basilique est dédiée au Christ, « Sagesse de Dieu », selon la tradition théologique chrétienne.</anecdote>
+    </contenu>
+    <contenu id="26">
+      <question>Combien de noms de savants sont gravés sur la base du premier étage de la Tour Eiffel ?</question>
+      <propositions>
+        <proposition id="26-1">64</proposition>
+        <proposition id="26-2">72</proposition>
+        <proposition id="26-3">87</proposition>
+        <proposition id="26-4">55</proposition>
+      </propositions>
+      <réponse proposition="26-2">72</réponse>
+      <anecdote>Gustave Eiffel a fait graver soixante-douze noms de scientifiques, ingénieurs ou industriels qui ont honoré la France de 1789 à 1889.</anecdote>
+    </contenu>
+    <contenu id="27">
+      <question>Quel est le style du Parthénon de l'Acropole à Athènes, réalisé en marbre du Pentélique ?</question>
+      <propositions>
+        <proposition id="27-1">Dorique</proposition>
+        <proposition id="27-2">Éolique</proposition>
+        <proposition id="27-3">Ionique</proposition>
+        <proposition id="27-4">Corinthien</proposition>
+      </propositions>
+      <réponse proposition="27-1">Dorique</réponse>
+      <anecdote>Le Parthénon était consacré à la déesse Athéna Parthenos, protectrice de la cité et déesse de la guerre et de la sagesse.</anecdote>
+    </contenu>
+    <contenu id="28">
+      <question>Quelle est la longueur du célèbre pont de pierre de Bordeaux ?</question>
+      <propositions>
+        <proposition id="28-1">621 mètres</proposition>
+        <proposition id="28-2">560 mètres</proposition>
+        <proposition id="28-3">339 mètres</proposition>
+        <proposition id="28-4">487 mètres</proposition>
+      </propositions>
+      <réponse proposition="28-4">487 mètres</réponse>
+      <anecdote>Le pont est construit en pierre et en brique, avec la particularité de comporter des espaces vides intérieurs.</anecdote>
+    </contenu>
+    <contenu id="29">
+      <question>Quelle gare classée a été mise en avant dans une publicité de la marque Chanel ?</question>
+      <propositions>
+        <proposition id="29-1">Gare de Lyon</proposition>
+        <proposition id="29-2">Gare de Toulouse</proposition>
+        <proposition id="29-3">Gare de Bordeaux</proposition>
+        <proposition id="29-4">Gare de Limoges</proposition>
+      </propositions>
+      <réponse proposition="29-4">Gare de Limoges</réponse>
+      <anecdote>L'esthétique du bâtiment actuel emprunte autant à un Art nouveau tardif qu'à l'Art déco et au néoclassicisme.</anecdote>
+    </contenu>
+    <contenu id="30">
+      <question>Où pouvez-vous visiter le palais Jacques-Cur, chef-duvre de l'architecture gothique tardive ?</question>
+      <propositions>
+        <proposition id="30-1">Blois</proposition>
+        <proposition id="30-2">Besançon</proposition>
+        <proposition id="30-3">Bordeaux</proposition>
+        <proposition id="30-4">Bourges</proposition>
+      </propositions>
+      <réponse proposition="30-4">Bourges</réponse>
+      <anecdote>Cet édifice naît de la volonté du riche marchand Jacques Cur de bâtir une « grand' maison » dans sa ville natale.</anecdote>
+    </contenu>
+  </expert>
+</quizz>

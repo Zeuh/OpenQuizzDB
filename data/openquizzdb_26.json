@@ -1,0 +1,374 @@
+{
+  "fournisseur": "OpenQuizzDB - Fournisseur de contenu libre (www.openquizzdb.org)",
+  "rédacteur": "Philippe Bresoux",
+  "thème": "Jeux olympiques",
+  "difficulté": 3,
+  "quizz": {
+    "débutant": [
+      {
+        "id": 1,
+        "question": "À quel historien et pédagogue français doit-on les Jeux olympiques modernes ?",
+        "propositions": [
+          "Napoléon Bonaparte",
+          "Duc de Windsor",
+          "Pierre de Coubertin",
+          "Pie XI"
+        ],
+        "réponse": "Pierre de Coubertin",
+        "anecdote": "La médaille Pierre-de-Coubertin, attribuée par le CIO, démontre un vrai esprit sportif aux Jeux olympiques."
+      },
+      {
+        "id": 2,
+        "question": "Combien y a-t-il de couloirs dans une piscine olympique ?",
+        "propositions": [
+          "10",
+          "12",
+          "14",
+          "6"
+        ],
+        "réponse": "10",
+        "anecdote": "Seules les piscines d'eau douce homologuées conviennent aux compétitions organisées dans ces grands bassins."
+      },
+      {
+        "id": 3,
+        "question": "Qui a été élu « journaliste français le plus chauvin » des Jeux olympiques de 2012 ?",
+        "propositions": [
+          "Nelson Monfort",
+          "Christian Jeanpierre",
+          "Michel Denisot",
+          "Georges Cazeneuve"
+        ],
+        "réponse": "Nelson Monfort",
+        "anecdote": "Nelson Monfort commente le patinage artistique mais surtout interviewe les sportifs dans de nombreuses disciplines."
+      },
+      {
+        "id": 4,
+        "question": "Dans quelle ville se dérouleront les Jeux olympiques de 2016, malgré son insécurité ?",
+        "propositions": [
+          "Rio de Janeiro",
+          "Pékin",
+          "Tokyo",
+          "Londres"
+        ],
+        "réponse": "Rio de Janeiro",
+        "anecdote": "Ces JO seront les premiers à se dérouler en Amérique du Sud et les premiers à se dérouler dans un pays lusophone."
+      },
+      {
+        "id": 5,
+        "question": "Quelle épreuve olympique commence hors du stade pour se terminer dans ses murs ?",
+        "propositions": [
+          "Le cross-country",
+          "Le 10 000 m",
+          "Le trail",
+          "Le marathon"
+        ],
+        "réponse": "Le marathon",
+        "anecdote": "Le marathon est une épreuve sportive de course à pied qui se dispute généralement sur une distance de 42 kilomètres."
+      },
+      {
+        "id": 6,
+        "question": "Lequel des anneaux du drapeau olympique se retrouve le plus près du mât ?",
+        "propositions": [
+          "Le bleu",
+          "Le vert",
+          "Le jaune",
+          "Le rouge"
+        ],
+        "réponse": "Le bleu",
+        "anecdote": "Les 5 anneaux entrelacés représentent les cinq continents unis par lolympisme, et les six couleurs représentent toutes les nations."
+      },
+      {
+        "id": 7,
+        "question": "Quel pongiste belge a participé à ses septièmes Jeux olympiques à l'âge de 42 ans ?",
+        "propositions": [
+          "Grégory Obert",
+          "Martin Bratanov",
+          "Yannick Vostes",
+          "Jean-Michel Saive"
+        ],
+        "réponse": "Jean-Michel Saive",
+        "anecdote": "Jean-Michel Saive a également porté le drapeau de la délégation belge lors des Jeux olympiques de 1996 et 2004."
+      },
+      {
+        "id": 8,
+        "question": "Qui est la première gymnaste à avoir obtenu un 10 au Jeux olympiques ?",
+        "propositions": [
+          "Nadia Comaneci",
+          "Doina Ignat",
+          "Tatiana Gutsu",
+          "Diana Mocanu"
+        ],
+        "réponse": "Nadia Comaneci",
+        "anecdote": "Nadia Comaneci, qui possède une double nationalité, a donné une dimension populaire et médiatique inégalée à ce sport."
+      },
+      {
+        "id": 9,
+        "question": "Quelle est la couleur de fond du drapeau olympique, célèbre pour ses cinq anneaux ?",
+        "propositions": [
+          "Verte",
+          "Blanche",
+          "Bleue",
+          "Jaune"
+        ],
+        "réponse": "Blanche",
+        "anecdote": "Aux Jeux de 2008, l'association Reporters sans frontières a détourné le drapeau olympique en remplaçant le fond blanc par un fond noir."
+      },
+      {
+        "id": 10,
+        "question": "Qui était Premier ministre britannique lors des Jeux olympiques de Londres en 2012 ?",
+        "propositions": [
+          "Tony Blair",
+          "James Callaghan",
+          "Gordon Brown",
+          "David Cameron"
+        ],
+        "réponse": "David Cameron",
+        "anecdote": "Diplômé du Brasenose College de l'université d'Oxford, il fut conseiller politique de Margaret Thatcher puis de John Major."
+      }
+    ],
+    "confirmé": [
+      {
+        "id": 11,
+        "question": "Quel athlète Jamaïcain a marqué les Jeux olympiques de 2008 ?",
+        "propositions": [
+          "Dexter Lee",
+          "Ray Stewart",
+          "Lerone Clarke",
+          "Usain Bolt"
+        ],
+        "réponse": "Usain Bolt",
+        "anecdote": "Spécialiste des épreuves de sprint, Usain Bolt est également l'athlète le plus décoré des championnats du monde d'athlétisme."
+      },
+      {
+        "id": 12,
+        "question": "Quelle discipline olympique associe le saut à ski au ski de fond ?",
+        "propositions": [
+          "Le snowboard",
+          "Le curling",
+          "Le biathlon",
+          "Le combiné nordique"
+        ],
+        "réponse": "Le combiné nordique",
+        "anecdote": "Créé en Norvège à la fin du XIXe siècle, le combiné nordique est au programme olympique depuis la première édition."
+      },
+      {
+        "id": 13,
+        "question": "En 2012, quel type de passeport est apparu aux Jeux olympiques de Londres ?",
+        "propositions": [
+          "Thermique",
+          "Biologique",
+          "Automatique",
+          "Télépathique"
+        ],
+        "réponse": "Biologique",
+        "anecdote": "Il permet de déceler des violations de la réglementation antidopage en détectant des variations anormales de marqueurs biologiques."
+      },
+      {
+        "id": 14,
+        "question": "Quelle sportive française a participé à sept éditions des Jeux olympiques ?",
+        "propositions": [
+          "Sabrina Jonnier",
+          "Sophie Creux",
+          "Jeannie Longo",
+          "Marion Rousse"
+        ],
+        "réponse": "Jeannie Longo",
+        "anecdote": "Au total, Jeannie Longo a remporté 9 titres de championne du monde sur route et un titre olympique."
+      },
+      {
+        "id": 15,
+        "question": "Quel objet les femmes ne peuvent-elles jeter aux Jeux olympiques que depuis 1995 ?",
+        "propositions": [
+          "Le disque",
+          "Le marteau",
+          "Le poids",
+          "Le javelot"
+        ],
+        "réponse": "Le marteau",
+        "anecdote": "Le lancer du marteau pour femmes a eu lieu pour la première fois aux Jeux olympiques d'été de 2000 à Sydney."
+      },
+      {
+        "id": 16,
+        "question": "Quel équipement très utilisé en athlétisme doit peser au moins 50 grammes ?",
+        "propositions": [
+          "Le sifflet",
+          "Le disque",
+          "Le témoin",
+          "Le javelot"
+        ],
+        "réponse": "Le témoin",
+        "anecdote": "Le but du relais est de parcourir la distance le plus rapidement possible tout en assurant la transmission d'un témoin."
+      },
+      {
+        "id": 17,
+        "question": "Dans quelle épreuve olympique peut-on trouver des hommes couchés par terre ?",
+        "propositions": [
+          "Le tir",
+          "Le softball",
+          "Le curling",
+          "Le croquet"
+        ],
+        "réponse": "Le tir",
+        "anecdote": "Le tir inclus deux types principaux de compétition, le tir sur cible avec des pistolets ou des carabines et le tir sur plateau."
+      },
+      {
+        "id": 18,
+        "question": "Quel sportif, né le 30 juin 1985 à Towson, est le plus titré des Jeux olympiques ?",
+        "propositions": [
+          "Mark Spitz",
+          "Andriy Serdinov",
+          "Ian Thorpe",
+          "Michael Phelps"
+        ],
+        "réponse": "Michael Phelps",
+        "anecdote": "En grand bassin, l'Américain est le nageur le plus médaillé de l'histoire avec 22 médailles dont 18 d'or."
+      },
+      {
+        "id": 19,
+        "question": "Comment appelle-t-on la période de quatre ans entre deux Jeux olympiques ?",
+        "propositions": [
+          "Une olympiade",
+          "Une tierce",
+          "Un quinquennat",
+          "Un lustre"
+        ],
+        "réponse": "Une olympiade",
+        "anecdote": "L'olympiade est la base de la chronologie du monde grec à partir d'Alexandre le Grand."
+      },
+      {
+        "id": 20,
+        "question": "Quel athlète a été champion olympique du saut en longueur à Atlanta en 1996 ?",
+        "propositions": [
+          "Dwight Phillips",
+          "Carl Lewis",
+          "Linford Christie",
+          "Michael Johnson"
+        ],
+        "réponse": "Carl Lewis",
+        "anecdote": "Sa carrière, plusieurs fois interrompue, a duré de 1979 à 1996, année durant laquelle il a conquis son dernier titre olympique."
+      }
+    ],
+    "expert": [
+      {
+        "id": 21,
+        "question": "En quelle année les Jeux olympiques se sont-ils déroulés à Paris pour la première fois ?",
+        "propositions": [
+          "1928",
+          "1920",
+          "1908",
+          "1900"
+        ],
+        "réponse": "1900",
+        "anecdote": "Aucune cérémonie d'ouverture ou de fermeture n'a été prévue au programme, mis à part un défilé des gymnastes à Vincennes."
+      },
+      {
+        "id": 22,
+        "question": "Lequel de ces sports ne figure pas parmi les épreuves disputées en pentathlon moderne ?",
+        "propositions": [
+          "Le cyclisme",
+          "La natation",
+          "La course à pied",
+          "Le tir au pistolet"
+        ],
+        "réponse": "Le cyclisme",
+        "anecdote": "Les épreuves du pentathlon moderne sont l'escrime, la natation, l'équitation, le tir au pistolet et la course à pied."
+      },
+      {
+        "id": 23,
+        "question": "Quel chirurgien orthopédiste a été élu en 2001 président du Comité international olympique ?",
+        "propositions": [
+          "Marc Hodler",
+          "Jacques Rogge",
+          "René Fasel",
+          "Jean-Claude Killy"
+        ],
+        "réponse": "Jacques Rogge",
+        "anecdote": "Après une carrière sportive remplie, en voile comme skipper puis au  rugby à XV, Jacques Rogge s'oriente vers l'administration sportive."
+      },
+      {
+        "id": 24,
+        "question": "Quelle est la première ville à avoir accueilli trois fois les Jeux olympiques ?",
+        "propositions": [
+          "Los Angeles",
+          "Athènes",
+          "Londres",
+          "Paris"
+        ],
+        "réponse": "Londres",
+        "anecdote": "Les JO sont un événement international majeur, regroupant les sports d'été et d'hiver, auquel des milliers d'athlètes participent."
+      },
+      {
+        "id": 25,
+        "question": "Dans quelle discipline olympique le parcours est-il toujours triangulaire ?",
+        "propositions": [
+          "Le canoë-kayak",
+          "Le triathlon",
+          "L'aviron",
+          "La voile"
+        ],
+        "réponse": "La voile",
+        "anecdote": "Le plus grand catamaran à voile jamais construit est le Douce France : 42 mètres de grand luxe et de teck."
+      },
+      {
+        "id": 26,
+        "question": "En 1980, lequel de ces pays a totalement boycotté les Jeux olympiques de Moscou ?",
+        "propositions": [
+          "La Grande-Bretagne",
+          "La Norvège",
+          "La France",
+          "La Suède"
+        ],
+        "réponse": "La Norvège",
+        "anecdote": "Une cinquantaine de nations ont boycotté ces Jeux à la suite de l'invasion de l'Afghanistan par l'Union Soviétique en 1979."
+      },
+      {
+        "id": 27,
+        "question": "Quel nageur olympique de Guinée équatoriale a connu une célébrité éphémère ?",
+        "propositions": [
+          "Éric Moussambani",
+          "Bill Kirby",
+          "Ian Thorpe",
+          "Jens Kruppa"
+        ],
+        "réponse": "Éric Moussambani",
+        "anecdote": "Son courage à Sydney en 2000 sera perçu comme un symbole de l'esprit olympique, après un 100 mètres nage libre en 1m 52s."
+      },
+      {
+        "id": 28,
+        "question": "Quel animal a représenté la mascotte des Jeux olympiques de Moscou en 1980 ?",
+        "propositions": [
+          "Un ours",
+          "Un loup",
+          "Un élan",
+          "Un renne"
+        ],
+        "réponse": "Un ours",
+        "anecdote": "La mascotte officielle, l'ours Misha, a été imaginée par Victor Tchijikov, auteur de livres pour enfants."
+      },
+      {
+        "id": 29,
+        "question": "Combien de médailles olympiques ont été distribuées aux Jeux olympiques de 2012 ?",
+        "propositions": [
+          "2 900",
+          "4 700",
+          "3 500",
+          "5 600"
+        ],
+        "réponse": "4 700",
+        "anecdote": "Londres est la première ville à accueillir les Jeux olympiques modernes pour la troisième fois."
+      },
+      {
+        "id": 30,
+        "question": "En quelle année les Jeux olympiques ont-ils été télévisés pour la première fois ?",
+        "propositions": [
+          "1936",
+          "1952",
+          "1947",
+          "1963"
+        ],
+        "réponse": "1936",
+        "anecdote": "Pour la première fois, la flamme olympique sera introduite dans une cérémonie d'ouverture de Jeux olympiques."
+      }
+    ]
+  }
+}

@@ -1,0 +1,374 @@
+{
+  "fournisseur": "OpenQuizzDB - Fournisseur de contenu libre (www.openquizzdb.org)",
+  "rédacteur": "Philippe Bresoux",
+  "thème": "Le Cinquième Élément",
+  "difficulté": 4,
+  "quizz": {
+    "débutant": [
+      {
+        "id": 1,
+        "question": "Qui a réalisé le film de science-fiction 'Le Cinquième Élément' sorti en 1997 ?",
+        "propositions": [
+          "Jean-Pierre Jeunet",
+          "Luc Besson",
+          "Georges Lucas",
+          "Steven Spielberg"
+        ],
+        "réponse": "Luc Besson",
+        "anecdote": "Luc Besson a écrit la première ébauche du scénario du 'Cinquième Élément' alors qu'il était au lycée."
+      },
+      {
+        "id": 2,
+        "question": "Quel animateur de radio déjanté retrouve-t-on dans le film à succès 'Le Cinquième Élément' ?",
+        "propositions": [
+          "Mangalore",
+          "Ruby Rhod",
+          "Pacoli",
+          "Vito Cornelius"
+        ],
+        "réponse": "Ruby Rhod",
+        "anecdote": "C'est Prince et Lenny Kravitz qui ont inspiré Luc Besson et son équipe pour la concrétisation du personnage de Ruby Rhod."
+      },
+      {
+        "id": 3,
+        "question": "Quel est le prénom du petit garçon responsable de la lumière au début du film 'Le Cinquième Élément' ?",
+        "propositions": [
+          "Youssef",
+          "Omar",
+          "Ahmed",
+          "Aziz"
+        ],
+        "réponse": "Aziz",
+        "anecdote": "Le personnage d'Aziz, que l'on retrouve au début du film 'Le Cinquième Élément', est interprété par le jeune Said Talidi."
+      },
+      {
+        "id": 4,
+        "question": "Quel personnage est incarné par Bruce Willis dans le film 'Le Cinquième Élément' ?",
+        "propositions": [
+          "Général Munro",
+          "Zorg",
+          "Vito Cornelius",
+          "Korben Dallas"
+        ],
+        "réponse": "Korben Dallas",
+        "anecdote": "C'est Jean Reno qui devait jouer le rôle de Korben Dallas, alors que Kevin Costner a failli jouer le rôle du général Munroe."
+      },
+      {
+        "id": 5,
+        "question": "Avec quoi Ruby Rhod signe-t-il les autographes des japonaises dans 'Le Cinquième Élément' ?",
+        "propositions": [
+          "Une plume",
+          "Un pinceau",
+          "Un chalumeau",
+          "Un pistolet"
+        ],
+        "réponse": "Un pinceau",
+        "anecdote": "Sorte de drag-queen afro-américaine aux tics sur-efféminés, Ruby Rhod marque un amusant contraste avec Korben Dallas."
+      },
+      {
+        "id": 6,
+        "question": "Quel est le métier de Korben Dallas dans le film 'Le Cinquième Élément' de Luc Besson ?",
+        "propositions": [
+          "Policier",
+          "Tueur à gage",
+          "Chauffeur de taxi",
+          "Militaire"
+        ],
+        "réponse": "Chauffeur de taxi",
+        "anecdote": "Manuel Dorne, blogueur français spécialisé dans la culture geek, a choisi comme pseudonyme Korben, en référence à Korben Dallas."
+      },
+      {
+        "id": 7,
+        "question": "Qui est en fait le « cinquième élément » dans le film du même nom sorti sur les écrans en 1997 ?",
+        "propositions": [
+          "Cornelius",
+          "Leeloo",
+          "Ruby Rhod",
+          "Korben Dallas"
+        ],
+        "réponse": "Leeloo",
+        "anecdote": "Le nom complet de Leeloo dans le film est Leeloominaï Lekatariba Lamina-Tchaï Ekbat De Sebat."
+      },
+      {
+        "id": 8,
+        "question": "Quel acteur interprète le rôle de Zorg dans le film 'Le Cinquième Élément' ?",
+        "propositions": [
+          "Chris Tucker",
+          "Bruce Willis",
+          "Gary Oldman",
+          "Ian Holm"
+        ],
+        "réponse": "Gary Oldman",
+        "anecdote": "C'est le chanteur et musicien Tricky (Adrian Thaws) qui interprète le bras droit de Mr Zorg tout au long du film."
+      },
+      {
+        "id": 9,
+        "question": "Qui aime « être green » et parfois même  « super green » dans le film 'Le Cinquième Élément' ?",
+        "propositions": [
+          "Ruby Rhod",
+          "Korben Dallas",
+          "Zorg",
+          "Vito Cornelius"
+        ],
+        "réponse": "Ruby Rhod",
+        "anecdote": "C'est le très posé Tom Novembre qui a prêté sa voix à l'excentrique Ruby Rhod, ce qui fut paraît-il une réelle épreuve pour lui."
+      },
+      {
+        "id": 10,
+        "question": "Combien de pierres au total doivent retrouver les protagonistes du film 'Le Cinquième Élément' ?",
+        "propositions": [
+          "Quatre",
+          "Deux",
+          "Trois",
+          "Cinq"
+        ],
+        "réponse": "Quatre",
+        "anecdote": "Zorg, sur commande de M. Shadow, est déterminé à voler les pierres représentant les 4 éléments et à détruire le 5ème Élément."
+      }
+    ],
+    "confirmé": [
+      {
+        "id": 11,
+        "question": "Comment se prénomme le disciple du prêtre Cornelius dans 'Le Cinquième Élément' ?",
+        "propositions": [
+          "David",
+          "Pierre",
+          "Joshua",
+          "Simon"
+        ],
+        "réponse": "David",
+        "anecdote": "Cornelius est chargé de retrouver l'être suprême qui, associé aux quatre éléments vitaux, peut seul repousser Le Mal."
+      },
+      {
+        "id": 12,
+        "question": "Quels monstres sont au service de Zorg dans le film 'Le Cinquième Élément' ?",
+        "propositions": [
+          "Les Mangalores",
+          "Les Brévians",
+          "Les Aralors",
+          "Les Astimecks"
+        ],
+        "réponse": "Les Mangalores",
+        "anecdote": "Mangalore est également la ville d'origine de la célèbre actrice et Miss Monde 94, Aishwarya Rai."
+      },
+      {
+        "id": 13,
+        "question": "Dans 'Le Cinquième Élément', sur combien de temps est réglée la bombe placée par Zorg ?",
+        "propositions": [
+          "20 minutes",
+          "15 minutes",
+          "25 minutes",
+          "30 minutes"
+        ],
+        "réponse": "20 minutes",
+        "anecdote": "Gary Oldman a joué dans le film pour remercier Besson d'avoir financé 'Nil by Mouth', un film qu'il avait écrit et réalisé."
+      },
+      {
+        "id": 14,
+        "question": "Comment s'appelle le chef des Mangalores dans le film 'Le Cinquième Élément' ?",
+        "propositions": [
+          "Akmet",
+          "Akrill",
+          "Akrom",
+          "Aknot"
+        ],
+        "réponse": "Aknot",
+        "anecdote": "C'est Vladimir McCrary qui incarne le rôle du garde mangalore Aknot, alors que Jean Reno lui prête sa voix."
+      },
+      {
+        "id": 15,
+        "question": "Dans le film 'Le Cinquième Élément', selon le très excentrique Ruby, comment sont les ministres ?",
+        "propositions": [
+          "Mortels",
+          "Sinistres",
+          "Ennuyeux",
+          "Greens"
+        ],
+        "réponse": "Sinistres",
+        "anecdote": "Luc Besson a longuement insisté pour que le film soit français, même si la majorité des acteurs sont américains."
+      },
+      {
+        "id": 16,
+        "question": "Complétez cette réplique du 'Cinquième Élément' : « Le temps est sans importance, seule le vie est...",
+        "propositions": [
+          "importante",
+          "triomphale",
+          "joyeuse",
+          "paradisiaque"
+        ],
+        "réponse": "importante",
+        "anecdote": "Au moment de la sortie du film, 'Le Cinquième Élément' est le film le plus cher à avoir été produit en Europe."
+      },
+      {
+        "id": 17,
+        "question": "Qui appelle le président américain par téléphone à la fin du film 'Le Cinquième Élément' ?",
+        "propositions": [
+          "Cornelius",
+          "Le prêtre",
+          "La mère de Korben",
+          "Zorg"
+        ],
+        "réponse": "La mère de Korben",
+        "anecdote": "Luc Besson a développé l'univers visuel de son film avec les dessinateurs français de BD Jean Giraud et Jean-Claude Mézières."
+      },
+      {
+        "id": 18,
+        "question": "Quel Grand Méchant du film 'Le Cinquième Élément' s'apprête à anéantir la planète Terre ?",
+        "propositions": [
+          "Mr Shadow",
+          "Mr Black",
+          "Mr Dark",
+          "Mr Death"
+        ],
+        "réponse": "Mr Shadow",
+        "anecdote": "La peur de Mr Shadow fait sécouler du sang sur le fron de Mr Zorg lorsqu'il lui adresse la parole."
+      },
+      {
+        "id": 19,
+        "question": "Qui est le compositeur de la bande originale du film 'Le Cinquième Élément' ?",
+        "propositions": [
+          "Hans Zimmer",
+          "Jerry Goldsmith",
+          "Éric Serra",
+          "John Williams"
+        ],
+        "réponse": "Éric Serra",
+        "anecdote": "Éric Serra est le compositeur attitré de la musique des films de Luc Besson depuis le début des années 1980."
+      },
+      {
+        "id": 20,
+        "question": "Dans quel pays se trouve le temple du début du film 'Le Cinquième Élément' ?",
+        "propositions": [
+          "Tunisie",
+          "Égypte",
+          "Maroc",
+          "Libye"
+        ],
+        "réponse": "Égypte",
+        "anecdote": "Les scènes se déroulant en Égypte sont tournées en Mauritanie, alors que les scènes de l'opéra l'ont été à Londres."
+      }
+    ],
+    "expert": [
+      {
+        "id": 21,
+        "question": "Quelle arme est fabriqués par l'entreprise Zorg dans le film 'Le Cinquième Élément' ?",
+        "propositions": [
+          "ZF-1",
+          "Falcon-1",
+          "MK-1",
+          "Pag-1"
+        ],
+        "réponse": "ZF-1",
+        "anecdote": "Le fusil ZF-1 utilisé par Gary Oldman dans le film de Luc Besson 'Le Cinquième Élément' est en passe de devenir réalité."
+      },
+      {
+        "id": 22,
+        "question": "Quel est le nom du vaisseau de croisière du film 'Le Cinquième Élément' ?",
+        "propositions": [
+          "Mirage 2000",
+          "Enterprise",
+          "Faucon Millenium",
+          "Fhloston Paradise"
+        ],
+        "réponse": "Fhloston Paradise",
+        "anecdote": "Dans le film, la diva Plavalaguna doit donner un récital à bord du vaisseau de croisière Fhloston Paradise."
+      },
+      {
+        "id": 23,
+        "question": "Quel concours a remporté Korben Dallas dans le film 'Le Cinquième Élément' ?",
+        "propositions": [
+          "Jiminy Cricket",
+          "Sony Crockett",
+          "Davy Crocket",
+          "Gemini Croquettes"
+        ],
+        "réponse": "Gemini Croquettes",
+        "anecdote": "On peut aperçevoir Mya Frye dans le spot de pub pour le concours au début du film, lorsque le chat regarde la télé."
+      },
+      {
+        "id": 24,
+        "question": "Quel est le nom de la célèbre Diva du film 'Le Cinquième Élément' ?",
+        "propositions": [
+          "Mondoshawan",
+          "Sofialoma",
+          "Plavalaguna",
+          "Janjua"
+        ],
+        "réponse": "Plavalaguna",
+        "anecdote": "C'est la diva Plavalaguna qui a été choisir pour être la dépositaire des pierres des quatre éléments."
+      },
+      {
+        "id": 25,
+        "question": "Dans 'Le Cinquième Élément', quels êtres pacifiques vivent bien loin de la Terre ?",
+        "propositions": [
+          "Les Badlanders",
+          "Les Mondoshawans",
+          "Les Morlocks",
+          "Les Fenghuangs"
+        ],
+        "réponse": "Les Mondoshawans",
+        "anecdote": "Un groupe d'extraterrestres débarque sur Terre afin de récupérer quatre pierres représentant les quatre éléments de la vie."
+      },
+      {
+        "id": 26,
+        "question": "Quel est le prénom du prêtre Cornelius dans le film 'Le Cinquième Élément' ?",
+        "propositions": [
+          "Vito",
+          "Claudio",
+          "Paulo",
+          "Otto"
+        ],
+        "réponse": "Vito",
+        "anecdote": "Korben, ancien agent des forces de sécurité, conduira Leeloo chez le père Cornelius, qui reconnaît en elle... le cinquième élément."
+      },
+      {
+        "id": 27,
+        "question": "Quel est le deuxième prénom de Zorg dans le film 'Le Cinquième Élément' ?",
+        "propositions": [
+          "Patrick",
+          "Jean-Baptiste",
+          "Emmanuel",
+          "Simon"
+        ],
+        "réponse": "Emmanuel",
+        "anecdote": "Gary Oldman a doublé son propre personnage de Jean-Baptiste Emannuel Zorg dans le jeu vidéo 'Le Cinquième Élément'."
+      },
+      {
+        "id": 28,
+        "question": "Quel restaurateur thaïlandais livre ses plats dans le film 'Le Cinquième Élément' ?",
+        "propositions": [
+          "Mr Jim",
+          "Mr Kim",
+          "Mr Lim",
+          "Mr Dim"
+        ],
+        "réponse": "Mr Kim",
+        "anecdote": "Les répliques cultes de Mr Kim sont « Pleut jamais tous les jours » et « Bonne philosophie : voir le bien dans le mal »."
+      },
+      {
+        "id": 29,
+        "question": "Quel agent devait accompagner Korben durant sa croisière dans 'Le Cinquième Élément' ?",
+        "propositions": [
+          "Major Stryker",
+          "Major Munroe",
+          "Major Pacoli",
+          "Major Iceborg"
+        ],
+        "réponse": "Major Iceborg",
+        "anecdote": "La coiffure du major Iceborg rappelle étonnament celle de la Princesse Leia de la sage de 'La guerre des étoiles'."
+      },
+      {
+        "id": 30,
+        "question": "En quelle année se déroule l'action principale du film 'Le Cinquième Élément' ?",
+        "propositions": [
+          "2137",
+          "2348",
+          "2259",
+          "2495"
+        ],
+        "réponse": "2259",
+        "anecdote": "Nous sommes en 2259 et le Mal Suprême, sous la forme d'une mystérieuse et obscure planète magmatique, se dirige vers la Terre."
+      }
+    ]
+  }
+}

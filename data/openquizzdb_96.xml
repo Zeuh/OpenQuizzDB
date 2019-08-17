@@ -1,0 +1,343 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes" ?>
+<quizz fournisseur="OpenQuizzDB : Fournisseur de contenu libre"
+       url="http://www.openquizzdb.org"
+       rédacteur="Philippe Bresoux"
+       thème="Vins divins"
+       difficulté="4">
+  <débutant>
+    <contenu id="1">
+      <question>Comment appelle-t-on l'ensemble des sensations olfactives procurées par le vin ?</question>
+      <propositions>
+        <proposition id="1-1">Le bouquet</proposition>
+        <proposition id="1-2">La robe</proposition>
+        <proposition id="1-3">Le nez</proposition>
+        <proposition id="1-4">La texture</proposition>
+      </propositions>
+      <réponse proposition="1-1">Le bouquet</réponse>
+      <anecdote>Le terme « bouquet » est exclusivement réservé aux parfums issus du vieillissement en bouteille dits secondaires ou tertiaires.</anecdote>
+    </contenu>
+    <contenu id="2">
+      <question>Par quel fleuve la région de Saint-Émilion et ses nombreux coteaux est-elle arrosée ?</question>
+      <propositions>
+        <proposition id="2-1">La Meuse</proposition>
+        <proposition id="2-2">La Dordogne</proposition>
+        <proposition id="2-3">Le Rhin</proposition>
+        <proposition id="2-4">La Garonne</proposition>
+      </propositions>
+      <réponse proposition="2-2">La Dordogne</réponse>
+      <anecdote>Site touristique de premier plan, Saint-Émilion possède une importante parure monumentale qui se décline au gré des ruelles.</anecdote>
+    </contenu>
+    <contenu id="3">
+      <question>Quel pays d'Amérique latine au drapeau bleu et blanc possède le plus grand vignoble ?</question>
+      <propositions>
+        <proposition id="3-1">L'Argentine</proposition>
+        <proposition id="3-2">Le Chili</proposition>
+        <proposition id="3-3">Le Pérou</proposition>
+        <proposition id="3-4">La Colombie</proposition>
+      </propositions>
+      <réponse proposition="3-1">L'Argentine</réponse>
+      <anecdote>Les vignes en hautains, sur espaliers ou en gobelets furent les trois méthodes les plus utilisées en viticulture dès 1561.</anecdote>
+    </contenu>
+    <contenu id="4">
+      <question>Le phylloxéra, qui a ravagé au siècle dernier presque tous les vignobles du monde, est en fait...</question>
+      <propositions>
+        <proposition id="4-1">Un champignon</proposition>
+        <proposition id="4-2">Un puceron</proposition>
+        <proposition id="4-3">Une bactérie</proposition>
+        <proposition id="4-4">Une plante</proposition>
+      </propositions>
+      <réponse proposition="4-2">Un puceron</réponse>
+      <anecdote>En France, la maladie fut observée pour la première fois vers 1863 sur le plateau de Pujaut près Roquemaure, dans le Gard.</anecdote>
+    </contenu>
+    <contenu id="5">
+      <question>De quel cépage provient le chablis, vin blanc sec français d'appellation d'origine contrôlée ?</question>
+      <propositions>
+        <proposition id="5-1">Du Chardonnay</proposition>
+        <proposition id="5-2">Du cabernet</proposition>
+        <proposition id="5-3">Du pinot blanc</proposition>
+        <proposition id="5-4">Du sauvignon</proposition>
+      </propositions>
+      <réponse proposition="5-1">Du Chardonnay</réponse>
+      <anecdote>Il s'agit de la principale appellation en volume du vignoble de Chablis, avec le petit-chablis et le chablis grand cru.</anecdote>
+    </contenu>
+    <contenu id="6">
+      <question>Quel verbe utilise-t-on lorsque l'on souhaite mettre un vin dans la glace pour le refroidir ?</question>
+      <propositions>
+        <proposition id="6-1">Glacer</proposition>
+        <proposition id="6-2">Tirer</proposition>
+        <proposition id="6-3">Frapper</proposition>
+        <proposition id="6-4">Couper</proposition>
+      </propositions>
+      <réponse proposition="6-3">Frapper</réponse>
+      <anecdote>Pour beaucoup, frappé a le sens de rafraîchir ce qui est une erreur car un vin est frappé lorsquil est frappé de glace.</anecdote>
+    </contenu>
+    <contenu id="7">
+      <question>Pour les protéger de quels prédateurs plantait-on autrefois des roses à l'entrée des vignobles ?</question>
+      <propositions>
+        <proposition id="7-1">Des araignées</proposition>
+        <proposition id="7-2">Des pucerons</proposition>
+        <proposition id="7-3">Des fourmis</proposition>
+        <proposition id="7-4">Des abeilles</proposition>
+      </propositions>
+      <réponse proposition="7-2">Des pucerons</réponse>
+      <anecdote>Le Phylloxéra est un minuscule insecte piqueur inféodé à la vigne, apparenté aux pucerons.</anecdote>
+    </contenu>
+    <contenu id="8">
+      <question>Au Moyen Âge, qu'employait-on comme antiseptique pour panser les blessures ?</question>
+      <propositions>
+        <proposition id="8-1">Du sucre</proposition>
+        <proposition id="8-2">Du vin</proposition>
+        <proposition id="8-3">Du beurre</proposition>
+        <proposition id="8-4">Du miel</proposition>
+      </propositions>
+      <réponse proposition="8-2">Du vin</réponse>
+      <anecdote>Un centimètre cube de vin tue 99% des bacilles typhiques et des microbes du choléra dans une quantité égale à la culture.</anecdote>
+    </contenu>
+    <contenu id="9">
+      <question>Parmi ces Saints, lequel ne porte pas le nom d'un cru viticole ou d'un grand vignoble ?</question>
+      <propositions>
+        <proposition id="9-1">St Amour</proposition>
+        <proposition id="9-2">St Julien</proposition>
+        <proposition id="9-3">St Aubin</proposition>
+        <proposition id="9-4">St Raphaël</proposition>
+      </propositions>
+      <réponse proposition="9-4">St Raphaël</réponse>
+      <anecdote>Le Saint-Raphaël est un apéritif à base de mélange de mistelle rouge ou blanche et de plantes aromatiques.</anecdote>
+    </contenu>
+    <contenu id="10">
+      <question>À quel dieu égyptien attribue-t-on le fait d'avoir planté la vigne sur les bords du Nil ?</question>
+      <propositions>
+        <proposition id="10-1">Amon</proposition>
+        <proposition id="10-2">Thot</proposition>
+        <proposition id="10-3">Osiris</proposition>
+        <proposition id="10-4">Râ</proposition>
+      </propositions>
+      <réponse proposition="10-3">Osiris</réponse>
+      <anecdote>Osiris, fils du Ciel et de la Terre, était surnommé « Le Maître de la Vigne en Fleurs ».</anecdote>
+    </contenu>
+  </débutant>
+  <confirmé>
+    <contenu id="11">
+      <question>Le Chénas est une appellation d'origine contrôlée de quelle grande région viticole ?</question>
+      <propositions>
+        <proposition id="11-1">Du Jura</proposition>
+        <proposition id="11-2">De Bourgogne</proposition>
+        <proposition id="11-3">Du Beaujolais</proposition>
+        <proposition id="11-4">Du Châlonnais</proposition>
+      </propositions>
+      <réponse proposition="11-3">Du Beaujolais</réponse>
+      <anecdote>L'appellation est située à cheval sur les départements du Rhône et de Saône-et-Loire, au nord du vignoble du Beaujolais.</anecdote>
+    </contenu>
+    <contenu id="12">
+      <question>Selon les écrits, quel peuple cultiva pour la première fois la vigne en France ?</question>
+      <propositions>
+        <proposition id="12-1">Les Romains</proposition>
+        <proposition id="12-2">Les Burgondes</proposition>
+        <proposition id="12-3">Les Gaulois</proposition>
+        <proposition id="12-4">Les Grecs</proposition>
+      </propositions>
+      <réponse proposition="12-4">Les Grecs</réponse>
+      <anecdote>Les Grecs, aux alentours de Marseille. Les Romains l'ont ensuite propagé au cours de leurs conquêtes.</anecdote>
+    </contenu>
+    <contenu id="13">
+      <question>Comment désigne-t-on un vin qui peut se garder très longtemps et qui demande même à vieillir ?</question>
+      <propositions>
+        <proposition id="13-1">Vin de garde</proposition>
+        <proposition id="13-2">Échanson</proposition>
+        <proposition id="13-3">Graves</proposition>
+        <proposition id="13-4">Élixir</proposition>
+      </propositions>
+      <réponse proposition="13-1">Vin de garde</réponse>
+      <anecdote>Les vins de garde ne doivent pas se boire trop jeunes et doivent subir une période de maturation de l'ordre de trois à cinq ans.</anecdote>
+    </contenu>
+    <contenu id="14">
+      <question>Pour garder son appellation, le pineau des Charentes doit obligatoirement tirer entre 16° et...</question>
+      <propositions>
+        <proposition id="14-1">20°</proposition>
+        <proposition id="14-2">22°</proposition>
+        <proposition id="14-3">24°</proposition>
+        <proposition id="14-4">18°</proposition>
+      </propositions>
+      <réponse proposition="14-2">22°</réponse>
+      <anecdote>Il est à noter que 75% de la production du pineau des Charentes est consommée en France.</anecdote>
+    </contenu>
+    <contenu id="15">
+      <question>Le pouilly-fuissé est un vin blanc issu d'un seul cépage, mais lequel ?</question>
+      <propositions>
+        <proposition id="15-1">Le Chemin Blanc</proposition>
+        <proposition id="15-2">Le Chardonnay</proposition>
+        <proposition id="15-3">Le Sémillon</proposition>
+        <proposition id="15-4">Le Sauvignon</proposition>
+      </propositions>
+      <réponse proposition="15-2">Le Chardonnay</réponse>
+      <anecdote>Les terroirs du pouilly-fuissé sont de constitution majoritairement argilo-calcaire (Jurassique de l'ère secondaire).</anecdote>
+    </contenu>
+    <contenu id="16">
+      <question>Quel appareil permet de mesurer le taux d'alcool d'un vin ?</question>
+      <propositions>
+        <proposition id="16-1">Un nolitre</proposition>
+        <proposition id="16-2">Un barrica</proposition>
+        <proposition id="16-3">Un ébullioscope</proposition>
+        <proposition id="16-4">Un alcootest</proposition>
+      </propositions>
+      <réponse proposition="16-3">Un ébullioscope</réponse>
+      <anecdote>Puisque l'alcool bout à 78° et l'eau à 100°, l'ébullioscope permet de mesurer la quantité d'alcool contenue dans une boisson alcoolisée.</anecdote>
+    </contenu>
+    <contenu id="17">
+      <question>Dans quel local la vinification est-elle généralement pratiquée ?</question>
+      <propositions>
+        <proposition id="17-1">Le cellier</proposition>
+        <proposition id="17-2">Le cuvier</proposition>
+        <proposition id="17-3">Le chai</proposition>
+        <proposition id="17-4">Le pommard</proposition>
+      </propositions>
+      <réponse proposition="17-2">Le cuvier</réponse>
+      <anecdote>C'est dans le cuvier que s'effectue la vinification et par extension le stockage en cuve des vins en cours d'élevage.</anecdote>
+    </contenu>
+    <contenu id="18">
+      <question>Idéalement, quel vin convient le mieux aux artichauts à la poivrade, spécialité provençale ?</question>
+      <propositions>
+        <proposition id="18-1">Le rouge</proposition>
+        <proposition id="18-2">Le blanc</proposition>
+        <proposition id="18-3">Le rosé</proposition>
+        <proposition id="18-4">Le blanc pétillant</proposition>
+      </propositions>
+      <réponse proposition="18-3">Le rosé</réponse>
+      <anecdote>Le violet de Provence peut se manger cru quand il est jeune (poivrade); cru ou cuit, il se déguste notamment en salade.</anecdote>
+    </contenu>
+    <contenu id="19">
+      <question>Quel aéronef annonce chaque année la récolte du Château Guiraud en Sauternes ?</question>
+      <propositions>
+        <proposition id="19-1">Un delta-plane</proposition>
+        <proposition id="19-2">Un ULM</proposition>
+        <proposition id="19-3">Une montgolfière</proposition>
+        <proposition id="19-4">Un avion</proposition>
+      </propositions>
+      <réponse proposition="19-3">Une montgolfière</réponse>
+      <anecdote>En AOC Sauternes, il est classé premier grand cru dans la classification officielle des vins de Bordeaux de 1855.</anecdote>
+    </contenu>
+    <contenu id="20">
+      <question>Comment désigne-t-on un vin rosé dont la cuvaison a duré moins de 24 heures ?</question>
+      <propositions>
+        <proposition id="20-1">Vin de messe</proposition>
+        <proposition id="20-2">Vin de jour</proposition>
+        <proposition id="20-3">Vin de café</proposition>
+        <proposition id="20-4">Vin de foire</proposition>
+      </propositions>
+      <réponse proposition="20-3">Vin de café</réponse>
+      <anecdote>L'expression « vin d'une nuit » est moins péjorative que « vin de café ».</anecdote>
+    </contenu>
+  </confirmé>
+  <expert>
+    <contenu id="21">
+      <question>Quel vin, célébré par Goethe comme par Voltaire, fut décrété « Vin des rois et Rois des vins » ?</question>
+      <propositions>
+        <proposition id="21-1">Tokay Aszu</proposition>
+        <proposition id="21-2">Richebourg</proposition>
+        <proposition id="21-3">Meursault</proposition>
+        <proposition id="21-4">Chénas</proposition>
+      </propositions>
+      <réponse proposition="21-1">Tokay Aszu</réponse>
+      <anecdote>Les Tokaj sont principalement connus pour la gamme de vins liquoreux haut de gamme issus de grains de raisin sur-mûris.</anecdote>
+    </contenu>
+    <contenu id="22">
+      <question>En 1850, combien de domaines viticoles du Bordelais utilisaient déjà un nom de château ?</question>
+      <propositions>
+        <proposition id="22-1">318</proposition>
+        <proposition id="22-2">50</proposition>
+        <proposition id="22-3">180</proposition>
+        <proposition id="22-4">510</proposition>
+      </propositions>
+      <réponse proposition="22-2">50</réponse>
+      <anecdote>Le vignoble de Bordeaux est le vignoble regroupant toutes les vignes du département de la Gironde.</anecdote>
+    </contenu>
+    <contenu id="23">
+      <question>Le festival de Vevey, en Suisse, est un des plus importants festivals du vin depuis quel siècle ?</question>
+      <propositions>
+        <proposition id="23-1">Le XVIIIe</proposition>
+        <proposition id="23-2">Le XIXe</proposition>
+        <proposition id="23-3">Le XVIIe</proposition>
+        <proposition id="23-4">Le XXe</proposition>
+      </propositions>
+      <réponse proposition="23-3">Le XVIIe</réponse>
+      <anecdote>La Fête des Vignerons est une fête traditionnelle qui a lieu cinq fois par siècle à Vevey, en Suisse.</anecdote>
+    </contenu>
+    <contenu id="24">
+      <question>Quel raisin, destiné à la production du vin, est le plus cultivé dans la région de Dao, au Portugal ?</question>
+      <propositions>
+        <proposition id="24-1">Le touriga</proposition>
+        <proposition id="24-2">Le touzao</proposition>
+        <proposition id="24-3">L'ugni</proposition>
+        <proposition id="24-4">Le riaja</proposition>
+      </propositions>
+      <réponse proposition="24-1">Le touriga</réponse>
+      <anecdote>Cette variété à petits grains et peaux épaisses joue un rôle essentiel dans les assemblages du vin de Porto.</anecdote>
+    </contenu>
+    <contenu id="25">
+      <question>Quelle expression est utilisée pour désigner le fait d'ajouter de l'alcool dans un vin ?</question>
+      <propositions>
+        <proposition id="25-1">Mander un vin</proposition>
+        <proposition id="25-2">Claper un vin</proposition>
+        <proposition id="25-3">Frapper un vin</proposition>
+        <proposition id="25-4">Viner un vin</proposition>
+      </propositions>
+      <réponse proposition="25-4">Viner un vin</réponse>
+      <anecdote>Il ne faut pas confondre « vinage » avec le mot anglais « vintage » qui signifie dans ce contexte millésime ou millésimé.</anecdote>
+    </contenu>
+    <contenu id="26">
+      <question>Lequel de ces Saints est sans conteste « plus alcoolique » que les trois autres ?</question>
+      <propositions>
+        <proposition id="26-1">Saint-Véran</proposition>
+        <proposition id="26-2">Saint Emilion</proposition>
+        <proposition id="26-3">Saint James</proposition>
+        <proposition id="26-4">Saint Julien</proposition>
+      </propositions>
+      <réponse proposition="26-3">Saint James</réponse>
+      <anecdote>Saint James est un rhum titrant plus de 80 degrés d'alcool, tandis que les autres sont des vins.</anecdote>
+    </contenu>
+    <contenu id="27">
+      <question>Quel vin rouge fait à partir des cépages gamay et pinot noir est produit dans le Valais ?</question>
+      <propositions>
+        <proposition id="27-1">La Dôle</proposition>
+        <proposition id="27-2">Le Sancerre</proposition>
+        <proposition id="27-3">Le Médoc</proposition>
+        <proposition id="27-4">Le Tavel</proposition>
+      </propositions>
+      <réponse proposition="27-1">La Dôle</réponse>
+      <anecdote>La Dôle est souvent qualifiée de « capiteuse, racée et moelleuse » avec une robe aux reflets de pourpre.</anecdote>
+    </contenu>
+    <contenu id="28">
+      <question>Par des cures de quel vin Erasme soignait-il ses troubles d'estomac ?</question>
+      <propositions>
+        <proposition id="28-1">Côte de Beaune</proposition>
+        <proposition id="28-2">Château Guiraud</proposition>
+        <proposition id="28-3">Morgan</proposition>
+        <proposition id="28-4">Pomerol</proposition>
+      </propositions>
+      <réponse proposition="28-1">Côte de Beaune</réponse>
+      <anecdote>Le Côte de Beaune est en effet réputé pour sa richesse en éléments minéraux et ses propriétés bactéricides.</anecdote>
+    </contenu>
+    <contenu id="29">
+      <question>Parmi ces vins blancs liquoreux de Bordeaux s'est glissé un intrus, lequel ?</question>
+      <propositions>
+        <proposition id="29-1">Listrac</proposition>
+        <proposition id="29-2">Barrac</proposition>
+        <proposition id="29-3">Loupiac</proposition>
+        <proposition id="29-4">Cadillac</proposition>
+      </propositions>
+      <réponse proposition="29-1">Listrac</réponse>
+      <anecdote>Listrac est en effet un vin rouge ou un vin blanc sec d'appellation d'origine contrôlée produit autour de Listrac-Médoc dans le Médoc.</anecdote>
+    </contenu>
+    <contenu id="30">
+      <question>Quelle méthode augmente le taux d'alcool d'un vin en ajoutant du sucre dans le moût ?</question>
+      <propositions>
+        <proposition id="30-1">La chaptalisation</proposition>
+        <proposition id="30-2">L'enfarinage</proposition>
+        <proposition id="30-3">Ma muscadelle</proposition>
+        <proposition id="30-4">L'ambrie</proposition>
+      </propositions>
+      <réponse proposition="30-1">La chaptalisation</réponse>
+      <anecdote>Dans la théorie, l'ajout de 16,83 grammes de sucre par litre conduit à la production d'un degré d'alcool supplémentaire.</anecdote>
+    </contenu>
+  </expert>
+</quizz>

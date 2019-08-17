@@ -1,0 +1,343 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes" ?>
+<quizz fournisseur="OpenQuizzDB : Fournisseur de contenu libre"
+       url="http://www.openquizzdb.org"
+       rédacteur="Geremia Fortunato"
+       thème="Star Wars"
+       difficulté="2">
+  <débutant>
+    <contenu id="1">
+      <question>Qui est le padawan du chevalier et maître Jedi Obi-Wan Kenobi ?</question>
+      <propositions>
+        <proposition id="1-1">Anakin Skywalker</proposition>
+        <proposition id="1-2">Leia</proposition>
+        <proposition id="1-3">Mace Windu</proposition>
+        <proposition id="1-4">Yoda</proposition>
+      </propositions>
+      <réponse proposition="1-1">Anakin Skywalker</réponse>
+      <anecdote>Obi-Wan Kenobi est tout d'abord le padawan de Qui-Gon Jinn avant de devenir lui-même l'instructeur d'Anakin Skywalker.</anecdote>
+    </contenu>
+    <contenu id="2">
+      <question>Quel petit bonhomme vert a enseigné à Luke comment utiliser la Force ?</question>
+      <propositions>
+        <proposition id="2-1">Anakin Skywalker</proposition>
+        <proposition id="2-2">Yoda</proposition>
+        <proposition id="2-3">Jabba</proposition>
+        <proposition id="2-4">Yado</proposition>
+      </propositions>
+      <réponse proposition="2-2">Yoda</réponse>
+      <anecdote>Yoda est présent dans cinq épisodes sur ceux que compte actuellement la saga (I, II, III, V, VI).</anecdote>
+    </contenu>
+    <contenu id="3">
+      <question>Dans la saga 'Star Wars', quels chevaliers se battent avec des sabres lasers ?</question>
+      <propositions>
+        <proposition id="3-1">Zodiak</proposition>
+        <proposition id="3-2">Table ronde</proposition>
+        <proposition id="3-3">Samourai</proposition>
+        <proposition id="3-4">Jedi</proposition>
+      </propositions>
+      <réponse proposition="3-4">Jedi</réponse>
+      <anecdote>L'Ordre Jedi est dirigé par le Conseil Jedi, qui se réunit sur la planète Coruscant.</anecdote>
+    </contenu>
+    <contenu id="4">
+      <question>De quelle station spatiale ennemie la princesse Leia apprend-elle les plans de construction ?</question>
+      <propositions>
+        <proposition id="4-1">Le côté obscur</proposition>
+        <proposition id="4-2">La Lune obscure</proposition>
+        <proposition id="4-3">L'Étoile Noire</proposition>
+        <proposition id="4-4">L'Étoile qui tue</proposition>
+      </propositions>
+      <réponse proposition="4-3">L'Étoile Noire</réponse>
+      <anecdote>L'Étoile noire et l'Étoile de la mort sont deux stations spatiales sidérales mobiles de la taille d'une lune.</anecdote>
+    </contenu>
+    <contenu id="5">
+      <question>Personnage central de la saga 'Star Wars', avec qui Anakin Skywalker se marie-t-il ?</question>
+      <propositions>
+        <proposition id="5-1">Madpe</proposition>
+        <proposition id="5-2">Obiwana</proposition>
+        <proposition id="5-3">Sénatrice Padme</proposition>
+        <proposition id="5-4">Leia Organa</proposition>
+      </propositions>
+      <réponse proposition="5-3">Sénatrice Padme</réponse>
+      <anecdote>Padmé Amidala Skywalker est née en 46 av. BY sur Naboo et morte en 19 av. BY sur Polis Massa.</anecdote>
+    </contenu>
+    <contenu id="6">
+      <question>Pour aider les Jedi a réparer leur vaisseau, Anakin doit gagner une course...</question>
+      <propositions>
+        <proposition id="6-1">De module</proposition>
+        <proposition id="6-2">De acklay</proposition>
+        <proposition id="6-3">De nexu</proposition>
+        <proposition id="6-4">De nodule</proposition>
+      </propositions>
+      <réponse proposition="6-1">De module</réponse>
+      <anecdote>Après une course acharnée et très disputée, Anakin parviendra finalement à remporter la victoire.</anecdote>
+    </contenu>
+    <contenu id="7">
+      <question>Que contrôlent les Jedi qui les rendent très différents des simples humains ?</question>
+      <propositions>
+        <proposition id="7-1">L'immortalité</proposition>
+        <proposition id="7-2">La Force</proposition>
+        <proposition id="7-3">Le langage droïde</proposition>
+        <proposition id="7-4">La lumière</proposition>
+      </propositions>
+      <réponse proposition="7-2">La Force</réponse>
+      <anecdote>Les chevaliers Jedi forment un ordre d'individus qui sont aptes à maîtriser la Force et qui l'utilisent uniquement pour faire le bien.</anecdote>
+    </contenu>
+    <contenu id="8">
+      <question>Quels puissants ennemis et « seigneurs » les Jedi pensent-ils avoir vaincu ?</question>
+      <propositions>
+        <proposition id="8-1">Les friths</proposition>
+        <proposition id="8-2">Les siths</proposition>
+        <proposition id="8-3">Les Ch'tis</proposition>
+        <proposition id="8-4">Les Vicks</proposition>
+      </propositions>
+      <réponse proposition="8-2">Les siths</réponse>
+      <anecdote>Les siths sont les ennemis jurés des Jedi dont ils constituent une menace pour la République Galactique.</anecdote>
+    </contenu>
+    <contenu id="9">
+      <question>De qui la princesse Leia tombe-t-elle amoureuse dans la saga 'Star Wars' ?</question>
+      <propositions>
+        <proposition id="9-1">Obi-Wan Kenobi</proposition>
+        <proposition id="9-2">Han Solo</proposition>
+        <proposition id="9-3">Chewbacca</proposition>
+        <proposition id="9-4">Luke Skywalker</proposition>
+      </propositions>
+      <réponse proposition="9-2">Han Solo</réponse>
+      <anecdote>Han Solo est un contrebandier, pilote et ancien élève officier impérial qui a dû déserter pour sauver Chewbacca.</anecdote>
+    </contenu>
+    <contenu id="10">
+      <question>Quelle armée aidera les Jedi pour ensuite se retourner contre eux et les forces du mal ?</question>
+      <propositions>
+        <proposition id="10-1">Les Gungans</proposition>
+        <proposition id="10-2">Les Bantha</proposition>
+        <proposition id="10-3">Les faucons</proposition>
+        <proposition id="10-4">L'armée des clones</proposition>
+      </propositions>
+      <réponse proposition="10-4">L'armée des clones</réponse>
+      <anecdote>'L'Attaque des clones' est l'un des premiers films à être tourné entièrement en numérique.</anecdote>
+    </contenu>
+  </débutant>
+  <confirmé>
+    <contenu id="11">
+      <question>Quel chancelier suprême est seigneur noir des Sith et homme politique dans la série 'Star Wars' ?</question>
+      <propositions>
+        <proposition id="11-1">Padme Amidala</proposition>
+        <proposition id="11-2">Yoda</proposition>
+        <proposition id="11-3">Valorum</proposition>
+        <proposition id="11-4">Palpatine</proposition>
+      </propositions>
+      <réponse proposition="11-4">Palpatine</réponse>
+      <anecdote>Originaire de Naboo, Palpatine a été formé au côté obscur de la Force dès le plus jeune âge par son maître, Dark Plagueis.</anecdote>
+    </contenu>
+    <contenu id="12">
+      <question>De qui Chewbacca, le plus célèbre des guerriers Wookie, est-il le co-pilote ?</question>
+      <propositions>
+        <proposition id="12-1">Obi-Wan Kenobi</proposition>
+        <proposition id="12-2">Han Solo</proposition>
+        <proposition id="12-3">Anakin Skywalker</proposition>
+        <proposition id="12-4">Luke Skywalker</proposition>
+      </propositions>
+      <réponse proposition="12-2">Han Solo</réponse>
+      <anecdote>Chewbacca fait partie du noyau de rebelles qui ont restauré la liberté dans la galaxie.</anecdote>
+    </contenu>
+    <contenu id="13">
+      <question>Que se passe-t-il lorsqu'Anakin Skywalker affronte le compte Dooku la première fois ?</question>
+      <propositions>
+        <proposition id="13-1">Il gagne le duel</proposition>
+        <proposition id="13-2">Yoda tue Dooku</proposition>
+        <proposition id="13-3">Il perd une main</proposition>
+        <proposition id="13-4">Dooku lui file sa toux</proposition>
+      </propositions>
+      <réponse proposition="13-3">Il perd une main</réponse>
+      <anecdote>Dooku fut l'héritier d'une famille d'aristocrates et diplomates de Serenno à la fortune colossale.</anecdote>
+    </contenu>
+    <contenu id="14">
+      <question>Parmi ces personnages de 'Star Wars', qui dirige le conseil des Jedi avec Yoda ?</question>
+      <propositions>
+        <proposition id="14-1">Obiwan Kenobi</proposition>
+        <proposition id="14-2">Qui Go Jin</proposition>
+        <proposition id="14-3">Anakin Skywalker</proposition>
+        <proposition id="14-4">Mace Windu</proposition>
+      </propositions>
+      <réponse proposition="14-4">Mace Windu</réponse>
+      <anecdote>En plus de sa réputation de sage, Windu est considéré comme l'un des meilleurs combattants au sabre laser de l'Ordre Jedi.</anecdote>
+    </contenu>
+    <contenu id="15">
+      <question>Quel maître Jedi d'Obi-Wan Kenobi sera finalement tué par Dark Maul ?</question>
+      <propositions>
+        <proposition id="15-1">Adi Gallia</proposition>
+        <proposition id="15-2">Qui-Gon Jinn</proposition>
+        <proposition id="15-3">Plo Koon</proposition>
+        <proposition id="15-4">Ki-Adi-Mundi</proposition>
+      </propositions>
+      <réponse proposition="15-2">Qui-Gon Jinn</réponse>
+      <anecdote>Le personnage est interprété par Liam Neeson et doublé par Samuel Labarthe en France.</anecdote>
+    </contenu>
+    <contenu id="16">
+      <question>Quel apprenti Sith Obi-Wan va-t-il tuer en vengeant la mort de son maître ?</question>
+      <propositions>
+        <proposition id="16-1">Dark Sidious</proposition>
+        <proposition id="16-2">Dark Pantouf</proposition>
+        <proposition id="16-3">Dark Leouf</proposition>
+        <proposition id="16-4">Dark Maul</proposition>
+      </propositions>
+      <réponse proposition="16-4">Dark Maul</réponse>
+      <anecdote>Le personnage de Dark Maul fut créé par l'illustrateur Iain Mccaig pour Industrial Light & Magic.</anecdote>
+    </contenu>
+    <contenu id="17">
+      <question>Quel nom porte le vaisseau spatial du contrebandier Han Solo ?</question>
+      <propositions>
+        <proposition id="17-1">Intergalactique</proposition>
+        <proposition id="17-2">Enterprise</proposition>
+        <proposition id="17-3">Anneau Solaire</proposition>
+        <proposition id="17-4">Faucon Millénium</proposition>
+      </propositions>
+      <réponse proposition="17-4">Faucon Millénium</réponse>
+      <anecdote>Le Faucon Millénium fut appelé 'Millenium Condor' dans la version française du premier épisode produit.</anecdote>
+    </contenu>
+    <contenu id="18">
+      <question>Qui tue Boba Fett, redoutable chasseur de primes connu pour son adresse à traquer sa proie ?</question>
+      <propositions>
+        <proposition id="18-1">Han Solo</proposition>
+        <proposition id="18-2">Obi-Wan Kenobi</proposition>
+        <proposition id="18-3">Dark Vador</proposition>
+        <proposition id="18-4">Luke Skywalker</proposition>
+      </propositions>
+      <réponse proposition="18-1">Han Solo</réponse>
+      <anecdote>On apprendra plus tard qu'il échappe à la digestion du Gerand Sarlacc et qu'il reviendra dans l'histoire.</anecdote>
+    </contenu>
+    <contenu id="19">
+      <question>Sur quelle planète vit Anakin avant de partir rejoindre les Jedi ?</question>
+      <propositions>
+        <proposition id="19-1">Tatooine</proposition>
+        <proposition id="19-2">Dagobah</proposition>
+        <proposition id="19-3">Mustafar</proposition>
+        <proposition id="19-4">Naboo</proposition>
+      </propositions>
+      <réponse proposition="19-1">Tatooine</réponse>
+      <anecdote>Située dans la Bordure extérieure, cette planète désertique est le refuge des plus vils brigands de la galaxie.</anecdote>
+    </contenu>
+    <contenu id="20">
+      <question>Quel célèbre chasseur de primes a été engagé par Dark Vador pour traquer Han Solo ?</question>
+      <propositions>
+        <proposition id="20-1">Jabba le Hutt</proposition>
+        <proposition id="20-2">Han Solo</proposition>
+        <proposition id="20-3">Zam Wesell</proposition>
+        <proposition id="20-4">Boba Fett</proposition>
+      </propositions>
+      <réponse proposition="20-4">Boba Fett</réponse>
+      <anecdote>L'origine de Boba Fett est donnée dans 'L'Attaque des clones' : il est le « fils » du légendaire chasseur de primes Jango Fett.</anecdote>
+    </contenu>
+  </confirmé>
+  <expert>
+    <contenu id="21">
+      <question>Une fois mesurée, quelle molécule permet de savoir si un individu peut être un Chevalier Jedi ?</question>
+      <propositions>
+        <proposition id="21-1">Meti-chlorien</proposition>
+        <proposition id="21-2">Chlorydrate</proposition>
+        <proposition id="21-3">Midi-chloriens</proposition>
+        <proposition id="21-4">Chlori-Metica</proposition>
+      </propositions>
+      <réponse proposition="21-3">Midi-chloriens</réponse>
+      <anecdote>Dans la saga 'Star Wars', Anakin Skywalker se fait remarquer par son fort taux de midi-chloriens.</anecdote>
+    </contenu>
+    <contenu id="22">
+      <question>Quel taux de cette molécule Anakin possède-t-il lorsque Qui-Gon l'analyse pour la première fois ?</question>
+      <propositions>
+        <proposition id="22-1">Plus de 1 000</proposition>
+        <proposition id="22-2">Plus de 20 000</proposition>
+        <proposition id="22-3">Plus de 5 000</proposition>
+        <proposition id="22-4">Plus de 10 000</proposition>
+      </propositions>
+      <réponse proposition="22-2">Plus de 20 000</réponse>
+      <anecdote>Ce taux de midi-­chloriens est de plus supérieur à celui de Yoda, pourtant reconnu comme Grand Maître des Jedi.</anecdote>
+    </contenu>
+    <contenu id="23">
+      <question>Quel mystique de la connaissance est le maître de Dark Sidious ?</question>
+      <propositions>
+        <proposition id="23-1">Dark Tyranus</proposition>
+        <proposition id="23-2">Dark Plagueis</proposition>
+        <proposition id="23-3">Dark Vador</proposition>
+        <proposition id="23-4">Dark Bane</proposition>
+      </propositions>
+      <réponse proposition="23-2">Dark Plagueis</réponse>
+      <anecdote>Seigneur Noir des Sith, il possédait un pouvoir inimaginable qui lui permettait de garder les gens en vie avec la Force.</anecdote>
+    </contenu>
+    <contenu id="24">
+      <question>Lesquels de ces épisodes de 'Star Wars' n'ont pas été réalisés par George Lucas ?</question>
+      <propositions>
+        <proposition id="24-1">2 et 3</proposition>
+        <proposition id="24-2">1 à 3</proposition>
+        <proposition id="24-3">3 et 4</proposition>
+        <proposition id="24-4">5 et 6</proposition>
+      </propositions>
+      <réponse proposition="24-4">5 et 6</réponse>
+      <anecdote>Même s'il ne les a pas réalisés, George Luas a donné de très nombreuses directives à Irvin Kerschner et Richard Marquand.</anecdote>
+    </contenu>
+    <contenu id="25">
+      <question>À partir de quelle bataille peut-on mesurer la chronologie dans 'Star Wars' ?</question>
+      <propositions>
+        <proposition id="25-1">Bataille de Naboo</proposition>
+        <proposition id="25-2">Bataille de Jaku</proposition>
+        <proposition id="25-3">Bataille de Yavin</proposition>
+        <proposition id="25-4">Bataille de Coruscant</proposition>
+      </propositions>
+      <réponse proposition="25-3">Bataille de Yavin</réponse>
+      <anecdote>La bataille de Yavin oppose l'Empire galactique aux Rebelles autour de la planète gazeuse Yavin.</anecdote>
+    </contenu>
+    <contenu id="26">
+      <question>Que signifie la dernière phrase de Dark Vador avant de mourir : « Tu l'as déjà fait Luke » ?</question>
+      <propositions>
+        <proposition id="26-1">L'avoir sauvé</proposition>
+        <proposition id="26-2">L'avoir aimé</proposition>
+        <proposition id="26-3">L'avoir retrouvé</proposition>
+        <proposition id="26-4">L'avoir trahi</proposition>
+      </propositions>
+      <réponse proposition="26-1">L'avoir sauvé</réponse>
+      <anecdote>Le fait que Dark Vador soit le père des jumeaux Luke Skywalker et Leia Organa constitue l'intrigue principale de la saga.</anecdote>
+    </contenu>
+    <contenu id="27">
+      <question>Contre qui Han Solo remporte-t-il le Faucon Millénium lors d'une partie de sabacc ?</question>
+      <propositions>
+        <proposition id="27-1">Boba Fett</proposition>
+        <proposition id="27-2">Watto</proposition>
+        <proposition id="27-3">Jabba le Hutt</proposition>
+        <proposition id="27-4">Lando Calrissian</proposition>
+      </propositions>
+      <réponse proposition="27-4">Lando Calrissian</réponse>
+      <anecdote>Lando Calrissian est devenu par la suite administrateur de la cité des Nuages, une colonie minière.</anecdote>
+    </contenu>
+    <contenu id="28">
+      <question>Sur quelle planète Luke est-il parti pour apprendre à devenir un véritable Jedi ?</question>
+      <propositions>
+        <proposition id="28-1">Malastare</proposition>
+        <proposition id="28-2">Naboo</proposition>
+        <proposition id="28-3">Utapau</proposition>
+        <proposition id="28-4">Dagobah</proposition>
+      </propositions>
+      <réponse proposition="28-4">Dagobah</réponse>
+      <anecdote>Dagobah, dans le secteur Sluis, est un monde de sombres marais, de bayous putrides et de forêts d'arbres tortueux.</anecdote>
+    </contenu>
+    <contenu id="29">
+      <question>Dans 'Star Wars', de George Lucas, qui tue le chancelier Palpatine alias Dark Sidious ?</question>
+      <propositions>
+        <proposition id="29-1">Dark Vador</proposition>
+        <proposition id="29-2">La princesse Leia</proposition>
+        <proposition id="29-3">Luke Skywalker</proposition>
+        <proposition id="29-4">Han Solo</proposition>
+      </propositions>
+      <réponse proposition="29-1">Dark Vador</réponse>
+      <anecdote>Le règne de Palpatine s'achève dans l'épisode VI, à la fin duquel il est tué par Anakin Skywalker en l'an 4 ap. BY.</anecdote>
+    </contenu>
+    <contenu id="30">
+      <question>Combien d'années séparent le premier épisode sorti en salle de l'épisode 3 ?</question>
+      <propositions>
+        <proposition id="30-1">28 ans</proposition>
+        <proposition id="30-2">24 ans</proposition>
+        <proposition id="30-3">26 ans</proposition>
+        <proposition id="30-4">30 ans</proposition>
+      </propositions>
+      <réponse proposition="30-1">28 ans</réponse>
+      <anecdote>À l'origine nommée 'La Guerre des étoiles', 'Star Wars' est un univers de science-fiction créé par George Lucas en 1977.</anecdote>
+    </contenu>
+  </expert>
+</quizz>

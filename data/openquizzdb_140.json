@@ -1,0 +1,374 @@
+{
+  "fournisseur": "OpenQuizzDB - Fournisseur de contenu libre (www.openquizzdb.org)",
+  "rédacteur": "Philippe Bresoux",
+  "thème": "Auteurs classiques",
+  "difficulté": 3,
+  "quizz": {
+    "débutant": [
+      {
+        "id": 1,
+        "question": "Qui Arthur Raimbaud appelait-il son « compagnon denfer » ?",
+        "propositions": [
+          "André Malraux",
+          "Gérard de Nerval",
+          "Henri Michaux",
+          "Paul Verlaine"
+        ],
+        "réponse": "Paul Verlaine",
+        "anecdote": "Arthur Rimbaud écrit ses premiers poèmes à 15 ans et entretient une aventure amoureuse tumultueuse avec le poète Paul Verlaine."
+      },
+      {
+        "id": 2,
+        "question": "Quel poète chilien a reçu le prix Nobel de littérature en 1971 ?",
+        "propositions": [
+          "Gabriela Mistral",
+          "Pablo Neruda",
+          "Pablo de Rokha",
+          "Vicente Huidobro"
+        ],
+        "réponse": "Pablo Neruda",
+        "anecdote": "Il est considéré comme l'un des quatre grands de la poésie chilienne (avec Gabriela Mistral, Pablo de Rokha et Vicente Huidobro)."
+      },
+      {
+        "id": 3,
+        "question": "Quel poète et écrivain français était surnommé « le pape » du surréalisme ?",
+        "propositions": [
+          "René Char",
+          "André Breton",
+          "Paul Éluard",
+          "Alain Jouffroy"
+        ],
+        "réponse": "André Breton",
+        "anecdote": "Les uvres complètes d'André Breton ont été publiées par Gallimard en quatre tomes dans la Bibliothèque de la Pléiade."
+      },
+      {
+        "id": 4,
+        "question": "Quel était le prénom du poète Du Bellay, né vers 1522 à Liré en Anjou ?",
+        "propositions": [
+          "Edgar",
+          "Joachim",
+          "Honoré",
+          "Henri"
+        ],
+        "réponse": "Joachim",
+        "anecdote": "Sa rencontre avec Pierre de Ronsard fut à l'origine de la formation de la Pléiade, pour lequel du Bellay rédigea un manifeste."
+      },
+      {
+        "id": 5,
+        "question": "Quel écrivain homosexuel du XXe siècle a épousé sa cousine Madeleine ?",
+        "propositions": [
+          "André Breton",
+          "Edgar Allan Poe",
+          "Paul Verlaine",
+          "André Gide"
+        ],
+        "réponse": "André Gide",
+        "anecdote": "André Gide est fasciné par la jeune fille, par sa conscience du mal, son sens rigide et conformiste de ce qu'il faut faire."
+      },
+      {
+        "id": 6,
+        "question": "Quel écrivain, mort en 1814, a parfois été surnommé le « divin marquis » ?",
+        "propositions": [
+          "Sade",
+          "Rimbaud",
+          "Montesquieu",
+          "Joyce"
+        ],
+        "réponse": "Sade",
+        "anecdote": "Il fut surnommé le « divin marquis », en référence au « divin Arétin », premier auteur érotique des temps modernes."
+      },
+      {
+        "id": 7,
+        "question": "Quel écrivain allemand a travaillé et repris pendant 60 ans son livre 'Faust' ?",
+        "propositions": [
+          "Goethe",
+          "Becker",
+          "Jacoby",
+          "Lingg"
+        ],
+        "réponse": "Goethe",
+        "anecdote": "Goethe est l'auteur d'une uvre abondante aux accents encyclopédiques qui le rattache à deux mouvements littéraires."
+      },
+      {
+        "id": 8,
+        "question": "Quel romancier du XIXe siècle sest lui-même baptisé « le Napoléon des lettres » ?",
+        "propositions": [
+          "Balzac",
+          "Goethe",
+          "Verlaine",
+          "Montesquieu"
+        ],
+        "réponse": "Balzac",
+        "anecdote": "Comme il l'explique dans 'La Comédie humaine', il a pour projet d'identifier les « Espèces sociales » de son époque."
+      },
+      {
+        "id": 9,
+        "question": "Quel poète, auteur d'Alcools', a aussi écrit des romans libertins ?",
+        "propositions": [
+          "Mauriac",
+          "Apollinaire",
+          "Balzac",
+          "Montaigne"
+        ],
+        "réponse": "Apollinaire",
+        "anecdote": "Apollinaire est également l'auteur de poèmes tels que 'Zone', 'La Chanson du mal-aimé' ou encore 'Le Pont Mirabeau'."
+      },
+      {
+        "id": 10,
+        "question": "Quel moraliste, célèbre pour ses 'Maximes', est mort dans le bras de Bossuet ?",
+        "propositions": [
+          "La Rochefoucauld",
+          "La Bruyère",
+          "La Luzerne",
+          "La Fontaine"
+        ],
+        "réponse": "La Rochefoucauld",
+        "anecdote": "Bien qu'il n'ait publié que ses 'Mémoires' et ses 'Maximes', la production littéraire de François de La Rochefoucauld est dense."
+      }
+    ],
+    "confirmé": [
+      {
+        "id": 11,
+        "question": "Quel écrivain russe a été excommunié par l'Église orthodoxe ?",
+        "propositions": [
+          "Roman Goul",
+          "Léon Tolstoï",
+          "Leonid Andreïev",
+          "Vladimir Charov"
+        ],
+        "réponse": "Léon Tolstoï",
+        "anecdote": "'Résurrection', écrit en 1899, est une uvre regroupant la majorité des arguments de la philosophie de Léon Tolstoï."
+      },
+      {
+        "id": 12,
+        "question": "Quel écrivain américain du XIXe siècle a été traduit en France par Baudelaire ?",
+        "propositions": [
+          "Mark Frost",
+          "Edgar Allan Poe",
+          "Chuck Wendig",
+          "Henry James"
+        ],
+        "réponse": "Edgar Allan Poe",
+        "anecdote": "Connu surtout pour ses contes, il a donné à la nouvelle ses lettres de noblesse et est considéré comme l'inventeur du roman policier."
+      },
+      {
+        "id": 13,
+        "question": "Quel écrivain, mort fou en 1893, a suivi les cours du psychiatre Charcot ?",
+        "propositions": [
+          "Honoré de Balzac",
+          "Anatole France",
+          "Guy de Maupassant",
+          "Jules Verne"
+        ],
+        "réponse": "Guy de Maupassant",
+        "anecdote": "La carrière littéraire de Maupassant se limite à une décennie (de 1880 à 1890) avant qu'il ne sombre peu à peu dans la folie."
+      },
+      {
+        "id": 14,
+        "question": "Quelle était la nationalité du romancier et essayiste Aldous Huxley ?",
+        "propositions": [
+          "Hongroise",
+          "Russe",
+          "Grecque",
+          "Anglaise"
+        ],
+        "réponse": "Anglaise",
+        "anecdote": "Le courant de pensée dit du « New Age » se réfère fréquemment à ses écrits mystiques et d'étude des hallucinogènes."
+      },
+      {
+        "id": 15,
+        "question": "Quel poète du XIXe siècle a été surnommé « lhomme aux semelles de vent » ?",
+        "propositions": [
+          "Charles Baudelaire",
+          "Antoine Jofre",
+          "Arthur Rimbaud",
+          "Édouard Dujardin"
+        ],
+        "réponse": "Arthur Rimbaud",
+        "anecdote": "Arthur Rimbaud abandonnera assez vite l'écriture pour se consacrer aux voyages et à l'étude des langues étrangères."
+      },
+      {
+        "id": 16,
+        "question": "Qui a séjourné en Angleterre avant de rédiger 'De l'Esprit des lois' ?",
+        "propositions": [
+          "Mauriac",
+          "Mirabeau",
+          "Montaigne",
+          "Montesquieu"
+        ],
+        "réponse": "Montesquieu",
+        "anecdote": "Cette uvre majeure, qui a demandé à Montesquieu quatorze ans de travail, a fait l'objet d'une mise à l'Index en 1751."
+      },
+      {
+        "id": 17,
+        "question": "Quel prix Simone de Beauvoir a-t-elle obtenu pour 'Les Mandarins' ?",
+        "propositions": [
+          "Prix Nobel",
+          "Prix Goncourt",
+          "Prix Femina",
+          "Prix Renaudot"
+        ],
+        "réponse": "Prix Goncourt",
+        "anecdote": "Il est dédié à Nelson Algren, un écrivain communiste américain avec lequel Beauvoir entretenait une intense relation depuis 1947."
+      },
+      {
+        "id": 18,
+        "question": "Quel écrivain, auteur du 'Hussard sur le toit', est né en Provence ?",
+        "propositions": [
+          "Jean Garcin",
+          "Henri Bosco",
+          "Jean Giono",
+          "Auguste Lacour"
+        ],
+        "réponse": "Jean Giono",
+        "anecdote": "Inspirée par son imagination et ses visions de la Grèce antique, son uvre romanesque dépeint la condition de l'homme dans le monde."
+      },
+      {
+        "id": 19,
+        "question": "Quelle est la nationalité de l'écrivain et scénariste Dashiell Hammett ?",
+        "propositions": [
+          "Américaine",
+          "Anglaise",
+          "Irlandaise",
+          "Écossaise"
+        ],
+        "réponse": "Américaine",
+        "anecdote": "Considéré comme le fondateur du roman noir, la contribution de Hammett à la littérature américaine est d'une importance capitale."
+      },
+      {
+        "id": 20,
+        "question": "Quel écrivain a fait publier les uvres de son ami La Boétie ?",
+        "propositions": [
+          "Mallarmé",
+          "Mirabeau",
+          "Montesquieu",
+          "Montaigne"
+        ],
+        "réponse": "Montaigne",
+        "anecdote": "Le plus souvent souffrant ou maladif, Michel de Montaigne essaya de guérir en voyageant vers des lieux de cure."
+      }
+    ],
+    "expert": [
+      {
+        "id": 21,
+        "question": "Près de quelle ville du sud-ouest Montaigne et Montesquieu ont-ils vécu ?",
+        "propositions": [
+          "Toulouse",
+          "Lyon",
+          "Marseille",
+          "Bordeaux"
+        ],
+        "réponse": "Bordeaux",
+        "anecdote": "Prenant une part active à la vie politique en Aquitaine, Montaigne sera par deux fois maire de Bordeaux, de 1581 à 1585."
+      },
+      {
+        "id": 22,
+        "question": "Quel dramaturge a confié la mise en scène du 'Soulier de satin' à Jean-Louis Barrault ?",
+        "propositions": [
+          "Jean Giono",
+          "René Char",
+          "Paul Claudel",
+          "François Mauriac"
+        ],
+        "réponse": "Paul Claudel",
+        "anecdote": "'Le Soulier de satin' est rarement joué en raison de sa durée et des effets que nécessite la mise en scène."
+      },
+      {
+        "id": 23,
+        "question": "Quel écrivain américain a été ramasseur de quilles dans un bowling ?",
+        "propositions": [
+          "Jack London",
+          "William Ard",
+          "Lester Dent",
+          "Harlan Coben"
+        ],
+        "réponse": "Jack London",
+        "anecdote": "Il tire de ses lectures et de sa propre vie de misère linspiration pour de nombreux ouvrages très engagés et à coloration socialiste."
+      },
+      {
+        "id": 24,
+        "question": "Près de quel fleuve William Faulkner est-il né et mort ?",
+        "propositions": [
+          "Le Potomac",
+          "Le Rio Grande",
+          "Le Mississipi",
+          "Le Colorado"
+        ],
+        "réponse": "Le Mississipi",
+        "anecdote": "William Faulkner a reçu le Prix Nobel de littérature en 1949, alors qu'il est encore relativement peu connu."
+      },
+      {
+        "id": 25,
+        "question": "Dans quel pays Louis Hémon est-il mort écrasé par un train ?",
+        "propositions": [
+          "Canada",
+          "Suisse",
+          "Inde",
+          "Allemagne"
+        ],
+        "réponse": "Canada",
+        "anecdote": "Il doit sa célébrité à son principal roman, 'Maria Chapdelaine', écrit en 1912-1913 au Québec et publié après sa mort."
+      },
+      {
+        "id": 26,
+        "question": "Quel écrivain irlandais a vu son livre 'Ulysse' jugé « matière obscène » ?",
+        "propositions": [
+          "Graham Greene",
+          "Chris Beckett",
+          "James Joyce",
+          "Mat Coward"
+        ],
+        "réponse": "James Joyce",
+        "anecdote": "Dans un premier temps, il fut publié sous forme de feuilleton dans le magazine américain 'The Little Review' entre 1918 et 1920."
+      },
+      {
+        "id": 27,
+        "question": "Quelle romancière du début du XXe siècle a été danseuse et mime ?",
+        "propositions": [
+          "Champol",
+          "Calouan",
+          "Colette",
+          "Cardeline"
+        ],
+        "réponse": "Colette",
+        "anecdote": "Après Judith Gautier en 1910, Sidonie-Gabrielle Colette est la deuxième femme élue membre de l'académie Goncourt en 1945."
+      },
+      {
+        "id": 28,
+        "question": "Dans quel pays dAsie Paul Claudel a-t-il passé 14 ans comme consul ?",
+        "propositions": [
+          "Corée du Nord",
+          "Japon",
+          "Chine",
+          "Corée du Sud"
+        ],
+        "réponse": "Chine",
+        "anecdote": "Claudel a passé plusieurs années en Chine et au Japon grâce à sa carrière, la culture orientale l'ayant beaucoup impressionné."
+      },
+      {
+        "id": 29,
+        "question": "Quel romancier évoque son domaine de Malagar en Aquitaine ?",
+        "propositions": [
+          "Jean Giono",
+          "Guy de Maupassant",
+          "André Gide",
+          "François Mauriac"
+        ],
+        "réponse": "François Mauriac",
+        "anecdote": "L'histoire de Malagar est intimement liée à l'écrivain François Mauriac dont ce fut l'une des demeures familiales."
+      },
+      {
+        "id": 30,
+        "question": "Quel romancier a reçu le prix Nobel de littérature en 1952 ?",
+        "propositions": [
+          "François Mauriac",
+          "Paul Claudel",
+          "Jean Giono",
+          "André Breton"
+        ],
+        "réponse": "François Mauriac",
+        "anecdote": "Il fut salué pour « limprégnation spirituelle et l'intensité artistique avec laquelle ses romans ont pénétré le drame de la vie humaine »."
+      }
+    ]
+  }
+}

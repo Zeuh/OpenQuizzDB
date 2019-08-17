@@ -1,0 +1,343 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes" ?>
+<quizz fournisseur="OpenQuizzDB : Fournisseur de contenu libre"
+       url="http://www.openquizzdb.org"
+       rédacteur="Philippe Bresoux"
+       thème="Automobile"
+       difficulté="2">
+  <débutant>
+    <contenu id="1">
+      <question>Dans quel pays se situe le circuit de course automobile du Mans ?</question>
+      <propositions>
+        <proposition id="1-1">En Suisse</proposition>
+        <proposition id="1-2">En France</proposition>
+        <proposition id="1-3">Aux Pays-Bas</proposition>
+        <proposition id="1-4">En Belgique</proposition>
+      </propositions>
+      <réponse proposition="1-2">En France</réponse>
+      <anecdote>Il est aussi utilisé par les voitures de course anciennes lors du Mans Classic qui a lieu une fois tous les deux ans.</anecdote>
+    </contenu>
+    <contenu id="2">
+      <question>À quel modèle de voiture ressemble le vieux tacot jaune et délabré que conduit Gaston Lagaffe ?</question>
+      <propositions>
+        <proposition id="2-1">Rolls-Royce</proposition>
+        <proposition id="2-2">Citroën B10</proposition>
+        <proposition id="2-3">Jeep</proposition>
+        <proposition id="2-4">Fiat 509</proposition>
+      </propositions>
+      <réponse proposition="2-4">Fiat 509</réponse>
+      <anecdote>Franquin s'est inspiré de la Fiat 509, une voiture de 1925 donc déjà antédiluvienne dans les années 1960.</anecdote>
+    </contenu>
+    <contenu id="3">
+      <question>Quel sport automobile consiste à accélérer le plus rapidement possible avec son véhicule ?</question>
+      <propositions>
+        <proposition id="3-1">Le drift</proposition>
+        <proposition id="3-2">Le dragster</proposition>
+        <proposition id="3-3">Le monster truck</proposition>
+        <proposition id="3-4">Le trial</proposition>
+      </propositions>
+      <réponse proposition="3-2">Le dragster</réponse>
+      <anecdote>La catégorie reine est le « Top Fuel », les plus rapides passant la ligne des 402 mètres en moins de 4.5 secondes.</anecdote>
+    </contenu>
+    <contenu id="4">
+      <question>Comment s'appelle le véhicule du personnage de bande dessinée Batman ?</question>
+      <propositions>
+        <proposition id="4-1">La Batdrive</proposition>
+        <proposition id="4-2">La Batmobile</proposition>
+        <proposition id="4-3">La Batauto</proposition>
+        <proposition id="4-4">La Batcar</proposition>
+      </propositions>
+      <réponse proposition="4-2">La Batmobile</réponse>
+      <anecdote>Au fil des années, les artistes ayant travaillé sur la série ont souvent modifié son aspect et ses caractéristiques.</anecdote>
+    </contenu>
+    <contenu id="5">
+      <question>De quand date le Duster, véhicule utilitaire sport vendu par la marque roumaine Dacia ?</question>
+      <propositions>
+        <proposition id="5-1">2006</proposition>
+        <proposition id="5-2">2008</proposition>
+        <proposition id="5-3">2010</proposition>
+        <proposition id="5-4">2012</proposition>
+      </propositions>
+      <réponse proposition="5-3">2010</réponse>
+      <anecdote>Disponible en version 4×2 et 4×4, le Renault Duster est le véhicule de la marque le plus produit en 2014.</anecdote>
+    </contenu>
+    <contenu id="6">
+      <question>En France, refuser une priorité peut vous coûter combien de points sur le permis ?</question>
+      <propositions>
+        <proposition id="6-1">6 points</proposition>
+        <proposition id="6-2">4 points</proposition>
+        <proposition id="6-3">8 points</proposition>
+        <proposition id="6-4">2 points</proposition>
+      </propositions>
+      <réponse proposition="6-2">4 points</réponse>
+      <anecdote>En France, le permis de conduire est apparu dans le code de la route de 1922, en remplacement du certificat de capacité.</anecdote>
+    </contenu>
+    <contenu id="7">
+      <question>Quelle principauté accueille l'un des plus prestigieux Grand Prix de Formule 1 ?</question>
+      <propositions>
+        <proposition id="7-1">Montoue</proposition>
+        <proposition id="7-2">Liechtenstein</proposition>
+        <proposition id="7-3">Andorre</proposition>
+        <proposition id="7-4">Monaco</proposition>
+      </propositions>
+      <réponse proposition="7-4">Monaco</réponse>
+      <anecdote>La course inaugurale fut remportée le 14 avril 1929 par William Grover-Williams au volant d'une Bugatti.</anecdote>
+    </contenu>
+    <contenu id="8">
+      <question>Quel principal organisme régit les courses automobiles de stock-car aux États-Unis ?</question>
+      <propositions>
+        <proposition id="8-1">GASPAR</proposition>
+        <proposition id="8-2">GOCAR</proposition>
+        <proposition id="8-3">LASCAR</proposition>
+        <proposition id="8-4">NASCAR</proposition>
+      </propositions>
+      <réponse proposition="8-4">NASCAR</réponse>
+      <anecdote>Les origines de la Nascar sont liées à la contrebande d'alcool aux États-Unis du temps de la prohibition dans les années 1930.</anecdote>
+    </contenu>
+    <contenu id="9">
+      <question>Dans le monde automobile, quel sigle correspond au Grand Tourisme Injection ?</question>
+      <propositions>
+        <proposition id="9-1">Turbo</proposition>
+        <proposition id="9-2">TT</proposition>
+        <proposition id="9-3">Sport</proposition>
+        <proposition id="9-4">GTi</proposition>
+      </propositions>
+      <réponse proposition="9-4">GTi</réponse>
+      <anecdote>Le terme « grand tourisme » est le nom donné à une catégorie de voitures de petite production à tendance luxueuse et sportive.</anecdote>
+    </contenu>
+    <contenu id="10">
+      <question>Quelle société appartenant au groupe Belron « répare et remplace » votre pare-brise ?</question>
+      <propositions>
+        <proposition id="10-1">Norauto</proposition>
+        <proposition id="10-2">Midas</proposition>
+        <proposition id="10-3">Speedy</proposition>
+        <proposition id="10-4">Carglass</proposition>
+      </propositions>
+      <réponse proposition="10-4">Carglass</réponse>
+      <anecdote>Le siège français se situe à Courbevoie dans les Hauts-de-Seine au nord du quartier d'affaires de La Défense.</anecdote>
+    </contenu>
+  </débutant>
+  <confirmé>
+    <contenu id="11">
+      <question>Dans le jargon automobile courant, « avoir une chaussette trouée » signifie avoir...</question>
+      <propositions>
+        <proposition id="11-1">Un vitre cassée</proposition>
+        <proposition id="11-2">Une vidange à faire</proposition>
+        <proposition id="11-3">Un moteur qui fuit</proposition>
+        <proposition id="11-4">Un pneu crevé</proposition>
+      </propositions>
+      <réponse proposition="11-4">Un pneu crevé</réponse>
+      <anecdote>Une crevaison a pour conséquence directe le dégonflement du pneu et le contact indirect de la jante avec le sol.</anecdote>
+    </contenu>
+    <contenu id="12">
+      <question>De quand date le premier radar fixe en France, parmi les 4 200 aujourd'hui installés ?</question>
+      <propositions>
+        <proposition id="12-1">27 octobre 2013</proposition>
+        <proposition id="12-2">27 octobre 1983</proposition>
+        <proposition id="12-3">27 octobre 1993</proposition>
+        <proposition id="12-4">27 octobre 2003</proposition>
+      </propositions>
+      <réponse proposition="12-4">27 octobre 2003</réponse>
+      <anecdote>En France, depuis 2003, une directive gouvernementale dans le cadre de la sécurité routière généralise les radars automatiques.</anecdote>
+    </contenu>
+    <contenu id="13">
+      <question>Quelle firme automobile, filiale française de FIAT, a ensuite intégré le groupe Chrysler ?</question>
+      <propositions>
+        <proposition id="13-1">Triumph</proposition>
+        <proposition id="13-2">Simca</proposition>
+        <proposition id="13-3">Packard</proposition>
+        <proposition id="13-4">Hommell</proposition>
+      </propositions>
+      <réponse proposition="13-2">Simca</réponse>
+      <anecdote>Ce procédé a permis à Fiat de vendre ses modèles sur le territoire français sans payer de taxes d'importations et de droits de douane.</anecdote>
+    </contenu>
+    <contenu id="14">
+      <question>En quelle année a été commercialisé pour la première fois le coupé Audi TT ?</question>
+      <propositions>
+        <proposition id="14-1">1998</proposition>
+        <proposition id="14-2">2008</proposition>
+        <proposition id="14-3">1988</proposition>
+        <proposition id="14-4">1978</proposition>
+      </propositions>
+      <réponse proposition="14-1">1998</réponse>
+      <anecdote>Le nom de TT provient du modèle NSU Prinz TT (La marque NSU a été absorbée par Audi en 1977).</anecdote>
+    </contenu>
+    <contenu id="15">
+      <question>Dans quel pays se situe le circuit automobile de Silvertsone, situé sur une ancienne base aérienne ?</question>
+      <propositions>
+        <proposition id="15-1">Royaume-Uni</proposition>
+        <proposition id="15-2">États-Unis</proposition>
+        <proposition id="15-3">Australie</proposition>
+        <proposition id="15-4">Portugal</proposition>
+      </propositions>
+      <réponse proposition="15-1">Royaume-Uni</réponse>
+      <anecdote>Une moitié du circuit se trouve dans le Northamptonshire, l'autre moitié dans le Buckinghamshire.</anecdote>
+    </contenu>
+    <contenu id="16">
+      <question>Quelle partie de votre voiture est parfois appelée « le dentier » ?</question>
+      <propositions>
+        <proposition id="16-1">Le radiateur</proposition>
+        <proposition id="16-2">La calandre</proposition>
+        <proposition id="16-3">Le coffre</proposition>
+        <proposition id="16-4">La boîte de vitesse</proposition>
+      </propositions>
+      <réponse proposition="16-4">La boîte de vitesse</réponse>
+      <anecdote>La boîte de vitesse permet d'adapter la transmission d'un mouvement entre un arbre moteur et un arbre récepteur.</anecdote>
+    </contenu>
+    <contenu id="17">
+      <question>Quel constructeur automobile est le recordman des titres au 24 Heures du Mans ?</question>
+      <propositions>
+        <proposition id="17-1">BMW</proposition>
+        <proposition id="17-2">Peugeot</proposition>
+        <proposition id="17-3">Porsche</proposition>
+        <proposition id="17-4">Audi</proposition>
+      </propositions>
+      <réponse proposition="17-3">Porsche</réponse>
+      <anecdote>La société fut fondée en 1931 par Ferdinand Porsche, puis reprise par son fils Ferry Porsche.</anecdote>
+    </contenu>
+    <contenu id="18">
+      <question>Parmi ces quatre verbes, lequel peut être associé à l'expression « mettre le pied dans le phare » ?</question>
+      <propositions>
+        <proposition id="18-1">Braquer</proposition>
+        <proposition id="18-2">Accélérer</proposition>
+        <proposition id="18-3">Klaxonner</proposition>
+        <proposition id="18-4">Freiner</proposition>
+      </propositions>
+      <réponse proposition="18-2">Accélérer</réponse>
+      <anecdote>Dans le langage courant, l'accélération s'oppose à la décélération et indique l'augmentation de la vitesse.</anecdote>
+    </contenu>
+    <contenu id="19">
+      <question>Que signifie le sigle « Z.E. » chez le constructeur automobile français Renault ?</question>
+      <propositions>
+        <proposition id="19-1">Zéro Espoir</proposition>
+        <proposition id="19-2">Zéro Émission</proposition>
+        <proposition id="19-3">Zéro Echo</proposition>
+        <proposition id="19-4">Zéro Engagement</proposition>
+      </propositions>
+      <réponse proposition="19-2">Zéro Émission</réponse>
+      <anecdote>La lutte contre le dérèglement climatique passe par un changement de comportement à l'égard de l'automobile.</anecdote>
+    </contenu>
+    <contenu id="20">
+      <question>Quelle marque automobile a pour slogan publicitaire « Le plaisir de conduire » ?</question>
+      <propositions>
+        <proposition id="20-1">Mercedes-Benz</proposition>
+        <proposition id="20-2">BMW</proposition>
+        <proposition id="20-3">Renault</proposition>
+        <proposition id="20-4">Kia</proposition>
+      </propositions>
+      <réponse proposition="20-2">BMW</réponse>
+      <anecdote>En 2014 le groupe BMW a vendu 2 117 965 véhicules automobiles (BMW, MINI, et Rolls-Royce) et 123 495 deux-roues (BMW).</anecdote>
+    </contenu>
+  </confirmé>
+  <expert>
+    <contenu id="21">
+      <question>Quelle voiture jaune Tintin conduit-il dans 'Tintin au Congo', deuxième album de la série ?</question>
+      <propositions>
+        <proposition id="21-1">Corvette</proposition>
+        <proposition id="21-2">Ford T</proposition>
+        <proposition id="21-3">Jeep</proposition>
+        <proposition id="21-4">Citroën Traction</proposition>
+      </propositions>
+      <réponse proposition="21-2">Ford T</réponse>
+      <anecdote>Des éditions pirates de 'Tintin au Congo' ont été diffusées en réaction à son indisponibilité en librairie.</anecdote>
+    </contenu>
+    <contenu id="22">
+      <question>Quelle marque automobile aujourd'hui disparue reste surtout connue pour ses roadsters ?</question>
+      <propositions>
+        <proposition id="22-1">Hotchkiss</proposition>
+        <proposition id="22-2">Innocenti</proposition>
+        <proposition id="22-3">Triumph</proposition>
+        <proposition id="22-4">DeLorean</proposition>
+      </propositions>
+      <réponse proposition="22-3">Triumph</réponse>
+      <anecdote> La maison a été fondée à Coventry en tant que fabricant de cycles par Moritz Schulte et Siegfried Bettmann en 1890.</anecdote>
+    </contenu>
+    <contenu id="23">
+      <question>Quel constructeur automobile fondé en 1906 a réalisé la Firebird, la GTO et la LeMans ?</question>
+      <propositions>
+        <proposition id="23-1">Pontiac</proposition>
+        <proposition id="23-2">AMC</proposition>
+        <proposition id="23-3">Mercury</proposition>
+        <proposition id="23-4">Oldsmobile</proposition>
+      </propositions>
+      <réponse proposition="23-1">Pontiac</réponse>
+      <anecdote>Le nom choisi par le constructeur fait référence à Pontiac un grand chef amérindien de la tribu des Outaouais.</anecdote>
+    </contenu>
+    <contenu id="24">
+      <question>En France, quelle somme maximale peut vous coûter l'utilisation abusive d'un avertisseur sonore ?</question>
+      <propositions>
+        <proposition id="24-1">75 euros</proposition>
+        <proposition id="24-2">35 euros</proposition>
+        <proposition id="24-3">55 euros</proposition>
+        <proposition id="24-4">95 euros</proposition>
+      </propositions>
+      <réponse proposition="24-2">35 euros</réponse>
+      <anecdote>Par abus de langage, un avertisseur sonore est communément dénommé « Klaxon », bien qu'il s'agisse d'une marque.</anecdote>
+    </contenu>
+    <contenu id="25">
+      <question>Dans quelle voiture Tintin est-il conduit au pied de la fusée dans l'album 'Objectif Lune' ?</question>
+      <propositions>
+        <proposition id="25-1">Une Ford T</proposition>
+        <proposition id="25-2">Une Jeep</proposition>
+        <proposition id="25-3">Un Hummer H1</proposition>
+        <proposition id="25-4">Une Rover Mini</proposition>
+      </propositions>
+      <réponse proposition="25-2">Une Jeep</réponse>
+      <anecdote>Cet album fut adapté dans la série animée de 1962 (couplé avec sa suite) et dans la série animée de 1992.</anecdote>
+    </contenu>
+    <contenu id="26">
+      <question>Quel pilote de rallye français est devenu champion du monde des rallyes (WRC) en 2013 ?</question>
+      <propositions>
+        <proposition id="26-1">Sébastien Ogier</proposition>
+        <proposition id="26-2">Sébastien Rousseaux</proposition>
+        <proposition id="26-3">Sébastien Bourdais</proposition>
+        <proposition id="26-4">Sébastien Loeb</proposition>
+      </propositions>
+      <réponse proposition="26-1">Sébastien Ogier</réponse>
+      <anecdote>Avec 31 victoires au compteur, Sébastien Ogier est le deuxième meilleur pilote français de l'histoire du WRC.</anecdote>
+    </contenu>
+    <contenu id="27">
+      <question>À quel groupe appartient le slogan : « Vous ne viendrez plus chez nous par hasard » ?</question>
+      <propositions>
+        <proposition id="27-1">Shell</proposition>
+        <proposition id="27-2">Elf</proposition>
+        <proposition id="27-3">Esso</proposition>
+        <proposition id="27-4">Total</proposition>
+      </propositions>
+      <réponse proposition="27-4">Total</réponse>
+      <anecdote>Total SA est la première entreprise française en termes de chiffre d'affaires en 2014.</anecdote>
+    </contenu>
+    <contenu id="28">
+      <question>À quelle couleur de voiture le personnage de bande dessinée Ric Hochet est-il fidèle ?</question>
+      <propositions>
+        <proposition id="28-1">Le bleu</proposition>
+        <proposition id="28-2">Le vert</proposition>
+        <proposition id="28-3">Le rouge</proposition>
+        <proposition id="28-4">Le jaune</proposition>
+      </propositions>
+      <réponse proposition="28-4">Le jaune</réponse>
+      <anecdote>Le véritable nom de Ric Hochet est Frédéric Hochet, Ric n'étant donc pas le diminutif de Richard.</anecdote>
+    </contenu>
+    <contenu id="29">
+      <question>Quelle entreprise était réputée pour ses voitures de luxe équipées de V8 d'origine Chrysler ?</question>
+      <propositions>
+        <proposition id="29-1">Delahaye</proposition>
+        <proposition id="29-2">Delage</proposition>
+        <proposition id="29-3">Matra</proposition>
+        <proposition id="29-4">Facel-Vega</proposition>
+      </propositions>
+      <réponse proposition="29-4">Facel-Vega</réponse>
+      <anecdote>Ces voitures furent produites entre 1954 et 1964 par les Forges et Ateliers de Constructions d'Eure-et-Loir (Facel).</anecdote>
+    </contenu>
+    <contenu id="30">
+      <question>Akio Toyoda est le PDG de quelle grande marque automobile ?</question>
+      <propositions>
+        <proposition id="30-1">Suzuki</proposition>
+        <proposition id="30-2">Yamaha</proposition>
+        <proposition id="30-3">Toyota</proposition>
+        <proposition id="30-4">Hyundai</proposition>
+      </propositions>
+      <réponse proposition="30-3">Toyota</réponse>
+      <anecdote>En janvier 2009, Akio Toyoda fut annoncé comme le successeur du président Katsuaki Watanabe.</anecdote>
+    </contenu>
+  </expert>
+</quizz>

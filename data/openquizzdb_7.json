@@ -1,0 +1,374 @@
+{
+  "fournisseur": "OpenQuizzDB - Fournisseur de contenu libre (https://www.openquizzdb.org)",
+  "rédacteur": "Philippe Bresoux",
+  "thème": "Marilyn Monroe (Une mort toujours mystérieuse)",
+  "difficulté": 4 / 5,
+  "quizz": {
+    "débutant": [
+      {
+        "id": 1,
+        "question": "Quel prénom est inscrit sur le certificat de baptême de Marilyn Monroe ?",
+        "propositions": [
+          "Lucy Fay",
+          "Norma Jeane",
+          "Louise Marie",
+          "Ruby Catherine"
+        ],
+        "réponse": "Norma Jeane",
+        "anecdote": "Marilyn Monroe est née Norma Jeane Mortenson, parfois aussi Norma Jeane Baker selon son certificat de baptême."
+      },
+      {
+        "id": 2,
+        "question": "Dans quelle ville de Californie est née l'actrice Marilyn Monroe ?",
+        "propositions": [
+          "San Francisco",
+          "San Diego",
+          "Sacramento",
+          "Los Angeles"
+        ],
+        "réponse": "Los Angeles",
+        "anecdote": "Son prénom (Norma) fut choisi par sa mère en référence à l'actrice Norma Talmadge qu'elle admirait beaucoup."
+      },
+      {
+        "id": 3,
+        "question": "Quelle était la nationalité de Marilyn Monroe, née le 1<sup>er</sup> juin 1926 ?",
+        "propositions": [
+          "Française",
+          "Italienne",
+          "Suédoise",
+          "Américaine"
+        ],
+        "réponse": "Américaine",
+        "anecdote": "La mère de Marilyn, Gladys Pearl Monroe, née au Mexique de parents américains, travaillait comme monteuse dans un labo."
+      },
+      {
+        "id": 4,
+        "question": "De quel sport le deuxième mari de Marilyn Monroe était-il une légende vivante ?",
+        "propositions": [
+          "Baseball",
+          "Golf",
+          "Boxe",
+          "Tennis"
+        ],
+        "réponse": "Baseball",
+        "anecdote": "D'origine sicilienne, le champion de baseball Joe DiMaggio tomba sous le charme de Marilyn et divorça pour l'épouser en 1954."
+      },
+      {
+        "id": 5,
+        "question": "Dans 'Chérie, je me sens rajeunir', Marilyn Monroe apparaît pour la première fois en...",
+        "propositions": [
+          "Brune",
+          "Châtain clair",
+          "Blonde platine",
+          "Rousse"
+        ],
+        "réponse": "Blonde platine",
+        "anecdote": "Les acteurs ont fortement contribué au ton quelque peu décalé et humoristique du film 'Chérie, je me sens rajeunir'."
+      },
+      {
+        "id": 6,
+        "question": "Lequel de ces films renferme deux stars : Marilyn Monroe et les chutes du Niagara ?",
+        "propositions": [
+          "Dangerous Years",
+          "Ève",
+          "Niagara",
+          "Tourment"
+        ],
+        "réponse": "Niagara",
+        "anecdote": "'Niagara' est un des rares films où Marilyn Monroe interprète un rôle de « méchante »."
+      },
+      {
+        "id": 7,
+        "question": "Quelle est la couleur de la robe de Marilyn Monroe dans le film 'Sept ans de réflexion' ?",
+        "propositions": [
+          "Rouge",
+          "Blanche",
+          "Bleue",
+          "Noire"
+        ],
+        "réponse": "Blanche",
+        "anecdote": "Après ce grand succès, Marilyn a obtenu plus de pouvoir face aux studios, notamment quant aux scripts et aux réalisateurs."
+      },
+      {
+        "id": 8,
+        "question": "Dans quel film Marilyn Monroe a-t-elle joué la plus célèbre scène de sa carrière ?",
+        "propositions": [
+          "Le Milliardaire",
+          "7 ans de réflexion",
+          "Les Désaxés",
+          "Quand la ville dort"
+        ],
+        "réponse": "7 ans de réflexion",
+        "anecdote": "Lors de cette scène devenue mythique, une grille d'aération du métro soulève sa robe blanche."
+      },
+      {
+        "id": 9,
+        "question": "Dans lequel de ces films Marilyn Monroe joue-t-elle une jeune femme naïve et spontanée ?",
+        "propositions": [
+          "La Garçonnière",
+          "Sabrina",
+          "7 ans de réflexion",
+          "Irma la douce"
+        ],
+        "réponse": "7 ans de réflexion",
+        "anecdote": "Son personnage dans le film est âgé de 22 ans, alors que pendant le tournage elle en avait 28."
+      },
+      {
+        "id": 10,
+        "question": "Combien de fois Marilyn Monroe fut-elle mariée au cours de sa vie ?",
+        "propositions": [
+          "Deux fois",
+          "Quatre fois",
+          "Une fois",
+          "Trois fois"
+        ],
+        "réponse": "Trois fois",
+        "anecdote": "Marilyn Monroe a été mariée successivement à James Dougherty, Joe DiMaggio et enfin Arthur Miller."
+      }
+    ],
+    "confirmé": [
+      {
+        "id": 11,
+        "question": "À quel métier se destinait initialement la jeune et belle Marilyn Monroe ?",
+        "propositions": [
+          "La photographie",
+          "La musique",
+          "La danse",
+          "Le mannequinat"
+        ],
+        "réponse": "Le mannequinat",
+        "anecdote": "Norma Jeane fut alors repérée par Howard Hughes et signa son premier contrat avec la 20th Century Fox en 1947."
+      },
+      {
+        "id": 12,
+        "question": "Qui a été durant plus de quatre ans le premier mari de Marilyn Monroe ?",
+        "propositions": [
+          "Clark Gable",
+          "James Dougherty",
+          "Arthur Miller",
+          "Joe DiMaggio"
+        ],
+        "réponse": "James Dougherty",
+        "anecdote": "James Dougherty sera le premier amour de Marilyn, avant qu'elle ne devienne célèbre, d'où son surnom de « Jim le Veinard »."
+      },
+      {
+        "id": 13,
+        "question": "Dans quel pays Marilyn Monroe est-elle allée chanter en 1954 devant des soldats américains ?",
+        "propositions": [
+          "Brésil",
+          "Vietnam",
+          "Colombie",
+          "Corée"
+        ],
+        "réponse": "Corée",
+        "anecdote": "L'armée américaine lui proposa de se rendre durant quatre jours en Corée et de chanter à neuf reprises trois de ses chansons."
+      },
+      {
+        "id": 14,
+        "question": "Quel réalisateur disait de Marilyn Monroe qu'elle avait « le sexe affiché sur la figure » ?",
+        "propositions": [
+          "Alfred Hitchcock",
+          "George Cukor",
+          "John Huston",
+          "Howard Hawks"
+        ],
+        "réponse": "Alfred Hitchcock",
+        "anecdote": "Hitchcock ajoutera qu'il préfère de loin des blondes froides comme Grace Kelly ou Tippi Hedren."
+      },
+      {
+        "id": 15,
+        "question": "En quelle année Marilyn Monroe a-t-elle épousé Arthur Miller ?",
+        "propositions": [
+          "1952",
+          "1950",
+          "1956",
+          "1954"
+        ],
+        "réponse": "1956",
+        "anecdote": "Marilyn Monroe divorcera d'avec Arthur Miller en janvier 1961 et rédigera son testament le 14 janvier de la même année."
+      },
+      {
+        "id": 16,
+        "question": "Qui a dit en riant : « Embrasser Marilyn Monroe est comme embrasser Hitler » ?",
+        "propositions": [
+          "Tony Curtis",
+          "Montgomery Clift",
+          "Clark Gable",
+          "Dean Martin"
+        ],
+        "réponse": "Tony Curtis",
+        "anecdote": "Tony Curtis dira plus tard que cette phrase, prononcée sans intention de nuire, n'était en fait qu'une farce."
+      },
+      {
+        "id": 17,
+        "question": "Dans quel film de George Cukor Marilyn Monroe joue-t-elle avec Yves Montand ?",
+        "propositions": [
+          "Ma geisha",
+          "Sanctuaire",
+          "Le Milliardaire",
+          "Melinda"
+        ],
+        "réponse": "Le Milliardaire",
+        "anecdote": "Ce film a été surnommé par certains comme « le film dont Marilyn Monroe et Yves Montand ont pris le titre trop au sérieux »."
+      },
+      {
+        "id": 18,
+        "question": "Quel film met en scène Marilyn Monroe, Clark Gable et Montgomery Clift ?",
+        "propositions": [
+          "Griffes jaunes",
+          "Les Désaxés",
+          "Moulin Rouge",
+          "Dieu seul le sait"
+        ],
+        "réponse": "Les Désaxés",
+        "anecdote": "'Les Désaxés' est le dernier film de Clark Gable, mort quelques jours après la fin du tournage."
+      },
+      {
+        "id": 19,
+        "question": "Dans la nuit du 4 au 5 août de quelle année Marilyn Monroe a-t-elle perdu la vie ?",
+        "propositions": [
+          "1962",
+          "1965",
+          "1963",
+          "1964"
+        ],
+        "réponse": "1962",
+        "anecdote": "Le rapport du médecin légiste Thomas Noguchi parle de « suicide probable » dû à un surdosage accidentel de barbituriques."
+      },
+      {
+        "id": 20,
+        "question": "Qui a réalisé en 1964 une célèbre série de sérigraphies de Marilyn Monroe ?",
+        "propositions": [
+          "Jasper Johns",
+          "Andy Warhol",
+          "James Rizzi",
+          "Wayne Thiebaud"
+        ],
+        "réponse": "Andy Warhol",
+        "anecdote": "C'est d'ailleurs l'une des uvres de l'artiste les plus reproduites à ce jour, en photos ou en cadres décoratifs."
+      }
+    ],
+    "expert": [
+      {
+        "id": 21,
+        "question": "Quelle playmate possédait une forte ressemblance physique avec Marilyn Monroe ?",
+        "propositions": [
+          "Linda Gamble",
+          "Christa Speck",
+          "Arlene Hunter",
+          "Ellen Stratton"
+        ],
+        "réponse": "Arlene Hunter",
+        "anecdote": "Une rumeur infondée attribua à Marilyn des films érotiques ou pornographiques, tournés en fait par Arlene Hunter."
+      },
+      {
+        "id": 22,
+        "question": "Grâce à qui Marilyn Monroe a-t-elle signé son premier contrat avec la Fox ?",
+        "propositions": [
+          "Howard Hughes",
+          "Donald Trump",
+          "Paul Allen",
+          "Warren Buffett"
+        ],
+        "réponse": "Howard Hughes",
+        "anecdote": "Howard Hughes fut l'un des hommes les plus riches et les plus puissants des États-Unis d'Amérique."
+      },
+      {
+        "id": 23,
+        "question": "Quel a été le montant hebdomadaire du premier salaire de Marilyn Monroe ?",
+        "propositions": [
+          "380 USD",
+          "125 USD",
+          "720 USD",
+          "35 USD"
+        ],
+        "réponse": "125 USD",
+        "anecdote": "Marilyn Monroe signa avec la Fox un premier contrat de six mois le 26 juillet 1946, pour un salaire de 125 USD par semaine."
+      },
+      {
+        "id": 24,
+        "question": "De quelle actrice Marilyn Monroe a-t-elle repris le prénom ?",
+        "propositions": [
+          "Marilyn Burns",
+          "Marilyn Maxwell",
+          "Marilyn Cooper",
+          "Marilyn Miller"
+        ],
+        "réponse": "Marilyn Miller",
+        "anecdote": "Le nom Monroe lui vient quant à lui de sa mère (elle adoptera officiellement ce patronyme le 23 février 1956)."
+      },
+      {
+        "id": 25,
+        "question": "Sous quel nom Marilyn Monroe a-t-elle posé nue pour le photographe Tom Kelly ?",
+        "propositions": [
+          "Lily Monroe",
+          "Mana Monroe",
+          "Carly Monroe",
+          "Mary Monroe"
+        ],
+        "réponse": "Mana Monroe",
+        "anecdote": "Ces photos de calendrier feront le tour du monde quelques années plus tard lorsqu'elle sera devenue célèbre."
+      },
+      {
+        "id": 26,
+        "question": "Qui a réalisé le film 'Comment épouser un millionnaire', avec Marilyn Monroe ?",
+        "propositions": [
+          "Jean Negulesco",
+          "Tay Garnett",
+          "David Miller",
+          "Howard Hawks"
+        ],
+        "réponse": "Jean Negulesco",
+        "anecdote": "'Comment épouser un millionnaire' a été le premier film réalisé en CinemaScope, mais le deuxième distribué."
+      },
+      {
+        "id": 27,
+        "question": "Qui était la conseillère personnelle de Marilyn Monroe pour de nombreux films ?",
+        "propositions": [
+          "Jan Sterling",
+          "Paula Strasberg",
+          "Barbra Streisand",
+          "Kristen Stewart"
+        ],
+        "réponse": "Paula Strasberg",
+        "anecdote": "Paula Strasberg est l'épouse de l'acteur américain Lee Strasberg et la mère de l'actrice américaine Susan Strasberg."
+      },
+      {
+        "id": 28,
+        "question": "Quel nom fut donné à la dernière séance photo mettant en scène Marilyn Monroe ?",
+        "propositions": [
+          "Dovima",
+          "The Other Side",
+          "Lenna",
+          "The Last Sitting"
+        ],
+        "réponse": "The Last Sitting",
+        "anecdote": "Arrivée au rendez-vous avec quatre heures de retard, Marilyn posera pour cette séance pendant plus de douze heures."
+      },
+      {
+        "id": 29,
+        "question": "Qui a prêté sa voix à Marilyn Monroe dans la plupart des versions françaises de ses films ?",
+        "propositions": [
+          "Nathalie Homs",
+          "Claire Guibert",
+          "Laura Blanc",
+          "Anne Dolan"
+        ],
+        "réponse": "Claire Guibert",
+        "anecdote": "Claire Guibert a aussi doublé Vivien Leigh, Linda Darnell ainsi que Doris Day dans de nombreuses comédies."
+      },
+      {
+        "id": 30,
+        "question": "Quel acteur a suggéré à Norma Jeane Baker de choisir comme prénom Marilyn ?",
+        "propositions": [
+          "Clark Gable",
+          "Cary Grant",
+          "Keith Andes",
+          "Ben Lyon"
+        ],
+        "réponse": "Ben Lyon",
+        "anecdote": "C'est aussi Ben Lyon qui fit passer à Marilyn Monroe son premier bout d'essai en 1946."
+      }
+    ]
+  }
+}

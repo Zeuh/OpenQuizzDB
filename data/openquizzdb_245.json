@@ -1,0 +1,374 @@
+{
+  "fournisseur": "OpenQuizzDB - Fournisseur de contenu libre (www.openquizzdb.org)",
+  "rédacteur": "Philippe Bresoux",
+  "thème": "Russia 2018 (Coupe du monde de football 2018)",
+  "difficulté": 3,
+  "quizz": {
+    "débutant": [
+      {
+        "id": 1,
+        "question": "Qui a organisé la Coupe du monde de football masculin en 2018 ?",
+        "propositions": [
+          "WSSA",
+          "FIFA",
+          "CPO",
+          "RLIF"
+        ],
+        "réponse": "FIFA",
+        "anecdote": "Bien qu'étant officiellement une association à but non lucratif, la FIFA brasse un chiffre d'affaires très important grâce au sponsoring."
+      },
+      {
+        "id": 2,
+        "question": "Quel pays a remporté le Coupe du monde de football 2018 ?",
+        "propositions": [
+          "Croatie",
+          "France",
+          "Belgique",
+          "Angleterre"
+        ],
+        "réponse": "France",
+        "anecdote": "Cette finale, très intense, voit la victoire des Bleus qui s'imposent 4 buts à 2 sur l'équipe au damier, décrochant leur deuxième étoile."
+      },
+      {
+        "id": 3,
+        "question": "Qui fut déclaré meilleur buteur de la Coupe du monde de football 2018 ?",
+        "propositions": [
+          "Cristiano Ronaldo",
+          "Eden Hazard",
+          "Neymar",
+          "Harry Kane"
+        ],
+        "réponse": "Harry Kane",
+        "anecdote": "Harry Kane a inscrit un doublé pour une victoire 2-1 et a réalisé un triplé contre le Panama lors d'une écrasant succès 6-1."
+      },
+      {
+        "id": 4,
+        "question": "Quelle innovation est entrée en fonction durant cette édition 2018 ?",
+        "propositions": [
+          "Capteurs thermiques",
+          "Arbitrage à trois",
+          "Assistance vidéo",
+          "Tracé au laser"
+        ],
+        "réponse": "Assistance vidéo",
+        "anecdote": "Les arbitres assistants vidéo interviennent dans quatre situations seulement : but, penalty, carton rouge et sanction de joueur."
+      },
+      {
+        "id": 5,
+        "question": "Qui fut déclaré meilleur gardien de la Coupe du monde de football 2018 ?",
+        "propositions": [
+          "Thibaut Courtois",
+          "Fernando Muslera",
+          "Guillermo Ochoa",
+          "Manuel Neuer"
+        ],
+        "réponse": "Thibaut Courtois",
+        "anecdote": "Recruté en 2011 par le club anglais de Chelsea, Thibaut Courtois est le frère de la volleyeuse internationale belge Valérie Courtois."
+      },
+      {
+        "id": 6,
+        "question": "Quelle marque a pu apposer son logo sur le ballon officiel ?",
+        "propositions": [
+          "Kappa",
+          "Addidas",
+          "Reebok",
+          "Nike"
+        ],
+        "réponse": "Addidas",
+        "anecdote": "Le Telstar 18 de chez Adidas s'inspire du Telstar, ballon produit par l'entreprise pour la coupe du monde 1970, qui a eu lieu au Mexique."
+      },
+      {
+        "id": 7,
+        "question": "Qui fut déclaré meilleur jeune joueur de la Coupe du monde de football 2018 ?",
+        "propositions": [
+          "Denis Cheryshev",
+          "Kylian Mbappé",
+          "David Silva",
+          "Ramadan Sobhi"
+        ],
+        "réponse": "Kylian Mbappé",
+        "anecdote": "Le 31 août 2017, dernier jour du mercato, Kylian Mbappé a officialisé son transfert sous forme de prêt au Paris Saint-Germain."
+      },
+      {
+        "id": 8,
+        "question": "Quelle nation déjà championne du monde ne s'est pas qualifié ?",
+        "propositions": [
+          "Italie",
+          "Panama",
+          "Portugal",
+          "Espagne"
+        ],
+        "réponse": "Italie",
+        "anecdote": "Pays parmi les plus titrés avec 4 trophées (1934, 1938, 1982 et 2006), l'Italie n'avait manqué aucune édition depuis 1958."
+      },
+      {
+        "id": 9,
+        "question": "Qui fut déclaré meilleur joueur de la Coupe du monde de football 2018 ?",
+        "propositions": [
+          "Luka Modric",
+          "Eden Hazard",
+          "Raphaël Varane",
+          "Ali Gabr"
+        ],
+        "réponse": "Luka Modric",
+        "anecdote": "Modric, qui joue au poste de milieu de terrain au Real Madrid, est avec Davor Suker et Bernard Vukas l'un des grands joueurs croates."
+      },
+      {
+        "id": 10,
+        "question": "Quel fut le score de la demi-finale opposant la France à la Belgique ?",
+        "propositions": [
+          "2-1",
+          "4-3",
+          "1-0",
+          "3-2"
+        ],
+        "réponse": "1-0",
+        "anecdote": "Malgré la pression imposée par l'équipe belge, le score n'évoluera plus, Tolisso et Griezmann manquant le but du break."
+      }
+    ],
+    "confirmé": [
+      {
+        "id": 11,
+        "question": "Dans quel stade s'est joué la finale de la Coupe du monde 2018 ?",
+        "propositions": [
+          "Rostov Arena",
+          "Stade Loujniki",
+          "Arena Baltika",
+          "Cosmos Arena"
+        ],
+        "réponse": "Stade Loujniki",
+        "anecdote": "Une bousculade meurtrière y a eu lieu le 20 octobre 1982 lors d'un match de football, causant la mort de 66 personnes."
+      },
+      {
+        "id": 12,
+        "question": "Lequel de ces pays a fêté sa première participation à la Coupe du monde ?",
+        "propositions": [
+          "Panama",
+          "Colombie",
+          "Nigeria",
+          "Brésil"
+        ],
+        "réponse": "Panama",
+        "anecdote": "Les grands absents sont les Pays-Bas, le Chili, les États-Unis, la Côte d'Ivoire et l'Italie, éliminée en barrages par la Suède."
+      },
+      {
+        "id": 13,
+        "question": "Quelle récompense fut attribuée au meilleur buteur de la compétition ?",
+        "propositions": [
+          "Soulier d'or",
+          "Ballon d'or",
+          "Ballon d'argent",
+          "Ballon de bronze"
+        ],
+        "réponse": "Soulier d'or",
+        "anecdote": "Le meilleur buteur du tournoi est distingué depuis la Coupe du monde 1930, récompensé par le Soulier d'or à partir de 1982."
+      },
+      {
+        "id": 14,
+        "question": "Contre qui la Russie a-t-elle joué le match d'ouverture du Mondial 2018 ?",
+        "propositions": [
+          "Arabie Saoudite",
+          "Uruguay",
+          "Égypte",
+          "Suisse"
+        ],
+        "réponse": "Arabie Saoudite",
+        "anecdote": "Ce match d'entrée du groupe A s'est soldé par un prestigieux 5 à 0 pour la Russie, l'homme du match étant Denis Cheryshev."
+      },
+      {
+        "id": 15,
+        "question": "Laquelle de ces équipes n'a jamais manqué une édition de la Coupe du monde ?",
+        "propositions": [
+          "Belgique",
+          "Brésil",
+          "Italie",
+          "Espagne"
+        ],
+        "réponse": "Brésil",
+        "anecdote": "Le Brésil est la première équipe qualifiée sur le terrain en s'assurant de figurer parmi les quatre premiers de la zone Amérique du Sud."
+      },
+      {
+        "id": 16,
+        "question": "Quel était le nom de la mascotte officielle de la Coupe du monde 2018 ?",
+        "propositions": [
+          "Zabivaka",
+          "Zakumi",
+          "Striker",
+          "Fuleco"
+        ],
+        "réponse": "Zabivaka",
+        "anecdote": "Les couleurs de l'équipement (blanc, bleu et rouge) de Zabivaka (« celui qui marque ») font référence au maillot de l'équipe de Russie."
+      },
+      {
+        "id": 17,
+        "question": "Qui a été choisi pour interpréter l'hymne officiel de la compétition ?",
+        "propositions": [
+          "Jason Derulo",
+          "Chris Brown",
+          "Robin Thicke",
+          "Justin Timberlake"
+        ],
+        "réponse": "Jason Derulo",
+        "anecdote": "Jason Derulo est un auteur-compositeur-interprète, danseur, acteur, chorégraphe et producteur exécutif américain."
+      },
+      {
+        "id": 18,
+        "question": "Combien d'équipes nationales furent qualifiées pour la compétition ?",
+        "propositions": [
+          "24",
+          "28",
+          "24",
+          "32"
+        ],
+        "réponse": "32",
+        "anecdote": "Comme lors des compétitions précédentes, au moins un pays fêtera sa première participation, ici le Panama et l'Islande."
+      },
+      {
+        "id": 19,
+        "question": "Que représente Zabivaka, la mascotte de la Coupe du monde 2018 ?",
+        "propositions": [
+          "Un dragon",
+          "Un manchot",
+          "Un singe",
+          "Un loup"
+        ],
+        "réponse": "Un loup",
+        "anecdote": "Dévoilée le 21 octobre 2016, elle représente un loup portant un tee-shirt où on peut lire RUSSIA 2018, ainsi que des lunettes oranges."
+      },
+      {
+        "id": 20,
+        "question": "Dans combien de chapeaux furent réparties les équipes lors du tirage au sort ?",
+        "propositions": [
+          "Quatre",
+          "Deux",
+          "Trois",
+          "Cinq"
+        ],
+        "réponse": "Quatre",
+        "anecdote": "Les sept nations qualifiées les mieux placées au classement FIFA d'octobre 2017 et la Russie furent dans le premier chapeau."
+      }
+    ],
+    "expert": [
+      {
+        "id": 21,
+        "question": "Qui furent les deux favoris du groupe B, groupe assez relevé au niveau de la qualité de jeu ?",
+        "propositions": [
+          "France et Danemark",
+          "Uruguay et Égypte",
+          "Portugal et Espagne",
+          "Brésil et Argentine"
+        ],
+        "réponse": "Portugal et Espagne",
+        "anecdote": "Les quatre équipes associées au groupe B lors de cette Coupe du monde étaient le Portugal, l'Espagne, le Maroc et l'Iran."
+      },
+      {
+        "id": 22,
+        "question": "Quel opérateur français payant a retransmis l'intégralité de la compétition ?",
+        "propositions": [
+          "Mediaset",
+          "BeIn Sports",
+          "Sport TV",
+          "BFM Sport"
+        ],
+        "réponse": "BeIn Sports",
+        "anecdote": "Le 10 août 2012, soit un peu plus d'un mois après son ouverture, plus de 500 000 abonnés ont souscrit un abonnement à BeIn Sports."
+      },
+      {
+        "id": 23,
+        "question": "Dans quelle ville a eu lieu, en 2015, le tirage au sort des qualifications ?",
+        "propositions": [
+          "Smolensk",
+          "Saint-Pétersbourg",
+          "Odessa",
+          "Mourmansk"
+        ],
+        "réponse": "Saint-Pétersbourg",
+        "anecdote": "Saint-Pétersbourg est la deuxième plus grande ville de Russie par sa population, avec 5 281 579 habitants en 2017."
+      },
+      {
+        "id": 24,
+        "question": "Qui a institué le principe de rotation continentale à la FIFA ?",
+        "propositions": [
+          "Sepp Blatter",
+          "Helmut Käser",
+          "Ivo Schricker",
+          "Jérôme Valcke"
+        ],
+        "réponse": "Sepp Blatter",
+        "anecdote": "Le principe de rotation continentale institué par Sepp Blatter aurait dû amener à une organisation en Amérique du Nord pour 2018."
+      },
+      {
+        "id": 25,
+        "question": "Quelle agence de conseil en stratégie a conçu le logo officiel de la Coupe du monde 2018 ?",
+        "propositions": [
+          "Designworks",
+          "Spirit Design",
+          "Invenio",
+          "Brandia Central"
+        ],
+        "réponse": "Brandia Central",
+        "anecdote": "L'utilisation du rouge, du doré, du noir et du bleu dans sa palette de couleurs s'est inspirée des techniques ancestrales de l'art russe."
+      },
+      {
+        "id": 26,
+        "question": "Comment s'intitule l'hymne officiel dévoilé le 8 mars 2018 ?",
+        "propositions": [
+          "Go Russia !",
+          "Colors",
+          "Russia 2018",
+          "Fair Play"
+        ],
+        "réponse": "Colors",
+        "anecdote": "Le chanteur Jason Derulo a été choisi pour interpréter l'hymne officiel de Coca-Cola pour la compétition, hymne intitulé 'Colors'."
+      },
+      {
+        "id": 27,
+        "question": "Quelle est la capacité du nouveau stade Krestovski de Saint-Pétersbourg ?",
+        "propositions": [
+          "59 500 places",
+          "89 500 places",
+          "69 500 places",
+          "79 500 places"
+        ],
+        "réponse": "69 500 places",
+        "anecdote": "Le stade est équipé d'un toit rétractable et d'un terrain coulissant, permettant de maintenir une température de 15° même en hiver."
+      },
+      {
+        "id": 28,
+        "question": "Combien d'arbitres principaux ont été choisis pour la compétition ?",
+        "propositions": [
+          "28",
+          "36",
+          "24",
+          "32"
+        ],
+        "réponse": "36",
+        "anecdote": "Le 29 mars 2018, le comité des arbitres de la FIFA publie le choix des 36 arbitres et 63 arbitres assistants venant de 43 pays."
+      },
+      {
+        "id": 29,
+        "question": "Quelle mannequin fut l'ambassadrice de la Coupe du monde en Russie ?",
+        "propositions": [
+          "Anna Begounova",
+          "Victoria Lopyreva",
+          "Alla Nazimova",
+          "Tatiana Droubitch"
+        ],
+        "réponse": "Victoria Lopyreva",
+        "anecdote": "Victoria Petrovna Lopyreva est une actrice, mannequin, présentatrice et gagnante du concours de beauté Miss Russie 2003."
+      },
+      {
+        "id": 30,
+        "question": "Qui a comparé le Mondial 2018 aux Jeux Olympiques de Berlin en 1936 ?",
+        "propositions": [
+          "Peter Carington",
+          "David Owen",
+          "Ken Livingstone",
+          "Boris Johnson"
+        ],
+        "réponse": "Boris Johnson",
+        "anecdote": "Boris Johnson est parfois surnommé « BoJo », « Bozzer Bozza » ou encore « Boris le Bouffon » par les tabloïds britanniques."
+      }
+    ]
+  }
+}

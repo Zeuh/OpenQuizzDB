@@ -1,0 +1,343 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes" ?>
+<quizz fournisseur="OpenQuizzDB : Fournisseur de contenu libre"
+       url="http://www.openquizzdb.org"
+       rédacteur="Philippe Bresoux"
+       thème="Jeux de société"
+       difficulté="1">
+  <débutant>
+    <contenu id="1">
+      <question>Au 'Trivial Pursuit', que faut-il faire quand on a obtenu tous les camemberts ?</question>
+      <propositions>
+        <proposition id="1-1">Rejoindre le centre</proposition>
+        <proposition id="1-2">Mimer une question</proposition>
+        <proposition id="1-3">Compter ses points</proposition>
+        <proposition id="1-4">Tous les perdre</proposition>
+      </propositions>
+      <réponse proposition="1-1">Rejoindre le centre</réponse>
+      <anecdote>Le jeu a été créé par deux Québécois, Chris Haney et Scott Abbott et d'abord édité au Québec en 1979.</anecdote>
+    </contenu>
+    <contenu id="2">
+      <question>Quel jeu de société créé en 1985 par Rob Angel consiste à faire deviner un mot en le dessinant ?</question>
+      <propositions>
+        <proposition id="2-1">Pictionary</proposition>
+        <proposition id="2-2">Mastermind</proposition>
+        <proposition id="2-3">Blokus</proposition>
+        <proposition id="2-4">Uno</proposition>
+      </propositions>
+      <réponse proposition="2-1">Pictionary</réponse>
+      <anecdote>Au Pictionary, on ne doit que dessiner, les chiffres, les lettres, les paroles et les gestes étant interdits.</anecdote>
+    </contenu>
+    <contenu id="3">
+      <question>Quel jeu de société consiste à ruiner ses adversaires en réalisant des opérations immobilières ?</question>
+      <propositions>
+        <proposition id="3-1">1000 bornes</proposition>
+        <proposition id="3-2">Monopoly</proposition>
+        <proposition id="3-3">La bonne paye</proposition>
+        <proposition id="3-4">Boggle</proposition>
+      </propositions>
+      <réponse proposition="3-2">Monopoly</réponse>
+      <anecdote>Le jeu symbolise les aspects apparents et spectaculaires du capitalisme, les fortunes se faisant au fil des coups de dés.</anecdote>
+    </contenu>
+    <contenu id="4">
+      <question>Au 'Scrabble', le joueur qui démarre la partie place un premier mot sur le plateau qui compte...</question>
+      <propositions>
+        <proposition id="4-1">Pour 100 points</proposition>
+        <proposition id="4-2">Double</proposition>
+        <proposition id="4-3">Triple</proposition>
+        <proposition id="4-4">Pour 50 points</proposition>
+      </propositions>
+      <réponse proposition="4-2">Double</réponse>
+      <anecdote>L'entreprise Hasbro est détenteur des droits aux États-Unis d'Amérique et au Canada, et Mattel dans le reste du monde.</anecdote>
+    </contenu>
+    <contenu id="5">
+      <question>Quel jeu d'adresse, praticable de 2 à 6 joueurs, consiste à se saisir de baguettes une par une ?</question>
+      <propositions>
+        <proposition id="5-1">Le Mandarin</proposition>
+        <proposition id="5-2">Le Mikado</proposition>
+        <proposition id="5-3">Le Samouraï</proposition>
+        <proposition id="5-4">Le Mahjong</proposition>
+      </propositions>
+      <réponse proposition="5-2">Le Mikado</réponse>
+      <anecdote>Au Mikado, il est souvent possible de s'aider d'une baguette que l'on a déjà récupérée pour en retirer une autre.</anecdote>
+    </contenu>
+    <contenu id="6">
+      <question>Quelle est la pièce la plus mobile aux échecs parmi les seize pièces dont disposent chaque joueur ?</question>
+      <propositions>
+        <proposition id="6-1">Le fou</proposition>
+        <proposition id="6-2">Le roi</proposition>
+        <proposition id="6-3">Le cavalier</proposition>
+        <proposition id="6-4">La reine</proposition>
+      </propositions>
+      <réponse proposition="6-4">La reine</réponse>
+      <anecdote>Chaque joueur possède au départ un roi, une dame, deux tours, deux fous, deux cavaliers et huit pions.</anecdote>
+    </contenu>
+    <contenu id="7">
+      <question>Dans quel jeu populaire faut-il reconstituer une seule combinaison gagnante avec trois dés ?</question>
+      <propositions>
+        <proposition id="7-1">421</proposition>
+        <proposition id="7-2">Dudo</proposition>
+        <proposition id="7-3">Yahtzee</proposition>
+        <proposition id="7-4">Craps</proposition>
+      </propositions>
+      <réponse proposition="7-1">421</réponse>
+      <anecdote>On joue au 421 (qui tire son nom de la combinaison la plus forte) à l'aide de trois dés et d'un certain nombre de jetons ou fiches.</anecdote>
+    </contenu>
+    <contenu id="8">
+      <question>Que faut-il aligner pour remporter une partie de 'Puissance 4', jeu de société dérivé du Morpion ?</question>
+      <propositions>
+        <proposition id="8-1">Des cartes</proposition>
+        <proposition id="8-2">Des jetons</proposition>
+        <proposition id="8-3">Des dés</proposition>
+        <proposition id="8-4">Des billes</proposition>
+      </propositions>
+      <réponse proposition="8-2">Des jetons</réponse>
+      <anecdote>Le vainqueur est le joueur qui réalise le premier un alignement d'au moins quatre pions de sa couleur.</anecdote>
+    </contenu>
+    <contenu id="9">
+      <question>De combien de cartes est généralement constitué un jeu de bataille ?</question>
+      <propositions>
+        <proposition id="9-1">43</proposition>
+        <proposition id="9-2">52</proposition>
+        <proposition id="9-3">65</proposition>
+        <proposition id="9-4">36</proposition>
+      </propositions>
+      <réponse proposition="9-2">52</réponse>
+      <anecdote>Pratiquée par les enfants/adultes, la bataille est d'une grande simplicité puisque a priori sous la conduite exclusive du hasard.</anecdote>
+    </contenu>
+    <contenu id="10">
+      <question>Au poker, parmi les combinaisons possibles, quelle est la suite de cartes la plus puissante ?</question>
+      <propositions>
+        <proposition id="10-1">La paire</proposition>
+        <proposition id="10-2">Le brelan</proposition>
+        <proposition id="10-3">Le carré</proposition>
+        <proposition id="10-4">La quinte flush</proposition>
+      </propositions>
+      <réponse proposition="10-4">La quinte flush</réponse>
+      <anecdote>Bertrand "ElkY" Grospellier est le joueur ayant le plus gros palmarès et le plus gros total de gains en tournois parmi les français.</anecdote>
+    </contenu>
+  </débutant>
+  <confirmé>
+    <contenu id="11">
+      <question>Dans jeu de société pour deux joueurs faut-il déduire une combinaison de couleurs ?</question>
+      <propositions>
+        <proposition id="11-1">Mastermind</proposition>
+        <proposition id="11-2">Monopoly</proposition>
+        <proposition id="11-3">Brain</proposition>
+        <proposition id="11-4">Memory</></proposition>
+      </propositions>
+      <réponse proposition="11-1">Mastermind</réponse>
+      <anecdote>Le Mastermind a été inventé par Mordecai Meirowitz dans les années 1970 alors qu'il travaillait comme expert en télécom.</anecdote>
+    </contenu>
+    <contenu id="12">
+      <question>Dans sa version européenne, le jeu de société 'Qui est-ce ?' contient un plateau bleu et un plateau...</question>
+      <propositions>
+        <proposition id="12-1">Jaune</proposition>
+        <proposition id="12-2">Blanc</proposition>
+        <proposition id="12-3">Vert</proposition>
+        <proposition id="12-4">Rouge</proposition>
+      </propositions>
+      <réponse proposition="12-4">Rouge</réponse>
+      <anecdote>'Qui-est-ce?' est un jeu de société simple et pédagogique pour un jeune public faisant appel au raisonnement déductif.</anecdote>
+    </contenu>
+    <contenu id="13">
+      <question>Combien de pions de couleur différente vous faut-il pour remplir un camembert au 'Trivial Pursuit' ?</question>
+      <propositions>
+        <proposition id="13-1">Sept</proposition>
+        <proposition id="13-2">Cinq</proposition>
+        <proposition id="13-3">Six</proposition>
+        <proposition id="13-4">Quatre</proposition>
+      </propositions>
+      <réponse proposition="13-3">Six</réponse>
+      <anecdote>Le jeu continue jusqu'à ce que l'un des joueurs collectionne une part des six couleurs et place son pion sur la case spéciale.</anecdote>
+    </contenu>
+    <contenu id="14">
+      <question>Avec quoi joue-t-on au 'Boggle', pour lesquels des clubs ont été créés pour organiser des parties ?</question>
+      <propositions>
+        <proposition id="14-1">Des pions</proposition>
+        <proposition id="14-2">Des billes</proposition>
+        <proposition id="14-3">Des cartes</proposition>
+        <proposition id="14-4">Des dés</proposition>
+      </propositions>
+      <réponse proposition="14-4">Des dés</réponse>
+      <anecdote>Contrairement au 'Scrabble', les règles ne sont pas régies internationalement et il n'y a pas de tournois officiels.</anecdote>
+    </contenu>
+    <contenu id="15">
+      <question>Que jeu de société consiste à propulser des jetons plats au fond d'un gobelet ?</question>
+      <propositions>
+        <proposition id="15-1">Jeu du citron</proposition>
+        <proposition id="15-2">Jeu de morpions</proposition>
+        <proposition id="15-3">Jeu de la taupe</proposition>
+        <proposition id="15-4">Jeu de puces</proposition>
+      </propositions>
+      <réponse proposition="15-4">Jeu de puces</réponse>
+      <anecdote>On y joue soit en pressant les jetons à l'aide d'un autre jeton, soit à l'aide d'un système à ressort formant une catapulte.</anecdote>
+    </contenu>
+    <contenu id="16">
+      <question>Quel jeu de hasard pur comprend 63 cases disposées en spirale enroulée vers l'intérieur ?</question>
+      <propositions>
+        <proposition id="16-1">Jeu de go</proposition>
+        <proposition id="16-2">Jeu du moulin</proposition>
+        <proposition id="16-3">Jeu de l'oie</proposition>
+        <proposition id="16-4">Jeu de puces</proposition>
+      </propositions>
+      <réponse proposition="16-3">Jeu de l'oie</réponse>
+      <anecdote>L'une des plus anciennes mentions du jeu de l'oie date de 1617 et provient de l'ouvrage de Pietro Carrera consacré aux échecs.</anecdote>
+    </contenu>
+    <contenu id="17">
+      <question>Dans quel jeu de société doit-on faire deviner des mots sans prononcer des mots interdits ?</question>
+      <propositions>
+        <proposition id="17-1">Memory</></proposition>
+        <proposition id="17-2">Boggle</proposition>
+        <proposition id="17-3">Motus</proposition>
+        <proposition id="17-4">Taboo</proposition>
+      </propositions>
+      <réponse proposition="17-4">Taboo</réponse>
+      <anecdote>'Taboo' se joue avec un paquet de cartes sur lesquelles sont inscrits des mots à faire deviner et la liste des cinq mots interdits.</anecdote>
+    </contenu>
+    <contenu id="18">
+      <question>Combien de dés sont utilisés pour jouer à 'Yahtzee' afin de réaliser une figure ?</question>
+      <propositions>
+        <proposition id="18-1">Quatre</proposition>
+        <proposition id="18-2">Six</proposition>
+        <proposition id="18-3">Sept</proposition>
+        <proposition id="18-4">Cinq</proposition>
+      </propositions>
+      <réponse proposition="18-4">Cinq</réponse>
+      <anecdote>De nombreuses variantes du 'Yahtzee' existent dans l'établissement de la feuille de score et dans le décompte des points.</anecdote>
+    </contenu>
+    <contenu id="19">
+      <question>Au 'Scrabble', combien de points vaut la lettre « J », tout comme la lettre « Q » d'ailleurs ?</question>
+      <propositions>
+        <proposition id="19-1">10</proposition>
+        <proposition id="19-2">4</proposition>
+        <proposition id="19-3">6</proposition>
+        <proposition id="19-4">8</proposition>
+      </propositions>
+      <réponse proposition="19-4">8</réponse>
+      <anecdote>Les jetons sont des supports de format carré sur lesquels une lettre de l'alphabet est inscrite ainsi que sa valeur.</anecdote>
+    </contenu>
+    <contenu id="20">
+      <question>Quel jeu de société consiste à faire tomber les billes de l'adversaire dans des trous ?</question>
+      <propositions>
+        <proposition id="20-1">Mastermind</proposition>
+        <proposition id="20-2">Puissance 4</proposition>
+        <proposition id="20-3">Pièges !</proposition>
+        <proposition id="20-4">Docteur Maboul</proposition>
+      </propositions>
+      <réponse proposition="20-3">Pièges !</réponse>
+      <anecdote>Dans tous les rayons de supermarché, 'Pièges !' bénéficie de la bonne diffusion des jeux et des puzzles de son éditeur.</anecdote>
+    </contenu>
+  </confirmé>
+  <expert>
+    <contenu id="21">
+      <question>Dans quel jeu de société de 64 pions faut-il obtenir un maximum de pions de sa couleur ?</question>
+      <propositions>
+        <proposition id="21-1">Pentago</proposition>
+        <proposition id="21-2">Puissance 4</proposition>
+        <proposition id="21-3">Awalé</proposition>
+        <proposition id="21-4">Othello</proposition>
+      </propositions>
+      <réponse proposition="21-4">Othello</réponse>
+      <anecdote>La Fédération française dOthello (ou FFO) regroupe des joueurs dOthello et de Reversi.</anecdote>
+    </contenu>
+    <contenu id="22">
+      <question>Quel jeu de stratégie édité par MB comprend cinq engrenages blancs de taille différente ?</question>
+      <propositions>
+        <proposition id="22-1">Dix de Chute</proposition>
+        <proposition id="22-2">Abalone</proposition>
+        <proposition id="22-3">Uno</proposition>
+        <proposition id="22-4">Risk</proposition>
+      </propositions>
+      <réponse proposition="22-1">Dix de Chute</réponse>
+      <anecdote>Ce grand classique, présent depuis 1970, enchante encore des générations de jeunes joueurs, mais aussi leurs parents.</anecdote>
+    </contenu>
+    <contenu id="23">
+      <question>Laquelle de ces armes n'est pas utilisée au 'Cluedo', imaginé par Anthony Pratt et sa femme en 1943 ?</question>
+      <propositions>
+        <proposition id="23-1">Revolver</proposition>
+        <proposition id="23-2">Chandelier</proposition>
+        <proposition id="23-3">Matraque</proposition>
+        <proposition id="23-4">Pic à glace</proposition>
+      </propositions>
+      <réponse proposition="23-4">Pic à glace</réponse>
+      <anecdote>Le but du jeu est de trouver qui a tué le Docteur Lenoir, dans quelle pièce du manoir Tudor et avec quelle arme.</anecdote>
+    </contenu>
+    <contenu id="24">
+      <question>Quel jeu de stratégie consiste à pousser les six billes de l'adversaire dans une rigole ?</question>
+      <propositions>
+        <proposition id="24-1">Othello</proposition>
+        <proposition id="24-2">Risk</proposition>
+        <proposition id="24-3">Dix de chute</proposition>
+        <proposition id="24-4">Abalone</proposition>
+      </propositions>
+      <réponse proposition="24-4">Abalone</réponse>
+      <anecdote>Le jeu, d'origine française, a remporté le Gobelet dOr au Concours de créateurs de jeux de Boulogne-Billancourt en 1988.</anecdote>
+    </contenu>
+    <contenu id="25">
+      <question>Quel jeu de société, créé par John Spinello, s'appelait 'Opération' à sa création en 1965 ?</question>
+      <propositions>
+        <proposition id="25-1">Reversi</proposition>
+        <proposition id="25-2">Docteur Maboul</proposition>
+        <proposition id="25-3">Taboo</proposition>
+        <proposition id="25-4">Kubb</proposition>
+      </propositions>
+      <réponse proposition="25-2">Docteur Maboul</réponse>
+      <anecdote>'Docteur Maboul' a rapporté 40 millions de dollars à ses propriétaires, MB ayant été entre-temps absorbé par Hasbro.</anecdote>
+    </contenu>
+    <contenu id="26">
+      <question>Quel jeu de stratégie est divisé en pas moins de 42 territoires et 6 continents ?</question>
+      <propositions>
+        <proposition id="26-1">Starfire</proposition>
+        <proposition id="26-2">Risk</proposition>
+        <proposition id="26-3">Harpoon</proposition>
+        <proposition id="26-4">Battle Cry</proposition>
+      </propositions>
+      <réponse proposition="26-2">Risk</réponse>
+      <anecdote>'Risk' partage de nombreuses caractéristiques avec le jeu de guerre mais en plus simple et abstrait.</anecdote>
+    </contenu>
+    <contenu id="27">
+      <question>Qui a été assassiné au 'Cluedo' dans un manoir anglais, le Manoir Tudor ?</question>
+      <propositions>
+        <proposition id="27-1">Le Professeur Violet</proposition>
+        <proposition id="27-2">Le Colonel Moutarde</proposition>
+        <proposition id="27-3">Le Docteur Lenoir</proposition>
+        <proposition id="27-4">Madame Leblanc</proposition>
+      </propositions>
+      <réponse proposition="27-3">Le Docteur Lenoir</réponse>
+      <anecdote>Le jeu est livré avec des petites fiches d'enquête permettant aux joueurs de comptabiliser quelles sont les cartes alibis qu'il a vues.</anecdote>
+    </contenu>
+    <contenu id="28">
+      <question>Quel jeu de cartes américain a été créé en 1971 par Merle Robbins et édité par Mattel ?</question>
+      <propositions>
+        <proposition id="28-1">1000 bornes</proposition>
+        <proposition id="28-2">Dobble</proposition>
+        <proposition id="28-3">Uno</proposition>
+        <proposition id="28-4">Korsar</proposition>
+      </propositions>
+      <réponse proposition="28-3">Uno</réponse>
+      <anecdote>Depuis peu, la version H2O Splash du 'Uno' permet de jouer dans l'eau, le jeu comportant deux nouvelles cartes.</anecdote>
+    </contenu>
+    <contenu id="29">
+      <question>Quel animal représente la distance de 100 km au jeu des '1000 bornes' ?</question>
+      <propositions>
+        <proposition id="29-1">Une hirondelle</proposition>
+        <proposition id="29-2">Un canard</proposition>
+        <proposition id="29-3">Un papillon</proposition>
+        <proposition id="29-4">Un lièvre</proposition>
+      </propositions>
+      <réponse proposition="29-4">Un lièvre</réponse>
+      <anecdote>Le '1000 bornes' a été inventé en 1954 par Edmond Dujardin, un éditeur de matériel pour auto-écoles.</anecdote>
+    </contenu>
+    <contenu id="30">
+      <question>Quel nom porte la variante du jeu combinatoire abstrait 'Othello' ?</question>
+      <propositions>
+        <proposition id="30-1">Othidis</proposition>
+        <proposition id="30-2">Reversi</proposition>
+        <proposition id="30-3">Abalone</proposition>
+        <proposition id="30-4">Uno</proposition>
+      </propositions>
+      <réponse proposition="30-2">Reversi</réponse>
+      <anecdote>'Othello' se joue sur un tablier unicolore de 64 cases, 8 sur 8, appelé 'othellier'.</anecdote>
+    </contenu>
+  </expert>
+</quizz>
