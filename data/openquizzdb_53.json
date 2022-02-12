@@ -1,0 +1,376 @@
+{                                     
+  "fournisseur": "OpenQuizzDB - Fournisseur de contenu libre (https://www.openquizzdb.org)",
+  "rédacteur": "Philippe Bresoux",
+  "thème": "Eaux minérales (S'hydrater régulièrement)",         
+  "difficulté": "3 / 5",
+  "quizz": {
+    "fr": {
+      "débutant": [
+      {
+        "id": 1,
+        "question": "Comment appelle-t-on une eau du robinet commercialisée en bouteilles ?",
+        "propositions": [
+          "Eau douce",
+          "Eau de table",
+          "Eau plate",
+          "Eau de Seltz"
+        ],
+        "réponse": "Eau de table",
+        "anecdote": "De manière générale une eau minérale naturelle doit avoir une origine souterraine et une composition chimique stable."
+      },
+      {
+        "id": 2,
+        "question": "À quel groupe agroalimentaire français appartient la marque Volvic ?",
+        "propositions": [
+          "Sodebo",
+          "Lactalis",
+          "Régilait",
+          "Danone"
+        ],
+        "réponse": "Danone",
+        "anecdote": "En Amérique du Nord, Volvic est considérée comme une eau de source, du fait de sa faible teneur en minéraux."
+      },
+      {
+        "id": 3,
+        "question": "Laquelle de ces eaux minérales est naturellement gazeuse ?",
+        "propositions": [
+          "Hépar",
+          "Vittel",
+          "Volvic",
+          "Vichy Célestins"
+        ],
+        "réponse": "Vichy Célestins",
+        "anecdote": "Sa source se nomme Les Célestins, nom venant d'un ancien couvent situé juste au-dessus de la source et se situe dans Vichy."
+      },
+      {
+        "id": 4,
+        "question": "Quelle eau minérale a utilisé le célèbre « Ça va fort ! » comme slogan publicitaire ?",
+        "propositions": [
+          "Jouvence",
+          "Saint-Yorre",
+          "Alet",
+          "Thonon"
+        ],
+        "réponse": "Saint-Yorre",
+        "anecdote": "Vichy Saint Yorre appartient au groupe des eaux très minéralisées et a été reconnue bénéfique à la santé."
+      },
+      {
+        "id": 5,
+        "question": "Quelle est la première marque mondiale d'eaux gazeuses embouteillées ?",
+        "propositions": [
+          "Rozana",
+          "Badoit",
+          "Saint-Yorre",
+          "Perrier"
+        ],
+        "réponse": "Perrier",
+        "anecdote": "Perrier est une eau minérale gazeuse française issue de la source des Bouillens nommée depuis 1903 source Perrier."
+      },
+      {
+        "id": 6,
+        "question": "Qui a autorisé la marque Badoit à utiliser son célébrissime « Y'a de la joie » ?",
+        "propositions": [
+          "Charles Dumont",
+          "Charles Trenet",
+          "Charles Berling",
+          "Charles Aznavour"
+        ],
+        "réponse": "Charles Trenet",
+        "anecdote": "Dès 1778, ses vertus « apéritives et exhilarantes » furent reconnues par Richard Marin de Laprade, médecin honoraire du roi Louis XVI."
+      },
+      {
+        "id": 7,
+        "question": "Laquelle de ces eaux n'est pas une eau naturelle gazeuse de la marque Badoit ?",
+        "propositions": [
+          "Badoit vert",
+          "Badoit jaune",
+          "Badoit rouge",
+          "Badoit aromatisée"
+        ],
+        "réponse": "Badoit jaune",
+        "anecdote": "En 2012, Badoit représente 12,6% en volume et 16,1% en valeur du marché des eaux naturelles gazeuses en France."
+      },
+      {
+        "id": 8,
+        "question": "Quelle est la seule eau minérale naturelle de Bretagne, dans les Côtes-d'Armor ?",
+        "propositions": [
+          "Aproz",
+          "Edelvia",
+          "Plancoët",
+          "Asperjoc"
+        ],
+        "réponse": "Plancoët",
+        "anecdote": "Depuis 2011, une eau finement gazeuse « Plancoët Fines Bulles » a été lancée pour la clientèle de l'hôtellerie et restauration."
+      },
+      {
+        "id": 9,
+        "question": "Comment appelle-t-on une eau d'origine souterraine naturellement conforme ?",
+        "propositions": [
+          "Eau de source",
+          "Eau usée",
+          "Eau déminéralisée",
+          "Eau gazeuse"
+        ],
+        "réponse": "Eau de source",
+        "anecdote": "Une eau de source a bénéficié d'une protection contre la pollution et n'a subi ni traitement chimique ni adjonction."
+      },
+      {
+        "id": 10,
+        "question": "Quel pays européen est le plus gros consommateur d'eau en bouteille ?",
+        "propositions": [
+          "Italie",
+          "Belgique",
+          "Espagne",
+          "Allemagne"
+        ],
+        "réponse": "Italie",
+        "anecdote": "En 2004, la consommation mondiale d'eau en bouteille en plastique représentait 154 milliards de litres."
+      }
+    ],
+    "confirmé": [
+      {
+        "id": 11,
+        "question": "Laquelle de ces eaux n'est pas une eau minérale espagnole ?",
+        "propositions": [
+          "Viladrau",
+          "Bezoya",
+          "Aquarel",
+          "Valvert"
+        ],
+        "réponse": "Valvert",
+        "anecdote": "Valvert est une eau qui prend sa source au coeur de la forêt d'Étalle, en Gaume, au sud de l'Ardenne belge."
+      },
+      {
+        "id": 12,
+        "question": "Dans quel département français se situe la source de Volvic ?",
+        "propositions": [
+          "Puy-de-Dôme",
+          "Vaucluse",
+          "Cantal",
+          "Lozère"
+        ],
+        "réponse": "Puy-de-Dôme",
+        "anecdote": "2 sites de 12 lignes de production réalisent 1 milliard de bouteilles produites par an, soit 4 millions de bouteilles produites par jour."
+      },
+      {
+        "id": 13,
+        "question": "À quelle société appartient la marque d'eau minérale Vittel ?",
+        "propositions": [
+          "PepsiCo",
+          "Nestlé Waters",
+          "Danone",
+          "Orangina"
+        ],
+        "réponse": "Nestlé Waters",
+        "anecdote": "Son histoire se confond avec celle du thermalisme et débute en 1854 avec l'achat d'une fontaine par Louis Bouloumié à Vittel."
+      },
+      {
+        "id": 14,
+        "question": "Quelle eau minérale a sa source située dans le département de la Lozère ?",
+        "propositions": [
+          "Vittel",
+          "Quézac",
+          "Valvert",
+          "Hépar"
+        ],
+        "réponse": "Quézac",
+        "anecdote": "La source de Quézac était déjà connue par les Celtes et les Gallo-Romains qui l'utilisaient pour des thermes."
+      },
+      {
+        "id": 15,
+        "question": "Combien de litres d'eau minérale la marque Évian produit-elle chaque année ?",
+        "propositions": [
+          "2 milliards",
+          "1,5 milliard",
+          "500 millions",
+          "1 milliard"
+        ],
+        "réponse": "1,5 milliard",
+        "anecdote": "40 % des ventes se font en France où la marque représente 18 % du marché des eaux plates en bouteille."
+      },
+      {
+        "id": 16,
+        "question": "Quelle eau a été reconnue dès 1778 pour ses vertus apéritives et exhilarantes ?",
+        "propositions": [
+          "Saint-Yorre",
+          "Contrex",
+          "Badoit",
+          "Perrier"
+        ],
+        "réponse": "Badoit",
+        "anecdote": "2015 a vu le lancement de Badoit en Canettes : Badoit Rouge, Badoit Citron et Badoit Citron vert (Lime)."
+      },
+      {
+        "id": 17,
+        "question": "En quelle année la bouteille ronde de l'eau Hépar est-elle devenue carrée ?",
+        "propositions": [
+          "1990",
+          "2010",
+          "1980",
+          "2000"
+        ],
+        "réponse": "1980",
+        "anecdote": "Dans les années 1930, Hépar fut vendue en bouteille de verre pour permettre aux curistes de prolonger la cure à domicile."
+      },
+      {
+        "id": 18,
+        "question": "Quelle eau minérale gazeuse française a sa source en Haute-Corse ?",
+        "propositions": [
+          "Rozana",
+          "Edelvia",
+          "Badoit",
+          "Orezza"
+        ],
+        "réponse": "Orezza",
+        "anecdote": "Les visites du site historique et de la chaîne de production ne sont plus possibles en raison de normes de sécurité."
+      },
+      {
+        "id": 19,
+        "question": "Quelle couleur est associée à l'eau Celtic légèrement pétillante ?",
+        "propositions": [
+          "Bleue",
+          "Verte",
+          "Rouge",
+          "Jaune"
+        ],
+        "réponse": "Verte",
+        "anecdote": "La Celtic est proposée en trois versions : nature, en étiquette bleue, légèrement pétillante en vert et bien pétillante en rouge."
+      },
+      {
+        "id": 20,
+        "question": "Laquelle de ces eaux n'est pas une eau minérale belge ?",
+        "propositions": [
+          "Edelvia",
+          "Spa",
+          "Duke",
+          "Valvert"
+        ],
+        "réponse": "Edelvia",
+        "anecdote": "En Suisse, il y a un siècle, la consommation d'eau minérale atteignait annuellement moins de deux litres par tête d'habitant."
+      }
+    ],
+    "expert": [
+      {
+        "id": 21,
+        "question": "En 2013, combien d'eaux minérales naturelles la France a-t-elle reconnu sur son territoire ?",
+        "propositions": [
+          "59",
+          "67",
+          "75",
+          "82"
+        ],
+        "réponse": "82",
+        "anecdote": "La France a reconnu 82 eaux sur son territoire contre 30 pour la Belgique, 25 pour la Bulgarie et 342 pour l'Italie."
+      },
+      {
+        "id": 22,
+        "question": "Quelle eau permet une augmentation du volume urinaire et donc de la diurèse ?",
+        "propositions": [
+          "Badoit",
+          "Contrex",
+          "Perrier",
+          "Saint-Yorre"
+        ],
+        "réponse": "Contrex",
+        "anecdote": "Contrex permettrait un bon lavage des cavités rénales et des voies urinaires, ainsi qu'une bonne élimination des déchets."
+      },
+      {
+        "id": 23,
+        "question": "Dans quel pays la Saint-Justin est-elle embouteillée, à la source de Saint-Justin ?",
+        "propositions": [
+          "Nouvelle-Zélande",
+          "Canada",
+          "Brésil",
+          "Espagne"
+        ],
+        "réponse": "Canada",
+        "anecdote": "Il existe plus de 100 marques d'eau en bouteille sur le marché au Canada, dont 20 % sont importées."
+      },
+      {
+        "id": 24,
+        "question": "Laquelle de ces eaux minérales n'est pas une eau en provenance de Suisse ?",
+        "propositions": [
+          "Aproz",
+          "Bezoya",
+          "Edelvia",
+          "Arkina"
+        ],
+        "réponse": "Bezoya",
+        "anecdote": "En Espagne,, la Bezoya est souvent conseillée par les pédiatres car elle est la plus basse en sodium."
+      },
+      {
+        "id": 25,
+        "question": "L'eau Vichy Célestins est réputée pour sa forte teneur en quel métal ?",
+        "propositions": [
+          "Calcium",
+          "Magnésium",
+          "Potassium",
+          "Sodium"
+        ],
+        "réponse": "Sodium",
+        "anecdote": "Du fait de sa forte teneur en sodium, L'eau Vichy Célestins est déconseillée aux personnes faisant de l'hypertension artérielle."
+      },
+      {
+        "id": 26,
+        "question": "Quelle marque a utilisé « La princesse des eaux de table » comme premier slogan ?",
+        "propositions": [
+          "Contrex",
+          "Perrier",
+          "Volvic",
+          "Saint-Yorre"
+        ],
+        "réponse": "Perrier",
+        "anecdote": "La typographie à empattement de la lettre P du mot Perrier symbolise une entreprise ancrée dans ses valeurs."
+      },
+      {
+        "id": 27,
+        "question": "À l'origine, où était vendue l'eau d'Évian aujourd'hui conditionnée à Amphion-les-Bains ?",
+        "propositions": [
+          "En boulangerie",
+          "En charcuterie",
+          "En bibliothèque",
+          "En pharmacie"
+        ],
+        "réponse": "En pharmacie",
+        "anecdote": "L'eau d'Évian, est la plus vendue en France, Royaume-Uni, Suisse, mais également bien placée aux États-Unis comme eau importée."
+      },
+      {
+        "id": 28,
+        "question": "Quelle eau a d'abord été vendue sous l'appellation « Eau de table de Nazareth » ?",
+        "propositions": [
+          "Contrex",
+          "Plancoët",
+          "Rozana",
+          "Valvert"
+        ],
+        "réponse": "Plancoët",
+        "anecdote": "Les 96 hectares qui environnent la source sont protégés de toute activité agricole depuis les débuts de son exploitation commerciale."
+      },
+      {
+        "id": 29,
+        "question": "Laquelle de ces eaux ne fait pas partie de la Société des eaux de Vittel ?",
+        "propositions": [
+          "Hépar",
+          "Vittel",
+          "Volvic",
+          "Contrex"
+        ],
+        "réponse": "Volvic",
+        "anecdote": "En 2005, Vittel s'est payé les services de David Bowie pour promouvoir son eau à travers un spot symbolique."
+      },
+      {
+        "id": 30,
+        "question": "Quelle source est connue depuis l'antiquité sous le nom de « source des Romains » ?",
+        "propositions": [
+          "Rozana",
+          "Quézac",
+          "Badoit",
+          "Volvic"
+        ],
+        "réponse": "Rozana",
+        "anecdote": "Les eaux de Rozana ont servi aussi de source d'appoint pour de nombreuses armées lors des batailles."
+      }
+    ]
+    }
+  }
+}

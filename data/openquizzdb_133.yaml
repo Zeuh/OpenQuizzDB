@@ -1,0 +1,280 @@
+---
+fournisseur: OpenQuizzDB - Fournisseur de contenu libre (https://www.openquizzdb.org)
+rédacteur: Philippe Bresoux
+thème: Rome (La ville Éternelle)
+difficulté: 4 / 5
+quizz:
+  fr:
+  - débutant:
+    - id: 1
+      question: De quel pays la ville de Rome est-elle la capitale depuis 1871 ?
+      propositions:
+      - Portugal
+      - Grèce
+      - Espagne
+      - Italie
+      réponse: Italie
+      anecdote: Rome est également la capitale de la région du Latium et fut celle de l'Empire romain durant plusieurs siècles.
+    - id: 2
+      question: Laquelle de ces communes importantes est la plus peuplée d'Italie ?
+      propositions:
+      - Milan
+      - Rome
+      - Naples
+      - Florence
+      réponse: Rome
+      anecdote: En 2014, la ville de Rome comptait 2 869 461 habitants établis sur 1 285 kilomètres carrés.
+    - id: 3
+      question: Quel État enclavé est contenu dans le territoire de la ville de Rome ?
+      propositions:
+      - Monaco
+      - Lichtenstein
+      - Saint-Marin
+      - Vatican
+      réponse: Vatican
+      anecdote: C'est le seul exemple existant d'un pays à l'intérieur d'une ville : Rome est donc la capitale de deux États.
+    - id: 4
+      question: En 2017,combien de fois la ville de Rome a-t-elle organisé les Jeux olympiques d'été ?
+      propositions:
+      - Trois fois
+      - Une fois
+      - Quatre fois
+      - Deux fois
+      réponse: Une fois
+      anecdote: Après avoir reçu les Jeux en 1960, Rome est officiellement candidate pour recevoir les Jeux olympiques d'été de 2024.
+    - id: 5
+      question: Par combien de collines le centre historique de Rome est-il dominé ?
+      propositions:
+      - Neuf
+      - Sept
+      - Cinq
+      - Onze
+      réponse: Sept
+      anecdote: Aventin, Caelius, Capitole, Esquilin, Palatin, Quirinal et Viminal se situent toutes sur la rive gauche du Tibre.
+    - id: 6
+      question: De quel climat particulièrement clément bénéficie la ville de Rome ?
+      propositions:
+      - Océanique
+      - Tempéré
+      - Tropical
+      - Méditerranéen
+      réponse: Méditerranéen
+      anecdote: C'est ainsi que les hivers sont doux, même si un coup de froid en provenance des Apennins ne peut être exclu.
+    - id: 7
+      question: Quel animal a été naturellement choisi comme symbole de la ville de Rome ?
+      propositions:
+      - La chèvre
+      - La louve
+      - Le Lion
+      - Le cerf
+      réponse: La louve
+      anecdote: Le nom de la ville est dû à la légende des jumeaux Romulus et Rémus, élevés par une louve, où le premier tua le second.
+    - id: 8
+      question: Quelle fontaine de Rome est sans doute la fontaine la plus célèbre du monde ?
+      propositions:
+      - Triton
+      - Trevi
+      - Barcaccia
+      - Neptune
+      réponse: Trevi
+      anecdote: Il est de coutume d'y jeter une pièce de monnaie par le bras droit en tournant le dos à la fontaine avant de quitter Rome.
+    - id: 9
+      question: Quel compositeur réputé pour ses musiques de films est né à Rome en 1928 ?
+      propositions:
+      - Hans Zimmer
+      - Bruno Coulais
+      - Ennio Morricone
+      - Alexandre Desplat
+      réponse: Ennio Morricone
+      anecdote: Ennio Morricone est surtout réputé pour ses BO réalisées pour son ami et camarade de classe Sergio Leone.
+    - id: 10
+      question: Quel est le plus important édifice religieux du catholicisme situé à Rome ?
+      propositions:
+      - Église Santa Prisca
+      - Église Santa Susanna
+      - Panthéon
+      - Basilique Saint-Pierre
+      réponse: Basilique Saint-Pierre
+      anecdote: La Basilique Saint-Pierre est située au Vatican, sur la rive droite du Tibre, et sa façade s'ouvre sur la place Saint-Pierre.
+  - confirmé:
+    - id: 11
+      question: L'histoire de quel jeu vidéo se déroule en grande partie dans la ville de Rome ?
+      propositions:
+      - Tenchu
+      - Metal Gear Solid
+      - Assassin's Creed
+      - Hitman
+      réponse: Assassin's Creed
+      anecdote: L'histoire est axée sur Desmond Miles qui revit les actions de son ancêtre à l'aide d'une machine nommée « Animus ».
+    - id: 12
+      question: Sur les côtes de quelle mer la ville de Rome est-elle située ?
+      propositions:
+      - Adriatique
+      - Égée
+      - Tyrrhénienne
+      - Ionienne
+      réponse: Tyrrhénienne
+      anecdote: Elle forme un triangle limité à l'ouest par la Corse et la Sardaigne, à l'est par la péninsule italienne et au sud par la Sicile.
+    - id: 13
+      question: En quelle année avant Jésus-Christ Romulus a-t-il fondé la ville de Rome ?
+      propositions:
+      - 753
+      - 432
+      - 251
+      - 654
+      réponse: 753
+      anecdote: D'après la légende latine, Romulus fonda la ville de Rome à l'emplacement du Mont Palatin sur le Tibre le 21 avril 753 av. J-C.
+    - id: 14
+      question: Comment est appelée la ville de Rome, l'une des plus belles villes du monde ?
+      propositions:
+      - Ville Lumière
+      - Ville Éternelle
+      - Coliséenne
+      - Petite Venise
+      réponse: Ville Éternelle
+      anecdote: Outre le tourisme, l'économie de la Ville Éternelle est également orientée vers les nouvelles technologies.
+    - id: 15
+      question: Situés sur d'anciennes propriétés patriciennes, comment sont nommés les jardins de Rome ?
+      propositions:
+      - Villas
+      - Novas
+      - Barracas
+      - Doumas
+      réponse: Villas
+      anecdote: Rome est une des seules grandes villes à avoir autant d'espaces agricoles et de campagne en son sein, l'Agro Romano.
+    - id: 16
+      question: Quelle femme politique italienne a été élue maire de Rome le 22 juin 2016 ?
+      propositions:
+      - Renata Briano
+      - Virginia Raggi
+      - Leda Rafanelli
+      - Chiara Ingrao
+      réponse: Virginia Raggi
+      anecdote: Membre du Mouvement 5 étoiles, elle est à la fois la première femme et la personne la plus jeune à occuper ce poste.
+    - id: 17
+      question: À Rome, quelle est la longueur totale du mur d'Aurélien, monumentale muraille de briques ?
+      propositions:
+      - 19 km
+      - 13 km
+      - 16 km
+      - 10 km
+      réponse: 19 km
+      anecdote: Le mur est construit en béton recouvert de briques, est épais de 3,5 m et haut de 8 m, atteignant par endroits 10 m.
+    - id: 18
+      question: En football, avec quel autre club l'AS Roma est-il depuis longtemps rival ?
+      propositions:
+      - Frosinone Calcio
+      - FC Rieti
+      - SS Lazio
+      - US Latina
+      réponse: SS Lazio
+      anecdote: L'AS Roma est l'un des rares clubs à avoir disputé une finale de Ligue des Champions à domicile, en 1984, face à Liverpool.
+    - id: 19
+      question: Par combien de grands aéroports la ville de Rome est-elle desservie ?
+      propositions:
+      - Trois
+      - Quatre
+      - Cinq
+      - Deux
+      réponse: Trois
+      anecdote: Les deux principaux, Léonard-de-Vinci de Rome Fiumicino et Ciampino, sont administrés par Aeroporti di Roma.
+    - id: 20
+      question: Quel réalisateur de cinéma né à Milan est mort à Rome en 1976 ?
+      propositions:
+      - Luchino Visconti
+      - Bernardo Bertolucci
+      - Elio Petri
+      - Federico Fellini
+      réponse: Luchino Visconti
+      anecdote: Le metteur en scène milanais a consciemment rattaché ses propres films à ses souvenirs autobiographiques.
+  - expert:
+    - id: 21
+      question: Quelle célèbre fontaine de Rome représente une barque échouée qui prend l'eau ?
+      propositions:
+      - Barcaccia
+      - Paola
+      - Quatre-Fleuves
+      - Trevi
+      réponse: Barcaccia
+      anecdote: La fontaine est remplie d'une eau bleu turquoise très claire, parsemée de pièces de monnaie à voeux jetées par les touristes.
+    - id: 22
+      question: Quel terme est utilisé pour nommer les quartiers du centre historique de Rome ?
+      propositions:
+      - Rioni
+      - Piagio
+      - Balda
+      - Dove
+      réponse: Rioni
+      anecdote: Dans certains cas, le terme « Rioni » est employé pour désigner des quartiers d'autres villes italiennes, comme Naples.
+    - id: 23
+      question: Quelle colonne de Rome est surmontée d'une statue de Marie à l'enfant ?
+      propositions:
+      - Colonne di Borgo
+      - Colonne de l'Ange
+      - Colonne de la Paix
+      - Monolithe Mussolini
+      réponse: Colonne de la Paix
+      anecdote: Cette colonne est l'unique élément restant des huit colonnes de la basilique de Maxence et Constantin.
+    - id: 24
+      question: Combien d'églises dénombre-t-on environ sur le territoire de la ville de Rome ?
+      propositions:
+      - 900
+      - 700
+      - 300
+      - 500
+      réponse: 900
+      anecdote: Rome est aussi l'un des plus grands sites archéologiques du monde et compte également de nombreux ponts et fontaines.
+    - id: 25
+      question: Avec quelle unique autre ville Rome est-elle aujourd'hui jumelée ?
+      propositions:
+      - Paris
+      - Madrid
+      - Athènes
+      - Lisbonne
+      réponse: Paris
+      anecdote: C'est aussi vrai dans l'autre sens, avec ce slogan : « Seule Rome est digne de Paris, seule Paris est digne de Rome ».
+    - id: 26
+      question: Quelle communauté est la plus nombreuse à Rome avec pas moins de 100 000 résidents ?
+      propositions:
+      - Péruvienne
+      - Polonaise
+      - Roumaine
+      - Chinoise
+      réponse: Roumaine
+      anecdote: La population de Rome a recommencé à croître fortement à partir de 1870 et sa désignation comme capitale de l'Italie.
+    - id: 27
+      question: Où le Masters de Rome de tennis se tient-il tous les ans depuis 1930 ?
+      propositions:
+      - Stadio Tre Fontane
+      - Foro Italico
+      - Stade des Marbres
+      - PalaLottomatica
+      réponse: Foro Italico
+      anecdote: Le Foro Italico a été réalisé dans la zone appelée à l'origine Prati della Farnesina, à partir de la fin des années 1920.
+    - id: 28
+      question: À part la ville Éternelle, combien d'autres villes dans le monde portent le nom de Rome ?
+      propositions:
+      - 33
+      - 22
+      - 11
+      - 44
+      réponse: 44
+      anecdote: Par tradition, un « vrai » Romain est une personne dont la famille a vécu à Rome depuis au moins sept générations.
+    - id: 29
+      question: À quel « événement » Michel de Montaigne a-t-il assisté à Rome en 1581 ?
+      propositions:
+      - Au carnaval
+      - À un couronnement
+      - Aux Jeux
+      - À un incendie
+      réponse: Au carnaval
+      anecdote: En 1787, Goethe en a fait une description. Sa chambre, via del Corso, se trouvait située sur le lieu central du Carnaval.
+    - id: 30
+      question: Sur quelle pièce de monnaie italienne le Colisée est-il représenté ?
+      propositions:
+      - 1 euro
+      - 20 centimes d'euro
+      - 2 euros
+      - 5 centimes d'euro
+      réponse: 5 centimes d'euro
+      anecdote: Le Colisée est un géant malade : chaque année, 500 000 euros lui sont alloués par l'État italien pour parer au plus urgent.

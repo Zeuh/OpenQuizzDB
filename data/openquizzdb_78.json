@@ -1,0 +1,376 @@
+{                                     
+  "fournisseur": "OpenQuizzDB - Fournisseur de contenu libre (https://www.openquizzdb.org)",
+  "rédacteur": "Philippe Bresoux",
+  "thème": "Célébrités (D'hier à aujourd'hui)",         
+  "difficulté": "2 / 5",
+  "quizz": {
+    "fr": {
+      "débutant": [
+      {
+        "id": 1,
+        "question": "Quel homme « capital » aux États-Unis fut le premier représentant de l'Oncle Sam ?",
+        "propositions": [
+          "Abraham Lincoln",
+          "Theodore Roosevelt",
+          "Thomas Jefferson",
+          "George Washington"
+        ],
+        "réponse": "George Washington",
+        "anecdote": "George Washington est le premier président des États-Unis d'Amérique après la guerre d'Indépendance."
+      },
+      {
+        "id": 2,
+        "question": "Quel compositeur autrichien fut un enfant prodige avant de devenir un créateur surdoué ?",
+        "propositions": [
+          "Beethoven",
+          "Dvorak",
+          "Mozart",
+          "Vivaldi"
+        ],
+        "réponse": "Mozart",
+        "anecdote": "Son surnom « Woolfie » (petit loup) lui fut donné par sa femme Constance."
+      },
+      {
+        "id": 3,
+        "question": "De quel chanteur Joan Baez et Hugues Auffray ont-ils repris nombre de ses chansons ?",
+        "propositions": [
+          "Bob Dylan",
+          "Jeff Buckley",
+          "Kurt Cobain",
+          "Marilyn Manson"
+        ],
+        "réponse": "Bob Dylan",
+        "anecdote": "D'abord de tendance folk, Bob Dylan passa au rock en prenant une guitare électrique."
+      },
+      {
+        "id": 4,
+        "question": "Quel chanteur belge est enterré aux Îles Marquises où il passa la fin de sa vie ?",
+        "propositions": [
+          "Jeff Bodart",
+          "Marc Morgan",
+          "Alec Mansion",
+          "Jacques Brel"
+        ],
+        "réponse": "Jacques Brel",
+        "anecdote": "Parmi ses oeuvres célèbres, on peut citer « Madeleine », « Les Flamands » ou encore « Aux Marquises »."
+      },
+      {
+        "id": 5,
+        "question": "Quelle ancienne femme politique britannique ne semblait pourtant pas prête de rouiller ?",
+        "propositions": [
+          "Golda Meir",
+          "Margaret Thatcher",
+          "Ellen Church",
+          "Édith Cresson"
+        ],
+        "réponse": "Margaret Thatcher",
+        "anecdote": "Surnommée « la Dame de Fer », Margaret Thatcher était connue pour ses positions très tranchées."
+      },
+      {
+        "id": 6,
+        "question": "Quel chanteur français, surnommé « le fou chantant », évoqua souvent la joie de vivre ?",
+        "propositions": [
+          "Serge Lama",
+          "François Valéry",
+          "Marcel Amont",
+          "Charles Trenet"
+        ],
+        "réponse": "Charles Trenet",
+        "anecdote": "Charles Trenet est l'auteur de près de mille chansons, succès populaires intemporels au-delà de la francophonie."
+      },
+      {
+        "id": 7,
+        "question": "Quel ancien secrétaire du Parti portait une tache de vin sur le front ?",
+        "propositions": [
+          "Iouri Andropov",
+          "Léonid Brejnev",
+          "Mikhaïl Gorbatchev",
+          "Andreï Gromyko"
+        ],
+        "réponse": "Mikhaïl Gorbatchev",
+        "anecdote": "Gorbatchev se fit l'apôtre de la transparence dans le domaine de la politique intérieure."
+      },
+      {
+        "id": 8,
+        "question": "Quel président de la République Française a utilisé la rose comme symbole ?",
+        "propositions": [
+          "Jacques Chirac",
+          "François Mitterrand",
+          "Georges Pompidou",
+          "Charles de Gaulle"
+        ],
+        "réponse": "François Mitterrand",
+        "anecdote": "François Mitterrand fut le premier président de gauche de la Cinquième République."
+      },
+      {
+        "id": 9,
+        "question": "Quelle actrice française a débuté sa carrière dans « Les Parapluies de Cherbourg » ?",
+        "propositions": [
+          "Jeanne Moreau",
+          "Isabelle Adjani",
+          "Catherine Deneuve",
+          "Simone Signoret"
+        ],
+        "réponse": "Catherine Deneuve",
+        "anecdote": "Catherine Deneuve a reçu un César pour son interprétation dans « Le Dernier métro »."
+      },
+      {
+        "id": 10,
+        "question": "Quel homme de télévision et de radio reste célèbre pour ses « Grosses têtes » ?",
+        "propositions": [
+          "Philippe Bouvard",
+          "Laurent Boyer",
+          "Serge July",
+          "Jacques Pradel"
+        ],
+        "réponse": "Philippe Bouvard",
+        "anecdote": "Philippe Bouvard a également été attaché de presse pour les disques Barclay et a animé « Le Petit théâtre de Bouvard »."
+      }
+    ],
+    "confirmé": [
+      {
+        "id": 11,
+        "question": "De qui peut-on dire que sa théorie fut une révolution, sans en avoir l'air ?",
+        "propositions": [
+          "James Hector",
+          "Charles Darwin",
+          "Alexander Whyte",
+          "Hugh Low"
+        ],
+        "réponse": "Charles Darwin",
+        "anecdote": "Il créa sa théorie après de multiples études sur les animaux, théorie selon laquelle l'homme descendrait du singe."
+      },
+      {
+        "id": 12,
+        "question": "Quelle ancienne princesse détenait une solide formation de puéricultrice ?",
+        "propositions": [
+          "Sarah Ferguson",
+          "Diana Spencer",
+          "Marie Stuart",
+          "Katharine Worsley"
+        ],
+        "réponse": "Diana Spencer",
+        "anecdote": "Ses démêlés avec les nourrices de ses fils lui firent perdre une partie du crédit dont elle jouissait auprès des Anglais."
+      },
+      {
+        "id": 13,
+        "question": "Quel chef auvergnat regroupa les troupes gauloises contre les Romains ?",
+        "propositions": [
+          "Vercingétorix",
+          "Cavarinos",
+          "Ambiorix",
+          "Julius Florus"
+        ],
+        "réponse": "Vercingétorix",
+        "anecdote": "César le contraignit à jeter les armes à ses pieds avant de le faire étrangler dans sa prison."
+      },
+      {
+        "id": 14,
+        "question": "Quel chef de file de la Nouvelle Vague a réalisé un amour atomique à Hiroshima ?",
+        "propositions": [
+          "Alain Resnais",
+          "André Téchiné",
+          "Bertrand Blier",
+          "Claude Sautet"
+        ],
+        "réponse": "Alain Resnais",
+        "anecdote": "Parmi ses films, on peut noter « Providence », « Mon Oncle d'Amérique » et « Hiroshima mon amour »."
+      },
+      {
+        "id": 15,
+        "question": "Quel scientifique et aventurier a placé son Zodiac sous le signe des poissons ?",
+        "propositions": [
+          "Joseph Kessel",
+          "Alain Bombard",
+          "Haroun Tazieff",
+          "Maurice Herzog"
+        ],
+        "réponse": "Alain Bombard",
+        "anecdote": "Pour prouver le caractère insubmersible de son canot de caoutchouc gonflable, il se fit naufragé volontaire."
+      },
+      {
+        "id": 16,
+        "question": "Quel poète et écrivain français abandonna son dada pour plus de réalisme ?",
+        "propositions": [
+          "René Daumal",
+          "André Breton",
+          "Philippe Soupault",
+          "Louis Aragon"
+        ],
+        "réponse": "Louis Aragon",
+        "anecdote": "D'abord membre du mouvement Dada, Louis Aragon fonda avec quelques amis le mouvement Surréaliste."
+      },
+      {
+        "id": 17,
+        "question": "Quel militaire français dirigea la France puis fut jugé en nazi ?",
+        "propositions": [
+          "Robert Nivelle",
+          "Joseph Joffre",
+          "Ferdinand Foch",
+          "Philippe Pétain"
+        ],
+        "réponse": "Philippe Pétain",
+        "anecdote": "Philippe Pétain, mort le 23 juillet 1951 à Port-Joinville, remporta de grands batailles lors de la guerre de 14."
+      },
+      {
+        "id": 18,
+        "question": "Quel animateur français fut remercié pour s'être moqué du président de sa chaîne ?",
+        "propositions": [
+          "Michel Polac",
+          "Jean-Luc Delarue",
+          "Jean-Marie Cavada",
+          "Benjamin Castaldi"
+        ],
+        "réponse": "Michel Polac",
+        "anecdote": "Au début de « Droit de Réponse » figurait une revue de presse humoristique qui s'intitulait « Rebuts de Presse »."
+      },
+      {
+        "id": 19,
+        "question": "Quel écrivain fut le protégé de Frédéric Ier de Prusse avec qui il se brouilla ultérieurement ?",
+        "propositions": [
+          "Lavoisier",
+          "Voltaire",
+          "Diderot",
+          "Condorcet"
+        ],
+        "réponse": "Voltaire",
+        "anecdote": "Voltaire occupe une place particulière dans la mémoire collective française et internationale."
+      },
+      {
+        "id": 20,
+        "question": "Quel homme politique soviétique fut surnommé « le petit père des peuples » ?",
+        "propositions": [
+          "Staline",
+          "Sokolov",
+          "Trotski",
+          "Brejnev"
+        ],
+        "réponse": "Staline",
+        "anecdote": "Il prit le pseudonyme de Staline en référence au mot « Stal » qui signifie acier en russe."
+      }
+    ],
+    "expert": [
+      {
+        "id": 21,
+        "question": "Quel ingénieur et industriel français installa ses usines d'automobiles au quai de Javel ?",
+        "propositions": [
+          "Pierre Peugeot",
+          "Marcel Renault",
+          "Maurice Audibert",
+          "André Citroën"
+        ],
+        "réponse": "André Citroën",
+        "anecdote": "André Citroën mit au point, en 1934, la Traction avant qui surclassait nettement ses concurrentes."
+      },
+      {
+        "id": 22,
+        "question": "Quel fils d'aubergiste de campagne se fit connaître en Europe par ses opéras ?",
+        "propositions": [
+          "Franz Schubert",
+          "Franz Liszt",
+          "Giuseppe Verdi",
+          "Richard Wagner"
+        ],
+        "réponse": "Giuseppe Verdi",
+        "anecdote": "Ardent patriote, Verdi se fit le champion des idées libérales qui conduisirent à l'indépendance et à l'Unité italiennes."
+      },
+      {
+        "id": 23,
+        "question": "Quel photographe est célèbre pour ses portraits de jeunes filles en groupe ou isolées ?",
+        "propositions": [
+          "David Bailey",
+          "David Slater",
+          "David Hamilton",
+          "David Sims"
+        ],
+        "réponse": "David Hamilton",
+        "anecdote": "La gracile beauté des modèles est souvent renforcée par un flou très romantique."
+      },
+      {
+        "id": 24,
+        "question": "Quel champion de ski alpin remporta trois médailles aux J.O. de 1968 ?",
+        "propositions": [
+          "Jean Vuarnet",
+          "Jean-Claude Killy",
+          "Mathieu Faivre",
+          "Michel Canac"
+        ],
+        "réponse": "Jean-Claude Killy",
+        "anecdote": "Jean-Claude Killy assura d'importantes fonctions pour les Jeux Olympiques d'Albertville de 1992."
+      },
+      {
+        "id": 25,
+        "question": "Quel acteur français voua sa jeunesse au diable par deux fois ?",
+        "propositions": [
+          "Jean Marais",
+          "Gérard Depardieu",
+          "Philippe Noiret",
+          "Gérard Philipe"
+        ],
+        "réponse": "Gérard Philipe",
+        "anecdote": "Gérard Philippe s'illustra entre autres dans « Le Diable au corps » et « La Beauté du diable »."
+      },
+      {
+        "id": 26,
+        "question": "Quel peintre français, ami de Robespierre, se prononça pour la mort de Louis XVI ?",
+        "propositions": [
+          "Maurice Denis",
+          "Jacques-Louis David",
+          "Antoine Barbier",
+          "Narcisse Chaillou"
+        ],
+        "réponse": "Jacques-Louis David",
+        "anecdote": "Sous Napoléon, Jacques-Louis David fut nommé « Premier Peintre du Régime »."
+      },
+      {
+        "id": 27,
+        "question": "Quel homme politique français proclama la République et la déchéance de Napoléon III ?",
+        "propositions": [
+          "Gaston Doumergue",
+          "Léon Gambetta",
+          "Pierre Laval",
+          "Jules Ferry"
+        ],
+        "réponse": "Léon Gambetta",
+        "anecdote": "Léon Gambetta fut l'une des personnalités politiques les plus importantes des premières années de la Troisième République."
+      },
+      {
+        "id": 28,
+        "question": "Quel ingénieur et mécanicien écossais mit au point la première machine à vapeur ?",
+        "propositions": [
+          "Thomas Telford",
+          "William Murdoch",
+          "James Watt",
+          "Henry Bell"
+        ],
+        "réponse": "James Watt",
+        "anecdote": "Son nom est aussi une unité de puissance électrique (un joule par seconde)."
+      },
+      {
+        "id": 29,
+        "question": "Quel chirurgien français est surnommé « le père de la chirurgie moderne » ?",
+        "propositions": [
+          "Paul Rivet",
+          "Edmond Delorme",
+          "Ambroise Paré",
+          "Louis Mencière"
+        ],
+        "réponse": "Ambroise Paré",
+        "anecdote": "Spécialiste des amputations, il est le premier à avoir ligaturé les artères alors que ses prédécesseurs les cautérisaient au feu."
+      },
+      {
+        "id": 30,
+        "question": "Quel acteur inventa dans un de ses films le meurtre par ondes télévisées ?",
+        "propositions": [
+          "Philippe Noiret",
+          "Michel Galabru",
+          "Michel Serrault",
+          "Jean Rochefort"
+        ],
+        "réponse": "Michel Galabru",
+        "anecdote": "C'est dans le film « Kamikaze » que Michel Galabru joue le rôle d'un ingénieur tueur."
+      }
+    ]
+    }
+  }
+}

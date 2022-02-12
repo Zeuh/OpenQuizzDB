@@ -1,0 +1,280 @@
+---
+fournisseur: OpenQuizzDB - Fournisseur de contenu libre (https://www.openquizzdb.org)
+rédacteur: Philippe Bresoux
+thème: Plates et pétillantes (En suivant le fleuve, on parvient à la mer)
+difficulté: 2 / 5
+quizz:
+  fr:
+  - débutant:
+    - id: 1
+      question: À quelle particularité le poisson-clown, comme le célèbre Nemo, doit-il son nom ?
+      propositions:
+      - Ses couleurs vives
+      - Ses cabrioles
+      - Ses grimaces
+      - Son nez rouge
+      réponse: Ses couleurs vives
+      anecdote: Les poissons-clowns sont connus pour la relation mutualiste qu'ils forment avec dix espèces d'anémones de mer.
+    - id: 2
+      question: Comment se prénomme la petite sirène de Disney dans le film du même nom ?
+      propositions:
+      - Ariel
+      - Yasmine
+      - Aurore
+      - Mulan
+      réponse: Ariel
+      anecdote: Sorti en 1989, le long-métrage de Disney s'inspire du conte du même nom écrit par Hans Christian Andersen et publié en 1836.
+    - id: 3
+      question: À quelle classe d'animaux les dauphins blancs ou gris appartiennent-ils ?
+      propositions:
+      - Les mammifères
+      - Les poissons
+      - Les reptiles
+      - Les amphibiens
+      réponse: Les mammifères
+      anecdote: « Dauphin » est un nom ambigu désignant certains mammifères marins et fluviaux appartenant à l'ordre des Cétacés.
+    - id: 4
+      question: Quel mets fin est composé d'oeufs d'esturgeon noirs non fécondés ?
+      propositions:
+      - La coque
+      - Le frai
+      - Le surimi
+      - Le caviar
+      réponse: Le caviar
+      anecdote: Le caractère du caviar ne provient pas de son origine mais de l'espèce d'esturgeon qui produit les oeufs, au nombre de vingt-sept.
+    - id: 5
+      question: Quelle partie du corps des poissons leur permettent de respirer ?
+      propositions:
+      - Écailles
+      - Branchies
+      - Nez
+      - Poumons
+      réponse: Branchies
+      anecdote: Outre leur rôle dans la respiration, les branchies servent à piéger de la nourriture notamment chez les microphages filtreurs.
+    - id: 6
+      question: Que forment un grand nombre de poissons qui nagent ensemble ?
+      propositions:
+      - Un banc
+      - Une armée
+      - Un groupe
+      - Une troupe
+      réponse: Un banc
+      anecdote: À la différence d'autres structures sociales, comme le harem ou la société, il n'existe aucune hiérarchie dans un banc.
+    - id: 7
+      question: Laquelle de ces eaux ne trouve-t-on que très peu dans la nature ?
+      propositions:
+      - Eau saumâtre
+      - Eau douce
+      - Eau gazeuse
+      - Eau salée
+      réponse: Eau gazeuse
+      anecdote: Au XXe siècle, l'eau gazeuse était utilisée pour arrêter les vomissements et aider le fonctionnement des sucs gastriques.
+    - id: 8
+      question: Quel bateau peut naviguer une semaine sous l'eau sans remonter à la surface ?
+      propositions:
+      - Un sous-marin
+      - Un torpilleur
+      - Un croiseur
+      - Un submersible
+      réponse: Un sous-marin
+      anecdote: L'usage civil du sous-marin concerne, pour l'essentiel, la recherche océanographique et l'exploitation pétrolière.
+    - id: 9
+      question: Dans quel film de Simon Wincer une orque est-elle libérée d'un parc d'attraction ?
+      propositions:
+      - Le Monde de Nemo
+      - Jaws
+      - Flipper
+      - Sauvez Willy
+      réponse: Sauvez Willy
+      anecdote: L'orque Keiko, vedette du film, est décédée à l'âge de 27 ans des suites d'une pneumonie dans le fjord norvégien d'Arasvik.
+    - id: 10
+      question: Quel paquebot de luxe heurta un iceberg lors de son premier voyage en 1912 ?
+      propositions:
+      - L'Olympic
+      - Le Brittanic
+      - L'Atlantic
+      - Le Titanic
+      réponse: Le Titanic
+      anecdote: Le Titanic a été conçu par les architectes Alexander Montgomery Carlisle et Thomas Andrews des chantiers navals Harland et Wolff.
+  - confirmé:
+    - id: 11
+      question: Pour quelle raison les grenouilles et les crapauds se mettent-ils parfois à coasser ?
+      propositions:
+      - Pour parader
+      - Pour digérer
+      - Pour rigoler
+      - Pour effrayer
+      réponse: Pour parader
+      anecdote: La branche de la zoologie qui étudie les batraciens et les reptiles s'appelle l'herpétologie, et plus précisément la batrachologie.
+    - id: 12
+      question: Comment se prénomme le poisson rouge de Pinocchio dans le film de 1940 ?
+      propositions:
+      - Yapi
+      - Cléo
+      - Montro
+      - Figaro
+      réponse: Cléo
+      anecdote: Le personnage de Cléo, le poisson rouge animé par Don Lusk, n'est présent que pour ajouter une dimension comique au film.
+    - id: 13
+      question: Dans quel océan retrouve-t-on environ 60 % de tous les récifs de corail ?
+      propositions:
+      - Arctique
+      - Pacifique
+      - Atlantique
+      - Indien
+      réponse: Indien
+      anecdote: Depuis quelques décennies, les populations de corail se dégradent, souvent en raison du changement climatique et de la pollution.
+    - id: 14
+      question: Que font les tortues marines pour se protéger les yeux des grains de sable ?
+      propositions:
+      - Elles dorment
+      - Elles crient
+      - Elles nagent
+      - Elles pleurent
+      réponse: Elles pleurent
+      anecdote: La tortue luth est la plus grande des tortues marines, mesurant 2 m de long, de 1 m à 1.5 m de large et pesant 600 kg.
+    - id: 15
+      question: Lequel de ces poissons ne peut survivre dans les rivières ?
+      propositions:
+      - La perche
+      - Le brochet
+      - Le hareng
+      - La carope
+      réponse: Le hareng
+      anecdote: Le hareng se déplace exclusivement en grands bancs dans les eaux froides, à la fois fortement salées et oxygénées.
+    - id: 16
+      question: Que pouvez-vous principalement fabriquer en récoltant du corail rouge ?
+      propositions:
+      - Des peintures
+      - Des bijoux
+      - Des médicaments
+      - Des armes
+      réponse: Des bijoux
+      anecdote: Le corail rouge, bien que signalé en Atlantique Nord-Est, est considéré comme une espèce endémique de Méditerranée.
+    - id: 17
+      question: Quel élément rend la Mer du Nord beaucoup moins bleue que la Mer Méditerranée ?
+      propositions:
+      - Sel
+      - Boue
+      - Algues
+      - Sable
+      réponse: Boue
+      anecdote: La mer du Nord et son littoral forment un milieu naturel très riche mais menacé par la pollution marine et l'industrie pétrolière.
+    - id: 18
+      question: Combien de coeurs une pieuvre normalement constituée possède-t-elle ?
+      propositions:
+      - Deux
+      - Cinq
+      - Quatre
+      - Trois
+      réponse: Trois
+      anecdote: La pieuvre possède un coeur pour envoyer le sang dans le corps et deux coeurs pour pomper le sang par les branchies.
+    - id: 19
+      question: Lequel de ces animaux ne fait pas partie de la catégorie des mollusques ?
+      propositions:
+      - Pieuvre
+      - Anguille
+      - Moule
+      - Escargot
+      réponse: Anguille
+      anecdote: Les anguilles étaient réputées particulièrement rustiques et résistantes, grâce notamment à leur capacité à respirer l'air.
+    - id: 20
+      question: Comment appelle-t-on les deux parties de la coquille de la moule et de l'huître ?
+      propositions:
+      - Les coques
+      - Les valves
+      - Les charnières
+      - Les écorces
+      réponse: Les valves
+      anecdote: La coquille des Bivalves est composée de deux valves comprimées latéralement : une valve gauche et une valve droite.
+  - expert:
+    - id: 21
+      question: Quel canal d'Amérique centrale relie l'Océan Atlantique à l'Océan Pacifique ?
+      propositions:
+      - Canal d'Amérique
+      - Canal de Panama
+      - Canal de Suez
+      - Grand Canal
+      réponse: Canal de Panama
+      anecdote: Depuis son ouverture, le canal a remporté un énorme succès et continue d'être un point de passage stratégique pour la navigation.
+    - id: 22
+      question: En quelle année le sous-marin Koursk a-t-il coulé avec à bord 118 membres d'équipage ?
+      propositions:
+      - 1990
+      - 1995
+      - 2000
+      - 2005
+      réponse: 2000
+      anecdote: Deux explosions ont fait sombrer le Koursk le 12 août 2000 à approximativement 135 km de la ville de Severomorsk.
+    - id: 23
+      question: Dans la mythologie romaine, qui est le dieu des Eaux vives et des Sources ?
+      propositions:
+      - Neptune
+      - Ulysse
+      - Zeus
+      - Apollon
+      réponse: Neptune
+      anecdote: Les légendes et mythes au sujet de Neptune proviennent de la réappropriation par les Romains des mythes grecs.
+    - id: 24
+      question: À quelle classe d'animaux le féroce crocodile appartient-il ?
+      propositions:
+      - Les reptiles
+      - Les amphibiens
+      - Les poissons
+      - Les mammifères
+      réponse: Les reptiles
+      anecdote: En Égypte antique, le crocodile était l'un des douze animaux sacrés associés aux douze heures du jour et de la nuit.
+    - id: 25
+      question: Quel poisson a pour habitude de se gonfler à l'approche du danger ?
+      propositions:
+      - L'anguille
+      - Le cyclostome
+      - Le diodon
+      - Le spotanus
+      réponse: Le diodon
+      anecdote: Les espèces du genre Diodon sont souvent appelées « poissons-hérissons », « poissons porc-épic » ou « hérissons des mers ».
+    - id: 26
+      question: Quel nom porte le plus grand coquillage bivalve au monde ?
+      propositions:
+      - La palourde
+      - La praire
+      - La mactre
+      - Le bénitier
+      réponse: Le bénitier
+      anecdote: Ils sont capables de vivre extrêmement vieux, même si la surpêche a fait disparaître une grande partie des plus beaux spécimens.
+    - id: 27
+      question: Quel poisson a la particularité de posséder des arêtes vertes ?
+      propositions:
+      - Merlan
+      - Gavial
+      - Diodon
+      - Orphie
+      réponse: Orphie
+      anecdote: L'orphie est un poisson facile à pêcher pour des novices car elle mord aussi bien à l'appât naturel qu'au leurre.
+    - id: 28
+      question: De quelle couleur devient le ventre de l'épinoche quand il recherche une femelle ?
+      propositions:
+      - Rouge
+      - Verte
+      - Bleue
+      - Jaune
+      réponse: Rouge
+      anecdote: Lors du frai, de mars à juillet, le mâle de Gasterosteus aculeatus se pare de couleurs vives (dos vert et ventre rouge).
+    - id: 29
+      question: Quel nom a-t-on donné à la plus célèbre des perles noires ?
+      propositions:
+      - Azra
+      - Yasmine
+      - Royal Pearl
+      - Neptunus
+      réponse: Azra
+      anecdote: La perle constitue le centre d'un collier qui faisait partie des joyaux de la couronne de l'ancienne Russie tsariste.
+    - id: 30
+      question: Quel poisson est parfois appelé « le requin d'eau douce » ?
+      propositions:
+      - Le brochet
+      - La carpe
+      - La truite
+      - La perche
+      réponse: Le brochet
+      anecdote: Le terme brochet dérive du terme « broche », à cause de la forme pointue du museau de ces poissons carnivores.

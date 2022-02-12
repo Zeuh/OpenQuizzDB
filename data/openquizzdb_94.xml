@@ -1,0 +1,345 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes" ?>
+<quizz fournisseur="OpenQuizzDB : Fournisseur de contenu libre"
+       url="https://www.openquizzdb.org"
+       rédacteur="Philippe Bresoux"
+       thème="Chambord (Plongez au sein du domaine)"
+       difficulté="3 / 5">
+  <fr>
+  <débutant>
+    <contenu id="1">
+      <question>Dans quel département peut-on visiter le superbe château de Chambord ?</question>
+      <propositions>
+        <proposition id="1-1">Aveyron</proposition>
+        <proposition id="1-2">Loir-et-Cher</proposition>
+        <proposition id="1-3">Haute-Garonne</proposition>
+        <proposition id="1-4">Drôme</proposition>
+      </propositions>
+      <réponse proposition="1-2">Loir-et-Cher</réponse>
+      <anecdote>Le Loir-et-Cher, dont la préfecture est Blois, est un département relativement plat avec un point culminant de 256 mètres.</anecdote>
+    </contenu>
+    <contenu id="2">
+      <question>Quelle est la longueur du mur entourant le parc forestier clos du château de Chambord ?</question>
+      <propositions>
+        <proposition id="2-1">9 km</proposition>
+        <proposition id="2-2">32 km</proposition>
+        <proposition id="2-3">16 km</proposition>
+        <proposition id="2-4">27 km</proposition>
+      </propositions>
+      <réponse proposition="2-2">32 km</réponse>
+      <anecdote>Le château de Chambord a été construit au coeur du plus grand parc forestier clos d'Europe (environ 50 km carrés).</anecdote>
+    </contenu>
+    <contenu id="3">
+      <question>En quoi le château de Chambord fut-il transformé durant la guerre franco-prussienne ?</question>
+      <propositions>
+        <proposition id="3-1">Musée</proposition>
+        <proposition id="3-2">Prison</proposition>
+        <proposition id="3-3">Hôpital</proposition>
+        <proposition id="3-4">Caserne</proposition>
+      </propositions>
+      <réponse proposition="3-3">Hôpital</réponse>
+      <anecdote>La guerre franco-allemande opposa de juillet 1870 à janvier 1871 la France et les États allemands coalisés sous l'égide de la Prusse.</anecdote>
+    </contenu>
+    <contenu id="4">
+      <question>Quel unique bâtiment était prévu à l'origine de la construction du château de Chambord ?</question>
+      <propositions>
+        <proposition id="4-1">Basilique</proposition>
+        <proposition id="4-2">Tour ronde</proposition>
+        <proposition id="4-3">Aile ouest</proposition>
+        <proposition id="4-4">Donjon carré</proposition>
+      </propositions>
+      <réponse proposition="4-4">Donjon carré</réponse>
+      <anecdote>Le plan centré du château repose sur un corps central parfaitement carré en croix grecque, comme celui de plusieurs églises italiennes.</anecdote>
+    </contenu>
+    <contenu id="5">
+      <question>Par quel style architectural le château de Chambord a-t-il été nettement inspiré ?</question>
+      <propositions>
+        <proposition id="5-1">Byzantine</proposition>
+        <proposition id="5-2">Baroque</proposition>
+        <proposition id="5-3">Ottomane</proposition>
+        <proposition id="5-4">Gothique</proposition>
+      </propositions>
+      <réponse proposition="5-4">Gothique</réponse>
+      <anecdote>Les techniques et l'esthétique gothique se perpétuent dans l'architecture française au-delà du XVIe siècle.</anecdote>
+    </contenu>
+    <contenu id="6">
+      <question>Comment appelle-t-on également l'escalier à double révolution du château de Chambord ?</question>
+      <propositions>
+        <proposition id="6-1">Double tour</proposition>
+        <proposition id="6-2">Double noeud</proposition>
+        <proposition id="6-3">Double vis</proposition>
+        <proposition id="6-4">Double face</proposition>
+      </propositions>
+      <réponse proposition="6-3">Double vis</réponse>
+      <anecdote>Il est probable que l'escalier à double révolution soit de Léonard de Vinci, ou en tout cas inspiré de ses croquis.</anecdote>
+    </contenu>
+    <contenu id="7">
+      <question>Dans quel but fut mis en place l'enclos boisé entourant le château de Chambord ?</question>
+      <propositions>
+        <proposition id="7-1">Équitation</proposition>
+        <proposition id="7-2">Chasse</proposition>
+        <proposition id="7-3">Méditation</proposition>
+        <proposition id="7-4">Combat</proposition>
+      </propositions>
+      <réponse proposition="7-2">Chasse</réponse>
+      <anecdote>Le parc de Chambord est totalement original de par ses dimensions inhabituelles et par la position centrale du château.</anecdote>
+    </contenu>
+    <contenu id="8">
+      <question>En plus du sanglier, quelle autre espèce est emblématique de la forêt de Chambord ?</question>
+      <propositions>
+        <proposition id="8-1">Le lémurien</proposition>
+        <proposition id="8-2">Le cerf</proposition>
+        <proposition id="8-3">Le lapin</proposition>
+        <proposition id="8-4">L'autruche</proposition>
+      </propositions>
+      <réponse proposition="8-2">Le cerf</réponse>
+      <anecdote>On y trouve également des mouflons méditerranéens introduits dans l'enclos à partir de populations issus de Corse.</anecdote>
+    </contenu>
+    <contenu id="9">
+      <question>En quelle année le prince Charles et Lady Diana ont-ils visité le château de Chambord ?</question>
+      <propositions>
+        <proposition id="9-1">1998</proposition>
+        <proposition id="9-2">1988</proposition>
+        <proposition id="9-3">1978</proposition>
+        <proposition id="9-4">1968</proposition>
+      </propositions>
+      <réponse proposition="9-2">1988</réponse>
+      <anecdote>Le prince Charles et son épouse Lady Diana ont visité le château le 9 novembre 1988 dans le cadre d'une visite officielle.</anecdote>
+    </contenu>
+    <contenu id="10">
+      <question>Les tours du corps central du château de Chambord indiquent avec précision les quatre...</question>
+      <propositions>
+        <proposition id="10-1">Vallées</proposition>
+        <proposition id="10-2">Éléments</proposition>
+        <proposition id="10-3">Points cardinaux</proposition>
+        <proposition id="10-4">Saisons</proposition>
+      </propositions>
+      <réponse proposition="10-3">Points cardinaux</réponse>
+      <anecdote>L'origine du château actuel remonte au XVIe siècle et au règne du roi de France François Ier qui supervisa son édification.</anecdote>
+    </contenu>
+  </débutant>
+  <confirmé>
+    <contenu id="11">
+      <question>Laquelle de ces oeuvres a été entreposée quelques mois au château de Chambord ?</question>
+      <propositions>
+        <proposition id="11-1">Guernica</proposition>
+        <proposition id="11-2">La Laitière</proposition>
+        <proposition id="11-3">Le Cri</proposition>
+        <proposition id="11-4">La Joconde</proposition>
+      </propositions>
+      <réponse proposition="11-4">La Joconde</réponse>
+      <anecdote>À la Seconde Guerre mondiale, le château est devenu un centre de triage des trésors des musées nationaux de Paris.</anecdote>
+    </contenu>
+    <contenu id="12">
+      <question>Comment était surnommé François Ier, qui ordonna l'édification du château de Chambord ?</question>
+      <propositions>
+        <proposition id="12-1">Duc du siècle</proposition>
+        <proposition id="12-2">Roi Soleil</proposition>
+        <proposition id="12-3">Comte de Bord</proposition>
+        <proposition id="12-4">Prince architecte</proposition>
+      </propositions>
+      <réponse proposition="12-4">Prince architecte</réponse>
+      <anecdote>François Ier, sacré roi de France en 1515, est considéré comme le roi emblématique de la période de la Renaissance française.</anecdote>
+    </contenu>
+    <contenu id="13">
+      <question>Dans quelle région naturelle forestière française se situe le château de Chambord ?</question>
+      <propositions>
+        <proposition id="13-1">Sologne</proposition>
+        <proposition id="13-2">Drouais</proposition>
+        <proposition id="13-3">Cévennes</proposition>
+        <proposition id="13-4">Beauce</proposition>
+      </propositions>
+      <réponse proposition="13-1">Sologne</réponse>
+      <anecdote>La Sologne a presque toujours conservé un caractère sauvage et humide voire précaire avec un sol humide l'hiver et sec l'été.</anecdote>
+    </contenu>
+    <contenu id="14">
+      <question>Quelle route départementale traverse le domaine du château de Chambord ?</question>
+      <propositions>
+        <proposition id="14-1">Route 46</proposition>
+        <proposition id="14-2">Route 25</proposition>
+        <proposition id="14-3">Route 58</proposition>
+        <proposition id="14-4">Route 33</proposition>
+      </propositions>
+      <réponse proposition="14-4">Route 33</réponse>
+      <anecdote>La route départementale 33, ou RD 33, dans le département de la Mayenne, reprend l'ancienne RN 806, déclassée en 1972.</anecdote>
+    </contenu>
+    <contenu id="15">
+      <question>Combien d'ouvriers auraient travaillé à la construction du château de Chambord ?</question>
+      <propositions>
+        <proposition id="15-1">1 200</proposition>
+        <proposition id="15-2">800</proposition>
+        <proposition id="15-3">1 800</proposition>
+        <proposition id="15-4">2 400</proposition>
+      </propositions>
+      <réponse proposition="15-3">1 800</réponse>
+      <anecdote>Plusieurs maîtres-maçons se sont simultanément succédés, dont Jacques Sourdeau, Pierre Nepveu et Denis Sourdeau.</anecdote>
+    </contenu>
+    <contenu id="16">
+      <question>Quel roi faudra-t-il attendre pour l'achèvement du projet de François Ier à Chambord ?</question>
+      <propositions>
+        <proposition id="16-1">Charles IX</proposition>
+        <proposition id="16-2">Philippe VI</proposition>
+        <proposition id="16-3">Louis XIV</proposition>
+        <proposition id="16-4">Henri IV</proposition>
+      </propositions>
+      <réponse proposition="16-3">Louis XIV</réponse>
+      <anecdote>Né Louis, surnommé « Dieudonné », Louis XIV est monté sur le trône de France au décès de son père Louis XIII, le 14 mai 1643.</anecdote>
+    </contenu>
+    <contenu id="17">
+      <question>Quel roi de France a résidé à Chambord en présence de Madame de Maintenon en 1685 ?</question>
+      <propositions>
+        <proposition id="17-1">Louis XV</proposition>
+        <proposition id="17-2">Louis XIII</proposition>
+        <proposition id="17-3">Louis XVI</proposition>
+        <proposition id="17-4">Louis XIV</proposition>
+      </propositions>
+      <réponse proposition="17-4">Louis XIV</réponse>
+      <anecdote>On prête à Madame de Maintenon une grande influence sur le roi et sur la Cour, comme par exemple pour la révocation.</anecdote>
+    </contenu>
+    <contenu id="18">
+      <question>En quelle année le domaine de Chambord fut-il classé au patrimoine mondial de l'UNESCO ?</question>
+      <propositions>
+        <proposition id="18-1">1981</proposition>
+        <proposition id="18-2">1977</proposition>
+        <proposition id="18-3">1994</proposition>
+        <proposition id="18-4">1968</proposition>
+      </propositions>
+      <réponse proposition="18-1">1981</réponse>
+      <anecdote>Le but du programme est de cataloguer, nommer, et conserver les biens dits culturels ou naturels d'importance.</anecdote>
+    </contenu>
+    <contenu id="19">
+      <question>Sur quel type de sol peu conventionnel le château de Chambord a-t-il été construit ?</question>
+      <propositions>
+        <proposition id="19-1">Sableux</proposition>
+        <proposition id="19-2">Marécages</proposition>
+        <proposition id="19-3">Gravillons</proposition>
+        <proposition id="19-4">Roches</proposition>
+      </propositions>
+      <réponse proposition="19-2">Marécages</réponse>
+      <anecdote>Construit sur des marécages, la vie au château était rude et beaucoup d'ouvriers moururent de la fièvre pendant la construction.</anecdote>
+    </contenu>
+    <contenu id="20">
+      <question>Dans quel film de Jacques Demy peut-on voir le château de Chambord ?</question>
+      <propositions>
+        <proposition id="20-1">Peau d'âne</proposition>
+        <proposition id="20-2">Lola</proposition>
+        <proposition id="20-3">Lady Oscar</proposition>
+        <proposition id="20-4">Parking</proposition>
+      </propositions>
+      <réponse proposition="20-1">Peau d'âne</réponse>
+      <anecdote>Producteur et acteur, proche de la Nouvelle Vague, Jacques Demy est surtout connu pour ses films musicaux.</anecdote>
+    </contenu>
+  </confirmé>
+  <expert>
+    <contenu id="21">
+      <question>Combien de pièces dénombre-t-on au total dans le château de Chambord ?</question>
+      <propositions>
+        <proposition id="21-1">372</proposition>
+        <proposition id="21-2">282</proposition>
+        <proposition id="21-3">198</proposition>
+        <proposition id="21-4">426</proposition>
+      </propositions>
+      <réponse proposition="21-4">426</réponse>
+      <anecdote>Le château de Chambord compte également 77 escaliers, 282 cheminées et 800 chapiteaux sculptés.</anecdote>
+    </contenu>
+    <contenu id="22">
+      <question>À quel étage du château de Chambord se situe le musée de la chasse et de la nature ?</question>
+      <propositions>
+        <proposition id="22-1">Troisième</proposition>
+        <proposition id="22-2">Cinquième</proposition>
+        <proposition id="22-3">Deuxième</proposition>
+        <proposition id="22-4">Quatrième</proposition>
+      </propositions>
+      <réponse proposition="22-3">Deuxième</réponse>
+      <anecdote>La Fondation y présente une partie de ses collections de tableaux, de tapisseries et d'art contemporain.</anecdote>
+    </contenu>
+    <contenu id="23">
+      <question>Combien de tonnes de pierres fallut-il pour finaliser le chantier de Chambord ?</question>
+      <propositions>
+        <proposition id="23-1">307 000</proposition>
+        <proposition id="23-2">187 000</proposition>
+        <proposition id="23-3">98 000</proposition>
+        <proposition id="23-4">220 000</proposition>
+      </propositions>
+      <réponse proposition="23-4">220 000</réponse>
+      <anecdote>À défaut de pouvoir dévier le cours de la Loire, on se résoudra finalement à détourner le Cosson.</anecdote>
+    </contenu>
+    <contenu id="24">
+      <question>Mort en 1547, combien de nuit François Ier a-t-il finalement passé à Chambord ?</question>
+      <propositions>
+        <proposition id="24-1">72</proposition>
+        <proposition id="24-2">Aucune</proposition>
+        <proposition id="24-3">243</proposition>
+        <proposition id="24-4">500</proposition>
+      </propositions>
+      <réponse proposition="24-1">72</réponse>
+      <anecdote>Il avait pris l'habitude de disparaître en forêt pour y chasser en compagnie d'un petit groupe d'intimes.</anecdote>
+    </contenu>
+    <contenu id="25">
+      <question>Combien de niveaux habitables dénombre-t-on dans le donjon du château de Chambord ?</question>
+      <propositions>
+        <proposition id="25-1">Quatre</proposition>
+        <proposition id="25-2">Cinq</proposition>
+        <proposition id="25-3">Six</proposition>
+        <proposition id="25-4">Trois</proposition>
+      </propositions>
+      <réponse proposition="25-2">Cinq</réponse>
+      <anecdote>À l'intérieur du donjon, il y a quatre appartements carrés et quatre appartements dans les tours rondes par niveau.</anecdote>
+    </contenu>
+    <contenu id="26">
+      <question>Sur les 5 440 hectares du parc de Chambord, combien sont ouverts au public ?</question>
+      <propositions>
+        <proposition id="26-1">2 000</proposition>
+        <proposition id="26-2">3 000</proposition>
+        <proposition id="26-3">4 000</proposition>
+        <proposition id="26-4">1 000</proposition>
+      </propositions>
+      <réponse proposition="26-4">1 000</réponse>
+      <anecdote>Cette immensité de plus de 5 440 hectares en fait aujourd'hui le plus grand parc forestier clos d'Europe.</anecdote>
+    </contenu>
+    <contenu id="27">
+      <question>Depuis quand François Ier a-t-il supervisé l'édification du château de Chambord ?</question>
+      <propositions>
+        <proposition id="27-1">1630</proposition>
+        <proposition id="27-2">1727</proposition>
+        <proposition id="27-3">1519</proposition>
+        <proposition id="27-4">1812</proposition>
+      </propositions>
+      <réponse proposition="27-3">1519</réponse>
+      <anecdote>Chambord reste un château Renaissance très ancré dans l'héritage de l'architecture médiévale française.</anecdote>
+    </contenu>
+    <contenu id="28">
+      <question>Combien de documents mentionnent les premiers architectes du château de Chambord ?</question>
+      <propositions>
+        <proposition id="28-1">Aucun</proposition>
+        <proposition id="28-2">Trois</proposition>
+        <proposition id="28-3">Deux</proposition>
+        <proposition id="28-4">Un seul</proposition>
+      </propositions>
+      <réponse proposition="28-1">Aucun</réponse>
+      <anecdote>Ceci est vrai, à l'exception toutefois de François Ier qui fut personnellement impliqué dans la conception du bâtiment.</anecdote>
+    </contenu>
+    <contenu id="29">
+      <question>Quelle pierre blanche et friable a été utilisée pour la construction du château de Chambord ?</question>
+      <propositions>
+        <proposition id="29-1">Moellon</proposition>
+        <proposition id="29-2">Travertin</proposition>
+        <proposition id="29-3">Schiste</proposition>
+        <proposition id="29-4">Yuffeau</proposition>
+      </propositions>
+      <réponse proposition="29-4">Yuffeau</réponse>
+      <anecdote>Cette pierre de taille tendre permet de bâtir et de réaliser les décors typiques de l'architecture de la Renaissance.</anecdote>
+    </contenu>
+    <contenu id="30">
+      <question>Combien de scouts on fêté en 2007 à Chambord les cent ans de la création du scoutisme ?</question>
+      <propositions>
+        <proposition id="30-1">11 400</proposition>
+        <proposition id="30-2">17 300</proposition>
+        <proposition id="30-3">15 200</proposition>
+        <proposition id="30-4">13 800</proposition>
+      </propositions>
+      <réponse proposition="30-2">17 300</réponse>
+      <anecdote>Le scoutisme est un mouvement de jeunesse mondial créé par Lord Robert Baden-Powell en 1907, à Brownsea.</anecdote>
+    </contenu>
+  </expert>
+  </fr>
+</quizz>

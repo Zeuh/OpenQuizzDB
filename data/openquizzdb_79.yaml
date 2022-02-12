@@ -1,0 +1,1650 @@
+---
+fournisseur: OpenQuizzDB - Fournisseur de contenu libre (https://www.openquizzdb.org)
+rédacteur: Philippe Bresoux
+thème: Culture générale (Tout sur tout)
+difficulté: 3 / 5
+quizz:
+  fr:
+  - débutant:
+    - id: 1
+      question: Quel film à succès a réuni sur les écrans Sean Connery et Christophe Lambert ?
+      propositions:
+      - Greystoke
+      - Highlander
+      - Subway
+      - Mad Max
+      réponse: Highlander
+      anecdote: « A Kind of Magic » est un album du groupe Queen, sorti en juin 1986, dont six de ses neuf morceaux sont utilisés dans le film « Highlander ».
+    - id: 2
+      question: Quel pays, dont les premiers habitants étaient des Newars, a pour capitale Katmandou ?
+      propositions:
+      - Corée du Nord
+      - Tibet
+      - Népal
+      - Pakistan
+      réponse: Népal
+      anecdote: Katmandou est la capitale politique et religieuse du Népal ainsi que la plus grande ville du pays.
+    - id: 3
+      question: Dans quel film John Travolta incarne-t-il un ange tombé du ciel ?
+      propositions:
+      - Michael
+      - Johnny
+      - Jerry
+      - Sam
+      réponse: Michael
+      anecdote: Dans le film « Michael », deux journalistes enquêtent sur un soi-disant vrai ange vivant chez une dame âgée.
+    - id: 4
+      question: Pour quel auteur-compositeur-interprète aux 40 millions de disques Capri est-il fini ?
+      propositions:
+      - Charles Aznavour
+      - Serge Lama
+      - Hervé Vilard
+      - Salvatore Adamo
+      réponse: Hervé Vilard
+      anecdote: Didier Barbelivien, Michel Fugain et Danyel Gérard ont fait partie de la liste des artistes qui ont composé pour Hervé Vilard.
+    - id: 5
+      question: Quel peintre, né en 1844, est également appelé par beaucoup le Douanier ?
+      propositions:
+      - Pablo Picasso
+      - Salvador Dali
+      - Edgar Degas
+      - Henri Rousseau
+      réponse: Henri Rousseau
+      anecdote: Le premier portrait connu réalisé par le peintre Henri Rousseau semble être celui de sa première femme.
+    - id: 6
+      question: Quel personnage imaginaire fut popularisé par le roman de E.R. Burroughs et par le cinéma ?
+      propositions:
+      - Nessie
+      - Tarzan
+      - Le Yéti
+      - King-Kong
+      réponse: Tarzan
+      anecdote: Edgar Rice Burroughs a inspiré bon nombre d'auteurs de science-fiction et de fantastique ainsi que de nombreux réalisateurs.
+    - id: 7
+      question: Quelle est la seule valeur à la roulette à porter la couleur verte ?
+      propositions:
+      - Quarante
+      - Zéro
+      - Treize
+      - Cinquante
+      réponse: Zéro
+      anecdote: À la roulette, lorsque le croupier donne la main, chaque joueur mise sur un numéro qu'il espère être tiré pour remporter la mise.
+    - id: 8
+      question: Quelle est la race du chien de Columbo, l'inspecteur obstiné et perspicace de la télé ?
+      propositions:
+      - Basset
+      - Barbet
+      - Beagle
+      - Bichon
+      réponse: Basset
+      anecdote: Interrompue en 1978, la série télévisée « Columbo » a été ressuscitée en 1989, toujours avec Peter Falk dans le rôle principal.
+    - id: 9
+      question: Quelle est la plus petite unité de mémoire utilisable sur un ordinateur ?
+      propositions:
+      - Giga
+      - Méga
+      - Bit
+      - Byte
+      réponse: Bit
+      anecdote: La mémoire est un composant matériel essentiel de nombreux appareils électroniques, présent dans tous les ordinateurs.
+    - id: 10
+      question: Dans le langage familier, comment appelle-t-on la dent du petit enfant ?
+      propositions:
+      - Bouillotte
+      - Menotte
+      - Quenotte
+      - Marmotte
+      réponse: Quenotte
+      anecdote: Il est particulièrement important de bien se brosser les dents de manière régulière si l'on veut éviter la prolifération de caries dans la bouche.
+  - confirmé:
+    - id: 11
+      question: Où se situe la célèbre base navale américaine de Guantanamo, réputée pour sa sévérité ?
+      propositions:
+      - Mexique
+      - Paraguay
+      - Hawaii
+      - Cuba
+      réponse: Cuba
+      anecdote: La base de Guantanamo, très hautement sécurisée, détient des personnes et des individus qualifiés de combattants hors-la-loi.
+    - id: 12
+      question: Quelle est la spécialité du sportif tunisien Oussama Mellouli ?
+      propositions:
+      - Natation
+      - Marathon
+      - Boxe
+      - Football
+      réponse: Natation
+      anecdote: Oussama Mellouli est le premier champion olympique tunisien du milieu de la natation professionnelle à avoir remporté ce titre.
+    - id: 13
+      question: Quel acteur français a remporté le premier rôle dans le film « Le Guépard » ?
+      propositions:
+      - Jean Gabin
+      - Alain Delon
+      - Jean Reno
+      - Claude Brasseur
+      réponse: Alain Delon
+      anecdote: Le film « Le Guépard », mettant en scène l'acteur Alain Delon, décrit la chute de l'aristocratie italienne, dont la scène du bal donne la clé.
+    - id: 14
+      question: Qui était le compagnon de Paul de Tarse, désigné aussi sous le nom de saint Paul ?
+      propositions:
+      - Saint Matthieu
+      - Saint Marc
+      - Saint Jean
+      - Saint Luc
+      réponse: Saint Luc
+      anecdote: Sans faire partie des Douze, Saint Paul a toutefois marqué le christianisme par son interprétation de l'enseignement de Jésus.
+    - id: 15
+      question: Quel titre de noblesse est immédiatement inférieur à celui de comte ?
+      propositions:
+      - Marquis
+      - Vicomte
+      - Archiduc
+      - Duc
+      réponse: Vicomte
+      anecdote: Vicomte est une distinction héréditaire que beaucoup revendiquent mais à laquelle ne sont attachés aucuns pouvoirs.
+    - id: 16
+      question: Quelle est la capitale de la Nouvelle-Zélande, au sud-ouest de l'océan Pacifique ?
+      propositions:
+      - Sydney
+      - Dublin
+      - Wellington
+      - Auckland
+      réponse: Wellington
+      anecdote: Troisième ville la plus peuplée du pays, Wellington fait statistiquement partie des douze meilleures villes dans laquelle vivre.
+    - id: 17
+      question: Quel film a réuni sur les écrans Isabelle Adjani et Sharon Stone ?
+      propositions:
+      - Diabolique
+      - Les ensorceleuses
+      - Ange et Démon
+      - Les sorcières
+      réponse: Diabolique
+      anecdote: Dans le film « Diabolique », la femme et la maîtresse d'un professeur s'associent pour planifier son assassinat.
+    - id: 18
+      question: Comment est également appelée la Transat Jacques Vabre ?
+      propositions:
+      - Trophée du rhum
+      - Route du café
+      - Vendée Globe
+      - Route du rhum
+      réponse: Route du café
+      anecdote: La Transat Jacques Vabre ou route du café, course transatlantique en double, se déroule tous les deux ans depuis 1993.
+    - id: 19
+      question: Quel oiseau vivant dans l'hémisphère nord nage le plus vite ?
+      propositions:
+      - Bécassine
+      - Pie
+      - Martinet
+      - Pingouin
+      réponse: Pingouin
+      anecdote: Par abus de langage, le pingouin est souvent confondu avec le manchot, de par sa ressemblance avec le Grand Pingouin.
+    - id: 20
+      question: Quelle est la plus grosse des planètes de notre Système solaire ?
+      propositions:
+      - Neptune
+      - Saturne
+      - Uranus
+      - Jupiter
+      réponse: Jupiter
+      anecdote: Jupiter est une planète géante gazeuse, la plus grosse planète du Système solaire.
+  - expert:
+    - id: 21
+      question: Apparu il y a 450 millions d'années, à quelle classe animale le scorpion appartient-il ?
+      propositions:
+      - Arachnides
+      - Reptiles
+      - Insectes
+      - Mammifères
+      réponse: Arachnides
+      anecdote: Les scorpions se distinguent des araignées par un aiguillon venimeux situé au bout de leur abdomen pouvant être mortel pour l'homme.
+    - id: 22
+      question: Quel frère d'une actrice prénommée Mary a réalisé le film « La fièvre du samedi soir » ?
+      propositions:
+      - John Payne
+      - John Badham
+      - John Remezick
+      - John Travolta
+      réponse: John Badham
+      anecdote: « La fièvre du samedi soir », réalisé par John Badham, fut un des principaux vecteurs de diffusion de la musique et de la mode disco.
+    - id: 23
+      question: Au Moyen Âge, comment appelait-on un village fortifié ?
+      propositions:
+      - Bastide
+      - Château fort
+      - Rempart
+      - Tour
+      réponse: Bastide
+      anecdote: De nos jours, les bastides les plus connues sont celles de Monflanquin, Monpazier, Grenade ou bien encore Libourne.
+    - id: 24
+      question: Quelle ville du Kent est célèbre pour sa source miraculeuse ?
+      propositions:
+      - Dartford
+      - Gillingham
+      - Ramsgate
+      - Tunbridge Wells
+      réponse: Tunbridge Wells
+      anecdote: Comme la reine Victoria, de nombreuses personnes célèbres sont venues en cure à Tunbridge Wells profiter de sa source miraculeuse.
+    - id: 25
+      question: Quel apéritif à base de vin est aromatisé avec des plantes amères et toniques ?
+      propositions:
+      - Piccolo
+      - Vermouth
+      - Kokebok
+      - Gentiane
+      réponse: Vermouth
+      anecdote: Dans une classification du plus sec au plus doux, on trouve le vermouth sec, le blanc, le rosé et le rouge.
+    - id: 26
+      question: À quel écrivain, membre de l'Académie française, doit-on le roman intitulé « Le sagouin » ?
+      propositions:
+      - Camus
+      - Mauriac
+      - Giono
+      - Barjavel
+      réponse: Mauriac
+      anecdote: Dans le roman « Le sagouin », écrit en quatre parties, on peut supposer que l'action se passe vers 1920.
+    - id: 27
+      question: Quel président Français trouva la mort dans une situation inhabituelle ?
+      propositions:
+      - Raymond Poincaré
+      - Félix Faure
+      - René Coty
+      - Georges Pompidou
+      réponse: Félix Faure
+      anecdote: Suite à ce décès inopiné, on a souvent dit de Félix Faure qu'il était un président plus célèbre par sa mort que par sa vie.
+    - id: 28
+      question: Comment appelle-t-on le versant de la montagne non situé au soleil ?
+      propositions:
+      - Étant
+      - Ressac
+      - Ubac
+      - Adret
+      réponse: Ubac
+      anecdote: Dans l'hémisphère Nord, l'ubac est généralement la face Nord d'une montagne alors que l'adret en représente la face Sud.
+    - id: 29
+      question: Quel oiseau palmipède a pour particularité de construire un nid flottant ?
+      propositions:
+      - Grève
+      - Grèle
+      - Grèbe
+      - Grène
+      réponse: Grèbe
+      anecdote: La position des pattes, très courtes et très en arrière par rapport au corps, a valu au grèbe le joli nom de pieds au derrière.
+    - id: 30
+      question: Un bédane, qui doit son nom à sa ressemblance avec un bec de canard, est un outil proche du...
+      propositions:
+      - Maillet
+      - Vilebrequin
+      - Rabot
+      - Ciseau à bois
+      réponse: Ciseau à bois
+      anecdote: Le bédane est un outil encore parfois utilisé aujourd'hui pour réaliser des pièces en bois tournées entre pointes.
+  en:
+  - débutant:
+    - id: 1
+      question: What successful film came together on the screens of Sean Connery and Christophe Lambert ?
+      propositions:
+      - Subway
+      - Mad Max
+      - Highlander
+      - Greystoke
+      réponse: Highlander
+      anecdote: « A Kind of Magic » is an album from the group Queen, released in June 1986, six of its nine songs being used in the film « Highlander ».
+    - id: 2
+      question: Which country, whose first inhabitants were Newars, has Kathmandu as its capital ?
+      propositions:
+      - Nepal
+      - North Korea
+      - Pakistan
+      - Tibet
+      réponse: Nepal
+      anecdote: Kathmandu is the political and religious capital of Nepal and the largest city in the country.
+    - id: 3
+      question: In which film does John Travolta embody an angel fallen from the sky ?
+      propositions:
+      - Sam
+      - Johnny
+      - Michael
+      - Jerry
+      réponse: Michael
+      anecdote: In the film « Michael », two journalists investigate a so-called real angel living with an elderly lady.
+    - id: 4
+      question: For which French singer-songwriter with 40 million records sold is Capri finished ?
+      propositions:
+      - Hervé Vilard
+      - Charles Aznavour
+      - Salvatore Adamo
+      - Serge Lama
+      réponse: Hervé Vilard
+      anecdote: Didier Barbelivien, Michel Fugain and Danyel Gérard were part of the list of artists who composed for Hervé Vilard.
+    - id: 5
+      question: Which painter, born in 1844, is also called by many the Customs officer ?
+      propositions:
+      - Pablo Picasso
+      - Edgar Degas
+      - Salvador Dali
+      - Henri Rousseau
+      réponse: Henri Rousseau
+      anecdote: The first known portrait made by the painter Henri Rousseau seems to be that of his first wife.
+    - id: 6
+      question: Which imaginary character was popularized by the novel by E.R. Burroughs and by the cinema ?
+      propositions:
+      - Tarzan
+      - The Yeti
+      - Nessie
+      - King-Kong
+      réponse: Tarzan
+      anecdote: Edgar Rice Burroughs has inspired many science fiction and fantasy writers as well as many filmmakers.
+    - id: 7
+      question: What is the only value for roulette to wear the color green ?
+      propositions:
+      - Forty
+      - Zero
+      - Fifty
+      - Thirteen
+      réponse: Zero
+      anecdote: In roulette, when the dealer takes the hand, each player bets on a number he hopes to be drawn to win the bet.
+    - id: 8
+      question: What is the breed of Columbo's dog, the very obstinate and perceptive inspector of television ?
+      propositions:
+      - Beagle
+      - Bichon
+      - Barbet
+      - Basset
+      réponse: Basset
+      anecdote: Interrupted in 1978, the television series « Columbo » was revived in 1989, still with Peter Falk in the main role.
+    - id: 9
+      question: What is the smallest memory unit usable on a computer ?
+      propositions:
+      - Byte
+      - Bit
+      - Giga
+      - Mega
+      réponse: Bit
+      anecdote: Memory is an essential hardware component of many electronic devices, found in all computers and consoles.
+    - id: 10
+      question: In colloquial parlance, what is the name of a child's tooth ?
+      propositions:
+      - Hot water bottle
+      - Groundhog
+      - Quenotte
+      - Handcuff
+      réponse: Quenotte
+      anecdote: It is particularly important to brush your teeth regularly in order to avoid the proliferation of cavities in the mouth.
+  - confirmé:
+    - id: 11
+      question: Where is the famous American naval base of Guantanamo, renowned for its reliability ?
+      propositions:
+      - Cuba
+      - Mexico
+      - Paraguay
+      - Hawaii
+      réponse: Cuba
+      anecdote: The Guantanamo base, very highly secure, detains persons and individuals qualified as outlaw combatants.
+    - id: 12
+      question: What is the specialty of Tunisian sportsman Oussama Mellouli ?
+      propositions:
+      - Football
+      - Marathon
+      - Swimming
+      - Boxing
+      réponse: Swimming
+      anecdote: Osama Mellouli is the first Tunisian professional swimming champion to win this title.
+    - id: 13
+      question: Which French actor won the first role in the film « Le Guépard » ?
+      propositions:
+      - Jean Reno
+      - Jean Gabin
+      - Alain Delon
+      - Claude Brasseur
+      réponse: Alain Delon
+      anecdote: The film « The Leopard », staging the actor Alain Delon, describes the fall of the Italian aristocracy, of which the stage of the ball gives the key.
+    - id: 14
+      question: Who was the companion of Paul of Tarsus, also known as Saint Paul ?
+      propositions:
+      - Saint Mark
+      - Saint John
+      - Saint Matthew
+      - Saint Luke
+      réponse: Saint Luke
+      anecdote: Without being part of the Twelve, Saint Paul nevertheless marked Christianity by his interpretation of the teaching of Jesus.
+    - id: 15
+      question: What title of nobility is immediately inferior to that of count ?
+      propositions:
+      - Viscount
+      - Archduke
+      - Marquis
+      - Duke
+      réponse: Viscount
+      anecdote: Viscount is a hereditary distinction that many claim but to which no powers are attached.
+    - id: 16
+      question: What is the capital of New Zealand, the country of Oceania southwest of the Pacific Ocean ?
+      propositions:
+      - Wellington
+      - Dublin
+      - Sydney
+      - Auckland
+      réponse: Wellington
+      anecdote: The third most populous city in the country, Wellington is statistically one of the twelve best cities in which to live.
+    - id: 17
+      question: Which film brought together Isabelle Adjani and Sharon Stone screens ?
+      propositions:
+      - Les ensorceleuses
+      - Diabolique
+      - Ange et Démon
+      - Les sorcières
+      réponse: Diabolique
+      anecdote: In the film « Diabolique », a teacher's wife and mistress team up to plan her assassination.
+    - id: 18
+      question: What is the Transat Jacques Vabre also called ?
+      propositions:
+      - Rum Route
+      - Coffee route
+      - Vendée Globe
+      - Rum Trophy
+      réponse: Coffee route
+      anecdote: The Transat Jacques Vabre or coffee route, a transatlantic double race, has been held every two years since 1993.
+    - id: 19
+      question: Which bird living in the northern hemisphere swims the fastest ?
+      propositions:
+      - Martinet
+      - Penguin
+      - Bécassine
+      - Pie
+      réponse: Penguin
+      anecdote: By abuse of language, the penguin is often confused with the penguin, because of its resemblance to the Great Penguin.
+    - id: 20
+      question: What is the largest of the planets in our Solar System ?
+      propositions:
+      - Neptune
+      - Jupiter
+      - Uranus
+      - Saturn
+      réponse: Jupiter
+      anecdote: Jupiter is a giant gas planet, the largest planet in the Solar System.
+  - expert:
+    - id: 21
+      question: Appeared 450 million years ago, to which animal class does the scorpion belong ?
+      propositions:
+      - Insects
+      - Arachnids
+      - Reptiles
+      - Mammals
+      réponse: Arachnids
+      anecdote: Scorpions are distinguished from spiders by a poisonous sting located at the end of their abdomen which can be fatal to humans.
+    - id: 22
+      question: What brother of an actress named Mary made the film « Saturday night fever » ?
+      propositions:
+      - John Badham
+      - John Payne
+      - John Remezick
+      - John Travolta
+      réponse: John Badham
+      anecdote: « Saturday Night Fever », produced by John Badham, was one of the main vectors for the dissemination of music and disco fashion.
+    - id: 23
+      question: In the Middle Ages, what was a fortified village called ?
+      propositions:
+      - Bastide
+      - Tour
+      - Rampart
+      - Fortified castle
+      réponse: Bastide
+      anecdote: Nowadays, the most famous country houses are those of Monflanquin, Monpazier, Grenada or even Libourne.
+    - id: 24
+      question: Which town in Kent is famous for its miraculous spring ?
+      propositions:
+      - Ramsgate
+      - Tunbridge Wells
+      - Dartford
+      - Gillingham
+      réponse: Tunbridge Wells
+      anecdote: Like Queen Victoria, many famous people came to Tunbridge Wells for a cure to take advantage of its miraculous source.
+    - id: 25
+      question: What wine-based appetizer is flavored with bitter and invigorating plants ?
+      propositions:
+      - Vermouth
+      - Gentian
+      - Kokebok
+      - Piccolo
+      réponse: Vermouth
+      anecdote: In a classification from the driest to the mildest, we find dry vermouth, white, rose and red.
+    - id: 26
+      question: To which writer, member of the French Academy, do we owe the novel entitled « Le sagouin » ?
+      propositions:
+      - Camus
+      - Barjavel
+      - Mauriac
+      - Giono
+      réponse: Mauriac
+      anecdote: In the novel « Le sagouin », written in four parts, we can assume that the action took place around 1920.
+    - id: 27
+      question: Which French president died in an unusual situation ?
+      propositions:
+      - Félix Faure
+      - Georges Pompidou
+      - René Coty
+      - Raymond Poincaré
+      réponse: Félix Faure
+      anecdote: Following this unexpected death, it was often said of Félix Faure that he was a president more famous by his death than by his life.
+    - id: 28
+      question: What is the name of the mountain slope not located in the sun ?
+      propositions:
+      - Being
+      - Adret
+      - Surf
+      - Ubac
+      réponse: Ubac
+      anecdote: In the northern hemisphere, the ubac is generally the north face of a mountain while the adret represents the south face.
+    - id: 29
+      question: What palmiped bird has the particularity of building a floating nest ?
+      propositions:
+      - Grèle
+      - Grène
+      - Grebe
+      - Grève
+      réponse: Grebe
+      anecdote: The position of the legs, very short and very back in relation to the body, has earned the name the pretty name of feet behind.
+    - id: 30
+      question: A chuck, which owes its name to its resemblance to a duckbill, is a tool close to...
+      propositions:
+      - Crankshaft
+      - Wood chisel
+      - Mallet
+      - Planer
+      réponse: Wood chisel
+      anecdote: The chisel is a tool still sometimes used today to make wooden parts turned between points.
+  de:
+  - débutant:
+    - id: 1
+      question: Welcher erfolgreiche Film kam auf den Leinwänden von Sean Connery und Christophe Lambert zusammen ?
+      propositions:
+      - Mad Max
+      - Subway
+      - Greystoke
+      - Highlander
+      réponse: Highlander
+      anecdote: « A Kind of Magic » ist ein Album der Gruppe Queen, das im Juni 1986 veröffentlicht wurde. Sechs der neun Songs werden im Film « Highlander » verwendet.
+    - id: 2
+      question: Welches Land, dessen erste Einwohner Newars waren, hat Kathmandu als Hauptstadt ?
+      propositions:
+      - Pakistan
+      - Nepal
+      - Tibet
+      - Nordkorea
+      réponse: Nepal
+      anecdote: Kathmandu ist die politische und religiöse Hauptstadt Nepals und die größte Stadt des Landes.
+    - id: 3
+      question: In welchem Film verkörpert John Travolta einen vom Himmel gefallenen Engel ?
+      propositions:
+      - Johnny
+      - Jerry
+      - Sam
+      - Michael
+      réponse: Michael
+      anecdote: In dem Film « Michael » untersuchen zwei Journalisten einen sogenannten echten Engel, der bei einer älteren Dame lebt.
+    - id: 4
+      question: Für welchen französischen Singer-Songwriter mit 40 Millionen verkauften Platten ist Capri fertig ?
+      propositions:
+      - Hervé Vilard
+      - Serge Lama
+      - Salvatore Adamo
+      - Charles Aznavour
+      réponse: Hervé Vilard
+      anecdote: Didier Barbelivien, Michel Fugain und Danyel Gérard standen auf der Liste der Künstler, die für Hervé Vilard komponiert haben.
+    - id: 5
+      question: Welcher 1844 geborene Maler wird auch von vielen Zollbeamten genannt ?
+      propositions:
+      - Edgar Degas
+      - Henri Rousseau
+      - Salvador Dali
+      - Pablo Picasso
+      réponse: Henri Rousseau
+      anecdote: Das erste bekannte Porträt des Malers Henri Rousseau scheint das seiner ersten Frau zu sein.
+    - id: 6
+      question: Welchen imaginären Charakter hat der Roman von E. R. Burroughs und das Kino populär gemacht ?
+      propositions:
+      - Die Yeti
+      - Tarzan
+      - Nessie
+      - King-Kong
+      réponse: Tarzan
+      anecdote: Edgar Rice Burroughs hat viele Science-Fiction- und Fantasy-Autoren sowie viele Filmemacher inspiriert.
+    - id: 7
+      question: Was ist der einzige Wert für Roulette, der die Farbe Grün trägt ?
+      propositions:
+      - Vierzig
+      - Dreizehn
+      - Fünfzig
+      - Null
+      réponse: Null
+      anecdote: Wenn der Dealer beim Roulette die Hand nimmt, setzt jeder Spieler auf eine Zahl, von der er hofft, dass sie gezogen wird, um die Wette zu gewinnen.
+    - id: 8
+      question: Was ist die Rasse von Columbos Hund, dem sehr hartnäckigen und einfühlsamen Inspektor des Fernsehens ?
+      propositions:
+      - Beagle
+      - Barbet
+      - Bichon
+      - Basset
+      réponse: Basset
+      anecdote: 1978 unterbrochen, wurde die Fernsehserie « Columbo » 1989 wiederbelebt, immer noch mit Peter Falk in der Hauptrolle.
+    - id: 9
+      question: Was ist die kleinste auf einem Computer verwendbare Speichereinheit ?
+      propositions:
+      - Mega
+      - Bit
+      - Byte
+      - Giga
+      réponse: Bit
+      anecdote: Speicher ist eine wesentliche Hardwarekomponente vieler elektronischer Geräte, die in allen Computern und Konsolen vorhanden sind.
+    - id: 10
+      question: Wie heißt der Zahn eines Kindes im umgangssprachlichen Sprachgebrauch ?
+      propositions:
+      - Wärmflasche
+      - Handschellen
+      - Murmeltier
+      - Quenotte
+      réponse: Quenotte
+      anecdote: Es ist besonders wichtig, Ihre Zähne regelmäßig zu putzen, um die Ausbreitung von Hohlräumen im Mund zu vermeiden.
+  - confirmé:
+    - id: 11
+      question: Wo ist der berühmte amerikanische Marinestützpunkt Guantanamo, der für seine Zuverlässigkeit bekannt ist ?
+      propositions:
+      - Hawaii
+      - Kuba
+      - Paraguay
+      - Mexiko
+      réponse: Kuba
+      anecdote: Die hochsichere Basis von Guantanamo hält Personen und Personen fest, die als illegale Kombattanten qualifiziert sind.
+    - id: 12
+      question: Was ist die Spezialität des tunesischen Sportlers Oussama Mellouli ?
+      propositions:
+      - Schwimmen
+      - Boxen
+      - Fußball
+      - Marathon
+      réponse: Schwimmen
+      anecdote: Oussama Mellouli ist der erste tunesische Schwimmprofi, der diesen Titel gewonnen hat.
+    - id: 13
+      question: Welcher französische Schauspieler hat die erste Rolle in dem Film « Le Guépard » gewonnen ?
+      propositions:
+      - Jean Reno
+      - Claude Brasseur
+      - Alain Delon
+      - Jean Gabin
+      réponse: Alain Delon
+      anecdote: Der Film « Der Leopard », der den Schauspieler Alain Delon inszeniert, beschreibt den Sturz der italienischen Aristokratie, dessen Schlüssel die Bühne des Balls gibt.
+    - id: 14
+      question: Wer war der Gefährte des Paulus von Tarsus, der auch als Heiliger Paulus bekannt ist ?
+      propositions:
+      - Heiliger Matthäus
+      - Saint Mark
+      - Heiliger Lukas
+      - Saint John
+      réponse: Heiliger Lukas
+      anecdote: Ohne Teil der Zwölf zu sein, prägte der heilige Paulus das Christentum dennoch durch seine Interpretation der Lehre Jesu.
+    - id: 15
+      question: Welcher Adelstitel ist dem Grafentitel unmittelbar unterlegen ?
+      propositions:
+      - Herzog
+      - Viscount
+      - Erzherzog
+      - Marquis
+      réponse: Viscount
+      anecdote: Viscount ist eine erbliche Unterscheidung, die viele behaupten, an die aber keine Befugnisse gebunden sind.
+    - id: 16
+      question: Was ist die Hauptstadt von Neuseeland, das Land Ozeaniens südwestlich des Pazifischen Ozeans ?
+      propositions:
+      - Dublin
+      - Wellington
+      - Auckland
+      - Sydney
+      réponse: Wellington
+      anecdote: Wellington ist die drittgrößte Stadt des Landes und statistisch gesehen eine der zwölf besten Städte, in denen man leben kann.
+    - id: 17
+      question: Welcher Film brachte Isabelle Adjani und Sharon Stone zusammen ?
+      propositions:
+      - Les sorcières
+      - Les ensorceleuses
+      - Ange et Démon
+      - Diabolique
+      réponse: Diabolique
+      anecdote: In dem Film « Diabolique » planen die Frau und die Geliebte eines Lehrers gemeinsam ihre Ermordung.
+    - id: 18
+      question: Wie heißt der Transat Jacques Vabre auch ?
+      propositions:
+      - Rumroute
+      - Vendée Globe
+      - Rum Trophy
+      - Kaffeeroute
+      réponse: Kaffeeroute
+      anecdote: Der Transat Jacques Vabre oder Kaffeeroute, ein transatlantisches Doppelrennen, findet seit 1993 alle zwei Jahre statt.
+    - id: 19
+      question: Welcher Vogel auf der Nordhalbkugel schwimmt am schnellsten ?
+      propositions:
+      - Pinguin
+      - Basscassine
+      - Kuchen
+      - Martinet
+      réponse: Pinguin
+      anecdote: Durch Sprachmissbrauch wird der Pinguin oft mit dem Pinguin verwechselt, da er dem Großen Pinguin ähnelt.
+    - id: 20
+      question: Was ist der größte der Planeten in unserem Sonnensystem ?
+      propositions:
+      - Neptun
+      - Saturn
+      - Uranus
+      - Jupiter
+      réponse: Jupiter
+      anecdote: Jupiter ist ein riesiger Gasplanet, der größte Planet im Sonnensystem.
+  - expert:
+    - id: 21
+      question: Vor 450 Millionen Jahren erschienen, zu welcher Tierklasse gehört der Skorpion ?
+      propositions:
+      - Reptilien
+      - Insekten
+      - Spinnentiere
+      - Säugetiere
+      réponse: Spinnentiere
+      anecdote: Skorpione unterscheiden sich von Spinnen durch einen giftigen Stich am Ende ihres Abdomens, der für den Menschen tödlich sein kann.
+    - id: 22
+      question: Welcher Bruder einer Schauspielerin namens Mary drehte den Film « Saturday Night Fever » ?
+      propositions:
+      - John Payne
+      - John Badham
+      - John Travolta
+      - John Remezick
+      réponse: John Badham
+      anecdote: Das von John Badham produzierte « Saturday Night Fever » war einer der Hauptvektoren für die Verbreitung von Musik und Disco-Mode.
+    - id: 23
+      question: Wie hieß ein befestigtes Dorf im Mittelalter ?
+      propositions:
+      - Befestigtes schloss
+      - Bastide
+      - Tour
+      - Wall
+      réponse: Bastide
+      anecdote: Heutzutage sind die bekanntesten Landhäuser die von Monflanquin, Monpazier, Grenada oder sogar Libourne.
+    - id: 24
+      question: Welche Stadt in Kent ist berühmt für ihren wunderbaren Frühling ?
+      propositions:
+      - Tunbridge Wells
+      - Dartford
+      - Ramsgate
+      - Gillingham
+      réponse: Tunbridge Wells
+      anecdote: Wie Königin Victoria kamen viele berühmte Persönlichkeiten nach Tunbridge Wells, um die wundersame Quelle zu heilen.
+    - id: 25
+      question: Welche Vorspeise auf Weinbasis ist mit bitteren und belebenden Pflanzen aromatisiert ?
+      propositions:
+      - Piccolo
+      - Wermut
+      - Enzian
+      - Kokebok
+      réponse: Wermut
+      anecdote: In einer Einteilung vom trockensten zum mildesten finden wir trockenen Wermut, Weiß, Rosé und Rot.
+    - id: 26
+      question: Welchem Schriftsteller, Mitglied der französischen Akademie, verdanken wir den Roman « Le sagouin » ?
+      propositions:
+      - Mauriac
+      - Camus
+      - Giono
+      - Barjavel
+      réponse: Mauriac
+      anecdote: In dem vierteiligen Roman « Le sagouin » können wir davon ausgehen, dass die Handlung um 1920 stattgefunden hat.
+    - id: 27
+      question: Welcher französische Präsident ist in einer ungewöhnlichen Situation gestorben ?
+      propositions:
+      - Raymond Poincaré
+      - Georges Pompidou
+      - René Coty
+      - Félix Faure
+      réponse: Félix Faure
+      anecdote: Nach diesem unerwarteten Tod wurde von Félix Faure oft gesagt, dass er ein Präsident war, der durch seinen Tod berühmter war als durch sein Leben.
+    - id: 28
+      question: Wie heißt der Berghang, der nicht in der Sonne liegt ?
+      propositions:
+      - Ubac
+      - Surf
+      - Sein
+      - Adret
+      réponse: Ubac
+      anecdote: In der nördlichen Hemisphäre ist der Ubac im Allgemeinen die Nordwand eines Berges, während der Adret die Südwand darstellt.
+    - id: 29
+      question: Welcher Palmenvogel hat die Besonderheit, ein schwimmendes Nest zu bauen ?
+      propositions:
+      - Grève
+      - Grèbe
+      - Grène
+      - Grèle
+      réponse: Grèbe
+      anecdote: Die Position der Beine, sehr kurz und sehr zurück in Bezug auf den Körper, hat den Namen den hübschen Namen der Füße hinter sich gebracht.
+    - id: 30
+      question: Ein Spannfutter, das seinen Namen einer Entenschnabelähnlichkeit verdankt, ist ein Werkzeug in der Nähe von...
+      propositions:
+      - Kurbelwelle
+      - Holzmeißel
+      - Mallet
+      - Hobel
+      réponse: Holzmeißel
+      anecdote: Der Meißel ist ein Werkzeug, das auch heute noch verwendet wird, um Holzteile zwischen Punkten zu drehen.
+  es:
+  - débutant:
+    - id: 1
+      question: ¿Qué película exitosa se unió en las pantallas de Sean Connery y Christophe Lambert ?
+      propositions:
+      - Subway
+      - Mad Max
+      - Highlander
+      - Greystoke
+      réponse: Highlander
+      anecdote: « A Kind of Magic » es un álbum del grupo Queen, lanzado en junio de 1986, seis de sus nueve canciones utilizadas en la película « Highlander ».
+    - id: 2
+      question: ¿Qué país, cuyos primeros habitantes fueron Newars, tiene a Katmandú como su capital ?
+      propositions:
+      - Corea del Norte
+      - Tibet
+      - Pakistán
+      - Nepal
+      réponse: Nepal
+      anecdote: Katmandú es la capital política y religiosa de Nepal y la ciudad más grande del país.
+    - id: 3
+      question: ¿En qué película encarna John Travolta a un ángel caído del cielo ?
+      propositions:
+      - Michael
+      - Sam
+      - Jerry
+      - Johnny
+      réponse: Michael
+      anecdote: En la película « Michael », dos periodistas investigan un supuesto ángel real que vive con una anciana.
+    - id: 4
+      question: ¿Para qué cantante y compositor francés con 40 millones de discos vendidos se acabó Capri ?
+      propositions:
+      - Salvatore Adamo
+      - Hervé Vilard
+      - Serge Lama
+      - Charles Aznavour
+      réponse: Hervé Vilard
+      anecdote: Didier Barbelivien, Michel Fugain y Danyel Gérard fueron parte de la lista de artistas que compusieron para Hervé Vilard.
+    - id: 5
+      question: ¿Qué pintor, nacido en 1844, también es llamado por muchos oficiales de aduanas ?
+      propositions:
+      - Pablo Picasso
+      - Salvador Dali
+      - Henri Rousseau
+      - Edgar Degas
+      réponse: Henri Rousseau
+      anecdote: El primer retrato conocido realizado por el pintor Henri Rousseau parece ser el de su primera esposa.
+    - id: 6
+      question: ¿Qué personaje imaginario popularizó la novela de E.R. Burroughs y el cine ?
+      propositions:
+      - El Yeti
+      - King-Kong
+      - Tarzán
+      - Nessie
+      réponse: Tarzán
+      anecdote: Edgar Rice Burroughs ha inspirado a muchos escritores de ciencia ficción y fantasía, así como a muchos cineastas.
+    - id: 7
+      question: ¿Cuál es el único valor para que la ruleta use el color verde ?
+      propositions:
+      - Trece
+      - Cincuenta
+      - Cero
+      - Cuarenta
+      réponse: Cero
+      anecdote: En la ruleta, cuando el crupier toma la mano, cada jugador apuesta por un número que espera ser sorteado para ganar la apuesta.
+    - id: 8
+      question: ¿Cuál es la raza del perro de Columbo, el muy obstinado y perceptivo inspector de televisión ?
+      propositions:
+      - Barbet
+      - Bichon
+      - Beagle
+      - Basset
+      réponse: Basset
+      anecdote: Interrumpida en 1978, la serie de televisión « Columbo » fue revivida en 1989, aún con Peter Falk en el papel principal.
+    - id: 9
+      question: ¿Cuál es la unidad de memoria más pequeña que se puede usar en una computadora ?
+      propositions:
+      - Byte
+      - Bit
+      - Giga
+      - Mega
+      réponse: Bit
+      anecdote: La memoria es un componente esencial del hardware de muchos dispositivos electrónicos, que se encuentra en todas las computadoras y consolas.
+    - id: 10
+      question: En lenguaje coloquial, ¿cómo se llama el diente de un niño ?
+      propositions:
+      - Quenotte
+      - Marmota
+      - Botella de agua caliente
+      - Esposas
+      réponse: Quenotte
+      anecdote: Es particularmente importante cepillarse los dientes regularmente para evitar la proliferación de caries en la boca.
+  - confirmé:
+    - id: 11
+      question: ¿Dónde está la famosa base naval estadounidense de Guantánamo, famosa por su fiabilidad ?
+      propositions:
+      - Cuba
+      - Paraguay
+      - Mexico
+      - Hawai
+      réponse: Cuba
+      anecdote: La base de Guantánamo, muy segura, detiene a personas e individuos calificados como combatientes ilegales.
+    - id: 12
+      question: ¿Cuál es la especialidad del deportista tunecino Oussama Mellouli ?
+      propositions:
+      - Natación
+      - Maratón
+      - Fútbol
+      - Boxeo
+      réponse: Natación
+      anecdote: Osama Mellouli es el primer campeón de natación profesional tunecino en ganar este título.
+    - id: 13
+      question: ¿Qué actor francés ganó el primer papel en la película « Le Guépard » ?
+      propositions:
+      - Jean Gabin
+      - Claude Brasseur
+      - Alain Delon
+      - Jean Reno
+      réponse: Alain Delon
+      anecdote: La película « El gatopardo », que representa al actor Alain Delon, describe la caída de la aristocracia italiana, de la cual el escenario del balón da la clave.
+    - id: 14
+      question: ¿Quién fue el compañero de Pablo de Tarso, también conocido como San Pablo ?
+      propositions:
+      - San Marcos
+      - San mateo
+      - San lucas
+      - San juan
+      réponse: San lucas
+      anecdote: Sin ser parte de los Doce, San Pablo, sin embargo, marcó el cristianismo por su interpretación de la enseñanza de Jesús.
+    - id: 15
+      question: ¿Qué título de nobleza es inmediatamente inferior al de conde ?
+      propositions:
+      - Vizconde
+      - Marqués
+      - Duque
+      - Archiduque
+      réponse: Vizconde
+      anecdote: Vizconde es una distinción hereditaria que muchos afirman pero a la que no se atribuyen poderes.
+    - id: 16
+      question: ¿Cuál es la capital de Nueva Zelanda, el país de Oceanía al suroeste del Océano Pacífico ?
+      propositions:
+      - Wellington
+      - Sydney
+      - Dublín
+      - Auckland
+      réponse: Wellington
+      anecdote: La tercera ciudad más poblada del país, Wellington es estadísticamente una de las doce mejores ciudades para vivir.
+    - id: 17
+      question: ¿Qué película reunió a las pantallas de Isabelle Adjani y Sharon Stone ?
+      propositions:
+      - Les ensorceleuses
+      - Diabolique
+      - Ange et Démon
+      - Les sorcières
+      réponse: Diabolique
+      anecdote: En la película « Diabolique », la esposa y la amante de un maestro se unen para planear su asesinato.
+    - id: 18
+      question: ¿Cómo se llama también la Transat Jacques Vabre ?
+      propositions:
+      - Vendée Globe
+      - Ruta del Ron
+      - Ruta del café
+      - Trofeo de ron
+      réponse: Ruta del café
+      anecdote: La Transat Jacques Vabre o ruta del café, una doble carrera transatlántica, se celebra cada dos años desde 1993.
+    - id: 19
+      question: ¿Qué ave que vive en el hemisferio norte nada más rápido ?
+      propositions:
+      - Pingüino
+      - Bécassine
+      - Pastel
+      - Martinet
+      réponse: Pingüino
+      anecdote: Por abuso del lenguaje, el pingüino a menudo se confunde con el pingüino, debido a su parecido con el Gran Pingüino.
+    - id: 20
+      question: ¿Cuál es el más grande de los planetas en nuestro Sistema Solar ?
+      propositions:
+      - Saturno
+      - Urano
+      - Júpiter
+      - Neptuno
+      réponse: Júpiter
+      anecdote: Júpiter es un planeta gaseoso gigante, el planeta más grande del Sistema Solar.
+  - expert:
+    - id: 21
+      question: Apareció hace 450 millones de años, ¿a qué clase de animal pertenece el escorpión ?
+      propositions:
+      - Reptiles
+      - Arácnidos
+      - Mamíferos
+      - Insectos
+      réponse: Arácnidos
+      anecdote: Los escorpiones se distinguen de las arañas por una picadura venenosa ubicada en el extremo de su abdomen que puede ser fatal para los humanos.
+    - id: 22
+      question: ¿Qué hermano de una actriz llamada Mary hizo la película « Fiebre del sábado por la noche » ?
+      propositions:
+      - John Badham
+      - John Remezick
+      - John Payne
+      - John Travolta
+      réponse: John Badham
+      anecdote: « Saturday Night Fever », producida por John Badham, fue uno de los principales vectores para la difusión de la música y la moda disco.
+    - id: 23
+      question: En la Edad Media, ¿cómo se llamaba un pueblo fortificado ?
+      propositions:
+      - Muralla
+      - Bastide
+      - Tour
+      - Castillo fortificado
+      réponse: Bastide
+      anecdote: Hoy en día, las casas de campo más famosas son las de Monflanquin, Monpazier, Granada o incluso Libourne.
+    - id: 24
+      question: ¿Qué ciudad de Kent es famosa por su milagrosa primavera ?
+      propositions:
+      - Gillingham
+      - Dartford
+      - Ramsgate
+      - Tunbridge Wells
+      réponse: Tunbridge Wells
+      anecdote: Al igual que la reina Victoria, muchas personas famosas vinieron a Tunbridge Wells para curarse y aprovechar su fuente milagrosa.
+    - id: 25
+      question: ¿Qué aperitivo a base de vino está aromatizado con plantas amargas y vigorizantes ?
+      propositions:
+      - Kokebok
+      - Piccolo
+      - Vermut
+      - Genciana
+      réponse: Vermut
+      anecdote: En una clasificación de la más seca a la más suave, encontramos vermut seco, blanco, rosado y rojo.
+    - id: 26
+      question: ¿A qué escritor, miembro de la Academia Francesa, le debemos la novela titulada « Le sagouin » ?
+      propositions:
+      - Mauriac
+      - Giono
+      - Barjavel
+      - Camus
+      réponse: Mauriac
+      anecdote: En la novela « Le sagouin », escrita en cuatro partes, podemos suponer que la acción tuvo lugar alrededor de 1920.
+    - id: 27
+      question: ¿Qué presidente francés murió en una situación inusual ?
+      propositions:
+      - Félix Faure
+      - Georges Pompidou
+      - Raymond Poincaré
+      - René Coty
+      réponse: Félix Faure
+      anecdote: Después de esta muerte inesperada, a menudo se decía de Félix Faure que era un presidente más famoso por su muerte que por su vida.
+    - id: 28
+      question: ¿Cuál es el nombre de la ladera de la montaña que no se encuentra en el sol ?
+      propositions:
+      - Surf
+      - Adret
+      - Ubac
+      - Ser
+      réponse: Ubac
+      anecdote: En el hemisferio norte, el ubac es generalmente la cara norte de una montaña, mientras que el adret representa la cara sur.
+    - id: 29
+      question: ¿Qué pájaro palmeado tiene la particularidad de construir un nido flotante ?
+      propositions:
+      - Grèbe
+      - Grève
+      - Grène
+      - Grèle
+      réponse: Grèbe
+      anecdote: La posición de las piernas, muy cortas y muy hacia atrás en relación con el cuerpo, le ha valido el nombre bonito de pies detrás.
+    - id: 30
+      question: Un mandril, que debe su nombre a su parecido con una pico de pato, es una herramienta cercana a...
+      propositions:
+      - Cincel de madera
+      - Cigüeñal
+      - Mazo
+      - Cepilladora
+      réponse: Cincel de madera
+      anecdote: El cincel es una herramienta que a veces todavía se usa hoy en día para hacer piezas de madera giradas entre puntos.
+  it:
+  - débutant:
+    - id: 1
+      question: Quale film di successo si è unito sugli schermi di Sean Connery e Christophe Lambert ?
+      propositions:
+      - Highlander
+      - Greystoke
+      - Mad Max
+      - Subway
+      réponse: Highlander
+      anecdote: « A Kind of Magic » è un album del gruppo Queen, pubblicato nel giugno 1986, sei delle sue nove canzoni sono state usate nel film « Highlander ».
+    - id: 2
+      question: Quale paese, i cui primi abitanti furono Newars, ha Kathmandu come capitale ?
+      propositions:
+      - Nepal
+      - Corea del Nord
+      - Pakistan
+      - Tibet
+      réponse: Nepal
+      anecdote: Kathmandu è la capitale politica e religiosa del Nepal e la più grande città del paese.
+    - id: 3
+      question: In quale film John Travolta incarna un angelo caduto dal cielo ?
+      propositions:
+      - Johnny
+      - Jerry
+      - Sam
+      - Michael
+      réponse: Michael
+      anecdote: Nel film « Michael », due giornalisti indagano su un cosiddetto vero angelo che vive con una signora anziana.
+    - id: 4
+      question: Per quale cantautore francese con 40 milioni di dischi venduti è finita Capri ?
+      propositions:
+      - Charles Aznavour
+      - Hervé Vilard
+      - Serge Lama
+      - Salvatore Adamo
+      réponse: Hervé Vilard
+      anecdote: Didier Barbelivien, Michel Fugain e Danyel Gérard facevano parte della lista di artisti che componevano per Hervé Vilard.
+    - id: 5
+      question: Quale pittore, nato nel 1844, è anche chiamato da molti doganiere ?
+      propositions:
+      - Henri Rousseau
+      - Salvador Dali
+      - Pablo Picasso
+      - Edgar Degas
+      réponse: Henri Rousseau
+      anecdote: Il primo ritratto noto realizzato dal pittore Henri Rousseau sembra essere quello della sua prima moglie.
+    - id: 6
+      question: Quale personaggio immaginario è stato reso popolare dal romanzo di E.R. Burroughs e dal cinema ?
+      propositions:
+      - Nessie
+      - King-Kong
+      - Tarzan
+      - The Yeti
+      réponse: Tarzan
+      anecdote: Edgar Rice Burroughs ha ispirato molti scrittori di fantascienza e fantasy, nonché molti registi.
+    - id: 7
+      question: Qual è l'unico valore per la roulette di indossare il colore verde ?
+      propositions:
+      - pari a zero
+      - Tredici
+      - Quaranta
+      - Cinquanta
+      réponse: pari a zero
+      anecdote: Nella roulette, quando il banco prende la mano, ogni giocatore punta su un numero che spera di essere pescato per vincere la scommessa.
+    - id: 8
+      question: Qual è la razza del cane di Columbo, l'ispettore molto ostinato e percettivo della televisione ?
+      propositions:
+      - Bichon
+      - Beagle
+      - Barbet
+      - Basset
+      réponse: Basset
+      anecdote: Interrotta nel 1978, la serie televisiva « Columbo » fu ripresa nel 1989, sempre con Peter Falk nel ruolo principale.
+    - id: 9
+      question: Qual è la più piccola unità di memoria utilizzabile su un computer ?
+      propositions:
+      - Bit
+      - Giga
+      - Byte
+      - Mega
+      réponse: Bit
+      anecdote: La memoria è un componente hardware essenziale di molti dispositivi elettronici, presente in tutti i computer e le console.
+    - id: 10
+      question: Nel linguaggio colloquiale, come si chiama il dente di un bambino ?
+      propositions:
+      - Quenotte
+      - Borsa dell'acqua calda
+      - Marmotta
+      - Manette
+      réponse: Quenotte
+      anecdote: È particolarmente importante lavarsi i denti regolarmente per evitare la proliferazione di cavità nella bocca.
+  - confirmé:
+    - id: 11
+      question: Dov'è la famosa base navale americana di Guantanamo, rinomata per la sua affidabilità ?
+      propositions:
+      - Cuba
+      - Paraguay
+      - Hawaii
+      - Messico
+      réponse: Cuba
+      anecdote: La base di Guantanamo, estremamente sicura, detiene persone e individui qualificati come combattenti fuorilegge.
+    - id: 12
+      question: Qual è la specialità dello sportivo tunisino Oussama Mellouli ?
+      propositions:
+      - Maratona
+      - Calcio
+      - Pugilato
+      - Nuoto
+      réponse: Nuoto
+      anecdote: Oussama Mellouli è il primo campione olimpico professionista di nuoto tunisino ad aver vinto questo titolo.
+    - id: 13
+      question: Quale attore francese ha vinto il primo ruolo nel film « Le Guépard » ?
+      propositions:
+      - Jean Gabin
+      - Alain Delon
+      - Claude Brasseur
+      - Jean Reno
+      réponse: Alain Delon
+      anecdote: Il film « Il Gattopardo », che mette in scena l'attore Alain Delon, descrive la caduta dell'aristocrazia italiana, di cui il palcoscenico della palla dà la chiave.
+    - id: 14
+      question: Chi era il compagno di Paolo di Tarso, noto anche come San Paolo ?
+      propositions:
+      - San Marco
+      - San Matteo
+      - San Giovanni
+      - San Luca
+      réponse: San Luca
+      anecdote: Senza far parte dei Dodici, San Paolo segnò tuttavia il cristianesimo con la sua interpretazione dell'insegnamento di Gesù.
+    - id: 15
+      question: Quale titolo di nobiltà è immediatamente inferiore a quello di conte ?
+      propositions:
+      - Visconte
+      - Marchese
+      - Arciduca
+      - Duca
+      réponse: Visconte
+      anecdote: Il visconte è una distinzione ereditaria che molti sostengono ma a cui non sono collegati poteri.
+    - id: 16
+      question: Qual è la capitale della Nuova Zelanda, il paese dell'Oceania a sud-ovest dell'Oceano Pacifico ?
+      propositions:
+      - Auckland
+      - Sydney
+      - Dublino
+      - Wellington
+      réponse: Wellington
+      anecdote: La terza città più popolosa del paese, Wellington è statisticamente una delle dodici migliori città in cui vivere.
+    - id: 17
+      question: Quale film ha riunito gli schermi di Isabelle Adjani e Sharon Stone ?
+      propositions:
+      - Les sorcières
+      - Les ensorceleuses
+      - Diabolique
+      - Ange et Démon
+      réponse: Diabolique
+      anecdote: Nel film « Diabolique », la moglie e la padrona di un insegnante si uniscono per pianificare il suo assassinio.
+    - id: 18
+      question: Come si chiama anche Transat Jacques Vabre ?
+      propositions:
+      - Vendée Globe
+      - Percorso del caffè
+      - Percorso del rum
+      - Trofeo Rum
+      réponse: Percorso del caffè
+      anecdote: La Transat Jacques Vabre o percorso del caffè, una doppia corsa transatlantica, si tiene ogni due anni dal 1993.
+    - id: 19
+      question: Quale uccello che vive nell'emisfero settentrionale nuota più velocemente ?
+      propositions:
+      - Bassina
+      - Torta
+      - Penguin
+      - Martinet
+      réponse: Penguin
+      anecdote: A causa dell'abuso del linguaggio, il pinguino viene spesso confuso con il pinguino, a causa della sua somiglianza con il Grande Pinguino.
+    - id: 20
+      question: Qual è il più grande dei pianeti nel nostro sistema solare ?
+      propositions:
+      - Nettuno
+      - Saturno
+      - Urano
+      - Giove
+      réponse: Giove
+      anecdote: Giove è un gigantesco pianeta gassoso, il più grande pianeta del Sistema Solare.
+  - expert:
+    - id: 21
+      question: Apparso 450 milioni di anni fa, a quale classe animale appartiene lo scorpione ?
+      propositions:
+      - Insetti
+      - Rettili
+      - Mammiferi
+      - Aracnidi
+      réponse: Aracnidi
+      anecdote: Gli scorpioni si distinguono dai ragni da una puntura velenosa situata all'estremità del loro addome che può essere fatale per l'uomo.
+    - id: 22
+      question: Quale fratello di un'attrice di nome Mary ha realizzato il film « Febbre del sabato sera » ?
+      propositions:
+      - John Payne
+      - John Travolta
+      - John Remezick
+      - John Badham
+      réponse: John Badham
+      anecdote: « La febbre del sabato sera », prodotta da John Badham, è stata uno dei principali vettori per la diffusione della musica e della moda da discoteca.
+    - id: 23
+      question: Nel Medioevo, come si chiamava un villaggio fortificato ?
+      propositions:
+      - Tour
+      - Bastione
+      - Bastide
+      - Castello fortificato
+      réponse: Bastide
+      anecdote: Oggi le case di campagna più famose sono quelle di Monflanquin, Monpazier, Grenada o persino di Libourne.
+    - id: 24
+      question: Quale città del Kent è famosa per la sua primavera miracolosa ?
+      propositions:
+      - Ramsgate
+      - Dartford
+      - Tunbridge Wells
+      - Gillingham
+      réponse: Tunbridge Wells
+      anecdote: Come la regina Vittoria, molti personaggi famosi vennero a Tunbridge Wells per una cura per sfruttare la sua fonte miracolosa.
+    - id: 25
+      question: Quale antipasto a base di vino è aromatizzato con piante amare e tonificanti ?
+      propositions:
+      - Piccolo
+      - Vermut
+      - Genziana
+      - Kokebok
+      réponse: Vermut
+      anecdote: In una classificazione dalla più secca alla più mite, troviamo vermouth dry, bianco, rosato e rosso.
+    - id: 26
+      question: A quale scrittore, membro dell'Accademia di Francia, dobbiamo il romanzo intitolato « Le sagouin » ?
+      propositions:
+      - Barjavel
+      - Giono
+      - Camus
+      - Mauriac
+      réponse: Mauriac
+      anecdote: Nel romanzo « Le sagouin », scritto in quattro parti, possiamo supporre che l'azione abbia avuto luogo intorno al 1920.
+    - id: 27
+      question: Quale presidente francese è morto in una situazione insolita ?
+      propositions:
+      - Félix Faure
+      - Raymond Poincaré
+      - René Coty
+      - Georges Pompidou
+      réponse: Félix Faure
+      anecdote: A seguito di questa morte inaspettata, Félix Faure ha detto spesso che era un presidente più famoso per la sua morte che per la sua vita.
+    - id: 28
+      question: Qual è il nome del pendio della montagna che non si trova al sole ?
+      propositions:
+      - Adret
+      - Essere
+      - Ubac
+      - Surf
+      réponse: Ubac
+      anecdote: Nell'emisfero nord, l'ubac è generalmente la parete nord di una montagna mentre l'adret rappresenta la parete sud.
+    - id: 29
+      question: Quale uccello palmiped ha la particolarità di costruire un nido galleggiante ?
+      propositions:
+      - Grèbe
+      - Grève
+      - Grène
+      - Grèle
+      réponse: Grèbe
+      anecdote: La posizione delle gambe, molto corta e molto arretrata rispetto al corpo, ha guadagnato il nome del bel nome di piedi dietro.
+    - id: 30
+      question: Un mandrino, che deve il suo nome alla sua somiglianza con un becco d'anatra, è uno strumento vicino...
+      propositions:
+      - Pialla
+      - Scalpello per legno
+      - Albero a gomito
+      - Maglio
+      réponse: Scalpello per legno
+      anecdote: Lo scalpello è uno strumento ancora oggi usato talvolta per realizzare parti in legno ruotate tra i punti.
+  nl:
+  - débutant:
+    - id: 1
+      question: Welke succesvolle film kwam samen op de schermen van Sean Connery en Christophe Lambert ?
+      propositions:
+      - Subway
+      - Highlander
+      - Mad Max
+      - Greystoke
+      réponse: Highlander
+      anecdote: « A Kind of Magic » is een album van de groep Queen, uitgebracht in juni 1986, zes van de negen nummers worden gebruikt in de film « Highlander ».
+    - id: 2
+      question: Welk land, waarvan de eerste inwoners Newars waren, heeft Kathmandu als hoofdstad ?
+      propositions:
+      - Noord-Korea
+      - Pakistan
+      - Nepal
+      - Tibet
+      réponse: Nepal
+      anecdote: Kathmandu is de politieke en religieuze hoofdstad van Nepal en de grootste stad van het land.
+    - id: 3
+      question: In welke film belichaamt John Travolta een uit de lucht gevallen engel ?
+      propositions:
+      - Michael
+      - Sam
+      - Jerry
+      - Johnny
+      réponse: Michael
+      anecdote: In de film « Michael » onderzoeken twee journalisten een zogenaamde echte engel die bij een oudere dame woont.
+    - id: 4
+      question: Voor welke Franse singer-songwriter met 40 miljoen verkochte platen is Capri klaar ?
+      propositions:
+      - Hervé Vilard
+      - Salvatore Adamo
+      - Charles Aznavour
+      - Serge Lama
+      réponse: Hervé Vilard
+      anecdote: Didier Barbelivien, Michel Fugain en Danyel Gérard maakten deel uit van de lijst met artiesten die voor Hervé Vilard componeerden.
+    - id: 5
+      question: Welke schilder, geboren in 1844, wordt ook door velen de douanebeambte genoemd ?
+      propositions:
+      - Salvador Dali
+      - Edgar Degas
+      - Pablo Picasso
+      - Henri Rousseau
+      réponse: Henri Rousseau
+      anecdote: Het eerste bekende portret van de schilder Henri Rousseau lijkt dat van zijn eerste vrouw te zijn.
+    - id: 6
+      question: Welk denkbeeldig personage werd gepopulariseerd door de roman van E.R. Burroughs en door de bioscoop ?
+      propositions:
+      - Nessie
+      - De Yeti
+      - King-Kong
+      - Tarzan
+      réponse: Tarzan
+      anecdote: Edgar Rice Burroughs heeft vele sciencefiction- en fantasieschrijvers geïnspireerd, evenals vele filmmakers.
+    - id: 7
+      question: Wat is de enige waarde voor roulette om de kleur groen te dragen ?
+      propositions:
+      - Veertig
+      - Dertien
+      - zero
+      - Vijftig
+      réponse: zero
+      anecdote: In roulette, wanneer de dealer de hand neemt, zet elke speler in op een nummer dat hij hoopt te worden getrokken om de weddenschap te winnen.
+    - id: 8
+      question: Wat is het ras van Columbo's hond, de zeer koppige en opmerkzame inspecteur van televisie ?
+      propositions:
+      - Beagle
+      - Barbet
+      - Basset
+      - Bichon
+      réponse: Basset
+      anecdote: Onderbroken in 1978, werd de televisieserie « Columbo » nieuw leven ingeblazen in 1989, nog steeds met Peter Falk in de hoofdrol.
+    - id: 9
+      question: Wat is de kleinste geheugeneenheid die op een computer kan worden gebruikt ?
+      propositions:
+      - Bit
+      - Giga
+      - Byte
+      - Mega
+      réponse: Bit
+      anecdote: Geheugen is een essentieel hardwarecomponent van veel elektronische apparaten, te vinden op alle computers en consoles.
+    - id: 10
+      question: In de spreektaal, wat is de naam van de tand van een kind ?
+      propositions:
+      - Quenotte
+      - Groundhog
+      - Heet waterfles
+      - Handboei
+      réponse: Quenotte
+      anecdote: Het is vooral belangrijk om regelmatig uw tanden te poetsen om de verspreiding van gaatjes in de mond te voorkomen.
+  - confirmé:
+    - id: 11
+      question: Waar is de beroemde Amerikaanse marinebasis van Guantanamo, bekend om zijn betrouwbaarheid ?
+      propositions:
+      - Cuba
+      - Paraguay
+      - Mexico
+      - Hawaii
+      réponse: Cuba
+      anecdote: De Guantanamo-basis, zeer veilig, houdt personen en personen vast die gekwalificeerd zijn als illegale strijders.
+    - id: 12
+      question: Wat is de specialiteit van de Tunesische sportman Oussama Mellouli ?
+      propositions:
+      - Voetbal
+      - Marathon
+      - Boksen
+      - Zwemmen
+      réponse: Zwemmen
+      anecdote: Osama Mellouli is de eerste Tunesische professionele zwemkampioen die deze titel wint.
+    - id: 13
+      question: Welke Franse acteur won de eerste rol in de film « Le Guépard » ?
+      propositions:
+      - Jean Reno
+      - Alain Delon
+      - Claude Brasseur
+      - Jean Gabin
+      réponse: Alain Delon
+      anecdote: De film « Il gattopardo », met de acteur Alain Delon, beschrijft de val van de Italiaanse aristocratie, waarvan de fase van de bal de sleutel is.
+    - id: 14
+      question: Wie was de metgezel van Paulus van Tarsus, ook bekend als Sint Paulus ?
+      propositions:
+      - Sint Marcus
+      - Saint John
+      - Saint Luke
+      - Mattheüs
+      réponse: Saint Luke
+      anecdote: Zonder deel uit te maken van de Twaalf, markeerde Saint Paul desondanks het christendom door zijn interpretatie van de leer van Jezus.
+    - id: 15
+      question: Welke adellijke titel is onmiddellijk ondergeschikt aan die van graaf ?
+      propositions:
+      - Hertog
+      - Markies
+      - Aartshertog
+      - Burggraaf
+      réponse: Burggraaf
+      anecdote: Burggraaf is een erfelijk onderscheid dat velen beweren maar waaraan geen bevoegdheden zijn verbonden.
+    - id: 16
+      question: Wat is de hoofdstad van Nieuw-Zeeland, het land van Oceani ? ten zuidwesten van de Stille Oceaan ?
+      propositions:
+      - Dublin
+      - Sydney
+      - Wellington
+      - Auckland
+      réponse: Wellington
+      anecdote: Wellington is de derde meest bevolkte stad van het land en is statistisch gezien een van de twaalf beste steden om in te wonen.
+    - id: 17
+      question: Welke film bracht de schermen van Isabelle Adjani en Sharon Stone samen ?
+      propositions:
+      - Les ensorceleuses
+      - Diabolique
+      - Ange et Démon
+      - Les sorcières
+      réponse: Diabolique
+      anecdote: In de film « Diabolique » werken een vrouw en een minnares van een leraar samen om haar moord te plannen.
+    - id: 18
+      question: Hoe wordt de Transat Jacques Vabre ook genoemd ?
+      propositions:
+      - Rum Trophy
+      - Koffieroute
+      - Vendée Globe
+      - Rumroute
+      réponse: Koffieroute
+      anecdote: De Transat Jacques Vabre of koffieroute, een transatlantische dubbele race, wordt sinds 1993 om de twee jaar gehouden.
+    - id: 19
+      question: Welke vogel op het noordelijk halfrond zwemt het snelst ?
+      propositions:
+      - Penguin
+      - Martinet
+      - Taart
+      - Bécassine
+      réponse: Penguin
+      anecdote: Door taalmisbruik wordt de pinguïn vaak verward met de pinguïn vanwege zijn gelijkenis met de grote pinguïn.
+    - id: 20
+      question: Wat is de grootste van de planeten in ons zonnestelsel ?
+      propositions:
+      - Saturnus
+      - Neptunus
+      - Uranus
+      - Jupiter
+      réponse: Jupiter
+      anecdote: Jupiter is een gigantische gasplaneet, de grootste planeet in het zonnestelsel.
+  - expert:
+    - id: 21
+      question: Verscheen 450 miljoen jaar geleden, tot welke dierklasse behoort de schorpioen ?
+      propositions:
+      - Spinachtigen
+      - Zoogdieren
+      - Reptielen
+      - Insecten
+      réponse: Spinachtigen
+      anecdote: Schorpioenen onderscheiden zich van spinnen door een giftige steek aan het einde van hun buik die fataal kan zijn voor mensen.
+    - id: 22
+      question: Welke broer van een actrice genaamd Mary maakte de film « Saturday night fever » ?
+      propositions:
+      - John Payne
+      - John Badham
+      - John Remezick
+      - John Travolta
+      réponse: John Badham
+      anecdote: « Saturday Night Fever », geproduceerd door John Badham, was een van de belangrijkste vectoren voor de verspreiding van muziek en discomode.
+    - id: 23
+      question: Hoe heette een versterkt dorp in de middeleeuwen ?
+      propositions:
+      - Borstwering
+      - Versterkt kasteel
+      - Bastide
+      - Tour
+      réponse: Bastide
+      anecdote: Tegenwoordig zijn de beroemdste landhuizen die van Monflanquin, Monpazier, Grenada of zelfs Libourne.
+    - id: 24
+      question: Welke stad in Kent is beroemd om zijn wonderbaarlijke lente ?
+      propositions:
+      - Tunbridge Wells
+      - Dartford
+      - Gillingham
+      - Ramsgate
+      réponse: Tunbridge Wells
+      anecdote: Net als koningin Victoria kwamen veel beroemde mensen naar Tunbridge Wells voor een remedie om te profiteren van de wonderbaarlijke bron.
+    - id: 25
+      question: Welk voorgerecht op basis van wijn is op smaak gebracht met bittere en verkwikkende planten ?
+      propositions:
+      - Piccolo
+      - Kokebok
+      - Gentiaan
+      - Vermouth
+      réponse: Vermouth
+      anecdote: In een classificatie van de droogste tot de mildste vinden we droge vermout, wit, rose en rood.
+    - id: 26
+      question: Aan welke schrijver, lid van de Franse Academie, zijn we de roman « Le sagouin » verschuldigd ?
+      propositions:
+      - Mauriac
+      - Barjavel
+      - Giono
+      - Camus
+      réponse: Mauriac
+      anecdote: In de roman « Le sagouin », geschreven in vier delen, kunnen we aannemen dat de actie plaatsvond rond 1920.
+    - id: 27
+      question: Welke Franse president stierf in een ongewone situatie ?
+      propositions:
+      - Félix Faure
+      - René Coty
+      - Raymond Poincaré
+      - Georges Pompidou
+      réponse: Félix Faure
+      anecdote: Na deze onverwachte dood werd er vaak van Félix Faure gezegd dat hij een president was die beroemder was door zijn dood dan door zijn leven.
+    - id: 28
+      question: Hoe heet de berghelling niet in de zon ?
+      propositions:
+      - Adret
+      - Zijn
+      - Ubac
+      - Surf
+      réponse: Ubac
+      anecdote: Op het noordelijk halfrond is de ubac meestal de noordwand van een berg, terwijl de adret de zuidwand vertegenwoordigt.
+    - id: 29
+      question: Welke gepalipeerde vogel heeft de bijzonderheid een drijvend nest te bouwen ?
+      propositions:
+      - Grène
+      - Grève
+      - Grèle
+      - Grèbe
+      réponse: Grèbe
+      anecdote: De positie van de benen, zeer kort en zeer terug ten opzichte van het lichaam, heeft bij de fuut de mooie naam van de voeten erachter verdiend.
+    - id: 30
+      question: Een klauwplaat, die zijn naam dankt aan zijn gelijkenis met een eendenbek, is een hulpmiddel in de buurt van...
+      propositions:
+      - Schaafmachine
+      - Houten beitel
+      - Mallet
+      - Krukas
+      réponse: Houten beitel
+      anecdote: De beitel is een hulpmiddel dat tegenwoordig nog steeds soms wordt gebruikt om houten delen tussen punten te draaien.

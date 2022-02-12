@@ -1,0 +1,1650 @@
+---
+fournisseur: OpenQuizzDB - Fournisseur de contenu libre (https://www.openquizzdb.org)
+rédacteur: Philippe Bresoux
+thème: La menace Omicron (Variant aux multiples mutations)
+difficulté: 4 / 5
+quizz:
+  fr:
+  - débutant:
+    - id: 1
+      question: De quelle facilité le variant Omicron semble-t-il bénéficier ?
+      propositions:
+      - Lévitation
+      - Propagation
+      - Fulmigation
+      - Disparition
+      réponse: Propagation
+      anecdote: Le système immunitaire est une machine complexe et seuls des résultats en conditions réelles permettront d'en savoir plus.
+    - id: 2
+      question: Quel pays fut le premier fortement touché par le variant Omicron ?
+      propositions:
+      - Brésil
+      - Afrique du Sud
+      - Inde
+      - Japon
+      réponse: Afrique du Sud
+      anecdote: Les pays doivent continuer à mettre en oeuvre des mesures de santé publique efficaces pour réduire la circulation globale du COVID-19.
+    - id: 3
+      question: Quel variant important du COVID-19 a précédé le variant Omicron ?
+      propositions:
+      - Alpha
+      - Gamma
+      - Delta
+      - Beta
+      réponse: Delta
+      anecdote: Selon Emmanuel André, les nouvelles ne sont pas bonnes, et elles viennent surtout à un moment de grande lassitude pour la société.
+    - id: 4
+      question: Quel procédé médical est essentiel pour réduire les décès dûs au COVID-19 ?
+      propositions:
+      - Vaccin
+      - Chirurgie
+      - Homéopathie
+      - Prière
+      réponse: Vaccin
+      anecdote: Il est d'une importance vitale que les inégalités d'accès aux vaccins COVID-19 soient traitées de toute urgence.
+    - id: 5
+      question: Quels tests peuvent détecter la présence de l'infection Omicron ?
+      propositions:
+      - PCR
+      - PLS
+      - PDF
+      - PNG
+      réponse: PCR
+      anecdote: Des études devraient déterminer s'il y a un impact sur d'autres types de tests, y compris les tests de détection rapide des antigènes.
+    - id: 6
+      question: Quelle est la distance physique minimale recommandée par l'OMS ?
+      propositions:
+      - 7.5 mètres
+      - 5.5 mètres
+      - 1.5 mètre
+      - 3.5 mètres
+      réponse: 1.5 mètre
+      anecdote: Le variant Omicron du SARS-CoV-2 se propage à un rythme plus rapide que les variantes précédentes du coronavirus.
+    - id: 7
+      question: Qu'est-il important de faire lorsque vous travaillez longtemps dans une pièce ?
+      propositions:
+      - L'assombrir
+      - La décorer
+      - La ventiler
+      - La chauffer
+      réponse: La ventiler
+      anecdote: Il faut en effet éviter les espaces mal aérés ou surpeuplés, garder les mains propres et se faire vacciner quand vient votre tour.
+    - id: 8
+      question: Quel est le premier symptôme précoce rapporté en cas d'infection à l'Omicron ?
+      propositions:
+      - Maux de ventre
+      - Constipation
+      - Gorge irritée
+      - Pieds lourds
+      réponse: Gorge irritée
+      anecdote: Elle est suivie d'une congestion nasale, d'une toux sèche et de courbatures se manifestant par des douleurs lombaires.
+    - id: 9
+      question: En Europe, quel vaccin est principalement utilisé comme troisième dose ?
+      propositions:
+      - Moderna
+      - CureVac
+      - Pfizer
+      - AstraZeneca
+      réponse: Pfizer
+      anecdote: Moderna, Johnson et Johnson, Pfizer et BioNTech disent tous qu'ils accélèrent déjà le développement de nouvelles versions potentielles.
+    - id: 10
+      question: Quelle méthode de travail pourrait avoir un effet positif sur l'impact sanitaire ?
+      propositions:
+      - À la chaîne
+      - Télétravail
+      - Open space
+      - Présentiel
+      réponse: Télétravail
+      anecdote: Un effort collectif et des règles d'hygiène réduiraient le risque de devoir mettre en oeuvre des mesures plus contraignantes.
+  - confirmé:
+    - id: 11
+      question: Durant quel mois le variant Omicron fut-il signalé pour la première fois ?
+      propositions:
+      - Novembre 2021
+      - Octobre 2021
+      - Septembre 2021
+      - Décembre 2021
+      réponse: Novembre 2021
+      anecdote: La situation épidémiologique en Afrique du Sud s'est caractérisée par trois pics distincts de cas signalés, dûs au variant préoccupant.
+    - id: 12
+      question: De quel alphabet le mot Omicron représente-t-il la quinzième lettre ?
+      propositions:
+      - Grec
+      - Perse
+      - Arabe
+      - Latin
+      réponse: Grec
+      anecdote: La troisième dose fait remonter le taux d'anticorps face au variant Omicron à un niveau similaire à celui observé avec deux doses.
+    - id: 13
+      question: Outre les deux doses de vaccin, quel moyen devrait en partie faire face à Omicron ?
+      propositions:
+      - Starter
+      - Napster
+      - Booster
+      - Faster
+      réponse: Booster
+      anecdote: Les boosters pourraient jouer un rôle important, en particulier pour les personnes les plus à risque de mourir d'une maladie grave.
+    - id: 14
+      question: Quelle quantième vague du COVID-19 en Afrique du Sud a été pilotée par Omicron ?
+      propositions:
+      - Troisième
+      - Cinquième
+      - Deuxième
+      - Quatrième
+      réponse: Quatrième
+      anecdote: Cette vague a une trajectoire de nouvelles infections nettement plus rapide par rapport aux vagues précédentes.
+    - id: 15
+      question: Quelle serait la période d'incubation moyenne du variant Omicron ?
+      propositions:
+      - Douze jours
+      - Neuf jours
+      - Six jours
+      - Trois jours
+      réponse: Trois jours
+      anecdote: Un taux de réinfection élevé et de multiples infections chez les vaccinés émergent après une courte période d'incubation.
+    - id: 16
+      question: Quelle tranche d'âge est la plus touchée par Omicron en Afrique du Sud ?
+      propositions:
+      - 35 à 39 ans
+      - 45 à 49 ans
+      - 65 à 69 ans
+      - 55 à 59 ans
+      réponse: 35 à 39 ans
+      anecdote: Il est difficile de savoir comment le virus va évoluer, alors que seulement 35 % de la population adulte du pays est vaccinée.
+    - id: 17
+      question: À quel pourcentage le vaccin de Pfizer est-il censé protéger des cas graves d'Omicron ?
+      propositions:
+      - 50 %
+      - 90 %
+      - 30 %
+      - 70 %
+      réponse: 70 %
+      anecdote: Le nombre inhabituellement élevé de mutations d'Omicron soulève de nombreuses craintes sur sa capacité à résister aux vaccins.
+    - id: 18
+      question: Outre l'Afrique du Sud, dans quel autre pays africain Omicron a-t-il fortement frappé ?
+      propositions:
+      - Ouganda
+      - Botswana
+      - Sénégal
+      - Soudan
+      réponse: Botswana
+      anecdote: L'émergence d'Omicron a incité certains pays à lancer leurs programmes de rappel COVID-19 pour leur population adulte.
+    - id: 19
+      question: Quel autre variant l'Omicron pourrait-il très rapidement remplacer en Europe ?
+      propositions:
+      - Beta
+      - Gamma
+      - Alpha
+      - Delta
+      réponse: Delta
+      anecdote: Quinze des mutations du variant Omicron agissent comme un grappin pour que le virus pénètre dans les cellules humaines.
+    - id: 20
+      question: Quelle organisation a choisi le nom d'Omicron pour ce nouveau variant ?
+      propositions:
+      - FMI
+      - OMS
+      - CEA
+      - ONU
+      réponse: OMS
+      anecdote: L'OMS encourage les pays à contribuer à la collecte et au partage de données sur les patients hospitalisés.
+  - expert:
+    - id: 21
+      question: Fin 2021, dans combien de pays le variant Omicron a-t-il été signalé ?
+      propositions:
+      - 66
+      - 44
+      - 77
+      - 55
+      réponse: 77
+      anecdote: La réalité est qu'Omicron se trouve probablement dans la plupart des pays, même s'il n'a pas encore été détecté.
+    - id: 22
+      question: Quelle dénomination scientifique se cache derrière le variant Omicron ?
+      propositions:
+      - B.1.1.529
+      - C.1.1.394
+      - K.1.1.877
+      - O.1.1.435
+      réponse: B.1.1.529
+      anecdote: À l'heure actuelle, l'OMS se coordonne avec un grand nombre de chercheurs du monde entier pour mieux comprendre Omicron.
+    - id: 23
+      question: Quels bloqueurs des récepteurs restent efficaces contre le COVID-19 sévère ?
+      propositions:
+      - IL6
+      - RS4
+      - GT3
+      - VC5
+      réponse: IL6
+      anecdote: D'autres traitements sont évalués pour analyser leur efficacité, suite aux modifications apportées à certaines parties du virus.
+    - id: 24
+      question: Quelle base de données en accès public rassemble les séquences du génome ?
+      propositions:
+      - MUDIC
+      - GISAID
+      - DOMED
+      - RAVID
+      réponse: GISAID
+      anecdote: L'Initiative GISAID promeut le partage rapide des données de tous les virus de la grippe et du coronavirus à l'origine du COVID-19.
+    - id: 25
+      question: Quels lymphocytes induits par le vaccin peuvent lutter contre Omicron ?
+      propositions:
+      - Lymphocytes T
+      - Lymphocytes B
+      - Lymphocytes G
+      - Lymphocytes D
+      réponse: Lymphocytes T
+      anecdote: Le variant Omicron est appelé à devenir très rapidement dominant, comme ce fut le cas avec Delta avant lui.
+    - id: 26
+      question: Combien de modifications génétiques d'Omicron ont été détectées fin 2021 ?
+      propositions:
+      - 20
+      - 30
+      - 50
+      - 40
+      réponse: 50
+      anecdote: Les scientifiques s'attendent à ce que ces changements le rendent plus transmissible que la variante dominante Delta.
+    - id: 27
+      question: Quelle valeur désigne le nombre moyen de nouveaux cas causés par chaque infection ?
+      propositions:
+      - Valeur T
+      - Valeur S
+      - Valeur U
+      - Valeur R
+      réponse: Valeur R
+      anecdote: Omicron est un échantillonnage de mutations de quatre variantes antérieures préoccupantes : Alpha, Beta, Gamma et Delta.
+    - id: 28
+      question: Quelle principale mutation favorise le variant Omicron à échapper au vaccin ?
+      propositions:
+      - R864T
+      - D685H
+      - V663M
+      - R346K
+      réponse: R346K
+      anecdote: Une réduction de 41 fois (sur deux doses) des anticorps neutralisants fut observée par rapport à la souche originale.
+    - id: 29
+      question: Quels tests fonctionnent par réaction en chaîne par polymérase ?
+      propositions:
+      - PCR
+      - UCL
+      - HFC
+      - VGA
+      réponse: PCR
+      anecdote: Un vent de panique semble souffler sur la planète Terre depuis que le variant Omicron a quitté l'Afrique australe.
+    - id: 30
+      question: Quelle protéine du variant Omicron comporte 32 changements impressionnants ?
+      propositions:
+      - S
+      - R
+      - U
+      - T
+      réponse: S
+      anecdote: Omicron porte des mutations présentes chez d'autres variants qui ont des effets connus sur l'échappement du système immunitaire.
+  en:
+  - débutant:
+    - id: 1
+      question: How easy does the Omicron variant seem to benefit ?
+      propositions:
+      - Propagation
+      - Fulmigation
+      - Disappearance
+      - Levitation
+      réponse: Propagation
+      anecdote: The immune system is a complex machine and only results in real conditions will allow us to know more.
+    - id: 2
+      question: Which country was the first to be strongly affected by the Omicron variant ?
+      propositions:
+      - South Africa
+      - Japan
+      - India
+      - Brazil
+      réponse: South Africa
+      anecdote: Countries must continue to implement effective public health measures to reduce the global circulation of COVID-19.
+    - id: 3
+      question: Which important variant of COVID-19 preceded the Omicron variant ?
+      propositions:
+      - Beta
+      - Gamma
+      - Delta
+      - Alpha
+      réponse: Delta
+      anecdote: According to Emmanuel André, the news is not good, and it comes especially at a time of great weariness for society.
+    - id: 4
+      question: What process remains essential to reduce serious illness and death ?
+      propositions:
+      - Vaccine
+      - Surgery
+      - Homeopathy
+      - Prayer
+      réponse: Vaccine
+      anecdote: It is vitally important that inequalities in access to COVID-19 vaccines are urgently addressed.
+    - id: 5
+      question: What tests can detect the presence of Omicron infection ?
+      propositions:
+      - PNG
+      - PCR
+      - PLS
+      - PDF
+      réponse: PCR
+      anecdote: Studies should determine if there is an impact on other types of tests, including rapid antigen detection tests.
+    - id: 6
+      question: What is the minimum physical distance recommended by the WHO ?
+      propositions:
+      - 3 meters
+      - 5 meters
+      - 7 meters
+      - 1 meter
+      réponse: 1 meter
+      anecdote: The Omicron variant of SARS-CoV-2 spreads at a faster rate than previous variants of the coronavirus.
+    - id: 7
+      question: What is important to do when working in a room for a long time ?
+      propositions:
+      - Darken it
+      - Decorate it
+      - Ventilate it
+      - Heat it up
+      réponse: Ventilate it
+      anecdote: You must avoid poorly ventilated or overcrowded spaces, keep your hands clean and get vaccinated when it's your turn.
+    - id: 8
+      question: What is the first reported early symptom of Omicron infection ?
+      propositions:
+      - Heavy feet
+      - Stomach ache
+      - Constipation
+      - Sore throat
+      réponse: Sore throat
+      anecdote: It is followed by nasal congestion, a dry cough and stiffness, manifested by lower back pain.
+    - id: 9
+      question: In Europe, which vaccine is mainly used as a third dose ?
+      propositions:
+      - CureVac
+      - Pfizer
+      - Moderna
+      - AstraZeneca
+      réponse: Pfizer
+      anecdote: Moderna, Johnson and Johnson, Pfizer and BioNTech all say they are already ramping up the development of potential new versions.
+    - id: 10
+      question: What working method could have a positive effect on the health impact ?
+      propositions:
+      - Teleworking
+      - To the chain
+      - Face-to-face
+      - Open space
+      réponse: Teleworking
+      anecdote: A collective effort and hygiene rules would reduce the risk of having to implement more restrictive measures later.
+  - confirmé:
+    - id: 11
+      question: In which month was the Omicron variant first reported ?
+      propositions:
+      - October 2021
+      - September 2021
+      - November 2021
+      - December 2021
+      réponse: November 2021
+      anecdote: The epidemiological situation in South Africa was characterized by three distinct peaks in reported cases, due to the variant of concern.
+    - id: 12
+      question: What alphabet does the word Omicron represent the fifteenth letter ?
+      propositions:
+      - Arabic
+      - Persia
+      - Greek
+      - Latin
+      réponse: Greek
+      anecdote: The third dose raises the antibody level to the Omicron variant to a level similar to that seen with two doses.
+    - id: 13
+      question: Besides the two doses of vaccine, which means should partly deal with Omicron ?
+      propositions:
+      - Napster
+      - Booster
+      - Starter
+      - Faster
+      réponse: Booster
+      anecdote: Boosters could play an important role, especially for those most at risk of dying from serious illness.
+    - id: 14
+      question: Which wave of COVID-19 in South Africa was piloted by Omicron ?
+      propositions:
+      - Second
+      - Fourth
+      - Third
+      - Fifth
+      réponse: Fourth
+      anecdote: This wave has a significantly faster trajectory of new infections compared to previous waves.
+    - id: 15
+      question: What would be the average incubation period of the Omicron variant ?
+      propositions:
+      - Twelve days
+      - Three days
+      - Nine days
+      - Six days
+      réponse: Three days
+      anecdote: A high rate of reinfection and multiple infections in vaccinees emerge after a short incubation period.
+    - id: 16
+      question: Which age group is most affected by Omicron in South Africa ?
+      propositions:
+      - 45 to 49 years old
+      - 35 to 39 years old
+      - 65 to 69 years old
+      - 55 to 59 years old
+      réponse: 35 to 39 years old
+      anecdote: It is unclear how the virus will evolve, when only 35% of the country's adult population is vaccinated.
+    - id: 17
+      question: What percentage does Pfizer's vaccine protect against severe cases of Omicron ?
+      propositions:
+      - 90%
+      - 50%
+      - 70%
+      - 30%
+      réponse: 70%
+      anecdote: Omicron's unusually high number of mutations raises many concerns about its ability to resist vaccines.
+    - id: 18
+      question: Besides South Africa, in which other African country has Omicron struck ?
+      propositions:
+      - Botswana
+      - Senegal
+      - Sudan
+      - Uganda
+      réponse: Botswana
+      anecdote: The emergence of Omicron has prompted some countries to launch their COVID-19 recall programs for their adult populations.
+    - id: 19
+      question: What other variant could the Omicron very quickly replace in Europe ?
+      propositions:
+      - Alpha
+      - Beta
+      - Gamma
+      - Delta
+      réponse: Delta
+      anecdote: Fifteen of the Omicron variant mutations act like a grapple for the virus to enter human cells.
+    - id: 20
+      question: Which organization chose the name Omicron for this new variant ?
+      propositions:
+      - IMF
+      - UN
+      - CEA
+      - WHO
+      réponse: WHO
+      anecdote: WHO encourages countries to contribute to the collection and sharing of inpatient data.
+  - expert:
+    - id: 21
+      question: At the end of 2021, in how many countries has the Omicron variant been reported ?
+      propositions:
+      - 55
+      - 66
+      - 44
+      - 77
+      réponse: 77
+      anecdote: The reality is that Omicron is likely to be found in most countries, although it has yet to be detected.
+    - id: 22
+      question: What scientific name is behind the Omicron variant ?
+      propositions:
+      - B.1.1.529
+      - K.1.1.877
+      - C.1.1.394
+      - O.1.1.435
+      réponse: B.1.1.529
+      anecdote: Currently, WHO is coordinating with a large number of researchers around the world to better understand Omicron.
+    - id: 23
+      question: Which receptor blockers remain effective against severe COVID-19 ?
+      propositions:
+      - GT3
+      - IL6
+      - VC5
+      - RS4
+      réponse: IL6
+      anecdote: Other treatments are evaluated to analyze their effectiveness, following changes made to certain parts of the virus.
+    - id: 24
+      question: What public access database brings together genome sequences ?
+      propositions:
+      - GISAID
+      - RAVID
+      - DOMED
+      - MUDIC
+      réponse: GISAID
+      anecdote: The GISAID Initiative promotes rapid data sharing of all influenza viruses and the coronavirus that causes COVID-19.
+    - id: 25
+      question: Which vaccine-induced lymphocytes can fight Omicron ?
+      propositions:
+      - D lymphocytes
+      - T lymphocytes
+      - B lymphocytes
+      - G lymphocytes
+      réponse: T lymphocytes
+      anecdote: The Omicron variant is set to become dominant very quickly, as was the case with Delta before it.
+    - id: 26
+      question: How many genetic modifications of Omicron were detected at the end of 2021 ?
+      propositions:
+      - 30
+      - 50
+      - 20
+      - 40
+      réponse: 50
+      anecdote: Scientists expect these changes to make it more heritable than the dominant Delta variant.
+    - id: 27
+      question: What is the average number of new cases caused by each infection ?
+      propositions:
+      - U value
+      - T value
+      - R-value
+      - S value
+      réponse: R-value
+      anecdote: Omicron is a sampling of mutations from four earlier variants of concern : Alpha, Beta, Gamma and Delta.
+    - id: 28
+      question: What main mutation causes the Omicron variant to escape the vaccine ?
+      propositions:
+      - R346K
+      - R864T
+      - D685H
+      - V663M
+      réponse: R346K
+      anecdote: A 41-fold reduction (2 doses) in neutralizing antibodies was observed compared to the original strain.
+    - id: 29
+      question: What tests work by polymerase chain reaction ?
+      propositions:
+      - PCR
+      - UCL
+      - HFC
+      - VGA
+      réponse: PCR
+      anecdote: A wind of panic seems to be blowing on planet Earth since the Omicron variant has already left southern Africa.
+    - id: 30
+      question: Which Omicron variant protein has 32 impressive changes ?
+      propositions:
+      - S
+      - R
+      - U
+      - T
+      réponse: S
+      anecdote: Omicron carries mutations already present in other variants which have known effects on the escape of the immune system.
+  de:
+  - débutant:
+    - id: 1
+      question: Wie einfach scheint die Omicron-Variante zu profitieren ?
+      propositions:
+      - Schweben
+      - Verschwinden
+      - Ausräucherung
+      - Ausbreitung
+      réponse: Ausbreitung
+      anecdote: Das Immunsystem ist eine komplexe Maschine und nur Ergebnisse unter realen Bedingungen werden es uns ermöglichen, mehr zu erfahren.
+    - id: 2
+      question: Welches Land war als erstes stark von der Omicron-Variante betroffen ?
+      propositions:
+      - Japan
+      - Indien
+      - Südafrika
+      - Brasilien
+      réponse: Südafrika
+      anecdote: Die Länder müssen weiterhin wirksame Maßnahmen im Bereich der öffentlichen Gesundheit ergreifen, um die weltweite Verbreitung von COVID-19 zu reduzieren.
+    - id: 3
+      question: Welche wichtige Variante von COVID-19 ging der Omicron-Variante voraus ?
+      propositions:
+      - Gamma
+      - Delta
+      - Alpha
+      - Beta
+      réponse: Delta
+      anecdote: Laut Emmanuel André sind die Nachrichten nicht gut, und sie kommen vor allem in einer Zeit großer Müdigkeit für die Gesellschaft.
+    - id: 4
+      question: Welcher Prozess ist nach wie vor wichtig, um schwere Erkrankungen und Todesfälle zu reduzieren ?
+      propositions:
+      - Impfstoff
+      - Homöopathie
+      - Chirurgie
+      - Gebet
+      réponse: Impfstoff
+      anecdote: Es ist von entscheidender Bedeutung, dass Ungleichheiten beim Zugang zu COVID-19-Impfstoffen dringend angegangen werden.
+    - id: 5
+      question: Welche Tests können das Vorhandensein einer Omicron-Infektion nachweisen ?
+      propositions:
+      - PCR
+      - PDF
+      - PLS
+      - PNG
+      réponse: PCR
+      anecdote: In Studien sollte festgestellt werden, ob es Auswirkungen auf andere Arten von Tests gibt, einschließlich Schnelltests zum Nachweis von Antigenen.
+    - id: 6
+      question: Was ist der von der WHO empfohlene physische Mindestabstand ?
+      propositions:
+      - 5 Meter
+      - 7 Meter
+      - 3 Meter
+      - 1 Meter
+      réponse: 1 Meter
+      anecdote: Die Omicron-Variante von SARS-CoV-2 verbreitet sich schneller als frühere Varianten des Coronavirus.
+    - id: 7
+      question: Was ist bei längerer Arbeit in einem Raum zu beachten ?
+      propositions:
+      - Erhitze es
+      - Dekoriere es
+      - Verdunkeln Sie es
+      - Lüften
+      réponse: Lüften
+      anecdote: Sie müssen schlecht belüftete oder überfüllte Räume vermeiden, Ihre Hände sauber halten und sich impfen lassen, wenn Sie an der Reihe sind.
+    - id: 8
+      question: Was ist das erste gemeldete Frühsymptom einer Omicron-Infektion ?
+      propositions:
+      - Halsschmerzen
+      - Schwere Füße
+      - Verstopfung
+      - Magenschmerzen
+      réponse: Halsschmerzen
+      anecdote: Es folgt eine verstopfte Nase, ein trockener Husten und Steifheit, die sich in Schmerzen im unteren Rücken äußern.
+    - id: 9
+      question: Welcher Impfstoff wird in Europa hauptsächlich als dritte Dosis verwendet ?
+      propositions:
+      - AstraZeneca
+      - Moderne
+      - CureVac
+      - Pfizer
+      réponse: Pfizer
+      anecdote: Moderna, Johnson und Johnson, Pfizer und BioNTech sagen, dass sie bereits die Entwicklung potenzieller neuer Versionen vorantreiben.
+    - id: 10
+      question: Welche Arbeitsweise könnte sich positiv auf die gesundheitliche Wirkung auswirken ?
+      propositions:
+      - Von Angesicht zu Angesicht
+      - Telearbeit
+      - Freiraum
+      - Zur Kette
+      réponse: Telearbeit
+      anecdote: Eine gemeinsame Anstrengung und Hygieneregeln würden das Risiko verringern, später restriktivere Maßnahmen ergreifen zu müssen.
+  - confirmé:
+    - id: 11
+      question: In welchem Monat wurde die Omicron-Variante erstmals gemeldet ?
+      propositions:
+      - Oktober 2021
+      - November 2021
+      - September 2021
+      - Dezember 2021
+      réponse: November 2021
+      anecdote: Die epidemiologische Situation in Südafrika war in gemeldeten Fällen aufgrund der besorgniserregenden Variante durch drei deutliche Spitzen gekennzeichnet.
+    - id: 12
+      question: Welches Alphabet repräsentiert das Wort Omicron den fünfzehnten Buchstaben ?
+      propositions:
+      - Latein
+      - Arabisch
+      - Persien
+      - Griechisch
+      réponse: Griechisch
+      anecdote: Die dritte Dosis erhöht den Antikörperspiegel gegen die Omicron-Variante auf ein ähnliches Niveau wie bei zwei Dosen.
+    - id: 13
+      question: Abgesehen von den zwei Impfdosen, welche Mittel sollten Omicron zum Teil behandeln ?
+      propositions:
+      - Booster
+      - Faster
+      - Starter
+      - Napster
+      réponse: Booster
+      anecdote: Booster könnten eine wichtige Rolle spielen, insbesondere für diejenigen, die am stärksten gefährdet sind, an einer schweren Krankheit zu sterben.
+    - id: 14
+      question: Welche COVID-19-Welle in Südafrika wurde von Omicron pilotiert ?
+      propositions:
+      - Zweite
+      - Vierte
+      - Dritte
+      - Fünfter
+      réponse: Vierte
+      anecdote: Diese Welle weist im Vergleich zu früheren Wellen einen deutlich schnelleren Verlauf der Neuinfektionen auf.
+    - id: 15
+      question: Was wäre die durchschnittliche Inkubationszeit der Omicron-Variante ?
+      propositions:
+      - Sechs Tage
+      - Zwölf Tage
+      - Drei Tage
+      - Neun Tage
+      réponse: Drei Tage
+      anecdote: Nach einer kurzen Inkubationszeit treten bei Geimpften eine hohe Reinfektionsrate und Mehrfachinfektionen auf.
+    - id: 16
+      question: Welche Altersgruppe ist in Südafrika am stärksten von Omicron betroffen ?
+      propositions:
+      - 55 bis 59 Jahre alt
+      - 45 bis 49 Jahre alt
+      - 65 bis 69 Jahre alt
+      - 35 bis 39 Jahre alt
+      réponse: 35 bis 39 Jahre alt
+      anecdote: Es ist unklar, wie sich das Virus entwickeln wird, wenn nur 35 % der erwachsenen Bevölkerung des Landes geimpft sind.
+    - id: 17
+      question: Wie viel Prozent schützt der Impfstoff von Pfizer vor schweren Fällen von Omicron ?
+      propositions:
+      - 70%
+      - 50%
+      - 30%
+      - 90%
+      réponse: 70%
+      anecdote: Die ungewöhnlich hohe Zahl von Mutationen von Omicron wirft viele Bedenken hinsichtlich seiner Widerstandsfähigkeit gegenüber Impfstoffen auf.
+    - id: 18
+      question: In welchem anderen afrikanischen Land außer Südafrika hat Omicron zugeschlagen ?
+      propositions:
+      - Uganda
+      - Botswana
+      - Sudan
+      - Senegal
+      réponse: Botswana
+      anecdote: Das Aufkommen von Omicron hat einige Länder dazu veranlasst, ihre COVID-19-Rückrufprogramme für ihre erwachsene Bevölkerung zu starten.
+    - id: 19
+      question: Welche andere Variante könnte der Omicron in Europa sehr schnell ersetzen ?
+      propositions:
+      - Alpha
+      - Gamma
+      - Delta
+      - Beta
+      réponse: Delta
+      anecdote: Fünfzehn der Mutationen der Omicron-Variante wirken wie ein Greifer für das Virus, um in menschliche Zellen einzudringen.
+    - id: 20
+      question: Welche Organisation hat den Namen Omicron für diese neue Variante gewählt ?
+      propositions:
+      - CEA
+      - IWF
+      - WER
+      - UNO
+      réponse: WER
+      anecdote: Die WHO ermutigt die Länder, zur Erhebung und Weitergabe von stationären Daten beizutragen.
+  - expert:
+    - id: 21
+      question: In wie vielen Ländern wurde Ende 2021 die Omicron-Variante gemeldet ?
+      propositions:
+      - 77
+      - 44
+      - 66
+      - 55
+      réponse: 77
+      anecdote: Die Realität ist, dass Omicron wahrscheinlich in den meisten Ländern zu finden ist, obwohl es noch nicht entdeckt wurde.
+    - id: 22
+      question: Welcher wissenschaftliche Name steckt hinter der Omicron-Variante ?
+      propositions:
+      - B.1.1.529
+      - K.1.1.877
+      - O.1.1.435
+      - C.1.1.394
+      réponse: B.1.1.529
+      anecdote: Derzeit koordiniert die WHO mit einer großen Anzahl von Forschern auf der ganzen Welt, um Omicron besser zu verstehen.
+    - id: 23
+      question: Welche Rezeptorblocker bleiben gegen schweres COVID-19 wirksam ?
+      propositions:
+      - RS4
+      - IL6
+      - VC5
+      - GT3
+      réponse: IL6
+      anecdote: Andere Behandlungen werden evaluiert, um ihre Wirksamkeit zu analysieren, nachdem Änderungen an bestimmten Teilen des Virus vorgenommen wurden.
+    - id: 24
+      question: Welche öffentlich zugängliche Datenbank enthält Genomsequenzen ?
+      propositions:
+      - MUDIC
+      - DOMED
+      - GISAID
+      - RAVID
+      réponse: GISAID
+      anecdote: Die GISAID-Initiative fördert den schnellen Datenaustausch aller Influenzaviren und des Coronavirus, das COVID-19 verursacht.
+    - id: 25
+      question: Welche durch Impfung induzierten Lymphozyten können Omicron bekämpfen ?
+      propositions:
+      - D-Lymphozyten
+      - G-Lymphozyten
+      - B-Lymphozyten
+      - T-Lymphozyten
+      réponse: T-Lymphozyten
+      anecdote: Die Omicron-Variante wird sich sehr schnell durchsetzen, wie es zuvor Delta der Fall war.
+    - id: 26
+      question: Wie viele genetische Veränderungen von Omicron wurden Ende 2021 entdeckt ?
+      propositions:
+      - 20
+      - 50
+      - 30
+      - 40
+      réponse: 50
+      anecdote: Wissenschaftler erwarten, dass diese Veränderungen es erblicher machen als die dominante Delta-Variante.
+    - id: 27
+      question: Wie hoch ist die durchschnittliche Zahl der Neuerkrankungen pro Infektion ?
+      propositions:
+      - T-Wert
+      - S-Wert
+      - U-Wert
+      - R-Wert
+      réponse: R-Wert
+      anecdote: Omicron ist eine Stichprobe von Mutationen aus vier früheren besorgniserregenden Varianten : Alpha, Beta, Gamma und Delta.
+    - id: 28
+      question: Welche Hauptmutation führt dazu, dass die Omicron-Variante dem Impfstoff entgeht ?
+      propositions:
+      - V663M
+      - D685H
+      - R346K
+      - R864T
+      réponse: R346K
+      anecdote: Im Vergleich zum ursprünglichen Stamm wurde eine 41-fache Reduktion (2 Dosen) der neutralisierenden Antikörper beobachtet.
+    - id: 29
+      question: Welche Tests funktionieren bei der Polymerase-Kettenreaktion ?
+      propositions:
+      - PCR
+      - VGA
+      - UCL
+      - HFKW
+      réponse: PCR
+      anecdote: Auf dem Planeten Erde scheint ein Wind der Panik zu wehen, da die Omicron-Variante das südliche Afrika bereits verlassen hat.
+    - id: 30
+      question: Welche Proteinvariante von Omicron hat 32 beeindruckende Veränderungen ?
+      propositions:
+      - T
+      - R
+      - U
+      - S
+      réponse: S
+      anecdote: Omicron trägt bereits in anderen Varianten vorhandene Mutationen, die bekannte Auswirkungen auf die Abwehr des Immunsystems haben.
+  es:
+  - débutant:
+    - id: 1
+      question: ¿Qué tan fácil parece beneficiarse la variante Omicron ?
+      propositions:
+      - Fulmigración
+      - Levitación
+      - Desaparición
+      - Propagación
+      réponse: Propagación
+      anecdote: El sistema inmunológico es una máquina compleja y solo los resultados en condiciones reales nos permitirán saber más.
+    - id: 2
+      question: ¿Qué país fue el primero en verse fuertemente afectado por la variante Omicron ?
+      propositions:
+      - Sudáfrica
+      - India
+      - Japón
+      - Brasil
+      réponse: Sudáfrica
+      anecdote: Los países deben continuar implementando medidas efectivas de salud pública para reducir la circulación global de COVID-19.
+    - id: 3
+      question: ¿Qué variante importante de COVID-19 precedió a la variante Omicron ?
+      propositions:
+      - Gamma
+      - Beta
+      - Delta
+      - Alpha
+      réponse: Delta
+      anecdote: Según Emmanuel André, la noticia no es buena, y llega sobre todo en un momento de gran cansancio para la sociedad.
+    - id: 4
+      question: ¿Qué proceso sigue siendo esencial para reducir las enfermedades graves y la muerte ?
+      propositions:
+      - Cirugía
+      - Vacuna
+      - Oración
+      - Homeopatía
+      réponse: Vacuna
+      anecdote: Es de vital importancia que se aborden con urgencia las desigualdades en el acceso a las vacunas COVID-19.
+    - id: 5
+      question: ¿Qué pruebas pueden detectar la presencia de infección por Omicron ?
+      propositions:
+      - PDF
+      - PLS
+      - PNG
+      - PCR
+      réponse: PCR
+      anecdote: Los estudios deben determinar si hay un impacto en otros tipos de pruebas, incluidas las pruebas de detección rápida de antígenos.
+    - id: 6
+      question: ¿Cuál es la distancia física mínima recomendada por la OMS ?
+      propositions:
+      - 5 metros
+      - 7 metros
+      - 3 metros
+      - 1 metro
+      réponse: 1 metro
+      anecdote: La variante Omicron del SARS-CoV-2 se propaga a un ritmo más rápido que las variantes anteriores del coronavirus.
+    - id: 7
+      question: ¿Qué es importante hacer cuando se trabaja en una habitación durante mucho tiempo ?
+      propositions:
+      - Ventilarlo
+      - Oscurecerlo
+      - Decorarlo
+      - Caliéntalo
+      réponse: Ventilarlo
+      anecdote: Debes evitar los espacios mal ventilados o superpoblados, mantener las manos limpias y vacunarte cuando sea tu turno.
+    - id: 8
+      question: ¿Cuál es el primer síntoma temprano informado de la infección por Omicron ?
+      propositions:
+      - Pies pesados
+      - Dolor de estómago
+      - Dolor de garganta
+      - Estreñimiento
+      réponse: Dolor de garganta
+      anecdote: Le sigue congestión nasal, tos seca y rigidez, que se manifiesta por dolor lumbar.
+    - id: 9
+      question: En Europa, ¿qué vacuna se utiliza principalmente como tercera dosis ?
+      propositions:
+      - Moderna
+      - CureVac
+      - Pfizer
+      - AstraZeneca
+      réponse: Pfizer
+      anecdote: Moderna, Johnson y Johnson, Pfizer y BioNTech dicen que ya están acelerando el desarrollo de nuevas versiones potenciales.
+    - id: 10
+      question: ¿Qué método de trabajo podría tener un efecto positivo en el impacto en la salud ?
+      propositions:
+      - A la cadena
+      - Espacio abierto
+      - Teletrabajo
+      - Cara a cara
+      réponse: Teletrabajo
+      anecdote: Un esfuerzo colectivo y unas normas de higiene reducirían el riesgo de tener que implementar medidas más restrictivas más adelante.
+  - confirmé:
+    - id: 11
+      question: ¿En qué mes se informó por primera vez sobre la variante Omicron ?
+      propositions:
+      - Septiembre de 2021
+      - Diciembre de 2021
+      - Octubre de 2021
+      - Noviembre de 2021
+      réponse: Noviembre de 2021
+      anecdote: La situación epidemiológica en Sudáfrica se caracterizó por tres picos distintos en los casos notificados, debido a la variante de interés.
+    - id: 12
+      question: ¿Qué alfabeto representa la palabra Omicron la decimoquinta letra ?
+      propositions:
+      - Árabe
+      - Persia
+      - Griego
+      - Latín
+      réponse: Griego
+      anecdote: La tercera dosis eleva el nivel de anticuerpos contra la variante Omicron a un nivel similar al observado con dos dosis.
+    - id: 13
+      question: Además de las dos dosis de vacuna, ¿qué medios deberían ocuparse en parte de Omicron ?
+      propositions:
+      - Booster
+      - Napster
+      - Faster
+      - Starter
+      réponse: Booster
+      anecdote: Los refuerzos podrían desempeñar un papel importante, especialmente para quienes corren mayor riesgo de morir a causa de una enfermedad grave.
+    - id: 14
+      question: ¿Qué ola de COVID-19 en Sudáfrica fue pilotada por Omicron ?
+      propositions:
+      - Quinto
+      - Tercero
+      - Cuarto
+      - Segundo
+      réponse: Cuarto
+      anecdote: Esta ola tiene una trayectoria de nuevas infecciones significativamente más rápida en comparación con las olas anteriores.
+    - id: 15
+      question: ¿Cuál sería el período medio de incubación de la variante Omicron ?
+      propositions:
+      - Doce días
+      - Nueve días
+      - Seis días
+      - Tres días
+      réponse: Tres días
+      anecdote: Una alta tasa de reinfección y múltiples infecciones en los vacunados surgen después de un corto período de incubación.
+    - id: 16
+      question: ¿Qué grupo de edad se ve más afectado por Omicron en Sudáfrica ?
+      propositions:
+      - 35 a 39 años
+      - 55 a 59 años
+      - 65 a 69 años
+      - 45 a 49 años
+      réponse: 35 a 39 años
+      anecdote: No está claro cómo evolucionará el virus, cuando solo el 35% de la población adulta del país está vacunada.
+    - id: 17
+      question: ¿Qué porcentaje protege la vacuna de Pfizer contra casos graves de Omicron ?
+      propositions:
+      - 90%
+      - 70%
+      - 30%
+      - 50%
+      réponse: 70%
+      anecdote: El número inusualmente alto de mutaciones de Omicron genera muchas preocupaciones sobre su capacidad para resistir las vacunas.
+    - id: 18
+      question: Además de Sudáfrica, ¿en qué otro país africano ha golpeado Omicron ?
+      propositions:
+      - Sudán
+      - Uganda
+      - Senegal
+      - Botswana
+      réponse: Botswana
+      anecdote: La aparición de Omicron ha llevado a algunos países a lanzar sus programas de retirada de COVID-19 para sus poblaciones adultas.
+    - id: 19
+      question: ¿Qué otra variante podría reemplazar rápidamente el Omicron en Europa ?
+      propositions:
+      - Gamma
+      - Alpha
+      - Delta
+      - Beta
+      réponse: Delta
+      anecdote: Quince de las mutaciones variantes de Omicron actúan como una presa para que el virus ingrese a las células humanas.
+    - id: 20
+      question: ¿Qué organización eligió el nombre Omicron para esta nueva variante ?
+      propositions:
+      - FMI
+      - ONU
+      - CEA
+      - QUIÉN
+      réponse: QUIÉN
+      anecdote: La OMS alienta a los países a contribuir a la recopilación y el intercambio de datos de pacientes hospitalizados.
+  - expert:
+    - id: 21
+      question: A finales de 2021, ¿en cuántos países se ha reportado la variante Omicron ?
+      propositions:
+      - 77
+      - 44
+      - 55
+      - 66
+      réponse: 77
+      anecdote: La realidad es que es probable que Omicron se encuentre en la mayoría de los países, aunque aún no se ha detectado.
+    - id: 22
+      question: ¿Qué nombre científico hay detrás de la variante Omicron ?
+      propositions:
+      - C.1.1.394
+      - K.1.1.877
+      - O.1.1.435
+      - B.1.1.529
+      réponse: B.1.1.529
+      anecdote: Actualmente, la OMS se está coordinando con un gran número de investigadores de todo el mundo para comprender mejor Omicron.
+    - id: 23
+      question: ¿Qué bloqueadores de receptores siguen siendo eficaces contra COVID-19 grave ?
+      propositions:
+      - IL6
+      - VC5
+      - GT3
+      - RS4
+      réponse: IL6
+      anecdote: Se evalúan otros tratamientos para analizar su eficacia, siguiendo los cambios realizados en determinadas partes del virus.
+    - id: 24
+      question: ¿Qué base de datos de acceso público reúne las secuencias del genoma ?
+      propositions:
+      - MUDIC
+      - RAVID
+      - DOMED
+      - GISAID
+      réponse: GISAID
+      anecdote: La Iniciativa GISAID promueve el intercambio rápido de datos de todos los virus de la influenza y el coronavirus que causa COVID-19.
+    - id: 25
+      question: ¿Qué linfocitos inducidos por la vacuna pueden combatir Omicron ?
+      propositions:
+      - Linfocitos D
+      - Linfocitos T
+      - Linfocitos G
+      - Linfocitos B
+      réponse: Linfocitos T
+      anecdote: La variante Omicron se convertirá en dominante muy rápidamente, como fue el caso de Delta antes.
+    - id: 26
+      question: ¿Cuántas modificaciones genéticas de Omicron se detectaron a finales de 2021 ?
+      propositions:
+      - 20
+      - 40
+      - 30
+      - 50
+      réponse: 50
+      anecdote: Los científicos esperan que estos cambios la hagan más heredable que la variante Delta dominante.
+    - id: 27
+      question: ¿Cuál es el número medio de casos nuevos provocados por cada infección ?
+      propositions:
+      - Valor U
+      - Valor T
+      - Valor S
+      - Valor R
+      réponse: Valor R
+      anecdote: Omicron es una muestra de mutaciones de cuatro variantes anteriores de interés : Alfa, Beta, Gamma y Delta.
+    - id: 28
+      question: ¿Qué mutación principal hace que la variante Omicron escape de la vacuna ?
+      propositions:
+      - D685H
+      - R346K
+      - V663M
+      - R864T
+      réponse: R346K
+      anecdote: Se observó una reducción de 41 veces (2 dosis) en los anticuerpos neutralizantes en comparación con la cepa original.
+    - id: 29
+      question: ¿Qué pruebas funcionan mediante la reacción en cadena de la polimerasa ?
+      propositions:
+      - HFC
+      - UCL
+      - VGA
+      - PCR
+      réponse: PCR
+      anecdote: Un viento de pánico parece soplar en el planeta Tierra ya que la variante Omicron ya ha abandonado el sur de África.
+    - id: 30
+      question: ¿Qué proteína variante de Omicron tiene 32 cambios impresionantes ?
+      propositions:
+      - U
+      - S
+      - R
+      - T
+      réponse: S
+      anecdote: Omicron porta mutaciones ya presentes en otras variantes que tienen efectos conocidos sobre el escape del sistema inmunológico.
+  it:
+  - débutant:
+    - id: 1
+      question: Quanto è facile trarre vantaggio dalla variante Omicron ?
+      propositions:
+      - Levitazione
+      - Propagazione
+      - Fulmigazione
+      - Scomparsa
+      réponse: Propagazione
+      anecdote: Il sistema immunitario è una macchina complessa e solo i risultati in condizioni reali ci permetteranno di saperne di più.
+    - id: 2
+      question: Quale paese è stato il primo ad essere fortemente colpito dalla variante Omicron ?
+      propositions:
+      - Sudafrica
+      - Brasile
+      - India
+      - Giappone
+      réponse: Sudafrica
+      anecdote: I paesi devono continuare ad attuare misure di salute pubblica efficaci per ridurre la circolazione globale di COVID-19.
+    - id: 3
+      question: Quale importante variante di COVID-19 ha preceduto la variante Omicron ?
+      propositions:
+      - Delta
+      - Beta
+      - Gamma
+      - Alfa
+      réponse: Delta
+      anecdote: Secondo Emmanuel André, la notizia non è buona, e arriva soprattutto in un momento di grande stanchezza per la società.
+    - id: 4
+      question: Quale processo rimane essenziale per ridurre malattie gravi e morte ?
+      propositions:
+      - Chirurgia
+      - Preghiera
+      - Omeopatia
+      - Vaccino
+      réponse: Vaccino
+      anecdote: È di vitale importanza che le disuguaglianze nell'accesso ai vaccini COVID-19 siano affrontate con urgenza.
+    - id: 5
+      question: Quali test possono rilevare la presenza di infezione da Omicron ?
+      propositions:
+      - PCR
+      - PNG
+      - PDF
+      - PLS
+      réponse: PCR
+      anecdote: Gli studi dovrebbero determinare se c'è un impatto su altri tipi di test, compresi i test di rilevamento rapido dell'antigene.
+    - id: 6
+      question: Qual è la distanza fisica minima consigliata dall'OMS ?
+      propositions:
+      - 7 metri
+      - 5 metri
+      - 3 metri
+      - 1 metro
+      réponse: 1 metro
+      anecdote: La variante Omicron di SARS-CoV-2 si diffonde a un ritmo più rapido rispetto alle precedenti varianti del coronavirus.
+    - id: 7
+      question: Cosa è importante fare quando si lavora a lungo in una stanza ?
+      propositions:
+      - Riscaldalo
+      - Aerarlo
+      - Scuriscilo
+      - Decoralo
+      réponse: Aerarlo
+      anecdote: Devi evitare spazi poco ventilati o sovraffollati, tenere le mani pulite e farti vaccinare quando è il tuo turno.
+    - id: 8
+      question: Qual è il primo sintomo precoce segnalato di infezione da Omicron ?
+      propositions:
+      - Mal di gola
+      - Piedi pesanti
+      - Costipazione
+      - Mal di stomaco
+      réponse: Mal di gola
+      anecdote: È seguito da congestione nasale, tosse secca e rigidità, manifestata da dolore lombare.
+    - id: 9
+      question: In Europa, quale vaccino viene utilizzato principalmente come terza dose ?
+      propositions:
+      - CureVac
+      - Pfizer
+      - Moderna
+      - AstraZeneca
+      réponse: Pfizer
+      anecdote: Moderna, Johnson e Johnson, Pfizer e BioNTech affermano che stanno già accelerando lo sviluppo di potenziali nuove versioni.
+    - id: 10
+      question: Quale metodo di lavoro potrebbe avere un effetto positivo sull'impatto sulla salute ?
+      propositions:
+      - Spazio aperto
+      - Faccia a faccia
+      - Alla catena
+      - Telelavoro
+      réponse: Telelavoro
+      anecdote: Uno sforzo collettivo e norme igieniche ridurrebbero il rischio di dover attuare misure più restrittive in seguito.
+  - confirmé:
+    - id: 11
+      question: In quale mese è stata segnalata per la prima volta la variante Omicron ?
+      propositions:
+      - Settembre 2021
+      - Novembre 2021
+      - ottobre 2021
+      - Dicembre 2021
+      réponse: Novembre 2021
+      anecdote: La situazione epidemiologica in Sudafrica è stata caratterizzata da tre picchi distinti nei casi segnalati, dovuti alla variante di preoccupazione.
+    - id: 12
+      question: In quale alfabeto la parola Omicron rappresenta la quindicesima lettera ?
+      propositions:
+      - latino
+      - greco
+      - arabo
+      - Persia
+      réponse: greco
+      anecdote: La terza dose aumenta il livello di anticorpi contro la variante Omicron a un livello simile a quello osservato con due dosi.
+    - id: 13
+      question: Oltre alle due dosi di vaccino, che mezzo dovrebbe occuparsi in parte di Omicron ?
+      propositions:
+      - Booster
+      - Napster
+      - Faster
+      - Starter
+      réponse: Booster
+      anecdote: I booster potrebbero svolgere un ruolo importante, soprattutto per coloro che sono maggiormente a rischio di morire per malattie gravi.
+    - id: 14
+      question: Quale ondata di COVID-19 in Sudafrica è stata pilotata da Omicron ?
+      propositions:
+      - Quinto
+      - Secondo
+      - Terzo
+      - Quarto
+      réponse: Quarto
+      anecdote: Questa ondata ha una traiettoria significativamente più veloce di nuove infezioni rispetto alle ondate precedenti.
+    - id: 15
+      question: Quale sarebbe il periodo medio di incubazione della variante Omicron ?
+      propositions:
+      - Sei giorni
+      - Nove giorni
+      - Dodici giorni
+      - Tre giorni
+      réponse: Tre giorni
+      anecdote: Un alto tasso di reinfezione e infezioni multiple nei vaccinati emergono dopo un breve periodo di incubazione.
+    - id: 16
+      question: Quale fascia di età è più colpita da Omicron in Sud Africa ?
+      propositions:
+      - dai 35 ai 39 anni
+      - dai 55 ai 59 anni
+      - da 45 a 49 anni
+      - dai 65 ai 69 anni
+      réponse: dai 35 ai 39 anni
+      anecdote: Non è chiaro come si evolverà il virus, quando sarà vaccinato solo il 35% della popolazione adulta del paese.
+    - id: 17
+      question: In quale percentuale il vaccino di Pfizer protegge dai casi gravi di Omicron ?
+      propositions:
+      - 30%
+      - 50%
+      - 70%
+      - 90%
+      réponse: 70%
+      anecdote: Il numero insolitamente elevato di mutazioni di Omicron solleva molte preoccupazioni sulla sua capacità di resistere ai vaccini.
+    - id: 18
+      question: Oltre al Sudafrica, in quale altro Paese africano ha colpito Omicron ?
+      propositions:
+      - Botswana
+      - Sudan
+      - Uganda
+      - Senegal
+      réponse: Botswana
+      anecdote: L'emergere di Omicron ha spinto alcuni paesi a lanciare i loro programmi di richiamo COVID-19 per le loro popolazioni adulte.
+    - id: 19
+      question: Quale altra variante potrebbe sostituire molto rapidamente l'Omicron in Europa ?
+      propositions:
+      - Gamma
+      - Beta
+      - Delta
+      - Alfa
+      réponse: Delta
+      anecdote: Quindici delle mutazioni varianti di Omicron agiscono come una presa per il virus per entrare nelle cellule umane.
+    - id: 20
+      question: Quale organizzazione ha scelto il nome Omicron per questa nuova variante ?
+      propositions:
+      - CEA
+      - CHI
+      - ONU
+      - FMI
+      réponse: CHI
+      anecdote: L'OMS incoraggia i paesi a contribuire alla raccolta e alla condivisione dei dati sui ricoveri.
+  - expert:
+    - id: 21
+      question: A fine 2021, in quanti paesi è stata segnalata la variante Omicron ?
+      propositions:
+      - 77
+      - 66
+      - 44
+      - 55
+      réponse: 77
+      anecdote: La realtà è che è probabile che l'Omicron si trovi nella maggior parte dei paesi, anche se deve ancora essere rilevato.
+    - id: 22
+      question: Quale nome scientifico si cela dietro la variante Omicron ?
+      propositions:
+      - B.1.1.529
+      - C.1.1.394
+      - O.1.1.435
+      - K.1.1.877
+      réponse: B.1.1.529
+      anecdote: Attualmente, l'OMS si sta coordinando con un gran numero di ricercatori in tutto il mondo per comprendere meglio Omicron.
+    - id: 23
+      question: Quali bloccanti dei recettori rimangono efficaci contro il COVID-19 grave ?
+      propositions:
+      - GT3
+      - IL6
+      - RS4
+      - VC5
+      réponse: IL6
+      anecdote: Altri trattamenti vengono valutati per analizzarne l'efficacia, a seguito delle modifiche apportate ad alcune parti del virus.
+    - id: 24
+      question: Quale database ad accesso pubblico riunisce le sequenze del genoma ?
+      propositions:
+      - RAVID
+      - MUDIC
+      - GISAID
+      - DOMED
+      réponse: GISAID
+      anecdote: L'iniziativa GISAID promuove la rapida condivisione dei dati di tutti i virus dell'influenza e del coronavirus che causano il COVID-19.
+    - id: 25
+      question: Quali linfociti indotti dal vaccino possono combattere Omicron ?
+      propositions:
+      - Linfociti B
+      - Linfociti G
+      - Linfociti T
+      - linfociti D
+      réponse: Linfociti T
+      anecdote: La variante Omicron è destinata a diventare dominante molto rapidamente, come nel caso di Delta prima di essa.
+    - id: 26
+      question: Quante modificazioni genetiche di Omicron sono state rilevate alla fine del 2021 ?
+      propositions:
+      - 40
+      - 30
+      - 50
+      - 20
+      réponse: 50
+      anecdote: Gli scienziati si aspettano che questi cambiamenti lo rendano più ereditabile rispetto alla variante Delta dominante.
+    - id: 27
+      question: Qual è il numero medio di nuovi casi causati da ciascuna infezione ?
+      propositions:
+      - Valore U
+      - Valore R
+      - Valore S
+      - Valore T
+      réponse: Valore R
+      anecdote: Omicron è un campione di mutazioni da quattro varianti precedenti di interesse : Alpha, Beta, Gamma e Delta.
+    - id: 28
+      question: Quale mutazione principale fa sì che la variante Omicron sfugga al vaccino ?
+      propositions:
+      - R864T
+      - D685H
+      - R346K
+      - V663M
+      réponse: R346K
+      anecdote: È stata osservata una riduzione di 41 volte (2 dosi) degli anticorpi neutralizzanti rispetto al ceppo originale.
+    - id: 29
+      question: Quali test funzionano con la reazione a catena della polimerasi ?
+      propositions:
+      - VGA
+      - PCR
+      - HFC
+      - UCL
+      réponse: PCR
+      anecdote: Un vento di panico sembra soffiare sul pianeta Terra poiché la variante Omicron ha già lasciato l'Africa meridionale.
+    - id: 30
+      question: Quale proteina variante di Omicron ha 32 cambiamenti impressionanti ?
+      propositions:
+      - S
+      - T
+      - R
+      - U
+      réponse: S
+      anecdote: Omicron porta mutazioni già presenti in altre varianti che hanno effetti noti sulla fuga del sistema immunitario.
+  nl:
+  - débutant:
+    - id: 1
+      question: Hoe gemakkelijk lijkt de Omicron-variant te profiteren ?
+      propositions:
+      - Levitatie
+      - Fulmigatie
+      - Voortplanting
+      - Verdwijning
+      réponse: Voortplanting
+      anecdote: Het immuunsysteem is een complexe machine en alleen resultaten in reële omstandigheden stellen ons in staat om meer te weten te komen.
+    - id: 2
+      question: Welk land werd als eerste sterk getroffen door de Omicron-variant ?
+      propositions:
+      - Brazilië
+      - Japan
+      - Indië
+      - Zuid-Afrika
+      réponse: Zuid-Afrika
+      anecdote: Landen moeten doorgaan met het implementeren van effectieve volksgezondheidsmaatregelen om de wereldwijde verspreiding van COVID-19 te verminderen.
+    - id: 3
+      question: Welke belangrijke variant van COVID-19 ging aan de Omicron-variant vooraf ?
+      propositions:
+      - Bèta
+      - Alfa
+      - Gamma
+      - Delta
+      réponse: Delta
+      anecdote: Volgens Emmanuel André is het nieuws niet goed en komt het vooral in een tijd van grote vermoeidheid voor de samenleving.
+    - id: 4
+      question: Welk proces blijft essentieel om ernstige ziekte en sterfte terug te dringen ?
+      propositions:
+      - Vaccin
+      - Homeopathie
+      - gebed
+      - Chirurgie
+      réponse: Vaccin
+      anecdote: Het is van cruciaal belang dat de ongelijkheden in de toegang tot COVID-19-vaccins dringend worden aangepakt.
+    - id: 5
+      question: Welke tests kunnen de aanwezigheid van een Omicron-infectie detecteren ?
+      propositions:
+      - PNG
+      - PCR
+      - PDF
+      - PLS
+      réponse: PCR
+      anecdote: Studies moeten bepalen of er een impact is op andere soorten tests, waaronder snelle antigeendetectietests.
+    - id: 6
+      question: Wat is de minimale fysieke afstand die door de WHO wordt aanbevolen ?
+      propositions:
+      - 7 meter
+      - 1 meter
+      - 3 meter
+      - 5 meter
+      réponse: 1 meter
+      anecdote: De Omicron-variant van SARS-CoV-2 verspreidt zich sneller dan eerdere varianten van het coronavirus.
+    - id: 7
+      question: Wat is belangrijk om te doen als je lang in een kamer werkt ?
+      propositions:
+      - Donkerder maken
+      - Verwarm het
+      - Ventileer het
+      - Versier het
+      réponse: Ventileer het
+      anecdote: Je moet slecht geventileerde of overvolle ruimtes vermijden, je handen schoon houden en je laten vaccineren als je aan de beurt bent.
+    - id: 8
+      question: Wat is het eerste gerapporteerde vroege symptoom van een Omicron-infectie ?
+      propositions:
+      - Buikpijn
+      - Zware voeten
+      - Constipatie
+      - Keelpijn
+      réponse: Keelpijn
+      anecdote: Het wordt gevolgd door verstopte neus, een droge hoest en stijfheid, gemanifesteerd door pijn in de onderrug.
+    - id: 9
+      question: Welk vaccin wordt in Europa voornamelijk als derde dosis gebruikt ?
+      propositions:
+      - CureVac
+      - Moderna
+      - AstraZeneca
+      - Pfizer
+      réponse: Pfizer
+      anecdote: Moderna, Johnson en Johnson, Pfizer en BioNTech zeggen allemaal dat ze de ontwikkeling van potentiële nieuwe versies al opvoeren.
+    - id: 10
+      question: Welke werkwijze zou een positief effect kunnen hebben op de gezondheidsimpact ?
+      propositions:
+      - Naar de ketting
+      - Telewerken
+      - Open ruimte
+      - Face-to-face
+      réponse: Telewerken
+      anecdote: Een collectieve inspanning en hygiëneregels zouden het risico verkleinen dat later strengere maatregelen moeten worden getroffen.
+  - confirmé:
+    - id: 11
+      question: In welke maand werd de Omicron-variant voor het eerst gemeld ?
+      propositions:
+      - december 2021
+      - september 2021
+      - november 2021
+      - oktober 2021
+      réponse: november 2021
+      anecdote: De epidemiologische situatie in Zuid-Afrika werd gekenmerkt door drie verschillende pieken in gerapporteerde gevallen, vanwege de variant van zorg.
+    - id: 12
+      question: Welk alfabet vertegenwoordigt het woord Omicron de vijftiende letter ?
+      propositions:
+      - Latijn
+      - Perzië
+      - Arabisch
+      - Grieks
+      réponse: Grieks
+      anecdote: De derde dosis verhoogt het antilichaamniveau tegen de Omicron-variant tot een niveau dat vergelijkbaar is met dat van twee doses.
+    - id: 13
+      question: Naast de twee doses vaccin, welke middelen zouden Omicron gedeeltelijk moeten behandelen ?
+      propositions:
+      - Faster
+      - Napster
+      - Starter
+      - Booster
+      réponse: Booster
+      anecdote: Boosters kunnen een belangrijke rol spelen, vooral voor degenen die het meeste risico lopen te overlijden aan een ernstige ziekte.
+    - id: 14
+      question: Welke golf van COVID-19 in Zuid-Afrika werd bestuurd door Omicron ?
+      propositions:
+      - Tweede
+      - vierde
+      - derde
+      - vijfde
+      réponse: vierde
+      anecdote: Deze golf heeft een aanzienlijk sneller traject van nieuwe infecties in vergelijking met eerdere golven.
+    - id: 15
+      question: Wat is de gemiddelde incubatietijd van de Omicron-variant ?
+      propositions:
+      - Drie dagen
+      - Negen dagen
+      - Zes dagen
+      - Twaalf dagen
+      réponse: Drie dagen
+      anecdote: Een hoge mate van herinfectie en meerdere infecties bij gevaccineerden treden op na een korte incubatieperiode.
+    - id: 16
+      question: Welke leeftijdsgroep wordt het meest getroffen door Omicron in Zuid-Afrika ?
+      propositions:
+      - 45 tot 49 jaar
+      - 55 tot 59 jaar
+      - 65 tot 69 jaar
+      - 35 tot 39 jaar
+      réponse: 35 tot 39 jaar
+      anecdote: Het is onduidelijk hoe het virus zich zal ontwikkelen, wanneer slechts 35% van de volwassen bevolking van het land wordt gevaccineerd.
+    - id: 17
+      question: Welk percentage beschermt het vaccin van Pfizer tegen ernstige gevallen van Omicron ?
+      propositions:
+      - 70%
+      - 30%
+      - 50%
+      - 90%
+      réponse: 70%
+      anecdote: Het ongewoon hoge aantal mutaties van Omicron roept veel zorgen op over zijn vermogen om vaccins te weerstaan.
+    - id: 18
+      question: In welk ander Afrikaans land heeft Omicron behalve Zuid-Afrika toegeslagen ?
+      propositions:
+      - Senegal
+      - Soedan
+      - Botswana
+      - Oeganda
+      réponse: Botswana
+      anecdote: De opkomst van Omicron heeft sommige landen ertoe aangezet hun terugroepprogramma's voor COVID-19 voor hun volwassen bevolking te lanceren.
+    - id: 19
+      question: Welke andere variant zou de Omicron in Europa heel snel kunnen vervangen ?
+      propositions:
+      - Gamma
+      - Alfa
+      - Delta
+      - Bèta
+      réponse: Delta
+      anecdote: Vijftien van de mutaties van de Omicron-variant werken als een grijper voor het virus om menselijke cellen binnen te dringen.
+    - id: 20
+      question: Welke organisatie koos de naam Omicron voor deze nieuwe variant ?
+      propositions:
+      - IMF
+      - WIE
+      - VN
+      - CEA
+      réponse: WIE
+      anecdote: De WHO moedigt landen aan om bij te dragen aan het verzamelen en delen van klinische gegevens.
+  - expert:
+    - id: 21
+      question: In hoeveel landen is de Omicron-variant eind 2021 gemeld ?
+      propositions:
+      - 44
+      - 55
+      - 66
+      - 77
+      réponse: 77
+      anecdote: De realiteit is dat Omicron waarschijnlijk in de meeste landen wordt aangetroffen, hoewel het nog moet worden gedetecteerd.
+    - id: 22
+      question: Welke wetenschappelijke naam zit er achter de Omicron-variant ?
+      propositions:
+      - B.1.1.529
+      - K.1.1.877
+      - C.1.1.394
+      - O.1.1.435
+      réponse: B.1.1.529
+      anecdote: Momenteel werkt de WHO samen met een groot aantal onderzoekers over de hele wereld om Omicron beter te begrijpen.
+    - id: 23
+      question: Welke receptorblokkers blijven effectief tegen ernstige COVID-19 ?
+      propositions:
+      - VC5
+      - IL6
+      - RS4
+      - GT3
+      réponse: IL6
+      anecdote: Andere behandelingen worden geëvalueerd om hun effectiviteit te analyseren, na wijzigingen die in bepaalde delen van het virus zijn aangebracht.
+    - id: 24
+      question: Welke publiek toegankelijke database brengt genoomsequenties samen ?
+      propositions:
+      - GISAID
+      - DOMED
+      - MUDIC
+      - RAVID
+      réponse: GISAID
+      anecdote: Het GISAID-initiatief bevordert het snel delen van gegevens van alle griepvirussen en het coronavirus dat COVID-19 veroorzaakt.
+    - id: 25
+      question: Welke door vaccins geïnduceerde lymfocyten kunnen Omicron bestrijden ?
+      propositions:
+      - B-lymfocyten
+      - T-lymfocyten
+      - G-lymfocyten
+      - D-lymfocyten
+      réponse: T-lymfocyten
+      anecdote: De Omicron-variant zal zeer snel dominant worden, zoals dat eerder het geval was bij Delta.
+    - id: 26
+      question: Hoeveel genetische modificaties van Omicron werden eind 2021 ontdekt ?
+      propositions:
+      - 50
+      - 30
+      - 40
+      - 20
+      réponse: 50
+      anecdote: Wetenschappers verwachten dat deze veranderingen het erfelijker zullen maken dan de dominante Delta-variant.
+    - id: 27
+      question: Wat is het gemiddelde aantal nieuwe gevallen veroorzaakt door elke infectie ?
+      propositions:
+      - U-waarde
+      - T-waarde
+      - R-waarde
+      - S-waarde
+      réponse: R-waarde
+      anecdote: Omicron is een steekproef van mutaties van vier eerdere zorgwekkende varianten : Alpha, Beta, Gamma en Delta.
+    - id: 28
+      question: Welke hoofdmutatie zorgt ervoor dat de Omicron-variant aan het vaccin ontsnapt ?
+      propositions:
+      - R346K
+      - R864T
+      - D685H
+      - V663M
+      réponse: R346K
+      anecdote: Een 41-voudige vermindering (2 doses) in neutraliserende antilichamen werd waargenomen in vergelijking met de oorspronkelijke stam.
+    - id: 29
+      question: Welke tests werken door polymerasekettingreactie ?
+      propositions:
+      - HFC
+      - VGA
+      - PCR
+      - UCL
+      réponse: PCR
+      anecdote: Er lijkt een wind van paniek over planeet Aarde te waaien sinds de Omicron-variant zuidelijk Afrika al heeft verlaten.
+    - id: 30
+      question: Welk eiwit van de Omicron-variant heeft 32 indrukwekkende veranderingen ?
+      propositions:
+      - U
+      - S
+      - T
+      - R
+      réponse: S
+      anecdote: Omicron draagt mutaties die al aanwezig zijn in andere varianten die bekende effecten hebben op de ontsnapping van het immuunsysteem.

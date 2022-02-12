@@ -1,0 +1,280 @@
+---
+fournisseur: OpenQuizzDB - Fournisseur de contenu libre (https://www.openquizzdb.org)
+rédacteur: Philippe Bresoux
+thème: Geocaching (Partez à la chasse aux trésors)
+difficulté: 2 / 5
+quizz:
+  fr:
+  - débutant:
+    - id: 1
+      question: Comment appelle-t-on la « boîte » que l'on recherche en pratiquant le geocaching ?
+      propositions:
+      - Un casse-tête
+      - Une surprise
+      - Une cache
+      - Une mega
+      réponse: Une cache
+      anecdote: Une géocache typique est constituée d'un contenant étanche et résistant, d'un registre des visites et d'un ou plusieurs « trésors ».
+    - id: 2
+      question: Quel objet permet de vous adonner aux joies du geocaching pour trouver des caches ?
+      propositions:
+      - Parapluie
+      - Crayon
+      - Lampe de poche
+      - GPS
+      réponse: GPS
+      anecdote: Ce système de géolocalisation mondial repose sur l'exploitation de signaux radio émis par des satellites dédiés.
+    - id: 3
+      question: Pour permettre à une géocache un meilleure longévité, celle-ci doit en principe être...
+      propositions:
+      - Ouverte
+      - Cartonnée
+      - Étanche
+      - Colorée
+      réponse: Étanche
+      anecdote: L'étanchéité physique concerne l'interdiction de passage d'un solide, d'un fluide ou d'un gaz, souvent au moyen d'un joint.
+    - id: 4
+      question: Quel registre de visites retrouve-t-on dans la plupart des caches en geocaching ?
+      propositions:
+      - Fascicule
+      - Dépliant
+      - Logbook
+      - Modèle
+      réponse: Logbook
+      anecdote: Les participants enregistrent leur découverte à l'intérieur de la géocache et/ou la partagent sur un site web communautaire dédié.
+    - id: 5
+      question: Grâce à quoi pouvez-vous télécharger des coordonnées à injecter dans un GPS ?
+      propositions:
+      - Don
+      - Abonnement
+      - Parrainage
+      - Invitation
+      réponse: Abonnement
+      anecdote: Un abonnement, d'une trentaine d'euros par an, permet de disposer en geocaching d'options facilitant le jeu.
+    - id: 6
+      question: Que devez-vous faire suivant la règle du géocaching en prenant un objet ?
+      propositions:
+      - Le détruire
+      - Le lancer
+      - En laisser un autre
+      - Le laver
+      réponse: En laisser un autre
+      anecdote: Des petits jouets ou bibelots sans valeur constituent généralement le contenu d'une géocache typique.
+    - id: 7
+      question: Que devez-vous résoudre avant d'obtenir les coordonnées finales de certaines caches ?
+      propositions:
+      - Des mots-fléchés
+      - Un sudoku
+      - Une énigme
+      - Des mots-croisés
+      réponse: Une énigme
+      anecdote: Les coordonnées d'une cache « mystère » ne sont pas publiées et doivent être résolues sur le terrain ou sur internet.
+    - id: 8
+      question: Où faut-il replacer une cache après l'avoir retrouvé via ses coordonnées GPS ?
+      propositions:
+      - Sous sa veste
+      - Dans sa poche
+      - Au sol
+      - Au même endroit
+      réponse: Au même endroit
+      anecdote: Les cordonnées GPS étant précises, la cache une fois trouvée doit impérativement être remise à sa place pour les joueurs suivants.
+    - id: 9
+      question: Que doit faire un géochercheur qui a créé et placé une cache dans un endroit public ?
+      propositions:
+      - L'entretenir
+      - L'oublier
+      - La peindre
+      - La critiquer
+      réponse: L'entretenir
+      anecdote: Il peut arriver qu'une cache soit endommagée par les intempéries ou les animaux, vandalisée, ou simplement détruite lors de travaux.
+    - id: 10
+      question: Pour quel type de cache les coordonnées sont-elles publiées dans sa description ?
+      propositions:
+      - Voyage
+      - Traditionnelle
+      - Mystère
+      - Magique
+      réponse: Traditionnelle
+      anecdote: Reste aux participants à trouver via leur GPS le contenant de la cache traditionnelle pour en signer le registre des visites.
+  - confirmé:
+    - id: 11
+      question: Dans lequel de ces terrains est-il proscrit de placer une cache en geocaching ?
+      propositions:
+      - En pente
+      - Privé
+      - Public
+      - Accidenté
+      réponse: Privé
+      anecdote: Le code éthique des géochercheurs décourage les caches sur des terrains dont l'accès est défendu par les autorités.
+    - id: 12
+      question: Comment sont souvent désignés par leurs pratiquants les non-initiés au geocaching ?
+      propositions:
+      - Les rapetous
+      - Les moldus
+      - Les gobelins
+      - Les cracmous
+      réponse: Les moldus
+      anecdote: Cette appellation, faisant partie du jargon du geocaching, est en fait une référence à la série littéraire « Harry Potter ».
+    - id: 13
+      question: Quel acronyme désigne, en geocaching, le premier à avoir trouvé une cache ?
+      propositions:
+      - MPLC
+      - YAPTIDKA
+      - CRACKERA
+      - FTF
+      réponse: FTF
+      anecdote: Certains géochercheurs ne visent que les FTF (« First To Find ») et sont à l'affût de toute nouvelle cache proposée.
+    - id: 14
+      question: En geocaching, quelle cache indique le point de départ de la piste menant au trésor ?
+      propositions:
+      - Webcam
+      - Traditionnelle
+      - Virtuelle
+      - Multiple
+      réponse: Multiple
+      anecdote: La piste est composée de plusieurs points de passage qui peuvent être autant de contenants ou d'indices à trouver.
+    - id: 15
+      question: Combien de caches environ le site officiel de geocaching a-t-il recensé en 2013 ?
+      propositions:
+      - 1 000 000
+      - 2 000 000
+      - 400 000
+      - 800 000
+      réponse: 2 000 000
+      anecdote: Ces deux millions de géocaches sont répertoriées dans 222 pays sur les différents sites web communautaires dédiés à ce loisir.
+    - id: 16
+      question: Quelle société de Seattle gère notamment le site web geocaching.com depuis 2000 ?
+      propositions:
+      - Freshground
+      - Groundspeak
+      - Hypasearch
+      - Planetcity
+      réponse: Groundspeak
+      anecdote: Le geocaching est la première activité combinant la technologie GPS et internet pour la chasse aux trésors.
+    - id: 17
+      question: Quelles boîtes en plastique sont très souvent utilisées en geocaching de par leur étanchéité ?
+      propositions:
+      - EDA
+      - Rotho
+      - NuTek
+      - Tupperware
+      réponse: Tupperware
+      anecdote: La société fut fondée en 1946 par l'ingénieur américain Earl Tupper, inventeur du bol hermétique en polyéthylène.
+    - id: 18
+      question: Quels types de caches sont la plupart du temps privilégiées pour le géocaching urbain ?
+      propositions:
+      - Petites
+      - Maxis
+      - Micros
+      - Grandes
+      réponse: Micros
+      anecdote: Le géocaching urbain nécessite un camouflage plus habile et à l'épreuve des curieux que les caches en milieu rural.
+    - id: 19
+      question: Grâce à quel type de cache les géocacheurs se donnent-ils une date pour se rencontrer ?
+      propositions:
+      - Monday
+      - Survey
+      - Common
+      - Event
+      réponse: Event
+      anecdote: C'est lors d'occasions particulières comme un anniversaire ou une inauguration de site qu'un event est parfois organisé.
+    - id: 20
+      question: Comment appelle-t-on un rassemblement de plus de 5 000 géochercheurs ?
+      propositions:
+      - Un maxi
+      - Une giga
+      - Une mega
+      - Un super
+      réponse: Une giga
+      anecdote: Les Giga-Events sont la plus grande des types de cache d'événements et disposent d'excellentes activités.
+  - expert:
+    - id: 21
+      question: En geocaching, quelles caches ont des coordonnées visibles par des abonnés ?
+      propositions:
+      - Argent
+      - Privilège
+      - Gold
+      - Premium
+      réponse: Premium
+      anecdote: La grande majorité des caches sont cependant accessibles à des abonnés dits 'basiques' (inscription gratuite).
+    - id: 22
+      question: Quel objet présent dans une cache possède un identifiant spécifique pour le suivre ?
+      propositions:
+      - Doodie do
+      - Crush
+      - Bluebird
+      - Travel bug
+      réponse: Travel bug
+      anecdote: Libre ensuite aux géochercheurs trouvant la cache de contribuer au progrès d'expédition du travel bug.
+    - id: 23
+      question: En quelle année la première cache a-t-elle pu être localisée par GPS puis documentée ?
+      propositions:
+      - 2000
+      - 1995
+      - 2005
+      - 1990
+      réponse: 2000
+      anecdote: Le géocaching n'était pas possible techniquement avant la désactivation de la disponibilité sélective du GPS.
+    - id: 24
+      question: Qui fut le premier en 2000 à placer une cache destinée à être retrouvée via un GPS ?
+      propositions:
+      - Dave Ulmer
+      - Jeremy Irish
+      - Elias Alvord
+      - Bryan Roth
+      réponse: Dave Ulmer
+      anecdote: Originaire de l'Oregon, les coordonnées de la cache de Dave Ulmer furent publiées sur le groupe Usenet sci.geo.satellite-nav.
+    - id: 25
+      question: Comment le geocaching était-il à l'origine appelé par ses premiers participants ?
+      propositions:
+      - GPS stash hunt
+      - Cache cache
+      - Catch me
+      - Treasure hunt
+      réponse: GPS stash hunt
+      anecdote: Après une discussion dans le groupe gpsstash du site web eGroups, Matt Stum suggéra le terme « geocaching ».
+    - id: 26
+      question: Qui suggéra le nom « geocaching » à la place de « stash », aux connotations négatives ?
+      propositions:
+      - Dave Ulmer
+      - Jeremy Irish
+      - Elias Alvord
+      - Matt Stum
+      réponse: Matt Stum
+      anecdote: Le geocaching était à l'origine appelé « GPS stash huntp » par ses premiers participants.
+    - id: 27
+      question: Comment appelle-t-on un rassemblement de plus de 500 géochercheurs ?
+      propositions:
+      - Une supra
+      - Une mega
+      - Une nova
+      - Une giga
+      réponse: Une mega
+      anecdote: Le but des Mega-Events est de renforcer la communauté de géocaching à travers des expériences étonnantes.
+    - id: 28
+      question: Quelles pièces sans valeur sont frappées par des sociétés de geocaching ?
+      propositions:
+      - Ripple
+      - Bitcoin
+      - Scrypt
+      - Geomonnaie
+      réponse: Geomonnaie
+      anecdote: Cette geomonnaie, sans valeur fiduciaire ou numismatique, possède souvent un numéro de série unique.
+    - id: 29
+      question: Quel acronyme permet de remercier un géocacheur pour avoir placé une cache ?
+      propositions:
+      - PAT
+      - FTF
+      - FTL
+      - MPLC
+      réponse: MPLC
+      anecdote: Les participants du géocaching utilisent, comme les internautes, de nombreux acronymes, comme ici, Merci Pour La Cache.
+    - id: 30
+      question: Combien de personnes environ, réparties sur toute la planète, pratiquent le geocaching ?
+      propositions:
+      - 5 000 000
+      - 4 000 000
+      - 6 000 000
+      - 3 000 000
+      réponse: 6 000 000
+      anecdote: La plupart des smartphones possédant aujourd'hui un GPS intégré, le nombre de joueurs ne fait que s'accroître.

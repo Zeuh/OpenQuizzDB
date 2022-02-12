@@ -1,0 +1,1650 @@
+---
+fournisseur: OpenQuizzDB - Fournisseur de contenu libre (https://www.openquizzdb.org)
+rédacteur: Philippe Bresoux
+thème: Arbres fruitiers (Du verger aux petits arbres d'ornement)
+difficulté: 4 / 5
+quizz:
+  fr:
+  - débutant:
+    - id: 1
+      question: De quoi est issu le fruit qui pousse dans la plupart de nos arbres fruitiers ?
+      propositions:
+      - Une racine
+      - Une fleur
+      - Une feuille
+      - Une branche
+      réponse: Une fleur
+      anecdote: Cependant, tous les fruits consommés par l'homme ne sont pas exclusivement produits par des arbres.
+    - id: 2
+      question: Quel espace de terrain est dévolu à la culture d'arbres fruitiers ?
+      propositions:
+      - Potager
+      - Friche
+      - Verger
+      - Jardinière
+      réponse: Verger
+      anecdote: Il existe différents types de vergers : les vergers conservatoires, les prés-vergers, les vergers commerciaux et de jardin potager.
+    - id: 3
+      question: Quels fruits possèdent une teneur en eau réduite, avec une plus longue conservation ?
+      propositions:
+      - Fruits secs
+      - Fruits tempérés
+      - Fruits AOC
+      - Fruits rouges
+      réponse: Fruits secs
+      anecdote: Les fruits secs peuvent se consommer tels quels ou s'incorporer à des recettes de cuisine, spécialement des recettes de pâtisserie.
+    - id: 4
+      question: Quel arbre fruitier est utilisé pour ses qualités ornementales en Chine et au Japon ?
+      propositions:
+      - Cerisier
+      - Châtaignier
+      - Grenadier
+      - Pêcher
+      réponse: Cerisier
+      anecdote: Les cerisiers ornementaux sont aussi cultivés ailleurs dans le monde comme plantation d'alignement le long des rues.
+    - id: 5
+      question: Lequel de ces arbres peut donner un fruit à la peau duveteuse ou lisse ?
+      propositions:
+      - Cerisier
+      - Citronnier
+      - Poirier
+      - Pêcher
+      réponse: Pêcher
+      anecdote: On peut classer les pêchers en quatre groupes : peau veloutée, peau lisse, noyau adhérant à la chair ou se détachant librement.
+    - id: 6
+      question: Quel arbre est particulièrement apprécié des écureuils pour les fruits qu'il produit ?
+      propositions:
+      - Manguier
+      - Noisetier
+      - Cerisier
+      - Cocotier
+      réponse: Noisetier
+      anecdote: Le noisetier serait une des rares espèces de l'ère secondaire (-70 millions d'années) à avoir survécu jusqu'à nos jours.
+    - id: 7
+      question: De quel arbre connaît-on à ce jour plus de 20 000 variétés de fruits ?
+      propositions:
+      - Pommier
+      - Pêcher
+      - Poirier
+      - Cerisier
+      réponse: Pommier
+      anecdote: Les espèces cultivées uniquement à titre ornemental sont souvent appelées de manière générique « pommier à fleurs ».
+    - id: 8
+      question: Quel arbre fruitier produit la reine-claude ou encore la mirabelle de Nancy ?
+      propositions:
+      - Cerisier
+      - Cognassier
+      - Châtaignier
+      - Prunier
+      réponse: Prunier
+      anecdote: La reine-claude a été « créée » en France à la suite de la découverte d'une prune verte sur un arbre importé d'Asie.
+    - id: 9
+      question: Quel fruit se mange en dragée, en massepain ou déguisé dans la frangipane ?
+      propositions:
+      - Noisette
+      - Amande
+      - Mûre
+      - Cerise
+      réponse: Amande
+      anecdote: L'amande est un fruit à coque ressemblant à une petite pêche verte dont la chair reste mince, dure et sèche.
+    - id: 10
+      question: Quel petit arbre fruitier est cultivé dans les régions méditerranéennes et subtropicales ?
+      propositions:
+      - Châtaignier
+      - Citronnier
+      - Pêcher
+      - Cerisier
+      réponse: Citronnier
+      anecdote: En France, la culture du citronnier est principalement cantonnée à la Côte d'Azur (région de Menton) et à la Corse.
+  - confirmé:
+    - id: 11
+      question: Quel arbre propose un fruit renfermé dans une bogue ?
+      propositions:
+      - Prunier
+      - Cerisier
+      - Châtaignier
+      - Noisetier
+      réponse: Châtaignier
+      anecdote: Une fois la châtaigne ramassée, le séchoir à châtaignes permettra son séchage à des fins de conservation.
+    - id: 12
+      question: Quelle branche de l'arboriculture est spécialisée dans la culture des arbres fruitiers ?
+      propositions:
+      - Fruviculture
+      - Graniculture
+      - Floriculture
+      - Fruiticulture
+      réponse: Fruiticulture
+      anecdote: Au Moyen Âge, les monastères possédaient un verger planté d'arbres  fruitiers sous lesquels les moines étaient ensevelis.
+    - id: 13
+      question: Quelle catégorie de fruits le sorbier permet-il de récolter ?
+      propositions:
+      - Secs
+      - Tempérés
+      - Charnus
+      - Forestiers
+      réponse: Forestiers
+      anecdote: Les sorbiers et les alisiers sont des arbustes ou des arbres qui croissent notamment dans les forêts collinéennes et montagnardes.
+    - id: 14
+      question: Quels insectes attaquent principalement les feuilles des arbres fruitiers ?
+      propositions:
+      - Pucerons
+      - Termites
+      - Criquets
+      - Scolytes
+      réponse: Pucerons
+      anecdote: L'une des espèces ravageuses les plus connues est le phylloxéra, qui a atteint la quasi-totalité du vignoble français au XIXe siècle.
+    - id: 15
+      question: Quel oiseau est considéré comme ravageur pour les fruits poussant sur nos arbres ?
+      propositions:
+      - Colibri
+      - Perruche
+      - Merle
+      - Buse
+      réponse: Merle
+      anecdote: En plus des fruits de nos arbres, les merles se nourrissent aussi d'insectes, de vers et de divers autres petits animaux.
+    - id: 16
+      question: Quel oiseau est réputé pour souvent détruire les bourgeons des arbres fruitiers ?
+      propositions:
+      - Hibou
+      - Héron
+      - Coucou
+      - Mésange
+      réponse: Mésange
+      anecdote: Dans nos contrées, les mésanges nichent dans des trous d'arbres, mais utilisent souvent les nichoirs dans les jardins.
+    - id: 17
+      question: Quel arbre propose une drupe comestible à peau veloutée, de couleur jaune orangé ?
+      propositions:
+      - Abricotier
+      - Tamarinier
+      - Goyavier
+      - Cerisier
+      réponse: Abricotier
+      anecdote: L'abricotier est une espèce vigoureuse : il peut atteindre plus de six mètres de hauteur en situation naturelle favorable.
+    - id: 18
+      question: Quelle opération botanique consiste à multiplier la production des arbres fruitiers ?
+      propositions:
+      - Greffe
+      - Pollinisation
+      - Bouturage
+      - Germination
+      réponse: Greffe
+      anecdote: Le greffage est une opération qui consiste à implanter dans les tissus d'une plante un bourgeon ou un fragment quelconque.
+    - id: 19
+      question: Quel arbre fruitier, dont le bois est utilisé pour les charpentes, a pour nom latin Castanea ?
+      propositions:
+      - Pommier
+      - Châtaignier
+      - Noisetier
+      - Mûrier
+      réponse: Châtaignier
+      anecdote: Dans la bogue, qui est une sorte de boîte ronde et épineuse, se trouve le fruit : la châtaigne.
+    - id: 20
+      question: Quelle partie extérieure à la coque est spécifique à la noix ?
+      propositions:
+      - Brou
+      - Carmin
+      - Cramoisi
+      - Pourpre
+      réponse: Brou
+      anecdote: La partie charnue autour de la coquille émet un jus qui tache, utilisé en teinturerie : le brou de noix.
+  - expert:
+    - id: 21
+      question: Comment appelle-t-on un arbre fruitier dont le tronc mesure plus de 1.60 m de hauteur ? 
+      propositions:
+      - Mégaphylle
+      - Haute-tige
+      - Caudex
+      - Rhizome
+      réponse: Haute-tige
+      anecdote: La culture en haute-tige, utilisée en pré-verger, se raréfie au profit des monocultures de vergers basse-tiges.
+    - id: 22
+      question: Quel arbre fruitier de la famille des Bétulacées est aussi appelé coudrier ?
+      propositions:
+      - Noisetier
+      - Poirier
+      - Mûrier
+      - Bananier
+      réponse: Noisetier
+      anecdote: Le noisetier intéresse beaucoup les trufficulteurs car il peut vivre en symbiose avec la truffe et il enrichit les truffières.
+    - id: 23
+      question: Quels insectes ravageurs se nourrissent de la sève des arbres fruitiers ?
+      propositions:
+      - Bruches
+      - Mineuses
+      - Scolytes
+      - Teignes
+      réponse: Scolytes
+      anecdote: Le scolyte ne peut directement digérer le bois en raison de la présence de lignine et de cellulose.
+    - id: 24
+      question: Laquelle de ces propositions ne désigne pas une taille utilisée pour les arbres fruitiers ?
+      propositions:
+      - Plein vent
+      - Cordon
+      - Enveloppe
+      - Fuseau
+      réponse: Enveloppe
+      anecdote: Une taille de forme particulière permet d'améliorer considérablement la fructification en optimisant l'exposition à la lumière.
+    - id: 25
+      question: Dans nos contrées, quel est le premier arbre fruitier à fleurir à la fin de l'hiver ?
+      propositions:
+      - Poirier
+      - Amandier
+      - Noyer
+      - Pommier
+      réponse: Amandier
+      anecdote: L'amandier, avec ses fleurs d'un blanc rosé, est un des symboles de l'amour et de la virginité.
+    - id: 26
+      question: Quel arbre fruitier doit son nom à une ville espagnole ?
+      propositions:
+      - Figuier
+      - Grenadier
+      - Noyer
+      - Bergamotier
+      réponse: Grenadier
+      anecdote: Le grenadier peut vivre jusqu'à 200 ans mais reste le plus productif en fruits seulement dans ses vingt premières années.
+    - id: 27
+      question: Quel arbre fruitier est l'unique représentant du genre Cydonia ?
+      propositions:
+      - Pêcher
+      - Cerisier
+      - Cognassier
+      - Châtaignier
+      réponse: Cognassier
+      anecdote: Les fruits du cognassier, du genre Cydonia, sont des coings appelés aussi pommes d'or ou poires de Cydonie.
+    - id: 28
+      question: Lequel de ces arbres propose un fruit proche cousin du pommier et du poirier ?
+      propositions:
+      - Cocotier
+      - Jujubier
+      - Manguier
+      - Cognassier
+      réponse: Cognassier
+      anecdote: La plupart des variétés perdent leur voile cotonneux avant la fin de l'automne, lorsque le fruit devient jaune doré à maturité.
+    - id: 29
+      question: Quel fruit possède la plus forte charge symbolique dans le monde chinois ?
+      propositions:
+      - Citron
+      - Pêche
+      - Pomme
+      - Poire
+      réponse: Pêche
+      anecdote: La région de Fenghua, en Chine continentale, est réputée pour ses pêches et en particulier pour la pêche juteuse au miel.
+    - id: 30
+      question: Quel arbre fruitier, composé environ d'une dizaine d'espèces, peut être blanc ou noir ?
+      propositions:
+      - Mûrier
+      - Noyer
+      - Bergamotier
+      - Figuier
+      réponse: Mûrier
+      anecdote: Il ne faut pas confondre les mûriers avec les ronces, plantes ligneuses de la famille des Rosacées.
+  en:
+  - débutant:
+    - id: 1
+      question: What does the fruit that grows in most of our fruit trees come from ?
+      propositions:
+      - A leaf
+      - A branch
+      - A flower
+      - A root
+      réponse: A flower
+      anecdote: However, not all fruit consumed by humans is produced exclusively by trees.
+    - id: 2
+      question: What land space is devoted to the cultivation of fruit trees ?
+      propositions:
+      - Planter
+      - Vegetable garden
+      - Orchard
+      - Wasteland
+      réponse: Orchard
+      anecdote: There are different types of orchards: conservatory orchards, meadow orchards, commercial orchards and vegetable gardens.
+    - id: 3
+      question: Which fruits have a reduced water content, with a longer shelf life ?
+      propositions:
+      - Dried fruits
+      - Temperate fruits
+      - Red fruits
+      - AOC fruits
+      réponse: Dried fruits
+      anecdote: Dried fruits can be eaten as is or incorporated into cooking recipes, especially baking recipes.
+    - id: 4
+      question: Which fruit tree is used for its ornamental qualities in China and Japan ?
+      propositions:
+      - To fish
+      - Chestnut tree
+      - Cherry tree
+      - Grenadier
+      réponse: Cherry tree
+      anecdote: Ornamental cherry trees are also grown elsewhere in the world as a row planting along streets.
+    - id: 5
+      question: Which of these trees can give a fruit with a fluffy or smooth skin ?
+      propositions:
+      - Lemon tree
+      - Cherry tree
+      - Pear tree
+      - To fish
+      réponse: To fish
+      anecdote: Peach trees can be classified into four groups: velvety skin, smooth skin, kernel adhering to the flesh or loosely peeling off.
+    - id: 6
+      question: Which tree is particularly popular with squirrels for the fruit it produces ?
+      propositions:
+      - Mango tree
+      - Coconut tree
+      - Hazelnut
+      - Cherry tree
+      réponse: Hazelnut
+      anecdote: The hazel tree is said to be one of the rare species from the secondary era (-70 million years old) to have survived to the present day.
+    - id: 7
+      question: From which tree do we know more than 20,000 varieties of fruit ?
+      propositions:
+      - Cherry tree
+      - Apple tree
+      - Pear tree
+      - To fish
+      réponse: Apple tree
+      anecdote: Species grown only for ornamental purposes are often generically referred to as flowering apple trees.
+    - id: 8
+      question: Which fruit tree produces the Reine-claude or the Mirabelle de Nancy ?
+      propositions:
+      - Quince tree
+      - Chestnut tree
+      - Cherry tree
+      - Plum tree
+      réponse: Plum tree
+      anecdote: Reine-claude was created in France following the discovery of a green plum on a tree imported from Asia.
+    - id: 9
+      question: Which fruit is eaten in dragee, marzipan or disguised in frangipane ?
+      propositions:
+      - Almond
+      - Hazelnut
+      - Cherry
+      - Blackberry
+      réponse: Almond
+      anecdote: The almond is a nut resembling a small green peach whose flesh remains thin, hard and dry.
+    - id: 10
+      question: Which small fruit tree is grown in the Mediterranean and subtropics ?
+      propositions:
+      - Cherry tree
+      - Lemon tree
+      - Chestnut tree
+      - To fish
+      réponse: Lemon tree
+      anecdote: In France, the cultivation of the lemon tree is mainly confined to the Côte d'Azur (region of Menton) and Corsica.
+  - confirmé:
+    - id: 11
+      question: Which tree offers a fruit enclosed in a bug ?
+      propositions:
+      - Chestnut tree
+      - Cherry tree
+      - Plum tree
+      - Hazelnut
+      réponse: Chestnut tree
+      anecdote: Once the chestnut has been collected, the chestnut dryer will allow it to dry for preservation.
+    - id: 12
+      question: Which branch of arboriculture specializes in growing fruit trees ?
+      propositions:
+      - Graniculture
+      - Fruviculture
+      - Fruit growing
+      - Floriculture
+      réponse: Fruit growing
+      anecdote: In the Middle Ages, the monasteries had an orchard planted with fruit trees under which the monks were buried.
+    - id: 13
+      question: What category of fruit can the rowan tree harvest ?
+      propositions:
+      - Dry
+      - Fleshy
+      - Temperate
+      - Foresters
+      réponse: Foresters
+      anecdote: Rowan trees and alis trees are shrubs or trees that grow especially in hill and mountain forests.
+    - id: 14
+      question: Which insects primarily attack the leaves of fruit trees ?
+      propositions:
+      - Termites
+      - Scolytes
+      - Locusts
+      - Aphids
+      réponse: Aphids
+      anecdote: One of the best-known pest species is phylloxera, which reached almost all of French vineyards in the 19th century.
+    - id: 15
+      question: Which bird is considered a pest for the fruits growing on our trees ?
+      propositions:
+      - Merle
+      - Hummingbird
+      - Nozzle
+      - Parakeet
+      réponse: Merle
+      anecdote: In addition to the fruits of our trees, blackbirds also feed on insects, worms and various other small animals.
+    - id: 16
+      question: Which bird is known to often destroy the buds of fruit trees ?
+      propositions:
+      - Owl
+      - Hello
+      - Tit
+      - Heron
+      réponse: Tit
+      anecdote: In our regions, chickadees nest in tree holes, but often use nest boxes in gardens.
+    - id: 17
+      question: Which tree offers an edible, velvety-skinned, orange-yellow drupe ?
+      propositions:
+      - Apricot tree
+      - Tamarind
+      - Cherry tree
+      - Guava
+      réponse: Apricot tree
+      anecdote: The apricot tree is a vigorous species: it can reach more than six meters in height in favorable natural conditions.
+    - id: 18
+      question: What botanical operation consists in multiplying the production of fruit trees ?
+      propositions:
+      - Registry
+      - Pollination
+      - Cuttings
+      - Germination
+      réponse: Registry
+      anecdote: Grafting is an operation which consists in implanting in the tissues of a plant a bud or any fragment.
+    - id: 19
+      question: Which fruit tree, the wood of which is used for frameworks, has the Latin name Castanea ?
+      propositions:
+      - Apple tree
+      - Chestnut tree
+      - Mulberry
+      - Hazelnut
+      réponse: Chestnut tree
+      anecdote: In the bug, which is a kind of round thorny box, is the fruit: the chestnut.
+    - id: 20
+      question: What part outside the shell is specific to walnuts ?
+      propositions:
+      - Brou
+      - Purple
+      - Crimson
+      - Carmine
+      réponse: Brou
+      anecdote: The fleshy part around the shell emits a juice that stains, used in dyeing: walnut stain.
+  - expert:
+    - id: 21
+      question: What do you call a fruit tree whose trunk is more than 1.60 m high ?
+      propositions:
+      - Rhizome
+      - High-rod
+      - Megaphyll
+      - Caudex
+      réponse: High-rod
+      anecdote: High-stem cultivation, used in pre-orchards, is becoming scarce in favor of monocultures of low-stem orchards.
+    - id: 22
+      question: Which fruit tree of the Betulaceae family is also called a coudier ?
+      propositions:
+      - Banana tree
+      - Pear tree
+      - Mulberry
+      - Hazelnut
+      réponse: Hazelnut
+      anecdote: The hazelnut tree is of great interest to truffle growers because it can live in symbiosis with the truffle and it enriches truffles.
+    - id: 23
+      question: Which insect pests feed on the sap of fruit trees ?
+      propositions:
+      - Leafminers
+      - Ringworms
+      - Scolytes
+      - Bruches
+      réponse: Scolytes
+      anecdote: The bark beetle cannot directly digest wood due to the presence of lignin and cellulose.
+    - id: 24
+      question: Which of the following does not designate a size used for fruit trees ?
+      propositions:
+      - Full wind
+      - Cord
+      - Envelope
+      - Time zone
+      réponse: Envelope
+      anecdote: A specially shaped pruning significantly improves fruiting by optimizing exposure to light.
+    - id: 25
+      question: In our regions, what is the first fruit tree to flower at the end of winter ?
+      propositions:
+      - Apple tree
+      - Pear tree
+      - Almond tree
+      - Walnut
+      réponse: Almond tree
+      anecdote: The almond tree, with its pinkish white flowers, is one of the symbols of love and virginity.
+    - id: 26
+      question: Which fruit tree owes its name to a Spanish city ?
+      propositions:
+      - Grenadier
+      - Bergamot tree
+      - Fig tree
+      - Walnut
+      réponse: Grenadier
+      anecdote: The pomegranate can live up to 200 years but remains the most productive in fruit only in its first twenty years.
+    - id: 27
+      question: Which fruit tree is the only representative of the genus Cydonia ?
+      propositions:
+      - Cherry tree
+      - Chestnut tree
+      - Quince tree
+      - To fish
+      réponse: Quince tree
+      anecdote: The fruits of the quince tree, of the genus Cydonia, are quinces also called golden apples or Cydonia pears.
+    - id: 28
+      question: Which of these trees has a fruit that is closely related to apple and pear ?
+      propositions:
+      - Coconut tree
+      - Jujube tree
+      - Quince tree
+      - Mango tree
+      réponse: Quince tree
+      anecdote: Most varieties lose their cottony veil before late fall, when the fruit turns golden yellow when ripe.
+    - id: 29
+      question: Which fruit has the strongest symbolic weight in the Chinese world ?
+      propositions:
+      - Fishing
+      - Lemon
+      - Pear
+      - Apple
+      réponse: Fishing
+      anecdote: The Fenghua region in mainland China is famous for its peaches and especially for the juicy honey peach.
+    - id: 30
+      question: Which fruit tree, composed of around ten species, can be white or black ?
+      propositions:
+      - Bergamot tree
+      - Mulberry
+      - Fig tree
+      - Walnut
+      réponse: Mulberry
+      anecdote: Mulberry trees should not be confused with brambles, woody plants of the Rosaceae family.
+  de:
+  - débutant:
+    - id: 1
+      question: Woher stammen die Früchte, die in den meisten unserer Obstbäume wachsen ?
+      propositions:
+      - Eine Wurzel
+      - Ein Zweig
+      - Eine Blume
+      - Ein Blatt
+      réponse: Eine Blume
+      anecdote: Allerdings werden nicht alle vom Menschen verzehrten Früchte ausschließlich von Bäumen produziert.
+    - id: 2
+      question: Welcher Landraum ist dem Anbau von Obstbäumen gewidmet ?
+      propositions:
+      - Obstgarten
+      - Pflanzgefäß
+      - Gemüsegarten
+      - Ödland
+      réponse: Obstgarten
+      anecdote: Es gibt verschiedene Arten von Obstgärten: Wintergartenplantagen, Wiesenplantagen, kommerzielle Obstgärten und Gemüsegärten.
+    - id: 3
+      question: Welche Früchte haben einen reduzierten Wassergehalt und eine längere Haltbarkeit ?
+      propositions:
+      - Trockenfrüchte
+      - AOC Früchte
+      - Gemäßigte Früchte ","Fruits tempérés
+      - Rote Früchte
+      réponse: Trockenfrüchte
+      anecdote: Trockenfrüchte können unverändert gegessen oder in Kochrezepte, insbesondere Backrezepte, aufgenommen werden.
+    - id: 4
+      question: Welcher Obstbaum wird in China und Japan wegen seiner Zierqualitäten verwendet ?
+      propositions:
+      - Kastanienbaum
+      - Grenadier
+      - Fischen
+      - Kirschbaum
+      réponse: Kirschbaum
+      anecdote: Zierkirschbäume werden auch anderswo auf der Welt als Reihenpflanzung entlang der Straßen kultiviert.
+    - id: 5
+      question: Welcher dieser Bäume kann eine Frucht mit einer flauschigen oder glatten Haut ergeben ?
+      propositions:
+      - Zitronenbaum
+      - Fischen
+      - Kirschbaum
+      - Birnbaum
+      réponse: Fischen
+      anecdote: Pfirsichbäume können in vier Gruppen eingeteilt werden: samtige Haut, glatte Haut, am Fleisch haftender Kern oder lockeres Abblättern.
+    - id: 6
+      question: Welcher Baum ist bei Eichhörnchen besonders beliebt für die Früchte, die er produziert ?
+      propositions:
+      - Haselnuss
+      - Kokosnussbaum
+      - Kirschbaum
+      - Mangobaum
+      réponse: Haselnuss
+      anecdote: Der Haselnussbaum soll eine der seltenen Arten aus der Sekundarstufe (-70 Millionen Jahre alt) sein, die bis heute überlebt haben.
+    - id: 7
+      question: Von welchem Baum kennen wir mehr als 20.000 Obstsorten ?
+      propositions:
+      - Birnbaum
+      - Kirschbaum
+      - Apfelbaum
+      - Fischen
+      réponse: Apfelbaum
+      anecdote: Arten, die nur zu Zierzwecken angebaut werden, werden häufig allgemein als blühende Apfelbäume bezeichnet.
+    - id: 8
+      question: Welcher Obstbaum produziert die Reine-Claude oder die Mirabelle de Nancy ?
+      propositions:
+      - Pflaumenbaum
+      - Quittenbaum
+      - Kastanienbaum
+      - Kirschbaum
+      réponse: Pflaumenbaum
+      anecdote: Reine-claude wurde in Frankreich nach der Entdeckung einer grünen Pflaume auf einem aus Asien importierten Baum geschaffen.
+    - id: 9
+      question: Welche Früchte werden in Dragee, Marzipan oder in Frangipane getarnt gegessen ?
+      propositions:
+      - Kirsche
+      - Brombeere
+      - Mandel
+      - Haselnuss
+      réponse: Mandel
+      anecdote: Die Mandel ist eine Nuss, die einem kleinen grünen Pfirsich ähnelt, dessen Fruchtfleisch dünn, hart und trocken bleibt.
+    - id: 10
+      question: Welcher kleine Obstbaum wächst im Mittelmeerraum und in den Subtropen ?
+      propositions:
+      - Fischen
+      - Kastanienbaum
+      - Kirschbaum
+      - Zitronenbaum
+      réponse: Zitronenbaum
+      anecdote: In Frankreich beschränkt sich der Anbau des Zitronenbaums hauptsächlich auf die Côte d'Azur (Region Menton) und Korsika.
+  - confirmé:
+    - id: 11
+      question: Welcher Baum bietet eine Frucht, die in einem Käfer eingeschlossen ist ?
+      propositions:
+      - Haselnuss
+      - Kastanienbaum
+      - Pflaumenbaum
+      - Kirschbaum
+      réponse: Kastanienbaum
+      anecdote: Sobald die Kastanie gesammelt wurde, lässt der Kastanientrockner sie zur Konservierung trocknen.
+    - id: 12
+      question: Welcher Baumzuchtzweig ist auf den Anbau von Obstbäumen spezialisiert ?
+      propositions:
+      - Graniculture
+      - Blumenzucht
+      - Obstbau
+      - Obstbau
+      réponse: Obstbau
+      anecdote: Im Mittelalter hatten die Klöster einen Obstgarten mit Obstbäumen bepflanzt, unter dem die Mönche begraben wurden.
+    - id: 13
+      question: Welche Obstkategorie kann der Ebereschenbaum ernten ?
+      propositions:
+      - Trocken
+      - Förster
+      - Gemäßigt
+      - Fleischig
+      réponse: Förster
+      anecdote: Ebereschen- und Alis-Bäume sind Sträucher oder Bäume, die besonders in Hügel- und Bergwäldern wachsen.
+    - id: 14
+      question: Welche Insekten befallen hauptsächlich die Blätter von Obstbäumen ?
+      propositions:
+      - Blattläuse
+      - Termiten
+      - Heuschrecken
+      - Scolytes
+      réponse: Blattläuse
+      anecdote: Eine der bekanntesten Schädlingsarten ist die Reblaus, die im 19. Jahrhundert fast alle französischen Weinberge erreichte.
+    - id: 15
+      question: Welcher Vogel gilt als Schädling für die Früchte, die auf unseren Bäumen wachsen ?
+      propositions:
+      - Düse
+      - Kolibri
+      - Merle
+      - Sittich
+      réponse: Merle
+      anecdote: Neben den Früchten unserer Bäume ernähren sich Amseln auch von Insekten, Würmern und verschiedenen anderen Kleintieren.
+    - id: 16
+      question: Welcher Vogel zerstört bekanntermaßen oft die Knospen von Obstbäumen ?
+      propositions:
+      - Reiher
+      - Hallo
+      - Eule
+      - Tit
+      réponse: Tit
+      anecdote: In unseren Regionen nisten Chickadees in Baumlöchern, verwenden aber häufig Nistkästen in Gärten.
+    - id: 17
+      question: Welcher Baum bietet eine essbare, samtige, orange-gelbe Steinfrucht ?
+      propositions:
+      - Tamarinde
+      - Aprikosenbaum
+      - Kirschbaum
+      - Guave
+      réponse: Aprikosenbaum
+      anecdote: Der Aprikosenbaum ist eine kräftige Art: Er kann unter günstigen natürlichen Bedingungen eine Höhe von mehr als sechs Metern erreichen.
+    - id: 18
+      question: Welche botanische Operation besteht darin, die Produktion von Obstbäumen zu vervielfachen ?
+      propositions:
+      - Bestäubung
+      - Stecklinge
+      - Keimung
+      - Registrierung
+      réponse: Registrierung
+      anecdote: Das Pfropfen ist eine Operation, bei der eine Knospe oder ein beliebiges Fragment in das Gewebe einer Pflanze implantiert wird.
+    - id: 19
+      question: Welcher Obstbaum, dessen Holz für Gerüste verwendet wird, hat den lateinischen Namen Castanea ?
+      propositions:
+      - Maulbeere
+      - Kastanienbaum
+      - Haselnuss
+      - Apfelbaum
+      réponse: Kastanienbaum
+      anecdote: In dem Käfer, der eine Art runde dornige Schachtel ist, befindet sich die Frucht: die Kastanie.
+    - id: 20
+      question: Welcher Teil außerhalb der Schale ist spezifisch für Walnüsse ?
+      propositions:
+      - Karmin
+      - Purpur
+      - Lila
+      - Brou
+      réponse: Brou
+      anecdote: Der fleischige Teil um die Schale gibt einen Saft ab, der beim Färben Flecken hinterlässt: Walnussflecken.
+  - expert:
+    - id: 21
+      question: Wie nennt man einen Obstbaum, dessen Stamm mehr als 1,60 m hoch ist ?
+      propositions:
+      - High-Rod
+      - Caudex
+      - Megaphyll
+      - Rhizom
+      réponse: High-Rod
+      anecdote: Hochstammanbau, der in Vorobstgärten verwendet wird, wird zugunsten von Monokulturen von Niedrigstammplantagen immer knapper.
+    - id: 22
+      question: Welcher Obstbaum der Familie der Betulaceae wird auch als Coudier bezeichnet ?
+      propositions:
+      - Maulbeere
+      - Haselnuss
+      - Birnbaum
+      - Bananenbaum
+      réponse: Haselnuss
+      anecdote: Der Haselnussbaum ist für Trüffelzüchter von großem Interesse, da er in Symbiose mit dem Trüffel leben kann und Trüffel anreichert.
+    - id: 23
+      question: Welche Insektenschädlinge ernähren sich vom Saft von Obstbäumen ?
+      propositions:
+      - Scolytes
+      - Leafminers
+      - Bruches
+      - Ringwürmer
+      réponse: Scolytes
+      anecdote: Der Borkenkäfer kann Holz aufgrund von Lignin und Cellulose nicht direkt verdauen.
+    - id: 24
+      question: Welche der folgenden Angaben kennzeichnet keine Größe für Obstbäume ?
+      propositions:
+      - Umschlag
+      - Voller Wind
+      - Zeitzone
+      - Schnur
+      réponse: Umschlag
+      anecdote: Ein speziell geformter Schnitt verbessert die Fruchtbildung erheblich, indem die Belichtung optimiert wird.
+    - id: 25
+      question: Was ist in unseren Regionen der erste Obstbaum, der am Ende des Winters blüht ?
+      propositions:
+      - Walnuss
+      - Birnbaum
+      - Mandelbaum
+      - Apfelbaum
+      réponse: Mandelbaum
+      anecdote: Der Mandelbaum mit seinen rosa-weißen Blüten ist eines der Symbole für Liebe und Jungfräulichkeit.
+    - id: 26
+      question: Welcher Obstbaum verdankt seinen Namen einer spanischen Stadt ?
+      propositions:
+      - Feigenbaum
+      - Walnuss
+      - Bergamottenbaum
+      - Grenadier
+      réponse: Grenadier
+      anecdote: Der Granatapfel kann bis zu 200 Jahre alt werden, bleibt aber erst in den ersten zwanzig Jahren der produktivste in Obst.
+    - id: 27
+      question: Welcher Obstbaum ist der einzige Vertreter der Gattung Cydonia ?
+      propositions:
+      - Fischen
+      - Kirschbaum
+      - Kastanienbaum
+      - Quittenbaum
+      réponse: Quittenbaum
+      anecdote: Die Früchte des Quittenbaums der Gattung Cydonia sind Quitten, die auch als goldene Äpfel oder Cydonia-Birnen bezeichnet werden.
+    - id: 28
+      question: Welcher dieser Bäume hat eine Frucht, die eng mit Apfel und Birne verwandt ist ?
+      propositions:
+      - Mangobaum
+      - Kokosnussbaum
+      - Quittenbaum
+      - Jujubebaum
+      réponse: Quittenbaum
+      anecdote: Die meisten Sorten verlieren ihren Baumwollschleier vor dem späten Herbst, wenn die Frucht im reifen Zustand goldgelb wird.
+    - id: 29
+      question: Welche Frucht hat das stärkste symbolische Gewicht in der chinesischen Welt ?
+      propositions:
+      - Birne
+      - Zitrone
+      - Angeln
+      - Apple
+      réponse: Angeln
+      anecdote: Die Fenghua-Region auf dem chinesischen Festland ist berühmt für ihre Pfirsiche und insbesondere für den saftigen Honigpfirsich.
+    - id: 30
+      question: Welcher Obstbaum, der aus etwa zehn Arten besteht, kann weiß oder schwarz sein ?
+      propositions:
+      - Bergamottenbaum
+      - Walnuss
+      - Maulbeere
+      - Feigenbaum
+      réponse: Maulbeere
+      anecdote: Maulbeerbäume sollten nicht mit Brombeersträuchern der Familie der Rosaceae verwechselt werden.
+  es:
+  - débutant:
+    - id: 1
+      question: ¿De qué proviene la fruta que crece en la mayoría de nuestros árboles frutales ?
+      propositions:
+      - Una rama
+      - Una flor
+      - Una hoja
+      - Una raíz
+      réponse: Una flor
+      anecdote: Sin embargo, no toda la fruta consumida por los seres humanos es producida exclusivamente por árboles.
+    - id: 2
+      question: ¿Qué espacio de tierra se dedica al cultivo de árboles frutales ?
+      propositions:
+      - Huerta
+      - Huerto
+      - Wasteland
+      - Jardinera
+      réponse: Huerto
+      anecdote: Hay diferentes tipos de huertas: huertas de invernadero, huertas de pradera, huertas comerciales y huertas.
+    - id: 3
+      question: ¿Qué frutas tienen un contenido de agua reducido, con una vida útil más larga ?
+      propositions:
+      - Frutas templadas
+      - Frutos rojos
+      - Frutos secos
+      - Frutas AOC
+      réponse: Frutos secos
+      anecdote: Las frutas secas se pueden comer tal cual o incorporarlas en recetas de cocina, especialmente recetas para hornear.
+    - id: 4
+      question: ¿Qué árbol frutal se utiliza por sus cualidades ornamentales en China y Japón ?
+      propositions:
+      - Castaño
+      - Cerezo
+      - Granadero
+      - Pescar
+      réponse: Cerezo
+      anecdote: Los cerezos ornamentales también se cultivan en otras partes del mundo en hileras a lo largo de las calles.
+    - id: 5
+      question: ¿Cuál de estos árboles puede dar una fruta con piel suave o esponjosa ?
+      propositions:
+      - Árbol de limón
+      - Cerezo
+      - Pescar
+      - Peral
+      réponse: Pescar
+      anecdote: Los melocotoneros se pueden clasificar en cuatro grupos: piel aterciopelada, piel suave, grano adherido a la pulpa o pelado libremente.
+    - id: 6
+      question: ¿Qué árbol es particularmente popular entre las ardillas por la fruta que produce ?
+      propositions:
+      - Avellana
+      - Árbol de coco
+      - Árbol de mango
+      - Cerezo
+      réponse: Avellana
+      anecdote: Se dice que el avellano es una de las raras especies de la era secundaria (-70 millones de años) que ha sobrevivido hasta nuestros días.
+    - id: 7
+      question: ¿De qué árbol conocemos más de 20.000 variedades de frutos ?
+      propositions:
+      - Manzano
+      - Cerezo
+      - Pescar
+      - Peral
+      réponse: Manzano
+      anecdote: Las especies cultivadas solo con fines ornamentales a menudo se conocen genéricamente como manzanos en flor.
+    - id: 8
+      question: ¿Qué árbol frutal produce el Reine-claude o el Mirabelle de Nancy ?
+      propositions:
+      - Ciruelo
+      - Castaño
+      - Cerezo
+      - Árbol de membrillo
+      réponse: Ciruelo
+      anecdote: Reine-claude se creó en Francia tras el descubrimiento de una ciruela verde en un árbol importado de Asia.
+    - id: 9
+      question: ¿Qué fruta se come en gragea, mazapán o disfrazada de frangipane ?
+      propositions:
+      - Avellana
+      - Cherry
+      - Almendra
+      - Blackberry
+      réponse: Almendra
+      anecdote: La almendra es una nuez que se asemeja a un pequeño melocotón verde cuya pulpa permanece fina, dura y seca.
+    - id: 10
+      question: ¿Qué pequeño árbol frutal se cultiva en el Mediterráneo y los subtrópicos ?
+      propositions:
+      - Cerezo
+      - Pescar
+      - Árbol de limón
+      - Castaño
+      réponse: Árbol de limón
+      anecdote: En Francia, el cultivo del limonero se limita principalmente a la Côte d'Azur (región de Menton) y Córcega.
+  - confirmé:
+    - id: 11
+      question: ¿Qué árbol ofrece una fruta encerrada en un insecto ?
+      propositions:
+      - Cerezo
+      - Avellana
+      - Castaño
+      - Ciruelo
+      réponse: Castaño
+      anecdote: Una vez que se ha recogido la castaña, el secador de castañas permitirá que se seque para su conservación.
+    - id: 12
+      question: ¿Qué rama de la arboricultura se especializa en el cultivo de árboles frutales ?
+      propositions:
+      - Cultivo de frutas
+      - Fruvicultura
+      - Floricultura
+      - Granicultura
+      réponse: Cultivo de frutas
+      anecdote: En la Edad Media, los monasterios tenían un huerto plantado de árboles frutales bajo el cual se enterraba a los monjes.
+    - id: 13
+      question: ¿Qué categoría de fruta puede cosechar el árbol de serbal ?
+      propositions:
+      - Silvicultores
+      - Templado
+      - Seco
+      - Carnoso
+      réponse: Silvicultores
+      anecdote: Los árboles de serbal y alis son arbustos o árboles que crecen especialmente en bosques de colinas y montañas.
+    - id: 14
+      question: ¿Qué insectos atacan principalmente las hojas de los árboles frutales ?
+      propositions:
+      - Pulgones
+      - Termitas
+      - Scolytes
+      - Langostas
+      réponse: Pulgones
+      anecdote: Una de las plagas más conocidas es la filoxera, que llegó a casi todos los viñedos franceses en el siglo XIX.
+    - id: 15
+      question: ¿Qué ave se considera una plaga para las frutas que crecen en nuestros árboles ?
+      propositions:
+      - Periquito
+      - Merle
+      - Colibrí
+      - Boquilla
+      réponse: Merle
+      anecdote: Además de los frutos de nuestros árboles, los mirlos también se alimentan de insectos, gusanos y otros animales pequeños.
+    - id: 16
+      question: ¿Qué ave se sabe que a menudo destruye las yemas de los árboles frutales ?
+      propositions:
+      - Heron
+      - Tit
+      - Hola ","Coucou
+      - Búho
+      réponse: Tit
+      anecdote: En nuestras regiones, los carboneros anidan en los agujeros de los árboles, pero a menudo usan cajas nido en los jardines.
+    - id: 17
+      question: ¿Qué árbol ofrece una drupa comestible de piel aterciopelada de color amarillo anaranjado ?
+      propositions:
+      - Árbol de albaricoque
+      - Tamarindo
+      - Cerezo
+      - Guayaba
+      réponse: Árbol de albaricoque
+      anecdote: El albaricoquero es una especie vigorosa: puede alcanzar más de seis metros de altura en condiciones naturales favorables.
+    - id: 18
+      question: ¿Qué operación botánica consiste en multiplicar la producción de frutales ?
+      propositions:
+      - Germinación
+      - Polinización
+      - Esquejes
+      - Registro
+      réponse: Registro
+      anecdote: El injerto es una operación que consiste en implantar en los tejidos de una planta una yema o cualquier fragmento.
+    - id: 19
+      question: ¿Qué árbol frutal, cuya madera se utiliza para marcos, tiene el nombre latino Castanea ?
+      propositions:
+      - Mulberry
+      - Castaño
+      - Avellana
+      - Manzano
+      réponse: Castaño
+      anecdote: En el insecto, que es una especie de caja espinosa redonda, está la fruta: la castaña.
+    - id: 20
+      question: ¿Qué parte exterior de la cáscara es específica de las nueces ?
+      propositions:
+      - Carmine
+      - Brou
+      - Crimson
+      - Púrpura
+      réponse: Brou
+      anecdote: La parte carnosa alrededor de la cáscara emite un jugo que tiñe, utilizado en la tintura: mancha de nuez.
+  - expert:
+    - id: 21
+      question: ¿Cómo se llama un árbol frutal cuyo tronco tiene más de 1,60 m de altura ?
+      propositions:
+      - Rizoma
+      - Caña alta
+      - Megaphyll
+      - Caudex
+      réponse: Caña alta
+      anecdote: El cultivo de tallo alto, utilizado en pre-huertos, se está volviendo escaso a favor de los monocultivos de huertos de tallo bajo.
+    - id: 22
+      question: ¿Qué árbol frutal de la familia Betulaceae también se llama coudier ?
+      propositions:
+      - Árbol de plátano
+      - Peral
+      - Avellana
+      - Mulberry
+      réponse: Avellana
+      anecdote: El árbol de la avellana es de gran interés para los trucheros porque puede vivir en simbiosis con la trufa y enriquece las trufas.
+    - id: 23
+      question: ¿Qué plagas de insectos se alimentan de la savia de los árboles frutales ?
+      propositions:
+      - Tiña
+      - Mineros de hojas
+      - Bruches
+      - Scolytes
+      réponse: Scolytes
+      anecdote: El escarabajo de la corteza no puede digerir directamente la madera debido a la presencia de lignina y celulosa.
+    - id: 24
+      question: ¿Cuál de los siguientes no designa un tamaño utilizado para árboles frutales ?
+      propositions:
+      - Zona horaria
+      - Viento completo
+      - Cordón
+      - Sobre
+      réponse: Sobre
+      anecdote: Una poda de forma especial mejora significativamente la fructificación al optimizar la exposición a la luz.
+    - id: 25
+      question: En nuestras regiones, ¿cuál es el primer árbol frutal que florece al final del invierno ?
+      propositions:
+      - Almendro
+      - Peral
+      - Manzano
+      - Nuez
+      réponse: Almendro
+      anecdote: El almendro, con sus flores blancas rosáceas, es uno de los símbolos del amor y la virginidad.
+    - id: 26
+      question: ¿Qué árbol frutal debe su nombre a una ciudad española ?
+      propositions:
+      - Árbol de bergamota
+      - Nuez
+      - Higuera
+      - Granadero
+      réponse: Granadero
+      anecdote: La granada puede vivir hasta 200 años, pero sigue siendo la fruta más productiva solo en sus primeros veinte años.
+    - id: 27
+      question: ¿Qué árbol frutal es el único representante del género Cydonia ?
+      propositions:
+      - Castaño
+      - Pescar
+      - Árbol de membrillo
+      - Cerezo
+      réponse: Árbol de membrillo
+      anecdote: Los frutos del membrillo, del género Cydonia, son membrillos también llamados manzanas doradas o peras Cydonia.
+    - id: 28
+      question: ¿Cuál de estos árboles tiene una fruta que está estrechamente relacionada con la manzana y la pera ?
+      propositions:
+      - Árbol de mango
+      - Árbol de coco
+      - Árbol de membrillo
+      - Árbol de azufaifo
+      réponse: Árbol de membrillo
+      anecdote: La mayoría de las variedades pierden su velo algodonoso antes de finales del otoño, cuando la fruta se vuelve amarilla dorada cuando está madura.
+    - id: 29
+      question: ¿Qué fruta tiene el mayor peso simbólico en el mundo chino ?
+      propositions:
+      - Pera
+      - Limón
+      - Pesca
+      - Apple
+      réponse: Pesca
+      anecdote: La región de Fenghua en China continental es famosa por sus melocotones y especialmente por el jugoso melocotón de miel.
+    - id: 30
+      question: ¿Qué árbol frutal, compuesto por unas diez especies, puede ser blanco o negro ?
+      propositions:
+      - Higuera
+      - Mulberry
+      - Nuez
+      - Árbol de bergamota
+      réponse: Mulberry
+      anecdote: Las moreras no deben confundirse con las zarzas, plantas leñosas de la familia de las rosáceas.
+  it:
+  - débutant:
+    - id: 1
+      question: Da cosa proviene il frutto che cresce nella maggior parte dei nostri alberi da frutto ?
+      propositions:
+      - Un fiore
+      - Una radice
+      - Un ramo
+      - Una foglia
+      réponse: Un fiore
+      anecdote: Tuttavia, non tutta la frutta consumata dall'uomo è prodotta esclusivamente dagli alberi.
+    - id: 2
+      question: Quale spazio terrestre è dedicato alla coltivazione di alberi da frutto ?
+      propositions:
+      - Fioriera
+      - Orto
+      - Frutteto
+      - Wasteland
+      réponse: Frutteto
+      anecdote: Esistono diversi tipi di frutteti: frutteti a giardino d'inverno, frutteti a prato, frutteti commerciali e orti.
+    - id: 3
+      question: Quali frutti hanno un contenuto d'acqua ridotto, con una maggiore conservabilità ?
+      propositions:
+      - Frutti DOP
+      - Frutta secca
+      - Frutti rossi
+      - Frutti temperati
+      réponse: Frutta secca
+      anecdote: La frutta secca può essere consumata così com'è o incorporata nelle ricette di cucina, in particolare nelle ricette di cottura.
+    - id: 4
+      question: Quale albero da frutto viene utilizzato per le sue qualità ornamentali in Cina e Giappone ?
+      propositions:
+      - Ciliegio
+      - Pescare
+      - Grenadier
+      - Castagno
+      réponse: Ciliegio
+      anecdote: I ciliegi ornamentali vengono coltivati anche in altre parti del mondo come filari che piantano lungo le strade.
+    - id: 5
+      question: Quale di questi alberi può dare un frutto con una buccia soffice o liscia ?
+      propositions:
+      - Albero di limone
+      - Pescare
+      - Pero
+      - Ciliegio
+      réponse: Pescare
+      anecdote: Gli alberi di pesco possono essere classificati in quattro gruppi: buccia vellutata, buccia liscia, nocciolo che aderisce alla carne o che si stacca liberamente.
+    - id: 6
+      question: Quale albero è particolarmente apprezzato dagli scoiattoli per i frutti che produce ?
+      propositions:
+      - Nocciola
+      - Albero di cocco
+      - Albero di mango
+      - Ciliegio
+      réponse: Nocciola
+      anecdote: Si dice che il nocciolo sia una delle specie rare dell'era secondaria (-70 milioni di anni) sopravvissuta fino ai giorni nostri.
+    - id: 7
+      question: Di quale albero conosciamo più di 20.000 varietà di frutta ?
+      propositions:
+      - Pescare
+      - Pero
+      - Melo
+      - Ciliegio
+      réponse: Melo
+      anecdote: Le specie coltivate solo per scopi ornamentali sono spesso chiamate genericamente meli in fiore.
+    - id: 8
+      question: Quale albero da frutto produce la Reine-claude o la Mirabelle de Nancy ?
+      propositions:
+      - Ciliegio
+      - Susino
+      - Albero di mele cotogne
+      - Castagno
+      réponse: Susino
+      anecdote: Reine-claude nasce in Francia in seguito alla scoperta di una prugna verde su un albero importato dall'Asia.
+    - id: 9
+      question: Quale frutto si mangia in confetto, marzapane o camuffato in frangipane ?
+      propositions:
+      - Mandorla
+      - Blackberry
+      - Nocciola
+      - Cherry
+      réponse: Mandorla
+      anecdote: La mandorla è una noce che ricorda una piccola pesca verde la cui polpa rimane sottile, dura e asciutta.
+    - id: 10
+      question: Quale piccolo albero da frutto viene coltivato nel Mediterraneo e nelle regioni subtropicali ?
+      propositions:
+      - Pescare
+      - Castagno
+      - Albero di limone
+      - Ciliegio
+      réponse: Albero di limone
+      anecdote: In Francia, la coltivazione della pianta del limone è limitata principalmente alla Costa Azzurra (regione di Mentone) e alla Corsica.
+  - confirmé:
+    - id: 11
+      question: Quale albero offre un frutto racchiuso in un insetto ?
+      propositions:
+      - Susino
+      - Castagno
+      - Ciliegio
+      - Nocciola
+      réponse: Castagno
+      anecdote: Una volta che la castagna è stata raccolta, l'essiccatoio le permetterà di essiccare per la conservazione.
+    - id: 12
+      question: Quale ramo dell'arboricoltura è specializzato nella coltivazione di alberi da frutto ?
+      propositions:
+      - Frutticoltura
+      - Granicoltura
+      - Floricoltura
+      - Fruvicoltura
+      réponse: Frutticoltura
+      anecdote: Nel Medioevo i monasteri avevano un frutteto piantumato con alberi da frutto sotto il quale venivano sepolti i monaci.
+    - id: 13
+      question: Quale categoria di frutti può raccogliere il sorbo ?
+      propositions:
+      - Carnoso
+      - Secco
+      - Temperato
+      - Forestali
+      réponse: Forestali
+      anecdote: Rowan e alis sono arbusti o alberi che crescono soprattutto nelle foreste di collina e montagna.
+    - id: 14
+      question: Quali insetti attaccano principalmente le foglie degli alberi da frutto ?
+      propositions:
+      - Locuste
+      - Termiti
+      - Scolytes
+      - Afidi
+      réponse: Afidi
+      anecdote: Una delle specie di parassiti più note è la fillossera, che nel XIX secolo raggiunse quasi tutti i vigneti francesi.
+    - id: 15
+      question: Quale uccello è considerato un parassita per i frutti che crescono sui nostri alberi ?
+      propositions:
+      - Colibrì
+      - Parrocchetto
+      - Ugello
+      - Merle
+      réponse: Merle
+      anecdote: Oltre ai frutti dei nostri alberi, i merli si nutrono anche di insetti, vermi e vari altri piccoli animali.
+    - id: 16
+      question: Quale uccello è noto per distruggere spesso i boccioli degli alberi da frutto ?
+      propositions:
+      - Gufo
+      - Airone
+      - Tit
+      - Ciao
+      réponse: Tit
+      anecdote: Nelle nostre regioni, le cince nidificano nelle cavità degli alberi, ma spesso usano cassette nido nei giardini.
+    - id: 17
+      question: Quale albero offre una drupa giallo arancia commestibile, dalla pelle vellutata ?
+      propositions:
+      - Albicocco
+      - Ciliegio
+      - Tamarindo
+      - Guava
+      réponse: Albicocco
+      anecdote: L'albicocco è una specie vigorosa: può raggiungere più di sei metri di altezza in condizioni naturali favorevoli.
+    - id: 18
+      question: Quale operazione botanica consiste nel moltiplicare la produzione di alberi da frutto ?
+      propositions:
+      - Impollinazione
+      - Registro
+      - Germinazione
+      - Talee
+      réponse: Registro
+      anecdote: L'innesto è un'operazione che consiste nell'impiantare nei tessuti di una pianta una gemma o un qualsiasi frammento.
+    - id: 19
+      question: Quale albero da frutto, il cui legno viene utilizzato per le cornici, ha il nome latino Castanea ?
+      propositions:
+      - Nocciola
+      - Mulberry
+      - Melo
+      - Castagno
+      réponse: Castagno
+      anecdote: Nell'insetto, che è una specie di scatola rotonda spinosa, c'è il frutto: la castagna.
+    - id: 20
+      question: Quale parte esterna al guscio è specifica delle noci ?
+      propositions:
+      - Carmine
+      - Brou
+      - Viola
+      - Cremisi
+      réponse: Brou
+      anecdote: La parte carnosa attorno al guscio emette un succo che macchia, utilizzato nella tintura: macchia di noce.
+  - expert:
+    - id: 21
+      question: Come si chiama un albero da frutto il cui tronco è alto più di 1,60 m ?
+      propositions:
+      - Caudex
+      - High-rod
+      - Rizoma
+      - Megaphyll
+      réponse: High-rod
+      anecdote: La coltivazione ad alto fusto, utilizzata nei pre-frutteti, sta diventando scarsa a favore delle monocolture di frutteti a fusto basso.
+    - id: 22
+      question: Quale albero da frutto della famiglia delle Betulaceae è anche chiamato coudier ?
+      propositions:
+      - Pero
+      - Nocciola
+      - Albero di banane
+      - Mulberry
+      réponse: Nocciola
+      anecdote: Il nocciolo è di grande interesse per i tartufai perché può vivere in simbiosi con il tartufo e arricchire il tartufo.
+    - id: 23
+      question: Quali insetti nocivi si nutrono della linfa degli alberi da frutto ?
+      propositions:
+      - Leafminers
+      - Tigna
+      - Bruches
+      - Scolytes
+      réponse: Scolytes
+      anecdote: Il coleottero della corteccia non può digerire direttamente il legno a causa della presenza di lignina e cellulosa.
+    - id: 24
+      question: Quale delle seguenti non indica una dimensione utilizzata per gli alberi da frutto ?
+      propositions:
+      - Cord
+      - Fuso orario
+      - Vento pieno
+      - Busta
+      réponse: Busta
+      anecdote: Una potatura dalla forma speciale migliora notevolmente la fruttificazione ottimizzando l'esposizione alla luce.
+    - id: 25
+      question: Qual è il primo albero da frutto che fiorisce nelle nostre regioni alla fine dell'inverno ?
+      propositions:
+      - Mandorlo
+      - Noce
+      - Melo
+      - Pero
+      réponse: Mandorlo
+      anecdote: Il mandorlo, con i suoi fiori bianco rosati, è uno dei simboli dell'amore e della verginità.
+    - id: 26
+      question: Quale albero da frutto deve il suo nome a una città spagnola ?
+      propositions:
+      - Grenadier
+      - Fico
+      - Noce
+      - Albero di bergamotto
+      réponse: Grenadier
+      anecdote: La melagrana può vivere fino a 200 anni ma rimane la più produttiva in frutta solo nei suoi primi vent'anni.
+    - id: 27
+      question: Quale albero da frutto è l'unico rappresentante del genere Cydonia ?
+      propositions:
+      - Albero di mele cotogne
+      - Pescare
+      - Ciliegio
+      - Castagno
+      réponse: Albero di mele cotogne
+      anecdote: I frutti della mela cotogna, del genere Cydonia, sono mele cotogne chiamate anche mele golden o pere Cydonia.
+    - id: 28
+      question: Quale di questi alberi ha un frutto strettamente imparentato con il melo e il pero ?
+      propositions:
+      - Albero di mango
+      - Albero di cocco
+      - Albero di mele cotogne
+      - Giuggiola
+      réponse: Albero di mele cotogne
+      anecdote: La maggior parte delle varietà perde il velo cotonoso prima del tardo autunno, quando il frutto diventa giallo dorato a maturità.
+    - id: 29
+      question: Quale frutto ha il peso simbolico più forte nel mondo cinese ?
+      propositions:
+      - Pera
+      - Apple
+      - Pesca
+      - Limone
+      réponse: Pesca
+      anecdote: La regione di Fenghua nella Cina continentale è famosa per le sue pesche e soprattutto per la succosa pesca al miele.
+    - id: 30
+      question: Quale albero da frutto, composto da una decina di specie, può essere bianco o nero ?
+      propositions:
+      - Albero di bergamotto
+      - Mulberry
+      - Fico
+      - Noce
+      réponse: Mulberry
+      anecdote: I gelso non devono essere confusi con i rovi, piante legnose della famiglia delle Rosacee.
+  nl:
+  - débutant:
+    - id: 1
+      question: Waar komt het fruit vandaan dat in de meeste van onze fruitbomen groeit ?
+      propositions:
+      - Een blad
+      - Een bloem
+      - Een filiaal
+      - Een wortel
+      réponse: Een bloem
+      anecdote: Niet al het fruit dat door mensen wordt geconsumeerd, wordt echter uitsluitend door bomen geproduceerd.
+    - id: 2
+      question: Welke landruimte wordt besteed aan de teelt van fruitbomen ?
+      propositions:
+      - Moestuin
+      - Plantenbak
+      - Boomgaard
+      - Wasteland
+      réponse: Boomgaard
+      anecdote: Er zijn verschillende soorten boomgaarden: serreboomgaarden, weideboomgaarden, commerciële boomgaarden en moestuinen.
+    - id: 3
+      question: Welke vruchten hebben een lager watergehalte en zijn langer houdbaar ?
+      propositions:
+      - Rood fruit
+      - AOC-fruit
+      - Gedroogd fruit
+      - Gematigd fruit
+      réponse: Gedroogd fruit
+      anecdote: Gedroogd fruit kan worden gegeten zoals het is of kan worden verwerkt in kookrecepten, vooral bakrecepten.
+    - id: 4
+      question: Welke fruitboom wordt gebruikt vanwege zijn sierkwaliteiten in China en Japan ?
+      propositions:
+      - Kersenboom
+      - Om te vissen
+      - Kastanjeboom
+      - Grenadier
+      réponse: Kersenboom
+      anecdote: Sierkers worden ook elders in de wereld geteeld als rijbeplanting langs straten.
+    - id: 5
+      question: Welke van deze bomen kan een vrucht geven met een donzige of gladde schil ?
+      propositions:
+      - Kersenboom
+      - Perenboom
+      - Om te vissen
+      - Citroenboom
+      réponse: Om te vissen
+      anecdote: Perzikbomen kunnen in vier groepen worden ingedeeld: fluweelzachte schil, gladde schil, pit die aan het vruchtvlees kleeft of losjes loslaat.
+    - id: 6
+      question: Welke boom is vooral populair bij eekhoorns vanwege de vrucht die hij produceert ?
+      propositions:
+      - Mangoboom
+      - Kersenboom
+      - Hazelnoot
+      - Kokospalm
+      réponse: Hazelnoot
+      anecdote: De hazelaar is naar verluidt een van de zeldzame soorten uit het secundaire tijdperk (-70 miljoen jaar oud) die tot op de dag van vandaag bewaard is gebleven.
+    - id: 7
+      question: Van welke boom kennen we meer dan 20.000 fruitsoorten ?
+      propositions:
+      - Perenboom
+      - Appelboom
+      - Kersenboom
+      - Om te vissen
+      réponse: Appelboom
+      anecdote: Soorten die alleen voor sierdoeleinden worden gekweekt, worden vaak in het algemeen bloeiende appelbomen genoemd.
+    - id: 8
+      question: Welke fruitboom brengt de Reine-claude of de Mirabelle de Nancy voort ?
+      propositions:
+      - Kastanjeboom
+      - Pruimenboom
+      - Kersenboom
+      - Kweepeerboom
+      réponse: Pruimenboom
+      anecdote: Reine-claude is ontstaan in Frankrijk na de ontdekking van een groene pruim aan een boom geïmporteerd uit Azië.
+    - id: 9
+      question: Welk fruit wordt gegeten in dragee, marsepein of vermomd in frangipane ?
+      propositions:
+      - Amandel
+      - Hazelnoot
+      - Kers
+      - Braambes
+      réponse: Amandel
+      anecdote: De amandel is een noot die lijkt op een kleine groene perzik waarvan het vruchtvlees dun, hard en droog blijft.
+    - id: 10
+      question: Welke kleine fruitboom wordt gekweekt in de Middellandse Zee en subtropen ?
+      propositions:
+      - Kastanjeboom
+      - Om te vissen
+      - Citroenboom
+      - Kersenboom
+      réponse: Citroenboom
+      anecdote: In Frankrijk beperkt de teelt van de citroenboom zich voornamelijk tot de Côte d'Azur (regio Menton) en Corsica.
+  - confirmé:
+    - id: 11
+      question: Welke boom biedt een vrucht aan die is ingesloten in een kever ?
+      propositions:
+      - Hazelnoot
+      - Pruimenboom
+      - Kersenboom
+      - Kastanjeboom
+      réponse: Kastanjeboom
+      anecdote: Nadat de kastanje is opgepakt, laat de kastanjedroger deze drogen om te bewaren.
+    - id: 12
+      question: Welke tak van de boomteelt is gespecialiseerd in het kweken van fruitbomen ?
+      propositions:
+      - Graanbouw
+      - Fruitbouw
+      - Sierteelt
+      - Fruitteelt
+      réponse: Fruitteelt
+      anecdote: In de middeleeuwen lieten de kloosters een boomgaard aanplanten met fruitbomen waaronder de monniken werden begraven.
+    - id: 13
+      question: Welke categorie fruit kan de lijsterbes oogsten ?
+      propositions:
+      - Vlezig
+      - Boswachters
+      - Gematigd
+      - Droog
+      réponse: Boswachters
+      anecdote: Rowan-bomen en alis-bomen zijn struiken of bomen die vooral in heuvel- en bergbossen groeien.
+    - id: 14
+      question: Welke insecten vallen vooral de bladeren van fruitbomen aan ?
+      propositions:
+      - Bladluizen
+      - Scolytes
+      - Termieten
+      - Sprinkhanen
+      réponse: Bladluizen
+      anecdote: Een van de bekendste soorten ongedierte is phylloxera, die in de 19e eeuw bijna alle Franse wijngaarden bereikte.
+    - id: 15
+      question: Welke vogel wordt beschouwd als een plaag voor de vruchten die aan onze bomen groeien ?
+      propositions:
+      - Parkiet
+      - Mondstuk
+      - Kolibrie
+      - Merle
+      réponse: Merle
+      anecdote: Naast de vruchten van onze bomen voeden merels zich ook met insecten, wormen en diverse andere kleine dieren.
+    - id: 16
+      question: Van welke vogel is bekend dat hij vaak de knoppen van fruitbomen vernietigt ?
+      propositions:
+      - Reiger
+      - Hallo
+      - Uil
+      - Mees
+      réponse: Mees
+      anecdote: In onze streken nestelen mezen in boomgaten, maar gebruiken ze vaak nestkasten in tuinen.
+    - id: 17
+      question: Welke boom biedt een eetbare, fluweelzachte, oranjegele steenvrucht ?
+      propositions:
+      - Abrikozenboom
+      - Guave
+      - Kersenboom
+      - Tamarinde
+      réponse: Abrikozenboom
+      anecdote: De abrikozenboom is een groeikrachtige soort: hij kan onder gunstige natuurlijke omstandigheden meer dan zes meter hoog worden.
+    - id: 18
+      question: Welke botanische operatie bestaat uit het vermenigvuldigen van de productie van fruitbomen ?
+      propositions:
+      - Kieming
+      - Bestuiving
+      - Stekken
+      - Register
+      réponse: Register
+      anecdote: Enten is een operatie die bestaat uit het implanteren in de weefsels van een plant van een knop of een fragment.
+    - id: 19
+      question: Welke fruitboom, waarvan het hout als kaders wordt gebruikt, heeft de Latijnse naam Castanea ?
+      propositions:
+      - Hazelnoot
+      - Kastanjeboom
+      - Appelboom
+      - Moerbei
+      réponse: Kastanjeboom
+      anecdote: In de kever, die een soort ronde doornige doos is, zit de vrucht: de kastanje.
+    - id: 20
+      question: Welk deel buiten de schaal is specifiek voor walnoten ?
+      propositions:
+      - Paars
+      - Crimson
+      - Karmijn
+      - Brou
+      réponse: Brou
+      anecdote: Het vlezige deel rond de schaal geeft een sap af dat vlekken geeft, gebruikt bij het verven: walnootvlek.
+  - expert:
+    - id: 21
+      question: Hoe noem je een fruitboom waarvan de stam meer dan 1,60 m hoog is ?
+      propositions:
+      - Wortelstok
+      - Hoge hengel
+      - Caudex
+      - Megaphyll
+      réponse: Hoge hengel
+      anecdote: Hoogstammige teelt, toegepast in voorboomgaarden, wordt schaars ten gunste van monoculturen van laagstammige boomgaarden.
+    - id: 22
+      question: Welke fruitboom van de Betulaceae-familie wordt ook wel een coudier genoemd ?
+      propositions:
+      - Hazelnoot
+      - Bananenboom
+      - Moerbei
+      - Perenboom
+      réponse: Hazelnoot
+      anecdote: De hazelnootboom is van groot belang voor truffeltelers omdat hij in symbiose kan leven met de truffel en hij truffels verrijkt.
+    - id: 23
+      question: Welke insectenplagen voeden zich met het sap van fruitbomen ?
+      propositions:
+      - Mineervliegtuigen
+      - Ringwormen
+      - Bruches
+      - Scolytes
+      réponse: Scolytes
+      anecdote: Door de aanwezigheid van lignine en cellulose kan de schorskever hout niet direct verteren.
+    - id: 24
+      question: Welke van de volgende termen duidt niet op een maat die wordt gebruikt voor fruitbomen ?
+      propositions:
+      - Volle wind
+      - Envelop
+      - Koord
+      - Tijdzone
+      réponse: Envelop
+      anecdote: Een speciaal gevormde snoei verbetert de vruchtzetting aanzienlijk door de blootstelling aan licht te optimaliseren.
+    - id: 25
+      question: Wat is in onze streken de eerste fruitboom die bloeit aan het einde van de winter ?
+      propositions:
+      - Amandelboom
+      - Appelboom
+      - Perenboom
+      - Walnoot
+      réponse: Amandelboom
+      anecdote: De amandelboom, met zijn roze-witte bloemen, is een van de symbolen van liefde en maagdelijkheid.
+    - id: 26
+      question: Welke fruitboom dankt zijn naam aan een Spaanse stad ?
+      propositions:
+      - Grenadier
+      - Vijgenboom
+      - Walnoot
+      - Bergamotboom
+      réponse: Grenadier
+      anecdote: De granaatappel kan wel 200 jaar oud worden, maar blijft pas in de eerste twintig jaar het meest productief in fruit.
+    - id: 27
+      question: Welke fruitboom is de enige vertegenwoordiger van het geslacht Cydonia ?
+      propositions:
+      - Kersenboom
+      - Kweepeerboom
+      - Kastanjeboom
+      - Om te vissen
+      réponse: Kweepeerboom
+      anecdote: De vruchten van de kweepeerboom, van het Cydonia-geslacht, zijn kweeperen, ook wel gouden appels of Cydonia-peren genoemd.
+    - id: 28
+      question: Welke van deze bomen heeft een vrucht die nauw verwant is aan appel en peer ?
+      propositions:
+      - Jujube boom
+      - Kokospalm
+      - Kweepeerboom
+      - Mangoboom
+      réponse: Kweepeerboom
+      anecdote: De meeste soorten verliezen hun donzige sluier voor de late herfst, wanneer de vruchten goudgeel worden als ze rijp zijn.
+    - id: 29
+      question: Welk fruit heeft het sterkste symbolische gewicht in de Chinese wereld ?
+      propositions:
+      - Citroen
+      - Vissen
+      - Peer
+      - Appel
+      réponse: Vissen
+      anecdote: De Fenghua-regio op het vasteland van China staat bekend om zijn perziken en vooral om de sappige honingperzik.
+    - id: 30
+      question: Welke fruitboom, samengesteld uit een tiental soorten, kan wit of zwart zijn ?
+      propositions:
+      - Moerbei
+      - Walnoot
+      - Vijgenboom
+      - Bergamotboom
+      réponse: Moerbei
+      anecdote: Moerbeibomen moeten niet worden verward met bramen, houtachtige planten van de Rosaceae-familie.

@@ -1,0 +1,1650 @@
+---
+fournisseur: OpenQuizzDB - Fournisseur de contenu libre (https://www.openquizzdb.org)
+rédacteur: Philippe Bresoux
+thème: Santé et bien-être (Le secret du bonheur : être bien avec soi)
+difficulté: 3 / 5
+quizz:
+  fr:
+  - débutant:
+    - id: 1
+      question: Chez l'Homme, de combien de dents se compose une dentition adulte complète ?
+      propositions:
+      - 44
+      - 32
+      - 40
+      - 36
+      réponse: 32
+      anecdote: La dent est formée de trois parties distinctes : la couronne (visible), la racine (dans l'os) et le desmodonte qui relie la racine à l'os.
+    - id: 2
+      question: Quel type de thermomètre médical fut interdit d'utilisation en France en 1999 ?
+      propositions:
+      - Infrarouge
+      - À mercure
+      - De Galilée
+      - À retournement
+      réponse: À mercure
+      anecdote: Le reproche fait au thermomètre à mercure vient du fait qu'il représente un danger en cas de bris, ce qui arrive très fréquemment.
+    - id: 3
+      question: En cas de stress, quelle hormone est libérée dans l'organisme face au danger ?
+      propositions:
+      - Mescaline
+      - Éphédrine
+      - Dopamine
+      - Adrénaline
+      réponse: Adrénaline
+      anecdote: Entraînant une accélération du rythme cardiaque, l'adrénaline répond à un besoin d'énergie pour faire face au danger.
+    - id: 4
+      question: Quel traitement permet de soigner les maux du corps par l'eau de mer ?
+      propositions:
+      - Thalassothérapie
+      - Sophrologie
+      - Réflexologie
+      - Naturopathie
+      réponse: Thalassothérapie
+      anecdote: Les établissements thermaux offrent (aussi) des soins non médicalisés (de confort) appelés souvent remise en forme.
+    - id: 5
+      question: À quelle fréquence doit-on idéalement se faire vacciner contre la grippe ?
+      propositions:
+      - Tous les ans
+      - Tous les 2 ans
+      - Tous les 10 ans
+      - Tous les 5 ans
+      réponse: Tous les ans
+      anecdote: Le virus grippal infecte d'autres mammifères que l'Homme, mais c'est chez l'oiseau qu'elle est la plus fréquente.
+    - id: 6
+      question: Quelle est la première cause de mortalité évitable en France ?
+      propositions:
+      - Drogue
+      - Alcool
+      - Sucre
+      - Tabac
+      réponse: Tabac
+      anecdote: Outre la dépendance, le tabagisme est responsable de nombreuses maladies dont plus d'une dizaine de cancers différents.
+    - id: 7
+      question: Par quoi les os sont-ils reliés entre eux au niveau des articulations ?
+      propositions:
+      - Gaines
+      - Ligaments
+      - Bourses
+      - Tendons
+      réponse: Ligaments
+      anecdote: Un ligament est une courte bande de tissu conjonctif fibreux composée principalement de longues molécules de collagène.
+    - id: 8
+      question: Quel médicament est censé agir sur le malade par autosuggestion ?
+      propositions:
+      - Dermatose
+      - Fistule
+      - Placebo
+      - Insuline
+      réponse: Placebo
+      anecdote: Le placebo a une efficacité prouvée avec une moyenne de patients ressentant un effet de 15 à 25 %, selon les études.
+    - id: 9
+      question: Quels globules de notre organisme assurent le transport de l'oxygène dans le sang ?
+      propositions:
+      - Bleus
+      - Rouges
+      - Jaunes
+      - Blancs
+      réponse: Rouges
+      anecdote: La moelle osseuse assure le renouvellement des cellules du sang : les globules et plaquettes sont produits au coeur des os.
+    - id: 10
+      question: Que peut faire un sportif pour éviter l'arrivée inopinée de crampes ?
+      propositions:
+      - Manger
+      - Boire
+      - Dormir
+      - Fumer
+      réponse: Boire
+      anecdote: La boisson (une demi-cuillerée à café de sel par litre d'eau) apporte les sels minéraux nécessaires au contrôle de la tension musculaire.
+  - confirmé:
+    - id: 11
+      question: Lesquels de ces muscles sont les plus actifs du corps humain ?
+      propositions:
+      - Ceux du bras
+      - Ceux de la langue
+      - Ceux de la jambe
+      - Ceux de l'oeil
+      réponse: Ceux de l'oeil
+      anecdote: Les muscles oculomoteurs, au nombre de six, servent aux déplacements de l'oeil : 4 muscles droits et 2 muscles obliques.
+    - id: 12
+      question: Qu'obtient-on par la saponification d'une base caustique sur un corps gras ?
+      propositions:
+      - Savon
+      - Laque
+      - Dentifrice
+      - Shampoing
+      réponse: Savon
+      anecdote: Initialement, cette réaction est connue pour transformer le mélange d'un ester de glycérol et d'une base forte en savon.
+    - id: 13
+      question: En France, en 2019, jusqu'à quel âge pouvait-on effectuer un don de sang total ?
+      propositions:
+      - 70 ans
+      - 50 ans
+      - 60 ans
+      - 40 ans
+      réponse: 70 ans
+      anecdote: Il faut en revanche être en bonne forme et avoir au minimum 18 ans et moins de 60 ans pour effectuer son premier don de sang.
+    - id: 14
+      question: Quelle maladie infectieuse reste à ce jour la plus répandue dans le monde ?
+      propositions:
+      - Méningite
+      - Toxoplasmose
+      - SIDA
+      - Paludisme
+      réponse: Paludisme
+      anecdote: Avec 207 millions de personnes malades et 627 000 décès en 2012, le paludisme demeure la parasitose la plus importante.
+    - id: 15
+      question: Quelle partie des cellules contient le patrimoine génétique ?
+      propositions:
+      - Ribosome
+      - Noyau
+      - Pore
+      - Chromosome
+      réponse: Noyau
+      anecdote: Le noyau contient le matériel génétique (ADN), sous la forme d'un complexe ADN-protéines appelé chromatine.
+    - id: 16
+      question: Chez l'Homme, quelle zone de la langue détecte la saveur sucrée ?
+      propositions:
+      - Le fond
+      - Le bout
+      - Le centre
+      - Les côtés
+      réponse: Le bout
+      anecdote: Chez l'être humain, les papilles gustatives permettent de reconnaître les différentes saveurs : sucré, salé, amer, umami et acide.
+    - id: 17
+      question: Quelle est la position la plus fatigante pour la colonne vertébrale d'un être humain ?
+      propositions:
+      - En équilibre
+      - Couchée
+      - Debout
+      - Assise
+      réponse: Assise
+      anecdote: La position assise exerce une forte pression sur le dernier disque lombaire qui peu à peu risque l'écrasement et donc des séquelles.
+    - id: 18
+      question: Quelle partie de la rhubarbe est-il fortement déconseillé de consommer ?
+      propositions:
+      - Fleurs
+      - Racines
+      - Feuilles
+      - Pétiole
+      réponse: Feuilles
+      anecdote: Très toxiques, les feuilles de la rhubarbe contenant de l'acide oxalique sont parfois utilisées dans la préparation d'insecticides.
+    - id: 19
+      question: Que sécrètent principalement les glandes sudoripares ?
+      propositions:
+      - Cheveux
+      - Sueur
+      - Poils
+      - Ongles
+      réponse: Sueur
+      anecdote: Les glandes sudoripares (ou sudorales) font partie des glandes exocrines et permettent le phénomène de transpiration.
+    - id: 20
+      question: Quelle affection cutanée résulte de l'inflammation des follicules pileux ?
+      propositions:
+      - Varice
+      - Acné
+      - Cirrhose
+      - Angiome
+      réponse: Acné
+      anecdote: L'acné est le plus souvent primitive et commence généralement à la puberté, marquant l'adolescence de 85 % des individus.
+  - expert:
+    - id: 21
+      question: Dans quel pays a été pratiquée en 2005 la première greffe du visage ?
+      propositions:
+      - Chine
+      - Espagne
+      - États-Unis
+      - France
+      réponse: France
+      anecdote: La première greffe partielle du visage au monde fut pratiquée au CHU de Lyon sur une femme de 38 ans, Isabelle Dinoire.
+    - id: 22
+      question: Combien de déclinaisons de couleurs l'oeil humain est-il capable de distinguer ?
+      propositions:
+      - 300 000
+      - 400 000
+      - 100 000
+      - 200 000
+      réponse: 300 000
+      anecdote: Chaque oeil humain est capable de discerner plus facilement les nuances de verts ou de rouges que les nuances de bleus.
+    - id: 23
+      question: Quel opiacé de synthèse est utilisé comme substitut à l'héroïne ?
+      propositions:
+      - Chanvre
+      - Méthadone
+      - Paracétamol
+      - Kétamine
+      réponse: Méthadone
+      anecdote: En tant qu'analgésique narcotique, la méthadone est également utilisée pour soulager des douleurs sévères.
+    - id: 24
+      question: Quelle hormone prise en excès est principalement liée à la calvitie ?
+      propositions:
+      - Cortisone
+      - Testostérone
+      - Progestérone
+      - Acétone
+      réponse: Testostérone
+      anecdote: La testostérone est sécrétée essentiellement par les gonades, c'est-à-dire les testicules des mâles et les ovaires des femelles.
+    - id: 25
+      question: Quelle médecine douce est fondée sur l'utilisation des huiles essentielles ?
+      propositions:
+      - Réflexologie
+      - Naturopathie
+      - Homéopathie
+      - Aromathérapie
+      réponse: Aromathérapie
+      anecdote: L'aromathérapie est à différencier de la phytothérapie qui fait quant à elle usage de l'ensemble des éléments d'une plante.
+    - id: 26
+      question: Quelle hormone fait baisser le taux de glucose dans le sang ?
+      propositions:
+      - Méthadone
+      - Insuline
+      - Testostérone
+      - Thyroïde
+      réponse: Insuline
+      anecdote: La libération de glucose par le foie dans le sang est très fortement limitée par un taux sanguin élevé en insuline.
+    - id: 27
+      question: De quel arbre provient la molécule qui permet la fabrication de l'aspirine ?
+      propositions:
+      - Sapin
+      - Hêtre
+      - Saule
+      - Bouleau
+      réponse: Saule
+      anecdote: On a retrouvé la mention de décoctions de feuilles de saule dans un papyrus égyptien dès 1550 av. J.-C. (papyrus Ebers).
+    - id: 28
+      question: De quelle substance l'organisme des albinos est-il dépourvu ?
+      propositions:
+      - Mélanine
+      - Quinine
+      - Insuline
+      - Dopamine
+      réponse: Mélanine
+      anecdote: Chez l'homme, la peau est blanc cireux ou légèrement rosée, alors que les cheveux sont blancs, comme les poils, sourcils et cils.
+    - id: 29
+      question: Quel fut le premier antibiotique découvert en 1928 par Alexander Fleming ?
+      propositions:
+      - Triclosan
+      - Dopamine
+      - Pénicilline
+      - Acétarsol
+      réponse: Pénicilline
+      anecdote: L'industrialisation à grande échelle de la pénicilline a été menée à bien durant toute la durée de la Seconde Guerre mondiale.
+    - id: 30
+      question: Quelle plante réputée pour ses vertus digestives est aussi une héroïne de cinéma ?
+      propositions:
+      - Angélique
+      - Catwoman
+      - Mystique
+      - Nebula
+      réponse: Angélique
+      anecdote: Le genre Angelica (les angéliques) comprend environ 70 espèces de grandes plantes herbacées vivaces de la famille des Apiaceae.
+  en:
+  - débutant:
+    - id: 1
+      question: In humans, how many teeth are in a complete adult permanent dentition ?
+      propositions:
+      - 44
+      - 40
+      - 32
+      - 36
+      réponse: 32
+      anecdote: The tooth is made up of three distinct parts : the crown (visible), the root (in the bone) and the demodontium which connects the root to the bone.
+    - id: 2
+      question: What type of medical thermometer was banned from use in France in 1999 ?
+      propositions:
+      - Infrared
+      - Mercury
+      - Flip
+      - From Galilee
+      réponse: Mercury
+      anecdote: The reproach made to the mercury thermometer comes from the fact that it represents a danger in the event of breakage, which happens very frequently.
+    - id: 3
+      question: When under stress, what hormone is usually released in the body to deal with the danger ?
+      propositions:
+      - Adrenaline
+      - Dopamine
+      - Mescaline
+      - Ephedrine
+      réponse: Adrenaline
+      anecdote: Driving an increased heart rate, adrenaline meets a need for energy to cope with the danger.
+    - id: 4
+      question: What treatment can cure body ailments with seawater ?
+      propositions:
+      - Naturopathy
+      - Reflexology
+      - Thalassotherapy
+      - Sophrology
+      réponse: Thalassotherapy
+      anecdote: The thermal establishments offer (also) unmedical (comfort) treatments often called fitness.
+    - id: 5
+      question: How often should you get the flu shot ?
+      propositions:
+      - Every 5 years
+      - Every year
+      - Every 10 years
+      - Every 2 years
+      réponse: Every year
+      anecdote: The influenza virus infects mammals other than humans, but it is most common in birds.
+    - id: 6
+      question: What is the leading cause of preventable death in France ?
+      propositions:
+      - Alcohol
+      - Tobacco
+      - Drug
+      - Sugar
+      réponse: Tobacco
+      anecdote: In addition to addiction, smoking is responsible for many diseases, including more than a dozen different cancers.
+    - id: 7
+      question: How are the bones linked together at the joints ?
+      propositions:
+      - Sleeves
+      - Ligaments
+      - Tendons
+      - Scholarships
+      réponse: Ligaments
+      anecdote: A ligament is a short band of fibrous connective tissue composed mainly of long collagen molecules.
+    - id: 8
+      question: Which drug is supposed to act on the patient by autosuggestion ?
+      propositions:
+      - Placebo
+      - Fistula
+      - Insulin
+      - Dermatosis
+      réponse: Placebo
+      anecdote: Placebo has proven efficacy with an average of patients feeling an effect of 15 to 25 %, depending on the studies.
+    - id: 9
+      question: Which globules in our body transport oxygen in the blood ?
+      propositions:
+      - Blues
+      - Whites
+      - Yellow
+      - Reds
+      réponse: Reds
+      anecdote: The bone marrow ensures the renewal of blood cells : the globules and platelets are produced at the heart of the bones.
+    - id: 10
+      question: What can an athlete do to prevent the unexpected arrival of cramps ?
+      propositions:
+      - To drink
+      - Sleep
+      - Smoking
+      - To eat
+      réponse: To drink
+      anecdote: The drink (half a teaspoon of salt per liter of water) provides the mineral salts necessary to control muscle tension.
+  - confirmé:
+    - id: 11
+      question: Which of these muscles is the most active in the human body ?
+      propositions:
+      - Those of the leg
+      - Those of the arm
+      - Those of the language
+      - Those of the eye
+      réponse: Those of the eye
+      anecdote: The oculomotor muscles, six in number, are used for movements of the eye : 4 straight muscles and 2 oblique muscles.
+    - id: 12
+      question: What do we get by the saponification of a caustic base on a fatty substance ?
+      propositions:
+      - Lacquer
+      - Soap
+      - Toothpaste
+      - Shampoo
+      réponse: Soap
+      anecdote: Initially, this reaction is known to transform the mixture of a glycerol ester and a strong base into soap.
+    - id: 13
+      question: In France, in 2019, until what age could you donate whole blood ?
+      propositions:
+      - 50 years old
+      - 40 years old
+      - 70 years old
+      - 60 years old
+      réponse: 70 years old
+      anecdote: However, you must be in good shape and be at least 18 and under 60 to make your first blood donation.
+    - id: 14
+      question: Which infectious disease is most prevalent in the world ?
+      propositions:
+      - Toxoplasmosis
+      - Meningitis
+      - AIDS
+      - Malaria
+      réponse: Malaria
+      anecdote: With 207 million sick people and 627,000 deaths in 2012, malaria remains the most important parasitosis.
+    - id: 15
+      question: What part of the cells contains the genetic heritage ?
+      propositions:
+      - Ribosome
+      - Core
+      - Pore
+      - Chromosome
+      réponse: Core
+      anecdote: The nucleus contains genetic material (DNA), in the form of a DNA-protein complex called chromatin.
+    - id: 16
+      question: In humans, what area of the tongue detects the sweet flavor ?
+      propositions:
+      - The center
+      - The tip
+      - The sides
+      - The background
+      réponse: The tip
+      anecdote: In humans, the taste buds make it possible to recognize the different flavors : sweet, salty, bitter, umami and acid.
+    - id: 17
+      question: What is the most tiring position for the human spine ?
+      propositions:
+      - In balance
+      - Lying down
+      - Standing
+      - Assisi
+      réponse: Assisi
+      anecdote: The sitting position exerts a strong pressure on the last lumbar disc which little by little risks crushing and therefore of the consequences.
+    - id: 18
+      question: Which part of the rhubarb is strongly advised against consumption ?
+      propositions:
+      - Flowers
+      - Leaves
+      - Roots
+      - Oil
+      réponse: Leaves
+      anecdote: Very toxic, the leaves of rhubarb containing oxalic acid are sometimes used in the preparation of insecticides.
+    - id: 19
+      question: What do the sweat glands mainly secrete ?
+      propositions:
+      - Hair
+      - Nails
+      - Hair
+      - Sweat
+      réponse: Sweat
+      anecdote: The sweat glands (or sweat glands) are part of the exocrine gland and allow the phenomenon of transpiration.
+    - id: 20
+      question: What skin condition results from inflammation of the hair follicles ?
+      propositions:
+      - Acne
+      - Varicose vein
+      - Cirrhosis
+      - Angioma
+      réponse: Acne
+      anecdote: Acne is most often primitive and generally begins at puberty, marking the adolescence of 85 % of individuals.
+  - expert:
+    - id: 21
+      question: In which country was the first face transplant performed in 2005 ?
+      propositions:
+      - United States
+      - France
+      - Spain
+      - China
+      réponse: France
+      anecdote: The first partial facial transplant in the world was performed at the CHU de Lyon on a 38-year-old woman, Isabelle Dinoire.
+    - id: 22
+      question: How many variations of different colors can the human eye distinguish ?
+      propositions:
+      - 400,000
+      - 100,000
+      - 300,000
+      - 200,000
+      réponse: 300,000
+      anecdote: Each human eye is able to discern shades of green or red more easily than shades of blue.
+    - id: 23
+      question: Which synthetic opiate is used as a substitute for heroin ?
+      propositions:
+      - Ketamine
+      - Methadone
+      - Hemp
+      - Paracetamol
+      réponse: Methadone
+      anecdote: As a narcotic pain reliever, methadone is also used to relieve severe pain.
+    - id: 24
+      question: Which excess hormone is mainly related to baldness ?
+      propositions:
+      - Testosterone
+      - Progesterone
+      - Acetone
+      - Cortisone
+      réponse: Testosterone
+      anecdote: Testosterone is mainly secreted by the gonads, that is to say, the female testicles and the female ovaries.
+    - id: 25
+      question: What alternative medicine is based on the use of essential oils ?
+      propositions:
+      - Reflexology
+      - Naturopathy
+      - Homeopathy
+      - Aromatherapy
+      réponse: Aromatherapy
+      anecdote: Aromatherapy is different from phytotherapy, which makes use of all of the elements of a plant.
+    - id: 26
+      question: Which hormone lowers the blood glucose level ?
+      propositions:
+      - Methadone
+      - Thyroid
+      - Insulin
+      - Testosterone
+      réponse: Insulin
+      anecdote: The release of glucose from the liver into the blood is very severely limited by a high blood level of insulin.
+    - id: 27
+      question: From which tree does the molecule that makes aspirin come from ?
+      propositions:
+      - Birch
+      - Willow
+      - Beech
+      - Fir
+      réponse: Willow
+      anecdote: We found the mention of decoctions of willow leaves in an Egyptian papyrus from 1550 BC. AD (Ebers papyrus).
+    - id: 28
+      question: What substance does the albino organism lack ?
+      propositions:
+      - Dopamine
+      - Melanin
+      - Quinine
+      - Insulin
+      réponse: Melanin
+      anecdote: In humans, the skin is waxy white or slightly pink, while the hair is white, like the hairs, eyebrows and eyelashes.
+    - id: 29
+      question: What was the first antibiotic discovered in 1928 by Alexander Fleming ?
+      propositions:
+      - Dopamine
+      - Penicillin
+      - Acétarsol
+      - Triclosan
+      réponse: Penicillin
+      anecdote: Large-scale industrialization of the penicillin was carried out throughout the duration of the Second World War.
+    - id: 30
+      question: Which plant reputed for its digestive virtues is also a cinematic hero ?
+      propositions:
+      - Catwoman
+      - Angelic
+      - Nebula
+      - Mystic
+      réponse: Angelic
+      anecdote: The genus Angelica (angelica) includes about 70 species of large perennial herbaceous plants of the Apiaceae family.
+  de:
+  - débutant:
+    - id: 1
+      question: Wie viele Zähne hat ein Mensch beim Menschen in einem vollständigen bleibenden Gebiss ?
+      propositions:
+      - 40
+      - 44
+      - 32
+      - 36
+      réponse: 32
+      anecdote: Der Zahn besteht aus drei verschiedenen Teilen : der Krone (sichtbar), der Wurzel (im Knochen) und dem Demodontium, das die Wurzel mit dem Knochen verbindet.
+    - id: 2
+      question: Welche Art von medizinischem Thermometer wurde 1999 in Frankreich verboten ?
+      propositions:
+      - Quecksilber
+      - Infrarot
+      - Umdrehen
+      - Aus Galiläa
+      réponse: Quecksilber
+      anecdote: Der Vorwurf an das Quecksilberthermometer beruht auf der Tatsache, dass es eine Gefahr im Falle eines sehr häufigen Bruchs darstellt.
+    - id: 3
+      question: Welches Hormon wird unter Stress normalerweise im Körper freigesetzt, um die Gefahr zu bewältigen ?
+      propositions:
+      - Meskalin
+      - Ephedrin
+      - Adrenalin
+      - Dopamin
+      réponse: Adrenalin
+      anecdote: Mit einer erhöhten Herzfrequenz deckt Adrenalin den Energiebedarf, um mit der Gefahr fertig zu werden.
+    - id: 4
+      question: Welche Behandlung kann Körperkrankheiten mit Meerwasser heilen ?
+      propositions:
+      - Naturheilkunde
+      - Thalassotherapie
+      - Sophrologie
+      - Reflexzonenmassage
+      réponse: Thalassotherapie
+      anecdote: Die thermischen Einrichtungen bieten (auch) unmedizinische (Komfort-) Behandlungen an, die oft als Fitness bezeichnet werden.
+    - id: 5
+      question: Wie oft sollten Sie die Grippeimpfung bekommen ?
+      propositions:
+      - Alle 5 Jahre
+      - Jedes Jahr
+      - Alle 2 Jahre
+      - Alle 10 Jahre
+      réponse: Jedes Jahr
+      anecdote: Das Influenzavirus infiziert andere Säugetiere als Menschen, ist jedoch bei Vögeln am häufigsten.
+    - id: 6
+      question: Was ist die häufigste Ursache für vermeidbare Todesfälle in Frankreich ?
+      propositions:
+      - Droge
+      - Zucker
+      - Tabak
+      - Alkohol
+      réponse: Tabak
+      anecdote: Neben der Sucht ist das Rauchen für viele Krankheiten verantwortlich, darunter mehr als ein Dutzend verschiedene Krebsarten.
+    - id: 7
+      question: Wie sind die Knochen an den Gelenken miteinander verbunden ?
+      propositions:
+      - Sehnen
+      - Stipendien
+      - Ärmel
+      - Bänder
+      réponse: Bänder
+      anecdote: Ein Band ist ein kurzes Band aus fibrösem Bindegewebe, das hauptsächlich aus langen Kollagenmolekülen besteht.
+    - id: 8
+      question: Welches Medikament soll durch Autosuggestion auf den Patienten wirken ?
+      propositions:
+      - Fistel
+      - Insulin
+      - Placebo
+      - Dermatose
+      réponse: Placebo
+      anecdote: Placebo hat sich bei durchschnittlich Patienten bewährt, die je nach Studie eine Wirkung von 15 bis 25 % verspüren.
+    - id: 9
+      question: Welche Kügelchen in unserem Körper transportieren Sauerstoff im Blut ?
+      propositions:
+      - Gelb
+      - Rot
+      - Weiße
+      - Blues
+      réponse: Rot
+      anecdote: Das Knochenmark sorgt für die Erneuerung der Blutzellen : Die Kügelchen und Blutplättchen werden im Herzen der Knochen produziert.
+    - id: 10
+      question: Was kann ein Athlet tun, um das unerwartete Auftreten von Krämpfen zu verhindern ?
+      propositions:
+      - Schlaf
+      - Zu essen
+      - Rauchen
+      - Zu trinken
+      réponse: Zu trinken
+      anecdote: Das Getränk (ein halber Teelöffel Salz pro Liter Wasser) enthält die Mineralsalze, die zur Kontrolle der Muskelspannung erforderlich sind.
+  - confirmé:
+    - id: 11
+      question: Welcher dieser Muskeln ist im menschlichen Körper am aktivsten ?
+      propositions:
+      - Die des Beines
+      - Die des Arms
+      - Die der Sprache
+      - Die des Auges
+      réponse: Die des Auges
+      anecdote: Die sechs Augenmuskeln werden für Augenbewegungen verwendet : 4 gerade Muskeln und 2 schräge Muskeln.
+    - id: 12
+      question: Was bekommen wir durch die Verseifung einer ätzenden Basis auf einer Fettsubstanz ?
+      propositions:
+      - Lack
+      - Seife
+      - Shampoo
+      - Zahnpasta
+      réponse: Seife
+      anecdote: Anfänglich ist bekannt, dass diese Reaktion die Mischung aus einem Glycerinester und einer starken Base in Seife umwandelt.
+    - id: 13
+      question: Bis zu welchem Alter konnten Sie in Frankreich 2019 Vollblut spenden ?
+      propositions:
+      - 70 Jahre alt
+      - 50 Jahre alt
+      - 60 Jahre alt
+      - 40 Jahre alt
+      réponse: 70 Jahre alt
+      anecdote: Sie müssen jedoch in guter Verfassung sein und mindestens 18 und unter 60 Jahre alt sein, um Ihre erste Blutspende zu tätigen.
+    - id: 14
+      question: Welche Infektionskrankheit ist weltweit am stärksten verbreitet ?
+      propositions:
+      - Malaria
+      - AIDS
+      - Toxoplasmose
+      - Meningitis
+      réponse: Malaria
+      anecdote: Mit 207 Millionen Kranken und 627.000 Todesfällen im Jahr 2012 bleibt Malaria die wichtigste Parasitose.
+    - id: 15
+      question: Welcher Teil der Zellen enthält das genetische Erbe ?
+      propositions:
+      - Kern
+      - Chromosom
+      - Pore
+      - Ribosom
+      réponse: Kern
+      anecdote: Der Kern enthält genetisches Material (DNA) in Form eines DNA-Protein-Komplexes namens Chromatin.
+    - id: 16
+      question: Welcher Bereich der Zunge erkennt beim Menschen den süßen Geschmack ?
+      propositions:
+      - Der Hintergrund
+      - Die Seiten
+      - Der Tipp
+      - Das Zentrum
+      réponse: Der Tipp
+      anecdote: Beim Menschen ermöglichen die Geschmacksknospen, die verschiedenen Geschmacksrichtungen zu erkennen : süß, salzig, bitter, umami und sauer.
+    - id: 17
+      question: Was ist die anstrengendste Position für die menschliche Wirbelsäule ?
+      propositions:
+      - Hinlegen
+      - Assisi
+      - Im Gleichgewicht
+      - Stehend
+      réponse: Assisi
+      anecdote: Die Sitzposition übt einen starken Druck auf die letzte Bandscheibe aus, der nach und nach zu Quetschungen und damit zu den Folgen führen kann.
+    - id: 18
+      question: Welcher Teil des Rhabarbers wird dringend vom Verzehr abgeraten ?
+      propositions:
+      - Blätter
+      - Blumen
+      - Wurzeln
+      - Öl
+      réponse: Blätter
+      anecdote: Sehr giftig, werden die Blätter von Rhabarber, die Oxalsäure enthalten, manchmal zur Herstellung von Insektiziden verwendet.
+    - id: 19
+      question: Was scheiden die Schweißdrüsen hauptsächlich aus ?
+      propositions:
+      - Nägel
+      - Haare
+      - Haare
+      - Schweiß
+      réponse: Schweiß
+      anecdote: Die Schweißdrüsen (oder Schweißdrüsen) sind Teil der exokrinen Drüse und ermöglichen das Phänomen der Transpiration.
+    - id: 20
+      question: Welcher Hautzustand resultiert aus einer Entzündung der Haarfollikel ?
+      propositions:
+      - Angiom
+      - Akne
+      - Krampfader
+      - Zirrhose
+      réponse: Akne
+      anecdote: Akne ist meistens primitiv und beginnt im Allgemeinen in der Pubertät, was die Adoleszenz von 85 % der Personen kennzeichnet.
+  - expert:
+    - id: 21
+      question: In welchem Land wurde 2005 die erste Gesichtstransplantation durchgeführt ?
+      propositions:
+      - Spanien
+      - Frankreich
+      - China
+      - Vereinigte Staaten
+      réponse: Frankreich
+      anecdote: Die erste partielle Gesichtstransplantation der Welt wurde an der CHU de Lyon an einer 38-jährigen Frau, Isabelle Dinoire, durchgeführt.
+    - id: 22
+      question: Wie viele Variationen verschiedener Farben kann das menschliche Auge unterscheiden ?
+      propositions:
+      - 400.000
+      - 200.000
+      - 100.000
+      - 300.000
+      réponse: 300.000
+      anecdote: Jedes menschliche Auge kann Grün- oder Rottöne leichter erkennen als Blautöne.
+    - id: 23
+      question: Welches synthetische Opiat wird als Ersatz für Heroin verwendet ?
+      propositions:
+      - Hanf
+      - Methadon
+      - Ketamin
+      - Paracetamol
+      réponse: Methadon
+      anecdote: Als narkotisches Schmerzmittel wird Methadon auch zur Linderung schwerer Schmerzen eingesetzt.
+    - id: 24
+      question: Welches überschüssige Hormon hängt hauptsächlich mit Kahlheit zusammen ?
+      propositions:
+      - Cortison
+      - Aceton
+      - Progesteron
+      - Testosteron
+      réponse: Testosteron
+      anecdote: Testosteron wird hauptsächlich von den Gonaden, dh den weiblichen Hoden und den weiblichen Eierstöcken, ausgeschieden.
+    - id: 25
+      question: Welche alternative Medizin basiert auf der Verwendung von ätherischen Ölen ?
+      propositions:
+      - Homöopathie
+      - Reflexzonenmassage
+      - Naturheilkunde
+      - Aromatherapie
+      réponse: Aromatherapie
+      anecdote: Die Aromatherapie unterscheidet sich von der Phytotherapie, bei der alle Elemente einer Pflanze genutzt werden.
+    - id: 26
+      question: Welches Hormon senkt den Blutzuckerspiegel ?
+      propositions:
+      - Insulin
+      - Schilddrüse
+      - Methadon
+      - Testosteron
+      réponse: Insulin
+      anecdote: Die Freisetzung von Glukose aus der Leber in das Blut wird durch einen hohen Insulinspiegel im Blut sehr stark eingeschränkt.
+    - id: 27
+      question: Von welchem Baum stammt das Molekül, aus dem Aspirin hergestellt wird ?
+      propositions:
+      - Tanne
+      - Willow
+      - Birke
+      - Buche
+      réponse: Willow
+      anecdote: Wir fanden die Erwähnung von Abkochungen von Weidenblättern in einem ägyptischen Papyrus aus dem Jahr 1550 v. AD (Ebers Papyrus).
+    - id: 28
+      question: Welche Substanz fehlt dem Albino-Organismus ?
+      propositions:
+      - Insulin
+      - Melanin
+      - Chinin
+      - Dopamin
+      réponse: Melanin
+      anecdote: Beim Menschen ist die Haut wachsweiß oder leicht rosa, während das Haar weiß ist, wie die Haare, Augenbrauen und Wimpern.
+    - id: 29
+      question: Was war das erste Antibiotikum, das Alexander Fleming 1928 entdeckte ?
+      propositions:
+      - Acétarsol
+      - Triclosan
+      - Dopamin
+      - Penicillin
+      réponse: Penicillin
+      anecdote: Während des Zweiten Weltkriegs wurde das Penicillin in großem Umfang industrialisiert.
+    - id: 30
+      question: Welche Pflanze, die für ihre Verdauungstugenden bekannt ist, ist auch ein Filmheld ?
+      propositions:
+      - Mystiker
+      - Catwoman
+      - Angelique
+      - Nebel
+      réponse: Angelique
+      anecdote: Die Gattung Angelica (Angelica) umfasst etwa 70 Arten großer mehrjähriger krautiger Pflanzen der Familie der Apiaceae.
+  es:
+  - débutant:
+    - id: 1
+      question: En humanos, ¿cuántos dientes hay en una dentición permanente completa para adultos ?
+      propositions:
+      - 40
+      - 32
+      - 36
+      - 44
+      réponse: 32
+      anecdote: El diente está formado por tres partes distintas : la corona (visible), la raíz (en el hueso) y el demodoncio que conecta la raíz con el hueso.
+    - id: 2
+      question: ¿Qué tipo de termómetro médico se prohibió su uso en Francia en 1999 ?
+      propositions:
+      - Flip
+      - Mercurio
+      - Infrarrojo
+      - De Galilea
+      réponse: Mercurio
+      anecdote: El reproche al termómetro de mercurio proviene del hecho de que representa un peligro en caso de rotura, que ocurre con mucha frecuencia.
+    - id: 3
+      question: Cuando está bajo estrés, ¿qué hormona generalmente se libera en el cuerpo para lidiar con el peligro ?
+      propositions:
+      - Adrenalina
+      - Dopamina
+      - Mescalina
+      - Efedrina
+      réponse: Adrenalina
+      anecdote: Con un aumento de la frecuencia cardíaca, la adrenalina satisface la necesidad de energía para hacer frente al peligro.
+    - id: 4
+      question: ¿Qué tratamiento puede curar las dolencias corporales con agua de mar ?
+      propositions:
+      - Sofrología
+      - Naturopatía
+      - Reflexología
+      - Talasoterapia
+      réponse: Talasoterapia
+      anecdote: Los establecimientos termales ofrecen (también) tratamientos no médicos (confort) a menudo llamados fitness.
+    - id: 5
+      question: ¿Con qué frecuencia debe vacunarse contra la gripe ?
+      propositions:
+      - Cada 10 años
+      - Cada año
+      - Cada 2 años
+      - Cada 5 años
+      réponse: Cada año
+      anecdote: El virus de la influenza infecta a mamíferos que no sean humanos, pero es más común en las aves.
+    - id: 6
+      question: ¿Cuál es la principal causa de muerte prevenible en Francia ?
+      propositions:
+      - Alcohol
+      - Droga
+      - Tabaco
+      - Azúcar
+      réponse: Tabaco
+      anecdote: Además de la adicción, fumar es responsable de muchas enfermedades, que incluyen más de una docena de cánceres diferentes.
+    - id: 7
+      question: ¿Cómo se unen los huesos en las articulaciones ?
+      propositions:
+      - Ligamentos
+      - Becas
+      - Tendones
+      - Mangas
+      réponse: Ligamentos
+      anecdote: Un ligamento es una banda corta de tejido conectivo fibroso compuesto principalmente de largas moléculas de colágeno.
+    - id: 8
+      question: ¿Qué medicamento se supone que actúa sobre el paciente por autosugestión ?
+      propositions:
+      - Dermatosis
+      - Fístula
+      - Placebo
+      - Insulina
+      réponse: Placebo
+      anecdote: El placebo ha demostrado su eficacia con un promedio de pacientes que sienten un efecto del 15 al 25 %, según los estudios.
+    - id: 9
+      question: ¿Qué glóbulos en nuestro cuerpo transportan oxígeno en la sangre ?
+      propositions:
+      - Blues
+      - Amarillo
+      - Blancos
+      - Rojos
+      réponse: Rojos
+      anecdote: La médula ósea asegura la renovación de las células sanguíneas : los glóbulos y las plaquetas se producen en el corazón de los huesos.
+    - id: 10
+      question: ¿Qué puede hacer un atleta para evitar la llegada inesperada de calambres ?
+      propositions:
+      - Para beber
+      - Para comer
+      - Dormir
+      - Fumar
+      réponse: Para beber
+      anecdote: La bebida (media cucharadita de sal por litro de agua) proporciona las sales minerales necesarias para controlar la tensión muscular.
+  - confirmé:
+    - id: 11
+      question: ¿Cuál de estos músculos es el más activo en el cuerpo humano ?
+      propositions:
+      - Los del lenguaje
+      - Los del ojo
+      - Los de la pierna
+      - Los del brazo
+      réponse: Los del ojo
+      anecdote: Los músculos oculomotores, seis en número, se utilizan para los movimientos del ojo : 4 músculos rectos y 2 músculos oblicuos.
+    - id: 12
+      question: ¿Qué obtenemos con la saponificación de una base cáustica en una sustancia grasa ?
+      propositions:
+      - Jabón
+      - Laca
+      - Champú
+      - Pasta de dientes
+      réponse: Jabón
+      anecdote: Inicialmente, se sabe que esta reacción transforma la mezcla de un éster de glicerol y una base fuerte en jabón.
+    - id: 13
+      question: En Francia, en 2019, ¿hasta qué edad podrías donar sangre completa ?
+      propositions:
+      - 60 años de edad
+      - 50 años de edad
+      - 40 años de edad
+      - 70 años de edad
+      réponse: 70 años de edad
+      anecdote: Sin embargo, debe estar en buena forma y tener al menos 18 años y menos de 60 para hacer su primera donación de sangre.
+    - id: 14
+      question: ¿Qué enfermedad infecciosa es la más frecuente en el mundo ?
+      propositions:
+      - SIDA
+      - Toxoplasmosis
+      - Meningitis
+      - Malaria
+      réponse: Malaria
+      anecdote: Con 207 millones de personas enfermas y 627,000 muertes en 2012, la malaria sigue siendo la parasitosis más importante.
+    - id: 15
+      question: ¿Qué parte de las células contiene el patrimonio genético ?
+      propositions:
+      - Ribosoma
+      - Cromosoma
+      - Poro
+      - Núcleo
+      réponse: Núcleo
+      anecdote: El núcleo contiene material genético (ADN), en forma de un complejo de ADN-proteína llamado cromatina.
+    - id: 16
+      question: En humanos, ¿qué área de la lengua detecta el sabor dulce ?
+      propositions:
+      - El consejo
+      - El fondo
+      - El centro
+      - Los lados
+      réponse: El consejo
+      anecdote: En los humanos, las papilas gustativas permiten reconocer los diferentes sabores : dulce, salado, amargo, umami y ácido.
+    - id: 17
+      question: ¿Cuál es la posición más agotadora para la columna vertebral humana ?
+      propositions:
+      - En equilibrio
+      - Asís
+      - De pie
+      - Acostado
+      réponse: Asís
+      anecdote: La posición sentada ejerce una fuerte presión sobre el último disco lumbar que poco a poco corre el riesgo de aplastarse y, por lo tanto, de las consecuencias.
+    - id: 18
+      question: ¿Qué parte del ruibarbo está fuertemente desaconsejado contra el consumo ?
+      propositions:
+      - Raíces
+      - Flores
+      - Aceite
+      - Hojas
+      réponse: Hojas
+      anecdote: Muy tóxico, las hojas de ruibarbo que contienen ácido oxálico a veces se usan en la preparación de insecticidas.
+    - id: 19
+      question: ¿Qué secretan principalmente las glándulas sudoríparas ?
+      propositions:
+      - Sudor
+      - Cabello
+      - Cabello
+      - Clavos
+      réponse: Sudor
+      anecdote: Las glándulas sudoríparas (o sudoríparas) son parte de la glándula exocrina y permiten el fenómeno de la transpiración.
+    - id: 20
+      question: ¿Qué condición de la piel resulta de la inflamación de los folículos capilares ?
+      propositions:
+      - Venas varicosas
+      - Cirrosis
+      - Acné
+      - Angioma
+      réponse: Acné
+      anecdote: El acné suele ser primitivo y generalmente comienza en la pubertad, marcando la adolescencia del 85 % de las personas.
+  - expert:
+    - id: 21
+      question: ¿En qué país se realizó el primer trasplante de cara en 2005 ?
+      propositions:
+      - España
+      - Francia
+      - China
+      - Estados Unidos
+      réponse: Francia
+      anecdote: El primer trasplante facial parcial en el mundo se realizó en el CHU de Lyon a una mujer de 38 años, Isabelle Dinoire.
+    - id: 22
+      question: ¿Cuántas variaciones de diferentes colores puede distinguir el ojo humano ?
+      propositions:
+      - 300,000
+      - 100,000
+      - 400,000
+      - 200,000
+      réponse: 300,000
+      anecdote: Cada ojo humano es capaz de discernir tonos de verde o rojo más fácilmente que los tonos de azul.
+    - id: 23
+      question: ¿Qué opiáceo sintético se usa como sustituto de la heroína ?
+      propositions:
+      - Ketamina
+      - Metadona
+      - Paracetamol
+      - Cáñamo
+      réponse: Metadona
+      anecdote: Como analgésico narcótico, la metadona también se usa para aliviar el dolor intenso.
+    - id: 24
+      question: ¿Qué exceso de hormona se relaciona principalmente con la calvicie ?
+      propositions:
+      - Testosterona
+      - Cortisona
+      - Acetona
+      - Progesterona
+      réponse: Testosterona
+      anecdote: La testosterona es secretada principalmente por las gónadas, es decir, los testículos femeninos y los ovarios femeninos.
+    - id: 25
+      question: ¿Qué medicina alternativa se basa en el uso de aceites esenciales ?
+      propositions:
+      - Naturopatía
+      - Homeopatia
+      - Reflexología
+      - Aromaterapia
+      réponse: Aromaterapia
+      anecdote: La aromaterapia es diferente de la fitoterapia, que hace uso de todos los elementos de una planta.
+    - id: 26
+      question: ¿Qué hormona reduce el nivel de glucosa en sangre ?
+      propositions:
+      - Metadona
+      - Insulina
+      - Tiroides
+      - Testosterona
+      réponse: Insulina
+      anecdote: La liberación de glucosa del hígado a la sangre está muy severamente limitada por un alto nivel de insulina en la sangre.
+    - id: 27
+      question: ¿De qué árbol proviene la molécula que produce la aspirina ?
+      propositions:
+      - Haya
+      - Abedul
+      - Abeto
+      - Sauce
+      réponse: Sauce
+      anecdote: Encontramos la mención de decocciones de hojas de sauce en un papiro egipcio de 1550 a. C. AD (papiro de Ebers).
+    - id: 28
+      question: ¿Qué sustancia le falta al organismo albino ?
+      propositions:
+      - Insulina
+      - Dopamina
+      - Quinina
+      - Melanina
+      réponse: Melanina
+      anecdote: En los humanos, la piel es blanca cerosa o ligeramente rosada, mientras que el cabello es blanco, como los pelos, las cejas y las pestañas.
+    - id: 29
+      question: ¿Cuál fue el primer antibiótico descubierto en 1928 por Alexander Fleming ?
+      propositions:
+      - Penicilina
+      - Acétarsol
+      - Dopamina
+      - Triclosan
+      réponse: Penicilina
+      anecdote: La industrialización a gran escala de la penicilina se llevó a cabo durante la Segunda Guerra Mundial.
+    - id: 30
+      question: ¿Qué planta famosa por sus virtudes digestivas es también un héroe cinematográfico ?
+      propositions:
+      - Místico
+      - Angelique
+      - Catwoman
+      - Nebulosa
+      réponse: Angelique
+      anecdote: El género Angelica (angelica) incluye alrededor de 70 especies de grandes plantas herbáceas perennes de la familia Apiaceae.
+  it:
+  - débutant:
+    - id: 1
+      question: Nell'uomo, quanti denti ci sono in una dentizione permanente per adulti completa ?
+      propositions:
+      - 32
+      - 36
+      - 40
+      - 44
+      réponse: 32
+      anecdote: Il dente è composto da tre parti distinte : la corona (visibile), la radice (nell'osso) e il demodontium che collega la radice all'osso.
+    - id: 2
+      question: Quale tipo di termometro medico è stato vietato in Francia nel 1999 ?
+      propositions:
+      - Dalla Galilea
+      - Infrarossi
+      - Mercurio
+      - Fogli mobili
+      réponse: Mercurio
+      anecdote: Il rimprovero al termometro a mercurio deriva dal fatto che rappresenta un pericolo in caso di rottura, che si verifica molto frequentemente.
+    - id: 3
+      question: Sotto stress, quale ormone viene solitamente rilasciato nel corpo per far fronte al pericolo ?
+      propositions:
+      - Efedrina
+      - Dopamina
+      - Mescaline
+      - Adrenalina
+      réponse: Adrenalina
+      anecdote: Guidando un aumento della frequenza cardiaca, l'adrenalina soddisfa la necessità di energia per far fronte al pericolo.
+    - id: 4
+      question: Quale trattamento può curare i disturbi del corpo con l'acqua di mare ?
+      propositions:
+      - Naturopatia
+      - Riflessologia
+      - Sofrologia
+      - talassoterapia
+      réponse: talassoterapia
+      anecdote: Gli stabilimenti termali offrono (anche) trattamenti non medici (comfort) spesso chiamati fitness.
+    - id: 5
+      question: Ogni quanto dovresti sottoporsi all'influenza ?
+      propositions:
+      - Ogni anno
+      - Ogni 5 anni
+      - Ogni 2 anni
+      - Ogni 10 anni
+      réponse: Ogni anno
+      anecdote: Il virus dell'influenza infetta mammiferi diversi dall'uomo, ma è più comune negli uccelli.
+    - id: 6
+      question: Qual è la principale causa di morte prevenibile in Francia ?
+      propositions:
+      - Zucchero
+      - Tabacco
+      - Droga
+      - Alcool
+      réponse: Tabacco
+      anecdote: Oltre alla dipendenza, il fumo è responsabile di molte malattie, tra cui più di una dozzina di tumori diversi.
+    - id: 7
+      question: In che modo le ossa sono collegate insieme alle articolazioni ?
+      propositions:
+      - Tendini
+      - Legamenti
+      - Maniche
+      - Borse di studio
+      réponse: Legamenti
+      anecdote: Un legamento è una banda corta di tessuto connettivo fibroso composta principalmente da lunghe molecole di collagene.
+    - id: 8
+      question: Quale farmaco dovrebbe agire sul paziente mediante autosuggestione ?
+      propositions:
+      - Dermatosi
+      - Fistola
+      - Placebo
+      - Insulina
+      réponse: Placebo
+      anecdote: Il placebo ha dimostrato efficacia con una media di pazienti che avvertono un effetto dal 15 al 25 %, a seconda degli studi.
+    - id: 9
+      question: Quali globuli nel nostro corpo trasportano ossigeno nel sangue ?
+      propositions:
+      - Blues
+      - Giallo
+      - I bianchi
+      - Rossi
+      réponse: Rossi
+      anecdote: Il midollo osseo garantisce il rinnovamento delle cellule del sangue : i globuli e le piastrine sono prodotti nel cuore delle ossa.
+    - id: 10
+      question: Cosa può fare un atleta per prevenire l'arrivo inaspettato di crampi ?
+      propositions:
+      - Fumo
+      - Per mangiare
+      - Dormire
+      - Bere
+      réponse: Bere
+      anecdote: La bevanda (mezzo cucchiaino di sale per litro d'acqua) fornisce i sali minerali necessari per controllare la tensione muscolare.
+  - confirmé:
+    - id: 11
+      question: Quale di questi muscoli è il più attivo nel corpo umano ?
+      propositions:
+      - Quelli del braccio
+      - Quelli della gamba
+      - Quelli della lingua
+      - Quelli dell'occhio
+      réponse: Quelli dell'occhio
+      anecdote: I muscoli oculomotori, sei in numero, sono usati per i movimenti dell'occhio : 4 muscoli dritti e 2 muscoli obliqui.
+    - id: 12
+      question: Cosa otteniamo dalla saponificazione di una base caustica su una sostanza grassa ?
+      propositions:
+      - Lacca
+      - Shampoo
+      - Sapone
+      - Dentifricio
+      réponse: Sapone
+      anecdote: Inizialmente, questa reazione è nota per trasformare la miscela di un estere di glicerolo e una base forte in sapone.
+    - id: 13
+      question: In Francia, nel 2019, fino a che età potresti donare sangue intero ?
+      propositions:
+      - 60 anni
+      - 50 anni
+      - 40 anni
+      - 70 anni
+      réponse: 70 anni
+      anecdote: Tuttavia, devi essere in buona forma e avere almeno 18 e meno di 60 anni per fare la tua prima donazione di sangue.
+    - id: 14
+      question: Quale malattia infettiva è più diffusa nel mondo ?
+      propositions:
+      - Malaria
+      - Toxoplasmosi
+      - AIDS
+      - Meningite
+      réponse: Malaria
+      anecdote: Con 207 milioni di malati e 627.000 morti nel 2012, la malaria rimane la parassitosi più importante.
+    - id: 15
+      question: Quale parte delle cellule contiene l'eredità genetica ?
+      propositions:
+      - Ribosoma
+      - Pore
+      - Cromosoma
+      - Core
+      réponse: Core
+      anecdote: Il nucleo contiene materiale genetico (DNA), sotto forma di un complesso di proteine del DNA chiamato cromatina.
+    - id: 16
+      question: Nell'uomo, quale area della lingua rileva il sapore dolce ?
+      propositions:
+      - Lo sfondo
+      - Il centro
+      - I lati
+      - Il consiglio
+      réponse: Il consiglio
+      anecdote: Nell'uomo, le papille gustative consentono di riconoscere i diversi sapori : dolce, salato, amaro, umami e acido.
+    - id: 17
+      question: Qual è la posizione più faticosa per la colonna vertebrale umana ?
+      propositions:
+      - Sdraiato
+      - In equilibrio
+      - Assisi
+      - In piedi
+      réponse: Assisi
+      anecdote: La posizione seduta esercita una forte pressione sull'ultimo disco lombare che a poco a poco rischia di schiacciarsi e quindi delle conseguenze.
+    - id: 18
+      question: Quale parte del rabarbaro è fortemente sconsigliata rispetto al consumo ?
+      propositions:
+      - Olio
+      - Fiori
+      - Foglie
+      - Radici
+      réponse: Foglie
+      anecdote: Molto tossici, le foglie di rabarbaro contenenti acido ossalico vengono talvolta utilizzate nella preparazione di insetticidi.
+    - id: 19
+      question: Cosa secernono principalmente le ghiandole sudoripare ?
+      propositions:
+      - Capelli
+      - Chiodi
+      - Capelli
+      - sudore
+      réponse: sudore
+      anecdote: Le ghiandole sudoripare (o ghiandole sudoripare) fanno parte della ghiandola esocrina e consentono il fenomeno della traspirazione.
+    - id: 20
+      question: Quali condizioni della pelle derivano dall'infiammazione dei follicoli piliferi ?
+      propositions:
+      - Vena varicosa
+      - Acne
+      - Angioma
+      - Cirrosi
+      réponse: Acne
+      anecdote: L'acne è molto spesso primitiva e generalmente inizia alla pubertà, segnando l'adolescenza dell' 85 % degli individui.
+  - expert:
+    - id: 21
+      question: In quale paese è stato eseguito il primo trapianto di faccia nel 2005 ?
+      propositions:
+      - Cina
+      - Francia
+      - Stati Uniti
+      - Spagna
+      réponse: Francia
+      anecdote: Il primo trapianto facciale parziale al mondo è stato eseguito al CHU di Lione su una donna di 38 anni, Isabelle Dinoire.
+    - id: 22
+      question: Quante variazioni di diversi colori può distinguere l'occhio umano ?
+      propositions:
+      - 100.000
+      - 300.000
+      - 400.000
+      - 200.000
+      réponse: 300.000
+      anecdote: Ogni occhio umano è in grado di distinguere più facilmente le sfumature di verde o rosso rispetto alle sfumature di blu.
+    - id: 23
+      question: Quale oppiaceo sintetico viene utilizzato come sostituto dell'eroina ?
+      propositions:
+      - Ketamina
+      - Canapa
+      - Paracetamolo
+      - Metadone
+      réponse: Metadone
+      anecdote: Come antidolorifico narcotico, il metadone viene utilizzato anche per alleviare il dolore intenso.
+    - id: 24
+      question: Quale ormone in eccesso è principalmente correlato alla calvizie ?
+      propositions:
+      - Testosterone
+      - Cortisone
+      - Acetone
+      - Progesterone
+      réponse: Testosterone
+      anecdote: Il testosterone è principalmente secreto dalle gonadi, vale a dire dai testicoli femminili e dalle ovaie femminili.
+    - id: 25
+      question: Quale medicina alternativa si basa sull'uso di oli essenziali ?
+      propositions:
+      - Omeopatia
+      - Riflessologia
+      - Naturopatia
+      - Aromaterapia
+      réponse: Aromaterapia
+      anecdote: L'aromaterapia è diversa dalla fitoterapia, che utilizza tutti gli elementi di una pianta.
+    - id: 26
+      question: Quale ormone abbassa il livello di glucosio nel sangue ?
+      propositions:
+      - Testosterone
+      - Thyrode
+      - Metadone
+      - Insulina
+      réponse: Insulina
+      anecdote: Il rilascio di glucosio dal fegato nel sangue è fortemente limitato da un alto livello ematico di insulina.
+    - id: 27
+      question: Da quale albero proviene la molecola che produce l'aspirina ?
+      propositions:
+      - Abete
+      - Betulla
+      - Faggio
+      - Salice
+      réponse: Salice
+      anecdote: Abbiamo trovato la menzione di decotti di foglie di salice in un papiro egiziano del 1550 a.C. D.C. (papiro di Ebers).
+    - id: 28
+      question: Di quale sostanza manca l'organismo albino ?
+      propositions:
+      - Insulina
+      - Dopamina
+      - Chinino
+      - Melanina
+      réponse: Melanina
+      anecdote: Nell'uomo, la pelle è bianca cerosa o leggermente rosa, mentre i capelli sono bianchi, come i capelli, le sopracciglia e le ciglia.
+    - id: 29
+      question: Qual è stato il primo antibiotico scoperto nel 1928 da Alexander Fleming ?
+      propositions:
+      - Triclosan
+      - Dopamina
+      - Acetarsolo
+      - Penicilina
+      réponse: Penicilina
+      anecdote: L'industrializzazione su larga scala della penicillina è stata effettuata per tutta la durata della seconda guerra mondiale.
+    - id: 30
+      question: Quale pianta reputata per le sue virtù digestive è anche un eroe cinematografico ?
+      propositions:
+      - Angelica
+      - Catwoman
+      - Nebulosa
+      - Mistico
+      réponse: Angelica
+      anecdote: Il genere Angelica (angelica) comprende circa 70 specie di grandi piante erbacee perenni della famiglia delle Apiaceae.
+  nl:
+  - débutant:
+    - id: 1
+      question: Bij mensen, hoeveel tanden zijn er in een volledig permanent gebit voor volwassenen ?
+      propositions:
+      - 40
+      - 44
+      - 36
+      - 32
+      réponse: 32
+      anecdote: De tand bestaat uit drie verschillende delen : de kroon (zichtbaar), de wortel (in het bot) en het demodontium dat de wortel met het bot verbindt.
+    - id: 2
+      question: Welk type medische thermometer werd in 1999 in Frankrijk verboden ?
+      propositions:
+      - Infrarood
+      - Uit Galilea
+      - Kwik
+      - Flip
+      réponse: Kwik
+      anecdote: Het verwijt aan de kwikthermometer komt voort uit het feit dat het een gevaar vormt bij breuk, wat zeer vaak voorkomt.
+    - id: 3
+      question: Welk hormoon komt gewoonlijk onder stress vrij in het lichaam om met het gevaar om te gaan ?
+      propositions:
+      - Dopamine
+      - Mescaline
+      - Adrenaline
+      - Efedrine
+      réponse: Adrenaline
+      anecdote: Met een verhoogde hartslag beantwoordt adrenaline aan een behoefte aan energie om het gevaar het hoofd te bieden.
+    - id: 4
+      question: Welke behandeling kan lichamelijke aandoeningen genezen met zeewater ?
+      propositions:
+      - Reflexologie
+      - Sophrologie
+      - Naturopathie
+      - Thalassotherapie
+      réponse: Thalassotherapie
+      anecdote: De thermische instellingen bieden (ook) niet-medische (comfort) behandelingen aan, ook wel fitness genoemd.
+    - id: 5
+      question: Hoe vaak moet je de griepprik krijgen ?
+      propositions:
+      - Elke 5 jaar
+      - Elke 2 jaar
+      - Elke 10 jaar
+      - Elk jaar
+      réponse: Elk jaar
+      anecdote: Het influenzavirus infecteert andere zoogdieren dan mensen, maar komt het meest voor bij vogels.
+    - id: 6
+      question: Wat is de belangrijkste oorzaak van vermijdbare sterfte in Frankrijk ?
+      propositions:
+      - Drug
+      - Suiker
+      - Tabak
+      - Alcohol
+      réponse: Tabak
+      anecdote: Naast verslaving is roken verantwoordelijk voor veel ziekten, waaronder meer dan een dozijn verschillende vormen van kanker.
+    - id: 7
+      question: Hoe zijn de botten met elkaar verbonden in de gewrichten ?
+      propositions:
+      - Mouwen
+      - Beurzen
+      - Pezen
+      - Ligamenten
+      réponse: Ligamenten
+      anecdote: Een ligament is een korte band van vezelig bindweefsel dat voornamelijk bestaat uit lange collageenmoleculen.
+    - id: 8
+      question: Welk medicijn zou door autosuggestie op de patiënt inwerken ?
+      propositions:
+      - Dermatose
+      - Insuline
+      - Fistel
+      - Placebo
+      réponse: Placebo
+      anecdote: Placebo heeft bewezen werkzaamheid, waarbij gemiddeld een patiënt een effect van 15 tot 25 % voelt, afhankelijk van de onderzoeken.
+    - id: 9
+      question: Welke bolletjes in ons lichaam transporteren zuurstof in het bloed ?
+      propositions:
+      - Geel
+      - Wit
+      - Blues
+      - Rood
+      réponse: Rood
+      anecdote: Het beenmerg zorgt voor de vernieuwing van bloedcellen : de bolletjes en bloedplaatjes worden geproduceerd in het hart van de botten.
+    - id: 10
+      question: Wat kan een atleet doen om onverwachte krampen te voorkomen ?
+      propositions:
+      - Roken
+      - Drinken
+      - Eten
+      - Slaap
+      réponse: Drinken
+      anecdote: De drank (een halve theelepel zout per liter water) levert de minerale zouten die nodig zijn om de spierspanning onder controle te houden.
+  - confirmé:
+    - id: 11
+      question: Welke van deze spieren is het meest actief in het menselijk lichaam ?
+      propositions:
+      - Die van de arm
+      - Die van het oog
+      - Die van het been
+      - Die van de taal
+      réponse: Die van het oog
+      anecdote: De oculomotorische spieren, zes in aantal, worden gebruikt voor oogbewegingen : 4 rechte spieren en 2 schuine spieren.
+    - id: 12
+      question: Wat krijgen we door verzeping van een bijtende basis op een vetachtige stof ?
+      propositions:
+      - Shampoo
+      - Lak
+      - Zeep
+      - Tandpasta
+      réponse: Zeep
+      anecdote: In eerste instantie is het bekend dat deze reactie het mengsel van een glycerolester en een sterke base omzet in zeep.
+    - id: 13
+      question: In Frankrijk, tot 2019, tot welke leeftijd kon u volbloed doneren ?
+      propositions:
+      - 60 jaar
+      - 70 jaar oud
+      - 50 jaar oud
+      - 40 jaar oud
+      réponse: 70 jaar oud
+      anecdote: U moet echter in goede conditie zijn en minimaal 18 en jonger dan 60 jaar zijn om uw eerste bloeddonatie te doen.
+    - id: 14
+      question: Welke infectieziekte komt het meest voor in de wereld ?
+      propositions:
+      - AIDS
+      - Malaria
+      - Toxoplasmose
+      - Meningitis
+      réponse: Malaria
+      anecdote: Met 207 miljoen zieken en 627.000 doden in 2012 blijft malaria de belangrijkste parasitose.
+    - id: 15
+      question: Welk deel van de cellen bevat het genetische erfgoed ?
+      propositions:
+      - Ribosoom
+      - Kern
+      - Porie
+      - Chromosoom
+      réponse: Kern
+      anecdote: De kern bevat genetisch materiaal (DNA), in de vorm van een DNA-eiwitcomplex genaamd chromatine.
+    - id: 16
+      question: Welk deel van de tong detecteert bij mensen de zoete smaak ?
+      propositions:
+      - De zijkanten
+      - De achtergrond
+      - De tip
+      - Het centrum
+      réponse: De tip
+      anecdote: Bij mensen maken de smaakpapillen het mogelijk om de verschillende smaken te herkennen : zoet, zout, bitter, umami en zuur.
+    - id: 17
+      question: Wat is de meest vermoeiende positie voor de menselijke wervelkolom ?
+      propositions:
+      - In evenwicht
+      - Liggen
+      - Assisi
+      - Staand
+      réponse: Assisi
+      anecdote: De zithouding oefent een sterke druk uit op de laatste lumbale schijf, die beetje bij beetje het risico loopt bekneld te raken en dus van de gevolgen.
+    - id: 18
+      question: Welk deel van de rabarber wordt sterk afgeraden om te consumeren ?
+      propositions:
+      - Bloemen
+      - Olie
+      - Bladeren
+      - Wortels
+      réponse: Bladeren
+      anecdote: Zeer giftig, de bladeren van oxaalzuur bevattende rabarber worden soms gebruikt bij de bereiding van insecticiden.
+    - id: 19
+      question: Wat scheiden de zweetklieren voornamelijk uit ?
+      propositions:
+      - Haar
+      - Nagels
+      - Haar
+      - Zweet
+      réponse: Zweet
+      anecdote: De zweetklieren (of zweetklieren) maken deel uit van de exocriene klier en laten het fenomeen transpiratie toe.
+    - id: 20
+      question: Wat rsulte cutane ziekte van ontsteking van de haarzakjes ?
+      propositions:
+      - cirrose
+      - spataderen
+      - Acne
+      - angiomen
+      réponse: Acne
+      anecdote: De acne is meestal primitief en begint meestal puberteit, adolescentie markering 85 % van de personen.
+  - expert:
+    - id: 21
+      question: In welk land werd in 2005 de eerste gezichtstransplantatie uitgevoerd ?
+      propositions:
+      - Spanje
+      - Frankrijk
+      - China
+      - Verenigde Staten
+      réponse: Frankrijk
+      anecdote: De eerste gedeeltelijke gezichtstransplantatie ter wereld werd uitgevoerd aan de CHU de Lyon bij een 38-jarige vrouw, Isabelle Dinoire.
+    - id: 22
+      question: Hoeveel variaties van verschillende kleuren kan het menselijk oog onderscheiden ?
+      propositions:
+      - 400.000
+      - 300.000
+      - 100.000
+      - 200.000
+      réponse: 300.000
+      anecdote: Elk menselijk oog kan gemakkelijker tinten groen of rood onderscheiden dan tinten blauw.
+    - id: 23
+      question: Welk synthetisch opiaat wordt gebruikt als vervanging voor heroïne ?
+      propositions:
+      - Methadon
+      - Paracetamol
+      - Ketamine
+      - Hennep
+      réponse: Methadon
+      anecdote: Als verdovende pijnstiller wordt methadon ook gebruikt om hevige pijn te verlichten.
+    - id: 24
+      question: Welk overtollig hormoon houdt voornamelijk verband met kaalheid ?
+      propositions:
+      - Aceton
+      - Cortison
+      - Testosteron
+      - Progesteron
+      réponse: Testosteron
+      anecdote: Testosteron wordt voornamelijk uitgescheiden door de geslachtsklieren, dat wil zeggen de vrouwelijke testikels en de vrouwelijke eierstokken.
+    - id: 25
+      question: Welke alternatieve geneeskunde is gebaseerd op het gebruik van etherische oliën ?
+      propositions:
+      - Aromatherapie
+      - Homeopathie
+      - Naturopathie
+      - Reflexologie
+      réponse: Aromatherapie
+      anecdote: Aromatherapie is anders dan fytotherapie, waarbij gebruik wordt gemaakt van alle elementen van een plant.
+    - id: 26
+      question: Welk hormoon verlaagt de bloedsuikerspiegel ?
+      propositions:
+      - Insuline
+      - Testosteron
+      - Schildklier
+      - Methadon
+      réponse: Insuline
+      anecdote: De afgifte van glucose uit de lever in het bloed wordt zeer ernstig beperkt door een hoge insulinespiegel in het bloed.
+    - id: 27
+      question: Van welke boom komt het molecuul dat aspirine maakt vandaan ?
+      propositions:
+      - Berk
+      - Wilg
+      - Spar
+      - Beuken
+      réponse: Wilg
+      anecdote: We vonden de vermelding van afkooksels van wilgenbladeren in een Egyptische papyrus uit 1550 voor Christus. AD (Ebers papyrus).
+    - id: 28
+      question: Welke stof mist het albino-organisme ?
+      propositions:
+      - Kinine
+      - Dopamine
+      - Melanine
+      - Insuline
+      réponse: Melanine
+      anecdote: Bij mensen is de huid wasachtig wit of lichtroze, terwijl het haar wit is, zoals de haren, wenkbrauwen en wimpers.
+    - id: 29
+      question: Wat was het eerste antibioticum dat Alexander Fleming in 1928 ontdekte ?
+      propositions:
+      - Acétarsol
+      - Dopamine
+      - Triclosan
+      - Penicilline
+      réponse: Penicilline
+      anecdote: Gedurende de gehele Tweede Wereldoorlog vond de grootschalige industrialisatie van de penicilline plaats.
+    - id: 30
+      question: Welke plant die bekend staat om zijn spijsvertering, is ook een filmische held ?
+      propositions:
+      - Catwoman
+      - Nevel
+      - Angelique
+      - Mystic
+      réponse: Angelique
+      anecdote: Het geslacht Angelica (engelwortel) omvat ongeveer 70 soorten grote meerjarige kruidachtige planten van de Apiaceae-familie.

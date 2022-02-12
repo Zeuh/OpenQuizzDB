@@ -1,0 +1,2216 @@
+{                                     
+  "fournisseur": "OpenQuizzDB - Fournisseur de contenu libre (https://www.openquizzdb.org)",
+  "rédacteur": "Edouard Swit",
+  "thème": "Sur le court (Au tennis, l'arbitre est quelqu'un de haut placé)",         
+  "difficulté": "2 / 5",
+  "quizz": {
+    "fr": {
+      "débutant": [
+      {
+        "id": 1,
+        "question": "Quel joueur français a remporté le tournoi de Roland-Garros en 1983 ?",
+        "propositions": [
+          "Guy Forget",
+          "Richard Gasquet",
+          "Yannick Noah",
+          "Jo-Wilfried Tsonga"
+        ],
+        "réponse": "Yannick Noah",
+        "anecdote": "Cette victoire lui vaut d'être le seul joueur français à avoir remporté un tournoi du Grand Chelem de l'ère Open en simple messieurs."
+      },
+      {
+        "id": 2,
+        "question": "Quel joueur de tennis brésilien professionnel surnomme-t-on Kuga ?",
+        "propositions": [
+          "Björn Borg",
+          "Novak Djokovic",
+          "John McEnroe",
+          "Gustavo Kuerten"
+        ],
+        "réponse": "Gustavo Kuerten",
+        "anecdote": "Gustavo Kuerten a remporté vingt titres en simple sur le circuit ATP, dont trois tournois de Roland-Garros et cinq Masters 1000."
+      },
+      {
+        "id": 3,
+        "question": "Bien que remplies d'air, de quelle matière sont fabriquées les balles de tennis ?",
+        "propositions": [
+          "Verre",
+          "Caoutchouc",
+          "Plastique",
+          "Carton"
+        ],
+        "réponse": "Caoutchouc",
+        "anecdote": "Une balle de tennis est formée d'une coque en caoutchouc, appelée noyau, recouverte de feutre, souvent de couleur jaune ou blanche."
+      },
+      {
+        "id": 4,
+        "question": "Quelle équipe a remporté la Coupe Davis de 2017, 106e édition de ce tournoi ?",
+        "propositions": [
+          "Belgique",
+          "Suisse",
+          "France",
+          "Italie"
+        ],
+        "réponse": "France",
+        "anecdote": "La France de Yannick Noah remporte ainsi sa dixième Coupe Davis, entre autres grâce à la victoire de Lucas Pouille sur Steve Darcis."
+      },
+      {
+        "id": 5,
+        "question": "Quelle joueuse belge au petit gabarit a remporté le tournoi de Roland-Garros ?",
+        "propositions": [
+          "Nancy Feber",
+          "Justine Henin",
+          "Elise Mertens",
+          "Kim Clijsters"
+        ],
+        "réponse": "Justine Henin",
+        "anecdote": "Grâce à la variété de son jeu, John McEnroe qualifia son revers à une main de meilleur revers du monde, hommes et femmes confondus."
+      },
+      {
+        "id": 6,
+        "question": "Combien y a-t-il de courts aux Internationaux de France de tennis ?",
+        "propositions": [
+          "24",
+          "12",
+          "8",
+          "17"
+        ],
+        "réponse": "17",
+        "anecdote": "Les trois plus grands courts sont le court Philippe-Chatrier (ou court central), le court Suzanne-Lenglen et le court Simonne-Mathieu."
+      },
+      {
+        "id": 7,
+        "question": "Dans un match de tennis professionnel, que change-t-on tous les neuf jeux ?",
+        "propositions": [
+          "Balle",
+          "Raquette",
+          "Maillot",
+          "Arbitre"
+        ],
+        "réponse": "Balle",
+        "anecdote": "Un changement de balles a lieu tous les 9 jeux, sauf le premier qui a lieu à la fin du septième jeu (l'échauffement valant pour 2 jeux)."
+      },
+      {
+        "id": 8,
+        "question": "Fin 2019, combien de fois Rafael Nadal a-t-il remporté Roland-Garros ?",
+        "propositions": [
+          "Onze",
+          "Sept",
+          "Treize",
+          "Douze"
+        ],
+        "réponse": "Douze",
+        "anecdote": "Ayant remporté 19 tournois du Grand Chelem, il est le seul à avoir remporté 12 titres en simple dans un de ces quatre tournois majeurs."
+      },
+      {
+        "id": 9,
+        "question": "Quelle est la nationalité du tennisman professionnel Roger Federer ?",
+        "propositions": [
+          "Française",
+          "Autrichienne",
+          "Suédoise",
+          "Suisse"
+        ],
+        "réponse": "Suisse",
+        "anecdote": "Né à Bâle, Federer détient le record de 310 semaines passées à la première place du classement mondial de tennis ATP World Tour."
+      },
+      {
+        "id": 10,
+        "question": "De combien de tournois majeurs est composé le Grand Chelem de tennis ?",
+        "propositions": [
+          "Cinq",
+          "Six",
+          "Quatre",
+          "Trois"
+        ],
+        "réponse": "Quatre",
+        "anecdote": "Les quatre tournois sont l'Open d'Australie de Melbourne, Roland-Garros à Paris, l'US Open de New York et Wimbledon à Londres."
+      }
+    ],
+    "confirmé": [
+      {
+        "id": 11,
+        "question": "Combien de joueurs français ont remporté Roland-Garros entre 1925 et 2019 ?",
+        "propositions": [
+          "Sept",
+          "Cinq",
+          "Dix",
+          "Trois"
+        ],
+        "réponse": "Cinq",
+        "anecdote": "Le palmarès des Français à Roland-Garros tient en dix noms : 5 joueurs et 5 joueuses français se sont imposés sur la terre battue parisienne."
+      },
+      {
+        "id": 12,
+        "question": "Quelle est la nationalité de la joueuse de tennis Serena Williams ?",
+        "propositions": [
+          "Brésilienne",
+          "Américaine",
+          "Anglaise",
+          "Française"
+        ],
+        "réponse": "Américaine",
+        "anecdote": "Serena Jameka Williams, soeur de la joueuse Venus Williams, est une joueuse de tennis américaine née le 26 septembre 1981 à Saginaw."
+      },
+      {
+        "id": 13,
+        "question": "Quel joueur de tennis français peut-on voir dans une publicité de Kinder Bueno ?",
+        "propositions": [
+          "Gaël Monfils",
+          "Richard Gasquet",
+          "Yannick Noah",
+          "Jo-Wilfried Tsonga"
+        ],
+        "réponse": "Jo-Wilfried Tsonga",
+        "anecdote": "Jo-Wilfried Tsonga a demandé à ses supporters de stopper les blagues parfois incessantes sur son partenariat avec Kinder Bueno."
+      },
+      {
+        "id": 14,
+        "question": "Sur quel revêtement se sont déroulés les premiers matches de tennis ?",
+        "propositions": [
+          "Gazon synthétique",
+          "Herbe",
+          "Béton",
+          "Terre battue"
+        ],
+        "réponse": "Herbe",
+        "anecdote": "C'est en effet en 1858 que le major Harry Gem esquissera une ébauche de court de tennis sur le gazon de sa propriété personnelle."
+      },
+      {
+        "id": 15,
+        "question": "En finale de quel tournoi du Grand Chelem Björn Borg a-t-il échoué à quatre reprises ?",
+        "propositions": [
+          "Wimbeldon",
+          "US Open",
+          "Open d'Australie",
+          "Roland-Garros"
+        ],
+        "réponse": "US Open",
+        "anecdote": "Björn Borg deviendra numéro un mondial en 1977 et sacré champion du monde par l'ITF à trois reprises, en 1978, 1979 et 1980."
+      },
+      {
+        "id": 16,
+        "question": "Quel tournoi de tennis du Grand Chelem se joue exclusivement sur gazon ?",
+        "propositions": [
+          "Roland-Garros",
+          "US Open",
+          "Open d'Australie",
+          "Wimbeldon"
+        ],
+        "réponse": "Wimbeldon",
+        "anecdote": "Les matches du plus ancien tournoi de tennis au monde se déroulent sur une surface en gazon où aucune séance de nuit ne tient place."
+      },
+      {
+        "id": 17,
+        "question": "Quel était le surnom du joueur de tennis allemand Boris Becker ?",
+        "propositions": [
+          "Bang Bang",
+          "Boum Boum",
+          "Big Ben",
+          "Bam Bam"
+        ],
+        "réponse": "Boum Boum",
+        "anecdote": "Becker a fait sensation quand il a remporté son premier Wimbledon à 17 ans en 1985, gagnant ainsi son surnom de Boum-Boum Becker."
+      },
+      {
+        "id": 18,
+        "question": "Quel joueur de tennis détient le record plutôt particulier du nombre de raquettes cassées ?",
+        "propositions": [
+          "Roger Federer",
+          "Marat Safin",
+          "Marcos Baghdadis",
+          "John McEnroe"
+        ],
+        "réponse": "Marat Safin",
+        "anecdote": "L'ancien numéro un mondial a brisé 1 055 cadres en 689 matches officiels durant sa carrière, soit 1,5 raquette par rencontre."
+      },
+      {
+        "id": 19,
+        "question": "En tennis, quel est le record de vitesse approximatif actuel enregistré au service ?",
+        "propositions": [
+          "200 km/h",
+          "260 km/h",
+          "280 km/h",
+          "170 km/h"
+        ],
+        "réponse": "260 km/h",
+        "anecdote": "Un joueur de tennis Australien inconnu aurait battu le record de vitesse au service avec une mesure impressionnante de 263 km/h."
+      },
+      {
+        "id": 20,
+        "question": "Quel métier exerçait Roland Garros, qui a donné son nom au stade construit en 1928 ?",
+        "propositions": [
+          "Navigateur",
+          "Avocat",
+          "Footballeur",
+          "Aviateur"
+        ],
+        "réponse": "Aviateur",
+        "anecdote": "Aviateur français, lieutenant pilote lors de la Première Guerre mondiale, Roland Garros est né le 6 octobre 1888 à Saint-Denis de La Réunion."
+      }
+    ],
+    "expert": [
+      {
+        "id": 21,
+        "question": "En 2019, qui détenait le record de titres mondiaux en tennis masculin ?",
+        "propositions": [
+          "Federer",
+          "Sampras",
+          "Nadal",
+          "Djokovic"
+        ],
+        "réponse": "Federer",
+        "anecdote": "Roger Federer est le seul joueur de l'histoire du tennis à avoir gagné au moins cinq fois trois tournois du Grand Chelem."
+      },
+      {
+        "id": 22,
+        "question": "En combien de sets gagnants se jouent les rencontres féminines du Grand Chelem ?",
+        "propositions": [
+          "Trois",
+          "Cinq",
+          "Deux",
+          "Quatre"
+        ],
+        "réponse": "Deux",
+        "anecdote": "Les hommes jouent au meilleur des cinq manches alors que les femmes disputent des matchs en deux sets gagnants uniquement."
+      },
+      {
+        "id": 23,
+        "question": "Combien d'heures a-t-il fallu à Nadal pour venir à bout de Federer à Rome en 2006 ?",
+        "propositions": [
+          "Cinq",
+          "Trois",
+          "Quatre",
+          "Deux"
+        ],
+        "réponse": "Cinq",
+        "anecdote": "Les bons résultats de Nadal lui permettront de prendre la place de Roger Federer en tête du classement ATP Race 2007 le 30 avril."
+      },
+      {
+        "id": 24,
+        "question": "Quelle est la dimension officielle d'un terrain de tennis ?",
+        "propositions": [
+          "15 x 5 m",
+          "23,77 x 8,23 m",
+          "24,73 x 9,17 m",
+          "21,52 x 8,15 m"
+        ],
+        "réponse": "23,77 x 8,23 m",
+        "anecdote": "Les lignes de fond d'un court de tennis mesurent 8,23 mètres. Les lignes de côté, tracées sur la longueur, font quant à elle 23,77 mètres."
+      },
+      {
+        "id": 25,
+        "question": "À combien de décibels ont été mesurés les cris de Maria Sharapova poussés sur les courts ?",
+        "propositions": [
+          "105 dbs",
+          "126 dbs",
+          "83 dbs",
+          "50 dbs"
+        ],
+        "réponse": "105 dbs",
+        "anecdote": "En plus de ce bruit équivalent à celui d'un petit avion à hélice au décollage, elle pousse de curieux recueillements entre chaque point."
+      },
+      {
+        "id": 26,
+        "question": "Quel tennisman a causé la mort d'un arbitre par une de ses balles qui l'a atteint ?",
+        "propositions": [
+          "Stefan Edberg",
+          "Mats Wilander",
+          "Jimmy Connors",
+          "Björn Borg"
+        ],
+        "réponse": "Stefan Edberg",
+        "anecdote": "Le 10 septembre 1983, l'une des balles de Stefan Edberg frappe de plein fouet un juge de ligne, Dick Wertheim, alors âgé de 61 ans."
+      },
+      {
+        "id": 27,
+        "question": "En simple, en son centre, un filet de tennis doit avoir quelle hauteur ?",
+        "propositions": [
+          "75 cm",
+          "103 cm",
+          "88 cm",
+          "91 cm"
+        ],
+        "réponse": "91 cm",
+        "anecdote": "La hauteur du filet au centre doit être fermement retenu par une sangle et proposer une hauteur de 0,914 mètre, soit trois pieds."
+      },
+      {
+        "id": 28,
+        "question": "Quelle est la nationalité de l'ex-joueuse de tennis Gabriela Sabatini ?",
+        "propositions": [
+          "Espagnole",
+          "Argentine",
+          "Grecque",
+          "Italienne"
+        ],
+        "réponse": "Argentine",
+        "anecdote": "Vice-championne olympique en 1988 lors des JO de Séoul, Gabriela Sabatini a également été finaliste de l'US Open la même année."
+      },
+      {
+        "id": 29,
+        "question": "Qui remit au gagnant le trophée masculin de Roland-Garros en 2005 ?",
+        "propositions": [
+          "Zinédine Zidane",
+          "Cedric Pioline",
+          "Teddy Riner",
+          "Tony Parker"
+        ],
+        "réponse": "Zinédine Zidane",
+        "anecdote": "Zidane a remis la première Coupe des Mousquetaires à Nadal, vainqueur du tournoi à l'issue de la finale contre l'Argentin Mariano Puerta."
+      },
+      {
+        "id": 30,
+        "question": "Quel célèbre joueur de tennis français est originaire du Cameroun ?",
+        "propositions": [
+          "Jo-Wilfried Tsonga",
+          "Gaël Monfils",
+          "Yannick Noah",
+          "Gille Simons"
+        ],
+        "réponse": "Yannick Noah",
+        "anecdote": "Fils du footballeur camerounais Zacharie Noah, vainqueur de la Coupe de France en 1961, il est le père du basketteur français Joakim Noah."
+      }
+    ]
+    },
+    "en": {
+      "débutant": [
+      {
+        "id": 1,
+        "question": "Which French player won the Roland-Garros tournament in 1983 ?",
+        "propositions": [
+          "Guy Forget",
+          "Richard Gasquet",
+          "Jo-Wilfried Tsonga",
+          "Yannick Noah"
+        ],
+        "réponse": "Yannick Noah",
+        "anecdote": "This victory earned him to be the only French player to have won a Grand Slam tournament of the Open era in men's singles."
+      },
+      {
+        "id": 2,
+        "question": "What professional Brazilian tennis player is Kuga called ?",
+        "propositions": [
+          "Björn Borg",
+          "Novak Djokovic",
+          "Gustavo Kuerten",
+          "John McEnroe"
+        ],
+        "réponse": "Gustavo Kuerten",
+        "anecdote": "Gustavo Kuerten won twenty singles titles on the ATP circuit, including three Roland-Garros tournaments, a Masters and five Masters 1000."
+      },
+      {
+        "id": 3,
+        "question": "Although filled with air, what material are tennis balls made of ?",
+        "propositions": [
+          "Rubber",
+          "Glass",
+          "Plastic",
+          "Cardboard"
+        ],
+        "réponse": "Rubber",
+        "anecdote": "A tennis ball is made of a rubber shell, called a core, covered with felt, often yellow or white in color."
+      },
+      {
+        "id": 4,
+        "question": "Which team won the 2017 Davis Cup, the 106th edition of this tournament ?",
+        "propositions": [
+          "France",
+          "Italy",
+          "Belgium",
+          "Switzerland"
+        ],
+        "réponse": "France",
+        "anecdote": "Yannick Noah's France thus won its tenth Davis Cup, among other things thanks to Lucas Pouille's victory over Steve Darcis."
+      },
+      {
+        "id": 5,
+        "question": "Which small-sized Belgian player nevertheless won the Roland-Garros tournament ?",
+        "propositions": [
+          "Nancy Feber",
+          "Justine Henin",
+          "Kim Clijsters",
+          "Elise Mertens"
+        ],
+        "réponse": "Justine Henin",
+        "anecdote": "Thanks to the variety of his game, John McEnroe called his backhand one hand the best backhand in the world, men and women combined."
+      },
+      {
+        "id": 6,
+        "question": "How many courts are there at the French Tennis Open ?",
+        "propositions": [
+          "17",
+          "8",
+          "12",
+          "24"
+        ],
+        "réponse": "17",
+        "anecdote": "The three largest courts are the Philippe-Chatrier court (or central court), the Suzanne-Lenglen court and the Simonne-Mathieu court."
+      },
+      {
+        "id": 7,
+        "question": "In a professional tennis match, what do you change every nine games ?",
+        "propositions": [
+          "Ball",
+          "Arbitrator",
+          "Jersey",
+          "Snowshoeing"
+        ],
+        "réponse": "Ball",
+        "anecdote": "A change of balls takes place every 9 games, except the first which takes place at the end of the seventh game (because the warm-up corresponds to 2 games)."
+      },
+      {
+        "id": 8,
+        "question": "At the end of 2019, how many times has Rafael Nadal won Roland-Garros ?",
+        "propositions": [
+          "Twelve",
+          "Eleven",
+          "Thirteen",
+          "Seven"
+        ],
+        "réponse": "Twelve",
+        "anecdote": "Having won 19 Grand Slam tournaments, he is the only player to have won 12 singles titles in one of these four major tournaments."
+      },
+      {
+        "id": 9,
+        "question": "What is the nationality of professional tennis player Roger Federer ?",
+        "propositions": [
+          "Switzerland",
+          "French",
+          "Austrian",
+          "Swedish"
+        ],
+        "réponse": "Switzerland",
+        "anecdote": "Born in Basel, Federer holds the record for 310 weeks spent in first place in the ATP World Tour tennis ranking."
+      },
+      {
+        "id": 10,
+        "question": "How many major tournaments does the tennis grand slam consist of ?",
+        "propositions": [
+          "Six",
+          "Five",
+          "Four",
+          "Three"
+        ],
+        "réponse": "Four",
+        "anecdote": "The four tournaments are the Australian Open in Melbourne, Roland-Garros in Paris, the US Open in New York and Wimbledon in London."
+      }
+    ],
+    "confirmé": [
+      {
+        "id": 11,
+        "question": "How many French players have won Roland-Garros between 1925 and 2019 ?",
+        "propositions": [
+          "Ten",
+          "Seven",
+          "Three",
+          "Five"
+        ],
+        "réponse": "Five",
+        "anecdote": "The French winners at Roland-Garros are ten names: 5 French players and 5 players have won on the Parisian clay."
+      },
+      {
+        "id": 12,
+        "question": "What is the nationality of tennis player Serena Williams ?",
+        "propositions": [
+          "French",
+          "American",
+          "Brazilian",
+          "English"
+        ],
+        "réponse": "American",
+        "anecdote": "Serena Jameka Williams, sister of player Venus Williams, is an American tennis player born September 26, 1981 in Saginaw."
+      },
+      {
+        "id": 13,
+        "question": "Which French tennis player can we see in a Kinder Bueno commercial ?",
+        "propositions": [
+          "Yannick Noah",
+          "Jo-Wilfried Tsonga",
+          "Richard Gasquet",
+          "Gael Monfils"
+        ],
+        "réponse": "Jo-Wilfried Tsonga",
+        "anecdote": "Jo-Wilfried Tsonga asked his supporters to stop the sometimes incessant jokes about his partnership with Kinder Bueno."
+      },
+      {
+        "id": 14,
+        "question": "On which surface did the first tennis matches take place ?",
+        "propositions": [
+          "Grass",
+          "Synthetic grass",
+          "Concrete",
+          "Clay court"
+        ],
+        "réponse": "Grass",
+        "anecdote": "It was in fact in 1888 that Major Harry Gem sketched a rough tennis court on the lawn of his personal property."
+      },
+      {
+        "id": 15,
+        "question": "In the final of which Grand Slam tournament did Bjorn Borg fail four times ?",
+        "propositions": [
+          "Roland-Garros",
+          "Wimbeldon",
+          "US Open",
+          "Australian Open"
+        ],
+        "réponse": "US Open",
+        "anecdote": "Björn Borg became world number in 1977 and crowned world champion by the ITF three times, in 1978, 1979 and 1980."
+      },
+      {
+        "id": 16,
+        "question": "Which Grand Slam tennis tournament is played exclusively on grass ?",
+        "propositions": [
+          "Roland-Garros",
+          "Wimbeldon",
+          "Australian Open",
+          "US Open"
+        ],
+        "réponse": "Wimbeldon",
+        "anecdote": "The matches of the oldest tennis tournament in the world take place on a turf surface where no night session takes place."
+      },
+      {
+        "id": 17,
+        "question": "What was the nickname of the German tennis player Boris Becker ?",
+        "propositions": [
+          "Bam Bam",
+          "Big Ben",
+          "Boom Boom",
+          "Bang Bang"
+        ],
+        "réponse": "Boom Boom",
+        "anecdote": "Becker caused a sensation when he won his first Wimbledon at 17 in 1985, earning his nickname of Boom-Boom Becker."
+      },
+      {
+        "id": 18,
+        "question": "Which tennis player holds the rather special record for the number of broken rackets ?",
+        "propositions": [
+          "Marat Safin",
+          "Roger Federer",
+          "Marcos Baghdadis",
+          "John McEnroe"
+        ],
+        "réponse": "Marat Safin",
+        "anecdote": "The former world number one broke 1,055 frames in 689 official matches during his career, or 1.5 rackets per game."
+      },
+      {
+        "id": 19,
+        "question": "In tennis, what is the current approximate speed record recorded in service ?",
+        "propositions": [
+          "280 km / h",
+          "170 km / h",
+          "200 km / h",
+          "260 km / h"
+        ],
+        "réponse": "260 km / h",
+        "anecdote": "An unknown Australian tennis player broke the service speed record with an impressive 263 km / h."
+      },
+      {
+        "id": 20,
+        "question": "What job was Roland Garros, which gave its name to the stadium built in 1928 ?",
+        "propositions": [
+          "Footballer",
+          "Aviator",
+          "Lawyer",
+          "Navigator"
+        ],
+        "réponse": "Aviator",
+        "anecdote": "French aviator, lieutenant pilot during the First World War, Roland Garros was born on October 6, 1888 in Saint-Denis de La R ?union."
+      }
+    ],
+    "expert": [
+      {
+        "id": 21,
+        "question": "In 2019, who held the world title record in men's tennis ?",
+        "propositions": [
+          "Djokovic",
+          "Sampras",
+          "Nadal",
+          "Federer"
+        ],
+        "réponse": "Federer",
+        "anecdote": "Roger Federer is the only player in tennis history to have won three Grand Slam tournaments at least five times."
+      },
+      {
+        "id": 22,
+        "question": "In how many winning sets are the women's Grand Slam matches played ?",
+        "propositions": [
+          "Five",
+          "Four",
+          "Two",
+          "Three"
+        ],
+        "réponse": "Two",
+        "anecdote": "Men play the best of five innings while women compete in two winning sets only."
+      },
+      {
+        "id": 23,
+        "question": "How many hours did it take Nadal to overcome Federer's Rome in 2006 ?",
+        "propositions": [
+          "Four",
+          "Five",
+          "Three",
+          "Two"
+        ],
+        "réponse": "Five",
+        "anecdote": "Nadal's good results will allow him to take the place of Roger Federer at the head of the ATP Race 2007 classification on April 30."
+      },
+      {
+        "id": 24,
+        "question": "What is the official size of a tennis court ?",
+        "propositions": [
+          "21.52 x 8.15 m",
+          "15 x 5 m",
+          "23.77 x 8.23 m",
+          "24.73 x 9.17 m"
+        ],
+        "réponse": "23.77 x 8.23 m",
+        "anecdote": "The bottom lines of a tennis court measure 8.23 meters. The side lines, drawn along the length, are 23.77 meters."
+      },
+      {
+        "id": 25,
+        "question": "How many decibels were the screams of Maria Sharapova uttered on the courts ?",
+        "propositions": [
+          "50 dbs",
+          "126 dbs",
+          "105 dbs",
+          "83 dbs"
+        ],
+        "réponse": "105 dbs",
+        "anecdote": "In addition to this noise equivalent to that of a small plane propeller taking off, it pushes curious meditations between each point."
+      },
+      {
+        "id": 26,
+        "question": "Which tennis player caused the death of a referee by one of his balls which hit him ?",
+        "propositions": [
+          "Björn Borg",
+          "Jimmy Connors",
+          "Mats Wilander",
+          "Stefan Edberg"
+        ],
+        "réponse": "Stefan Edberg",
+        "anecdote": "On September 10, 1983, one of Stefan Edberg's bullets hit a linesman, Dick Wertheim, then 61 years old, with full force."
+      },
+      {
+        "id": 27,
+        "question": "In singles, at its center, a tennis net should be how high ?",
+        "propositions": [
+          "103 cm",
+          "91 cm",
+          "88 cm",
+          "75 cm"
+        ],
+        "réponse": "91 cm",
+        "anecdote": "The height of the net in the center must be firmly retained by a strap and offer a height of 0.914 meters, or three feet."
+      },
+      {
+        "id": 28,
+        "question": "What is the nationality of ex-tennis player Gabriela Sabatini ?",
+        "propositions": [
+          "Greek",
+          "Italian",
+          "Spanish",
+          "Argentina"
+        ],
+        "réponse": "Argentina",
+        "anecdote": "Olympic vice-champion in 1988 during the Seoul Olympics, Gabriela Sabatini was also a finalist of the US Open the same year."
+      },
+      {
+        "id": 29,
+        "question": "Who gave the winner the men's Roland-Garros trophy in 2005 ?",
+        "propositions": [
+          "Cedric Pioline",
+          "Zinédine Zidane",
+          "Teddy Riner",
+          "Tony Parker"
+        ],
+        "réponse": "Zinédine Zidane",
+        "anecdote": "Zidane presented the first Musketeers Cup to Nadal, winner of the tournament after the final against the Argentinian Mariano Puerta."
+      },
+      {
+        "id": 30,
+        "question": "Which famous French tennis player is from Cameroon ?",
+        "propositions": [
+          "Yannick Noah",
+          "Gille Simons",
+          "Gaël Monfils",
+          "Jo-Wilfried Tsonga"
+        ],
+        "réponse": "Yannick Noah",
+        "anecdote": "Son of the Cameroonian footballer Zacharie Noah, winner of the Coupe de France in 1961, he is the father of the French basketball player Joakim Noah."
+      }
+    ]
+    },
+    "de": {
+      "débutant": [
+      {
+        "id": 1,
+        "question": "Welcher französische Spieler gewann 1983 das Roland-Garros-Turnier ?",
+        "propositions": [
+          "Yannick Noah",
+          "Jo-Wilfried Tsonga",
+          "Richard Gasquet",
+          "Guy Forget"
+        ],
+        "réponse": "Yannick Noah",
+        "anecdote": "Mit diesem Sieg war er der einzige französische Spieler, der ein Grand-Slam-Turnier der Open-Ära im Herren-Einzel gewonnen hat."
+      },
+      {
+        "id": 2,
+        "question": "Wie heißt der brasilianische Tennisspieler Kuga ?",
+        "propositions": [
+          "Björn Borg",
+          "John McEnroe",
+          "Novak Djokovic",
+          "Gustavo Kuerten"
+        ],
+        "réponse": "Gustavo Kuerten",
+        "anecdote": "Gustavo Kuerten gewann auf der ATP-Strecke zwanzig Einzeltitel, darunter drei Roland-Garros-Turniere, ein Masters und fünf Masters 1000."
+      },
+      {
+        "id": 3,
+        "question": "Aus welchem \u200b\u200bMaterial bestehen Tennisbälle, obwohl sie mit Luft gefüllt sind ?",
+        "propositions": [
+          "Karton",
+          "Gummi",
+          "Kunststoff",
+          "Glas"
+        ],
+        "réponse": "Gummi",
+        "anecdote": "Ein Tennisball besteht aus einer Gummischale, die als Kern bezeichnet wird und mit Filz bedeckt ist, der häufig gelb oder weiß ist."
+      },
+      {
+        "id": 4,
+        "question": "Welches Team hat den Davis Cup 2017, die 106. Ausgabe dieses Turniers, gewonnen ?",
+        "propositions": [
+          "Italien",
+          "Frankreich",
+          "Belgien",
+          "Schweiz"
+        ],
+        "réponse": "Frankreich",
+        "anecdote": "Yannick Noahs Frankreich gewann damit seinen zehnten Davis Cup, unter anderem dank Lucas Pouilles Sieg über Steve Darcis."
+      },
+      {
+        "id": 5,
+        "question": "Welcher kleine belgische Spieler hat das Roland-Garros-Turnier trotzdem gewonnen ?",
+        "propositions": [
+          "Kim Clijsters",
+          "Justine Henin",
+          "Nancy Feber",
+          "Elise Mertens"
+        ],
+        "réponse": "Justine Henin",
+        "anecdote": "Dank der Vielfalt seines Spiels nannte John McEnroe seine Rückhand eine Hand die beste Rückhand der Welt, Männer und Frauen zusammen."
+      },
+      {
+        "id": 6,
+        "question": "Wie viele Plätze gibt es bei den French Tennis Open ?",
+        "propositions": [
+          "12",
+          "17",
+          "24",
+          "8"
+        ],
+        "réponse": "17",
+        "anecdote": "Die drei größten Gerichte sind das Philippe-Chatrier-Gericht (oder Zentralgericht), das Suzanne-Lenglen-Gericht und das Simonne-Mathieu-Gericht."
+      },
+      {
+        "id": 7,
+        "question": "Was ändern Sie in einem professionellen Tennismatch alle neun Spiele ?",
+        "propositions": [
+          "Ball",
+          "Jersey",
+          "Schneeschuhwandern",
+          "Schiedsrichter"
+        ],
+        "réponse": "Ball",
+        "anecdote": "Ein Ballwechsel findet alle 9 Spiele statt, mit Ausnahme der ersten, die am Ende des siebten Spiels stattfindet (da das Aufwärmen 2 Spielen entspricht)."
+      },
+      {
+        "id": 8,
+        "question": "Wie oft hat Rafael Nadal Ende 2019 Roland-Garros gewonnen ?",
+        "propositions": [
+          "Zwölf",
+          "Sieben",
+          "Elf",
+          "Dreizehn"
+        ],
+        "réponse": "Zwölf",
+        "anecdote": "Er hat 19 Grand-Slam-Turniere gewonnen und ist der einzige Spieler, der 12 Einzeltitel in einem dieser vier großen Turniere gewonnen hat."
+      },
+      {
+        "id": 9,
+        "question": "Welche Nationalität hat der Tennisprofi Roger Federer ?",
+        "propositions": [
+          "Schwedisch",
+          "Französisch",
+          "Schweiz",
+          "Österreichisch"
+        ],
+        "réponse": "Schweiz",
+        "anecdote": "Der gebürtige Basler hält den Rekord von 310 Wochen auf dem ersten Platz der ATP World Tour-Tenniswertung."
+      },
+      {
+        "id": 10,
+        "question": "Aus wie vielen großen Turnieren besteht der Tennis Grand Slam ?",
+        "propositions": [
+          "Sechs",
+          "Vier",
+          "Drei",
+          "Fünf"
+        ],
+        "réponse": "Vier",
+        "anecdote": "Die vier Turniere sind die Australian Open in Melbourne, Roland-Garros in Paris, die US Open in New York und Wimbledon in London."
+      }
+    ],
+    "confirmé": [
+      {
+        "id": 11,
+        "question": "Wie viele französische Spieler haben Roland-Garros zwischen 1925 und 2019 gewonnen ?",
+        "propositions": [
+          "Fünf",
+          "Sieben",
+          "Drei",
+          "Zehn"
+        ],
+        "réponse": "Fünf",
+        "anecdote": "Die französische Siegerliste bei Roland-Garros ist in zehn Namen unterteilt: 5 französische Spieler und 5 Spieler haben auf dem Pariser Sand gewonnen."
+      },
+      {
+        "id": 12,
+        "question": "Welche Nationalität hat die Tennisspielerin Serena Williams ?",
+        "propositions": [
+          "Französisch",
+          "Brasilianisch",
+          "Englisch",
+          "Amerikanisch"
+        ],
+        "réponse": "Amerikanisch",
+        "anecdote": "Serena Jameka Williams, Schwester von Venus Williams, ist eine US-amerikanische Tennisspielerin und wurde am 26."
+      },
+      {
+        "id": 13,
+        "question": "Welchen französischen Tennisspieler können wir in einem Kinder Bueno-Werbespot sehen ?",
+        "propositions": [
+          "Richard Gasquet",
+          "Jo-Wilfried Tsonga",
+          "Gael Monfils",
+          "Yannick Noah"
+        ],
+        "réponse": "Jo-Wilfried Tsonga",
+        "anecdote": "Jo-Wilfried Tsonga bat seine Anhänger, die manchmal unaufhörlichen Witze über seine Partnerschaft mit Kinder Bueno zu beenden."
+      },
+      {
+        "id": 14,
+        "question": "Auf welcher Oberfläche fanden die ersten Tennisspiele statt ?",
+        "propositions": [
+          "Kunstrasen",
+          "Gras",
+          "Beton",
+          "Sandplatz"
+        ],
+        "réponse": "Gras",
+        "anecdote": "Tatsächlich zeichnete Major Harry Gem 1888 einen rauen Tennisplatz auf dem Rasen seines persönlichen Eigentums."
+      },
+      {
+        "id": 15,
+        "question": "In welchem Grand Slam-Finalturnier ist Björn Borg vier Mal gescheitert ?",
+        "propositions": [
+          "Australian Open",
+          "Wimbeldon",
+          "US Open",
+          "Roland-Garros"
+        ],
+        "réponse": "US Open",
+        "anecdote": "Björn Borg wird 1977 Weltnummer und 1978, 1979 und 1980 dreimal Weltmeister der ITF."
+      },
+      {
+        "id": 16,
+        "question": "Welches Grand Slam Tennisturnier wird ausschließlich auf Gras gespielt ?",
+        "propositions": [
+          "Wimbeldon",
+          "Roland-Garros",
+          "Australian Open",
+          "US Open"
+        ],
+        "réponse": "Wimbeldon",
+        "anecdote": "Die Spiele des ältesten Tennisturniers der Welt finden auf einer Rasenfläche statt, auf der keine Nachtsession stattfindet."
+      },
+      {
+        "id": 17,
+        "question": "Wie hieß der deutsche Tennisspieler Boris Becker ?",
+        "propositions": [
+          "Bang Bang",
+          "Boom Boom",
+          "Big Ben",
+          "Bam Bam"
+        ],
+        "réponse": "Boom Boom",
+        "anecdote": "Becker sorgte für Aufsehen, als er 1985 mit 17 Jahren seinen ersten Wimbledon gewann und seinen Spitznamen Boom-Boom Becker erhielt."
+      },
+      {
+        "id": 18,
+        "question": "Welcher Tennisspieler hält den besonderen Rekord für die Anzahl der zerbrochenen Schläger ?",
+        "propositions": [
+          "Marat Safin",
+          "Roger Federer",
+          "John McEnroe",
+          "Marcos Baghdadis"
+        ],
+        "réponse": "Marat Safin",
+        "anecdote": "Die frühere Nummer eins der Welt hat in 689 offiziellen Spielen seiner Karriere 1.055 Frames oder 1,5 Schläger pro Spiel gebrochen."
+      },
+      {
+        "id": 19,
+        "question": "Was ist der aktuelle ungefähre Geschwindigkeitsrekord im Tennisdienst ?",
+        "propositions": [
+          "200 km / h",
+          "170 km / h",
+          "280 km / h",
+          "260 km / h"
+        ],
+        "réponse": "260 km / h",
+        "anecdote": "Ein unbekannter australischer Tennisspieler brach den Geschwindigkeitsrekord mit beeindruckenden 263 km / h."
+      },
+      {
+        "id": 20,
+        "question": "Welchen Job hatte Roland Garros, der dem 1928 erbauten Stadion seinen Namen gab ?",
+        "propositions": [
+          "Anwalt",
+          "Aviator",
+          "Fußballer",
+          "Navigator"
+        ],
+        "réponse": "Aviator",
+        "anecdote": "Roland Garros wurde am 6."
+      }
+    ],
+    "expert": [
+      {
+        "id": 21,
+        "question": "Wer hielt 2019 den Weltmeistertitel im Herrentennis ?",
+        "propositions": [
+          "Federer",
+          "Djokovic",
+          "Nadal",
+          "Sampras"
+        ],
+        "réponse": "Federer",
+        "anecdote": "Roger Federer ist der einzige Spieler in der Tennisgeschichte, der mindestens fünf Mal drei Grand Slam-Turniere gewonnen hat."
+      },
+      {
+        "id": 22,
+        "question": "In wie vielen Gewinnsätzen werden die Grand Slam-Spiele der Frauen gespielt ?",
+        "propositions": [
+          "Fünf",
+          "Zwei",
+          "Vier",
+          "Drei"
+        ],
+        "réponse": "Zwei",
+        "anecdote": "Männer spielen das Beste aus fünf Innings, während Frauen nur in zwei Gewinnsätzen gegeneinander antreten."
+      },
+      {
+        "id": 23,
+        "question": "Wie viele Stunden brauchte Nadal, um Federers Rom im Jahr 2006 zu überwinden ?",
+        "propositions": [
+          "Vier",
+          "Zwei",
+          "Drei",
+          "Fünf"
+        ],
+        "réponse": "Fünf",
+        "anecdote": "Nadals gute Ergebnisse werden es ihm ermöglichen, am 30."
+      },
+      {
+        "id": 24,
+        "question": "Was ist die offizielle Größe eines Tennisplatzes ?",
+        "propositions": [
+          "23,77 x 8,23 m",
+          "15 x 5 m",
+          "24,73 x 9,17 m",
+          "21,52 x 8,15 m"
+        ],
+        "réponse": "23,77 x 8,23 m",
+        "anecdote": "Die Grundlinie eines Tennisplatzes misst 8,23 Meter. Die entlang der Länge gezogenen Seitenlinien betragen 23,77 Meter."
+      },
+      {
+        "id": 25,
+        "question": "Wie viele Dezibel waren die Schreie von Maria Sharapova auf den Gerichten ?",
+        "propositions": [
+          "50 dbs",
+          "83 dbs",
+          "105 dbs",
+          "126 dbs"
+        ],
+        "réponse": "105 dbs",
+        "anecdote": "Zusätzlich zu diesem Geräusch, das dem eines kleinen Flugzeugpropellers beim Abheben entspricht, werden neugierige Meditationen zwischen den einzelnen Punkten geschoben."
+      },
+      {
+        "id": 26,
+        "question": "Welcher Tennisspieler hat durch einen seiner Bälle, der ihn traf, den Tod eines Schiedsrichters verursacht ?",
+        "propositions": [
+          "Mats Wilander",
+          "Björn Borg",
+          "Stefan Edberg",
+          "Jimmy Connors"
+        ],
+        "réponse": "Stefan Edberg",
+        "anecdote": "Am 10. September 1983 traf eine Kugel von Stefan Edberg mit voller Wucht einen Linienrichter, den damals 61-jährigen Dick Wertheim."
+      },
+      {
+        "id": 27,
+        "question": "In der Mitte sollte ein Tennisnetz wie hoch sein ?",
+        "propositions": [
+          "75 cm",
+          "103 cm",
+          "88 cm",
+          "91 cm"
+        ],
+        "réponse": "91 cm",
+        "anecdote": "Die Höhe des Netzes in der Mitte muss durch einen Gurt festgehalten werden und eine Höhe von 0,914 Metern oder drei Fuß bieten."
+      },
+      {
+        "id": 28,
+        "question": "Welche Nationalität hat die Ex-Tennisspielerin Gabriela Sabatini ?",
+        "propositions": [
+          "Griechisch",
+          "Spanisch",
+          "Italienisch",
+          "Argentinien"
+        ],
+        "réponse": "Argentinien",
+        "anecdote": "Gabriela Sabatini war 1988 Olympiasiegerin bei den Olympischen Spielen in Seoul und im selben Jahr Finalistin bei den US Open."
+      },
+      {
+        "id": 29,
+        "question": "Wer hat dem Sieger den Roland-Garros-Pokal der Männer 2005 verliehen ?",
+        "propositions": [
+          "Zinédine Zidane",
+          "Tony Parker",
+          "Cedric Pioline",
+          "Teddy Riner"
+        ],
+        "réponse": "Zinédine Zidane",
+        "anecdote": "Zidane überreichte Nadal, dem Sieger des Turniers nach dem Finale gegen den Argentinier Mariano Puerta, den ersten Musketier-Pokal."
+      },
+      {
+        "id": 30,
+        "question": "Welcher berühmte französische Tennisspieler kommt aus Kamerun ?",
+        "propositions": [
+          "Jo-Wilfried Tsonga",
+          "Gille Simons",
+          "Yannick Noah",
+          "Gaël Monfils"
+        ],
+        "réponse": "Yannick Noah",
+        "anecdote": "Der Sohn des kamerunischen Fußballspielers Zacharie Noah, der 1961 das Coupe de France gewann, ist der Vater des französischen Basketballspielers Joakim Noah."
+      }
+    ]
+    },
+    "es": {
+      "débutant": [
+      {
+        "id": 1,
+        "question": "¿Qué jugador francés ganó el torneo Roland-Garros en 1983 ?",
+        "propositions": [
+          "Yannick Noah",
+          "Jo-Wilfried Tsonga",
+          "Guy Forget",
+          "Richard Gasquet"
+        ],
+        "réponse": "Yannick Noah",
+        "anecdote": "Esta victoria le valió ser el único jugador francés que ganó un torneo de Grand Slam de la era Open en singles masculinos."
+      },
+      {
+        "id": 2,
+        "question": "¿Cómo se llama el tenista brasileño profesional Kuga ?",
+        "propositions": [
+          "Björn Borg",
+          "John McEnroe",
+          "Gustavo Kuerten",
+          "Novak Djokovic"
+        ],
+        "réponse": "Gustavo Kuerten",
+        "anecdote": "Gustavo Kuerten ganó veinte títulos individuales en el circuito ATP, incluidos tres torneos Roland-Garros, un Masters y cinco Masters 1000."
+      },
+      {
+        "id": 3,
+        "question": "Aunque lleno de aire, ¿de qué material están hechas las pelotas de tenis ?",
+        "propositions": [
+          "Plastico",
+          "Vidrio",
+          "Cartón",
+          "Caucho"
+        ],
+        "réponse": "Caucho",
+        "anecdote": "Una pelota de tenis está hecha de una carcasa de goma, llamada núcleo, cubierta con fieltro, a menudo de color amarillo o blanco."
+      },
+      {
+        "id": 4,
+        "question": "¿Qué equipo ganó la Copa Davis 2017, la 106a edición de este torneo ?",
+        "propositions": [
+          "Bélgica",
+          "Italia",
+          "Suiza",
+          "Francia"
+        ],
+        "réponse": "Francia",
+        "anecdote": "La Francia de Yannick Noah ganó su décima Copa Davis, entre otras cosas gracias a la victoria de Lucas Pouille sobre Steve Darcis."
+      },
+      {
+        "id": 5,
+        "question": "¿Qué jugador belga de pequeño tamaño ganó el torneo Roland-Garros ?",
+        "propositions": [
+          "Nancy Feber",
+          "Kim Clijsters",
+          "Justine Henin",
+          "Elise Mertens"
+        ],
+        "réponse": "Justine Henin",
+        "anecdote": "Gracias a la variedad de su juego, John McEnroe llamó a su revés, por un lado, el mejor revés del mundo, hombres y mujeres combinados."
+      },
+      {
+        "id": 6,
+        "question": "¿Cuántas canchas hay en el Abierto de Tenis de Francia ?",
+        "propositions": [
+          "17",
+          "8",
+          "12",
+          "24"
+        ],
+        "réponse": "17",
+        "anecdote": "Los tres tribunales más grandes son el tribunal Philippe Chatrier (o tribunal central), el tribunal Suzanne-Lenglen y el tribunal Simonne-Mathieu."
+      },
+      {
+        "id": 7,
+        "question": "En un partido de tenis profesional, ¿qué cambias cada nueve juegos ?",
+        "propositions": [
+          "Jersey",
+          "Raquetas de nieve",
+          "Árbitro",
+          "Pelota"
+        ],
+        "réponse": "Pelota",
+        "anecdote": "Se realiza un cambio de bolas cada 9 juegos, excepto el primero que se realiza al final del séptimo juego (porque el calentamiento corresponde a 2 juegos)."
+      },
+      {
+        "id": 8,
+        "question": "A finales de 2019, ¿cuántas veces ganó Rafael Nadal Roland-Garros ?",
+        "propositions": [
+          "Trece",
+          "Doce",
+          "Siete",
+          "Once"
+        ],
+        "réponse": "Doce",
+        "anecdote": "Después de haber ganado 19 torneos de Grand Slam, es el único jugador que ha ganado 12 títulos individuales en uno de estos cuatro torneos principales."
+      },
+      {
+        "id": 9,
+        "question": "¿Cuál es la nacionalidad del tenista profesional Roger Federer ?",
+        "propositions": [
+          "Austriaco",
+          "Francés",
+          "Sueco",
+          "Suiza"
+        ],
+        "réponse": "Suiza",
+        "anecdote": "Nacido en Basilea, Federer tiene el récord de 310 semanas en primer lugar en el ranking de tenis ATP World Tour."
+      },
+      {
+        "id": 10,
+        "question": "¿En cuántos torneos principales se compone el Grand Slam de tenis ?",
+        "propositions": [
+          "Cinco",
+          "Seis",
+          "Cuatro",
+          "Tres"
+        ],
+        "réponse": "Cuatro",
+        "anecdote": "Los cuatro torneos son el Abierto de Australia en Melbourne, Roland-Garros en París, el Abierto de Estados Unidos en Nueva York y Wimbledon en Londres."
+      }
+    ],
+    "confirmé": [
+      {
+        "id": 11,
+        "question": "¿Cuántos jugadores franceses han ganado Roland-Garros entre 1925 y 2019 ?",
+        "propositions": [
+          "Tres",
+          "Siete",
+          "Cinco",
+          "Diez"
+        ],
+        "réponse": "Cinco",
+        "anecdote": "Los ganadores franceses en Roland-Garros son diez nombres: 5 jugadores franceses y 5 jugadores han ganado en la arcilla parisina."
+      },
+      {
+        "id": 12,
+        "question": "¿Cuál es la nacionalidad de la tenista Serena Williams ?",
+        "propositions": [
+          "Inglés",
+          "Francés",
+          "Brasileño",
+          "Americano"
+        ],
+        "réponse": "Americano",
+        "anecdote": "Serena Jameka Williams, hermana del jugador Venus Williams, es una tenista estadounidense nacida el 26 de septiembre de 1981 en Saginaw."
+      },
+      {
+        "id": 13,
+        "question": "¿Qué tenista francés podemos ver en un comercial de Kinder Bueno ?",
+        "propositions": [
+          "Jo-Wilfried Tsonga",
+          "Richard Gasquet",
+          "Gael Monfils",
+          "Yannick Noah"
+        ],
+        "réponse": "Jo-Wilfried Tsonga",
+        "anecdote": "Jo-Wilfried Tsonga le pidió a sus seguidores que detuvieran las bromas a veces incesantes sobre su asociación con Kinder Bueno."
+      },
+      {
+        "id": 14,
+        "question": "¿En qué superficie tuvieron lugar los primeros partidos de tenis ?",
+        "propositions": [
+          "Hormigón",
+          "Hierba sintética",
+          "Hierba",
+          "Cancha de arcilla"
+        ],
+        "réponse": "Hierba",
+        "anecdote": "De hecho, en 1888 el mayor Harry Gem dibujó una cancha de tenis en el césped de su propiedad personal."
+      },
+      {
+        "id": 15,
+        "question": "¿En la final de cuál torneo de Grand Slam Bjorn Borg falló cuatro veces ?",
+        "propositions": [
+          "US Open",
+          "Wimbeldon",
+          "Roland-Garros",
+          "Abierto de Australia"
+        ],
+        "réponse": "US Open",
+        "anecdote": "Björn Borg se convirtió en número mundial en 1977 y fue coronado campeón mundial por la ITF tres veces, en 1978, 1979 y 1980."
+      },
+      {
+        "id": 16,
+        "question": "¿Qué torneo de tenis Grand Slam se juega exclusivamente en hierba ?",
+        "propositions": [
+          "Roland-Garros",
+          "US Open",
+          "Wimbeldon",
+          "Abierto de Australia"
+        ],
+        "réponse": "Wimbeldon",
+        "anecdote": "Los partidos del torneo de tenis más antiguo del mundo tienen lugar en una superficie de césped donde no se realiza ninguna sesión nocturna."
+      },
+      {
+        "id": 17,
+        "question": "¿Cuál era el apodo del tenista alemán Boris Becker ?",
+        "propositions": [
+          "Bang Bang",
+          "Boom Boom",
+          "Bam Bam",
+          "Big Ben"
+        ],
+        "réponse": "Boom Boom",
+        "anecdote": "Becker causó sensación cuando ganó su primer Wimbledon a los 17 años en 1985, ganando su apodo de Boom-Boom Becker."
+      },
+      {
+        "id": 18,
+        "question": "¿Qué tenista tiene el récord bastante especial para el número de raquetas rotas ?",
+        "propositions": [
+          "Roger Federer",
+          "Marat Safin",
+          "Marcos Baghdadis",
+          "John McEnroe"
+        ],
+        "réponse": "Marat Safin",
+        "anecdote": "El ex número uno del mundo rompió 1,055 cuadros en 689 partidos oficiales durante su carrera, o 1.5 raquetas por juego."
+      },
+      {
+        "id": 19,
+        "question": "En tenis, ¿cuál es el récord actual de velocidad aproximada registrado en servicio ?",
+        "propositions": [
+          "260 km / h",
+          "170 km / h",
+          "280 km / h",
+          "200 km / h"
+        ],
+        "réponse": "260 km / h",
+        "anecdote": "Según los informes, un tenista australiano desconocido rompió el récord de velocidad de servicio con una impresionante cifra de 263 km / h."
+      },
+      {
+        "id": 20,
+        "question": "¿En qué trabajo estaba Roland Garros, que dio su nombre al estadio construido en 1928 ?",
+        "propositions": [
+          "Abogado",
+          "Navegador",
+          "Futbolista",
+          "Aviador"
+        ],
+        "réponse": "Aviador",
+        "anecdote": "Roland Garros, aviador francés, teniente piloto durante la Primera Guerra Mundial, nació el 6 de octubre de 1888 en Saint-Denis de La Reunión."
+      }
+    ],
+    "expert": [
+      {
+        "id": 21,
+        "question": "En 2019, ¿quién tuvo el récord mundial en tenis masculino ?",
+        "propositions": [
+          "Nadal",
+          "Sampras",
+          "Federer",
+          "Djokovic"
+        ],
+        "réponse": "Federer",
+        "anecdote": "Roger Federer es el único jugador en la historia del tenis que ha ganado tres torneos de Grand Slam al menos cinco veces."
+      },
+      {
+        "id": 22,
+        "question": "¿En cuántos sets ganadores se juegan los partidos de Grand Slam femenino ?",
+        "propositions": [
+          "Cinco",
+          "Tres",
+          "Dos",
+          "Cuatro"
+        ],
+        "réponse": "Dos",
+        "anecdote": "Los hombres juegan el mejor de cinco entradas, mientras que las mujeres compiten en dos sets ganadores solamente."
+      },
+      {
+        "id": 23,
+        "question": "¿Cuántas horas le tomó a Nadal superar la Roma de Federer en 2006 ?",
+        "propositions": [
+          "Tres",
+          "Dos",
+          "Cuatro",
+          "Cinco"
+        ],
+        "réponse": "Cinco",
+        "anecdote": "Los buenos resultados de Nadal le permitirán tomar el lugar de Roger Federer en la cima de la clasificación ATP Race 2007 el 30 de abril."
+      },
+      {
+        "id": 24,
+        "question": "¿Cuál es el tamaño oficial de una cancha de tenis ?",
+        "propositions": [
+          "23,77 x 8,23 m",
+          "15 x 5 m",
+          "24,73 x 9,17 m",
+          "21,52 x 8,15 m"
+        ],
+        "réponse": "23,77 x 8,23 m",
+        "anecdote": "Las líneas de fondo de una cancha de tenis miden 8.23 metros. Las líneas laterales, dibujadas a lo largo de la longitud, son 23.77 metros."
+      },
+      {
+        "id": 25,
+        "question": "¿Cuántos decibelios fueron los gritos de Maria Sharapova pronunciados en las canchas ?",
+        "propositions": [
+          "50 dbs",
+          "126 dbs",
+          "83 dbs",
+          "105 dbs"
+        ],
+        "réponse": "105 dbs",
+        "anecdote": "Además de este ruido equivalente al de una hélice de avión pequeño que despega, empuja meditaciones curiosas entre cada punto."
+      },
+      {
+        "id": 26,
+        "question": "¿Qué tenista causó la muerte de un árbitro por una de sus bolas que lo golpeó ?",
+        "propositions": [
+          "Jimmy Connors",
+          "Björn Borg",
+          "Stefan Edberg",
+          "Mats Wilander"
+        ],
+        "réponse": "Stefan Edberg",
+        "anecdote": "El 10 de septiembre de 1983, una de las balas de Stefan Edberg alcanzó a un juez de línea, Dick Wertheim, de 61 años, con toda su fuerza."
+      },
+      {
+        "id": 27,
+        "question": "En singles, en su centro, una red de tenis debería ser ¿qué tan alto ?",
+        "propositions": [
+          "91 cm",
+          "103 cm",
+          "75 cm",
+          "88 cm"
+        ],
+        "réponse": "91 cm",
+        "anecdote": "La altura de la red en el centro debe estar firmemente retenida por una correa y ofrecer una altura de 0.914 metros, o tres pies."
+      },
+      {
+        "id": 28,
+        "question": "¿Cuál es la nacionalidad de la ex tenista Gabriela Sabatini ?",
+        "propositions": [
+          "Italiano",
+          "Español",
+          "Griego",
+          "Argentina"
+        ],
+        "réponse": "Argentina",
+        "anecdote": "Vicecampeona olímpica en 1988 durante los Juegos Olímpicos de Seúl, Gabriela Sabatini también fue finalista en el Abierto de Estados Unidos el mismo año."
+      },
+      {
+        "id": 29,
+        "question": "¿Quién le dio al ganador el trofeo masculino Roland-Garros en 2005 ?",
+        "propositions": [
+          "Cedric Pioline",
+          "Tony Parker",
+          "Teddy Riner",
+          "Zinédine Zidane"
+        ],
+        "réponse": "Zinédine Zidane",
+        "anecdote": "Zidane presentó la primera Copa Mosqueteros a Nadal, ganador del torneo después de la final contra el argentino Mariano Puerta."
+      },
+      {
+        "id": 30,
+        "question": "¿Qué famoso tenista francés es de Camerún ?",
+        "propositions": [
+          "Gaël Monfils",
+          "Jo-Wilfried Tsonga",
+          "Yannick Noah",
+          "Gille Simons"
+        ],
+        "réponse": "Yannick Noah",
+        "anecdote": "Hijo del futbolista camerunés Zacharie Noah, ganador de la Copa de Francia en 1961, es el padre del jugador de baloncesto francés Joakim Noah."
+      }
+    ]
+    },
+    "it": {
+      "débutant": [
+      {
+        "id": 1,
+        "question": "Quale giocatore francese ha vinto il torneo Roland-Garros nel 1983 ?",
+        "propositions": [
+          "Richard Gasquet",
+          "Yannick Noah",
+          "Jo-Wilfried Tsonga",
+          "Guy Dimentica"
+        ],
+        "réponse": "Yannick Noah",
+        "anecdote": "Questa vittoria gli è valsa l'unico giocatore francese ad aver vinto un torneo del Grande Slam dell'era Open nei singoli maschili."
+      },
+      {
+        "id": 2,
+        "question": "Quale tennista brasiliano professionista si chiama Kuga ?",
+        "propositions": [
+          "Björn Borg",
+          "John McEnroe",
+          "Gustavo Kuerten",
+          "Novak Djokovic"
+        ],
+        "réponse": "Gustavo Kuerten",
+        "anecdote": "Gustavo Kuerten ha vinto venti titoli singoli sul circuito ATP, tra cui tre tornei Roland-Garros, un Masters e cinque Masters 1000."
+      },
+      {
+        "id": 3,
+        "question": "Sebbene pieno d'aria, di che materiale sono fatte le palline da tennis ?",
+        "propositions": [
+          "Plastica",
+          "Vetro",
+          "Gomma",
+          "Cartone"
+        ],
+        "réponse": "Gomma",
+        "anecdote": "Una palla da tennis è costituita da un guscio di gomma, chiamato nucleo, ricoperto di feltro, spesso di colore giallo o bianco."
+      },
+      {
+        "id": 4,
+        "question": "Quale squadra ha vinto la Coppa Davis 2017, la 106a edizione di questo torneo ?",
+        "propositions": [
+          "Francia",
+          "Belgio",
+          "Italia",
+          "Svizzera"
+        ],
+        "réponse": "Francia",
+        "anecdote": "La Francia di Yannick Noah ha così vinto la sua decima Coppa Davis, tra l'altro grazie alla vittoria di Lucas Pouille su Steve Darcis."
+      },
+      {
+        "id": 5,
+        "question": "Quale giocatore belga di piccole dimensioni ha comunque vinto il torneo Roland-Garros ?",
+        "propositions": [
+          "Kim Clijsters",
+          "Justine Henin",
+          "Nancy Feber",
+          "Elise Mertens"
+        ],
+        "réponse": "Justine Henin",
+        "anecdote": "Grazie alla varietà del suo gioco, John McEnroe ha definito il suo rovescio il miglior rovescio del mondo, uomini e donne messi insieme."
+      },
+      {
+        "id": 6,
+        "question": "Quanti campi ci sono al French Tennis Open ?",
+        "propositions": [
+          "24",
+          "17",
+          "8",
+          "12"
+        ],
+        "réponse": "17",
+        "anecdote": "I tre tribunali più grandi sono il tribunale Philip-Chatrier (o tribunale centrale), il castello di Suuzanne-Lenglen e il tribunale di Lione-Mathieu."
+      },
+      {
+        "id": 7,
+        "question": "In una partita di tennis professionale, cosa cambi ogni nove partite ?",
+        "propositions": [
+          "Ball",
+          "Arbitro",
+          "Jersey",
+          "Ciaspolate"
+        ],
+        "réponse": "Ball",
+        "anecdote": "Un cambio di palline avviene ogni 9 partite, tranne la prima che si svolge alla fine della settima partita (perché il riscaldamento corrisponde a 2 partite)."
+      },
+      {
+        "id": 8,
+        "question": "Alla fine del 2019, quante volte Rafael Nadal ha vinto il Roland-Garros ?",
+        "propositions": [
+          "Sette",
+          "Tredici",
+          "Undici",
+          "Dodici"
+        ],
+        "réponse": "Dodici",
+        "anecdote": "Dopo aver vinto 19 tornei del Grande Slam, è l'unico giocatore ad aver vinto 12 titoli singoli in uno di questi quattro tornei principali."
+      },
+      {
+        "id": 9,
+        "question": "Qual è la nazionalità del tennista professionista Roger Federer ?",
+        "propositions": [
+          "Svedese",
+          "Svizzera",
+          "Francese",
+          "Austriaco"
+        ],
+        "réponse": "Svizzera",
+        "anecdote": "Nato a Basilea, Federer detiene il record per 310 settimane trascorse al primo posto nella classifica del tennis ATP World Tour."
+      },
+      {
+        "id": 10,
+        "question": "In quanti tornei principali è costituito il Grand Slam del tennis ?",
+        "propositions": [
+          "Tre",
+          "Quattro",
+          "Cinque",
+          "Sei"
+        ],
+        "réponse": "Quattro",
+        "anecdote": "I quattro tornei sono gli Australian Open a Melbourne, il Roland-Garros a Parigi, gli US Open a New York e Wimbledon a Londra."
+      }
+    ],
+    "confirmé": [
+      {
+        "id": 11,
+        "question": "Quanti giocatori francesi hanno vinto il Roland-Garros tra il 1925 e il 2019 ?",
+        "propositions": [
+          "Sette",
+          "Dieci",
+          "Cinque",
+          "Tre"
+        ],
+        "réponse": "Cinque",
+        "anecdote": "I vincitori francesi del Roland-Garros sono dieci nomi: 5 giocatori francesi e 5 giocatori hanno vinto sull'argilla parigina."
+      },
+      {
+        "id": 12,
+        "question": "Qual è la nazionalità della tennista Serena Williams ?",
+        "propositions": [
+          "Francese",
+          "Inglese",
+          "Brasiliano",
+          "Americano"
+        ],
+        "réponse": "Americano",
+        "anecdote": "Serena Jameka Williams, sorella del giocatore Venus Williams, è una tennista americana nata il 26 settembre 1981 a Saginaw."
+      },
+      {
+        "id": 13,
+        "question": "Quale tennista francese possiamo vedere in una pubblicità di Kinder Bueno ?",
+        "propositions": [
+          "Richard Gasquet",
+          "Gael Monfils",
+          "Yannick Noah",
+          "Jo-Wilfried Tsonga"
+        ],
+        "réponse": "Jo-Wilfried Tsonga",
+        "anecdote": "Jo-Wilfried Tsonga ha chiesto ai suoi sostenitori di interrompere le battute a volte incessanti sulla sua collaborazione con Kinder Bueno."
+      },
+      {
+        "id": 14,
+        "question": "Su quale superficie si sono svolte le prime partite di tennis ?",
+        "propositions": [
+          "Erba sintetica",
+          "Campo in terra battuta",
+          "Erba",
+          "Calcestruzzo"
+        ],
+        "réponse": "Erba",
+        "anecdote": "Fu infatti nel 1888 che il maggiore Harry Gem disegnò un ruvido campo da tennis sul prato della sua proprietà personale."
+      },
+      {
+        "id": 15,
+        "question": "Nella finale di quale torneo del Grande Slam Bjorn Borg ha fallito quattro volte ?",
+        "propositions": [
+          "US Open",
+          "Australian Open",
+          "Roland-Garros",
+          "Wimbeldon"
+        ],
+        "réponse": "US Open",
+        "anecdote": "Björn Borg divenne il numero mondiale nel 1977 e incoronò tre volte campione del mondo dall'ITF, nel 1978, 1979 e 1980."
+      },
+      {
+        "id": 16,
+        "question": "Quale torneo di tennis del Grande Slam si gioca esclusivamente sull'erba ?",
+        "propositions": [
+          "Roland-Garros",
+          "US Open",
+          "Wimbeldon",
+          "Australian Open"
+        ],
+        "réponse": "Wimbeldon",
+        "anecdote": "Le partite del più antico torneo di tennis del mondo si svolgono su una superficie erbosa dove non si svolgono sessioni notturne."
+      },
+      {
+        "id": 17,
+        "question": "Qual era il soprannome del tennista tedesco Boris Becker ?",
+        "propositions": [
+          "Boom Boom",
+          "Big Ben",
+          "Bang Bang",
+          "Bam Bam"
+        ],
+        "réponse": "Boom Boom",
+        "anecdote": "Becker fece scalpore quando vinse il suo primo Wimbledon a 17 nel 1985, guadagnandosi il soprannome di Boom-Boom Becker."
+      },
+      {
+        "id": 18,
+        "question": "Quale tennista detiene il record piuttosto speciale per il numero di racchette rotte ?",
+        "propositions": [
+          "John McEnroe",
+          "Marat Safin",
+          "Marcos Baghdadis",
+          "Roger Federer"
+        ],
+        "réponse": "Marat Safin",
+        "anecdote": "L'ex numero uno al mondo ha rotto 1.055 frame in 689 partite ufficiali durante la sua carriera, o 1,5 racchette per partita."
+      },
+      {
+        "id": 19,
+        "question": "Nel tennis, qual è l'attuale record di velocità approssimativa registrato in servizio ?",
+        "propositions": [
+          "280 km / h",
+          "170 km / h",
+          "260 km / h",
+          "200 km / h"
+        ],
+        "réponse": "260 km / h",
+        "anecdote": "Secondo quanto riferito, uno sconosciuto tennista australiano ha battuto il record di velocità di servizio con 263 km / h."
+      },
+      {
+        "id": 20,
+        "question": "Quale lavoro fu Roland Garros, che diede il nome allo stadio costruito nel 1928 ?",
+        "propositions": [
+          "Calciatore",
+          "Navigatore",
+          "Avvocato",
+          "Aviatore"
+        ],
+        "réponse": "Aviatore",
+        "anecdote": "Aviatore francese, tenente pilota durante la prima guerra mondiale, Roland Garros nacque il 6 ottobre 1888 a Saint-Denis de La Réunion."
+      }
+    ],
+    "expert": [
+      {
+        "id": 21,
+        "question": "Nel 2019, chi ha detenuto il titolo mondiale nel tennis maschile ?",
+        "propositions": [
+          "Djokovic",
+          "Sampras",
+          "Nadal",
+          "Federer"
+        ],
+        "réponse": "Federer",
+        "anecdote": "Roger Federer è l'unico giocatore nella storia del tennis ad aver vinto tre tornei del Grande Slam almeno cinque volte."
+      },
+      {
+        "id": 22,
+        "question": "In quanti set vincenti si giocano le partite del Grand Slam femminile ?",
+        "propositions": [
+          "Quattro",
+          "Tre",
+          "Due",
+          "Cinque"
+        ],
+        "réponse": "Due",
+        "anecdote": "Gli uomini giocano il meglio dei cinque inning mentre le donne competono solo in due set vincenti."
+      },
+      {
+        "id": 23,
+        "question": "Quante ore ci sono volute Nadal per superare la Roma di Federer nel 2006 ?",
+        "propositions": [
+          "Tre",
+          "Due",
+          "Cinque",
+          "Quattro"
+        ],
+        "réponse": "Cinque",
+        "anecdote": "I buoni risultati di Nadal gli permetteranno di prendere il posto di Roger Federer a capo della classifica ATP Race 2007 il 30 aprile."
+      },
+      {
+        "id": 24,
+        "question": "Qual è la dimensione ufficiale di un campo da tennis ?",
+        "propositions": [
+          "21,52 x 8,15 m",
+          "24,73 x 9,17 m",
+          "23,77 x 8,23 m",
+          "15 x 5 m"
+        ],
+        "réponse": "23,77 x 8,23 m",
+        "anecdote": "Le linee di fondo di un campo da tennis misurano 8,23 metri. Le linee laterali, disegnate lungo la lunghezza, sono 23,77 metri."
+      },
+      {
+        "id": 25,
+        "question": "Quanti decibel sono state pronunciate le grida di Maria Sharapova sul campo ?",
+        "propositions": [
+          "50 dbs",
+          "126 dbs",
+          "83 dbs",
+          "105 dbs"
+        ],
+        "réponse": "105 dbs",
+        "anecdote": "Oltre a questo rumore equivalente a quello dell'elica di un piccolo aereo in decollo, spinge curiose meditazioni tra ogni punto."
+      },
+      {
+        "id": 26,
+        "question": "Quale tennista ha causato la morte di un arbitro per una delle sue palle che lo ha colpito ?",
+        "propositions": [
+          "Björn Borg",
+          "Jimmy Connors",
+          "Stefan Edberg",
+          "Mats Wilander"
+        ],
+        "réponse": "Stefan Edberg",
+        "anecdote": "Il 10 settembre 1983, uno dei proiettili di Stefan Edberg colpì un guardalinee, Dick Wertheim, allora 61enne, con tutta la forza."
+      },
+      {
+        "id": 27,
+        "question": "Nei single, al suo centro, una rete da tennis dovrebbe essere alta ?",
+        "propositions": [
+          "88 cm",
+          "75 cm",
+          "91 cm",
+          "103 cm"
+        ],
+        "réponse": "91 cm",
+        "anecdote": "L'altezza della rete al centro deve essere saldamente trattenuta da una cinghia e offrire un'altezza di 0,914 metri o tre piedi."
+      },
+      {
+        "id": 28,
+        "question": "Qual è la nazionalità dell'ex tennista Gabriela Sabatini ?",
+        "propositions": [
+          "Spagnolo",
+          "Greco",
+          "Argentina",
+          "Italiano"
+        ],
+        "réponse": "Argentina",
+        "anecdote": "La vice campionessa olimpica nel 1988 durante le Olimpiadi di Seoul, Gabriela Sabatini è stata anche finalista degli US Open nello stesso anno."
+      },
+      {
+        "id": 29,
+        "question": "Chi ha assegnato al vincitore il trofeo maschile Roland-Garros nel 2005 ?",
+        "propositions": [
+          "Tony Parker",
+          "Teddy Riner",
+          "Zinédine Zidane",
+          "Cedric Pioline"
+        ],
+        "réponse": "Zinédine Zidane",
+        "anecdote": "Zidane ha consegnato la prima Coppa dei Moschettieri a Nadal, vincitore del torneo dopo la finale contro l'argentino Mariano Puerta."
+      },
+      {
+        "id": 30,
+        "question": "Quale famoso tennista francese viene dal Camerun ?",
+        "propositions": [
+          "Gaël Monfils",
+          "Jo-Wilfried Tsonga",
+          "Gille Simons",
+          "Yannick Noah"
+        ],
+        "réponse": "Yannick Noah",
+        "anecdote": "Figlio del calciatore camerunese Zacharie Noah, vincitore della Coupe de France nel 1961, è il padre del giocatore di basket francese Joakim Noah."
+      }
+    ]
+    },
+    "nl": {
+      "débutant": [
+      {
+        "id": 1,
+        "question": "Welke Franse speler won het Roland-Garros-toernooi in 1983 ?",
+        "propositions": [
+          "Jo-Wilfried Tsonga",
+          "Guy vergeten",
+          "Richard Gasquet",
+          "Yannick Noah"
+        ],
+        "réponse": "Yannick Noah",
+        "anecdote": "Deze overwinning verdiende hem om de enige Franse speler te zijn die een Grand Slam-toernooi van het Open tijdperk in heren singles heeft gewonnen."
+      },
+      {
+        "id": 2,
+        "question": "Welke professionele Braziliaanse tennisspeler heet Kuga ?",
+        "propositions": [
+          "Björn Borg",
+          "John McEnroe",
+          "Novak Djokovic",
+          "Gustavo Kuerten"
+        ],
+        "réponse": "Gustavo Kuerten",
+        "anecdote": "Gustavo Kuerten won twintig titels op het ATP-circuit, waaronder drie Roland-Garros-toernooien, een Masters en vijf Masters 1000."
+      },
+      {
+        "id": 3,
+        "question": "Hoewel gevuld met lucht, van welk materiaal zijn tennisballen gemaakt ?",
+        "propositions": [
+          "Karton",
+          "Kunststof",
+          "Glas",
+          "Rubber"
+        ],
+        "réponse": "Rubber",
+        "anecdote": "Een tennisbal is gemaakt van een rubberen schaal, een kern genoemd, bedekt met vilt, vaak geel of wit van kleur."
+      },
+      {
+        "id": 4,
+        "question": "Welk team won de Davis Cup 2017, de 106e editie van dit toernooi ?",
+        "propositions": [
+          "Frankrijk",
+          "Italië",
+          "Zwitserland",
+          "België"
+        ],
+        "réponse": "Frankrijk",
+        "anecdote": "Yannick Noah's Frankrijk won daarmee zijn tiende Davis Cup, onder andere dankzij de overwinning van Lucas Pouille op Steve Darcis."
+      },
+      {
+        "id": 5,
+        "question": "Welke Belgische speler met een kleine omvang heeft toch het Roland-Garros-toernooi gewonnen ?",
+        "propositions": [
+          "Nancy Feber",
+          "Kim Clijsters",
+          "Elise Mertens",
+          "Justine Henin"
+        ],
+        "réponse": "Justine Henin",
+        "anecdote": "Dankzij de variëteit van zijn spel noemde John McEnroe zijn backhand één hand de beste backhand ter wereld, mannen en vrouwen gecombineerd."
+      },
+      {
+        "id": 6,
+        "question": "Hoeveel banen zijn er op de internationale Franse tenniskampioenschappen ?",
+        "propositions": [
+          "17",
+          "8",
+          "12",
+          "24"
+        ],
+        "réponse": "17",
+        "anecdote": "De drie grootste rechtbanken zijn het Philippe-Chatrier-hof (of centraal hof), het Suzanne-Lenglen-hof en het Simonne-Mathieu-hof."
+      },
+      {
+        "id": 7,
+        "question": "Wat verander je in een professionele tenniswedstrijd om de negen wedstrijden ?",
+        "propositions": [
+          "Scheidsrechter",
+          "Jersey",
+          "Bal",
+          "Sneeuwschoenwandelen"
+        ],
+        "réponse": "Bal",
+        "anecdote": "Een verandering van ballen vindt plaats om de 9 spellen, behalve de eerste die plaatsvindt aan het einde van het zevende spel (omdat de warming-up overeenkomt met 2 spellen)."
+      },
+      {
+        "id": 8,
+        "question": "Eind 2019, hoe vaak heeft Rafael Nadal Roland-Garros gewonnen ?",
+        "propositions": [
+          "Zeven",
+          "Dertien",
+          "Elf",
+          "Twaalf"
+        ],
+        "réponse": "Twaalf",
+        "anecdote": "Hij heeft 19 Grand Slam-toernooien gewonnen en is de enige speler die 12 singles-titels heeft gewonnen in een van deze vier grote toernooien."
+      },
+      {
+        "id": 9,
+        "question": "Wat is de nationaliteit van professionele tennisser Roger Federer ?",
+        "propositions": [
+          "Oostenrijks",
+          "Zwitserland",
+          "Frans",
+          "Zweeds"
+        ],
+        "réponse": "Zwitserland",
+        "anecdote": "Geboren in Basel, heeft Federer het record voor 310 weken doorgebracht op de eerste plaats in de ATP World Tour tennisranglijst."
+      },
+      {
+        "id": 10,
+        "question": "Uit hoeveel grote toernooien bestaat de tennis grand slam ?",
+        "propositions": [
+          "Zes",
+          "Vier",
+          "Drie",
+          "Vijf"
+        ],
+        "réponse": "Vier",
+        "anecdote": "De vier toernooien zijn de Australian Open in Melbourne, Roland-Garros in Parijs, de US Open in New York en Wimbledon in Londen."
+      }
+    ],
+    "confirmé": [
+      {
+        "id": 11,
+        "question": "Hoeveel Franse spelers hebben Roland-Garros tussen 1925 en 2019 gewonnen ?",
+        "propositions": [
+          "Zeven",
+          "Drie",
+          "Vijf",
+          "Tien"
+        ],
+        "réponse": "Vijf",
+        "anecdote": "De Franse winnaars bij Roland-Garros zijn tien namen: 5 Franse spelers en 5 spelers hebben gewonnen op de Parijse klei."
+      },
+      {
+        "id": 12,
+        "question": "Wat is de nationaliteit van tennisser Serena Williams ?",
+        "propositions": [
+          "Frans",
+          "Engels",
+          "Amerikaans",
+          "Braziliaans"
+        ],
+        "réponse": "Amerikaans",
+        "anecdote": "Serena Jameka Williams, zus van speler Venus Williams, is een Amerikaanse tennisspeler geboren op 26 september 1981 in Saginaw."
+      },
+      {
+        "id": 13,
+        "question": "Welke Franse tennisspeler kunnen we zien in een Kinder Bueno-commercial ?",
+        "propositions": [
+          "Yannick Noah",
+          "Gael Monfils",
+          "Richard Gasquet",
+          "Jo-Wilfried Tsonga"
+        ],
+        "réponse": "Jo-Wilfried Tsonga",
+        "anecdote": "Jo-Wilfried Tsonga vroeg zijn aanhangers om de soms onophoudelijke grappen over zijn samenwerking met Kinder Bueno te stoppen."
+      },
+      {
+        "id": 14,
+        "question": "Op welk oppervlak vonden de eerste tenniswedstrijden plaats ?",
+        "propositions": [
+          "Kunstgras",
+          "Gras",
+          "Clay court",
+          "Beton"
+        ],
+        "réponse": "Gras",
+        "anecdote": "In 1888 schetste majoor Harry Gem een bruwe tennisbaan op het grasveld van zijn persoonlijke bezittingen."
+      },
+      {
+        "id": 15,
+        "question": "Heeft Bjorn Borg vier keer gefaald in de finale van welk Grand Slam-toernooi ?",
+        "propositions": [
+          "Wimbeldon",
+          "US Open",
+          "Australian Open",
+          "Roland-Garros"
+        ],
+        "réponse": "US Open",
+        "anecdote": "Björn Borg werd wereldnummer in 1977 en werd driemaal wereldkampioen door de ITF, in 1978, 1979 en 1980."
+      },
+      {
+        "id": 16,
+        "question": "Welk Grand Slam-tennistoernooi wordt exclusief op gras gespeeld ?",
+        "propositions": [
+          "Australian Open",
+          "US Open",
+          "Wimbeldon",
+          "Roland-Garros"
+        ],
+        "réponse": "Wimbeldon",
+        "anecdote": "De wedstrijden van het oudste tennistoernooi ter wereld vinden plaats op een grasveld waar geen nachtsessie plaatsvindt."
+      },
+      {
+        "id": 17,
+        "question": "Wat was de bijnaam van de Duitse tennisser Boris Becker ?",
+        "propositions": [
+          "Bam Bam",
+          "Big Ben",
+          "Bang Bang",
+          "Boem Boem"
+        ],
+        "réponse": "Boem Boem",
+        "anecdote": "Becker veroorzaakte een sensatie toen hij zijn eerste Wimbledon op 17 in 1985 won en zijn bijnaam Boom-Boom Becker verdiende."
+      },
+      {
+        "id": 18,
+        "question": "Welke tennisspeler heeft het nogal speciale record voor het aantal gebroken rackets ?",
+        "propositions": [
+          "John McEnroe",
+          "Roger Federer",
+          "Marcos Baghdadis",
+          "Marat Safin"
+        ],
+        "réponse": "Marat Safin",
+        "anecdote": "De voormalige nummer één brak 1.055 frames in 689 officiële wedstrijden tijdens zijn carrière, of 1,5 rackets per game."
+      },
+      {
+        "id": 19,
+        "question": "In tennis, wat is het huidige geschatte snelheidsrecord dat tijdens de dienst is geregistreerd ?",
+        "propositions": [
+          "280 km / u",
+          "200 km / u",
+          "170 km / u",
+          "260 km / u"
+        ],
+        "réponse": "260 km / u",
+        "anecdote": "Een onbekende Australische tennisspeler verbrak het dienstsnelheidsrecord met een indrukwekkende 263 km / u."
+      },
+      {
+        "id": 20,
+        "question": "Welke taak had Roland Garros, die zijn naam gaf aan het in 1928 gebouwde stadion ?",
+        "propositions": [
+          "Advocaat",
+          "Vlieger",
+          "Navigator",
+          "Voetballer"
+        ],
+        "réponse": "Vlieger",
+        "anecdote": "De Franse vlieger, luitenantpiloot tijdens de Eerste Wereldoorlog, Roland Garros werd geboren op 6 oktober 1888 in Saint-Denis de La Réunion."
+      }
+    ],
+    "expert": [
+      {
+        "id": 21,
+        "question": "Wie behaalde in 2019 het wereldtitelrecord in herentennis ?",
+        "propositions": [
+          "Nadal",
+          "Federer",
+          "Djokovic",
+          "Sampras"
+        ],
+        "réponse": "Federer",
+        "anecdote": "Roger Federer is de enige speler in de tennisgeschiedenis die minstens vijf keer drie Grand Slam-toernooien heeft gewonnen."
+      },
+      {
+        "id": 22,
+        "question": "In hoeveel winnende sets worden de Grand Slam-wedstrijden voor dames gespeeld ?",
+        "propositions": [
+          "Drie",
+          "Vier",
+          "Vijf",
+          "Twee"
+        ],
+        "réponse": "Twee",
+        "anecdote": "Mannen spelen het beste van vijf innings, terwijl vrouwen slechts in twee winnende sets strijden."
+      },
+      {
+        "id": 23,
+        "question": "Hoeveel uur heeft het Nadal gekost om Federer's Rome in 2006 te overwinnen ?",
+        "propositions": [
+          "Vier",
+          "Twee",
+          "Vijf",
+          "Drie"
+        ],
+        "réponse": "Vijf",
+        "anecdote": "Dankzij de goede resultaten van Nadal kan hij de plaats van Roger Federer innemen aan het hoofd van het ATP Race 2007-klassement op 30 april."
+      },
+      {
+        "id": 24,
+        "question": "Wat is de officiële grootte van een tennisbaan ?",
+        "propositions": [
+          "24,73 x 9,17 m",
+          "15 x 5 m",
+          "21,52 x 8,15 m",
+          "23,77 x 8,23 m"
+        ],
+        "réponse": "23,77 x 8,23 m",
+        "anecdote": "De bodemlijnen van een tennisbaan meten 8,23 meter. De zijlijnen, langs de lengte getekend, zijn 23,77 meter."
+      },
+      {
+        "id": 25,
+        "question": "Hoeveel decibels werden het geschreeuw van Maria Sharapova op de rechtbanken uitgesproken ?",
+        "propositions": [
+          "50 dbs",
+          "83 dbs",
+          "126 dbs",
+          "105 dbs"
+        ],
+        "réponse": "105 dbs",
+        "anecdote": "Naast dit geluid dat equivalent is aan dat van een opstijgende kleine propeller, duwt het nieuwsgierige meditaties tussen elk punt."
+      },
+      {
+        "id": 26,
+        "question": "Welke tennisspeler veroorzaakte de dood van een scheidsrechter door een van zijn ballen die hem raakte ?",
+        "propositions": [
+          "Björn Borg",
+          "Jimmy Connors",
+          "Mats Wilander",
+          "Stefan Edberg"
+        ],
+        "réponse": "Stefan Edberg",
+        "anecdote": "Op 10 september 1983 raakte een van de kogels van Stefan Edberg een grensrechter, Dick Wertheim, toen 61 jaar oud, met volle kracht."
+      },
+      {
+        "id": 27,
+        "question": "In het midden moet een tennisnet in het midden hoe hoog zijn ?",
+        "propositions": [
+          "88 cm",
+          "75 cm",
+          "91 cm",
+          "103 cm"
+        ],
+        "réponse": "91 cm",
+        "anecdote": "De hoogte van het net in het midden moet stevig worden vastgehouden door een riem en een hoogte van 0,914 meter of drie voet bieden."
+      },
+      {
+        "id": 28,
+        "question": "Wat is de nationaliteit van ex-tennisspeler Gabriela Sabatini ?",
+        "propositions": [
+          "Spaans",
+          "Grieks",
+          "Argentinië",
+          "Italiaans"
+        ],
+        "réponse": "Argentinië",
+        "anecdote": "Olympisch vice-kampioen in 1988 tijdens de Olympische Spelen in Seoul, Gabriela Sabatini was ook een finalist van de US Open in hetzelfde jaar."
+      },
+      {
+        "id": 29,
+        "question": "Wie heeft de winnaar in 2005 de Roland-Garros-trofee voor heren gegeven ?",
+        "propositions": [
+          "Teddy Riner",
+          "Cedric Pioline",
+          "Zinédine Zidane",
+          "Tony Parker"
+        ],
+        "réponse": "Zinédine Zidane",
+        "anecdote": "Zidane presenteerde de eerste Musketiersbeker aan Nadal, winnaar van het toernooi na de finale tegen de Argentijnse Mariano Puerta."
+      },
+      {
+        "id": 30,
+        "question": "Welke beroemde Franse tennisser komt uit Kameroen ?",
+        "propositions": [
+          "Yannick Noah",
+          "Jo-Wilfried Tsonga",
+          "Gaël Monfils",
+          "Gille Simons"
+        ],
+        "réponse": "Yannick Noah",
+        "anecdote": "Zoon van de Kameroenese voetballer Zacharie Noah, winnaar van de Coupe de France in 1961, hij is de vader van de Franse basketbalspeler Joakim Noah."
+      }
+    ]
+    }
+  }
+}

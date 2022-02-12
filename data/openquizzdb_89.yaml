@@ -1,0 +1,280 @@
+---
+fournisseur: OpenQuizzDB - Fournisseur de contenu libre (https://www.openquizzdb.org)
+rédacteur: Philippe Bresoux
+thème: Héros de Star Wars (Choisissez votre côté de la Force)
+difficulté: 2 / 5
+quizz:
+  fr:
+  - débutant:
+    - id: 1
+      question: Sur quelle planète désertique Anakin Skywalker est-il arrivé à l'âge de quatre ans ?
+      propositions:
+      - Hoth
+      - Tatooine
+      - Endor
+      - Naboo
+      réponse: Tatooine
+      anecdote: George Lucas a utilisé l'habitat traditionnel de Tataouine sans retouches pour la scène où Anakin retourne voir sa mère.
+    - id: 2
+      question: Quel légendaire guerrier Wookiee est depuis longtemps le fidèle compagnon d'Han Solo ?
+      propositions:
+      - Chewbacca
+      - Watto
+      - Palpatine
+      - Jar Jar Binks
+      réponse: Chewbacca
+      anecdote: Chewbacca possède un grand coeur et fait preuve d'une loyauté indéfectible envers ses amis.
+    - id: 3
+      question: Quel nom Obi-Wan Kenobi a-t-il adopté pendant des années jusqu'au jour où il rencontra Luke ?
+      propositions:
+      - Sid
+      - Ken
+      - Ben
+      - Tom
+      réponse: Ben
+      anecdote: Le vieil Obi-Wan Kenobi met Luke Skywalker sur le chemin de la Force avant d'être tué volontairement par Dark Vador.
+    - id: 4
+      question: Quel est le nom du vaisseau spatial du contrebandier Han Solo ?
+      propositions:
+      - Aigle Solitaire
+      - Speeder
+      - B-Wing
+      - Faucon Millenium
+      réponse: Faucon Millenium
+      anecdote: Le vaisseau fut appelé « Millenium Condor » dans la version française du premier épisode produit.
+    - id: 5
+      question: Quel nom porte le robot qu'Anakin a construit à partir du corps d'un droïde de protocole ?
+      propositions:
+      - R2-D2
+      - C-3PO
+      - Daryl
+      - T-1000
+      réponse: C-3PO
+      anecdote: Ce droïde protocolaire de forme humanoïde « maîtrise plus de six millions de formes de communication ».
+    - id: 6
+      question: Quel métier est exercé par Jango Fett, humain originaire de Concord Dawn ?
+      propositions:
+      - Musicien
+      - Chasseur de primes
+      - Vendeur de droïdes
+      - Sénateur
+      réponse: Chasseur de primes
+      anecdote: Inventif, sachant se sortir de toutes les situations, Jango Fett est apprécié pour son professionnalisme par ses commanditaires.
+    - id: 7
+      question: Dans l'univers de « Star Wars », quelle espèce vit sur la lune forestière de la planète Endor ?
+      propositions:
+      - Sarlacc
+      - Ewok
+      - Tusken
+      - Wookiee
+      réponse: Ewok
+      anecdote: Physiquement, ces mammifères humanoïdes omnivores mesurent environ un mètre de haut.
+    - id: 8
+      question: Quel est le lien de parenté entre Luke Skywalker et la Princesse Leia ?
+      propositions:
+      - Mari et femme
+      - Frère et soeur
+      - Cousin et cousine
+      - Oncle et tante
+      réponse: Frère et soeur
+      anecdote: Luke et Leila sont les deux enfants d'Anakin Skywalker et de Padmé Amidala.
+    - id: 9
+      question: Quel célèbre personnage de « Star Wars » a été élevé par son oncle et sa tante ?
+      propositions:
+      - Han Solo
+      - Luke Skywalker
+      - Chewbacca
+      - Plo Koon
+      réponse: Luke Skywalker
+      anecdote: Luke Skywalker a vu le jour sur l'astéroïde de Polis Massa, peu de temps après la création de l'Empire galactique.
+    - id: 10
+      question: Quel acteur est célèbre pour avoir tenu le rôle de Luke Skywalker dans la saga « Star Wars » ?
+      propositions:
+      - Harrison Ford
+      - Mark Hamill
+      - Alec Guinness
+      - Liam Neeson
+      réponse: Mark Hamill
+      anecdote: Mark Hamill a trouvé une nouvelle carrière dans le doublage de dessins animés et de jeux vidéo.
+  - confirmé:
+    - id: 11
+      question: Quel personnage de « Star Wars » a été conçu comme un alien ressemblant à une limace ?
+      propositions:
+      - Lando Calrissian
+      - Dark Maul
+      - Jabba le Hutt
+      - Mace Windu
+      réponse: Jabba le Hutt
+      anecdote: Le critique Roger Ebert considère que son apparence physique le rapproche d'un croisement entre un crapaud et le chat du Cheshire.
+    - id: 12
+      question: Qui a enregistré un message dans les circuits intégrés de R2-D2 dans « Un Nouvel Espoir » ?
+      propositions:
+      - Anakin
+      - Obi-Wan
+      - Chewbacca
+      - La Princesse Leia
+      réponse: La Princesse Leia
+      anecdote: R2-D2 arrive tant bien que mal à se faire comprendre par les autres au gré de ses sifflements.
+    - id: 13
+      question: Quelle est la couleur du sabre laser de Mace Windu, créateur de la technique du Vaapad ?
+      propositions:
+      - Verte
+      - Violette
+      - Rouge
+      - Bleue
+      réponse: Violette
+      anecdote: En plus de sa réputation de sage, Windu est considéré comme l'un des meilleurs combattants au sabre laser de l'Ordre Jedi.
+    - id: 14
+      question: Qui était le maître du Comte Dooku, membre des systèmes indépendants ?
+      propositions:
+      - Dark Vador
+      - Dark Sidious
+      - Dark Maul
+      - Dark Bane
+      réponse: Dark Sidious
+      anecdote: Dooku fut l'héritier d'une famille d'aristocrates et diplomates de Serenno à la fortune colossale.
+    - id: 15
+      question: Sous quel autre nom connaît-on le Chancelier Palpatine, originaire de Naboo ?
+      propositions:
+      - Dark Sidious
+      - Dark Vador
+      - Dark Bane
+      - Dark Malak
+      réponse: Dark Sidious
+      anecdote: Palpatine s'est fixé comme mission de rétablir l'Ordre Sith et de détruire les Jedi grâce à un vaste complot.
+    - id: 16
+      question: Quel seigneur Sith, très habile à manier le sabre double, a tué Qui-Gon Jinn ?
+      propositions:
+      - Kit Fisto
+      - Le Compte Dooku
+      - Bail Organa
+      - Dark Maul
+      réponse: Dark Maul
+      anecdote: Le personnage de Qui-Gon Jinn, interprété par Liam Neeson, est doublé en France par Samuel Labarthe.
+    - id: 17
+      question: Sénatrice de Naboo au Sénat galactique, combien Padmé Amidala eut-elle d'enfants ?
+      propositions:
+      - Trois
+      - Cinq
+      - Deux
+      - Quatre
+      réponse: Deux
+      anecdote: Amoureuse d'Anakin Skywalker, Padmé donne naissance aux jumeaux Luke Skywalker et Leia Organa avant de mourir.
+    - id: 18
+      question: À qui Dark Vador a-t-il tranché la main droite dans l'épisode V de « Star Wars » ?
+      propositions:
+      - Luke
+      - Obi-Wan
+      - Mace Windu
+      - Han Solo
+      réponse: Luke
+      anecdote: Dark Vador proposera à Luke de devenir son allié afin de renverser l'Empereur pour régner « comme père et fils ».
+    - id: 19
+      question: Quel est le prénom du fils cloné de Jango Fett, célèbre chasseur de primes ?
+      propositions:
+      - Owen
+      - Boba
+      - Shmi
+      - Dooku
+      réponse: Boba
+      anecdote: Boba est le seul clone non modifié et est élevé par Jango pour apprendre les techniques Mandaloriennes.
+    - id: 20
+      question: Quel Gungan vivant dans la cité sous-marine d'Otoh Gunga a été exilé par Boss Nass ?
+      propositions:
+      - Watto
+      - Jar Jar Binks
+      - Lando Calrissian
+      - Chewbacca
+      réponse: Jar Jar Binks
+      anecdote: Le personnage et le nom de Jar Jar Binks est une idée de Jett, le jeune fils de George Lucas.
+  - expert:
+    - id: 21
+      question: Après avoir imposé le respect auprès des maîtres Jedi, à quel âge Yoda est-il mort ?
+      propositions:
+      - 1 200 ans
+      - 900 ans
+      - 2 200 ans
+      - 750 ans
+      réponse: 900 ans
+      anecdote: Les yeux de Yoda ont été repris sur ceux d'Albert Einstein pour, d'après George Lucas, lui donner un air intelligent et sage.
+    - id: 22
+      question: Dans le premier épisode, qui est le concurrent d'Anakin lors de la course de modules ?
+      propositions:
+      - Bultar Swan
+      - Sebulba
+      - Ben Quadinaros
+      - Lama Su
+      réponse: Sebulba
+      anecdote: Avaricieux et très mauvais perdant, Sebulba est l'un des plus fameux pilote de module de course de la galaxie.
+    - id: 23
+      question: Quel est le prénom de la mère d'Anakin Skywalker, qui deviendra Dark Vador ?
+      propositions:
+      - Padmé
+      - Boba
+      - Shmi
+      - Cordé
+      réponse: Shmi
+      anecdote: George Lucas a choisi son prénom à partir de Lakshmi, une déesse hindoue.
+    - id: 24
+      question: Quel ordre Palpatine a-t-il donné aux généraux de l'armée de clones dans l'épisode III ?
+      propositions:
+      - Ordre 22
+      - Ordre 88
+      - Ordre 44
+      - Ordre 66
+      réponse: Ordre 66
+      anecdote: La Grande Purge Jedi est un événement majeur de l'histoire de l'univers fictif de « Star Wars », imaginé par George Lucas.
+    - id: 25
+      question: Dans Star Wars, quel est l'espèce du Vice roi de la Fédération du commerce Nute Gunray ?
+      propositions:
+      - Neimoidien
+      - Quarren
+      - Nohgri
+      - Ortolan
+      réponse: Neimoidien
+      anecdote: Les Neimoidiens sont des humanoïdes à la peau vert olive et grise, dont le visage possède un large nez aplati.
+    - id: 26
+      question: Apparu dans les épisodes II et III, comment le comte Dooku est-il également appelé ?
+      propositions:
+      - Dark Vador
+      - Dark Malak
+      - Dark Sidious
+      - Dark Tyranus
+      réponse: Dark Tyranus
+      anecdote: Le comte Dooku est interprété par Christopher Lee et doublé en version française par Bernard Dhéran.
+    - id: 27
+      question: Quel ferrailleur originaire de Toydaria fut l'ancien propriétaire d'Anakin et de sa mère ?
+      propositions:
+      - Jango
+      - Plo Koon
+      - Watto
+      - Boss Nass
+      réponse: Watto
+      anecdote: Watto est intégralement généré par ordinateur par les équipes de modélisation d'Industrial Light et Magic.
+    - id: 28
+      question: Quel autre nom est utilisé pour désigner Leia Amidala Skywalker, soeur de Luke ?
+      propositions:
+      - Leia Organa
+      - Leia Amidala
+      - Leia Windu
+      - Leia Solo
+      réponse: Leia Organa
+      anecdote: Leia et Luke bébés furent joués par le même nourrisson qui était le fils du monteur, Roger Barton.
+    - id: 29
+      question: Quel personnage peut survivre dans le vide spatial sans appareil respiratoire ?
+      propositions:
+      - Watto
+      - Plo Koon
+      - Dark Bane
+      - Han Solo
+      réponse: Plo Koon
+      anecdote: Dernier Padawan instruit par Maître Tyvokka, Plo Koon est devenu Chevalier Jedi.
+    - id: 30
+      question: Qui est considérée comme la femme Jedi la plus puissante de sa génération ?
+      propositions:
+      - Leia Organa
+      - Sebulba
+      - Plo Koon
+      - Shaak Ti
+      réponse: Shaak Ti
+      anecdote: Shaak Ti fait partie du groupe des survivants secourus par Yoda et l'armée des clones.

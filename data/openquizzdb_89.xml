@@ -1,0 +1,345 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes" ?>
+<quizz fournisseur="OpenQuizzDB : Fournisseur de contenu libre"
+       url="https://www.openquizzdb.org"
+       rédacteur="Philippe Bresoux"
+       thème="Héros de Star Wars (Choisissez votre côté de la Force)"
+       difficulté="2 / 5">
+  <fr>
+  <débutant>
+    <contenu id="1">
+      <question>Sur quelle planète désertique Anakin Skywalker est-il arrivé à l'âge de quatre ans ?</question>
+      <propositions>
+        <proposition id="1-1">Endor</proposition>
+        <proposition id="1-2">Hoth</proposition>
+        <proposition id="1-3">Naboo</proposition>
+        <proposition id="1-4">Tatooine</proposition>
+      </propositions>
+      <réponse proposition="1-4">Tatooine</réponse>
+      <anecdote>George Lucas a utilisé l'habitat traditionnel de Tataouine sans retouches pour la scène où Anakin retourne voir sa mère.</anecdote>
+    </contenu>
+    <contenu id="2">
+      <question>Quel légendaire guerrier Wookiee est depuis longtemps le fidèle compagnon d'Han Solo ?</question>
+      <propositions>
+        <proposition id="2-1">Palpatine</proposition>
+        <proposition id="2-2">Chewbacca</proposition>
+        <proposition id="2-3">Watto</proposition>
+        <proposition id="2-4">Jar Jar Binks</proposition>
+      </propositions>
+      <réponse proposition="2-2">Chewbacca</réponse>
+      <anecdote>Chewbacca possède un grand coeur et fait preuve d'une loyauté indéfectible envers ses amis.</anecdote>
+    </contenu>
+    <contenu id="3">
+      <question>Quel nom Obi-Wan Kenobi a-t-il adopté pendant des années jusqu'au jour où il rencontra Luke ?</question>
+      <propositions>
+        <proposition id="3-1">Tom</proposition>
+        <proposition id="3-2">Ben</proposition>
+        <proposition id="3-3">Sid</proposition>
+        <proposition id="3-4">Ken</proposition>
+      </propositions>
+      <réponse proposition="3-2">Ben</réponse>
+      <anecdote>Le vieil Obi-Wan Kenobi met Luke Skywalker sur le chemin de la Force avant d'être tué volontairement par Dark Vador.</anecdote>
+    </contenu>
+    <contenu id="4">
+      <question>Quel est le nom du vaisseau spatial du contrebandier Han Solo ?</question>
+      <propositions>
+        <proposition id="4-1">Faucon Millenium</proposition>
+        <proposition id="4-2">Aigle Solitaire</proposition>
+        <proposition id="4-3">Speeder</proposition>
+        <proposition id="4-4">B-Wing</proposition>
+      </propositions>
+      <réponse proposition="4-1">Faucon Millenium</réponse>
+      <anecdote>Le vaisseau fut appelé « Millenium Condor » dans la version française du premier épisode produit.</anecdote>
+    </contenu>
+    <contenu id="5">
+      <question>Quel nom porte le robot qu'Anakin a construit à partir du corps d'un droïde de protocole ?</question>
+      <propositions>
+        <proposition id="5-1">T-1000</proposition>
+        <proposition id="5-2">Daryl</proposition>
+        <proposition id="5-3">C-3PO</proposition>
+        <proposition id="5-4">R2-D2</proposition>
+      </propositions>
+      <réponse proposition="5-3">C-3PO</réponse>
+      <anecdote>Ce droïde protocolaire de forme humanoïde « maîtrise plus de six millions de formes de communication ».</anecdote>
+    </contenu>
+    <contenu id="6">
+      <question>Quel métier est exercé par Jango Fett, humain originaire de Concord Dawn ?</question>
+      <propositions>
+        <proposition id="6-1">Vendeur de droïdes</proposition>
+        <proposition id="6-2">Musicien</proposition>
+        <proposition id="6-3">Chasseur de primes</proposition>
+        <proposition id="6-4">Sénateur</proposition>
+      </propositions>
+      <réponse proposition="6-3">Chasseur de primes</réponse>
+      <anecdote>Inventif, sachant se sortir de toutes les situations, Jango Fett est apprécié pour son professionnalisme par ses commanditaires.</anecdote>
+    </contenu>
+    <contenu id="7">
+      <question>Dans l'univers de « Star Wars », quelle espèce vit sur la lune forestière de la planète Endor ?</question>
+      <propositions>
+        <proposition id="7-1">Ewok</proposition>
+        <proposition id="7-2">Tusken</proposition>
+        <proposition id="7-3">Wookiee</proposition>
+        <proposition id="7-4">Sarlacc</proposition>
+      </propositions>
+      <réponse proposition="7-1">Ewok</réponse>
+      <anecdote>Physiquement, ces mammifères humanoïdes omnivores mesurent environ un mètre de haut.</anecdote>
+    </contenu>
+    <contenu id="8">
+      <question>Quel est le lien de parenté entre Luke Skywalker et la Princesse Leia ?</question>
+      <propositions>
+        <proposition id="8-1">Cousin et cousine</proposition>
+        <proposition id="8-2">Frère et soeur</proposition>
+        <proposition id="8-3">Oncle et tante</proposition>
+        <proposition id="8-4">Mari et femme</proposition>
+      </propositions>
+      <réponse proposition="8-2">Frère et soeur</réponse>
+      <anecdote>Luke et Leila sont les deux enfants d'Anakin Skywalker et de Padmé Amidala.</anecdote>
+    </contenu>
+    <contenu id="9">
+      <question>Quel célèbre personnage de « Star Wars » a été élevé par son oncle et sa tante ?</question>
+      <propositions>
+        <proposition id="9-1">Han Solo</proposition>
+        <proposition id="9-2">Plo Koon</proposition>
+        <proposition id="9-3">Luke Skywalker</proposition>
+        <proposition id="9-4">Chewbacca</proposition>
+      </propositions>
+      <réponse proposition="9-3">Luke Skywalker</réponse>
+      <anecdote>Luke Skywalker a vu le jour sur l'astéroïde de Polis Massa, peu de temps après la création de l'Empire galactique.</anecdote>
+    </contenu>
+    <contenu id="10">
+      <question>Quel acteur est célèbre pour avoir tenu le rôle de Luke Skywalker dans la saga « Star Wars » ?</question>
+      <propositions>
+        <proposition id="10-1">Alec Guinness</proposition>
+        <proposition id="10-2">Liam Neeson</proposition>
+        <proposition id="10-3">Mark Hamill</proposition>
+        <proposition id="10-4">Harrison Ford</proposition>
+      </propositions>
+      <réponse proposition="10-3">Mark Hamill</réponse>
+      <anecdote>Mark Hamill a trouvé une nouvelle carrière dans le doublage de dessins animés et de jeux vidéo.</anecdote>
+    </contenu>
+  </débutant>
+  <confirmé>
+    <contenu id="11">
+      <question>Quel personnage de « Star Wars » a été conçu comme un alien ressemblant à une limace ?</question>
+      <propositions>
+        <proposition id="11-1">Dark Maul</proposition>
+        <proposition id="11-2">Lando Calrissian</proposition>
+        <proposition id="11-3">Jabba le Hutt</proposition>
+        <proposition id="11-4">Mace Windu</proposition>
+      </propositions>
+      <réponse proposition="11-3">Jabba le Hutt</réponse>
+      <anecdote>Le critique Roger Ebert considère que son apparence physique le rapproche d'un croisement entre un crapaud et le chat du Cheshire.</anecdote>
+    </contenu>
+    <contenu id="12">
+      <question>Qui a enregistré un message dans les circuits intégrés de R2-D2 dans « Un Nouvel Espoir » ?</question>
+      <propositions>
+        <proposition id="12-1">Anakin</proposition>
+        <proposition id="12-2">Chewbacca</proposition>
+        <proposition id="12-3">Obi-Wan</proposition>
+        <proposition id="12-4">La Princesse Leia</proposition>
+      </propositions>
+      <réponse proposition="12-4">La Princesse Leia</réponse>
+      <anecdote>R2-D2 arrive tant bien que mal à se faire comprendre par les autres au gré de ses sifflements.</anecdote>
+    </contenu>
+    <contenu id="13">
+      <question>Quelle est la couleur du sabre laser de Mace Windu, créateur de la technique du Vaapad ?</question>
+      <propositions>
+        <proposition id="13-1">Rouge</proposition>
+        <proposition id="13-2">Verte</proposition>
+        <proposition id="13-3">Bleue</proposition>
+        <proposition id="13-4">Violette</proposition>
+      </propositions>
+      <réponse proposition="13-4">Violette</réponse>
+      <anecdote>En plus de sa réputation de sage, Windu est considéré comme l'un des meilleurs combattants au sabre laser de l'Ordre Jedi.</anecdote>
+    </contenu>
+    <contenu id="14">
+      <question>Qui était le maître du Comte Dooku, membre des systèmes indépendants ?</question>
+      <propositions>
+        <proposition id="14-1">Dark Bane</proposition>
+        <proposition id="14-2">Dark Maul</proposition>
+        <proposition id="14-3">Dark Vador</proposition>
+        <proposition id="14-4">Dark Sidious</proposition>
+      </propositions>
+      <réponse proposition="14-4">Dark Sidious</réponse>
+      <anecdote>Dooku fut l'héritier d'une famille d'aristocrates et diplomates de Serenno à la fortune colossale.</anecdote>
+    </contenu>
+    <contenu id="15">
+      <question>Sous quel autre nom connaît-on le Chancelier Palpatine, originaire de Naboo ?</question>
+      <propositions>
+        <proposition id="15-1">Dark Bane</proposition>
+        <proposition id="15-2">Dark Malak</proposition>
+        <proposition id="15-3">Dark Vador</proposition>
+        <proposition id="15-4">Dark Sidious</proposition>
+      </propositions>
+      <réponse proposition="15-4">Dark Sidious</réponse>
+      <anecdote>Palpatine s'est fixé comme mission de rétablir l'Ordre Sith et de détruire les Jedi grâce à un vaste complot.</anecdote>
+    </contenu>
+    <contenu id="16">
+      <question>Quel seigneur Sith, très habile à manier le sabre double, a tué Qui-Gon Jinn ?</question>
+      <propositions>
+        <proposition id="16-1">Bail Organa</proposition>
+        <proposition id="16-2">Kit Fisto</proposition>
+        <proposition id="16-3">Le Compte Dooku</proposition>
+        <proposition id="16-4">Dark Maul</proposition>
+      </propositions>
+      <réponse proposition="16-4">Dark Maul</réponse>
+      <anecdote>Le personnage de Qui-Gon Jinn, interprété par Liam Neeson, est doublé en France par Samuel Labarthe.</anecdote>
+    </contenu>
+    <contenu id="17">
+      <question>Sénatrice de Naboo au Sénat galactique, combien Padmé Amidala eut-elle d'enfants ?</question>
+      <propositions>
+        <proposition id="17-1">Cinq</proposition>
+        <proposition id="17-2">Trois</proposition>
+        <proposition id="17-3">Deux</proposition>
+        <proposition id="17-4">Quatre</proposition>
+      </propositions>
+      <réponse proposition="17-3">Deux</réponse>
+      <anecdote>Amoureuse d'Anakin Skywalker, Padmé donne naissance aux jumeaux Luke Skywalker et Leia Organa avant de mourir.</anecdote>
+    </contenu>
+    <contenu id="18">
+      <question>À qui Dark Vador a-t-il tranché la main droite dans l'épisode V de « Star Wars » ?</question>
+      <propositions>
+        <proposition id="18-1">Han Solo</proposition>
+        <proposition id="18-2">Mace Windu</proposition>
+        <proposition id="18-3">Luke</proposition>
+        <proposition id="18-4">Obi-Wan</proposition>
+      </propositions>
+      <réponse proposition="18-3">Luke</réponse>
+      <anecdote>Dark Vador proposera à Luke de devenir son allié afin de renverser l'Empereur pour régner « comme père et fils ».</anecdote>
+    </contenu>
+    <contenu id="19">
+      <question>Quel est le prénom du fils cloné de Jango Fett, célèbre chasseur de primes ?</question>
+      <propositions>
+        <proposition id="19-1">Shmi</proposition>
+        <proposition id="19-2">Boba</proposition>
+        <proposition id="19-3">Owen</proposition>
+        <proposition id="19-4">Dooku</proposition>
+      </propositions>
+      <réponse proposition="19-2">Boba</réponse>
+      <anecdote>Boba est le seul clone non modifié et est élevé par Jango pour apprendre les techniques Mandaloriennes.</anecdote>
+    </contenu>
+    <contenu id="20">
+      <question>Quel Gungan vivant dans la cité sous-marine d'Otoh Gunga a été exilé par Boss Nass ?</question>
+      <propositions>
+        <proposition id="20-1">Watto</proposition>
+        <proposition id="20-2">Jar Jar Binks</proposition>
+        <proposition id="20-3">Lando Calrissian</proposition>
+        <proposition id="20-4">Chewbacca</proposition>
+      </propositions>
+      <réponse proposition="20-2">Jar Jar Binks</réponse>
+      <anecdote>Le personnage et le nom de Jar Jar Binks est une idée de Jett, le jeune fils de George Lucas.</anecdote>
+    </contenu>
+  </confirmé>
+  <expert>
+    <contenu id="21">
+      <question>Après avoir imposé le respect auprès des maîtres Jedi, à quel âge Yoda est-il mort ?</question>
+      <propositions>
+        <proposition id="21-1">750 ans</proposition>
+        <proposition id="21-2">900 ans</proposition>
+        <proposition id="21-3">2 200 ans</proposition>
+        <proposition id="21-4">1 200 ans</proposition>
+      </propositions>
+      <réponse proposition="21-2">900 ans</réponse>
+      <anecdote>Les yeux de Yoda ont été repris sur ceux d'Albert Einstein pour, d'après George Lucas, lui donner un air intelligent et sage.</anecdote>
+    </contenu>
+    <contenu id="22">
+      <question>Dans le premier épisode, qui est le concurrent d'Anakin lors de la course de modules ?</question>
+      <propositions>
+        <proposition id="22-1">Bultar Swan</proposition>
+        <proposition id="22-2">Lama Su</proposition>
+        <proposition id="22-3">Ben Quadinaros</proposition>
+        <proposition id="22-4">Sebulba</proposition>
+      </propositions>
+      <réponse proposition="22-4">Sebulba</réponse>
+      <anecdote>Avaricieux et très mauvais perdant, Sebulba est l'un des plus fameux pilote de module de course de la galaxie.</anecdote>
+    </contenu>
+    <contenu id="23">
+      <question>Quel est le prénom de la mère d'Anakin Skywalker, qui deviendra Dark Vador ?</question>
+      <propositions>
+        <proposition id="23-1">Shmi</proposition>
+        <proposition id="23-2">Padmé</proposition>
+        <proposition id="23-3">Cordé</proposition>
+        <proposition id="23-4">Boba</proposition>
+      </propositions>
+      <réponse proposition="23-1">Shmi</réponse>
+      <anecdote>George Lucas a choisi son prénom à partir de Lakshmi, une déesse hindoue.</anecdote>
+    </contenu>
+    <contenu id="24">
+      <question>Quel ordre Palpatine a-t-il donné aux généraux de l'armée de clones dans l'épisode III ?</question>
+      <propositions>
+        <proposition id="24-1">Ordre 88</proposition>
+        <proposition id="24-2">Ordre 66</proposition>
+        <proposition id="24-3">Ordre 44</proposition>
+        <proposition id="24-4">Ordre 22</proposition>
+      </propositions>
+      <réponse proposition="24-2">Ordre 66</réponse>
+      <anecdote>La Grande Purge Jedi est un événement majeur de l'histoire de l'univers fictif de « Star Wars », imaginé par George Lucas.</anecdote>
+    </contenu>
+    <contenu id="25">
+      <question>Dans Star Wars, quel est l'espèce du Vice roi de la Fédération du commerce Nute Gunray ?</question>
+      <propositions>
+        <proposition id="25-1">Quarren</proposition>
+        <proposition id="25-2">Ortolan</proposition>
+        <proposition id="25-3">Neimoidien</proposition>
+        <proposition id="25-4">Nohgri</proposition>
+      </propositions>
+      <réponse proposition="25-3">Neimoidien</réponse>
+      <anecdote>Les Neimoidiens sont des humanoïdes à la peau vert olive et grise, dont le visage possède un large nez aplati.</anecdote>
+    </contenu>
+    <contenu id="26">
+      <question>Apparu dans les épisodes II et III, comment le comte Dooku est-il également appelé ?</question>
+      <propositions>
+        <proposition id="26-1">Dark Sidious</proposition>
+        <proposition id="26-2">Dark Malak</proposition>
+        <proposition id="26-3">Dark Vador</proposition>
+        <proposition id="26-4">Dark Tyranus</proposition>
+      </propositions>
+      <réponse proposition="26-4">Dark Tyranus</réponse>
+      <anecdote>Le comte Dooku est interprété par Christopher Lee et doublé en version française par Bernard Dhéran.</anecdote>
+    </contenu>
+    <contenu id="27">
+      <question>Quel ferrailleur originaire de Toydaria fut l'ancien propriétaire d'Anakin et de sa mère ?</question>
+      <propositions>
+        <proposition id="27-1">Boss Nass</proposition>
+        <proposition id="27-2">Watto</proposition>
+        <proposition id="27-3">Plo Koon</proposition>
+        <proposition id="27-4">Jango</proposition>
+      </propositions>
+      <réponse proposition="27-2">Watto</réponse>
+      <anecdote>Watto est intégralement généré par ordinateur par les équipes de modélisation d'Industrial Light et Magic.</anecdote>
+    </contenu>
+    <contenu id="28">
+      <question>Quel autre nom est utilisé pour désigner Leia Amidala Skywalker, soeur de Luke ?</question>
+      <propositions>
+        <proposition id="28-1">Leia Solo</proposition>
+        <proposition id="28-2">Leia Windu</proposition>
+        <proposition id="28-3">Leia Organa</proposition>
+        <proposition id="28-4">Leia Amidala</proposition>
+      </propositions>
+      <réponse proposition="28-3">Leia Organa</réponse>
+      <anecdote>Leia et Luke bébés furent joués par le même nourrisson qui était le fils du monteur, Roger Barton.</anecdote>
+    </contenu>
+    <contenu id="29">
+      <question>Quel personnage peut survivre dans le vide spatial sans appareil respiratoire ?</question>
+      <propositions>
+        <proposition id="29-1">Watto</proposition>
+        <proposition id="29-2">Dark Bane</proposition>
+        <proposition id="29-3">Han Solo</proposition>
+        <proposition id="29-4">Plo Koon</proposition>
+      </propositions>
+      <réponse proposition="29-4">Plo Koon</réponse>
+      <anecdote>Dernier Padawan instruit par Maître Tyvokka, Plo Koon est devenu Chevalier Jedi.</anecdote>
+    </contenu>
+    <contenu id="30">
+      <question>Qui est considérée comme la femme Jedi la plus puissante de sa génération ?</question>
+      <propositions>
+        <proposition id="30-1">Sebulba</proposition>
+        <proposition id="30-2">Plo Koon</proposition>
+        <proposition id="30-3">Leia Organa</proposition>
+        <proposition id="30-4">Shaak Ti</proposition>
+      </propositions>
+      <réponse proposition="30-4">Shaak Ti</réponse>
+      <anecdote>Shaak Ti fait partie du groupe des survivants secourus par Yoda et l'armée des clones.</anecdote>
+    </contenu>
+  </expert>
+  </fr>
+</quizz>

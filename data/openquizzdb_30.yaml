@@ -1,0 +1,280 @@
+---
+fournisseur: OpenQuizzDB - Fournisseur de contenu libre (https://www.openquizzdb.org)
+rédacteur: Philippe Bresoux
+thème: Bruxelles (Capitale de l'Europe)
+difficulté: 4 / 5
+quizz:
+  fr:
+  - débutant:
+    - id: 1
+      question: Bruxelles est la capitale de la Communauté française et flamande de quel pays ?
+      propositions:
+      - Belgique
+      - Allemagne
+      - Pays-Bas
+      - Suisse
+      réponse: Belgique
+      anecdote: Constituée de 19 communes, Bruxelles-Capitale est une région urbaine dotée de son propre gouvernement et parlement.
+    - id: 2
+      question: Laquelle des trois régions de Belgique la ville de Bruxelles compose-t-elle ?
+      propositions:
+      - Limbourg
+      - Région flamande
+      - Région wallonne
+      - Bruxelles-Capitale
+      réponse: Bruxelles-Capitale
+      anecdote: Si on la compare à la plupart des régions d'Europe, Bruxelles-Capitale dispose d'un territoire relativement réduit.
+    - id: 3
+      question: À quel endroit du territoire belge est à peu près située la ville de Bruxelles ?
+      propositions:
+      - Nord
+      - Ouest
+      - Centre
+      - Sud
+      réponse: Centre
+      anecdote: C'est à Bruxelles-Capitale que siègent la plupart des institutions de l'UE, ainsi que de nombreuses organisations internationales.
+    - id: 4
+      question: Par quelle ceinture autoroutière la banlieue de Bruxelles est-elle délimitée ?
+      propositions:
+      - A1
+      - A601
+      - Ring
+      - A17
+      réponse: Ring
+      anecdote: Un des premiers tronçons du Ring a été construit à la fin des années 1960 en tant que morceau de l'autoroute Bruxelles-Paris.
+    - id: 5
+      question: Quel gratte-ciel situé à Bruxelles est le plus grand de Belgique ?
+      propositions:
+      - Tour des Finances
+      - Tour du Midi
+      - Tour Astro
+      - Tour Rogier
+      réponse: Tour du Midi
+      anecdote: Haute de 150 m, la Tour du Midi, qu'il ne faut pas confondre avec la Tour des Finances, se trouve en face de la gare du Midi.
+    - id: 6
+      question: Quel bâtiment est le siège de la Commission européenne de Bruxelles ?
+      propositions:
+      - Berlaymont
+      - Castellani
+      - Solvay
+      - Stoclet
+      réponse: Berlaymont
+      anecdote: Le bâtiment Berlaymont abrite également les services attachés aux cabinets du président et des commissaires.
+    - id: 7
+      question: Quelle est la principale langue parlée à Bruxelles, capitale de la Belgique ?
+      propositions:
+      - Allemand
+      - Néerlandais
+      - Français
+      - Espagnol
+      réponse: Français
+      anecdote: Toutefois, l'usage de l'anglais dans la région de Bruxelles-Capitale et sa périphérie est un phénomène en hausse.
+    - id: 8
+      question: Quelle est la plus importante université francophone de Bruxelles ?
+      propositions:
+      - ULB
+      - ULG
+      - UCL
+      - USL
+      réponse: ULB
+      anecdote: Fondée en 1834, l'ULB est régulièrement citée comme faisant partie des 150 meilleures universités mondiales.
+    - id: 9
+      question: Quel train, inspiré du TGV, relie Bruxelles à Paris, Amsterdam et Cologne ?
+      propositions:
+      - Iris
+      - Eurostar
+      - Elipsos
+      - Thalys
+      réponse: Thalys
+      anecdote: Les trains Thalys coexistent avec les rames Eurostar, les rames TGV Réseau ou Sud-Est et les rames ICE.
+    - id: 10
+      question: En combien de communes la région de Bruxelles-Capitale est-elle divisée ?
+      propositions:
+      - 28
+      - 25
+      - 19
+      - 22
+      réponse: 19
+      anecdote: La ville de Bruxelles, la plus vaste d'entre elles, s'étend du centre au nord de l'agglomération et est entourée par les 18 autres.
+  - confirmé:
+    - id: 11
+      question: Quel est le climat de la région de Bruxelles comme de l'ensemble de la Belgique ?
+      propositions:
+      - Tempéré océanique
+      - Tropical humide
+      - Polaire
+      - Subarctique
+      réponse: Tempéré océanique
+      anecdote: Ce climat est dû à la proximité de l'océan Atlantique et du Gulf Stream qui régule le temps grâce à l'inertie calorifique de ses eaux.
+    - id: 12
+      question: Combien observe-t-on environ de jours de précipitations par an sur Bruxelles ?
+      propositions:
+      - 200
+      - 150
+      - 50
+      - 100
+      réponse: 200
+      anecdote: Ces statistiques de précipitations en font, après Dublin, la capitale la plus pluvieuse d'Europe (en nombre de jours).
+    - id: 13
+      question: Quel quartier de Bruxelles renferme le Palais royal, le Palais de la Nation et la place Royale ?
+      propositions:
+      - Sablon
+      - Midi-Lemonnier
+      - Quartier des Palais
+      - Marolles
+      réponse: Quartier des Palais
+      anecdote: En contrebas se situe la gare centrale et le Mont des Arts où se trouvent la Bibliothèque et la Cinémathèque royale de Belgique.
+    - id: 14
+      question: Quel est le plus grand quartier d'affaires de Bruxelles et de Belgique ?
+      propositions:
+      - Léopold
+      - Saint-Job
+      - Helmet
+      - Diamant
+      réponse: Léopold
+      anecdote: Aujourd'hui, les bâtiments administratifs ont remplacé la majorité des hôtels de maître et des maisons bourgeoises du quartier.
+    - id: 15
+      question: À Bruxelles, quelle forêt le bois de la Cambre prolonge-t-il ?
+      propositions:
+      - Forêt de Chaux
+      - Forêt de Brotonne
+      - Forêt de Soignes
+      - Forêt de Retz
+      réponse: Forêt de Soignes
+      anecdote: La forêt de Soignes est connexe avec le bois de la Cambre, promenade forestière et champêtre qui pénètre dans la ville.
+    - id: 16
+      question: À combien de personnes est estimée la population estudiantine de Bruxelles-Capitale ?
+      propositions:
+      - 30 000
+      - 40 000
+      - 20 000
+      - 50 000
+      réponse: 50 000
+      anecdote: La population scolaire bruxelloise comptabilise pour l'année scolaire 2010/2011 un total de 231 567 élèves.
+    - id: 17
+      question: Quel train, majoritairement détenu par la SNCF, relie Bruxelles à Londres ?
+      propositions:
+      - Alleo
+      - Thalys
+      - Eurostar
+      - Vauban
+      réponse: Eurostar
+      anecdote: Composée de dix-huit voitures et de deux motrices, chaque rame mesure 393 m de long et peut transporter jusqu'à 750 passagers.
+    - id: 18
+      question: Quel axe routier bruxellois comprend une série de huit tunnels et de voies rapides ?
+      propositions:
+      - Petite ceinture
+      - Grande boucle
+      - Grand ring
+      - Petit noeud
+      réponse: Petite ceinture
+      anecdote: Le coeur de ville, appelé Pentagone, est délimité par une ceinture de boulevards, équivalent des boulevards parisiens.
+    - id: 19
+      question: Comment est couramment nommé l'aéroport de Bruxelles-National ?
+      propositions:
+      - Tremelo
+      - Zaventem
+      - Wemmel
+      - Ternat
+      réponse: Zaventem
+      anecdote: L'aéroport est utilisé pour les vols européens et les vols internationaux vers l'Afrique, l'Asie ou le Moyen-Orient.
+    - id: 20
+      question: Quelle est la troisième plus grande salle de concert de Bruxelles, en banlieue sud ?
+      propositions:
+      - Tour et Taxis
+      - Cirque Royal
+      - Le Botanique
+      - Forest National
+      réponse: Forest National
+      anecdote: Située sur la commune bruxelloise de Forest, elle est inaugurée au début de 1971 par des représentations du Ballet du XXe siècle.
+  - expert:
+    - id: 21
+      question: Combien d'habitants pouvait-on compter environ à Bruxelles au 1er janvier 2015 ?
+      propositions:
+      - 197 000
+      - 137 000
+      - 177 000
+      - 157 000
+      réponse: 177 000
+      anecdote: À l'époque, un projet de création d'une zone dont la population et les limites devaient être définies avec précision était en cours.
+    - id: 22
+      question: Comment est appelé le coeur historique de la ville de Bruxelles ?
+      propositions:
+      - Octogone
+      - Dodécagone
+      - Pentagone
+      - Hexagone
+      réponse: Pentagone
+      anecdote: Équivalent du City road londonien, le Pentagone est toutefois aménagé au nord et à l'est en autoroutes urbaines.
+    - id: 23
+      question: Combien d'hectares d'espaces verts recouvrent la surface de la Région Bruxelles-Capitale ?
+      propositions:
+      - 2 000
+      - 4 000
+      - 6 000
+      - 8 000
+      réponse: 8 000
+      anecdote: L'intégrité de l'ensemble des espaces verts bruxellois est classé site Natura 2000 pour y conserver la faune et la flore.
+    - id: 24
+      question: En quelle année la ville de Bruxelles a-t-elle fêté son millénaire officiel ?
+      propositions:
+      - 1959
+      - 1999
+      - 1979
+      - 1939
+      réponse: 1979
+      anecdote: On relève cependant des vestiges et toponymes relatifs à la civilisation des mégalithes, dolmens et pierres levées.
+    - id: 25
+      question: Avec quelle autre ville Bruxelles compte-t-elle le plus de journalistes accrédités ?
+      propositions:
+      - Washington
+      - Madrid
+      - Dublin
+      - Marseille
+      réponse: Washington
+      anecdote: Washington a été créée à la suite de la signature du Residence Act en 1790, qui prévoyait la création d'une capitale fédérale.
+    - id: 26
+      question: Quel édifice bruxellois est considéré comme référence de l'architecture éclectique ?
+      propositions:
+      - Maison Horta
+      - Villa Empain
+      - Café Métropole
+      - Palais de Justice
+      réponse: Palais de Justice
+      anecdote: Situé sur la plus grande place de Bruxelles, le palais de justice est plus vaste que la Basilique Saint-Pierre de Rome.
+    - id: 27
+      question: Quel style architectural bruxellois est l'oeuvre de Victor Horta et Henry Van de Velde ?
+      propositions:
+      - Art baroque
+      - Art déco
+      - Art moderne
+      - Art nouveau
+      réponse: Art nouveau
+      anecdote: Avant la Première Guerre mondiale, ce mouvement évolua vers un style plus géométrique, caractéristique du mouvement Art déco.
+    - id: 28
+      question: À combien de kilomètres s'étend le réseau d'égouts de la ville de Bruxelles ?
+      propositions:
+      - 2 500
+      - 1 500
+      - 2 000
+      - 3 000
+      réponse: 1 500
+      anecdote: Il fait l'objet d'un plan d'assainissement et même de renouvellement des parties les plus anciennes remontant à plus d'un siècle.
+    - id: 29
+      question: Quel théâtre bruxellois est très caractéristique de l'architecture des années 1960 ?
+      propositions:
+      - Théâtre Mercelis
+      - Théâtre 140
+      - Théâtre du Méridien
+      - Théâtre Varia
+      réponse: Théâtre 140
+      anecdote: Le Théâtre 140 est une salle de spectacle bruxelloise fondée en 1963 par Jo Dekmine qui en resta directeur jusqu'en 2015.
+    - id: 30
+      question: Quel célèbre musée bruxellois est logé dans l'Hôtel du Lotto ?
+      propositions:
+      - Musée du cinéma
+      - Musée du jouet
+      - Musée Magritte
+      - Musée BELvue
+      réponse: Musée Magritte
+      anecdote: Au cours des siècles, les propriétaires se sont succédés pour transformer le bâtiment en hôtel, en bijouterie et enfin en musée.

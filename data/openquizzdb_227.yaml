@@ -1,0 +1,1650 @@
+---
+fournisseur: OpenQuizzDB - Fournisseur de contenu libre (https://www.openquizzdb.org)
+rédacteur: Philippe Bresoux
+thème: Stars mondiales 4 (Des stars en veux-tu en voilà)
+difficulté: 3 / 5
+quizz:
+  fr:
+  - débutant:
+    - id: 1
+      question: Avec quel homme en noir la journaliste Audrey Crespo-Mara est-elle mariée ?
+      propositions:
+      - Bernard Pivot
+      - Thierry Ardisson
+      - Philippe Gildas
+      - Patrick Chêne
+      réponse: Thierry Ardisson
+      anecdote: À l'été 2015, Audrey Crespo-Mara fut la remplaçante de Claire Chazal à la présentation des journaux des week-ends de TF1.
+    - id: 2
+      question: Quelle jeune chanteuse française a vécu avec Thierry Neuvic de 2013 à 2016 ?
+      propositions:
+      - Nolwenn Leroy
+      - Élodie Frégé
+      - Jenifer
+      - Magalie Vaé
+      réponse: Jenifer
+      anecdote: Depuis avril 2016, Jenifer est en couple avec Ambroise Fieschi , ancien pilote de rallye et homme d'affaires corse.
+    - id: 3
+      question: Quel politicien italien est au centre de la célèbre affaire du Rubygate ?
+      propositions:
+      - Mario Monti
+      - Enrico Letta
+      - Silvio Berlusconi
+      - Matteo Renzi
+      réponse: Silvio Berlusconi
+      anecdote: Dans cette affaire, Silvio Berlusconi est soupçonné d'avoir incité à la prostitution une danseuse de discothèque mineure.
+    - id: 4
+      question: Qui a reçu en 2009 le Public Glam Award du mec le plus moche ?
+      propositions:
+      - Mickaël Vendetta
+      - Aldo Maccione
+      - Daniel Ducruet
+      - Henri Leconte
+      réponse: Mickaël Vendetta
+      anecdote: En 2008, le journaliste David Abiker le décrit sur les ondes radio de France Info comme une sorte de Paris Hilton mâle.
+    - id: 5
+      question: Quelle ancienne actrice X française a pris l'habitude de se dénuder sur douze mois ?
+      propositions:
+      - Sylvia Kristel
+      - Mélanie Coste
+      - Clara Morgane
+      - Laure Sainclair
+      réponse: Clara Morgane
+      anecdote: Afin de gérer ses actifs (calendriers, clips, disques, ...), Clara Morgane a créé sa propre boîte de production : Pêché Capital Média.
+    - id: 6
+      question: En France, quelle ministre de la Culture a envoyé un célèbre tweet truffé de fautes ?
+      propositions:
+      - Françoise Nyssen
+      - Aurélie Filippetti
+      - Christine Albanel
+      - Fleur Pellerin
+      réponse: Aurélie Filippetti
+      anecdote: Aurélie Filippetti a été en couple avec Arnaud Montebourg avec qui elle a eu une fille, Jeanne, née à seulement 6 mois de grossesse.
+    - id: 7
+      question: À qui Oprah Winfrey a-t-elle demandé : « Êtes-vous une droguée » ?
+      propositions:
+      - Lindsay Lohan
+      - Joan Collins
+      - Traci Bingham
+      - Shannen Doherty
+      réponse: Lindsay Lohan
+      anecdote: Oprah est connue pour son talk show « The Oprah Winfrey Show » produit par sa propre société Harpo Productions basée à Chicago.
+    - id: 8
+      question: Avec quelle top model le milliardaire Vladimir Doronin a-t-il vécu ?
+      propositions:
+      - Kate Moss
+      - Naomi Campbell
+      - Kelly Brook
+      - Alexa Chung
+      réponse: Naomi Campbell
+      anecdote: Naomi Campbell est aussi connue pour son fort tempérament et ses nombreux démêlés avec d'autres célébrités.
+    - id: 9
+      question: Qui a révélé par erreur la date secrète du mariage de Valérie Bègue et Camille Lacourt ?
+      propositions:
+      - Michel Drucker
+      - Nelson Monfort
+      - Michel Denisot
+      - Gilles Verdez
+      réponse: Nelson Monfort
+      anecdote: Devenu une icône dans le paysage média­tique français, Nelson Monfort est cari­ca­turé par Les Guignols et par Nico­las Cante­loup.
+    - id: 10
+      question: Qui a réalisé une publicité très sexy pour sa collection de lingerie Agent Provocateur ?
+      propositions:
+      - Krystyna Janda
+      - Penélope Cruz
+      - Kirsten Dunst
+      - Helen Mirren
+      réponse: Penélope Cruz
+      anecdote: En France, Ethel Houbiers est la voix française régulière de Penélope Cruz. Barbara Delsol l'a également doublé à plusieurs reprises.
+  - confirmé:
+    - id: 11
+      question: Quelle fille de Jack Lang a été emportée par la maladie à seulement 47 ans ?
+      propositions:
+      - Sophie Lang
+      - Béatrice Lang
+      - Valérie Lang
+      - Sarah Lang
+      réponse: Valérie Lang
+      anecdote: Bien qu'actrice de théâtre, Valérie Lang a tourné dans « La Belle Personne » de Christophe Honoré et « Holiday » de Guillaume Nicloux.
+    - id: 12
+      question: Quelle journaliste mariée à Périco Légasse est maman pour la troisième fois ?
+      propositions:
+      - Aude Lancelin
+      - Natacha Polony
+      - Anna Cabana
+      - Isabelle Saporta
+      réponse: Natacha Polony
+      anecdote: Spécialisée dans l'éducation et les questions sociétales, elle a travaillé pour Marianne et signe une tribune dans Le Figaro.
+    - id: 13
+      question: Quelle sex-symbol affiche toujours son élégance trente ans après Playboy ?
+      propositions:
+      - Nina Bott
+      - Rena Mero
+      - Coco Austin
+      - Bo Derek
+      réponse: Bo Derek
+      anecdote: À 16 ans, Mary Cathleen Collins tombe amoureuse du réalisateur John Derek, de 30 ans son aîné, qui devront s'exiler en Allemagne.
+    - id: 14
+      question: Pour quel docteur pakistanais la princesse Diana aurait-elle tout lâché ?
+      propositions:
+      - John Parkinson
+      - Richard Lower
+      - Hasnat Khan
+      - Thomas Lewis
+      réponse: Hasnat Khan
+      anecdote: Selon le majordome de Diana, Paul Burrell, la princesse et le Dr Khan, l'amour de sa vie, mirent fin à leur relation en juin 1997.
+    - id: 15
+      question: Comment se prénomme le premier fils de Shakira et de Gerard Piqué ?
+      propositions:
+      - Ivan
+      - Milan
+      - Esteban
+      - Donovan
+      réponse: Milan
+      anecdote: Durant l'été 2010, Shakira a rencontré le footballeur espagnol Gerard Piqué sur le tournage de son clip « Waka Waka ».
+    - id: 16
+      question: Quelle chanteuse américaine a mis un terme à une relation de douze ans avec Keri Lewis ?
+      propositions:
+      - Toni Braxton
+      - Kat DeLuna
+      - Lauryn Hill
+      - Mariah Carey
+      réponse: Toni Braxton
+      anecdote: Toni Braxton a été révélée en 1993 par la sortie de son premier album, « Toni Braxton », qui s'écoulera à dix millions d'exemplaires.
+    - id: 17
+      question: Quel ex de Gwen Stefani a été papa pour la seconde fois avec Erin Lokitz ?
+      propositions:
+      - Dave Richmond
+      - Tony Kanal
+      - Roger Glover
+      - Scott Shields
+      réponse: Tony Kanal
+      anecdote: Il est le compositeur principal de No Doubt avec Gwen Stefani, avec qui il a fait ses études et a eu une relation entre 1989 et 1994.
+    - id: 18
+      question: De qui la jeune actrice montante Ava Sambora est-elle la fille ?
+      propositions:
+      - Marcia Cross
+      - Laura Leighton
+      - Heather Locklear
+      - Daphne Zuniga
+      réponse: Heather Locklear
+      anecdote: Passionnée d'automobiles, Heather Locklear a écourté ses études à l'université UCLA pour se lancer dans une carrière de comédienne.
+    - id: 19
+      question: Quelle chanteuse du groupe Lady Antebellum a donné naissance à une fille ?
+      propositions:
+      - Rita Coolidge
+      - Tanya Tucker
+      - Jolie Holland
+      - Hillary Scott
+      réponse: Hillary Scott
+      anecdote: Le 22 juillet 2013, elle a donné naissance à son premier enfant, une fille prénommée Eislee Kaye Tyrrell, à Nashville dans le Tennessee.
+    - id: 20
+      question: Quelle héroïne des « Sorciers de Waverly Place » a le sens du style ?
+      propositions:
+      - Monique Coleman
+      - Alyson Reed
+      - Ashley Tisdale
+      - Vanessa Hudgens
+      réponse: Vanessa Hudgens
+      anecdote: Vanessa Hudgens a sorti son premier album intitulé « V » le 26 septembre 2006, album placé vingt-quatrième au Billboard 200.
+  - expert:
+    - id: 21
+      question: Qui la marque Campari a-t-elle choisie comme égérie pour son calendrier 2014 ?
+      propositions:
+      - Nicole Kidman
+      - Naomi Watts
+      - Uma Thurman
+      - Christina Ricci
+      réponse: Uma Thurman
+      anecdote: En 2001, elle était apparue dans le spot de la marque Schweppes dont la réalisation fut confiée au photographe David LaChapelle.
+    - id: 22
+      question: Quelle brillante distributrice de film française nous a quitté en 2013 ?
+      propositions:
+      - Catherine Varlin
+      - Margot Capelier
+      - Fabienne Vonier
+      - Alice Guy
+      réponse: Fabienne Vonier
+      anecdote: La société « Pyramide Distribution » qu'elle a créé a pour logo les Pyramides de Gizeh, complétées d'une signature en lettres blanches.
+    - id: 23
+      question: Avec quel photographe Madonna fut-elle engagée dans son Secret Project ?
+      propositions:
+      - Garry Gross
+      - Tim Walker
+      - William Claxton
+      - Steve Klein
+      réponse: Steve Klein
+      anecdote: Dans ce film de 17 minutes, la chanteuse promeut la liberté d'expression et la tolérance, dédiant son film aux persécutés.
+    - id: 24
+      question: Avec quelle actrice et chanteuse anglaise Laurence Fox est-il marié ?
+      propositions:
+      - Katie Melua
+      - Billie Piper
+      - Melanie Brown
+      - Cathy Dennis
+      réponse: Billie Piper
+      anecdote: Billie Piper est une chanteuse à succès et une actrice connue pour ses rôles dans « Doctor Who » et « Journal intime d'une call girl ».
+    - id: 25
+      question: Quelle interprète de Rosie Camden est apparue en lingerie pour le magazine Maxim ?
+      propositions:
+      - Mackenzie Rosman
+      - Selena Gomez
+      - Jessica Biel
+      - Hilary Duff
+      réponse: Mackenzie Rosman
+      anecdote: En 2004, elle fut élue meilleure jeune actrice dans un second rôle dans une série télévisée pour la série « Sept à la maison ».
+    - id: 26
+      question: Quel photographe a assigné en justice Les Restos du coeur en 2013 ?
+      propositions:
+      - Gaston Bergeret
+      - Philippe Bazin
+      - Guy Bourdin
+      - Christian Boyer
+      réponse: Gaston Bergeret
+      anecdote: Gaston Bergeret les a assigné en justice pour les droits d'auteur de la photo de Coluche prise il y a trente ans pour l'affiche.
+    - id: 27
+      question: Avec quelle publicitaire de 33 ans sa cadette Richard Gere s'est-il marié ?
+      propositions:
+      - Alejandra Silva
+      - Cindy Gallop
+      - Jana Irrova
+      - Karolina Kurkova
+      réponse: Alejandra Silva
+      anecdote: C'est à travers son intérêt pour les oeuvres charitables que la publicitaire Alejandra Silva a rencontré en 2015 l'acteur Richard Gere.
+    - id: 28
+      question: Quelle désormais grande dame a fêté ses 48 ans en avril 2018 ?
+      propositions:
+      - Beatrix
+      - Brigitte Macron
+      - Angela Merkel
+      - Melania Trump
+      réponse: Melania Trump
+      anecdote: Grâce à son élégance légendaire et son sens pointu de la mode, la belle slovène nous donne des leçons de style à chaque apparition.
+    - id: 29
+      question: Quel est le premier prénom du troisième enfant de Kate Middelton ?
+      propositions:
+      - Louis
+      - Charles
+      - Arthur
+      - Logan
+      réponse: Louis
+      anecdote: Bien avant la naissance du Royal Baby 3, les bookmakers anglais avaient parié sur le prénom du nouveau-né : Arthur.
+    - id: 30
+      question: Quel jeune DJ suédois a disparu, évoquant par son geste le mal-être qui l'habitait ?
+      propositions:
+      - Avicii
+      - Diplo
+      - Afrojack
+      - Tiesto
+      réponse: Avicii
+      anecdote: Le 26 avril 2018, la famille évoquait la thèse d'un suicide et indique qu'Avicii n'en pouvait plus et voulait la paix.
+  en:
+  - débutant:
+    - id: 1
+      question: What man in black is journalist Audrey Crespo-Mara married to ?
+      propositions:
+      - Thierry Ardisson
+      - Philippe Gildas
+      - Bernard Pivot
+      - Patrick Chene
+      réponse: Thierry Ardisson
+      anecdote: In the summer of 2015, Audrey Crespo-Mara was the replacement for Claire Chazal at the presentation of the TF1 weekend newspapers.
+    - id: 2
+      question: Which young French singer lived with Thierry Neuvic from 2013 to 2016 ?
+      propositions:
+      - Elodie Frege
+      - Nolwenn Leroy
+      - Magalie Vae
+      - Jenifer
+      réponse: Jenifer
+      anecdote: Since April 2016, Jenifer has been in a relationship with Ambroise Fieschi, former rally driver and Corsican businessman.
+    - id: 3
+      question: Which Italian politician is at the center of the famous Rubygate affair ?
+      propositions:
+      - Mario Monti
+      - Enrico Letta
+      - Silvio Berlusconi
+      - Matteo Renzi
+      réponse: Silvio Berlusconi
+      anecdote: In this case, Silvio Berlusconi is suspected of having incited prostitution of a minor disco dancer.
+    - id: 4
+      question: Who received in 2009 the Public Glam Award for the ugliest guy ?
+      propositions:
+      - Aldo Maccione
+      - Henri Leconte
+      - Mickael Vendetta
+      - Daniel Ducruet
+      réponse: Mickael Vendetta
+      anecdote: In 2008, journalist David Abiker described it on France Info radio as a sort of Paris Hilton.
+    - id: 5
+      question: Which former French actress X has got into the habit of stripping off over twelve months ?
+      propositions:
+      - Clara Morgane
+      - Melanie Coste
+      - Laure Sainclair
+      - Sylvia Kristel
+      réponse: Clara Morgane
+      anecdote: In order to manage her assets (calendars, clips, records, ...), Clara Morgane created her own production box : Pêché Capital Média.
+    - id: 6
+      question: In France, which Minister of Culture sent a now famous tweet full of mistakes ?
+      propositions:
+      - Aurelie Filippetti
+      - Christine Albanel
+      - Fleur Pellerin
+      - Francoise Nyssen
+      réponse: Aurelie Filippetti
+      anecdote: Aurélie Filippetti was in a relationship with Arnaud Montebourg with whom she had a daughter, Jeanne, born only 6 months pregnant.
+    - id: 7
+      question: To whom did Oprah Winfrey ask : « Are you a drug addict » ?
+      propositions:
+      - Shannen Doherty
+      - Joan Collins
+      - Lindsay Lohan
+      - Traci Bingham
+      réponse: Lindsay Lohan
+      anecdote: She is best known for her talk show « The Oprah Winfrey Show » produced by her own company Harpo Productions based in Chicago.
+    - id: 8
+      question: With what top model did billionaire Vladimir Doronin live ?
+      propositions:
+      - Alexa Chung
+      - Kate Moss
+      - Naomi Campbell
+      - Kelly Brook
+      réponse: Naomi Campbell
+      anecdote: Naomi Campbell is also known for her strong temper and her numerous collisions with other celebrities.
+    - id: 9
+      question: Who revealed by mistake the secret date of the marriage of Valérie Bègue and Camille Lacourt ?
+      propositions:
+      - Michel Denisot
+      - Gilles Verdez
+      - Nelson Monfort
+      - Michel Drucker
+      réponse: Nelson Monfort
+      anecdote: Become an icon in the French media landscape, Nelson Monfort is caricatured by Les Guignols and by Nicolas Canteloup.
+    - id: 10
+      question: Who produced a very sexy advertisement for their Agent Provocateur lingerie collection ?
+      propositions:
+      - Krystyna Janda
+      - Penelope Cruz
+      - Kirsten Dunst
+      - Helen Mirren
+      réponse: Penelope Cruz
+      anecdote: In France, Ethel Houbiers is the regular French voice of Penélope Cruz. Barbara Delsol also doubled it several times.
+  - confirmé:
+    - id: 11
+      question: Which Jack Lang daughter died of the disease at just 47 years of age ?
+      propositions:
+      - Beatrice Lang
+      - Sophie Lang
+      - Sarah Lang
+      - Valerie Lang
+      réponse: Valerie Lang
+      anecdote: Although a theater actress, Valérie Lang shot in « La Belle Personne » by Christophe Honoré and « Holiday » by Guillaume Nicloux.
+    - id: 12
+      question: Which journalist married to Périco Légasse is a mom for the third time ?
+      propositions:
+      - Natacha Polony
+      - Aude Lancelin
+      - Anna Cabana
+      - Isabelle Saporta
+      réponse: Natacha Polony
+      anecdote: Specializing in education and social issues, she worked for Marianne and wrote a column in Le Figaro.
+    - id: 13
+      question: What sex symbol still displays its elegance thirty years after Playboy ?
+      propositions:
+      - Coco Austin
+      - Bo Derek
+      - Rena Mero
+      - Nina Bott
+      réponse: Bo Derek
+      anecdote: At 16, Mary Cathleen Collins falls in love with director John Derek, 30 years older, who will have to go into exile in Germany.
+    - id: 14
+      question: For what Pakistani doctor would Princess Diana have it all ?
+      propositions:
+      - Thomas Lewis
+      - Richard Lower
+      - John Parkinson
+      - Hasnat Khan
+      réponse: Hasnat Khan
+      anecdote: According to Diana's butler, Paul Burrell, the princess and Dr. Khan, the love of her life, ended their relationship in June 1997.
+    - id: 15
+      question: How is Shakira and Gerard Pique's first son named ?
+      propositions:
+      - Milan
+      - Donovan
+      - Ivan
+      - Esteban
+      réponse: Milan
+      anecdote: During the summer of 2010, Shakira met the Spanish footballer Gerard Pique on the set of his clip « Waka Waka ».
+    - id: 16
+      question: Which American singer ended a twelve-year relationship with Keri Lewis ?
+      propositions:
+      - Lauryn Hill
+      - Mariah Carey
+      - Kat DeLuna
+      - Toni Braxton
+      réponse: Toni Braxton
+      anecdote: Toni Braxton was revealed in 1993 with the release of his first album, « Toni Braxton », which will sell ten million copies.
+    - id: 17
+      question: Which ex Gwen Stefani was dad for the second time with Erin Lokitz ?
+      propositions:
+      - Scott Shields
+      - Tony Kanal
+      - Roger Glover
+      - Dave Richmond
+      réponse: Tony Kanal
+      anecdote: He is the main composer of No Doubt with Gwen Stefani, with whom he studied and had a relationship between 1989 and 1994.
+    - id: 18
+      question: Who is young rising actress Ava Sambora the daughter of ?
+      propositions:
+      - Heather Locklear
+      - Daphne Zuniga
+      - Marcia Cross
+      - Laura Leighton
+      réponse: Heather Locklear
+      anecdote: Passionate about cars, Heather Locklear shortened her studies at UCLA university to embark on an acting career.
+    - id: 19
+      question: Which singer from the group Lady Antebellum gave birth to a daughter ?
+      propositions:
+      - Hillary Scott
+      - Jolie Holland
+      - Rita Coolidge
+      - Tanya Tucker
+      réponse: Hillary Scott
+      anecdote: On July 22, 2013, she gave birth to her first child, a girl named Eislee Kaye Tyrrell, in Nashville, Tennessee.
+    - id: 20
+      question: Which « Wizards of Waverly Place » hero has a sense of style ?
+      propositions:
+      - Ashley Tisdale
+      - Alyson Reed
+      - Vanessa Hudgens
+      - Monique Coleman
+      réponse: Vanessa Hudgens
+      anecdote: Vanessa Hudgens released her first album titled « V » on September 26, 2006, an album placed twenty-fourth on the Billboard 200.
+  - expert:
+    - id: 21
+      question: Who did the Campari brand choose as the brand for its 2014 calendar ?
+      propositions:
+      - Nicole Kidman
+      - Christina Ricci
+      - Naomi Watts
+      - Uma Thurman
+      réponse: Uma Thurman
+      anecdote: In 2001, she appeared in the spot for the brand Schweppes, the production of which was entrusted to photographer David LaChapelle.
+    - id: 22
+      question: Which brilliant French film distributor left us in 2013 ?
+      propositions:
+      - Fabienne Vonier
+      - Margot Capelier
+      - Catherine Varlin
+      - Alice Guy
+      réponse: Fabienne Vonier
+      anecdote: The « Pyramide Distribution » company that she created has the Pyramids of Giza logo, complete with a signature in white letters.
+    - id: 23
+      question: With which photographer was Madonna involved in her Secret Project ?
+      propositions:
+      - Steve Klein
+      - William Claxton
+      - Tim Walker
+      - Garry Gross
+      réponse: Steve Klein
+      anecdote: In this 17-minute film, the singer promotes freedom of expression and tolerance, dedicating her film to the persecuted.
+    - id: 24
+      question: Which English actress and singer is Laurence Fox married to ?
+      propositions:
+      - Billie Piper
+      - Katie Melua
+      - Cathy Dennis
+      - Melanie Brown
+      réponse: Billie Piper
+      anecdote: Billie Piper is a successful singer and actress known for her roles in « Doctor Who » and « Diary of a call girl ».
+    - id: 25
+      question: Which interpreter of Rosie Camden appeared in lingerie for Maxim magazine ?
+      propositions:
+      - Jessica Biel
+      - Hilary Duff
+      - Mackenzie Rosman
+      - Selena Gomez
+      réponse: Mackenzie Rosman
+      anecdote: In 2004, she was voted best young actress in a second role in a television series for the « Seven at Home » series.
+    - id: 26
+      question: Which photographer brought Les Restos du coeur in 2013 ?
+      propositions:
+      - Christian Boyer
+      - Gaston Bergeret
+      - Guy Bourdin
+      - Philippe Bazin
+      réponse: Gaston Bergeret
+      anecdote: Gaston Bergeret sued them for the copyright of the photo of Coluche taken thirty years ago for the poster.
+    - id: 27
+      question: With which 33-year-old advertiser did his youngest Richard Gere get married ?
+      propositions:
+      - Karolina Kurkova
+      - Cindy Gallop
+      - Alejandra Silva
+      - Jana Irrova
+      réponse: Alejandra Silva
+      anecdote: It was through her interest in charitable works that publicist Alejandra Silva met actor Richard Gere in 2015.
+    - id: 28
+      question: Which grand dame was now 48 years old in April 2018 ?
+      propositions:
+      - Beatrix
+      - Angela Merkel
+      - Brigitte Macron
+      - Melania Trump
+      réponse: Melania Trump
+      anecdote: Thanks to her legendary elegance and her keen sense of fashion, the beautiful Slovenian gives us lessons in style with each appearance.
+    - id: 29
+      question: What is the first name of Kate Middelton's third child ?
+      propositions:
+      - Charles
+      - Logan
+      - Louis
+      - Arthur
+      réponse: Louis
+      anecdote: Long before the birth of the Royal Baby 3, the English bookies had bet on the first name of the newborn : Arthur.
+    - id: 30
+      question: What young Swedish DJ has disappeared, evoking by his gesture the ill-being that inhabited it ?
+      propositions:
+      - Diplo
+      - Avicii
+      - Afrojack
+      - Tiesto
+      réponse: Avicii
+      anecdote: On April 26, 2018, the family evoked the thesis of a suicide and indicates that Avicii could not take it any longer and wanted peace.
+  de:
+  - débutant:
+    - id: 1
+      question: Mit welchem schwarzen Mann ist die Journalistin Audrey Crespo-Mara verheiratet ?
+      propositions:
+      - Bernard Pivot
+      - Thierry Ardisson
+      - Philippe Gildas
+      - Patrick Chene
+      réponse: Thierry Ardisson
+      anecdote: Im Sommer 2015 ersetzte Audrey Crespo-Mara Claire Chazal bei der Präsentation der TF1-Wochenendzeitungen.
+    - id: 2
+      question: Welcher junge französische Sänger lebte von 2013 bis 2016 bei Thierry Neuvic ?
+      propositions:
+      - Elodie Frege
+      - Magalie Vae
+      - Nolwenn Leroy
+      - Jenifer
+      réponse: Jenifer
+      anecdote: Seit April 2016 ist Jenifer in einer Beziehung mit Ambroise Fieschi, ehemaliger Rallyefahrer und korsischer Geschäftsmann.
+    - id: 3
+      question: Welcher italienische Politiker steht im Zentrum der berühmten Rubygate-Affäre ?
+      propositions:
+      - Enrico Letta
+      - Mario Monti
+      - Silvio Berlusconi
+      - Matteo Renzi
+      réponse: Silvio Berlusconi
+      anecdote: In diesem Fall wird Silvio Berlusconi verdächtigt, die Prostitution eines minderjährigen Disco-Tänzers angestiftet zu haben.
+    - id: 4
+      question: Wer hat 2009 den Public Glam Award für den hässlichsten Kerl erhalten ?
+      propositions:
+      - Mickael Vendetta
+      - Aldo Maccione
+      - Henri Leconte
+      - Daniel Ducruet
+      réponse: Mickael Vendetta
+      anecdote: Der Journalist David Abiker beschrieb es 2008 im France Info Radio als eine Art Paris Hilton.
+    - id: 5
+      question: Welche ehemalige französische Schauspielerin X hat es sich zur Gewohnheit gemacht, sich über zwölf Monate hinweg auszuziehen ?
+      propositions:
+      - Sylvia Kristel
+      - Melanie Coste
+      - Laure Sainclair
+      - Clara Morgane
+      réponse: Clara Morgane
+      anecdote: Um ihr Vermögen (Kalender, Clips, Aufzeichnungen, ...) zu verwalten, schuf Clara Morgane ihre eigene Produktionskiste : Pêché Capital Média.
+    - id: 6
+      question: Welcher Kulturminister hat in Frankreich einen inzwischen berühmten Tweet voller Fehler geschickt ?
+      propositions:
+      - Françoise Nyssen
+      - Fleur Pellerin
+      - Aurelie Filippetti
+      - Christine Albanel
+      réponse: Aurelie Filippetti
+      anecdote: Aurélie Filippetti hatte eine Beziehung zu Arnaud Montebourg, mit der sie eine Tochter, Jeanne, hatte, die im sechsten Monat schwanger war.
+    - id: 7
+      question: Wen hat Oprah Winfrey gefragt : « Sind Sie drogenabhängig » ?
+      propositions:
+      - Lindsay Lohan
+      - Traci Bingham
+      - Joan Collins
+      - Shannen Doherty
+      réponse: Lindsay Lohan
+      anecdote: Am bekanntesten ist sie für ihre Talkshow « The Oprah Winfrey Show », die von ihrer eigenen Firma Harpo Productions mit Sitz in Chicago produziert wird.
+    - id: 8
+      question: Mit welchem Topmodel lebte der Milliardär Vladimir Doronin ?
+      propositions:
+      - Alexa Chung
+      - Kelly Brook
+      - Naomi Campbell
+      - Kate Moss
+      réponse: Naomi Campbell
+      anecdote: Naomi Campbell ist auch bekannt für ihr starkes Temperament und ihre zahlreichen Kollisionen mit anderen Prominenten.
+    - id: 9
+      question: Wer hat versehentlich das geheime Datum der Hochzeit von Valérie Bègue und Camille Lacourt verraten ?
+      propositions:
+      - Gilles Verdez
+      - Nelson Monfort
+      - Michel Drucker
+      - Michel Denisot
+      réponse: Nelson Monfort
+      anecdote: Nelson Monfort, eine Ikone der französischen Medienlandschaft, wird von Les Guignols und Nicolas Canteloup karikiert.
+    - id: 10
+      question: Wer produzierte eine sehr sexy Werbung für ihre Agent Provocateur Dessous-Kollektion ?
+      propositions:
+      - Krystyna Janda
+      - Helen Mirren
+      - Penelope Cruz
+      - Kirsten Dunst
+      réponse: Penelope Cruz
+      anecdote: In Frankreich ist Ethel Houbiers die reguläre französische Stimme von Penélope Cruz. Barbara Delsol hat es auch mehrmals verdoppelt.
+  - confirmé:
+    - id: 11
+      question: Welche Tochter von Jack Lang starb im Alter von nur 47 Jahren an der Krankheit ?
+      propositions:
+      - Sarah Lang
+      - Valerie Lang
+      - Beatrice Lang
+      - Sophie Lang
+      réponse: Valerie Lang
+      anecdote: Obwohl Valérie Lang eine Theaterschauspielerin ist, hat sie in « La Belle Personne » von Christophe Honoré und « Holiday » von Guillaume Nicloux gedreht.
+    - id: 12
+      question: Welche Journalistin, die mit Périco Légasse verheiratet ist, ist zum dritten Mal Mutter ?
+      propositions:
+      - Natacha Polony
+      - Isabelle Saporta
+      - Aude Lancelin
+      - Anna Cabana
+      réponse: Natacha Polony
+      anecdote: Sie spezialisierte sich auf Erziehung und soziale Fragen, arbeitete für Marianne und schrieb eine Kolumne in Le Figaro.
+    - id: 13
+      question: Welches Sexsymbol zeigt noch 30 Jahre nach dem Playboy seine Eleganz ?
+      propositions:
+      - Nina Bott
+      - Coco Austin
+      - Bo Derek
+      - Rena Mero
+      réponse: Bo Derek
+      anecdote: Mit 16 Jahren verliebt sich Mary Cathleen Collins in den 30-jährigen Regisseur John Derek, der nach Deutschland ins Exil muss.
+    - id: 14
+      question: Für welchen pakistanischen Arzt hätte Prinzessin Diana alles ?
+      propositions:
+      - Hasnat Khan
+      - Thomas Lewis
+      - John Parkinson
+      - Richard Lower
+      réponse: Hasnat Khan
+      anecdote: Laut Dianas Butler, Paul Burrell, beendeten die Prinzessin und Dr. Khan, die Liebe ihres Lebens, ihre Beziehung im Juni 1997.
+    - id: 15
+      question: Wie heißt der erste Sohn von Shakira und Gerard Pique ?
+      propositions:
+      - Esteban
+      - Milan
+      - Donovan
+      - Ivan
+      réponse: Milan
+      anecdote: Im Sommer 2010 traf Shakira den spanischen Fußballer Gerard Pique am Set seines Clips « Waka Waka ».
+    - id: 16
+      question: Welcher amerikanische Sänger hat eine zwölfjährige Beziehung zu Keri Lewis beendet ?
+      propositions:
+      - Kat DeLuna
+      - Toni Braxton
+      - Mariah Carey
+      - Lauryn Hill
+      réponse: Toni Braxton
+      anecdote: Toni Braxton wurde 1993 mit der Veröffentlichung seines ersten Albums « Toni Braxton » enthüllt, das zehn Millionen Mal verkauft werden soll.
+    - id: 17
+      question: Welcher Ex-Gwen Stefani war zum zweiten Mal mit Erin Lokitz Vater ?
+      propositions:
+      - Roger Glover
+      - Dave Richmond
+      - Scott Shields
+      - Tony Kanal
+      réponse: Tony Kanal
+      anecdote: Er ist der Hauptkomponist von No Doubt mit Gwen Stefani, mit dem er studierte und eine Beziehung zwischen 1989 und 1994 hatte.
+    - id: 18
+      question: Von wem ist die junge aufstrebende Schauspielerin Ava Sambora die Tochter ?
+      propositions:
+      - Laura Leighton
+      - Marcia Cross
+      - Heather Locklear
+      - Daphne Zuniga
+      réponse: Heather Locklear
+      anecdote: Heather Locklear, die eine Leidenschaft für Autos hat, verkürzte ihr Studium an der UCLA, um eine Schauspielkarriere zu beginnen.
+    - id: 19
+      question: Welche Sängerin aus der Gruppe Lady Antebellum hat eine Tochter zur Welt gebracht ?
+      propositions:
+      - Tanya Tucker
+      - Jolie Holland
+      - Rita Coolidge
+      - Hillary Scott
+      réponse: Hillary Scott
+      anecdote: Am 22. Juli 2013 brachte sie in Nashville, Tennessee, ihr erstes Kind zur Welt, ein Mädchen namens Eislee Kaye Tyrrell.
+    - id: 20
+      question: Welcher « Wizards of Waverly Place » Held hat einen Sinn für Stil ?
+      propositions:
+      - Monique Coleman
+      - Vanessa Hudgens
+      - Alyson Reed
+      - Ashley Tisdale
+      réponse: Vanessa Hudgens
+      anecdote: Vanessa Hudgens veröffentlichte am 26. September 2006 ihr erstes Album mit dem Titel « V », ein Album, das auf dem Billboard 200 auf Platz vierundzwanzig steht.
+  - expert:
+    - id: 21
+      question: Wen hat die Marke Campari als Marke für ihren Kalender 2014 ausgewählt ?
+      propositions:
+      - Naomi Watts
+      - Christina Ricci
+      - Uma Thurman
+      - Nicole Kidman
+      réponse: Uma Thurman
+      anecdote: 2001 trat sie für die Marke Schweppes auf, deren Produktion dem Fotografen David LaChapelle anvertraut wurde.
+    - id: 22
+      question: Welcher brillante französische Filmverleiher hat uns 2013 verlassen ?
+      propositions:
+      - Margot Capelier
+      - Fabienne Vonier
+      - Alice Guy
+      - Catherine Varlin
+      réponse: Fabienne Vonier
+      anecdote: Das von ihr gegründete Unternehmen « Pyramide Distribution » trägt das Logo Pyramids of Giza (Pyramiden von Gizeh) mit einer Unterschrift in weißen Buchstaben.
+    - id: 23
+      question: Mit welcher Fotografin war Madonna an ihrem Secret Project beteiligt ?
+      propositions:
+      - Tim Walker
+      - Steve Klein
+      - William Claxton
+      - Garry Gross
+      réponse: Steve Klein
+      anecdote: In diesem 17-minütigen Film setzt sich die Sängerin für freie Meinungsäußerung und Toleranz ein und widmet ihren Film den Verfolgten.
+    - id: 24
+      question: Mit welcher englischen Schauspielerin und Sängerin ist Laurence Fox verheiratet ?
+      propositions:
+      - Cathy Dennis
+      - Melanie Brown
+      - Billie Piper
+      - Katie Melua
+      réponse: Billie Piper
+      anecdote: Billie Piper ist eine erfolgreiche Sängerin und Schauspielerin, die für ihre Rollen in « Doctor Who » und « Diary of a Callgirl » bekannt ist.
+    - id: 25
+      question: Welcher Dolmetscher von Rosie Camden trat in Dessous für das Maxim Magazin auf ?
+      propositions:
+      - Jessica Biel
+      - Selena Gomez
+      - Hilary Duff
+      - Mackenzie Rosman
+      réponse: Mackenzie Rosman
+      anecdote: 2004 wurde sie in einer zweiten Rolle in einer Fernsehserie für die Serie « Seven at Home » zur besten jungen Schauspielerin gewählt.
+    - id: 26
+      question: Welcher Fotograf brachte 2013 Les Restos du coeur mit ?
+      propositions:
+      - Philippe Bazin
+      - Guy Bourdin
+      - Christian Boyer
+      - Gaston Bergeret
+      réponse: Gaston Bergeret
+      anecdote: Gaston Bergeret verklagte sie wegen des Urheberrechts an dem Foto von Coluche, das vor dreißig Jahren für das Plakat aufgenommen worden war.
+    - id: 27
+      question: Mit welchem jährigen Inserenten hat sein jüngster Richard Gere geheiratet ?
+      propositions:
+      - Jana Irrova
+      - Karolina Kurkova
+      - Alejandra Silva
+      - Cindy Gallop
+      réponse: Alejandra Silva
+      anecdote: Durch ihr Interesse an gemeinnützigen Werken lernte die Publizistin Alejandra Silva 2015 den Schauspieler Richard Gere kennen.
+    - id: 28
+      question: Welche Großmutter war im April 2018 jetzt 48 Jahre alt ?
+      propositions:
+      - Beatrix
+      - Angela Merkel
+      - Melania Trump
+      - Brigitte Macron
+      réponse: Melania Trump
+      anecdote: Dank ihrer legendären Eleganz und ihrem ausgeprägten Sinn für Mode gibt uns die schöne Slowenin bei jedem Auftritt stilvollen Unterricht.
+    - id: 29
+      question: Wie lautet der Vorname von Kate Middeltons drittem Kind ?
+      propositions:
+      - Logan
+      - Charles
+      - Louis
+      - Arthur
+      réponse: Louis
+      anecdote: Lange vor der Geburt des Royal Baby 3 hatten die englischen Buchmacher auf den Vornamen des Neugeborenen gewettet : Arthur.
+    - id: 30
+      question: Welcher junge schwedische DJ ist verschwunden und erinnert durch seine Geste an das Unwohlsein, das ihn bewohnt hat ?
+      propositions:
+      - Avicii
+      - Tiesto
+      - Diplo
+      - Afrojack
+      réponse: Avicii
+      anecdote: Am 26. April 2018 brachte die Familie die These eines Selbstmords auf und wies darauf hin, dass Avicii es nicht länger aushalten könne und Frieden wolle.
+  es:
+  - débutant:
+    - id: 1
+      question: ¿Con qué hombre de negro está casada la periodista Audrey Crespo-Mara ?
+      propositions:
+      - Thierry Ardisson
+      - Philippe Gildas
+      - Patrick Chene
+      - Bernard Pivot
+      réponse: Thierry Ardisson
+      anecdote: En el verano de 2015, Audrey Crespo-Mara fue el reemplazo de Claire Chazal en la presentación de los periódicos TF1 de fin de semana.
+    - id: 2
+      question: ¿Qué joven cantante francés vivió con Thierry Neuvic entre 2013 y 2016 ?
+      propositions:
+      - Jenifer
+      - Elodie Frege
+      - Magalie Vae
+      - Nolwenn Leroy
+      réponse: Jenifer
+      anecdote: Desde abril de 2016, Jenifer ha estado en una relación con Ambroise Fieschi, ex piloto de rally y empresario corso.
+    - id: 3
+      question: ¿Qué político italiano está en el centro del famoso asunto de Rubygate ?
+      propositions:
+      - Matteo Renzi
+      - Silvio Berlusconi
+      - Enrico Letta
+      - Mario Monti
+      réponse: Silvio Berlusconi
+      anecdote: En este caso, se sospecha que Silvio Berlusconi incitó a la prostitución de un bailarín de discoteca menor.
+    - id: 4
+      question: ¿Quién recibió en 2009 el Premio Public Glam para el chico más feo ?
+      propositions:
+      - Henri Leconte
+      - Mickael Vendetta
+      - Daniel Ducruet
+      - Aldo Maccione
+      réponse: Mickael Vendetta
+      anecdote: En 2008, el periodista David Abiker lo describió en las ondas de radio de France Info como una especie de Paris Hilton.
+    - id: 5
+      question: ¿Qué ex actriz francesa X tiene la costumbre de desnudarse durante doce meses ?
+      propositions:
+      - Clara Morgane
+      - Sylvia Kristel
+      - Laure Sainclair
+      - Melanie Coste
+      réponse: Clara Morgane
+      anecdote: Para administrar sus activos (calendarios, clips, discos, ...), Clara Morgane creó su propia caja de producción : Pêché Capital Média.
+    - id: 6
+      question: En Francia, ¿qué Ministro de Cultura envió un tuit ahora famoso lleno de errores ?
+      propositions:
+      - Françoise Nyssen
+      - Christine Albanel
+      - Fleur Pellerin
+      - Aurelie Filippetti
+      réponse: Aurelie Filippetti
+      anecdote: Aurélie Filippetti estaba en una relación con Arnaud Montebourg con quien tuvo una hija, Jeanne, nacida con solo 6 meses de embarazo.
+    - id: 7
+      question: ¿A quién preguntó Oprah Winfrey : « ¿Es usted un adicto a las drogas » ?
+      propositions:
+      - Traci Bingham
+      - Lindsay Lohan
+      - Shannen Doherty
+      - Joan Collins
+      réponse: Lindsay Lohan
+      anecdote: Ella es mejor conocida por su programa de entrevistas « The Oprah Winfrey Show » producido por su propia compañía Harpo Productions con sede en Chicago.
+    - id: 8
+      question: ¿Con qué top model vivió el multimillonario Vladimir Doronin ?
+      propositions:
+      - Kate Moss
+      - Naomi Campbell
+      - Alexa Chung
+      - Kelly Brook
+      réponse: Naomi Campbell
+      anecdote: Naomi Campbell también es conocida por su fuerte temperamento y sus numerosas colisiones con otras celebridades.
+    - id: 9
+      question: ¿Quién reveló por error la fecha secreta del matrimonio de Valérie Bègue y Camille Lacourt ?
+      propositions:
+      - Nelson Monfort
+      - Gilles Verdez
+      - Michel Drucker
+      - Michel Denisot
+      réponse: Nelson Monfort
+      anecdote: Conviértase en un ícono en el panorama mediático francés, Nelson Monfort es caricaturizado por Les Guignols y Nicolas Canteloup.
+    - id: 10
+      question: ¿Quién produjo un anuncio muy sexy para su colección de lencería Agent Provocateur ?
+      propositions:
+      - Penelope Cruz
+      - Krystyna Janda
+      - Helen Mirren
+      - Kirsten Dunst
+      réponse: Penelope Cruz
+      anecdote: En Francia, Ethel Houbiers es la voz francesa habitual de Penélope Cruz. Barbara Delsol también lo duplicó varias veces.
+  - confirmé:
+    - id: 11
+      question: ¿Qué hija de Jack Lang murió de la enfermedad a los 47 años de edad ?
+      propositions:
+      - Sarah Lang
+      - Beatrice Lang
+      - Sophie Lang
+      - Valerie Lang
+      réponse: Valerie Lang
+      anecdote: Aunque es actriz de teatro, Valérie Lang filmó en « La Belle Personne » de Christophe Honoré y « Holiday » de Guillaume Nicloux.
+    - id: 12
+      question: ¿Qué periodista casada con Périco Légasse es madre por tercera vez ?
+      propositions:
+      - Isabelle Saporta
+      - Aude Lancelin
+      - Anna Cabana
+      - Natacha Polony
+      réponse: Natacha Polony
+      anecdote: Especializada en educación y temas sociales, trabajó para Marianne y escribió una columna en Le Figaro.
+    - id: 13
+      question: ¿Qué símbolo sexual todavía muestra su elegancia treinta años después de Playboy ?
+      propositions:
+      - Rena Mero
+      - Coco Austin
+      - Bo Derek
+      - Nina Bott
+      réponse: Bo Derek
+      anecdote: A los 16 años, Mary Cathleen Collins se enamora del director John Derek, 30 años mayor, que tendrá que exiliarse en Alemania.
+    - id: 14
+      question: ¿Para qué médico paquistaní la princesa Diana lo tendría todo ?
+      propositions:
+      - Richard Lower
+      - Thomas Lewis
+      - John Parkinson
+      - Hasnat Khan
+      réponse: Hasnat Khan
+      anecdote: Según el mayordomo de Diana, Paul Burrell, la princesa y el Dr. Khan, el amor de su vida, terminaron su relación en junio de 1997.
+    - id: 15
+      question: ¿Cómo se llama el primer hijo de Shakira y Gerard Pique ?
+      propositions:
+      - Ivan
+      - Donovan
+      - Milan
+      - Esteban
+      réponse: Milan
+      anecdote: Durante el verano de 2010, Shakira conoció al futbolista español Gerard Pique en el set de su clip « Waka Waka ».
+    - id: 16
+      question: ¿Qué cantante estadounidense terminó una relación de doce años con Keri Lewis ?
+      propositions:
+      - Kat DeLuna
+      - Lauryn Hill
+      - Mariah Carey
+      - Toni Braxton
+      réponse: Toni Braxton
+      anecdote: Toni Braxton se reveló en 1993 con el lanzamiento de su primer álbum, « Toni Braxton », que venderá diez millones de copias.
+    - id: 17
+      question: ¿Qué ex Gwen Stefani fue papá por segunda vez con Erin Lokitz ?
+      propositions:
+      - Scott Shields
+      - Dave Richmond
+      - Roger Glover
+      - Tony Kanal
+      réponse: Tony Kanal
+      anecdote: Es el principal compositor de No Doubt con Gwen Stefani, con quien estudió y tuvo una relación entre 1989 y 1994.
+    - id: 18
+      question: ¿De quién es hija la joven actriz emergente Ava Sambora ?
+      propositions:
+      - Daphne Zuniga
+      - Heather Locklear
+      - Marcia Cross
+      - Laura Leighton
+      réponse: Heather Locklear
+      anecdote: Apasionada por los autos, Heather Locklear acortó sus estudios en la universidad UCLA para embarcarse en una carrera de actuación.
+    - id: 19
+      question: ¿Qué cantante del grupo Lady Antebellum dio a luz a una hija ?
+      propositions:
+      - Rita Coolidge
+      - Tanya Tucker
+      - Hillary Scott
+      - Jolie Holland
+      réponse: Hillary Scott
+      anecdote: El 22 de julio de 2013, dio a luz a su primer hijo, una niña llamada Eislee Kaye Tyrrell, en Nashville, Tennessee.
+    - id: 20
+      question: ¿Qué héroe de « Wizards of Waverly Place » tiene sentido del estilo ?
+      propositions:
+      - Monique Coleman
+      - Vanessa Hudgens
+      - Ashley Tisdale
+      - Alyson Reed
+      réponse: Vanessa Hudgens
+      anecdote: Vanessa Hudgens lanzó su primer álbum titulado « V » el 26 de septiembre de 2006, un álbum colocado vigésimo cuarto en el Billboard 200.
+  - expert:
+    - id: 21
+      question: ¿A quién eligió la marca Campari como marca para su calendario 2014 ?
+      propositions:
+      - Uma Thurman
+      - Nicole Kidman
+      - Naomi Watts
+      - Christina Ricci
+      réponse: Uma Thurman
+      anecdote: En 2001, apareció en el spot de la marca Schweppes, cuya producción fue encomendada al fotógrafo David LaChapelle.
+    - id: 22
+      question: ¿Qué brillante distribuidor de cine francés nos dejó en 2013 ?
+      propositions:
+      - Fabienne Vonier
+      - Catherine Varlin
+      - Alice Guy
+      - Margot Capelier
+      réponse: Fabienne Vonier
+      anecdote: La compañía « Pyramide Distribution » que creó tiene el logotipo de Pyramids of Giza, completo con una firma en letras blancas.
+    - id: 23
+      question: ¿Con qué fotógrafo estuvo Madonna involucrada en su Proyecto Secreto ?
+      propositions:
+      - Tim Walker
+      - Garry Gross
+      - William Claxton
+      - Steve Klein
+      réponse: Steve Klein
+      anecdote: En esta película de 17 minutos, la cantante promueve la libertad de expresión y la tolerancia, dedicando su película a los perseguidos.
+    - id: 24
+      question: ¿Con qué actriz y cantante inglesa está casada Laurence Fox ?
+      propositions:
+      - Billie Piper
+      - Cathy Dennis
+      - Katie Melua
+      - Melanie Brown
+      réponse: Billie Piper
+      anecdote: Billie Piper es una exitosa cantante y actriz conocida por sus papeles en « Doctor Who » y « Diary of a call girl ».
+    - id: 25
+      question: ¿Qué intérprete de Rosie Camden apareció en lencería para la revista Maxim ?
+      propositions:
+      - Hilary Duff
+      - Mackenzie Rosman
+      - Selena Gomez
+      - Jessica Biel
+      réponse: Mackenzie Rosman
+      anecdote: En 2004, fue elegida mejor actriz joven en un segundo papel en una serie de televisión por la serie « Seven at Home ».
+    - id: 26
+      question: ¿Qué fotógrafo trajo Les Restos du coeur en 2013 ?
+      propositions:
+      - Guy Bourdin
+      - Philippe Bazin
+      - Christian Boyer
+      - Gaston Bergeret
+      réponse: Gaston Bergeret
+      anecdote: Gaston Bergeret los demandó por los derechos de autor de la foto de Coluche tomada hace treinta años para el póster.
+    - id: 27
+      question: ¿Con qué anunciante de 33 años se casó su más joven Richard Gere ?
+      propositions:
+      - Cindy Gallop
+      - Karolina Kurkova
+      - Jana Irrova
+      - Alejandra Silva
+      réponse: Alejandra Silva
+      anecdote: Fue a través de su interés en obras de caridad que la publicista Alejandra Silva conoció al actor Richard Gere en 2015.
+    - id: 28
+      question: ¿Qué gran dama tenía ahora 48 años en abril de 2018 ?
+      propositions:
+      - Melania Trump
+      - Angela Merkel
+      - Beatriz
+      - Brigitte Macron
+      réponse: Melania Trump
+      anecdote: Gracias a su legendaria elegancia y su agudo sentido de la moda, la bella eslovena nos da lecciones de estilo con cada aparición.
+    - id: 29
+      question: ¿Cuál es el primer nombre del tercer hijo de Kate Middelton ?
+      propositions:
+      - Logan
+      - Louis
+      - Charles
+      - Arthur
+      réponse: Louis
+      anecdote: Mucho antes del nacimiento del Royal Baby 3, los corredores de apuestas ingleses habían apostado por el primer nombre del recién nacido : Arthur.
+    - id: 30
+      question: ¿Qué joven DJ sueco ha desaparecido, evocando con su gesto el mal que lo habitaba ?
+      propositions:
+      - Afrojack
+      - Tiesto
+      - Diplo
+      - Avicii
+      réponse: Avicii
+      anecdote: El 26 de abril de 2018, la familia evocó la tesis de un suicidio e indica que Avicii no pudo aguantar más y quería la paz.
+  it:
+  - débutant:
+    - id: 1
+      question: Con quale uomo in nero è sposata la giornalista Audrey Crespo-Mara ?
+      propositions:
+      - Philippe Gildas
+      - Thierry Ardisson
+      - Bernard Pivot
+      - Patrick Chene
+      réponse: Thierry Ardisson
+      anecdote: Nell'estate del 2015, Audrey Crespo-Mara è stata la sostituzione di Claire Chazal alla presentazione dei quotidiani del fine settimana del TF1.
+    - id: 2
+      question: Quale giovane cantante francese ha vissuto con Thierry Neuvic dal 2013 al 2016 ?
+      propositions:
+      - Nolwenn Leroy
+      - Jenifer
+      - Elodie Frege
+      - Magalie Vae
+      réponse: Jenifer
+      anecdote: Dall'aprile 2016, Jenifer ha avuto una relazione con Ambroise Fieschi, ex pilota di rally e uomo d'affari corso.
+    - id: 3
+      question: Quale politico italiano è al centro della famosa vicenda Rubygate ?
+      propositions:
+      - Silvio Berlusconi
+      - Matteo Renzi
+      - Enrico Letta
+      - Mario Monti
+      réponse: Silvio Berlusconi
+      anecdote: In questo caso, Silvio Berlusconi è sospettato di aver incitato alla prostituzione di un ballerino minore in discoteca.
+    - id: 4
+      question: Chi ha ricevuto nel 2009 il Public Glam Award per il ragazzo più brutto ?
+      propositions:
+      - Henri Leconte
+      - Mickael Vendetta
+      - Aldo Maccione
+      - Daniel Ducruet
+      réponse: Mickael Vendetta
+      anecdote: Nel 2008, il giornalista David Abiker lo descrisse alla radio France Info come una sorta di Paris Hilton.
+    - id: 5
+      question: Quale ex attrice francese X ha preso l'abitudine di spogliarsi per oltre dodici mesi ?
+      propositions:
+      - Laure Sainclair
+      - Sylvia Kristel
+      - Melanie Coste
+      - Clara Morgane
+      réponse: Clara Morgane
+      anecdote: Per gestire i suoi beni (calendari, clip, registrazioni, ...), Clara Morgane ha creato il suo box di produzione : Pêché Capital Média.
+    - id: 6
+      question: In Francia, quale ministro della Cultura ha inviato un tweet ormai famoso e pieno di errori ?
+      propositions:
+      - Christine Albanel
+      - Francoise Nyssen
+      - Aurelie Filippetti
+      - Fleur Pellerin
+      réponse: Aurelie Filippetti
+      anecdote: Aurélie Filippetti aveva una relazione con Arnaud Montebourg con la quale aveva una figlia, Jeanne, incinta di soli 6 mesi.
+    - id: 7
+      question: Chi ha chiesto a Oprah Winfrey : « Sei un tossicodipendente » ?
+      propositions:
+      - Traci Bingham
+      - Shannen Doherty
+      - Lindsay Lohan
+      - Joan Collins
+      réponse: Lindsay Lohan
+      anecdote: È conosciuta soprattutto per il suo talk show « The Oprah Winfrey Show » prodotto dalla sua società Harpo Productions con sede a Chicago.
+    - id: 8
+      question: Con quale top model ha vissuto il miliardario Vladimir Doronin ?
+      propositions:
+      - Naomi Campbell
+      - Kelly Brook
+      - Alexa Chung
+      - Kate Moss
+      réponse: Naomi Campbell
+      anecdote: Naomi Campbell è anche conosciuta per il suo carattere forte e le sue numerose collisioni con altre celebrità.
+    - id: 9
+      question: Chi ha rivelato per errore la data segreta del matrimonio di Valérie Bègue e Camille Lacourt ?
+      propositions:
+      - Gilles Verdez
+      - Nelson Monfort
+      - Michel Denisot
+      - Michel Drucker
+      réponse: Nelson Monfort
+      anecdote: Diventata un'icona nel panorama dei media francesi, Nelson Monfort è caricaturato da Les Guignols e da Nicolas Canteloup.
+    - id: 10
+      question: Chi ha prodotto una pubblicità molto sexy per la sua collezione di lingerie Agent Provocateur ?
+      propositions:
+      - Penelope Cruz
+      - Krystyna Janda
+      - Kirsten Dunst
+      - Helen Mirren
+      réponse: Penelope Cruz
+      anecdote: In Francia, Ethel Houbiers è la voce francese regolare di Penélope Cruz. Anche Barbara Delsol ha raddoppiato più volte.
+  - confirmé:
+    - id: 11
+      question: Quale figlia di Jack Lang è morta a causa della malattia a soli 47 anni ?
+      propositions:
+      - Beatrice Lang
+      - Valerie Lang
+      - Sarah Lang
+      - Sophie Lang
+      réponse: Valerie Lang
+      anecdote: Sebbene sia un'attrice teatrale, Valérie Lang ha girato in « La Belle Personne » di Christophe Honoré e « Holiday » di Guillaume Nicloux.
+    - id: 12
+      question: Quale giornalista sposata con Périco Légasse è una mamma per la terza volta ?
+      propositions:
+      - Aude Lancelin
+      - Natacha Polony
+      - Anna Cabana
+      - Isabelle Saporta
+      réponse: Natacha Polony
+      anecdote: Specializzata in educazione e questioni sociali, ha lavorato per Marianne e ha scritto una rubrica su Le Figaro.
+    - id: 13
+      question: Quale sex symbol mostra ancora la sua eleganza trent'anni dopo Playboy ?
+      propositions:
+      - Coco Austin
+      - Rena Mero
+      - Bo Derek
+      - Nina Bott
+      réponse: Bo Derek
+      anecdote: A 16 anni, Mary Cathleen Collins si innamora del regista John Derek, 30 anni, che dovrà andare in esilio in Germania.
+    - id: 14
+      question: Per quale dottore pakistano la principessa Diana avrebbe tutto ?
+      propositions:
+      - Hasnat Khan
+      - Richard Lower
+      - John Parkinson
+      - Thomas Lewis
+      réponse: Hasnat Khan
+      anecdote: Secondo il maggiordomo di Diana, Paul Burrell, la principessa e il dottor Khan, l'amore della sua vita, terminarono la loro relazione nel giugno 1997.
+    - id: 15
+      question: Come si chiama il primo figlio di Shakira e Gerard Pique ?
+      propositions:
+      - Milan
+      - Donovan
+      - Esteban
+      - Ivan
+      réponse: Milan
+      anecdote: Durante l'estate del 2010, Shakira ha incontrato il calciatore spagnolo Gerard Pique sul set della sua clip « Waka Waka ».
+    - id: 16
+      question: Quale cantante americana ha concluso una relazione di dodici anni con Keri Lewis ?
+      propositions:
+      - Toni Braxton
+      - Kat DeLuna
+      - Mariah Carey
+      - Lauryn Hill
+      réponse: Toni Braxton
+      anecdote: Toni Braxton è stato rivelato nel 1993 con l'uscita del suo primo album, « Toni Braxton », che venderà dieci milioni di copie.
+    - id: 17
+      question: Quale ex Gwen Stefani è stato per la seconda volta papà con Erin Lokitz ?
+      propositions:
+      - Dave Richmond
+      - Tony Kanal
+      - Scott Shields
+      - Roger Glover
+      réponse: Tony Kanal
+      anecdote: È il compositore principale di No Doubt con Gwen Stefani, con il quale ha studiato e avuto una relazione tra il 1989 e il 1994.
+    - id: 18
+      question: Di chi è la giovane attrice emergente Ava Sambora, la figlia ?
+      propositions:
+      - Marcia Cross
+      - Laura Leighton
+      - Heather Locklear
+      - Daphne Zuniga
+      réponse: Heather Locklear
+      anecdote: Appassionata di automobili, Heather Locklear accorcia i suoi studi all'università dell'UCLA per intraprendere una carriera di attore.
+    - id: 19
+      question: Quale cantante del gruppo Lady Antebellum ha dato alla luce una figlia ?
+      propositions:
+      - Hillary Scott
+      - Rita Coolidge
+      - Jolie Holland
+      - Tanya Tucker
+      réponse: Hillary Scott
+      anecdote: Il 22 luglio 2013 ha dato alla luce il suo primo figlio, una ragazza di nome Eislee Kaye Tyrrell, a Nashville, nel Tennessee.
+    - id: 20
+      question: Quale eroe « Wizards of Waverly Place » ha un senso dello stile ?
+      propositions:
+      - Alyson Reed
+      - Vanessa Hudgens
+      - Ashley Tisdale
+      - Monique Coleman
+      réponse: Vanessa Hudgens
+      anecdote: Vanessa Hudgens ha pubblicato il suo primo album intitolato « V » il 26 settembre 2006, un album collocato ventiquattresimo sulla Billboard 200.
+  - expert:
+    - id: 21
+      question: Chi ha scelto il marchio Campari come marchio per il suo calendario 2014 ?
+      propositions:
+      - Naomi Watts
+      - Uma Thurman
+      - Nicole Kidman
+      - Christina Ricci
+      réponse: Uma Thurman
+      anecdote: Nel 2001, è apparsa sul posto per il marchio Schweppes, la cui produzione è stata affidata al fotografo David LaChapelle.
+    - id: 22
+      question: Quale brillante distributore di film francese ci ha lasciato nel 2013 ?
+      propositions:
+      - Fabienne Vonier
+      - Alice Guy
+      - Catherine Varlin
+      - Margot Capelier
+      réponse: Fabienne Vonier
+      anecdote: La società « Pyramide Distribution » che ha creato ha il logo Pyramids of Giza, completo di una firma in lettere bianche.
+    - id: 23
+      question: Con quale fotografo è stata coinvolta Madonna nel suo progetto segreto ?
+      propositions:
+      - Garry Gross
+      - Steve Klein
+      - Tim Walker
+      - William Claxton
+      réponse: Steve Klein
+      anecdote: In questo film di 17 minuti, la cantante promuove la libertà di espressione e tolleranza, dedicando il suo film ai perseguitati.
+    - id: 24
+      question: Con quale attrice e cantante inglese è sposata Laurence Fox ?
+      propositions:
+      - Cathy Dennis
+      - Billie Piper
+      - Melanie Brown
+      - Katie Melua
+      réponse: Billie Piper
+      anecdote: Billie Piper è una cantante e attrice di successo nota per i suoi ruoli in « Doctor Who » e « Diary of a call girl ».
+    - id: 25
+      question: Quale interprete di Rosie Camden è apparso in lingerie per la rivista Maxim ?
+      propositions:
+      - Jessica Biel
+      - Selena Gomez
+      - Hilary Duff
+      - Mackenzie Rosman
+      réponse: Mackenzie Rosman
+      anecdote: Nel 2004, è stata eletta miglior giovane attrice in un secondo ruolo in una serie televisiva per la serie « Seven at Home ».
+    - id: 26
+      question: Quale fotografo ha portato Les Restos du coeur nel 2013 ?
+      propositions:
+      - Guy Bourdin
+      - Christian Boyer
+      - Gaston Bergeret
+      - Philippe Bazin
+      réponse: Gaston Bergeret
+      anecdote: Gaston Bergeret li citò in giudizio per il copyright della foto di Coluche scattata trenta anni fa per il poster.
+    - id: 27
+      question: Con quale inserzionista di 33 anni si è sposato il suo più giovane Richard Gere ?
+      propositions:
+      - Alejandra Silva
+      - Karolina Kurkova
+      - Jana Irrova
+      - Cindy Gallop
+      réponse: Alejandra Silva
+      anecdote: È stato attraverso il suo interesse per le opere di beneficenza che la pubblicista Alejandra Silva ha incontrato l'attore Richard Gere nel 2015.
+    - id: 28
+      question: Quale nonna aveva ora 48 anni ad aprile 2018 ?
+      propositions:
+      - Melania Trump
+      - Angela Merkel
+      - Beatrix
+      - Brigitte Macron
+      réponse: Melania Trump
+      anecdote: Grazie alla sua leggendaria eleganza e senso della moda tagliente, ci dà le belle lezioni di stile sloveni ogni aspetto.
+    - id: 29
+      question: Qual è il nome del terzo figlio di Kate Middelton ?
+      propositions:
+      - Charles
+      - Arthur
+      - Logan
+      - Louis
+      réponse: Louis
+      anecdote: Molto prima della nascita di Royal Baby 3, i bookmaker inglesi avevano scommesso sul nome del neonato : Arthur.
+    - id: 30
+      question: Quale giovane DJ svedese è scomparso, evocando con il suo gesto il malessere che lo abitava ?
+      propositions:
+      - Avicii
+      - Tiesto
+      - Afrojack
+      - Diplo
+      réponse: Avicii
+      anecdote: Il 26 aprile 2018, la famiglia ha evocato la tesi di un suicidio e indica che Avicii non poteva più sopportarlo e voleva la pace.
+  nl:
+  - débutant:
+    - id: 1
+      question: Met welke man in het zwart is journaliste Audrey Crespo-Mara getrouwd ?
+      propositions:
+      - Philippe Gildas
+      - Bernard Pivot
+      - Thierry Ardisson
+      - Patrick Chene
+      réponse: Thierry Ardisson
+      anecdote: In de zomer van 2015 was Audrey Crespo-Mara de vervanger van Claire Chazal bij de presentatie van de TF1-weekendkranten.
+    - id: 2
+      question: Welke jonge Franse zanger woonde van 2013 tot 2016 bij Thierry Neuvic ?
+      propositions:
+      - Nolwenn Leroy
+      - Jenifer
+      - Elodie Frege
+      - Magalie Vae
+      réponse: Jenifer
+      anecdote: Sinds april 2016 heeft Jenifer een relatie met Ambroise Fieschi, voormalig rallyrijder en Corsicaanse zakenman.
+    - id: 3
+      question: Welke Italiaanse politicus staat centraal in de beroemde Rubygate-affaire ?
+      propositions:
+      - Enrico Letta
+      - Mario Monti
+      - Silvio Berlusconi
+      - Matteo Renzi
+      réponse: Silvio Berlusconi
+      anecdote: In dit geval wordt Silvio Berlusconi ervan verdacht prostitutie van een kleine discodanseres te hebben aangezet.
+    - id: 4
+      question: Wie ontving in 2009 de Public Glam Award voor de lelijkste man ?
+      propositions:
+      - Henri Leconte
+      - Mickael Vendetta
+      - Daniel Ducruet
+      - Aldo Maccione
+      réponse: Mickael Vendetta
+      anecdote: In 2008 beschreef journalist David Abiker het op France Info radio als een soort Paris Hilton.
+    - id: 5
+      question: Welke voormalige Franse actrice X is de gewoonte geworden om meer dan twaalf maanden te strippen ?
+      propositions:
+      - Clara Morgane
+      - Sylvia Kristel
+      - Melanie Coste
+      - Laure Sainclair
+      réponse: Clara Morgane
+      anecdote: Om haar bezittingen (kalenders, clips, records, ...) te beheren, creëerde Clara Morgane haar eigen productiebox : Pêché Capital Média.
+    - id: 6
+      question: Welke minister van Cultuur heeft in Frankrijk een inmiddels beroemde tweet vol fouten gestuurd ?
+      propositions:
+      - Francoise Nyssen
+      - Christine Albanel
+      - Aurelie Filippetti
+      - Fleur Pellerin
+      réponse: Aurelie Filippetti
+      anecdote: Aurélie Filippetti had een relatie met Arnaud Montebourg met wie ze een dochter had, Jeanne, die slechts 6 maanden zwanger was.
+    - id: 7
+      question: Wie vroeg Oprah Winfrey : « Ben je een drugsverslaafde » ?
+      propositions:
+      - Lindsay Lohan
+      - Joan Collins
+      - Shannen Doherty
+      - Traci Bingham
+      réponse: Lindsay Lohan
+      anecdote: Ze is vooral bekend om haar talkshow « The Oprah Winfrey Show » geproduceerd door haar eigen bedrijf Harpo Productions in Chicago.
+    - id: 8
+      question: Met welk topmodel leefde miljardair Vladimir Doronin ?
+      propositions:
+      - Naomi Campbell
+      - Alexa Chung
+      - Kate Moss
+      - Kelly Brook
+      réponse: Naomi Campbell
+      anecdote: Naomi Campbell staat ook bekend om haar sterke humeur en haar talrijke botsingen met andere beroemdheden.
+    - id: 9
+      question: Wie onthulde per ongeluk de geheime datum van het huwelijk van Valérie Bègue en Camille Lacourt ?
+      propositions:
+      - Nelson Monfort
+      - Michel Denisot
+      - Gilles Verdez
+      - Michel Drucker
+      réponse: Nelson Monfort
+      anecdote: Nelson Monfort wordt een icoon in het Franse medialandschap en wordt gekarikaturiseerd door Les Guignols en Nicolas Canteloup.
+    - id: 10
+      question: Wie produceerde een zeer sexy advertentie voor hun Agent Provocateur-lingeriecollectie ?
+      propositions:
+      - Penelope Cruz
+      - Kirsten Dunst
+      - Helen Mirren
+      - Krystyna Janda
+      réponse: Penelope Cruz
+      anecdote: In Frankrijk is Ethel Houbiers de reguliere Franse stem van Penélope Cruz. Barbara Delsol heeft het ook meerdere keren verdubbeld.
+  - confirmé:
+    - id: 11
+      question: Welke Jack Lang-dochter stierf aan de ziekte op slechts 47-jarige leeftijd ?
+      propositions:
+      - Beatrice Lang
+      - Valerie Lang
+      - Sophie Lang
+      - Sarah Lang
+      réponse: Valerie Lang
+      anecdote: Hoewel een theateractrice, schoot Valérie Lang in « La Belle Personne » door Christophe Honoré en « Holiday » door Guillaume Nicloux.
+    - id: 12
+      question: Welke journalist getrouwd met Périco Légasse is een moeder voor de derde keer ?
+      propositions:
+      - Anna Cabana
+      - Aude Lancelin
+      - Isabelle Saporta
+      - Natacha Polony
+      réponse: Natacha Polony
+      anecdote: Gespecialiseerd in onderwijs en sociale kwesties, werkte ze voor Marianne en schreef een column in Le Figaro.
+    - id: 13
+      question: Welk sekssymbool vertoont dertig jaar na Playboy nog steeds zijn elegantie ?
+      propositions:
+      - Nina Bott
+      - Bo Derek
+      - Rena Mero
+      - Coco Austin
+      réponse: Bo Derek
+      anecdote: Op 16-jarige leeftijd wordt Mary Cathleen Collins verliefd op regisseur John Derek, 30 jaar ouder, die in ballingschap moet gaan in Duitsland.
+    - id: 14
+      question: Voor welke Pakistaanse arts zou prinses Diana alles hebben ?
+      propositions:
+      - Hasnat Khan
+      - Thomas Lewis
+      - Richard Lower
+      - John Parkinson
+      réponse: Hasnat Khan
+      anecdote: Volgens Diana Butler, Paul Burrell, de prinses en Dr. Khan, de liefde van haar leven, beëindigde hun relatie in juni 1997.
+    - id: 15
+      question: Hoe heet de eerste zoon van Shakira en Gerard Pique ?
+      propositions:
+      - Donovan
+      - Ivan
+      - Milan
+      - Esteban
+      réponse: Milan
+      anecdote: Tijdens de zomer van 2010, Shakira een ontmoeting met de Spaanse voetballer Gerard Pique op de set van haar muziek video « Waka Waka ».
+    - id: 16
+      question: Welke Amerikaanse zangeres beëindigde een twaalfjarige relatie met Keri Lewis ?
+      propositions:
+      - Toni Braxton
+      - Lauryn Hill
+      - Mariah Carey
+      - Kat DeLuna
+      réponse: Toni Braxton
+      anecdote: Toni Braxton werd onthuld in 1993 met de release van zijn eerste album, « Toni Braxton », dat tien miljoen exemplaren zal verkopen.
+    - id: 17
+      question: Welke ex Gwen Stefani was voor de tweede keer vader met Erin Lokitz ?
+      propositions:
+      - Scott Shields
+      - Roger Glover
+      - Dave Richmond
+      - Tony Kanal
+      réponse: Tony Kanal
+      anecdote: Hij is de belangrijkste componist van No Doubt met Gwen Stefani, met wie hij studeerde en een relatie had tussen 1989 en 1994.
+    - id: 18
+      question: Van wie is de jonge rijzende actrice Ava Sambora de dochter van ?
+      propositions:
+      - Laura Leighton
+      - Daphne Zuniga
+      - Heather Locklear
+      - Marcia Cross
+      réponse: Heather Locklear
+      anecdote: Heather Locklear, gepassioneerd door auto's, verkortte haar studie aan de universiteit van UCLA om een acteercarrière te beginnen.
+    - id: 19
+      question: Welke zangeres uit de groep Lady Antebellum heeft een dochter gekregen ?
+      propositions:
+      - Rita Coolidge
+      - Hillary Scott
+      - Jolie Holland
+      - Tanya Tucker
+      réponse: Hillary Scott
+      anecdote: Op 22 juli 2013 beviel ze van haar eerste kind, een meisje genaamd Eislee Kaye Tyrrell, in Nashville, Tennessee.
+    - id: 20
+      question: Welke « Wizards of Waverly Place » held heeft een gevoel voor stijl ?
+      propositions:
+      - Vanessa Hudgens
+      - Monique Coleman
+      - Ashley Tisdale
+      - Alyson Reed
+      réponse: Vanessa Hudgens
+      anecdote: Vanessa Hudgens bracht haar eerste album met de titel « V » uit op 26 september 2006, een album dat vierentwintigste op de Billboard 200 werd geplaatst.
+  - expert:
+    - id: 21
+      question: Wie heeft het merk Campari gekozen als merk voor de kalender 2014 ?
+      propositions:
+      - Christina Ricci
+      - Naomi Watts
+      - Uma Thurman
+      - Nicole Kidman
+      réponse: Uma Thurman
+      anecdote: In 2001 verscheen ze op de plek voor het merk Schweppes, waarvan de productie werd toevertrouwd aan fotograaf David LaChapelle.
+    - id: 22
+      question: Welke briljante Franse filmdistributeur heeft ons verlaten in 2013 ?
+      propositions:
+      - Fabienne Vonier
+      - Catherine Varlin
+      - Margot Capelier
+      - Alice Guy
+      réponse: Fabienne Vonier
+      anecdote: Het bedrijf « Pyramide Distribution » dat ze heeft opgericht, heeft het logo Pyramids of Giza, compleet met een handtekening in witte letters.
+    - id: 23
+      question: Met welke fotograaf was Madonna betrokken bij haar Secret Project ?
+      propositions:
+      - Steve Klein
+      - William Claxton
+      - Tim Walker
+      - Garry Gross
+      réponse: Steve Klein
+      anecdote: In deze 17 minuten durende film bevordert de zanger de vrijheid van meningsuiting en tolerantie en wijdt haar film aan de vervolgden.
+    - id: 24
+      question: Met welke Engelse actrice en zangeres is Laurence Fox getrouwd ?
+      propositions:
+      - Melanie Brown
+      - Billie Piper
+      - Katie Melua
+      - Cathy Dennis
+      réponse: Billie Piper
+      anecdote: Billie Piper is een succesvolle zangeres en actrice bekend om haar rollen in « Doctor Who » en « Diary of a call girl ».
+    - id: 25
+      question: Welke tolk van Rosie Camden verscheen in lingerie voor het tijdschrift Maxim ?
+      propositions:
+      - Mackenzie Rosman
+      - Hilary Duff
+      - Selena Gomez
+      - Jessica Biel
+      réponse: Mackenzie Rosman
+      anecdote: In 2004 werd ze verkozen tot beste jonge actrice in een tweede rol in een televisieserie voor de serie « Seven at Home ».
+    - id: 26
+      question: Welke fotograaf bracht Les Restos du Coeur in 2013 ?
+      propositions:
+      - Guy Bourdin
+      - Philippe Bazin
+      - Gaston Bergeret
+      - Christian Boyer
+      réponse: Gaston Bergeret
+      anecdote: Gaston Bergeret klaagde hen aan voor het auteursrecht van de foto van Coluche die dertig jaar geleden voor de poster werd genomen.
+    - id: 27
+      question: Met welke 33-jarige adverteerder trouwde zijn jongste Richard Gere ?
+      propositions:
+      - Jana Irrova
+      - Alejandra Silva
+      - Cindy Gallop
+      - Karolina Kurkova
+      réponse: Alejandra Silva
+      anecdote: Het was door haar interesse in liefdadigheidswerken dat publicist Alejandra Silva in 2015 acteur Richard Gere ontmoette.
+    - id: 28
+      question: Welke grand dame was nu 48 jaar oud in april 2018 ?
+      propositions:
+      - Brigitte Macron
+      - Angela Merkel
+      - Melania Trump
+      - Beatrix
+      réponse: Melania Trump
+      anecdote: Dankzij haar legendarische elegantie en haar scherpe gevoel voor mode, geeft de prachtige Sloveense ons lessen in stijl bij elke verschijning.
+    - id: 29
+      question: Wat is de voornaam van het derde kind van Kate Middelton ?
+      propositions:
+      - Charles
+      - Louis
+      - Arthur
+      - Logan
+      réponse: Louis
+      anecdote: Lang voor de geboorte van de Royal Baby 3 hadden de Engelse bookmakers op de voornaam van de pasgeborene gewed : Arthur.
+    - id: 30
+      question: Welke jonge Zweedse DJ is verdwenen, en roept door zijn gebaar het kwaad op dat het bewoonde ?
+      propositions:
+      - Diplo
+      - Afrojack
+      - Tiesto
+      - Avicii
+      réponse: Avicii
+      anecdote: Op 26 april 2018 riep het gezin het proefschrift van zelfmoord op en geeft aan dat Avicii het niet langer kon nemen en vrede wilde.

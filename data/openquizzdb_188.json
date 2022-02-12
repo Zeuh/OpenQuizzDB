@@ -1,0 +1,2216 @@
+{                                     
+  "fournisseur": "OpenQuizzDB - Fournisseur de contenu libre (https://www.openquizzdb.org)",
+  "rédacteur": "Philippe Bresoux",
+  "thème": "Gladiateurs (Combattants des arènes)",         
+  "difficulté": "4 / 5",
+  "quizz": {
+    "fr": {
+      "débutant": [
+      {
+        "id": 1,
+        "question": "Le mot gladiateur vient du latin gladiator, traduisible par quel qualificatif ?",
+        "propositions": [
+          "Téméraire",
+          "Courageux",
+          "Mortel",
+          "Épéiste"
+        ],
+        "réponse": "Épéiste",
+        "anecdote": "Dans la Rome antique, les gladiateurs étaient des combattants professionnels qui s'affrontaient par paires bien définies."
+      },
+      {
+        "id": 2,
+        "question": "Dans quel vaste édifice public les combats de gladiateurs étaient-ils souvent organisés ?",
+        "propositions": [
+          "Gallodrome",
+          "Forum",
+          "Opéra",
+          "Amphithéâtre"
+        ],
+        "réponse": "Amphithéâtre",
+        "anecdote": "À la différence des cirques et des théâtres de la Grèce antique, les amphithéâtres sont des monuments nés dans le monde romain."
+      },
+      {
+        "id": 3,
+        "question": "Dans quelle ville enfouie de l'Empire romain a-t-on trouvé une caserne des gladiateurs ?",
+        "propositions": [
+          "Saint-Pierre",
+          "Catane",
+          "Pompéi",
+          "Goma"
+        ],
+        "réponse": "Pompéi",
+        "anecdote": "C'est à partir de la caserne que démarrait la procession des gladiateurs et des animaux qui allaient combattre."
+      },
+      {
+        "id": 4,
+        "question": "Quel marchand était également entraîneur et propriétaire de gladiateurs ?",
+        "propositions": [
+          "Étaleur",
+          "Modiste",
+          "Gargotier",
+          "Laniste"
+        ],
+        "réponse": "Laniste",
+        "anecdote": "Le célèbre Cnaeus Lentulus Batiatus possédait un ludus à Capoue, d'où s'échappèrent Spartacus et ses compagnons."
+      },
+      {
+        "id": 5,
+        "question": "Quel laniste était le propriétaire de l'école de gladiateurs de Capoue ?",
+        "propositions": [
+          "Caius",
+          "Titus",
+          "Scarpus",
+          "Batiatus"
+        ],
+        "réponse": "Batiatus",
+        "anecdote": "L'école de Capoue était composée en majorité de Thraces (dont Spartacus) et de Gaulois (dont Crixus)."
+      },
+      {
+        "id": 6,
+        "question": "Qui est probablement le plus populaire des gladiateurs d'origine thrace ?",
+        "propositions": [
+          "Ambiorix",
+          "Spartacus",
+          "Jugurtha",
+          "Hasdrubal"
+        ],
+        "réponse": "Spartacus",
+        "anecdote": "Spartacus fut le principal chef des révoltés lors de la Troisième Guerre servile en Italie entre 73 et 71 avant Jésus-Christ."
+      },
+      {
+        "id": 7,
+        "question": "Comment un gladiateur signale-t-il qu'il ne peut plus poursuivre le combat ?",
+        "propositions": [
+          "Il hurle",
+          "Il retire son casque",
+          "Il lève le doigt",
+          "Il jette son épée"
+        ],
+        "réponse": "Il lève le doigt",
+        "anecdote": "Si le combat dure trop longtemps, l'éditeur peut exiger que les gladiateurs continuent en se battant alors sans bouclier."
+      },
+      {
+        "id": 8,
+        "question": "Quel tableau de Jean-Léon Gérôme représente une vision romantique de la gladiature ?",
+        "propositions": [
+          "Corinthe",
+          "Bas les Pouces",
+          "Nominor Leo",
+          "La Dance macabre"
+        ],
+        "réponse": "Bas les Pouces",
+        "anecdote": "C'est en voyant une copie de cette peinture exposée aux États-Unis que Ridley Scott envisagea de réaliser un péplum, « Gladiator »."
+      },
+      {
+        "id": 9,
+        "question": "De quelle année avant J.-C. date le plus ancien combat de gladiateurs connu ?",
+        "propositions": [
+          "432",
+          "264",
+          "148",
+          "327"
+        ],
+        "réponse": "264",
+        "anecdote": "Ce combat fut rapidement suivi par de nombreux autres et c'est ainsi, en 105 av J.-C., que les jeux devinrent désormais publics."
+      },
+      {
+        "id": 10,
+        "question": "Lequel de ces célèbres gladiateurs gaulois appartenait à Lentulus Batiatus ?",
+        "propositions": [
+          "Gannicus",
+          "Dessalines",
+          "Crixus",
+          "Amador"
+        ],
+        "réponse": "Crixus",
+        "anecdote": "Aux côtés de Spartacus, Crixus fut un des chefs de la rébellion d'esclaves qui entraîna la Troisième Guerre servile."
+      }
+    ],
+    "confirmé": [
+      {
+        "id": 11,
+        "question": "Quelle troisième rébellion d'esclaves fut menée contre la République romaine ?",
+        "propositions": [
+          "Guerre d'Hercule",
+          "Guerre de Thrace",
+          "Guerre d'Auguste",
+          "Guerre de Spartacus"
+        ],
+        "réponse": "Guerre de Spartacus",
+        "anecdote": "Bien que la guerre de Spartacus ne soit pas historiquement notable, ses impacts historiques ont été quant à eux considérables."
+      },
+      {
+        "id": 12,
+        "question": "Quel gladiateur combattait avec des équipements qui évoquent un pêcheur ?",
+        "propositions": [
+          "Secutor",
+          "Samnite",
+          "Rétiaire",
+          "Venator"
+        ],
+        "réponse": "Rétiaire",
+        "anecdote": "L'absence de protection et le recours à des tactiques d'évitement ont fait des rétiaires la tranche la plus basse et méprisée."
+      },
+      {
+        "id": 13,
+        "question": "Quel empereur romain engagea sous son règne pas moins de 10 000 gladiateurs ?",
+        "propositions": [
+          "Titus",
+          "Marc Aurèle",
+          "Auguste",
+          "Hadrien"
+        ],
+        "réponse": "Auguste",
+        "anecdote": "Avec le règne d'Auguste, né Caius Octavius, débuta pour l'Empire une période de stabilité connue sous le nom de « Pax Romana »."
+      },
+      {
+        "id": 14,
+        "question": "Quelle était la principale caserne de gladiateurs de Rome, à proximité du Colisée ?",
+        "propositions": [
+          "Ludus Magnus",
+          "Villa Publica",
+          "Forum Piscarium",
+          "Divorum"
+        ],
+        "réponse": "Ludus Magnus",
+        "anecdote": "Il fut une des quatre casernes construites par Domitien outre le Ludus Gallicus, le Ludus Matutinus et le Ludus Dacicus."
+      },
+      {
+        "id": 15,
+        "question": "Combien de types de gladiateurs composent la majorité du corpus iconographique ?",
+        "propositions": [
+          "Dix",
+          "Six",
+          "Huit",
+          "Douze"
+        ],
+        "réponse": "Six",
+        "anecdote": "Certains auteurs pensent que le laniste, à un moment donné, tenait compte des besoins de l'école mais aussi des aptitudes physiques."
+      },
+      {
+        "id": 16,
+        "question": "Quelle libération dégageait les gladiateurs de leur obligation de combattre ?",
+        "propositions": [
+          "Calomnie",
+          "Amnistie",
+          "Affranchissement",
+          "Sursis"
+        ],
+        "réponse": "Affranchissement",
+        "anecdote": "Cette libération s'accompagnait de l'octroi symbolique d'une baguette spécifique leur permettant de devenir notable."
+      },
+      {
+        "id": 17,
+        "question": "Pour s'assurer la victoire, à quoi les gladiateurs recouraient-ils souvent ?",
+        "propositions": [
+          "Argent",
+          "Magie",
+          "Tricherie",
+          "Drogue"
+        ],
+        "réponse": "Magie",
+        "anecdote": "Une pratique consistait à graver des textes de malédiction sur des lamelles de plomb enroulées puis à les enterrer."
+      },
+      {
+        "id": 18,
+        "question": "En l'honneur de quelle femme Jules César donna-t-il des combats de gladiateurs ?",
+        "propositions": [
+          "Maria",
+          "Carla",
+          "Sophia",
+          "Julia"
+        ],
+        "réponse": "Julia",
+        "anecdote": "Ces jeux funéraires organisés en l'honneur de sa fille Julia n'étaient toutefois pas dépourvus d'arrière-pensées politiques."
+      },
+      {
+        "id": 19,
+        "question": "En quelle année a-t-on pu assister aux derniers combats de gladiateurs à Rome ?",
+        "propositions": [
+          "229",
+          "844",
+          "418",
+          "632"
+        ],
+        "réponse": "418",
+        "anecdote": "En 404, l'empereur Honorius avait déjà interdit les combats de gladiateurs à la suite d'une importante rixe dans le Colisée."
+      },
+      {
+        "id": 20,
+        "question": "Quelle était la couleur de la tunique des arbitres des combats de gladiateurs ?",
+        "propositions": [
+          "Bleue",
+          "Blanche",
+          "Rouge",
+          "Noire"
+        ],
+        "réponse": "Blanche",
+        "anecdote": "Les combats très codifiés suivaient une règle avancée par l'arbitre du jeu (summa rudis) et son second (secunda rudis)."
+      }
+    ],
+    "expert": [
+      {
+        "id": 21,
+        "question": "Quel dieu des combattants était souvent invoqué par les gladiateurs ?",
+        "propositions": [
+          "Pan",
+          "Apollon",
+          "Persée",
+          "Hercule"
+        ],
+        "réponse": "Hercule",
+        "anecdote": "L'Hercule des Romains est parfois dépeint comme moins violent que son alter ego grec dans les récits où il intervient."
+      },
+      {
+        "id": 22,
+        "question": "Comment désignait-on la catégorie à laquelle appartenaient les gladiateurs ?",
+        "propositions": [
+          "Armatura",
+          "Batiata",
+          "Andala",
+          "Guerilla"
+        ],
+        "réponse": "Armatura",
+        "anecdote": "L'origine des combats de gladiateurs se retrouve en Italie du sud, où le combat en armes avait pour but d'honorer un mort."
+      },
+      {
+        "id": 23,
+        "question": "Quel type de gladiateur est classiquement opposé au rétiaire ?",
+        "propositions": [
+          "Provocator",
+          "Thrace",
+          "Mirmillon",
+          "Secutor"
+        ],
+        "réponse": "Secutor",
+        "anecdote": "Le mirmillon, jusqu'alors premier opposant du rétiaire, avait un grand cimier sur le casque qui accrochait trop facilement le filet du rétiaire."
+      },
+      {
+        "id": 24,
+        "question": "Quel gladiateur réputé comme lourd est également appelé le gaulois ?",
+        "propositions": [
+          "Scissor",
+          "Sagittarius",
+          "Mirmillon",
+          "Parmatus"
+        ],
+        "réponse": "Mirmillon",
+        "anecdote": "Lourdement équipé, le mirmillon est armé de son glaive et protégé par son scutum, son casque, son ocrea et sa manica de cuir."
+      },
+      {
+        "id": 25,
+        "question": "Quel type de gladiateur démarrait généralement les après-midi de combats ?",
+        "propositions": [
+          "Mirmillon",
+          "Rétiaire",
+          "Provocator",
+          "Secutor"
+        ],
+        "réponse": "Provocator",
+        "anecdote": "Les gladiateurs équipés en provocator possèdent la même armatura et combattent donc face à un adversaire identiquement armé."
+      },
+      {
+        "id": 26,
+        "question": "Quel gladiateur à petit bouclier a pour adversaire principal le mirmillon ?",
+        "propositions": [
+          "Hoplomaque",
+          "Venator",
+          "Thrace",
+          "Andabate"
+        ],
+        "réponse": "Thrace",
+        "anecdote": "Les écrits de Cicéron sont les premiers documents à attester de l'existence des thraces, vers le milieu du premier siècle avant notre ère."
+      },
+      {
+        "id": 27,
+        "question": "Quel mystérieux gladiateur aurait eu pour arme un lacet étrangleur ?",
+        "propositions": [
+          "Hoplomaque",
+          "Laquearius",
+          "Hasdrubal",
+          "Andabate"
+        ],
+        "réponse": "Laquearius",
+        "anecdote": "Vercingétorix fut exécuté à l'aide d'un lacet étrangleur en août 46 av. J.-C., dans les geôles de Rome, puis jeté aux égouts."
+      },
+      {
+        "id": 28,
+        "question": "Quel gladiateur possédait pour se battre une dague ainsi qu'une courte lance ?",
+        "propositions": [
+          "Hoplomaque",
+          "Mirmillon",
+          "Thrace",
+          "Provocator"
+        ],
+        "réponse": "Hoplomaque",
+        "anecdote": "L'hoplomaque est, avec le thrace, le seul gladiateur à porter deux jambières très hautes au lieu d'une seule à la jambe gauche."
+      },
+      {
+        "id": 29,
+        "question": "Qui prit en 326 par l'édit de Béryte la première mesure contre la gladiature ?",
+        "propositions": [
+          "Sévère",
+          "Vespasien",
+          "Alexandre",
+          "Constantin 1er"
+        ],
+        "réponse": "Constantin 1er",
+        "anecdote": "Par cette mesure, l'empereur prescrit que des criminels condamnés à devenir gladiateurs soient envoyés travailler dans les mines."
+      },
+      {
+        "id": 30,
+        "question": "Quel gladiateur combattait à cheval, aveuglé par un casque fermé ?",
+        "propositions": [
+          "Provocator",
+          "Andabate",
+          "Rétiaire",
+          "Hoplomaque"
+        ],
+        "réponse": "Andabate",
+        "anecdote": "Les gladiateurs qui perdaient la vue au cours d'un combat pouvaient devenir andabates pour éviter de se faire forcément tué."
+      }
+    ]
+    },
+    "en": {
+      "débutant": [
+      {
+        "id": 1,
+        "question": "The word gladiator comes from the Latin gladiatores, which can be translated by what qualifier ?",
+        "propositions": [
+          "Timer",
+          "Epistle",
+          "Courageous",
+          "Mortal"
+        ],
+        "réponse": "Epistle",
+        "anecdote": "In ancient Rome, gladiators were professional fighters who clashed in well-defined pairs."
+      },
+      {
+        "id": 2,
+        "question": "In what vast public building were gladiator fights generally organized ?",
+        "propositions": [
+          "Gallodrome",
+          "Amphitheater",
+          "Forum",
+          "Operate"
+        ],
+        "réponse": "Amphitheater",
+        "anecdote": "Unlike the circuses and theaters of ancient Greece, the amphitheatres are monuments born in the Roman world."
+      },
+      {
+        "id": 3,
+        "question": "In which buried city of the Roman Empire was there a gladiator barracks ?",
+        "propositions": [
+          "Pompeii",
+          "Catania",
+          "Goma",
+          "Saint-Pierre"
+        ],
+        "réponse": "Pompeii",
+        "anecdote": "It was from the barracks that began the procession of gladiators and animals that were going to fight."
+      },
+      {
+        "id": 4,
+        "question": "Which dealer was also a coach and owner of gladiators ?",
+        "propositions": [
+          "Gargotier",
+          "Modiste",
+          "Laniste",
+          "Steamer"
+        ],
+        "réponse": "Laniste",
+        "anecdote": "The famous Cnaeus Lentulus Batiatus possessed a ludus in Capua, from where Spartacus and his companions escaped."
+      },
+      {
+        "id": 5,
+        "question": "Which laniste was the owner of the gladiator school of Capua ?",
+        "propositions": [
+          "Titus",
+          "Batiatus",
+          "Caius",
+          "Scarpus"
+        ],
+        "réponse": "Batiatus",
+        "anecdote": "The school in Capua was composed mainly of Thracians (including Spartacus) and Gauls (including Crixus)."
+      },
+      {
+        "id": 6,
+        "question": "Who is probably the most popular of Thracian gladiators ?",
+        "propositions": [
+          "Hasdrubal",
+          "Ambiorix",
+          "Jugurtha",
+          "Spartacus"
+        ],
+        "réponse": "Spartacus",
+        "anecdote": "Spartacus was the main leader of the revolts during the Third Servile War in Italy between 73 and 71 BC."
+      },
+      {
+        "id": 7,
+        "question": "How does a Gladiator signal that he can not continue the fight ?",
+        "propositions": [
+          "He screams",
+          "He raises his finger",
+          "He throws his sword",
+          "He takes off his helmet"
+        ],
+        "réponse": "He raises his finger",
+        "anecdote": "If the fight lasts too long, the editor may demand that the gladiators continue fighting then without a shield."
+      },
+      {
+        "id": 8,
+        "question": "Which painting of Jean-Léon Gérôme represents a romantic vision of gladiature ?",
+        "propositions": [
+          "Down the Inches",
+          "Corinth",
+          "Leo Nominor",
+          "The Dance of Death"
+        ],
+        "réponse": "Down the Inches",
+        "anecdote": "It was when seeing a copy of this painting exhibited in the United States that Ridley Scott planned to make a plumper, « Gladiator »."
+      },
+      {
+        "id": 9,
+        "question": "Which year before Christ dates the oldest gladiatorial combat mentioned in the texts ?",
+        "propositions": [
+          "327",
+          "148",
+          "432",
+          "264"
+        ],
+        "réponse": "264",
+        "anecdote": "This fight was quickly followed by many others and it was thus, in 105 BC, that the games became public."
+      },
+      {
+        "id": 10,
+        "question": "Which of these famous Gallic gladiators belonged to Lentulus Batiatus ?",
+        "propositions": [
+          "Dessalines",
+          "Crixus",
+          "Amador",
+          "Gannicus"
+        ],
+        "réponse": "Crixus",
+        "anecdote": "On the side of Spartacus, Crixus was one of the leaders of the slave rebellion that led to the Third Servile War."
+      }
+    ],
+    "confirmé": [
+      {
+        "id": 11,
+        "question": "What is the name of the third slave rebellion against the Roman Republic ?",
+        "propositions": [
+          "Spartacus War",
+          "War of Auguste",
+          "Thrace War",
+          "War of Hercules"
+        ],
+        "réponse": "Spartacus War",
+        "anecdote": "Although the war of Spartacus is not historically noticeable, its historical impacts have been considerable."
+      },
+      {
+        "id": 12,
+        "question": "What gladiator was fighting with equipment some of whom are calling on a fisherman ?",
+        "propositions": [
+          "Secutor",
+          "Samnite",
+          "Venator",
+          "Statutory"
+        ],
+        "réponse": "Statutory",
+        "anecdote": "The lack of protection and the use of evasion tactics have made the lowest and most desperate slice of property."
+      },
+      {
+        "id": 13,
+        "question": "What Roman emperor committed under his reign no less than 10,000 gladiators ?",
+        "propositions": [
+          "Marc Aurèle",
+          "Titus",
+          "Auguste",
+          "Hadrian"
+        ],
+        "réponse": "Auguste",
+        "anecdote": "With the reign of Augustus, born Caius Octavius, began for the Empire a period of stability known as « Pax Romana »."
+      },
+      {
+        "id": 14,
+        "question": "What was the main gladiatorial barracks in Rome, located near the Coliseum ?",
+        "propositions": [
+          "Divorum",
+          "Ludus Magnus",
+          "Villa Publica",
+          "Piscarium Forum"
+        ],
+        "réponse": "Ludus Magnus",
+        "anecdote": "It was one of four barracks built by Domitian besides Ludus Gallicus, Ludus Matutinus and Ludus Dacicus."
+      },
+      {
+        "id": 15,
+        "question": "How many types of gladiators make up the majority of the iconographic corpus ?",
+        "propositions": [
+          "Six",
+          "Eight",
+          "Twelve",
+          "Ten"
+        ],
+        "réponse": "Six",
+        "anecdote": "Some authors believe that the laniste, at one point, took into account the needs of the school but also the physical aptitudes."
+      },
+      {
+        "id": 16,
+        "question": "What liberation did the gladiators release from their obligation to fight ?",
+        "propositions": [
+          "Amnesty",
+          "Sursis",
+          "Slander",
+          "Postage"
+        ],
+        "réponse": "Postage",
+        "anecdote": "This liberation was accompanied by the symbolic granting of a specific wand allowing them to become notable."
+      },
+      {
+        "id": 17,
+        "question": "To ensure victory, what were the gladiators often using ?",
+        "propositions": [
+          "Silver",
+          "Drug",
+          "Magic",
+          "Cheating"
+        ],
+        "réponse": "Magic",
+        "anecdote": "One practice was to engrave cursory texts on coiled lead slats and then bury them."
+      },
+      {
+        "id": 18,
+        "question": "In whose honor did Julius Caesar give gladiator fights ?",
+        "propositions": [
+          "Julia",
+          "Carla",
+          "Sophia",
+          "Maria"
+        ],
+        "réponse": "Julia",
+        "anecdote": "These funeral games organized in honor of his daughter Julia were, however, not lacking political backdrops."
+      },
+      {
+        "id": 19,
+        "question": "In what year were we able to witness the latest gladiatorial battles in Rome ?",
+        "propositions": [
+          "418",
+          "229",
+          "632",
+          "844"
+        ],
+        "réponse": "418",
+        "anecdote": "In 404, Emperor Honorius had already banned gladiator fights following a major brawl in the Coliseum."
+      },
+      {
+        "id": 20,
+        "question": "What was the color of the referee tunic of gladiator fights ?",
+        "propositions": [
+          "Red",
+          "Blue",
+          "Blanche",
+          "Black"
+        ],
+        "réponse": "Blanche",
+        "anecdote": "The highly codified fights followed a rule advanced by the referee of the game (summa rudis) and his second (secunda rudis)."
+      }
+    ],
+    "expert": [
+      {
+        "id": 21,
+        "question": "What god of fighters was often invoked by gladiators ?",
+        "propositions": [
+          "Hercules",
+          "Perseus",
+          "Pan",
+          "Apollon"
+        ],
+        "réponse": "Hercules",
+        "anecdote": "The Hercules of the Romans is sometimes depicted as less violent than its Greek alter ego in the stories in which it occurs."
+      },
+      {
+        "id": 22,
+        "question": "How was the category to which the gladiators belonged ?",
+        "propositions": [
+          "Armatura",
+          "Batiata",
+          "Guerilla",
+          "Andala"
+        ],
+        "réponse": "Armatura",
+        "anecdote": "The origin of the gladiatorial fighting is found in southern Italy, where the fight in arms was intended to honor a dead person."
+      },
+      {
+        "id": 23,
+        "question": "What type of gladiator is classically opposed to the ruler ?",
+        "propositions": [
+          "Provocator",
+          "Thrace",
+          "Mirmillon",
+          "Secutor"
+        ],
+        "réponse": "Secutor",
+        "anecdote": "The mirmillon, the first opponent of the cashier, had a big crest on the helmet that was too easily hanging on the net of the cashier."
+      },
+      {
+        "id": 24,
+        "question": "Which gladiator known as heavy is also called Gallic ?",
+        "propositions": [
+          "Parmatus",
+          "Sagittarius",
+          "Ocrea",
+          "Mirmillon"
+        ],
+        "réponse": "Mirmillon",
+        "anecdote": "Heavily equipped, the mirmillon is armed with his sword and protected by his scutum, his helmet, his ocrea and his leather manica."
+      },
+      {
+        "id": 25,
+        "question": "What type of gladiator usually started in the afternoons of fighting ?",
+        "propositions": [
+          "Provocator",
+          "Mirmillon",
+          "Statutory",
+          "Secutor"
+        ],
+        "réponse": "Provocator",
+        "anecdote": "Gladiators equipped with a provocator have the same armor and fight against an identically armed opponent."
+      },
+      {
+        "id": 26,
+        "question": "Which small-arm gladiator's main opponent is the mirmillon ?",
+        "propositions": [
+          "Venator",
+          "Thrace",
+          "Andabate",
+          "Hoplomaque"
+        ],
+        "réponse": "Thrace",
+        "anecdote": "Cicero's writings are the first documents to attest to the existence of Thracians, around the middle of the first century before our era."
+      },
+      {
+        "id": 27,
+        "question": "What mysterious gladiator would have been armed with a strangling lace ?",
+        "propositions": [
+          "Hoplomaque",
+          "Laquearius",
+          "Hasdrubal",
+          "Andabate"
+        ],
+        "réponse": "Laquearius",
+        "anecdote": "Vercingetorix was executed with a strangler lace in August 46 BC. J. - C., in the jails of Rome, then thrown in the sewers."
+      },
+      {
+        "id": 28,
+        "question": "Which gladiator possessed to fight a dagger and a short spear ?",
+        "propositions": [
+          "Hoplomaque",
+          "Thrace",
+          "Provocator",
+          "Mirmillon"
+        ],
+        "réponse": "Hoplomaque",
+        "anecdote": "The hoplomaque is, with Thrace, the only gladiator to wear two very high leggings instead of just one in the left leg."
+      },
+      {
+        "id": 29,
+        "question": "Who took in 326 by the statement of Béryte the first step against the gladiature ?",
+        "propositions": [
+          "Alexandre",
+          "Constantine I",
+          "Severe",
+          "Vespasian"
+        ],
+        "réponse": "Constantine I",
+        "anecdote": "By this measure, the emperor prescribed that criminals condemned to become gladiators be sent to work in the mines."
+      },
+      {
+        "id": 30,
+        "question": "What gladiator was fighting on horseback, blinded by a closed helmet ?",
+        "propositions": [
+          "Provocator",
+          "Hoplomaque",
+          "Statutory",
+          "Andabate"
+        ],
+        "réponse": "Andabate",
+        "anecdote": "Gladiators who lost their sight during a fight could become andabates to avoid being killed."
+      }
+    ]
+    },
+    "de": {
+      "débutant": [
+      {
+        "id": 1,
+        "question": "Das Wort Gladiator stammt von den lateinischen Gladiatoren, die von welchem Qualifikator übersetzt werden können.",
+        "propositions": [
+          "Sterbliche",
+          "Timer",
+          "Brief",
+          "Mutig"
+        ],
+        "réponse": "Brief",
+        "anecdote": "Im antiken Rom waren Gladiatoren professionelle Kämpfer, die in klar definierten Paaren aufeinanderprallten."
+      },
+      {
+        "id": 2,
+        "question": "In welchem riesigen öffentlichen Gebäude wurden Gladiatorenkämpfe allgemein organisiert ?",
+        "propositions": [
+          "Bedienen",
+          "Forum",
+          "Gallodrome",
+          "Amphitheater"
+        ],
+        "réponse": "Amphitheater",
+        "anecdote": "Im Gegensatz zu den Zirkussen und Theatern des antiken Griechenland sind die Amphitheater Monumente, die in der römischen Welt geboren wurden."
+      },
+      {
+        "id": 3,
+        "question": "In welcher verschütteten Stadt des Römischen Reiches befand sich eine Gladiatorenkaserne ?",
+        "propositions": [
+          "Goma",
+          "Saint-Pierre",
+          "Catania",
+          "Pompeji"
+        ],
+        "réponse": "Pompeji",
+        "anecdote": "Es war von der Kaserne aus, die die Prozession der Gladiatoren und der Tiere begann, die kämpfen sollten."
+      },
+      {
+        "id": 4,
+        "question": "Welcher Händler war auch Trainer und Besitzer von Gladiatoren ?",
+        "propositions": [
+          "Gargotier",
+          "Dampfgarer",
+          "Modiste",
+          "Laniste"
+        ],
+        "réponse": "Laniste",
+        "anecdote": "Der berühmte Cnaeus Lentulus Batiatus besaß einen Ludus in Capua, aus dem Spartacus und seine Gefährten flüchteten."
+      },
+      {
+        "id": 5,
+        "question": "Welcher Laniste war der Besitzer der Gladiatorenschule in Capua ?",
+        "propositions": [
+          "Titus",
+          "Caius",
+          "Scarpus",
+          "Batiatus"
+        ],
+        "réponse": "Batiatus",
+        "anecdote": "Die Schule in Capua bestand hauptsächlich aus Thrakern (einschließlich Spartakus) und Gallier (einschließlich Crixus)."
+      },
+      {
+        "id": 6,
+        "question": "Wer ist wahrscheinlich der beliebteste Gladiator aus Thrakien ?",
+        "propositions": [
+          "Spartacus",
+          "Jugurtha",
+          "Ambiorix",
+          "Hasdrubal"
+        ],
+        "réponse": "Spartacus",
+        "anecdote": "Spartacus war der Hauptführer der Rebellen während des dritten Servilenkrieges in Italien zwischen 73 und 71 v."
+      },
+      {
+        "id": 7,
+        "question": "Wie signalisiert ein Gladiator, dass er den Kampf nicht fortsetzen kann ?",
+        "propositions": [
+          "Er nimmt seinen Helm ab",
+          "Er hebt den Finger",
+          "Er schreit",
+          "Er wirft sein Schwert"
+        ],
+        "réponse": "Er hebt den Finger",
+        "anecdote": "Wenn der Kampf zu lange dauert, kann der Redakteur verlangen, dass die Gladiatoren dann ohne Schild weiter kämpfen."
+      },
+      {
+        "id": 8,
+        "question": "Welches Gemälde von Jean-Léon Gérôme repräsentiert eine romantische Vision der Gladiatur ?",
+        "propositions": [
+          "den Zoll hinunter",
+          "Korinth",
+          "Leo Nominor",
+          "Der Totentanz"
+        ],
+        "réponse": "den Zoll hinunter",
+        "anecdote": "Als Ridley Scott ein Exemplar dieses in den USA ausgestellten Gemäldes sah, plante er einen prickelnden Gladiator »."
+      },
+      {
+        "id": 9,
+        "question": "Welches Jahr vor Christus datiert der älteste Gladiatorenkampf, der in den Texten erwähnt wird ?",
+        "propositions": [
+          "327",
+          "148",
+          "432",
+          "264"
+        ],
+        "réponse": "264",
+        "anecdote": "Dieser Kampf wurde schnell von vielen anderen gefolgt, und so wurden die Spiele 105 v. Chr. Öffentlich."
+      },
+      {
+        "id": 10,
+        "question": "Welcher dieser berühmten gallischen Gladiatoren gehörte zu Lentulus Batiatus ?",
+        "propositions": [
+          "Crixus",
+          "Dessalines",
+          "Amador",
+          "Gannicus"
+        ],
+        "réponse": "Crixus",
+        "anecdote": "Auf der Seite von Spartacus war Crixus einer der Anführer der Sklavenaufstände, die zum Dritten Servile-Krieg führten."
+      }
+    ],
+    "confirmé": [
+      {
+        "id": 11,
+        "question": "Wie heißt der dritte Sklavenaufstand gegen die römische Republik ?",
+        "propositions": [
+          "Krieg von Auguste",
+          "Thrace War",
+          "Krieg des Herkules",
+          "Spartakuskrieg"
+        ],
+        "réponse": "Spartakuskrieg",
+        "anecdote": "Obwohl der Krieg von Spartacus historisch nicht wahrnehmbar ist, waren seine historischen Auswirkungen beträchtlich."
+      },
+      {
+        "id": 12,
+        "question": "Welcher Gladiator kämpfte mit Ausrüstung, von denen einige einen Fischer anrufen ?",
+        "propositions": [
+          "Samnite",
+          "Secutor",
+          "Gesetzliche",
+          "Venator"
+        ],
+        "réponse": "Gesetzliche",
+        "anecdote": "Der mangelnde Schutz und die Anwendung von Ausweichmanövern haben das niedrigste und verzweifelteste Stück des Eigentums gemacht."
+      },
+      {
+        "id": 13,
+        "question": "Welcher römische Kaiser hat unter seiner Regierung nicht weniger als 10.000 Gladiatoren begangen ?",
+        "propositions": [
+          "Marc Aurèle",
+          "Hadrian",
+          "Auguste",
+          "Titus"
+        ],
+        "réponse": "Auguste",
+        "anecdote": "Mit der Regierungszeit von Augustus, geborener Caius Octavius, begann für das Reich eine Periode der Stabilität, die als « Pax Romana » bekannt ist."
+      },
+      {
+        "id": 14,
+        "question": "Was war die größte Gladiatorenkaserne in Rom, in der Nähe des Kolosseums ?",
+        "propositions": [
+          "Piscarium Forum",
+          "Villa Publica",
+          "Ludus Magnus",
+          "Divorum"
+        ],
+        "réponse": "Ludus Magnus",
+        "anecdote": "Es war eine von vier Kasernen, die Domitian neben Ludus Gallicus, Ludus Matutinus und Ludus Dacicus errichtete."
+      },
+      {
+        "id": 15,
+        "question": "Wie viele Arten von Gladiatoren machen die Mehrheit des ikonographischen Korpus aus ?",
+        "propositions": [
+          "Zehn",
+          "Acht",
+          "Sechs",
+          "Zwölf"
+        ],
+        "réponse": "Sechs",
+        "anecdote": "Einige Autoren glauben, dass die Laniste zu einem bestimmten Zeitpunkt die Bedürfnisse der Schule, aber auch die körperlichen Fähigkeiten berücksichtigt hat."
+      },
+      {
+        "id": 16,
+        "question": "Welche Befreiung haben die Gladiatoren von ihrer Kampfpflicht befreit ?",
+        "propositions": [
+          "Amnestie",
+          "Porto",
+          "Sursis",
+          "Verleumdung"
+        ],
+        "réponse": "Porto",
+        "anecdote": "Diese Befreiung wurde begleitet von der symbolischen Gewährung eines bestimmten Zauberstabes, der es ihnen ermöglichte, bemerkenswert zu werden."
+      },
+      {
+        "id": 17,
+        "question": "Was waren die Gladiatoren, um den Sieg zu gewährleisten ?",
+        "propositions": [
+          "Silber",
+          "Droge",
+          "Betrug",
+          "Magie"
+        ],
+        "réponse": "Magie",
+        "anecdote": "Eine Übung bestand darin, flüchtige Texte auf gewickelte Bleiglatten zu gravieren und sie dann zu begraben."
+      },
+      {
+        "id": 18,
+        "question": "Zu wessen Ehren gab Julius Cäsar Gladiatorenkämpfe ?",
+        "propositions": [
+          "Carla",
+          "Maria",
+          "Julia",
+          "Sophia"
+        ],
+        "réponse": "Julia",
+        "anecdote": "Diese zu Ehren seiner Tochter Julia organisierten Begräbnisspiele fehlten jedoch nicht an politischen Hintergründen."
+      },
+      {
+        "id": 19,
+        "question": "In welchem Jahr konnten wir die jüngsten Gladiatorenkämpfe in Rom miterleben ?",
+        "propositions": [
+          "844",
+          "632",
+          "418",
+          "229"
+        ],
+        "réponse": "418",
+        "anecdote": "Bereits im Jahr 404 hatte Kaiser Honorius Gladiatorenkämpfe nach einer großen Schlägerei im Kolosseum verboten."
+      },
+      {
+        "id": 20,
+        "question": "Welche Farbe hatte die Schiedsrichter-Tunika der Gladiatorenkämpfe ?",
+        "propositions": [
+          "Rot",
+          "Blanche",
+          "Blau",
+          "Schwarz"
+        ],
+        "réponse": "Blanche",
+        "anecdote": "Die hoch kodifizierten Kämpfe folgten einer Regel, die vom Schiedsrichter (summa rudis) und seiner zweiten (secunda rudis) aufgestellt wurde."
+      }
+    ],
+    "expert": [
+      {
+        "id": 21,
+        "question": "Welcher Gott der Kämpfer wurde oft von Gladiatoren angerufen ?",
+        "propositions": [
+          "Pan",
+          "Herkules",
+          "Apollon",
+          "Perseus"
+        ],
+        "réponse": "Herkules",
+        "anecdote": "Der Herkules der Römer wird in den Geschichten, in denen er auftritt, manchmal als weniger gewalttätig dargestellt als sein griechisches Alter Ego."
+      },
+      {
+        "id": 22,
+        "question": "Wie war die Kategorie, zu der die Gladiatoren gehörten ?",
+        "propositions": [
+          "Andala",
+          "Guerilla",
+          "Batiata",
+          "Armatura"
+        ],
+        "réponse": "Armatura",
+        "anecdote": "Der Ursprung der Gladiatorenkämpfe liegt in Süditalien, wo der Kampf in Waffen einen Toten ehren sollte."
+      },
+      {
+        "id": 23,
+        "question": "Welche Art von Gladiator ist dem Herrscher klassisch entgegengesetzt ?",
+        "propositions": [
+          "Provokator",
+          "Secutor",
+          "Mirmillon",
+          "Thrace"
+        ],
+        "réponse": "Secutor",
+        "anecdote": "Das Mirmillon, der erste Gegner des Kassierers, hatte einen großen Wappen auf dem Helm, der zu leicht am Netz des Kassierers hing."
+      },
+      {
+        "id": 24,
+        "question": "Welcher Gladiator, der als schwer bekannt ist, wird auch gallisch genannt ?",
+        "propositions": [
+          "Ocrea",
+          "Parmatus",
+          "Schütze",
+          "Mirmillon"
+        ],
+        "réponse": "Mirmillon",
+        "anecdote": "Das schwer ausgerüstete Mirmillon ist mit seinem Schwert bewaffnet und wird von Scutum, Helm, Orea und Ledermanica geschützt."
+      },
+      {
+        "id": 25,
+        "question": "Welche Art von Gladiator begann normalerweise nach dem Kampf ?",
+        "propositions": [
+          "Gesetzliche",
+          "Mirmillon",
+          "Provokator",
+          "Secutor"
+        ],
+        "réponse": "Provokator",
+        "anecdote": "Gladiatoren, die mit einem Provokator ausgerüstet sind, haben die gleiche Rüstung und kämpfen gegen einen gleichbewaffneten Gegner."
+      },
+      {
+        "id": 26,
+        "question": "Welcher Gladiator des Gladiators ist das Mirmillon ?",
+        "propositions": [
+          "Thrace",
+          "Hoplomaque",
+          "Andabate",
+          "Venator"
+        ],
+        "réponse": "Thrace",
+        "anecdote": "Ciceros Schriften sind die ersten Dokumente, die die Existenz der Thraker um die Mitte des ersten Jahrhunderts vor unserer Ära belegen."
+      },
+      {
+        "id": 27,
+        "question": "Welcher mysteriöse Gladiator wäre mit einer erwürgenden Spitze bewaffnet worden ?",
+        "propositions": [
+          "Laquearius",
+          "Andabate",
+          "Hoplomaque",
+          "Hasdrubal"
+        ],
+        "réponse": "Laquearius",
+        "anecdote": "Vercingetorix wurde im August 46 v. Chr. Mit Strangler-Spitze ausgeführt. J. - C., in den Gefängnissen Roms, dann in die Kanalisation geworfen."
+      },
+      {
+        "id": 28,
+        "question": "Welcher Gladiator musste gegen einen Dolch und einen kurzen Speer kämpfen ?",
+        "propositions": [
+          "Thrace",
+          "Provokator",
+          "Hoplomaque",
+          "Mirmillon"
+        ],
+        "réponse": "Hoplomaque",
+        "anecdote": "Das Hoplomaque ist mit Thrace der einzige Gladiator, der zwei sehr hohe Leggings trägt, anstatt nur eine im linken Bein."
+      },
+      {
+        "id": 29,
+        "question": "Wer hat 326 mit der Erklärung von Béryte den ersten Schritt gegen die Gladiatur unternommen ?",
+        "propositions": [
+          "Vespasian",
+          "Alexandre",
+          "Konstantin I",
+          "Schwere"
+        ],
+        "réponse": "Konstantin I",
+        "anecdote": "Durch diese Maßnahme hat der Kaiser vorgeschrieben, dass Straftäter, die zu Gladiatoren wurden, in die Minen geschickt werden sollen."
+      },
+      {
+        "id": 30,
+        "question": "Welcher Gladiator kämpfte zu Pferd, geblendet von einem geschlossenen Helm ?",
+        "propositions": [
+          "Andabate",
+          "Hoplomaque",
+          "Gesetzliche",
+          "Provokator"
+        ],
+        "réponse": "Andabate",
+        "anecdote": "Gladiatoren, die während eines Kampfes ihr Augenlicht verloren haben, könnten sich zu Töchtern entwickeln, um nicht getötet zu werden."
+      }
+    ]
+    },
+    "es": {
+      "débutant": [
+      {
+        "id": 1,
+        "question": "La palabra gladiador proviene del latín gladiatores, que puede traducirse por qué calificador ?",
+        "propositions": [
+          "Temporizador",
+          "Valiente",
+          "Epístola",
+          "Mortal"
+        ],
+        "réponse": "Epístola",
+        "anecdote": "En la antigua Roma, los gladiadores eran luchadores profesionales que se enfrentaron en parejas bien definidas."
+      },
+      {
+        "id": 2,
+        "question": "¿En qué vasto edificio público se organizaron generalmente las luchas de gladiadores ?",
+        "propositions": [
+          "Galódromo",
+          "Foro",
+          "Operar",
+          "Anfiteatro"
+        ],
+        "réponse": "Anfiteatro",
+        "anecdote": "A diferencia de los circos y teatros de la antigua Grecia, los anfiteatros son monumentos nacidos en el mundo romano."
+      },
+      {
+        "id": 3,
+        "question": "¿En qué ciudad enterrada del Imperio Romano había un cuartel de gladiadores ?",
+        "propositions": [
+          "Catania",
+          "Goma",
+          "Pompeya",
+          "Saint-Pierre"
+        ],
+        "réponse": "Pompeya",
+        "anecdote": "Fue desde el cuartel que comenzó la procesión de gladiadores y animales que iban a luchar."
+      },
+      {
+        "id": 4,
+        "question": "¿Qué comerciante también fue entrenador y dueño de gladiadores ?",
+        "propositions": [
+          "Gargotier",
+          "Vapor",
+          "Laniste",
+          "Modiste"
+        ],
+        "réponse": "Laniste",
+        "anecdote": "El famoso Cneo Lentulus Batiatus poseía un ludus en Capua, de donde escaparon Espartaco y sus compañeros."
+      },
+      {
+        "id": 5,
+        "question": "¿Qué laniste era el dueño de la escuela de gladiadores de Capua ?",
+        "propositions": [
+          "Tito",
+          "Batiatus",
+          "Scarpus",
+          "Caius"
+        ],
+        "réponse": "Batiatus",
+        "anecdote": "La escuela en Capua estaba compuesta principalmente de tracios (incluyendo Spartacus) y galos (incluyendo Crixus)."
+      },
+      {
+        "id": 6,
+        "question": "¿Quién es probablemente el más popular de los gladiadores tracios ?",
+        "propositions": [
+          "Jugurtha",
+          "Hasdrubal",
+          "Ambiorix",
+          "Espartaco"
+        ],
+        "réponse": "Espartaco",
+        "anecdote": "Espartaco fue el principal líder de los rebeldes durante la Tercera Guerra Servil en Italia entre el 73 y el 71 a. C."
+      },
+      {
+        "id": 7,
+        "question": "¿Cómo señala un Gladiador que no puede continuar la lucha ?",
+        "propositions": [
+          "El grita",
+          "Se quita el casco",
+          "Arroja su espada",
+          "Levanta el dedo"
+        ],
+        "réponse": "Levanta el dedo",
+        "anecdote": "Si la lucha dura demasiado tiempo, el editor puede exigir que los gladiadores continúen luchando sin un escudo."
+      },
+      {
+        "id": 8,
+        "question": "¿Qué pintura de Jean-Léon Gérôme representa una visión romántica de la gladiador ?",
+        "propositions": [
+          "La danza de la muerte",
+          "Corinto",
+          "Abajo de las pulgadas",
+          "Leo Nominor"
+        ],
+        "réponse": "Abajo de las pulgadas",
+        "anecdote": "Fue al ver una copia de esta pintura expuesta en los Estados Unidos que Ridley Scott planeó hacer un regordete, « Gladiator »."
+      },
+      {
+        "id": 9,
+        "question": "¿Qué año antes de Cristo data el combate de gladiadores más antiguo mencionado en los textos ?",
+        "propositions": [
+          "264",
+          "432",
+          "327",
+          "148"
+        ],
+        "réponse": "264",
+        "anecdote": "Esta pelea fue seguida rápidamente por muchos otros y fue así, en el 105 aC, que los juegos se hicieron públicos."
+      },
+      {
+        "id": 10,
+        "question": "¿Cuál de estos famosos gladiadores galos pertenecía al Lentulus Batiatus ?",
+        "propositions": [
+          "Gannicus",
+          "Crixus",
+          "Dessalines",
+          "Amador"
+        ],
+        "réponse": "Crixus",
+        "anecdote": "Del lado de Espartaco, Crixus fue uno de los líderes de la rebelión de esclavos que condujo a la Tercera Guerra de los Serviles."
+      }
+    ],
+    "confirmé": [
+      {
+        "id": 11,
+        "question": "¿Cuál es el nombre de la tercera rebelión de esclavos contra la República romana ?",
+        "propositions": [
+          "Guerra de Hércules",
+          "Guerra de Auguste",
+          "Guerra de Tracia",
+          "Guerra de espartaco"
+        ],
+        "réponse": "Guerra de espartaco",
+        "anecdote": "Aunque la guerra de Espartaco no es históricamente notable, sus impactos históricos han sido considerables."
+      },
+      {
+        "id": 12,
+        "question": "¿Qué gladiador luchaba con el equipo, algunos de los cuales están llamando a un pescador ?",
+        "propositions": [
+          "Estatutario",
+          "Venator",
+          "Secutor",
+          "Samnita"
+        ],
+        "réponse": "Estatutario",
+        "anecdote": "La falta de protección y el uso de tácticas de evasión han hecho la parte más baja y desesperada de la propiedad."
+      },
+      {
+        "id": 13,
+        "question": "¿Qué emperador romano cometió bajo su reinado nada menos que 10,000 gladiadores ?",
+        "propositions": [
+          "Tito",
+          "Marc Aurèle",
+          "Adriano",
+          "Auguste"
+        ],
+        "réponse": "Auguste",
+        "anecdote": "Con el reinado de Augusto, nacido Cayo Octavio, comenzó para el Imperio un período de estabilidad conocido como « Pax Romana »."
+      },
+      {
+        "id": 14,
+        "question": "¿Cuál fue el principal cuartel de gladiadores en Roma, ubicado cerca del Coliseo ?",
+        "propositions": [
+          "Divorum",
+          "Ludus Magnus",
+          "Foro Piscarium",
+          "Villa Publica"
+        ],
+        "réponse": "Ludus Magnus",
+        "anecdote": "Fue uno de los cuatro cuarteles construidos por Domiciano, además de Ludus Gallicus, Ludus Matutinus y Ludus Dacicus."
+      },
+      {
+        "id": 15,
+        "question": "¿Cuántos tipos de gladiadores conforman la mayoría del cuerpo iconográfico ?",
+        "propositions": [
+          "Seis",
+          "Doce",
+          "Diez",
+          "Ocho"
+        ],
+        "réponse": "Seis",
+        "anecdote": "Algunos autores creen que la lanista, en un momento dado, tuvo en cuenta las necesidades de la escuela, pero también las aptitudes físicas."
+      },
+      {
+        "id": 16,
+        "question": "¿Qué liberación liberaron los gladiadores de su obligación de luchar ?",
+        "propositions": [
+          "Amnistia",
+          "Sursis",
+          "Franqueo",
+          "Calumnia"
+        ],
+        "réponse": "Franqueo",
+        "anecdote": "Esta liberación fue acompañada por el otorgamiento simbólico de una varita específica que les permite ser notables."
+      },
+      {
+        "id": 17,
+        "question": "Para asegurar la victoria, ¿qué usaban los gladiadores con frecuencia ?",
+        "propositions": [
+          "Droga",
+          "Plata",
+          "Magia",
+          "Hacer trampa"
+        ],
+        "réponse": "Magia",
+        "anecdote": "Una práctica era grabar textos superficiales en listones enrollados de plomo y luego enterrarlos."
+      },
+      {
+        "id": 18,
+        "question": "¿En qué honor dio Julio César peleas de gladiadores ?",
+        "propositions": [
+          "Julia",
+          "Maria",
+          "Carla",
+          "Sophia"
+        ],
+        "réponse": "Julia",
+        "anecdote": "Sin embargo, estos juegos funerarios organizados en honor a su hija Julia no carecían de fondos políticos."
+      },
+      {
+        "id": 19,
+        "question": "¿En qué año pudimos presenciar las últimas batallas de gladiadores en Roma ?",
+        "propositions": [
+          "632",
+          "229",
+          "418",
+          "844"
+        ],
+        "réponse": "418",
+        "anecdote": "En 404, el emperador Honorio ya había prohibido las peleas de gladiadores luego de una gran pelea en el Coliseo."
+      },
+      {
+        "id": 20,
+        "question": "¿De qué color era la túnica de árbitros de las luchas de gladiadores ?",
+        "propositions": [
+          "Blanche",
+          "Azul",
+          "Rojo",
+          "Negro"
+        ],
+        "réponse": "Blanche",
+        "anecdote": "Las peleas altamente codificadas siguieron una regla adelantada por el árbitro del juego (summa rudis) y su segunda (secunda rudis)."
+      }
+    ],
+    "expert": [
+      {
+        "id": 21,
+        "question": "¿Qué dios de los luchadores fue invocado a menudo por los gladiadores ?",
+        "propositions": [
+          "Perseo",
+          "Hércules",
+          "Sartén",
+          "Apollon"
+        ],
+        "réponse": "Hércules",
+        "anecdote": "El Hércules de los romanos se representa a veces como menos violento que su alter ego griego en las historias en que ocurre."
+      },
+      {
+        "id": 22,
+        "question": "¿Cómo fue la categoría a la que pertenecían los gladiadores ?",
+        "propositions": [
+          "Guerrilla",
+          "Batiata",
+          "Andala",
+          "Armatura"
+        ],
+        "réponse": "Armatura",
+        "anecdote": "El origen de la lucha de gladiadores se encuentra en el sur de Italia, donde la lucha en armas tenía la intención de honrar a una persona muerta."
+      },
+      {
+        "id": 23,
+        "question": "¿Qué tipo de gladiador es clásicamente opuesto a la regla ?",
+        "propositions": [
+          "Mirmillon",
+          "Secutor",
+          "Provocador",
+          "Tracia"
+        ],
+        "réponse": "Secutor",
+        "anecdote": "El mirmillon, el primer oponente del cajero, tenía una gran cresta en el casco que colgaba con demasiada facilidad en la red del cajero."
+      },
+      {
+        "id": 24,
+        "question": "¿Qué gladiador conocido como pesado también se llama galo ?",
+        "propositions": [
+          "Parmatus",
+          "Mirmillon",
+          "Sagitario",
+          "Ocrea"
+        ],
+        "réponse": "Mirmillon",
+        "anecdote": "Muy bien equipado, el mirmillon está armado con su espada y protegido por su escudete, su casco, su ocrea y su manica de cuero."
+      },
+      {
+        "id": 25,
+        "question": "¿Qué tipo de gladiador usualmente comenzaba en las tardes de lucha ?",
+        "propositions": [
+          "Secutor",
+          "Provocador",
+          "Estatutario",
+          "Mirmillon"
+        ],
+        "réponse": "Provocador",
+        "anecdote": "Los gladiadores equipados con un provocador tienen la misma armadura y luchan contra un oponente idénticamente armado."
+      },
+      {
+        "id": 26,
+        "question": "¿Qué oponente principal de gladiador de brazo pequeño es el mirmillon ?",
+        "propositions": [
+          "Venator",
+          "Tracia",
+          "Hoplomaque",
+          "Andabate"
+        ],
+        "réponse": "Tracia",
+        "anecdote": "Los escritos de Cicerón son los primeros documentos que atestiguan la existencia de los tracios, a mediados del primer siglo antes de nuestra era."
+      },
+      {
+        "id": 27,
+        "question": "¿Qué misterioso gladiador habría sido armado con un encaje de estrangulamiento ?",
+        "propositions": [
+          "Laquearius",
+          "Andabate",
+          "Hasdrubal",
+          "Hoplomaque"
+        ],
+        "réponse": "Laquearius",
+        "anecdote": "Vercingetorix fue ejecutado con un encaje de estrangulador en agosto del 46 aC. J. - C., en las cárceles de Roma, luego arrojadas a las alcantarillas."
+      },
+      {
+        "id": 28,
+        "question": "¿Qué gladiador poseía para luchar contra una daga y una lanza corta ?",
+        "propositions": [
+          "Tracia",
+          "Hoplomaque",
+          "Provocador",
+          "Mirmillon"
+        ],
+        "réponse": "Hoplomaque",
+        "anecdote": "El hoplomaque es, con Thrace, el único gladiador que lleva dos leggings muy altos en lugar de solo uno en la pierna izquierda."
+      },
+      {
+        "id": 29,
+        "question": "¿Quién tomó en 326 la declaración de Béryte como primer paso contra la gladiatura ?",
+        "propositions": [
+          "Severo",
+          "Alexandre",
+          "Constantino I",
+          "Vespasian"
+        ],
+        "réponse": "Constantino I",
+        "anecdote": "Según esta medida, el emperador prescribió que los delincuentes condenados a convertirse en gladiadores fueran enviados a trabajar en las minas."
+      },
+      {
+        "id": 30,
+        "question": "¿Qué gladiador luchaba a caballo, cegado por un casco cerrado ?",
+        "propositions": [
+          "Estatutario",
+          "Andabate",
+          "Hoplomaque",
+          "Provocador"
+        ],
+        "réponse": "Andabate",
+        "anecdote": "Los gladiadores que perdieron la vista durante una pelea podrían volverse andabatos para evitar ser asesinados."
+      }
+    ]
+    },
+    "it": {
+      "débutant": [
+      {
+        "id": 1,
+        "question": "La parola gladiatore deriva dai gladiatori latini, che possono essere tradotti in base a quale qualificatore ?",
+        "propositions": [
+          "Mortale",
+          "Timer",
+          "Epistola",
+          "Coraggioso"
+        ],
+        "réponse": "Epistola",
+        "anecdote": "Nell'antica Roma, i gladiatori erano combattenti professionisti che si scontrarono in coppie ben definite."
+      },
+      {
+        "id": 2,
+        "question": "In quale vasto edificio pubblico erano organizzati i combattimenti dei gladiatori ?",
+        "propositions": [
+          "Gallodrome",
+          "Forum",
+          "Anfiteatro",
+          "Operare"
+        ],
+        "réponse": "Anfiteatro",
+        "anecdote": "A differenza dei circhi e dei teatri dell'antica Grecia, gli anfiteatri sono monumenti nati nel mondo romano."
+      },
+      {
+        "id": 3,
+        "question": "In quale città sepolta dell'Impero Romano c'era una caserma dei gladiatori ?",
+        "propositions": [
+          "Goma",
+          "Saint-Pierre",
+          "Catania",
+          "Pompei"
+        ],
+        "réponse": "Pompei",
+        "anecdote": "Fu dalla caserma che iniziò la processione di gladiatori e animali che stavano per combattere."
+      },
+      {
+        "id": 4,
+        "question": "Quale concessionario era anche un allenatore e proprietario di gladiatori ?",
+        "propositions": [
+          "Laniste",
+          "Gargotier",
+          "Modiste",
+          "Steamer"
+        ],
+        "réponse": "Laniste",
+        "anecdote": "Il famoso Cèeus Lentulus Batiatus possedeva un ludus a Capua, da cui Spartacus e i suoi compagni fuggirono."
+      },
+      {
+        "id": 5,
+        "question": "Quale direttrice era la proprietaria della scuola di gladiatori di Capua ?",
+        "propositions": [
+          "Batiato",
+          "Scarpus",
+          "Caius",
+          "Titus"
+        ],
+        "réponse": "Batiato",
+        "anecdote": "La scuola di Capua era composta principalmente da Traci (inclusi Spartacus) e Galli (incluso Crixus)."
+      },
+      {
+        "id": 6,
+        "question": "Chi è probabilmente il più popolare dei gladiatori traci ?",
+        "propositions": [
+          "Ambiorix",
+          "Asdrubale",
+          "Spartacus",
+          "Jugurtha"
+        ],
+        "réponse": "Spartacus",
+        "anecdote": "Spartacus fu il principale leader dei ribelli durante la Terza Guerra Servile in Italia tra il 73 e il 71 a.C."
+      },
+      {
+        "id": 7,
+        "question": "Come fa un Gladiatore a segnalare che non può continuare il combattimento ?",
+        "propositions": [
+          "Lui urla",
+          "Getta la sua spada",
+          "Si toglie il casco",
+          "Alza il dito"
+        ],
+        "réponse": "Alza il dito",
+        "anecdote": "Se il combattimento dura troppo a lungo, l'editore può chiedere che i gladiatori continuino a combattere senza uno scudo."
+      },
+      {
+        "id": 8,
+        "question": "Quale dipinto di Jean-Léon Gérôme rappresenta una visione romantica della gladiatura ?",
+        "propositions": [
+          "Corinto",
+          "Giù i pollici",
+          "The Dance of Death",
+          "Nominale Leo"
+        ],
+        "réponse": "Giù i pollici",
+        "anecdote": "Era quando vedeva una copia di questo dipinto esibito negli Stati Uniti che Ridley Scott progettava di fare un paffuto, « Gladiatore »."
+      },
+      {
+        "id": 9,
+        "question": "Quale anno prima di Cristo risale il più antico combattimento gladiatorio menzionato nei testi ?",
+        "propositions": [
+          "264",
+          "148",
+          "327",
+          "432"
+        ],
+        "réponse": "264",
+        "anecdote": "Questo scontro fu presto seguito da molti altri e fu così, nel 105 aC, che i giochi divennero pubblici."
+      },
+      {
+        "id": 10,
+        "question": "Quale di questi famosi gladiatori gallici apparteneva a Lentulus Batiatus ?",
+        "propositions": [
+          "Crixus",
+          "Dessaline",
+          "Amador",
+          "Gannicus"
+        ],
+        "réponse": "Crixus",
+        "anecdote": "Dalla parte di Spartacus, Crixus fu uno dei leader della ribellione degli schiavi che portò alla Terza guerra servile."
+      }
+    ],
+    "confirmé": [
+      {
+        "id": 11,
+        "question": "Qual è il nome della terza ribellione degli schiavi contro la Repubblica romana ?",
+        "propositions": [
+          "Guerra d'Auguste",
+          "Tracia Guerra",
+          "Spartacus War",
+          "Guerra d'Ercole"
+        ],
+        "réponse": "Spartacus War",
+        "anecdote": "Sebbene la guerra di Spartacus non sia storicamente evidente, i suoi impatti storici sono stati considerevoli."
+      },
+      {
+        "id": 12,
+        "question": "Quale gladiatore stava combattendo con le attrezzature, alcune delle quali stanno chiamando un pescatore ?",
+        "propositions": [
+          "Venator",
+          "Statutario",
+          "Secutor",
+          "Sannita"
+        ],
+        "réponse": "Statutario",
+        "anecdote": "La mancanza di protezione e l'uso delle tattiche di evasione hanno reso la fetta di proprietà più bassa e più disperata."
+      },
+      {
+        "id": 13,
+        "question": "Quale imperatore romano commise sotto il suo regno non meno di 10.000 gladiatori ?",
+        "propositions": [
+          "Auguste",
+          "Titus",
+          "Marc Aurèle",
+          "Adriano"
+        ],
+        "réponse": "Auguste",
+        "anecdote": "Con il regno di Augusto, nato Caius Octavius, iniziò per l'Impero un periodo di stabilità noto come « Pax Romana »."
+      },
+      {
+        "id": 14,
+        "question": "Qual era la principale caserma dei gladiatori a Roma, situata vicino al Colosseo ?",
+        "propositions": [
+          "Divorum",
+          "Forum di Piscarium",
+          "Villa Publica",
+          "Ludus Magnus"
+        ],
+        "réponse": "Ludus Magnus",
+        "anecdote": "Era una delle quattro caserme costruite da Domiziano oltre a Ludus Gallicus, Ludus Matutinus e Ludus Dacicus."
+      },
+      {
+        "id": 15,
+        "question": "Quanti tipi di gladiatori costituiscono la maggior parte del corpus iconografico ?",
+        "propositions": [
+          "Dieci",
+          "Dodici",
+          "Otto",
+          "Sei"
+        ],
+        "réponse": "Sei",
+        "anecdote": "Alcuni autori credono che la lanista, a un certo punto, abbia preso in considerazione i bisogni della scuola ma anche le attitudini fisiche."
+      },
+      {
+        "id": 16,
+        "question": "Quale liberazione ha liberato i gladiatori dal loro obbligo di combattere ?",
+        "propositions": [
+          "Calunnia",
+          "Spedizione",
+          "Amnistia",
+          "Sursis"
+        ],
+        "réponse": "Spedizione",
+        "anecdote": "Questa liberazione fu accompagnata dalla concessione simbolica di una bacchetta specifica che li rese famosi."
+      },
+      {
+        "id": 17,
+        "question": "Per garantire la vittoria, cosa usavano spesso i gladiatori ?",
+        "propositions": [
+          "Argento",
+          "Barare",
+          "Droga",
+          "Magia"
+        ],
+        "réponse": "Magia",
+        "anecdote": "Una pratica consisteva nell'incisione di testi superficiali su stecche di piombo arrotolate e poi nel seppellirli."
+      },
+      {
+        "id": 18,
+        "question": "In quale onore Giulio Cesare ha combattuto i gladiatori ?",
+        "propositions": [
+          "Maria",
+          "Carla",
+          "Julia",
+          "Sophia"
+        ],
+        "réponse": "Julia",
+        "anecdote": "Questi giochi funebri organizzati in onore di sua figlia Giulia, tuttavia, non mancavano di fondali politici."
+      },
+      {
+        "id": 19,
+        "question": "In quale anno siamo stati in grado di assistere alle ultime battaglie gladiatorie a Roma ?",
+        "propositions": [
+          "632",
+          "229",
+          "418",
+          "844"
+        ],
+        "réponse": "418",
+        "anecdote": "Nel 404, l'imperatore Onorio aveva già bandito le lotte dei gladiatori in seguito a una grande rissa nel Colosseo."
+      },
+      {
+        "id": 20,
+        "question": "Qual era il colore della tunica arbitro delle lotte dei gladiatori ?",
+        "propositions": [
+          "Blu",
+          "Blanche",
+          "Rosso",
+          "Nero"
+        ],
+        "réponse": "Blanche",
+        "anecdote": "I combattimenti altamente codificati seguivano una regola avanzata dall'arbitro del gioco (summa rudis) e il suo secondo (secunda rudis)."
+      }
+    ],
+    "expert": [
+      {
+        "id": 21,
+        "question": "Quale dio dei combattenti veniva spesso invocato dai gladiatori ?",
+        "propositions": [
+          "Pan",
+          "Apollon",
+          "Ercole",
+          "Perseo"
+        ],
+        "réponse": "Ercole",
+        "anecdote": "L'Ercole dei Romani a volte è raffigurato come meno violento del suo alter ego greco nelle storie in cui si verifica."
+      },
+      {
+        "id": 22,
+        "question": "Com'era la categoria a cui appartenevano i gladiatori ?",
+        "propositions": [
+          "Andala",
+          "Guerriglia",
+          "Armatura",
+          "Batiata"
+        ],
+        "réponse": "Armatura",
+        "anecdote": "L'origine dei combattimenti tra gladiatori si trova nell'Italia meridionale, dove il combattimento in armi era destinato a onorare un morto."
+      },
+      {
+        "id": 23,
+        "question": "Che tipo di gladiatore si oppone classicamente al sovrano ?",
+        "propositions": [
+          "Provocatore",
+          "Secutor",
+          "Tracia",
+          "Mirmillon"
+        ],
+        "réponse": "Secutor",
+        "anecdote": "Il mirmillon, il primo avversario del cassiere, aveva una grossa cresta sul casco che era troppo facilmente appeso alla rete della cassiera."
+      },
+      {
+        "id": 24,
+        "question": "Quale gladiatore noto come pesante viene anche chiamato Gallico ?",
+        "propositions": [
+          "Ocrea",
+          "Mirmillon",
+          "Parmatus",
+          "Sagittario"
+        ],
+        "réponse": "Mirmillon",
+        "anecdote": "Molto equipaggiato, il mirmillon è armato con la sua spada e protetto dal suo scutum, dal suo elmetto, dalla sua ocra e dalla sua manica di cuoio."
+      },
+      {
+        "id": 25,
+        "question": "Che tipo di gladiatore di solito iniziava nei pomeriggi del combattimento ?",
+        "propositions": [
+          "Statutario",
+          "Secutor",
+          "Mirmillon",
+          "Provocatore"
+        ],
+        "réponse": "Provocatore",
+        "anecdote": "I gladiatori equipaggiati con un provocatore hanno la stessa armatura e combattono contro un avversario identico armato."
+      },
+      {
+        "id": 26,
+        "question": "Quale principale avversario del gladiatore a braccio piccolo è il mirmillon ?",
+        "propositions": [
+          "Venator",
+          "Andabate",
+          "Tracia",
+          "Hoplomaque"
+        ],
+        "réponse": "Tracia",
+        "anecdote": "Gli scritti di Cicerone sono i primi documenti a testimoniare l'esistenza dei traci, verso la metà del primo secolo prima della nostra era."
+      },
+      {
+        "id": 27,
+        "question": "Quale misterioso gladiatore sarebbe stato armato di un pizzo strangolante ?",
+        "propositions": [
+          "Asdrubale",
+          "Andabate",
+          "Laquearius",
+          "Hoplomaque"
+        ],
+        "réponse": "Laquearius",
+        "anecdote": "Vercingetorige fu giustiziato con un laccio da strangolatore nell'agosto del 46 a. J. - C., nelle prigioni di Roma, poi gettato nelle fogne."
+      },
+      {
+        "id": 28,
+        "question": "Quale gladiatore possedeva per combattere un pugnale e una lancia ?",
+        "propositions": [
+          "Hoplomaque",
+          "Mirmillon",
+          "Provocatore",
+          "Tracia"
+        ],
+        "réponse": "Hoplomaque",
+        "anecdote": "L'hoplomaque è, con Thrace, l'unico gladiatore che indossa due gambali molto alti invece di uno solo nella gamba sinistra."
+      },
+      {
+        "id": 29,
+        "question": "Chi ha preso in 326 dalla dichiarazione di Béryte il primo passo contro il gladiature ?",
+        "propositions": [
+          "Severe",
+          "Vespasiano",
+          "Alexandre",
+          "Costantino I"
+        ],
+        "réponse": "Costantino I",
+        "anecdote": "Con questa misura, l'imperatore prescrisse che i criminali condannati a diventare gladiatori venissero mandati a lavorare nelle miniere."
+      },
+      {
+        "id": 30,
+        "question": "Quale gladiatore stava combattendo a cavallo, accecato da un elmo chiuso ?",
+        "propositions": [
+          "Provocatore",
+          "Andabate",
+          "Statutario",
+          "Hoplomaque"
+        ],
+        "réponse": "Andabate",
+        "anecdote": "I gladiatori che hanno perso la vista durante un combattimento potrebbero diventare eabate per evitare di essere uccisi."
+      }
+    ]
+    },
+    "nl": {
+      "débutant": [
+      {
+        "id": 1,
+        "question": "Het woord gladiator komt van de latijnse gladiatores, wat kan worden vertaald door welke qualifier ?",
+        "propositions": [
+          "Epistle",
+          "Moedig",
+          "Mortal",
+          "Timer"
+        ],
+        "réponse": "Epistle",
+        "anecdote": "In het oude Rome waren gladiatoren professionele vechters die botsten in goed gedefinieerde paren."
+      },
+      {
+        "id": 2,
+        "question": "In welk groot openbaar gebouw waren gladiatorgevechten doorgaans georganiseerd ?",
+        "propositions": [
+          "Forum",
+          "Bedienen",
+          "Amphitheater",
+          "Gallodrome"
+        ],
+        "réponse": "Amphitheater",
+        "anecdote": "In tegenstelling tot de circussen en theaters in het oude Griekenland, zijn de amfitheaters monumenten in de Romeinse wereld."
+      },
+      {
+        "id": 3,
+        "question": "In welke begraven stad van het Romeinse rijk was er een gladiatorenbarak ?",
+        "propositions": [
+          "Catania",
+          "Pompeii",
+          "Goma",
+          "Saint-Pierre"
+        ],
+        "réponse": "Pompeii",
+        "anecdote": "Het was vanuit de barakken die de optocht van gladiatoren en dieren die gingen vechten."
+      },
+      {
+        "id": 4,
+        "question": "Welke dealer was ook een coach en eigenaar van gladiatoren ?",
+        "propositions": [
+          "Gargotier",
+          "Laniste",
+          "Modiste",
+          "Stoomboot"
+        ],
+        "réponse": "Laniste",
+        "anecdote": "De beroemde Cnaeus Lentulus Batiatus bezat een ludus in Capua, van waaruit Spartacus en zijn metgezellen ontsnapten."
+      },
+      {
+        "id": 5,
+        "question": "Welke laniste was de eigenaar van de gladiatorenschool van Capua ?",
+        "propositions": [
+          "Caius",
+          "Batiatus",
+          "Scarpus",
+          "Titus"
+        ],
+        "réponse": "Batiatus",
+        "anecdote": "De school in Capua bestond voornamelijk uit Thraciërs (inclusief Spartacus) en Galliërs (inclusief Crixus)."
+      },
+      {
+        "id": 6,
+        "question": "Wie is waarschijnlijk de meest populaire van Thracische gladiatoren ?",
+        "propositions": [
+          "Ambiorix",
+          "Hasdrubal",
+          "Jugurtha",
+          "Spartacus"
+        ],
+        "réponse": "Spartacus",
+        "anecdote": "Spartacus was de belangrijkste leider van de rebellen tijdens de Derde Serviele Oorlog in Italië tussen 73 en 71 v.Chr."
+      },
+      {
+        "id": 7,
+        "question": "Hoe geeft een Gladiator aan dat hij het gevecht niet kan voortzetten ?",
+        "propositions": [
+          "Hij gilt",
+          "Hij heft zijn vinger op",
+          "Hij gooit zijn zwaard",
+          "Hij doet zijn helm af"
+        ],
+        "réponse": "Hij heft zijn vinger op",
+        "anecdote": "Als het gevecht te lang duurt, kan de redacteur eisen dat de gladiatoren blijven vechten zonder schild."
+      },
+      {
+        "id": 8,
+        "question": "Welk schilderij van Jean-Léon Gérôme vertegenwoordigt een romantische visie van gladiatuur ?",
+        "propositions": [
+          "Leo Nominor",
+          "The Dance of Death",
+          "Corinth",
+          "Beneden de centimeter"
+        ],
+        "réponse": "Beneden de centimeter",
+        "anecdote": "Toen hij een exemplaar van dit schilderij in de Verenigde Staten tentoonstelde, wilde Ridley Scott een voller, « Gladiator » maken."
+      },
+      {
+        "id": 9,
+        "question": "Welk jaar vóór Christus dateert het oudste gladiatorengevecht dat in de teksten wordt genoemd ?",
+        "propositions": [
+          "148",
+          "327",
+          "264",
+          "432"
+        ],
+        "réponse": "264",
+        "anecdote": "Dit gevecht werd snel gevolgd door vele anderen en het was dus in 105 voor Christus dat de spellen openbaar werden."
+      },
+      {
+        "id": 10,
+        "question": "Welke van deze beroemde Gallische gladiatoren was van Lentulus Batiatus ?",
+        "propositions": [
+          "Crixus",
+          "Dessalines",
+          "Amador",
+          "Gannicus"
+        ],
+        "réponse": "Crixus",
+        "anecdote": "Aan de zijde van Spartacus was Crixus een van de leiders van de slavenopstand die leidde tot de Derde Servile Oorlog."
+      }
+    ],
+    "confirmé": [
+      {
+        "id": 11,
+        "question": "Wat is de naam van de derde slavenopstand tegen de Romeinse Republiek ?",
+        "propositions": [
+          "Thrace War",
+          "Oorlog van Hercules",
+          "Spartacus War",
+          "Oorlog van Auguste"
+        ],
+        "réponse": "Spartacus War",
+        "anecdote": "Hoewel de oorlog van Spartacus niet historisch merkbaar is, zijn de historische gevolgen aanzienlijk geweest."
+      },
+      {
+        "id": 12,
+        "question": "Welke gladiator vocht met apparatuur, van wie sommigen een visser bellen ?",
+        "propositions": [
+          "Secutor",
+          "Wettelijk",
+          "Samnite",
+          "Venator"
+        ],
+        "réponse": "Wettelijk",
+        "anecdote": "Het gebrek aan bescherming en het gebruik van ontduikingstactieken hebben het laagste en meest wanhopige deel van bezit gemaakt."
+      },
+      {
+        "id": 13,
+        "question": "Wat Romeinse keizer ingelijfd onder zijn bewind niet minder dan 10.000 gladiatoren ?",
+        "propositions": [
+          "Hadrianus",
+          "Titus",
+          "Auguste",
+          "Marc Aurèle"
+        ],
+        "réponse": "Auguste",
+        "anecdote": "Met het bewind van Augustus, geboren Caius Octavius, begon voor het rijk een periode van stabiliteit die bekend staat als « Pax Romana »."
+      },
+      {
+        "id": 14,
+        "question": "Wat was de belangrijkste gladiatorenbarak in Rome, gelegen nabij het Colosseum ?",
+        "propositions": [
+          "Ludus Magnus",
+          "Divorum",
+          "Piscarium Forum",
+          "Villa Publica"
+        ],
+        "réponse": "Ludus Magnus",
+        "anecdote": "Het was een van de vier barakken die door Domitianus werden gebouwd naast Ludus Gallicus, Ludus Matutinus en Ludus Dacicus."
+      },
+      {
+        "id": 15,
+        "question": "Hoeveel soorten gladiatoren vormen het grootste deel van het iconografische corpus ?",
+        "propositions": [
+          "Acht",
+          "Tien",
+          "Zes",
+          "Twaalf"
+        ],
+        "réponse": "Zes",
+        "anecdote": "Sommige auteurs geloven dat de Lanist op een gegeven moment rekening heeft gehouden met de behoeften van de school, maar ook met de fysieke aanleg."
+      },
+      {
+        "id": 16,
+        "question": "Welke bevrijding hebben de gladiatoren bevrijd van hun verplichting om te vechten ?",
+        "propositions": [
+          "Amnesty",
+          "Laster",
+          "Verzendkosten",
+          "Sursis"
+        ],
+        "réponse": "Verzendkosten",
+        "anecdote": "Deze bevrijding ging gepaard met het symbolisch toekennen van een specifieke toverstok waardoor ze opmerkelijk konden worden."
+      },
+      {
+        "id": 17,
+        "question": "Om de overwinning te verzekeren, wat gebruikten de gladiatoren vaak ?",
+        "propositions": [
+          "Valsspelen",
+          "Zilver",
+          "Drug",
+          "Magie"
+        ],
+        "réponse": "Magie",
+        "anecdote": "Een praktijk was om vluchtige teksten op opgerolde loodlatten te graveren en ze vervolgens te begraven."
+      },
+      {
+        "id": 18,
+        "question": "In wiens eer gaf Julius Caesar gevechten met gladiatoren ?",
+        "propositions": [
+          "Maria",
+          "Julia",
+          "Sophia",
+          "Carla"
+        ],
+        "réponse": "Julia",
+        "anecdote": "Deze begrafenisspelen georganiseerd ter ere van zijn dochter Julia ontbraken echter geen politieke achtergronden."
+      },
+      {
+        "id": 19,
+        "question": "In welk jaar waren we in staat om de laatste gladiatorengevechten in Rome te zien ?",
+        "propositions": [
+          "418",
+          "229",
+          "632",
+          "844"
+        ],
+        "réponse": "418",
+        "anecdote": "In 404 had keizer Honorius gladiatorgevechten al verboden na een grote ruzie in het Colosseum."
+      },
+      {
+        "id": 20,
+        "question": "Wat was de kleur van de scheidsrechtersuniform van gladiatorengevechten ?",
+        "propositions": [
+          "Zwart",
+          "Blanche",
+          "Rood",
+          "Blauw"
+        ],
+        "réponse": "Blanche",
+        "anecdote": "De sterk gecodificeerde gevechten volgden een regel van de scheidsrechter van het spel (summa rudis) en zijn tweede (secunda rudis)."
+      }
+    ],
+    "expert": [
+      {
+        "id": 21,
+        "question": "Welke god van de jagers werd vaak aangeroepen door gladiatoren ?",
+        "propositions": [
+          "Pan",
+          "Hercules",
+          "Apollon",
+          "Perseus"
+        ],
+        "réponse": "Hercules",
+        "anecdote": "De Hercules van de Romeinen wordt soms afgeschilderd als minder gewelddadig dan zijn Griekse alter ego in de verhalen waarin het voorkomt."
+      },
+      {
+        "id": 22,
+        "question": "Hoe was de categorie waartoe de gladiatoren behoorden ?",
+        "propositions": [
+          "Guerilla",
+          "Armatura",
+          "Batiata",
+          "Andala"
+        ],
+        "réponse": "Armatura",
+        "anecdote": "De oorsprong van de gladiatorengevechten wordt gevonden in Zuid-Italië, waar het strijdgeweer bedoeld was om een dode te eren."
+      },
+      {
+        "id": 23,
+        "question": "Welk type gladiator is klassiek gekant tegen de heerser ?",
+        "propositions": [
+          "Mirmillon",
+          "Thrace",
+          "Provocator",
+          "Secutor"
+        ],
+        "réponse": "Secutor",
+        "anecdote": "De mirmillon, de eerste tegenstander van de kassier, had een grote kuif op de helm die te gemakkelijk op het net van de kassier hing."
+      },
+      {
+        "id": 24,
+        "question": "Welke gladiator die zwaar wordt genoemd, wordt ook Gallisch genoemd ?",
+        "propositions": [
+          "Parmatus",
+          "Boogschutter",
+          "Ocrea",
+          "Mirmillon"
+        ],
+        "réponse": "Mirmillon",
+        "anecdote": "Zwaar uitgerust, is de mirmillon gewapend met zijn zwaard en beschermd door zijn scutum, zijn helm, zijn ocrea en zijn leren manica."
+      },
+      {
+        "id": 25,
+        "question": "Welk type gladiator begon meestal in de middagen van vechten ?",
+        "propositions": [
+          "Mirmillon",
+          "Secutor",
+          "Provocator",
+          "Wettelijk"
+        ],
+        "réponse": "Provocator",
+        "anecdote": "Gladiatoren uitgerust met een provocator hebben hetzelfde harnas en vechten tegen een identiek bewapende tegenstander."
+      },
+      {
+        "id": 26,
+        "question": "Welke kleine tegenstander van de kleine gladiator is de mirmillon ?",
+        "propositions": [
+          "Andabate",
+          "Hoplomaque",
+          "Venator",
+          "Thrace"
+        ],
+        "réponse": "Thrace",
+        "anecdote": "Cicero's geschriften zijn de eerste documenten die getuigen van het bestaan  ? ?van Thraciërs, rond het midden van de eerste eeuw vóór onze jaartelling."
+      },
+      {
+        "id": 27,
+        "question": "Welke mysterieuze gladiator zou gewapend zijn met een wurgen kant ?",
+        "propositions": [
+          "Hasdrubal",
+          "Andabate",
+          "Laquearius",
+          "Hoplomaque"
+        ],
+        "réponse": "Laquearius",
+        "anecdote": "Vercingetorix werd in augustus 46 vC geëxecuteerd met een wurgend geweer. J. - C., in de gevangenissen van Rome, en vervolgens in de riolen gegooid."
+      },
+      {
+        "id": 28,
+        "question": "Welke gladiator bezat het om met een dolk en een korte speer te vechten ?",
+        "propositions": [
+          "Provocator",
+          "Hoplomaque",
+          "Thrace",
+          "Mirmillon"
+        ],
+        "réponse": "Hoplomaque",
+        "anecdote": "De hoplomaque is, met Thrace, de enige gladiator die twee zeer hoge beenkappen draagt  ? ?in plaats van slechts één in het linkerbeen."
+      },
+      {
+        "id": 29,
+        "question": "Wie nam in 326 door de verklaring van B ?ryte de eerste stap tegen de gladiatuur ?",
+        "propositions": [
+          "Alexandre",
+          "Ernstig",
+          "Vespasian",
+          "Constantijn I"
+        ],
+        "réponse": "Constantijn I",
+        "anecdote": "Door deze maatregel schreef de keizer voor dat misdadigers die waren veroordeeld om gladiatoren te worden, naar de mijnen werden gestuurd."
+      },
+      {
+        "id": 30,
+        "question": "Welke gladiator vocht te paard, verblind door een gesloten helm ?",
+        "propositions": [
+          "Hoplomaque",
+          "Wettelijk",
+          "Andabate",
+          "Provocator"
+        ],
+        "réponse": "Andabate",
+        "anecdote": "Gladiatoren die tijdens een gevecht hun gezichtsvermogen verloren, konden andabates worden om niet gedood te worden."
+      }
+    ]
+    }
+  }
+}

@@ -1,0 +1,1650 @@
+---
+fournisseur: OpenQuizzDB - Fournisseur de contenu libre (https://www.openquizzdb.org)
+rédacteur: Philippe Bresoux
+thème: Forêts de France (Il y a plus dans les forêts que dans les livres)
+difficulté: 5 / 5
+quizz:
+  fr:
+  - débutant:
+    - id: 1
+      question: Quelle forêt constitue un site emblématique de la Première Guerre mondiale ?
+      propositions:
+      - Forêt des Landes
+      - Forêt de Verdun
+      - Forêt du Gâvre
+      - Forêt de Paimpont
+      réponse: Forêt de Verdun
+      anecdote: Les anciennes parcelles agricoles furent interdites à cause des explosifs, munitions chimiques et munitions non explosées.
+    - id: 2
+      question: Quelle est par sa taille la troisième forêt domaniale de France métropolitaine ?
+      propositions:
+      - Tusson
+      - Cranou
+      - Creuse
+      - Compiègne
+      réponse: Compiègne
+      anecdote: De manière géométrique, le contour de la forêt forme un cercle de 14 km de diamètre et de 43 km de périmètre.
+    - id: 3
+      question: Quelle forêt française de 1 200 ha est située à l'est de Rennes ?
+      propositions:
+      - Forêt de Lorge
+      - Forêt de Ferrières
+      - Forêt de Chevré
+      - Forêt de Seillon
+      réponse: Forêt de Chevré
+      anecdote: Une partie de la forêt de Chevré constitue un ensemble protégé avec les forêts de Rennes, Liffré et de Saint-Aubin-du-Cormier.
+    - id: 4
+      question: Quelle forêt domaniale est la plus grande du département du Finistère ?
+      propositions:
+      - Forêt de Montfort
+      - Forêt de Grésigne
+      - Forêt du Cranou
+      - Forêt de Bonifatu
+      réponse: Forêt du Cranou
+      anecdote: La forêt du Cranou a été exploitée pour les besoins en bois de la marine royale à Brest via le port du Faou.
+    - id: 5
+      question: Quelle forêt a inspiré Victor Hugo pour sa ferme des Thénardier ?
+      propositions:
+      - Forêt de Bondy
+      - Forêt de Corsuet
+      - Forêt du Vercors
+      - Forêt de Cîteaux
+      réponse: Forêt de Bondy
+      anecdote: La forêt régionale de Bondy est un vestige de l'ancienne forêt de Bondy qui s'étendait sur une part importante du pays d'Aulnoye.
+    - id: 6
+      question: Le nom de quelle forêt proviendrait du vieux breton signifiant ogre ou géant ?
+      propositions:
+      - Forêt du Pertre
+      - Forêt de Brotonne
+      - Forêt de Saou
+      - Forêt du Gâvre
+      réponse: Forêt du Gâvre
+      anecdote: La forêt du Gâvre fut propriété des comtes de Nantes, des ducs de Bretagne et des rois de France avant de devenir une forêt d'État.
+    - id: 7
+      question: Quelle est la plus grande forêt artificielle d'Europe occidentale ?
+      propositions:
+      - Forêt des Landes
+      - Forêt de Creuse
+      - Forêt de Chevré
+      - Forêt de Benon
+      réponse: Forêt des Landes
+      anecdote: Bordée par l'océan Atlantique, la forêt des Landes forme un triangle couvrant trois départements (Gironde, Landes et Lot-et-Garonne).
+    - id: 8
+      question: Quelle forêt de Corse occupe un majestueux cirque montagneux ?
+      propositions:
+      - Forêt de Chantilly
+      - Forêt du Vercors
+      - Forêt de Bonifatu
+      - Forêt de Tusson
+      réponse: Forêt de Bonifatu
+      anecdote: Elle occupe les flancs aux pentes souvent très abruptes de tout le cirque de Bonifatu, s'étendant entre 300 et 2 000 mètres d'altitude.
+    - id: 9
+      question: Quelle forêt est parfois identifiée à la forêt de Brocéliande ?
+      propositions:
+      - Forêt de Bondy
+      - Forêt de Seillon
+      - Forêt de Paimpont
+      - Forêt de Thelle
+      réponse: Forêt de Paimpont
+      anecdote: La forêt de Paimpont possède un pouvoir d'attraction pour les adeptes du néopaganisme qui s'y réunissent périodiquement.
+    - id: 10
+      question: Le nom de quelle forêt rappelle les forges de fer du Moyen Âge ?
+      propositions:
+      - Forêt de Dourdan
+      - Forêt de Montfort
+      - Forêt de Ferrières
+      - Forêt du Pertre
+      réponse: Forêt de Ferrières
+      anecdote: Jadis propriété de communautés religieuses, puis de la famille de Rothschild, elle appartient aujourd'hui à la région Île-de-France.
+  - confirmé:
+    - id: 11
+      question: Quelle colline forestière est située en bordure Est du lac du Bourget ?
+      propositions:
+      - Forêt de Lorge
+      - Forêt de Dourdan
+      - Forêt de Brotonne
+      - Forêt de Corsuet
+      réponse: Forêt de Corsuet
+      anecdote: La forêt de Corsuet et ses sentiers de randonnées sont gérés par la Communauté d'agglomération du Lac du Bourget.
+    - id: 12
+      question: Quelle forêt du Tarn est longée par le sentier de grande randonnée GR 46 ?
+      propositions:
+      - Forêt de Grésigne
+      - Forêt du Cranou
+      - Forêt de Cîteaux
+      - Forêt de Creuse
+      réponse: Forêt de Grésigne
+      anecdote: La prépondérance des chênes (60 % du peuplement en chêne rouvre) fait de la Grésigne la plus vaste chênaie rouvre du midi.
+    - id: 13
+      question: Quel massif forestier est situé à une trentaine de kilomètres au nord d'Angoulême ?
+      propositions:
+      - Forêt de Taillard
+      - Forêt de Tusson
+      - Forêt du Vercors
+      - Forêt de Chantilly
+      réponse: Forêt de Tusson
+      anecdote: Les lisières présentent une flore intéressante, dont le manteau abrite une riche population de rapaces nicheurs, diurnes notamment.
+    - id: 14
+      question: Quelle forêt a été ravagée sur 300 hectares en 1999 par la tempête Lothar ?
+      propositions:
+      - Forêt des Landes
+      - Forêt de Montfort
+      - Forêt de Chevré
+      - Forêt de Lorge
+      réponse: Forêt de Montfort
+      anecdote: Ancienne forêt seigneuriale, la forêt domaniale de Montfort revint deux fois en la possession du royaume de France (en 1024 et en 1784).
+    - id: 15
+      question: Quelle forêt domaniale de 600 hectares a été créée par les Chartreux ?
+      propositions:
+      - Forêt de Seillon
+      - Forêt de Ferrières
+      - Forêt de Retz
+      - Forêt du Gâvre
+      réponse: Forêt de Seillon
+      anecdote: En lisière de la forêt de Seillon se situe la chartreuse de Seillon qui trouve son origine dans un prieuré bénédictin du XIIe siècle.
+    - id: 16
+      question: Quelle forêt domaniale est principalement connue pour sa vallée des orchidées ?
+      propositions:
+      - Forêt du Pertre
+      - Forêt de Saou
+      - Forêt de Corsuet
+      - Forêt de Creuse
+      réponse: Forêt de Creuse
+      anecdote: Ce massif forestier est composé de deux cantons : le Bois de Creuse, accessible au public, et le Bois de Malplatel, plus sauvage.
+    - id: 17
+      question: Quelle forêt de France abrite le chêne des Six Frères, vieux de 500 ans ?
+      propositions:
+      - Forêt de Cîteaux
+      - Forêt de Dourdan
+      - Forêt de Paimpont
+      - Forêt de Bondy
+      réponse: Forêt de Dourdan
+      anecdote: Lieu de pèlerinage, il est ainsi dénommé car, chose rare, sa souche (la cépée, issue d'un unique gland) se divise en six troncs.
+    - id: 18
+      question: Quelle forêt, située à l'ouest de Rouen, est accessible par un pont ?
+      propositions:
+      - Forêt de Benon
+      - Forêt de Brotonne
+      - Forêt du Cranou
+      - Forêt de Grésigne
+      réponse: Forêt de Brotonne
+      anecdote: La forêt de Brotonne abrite deux bâtiments remarquables : le moulin-tour de Hauville et le four à pain communal de La Haye-de-Routot.
+    - id: 19
+      question: Quelle forêt essentiellement résineuse est répartie sur l'Isère et la Drôme ?
+      propositions:
+      - Forêt de Ferrières
+      - Forêt du Vercors
+      - Forêt de Thelle
+      - Forêt de Montfort
+      réponse: Forêt du Vercors
+      anecdote: Le Vercors comprend : Quatre-Montagnes, Trièves, Vercors drômois, Royans isérois, Royans drômois, Gervanne et Diois.
+    - id: 20
+      question: Quelle forêt de l'Oise de 6 344 hectares abrite pas moins de six monuments historiques ?
+      propositions:
+      - Forêt de Tusson
+      - Forêt de Chantilly
+      - Forêt des Landes
+      - Forêt de Bonifatu
+      réponse: Forêt de Chantilly
+      anecdote: La forêt de Chantilly bénéficie de plusieurs types de protections qui concernent les paysages, ses milieux naturels et les espèces qui y vivent.
+  - expert:
+    - id: 21
+      question: Quelle forêt de la Drôme est souvent comparée à une coque de navire ?
+      propositions:
+      - Forêt de Dourdan
+      - Forêt de Saou
+      - Forêt de Seillon
+      - Forêt de Chevré
+      réponse: Forêt de Saou
+      anecdote: Seules deux échancrures permettent d'y accéder par la route : au nord, le pas de Lauzens, et au sud, le défilé du Pertuis.
+    - id: 22
+      question: Dans quelle forêt rencontre-t-on la plus forte densité des pics mars ?
+      propositions:
+      - Forêt du Gâvre
+      - Forêt de Cîteaux
+      - Forêt de Carnelle
+      - Forêt de Paimpont
+      réponse: Forêt de Cîteaux
+      anecdote: La cigogne noire, le héron pourpré et le busard des roseaux fréquentent de plus en plus le secteur depuis quelques années.
+    - id: 23
+      question: Quelle forêt des Côtes-d'Armor a été le théâtre de plusieurs exécutions SS ?
+      propositions:
+      - Forêt de Grésigne
+      - Forêt de Cinglais
+      - Forêt de Corsuet
+      - Forêt de Lorge
+      réponse: Forêt de Lorge
+      anecdote: Un monument commémoratif a été érigé sur l'aire de la Butte-Rouge à L'Hermitage-Lorge pour honorer la mémoire de ces fusillés.
+    - id: 24
+      question: Quelle forêt d'Ille-et-Vilaine fut le théâtre de combats entre Chouans et Républicains ?
+      propositions:
+      - Forêt de Saou
+      - Forêt de Taillard
+      - Forêt du Pertre
+      - Forêt de Bondy
+      réponse: Forêt du Pertre
+      anecdote: La forêt du Pertre constitua un des refuges préférés des Chouans, que les autorités révolutionnaires s'évertuèrent à neutraliser.
+    - id: 25
+      question: Quelle forêt propose un admirable point de vue sur la Vallée Surelle ?
+      propositions:
+      - Forêt de Chevré
+      - Forêt de Thelle
+      - Forêt de Tusson
+      - Forêt de Montfort
+      réponse: Forêt de Thelle
+      anecdote: La forêt domaniale du Thelle fait partie des 64 principaux sites naturels de l'ancienne région administrative de Picardie.
+    - id: 26
+      question: Quelle forêt constitue aujourd'hui l'unique forêt de l'Aunis ?
+      propositions:
+      - Forêt de Ferrières
+      - Forêt de Benon
+      - Forêt des Landes
+      - Forêt de Seillon
+      réponse: Forêt de Benon
+      anecdote: Il s'agit essentiellement d'une forêt de feuillus, constituée de chênes, qui s'étend sur une surface totale de 3 300 hectares.
+    - id: 27
+      question: Quelle forêt de France est aussi appelée forêt de Villers-Cotterêts ?
+      propositions:
+      - Forêt du Cranou
+      - Forêt de Creuse
+      - Forêt de Retz
+      - Forêt de Cîteaux
+      réponse: Forêt de Retz
+      anecdote: Contrairement à d'autres espaces français au couvert forestier non statique, ses contours n'ont que guère évolué au cours des siècles.
+    - id: 28
+      question: Le bois de quelle forêt fut utilisé pour la construction des maisons de Saint-Sauveur ?
+      propositions:
+      - Forêt de Brotonne
+      - Forêt de Taillard
+      - Forêt du Vercors
+      - Forêt de Dourdan
+      réponse: Forêt de Taillard
+      anecdote: Lors de la révolution industrielle, la forêt de Taillard a été utilisée pour fournir en bois les mines pour l'utilisation de poutres d'étayage.
+    - id: 29
+      question: Quelle forêt est située sur une butte-témoin dominant la plaine de France ?
+      propositions:
+      - Forêt de Chantilly
+      - Forêt de Paimpont
+      - Forêt du Gâvre
+      - Forêt de Carnelle
+      réponse: Forêt de Carnelle
+      anecdote: Parmi sa faune on rencontre chevreuils, sangliers ou cerfs en provenance de la forêt de Chantilly, renards, blaireaux et lapins.
+    - id: 30
+      question: Le bois de quelle forêt alimenta la chaudière du train qui reliait Caen à Falaise ?
+      propositions:
+      - Forêt de Montfort
+      - Forêt de Corsuet
+      - Forêt de Cinglais
+      - Forêt de Grésigne
+      réponse: Forêt de Cinglais
+      anecdote: La forêt de Cinglais servit à fournir en tan, issu des écorces de chêne, les nombreuses tanneries de la vallée de la Laize.
+  en:
+  - débutant:
+    - id: 1
+      question: Which forest is an emblematic site of the First World War ?
+      propositions:
+      - Forest of Verdun
+      - Forest of the Landes
+      - Paimpont Forest
+      - Forest of Gâvre
+      réponse: Forest of Verdun
+      anecdote: Former agricultural plots were prohibited because of explosives, chemical munitions and unexploded ordnance.
+    - id: 2
+      question: What is the size of the third state forest in Metropolitan France ?
+      propositions:
+      - Tusson Forest
+      - Cranou Forest
+      - Creuse Forest
+      - Forest Compiègne
+      réponse: Forest Compiègne
+      anecdote: Geometrically, the outline of the forest forms a circle 14 km in diameter and 43 km from the perimeter.
+    - id: 3
+      question: What French forest of 1,200 ha is located east of Rennes ?
+      propositions:
+      - Lorge Forest
+      - Ferrieres Forest
+      - Seillon Forest
+      - Forest of Chevrè
+      réponse: Forest of Chevrè
+      anecdote: Part of the Chevré forest is a protected natural ensemble with the forests of Rennes, Liffré and Saint-Aubin-du-Cormier.
+    - id: 4
+      question: Which state forest is the largest in the department of Finistere ?
+      propositions:
+      - Montfort Forest
+      - Cranou Forest
+      - Bonifatu Forest
+      - Forest of Grésigne
+      réponse: Cranou Forest
+      anecdote: The Cranou Forest was exploited for the timber needs of the Royal Navy in Brest, the logs being transported via the port of Faou.
+    - id: 5
+      question: What forest inspired Victor Hugo for his Thénardier farm ?
+      propositions:
+      - Castle Forest
+      - Corsuet Forest
+      - Bondy Forest
+      - Vercors Forest
+      réponse: Bondy Forest
+      anecdote: The regional forest of Bondy is a remnant of the old Bondy forest which stretched over a large part of the Aulnoye country.
+    - id: 6
+      question: The name of what forest would come from the old Breton meaning ogre or giant ?
+      propositions:
+      - Forest of Gâvre
+      - Brotonne Forest
+      - Forest of Pertre
+      - Saou Forest
+      réponse: Forest of Gâvre
+      anecdote: The forest of Gâvre was owned by the Counts of Nantes, the Dukes of Brittany and the Kings of France before becoming a forest of state.
+    - id: 7
+      question: Which is the largest artificial forest in Western Europe ?
+      propositions:
+      - Forest of Chevrè
+      - Forest of the Landes
+      - Creuse Forest
+      - Benon Forest
+      réponse: Forest of the Landes
+      anecdote: Bordered by the Atlantic Ocean, the forest of the Lande forms a vast triangle covering three departments (Gironde, Landes and Lot-et-Garonne).
+    - id: 8
+      question: What forest of Corsica occupies a majestic mountainous circus ?
+      propositions:
+      - Bonifatu Forest
+      - Chantilly Forest
+      - Tusson Forest
+      - Vercors Forest
+      réponse: Bonifatu Forest
+      anecdote: It occupies the slopes often steep slopes of all the circus Bonifatu, stretching between 300 and 2000 meters above sea level.
+    - id: 9
+      question: Which forest is sometimes identified with the forest of Brocélande ?
+      propositions:
+      - Paimpont Forest
+      - Bondy Forest
+      - Thelle Forest
+      - Seillon Forest
+      réponse: Paimpont Forest
+      anecdote: The forest of Paimpont possesses a power of attraction for the followers of neo-aggression who meet there periodically.
+    - id: 10
+      question: The name of what forest reminds the iron forges of the Middle Ages ?
+      propositions:
+      - Forest of Pertre
+      - Montfort Forest
+      - Ferrieres Forest
+      - Forest of Dourdan
+      réponse: Ferrieres Forest
+      anecdote: Formerly owned by religious communities, and later by the Rothschild family, it now belongs to the Ile-de-France region.
+  - confirmé:
+    - id: 11
+      question: Which forest hill is located on the eastern edge of Lake Bourget ?
+      propositions:
+      - Brotonne Forest
+      - Forest of Dourdan
+      - Corsuet Forest
+      - Lorge Forest
+      réponse: Corsuet Forest
+      anecdote: The Corsuet forest and its hiking trails are managed by the agglomeration community of Lake Bourget.
+    - id: 12
+      question: Which forest in the Tarn is bordered by the GR 46 hiking trail ?
+      propositions:
+      - Castle Forest
+      - Cranou Forest
+      - Forest of Grésigne
+      - Creuse Forest
+      réponse: Forest of Grésigne
+      anecdote: The preponderance of the oaks (60 % of the oak oak stand) makes the Grésigne sign the largest oak tree in the midday.
+    - id: 13
+      question: Which forest is located about thirty kilometers north of Angouleme ?
+      propositions:
+      - Vercors Forest
+      - Chantilly Forest
+      - Tusson Forest
+      - Taillard Forest
+      réponse: Tusson Forest
+      anecdote: The stretches are an interesting flora, whose mantle is home to a rich population of nesting raptors, including diurnal.
+    - id: 14
+      question: Which forest was ravaged on 300 hectares in 1999 by the storm Lothar ?
+      propositions:
+      - Forest of the Landes
+      - Lorge Forest
+      - Montfort Forest
+      - Forest of Chevrè
+      réponse: Montfort Forest
+      anecdote: Former feudal forest, the forest of Montfort returned twice in the possession of the kingdom of France (in 1024 and 1784).
+    - id: 15
+      question: What 600 hectare state forest was created by the Carthusians ?
+      propositions:
+      - Ferrieres Forest
+      - Seillon Forest
+      - Forest of Gâvre
+      - Forest of Retz
+      réponse: Seillon Forest
+      anecdote: On the edge of Seillon's forest is the Carthusian monastery of Seillon, which originated in a 16th century benedictine priory.
+    - id: 16
+      question: Which state forest is mainly known for its orchid valley ?
+      propositions:
+      - Saou Forest
+      - Forest of Pertre
+      - Corsuet Forest
+      - Creuse Forest
+      réponse: Creuse Forest
+      anecdote: This forest is composed of two cantons: the Bois de Creuse, accessible to the public, and the Bois de Malplatel, more wild.
+    - id: 17
+      question: What forest of France shelters the oak of the Six Brothers, 500 years old ?
+      propositions:
+      - Forest of Dourdan
+      - Bondy Forest
+      - Castle Forest
+      - Paimpont Forest
+      réponse: Forest of Dourdan
+      anecdote: A place of pilgrimage, it is so named because, rare thing, its stump (the sepia, resulting from a single acorn) is divided into six trunks.
+    - id: 18
+      question: Which forest, located west of Rouen, is accessible by a bridge ?
+      propositions:
+      - Brotonne Forest
+      - Forest of Grésigne
+      - Cranou Forest
+      - Benon Forest
+      réponse: Brotonne Forest
+      anecdote: The forest of Brotonne is home to two remarkable buildings : the Hauville tower-mill and the Haye-de-Routot communal bread oven.
+    - id: 19
+      question: What essentially reindeerous forest is distributed on Isère and Drôme ?
+      propositions:
+      - Ferrieres Forest
+      - Vercors Forest
+      - Thelle Forest
+      - Montfort Forest
+      réponse: Vercors Forest
+      anecdote: The Vercors includes: Quatre-Montagnes, Trièves, Vercors drômois, Royans isérois, Royans drômois, Gervanne and Diois.
+    - id: 20
+      question: What forest of Oise 6 344 hectares is home to no less than six historic monuments ?
+      propositions:
+      - Chantilly Forest
+      - Bonifatu Forest
+      - Tusson Forest
+      - Forest of the Landes
+      réponse: Chantilly Forest
+      anecdote: The forest of Chantilly benefits from several types of protection that concern the landscapes, its natural environments and the species that live there.
+  - expert:
+    - id: 21
+      question: What forest of Drôme is often compared to a ship's hull ?
+      propositions:
+      - Forest of Dourdan
+      - Seillon Forest
+      - Saou Forest
+      - Forest of Chevrè
+      réponse: Saou Forest
+      anecdote: Only two openings allow to reach it by the road: to the north, the Lauzens step, and to the south, the Pertuis pass.
+    - id: 22
+      question: In what forest do we encounter the highest densities of peaks in March ?
+      propositions:
+      - Forest of Gâvre
+      - Carnelle Forest
+      - Paimpont Forest
+      - Castle Forest
+      réponse: Castle Forest
+      anecdote: The Black Stork, the Purple Heron and the Harrier Harrier have been increasingly frequenting the area in recent years.
+    - id: 23
+      question: What forest of the Armor Coast has been the theater of several SS performances ?
+      propositions:
+      - Corsuet Forest
+      - Sinhala Forest
+      - Forest of Grésigne
+      - Lorge Forest
+      réponse: Lorge Forest
+      anecdote: A memorial has been erected on the area of  ? ?the Red Butte at L'Hermitage-Lorge to honor the memory of these shots.
+    - id: 24
+      question: What forest of Ille-et-Vilaine was the theater of fighting between Chouans and Republicans ?
+      propositions:
+      - Saou Forest
+      - Forest of Pertre
+      - Taillard Forest
+      - Bondy Forest
+      réponse: Forest of Pertre
+      anecdote: The forest of the Pertre was one of the favorite refuges of the Chouans, which the revolutionary authorities were eager to neutralize.
+    - id: 25
+      question: Which forest offers an admirable view of the Surelle Valley ?
+      propositions:
+      - Thelle Forest
+      - Montfort Forest
+      - Tusson Forest
+      - Forest of Chevrè
+      réponse: Thelle Forest
+      anecdote: The national forest of Thelle is one of the 64 main natural sites of the former administrative region of Picardy.
+    - id: 26
+      question: Which forest is today the only forest of Aunis ?
+      propositions:
+      - Forest of the Landes
+      - Ferrieres Forest
+      - Seillon Forest
+      - Benon Forest
+      réponse: Benon Forest
+      anecdote: It is essentially a deciduous forest of oak trees that covers a total area of 3,300 hectares.
+    - id: 27
+      question: Which forest of France is also called forest of Villers-Cotterets ?
+      propositions:
+      - Cranou Forest
+      - Creuse Forest
+      - Forest of Retz
+      - Castle Forest
+      réponse: Forest of Retz
+      anecdote: Unlike other French spaces with a non-static forest canopy, its outlines have only cured during the centuries.
+    - id: 28
+      question: The wood of which forest was used for the construction of the houses of Saint-Sauveur ?
+      propositions:
+      - Forest of Dourdan
+      - Brotonne Forest
+      - Taillard Forest
+      - Vercors Forest
+      réponse: Taillard Forest
+      anecdote: During the industrial revival, Taillard Forest was used to provide wood mines for the use of girders.
+    - id: 29
+      question: Which forest is located on a butte-witness dominating the plain of France ?
+      propositions:
+      - Chantilly Forest
+      - Forest of Gâvre
+      - Paimpont Forest
+      - Carnelle Forest
+      réponse: Carnelle Forest
+      anecdote: Among its fauna are deer, wild boar or deer from the forest of Chantilly, foxes, badgers and rabbits.
+    - id: 30
+      question: The forest of which forest fed the boiler of the train which connected Caen to Falaise ?
+      propositions:
+      - Sinhala Forest
+      - Corsuet Forest
+      - Forest of Grésigne
+      - Montfort Forest
+      réponse: Sinhala Forest
+      anecdote: The forest of Sinhales was used to supply the tanneries of the Laize valley from oak barrels.
+  de:
+  - débutant:
+    - id: 1
+      question: Welcher Wald ist ein Wahrzeichen des Ersten Weltkriegs ?
+      propositions:
+      - Wald der Landes
+      - Wald von Gévre
+      - Paimpont Forest
+      - Wald von Verdun
+      réponse: Wald von Verdun
+      anecdote: Ehemalige landwirtschaftliche Grundstücke wurden wegen Sprengstoffs, chemischer Munition und nicht explodierter Kampfmittel verboten.
+    - id: 2
+      question: Wie groß ist der dritte Staatswald im französischen Mutterland ?
+      propositions:
+      - Cranou Wald
+      - Tusson Wald
+      - Creuse Wald
+      - Wald Compiègne
+      réponse: Wald Compiègne
+      anecdote: Geometrisch bildet der Umriss des Waldes einen Kreis mit einem Durchmesser von 14 km und einem Abstand vom Umfang von 43 km.
+    - id: 3
+      question: Welcher 1.200 ha große französische Wald liegt östlich von Rennes ?
+      propositions:
+      - Wald von Chevrè
+      - Lorge Wald
+      - Ferrieres Wald
+      - Wald von Seillon
+      réponse: Wald von Chevrè
+      anecdote: Ein Teil des Chevré-Waldes ist ein Naturschutzgebiet mit den Wäldern von Rennes, Liffré und Saint-Aubin-du-Cormier.
+    - id: 4
+      question: Welcher Staatswald ist der größte im Departement Finistère ?
+      propositions:
+      - Wald von Grésigne
+      - Wald von Montfort
+      - Bonifatu Wald
+      - Cranou Wald
+      réponse: Cranou Wald
+      anecdote: Der Cranou-Wald wurde für den Holzbedarf der Royal Navy in Brest ausgenutzt, wobei die Stämme über den Hafen von Faou transportiert wurden.
+    - id: 5
+      question: Welcher Wald hat Victor Hugo für seinen Thénardier-Hof inspiriert ?
+      propositions:
+      - Schloss Wald
+      - Bondy Forest
+      - Wald von Vercors
+      - Corsuet Wald
+      réponse: Bondy Forest
+      anecdote: Der Regionalwald von Bondy ist ein Überrest des alten Bondy-Waldes, der sich über einen großen Teil des Landes von Aulnoye erstreckte.
+    - id: 6
+      question: Der Name von welchem Wald würde von der alten bretonischen Bedeutung Oger oder Riese kommen ?
+      propositions:
+      - Wald von Gâvre
+      - Wald von Saou
+      - Wald von Pertre
+      - Brotonne Wald
+      réponse: Wald von Gâvre
+      anecdote: Der Wald von Gâvre gehörte den Grafen von Nantes, den Herzögen der Bretagne und den Königen von Frankreich, bevor er zu einem Staatswald wurde.
+    - id: 7
+      question: Welches ist der größte künstliche Wald in Westeuropa ?
+      propositions:
+      - Wald der Landes
+      - Creuse Wald
+      - Wald von Chevrè
+      - Benon Wald
+      réponse: Wald der Landes
+      anecdote: Der vom Atlantik begrenzte Wald des Landes bildet ein weitläufiges Dreieck, das drei Departements (Gironde, Landes und Lot-et-Garonne) abdeckt.
+    - id: 8
+      question: Welcher Wald von Korsika besetzt einen majestätischen Gebirgszirkus ?
+      propositions:
+      - Chantilly Forest
+      - Tusson Wald
+      - Wald von Vercors
+      - Bonifatu Wald
+      réponse: Bonifatu Wald
+      anecdote: Es besetzt die oft steilen Hänge des gesamten Zirkus Bonifatu und erstreckt sich zwischen 300 und 2000 Metern über dem Meeresspiegel.
+    - id: 9
+      question: Welcher Wald wird manchmal mit dem Wald von Brocélande identifiziert ?
+      propositions:
+      - Wald von Seillon
+      - Theller Wald
+      - Paimpont Forest
+      - Bondy Forest
+      réponse: Paimpont Forest
+      anecdote: Der Wald von Paimpont besitzt eine Anziehungskraft für die Anhänger der Neo-Aggression, die sich dort regelmäßig treffen.
+    - id: 10
+      question: Der Name welches Waldes erinnert an die Eisenschmieden des Mittelalters ?
+      propositions:
+      - Ferrieres Wald
+      - Wald von Dourdan
+      - Wald von Pertre
+      - Wald von Montfort
+      réponse: Ferrieres Wald
+      anecdote: Früher im Besitz von Religionsgemeinschaften, dann der Familie Rothschild, gehört es heute zur Region Île-de-France.
+  - confirmé:
+    - id: 11
+      question: Welcher Waldhügel liegt am östlichen Rand des Bourgetsees ?
+      propositions:
+      - Brotonne Wald
+      - Wald von Dourdan
+      - Lorge Wald
+      - Corsuet Wald
+      réponse: Corsuet Wald
+      anecdote: Der Corsuet-Wald und seine Wanderwege werden von der Gemeinde Lake Bourget verwaltet.
+    - id: 12
+      question: Welcher Wald im Tarn wird vom Wanderweg GR 46 begrenzt ?
+      propositions:
+      - Cranou Wald
+      - Schloss Wald
+      - Wald von Grésigne
+      - Creuse Wald
+      réponse: Wald von Grésigne
+      anecdote: Das Überwiegen der Eichen (60 % des Eichenbestandes) macht das Grésigne zur größten Eiche am Mittag.
+    - id: 13
+      question: Welcher Wald liegt etwa dreißig Kilometer nördlich von Angouleme ?
+      propositions:
+      - Chantilly Forest
+      - Rückwald
+      - Tusson Wald
+      - Wald von Vercors
+      réponse: Tusson Wald
+      anecdote: Die Strecken sind eine interessante Flora, deren Mantel eine reiche Population nistender Raubvögel beherbergt, darunter auch tagaktive.
+    - id: 14
+      question: Welcher Wald wurde 1999 vom Sturm Lothar auf 300 Hektar verwüstet ?
+      propositions:
+      - Wald der Landes
+      - Wald von Chevrè
+      - Wald von Montfort
+      - Lorge Wald
+      réponse: Wald von Montfort
+      anecdote: Der ehemalige Feudalwald von Montfort kehrte zweimal in den Besitz des Königreichs Frankreich zurück (1024 und 1784).
+    - id: 15
+      question: Welchen 600 Hektar großen Staatswald haben die Kartäuser angelegt ?
+      propositions:
+      - Ferrieres Wald
+      - Wald von Gâvre
+      - Wald von Retz
+      - Wald von Seillon
+      réponse: Wald von Seillon
+      anecdote: Am Rande des Waldes von Seillon befindet sich das Kartäuserkloster von Seillon, das aus einem Benediktinerkloster aus dem 16.
+    - id: 16
+      question: Welcher Staatswald ist vor allem für sein Orchideental bekannt ?
+      propositions:
+      - Wald von Saou
+      - Corsuet Wald
+      - Creuse Wald
+      - Wald von Pertre
+      réponse: Creuse Wald
+      anecdote: Dieser Wald besteht aus zwei Kantonen: dem für die Öffentlichkeit zugänglichen Bois de Creuse und dem wilderen Bois de Malplatel.
+    - id: 17
+      question: Welcher Wald Frankreichs schützt die 500 Jahre alte Eiche der Sechs Brüder ?
+      propositions:
+      - Wald von Dourdan
+      - Schloss Wald
+      - Bondy Forest
+      - Paimpont Forest
+      réponse: Wald von Dourdan
+      anecdote: Es ist ein Wallfahrtsort, der so genannt wird, weil sein Stumpf (der Sepia, der aus einer einzigen Eichel stammt) selten in sechs Stämme unterteilt ist.
+    - id: 18
+      question: Welcher Wald westlich von Rouen ist über eine Brücke erreichbar ?
+      propositions:
+      - Wald von Grésigne
+      - Cranou Wald
+      - Brotonne Wald
+      - Benon Wald
+      réponse: Brotonne Wald
+      anecdote: Der Wald von Brotonne beherbergt zwei bemerkenswerte Gebäude : die Turmmühle von Hauville und den gemeinsamen Brotofen Haye-de-Routot.
+    - id: 19
+      question: Welcher im Wesentlichen Rentierwald ist auf Isère und Drôme verbreitet ?
+      propositions:
+      - Ferrieres Wald
+      - Wald von Montfort
+      - Theller Wald
+      - Wald von Vercors
+      réponse: Wald von Vercors
+      anecdote: Zu den Vercors gehören: Quatre-Montagnes, Trièves, Vercors drémois, Royans isérois, Royans drémois, Gervanne und Diois.
+    - id: 20
+      question: In welchem Wald von Oise 6 344 ha befinden sich nicht weniger als sechs historische Denkmäler ?
+      propositions:
+      - Tusson Wald
+      - Bonifatu Wald
+      - Chantilly Forest
+      - Wald der Landes
+      réponse: Chantilly Forest
+      anecdote: Der Wald von Chantilly profitiert von mehreren Arten von Schutz, die die Landschaften, seine natürlichen Umgebungen und die dort lebenden Arten betreffen.
+  - expert:
+    - id: 21
+      question: Welcher Wald der Drôme wird oft mit einem Schiffsrumpf verglichen ?
+      propositions:
+      - Wald von Dourdan
+      - Wald von Seillon
+      - Wald von Chevrè
+      - Wald von Saou
+      réponse: Wald von Saou
+      anecdote: Nur zwei Öffnungen ermöglichen es, es über die Straße zu erreichen: im Norden die Lauzens-Stufe und im Süden der Pertuis-Pass.
+    - id: 22
+      question: In welchem Wald stoßen wir im März auf die höchste Dichte an Gipfeln ?
+      propositions:
+      - Paimpont Forest
+      - Wald von Gâvre
+      - Carnelle Wald
+      - Schloss Wald
+      réponse: Schloss Wald
+      anecdote: Der Schwarzstorch, der Purpurreiher und der Harrier Harrier haben in den letzten Jahren das Gebiet immer häufiger besucht.
+    - id: 23
+      question: In welchem Wald der Rüstungsküste fanden mehrere SS-Aufführungen statt ?
+      propositions:
+      - Corsuet Wald
+      - Singhalesischer Wald
+      - Wald von Grésigne
+      - Lorge Wald
+      réponse: Lorge Wald
+      anecdote: Auf dem Areal des Red Butte in L'Hermitage-Lorge wurde ein Denkmal errichtet, um die Erinnerung an diese Aufnahmen zu würdigen.
+    - id: 24
+      question: In welchem Wald von Ille-et-Vilaine kämpften Chouans und Republikaner ?
+      propositions:
+      - Wald von Saou
+      - Wald von Pertre
+      - Bondy Forest
+      - Rückwald
+      réponse: Wald von Pertre
+      anecdote: Der Wald des Pertre war eines der beliebtesten Refugien der Chouans, die die revolutionären Behörden unbedingt neutralisieren wollten.
+    - id: 25
+      question: Welcher Wald bietet eine bewundernswerte Aussicht auf das Vallée Surelle ?
+      propositions:
+      - Wald von Chevrè
+      - Theller Wald
+      - Tusson Wald
+      - Wald von Montfort
+      réponse: Theller Wald
+      anecdote: Der Nationalwald von Thelle ist eine der 64 Hauptnaturstätten des ehemaligen Verwaltungsgebiets der Picardie.
+    - id: 26
+      question: Welcher Wald ist heute der einzige Wald von Aunis ?
+      propositions:
+      - Wald von Seillon
+      - Wald der Landes
+      - Ferrieres Wald
+      - Benon Wald
+      réponse: Benon Wald
+      anecdote: Es handelt sich im Wesentlichen um einen Laubwald aus Eichen, der eine Gesamtfläche von 3.300 Hektar umfasst.
+    - id: 27
+      question: Welcher Wald in Frankreich wird auch Wald von Villers-Cotterets genannt ?
+      propositions:
+      - Schloss Wald
+      - Wald von Retz
+      - Creuse Wald
+      - Cranou Wald
+      réponse: Wald von Retz
+      anecdote: Im Gegensatz zu anderen französischen Gebieten mit nicht statischer Waldbedeckung haben sich die Umrisse im Laufe der Jahrhunderte kaum verändert.
+    - id: 28
+      question: Das Holz von welchem Wald wurde für den Bau der Häuser von Saint-Sauveur verwendet ?
+      propositions:
+      - Wald von Vercors
+      - Rückwald
+      - Wald von Dourdan
+      - Brotonne Wald
+      réponse: Rückwald
+      anecdote: Während der industriellen Wiederbelebung wurde Taillard Forest verwendet, um Holzminen für die Verwendung von Trägern bereitzustellen.
+    - id: 29
+      question: Welcher Wald befindet sich auf einem Zeugenstumpf, der die französische Ebene beherrscht ?
+      propositions:
+      - Paimpont Forest
+      - Chantilly Forest
+      - Wald von Gâvre
+      - Carnelle Wald
+      réponse: Carnelle Wald
+      anecdote: Zu seiner Fauna zählen Hirsche, Wildschweine oder Hirsche aus dem Wald von Chantilly, Füchse, Dachse und Kaninchen.
+    - id: 30
+      question: Welcher Wald speiste den Kessel des Zuges, der Caen mit Falaise verband ?
+      propositions:
+      - Corsuet Wald
+      - Wald von Montfort
+      - Singhalesischer Wald
+      - Wald von Grésigne
+      réponse: Singhalesischer Wald
+      anecdote: Der Wald von Singhales wurde genutzt, um die Gerbereien des Laize-Tals aus Eichenfässern zu versorgen.
+  es:
+  - débutant:
+    - id: 1
+      question: ¿Qué bosque es un sitio emblemático de la Primera Guerra Mundial ?
+      propositions:
+      - Bosque de Paimpont
+      - Bosque de Verdun
+      - Bosque de Gâvre
+      - Bosque de las Landas
+      réponse: Bosque de Verdun
+      anecdote: Las antiguas parcelas agrícolas estaban prohibidas debido a explosivos, municiones químicas y municiones sin explotar.
+    - id: 2
+      question: ¿Cuál es el tamaño del tercer bosque estatal en Francia metropolitana ?
+      propositions:
+      - Bosque de Cranou
+      - Bosque Compiègne
+      - Bosque de Creuse
+      - Bosque de tusson
+      réponse: Bosque Compiègne
+      anecdote: Geométricamente, el contorno del bosque forma un círculo de 14 km de diámetro y 43 km desde el perímetro.
+    - id: 3
+      question: ¿Qué bosque francés de 1.200 ha se encuentra al este de Rennes ?
+      propositions:
+      - Bosque de Seillon
+      - Bosque de Chevrè
+      - Bosque Ferrieres
+      - Bosque de lorge
+      réponse: Bosque de Chevrè
+      anecdote: Parte del bosque de Chevré es un conjunto natural protegido con los bosques de Rennes, Liffré y Saint-Aubin-du-Cormier.
+    - id: 4
+      question: ¿Qué bosque estatal es el más grande en el departamento de Finisterre ?
+      propositions:
+      - Bosque de Grésigne
+      - Bosque de Bonifatu
+      - Bosque de Cranou
+      - Bosque de Montfort
+      réponse: Bosque de Cranou
+      anecdote: El Bosque de Cranou fue explotado para las necesidades de madera de la Royal Navy en Brest, transportando los troncos a través del puerto de Faou.
+    - id: 5
+      question: ¿Qué bosque inspiró a Victor Hugo para su granja Thénardier ?
+      propositions:
+      - Bosque de Vercors
+      - Bosque del castillo
+      - Bosque de Corsuet
+      - Bosque de bondy
+      réponse: Bosque de bondy
+      anecdote: El bosque regional de Bondy es un remanente del antiguo bosque de Bondy que se extendía sobre una gran parte del país de Aulnoye.
+    - id: 6
+      question: ¿El nombre de qué bosque vendría del antiguo bretón, que significa ogro o gigante ?
+      propositions:
+      - Bosque de Brotonne
+      - Bosque de Pertre
+      - Bosque de Saou
+      - Bosque de Gâvre
+      réponse: Bosque de Gâvre
+      anecdote: El bosque de Gâvre era propiedad de los condes de Nantes, los duques de Bretaña y los reyes de Francia antes de convertirse en un bosque de estado.
+    - id: 7
+      question: ¿Cuál es el bosque artificial más grande de Europa occidental ?
+      propositions:
+      - Bosque de las Landas
+      - Bosque de Creuse
+      - Bosque de benon
+      - Bosque de Chevrè
+      réponse: Bosque de las Landas
+      anecdote: Bordeada por el océano Atlántico, el bosque de la Lande forma un vasto triángulo que cubre tres departamentos (Gironde, Landes y Lot-et-Garonne).
+    - id: 8
+      question: ¿Qué bosque de Córcega ocupa un majestuoso circo montañoso ?
+      propositions:
+      - Bosque de tusson
+      - Bosque de Bonifatu
+      - Bosque de Vercors
+      - Bosque de Chantilly
+      réponse: Bosque de Bonifatu
+      anecdote: Ocupa las pendientes, a menudo pendientes pronunciadas de todo el circo Bonifatu, que se extiende entre 300 y 2000 metros sobre el nivel del mar.
+    - id: 9
+      question: ¿Qué bosque se identifica a veces con el bosque de Brocélande ?
+      propositions:
+      - Bosque de bondy
+      - Bosque de Paimpont
+      - Bosque de Thelle
+      - Bosque de Seillon
+      réponse: Bosque de Paimpont
+      anecdote: El bosque de Paimpont posee un poder de atracción para los seguidores de la neoagresión que se encuentran allí periódicamente.
+    - id: 10
+      question: ¿El nombre de qué bosque recuerda a las forjas de hierro de la Edad Media ?
+      propositions:
+      - Bosque de Dourdan
+      - Bosque de Pertre
+      - Bosque Ferrieres
+      - Bosque de Montfort
+      réponse: Bosque Ferrieres
+      anecdote: Anteriormente propiedad de comunidades religiosas, y más tarde por la familia Rothschild, ahora pertenece a la región de Ile-de-France.
+  - confirmé:
+    - id: 11
+      question: ¿Qué colina del bosque se encuentra en el extremo este del lago Bourget ?
+      propositions:
+      - Bosque de Corsuet
+      - Bosque de Brotonne
+      - Bosque de lorge
+      - Bosque de Dourdan
+      réponse: Bosque de Corsuet
+      anecdote: El bosque de Corsuet y sus rutas de senderismo están gestionados por la comunidad de aglomeración del lago Bourget.
+    - id: 12
+      question: ¿Qué bosque en el Tarn está bordeado por la ruta de senderismo GR 46 ?
+      propositions:
+      - Bosque de Creuse
+      - Bosque de Cranou
+      - Bosque de Grésigne
+      - Bosque del castillo
+      réponse: Bosque de Grésigne
+      anecdote: La preponderancia de los robles (60 % del roble de roble) hace que Grésigne sea el roble más grande del mediodía.
+    - id: 13
+      question: ¿Qué macizo forestal se encuentra a unos treinta kilómetros al norte de Angulema ?
+      propositions:
+      - Bosque de tusson
+      - Bosque de Vercors
+      - Bosque de Taillard
+      - Bosque de Chantilly
+      réponse: Bosque de tusson
+      anecdote: Los tramos son una flora interesante, cuyo manto es el hogar de una rica población de rapaces anidadoras, incluso diurnas.
+    - id: 14
+      question: ¿Qué bosque fue arrasado en 300 hectáreas en 1999 por la tormenta Lothar ?
+      propositions:
+      - Bosque de Montfort
+      - Bosque de Chevrè
+      - Bosque de las Landas
+      - Bosque de lorge
+      réponse: Bosque de Montfort
+      anecdote: Antiguo bosque feudal, el bosque de Montfort volvió dos veces en posesión del reino de Francia (en 1024 y 1784).
+    - id: 15
+      question: ¿Qué bosque estatal de 600 hectáreas fue creado por los cartujos ?
+      propositions:
+      - Bosque Ferrieres
+      - Bosque de Retz
+      - Bosque de Gâvre
+      - Bosque de Seillon
+      réponse: Bosque de Seillon
+      anecdote: En el borde del bosque de Seillon se encuentra el monasterio cartujo de Seillon, que se originó en un priorato benedictino del siglo XVI.
+    - id: 16
+      question: ¿Qué bosque estatal es principalmente conocido por su valle de orquídeas ?
+      propositions:
+      - Bosque de Creuse
+      - Bosque de Corsuet
+      - Bosque de Saou
+      - Bosque de Pertre
+      réponse: Bosque de Creuse
+      anecdote: Este bosque está compuesto por dos cantones: el Bois de Creuse, accesible al público, y el Bois de Malplatel, más salvaje.
+    - id: 17
+      question: ¿Qué bosque de Francia alberga el roble de los Seis Hermanos, de 500 años ?
+      propositions:
+      - Bosque de Dourdan
+      - Bosque de Paimpont
+      - Bosque de bondy
+      - Bosque del castillo
+      réponse: Bosque de Dourdan
+      anecdote: Un lugar de peregrinación, se llama así porque, cosa rara, su tocón (la sepia, resultado de una sola bellota) se divide en seis troncos.
+    - id: 18
+      question: ¿Qué bosque, situado al oeste de Rouen, es accesible por un puente ?
+      propositions:
+      - Bosque de Grésigne
+      - Bosque de Cranou
+      - Bosque de benon
+      - Bosque de Brotonne
+      réponse: Bosque de Brotonne
+      anecdote: El bosque de Brotonne es el hogar de dos edificios notables : el molino de la torre Hauville y el horno de pan comunal Haye-de-Routot.
+    - id: 19
+      question: ¿Qué bosque esencialmente renoño se distribuye en Isère y Drôme ?
+      propositions:
+      - Bosque de Montfort
+      - Bosque de Vercors
+      - Bosque de Thelle
+      - Bosque Ferrieres
+      réponse: Bosque de Vercors
+      anecdote: El Vercors incluye: Quatre-Montagnes, Trièves, Vercors drômois, Royans isérois, Royans drômois, Gervanne y Diois.
+    - id: 20
+      question: ¿Qué bosque de Oise 6 344 hectáreas alberga no menos de seis monumentos históricos ?
+      propositions:
+      - Bosque de tusson
+      - Bosque de las Landas
+      - Bosque de Chantilly
+      - Bosque de Bonifatu
+      réponse: Bosque de Chantilly
+      anecdote: El bosque de Chantilly se beneficia de varios tipos de protección que conciernen a los paisajes, sus entornos naturales y las especies que viven allí.
+  - expert:
+    - id: 21
+      question: ¿Qué bosque de Drôme se compara a menudo con el casco de un barco ?
+      propositions:
+      - Bosque de Dourdan
+      - Bosque de Saou
+      - Bosque de Chevrè
+      - Bosque de Seillon
+      réponse: Bosque de Saou
+      anecdote: Sólo dos riscos permiten llegar por la carretera: al norte, el paso de Lauzens, y al sur, el paso de Pertuis.
+    - id: 22
+      question: ¿En qué bosque encontramos las densidades más altas de picos en marzo ?
+      propositions:
+      - Bosque de Gâvre
+      - Bosque de Carnelle
+      - Bosque del castillo
+      - Bosque de Paimpont
+      réponse: Bosque del castillo
+      anecdote: La cigüeña negra, la garza púrpura y el Harrier Harrier han estado frecuentando cada vez más el área en los últimos años.
+    - id: 23
+      question: ¿Qué bosque de la Costa de la Armadura ha sido el teatro de varias actuaciones de las SS ?
+      propositions:
+      - Bosque de Corsuet
+      - Bosque de Grésigne
+      - Bosque de lorge
+      - Bosque de cingala
+      réponse: Bosque de lorge
+      anecdote: Se ha erigido un monumento en el área de Red Butte en L'Hermitage-Lorge para honrar la memoria de estas tomas.
+    - id: 24
+      question: ¿Qué bosque de Ille-et-Vilaine fue el teatro de lucha entre los chouans y los republicanos ?
+      propositions:
+      - Bosque de Taillard
+      - Bosque de Pertre
+      - Bosque de Saou
+      - Bosque de bondy
+      réponse: Bosque de Pertre
+      anecdote: El bosque del Pertre era uno de los refugios favoritos de los chouans, que las autoridades revolucionarias estaban ansiosos por neutralizar.
+    - id: 25
+      question: ¿Qué bosque ofrece un punto de vista admirable sobre la Vallée Surelle ?
+      propositions:
+      - Bosque de Thelle
+      - Bosque de Montfort
+      - Bosque de Chevrè
+      - Bosque de tusson
+      réponse: Bosque de Thelle
+      anecdote: El bosque nacional de Thelle es uno de los 64 sitios naturales principales de la antigua región administrativa de Picardía.
+    - id: 26
+      question: ¿Qué bosque es hoy el único bosque de Aunis ?
+      propositions:
+      - Bosque de Seillon
+      - Bosque de benon
+      - Bosque Ferrieres
+      - Bosque de las Landas
+      réponse: Bosque de benon
+      anecdote: Es esencialmente un bosque de madera dura, formado por robles, que cubre un área total de 3,300 hectáreas.
+    - id: 27
+      question: ¿Qué bosque de Francia también se llama bosque de Villers-Cotterets ?
+      propositions:
+      - Bosque del castillo
+      - Bosque de Creuse
+      - Bosque de Retz
+      - Bosque de Cranou
+      réponse: Bosque de Retz
+      anecdote: A diferencia de otros espacios franceses con un dosel de bosque no estático, sus contornos solo se han curado durante siglos.
+    - id: 28
+      question: ¿La madera de qué bosque se usó para la construcción de las casas de Saint-Sauveur ?
+      propositions:
+      - Bosque de Dourdan
+      - Bosque de Vercors
+      - Bosque de Taillard
+      - Bosque de Brotonne
+      réponse: Bosque de Taillard
+      anecdote: Durante el renacimiento industrial, el bosque de Taillard se usó para proporcionar minas de madera para el uso de vigas.
+    - id: 29
+      question: ¿Qué bosque se encuentra en un testigo de tierra que domina la llanura de Francia ?
+      propositions:
+      - Bosque de Gâvre
+      - Bosque de Carnelle
+      - Bosque de Chantilly
+      - Bosque de Paimpont
+      réponse: Bosque de Carnelle
+      anecdote: Entre su fauna se encuentran ciervos, jabalíes o venados del bosque de Chantilly, zorros, tejones y conejos.
+    - id: 30
+      question: ¿El bosque de qué bosque alimentó la caldera del tren que conectaba Caen con Falaise ?
+      propositions:
+      - Bosque de Corsuet
+      - Bosque de Montfort
+      - Bosque de cingala
+      - Bosque de Grésigne
+      réponse: Bosque de cingala
+      anecdote: El bosque de Sinhales se utilizaba para abastecer las curtiembres del valle de Laize desde barricas de roble.
+  it:
+  - débutant:
+    - id: 1
+      question: Quale foresta è un sito emblematico della prima guerra mondiale ?
+      propositions:
+      - Foresta di Verdun
+      - Foresta delle Landes
+      - Foresta di Paimpont
+      - Foresta di Gâvre
+      réponse: Foresta di Verdun
+      anecdote: Gli ex appezzamenti agricoli erano proibiti a causa di esplosivi, munizioni chimiche e ordigni inesplosi.
+    - id: 2
+      question: Qual è la dimensione della terza foresta demaniale nella Francia metropolitana ?
+      propositions:
+      - Forest Compiègne
+      - Foresta di Cranou
+      - Foresta Creuse
+      - Foresta di Tusson
+      réponse: Forest Compiègne
+      anecdote: Geometricamente, il contorno della foresta forma un cerchio di 14 km di diametro e 43 km dal perimetro.
+    - id: 3
+      question: Quale foresta francese di 1.200 ha si trova ad est di Rennes ?
+      propositions:
+      - Foresta di Seillon
+      - Foresta di Ferrières
+      - Foresta di Chevrè
+      - Foresta di Lorge
+      réponse: Foresta di Chevrè
+      anecdote: Parte della foresta di Chevré è un insieme naturale protetto con le foreste di Rennes, Liffré e Saint-Aubin-du-Cormier.
+    - id: 4
+      question: Quale foresta demaniale è la più grande del dipartimento del Finistère ?
+      propositions:
+      - Foresta di Montfort
+      - Foresta di Cranou
+      - Foresta di Bonifatu
+      - Foresta del Grésigne
+      réponse: Foresta di Cranou
+      anecdote: La foresta di Cranou è stata sfruttata per il fabbisogno di legname della Royal Navy a Brest, i tronchi trasportati attraverso il porto di Faou.
+    - id: 5
+      question: Quale foresta ha ispirato Victor Hugo per la sua fattoria Thénardier ?
+      propositions:
+      - Foresta del castello
+      - Foresta del Vercors
+      - Foresta Corsuet
+      - Foresta Bondy
+      réponse: Foresta Bondy
+      anecdote: La foresta regionale di Bondy è un residuo della vecchia foresta di Bondy che si estendeva su gran parte del paese di Aulnoye.
+    - id: 6
+      question: Il nome di quale foresta verrebbe dal vecchio bretone che significa orco o gigante ?
+      propositions:
+      - Foresta di Pertre
+      - Foresta di Saou
+      - Foresta di Brotonne
+      - Foresta di Gâvre
+      réponse: Foresta di Gâvre
+      anecdote: La foresta di Gâvre era di proprietà dei Conti di Nantes, dei Duchi di Bretagna e dei re di Francia prima di diventare una foresta di stato.
+    - id: 7
+      question: Qual è la più grande foresta artificiale dell'Europa occidentale ?
+      propositions:
+      - Foresta delle Landes
+      - Foresta di Benon
+      - Foresta Creuse
+      - Foresta di Chevrè
+      réponse: Foresta delle Landes
+      anecdote: Delimitata dall'Oceano Atlantico, la foresta del Lande forma un vasto triangolo che copre tre dipartimenti (Gironde, Landes e Lot-et-Garonne).
+    - id: 8
+      question: Quale foresta della Corsica occupa un maestoso circo montuoso ?
+      propositions:
+      - Foresta del Vercors
+      - Foresta di Chantilly
+      - Foresta di Bonifatu
+      - Foresta di Tusson
+      réponse: Foresta di Bonifatu
+      anecdote: Occupa i pendii spesso ripidi pendii di tutto il circo di Bonifatu, che si estende tra i 300 ei 2000 metri sul livello del mare.
+    - id: 9
+      question: Quale foresta viene talvolta identificata con la foresta di Brocéliande ?
+      propositions:
+      - Foresta di Thelle
+      - Foresta di Seillon
+      - Foresta Bondy
+      - Foresta di Paimpont
+      réponse: Foresta di Paimpont
+      anecdote: La foresta di Paimpont possiede un potere di attrazione per i seguaci della neoaggressione che vi si incontrano periodicamente.
+    - id: 10
+      question: Il nome di quale foresta ricorda le fucine di ferro del Medioevo ?
+      propositions:
+      - Foresta di Dourdan
+      - Foresta di Pertre
+      - Foresta di Montfort
+      - Foresta di Ferrières
+      réponse: Foresta di Ferrières
+      anecdote: Precedentemente di proprietà di comunità religiose, poi della famiglia Rothschild, ora appartiene alla regione dell'Île-de-France.
+  - confirmé:
+    - id: 11
+      question: Quale collina forestale si trova all'estremità orientale del lago di Bourget ?
+      propositions:
+      - Foresta Corsuet
+      - Foresta di Brotonne
+      - Foresta di Lorge
+      - Foresta di Dourdan
+      réponse: Foresta Corsuet
+      anecdote: La foresta Corsuet e i suoi sentieri escursionistici sono gestiti dalla comunità di agglomerati del lago di Bourget.
+    - id: 12
+      question: Quale foresta del Tarn è delimitata dal sentiero escursionistico GR 46 ?
+      propositions:
+      - Foresta delGrésigne
+      - Foresta Creuse
+      - Foresta del castello
+      - Foresta di Cranou
+      réponse: Foresta delGrésigne
+      anecdote: La preponderanza delle querce (il 60 % del supporto di quercia) fa del Grésigne il segno della più grande quercia nel mezzogiorno.
+    - id: 13
+      question: Quale foresta si trova a circa trenta chilometri a nord di Angouleme ?
+      propositions:
+      - Foresta di Chantilly
+      - Foresta di Tusson
+      - Foresta del Vercors
+      - Foresta di Taillard
+      réponse: Foresta di Tusson
+      anecdote: I tratti sono una flora interessante, il cui manto ospita una ricca popolazione di rapaci nidificanti, incluso diurno.
+    - id: 14
+      question: Quale foresta fu devastata su 300 ettari nel 1999 dalla tempesta Lothar ?
+      propositions:
+      - Foresta di Lorge
+      - Foresta delle Landes
+      - Foresta di Montfort
+      - Foresta di Chevrè
+      réponse: Foresta di Montfort
+      anecdote: L'ex foresta feudale, la foresta di Montfort tornò due volte in possesso del regno di Francia (nel 1024 e nel 1784).
+    - id: 15
+      question: Quale foresta demaniale di 600 ettari è stata creata dai certosini ?
+      propositions:
+      - Foresta di Gâvre
+      - Foresta di Retz
+      - Foresta di Seillon
+      - Foresta di Ferrières
+      réponse: Foresta di Seillon
+      anecdote: Ai margini della foresta di Seillon si trova il monastero certosino di Seillon, che ha avuto origine in un convento benedettino del XVI secolo.
+    - id: 16
+      question: Quale foresta demaniale è conosciuta principalmente per la sua valle delle orchidee ?
+      propositions:
+      - Foresta Creuse
+      - Foresta di Saou
+      - Foresta di Pertre
+      - Foresta Corsuet
+      réponse: Foresta Creuse
+      anecdote: Questa foresta è composta da due cantoni: il Bois de Creuse, accessibile al pubblico, e il Bois de Malplatel, più selvaggio.
+    - id: 17
+      question: Quale foresta di Francia ripara la quercia dei Sei fratelli, 500 anni ?
+      propositions:
+      - Foresta di Paimpont
+      - Foresta del castello
+      - Foresta Bondy
+      - Foresta di Dourdan
+      réponse: Foresta di Dourdan
+      anecdote: Un luogo di pellegrinaggio, è così chiamato perché, cosa rara, il suo moncone (il seppia, derivante da una singola ghianda) è diviso in sei tronchi.
+    - id: 18
+      question: Quale foresta, situata a ovest di Rouen, è accessibile da un ponte ?
+      propositions:
+      - Foresta di Brotonne
+      - Foresta del Grésigne
+      - Foresta di Cranou
+      - Foresta di Benon
+      réponse: Foresta di Brotonne
+      anecdote: La foresta di Brotonne ospita due edifici notevoli : il mulino a torre di Hauville e il forno per il pane comunale Haye-de-Routot.
+    - id: 19
+      question: Quale foresta essenzialmente rigogliosa è distribuita su Isère e Drôme ?
+      propositions:
+      - Foresta del Vercors
+      - Foresta di Thelle
+      - Foresta di Ferrières
+      - Foresta di Montfort
+      réponse: Foresta del Vercors
+      anecdote: Il Vercors comprende: Quatre-Montagnes, Trièves, Vercors drômois, Royans isérois, Royans drômois, Gervanne e Diois.
+    - id: 20
+      question: Quale foresta dell'Oise 6 344 ettari ospitano non meno di sei monumenti storici ?
+      propositions:
+      - Foresta di Bonifatu
+      - Foresta di Chantilly
+      - Foresta di Tusson
+      - Foresta delle Landes
+      réponse: Foresta di Chantilly
+      anecdote: La foresta di Chantilly beneficia di diversi tipi di protezione che riguardano i paesaggi, i suoi ambienti naturali e le specie che vi abitano.
+  - expert:
+    - id: 21
+      question: Quale foresta della Drôme viene spesso paragonata allo scafo di una nave ?
+      propositions:
+      - Foresta di Saou
+      - Foresta di Chevrè
+      - Foresta di Dourdan
+      - Foresta di Seillon
+      réponse: Foresta di Saou
+      anecdote: Solo due aperture permettono di raggiungerla dalla strada: a nord, il passo dei Lauzen, e a sud, il passo Pertuis.
+    - id: 22
+      question: In quale foresta incontriamo le più alte densità di picchi a marzo ?
+      propositions:
+      - Foresta di Gâvre
+      - Foresta del castello
+      - Foresta Carnelle
+      - Foresta di Paimpont
+      réponse: Foresta del castello
+      anecdote: La cicogna nera, l'airone rosso e l'albanella maggiore hanno frequentato l'area negli ultimi anni.
+    - id: 23
+      question: Quale foresta della costa di Armor è stata teatro di diverse esibizioni delle SS ?
+      propositions:
+      - Foresta di Lorge
+      - Foresta di Sinhala
+      - Foresta del Grésigne
+      - Foresta Corsuet
+      réponse: Foresta di Lorge
+      anecdote: Un monumento è stato eretto sulla zona del Red Butte a L'Hermitage-Lorge per onorare la memoria di questi scatti.
+    - id: 24
+      question: Quale foresta di Ille-et-Vilaine era teatro di combattimenti tra Chouans e repubblicani ?
+      propositions:
+      - Foresta di Pertre
+      - Foresta Bondy
+      - Foresta di Saou
+      - Foresta di Taillard
+      réponse: Foresta di Pertre
+      anecdote: La foresta del Pertre era uno dei rifugi preferiti dei Chouans, che le autorità rivoluzionarie erano ansiose di neutralizzare.
+    - id: 25
+      question: Quale foresta offre un punto di vista ammirevole sulla Vallée Surelle ?
+      propositions:
+      - Foresta di Tusson
+      - Foresta di Chevrè
+      - Foresta di Montfort
+      - Foresta di Thelle
+      réponse: Foresta di Thelle
+      anecdote: La foresta nazionale di Thelle è uno dei 64 principali siti naturali dell'ex regione amministrativa della Piccardia.
+    - id: 26
+      question: Quale foresta è oggi l'unica foresta di Aunis ?
+      propositions:
+      - Foresta delle Landes
+      - Foresta di Ferrières
+      - Foresta di Seillon
+      - Foresta di Benon
+      réponse: Foresta di Benon
+      anecdote: È essenzialmente una foresta decidua di querce che copre una superficie totale di 3.300 ettari.
+    - id: 27
+      question: Quale foresta di Francia è anche chiamata foresta di Villers-Cotterets ?
+      propositions:
+      - Foresta Creuse
+      - Foresta di Retz
+      - Foresta di Cranou
+      - Foresta del castello
+      réponse: Foresta di Retz
+      anecdote: A differenza di altri spazi francesi con copertura forestale non statica, i suoi contorni sono appena cambiati nel corso dei secoli.
+    - id: 28
+      question: Il legno di quale foresta era usata per la costruzione delle case di Saint-Sauveur ?
+      propositions:
+      - Foresta di Taillard
+      - Foresta di Dourdan
+      - Foresta di Brotonne
+      - Foresta del Vercors
+      réponse: Foresta di Taillard
+      anecdote: Durante la rinascita industriale, la foresta di Taillard fu usata per fornire miniere di legno per l'uso di travi.
+    - id: 29
+      question: Quale foresta si trova su un testimone che domina la pianura della Francia ?
+      propositions:
+      - Foresta di Paimpont
+      - Foresta di Gâvre
+      - Foresta Carnelle
+      - Foresta di Chantilly
+      réponse: Foresta Carnelle
+      anecdote: Tra i suoi fauna incontrati cervi, cinghiali o caprioli da Laa foresta di Chantilly, volpi, tassi e conigli.
+    - id: 30
+      question: La foresta di quale foresta alimentava la caldaia del treno che collegava Caen a Falaise ?
+      propositions:
+      - Foresta di Montfort
+      - Foresta di Sinhala
+      - Foresta Corsuet
+      - Foresta del Grésigne
+      réponse: Foresta di Sinhala
+      anecdote: La foresta di Sinhales era utilizzata per rifornire le concerie della valle del Laize da botti di rovere.
+  nl:
+  - débutant:
+    - id: 1
+      question: Welk bos is een emblematische site van de Eerste Wereldoorlog ?
+      propositions:
+      - Bos van Verdun
+      - Bos van Gâvre
+      - Bos van de Landes
+      - Paimpont Forest
+      réponse: Bos van Verdun
+      anecdote: Voormalige landbouwpercelen waren verboden vanwege explosieven, chemische munitie en niet-ontplofte munitie.
+    - id: 2
+      question: Hoe groot is het bos van de derde staat in Europees Frankrijk ?
+      propositions:
+      - Forest Compiègne
+      - Tusson Forest
+      - Creuse Forest
+      - Cranou Forest
+      réponse: Forest Compiègne
+      anecdote: Geometrisch vormt de omtrek van het woud een cirkel met een diameter van 14 km en 43 km van de omtrek.
+    - id: 3
+      question: Welk Frans bos van 1.200 ha ligt ten oosten van Rennes ?
+      propositions:
+      - Lorge Forest
+      - Bos van Chevrè
+      - Ferrieres Forest
+      - Seillon Forest
+      réponse: Bos van Chevrè
+      anecdote: Een deel van het bos van Chevré is een beschermd natuurlijk ensemble met de bossen van Rennes, Liffré en Saint-Aubin-du-Cormier.
+    - id: 4
+      question: Welk staatsbos is het grootste in het departement Finistère ?
+      propositions:
+      - Bonifatu Forest
+      - Cranou Forest
+      - Montfort Forest
+      - Bos van Grésigne
+      réponse: Cranou Forest
+      anecdote: Het Cranou-woud werd uitgebuit voor de houtbehoeften van de Koninklijke Marine in Brest, waarbij de stammen werden vervoerd via de haven van Faou.
+    - id: 5
+      question: Welk bos inspireerde Victor Hugo voor zijn Th ?nardier-boerderij ?
+      propositions:
+      - Vercors Forest
+      - Bondy Forest
+      - Corsuet-bos
+      - Castle Forest
+      réponse: Bondy Forest
+      anecdote: Het regionale bos van Bondy is een overblijfsel van het oude Bondy-bos dat zich uitstrekte over een groot deel van het Aulnoye-land.
+    - id: 6
+      question: De naam van welk bos zou komen van de oude Breton, wat betekent boeman of reus ?
+      propositions:
+      - Saou Forest
+      - Brotonne-bos
+      - Bos van Pertre
+      - Bos van Gâvre
+      réponse: Bos van Gâvre
+      anecdote: Het bos van Gâvre was eigendom van de graven van Nantes, de hertogen van Bretagne en de koningen van Frankrijk voordat ze een staatsbos werden.
+    - id: 7
+      question: Wat is het grootste kunstmatige bos in West-Europa ?
+      propositions:
+      - Bos van Chevrè
+      - Creuse Forest
+      - Bos van de Landes
+      - Benon Forest
+      réponse: Bos van de Landes
+      anecdote: Het bos van de Lande, begrensd door de Atlantische Oceaan, vormt een enorme driehoek die drie departementen beslaat (Gironde, Landes en Lot-et-Garonne).
+    - id: 8
+      question: Welk bos van Corsica bezet een majestueus bergachtig circus ?
+      propositions:
+      - Bonifatu Forest
+      - Tusson Forest
+      - Vercors Forest
+      - Chantilly Forest
+      réponse: Bonifatu Forest
+      anecdote: Het bezet de hellingen vaak steile hellingen van al circus Bonifatu, zich uitrekt tussen 300 en 2000 meters boven overzees - niveau.
+    - id: 9
+      question: Welk bos wordt soms geïdentificeerd met het bos van Brocéliande ?
+      propositions:
+      - Seillon Forest
+      - Thelle Forest
+      - Bondy Forest
+      - Paimpont Forest
+      réponse: Paimpont Forest
+      anecdote: Het bos van Paimpont bezit een aantrekkingskracht voor de aanhangers van neo-agressie die daar periodiek samenkomen.
+    - id: 10
+      question: De naam van welk bos herinnert aan de ijzeren smederijen van de Middeleeuwen ?
+      propositions:
+      - Ferrieres Forest
+      - Bos van Dourdan
+      - Montfort Forest
+      - Bos van Pertre
+      réponse: Ferrieres Forest
+      anecdote: Het was voorheen eigendom van religieuze gemeenschappen en later van de familie Rothschild en behoort nu tot de regio Ile-de-France.
+  - confirmé:
+    - id: 11
+      question: Welke bosheuvel ligt aan de oostelijke rand van het meer van Bourget ?
+      propositions:
+      - Bos van Dourdan
+      - Lorge Forest
+      - Corsuet-bos
+      - Brotonne-bos
+      réponse: Corsuet-bos
+      anecdote: Het Corsuet-bos en zijn wandelpaden worden beheerd door de agglomeratiegemeenschap van het meer van Bourget.
+    - id: 12
+      question: Welk bos in de Tarn wordt begrensd door de GR 46-wandelroute ?
+      propositions:
+      - Cranou Forest
+      - Bos van Grésigne
+      - Creuse Forest
+      - Castle Forest
+      réponse: Bos van Grésigne
+      anecdote: Het overwicht van de eiken (60 % van de eiken eiken standaard) maakt het Grésigne de grootste eik in de middag.
+    - id: 13
+      question: Welk bosmassief ligt ongeveer dertig kilometer ten noorden van Angoulême ?
+      propositions:
+      - Tusson Forest
+      - Taillard Forest
+      - Chantilly Forest
+      - Vercors Forest
+      réponse: Tusson Forest
+      anecdote: De stukken zijn een interessante flora, waarvan de mantel de thuisbasis is van een rijke populatie van nestelende roofvogels, waaronder overdag.
+    - id: 14
+      question: Welk bos is in 1999 op 300 hectare verwoest door de storm Lothar ?
+      propositions:
+      - Bos van de Landes
+      - Montfort Forest
+      - Lorge Forest
+      - Bos van Chevrè
+      réponse: Montfort Forest
+      anecdote: Voormalige feodale bos, het bos van Montfort terug tweemaal in het bezit van het koninkrijk van Frankrijk (in 1024 en 1784).
+    - id: 15
+      question: Welk staatsbos van 600 hectare werd gecre ?erd door de kartuizers ?
+      propositions:
+      - Bos van Gâvre
+      - Bos van Retz
+      - Seillon Forest
+      - Ferrieres Forest
+      réponse: Seillon Forest
+      anecdote: Aan de rand van het bos van Seillon ligt het kartuizerklooster van Seillon, dat zijn oorsprong vond in een Benedictijnse priorij uit de twaalfde eeuw.
+    - id: 16
+      question: Welk bos staat vooral bekend om zijn vallei met orchideeën ?
+      propositions:
+      - Saou Forest
+      - Corsuet-bos
+      - Bos van Pertre
+      - Creuse Forest
+      réponse: Creuse Forest
+      anecdote: Dit bos bestaat uit twee kantons: het Bois de Creuse, toegankelijk voor het publiek, en het Bois de Malplatel, meer wild.
+    - id: 17
+      question: Welk bos van Frankrijk herbergt de eik van de zes broeders, 500 jaar oud ?
+      propositions:
+      - Paimpont Forest
+      - Castle Forest
+      - Bos van Dourdan
+      - Bondy Forest
+      réponse: Bos van Dourdan
+      anecdote: Een bedevaartsoord, het is zo genoemd omdat, zeldzaam, de boomstronk (de sepia, die het resultaat is van een enkele eikel) is verdeeld in zes trunks.
+    - id: 18
+      question: Welk bos, ten westen van Rouen, is bereikbaar via een brug ?
+      propositions:
+      - Bos van Grésigne
+      - Brotonne-bos
+      - Cranou Forest
+      - Benon Forest
+      réponse: Brotonne-bos
+      anecdote: Het bos van Brotonne herbergt twee opmerkelijke gebouwen : de Hauville-torenmolen en de gemeenschappelijke broodoven Haye-de-Routot.
+    - id: 19
+      question: Welk in wezen rendierlijk bos wordt verspreid over Isère en de Drôme ?
+      propositions:
+      - Ferrieres Forest
+      - Vercors Forest
+      - Montfort Forest
+      - Thelle Forest
+      réponse: Vercors Forest
+      anecdote: De Vercors omvatten: Quatre-Montagnes, Trièves, Vercors drômois, Royans isérois, Royans drômois, Gervanne en Diois.
+    - id: 20
+      question: In welk bos van Oise 6 344 hectare wonen niet minder dan zes historische monumenten ?
+      propositions:
+      - Bonifatu Forest
+      - Bos van de Landes
+      - Chantilly Forest
+      - Tusson Forest
+      réponse: Chantilly Forest
+      anecdote: Het bos van Chantilly profiteert van verschillende soorten bescherming die betrekking hebben op het landschap, de natuurlijke omgeving en de soorten die er leven.
+  - expert:
+    - id: 21
+      question: Welk bos van de Dr ?me wordt vaak vergeleken met de scheepsromp ?
+      propositions:
+      - Saou Forest
+      - Seillon Forest
+      - Bos van Dourdan
+      - Bos van Chevrè
+      réponse: Saou Forest
+      anecdote: Slechts twee rotsen maken het mogelijk om het langs de weg te bereiken: naar het noorden, de Lauzens-trede en naar het zuiden, de Pertuis-pas.
+    - id: 22
+      question: In welk bos komen we in maart de hoogste bergtoppen tegen ?
+      propositions:
+      - Bos van Gâvre
+      - Carnelle Forest
+      - Castle Forest
+      - Paimpont Forest
+      réponse: Castle Forest
+      anecdote: De Zwarte Ooievaar, de Paarse Reiger en de Kiekendief hebben de regio de afgelopen jaren steeds vaker bezocht.
+    - id: 23
+      question: Welk bos van de Armor Coast is het theater geweest van verschillende SS-optredens ?
+      propositions:
+      - Bos van Grésigne
+      - Lorge Forest
+      - Corsuet-bos
+      - Sinhala Forest
+      réponse: Lorge Forest
+      anecdote: Er is een gedenkteken opgericht in de omgeving van de Red Butte in L'Hermitage-Lorge ter nagedachtenis aan deze opnamen.
+    - id: 24
+      question: Welk bos van Ille-et-Vilaine was het strijdtoneel tussen Chouans en Republikeinen ?
+      propositions:
+      - Bondy Forest
+      - Taillard Forest
+      - Saou Forest
+      - Bos van Pertre
+      réponse: Bos van Pertre
+      anecdote: Het bos van de Pertre was een van de favoriete toevluchtsoorden van de Chouans, die de revolutionaire autoriteiten graag wilde neutraliseren.
+    - id: 25
+      question: Welk bos biedt een bewonderenswaardig uitzicht op de Surelle-vallei ?
+      propositions:
+      - Bos van Chevrè
+      - Tusson Forest
+      - Thelle Forest
+      - Montfort Forest
+      réponse: Thelle Forest
+      anecdote: Het nationale bos van Thelle is een van de 64 belangrijkste natuurgebieden van de voormalige administratieve regio Picardië.
+    - id: 26
+      question: Welk bos is vandaag het enige bos van Aunis ?
+      propositions:
+      - Ferrieres Forest
+      - Benon Forest
+      - Seillon Forest
+      - Bos van de Landes
+      réponse: Benon Forest
+      anecdote: Het is in wezen een loofbos van eikenbomen met een totale oppervlakte van 3.300 hectare.
+    - id: 27
+      question: Welk bos van Frankrijk wordt ook bos van Villers-Cotterets genoemd ?
+      propositions:
+      - Creuse Forest
+      - Castle Forest
+      - Bos van Retz
+      - Cranou Forest
+      réponse: Bos van Retz
+      anecdote: In tegenstelling tot andere Franse ruimtes met een niet-statische bosluifel, zijn contouren alleen in de loop van de eeuwen genezen.
+    - id: 28
+      question: Het bos waarvan bos werd gebruikt voor de bouw van de huizen van Saint-Sauveur ?
+      propositions:
+      - Brotonne-bos
+      - Vercors Forest
+      - Bos van Dourdan
+      - Taillard Forest
+      réponse: Taillard Forest
+      anecdote: Tijdens de industriële opleving werd Taillard Forest gebruikt om houtmijnen te voorzien voor het gebruik van liggers.
+    - id: 29
+      question: Welk bos bevindt zich op een butte-getuige die de vlakte van Frankrijk domineert ?
+      propositions:
+      - Carnelle Forest
+      - Paimpont Forest
+      - Bos van Gâvre
+      - Chantilly Forest
+      réponse: Carnelle Forest
+      anecdote: Onder de fauna zijn herten, wilde zwijnen of herten uit het bos van Chantilly, vossen, dassen en konijnen.
+    - id: 30
+      question: Het woud waarvan het bos de ketel van de trein voedde die Caen met Falaise verbond ?
+      propositions:
+      - Sinhala Forest
+      - Corsuet-bos
+      - Bos van Grésigne
+      - Montfort Forest
+      réponse: Sinhala Forest
+      anecdote: Het bos van Sinhales werd gebruikt om de looierijen van de Laizevallei vanuit eiken vaten te leveren.

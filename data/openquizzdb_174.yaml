@@ -1,0 +1,1650 @@
+---
+fournisseur: OpenQuizzDB - Fournisseur de contenu libre (https://www.openquizzdb.org)
+rédacteur: Philippe Bresoux
+thème: Villes du monde (Bien loin de la vie champêtre)
+difficulté: 2 / 5
+quizz:
+  fr:
+  - débutant:
+    - id: 1
+      question: À quelle ville de France l'andouillette, le saucisson et Guignol vous font-ils penser ?
+      propositions:
+      - Cannes
+      - Lyon
+      - Marseille
+      - Nice
+      réponse: Lyon
+      anecdote: Lyon est en situation de carrefour géographique, au nord du couloir naturel de la vallée du Rhône.
+    - id: 2
+      question: Quelle ville, capitale de la Grèce, comprend notamment le port du Pirée ?
+      propositions:
+      - Patras
+      - Héraklion
+      - Athènes
+      - Larissa
+      réponse: Athènes
+      anecdote: Athènes est l'une des plus anciennes villes au monde, avec une présence humaine attestée dès le Néolithique.
+    - id: 3
+      question: De quelle ville du Sud-Ouest de la France proviennent de célèbres pruneaux AOC ?
+      propositions:
+      - Nérac
+      - Agen
+      - Marmande
+      - Tonneins
+      réponse: Agen
+      anecdote: Le nom d'Agen est associé au pruneau, dont la zone de production principale est essentiellement située en Lot-et-Garonne.
+    - id: 4
+      question: De quelle couleur sont les cabines téléphoniques de la ville de Londres ?
+      propositions:
+      - Verte
+      - Blanche
+      - Jaune
+      - Rouge
+      réponse: Rouge
+      anecdote: Ville touristique européenne par excellence, Londres fut fondée il y a presque 2 000 ans par les Romains sous le nom de Londinium.
+    - id: 5
+      question: Quelle ville réputée pour la qualité de ses cigares est aussi la capitale de Cuba ?
+      propositions:
+      - Guantanamo
+      - Santiago de Cuba
+      - Santa Clara
+      - La Havane
+      réponse: La Havane
+      anecdote: L'emplacement actuel de la ville de La Havane se situe sur la côte nord de l'île de Cuba et dans la partie ouest de celle-ci.
+    - id: 6
+      question: À la fois ville et province, de quel pays Bangkok est-elle la capitale ?
+      propositions:
+      - Thaïlande
+      - Laos
+      - Birmanie
+      - Malaisie
+      réponse: Thaïlande
+      anecdote: Le boom économique asiatique des années 1980-1990 a amené de nombreuses multinationales à rapidement s'installer à Bangkok.
+    - id: 7
+      question: À quelle grande ville d'Afrique l'explorateur Savorgnan de Brazza a-t-il donné son nom ?
+      propositions:
+      - Libreville
+      - Nairobi
+      - Kinshasa
+      - Brazzaville
+      réponse: Brazzaville
+      anecdote: La ville de Brazzaville a été fondée le 3 octobre 1880 à l'emplacement des anciens bourgs précoloniaux de Nkuna.
+    - id: 8
+      question: Quelle capitale est également le centre politique et culturel de la Chine ?
+      propositions:
+      - Tokyo
+      - Hong Kong
+      - Shanghai
+      - Pékin
+      réponse: Pékin
+      anecdote: Située à proximité de la Grande Muraille, Pékin abrite des monuments célèbres comme la Cité interdite et le Temple du ciel.
+    - id: 9
+      question: Laquelle de ces quatre villes espagnoles ne possède pas un port de renom ?
+      propositions:
+      - Valence
+      - Malaga
+      - Madrid
+      - Barcelone
+      réponse: Madrid
+      anecdote: Située en plein coeur du royaume d'Espagne, Madrid est la capitale mais aussi la ville la plus peuplée de la Communauté de Madrid.
+    - id: 10
+      question: Dans quel pays à forte densité de population la ville de Calcutta est-elle située ?
+      propositions:
+      - Birmanie
+      - Brésil
+      - Bangladesh
+      - Inde
+      réponse: Inde
+      anecdote: Calcutta est connue pour avoir abrité la fondation de la congrégation religieuse des Missionnaires de la Charité par Mère Teresa.
+  - confirmé:
+    - id: 11
+      question: Quelle est la capitale ainsi que la plus grande ville du territoire égyptien ?
+      propositions:
+      - Louxor
+      - Le Caire
+      - Suez
+      - Alexandrie
+      réponse: Le Caire
+      anecdote: Avec ses seize millions d'habitants, Le Caire est la plus grande ville du Moyen-Orient et la seconde ville d'Afrique derrière Lagos.
+    - id: 12
+      question: Célèbre pour son industrie cinématographique, dans quel pays se situe la ville de Bombay ?
+      propositions:
+      - Népal
+      - Sri Lanka
+      - Inde
+      - Pakistan
+      réponse: Inde
+      anecdote: Bombay forme avec les villes de Navi Mumbai, Bhiwandi, Kalyan, Ulhasnagar et Thane une agglomération de 18 500 000 habitants.
+    - id: 13
+      question: Dans laquelle de ces villes peut-on contempler un célèbre pain de sucre ?
+      propositions:
+      - Le Caire
+      - Brazzaville
+      - Rio de Janeiro
+      - La Havane
+      réponse: Rio de Janeiro
+      anecdote: Le Christ Rédempteur est une immense statue du Christ dominant la ville de Rio de Janeiro, surplombant le mont du Corcovado.
+    - id: 14
+      question: Quelle capitale administrative des Pays-Bas est le siège de nombreuses institutions ?
+      propositions:
+      - Rotterdam
+      - Amsterdam
+      - La Haye
+      - Utrecht
+      réponse: La Haye
+      anecdote: La Haye est également la ville où siègent la Cour internationale de justice, la Cour pénale internationale, Europol et Eurojust.
+    - id: 15
+      question: Combien y a-t-il de communes à Paris situées sur une boucle de la Seine ?
+      propositions:
+      - 13
+      - 22
+      - Une seule
+      - 9
+      réponse: Une seule
+      anecdote: D'après le recensement de l'Insee, la commune de Paris comptait au 1er janvier 2012 plus de deux millions d'habitants.
+    - id: 16
+      question: Tripoli est une ville du Liban mais se trouve être aussi la capitale de quel pays ?
+      propositions:
+      - Tunisie
+      - Soudan
+      - Maroc
+      - Libye
+      réponse: Libye
+      anecdote: Tripoli est la plus grande ville, le principal port et le plus grand centre industriel, commercial et touristique de Libye.
+    - id: 17
+      question: Quelle ville est aussi importante pour l'Afrique que pour le monde arabe ?
+      propositions:
+      - Alexandrie
+      - Le Caire
+      - Assouan
+      - Suez
+      réponse: Le Caire
+      anecdote: Centre névralgique de la ville moderne, la place Tahrir est devenue pour la planète l'emblème de la révolution égyptienne de 2011.
+    - id: 18
+      question: Avec ses nombreux canaux, sur les rives de quelle mer la ville de Venise est-elle située ?
+      propositions:
+      - Noire
+      - Ionienne
+      - Égée
+      - Adriatique
+      réponse: Adriatique
+      anecdote: Menacée par le climat, Venise s'étend sur un ensemble de 118 petites îles séparées par un réseau de canaux et reliées par des ponts.
+    - id: 19
+      question: Dans quelle ville recense-t-on à ce jour le plus grand nombre de taxis au monde ?
+      propositions:
+      - Londres
+      - Tokyo
+      - New York
+      - Brasilia
+      réponse: New York
+      anecdote: Les célèbres taxis jaunes sont exploités par des sociétés privées, agréées par la Commission de Taxi et Limousine de New York.
+    - id: 20
+      question: Quelle capitale du Népal était une étape bien connue de la communauté hippies ?
+      propositions:
+      - Lalitpur
+      - Dharan
+      - Katmandou
+      - Pokhara
+      réponse: Katmandou
+      anecdote: Katmandou ne possède pas de réseau souterrain de canalisations et dispose dès lors d'une alimentation en eau insuffisante.
+  - expert:
+    - id: 21
+      question: Au bord de quoi la ville américaine de Chicago a-t-elle été construite ?
+      propositions:
+      - Volcan
+      - Faille
+      - Océan
+      - Lac
+      réponse: Lac
+      anecdote: La ville de Chicago, qui constitue le deuxième centre industriel des États-Unis, appartient à la Ceinture des industries.
+    - id: 22
+      question: Quelle est la nationalité des habitants de l'île de Taïwan, aussi appelée Formose ?
+      propositions:
+      - Coréenne
+      - Népalaise
+      - Chinoise
+      - Japonaise
+      réponse: Chinoise
+      anecdote: Le climat de Taïwan est tropical au sud et subtropical humide au nord : les étés y sont chauds et les hivers relativement doux.
+    - id: 23
+      question: Combien y a-t-il environ d'habitants à Mexico, capitale et ville la plus peuplée du Mexique ?
+      propositions:
+      - 12 millions
+      - 16 millions
+      - 20 millions
+      - 8 millions
+      réponse: 20 millions
+      anecdote: L'aire urbaine de Mexico, recensée comme la troisième plus peuplée du monde, s'étale sur une surface de 60 km sur 100 km environ.
+    - id: 24
+      question: Dans quelle région historique d'Espagne se situe la célèbre ville de Barcelone ?
+      propositions:
+      - Catalogne
+      - Andalousie
+      - Galice
+      - Castille
+      réponse: Catalogne
+      anecdote: Barcelone est la deuxième ville d'Espagne en termes de population, d'économie et d'activités et la onzième la plus peuplée de l'UE.
+    - id: 25
+      question: Comment appelle-t-on le quartier arabe ou la médina d'Alger ?
+      propositions:
+      - Souk
+      - Torah
+      - Casbah
+      - Bled
+      réponse: Casbah
+      anecdote: L'histoire de la Casbah d'Alger remonte à l'Antiquité, où elle fut d'abord un port punique, puis berbère et enfin romain.
+    - id: 26
+      question: De quel pays Rangoun est-elle la plus grande ville en nombre d'habitants ?
+      propositions:
+      - Laos
+      - Malaisie
+      - Philippines
+      - Birmanie
+      réponse: Birmanie
+      anecdote: Le nom de la capitale du pays (Rangoon/Rangoun) peut être traduit comme fin de la discorde ou fin du conflit.
+    - id: 27
+      question: Dans quel pays se trouve Hammerfest, la ville la plus au nord de l'Europe ?
+      propositions:
+      - Suède
+      - Norvège
+      - Finlande
+      - Écosse
+      réponse: Norvège
+      anecdote: Située dans le comté de Finnmark, on dit souvent d'Hammerfest qu'elle est la ville la plus septentrionale du monde.
+    - id: 28
+      question: Quelle capitale du Liberia est située au bord de l'océan Atlantique ?
+      propositions:
+      - Grand Bassa
+      - Lofa
+      - Monrovia
+      - Nimba
+      réponse: Monrovia
+      anecdote: Monrovia joue un grand rôle dans l'économie du pays en y assurant l'essentiel des exportations de minerai de fer.
+    - id: 29
+      question: Dans quel pays peut-on déambuler dans les rues de Constantine, Oran ou encore Annaba ?
+      propositions:
+      - Algérie
+      - Turquie
+      - Tunisie
+      - Jordanie
+      réponse: Algérie
+      anecdote: Constantine est également surnommée la ville des ponts suspendus, la ville du vieux rocher ou encore la ville des oulémas.
+    - id: 30
+      question: À Hong Kong, quel funiculaire relie le quartier de Central à Victoria Peak ?
+      propositions:
+      - Cross-Harbour
+      - Octopus
+      - Peak Tram
+      - Tsing Ma
+      réponse: Peak Tram
+      anecdote: Le funiculaire est le moyen de transport qui offre aux touristes une des plus belles vues sur le port et les gratte-ciels de Hong Kong.
+  en:
+  - débutant:
+    - id: 1
+      question: In which city of France the andouillette, sausage and Guignol do they make you think ?
+      propositions:
+      - Cannes
+      - Nice
+      - Marseille
+      - Lyon
+      réponse: Lyon
+      anecdote: Lyon is in a geographical crossroads, north of the natural corridor of the Rhine valley.
+    - id: 2
+      question: Which city, capital of Greece, includes the port of Piraeus ?
+      propositions:
+      - Athens
+      - Patras
+      - Heraklion
+      - Larissa
+      réponse: Athens
+      anecdote: Athens is one of the oldest cities in the world, with a human presence attested by the Neolithic.
+    - id: 3
+      question: Which town in the south-west of France come from famous prunes AOC ?
+      propositions:
+      - Agen
+      - Tonneins
+      - Nérac
+      - Marmande
+      réponse: Agen
+      anecdote: The name Agen is definitely associated with the prune, whose production area is mainly located in Lot-et-Garonne.
+    - id: 4
+      question: What color are the telephone booths of the city of London ?
+      propositions:
+      - Yellow
+      - Green
+      - Blanche
+      - Red
+      réponse: Red
+      anecdote: London was founded almost 2,000 years ago by the Romans under the name Londinium.
+    - id: 5
+      question: Which city is the capital of Cuba, also famous for its cigars ?
+      propositions:
+      - Havana
+      - Santiago de Cuba
+      - Guantanamo
+      - Santa Clara
+      réponse: Havana
+      anecdote: The current location of the city is located on the northern coast of the island of Cuba and in the western part of Cuba.
+    - id: 6
+      question: At the same time city and province, from which country is Bangkok the capital ?
+      propositions:
+      - Thailand
+      - Malaysia
+      - Burma
+      - Laos
+      réponse: Thailand
+      anecdote: The Asian economic boom of the 1980s-90s brought many multinationals to settle in Bangkok.
+    - id: 7
+      question: In which city of Africa did the explorer Savorgnan de Brazza give his name ?
+      propositions:
+      - Brazzaville
+      - Nairobi
+      - Libreville
+      - Kinshasa
+      réponse: Brazzaville
+      anecdote: The city was founded on October 3, 1880 at the site of the former pre-colonial townships named by Nkuna.
+    - id: 8
+      question: Which capital is also the political and cultural center of China ?
+      propositions:
+      - Hong Kong
+      - Tokyo
+      - Beijing
+      - Shanghai
+      réponse: Beijing
+      anecdote: Located near the Great Wall, Beijing is home to famous landmarks such as the Forbidden City and the Temple of Heaven.
+    - id: 9
+      question: Which of these four Spanish cities is not a port ?
+      propositions:
+      - Valencia
+      - Malaga
+      - Barcelona
+      - Madrid
+      réponse: Madrid
+      anecdote: Madrid is located in the heart of the kingdom and is the capital and the most populous city of the Community of Madrid.
+    - id: 10
+      question: In which country with a high population density is the city of Calcutta located ?
+      propositions:
+      - Brazil
+      - India
+      - Bangladesh
+      - Burma
+      réponse: India
+      anecdote: The city is known to have sheltered the foundation of the religious congregation of Missionaries of Charity by Mother Teresa.
+  - confirmé:
+    - id: 11
+      question: What is the capital and the largest city in Egypt ?
+      propositions:
+      - Alexandria
+      - Cairo
+      - Suez
+      - Luxor
+      réponse: Cairo
+      anecdote: With its sixteen million inhabitants, Cairo is the largest city in the Middle East and the second largest in Africa behind Lagos.
+    - id: 12
+      question: Famous for its cinematographic industry, in which country is the city of Bombay located ?
+      propositions:
+      - Pakistan
+      - India
+      - Sri Lanka
+      - Nepal
+      réponse: India
+      anecdote: Bombay forms with Navi Mumbai, Bhiwandi, Kalyan, Ulhasnagar and Thane an agglomeration of 18,500,000 inhabitants.
+    - id: 13
+      question: In which of these cities can one contemplate a famous 'sugar loaf' ?
+      propositions:
+      - Cairo
+      - Brazzaville
+      - Havana
+      - Rio de Janeiro
+      réponse: Rio de Janeiro
+      anecdote: Christ the Redeemer is a large statue of Christ dominating the city of Rio de Janeiro, from the top of Mount Corcovado.
+    - id: 14
+      question: Which city is the administrative capital of the Netherlands ?
+      propositions:
+      - Amsterdam
+      - The Hague
+      - Rotterdam
+      - Utrecht
+      réponse: The Hague
+      anecdote: The Hague is also the city where the International Court of Justice, the International Criminal Court, Europol and Eurojust sit.
+    - id: 15
+      question: How many towns are there in Paris, located on a loop of the Seine ?
+      propositions:
+      - One
+      - 9
+      - 22
+      - 13
+      réponse: One
+      anecdote: According to the census of INSEE, the commune of Paris had on January 1, 2012, more than two million inhabitants.
+    - id: 16
+      question: Tripoli is a city of Lebanon but also the capital of which country ?
+      propositions:
+      - Libya
+      - Tunisia
+      - Sudan
+      - Morocco
+      réponse: Libya
+      anecdote: Tripoli is the largest city, the main port, and the largest industrial and commercial center of Libya.
+    - id: 17
+      question: Which city is as important for Africa as for the Arab world ?
+      propositions:
+      - Assouan
+      - Suez
+      - Alexandria
+      - Cairo
+      réponse: Cairo
+      anecdote: A nerve center of the modern city, Tahrir Square has become the emblem of the 2011 Egyptian Revolution.
+    - id: 18
+      question: On the shores of which sea is the city of Venice located ?
+      propositions:
+      - Ionian
+      - Elderly
+      - Adriatic
+      - Black
+      réponse: Adriatic
+      anecdote: Venice extends over a set of 118 small islands separated by a network of canals and connected by bridges.
+    - id: 19
+      question: In which city do we find the largest number of taxis in the world ?
+      propositions:
+      - New York
+      - Tokyo
+      - London
+      - Brasilia
+      réponse: New York
+      anecdote: Taxis are operated by private companies, licensed by the New York Taxi and Limousine Commission.
+    - id: 20
+      question: What is the capital of Nepal, old hippies stage ?
+      propositions:
+      - Dharan
+      - Pokhara
+      - Kathmandu
+      - Lalitpur
+      réponse: Kathmandu
+      anecdote: Kathmandu does not have an underground network of canals and has an insufficient water supply.
+  - expert:
+    - id: 21
+      question: Where is the city of Chicago built ?
+      propositions:
+      - Lake
+      - Océan
+      - Faille
+      - Volcano
+      réponse: Lake
+      anecdote: Chicago is the second largest industrial center in the United States and belongs to the Industrial Belt.
+    - id: 22
+      question: What is the nationality of the inhabitants of Taiwan, also called Formosa ?
+      propositions:
+      - Japanese
+      - Korean
+      - Chinese
+      - Nepalese
+      réponse: Chinese
+      anecdote: The climate of Taiwan is tropical to the south and humid subtropical to the north: the summers are warm and winters are mild.
+    - id: 23
+      question: How many inhabitants are there in Mexico City, the capital and most populous city in Mexico ?
+      propositions:
+      - 12 million
+      - 16 million
+      - 8 million
+      - 20 million
+      réponse: 20 million
+      anecdote: The urban area of Mexico City, the third most populous city in the world, is spread over an area of 60 km / 100 km.
+    - id: 24
+      question: In which historical region of Spain is Barcelona located ?
+      propositions:
+      - Castile
+      - Andalusia
+      - Catalonia
+      - Galicia
+      réponse: Catalonia
+      anecdote: Barcelona is the second largest city in Spain in terms of population, economy and activities, the most populous eleventh largest in the EU.
+    - id: 25
+      question: What is the name of the Arab Quarter or the Medina of Algiers ?
+      propositions:
+      - Casbah
+      - Bled
+      - Souk
+      - Torah
+      réponse: Casbah
+      anecdote: The history of the Kasbah of Algiers goes back to Antiquity, where it was first a Punic port, then Berber and finally Roman.
+    - id: 26
+      question: Which country is Rangoon the largest city in terms of number of inhabitants ?
+      propositions:
+      - Laos
+      - Philippines
+      - Burma
+      - Malaysia
+      réponse: Burma
+      anecdote: The name of the country's capital (Rangoon / Rangoon) can be translated as the end of the discord or the end of the conflict.
+    - id: 27
+      question: In which country is Hammerfest, the northernmost city of Europe ?
+      propositions:
+      - Finland
+      - Scotland
+      - Sweden
+      - Norway
+      réponse: Norway
+      anecdote: Located in Finnmark County, Hammerfest is said to be the most northerly city in the world.
+    - id: 28
+      question: Which capital of Liberia is located at the edge of the Atlantic Ocean ?
+      propositions:
+      - Monrovia
+      - Lofa
+      - Nimba
+      - Grand Bassa
+      réponse: Monrovia
+      anecdote: Monrovia plays a big role in the country's economy by providing the bulk of iron ore exports.
+    - id: 29
+      question: In which country are the cities of Constantine, Oran and Annaba ?
+      propositions:
+      - Jordan
+      - Tunisia
+      - Turkey
+      - Algeria
+      réponse: Algeria
+      anecdote: Constantine is also nicknamed the City of Hanging Bridges, the Old Rock City or the City of the Elves.
+    - id: 30
+      question: Which cable car connects Central District to Victoria Peak in Hong Kong ?
+      propositions:
+      - Tsing Ma
+      - Octopus
+      - Cross-Harbor
+      - Peak Tram
+      réponse: Peak Tram
+      anecdote: It is the means of transport that offers tourists one of the best views of the port and skyscrapers of Hong Kong.
+  de:
+  - débutant:
+    - id: 1
+      question: In welcher Stadt von Frankreich bringen Sie Andouillette, Wurst und Guignol zum Nachdenken ?
+      propositions:
+      - Marseille
+      - Nizza
+      - Lyon
+      - Cannes
+      réponse: Lyon
+      anecdote: Lyon liegt an einer geografischen Kreuzung nördlich des natürlichen Korridors des Rheintals.
+    - id: 2
+      question: In welcher Stadt, Hauptstadt von Griechenland, befindet sich der Hafen von Piräus ?
+      propositions:
+      - Heraklion
+      - Larissa
+      - Athen
+      - Patras
+      réponse: Athen
+      anecdote: Athen ist eine der ältesten Städte der Welt, deren Anwesenheit vom Neolithikum bezeugt wird.
+    - id: 3
+      question: Welche Stadt im Südwesten Frankreichs stammt von berühmten AOC-Pflaumen ?
+      propositions:
+      - Nérac
+      - Marmande
+      - Agen
+      - Tonneins
+      réponse: Agen
+      anecdote: Der Name Agen ist eindeutig mit der Pflaume verbunden, deren Anbaugebiet hauptsächlich in Lot-et-Garonne liegt.
+    - id: 4
+      question: Welche Farbe haben die Telefonzellen der Stadt London ?
+      propositions:
+      - Blanche
+      - Gelb
+      - Rot
+      - Grün
+      réponse: Rot
+      anecdote: London wurde vor fast 2.000 Jahren von den Römern unter dem Namen Londinium gegründet.
+    - id: 5
+      question: Welche Stadt ist die Hauptstadt Kubas, auch berühmt für ihre Zigarren ?
+      propositions:
+      - Havanna
+      - Santa Clara
+      - Guantanamo
+      - Santiago de Cuba
+      réponse: Havanna
+      anecdote: Der heutige Standort der Stadt liegt an der Nordküste der Insel Kuba und im Westen Kubas.
+    - id: 6
+      question: Gleichzeitig Stadt und Provinz, aus welchem Land ist Bangkok die Hauptstadt ?
+      propositions:
+      - Burma
+      - Laos
+      - Malaysia
+      - Thailand
+      réponse: Thailand
+      anecdote: Der wirtschaftliche Aufschwung Asiens in den achtziger und neunziger Jahren brachte viele multinationale Konzerne dazu, sich in Bangkok niederzulassen.
+    - id: 7
+      question: In welcher Stadt Afrikas hat der Forscher Savorgnan de Brazza seinen Namen genannt ?
+      propositions:
+      - Brazzaville
+      - Kinshasa
+      - Nairobi
+      - Libreville
+      réponse: Brazzaville
+      anecdote: Die Stadt wurde am 3. Oktober 1880 an der Stelle der ehemaligen vorkolonialen Städte gegründet, die als Nkuna bezeichnet wurden.
+    - id: 8
+      question: Welches Kapital ist auch das politische und kulturelle Zentrum Chinas ?
+      propositions:
+      - Hongkong
+      - Peking
+      - Shanghai
+      - Tokyo
+      réponse: Peking
+      anecdote: Peking liegt in der Nähe der Großen Mauer und beherbergt berühmte Sehenswürdigkeiten wie die Verbotene Stadt und den Himmelstempel.
+    - id: 9
+      question: Welche dieser vier spanischen Städte ist kein Hafen ?
+      propositions:
+      - Valencia
+      - Madrid
+      - Barcelona
+      - Malaga
+      réponse: Madrid
+      anecdote: Madrid liegt im Herzen des Königreichs und ist die Hauptstadt und die bevölkerungsreichste Stadt der Gemeinschaft von Madrid.
+    - id: 10
+      question: In welchem Land mit einer hohen Bevölkerungsdichte liegt die Stadt Kalkutta ?
+      propositions:
+      - Indien
+      - Brasilien
+      - Burma
+      - Bangladesch
+      réponse: Indien
+      anecdote: Es ist bekannt, dass die Stadt die Gründung der Ordensgemeinschaft der Missionare der Nächstenliebe von Mutter Teresa beherbergt hat.
+  - confirmé:
+    - id: 11
+      question: Was ist die Hauptstadt und die größte Stadt in Ägypten ?
+      propositions:
+      - Alexandria
+      - Suez
+      - Luxor
+      - Kairo
+      réponse: Kairo
+      anecdote: Kairo ist mit seinen 16 Millionen Einwohnern die größte Stadt im Nahen Osten und nach Lagos die zweitgrößte in Afrika.
+    - id: 12
+      question: Berühmt für seine Filmindustrie, in welchem Land liegt die Stadt Bombay ?
+      propositions:
+      - Sri Lanka
+      - Pakistan
+      - Indien
+      - Nepal
+      réponse: Indien
+      anecdote: Bombay bildet mit Navi Mumbai, Bhiwandi, Kalyan, Ulhasnagar und Thane eine Agglomeration von 18.500.000 Einwohnern.
+    - id: 13
+      question: In welcher dieser Städte kann man einen berühmten 'Zuckerhut' betrachten ?
+      propositions:
+      - Rio de Janeiro
+      - Brazzaville
+      - Havanna
+      - Kairo
+      réponse: Rio de Janeiro
+      anecdote: Christus der Erlöser ist eine große Christusstatue, die die Stadt Rio de Janeiro vom Gipfel des Corcovado beherrscht.
+    - id: 14
+      question: Welche Stadt ist die Verwaltungshauptstadt der Niederlande ?
+      propositions:
+      - Utrecht
+      - Amsterdam
+      - Den Haag
+      - Rotterdam
+      réponse: Den Haag
+      anecdote: Den Haag ist auch die Stadt, in der der Internationale Gerichtshof, der Internationale Strafgerichtshof, Europol und Eurojust sitzen.
+    - id: 15
+      question: Wie viele Städte gibt es in Paris, die an einer Seine-Schleife liegen ?
+      propositions:
+      - Eins
+      - 22
+      - 9
+      - 13
+      réponse: Eins
+      anecdote: Laut der Volkszählung von INSEE zählte die Gemeinde Paris am 1. Januar 2012 mehr als zwei Millionen Einwohner.
+    - id: 16
+      question: Tripolis ist eine Stadt im Libanon, aber auch die Hauptstadt von welchem Land ?
+      propositions:
+      - Tunesien
+      - Libyen
+      - Marokko
+      - Sudan
+      réponse: Libyen
+      anecdote: Tripolis ist die größte Stadt, der Haupthafen und das größte Industrie- und Handelszentrum Libyens.
+    - id: 17
+      question: Welche Stadt ist für Afrika genauso wichtig wie für die arabische Welt ?
+      propositions:
+      - Assouan
+      - Alexandria
+      - Kairo
+      - Suez
+      réponse: Kairo
+      anecdote: Der Tahrir-Platz, ein Nervenzentrum der modernen Stadt, ist zum Wahrzeichen der ägyptischen Revolution 2011 geworden.
+    - id: 18
+      question: An dessen Ufer liegt die Stadt Venedig ?
+      propositions:
+      - Schwarz
+      - Ältere Menschen
+      - Adriatic
+      - Ionian
+      réponse: Adriatic
+      anecdote: Venedig erstreckt sich über 118 kleine Inseln, die durch ein Kanalnetz voneinander getrennt und durch Brücken miteinander verbunden sind.
+    - id: 19
+      question: In welcher Stadt befinden sich die meisten Taxis der Welt ?
+      propositions:
+      - London
+      - New York
+      - Brasilia
+      - Tokyo
+      réponse: New York
+      anecdote: Taxis werden von privaten Unternehmen betrieben, die von der New York Taxi and Limousine Commission zugelassen sind.
+    - id: 20
+      question: Was ist die Hauptstadt von Nepal, alte Hippies-Phase ?
+      propositions:
+      - Lalitpur
+      - Kathmandu
+      - Pokhara
+      - Dharan
+      réponse: Kathmandu
+      anecdote: Kathmandu hat kein unterirdisches Kanalnetz und eine unzureichende Wasserversorgung.
+  - expert:
+    - id: 21
+      question: Wo wird die Stadt Chicago gebaut ?
+      propositions:
+      - See
+      - Faille
+      - Océan
+      - Vulkan
+      réponse: See
+      anecdote: Chicago ist das zweitgrößte Industriezentrum in den Vereinigten Staaten und gehört zum Industriegürtel.
+    - id: 22
+      question: Wie ist die Nationalität der Einwohner Taiwans, auch Formosa genannt ?
+      propositions:
+      - Chinesisch
+      - Japanisch
+      - Koreanisch
+      - Nepalese
+      réponse: Chinesisch
+      anecdote: Das Klima Taiwans ist im Süden tropisch und im Norden feucht subtropisch: Die Sommer sind warm und die Winter mild.
+    - id: 23
+      question: Wie viele Einwohner gibt es in Mexiko-Stadt, der Hauptstadt und der bevölkerungsreichsten Stadt Mexikos ?
+      propositions:
+      - 20 Millionen
+      - 8 Millionen
+      - 12 Millionen
+      - 16 Millionen
+      réponse: 20 Millionen
+      anecdote: Das Stadtgebiet von Mexiko-Stadt, der drittgrößten Stadt der Welt, erstreckt sich über eine Fläche von 60 km / 100 km.
+    - id: 24
+      question: In welcher historischen Region Spaniens liegt Barcelona ?
+      propositions:
+      - Galizien
+      - Kastilien
+      - Andalusien
+      - Katalonien
+      réponse: Katalonien
+      anecdote: Barcelona ist nach Bevölkerungszahl, Wirtschaft und Aktivitäten die zweitgrößte Stadt Spaniens und die bevölkerungsreichste elfte der EU.
+    - id: 25
+      question: Wie heißt das arabische Viertel oder die Medina von Algier ?
+      propositions:
+      - Geblutet
+      - Souk
+      - Torah
+      - Casbah
+      réponse: Casbah
+      anecdote: Die Geschichte der Kasbah von Algier reicht bis in die Antike zurück, wo sie zuerst ein punischer Hafen war, dann Berber und schließlich Römisch.
+    - id: 26
+      question: Welches Land ist Rangoon die größte Stadt in Bezug auf die Einwohnerzahl ?
+      propositions:
+      - Malaysia
+      - Burma
+      - Laos
+      - Philippinen
+      réponse: Burma
+      anecdote: Der Name der Hauptstadt des Landes (Rangoon / Rangoon) kann als Ende der Zwietracht oder als Ende des Konflikts übersetzt werden.
+    - id: 27
+      question: In welchem Land ist Hammerfest die nördlichste Stadt Europas ?
+      propositions:
+      - Finnland
+      - Norwegen
+      - Schottland
+      - Schweden
+      réponse: Norwegen
+      anecdote: Hammerfest liegt in Finnmark County und gilt als die nördlichste Stadt der Welt.
+    - id: 28
+      question: Welche Hauptstadt Liberias liegt am Rande des Atlantiks ?
+      propositions:
+      - Lofa
+      - Grand Bassa
+      - Monrovia
+      - Nimba
+      réponse: Monrovia
+      anecdote: Monrovia spielt in der Wirtschaft des Landes eine große Rolle, indem es den Großteil der Eisenerzexporte bereitstellt.
+    - id: 29
+      question: In welchem Land befinden sich die Städte Constantine, Oran und Annaba ?
+      propositions:
+      - Türkei
+      - Tunesien
+      - Jordanien
+      - Algerien
+      réponse: Algerien
+      anecdote: Constantine wird auch die Stadt der hängenden Brücken, die Old Rock City oder die Stadt der Elfen genannt.
+    - id: 30
+      question: Welche Seilbahn verbindet den Central District mit dem Victoria Peak in Hongkong ?
+      propositions:
+      - Krake
+      - Querhafen
+      - Peak Tram
+      - Tsing Ma
+      réponse: Peak Tram
+      anecdote: Es ist das Transportmittel, das Touristen einen der besten Ausblicke auf den Hafen und die Wolkenkratzer von Hongkong bietet.
+  es:
+  - débutant:
+    - id: 1
+      question: ¿En qué ciudad de Francia te hacen pensar la andouillette, la salchicha y el Guignol ?
+      propositions:
+      - Bonito
+      - Cannes
+      - Lyon
+      - Marsella
+      réponse: Lyon
+      anecdote: Lyon se encuentra en una encrucijada geográfica, al norte del corredor natural del valle del Rin.
+    - id: 2
+      question: ¿Qué ciudad, capital de Grecia, incluye el puerto de El Pireo ?
+      propositions:
+      - Heraklion
+      - Patras
+      - Larissa
+      - Atenas
+      réponse: Atenas
+      anecdote: Atenas es una de las ciudades más antiguas del mundo, con una presencia humana atestiguada por el Neolítico.
+    - id: 3
+      question: ¿Qué ciudad del sudoeste de Francia proviene de las famosas ciruelas AOC ?
+      propositions:
+      - Agen
+      - Tonneins
+      - Marmande
+      - Nérac
+      réponse: Agen
+      anecdote: El nombre Agen está definitivamente asociado con la ciruela, cuya área de producción se encuentra principalmente en Lot-et-Garonne.
+    - id: 4
+      question: ¿De qué color son las cabinas telefónicas de la ciudad de Londres ?
+      propositions:
+      - Rojo
+      - Blanche
+      - Verde
+      - Amarillo
+      réponse: Rojo
+      anecdote: Londres fue fundada hace casi 2.000 años por los romanos bajo el nombre de Londinium.
+    - id: 5
+      question: ¿Qué ciudad es la capital de Cuba, también famosa por sus cigarros ?
+      propositions:
+      - La habana
+      - Guantanamo
+      - Santa clara
+      - Santiago de Cuba
+      réponse: La habana
+      anecdote: La ubicación actual de la ciudad se encuentra en la costa norte de la isla de Cuba y en la parte occidental de Cuba.
+    - id: 6
+      question: Al mismo tiempo, ciudad y provincia, ¿de qué país es la capital, Bangkok ?
+      propositions:
+      - Tailandia
+      - Birmania
+      - Malasia
+      - Laos
+      réponse: Tailandia
+      anecdote: El auge económico asiático de los años 80 y 90 llevó a muchas multinacionales a establecerse en Bangkok.
+    - id: 7
+      question: ¿En qué ciudad de África dio su nombre el explorador Savorgnan de Brazza ?
+      propositions:
+      - Kinshasa
+      - Brazzaville
+      - Libreville
+      - Nairobi
+      réponse: Brazzaville
+      anecdote: La ciudad fue fundada el 3 de octubre de 1880 en el sitio de los antiguos municipios precoloniales nombrados por Nkuna.
+    - id: 8
+      question: ¿Qué capital es también el centro político y cultural de China ?
+      propositions:
+      - Shanghai
+      - Hong Kong
+      - Beijing
+      - Tokio
+      réponse: Beijing
+      anecdote: Ubicado cerca de la Gran Muralla, Pekín es el hogar de monumentos famosos como la Ciudad Prohibida y el Templo del Cielo.
+    - id: 9
+      question: ¿Cuál de estas cuatro ciudades españolas no es un puerto ?
+      propositions:
+      - Malaga
+      - Barcelona
+      - Valencia
+      - Madrid
+      réponse: Madrid
+      anecdote: Madrid se encuentra en el corazón del reino y es la capital y la ciudad más poblada de la Comunidad de Madrid.
+    - id: 10
+      question: ¿En qué país de alta densidad de población se encuentra la ciudad de Calcuta ?
+      propositions:
+      - Bangladesh
+      - Birmania
+      - Brasil
+      - India
+      réponse: India
+      anecdote: Se sabe que la ciudad ha albergado la fundación de la congregación religiosa de las Misioneras de la Caridad por la Madre Teresa.
+  - confirmé:
+    - id: 11
+      question: ¿Cuál es la capital y la ciudad más grande de Egipto ?
+      propositions:
+      - Alejandría
+      - Suez
+      - El cairo
+      - Luxor
+      réponse: El cairo
+      anecdote: Con sus dieciséis millones de habitantes, El Cairo es la ciudad más grande de Oriente Medio y la segunda más grande de África, detrás de Lagos.
+    - id: 12
+      question: Famosa por su industria cinematográfica, ¿en qué país se encuentra la ciudad de Bombay ?
+      propositions:
+      - Nepal
+      - Sri lanka
+      - India
+      - Pakistán
+      réponse: India
+      anecdote: Bombay se forma con Navi Mumbai, Bhiwandi, Kalyan, Ulhasnagar y Thane en una aglomeración de 18.500.000 habitantes.
+    - id: 13
+      question: ¿En cuál de estas ciudades se puede contemplar un famoso 'pan de azúcar' ?
+      propositions:
+      - El cairo
+      - La habana
+      - Rio de janeiro
+      - Brazzaville
+      réponse: Rio de janeiro
+      anecdote: Cristo Redentor es una gran estatua de Cristo que domina la ciudad de Río de Janeiro, desde la cima del Monte Corcovado.
+    - id: 14
+      question: ¿Qué ciudad es la capital administrativa de los Países Bajos ?
+      propositions:
+      - Amsterdam
+      - La haya
+      - Rotterdam
+      - Utrecht
+      réponse: La haya
+      anecdote: La Haya es también la ciudad donde se encuentran la Corte Internacional de Justicia, la Corte Penal Internacional, Europol y Eurojust.
+    - id: 15
+      question: ¿Cuántas ciudades hay en París, situadas en un bucle del Sena ?
+      propositions:
+      - 13
+      - 9
+      - Uno
+      - 22
+      réponse: Uno
+      anecdote: Según el censo de INSEE, la comuna de París tenía el 1 de enero de 2012, más de dos millones de habitantes.
+    - id: 16
+      question: Trípoli es una ciudad del Líbano pero también la capital de qué país ?
+      propositions:
+      - Marruecos
+      - Libia
+      - Sudán
+      - Tunez
+      réponse: Libia
+      anecdote: Trípoli es la ciudad más grande, el puerto principal y el centro industrial y comercial más grande de Libia.
+    - id: 17
+      question: ¿Qué ciudad es tan importante para África como para el mundo árabe ?
+      propositions:
+      - El cairo
+      - Suez
+      - Assouan
+      - Alejandría
+      réponse: El cairo
+      anecdote: Como centro neurálgico de la ciudad moderna, la Plaza Tahrir se ha convertido en el emblema de la Revolución egipcia de 2011.
+    - id: 18
+      question: ¿A qué orilla del mar se encuentra la ciudad de Venecia ?
+      propositions:
+      - Negro
+      - Adriático
+      - Ancianos
+      - Jónico
+      réponse: Adriático
+      anecdote: Venecia se extiende sobre un conjunto de 118 pequeñas islas separadas por una red de canales y conectadas por puentes.
+    - id: 19
+      question: ¿En qué ciudad encontramos el mayor número de taxis en el mundo ?
+      propositions:
+      - Nueva york
+      - Londres
+      - Tokio
+      - Brasilia
+      réponse: Nueva york
+      anecdote: Los taxis son operados por compañías privadas, con licencia de la Comisión de Taxis y Limusinas de Nueva York.
+    - id: 20
+      question: ¿Cuál es la capital de nepal, antigua etapa de hippies ?
+      propositions:
+      - Pokhara
+      - Katmandú
+      - Dharan
+      - Lalitpur
+      réponse: Katmandú
+      anecdote: Katmandú no tiene una red de canales subterráneos y tiene un suministro de agua insuficiente.
+  - expert:
+    - id: 21
+      question: ¿Dónde se construye la ciudad de Chicago ?
+      propositions:
+      - Faille
+      - Lago
+      - Océan
+      - Volcán
+      réponse: Lago
+      anecdote: Chicago es el segundo centro industrial más grande de los Estados Unidos y pertenece al Cinturón Industrial.
+    - id: 22
+      question: ¿Cuál es la nacionalidad de los habitantes de Taiwán, también llamada Formosa ?
+      propositions:
+      - Japonés
+      - Nepalí
+      - Chino
+      - Coreano
+      réponse: Chino
+      anecdote: El clima de Taiwán es tropical al sur y húmedo subtropical al norte: los veranos son cálidos y los inviernos suaves.
+    - id: 23
+      question: ¿Cuántos habitantes hay en la Ciudad de México, la capital y la ciudad más poblada de México ?
+      propositions:
+      - 8 millones
+      - 20 millones
+      - 16 millones
+      - 12 millones
+      réponse: 20 millones
+      anecdote: El área urbana de la Ciudad de México, la tercera ciudad más poblada del mundo, se extiende sobre un área de 60 km / 100 km.
+    - id: 24
+      question: ¿En qué región histórica de España se encuentra Barcelona ?
+      propositions:
+      - Castilla
+      - Galicia
+      - Andalucia
+      - Cataluña
+      réponse: Cataluña
+      anecdote: Barcelona es la segunda ciudad más grande de España en términos de población, economía y actividades, la undécima más poblada de la UE.
+    - id: 25
+      question: ¿Cómo se llama el barrio árabe o la medina de Argel ?
+      propositions:
+      - Torá
+      - Zoco
+      - Casbah
+      - Bled
+      réponse: Casbah
+      anecdote: La historia de la Kasbah de Argel se remonta a la antigüedad, donde fue primero un puerto púnico, luego bereber y finalmente romano.
+    - id: 26
+      question: ¿Qué país es Rangún la ciudad más grande en términos de número de habitantes ?
+      propositions:
+      - Laos
+      - Malasia
+      - Birmania
+      - Filipinas
+      réponse: Birmania
+      anecdote: El nombre de la capital del país (Rangún / Rangún) se puede traducir como el final de la discordia o el final del conflicto.
+    - id: 27
+      question: ¿En qué país se encuentra Hammerfest, la ciudad más septentrional de Europa ?
+      propositions:
+      - Escocia
+      - Suecia
+      - Finlandia
+      - Noruega
+      réponse: Noruega
+      anecdote: Situada en el condado de Finnmark, se dice que Hammerfest es la ciudad más al norte del mundo.
+    - id: 28
+      question: ¿Qué capital de Liberia se encuentra al borde del Océano Atlántico ?
+      propositions:
+      - Grand Bassa
+      - Lofa
+      - Nimba
+      - Monrovia
+      réponse: Monrovia
+      anecdote: Monrovia desempeña un papel importante en la economía del país al proporcionar la mayor parte de las exportaciones de mineral de hierro.
+    - id: 29
+      question: ¿En qué país se encuentran las ciudades de Constantino, Orán y Annaba ?
+      propositions:
+      - Jordania
+      - Tunez
+      - Pavo
+      - Argelia
+      réponse: Argelia
+      anecdote: Constantine también es apodada la Ciudad de Puentes Colgantes, la Ciudad Antigua de la Roca o la Ciudad de los Elfos.
+    - id: 30
+      question: ¿Qué teleférico conecta el Distrito Central con Victoria Peak en Hong Kong ?
+      propositions:
+      - Pulpo
+      - Tranvía pico
+      - Tsing Ma
+      - Cross-harbor
+      réponse: Tranvía pico
+      anecdote: Es el medio de transporte que ofrece a los turistas una de las mejores vistas del puerto y los rascacielos de Hong Kong.
+  it:
+  - débutant:
+    - id: 1
+      question: In quale città della Francia, andouillette, salsiccia e Guignol ti fanno pensare ?
+      propositions:
+      - Nizza
+      - Marsiglia
+      - Lione
+      - Cannes
+      réponse: Lione
+      anecdote: Lione si trova in un crocevia geografico, a nord del corridoio naturale della valle del Reno.
+    - id: 2
+      question: Quale città, capitale della Grecia, comprende il porto del Pireo ?
+      propositions:
+      - Heraklion
+      - Patrasso
+      - Larissa
+      - Atene
+      réponse: Atene
+      anecdote: Atene è una delle città più antiche del mondo, con una presenza umana attestata dal Neolitico.
+    - id: 3
+      question: Quale città nel sud-ovest della Francia proviene da famose prugne AOC ?
+      propositions:
+      - Tonneins
+      - Agen
+      - Nérac
+      - Marmande
+      réponse: Agen
+      anecdote: Il nome Agen è sicuramente associato alla prugna, la cui area di produzione si trova principalmente nel Lot-et-Garonne.
+    - id: 4
+      question: Di che colore sono le cabine telefoniche della città di Londra ?
+      propositions:
+      - Verde
+      - Rosso
+      - Giallo
+      - Blanche
+      réponse: Rosso
+      anecdote: Londra fu fondata quasi 2000 anni fa dai Romani sotto il nome di Londinium.
+    - id: 5
+      question: Quale città è la capitale di Cuba, famosa anche per i suoi sigari ?
+      propositions:
+      - Santa Clara
+      - Santiago de Cuba
+      - Guantanamo
+      - L'Avana
+      réponse: L'Avana
+      anecdote: L'attuale posizione della città si trova sulla costa settentrionale dell'isola di Cuba e nella parte occidentale di Cuba.
+    - id: 6
+      question: Allo stesso tempo città e provincia, da quale paese è Bangkok la capitale ?
+      propositions:
+      - Thailandia
+      - Laos
+      - Birmania
+      - Malesia
+      réponse: Thailandia
+      anecdote: Il boom economico asiatico degli anni '80-'90 ha portato molte multinazionali a stabilirsi a Bangkok.
+    - id: 7
+      question: In quale città dell'Africa l'esploratore Savorgnan de Brazza ha dato il suo nome ?
+      propositions:
+      - Nairobi
+      - Kinshasa
+      - Brazzaville
+      - Libreville
+      réponse: Brazzaville
+      anecdote: La città fu fondata il 3 ottobre 1880 nel sito delle ex cittadine pre-coloniali nominate da Nkuna.
+    - id: 8
+      question: Quale capitale è anche il centro politico e culturale della Cina ?
+      propositions:
+      - Hong Kong
+      - Tokyo
+      - Pechino
+      - Shanghai
+      réponse: Pechino
+      anecdote: Situata vicino alla Grande Muraglia, Pechino ospita famosi monumenti come la Città Proibita e il Tempio del Cielo.
+    - id: 9
+      question: Quale di queste quattro città spagnole non è un porto ?
+      propositions:
+      - Barcellona
+      - Malaga
+      - Madrid
+      - Valencia
+      réponse: Madrid
+      anecdote: Madrid si trova nel cuore del regno ed è la capitale e la città più popolosa della Comunità di Madrid.
+    - id: 10
+      question: In quale paese con un'alta densità di popolazione si trova la città di Calcutta ?
+      propositions:
+      - Bangladesh
+      - Brasile
+      - Birmania
+      - India
+      réponse: India
+      anecdote: La città è nota per aver protetto le fondazioni della congregazione religiosa dei Missionari della Carità di Madre Teresa.
+  - confirmé:
+    - id: 11
+      question: Qual è la capitale e la città più grande in Egitto ?
+      propositions:
+      - Alessandria d'Egitto
+      - Suez
+      - Luxor
+      - Il Cairo
+      réponse: Il Cairo
+      anecdote: Con i suoi sedici milioni di abitanti, Cairo è la città più grande del Medio Oriente e la seconda più grande in Africa dietro Lagos.
+    - id: 12
+      question: Famoso per la sua industria cinematografica, in quale paese si trova la città di Bombay ?
+      propositions:
+      - Pakistan
+      - Nepal
+      - India
+      - Sri Lanka
+      réponse: India
+      anecdote: Bombay forma con Navi Mumbai, Bhiwandi, Kalyan, Ulhasnagar e Thane un agglomerato di 18.500.000 abitanti.
+    - id: 13
+      question: In quale di queste città si può contemplare un famoso 'pan di zucchero' ?
+      propositions:
+      - Il Cairo
+      - Rio de Janeiro
+      - Brazzaville
+      - L'Avana
+      réponse: Rio de Janeiro
+      anecdote: Cristo Redentore è una grande statua di Cristo che domina la città di Rio de Janeiro, dalla cima del Monte Corcovado.
+    - id: 14
+      question: Quale città è la capitale amministrativa dei Paesi Bassi ?
+      propositions:
+      - Utrecht
+      - L'Aia
+      - Amsterdam
+      - Rotterdam
+      réponse: L'Aia
+      anecdote: L'Aia è anche la città in cui siedono la Corte internazionale di giustizia, la Corte penale internazionale, Europol ed Eurojust.
+    - id: 15
+      question: Quante città ci sono a Parigi, situate su un'ansa della Senna ?
+      propositions:
+      - 13
+      - 22
+      - 9
+      - Uno
+      réponse: Uno
+      anecdote: Secondo il censimento dell'INSEE, il comune di Parigi aveva il 1 ° gennaio 2012 più di due milioni di abitanti.
+    - id: 16
+      question: Tripoli è una città del Libano ma anche la capitale di quale paese ?
+      propositions:
+      - Marocco
+      - Libia
+      - Sudan
+      - Tunisia
+      réponse: Libia
+      anecdote: Tripoli è la città più grande, il porto principale e il più grande centro industriale e commerciale della Libia.
+    - id: 17
+      question: Quale città è importante per l'Africa come per il mondo arabo ?
+      propositions:
+      - Alessandria d'Egitto
+      - Il Cairo
+      - Assouan
+      - Suez
+      réponse: Il Cairo
+      anecdote: Centro nevralgico della città moderna, Tahrir Square è diventato l'emblema della rivoluzione egiziana del 2011.
+    - id: 18
+      question: Sulle rive di quale mare si trova la città di Venezia ?
+      propositions:
+      - Nero
+      - Adriatico
+      - Ionian
+      - Anziani
+      réponse: Adriatico
+      anecdote: Venezia si estende su un insieme di 118 piccole isole separate da una rete di canali e collegate da ponti.
+    - id: 19
+      question: In quale città troviamo il maggior numero di taxi nel mondo ?
+      propositions:
+      - Brasilia
+      - New York
+      - Tokyo
+      - Londra
+      réponse: New York
+      anecdote: I taxi sono gestiti da società private, autorizzate dalla New York Taxi and Limousine Commission.
+    - id: 20
+      question: Qual è la capitale del Nepal, palcoscenico dei vecchi hippy ?
+      propositions:
+      - Dharan
+      - Kathmandu
+      - Lalitpur
+      - Pokhara
+      réponse: Kathmandu
+      anecdote: Kathmandu non ha una rete sotterranea di canali e ha un approvvigionamento idrico insufficiente.
+  - expert:
+    - id: 21
+      question: Dove è costruita la città di Chicago ?
+      propositions:
+      - Faille
+      - Vulcano
+      - Lago
+      - Océan
+      réponse: Lago
+      anecdote: Chicago è il secondo più grande centro industriale negli Stati Uniti e appartiene alla cintura industriale.
+    - id: 22
+      question: Qual è la nazionalità degli abitanti di Taiwan, chiamata anche Formosa ?
+      propositions:
+      - Nepalese
+      - Cinese
+      - Coreano
+      - Giapponese
+      réponse: Cinese
+      anecdote: Il clima di Taiwan è tropicale a sud e umido subtropicale a nord: le estati sono calde e gli inverni miti.
+    - id: 23
+      question: Quanti abitanti ci sono a Città del Messico, la capitale e la città più popolosa del Messico ?
+      propositions:
+      - 8 milioni
+      - 12 milioni
+      - 16 milioni
+      - 20 milioni
+      réponse: 20 milioni
+      anecdote: L'area urbana di Città del Messico, la terza città più popolosa del mondo, si sviluppa su un'area di 60 km / 100 km.
+    - id: 24
+      question: In quale regione storica della Spagna si trova Barcellona ?
+      propositions:
+      - Andalusia
+      - Galizia
+      - Catalogna
+      - Castiglia
+      réponse: Catalogna
+      anecdote: Barcellona è la seconda città più grande della Spagna in termini di popolazione, economia e attività, l'undicesima più popolosa dell'UE.
+    - id: 25
+      question: Come si chiama il quartiere arabo o la Medina di Algeri ?
+      propositions:
+      - Torah
+      - Bled
+      - Casbah
+      - Souk
+      réponse: Casbah
+      anecdote: La storia della Kasbah di Algeri risale all'antichità, dove fu prima un porto punico, poi berbero e infine romano.
+    - id: 26
+      question: In quale paese è Rangoon la città più grande in termini di numero di abitanti ?
+      propositions:
+      - Filippine
+      - Laos
+      - Birmania
+      - Malesia
+      réponse: Birmania
+      anecdote: Il nome della capitale del paese (Rangoon / Rangoon) può essere tradotto come la fine della discordia o la fine del conflitto.
+    - id: 27
+      question: In quale paese è Hammerfest, la città più settentrionale d'Europa ?
+      propositions:
+      - Svezia
+      - Norvegia
+      - Finlandia
+      - Scozia
+      réponse: Norvegia
+      anecdote: Situato nella Contea di Finnmark, Hammerfest è considerata la città più a nord del mondo.
+    - id: 28
+      question: Quale capitale della Liberia si trova ai margini dell'Oceano Atlantico ?
+      propositions:
+      - Nimba
+      - Grand Bassa
+      - Monrovia
+      - Lofa
+      réponse: Monrovia
+      anecdote: Monrovia svolge un ruolo importante nell'economia del paese fornendo la maggior parte delle esportazioni di minerale di ferro.
+    - id: 29
+      question: In quale paese ci sono le città di Costantino, Orano e Annaba ?
+      propositions:
+      - Algeria
+      - Tunisia
+      - Giordania
+      - Turchia
+      réponse: Algeria
+      anecdote: Costantino è anche soprannominata la città dei ponti sospesi, la città vecchia o la città degli Elfi.
+    - id: 30
+      question: Quale funivia collega Central District a Victoria Peak a Hong Kong ?
+      propositions:
+      - Cross-Harbour
+      - Tsing Ma
+      - Polpo
+      - Peak Tram
+      réponse: Peak Tram
+      anecdote: È il mezzo di trasporto che offre ai turisti una delle migliori viste del porto e dei grattacieli di Hong Kong.
+  nl:
+  - débutant:
+    - id: 1
+      question: In welke stad van Frankrijk de andouillette, worst en Guignol doen ze je denken ?
+      propositions:
+      - Marseille
+      - Cannes
+      - Lyon
+      - Nice
+      réponse: Lyon
+      anecdote: Lyon ligt op een geografisch kruispunt, ten noorden van de natuurlijke corridor van het Rijndal.
+    - id: 2
+      question: Welke stad, hoofdstad van Griekenland, omvat de haven van Piraeus ?
+      propositions:
+      - Larissa
+      - Athene
+      - Patras
+      - Heraklion
+      réponse: Athene
+      anecdote: Athene is een van de oudste steden ter wereld, met een menselijke aanwezigheid die wordt bevestigd door het Neolithicum.
+    - id: 3
+      question: Welke stad in het zuidwesten van Frankrijk is afkomstig van de beroemde pruimen AOC ?
+      propositions:
+      - Nérac
+      - Marmande
+      - Tonneins
+      - Agen
+      réponse: Agen
+      anecdote: De naam Agen is onlosmakelijk verbonden met de gedroogde pruim, waarvan het productiegebied voornamelijk in Lot-et-Garonne ligt.
+    - id: 4
+      question: Welke kleur hebben de telefooncellen van de stad Londen ?
+      propositions:
+      - Geel
+      - Groen
+      - Rood
+      - Blanche
+      réponse: Rood
+      anecdote: Londen werd bijna 2000 jaar geleden gesticht door de Romeinen onder de naam Londinium.
+    - id: 5
+      question: Welke stad is de hoofdstad van Cuba, ook beroemd om zijn sigaren ?
+      propositions:
+      - Santa Clara
+      - Santiago de Cuba
+      - Guantanamo
+      - Havana
+      réponse: Havana
+      anecdote: De huidige locatie van de stad ligt aan de noordkust van het eiland Cuba en in het westelijke deel van Cuba.
+    - id: 6
+      question: Op hetzelfde moment stad en provincie, van welk land is Bangkok de hoofdstad ?
+      propositions:
+      - Thailand
+      - Laos
+      - Maleisië
+      - Birma
+      réponse: Thailand
+      anecdote: De economische hoogconjunctuur in Azië in de jaren 80 en 90 bracht veel multinationals ertoe zich in Bangkok te vestigen.
+    - id: 7
+      question: In welke stad van Afrika heeft de ontdekkingsreiziger Savorgnan de Brazza zijn naam gegeven ?
+      propositions:
+      - Brazzaville
+      - Libreville
+      - Nairobi
+      - Kinshasa
+      réponse: Brazzaville
+      anecdote: De stad werd gesticht op 3 oktober 1880 op de plaats van de voormalige pre-koloniale townships genoemd door Nkuna.
+    - id: 8
+      question: Welk kapitaal is ook het politieke en culturele centrum van China ?
+      propositions:
+      - Hong Kong
+      - Tokyo
+      - Beijing
+      - Shanghai
+      réponse: Beijing
+      anecdote: Beijing ligt in de buurt van de Grote Muur en is de thuisbasis van beroemde bezienswaardigheden, zoals de Verboden Stad en de Tempel van de Hemel.
+    - id: 9
+      question: Welke van deze vier Spaanse steden is geen haven ?
+      propositions:
+      - Barcelona
+      - Valencia
+      - Madrid
+      - Malaga
+      réponse: Madrid
+      anecdote: Madrid ligt in het hart van het koninkrijk en is de hoofdstad en de meest dichtbevolkte stad van de Gemeenschap van Madrid.
+    - id: 10
+      question: In welk land met een hoge bevolkingsdichtheid bevindt de stad Calcutta zich ?
+      propositions:
+      - Brazilië
+      - Birma
+      - India
+      - Bangladesh
+      réponse: India
+      anecdote: Van de stad is bekend dat ze de basis heeft gelegd voor de religieuze congregatie van Missionaries of Charity door Moeder Teresa.
+  - confirmé:
+    - id: 11
+      question: Wat is de hoofdstad en de grootste stad in Egypte ?
+      propositions:
+      - Cairo
+      - Suez
+      - Luxor
+      - Alexandria
+      réponse: Cairo
+      anecdote: Met zijn zestien miljoen inwoners is Cairo de grootste stad in het Midden-Oosten en de op één na grootste in Afrika achter Lagos.
+    - id: 12
+      question: Beroemd om zijn cinematografische industrie, in welk land ligt de stad Bombay ?
+      propositions:
+      - Pakistan
+      - India
+      - Sri Lanka
+      - Nepal
+      réponse: India
+      anecdote: Bombay vormt met Navi Mumbai, Bhiwandi, Kalyan, Ulhasnagar en Thane een agglomeratie van 18.500.000 inwoners.
+    - id: 13
+      question: In welke van deze steden kan men een beroemd 'suikerbrood' aanschouwen ?
+      propositions:
+      - Rio de Janeiro
+      - Havana
+      - Cairo
+      - Brazzaville
+      réponse: Rio de Janeiro
+      anecdote: Christus de Verlosser is een groot beeld van Christus met uitzicht op de stad Rio de Janeiro, vanaf de top van de berg Corcovado.
+    - id: 14
+      question: Welke stad is de administratieve hoofdstad van Nederland ?
+      propositions:
+      - Rotterdam
+      - Den Haag
+      - Amsterdam
+      - Utrecht
+      réponse: Den Haag
+      anecdote: Den Haag is ook de stad waar het Internationaal Gerechtshof, het Internationaal Strafhof, Europol en Eurojust zitten.
+    - id: 15
+      question: Hoeveel steden zijn er in Parijs, gelegen aan een lus van de Seine ?
+      propositions:
+      - 22
+      - Een
+      - 9
+      - 13
+      réponse: Een
+      anecdote: Volgens de volkstelling van INSEE had de gemeente van Parijs op 1 januari 2012 meer dan twee miljoen inwoners.
+    - id: 16
+      question: Tripoli is een stad in Libanon maar ook de hoofdstad van welk land ?
+      propositions:
+      - Sudan
+      - Tunesië
+      - Libië
+      - Marokko
+      réponse: Libië
+      anecdote: Tripoli is de grootste stad, de belangrijkste haven, en het grootste industriële en commerciële centrum van Libië.
+    - id: 17
+      question: Welke stad is net zo belangrijk voor Afrika als voor de Arabische wereld ?
+      propositions:
+      - Alexandria
+      - Cairo
+      - Suez
+      - Assouan
+      réponse: Cairo
+      anecdote: Zenuwcentrum van de moderne stad, het Tahrirplein, is het embleem geworden van de Egyptische revolutie van 2011.
+    - id: 18
+      question: Aan de oevers van welke zee ligt de stad Veneti ?
+      propositions:
+      - Ouderen
+      - Zwart
+      - Ionisch
+      - Adriatic
+      réponse: Adriatic
+      anecdote: Venetië strekt zich uit over een reeks van 118 kleine eilanden, gescheiden door een netwerk van kanalen en verbonden door bruggen.
+    - id: 19
+      question: In welke stad vinden we het grootste aantal taxi's ter wereld ?
+      propositions:
+      - Tokyo
+      - New York
+      - Londen
+      - Brasilia
+      réponse: New York
+      anecdote: Taxi's worden beheerd door particuliere bedrijven, onder licentie van de New York Taxi en Limousine Commission.
+    - id: 20
+      question: Wat is de hoofdstad van Nepal, het oude hippiestadium ?
+      propositions:
+      - Dharan
+      - Pokhara
+      - Lalitpur
+      - Kathmandu
+      réponse: Kathmandu
+      anecdote: Kathmandu heeft geen ondergronds netwerk van kanalen en heeft onvoldoende watervoorziening.
+  - expert:
+    - id: 21
+      question: Waar is de stad Chicago gebouwd ?
+      propositions:
+      - Faille
+      - Lake
+      - Océan
+      - Volcano
+      réponse: Lake
+      anecdote: Chicago is het op een na grootste industriële centrum in de Verenigde Staten en behoort tot de industriële gordel.
+    - id: 22
+      question: Wat is de nationaliteit van de inwoners van Taiwan, ook wel Formosa genoemd ?
+      propositions:
+      - Nepalees
+      - Japans
+      - Koreaans
+      - Chinees
+      réponse: Chinees
+      anecdote: Het klimaat van Taiwan is tropisch naar het zuiden en vochtig subtropisch naar het noorden: de zomers zijn warm en de winters mild.
+    - id: 23
+      question: Hoeveel inwoners zijn er in Mexico City, de hoofdstad en meest dichtbevolkte stad in Mexico ?
+      propositions:
+      - 12 miljoen
+      - 8 miljoen
+      - 20 miljoen
+      - 16 miljoen
+      réponse: 20 miljoen
+      anecdote: Het stedelijk gebied van Mexico City, de derde meest bevolkte stad ter wereld, is verspreid over een oppervlakte van 60 km / 100 km.
+    - id: 24
+      question: In welke historische regio van Spanje ligt Barcelona ?
+      propositions:
+      - Galicië
+      - Castilië
+      - Catalonië
+      - Andalusië
+      réponse: Catalonië
+      anecdote: Barcelona is de op een na grootste stad van Spanje wat betreft bevolking, economie en activiteiten, de meest bevolkte elfde grootste in de EU.
+    - id: 25
+      question: Hoe heet de Arabische wijk of de medina van Algiers ?
+      propositions:
+      - Casbah
+      - Bled
+      - Torah
+      - Souk
+      réponse: Casbah
+      anecdote: De geschiedenis van de Kasbah van Algiers gaat terug tot de oudheid, waar het eerst een Punische haven was, daarna Berber en ten slotte Romeins.
+    - id: 26
+      question: Welk land is Rangoon de grootste stad qua aantal inwoners ?
+      propositions:
+      - Filippijnen
+      - Laos
+      - Birma
+      - Maleisië
+      réponse: Birma
+      anecdote: De naam van de hoofdstad van het land (Rangoon / Rangoon) kan worden vertaald als het einde van de onenigheid of het einde van het conflict.
+    - id: 27
+      question: In welk land is Hammerfest, de meest noordelijke stad van Europa ?
+      propositions:
+      - Finland
+      - Noorwegen
+      - Schotland
+      - Zweden
+      réponse: Noorwegen
+      anecdote: Hammerfest ligt in Finnmark County, naar verluidt de meest noordelijke stad ter wereld.
+    - id: 28
+      question: Welke hoofdstad van Liberia ligt aan de rand van de Atlantische Oceaan ?
+      propositions:
+      - Nimba
+      - Monrovia
+      - Lofa
+      - Grand Bassa
+      réponse: Monrovia
+      anecdote: Monrovia speelt een grote rol in de economie van het land door het grootste deel van de export van ijzererts te leveren.
+    - id: 29
+      question: In welk land zijn de steden Constantijn, Oran en Annaba ?
+      propositions:
+      - Algerije
+      - Tunesië
+      - Jordanië
+      - Turkije
+      réponse: Algerije
+      anecdote: Constantijn wordt ook wel de City of Hanging Bridges, de Old Rock City of de City of the Elves genoemd.
+    - id: 30
+      question: Welke kabelbaan verbindt Central District met Victoria Peak in Hongkong ?
+      propositions:
+      - Peak Tram
+      - Octopus
+      - Cross-Harbor
+      - Tsing Ma
+      réponse: Peak Tram
+      anecdote: Het is het vervoermiddel dat toeristen een van de beste uitzichten over de haven en wolkenkrabbers van Hong Kong biedt.

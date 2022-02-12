@@ -1,0 +1,1650 @@
+---
+fournisseur: OpenQuizzDB - Fournisseur de contenu libre (https://www.openquizzdb.org)
+rédacteur: Catherine De Smeytere
+thème: Requins (Peur et fascination)
+difficulté: 4 / 5
+quizz:
+  fr:
+  - débutant:
+    - id: 1
+      question: De quelle espèce vivante le requin fait-il partie, avec ses cinq à sept fentes branchiales ?
+      propositions:
+      - Mammifères
+      - Poissons
+      - Reptiles
+      - Méduses
+      réponse: Poissons
+      anecdote: Les requins, squales ou sélachimorphes forment un super-ordre de poissons cartilagineux.
+    - id: 2
+      question: Le requin-baleine, seul membre du genre Rhincodon, est un...
+      propositions:
+      - Cachalot
+      - Mammifère
+      - Poisson
+      - Cétacé
+      réponse: Poisson
+      anecdote: Le requin-baleine peut exceptionnellement atteindre 20 mètres de long, pour une masse de 34 tonnes.
+    - id: 3
+      question: Lequel de ces termes est également utilisé pour désigner les requins ?
+      propositions:
+      - Grondins
+      - Mulets
+      - Squales
+      - Rascasses
+      réponse: Squales
+      anecdote: Les requins forment un super-ordre de poissons cartilagineux, possédant cinq à sept fentes branchiales sur les côtés de la tête.
+    - id: 4
+      question: Le requin, qui met à mort des proies pour se nourrir, est donc un...
+      propositions:
+      - Dévorateur
+      - Grignoteur
+      - Prédateur
+      - Provocateur
+      réponse: Prédateur
+      anecdote: Malgré le statut de prédateur, le requin se nourrit principalement de plancton en filtrant l'eau de mer.
+    - id: 5
+      question: Grâce à quoi les requins peuvent-ils respirer, de la même manière que les raies ?
+      propositions:
+      - Leurs poumons
+      - Leur peau
+      - Leurs branchies
+      - Leurs nageoires
+      réponse: Leurs branchies
+      anecdote: Les requins possèdent cinq à sept fentes branchiales sur les côtés de la tête.
+    - id: 6
+      question: Quel élément caractéristique de la silhouette du requin fait souvent trembler les hommes ?
+      propositions:
+      - Ses branchies
+      - Son nez
+      - Sa nageoire dorsale
+      - Sa queue
+      réponse: Sa nageoire dorsale
+      anecdote: Le squelette des nageoires du requin est allongé et soutenu par des rayons mous et non segmentés, nommés cératotriches.
+    - id: 7
+      question: Quelles parties de l'anatomie du requin sont renouvelables ?
+      propositions:
+      - Branchies
+      - Nageoires
+      - Yeux
+      - Dents
+      réponse: Dents
+      anecdote: Les mâchoires du requin sont entièrement mobiles, indépendantes, et garnies de plusieurs centaines de dents.
+    - id: 8
+      question: Que sont obligés de faire en permanence la plupart des requins ?
+      propositions:
+      - Manger
+      - Dormir
+      - Nager
+      - Boire
+      réponse: Nager
+      anecdote: Même à faible vitesse, les requins doivent nager pour maintenir un courant d'eau apportant suffisamment d'oxygène à leurs branchies.
+    - id: 9
+      question: Quelle est la particularité du requin-tigre, l'une des plus grandes espèces de requins ?
+      propositions:
+      - Stérile
+      - Ovipare
+      - Mammifère
+      - Vivipare
+      réponse: Ovipare
+      anecdote: Mesurant de 3 à 4 mètres, on trouve le requin-tigre dans les océans tempérés et tropicaux.
+    - id: 10
+      question: Quelle est la partie du requin la plus sollicitée en Asie pour ses propriétés aphrodisiaques ?
+      propositions:
+      - La peau
+      - Les ailerons
+      - Les dents
+      - La queue
+      réponse: Les ailerons
+      anecdote: Les requins sont intensivement pêchés, le plus souvent uniquement pour leurs ailerons qui constituent l'ingrédient principal de mets.
+  - confirmé:
+    - id: 11
+      question: Quel labo a pour mission de prélever un échantillon d'ADN sur des requins-citrons ?
+      propositions:
+      - Shark Lab
+      - ADN Lab
+      - Lemon Lab
+      - Ocean Lab
+      réponse: Shark Lab
+      anecdote: Le requin-citron n'a pas été choisi au hasard mais bien parce que c'est le seul capable de vivre en captivité dans un petit espace.
+    - id: 12
+      question: De quoi se nourrit principalement le requin-baleine, tout en se déplaçant assez lentement ?
+      propositions:
+      - Phoques
+      - Mousses
+      - Crabes
+      - Plancton
+      réponse: Plancton
+      anecdote: Bien que massif, le requin-baleine est parfaitement inoffensif pour l'homme.
+    - id: 13
+      question: Combien de techniciens fallait-il pour manipuler un faux requin des « Dents de la mer » ?
+      propositions:
+      - 2
+      - 13
+      - 9
+      - 5
+      réponse: 13
+      anecdote: « Les Dents de la mer » est un film d'horreur américain réalisé par Steven Spielberg, sorti en 1975.
+    - id: 14
+      question: Quel pourcentage du poids total du requin le foie peut-il représenter ?
+      propositions:
+      - 1 %
+      - 25 %
+      - 6 %
+      - 12 %
+      réponse: 25 %
+      anecdote: Le foie des requins, riche en huiles hépatiques, est exploité dans l'industrie pharmaceutique et dans les cosmétiques.
+    - id: 15
+      question: Combien de nageoires possèdent la plupart des requins ?
+      propositions:
+      - Deux
+      - Quatre
+      - Six
+      - Huit
+      réponse: Huit
+      anecdote: Les requins utilisent leur nageoire caudale pour se propulser et changer brutalement de direction.
+    - id: 16
+      question: Quelle nageoire est utilisée comme stabilisateur par les requins ?
+      propositions:
+      - Pectorale
+      - Pelvienne
+      - Dorsale
+      - Caudale
+      réponse: Dorsale
+      anecdote: La colonne vertébrale du requin s'étend dans la partie dorsale, fournissant une plus grande surface pour la fixation du muscle.
+    - id: 17
+      question: Pour quelle raison la peau des requins femelles est-elle plus épaisse que celle des mâles ?
+      propositions:
+      - Les parasites
+      - La chasse
+      - La défense
+      - La parade nuptiale
+      réponse: La parade nuptiale
+      anecdote: La parade nuptiale est le comportement adopté par un animal en vue de convaincre un partenaire à s'accoupler.
+    - id: 18
+      question: Quelle place le centre olfactif occupe-t-il dans le cerveau du requin ?
+      propositions:
+      - 1/12
+      - 2/3
+      - 1/3
+      - 1/6
+      réponse: 2/3
+      anecdote: Beaucoup de requins ont un odorat très développé et sont souvent appelés les « nez de la mer ».
+    - id: 19
+      question: Quel requin est considéré comme le plus grand poisson vivant actuellement sur Terre ?
+      propositions:
+      - Requin nain
+      - Requin-baleine
+      - Requin-tigre
+      - Requin blanc
+      réponse: Requin-baleine
+      anecdote: Cependant, sa taille observable est en pratique généralement comprise entre 4 et 14 mètres.
+    - id: 20
+      question: Quel poisson est régulièrement accroché aux requins par le biais d'une ventouse ?
+      propositions:
+      - Rémora
+      - Chwawha
+      - Lémosa
+      - Amora
+      réponse: Rémora
+      anecdote: Mauvais nageur, le rémora parasite d'autres poissons plus gros en se liant à eux par le disque d'accroche puissant placé sur sa tête.
+  - expert:
+    - id: 21
+      question: Combien d'espèces différentes de requins dénombre-t-on à ce jour dans nos océans ?
+      propositions:
+      - 465
+      - 129
+      - 342
+      - 267
+      réponse: 465
+      anecdote: À partir du crétacé, il y a 100 millions d'années, beaucoup d'espèces de requins ont adopté leur forme moderne.
+    - id: 22
+      question: Quelle vitamine est présente en très grande quantité dans le foie du requin ?
+      propositions:
+      - Vitamine A
+      - Vitamine E
+      - Vitamine D
+      - Vitamine C
+      réponse: Vitamine A
+      anecdote: Ce lipide de composition hydrocarbonée est notamment utilisé dans des vaccins et des crèmes.
+    - id: 23
+      question: Quel requin peut vivre exceptionnellement dans l'eau douce ?
+      propositions:
+      - Pèlerin
+      - Cuivre
+      - Bouledogue
+      - Tigre
+      réponse: Bouledogue
+      anecdote: Son dos est gris ou brun olive avec l'extrémité des nageoires un peu plus foncée et son ventre est blanchâtre.
+    - id: 24
+      question: Jusqu'à combien de dents certains requins peuvent-ils perdre durant leur vie ?
+      propositions:
+      - 30 000
+      - 300
+      - 30
+      - 3 000
+      réponse: 30 000
+      anecdote: Les dents, dont la forme varie selon les espèces, sont renouvelées en permanence tout au long de la vie du requin.
+    - id: 25
+      question: Quel poids le requin-baleine peut-il atteindre, suite à une observation faite en 1999 ?
+      propositions:
+      - 44 tonnes
+      - 34 tonnes
+      - 54 tonnes
+      - 64 tonnes
+      réponse: 34 tonnes
+      anecdote: Dans le reste du règne animal, il est toutefois plus petit que la baleine bleue, pouvant atteindre 30 mètres pour 170 tonnes.
+    - id: 26
+      question: De quoi sont faites les fibres flexibles de la peau des requins ?
+      propositions:
+      - Lamine
+      - Caténine
+      - Collagène
+      - Spongine
+      réponse: Collagène
+      anecdote: Des fibres de collagène flexibles sont disposées de façon hélicoïdale en réseau autour du corps du requin.
+    - id: 27
+      question: Parmi ces quatre requins, lequel est considéré comme inoffensif pour l'homme ?
+      propositions:
+      - Tigre
+      - Peau bleue
+      - Pèlerin
+      - Marteau commun
+      réponse: Pèlerin
+      anecdote: Le requin pèlerin est considéré comme le second plus grand poisson vivant actuellement sur Terre.
+    - id: 28
+      question: Le sixième sens des requins provient des organes sensitifs appelés ampoules de...
+      propositions:
+      - Torricelli
+      - Lorenzini
+      - Donatelli
+      - Marconi
+      réponse: Lorenzini
+      anecdote: Les ampoules de Lorenzini sont capables de détecter des champs électromagnétiques.
+    - id: 29
+      question: Quels petits crustacés parasites affectent la peau épaisse et robuste des requins ?
+      propositions:
+      - Pentastomida
+      - Malacostraca
+      - Copepoda
+      - Branchiopoda
+      réponse: Copepoda
+      anecdote: Les copépodes n'ont ni branchies ni carapace et ne présentent qu'un seul oeil, médian.
+    - id: 30
+      question: Durant quel système géologique les premiers requins sont-ils apparus ?
+      propositions:
+      - Dévonien
+      - Jurassique
+      - Cambrien
+      - Crétacé
+      réponse: Dévonien
+      anecdote: Depuis, il existe plus de 465 espèces de requins, regroupées en 35 familles.
+  en:
+  - débutant:
+    - id: 1
+      question: What living species is the shark a part of, with its five to seven gill slits ?
+      propositions:
+      - Mammals
+      - Fish
+      - Reptiles
+      - Jellyfish
+      réponse: Fish
+      anecdote: Sharks, sharks, or selachimorphs form a superorder of cartilaginous fish.
+    - id: 2
+      question: The whale shark, the only member of the genus Rhincodon, is a...
+      propositions:
+      - Fish
+      - Sperm whale
+      - Cetacean
+      - Mammal
+      réponse: Fish
+      anecdote: The whale shark can exceptionally reach 20 meters long, for a mass of 34 tons.
+    - id: 3
+      question: Which of the following terms is also used to refer to sharks ?
+      propositions:
+      - Gurnards
+      - Scorpionfish
+      - Squales
+      - Mules
+      réponse: Squales
+      anecdote: Sharks are a superorder of cartilaginous fish, possessing five to seven gill slits on the sides of the head.
+    - id: 4
+      question: The shark, which kills prey for food, is therefore a...
+      propositions:
+      - Provocative
+      - Nibbler
+      - Devourer
+      - Predator
+      réponse: Predator
+      anecdote: Despite the predator status, the shark feeds mainly on plankton by filtering sea water.
+    - id: 5
+      question: How can sharks breathe, like stingrays ?
+      propositions:
+      - Their skin
+      - Their lungs
+      - Their fins
+      - Their gills
+      réponse: Their gills
+      anecdote: Sharks have five to seven gill slits on the sides of the head.
+    - id: 6
+      question: What characteristic element of the shark's silhouette often makes men tremble ?
+      propositions:
+      - His nose
+      - Its gills
+      - Its dorsal fin
+      - His tail
+      réponse: Its dorsal fin
+      anecdote: The shark's fin skeleton is elongated and supported by soft, unsegmented rays, called ceratotriches.
+    - id: 7
+      question: What parts of the shark's anatomy are renewable ?
+      propositions:
+      - Gills
+      - Eyes
+      - Fins
+      - Teeth
+      réponse: Teeth
+      anecdote: The shark's jaws are fully movable, independent, and furnished with several hundred teeth.
+    - id: 8
+      question: What are most sharks forced to do all the time ?
+      propositions:
+      - Drink
+      - To swim
+      - Eat
+      - To sleep
+      réponse: To swim
+      anecdote: Even at low speeds, sharks must swim to maintain a current of water to deliver enough oxygen to their gills.
+    - id: 9
+      question: What is special about the tiger shark, one of the largest shark species ?
+      propositions:
+      - Mammal
+      - Oviparous
+      - Sterile
+      - Viviparous
+      réponse: Oviparous
+      anecdote: Measuring 3 to 4 meters, the tiger shark is found in temperate and tropical oceans.
+    - id: 10
+      question: What is the part of the shark most requested in Asia for its aphrodisiac properties ?
+      propositions:
+      - The skin
+      - The fins
+      - The teeth
+      - The tail
+      réponse: The fins
+      anecdote: Sharks are extensively fished, usually only for their fins, which are the main ingredient in dishes.
+  - confirmé:
+    - id: 11
+      question: Which lab is tasked with taking a DNA sample from lemon sharks ?
+      propositions:
+      - Ocean Lab
+      - DNA Lab
+      - Shark Lab
+      - Lemon Lab
+      réponse: Shark Lab
+      anecdote: The lemon shark was not chosen at random but because it is the only one capable of living in captivity in a small space.
+    - id: 12
+      question: What does the whale shark mainly eat, while moving quite slowly ?
+      propositions:
+      - Plankton
+      - Crabs
+      - Foams
+      - Seals
+      réponse: Plankton
+      anecdote: Although massive, the whale shark is perfectly harmless to humans.
+    - id: 13
+      question: How many technicians did it take to handle a fake « Teeth of the Sea » shark ?
+      propositions:
+      - 13
+      - 5
+      - 2
+      - 9
+      réponse: 13
+      anecdote: « Teeth of the Sea » is an American horror film directed by Steven Spielberg, released in 1975.
+    - id: 14
+      question: What percentage of the shark's total weight can the liver represent ?
+      propositions:
+      - 25%
+      - 12%
+      - 6%
+      - 1%
+      réponse: 25%
+      anecdote: The liver of sharks, rich in liver oils, is used in the pharmaceutical industry and in cosmetics.
+    - id: 15
+      question: How many fins do most sharks have ?
+      propositions:
+      - Six
+      - Two
+      - Four
+      - Eight
+      réponse: Eight
+      anecdote: Sharks use their caudal fin to propel themselves and abruptly change direction.
+    - id: 16
+      question: Which fin is used as a stabilizer by sharks ?
+      propositions:
+      - Pelvic
+      - Pectoral
+      - Caudal
+      - Backbone
+      réponse: Backbone
+      anecdote: The shark's spine extends into the dorsal portion, providing more surface area for muscle attachment.
+    - id: 17
+      question: Why is the skin of female sharks thicker than that of males ?
+      propositions:
+      - The hunt
+      - Defense
+      - Parasites
+      - Courtship display
+      réponse: Courtship display
+      anecdote: Courtship is the behavior adopted by an animal in order to convince a partner to mate.
+    - id: 18
+      question: What place does the olfactory center occupy in the shark's brain ?
+      propositions:
+      - 1/12
+      - 2/3
+      - 1/6
+      - 1/3
+      réponse: 2/3
+      anecdote: Many sharks have a highly developed sense of smell and are often referred to as the noses of the sea.
+    - id: 19
+      question: Which shark is considered the largest fish currently living on Earth ?
+      propositions:
+      - Tiger Shark
+      - Dwarf shark
+      - Whale shark
+      - White shark
+      réponse: Whale shark
+      anecdote: However, its observable size is in practice generally between 4 and 14 meters.
+    - id: 20
+      question: Which fish is regularly hooked to sharks through a sucker ?
+      propositions:
+      - Chwawha
+      - Remora
+      - Amora
+      - Lemosa
+      réponse: Remora
+      anecdote: A bad swimmer, the remora parasitizes other larger fish by attaching itself to them by the powerful attachment disc placed on its head.
+  - expert:
+    - id: 21
+      question: How many different species of sharks are there today in our oceans ?
+      propositions:
+      - 129
+      - 342
+      - 267
+      - 465
+      réponse: 465
+      anecdote: From the Cretaceous period 100 million years ago, many species of sharks adopted their modern form.
+    - id: 22
+      question: Which vitamin is present in very high quantities in the liver of a shark ?
+      propositions:
+      - Vitamin C
+      - Vitamin A
+      - Vitamin D
+      - Vitamin E
+      réponse: Vitamin A
+      anecdote: This lipid of hydrocarbon composition is used in particular in vaccines and creams.
+    - id: 23
+      question: Which shark can live exceptionally in fresh water ?
+      propositions:
+      - Bulldog
+      - Pilgrim
+      - Copper
+      - Tiger
+      réponse: Bulldog
+      anecdote: Its back is gray or olive brown with slightly darker fin tips and its belly is whitish.
+    - id: 24
+      question: How many teeth can some sharks lose in their lifetime ?
+      propositions:
+      - 30,000
+      - 30
+      - 300
+      - 3,000
+      réponse: 30,000
+      anecdote: Teeth, which vary in shape depending on the species, are constantly renewed throughout the life of the shark.
+    - id: 25
+      question: What weight can the whale shark reach, following a sighting made in 1999 ?
+      propositions:
+      - 44 tons
+      - 54 tons
+      - 64 tons
+      - 34 tons
+      réponse: 34 tons
+      anecdote: In the rest of the animal kingdom, however, it is smaller than the blue whale, reaching 30 meters for 170 tonnes.
+    - id: 26
+      question: What are the flexible fibers of shark skin made of ?
+      propositions:
+      - Lamine
+      - Catenin
+      - Collagen
+      - Spongine
+      réponse: Collagen
+      anecdote: Flexible collagen fibers are arranged in a helical fashion in a network around the body of the shark.
+    - id: 27
+      question: Which of these four sharks is considered harmless to humans ?
+      propositions:
+      - Tiger
+      - Blue skin
+      - Pilgrim
+      - Common hammer
+      réponse: Pilgrim
+      anecdote: The basking shark is considered the second largest fish currently living on Earth.
+    - id: 28
+      question: The sixth sense of sharks comes from the sensory organs called the bulbs of...
+      propositions:
+      - Lorenzini
+      - Torricelli
+      - Marconi
+      - Donatelli
+      réponse: Lorenzini
+      anecdote: Lorenzini bulbs are able to detect electromagnetic fields.
+    - id: 29
+      question: What small parasitic crustaceans affect the thick, sturdy skin of sharks ?
+      propositions:
+      - Malacostraca
+      - Pentastomida
+      - Branchiopoda
+      - Copepoda
+      réponse: Copepoda
+      anecdote: Copepods have neither gills nor carapace and have only one eye, median.
+    - id: 30
+      question: During which geological system did the first sharks appear ?
+      propositions:
+      - Jurassic
+      - Devonian
+      - Cambrian
+      - Cretaceous
+      réponse: Devonian
+      anecdote: Since then, there have been more than 465 species of sharks, grouped into 35 families.
+  de:
+  - débutant:
+    - id: 1
+      question: Zu welcher lebenden Art gehört der Hai mit seinen fünf bis sieben Kiemenschlitzen ?
+      propositions:
+      - Quallen
+      - Säugetiere
+      - Fisch
+      - Reptilien
+      réponse: Fisch
+      anecdote: Haie, Haie oder Selachimorphe bilden eine Überordnung knorpeliger Fische.
+    - id: 2
+      question: Der Walhai, das einzige Mitglied der Gattung Rhincodon, ist ein...
+      propositions:
+      - Pottwal
+      - Säugetier
+      - Cetacean
+      - Fisch
+      réponse: Fisch
+      anecdote: Der Walhai kann bei einer Masse von 34 Tonnen außergewöhnlich 20 Meter lang werden.
+    - id: 3
+      question: Welcher der folgenden Begriffe bezieht sich auch auf Haie ?
+      propositions:
+      - Knurrhähne
+      - Maultiere
+      - Squales
+      - Drachenkopf
+      réponse: Squales
+      anecdote: Haie sind eine Überordnung von Knorpelfischen mit fünf bis sieben Kiemenschlitzen an den Seiten des Kopfes.
+    - id: 4
+      question: Der Hai, der Beute für Nahrung tötet, ist daher ein...
+      propositions:
+      - Verschlinger
+      - Knabberzeug
+      - Provokativ
+      - Raubtier
+      réponse: Raubtier
+      anecdote: Trotz des Raubtierstatus ernährt sich der Hai hauptsächlich von Plankton, indem er Meerwasser filtert.
+    - id: 5
+      question: Wie können Haie wie Stachelrochen atmen ?
+      propositions:
+      - Ihre Kiemen
+      - Ihre Lungen
+      - Ihre Haut
+      - Ihre Flossen
+      réponse: Ihre Kiemen
+      anecdote: Haie haben fünf bis sieben Kiemenschlitze an den Seiten des Kopfes.
+    - id: 6
+      question: Welches charakteristische Element der Silhouette des Hais lässt Männer oft zittern ?
+      propositions:
+      - Sein Schwanz
+      - Seine Nase
+      - Seine Kiemen
+      - Seine Rückenflosse
+      réponse: Seine Rückenflosse
+      anecdote: Das Flossenskelett des Hais ist länglich und wird von weichen, unsegmentierten Strahlen unterstützt, die Ceratotriches genannt werden.
+    - id: 7
+      question: Welche Teile der Anatomie des Hais können erneuert werden ?
+      propositions:
+      - Augen
+      - Kiemen
+      - Flossen
+      - Zähne
+      réponse: Zähne
+      anecdote: Die Kiefer des Hais sind voll beweglich, unabhängig und mit mehreren hundert Zähnen versehen.
+    - id: 8
+      question: Was müssen die meisten Haie ständig tun ?
+      propositions:
+      - Trinken
+      - Essen
+      - Schwimmen
+      - Schlafen
+      réponse: Schwimmen
+      anecdote: Selbst bei niedrigen Geschwindigkeiten müssen Haie schwimmen, um einen Wasserstrom aufrechtzuerhalten und ihren Kiemen genügend Sauerstoff zuzuführen.
+    - id: 9
+      question: Was ist das Besondere am Tigerhai, einer der größten Haiarten ?
+      propositions:
+      - Steril
+      - Säugetier
+      - Ovipar
+      - Viviparous
+      réponse: Ovipar
+      anecdote: Der 3 bis 4 Meter große Tigerhai kommt in gemäßigten und tropischen Ozeanen vor.
+    - id: 10
+      question: Was ist der Teil des Hais, der in Asien wegen seiner aphrodisierenden Eigenschaften am meisten nachgefragt wird ?
+      propositions:
+      - Die Zähne
+      - Der Schwanz
+      - Die Flossen
+      - Die Haut
+      réponse: Die Flossen
+      anecdote: Haie werden ausgiebig gefischt, normalerweise nur wegen ihrer Flossen, die die Hauptzutat in Gerichten sind.
+  - confirmé:
+    - id: 11
+      question: Welches Labor hat die Aufgabe, DNA-Proben von Zitronenhaien zu entnehmen ?
+      propositions:
+      - Ocean Lab
+      - Shark Lab
+      - Zitronenlabor
+      - DNA Lab
+      réponse: Shark Lab
+      anecdote: Der Zitronenhai wurde nicht zufällig ausgewählt, sondern weil er der einzige ist, der auf kleinem Raum in Gefangenschaft leben kann.
+    - id: 12
+      question: Was frisst der Walhai hauptsächlich, während er sich ziemlich langsam bewegt ?
+      propositions:
+      - Plankton
+      - Schäume
+      - Dichtungen
+      - Krabben
+      réponse: Plankton
+      anecdote: Obwohl massiv, ist der Walhai für Menschen vollkommen harmlos.
+    - id: 13
+      question: Wie viele Techniker brauchte man, um mit einem falschen « Teeth of the Sea » Hai umzugehen ?
+      propositions:
+      - 9
+      - 2
+      - 13
+      - 5
+      réponse: 13
+      anecdote: « Teeth of the Sea » ist ein amerikanischer Horrorfilm von Steven Spielberg, der 1975 veröffentlicht wurde.
+    - id: 14
+      question: Wie viel Prozent des Gesamtgewichts des Hais kann die Leber darstellen ?
+      propositions:
+      - 6%
+      - 12%
+      - 1%
+      - 25%
+      réponse: 25%
+      anecdote: Die Leber von Haien, die reich an Leberölen ist, wird in der pharmazeutischen Industrie und in der Kosmetik verwendet.
+    - id: 15
+      question: Wie viele Flossen haben die meisten Haie ?
+      propositions:
+      - Sechs
+      - Acht
+      - Zwei
+      - Vier
+      réponse: Acht
+      anecdote: Haie benutzen ihre Schwanzflosse, um sich anzutreiben und abrupt die Richtung zu ändern.
+    - id: 16
+      question: Welche Flosse wird von Haien als Stabilisator verwendet ?
+      propositions:
+      - Brust
+      - Caudal
+      - Becken
+      - Rückgrat
+      réponse: Rückgrat
+      anecdote: Die Wirbelsäule des Hais erstreckt sich in den dorsalen Bereich und bietet mehr Oberfläche für die Muskelansammlung.
+    - id: 17
+      question: Warum ist die Haut weiblicher Haie dicker als die männlicher ?
+      propositions:
+      - Die Jagd
+      - Parasiten
+      - Werbeanzeige
+      - Verteidigung
+      réponse: Werbeanzeige
+      anecdote: Werbung ist das Verhalten eines Tieres, um einen Partner zur Paarung zu überreden.
+    - id: 18
+      question: Welchen Platz nimmt das Riechzentrum im Gehirn des Hais ein ?
+      propositions:
+      - 2/3
+      - 1/3
+      - 1/12
+      - 1/6
+      réponse: 2/3
+      anecdote: Viele Haie haben einen hoch entwickelten Geruchssinn und werden oft als die Nasen des Meeres bezeichnet.
+    - id: 19
+      question: Welcher Hai gilt als der größte derzeit auf der Erde lebende Fisch ?
+      propositions:
+      - Tigerhai
+      - Weißer Hai
+      - Walhai
+      - Zwerghai
+      réponse: Walhai
+      anecdote: Die beobachtbare Größe liegt jedoch in der Praxis in der Regel zwischen 4 und 14 Metern.
+    - id: 20
+      question: Welcher Fisch wird regelmäßig durch einen Sauger an Haie gehakt ?
+      propositions:
+      - Amora
+      - Chwawha
+      - Lemosa
+      - Remora
+      réponse: Remora
+      anecdote: Als schlechter Schwimmer parasitiert die Remora andere größere Fische, indem sie sich mit der mächtigen Befestigungsscheibe auf dem Kopf an ihnen befestigt.
+  - expert:
+    - id: 21
+      question: Wie viele verschiedene Haiarten gibt es heute in unseren Ozeanen ?
+      propositions:
+      - 267
+      - 342
+      - 129
+      - 465
+      réponse: 465
+      anecdote: Seit der Kreidezeit vor 100 Millionen Jahren haben viele Haiarten ihre moderne Form angenommen.
+    - id: 22
+      question: Welches Vitamin ist in der Leber eines Hais in sehr hohen Mengen vorhanden ?
+      propositions:
+      - Vitamin E
+      - Vitamin C
+      - Vitamin A
+      - Vitamin D
+      réponse: Vitamin A
+      anecdote: Dieses Lipid der Kohlenwasserstoffzusammensetzung wird insbesondere in Impfstoffen und Cremes verwendet.
+    - id: 23
+      question: Welcher Hai kann außergewöhnlich gut in Süßwasser leben ?
+      propositions:
+      - Kupfer
+      - Pilger
+      - Tiger
+      - Bulldogge
+      réponse: Bulldogge
+      anecdote: Der Rücken ist grau oder olivbraun, die Flossenspitzen etwas dunkler und der Bauch weißlich.
+    - id: 24
+      question: Wie viele Zähne können manche Haie in ihrem Leben verlieren ?
+      propositions:
+      - 30.000
+      - 30
+      - 300
+      - 3.000
+      réponse: 30.000
+      anecdote: Zähne, deren Form je nach Art variiert, werden während des gesamten Lebens des Hais ständig erneuert.
+    - id: 25
+      question: Welches Gewicht kann der Walhai nach einer Sichtung im Jahr 1999 erreichen ?
+      propositions:
+      - 54 Tonnen
+      - 64 Tonnen
+      - 44 Tonnen
+      - 34 Tonnen
+      réponse: 34 Tonnen
+      anecdote: Im Rest des Tierreichs ist es jedoch kleiner als der Blauwal und erreicht 170 Meter lang 30 Meter.
+    - id: 26
+      question: Woraus bestehen die flexiblen Fasern der Haifischhaut ?
+      propositions:
+      - Kollagen
+      - Catenin
+      - Lamine
+      - Spongine
+      réponse: Kollagen
+      anecdote: Flexible Kollagenfasern sind helixförmig in einem Netzwerk um den Haikörper angeordnet.
+    - id: 27
+      question: Welcher dieser vier Haie gilt als harmlos für den Menschen ?
+      propositions:
+      - Pilger
+      - Tiger
+      - Blaue Haut
+      - Gemeinsamer Hammer
+      réponse: Pilger
+      anecdote: Der Riesenhai gilt als der zweitgrößte Fisch, der derzeit auf der Erde lebt.
+    - id: 28
+      question: Der sechste Sinn für Haie kommt von den Sinnesorganen, die Zwiebeln von...
+      propositions:
+      - Torricelli
+      - Marconi
+      - Lorenzini
+      - Donatelli
+      réponse: Lorenzini
+      anecdote: Lorenzini-Lampen können elektromagnetische Felder erkennen.
+    - id: 29
+      question: Welche kleinen parasitären Krebstiere betreffen die dicke, robuste Haut von Haien ?
+      propositions:
+      - Branchiopoda
+      - Malacostraca
+      - Copepoda
+      - Pentastomida
+      réponse: Copepoda
+      anecdote: Copepoden haben weder Kiemen noch Panzer und nur ein Auge, Median.
+    - id: 30
+      question: In welchem geologischen System sind die ersten Haie aufgetaucht ?
+      propositions:
+      - Jura
+      - Kambrium
+      - Kreidezeit
+      - Devonian
+      réponse: Devonian
+      anecdote: Seitdem gab es mehr als 465 Haiarten, die in 35 Familien eingeteilt waren.
+  es:
+  - débutant:
+    - id: 1
+      question: ¿De qué especie viviente forma parte el tiburón, con sus cinco a siete hendiduras branquiales ?
+      propositions:
+      - Mamíferos
+      - Pescado
+      - Medusas
+      - Reptiles
+      réponse: Pescado
+      anecdote: Tiburones, tiburones o selaquimorfos forman un superorden de peces cartilaginosos.
+    - id: 2
+      question: El tiburón ballena, único miembro del género Rhincodon, es un...
+      propositions:
+      - Mamíferos
+      - Pescao
+      - Cetáceo
+      - Cachalote
+      réponse: Pescao
+      anecdote: Excepcionalmente, el tiburón ballena puede alcanzar los 20 metros de longitud, para una masa de 34 toneladas.
+    - id: 3
+      question: ¿Cuál de los siguientes términos también se usa para referirse a los tiburones ?
+      propositions:
+      - Squales
+      - Mulas
+      - Rubios
+      - Pez escorpión
+      réponse: Squales
+      anecdote: Los tiburones son un superorden de peces cartilaginosos, que poseen de cinco a siete hendiduras branquiales a los lados de la cabeza.
+    - id: 4
+      question: El tiburón, que mata a sus presas para alimentarse, es por tanto un...
+      propositions:
+      - Nibbler
+      - Provocador
+      - Depredador
+      - Devorador
+      réponse: Depredador
+      anecdote: A pesar de su condición de depredador, el tiburón se alimenta principalmente de plancton filtrando el agua del mar.
+    - id: 5
+      question: ¿Cómo pueden respirar los tiburones, como las rayas ?
+      propositions:
+      - Sus aletas
+      - Su piel
+      - Sus pulmones
+      - Sus branquias
+      réponse: Sus branquias
+      anecdote: Los tiburones tienen de cinco a siete hendiduras branquiales a los lados de la cabeza.
+    - id: 6
+      question: ¿Qué elemento característico de la silueta del tiburón suele hacer temblar a los hombres ?
+      propositions:
+      - Sus branquias
+      - Su nariz
+      - Su aleta dorsal
+      - Su cola
+      réponse: Su aleta dorsal
+      anecdote: El esqueleto de la aleta del tiburón está alargado y soportado por rayos blandos no segmentados, llamados ceratotriches.
+    - id: 7
+      question: ¿Qué partes de la anatomía del tiburón son renovables ?
+      propositions:
+      - Ojos
+      - Branquias
+      - Aletas
+      - Dientes
+      réponse: Dientes
+      anecdote: Las mandíbulas del tiburón son completamente móviles, independientes y están provistas de varios cientos de dientes.
+    - id: 8
+      question: ¿Qué se ven obligados a hacer la mayoría de los tiburones todo el tiempo ?
+      propositions:
+      - Comer
+      - Beber
+      - Nadar
+      - Para dormir
+      réponse: Nadar
+      anecdote: Incluso a bajas velocidades, los tiburones deben nadar para mantener una corriente de agua que les lleve suficiente oxígeno a las branquias.
+    - id: 9
+      question: ¿Qué tiene de especial el tiburón tigre, una de las especies de tiburones más grandes ?
+      propositions:
+      - Mamíferos
+      - Ovíparos
+      - Estéril
+      - Vivíparos
+      réponse: Ovíparos
+      anecdote: El tiburón tigre mide de 3 a 4 metros y se encuentra en océanos templados y tropicales.
+    - id: 10
+      question: ¿Cuál es la parte del tiburón más solicitada en Asia por sus propiedades afrodisíacas ?
+      propositions:
+      - Las aletas
+      - La piel
+      - La cola
+      - Los dientes
+      réponse: Las aletas
+      anecdote: Los tiburones se pescan extensamente, generalmente solo por sus aletas, que son el ingrediente principal de los platos.
+  - confirmé:
+    - id: 11
+      question: ¿Qué laboratorio tiene la tarea de tomar una muestra de ADN de tiburones limón ?
+      propositions:
+      - Laboratorio de ADN
+      - Ocean Lab
+      - Laboratorio de tiburones
+      - Laboratorio de limón
+      réponse: Laboratorio de tiburones
+      anecdote: El tiburón limón no fue elegido al azar sino porque es el único capaz de vivir en cautiverio en un espacio reducido.
+    - id: 12
+      question: ¿Qué es lo que come principalmente el tiburón ballena mientras se mueve con bastante lentitud ?
+      propositions:
+      - Plancton
+      - Espumas
+      - Cangrejos
+      - Sellos
+      réponse: Plancton
+      anecdote: Aunque enorme, el tiburón ballena es perfectamente inofensivo para los humanos.
+    - id: 13
+      question: ¿Cuántos técnicos se necesitaron para manejar un tiburón falso « Teeth of the Sea » ?
+      propositions:
+      - 2
+      - 9
+      - 13
+      - 5
+      réponse: 13
+      anecdote: « Teeth of the Sea » es una película de terror estadounidense dirigida por Steven Spielberg, estrenada en 1975.
+    - id: 14
+      question: ¿Qué porcentaje del peso total del tiburón puede representar el hígado ?
+      propositions:
+      - 25%
+      - 12%
+      - 1%
+      - 6%
+      réponse: 25%
+      anecdote: El hígado de tiburón, rico en aceites de hígado, se utiliza en la industria farmacéutica y cosmética.
+    - id: 15
+      question: ¿Cuántas aletas tiene la mayoría de los tiburones ?
+      propositions:
+      - Seis
+      - Cuatro
+      - Dos
+      - Ocho
+      réponse: Ocho
+      anecdote: Los tiburones usan su aleta caudal para impulsarse y cambiar abruptamente de dirección.
+    - id: 16
+      question: ¿Qué aleta utilizan los tiburones como estabilizador ?
+      propositions:
+      - Pélvica
+      - Backbone
+      - Pectoral
+      - Caudal
+      réponse: Backbone
+      anecdote: La columna vertebral del tiburón se extiende hacia la porción dorsal, proporcionando más área de superficie para la inserción de los músculos.
+    - id: 17
+      question: ¿Por qué la piel de las hembras de tiburón es más gruesa que la de los machos ?
+      propositions:
+      - Parásitos
+      - Defensa
+      - Exhibición de cortejo
+      - La caza
+      réponse: Exhibición de cortejo
+      anecdote: El cortejo es el comportamiento adoptado por un animal para convencer a su pareja de aparearse.
+    - id: 18
+      question: ¿Qué lugar ocupa el centro olfativo en el cerebro del tiburón ?
+      propositions:
+      - 1/3
+      - 1/12
+      - 1/6
+      - 2/3
+      réponse: 2/3
+      anecdote: Muchos tiburones tienen un sentido del olfato muy desarrollado y, a menudo, se les llama narices del mar.
+    - id: 19
+      question: ¿Qué tiburón se considera el pez más grande que vive actualmente en la Tierra ?
+      propositions:
+      - Tiburón tigre
+      - Tiburón blanco
+      - Tiburón enano
+      - Tiburón ballena
+      réponse: Tiburón ballena
+      anecdote: Sin embargo, su tamaño observable es en la práctica generalmente entre 4 y 14 metros.
+    - id: 20
+      question: ¿Qué pez se engancha habitualmente a los tiburones a través de una ventosa ?
+      propositions:
+      - Chwawha
+      - Remora
+      - Lemosa
+      - Amora
+      réponse: Remora
+      anecdote: Mala nadadora, la rémora parasita a otros peces más grandes al adherirse a ellos mediante el poderoso disco de sujeción que se coloca en su cabeza.
+  - expert:
+    - id: 21
+      question: ¿Cuántas especies diferentes de tiburones hay hoy en nuestros océanos ?
+      propositions:
+      - 342
+      - 267
+      - 465
+      - 129
+      réponse: 465
+      anecdote: Desde el período Cretácico, hace 100 millones de años, muchas especies de tiburones adoptaron su forma moderna.
+    - id: 22
+      question: ¿Qué vitamina está presente en cantidades muy elevadas en el hígado de un tiburón ?
+      propositions:
+      - Vitamina C
+      - Vitamina A
+      - Vitamina D
+      - Vitamina E
+      réponse: Vitamina A
+      anecdote: Este lípido de composición hidrocarbonada se utiliza en particular en vacunas y cremas.
+    - id: 23
+      question: ¿Qué tiburón puede vivir excepcionalmente en agua dulce ?
+      propositions:
+      - Peregrino
+      - Tiger
+      - Bulldog
+      - Cobre
+      réponse: Bulldog
+      anecdote: Su dorso es gris o marrón oliva con puntas de las aletas ligeramente más oscuras y su vientre es blanquecino.
+    - id: 24
+      question: ¿Cuántos dientes pueden perder algunos tiburones en su vida ?
+      propositions:
+      - 30
+      - 3,000
+      - 300
+      - 30,000
+      réponse: 30,000
+      anecdote: Los dientes, que varían en forma según la especie, se renuevan constantemente a lo largo de la vida del tiburón.
+    - id: 25
+      question: ¿Qué peso puede alcanzar el tiburón ballena tras un avistamiento realizado en 1999 ?
+      propositions:
+      - 54 toneladas
+      - 44 toneladas
+      - 64 toneladas
+      - 34 toneladas
+      réponse: 34 toneladas
+      anecdote: En el resto del reino animal, sin embargo, es más pequeño que la ballena azul, alcanzando los 30 metros por 170 toneladas.
+    - id: 26
+      question: ¿De qué están hechas las fibras flexibles de la piel de tiburón ?
+      propositions:
+      - Colágeno
+      - Lamine
+      - Catenin
+      - Spongine
+      réponse: Colágeno
+      anecdote: Las fibras de colágeno flexibles están dispuestas en forma helicoidal en una red alrededor del cuerpo del tiburón.
+    - id: 27
+      question: ¿Cuál de estos cuatro tiburones se considera inofensivo para los humanos ?
+      propositions:
+      - Piel azul
+      - Martillo común
+      - Tiger
+      - Peregrino
+      réponse: Peregrino
+      anecdote: El tiburón peregrino es considerado el segundo pez más grande que vive actualmente en la Tierra.
+    - id: 28
+      question: El sexto sentido de los tiburones proviene de los órganos sensoriales llamados bulbos de...
+      propositions:
+      - Marconi
+      - Donatelli
+      - Lorenzini
+      - Torricelli
+      réponse: Lorenzini
+      anecdote: Las bombillas Lorenzini son capaces de detectar campos electromagnéticos.
+    - id: 29
+      question: ¿Qué pequeños crustáceos parásitos afectan la piel gruesa y resistente de los tiburones ?
+      propositions:
+      - Branchiopoda
+      - Pentastomida
+      - Copepoda
+      - Malacostraca
+      réponse: Copepoda
+      anecdote: Los copépodos no tienen branquias ni caparazón y tienen un solo ojo, la mediana.
+    - id: 30
+      question: ¿Durante qué sistema geológico aparecieron los primeros tiburones ?
+      propositions:
+      - Cretácico
+      - Devónico
+      - Jurásico
+      - Cámbrico
+      réponse: Devónico
+      anecdote: Desde entonces, ha habido más de 465 especies de tiburones, agrupadas en 35 familias.
+  it:
+  - débutant:
+    - id: 1
+      question: Di quale specie vivente fa parte lo squalo, con le sue cinque o sette fessure branchiali ?
+      propositions:
+      - Rettili
+      - Mammiferi
+      - Pesce
+      - Medusa
+      réponse: Pesce
+      anecdote: Squali, squali o selachimorfi formano un superordine di pesci cartilaginei.
+    - id: 2
+      question: Lo squalo balena, l'unico membro del genere Rhincodon, è un...
+      propositions:
+      - Mammifero
+      - Capodoglio
+      - Cetacei
+      - Pesce
+      réponse: Pesce
+      anecdote: Lo squalo balena può eccezionalmente raggiungere i 20 metri di lunghezza, per una massa di 34 tonnellate.
+    - id: 3
+      question: Quale dei seguenti termini viene utilizzato anche per riferirsi agli squali ?
+      propositions:
+      - Gallinacei
+      - Squales
+      - Muli
+      - Scorfani
+      réponse: Squales
+      anecdote: Gli squali sono un superordine di pesci cartilaginei, che possiedono da cinque a sette fessure branchiali ai lati della testa.
+    - id: 4
+      question: Lo squalo, che uccide le prede per nutrirsi, è quindi un...
+      propositions:
+      - Provocatorio
+      - Predator
+      - Divoratore
+      - Roditrice
+      réponse: Predator
+      anecdote: Nonostante lo status di predatore, lo squalo si nutre principalmente di plancton filtrando l'acqua di mare.
+    - id: 5
+      question: Come fanno gli squali a respirare, come le razze ?
+      propositions:
+      - I loro polmoni
+      - Le loro branchie
+      - La loro pelle
+      - Le loro pinne
+      réponse: Le loro branchie
+      anecdote: Gli squali hanno da cinque a sette fessure branchiali ai lati della testa.
+    - id: 6
+      question: Quale elemento caratteristico della sagoma dello squalo fa spesso tremare gli uomini ?
+      propositions:
+      - La sua pinna dorsale
+      - La sua coda
+      - Le sue branchie
+      - Il suo naso
+      réponse: La sua pinna dorsale
+      anecdote: Lo scheletro della pinna di squalo è allungato e sostenuto da raggi morbidi e non segmentati, chiamati ceratotriches.
+    - id: 7
+      question: Quali parti dell'anatomia dello squalo sono rinnovabili ?
+      propositions:
+      - Denti
+      - Gills
+      - Pinne
+      - Occhi
+      réponse: Denti
+      anecdote: Le mascelle dello squalo sono completamente mobili, indipendenti e dotate di diverse centinaia di denti.
+    - id: 8
+      question: Cosa sono costretti a fare la maggior parte degli squali tutto il tempo ?
+      propositions:
+      - Nuotare
+      - Mangia
+      - Dormire
+      - Bere
+      réponse: Nuotare
+      anecdote: Anche a basse velocità, gli squali devono nuotare per mantenere una corrente d'acqua per fornire abbastanza ossigeno alle branchie.
+    - id: 9
+      question: Cosa c'è di speciale nello squalo tigre, una delle specie di squali più grandi ?
+      propositions:
+      - Mammifero
+      - Oviparo
+      - Viviparo
+      - Sterile
+      réponse: Oviparo
+      anecdote: Misurando da 3 a 4 metri, lo squalo tigre si trova negli oceani temperati e tropicali.
+    - id: 10
+      question: Qual è la parte dello squalo più richiesta in Asia per le sue proprietà afrodisiache ?
+      propositions:
+      - I denti
+      - La pelle
+      - Le pinne
+      - La coda
+      réponse: Le pinne
+      anecdote: Gli squali sono ampiamente pescati, di solito solo per le loro pinne, che sono l'ingrediente principale dei piatti.
+  - confirmé:
+    - id: 11
+      question: Quale laboratorio ha il compito di prelevare un campione di DNA dagli squali limone ?
+      propositions:
+      - DNA Lab
+      - Lemon Lab
+      - Ocean Lab
+      - Shark Lab
+      réponse: Shark Lab
+      anecdote: Lo squalo limone non è stato scelto a caso ma perché è l'unico in grado di vivere in cattività in un piccolo spazio.
+    - id: 12
+      question: Cosa mangia principalmente lo squalo balena, mentre si muove abbastanza lentamente ?
+      propositions:
+      - Schiume
+      - Plancton
+      - Granchi
+      - Sigilli
+      réponse: Plancton
+      anecdote: Sebbene enorme, lo squalo balena è perfettamente innocuo per l'uomo.
+    - id: 13
+      question: Quanti tecnici ci sono voluti per gestire un falso squalo « Teeth of the Sea » ?
+      propositions:
+      - 2
+      - 9
+      - 13
+      - 5
+      réponse: 13
+      anecdote: « Teeth of the Sea » è un film horror americano diretto da Steven Spielberg, uscito nel 1975.
+    - id: 14
+      question: Quale percentuale del peso totale dello squalo può rappresentare il fegato ?
+      propositions:
+      - 6%
+      - 12%
+      - 1%
+      - 25%
+      réponse: 25%
+      anecdote: Il fegato degli squali, ricco di oli di fegato, viene utilizzato nell'industria farmaceutica e nei cosmetici.
+    - id: 15
+      question: Quante pinne ha la maggior parte degli squali ?
+      propositions:
+      - Otto
+      - Due
+      - Quattro
+      - Sei
+      réponse: Otto
+      anecdote: Gli squali usano la pinna caudale per spingere se stessi e cambiare bruscamente direzione.
+    - id: 16
+      question: Quale pinna viene usata come stabilizzatore dagli squali ?
+      propositions:
+      - Caudale
+      - Pelvico
+      - Spina dorsale
+      - Pettorale
+      réponse: Spina dorsale
+      anecdote: La colonna vertebrale dello squalo si estende nella porzione dorsale, fornendo più superficie per l'attaccamento muscolare.
+    - id: 17
+      question: Perché la pelle delle femmine di squalo è più spessa di quella dei maschi ?
+      propositions:
+      - Display di corteggiamento
+      - La caccia
+      - Difesa
+      - Parassiti
+      réponse: Display di corteggiamento
+      anecdote: Il corteggiamento è il comportamento adottato da un animale per convincere un partner ad accoppiarsi.
+    - id: 18
+      question: Che posto occupa il centro olfattivo nel cervello dello squalo ?
+      propositions:
+      - 1/12
+      - 1/6
+      - 2/3
+      - 1/3
+      réponse: 2/3
+      anecdote: Molti squali hanno un olfatto molto sviluppato e sono spesso indicati come i nasi del mare.
+    - id: 19
+      question: Quale squalo è considerato il pesce più grande attualmente vivente sulla Terra ?
+      propositions:
+      - Squalo nano
+      - Squalo tigre
+      - Squalo balena
+      - Squalo bianco
+      réponse: Squalo balena
+      anecdote: Tuttavia, la sua dimensione osservabile è in pratica generalmente compresa tra 4 e 14 metri.
+    - id: 20
+      question: Quale pesce viene regolarmente agganciato agli squali tramite una ventosa ?
+      propositions:
+      - Lemosa
+      - Remora
+      - Chwawha
+      - Amora
+      réponse: Remora
+      anecdote: Cattiva nuotatrice, la remora parassita altri pesci più grandi attaccandosi a loro dal potente disco di attacco posto sulla sua testa.
+  - expert:
+    - id: 21
+      question: Quante diverse specie di squali ci sono oggi nei nostri oceani ?
+      propositions:
+      - 465
+      - 342
+      - 267
+      - 129
+      réponse: 465
+      anecdote: Dal periodo Cretaceo 100 milioni di anni fa, molte specie di squali hanno adottato la loro forma moderna.
+    - id: 22
+      question: Quale vitamina è presente in quantità molto elevate nel fegato di uno squalo ?
+      propositions:
+      - Vitamina A
+      - Vitamina C
+      - Vitamina E
+      - Vitamina D
+      réponse: Vitamina A
+      anecdote: Questo lipide di composizione idrocarburica è utilizzato in particolare nei vaccini e nelle creme.
+    - id: 23
+      question: Quale squalo può vivere eccezionalmente in acqua dolce ?
+      propositions:
+      - Tiger
+      - Rame
+      - Bulldog
+      - Pellegrino
+      réponse: Bulldog
+      anecdote: Il dorso è grigio o marrone oliva con le punte delle pinne leggermente più scure e il ventre è biancastro.
+    - id: 24
+      question: Quanti denti possono perdere alcuni squali nella loro vita ?
+      propositions:
+      - 3.000
+      - 30
+      - 30.000
+      - 300
+      réponse: 30.000
+      anecdote: I denti, che variano nella forma a seconda della specie, si rinnovano costantemente per tutta la vita dello squalo.
+    - id: 25
+      question: Quale peso può raggiungere lo squalo balena, a seguito di un avvistamento effettuato nel 1999 ?
+      propositions:
+      - 54 tonnellate
+      - 34 tonnellate
+      - 64 tonnellate
+      - 44 tonnellate
+      réponse: 34 tonnellate
+      anecdote: Nel resto del regno animale, invece, è più piccola della balenottera azzurra, raggiungendo i 30 metri per 170 tonnellate.
+    - id: 26
+      question: Di cosa sono fatte le fibre flessibili della pelle di squalo ?
+      propositions:
+      - Catenin
+      - Spongine
+      - Lamine
+      - Collagene
+      réponse: Collagene
+      anecdote: Le fibre di collagene flessibili sono disposte in modo elicoidale in una rete attorno al corpo dello squalo.
+    - id: 27
+      question: Quale di questi quattro squali è considerato innocuo per l'uomo ?
+      propositions:
+      - Pelle blu
+      - Pellegrino
+      - Tiger
+      - Martello comune
+      réponse: Pellegrino
+      anecdote: Lo squalo elefante è considerato il secondo pesce più grande attualmente vivente sulla Terra.
+    - id: 28
+      question: Il sesto senso degli squali proviene dagli organi sensoriali chiamati bulbi di...
+      propositions:
+      - Marconi
+      - Donatelli
+      - Torricelli
+      - Lorenzini
+      réponse: Lorenzini
+      anecdote: Le lampadine Lorenzini sono in grado di rilevare i campi elettromagnetici.
+    - id: 29
+      question: Quali piccoli crostacei parassiti influenzano la pelle spessa e robusta degli squali ?
+      propositions:
+      - Malacostraca
+      - Copepoda
+      - Pentastomida
+      - Branchiopoda
+      réponse: Copepoda
+      anecdote: I copepodi non hanno né branchie né carapace e hanno un solo occhio, mediano.
+    - id: 30
+      question: Durante quale sistema geologico sono comparsi i primi squali ?
+      propositions:
+      - Jurassic
+      - Devoniano
+      - Cambriano
+      - Cretaceo
+      réponse: Devoniano
+      anecdote: Da allora, ci sono state più di 465 specie di squali, raggruppate in 35 famiglie.
+  nl:
+  - débutant:
+    - id: 1
+      question: Van welke levende soort maakt de haai deel uit, met zijn vijf tot zeven kieuwspleten ?
+      propositions:
+      - Reptielen
+      - Vis
+      - Zoogdieren
+      - Kwallen
+      réponse: Vis
+      anecdote: Haaien, haaien of selachimorphs vormen een superorde van kraakbeenachtige vissen.
+    - id: 2
+      question: De walvishaai, het enige lid van het geslacht Rhincodon, is een...
+      propositions:
+      - Vis
+      - Zoogdier
+      - Walvisachtigen
+      - Potvis
+      réponse: Vis
+      anecdote: De walvishaai kan uitzonderlijk 20 meter lang worden, voor een massa van 34 ton.
+    - id: 3
+      question: Welke van de volgende termen wordt ook gebruikt om naar haaien te verwijzen ?
+      propositions:
+      - Squales
+      - Schorpioenvis
+      - Muilezels
+      - Poon
+      réponse: Squales
+      anecdote: Haaien zijn een superorde van kraakbeenachtige vissen, met vijf tot zeven kieuwspleten aan de zijkanten van het hoofd.
+    - id: 4
+      question: De haai, die prooi doodt voor voedsel, is daarom een...
+      propositions:
+      - Roofdier
+      - Knabbelschaar
+      - Provocerend
+      - Verslinder
+      réponse: Roofdier
+      anecdote: Ondanks de roofdierstatus voedt de haai zich voornamelijk met plankton door zeewater te filteren.
+    - id: 5
+      question: Hoe kunnen haaien ademen, zoals pijlstaartroggen ?
+      propositions:
+      - Hun longen
+      - Hun huid
+      - Hun vinnen
+      - Hun kieuwen
+      réponse: Hun kieuwen
+      anecdote: Haaien hebben vijf tot zeven kieuwspleten aan de zijkanten van het hoofd.
+    - id: 6
+      question: Welk kenmerkend element van het silhouet van de haai doet mannen vaak beven ?
+      propositions:
+      - Zijn neus
+      - Zijn staart
+      - Zijn kieuwen
+      - Zijn rugvin
+      réponse: Zijn rugvin
+      anecdote: Het skelet van de haaienvin is langwerpig en wordt ondersteund door zachte, niet-gesegmenteerde stralen, ceratotriches genaamd.
+    - id: 7
+      question: Welke delen van de anatomie van de haai zijn hernieuwbaar ?
+      propositions:
+      - Tanden
+      - Kieuwen
+      - Ogen
+      - Vinnen
+      réponse: Tanden
+      anecdote: De kaken van de haai zijn volledig beweegbaar, onafhankelijk en voorzien van honderden tanden.
+    - id: 8
+      question: Wat moeten de meeste haaien de hele tijd doen ?
+      propositions:
+      - Eet
+      - Zwemmen
+      - Slapen
+      - Drinken
+      réponse: Zwemmen
+      anecdote: Zelfs bij lage snelheden moeten haaien zwemmen om een waterstroom te behouden om voldoende zuurstof naar hun kieuwen te brengen.
+    - id: 9
+      question: Wat is er zo bijzonder aan de tijgerhaai, een van de grootste haaiensoorten ?
+      propositions:
+      - Eierleggend
+      - Zoogdier
+      - Levendbarend
+      - Steriel
+      réponse: Eierleggend
+      anecdote: De tijgerhaai meet 3 tot 4 meter en komt voor in gematigde en tropische oceanen.
+    - id: 10
+      question: Welk deel van de haai wordt in Azië het meest gevraagd vanwege zijn afrodiserende eigenschappen ?
+      propositions:
+      - De staart
+      - De huid
+      - De vinnen
+      - De tanden
+      réponse: De vinnen
+      anecdote: Op haaien wordt veel gevist, meestal alleen vanwege hun vinnen, die het hoofdingrediënt zijn in gerechten.
+  - confirmé:
+    - id: 11
+      question: Welk lab heeft de taak om een DNA-monster te nemen van citroenhaaien ?
+      propositions:
+      - Citroen Lab
+      - Shark Lab
+      - DNA Lab
+      - Ocean Lab
+      réponse: Shark Lab
+      anecdote: De citroenhaai werd niet willekeurig gekozen, maar omdat hij de enige is die in gevangenschap in een kleine ruimte kan leven.
+    - id: 12
+      question: Wat eet de walvishaai voornamelijk, terwijl hij vrij langzaam beweegt ?
+      propositions:
+      - Schuim
+      - Plankton
+      - Krabben
+      - Afdichtingen
+      réponse: Plankton
+      anecdote: Hoewel de walvishaai enorm groot is, is hij volkomen onschadelijk voor de mens.
+    - id: 13
+      question: Hoeveel technici waren er nodig om een nephaai van « Teeth of the Sea » te hanteren ?
+      propositions:
+      - 2
+      - 5
+      - 13
+      - 9
+      réponse: 13
+      anecdote: « Teeth of the Sea » is een Amerikaanse horrorfilm geregisseerd door Steven Spielberg, uitgebracht in 1975.
+    - id: 14
+      question: Welk percentage van het totale gewicht van de haai kan de lever vertegenwoordigen ?
+      propositions:
+      - 25%
+      - 12%
+      - 6%
+      - 1%
+      réponse: 25%
+      anecdote: De lever van haaien, rijk aan leveroliën, wordt gebruikt in de farmaceutische industrie en in cosmetica.
+    - id: 15
+      question: Hoeveel vinnen hebben de meeste haaien ?
+      propositions:
+      - Twee
+      - Zes
+      - Acht
+      - Vier
+      réponse: Acht
+      anecdote: Haaien gebruiken hun staartvin om zichzelf voort te drijven en abrupt van richting te veranderen.
+    - id: 16
+      question: Welke vin wordt door haaien als stabilisator gebruikt ?
+      propositions:
+      - Bekken
+      - Caudal
+      - Ruggengraat
+      - Borstvinnen
+      réponse: Ruggengraat
+      anecdote: De ruggengraat van de haai strekt zich uit tot in het dorsale gedeelte, waardoor er meer oppervlak ontstaat voor spieraanhechting.
+    - id: 17
+      question: Waarom is de huid van vrouwelijke haaien dikker dan die van mannetjes ?
+      propositions:
+      - Vrijage display
+      - Parasieten
+      - De jacht
+      - Verdediging
+      réponse: Vrijage display
+      anecdote: Vrijage is het gedrag van een dier om een partner te overtuigen om te paren.
+    - id: 18
+      question: Welke plaats neemt het reukcentrum in de hersenen van de haai in ?
+      propositions:
+      - 1/6
+      - 1/3
+      - 2/3
+      - 1/12
+      réponse: 2/3
+      anecdote: Veel haaien hebben een sterk ontwikkeld reukvermogen en worden vaak de neuzen van de zee genoemd.
+    - id: 19
+      question: Welke haai wordt beschouwd als de grootste vis die momenteel op aarde leeft ?
+      propositions:
+      - Dwerghaai
+      - Witte haai
+      - Tijgerhaai
+      - Walvishaai
+      réponse: Walvishaai
+      anecdote: De waarneembare grootte ligt in de praktijk echter over het algemeen tussen de 4 en 14 meter.
+    - id: 20
+      question: Welke vis wordt regelmatig via een zuignap aan haaien vastgehaakt ?
+      propositions:
+      - Amora
+      - Lemosa
+      - Remora
+      - Chwawha
+      réponse: Remora
+      anecdote: Een slechte zwemmer, de remora parasiteert andere grotere vissen door zich aan hen te hechten door de krachtige bevestigingsschijf op zijn kop.
+  - expert:
+    - id: 21
+      question: Hoeveel verschillende soorten haaien zijn er tegenwoordig in onze oceanen ?
+      propositions:
+      - 129
+      - 465
+      - 267
+      - 342
+      réponse: 465
+      anecdote: Vanaf het Krijt, 100 miljoen jaar geleden, namen veel soorten haaien hun moderne vorm aan.
+    - id: 22
+      question: Welke vitamine is in zeer grote hoeveelheden aanwezig in de lever van een haai ?
+      propositions:
+      - Vitamine A
+      - Vitamine E
+      - Vitamine D
+      - Vitamine C
+      réponse: Vitamine A
+      anecdote: Dit lipide van koolwaterstofsamenstelling wordt met name gebruikt in vaccins en crèmes.
+    - id: 23
+      question: Welke haai kan uitzonderlijk in zoet water leven ?
+      propositions:
+      - Tijger
+      - Bulldog
+      - Koper
+      - Pelgrim
+      réponse: Bulldog
+      anecdote: Zijn rug is grijs of olijfbruin met iets donkerdere vinpunten en zijn buik is witachtig.
+    - id: 24
+      question: Hoeveel tanden kunnen sommige haaien tijdens hun leven verliezen ?
+      propositions:
+      - 300
+      - 30.000
+      - 3.000
+      - 30
+      réponse: 30.000
+      anecdote: Tanden, die afhankelijk van de soort in vorm variëren, worden gedurende het hele leven van de haai voortdurend vernieuwd.
+    - id: 25
+      question: Hoeveel gewicht kan de walvishaai bereiken, na een observatie uit 1999 ?
+      propositions:
+      - 44 ton
+      - 64 ton
+      - 34 ton
+      - 54 ton
+      réponse: 34 ton
+      anecdote: In de rest van het dierenrijk is hij echter kleiner dan de blauwe vinvis en bereikt hij 30 meter voor 170 ton.
+    - id: 26
+      question: Waar zijn de flexibele vezels van haaienhuid van gemaakt ?
+      propositions:
+      - Catenin
+      - Lamine
+      - Spongine
+      - Collageen
+      réponse: Collageen
+      anecdote: Flexibele collageenvezels zijn spiraalvormig in een netwerk rond het lichaam van de haai gerangschikt.
+    - id: 27
+      question: Welke van deze vier haaien wordt als onschadelijk voor mensen beschouwd ?
+      propositions:
+      - Gemeenschappelijke hamer
+      - Pelgrim
+      - Blauwe huid
+      - Tijger
+      réponse: Pelgrim
+      anecdote: De reuzenhaai wordt beschouwd als de op een na grootste vis die momenteel op aarde leeft.
+    - id: 28
+      question: Het zesde zintuig van haaien komt van de sensorische organen die de bollen van...
+      propositions:
+      - Marconi
+      - Lorenzini
+      - Torricelli
+      - Donatelli
+      réponse: Lorenzini
+      anecdote: Lorenzini-lampen zijn in staat elektromagnetische velden te detecteren.
+    - id: 29
+      question: Welke kleine parasitaire kreeftachtigen tasten de dikke, stevige huid van haaien aan ?
+      propositions:
+      - Pentastomida
+      - Malacostraca
+      - Branchiopoda
+      - Copepoda
+      réponse: Copepoda
+      anecdote: Copepods hebben geen kieuwen of schild en hebben maar één oog, mediaan.
+    - id: 30
+      question: Tijdens welk geologisch systeem verschenen de eerste haaien ?
+      propositions:
+      - Cambrium
+      - Krijt
+      - Jura
+      - Devoon
+      réponse: Devoon
+      anecdote: Sindsdien zijn er meer dan 465 soorten haaien, gegroepeerd in 35 families.

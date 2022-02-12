@@ -1,0 +1,2216 @@
+{                                     
+  "fournisseur": "OpenQuizzDB - Fournisseur de contenu libre (https://www.openquizzdb.org)",
+  "rédacteur": "Philippe Bresoux",
+  "thème": "Crypto-monnaies (Monnaies alternatives mondiales)",         
+  "difficulté": "5 / 5",
+  "quizz": {
+    "fr": {
+      "débutant": [
+      {
+        "id": 1,
+        "question": "Sous quel autre nom est aussi connue des spécialistes la crypto-monnaie Peercoin ?",
+        "propositions": [
+          "PPCoin",
+          "DualCoin",
+          "ConnectCoin",
+          "RipCoin"
+        ],
+        "réponse": "PPCoin",
+        "anecdote": "Peercoin fut inspiré de Bitcoin et partage avec lui une grande partie de son code source ainsi que son implémentation technique."
+      },
+      {
+        "id": 2,
+        "question": "Dans quel portefeuille peuvent être stockés les Ethers ?",
+        "propositions": [
+          "Basket",
+          "Magnet",
+          "Disket",
+          "Wallet"
+        ],
+        "réponse": "Wallet",
+        "anecdote": "Ethereum est la deuxième plus importante monnaie cryptographique décentralisée avec une capitalisation supérieure à cent milliards."
+      },
+      {
+        "id": 3,
+        "question": "Quel investisseur de crypto-monnaies est aussi le créateur du site bitcoin.com ?",
+        "propositions": [
+          "Roger Ver",
+          "Sunny King",
+          "Charlie Lee",
+          "Gavin Wood"
+        ],
+        "réponse": "Roger Ver",
+        "anecdote": "À la fin de l'année 2013, Roger Ver a fait don en bitcoins de plus d'un million de dollars à la Fondation pour l'éducation économique."
+      },
+      {
+        "id": 4,
+        "question": "Combien compte-t-on à ce jour de crypto-monnaies de la catégorie infrastructure ?",
+        "propositions": [
+          "Un millier",
+          "Une centaine",
+          "Une dizaine",
+          "Une cinquantaine"
+        ],
+        "réponse": "Une dizaine",
+        "anecdote": "Malgré leur faible nombre, ce sont ces crypto-monnaies qui sont susceptibles d'apporter des changements les plus profonds."
+      },
+      {
+        "id": 5,
+        "question": "Qu'apporte la crypto-monnaie par rapport à d'autres solutions comme PayPal ?",
+        "propositions": [
+          "Frais de dossier",
+          "Anonymat",
+          "Identification",
+          "Traçabilité"
+        ],
+        "réponse": "Anonymat",
+        "anecdote": "De nouvelles directives européennes bientôt transposées en droit français vont donner priorité à la lutte contre le blanchiment."
+      },
+      {
+        "id": 6,
+        "question": "En quelle année Bitcoin, la première crypto-monnaie, a-t-elle vu le jour ?",
+        "propositions": [
+          "2013",
+          "2009",
+          "2011",
+          "2015"
+        ],
+        "réponse": "2009",
+        "anecdote": "En tant que monnaie ou commodité, les bitcoins peuvent être échangés contre d'autres monnaies, biens ou services."
+      },
+      {
+        "id": 7,
+        "question": "Quelle opération sert à valider les transactions et sécuriser le réseau Bitcoin ?",
+        "propositions": [
+          "Minage",
+          "Débogage",
+          "Routage",
+          "Hachage"
+        ],
+        "réponse": "Minage",
+        "anecdote": "Le fait de miner une cryptomonnaie consiste à fournir un service au réseau de ladite monnaie en échange d'une récompense pécuniaire."
+      },
+      {
+        "id": 8,
+        "question": "Dans quelle série télévisée créée par Sam Esmail parle-t-on du Bitcoin ?",
+        "propositions": [
+          "The Affair",
+          "Breaking Bad",
+          "Homeland",
+          "Mr. Robot"
+        ],
+        "réponse": "Mr. Robot",
+        "anecdote": "Selon The Guardian en 2016, « Mr. Robot » est l'une des séries les plus excitantes du moment, refusant de jouer selon les règles."
+      },
+      {
+        "id": 9,
+        "question": "Sur quelle plate-forme pouvez-vous acheter jusqu'à 200 crypto-monnaies différentes ?",
+        "propositions": [
+          "Kraken",
+          "CoinHouse",
+          "Cryptopia",
+          "Bittrex"
+        ],
+        "réponse": "Bittrex",
+        "anecdote": "Leur moteur de trading personnalisé a été conçu pour être évolutif et pour garantir que les ordres soient exécutés en temps réel."
+      },
+      {
+        "id": 10,
+        "question": "Quel était le cours du bitcoin en janvier 2018, sachant qu'il valait 1 euro en 2001 ?",
+        "propositions": [
+          "7 607 euros",
+          "5 944 euros",
+          "3 519 euros",
+          "9 306 euros"
+        ],
+        "réponse": "9 306 euros",
+        "anecdote": "Les bitcoins sont émis de façon dégressive jusqu'à atteindre un montant maximal de 21 millions dans quelques décennies."
+      }
+    ],
+    "confirmé": [
+      {
+        "id": 11,
+        "question": "Quel ancien employé de Google a développé la monnaie électronique Litecoin ?",
+        "propositions": [
+          "Charlie Lee",
+          "Robert Walsh",
+          "Kevin Castner",
+          "Terri Hall"
+        ],
+        "réponse": "Charlie Lee",
+        "anecdote": "Le réseau de Litecoin a pour but de créer un bloc toutes les deux minutes trente, plutôt que toutes les dix minutes pour Bitcoin."
+      },
+      {
+        "id": 12,
+        "question": "En quelle année fut fondé le protocole de paiement open-source Stellar ?",
+        "propositions": [
+          "2016",
+          "2010",
+          "2012",
+          "2014"
+        ],
+        "réponse": "2014",
+        "anecdote": "Le procotole de paiement Stellar est supporté par une fondation à but non-lucratif, la Stellar Development Foundation."
+      },
+      {
+        "id": 13,
+        "question": "Quel type de crypto-monnaie va bien au-delà du simple moyen de paiement ?",
+        "propositions": [
+          "Infrastructure",
+          "Social",
+          "Local",
+          "Shopping"
+        ],
+        "réponse": "Infrastructure",
+        "anecdote": "Véritables poids lourds, on ne devrait pas les appeler crypto-monnaies, leur ambition allant au delà du paiement."
+      },
+      {
+        "id": 14,
+        "question": "Quelle crypto-monnaie ultra-sécurisée cible exclusivement le marché du cannabis légal ?",
+        "propositions": [
+          "ZiftrCoin",
+          "PotCoin",
+          "QuickCoin",
+          "PayCoin"
+        ],
+        "réponse": "PotCoin",
+        "anecdote": "En juin 2017, PotCoin a sponsorisé le voyage de l'ex star de la NBA Dennis Rodman, alors en visite en Corée du Nord."
+      },
+      {
+        "id": 15,
+        "question": "Quel est le symbole utilisé par la crypto-monnaie Primecoin ?",
+        "propositions": [
+          "Lettre psi",
+          "Double carré",
+          "Zéro rouge",
+          "Aigle doré"
+        ],
+        "réponse": "Lettre psi",
+        "anecdote": "Le mécanisme de fonctionnement de cette crypto-monnaie participe à l'identification de nombres premiers de grande capacité."
+      },
+      {
+        "id": 16,
+        "question": "Quel nom porte la première crypto-monnaie conçue pour les systèmes Android ?",
+        "propositions": [
+          "Burstcoin",
+          "MangoCoinz",
+          "Vertcoin",
+          "Reddcoin"
+        ],
+        "réponse": "MangoCoinz",
+        "anecdote": "MangoCoinz utilise les senseurs de votre smartphone ou de votre tablette pour convertir l'énergie liée aux mouvements en monnaie."
+      },
+      {
+        "id": 17,
+        "question": "Quel pays fut le premier à interdire l'utilisation du bitcoin sur son territoire ?",
+        "propositions": [
+          "États-Unis",
+          "Allemagne",
+          "Russie",
+          "Thaïlande"
+        ],
+        "réponse": "Thaïlande",
+        "anecdote": "En 2016, la banque centrale de Thaïlande a indiqué que le bitcoin n'était pas illégal mais a mis en garde contre son utilisation."
+      },
+      {
+        "id": 18,
+        "question": "Quelle crypto-monnaie exploite l'espace disque non utilisé d'un ordinateur ?",
+        "propositions": [
+          "Vertcoin",
+          "Burstcoin",
+          "MangoCoinz",
+          "NameCoin"
+        ],
+        "réponse": "Burstcoin",
+        "anecdote": "De l'espace libre suffit pour vérifier les transactions de la blockchain Burstcoin et ainsi recevoir des Burst en récompense de ce travail."
+      },
+      {
+        "id": 19,
+        "question": "Quel développeur est depuis ses débuts au coeur de la crypto-monnaie Peercoin ?",
+        "propositions": [
+          "Gavin Wood",
+          "Charlie Lee",
+          "Sunny King",
+          "Roger Ver"
+        ],
+        "réponse": "Sunny King",
+        "anecdote": "Peercoin fut inspiré de Bitcoin et partage avec lui une grande partie de son code source ainsi que son implémentation technique."
+      },
+      {
+        "id": 20,
+        "question": "Quelle crypto-monnaie tente d'inciter à la production d'électricité photovoltaïque ?",
+        "propositions": [
+          "Vertcoin",
+          "Burstcoin",
+          "SolarCoin",
+          "NameCoin"
+        ],
+        "réponse": "SolarCoin",
+        "anecdote": "La Fondation a conçu l'octroi de SolarCoins pour durer 40 ans, de manière à générer 97 500 TWh d'électricité de source solaire."
+      }
+    ],
+    "expert": [
+      {
+        "id": 21,
+        "question": "Laquelle de ces plate-formes d'échange de crypto-monnaies a été créée en 2017 ?",
+        "propositions": [
+          "Bibox",
+          "Bittrex",
+          "CoinBase",
+          "Binance"
+        ],
+        "réponse": "Binance",
+        "anecdote": "Sur Binance, plate-forme mondiale, vous pouvez trader un grand nombre d'Alt-coin différents avec du Bitcoin ou de l'Ethereum."
+      },
+      {
+        "id": 22,
+        "question": "Quelle monnaie native est utilisée par le protocole de paiement Ripple ?",
+        "propositions": [
+          "XRP",
+          "PRP",
+          "RIL",
+          "PPE"
+        ],
+        "réponse": "XRP",
+        "anecdote": "Lancé en 2012, le réseau Ripple vise à permettre des transactions financières mondiales sécurisées de toute taille sans rejets de débit."
+      },
+      {
+        "id": 23,
+        "question": "Quel docteur en informatique a publié le whitepaper de Polkadot ?",
+        "propositions": [
+          "Sunny King",
+          "Charlie Lee",
+          "Gavin Wood",
+          "Roger Ver"
+        ],
+        "réponse": "Gavin Wood",
+        "anecdote": "Grâce à Polkadot, des blockchains différentes peuvent interchanger des messages de manière sécurisée et sans tiers de confiance."
+      },
+      {
+        "id": 24,
+        "question": "Quelle crypto-monnaie a pour slogan « Unbank the banked » ?",
+        "propositions": [
+          "SolarCoin",
+          "OmiseGO",
+          "PotCoin",
+          "Burstcoin"
+        ],
+        "réponse": "OmiseGO",
+        "anecdote": "OmiseGO souhaite une décentralisation totale des flux financiers couplée à un accès généralisé aux outils financiers traditionnels."
+      },
+      {
+        "id": 25,
+        "question": "Quel type de crypto-monnaie à usage professionnel est surnommé Bitcoin 2.0 ?",
+        "propositions": [
+          "Infrastructure",
+          "Social",
+          "Shopping",
+          "Local"
+        ],
+        "réponse": "Infrastructure",
+        "anecdote": "Les projets de type infrastructure visent à construire de véritables alternatives aux systèmes financiers actuels existants."
+      },
+      {
+        "id": 26,
+        "question": "Quelle crypto-monnaie locale est destinée aux habitants de l'Islande ?",
+        "propositions": [
+          "AuroaCoin",
+          "Litecoin",
+          "NEO",
+          "PeerCoin"
+        ],
+        "réponse": "AuroaCoin",
+        "anecdote": "Les pièces ont été distribuées gratuitement aux 330 000 citoyens islandais via un largage le 25 mars 2014 à minuit."
+      },
+      {
+        "id": 27,
+        "question": "Laquelle de ces crypto-monnaies est utilisable pour des investissements à long terme ?",
+        "propositions": [
+          "Reddcoin",
+          "NameCoin",
+          "PeerCoin",
+          "NxT"
+        ],
+        "réponse": "NxT",
+        "anecdote": "Nxt a été conçu comme une plate-forme flexible autour de laquelle applications et services financiers peuvent être construits."
+      },
+      {
+        "id": 28,
+        "question": "Quelle plate-forme d'échange de bitcoins fut rachetée par Mark Karpelès ?",
+        "propositions": [
+          "Binance",
+          "Huobi",
+          "CoinBase",
+          "Mt. Gox"
+        ],
+        "réponse": "Mt. Gox",
+        "anecdote": "Son effondrement brutal survenu en février 2014 serait dû à un piratage informatique ayant résulté à une perte de 744 408 bitcoins."
+      },
+      {
+        "id": 29,
+        "question": "En France, à qui le ministre de l'Économie a-t-il confié une mission sur le bitcoin ?",
+        "propositions": [
+          "Serge Lasvignes",
+          "Jean Lemierre",
+          "Jean-Louis Levet",
+          "Jean-Pierre Landau"
+        ],
+        "réponse": "Jean-Pierre Landau",
+        "anecdote": "Jean-Pierre Landau enseigne à l'Université de Princeton, au sein de l'école Woodrow Wilson pour les relations internationales."
+      },
+      {
+        "id": 30,
+        "question": "Quelle crypto-monnaie chinoise est similaire à Ethereum ?",
+        "propositions": [
+          "NxT",
+          "NEO",
+          "PPCoin",
+          "XRP"
+        ],
+        "réponse": "NEO",
+        "anecdote": "Développée depuis 2014, NEO permet d'implémenter des smart contracts dans de nombreux langages de programmation."
+      }
+    ]
+    },
+    "en": {
+      "débutant": [
+      {
+        "id": 1,
+        "question": "Under what other name is also known specialists cryptocurrency Peercoin ?",
+        "propositions": [
+          "RipCoin",
+          "ConnectCoin",
+          "PPCoin",
+          "DualCoin"
+        ],
+        "réponse": "PPCoin",
+        "anecdote": "Peercoin was inspired by Bitcoin and shares with him much of his source code as well as his technical implementation."
+      },
+      {
+        "id": 2,
+        "question": "In which portfolio can the Ethers be stocked ?",
+        "propositions": [
+          "Disket",
+          "Basketball",
+          "Magnet",
+          "Wallet"
+        ],
+        "réponse": "Wallet",
+        "anecdote": "Ethereum is the second largest decentralized cryptographic currency with a capitalization of more than one hundred billion."
+      },
+      {
+        "id": 3,
+        "question": "Which cryptocurrency investor is also the creator of the site bitcoin.com ?",
+        "propositions": [
+          "Gavin Wood",
+          "Roger Ver",
+          "Charlie Lee",
+          "Sunny King"
+        ],
+        "réponse": "Roger Ver",
+        "anecdote": "At the end of 2013, Roger Ver donated more than $ 1 million in bitcoins to the Foundation for Economic Education."
+      },
+      {
+        "id": 4,
+        "question": "How many crypto-currencies in the infrastructure category are there so far ?",
+        "propositions": [
+          "A dozen",
+          "About fifty",
+          "A thousand",
+          "One hundred"
+        ],
+        "réponse": "A dozen",
+        "anecdote": "Despite their small numbers, it is these crypto-currencies that are likely to bring about the most profound changes."
+      },
+      {
+        "id": 5,
+        "question": "What does cryptocurrency bring compared to other solutions like PayPal ?",
+        "propositions": [
+          "Fees",
+          "Traceability",
+          "Anonymity",
+          "Identification"
+        ],
+        "réponse": "Anonymity",
+        "anecdote": "New European directives soon to be transposed into French law will give priority to the fight against money laundering."
+      },
+      {
+        "id": 6,
+        "question": "In which year did Bitcoin, the first cryptocurrency, come into being ?",
+        "propositions": [
+          "2011",
+          "2009",
+          "2015",
+          "2013"
+        ],
+        "réponse": "2009",
+        "anecdote": "As a currency or commodity, bitcoins can be exchanged for other currencies, goods or services."
+      },
+      {
+        "id": 7,
+        "question": "Which operation is used to validate transactions and secure the Bitcoin network ?",
+        "propositions": [
+          "Hashing",
+          "Debugging",
+          "Mining",
+          "Routing"
+        ],
+        "réponse": "Mining",
+        "anecdote": "Mining a cryptocurrency consists in providing a service to the network of the currency in exchange for a pecuniary reward."
+      },
+      {
+        "id": 8,
+        "question": "In what television series created by Sam Esmail are we talking about Bitcoin ?",
+        "propositions": [
+          "Homeland",
+          "Breaking Bad",
+          "Mr. Robot",
+          "The Affair"
+        ],
+        "réponse": "Mr. Robot",
+        "anecdote": "According to The Guardian in 2016, « Mr. Robot » is one of the most exciting series of the moment, refusing to play by the rules."
+      },
+      {
+        "id": 9,
+        "question": "On which platform can you buy up to 200 different crypto-currencies ?",
+        "propositions": [
+          "Kraken",
+          "Cryptopia",
+          "Bittrex",
+          "CoinHouse"
+        ],
+        "réponse": "Bittrex",
+        "anecdote": "Their custom trading engine has been designed to be scalable and to ensure that orders are executed in real time."
+      },
+      {
+        "id": 10,
+        "question": "What was the price of bitcoin in January 2018, knowing that it was worth 1 euro in 2001 ?",
+        "propositions": [
+          "EUR 5,944",
+          "EUR 3,519",
+          "EUR 9,306",
+          "EUR 7,607"
+        ],
+        "réponse": "EUR 9,306",
+        "anecdote": "Bitcoins are being aggressively disbursed to a maximum of $ 21 million in a few decades."
+      }
+    ],
+    "confirmé": [
+      {
+        "id": 11,
+        "question": "Which former Google employee developed the Litecoin electronic currency ?",
+        "propositions": [
+          "Charlie Lee",
+          "Kevin Castner",
+          "Terri Hall",
+          "Robert Walsh"
+        ],
+        "réponse": "Charlie Lee",
+        "anecdote": "The goal of the Litecoin network is to create a block every two minutes thirty, rather than every ten minutes for Bitcoin."
+      },
+      {
+        "id": 12,
+        "question": "In which year was the Stellar open-source payment protocol founded ?",
+        "propositions": [
+          "2010",
+          "2012",
+          "2014",
+          "2016"
+        ],
+        "réponse": "2014",
+        "anecdote": "The Stellar procotole is supported by a non-profit foundation, the Stellar Development Foundation."
+      },
+      {
+        "id": 13,
+        "question": "What type of cryptocurrency goes well beyond the simple means of payment ?",
+        "propositions": [
+          "Social",
+          "Infrastructure",
+          "Shopping",
+          "Local"
+        ],
+        "réponse": "Infrastructure",
+        "anecdote": "True trucks, we should not call them crypto-currencies, their ambition going beyond payment."
+      },
+      {
+        "id": 14,
+        "question": "Which ultra-secure cryptocurrency exclusively targets the legal cannabis market ?",
+        "propositions": [
+          "ZiftrCoin",
+          "PayCoin",
+          "QuickCoin",
+          "PotCoin"
+        ],
+        "réponse": "PotCoin",
+        "anecdote": "In June 2017, PotCoin sponsored the trip of former NBA star Dennis Rodman, then visiting North Korea."
+      },
+      {
+        "id": 15,
+        "question": "What is the symbol used by the cryptocurrency Primecoin ?",
+        "propositions": [
+          "Psi letter",
+          "Golden eagle",
+          "Red Zero",
+          "Double square"
+        ],
+        "réponse": "Psi letter",
+        "anecdote": "The mechanism of operation of this cryptocurrency contributes to the identification of prime numbers of high capacity."
+      },
+      {
+        "id": 16,
+        "question": "What name is the first cryptocurrency designed for Android systems ?",
+        "propositions": [
+          "Vertcoin",
+          "Burstcoin",
+          "MangoCoinz",
+          "Reddcoin"
+        ],
+        "réponse": "MangoCoinz",
+        "anecdote": "MangoCoinz uses the sensors on your smartphone or tablet to convert energy to money movements."
+      },
+      {
+        "id": 17,
+        "question": "Which country was the first to ban the use of bitcoin on its territory ?",
+        "propositions": [
+          "United States",
+          "Germany",
+          "Russia",
+          "Thailand"
+        ],
+        "réponse": "Thailand",
+        "anecdote": "In 2016, Thailand's central bank said that bitcoin was not illegal, but cautioned against using it."
+      },
+      {
+        "id": 18,
+        "question": "Which cryptocurrency exploits the unused disk space of a computer ?",
+        "propositions": [
+          "NameCoin",
+          "Vertcoin",
+          "MangoCoinz",
+          "Burstcoin"
+        ],
+        "réponse": "Burstcoin",
+        "anecdote": "Free space is enough to check the Burstcoin blockchain transactions and receive Burst for this job."
+      },
+      {
+        "id": 19,
+        "question": "Which developer is since its beginnings at the heart of cryptocurrency Peercoin ?",
+        "propositions": [
+          "Charlie Lee",
+          "Roger Ver",
+          "Sunny King",
+          "Gavin Wood"
+        ],
+        "réponse": "Sunny King",
+        "anecdote": "Peercoin was inspired by Bitcoin and shares with him much of his source code as well as his technical implementation."
+      },
+      {
+        "id": 20,
+        "question": "Which cryptocurrency tries to encourage the production of photovoltaic electricity ?",
+        "propositions": [
+          "Vertcoin",
+          "SolarCoin",
+          "NameCoin",
+          "Burstcoin"
+        ],
+        "réponse": "SolarCoin",
+        "anecdote": "The Foundation has designed SolarCoins for 40 years to generate 97 500 TWh of solar power."
+      }
+    ],
+    "expert": [
+      {
+        "id": 21,
+        "question": "Which of these cryptocurrency trading platforms was created in 2017 ?",
+        "propositions": [
+          "Bibox",
+          "Bittrex",
+          "CoinBase",
+          "Binance"
+        ],
+        "réponse": "Binance",
+        "anecdote": "On Binance, a global platform, you can trade a large number of different Alt-coins with Bitcoin or Ethereum."
+      },
+      {
+        "id": 22,
+        "question": "Which native currency is used by the Ripple payment protocol ?",
+        "propositions": [
+          "PPE",
+          "XRP",
+          "PRP",
+          "RIL"
+        ],
+        "réponse": "XRP",
+        "anecdote": "Launched in 2012, the Ripple network aims to enable secure global financial transactions of any size without debiting."
+      },
+      {
+        "id": 23,
+        "question": "Which computer doctor has published the Polkadot whitepaper ?",
+        "propositions": [
+          "Charlie Lee",
+          "Sunny King",
+          "Roger Ver",
+          "Gavin Wood"
+        ],
+        "réponse": "Gavin Wood",
+        "anecdote": "Thanks to Polkadot, different blockchains can interchange messages securely and without a trusted third party."
+      },
+      {
+        "id": 24,
+        "question": "Which cryptocurrency has the slogan « Unbank the banked » ?",
+        "propositions": [
+          "Burstcoin",
+          "SolarCoin",
+          "OmiseGO",
+          "PotCoin"
+        ],
+        "réponse": "OmiseGO",
+        "anecdote": "OmiseGO wants total decentralization of financial flows coupled with widespread access to traditional financial tools."
+      },
+      {
+        "id": 25,
+        "question": "What kind of business cryptocurrency is often nicknamed Bitcoin 2.0 ?",
+        "propositions": [
+          "Social",
+          "Shopping",
+          "Local",
+          "Infrastructure"
+        ],
+        "réponse": "Infrastructure",
+        "anecdote": "Infrastructure projects aim to build real alternatives to existing financial systems."
+      },
+      {
+        "id": 26,
+        "question": "Which local cryptocurrency is intended for the inhabitants of Iceland ?",
+        "propositions": [
+          "Litecoin",
+          "NEO",
+          "PeerCoin",
+          "AuroaCoin"
+        ],
+        "réponse": "AuroaCoin",
+        "anecdote": "The coins were distributed free of charge to the 330,000 Icelandic citizens via a dropping on 25 March 2014 at midnight."
+      },
+      {
+        "id": 27,
+        "question": "Which of these crypto-currencies can be used for long-term investments ?",
+        "propositions": [
+          "Reddcoin",
+          "NameCoin",
+          "PeerCoin",
+          "NxT"
+        ],
+        "réponse": "NxT",
+        "anecdote": "Nxt was conceived as a flexible platform around which financial applications and services can be built."
+      },
+      {
+        "id": 28,
+        "question": "Which bitcoin trading platform was bought by Mark Karpeles ?",
+        "propositions": [
+          "CoinBase",
+          "Mt. Gox",
+          "Binance",
+          "Huobi"
+        ],
+        "réponse": "Mt. Gox",
+        "anecdote": "Its brutal collapse in February 2014 was due to hacking resulting in a loss of 744,408 bitcoins."
+      },
+      {
+        "id": 29,
+        "question": "In France, who did the Minister of Economy entrust with a mission on bitcoin ?",
+        "propositions": [
+          "Jean-Pierre Landau",
+          "Serge Lasvignes",
+          "Jean Lemierre",
+          "Jean-Louis Levet"
+        ],
+        "réponse": "Jean-Pierre Landau",
+        "anecdote": "Jean-Pierre Landau teaches at Princeton University, at Woodrow Wilson School for International Relations."
+      },
+      {
+        "id": 30,
+        "question": "Which Chinese cryptocurrency is similar to Ethereum ?",
+        "propositions": [
+          "NxT",
+          "PPCoin",
+          "XRP",
+          "NEO"
+        ],
+        "réponse": "NEO",
+        "anecdote": "Developed since 2014, NEO enables the implementation of smart contracts in many programming languages."
+      }
+    ]
+    },
+    "de": {
+      "débutant": [
+      {
+        "id": 1,
+        "question": "Unter welchem banderen Namen sind auch Spezialisten für Kryptowährung Peercoin bekannt ?",
+        "propositions": [
+          "DualCoin",
+          "RipCoin",
+          "PPCoin",
+          "ConnectCoin"
+        ],
+        "réponse": "PPCoin",
+        "anecdote": "Peercoin wurde von Bitcoin inspiriert und teilt mit ihm einen Großteil seines Quellcodes sowie seine technische Implementierung."
+      },
+      {
+        "id": 2,
+        "question": "In welchem Portfolio können die Ether gelagert werden ?",
+        "propositions": [
+          "Disket",
+          "Basketball",
+          "Magnet",
+          "Brieftasche"
+        ],
+        "réponse": "Brieftasche",
+        "anecdote": "Ethereum ist die zweitgrößte dezentrale kryptografische Währung mit einer Kapitalisierung von mehr als einhundert Milliarden."
+      },
+      {
+        "id": 3,
+        "question": "Welcher Cryptocurrency-Investor ist auch der Schöpfer der Site bitcoin.com ?",
+        "propositions": [
+          "Sunny King",
+          "Roger Ver",
+          "Charlie Lee",
+          "Gavin Wood"
+        ],
+        "réponse": "Roger Ver",
+        "anecdote": "Ende 2013 spendete Roger Ver der Stiftung für wirtschaftliche Bildung mehr als 1 Million US-Dollar an Bitcoins."
+      },
+      {
+        "id": 4,
+        "question": "Wie viele Kryptowährungen in der Kategorie Infrastruktur gibt es bisher ?",
+        "propositions": [
+          "Ungefähr fünfzig",
+          "Ein Dutzend",
+          "Einhundert",
+          "Tausend"
+        ],
+        "réponse": "Ein Dutzend",
+        "anecdote": "Trotz ihrer geringen Anzahl werden diese Kryptowährungen wahrscheinlich die tiefgreifendsten Veränderungen bewirken."
+      },
+      {
+        "id": 5,
+        "question": "Was bringt die Kryptowährung im Vergleich zu anderen Lösungen wie PayPal ?",
+        "propositions": [
+          "Identifizierung",
+          "Anonymität",
+          "Gebühren",
+          "Rückverfolgbarkeit"
+        ],
+        "réponse": "Anonymität",
+        "anecdote": "Neue europäische Richtlinien, die in Kürze in französisches Recht umgesetzt werden, werden der Bekämpfung der Geldwäsche Vorrang einräumen."
+      },
+      {
+        "id": 6,
+        "question": "In welchem Jahr entstand Bitcoin, die erste Kryptowährung ?",
+        "propositions": [
+          "2011",
+          "2009",
+          "2015",
+          "2013"
+        ],
+        "réponse": "2009",
+        "anecdote": "Als Währung oder Ware können Bitcoins gegen andere Währungen, Waren oder Dienstleistungen eingetauscht werden."
+      },
+      {
+        "id": 7,
+        "question": "Mit welcher Operation werden Transaktionen validiert und das Bitcoin-Netzwerk gesichert ?",
+        "propositions": [
+          "Bergbau",
+          "Hashing",
+          "Debuggen",
+          "Routing"
+        ],
+        "réponse": "Bergbau",
+        "anecdote": "Das Mining einer Kryptowährung besteht darin, dem Netzwerk einen Dienst für die Währung gegen eine finanzielle Belohnung bereitzustellen."
+      },
+      {
+        "id": 8,
+        "question": "In welcher Fernsehserie von Sam Esmail geht es um Bitcoin ?",
+        "propositions": [
+          "Mr. Robot",
+          "Homeland",
+          "The Affair",
+          "Breaking Bad"
+        ],
+        "réponse": "Mr. Robot",
+        "anecdote": "Laut The Guardian aus dem Jahr 2016 ist « Mr. Robot » eine der aufregendsten Serien im Moment und weigert sich, die Regeln einzuhalten."
+      },
+      {
+        "id": 9,
+        "question": "Auf welcher Plattform können Sie bis zu 200 verschiedene Kryptowährungen kaufen ?",
+        "propositions": [
+          "Kryptopie",
+          "Bittrex",
+          "Kraken",
+          "Münzhaus"
+        ],
+        "réponse": "Bittrex",
+        "anecdote": "Ihre angepasste Trading-Engine wurde so konzipiert, dass sie skalierbar ist und die Ausführung von Aufträgen in Echtzeit gewährleistet."
+      },
+      {
+        "id": 10,
+        "question": "Was war der Preis für Bitcoin im Januar 2018, als man wusste, dass es im Jahr 2001 1 Euro wert war ?",
+        "propositions": [
+          "9.306 EUR",
+          "7.607 EUR",
+          "3.519 EUR",
+          "5.944 EUR"
+        ],
+        "réponse": "9.306 EUR",
+        "anecdote": "Bitcoins werden in wenigen Jahrzehnten aggressiv auf maximal 21 Millionen US-Dollar ausgezahlt."
+      }
+    ],
+    "confirmé": [
+      {
+        "id": 11,
+        "question": "Welcher ehemalige Google-Mitarbeiter hat die elektronische Währung Litecoin entwickelt ?",
+        "propositions": [
+          "Charlie Lee",
+          "Robert Walsh",
+          "Kevin Castner",
+          "Terri Hall"
+        ],
+        "réponse": "Charlie Lee",
+        "anecdote": "Das Ziel des Litecoin-Netzwerks ist es, alle zwei Minuten und nicht alle zehn Minuten einen Block für Bitcoin zu erstellen."
+      },
+      {
+        "id": 12,
+        "question": "In welchem Jahr wurde das Open-Source-Zahlungsprotokoll Stellar gegründet ?",
+        "propositions": [
+          "2014",
+          "2010",
+          "2016",
+          "2012"
+        ],
+        "réponse": "2014",
+        "anecdote": "Das Stellar-Protokoll wird von einer gemeinnützigen Stiftung, der Stellar Development Foundation, unterstützt."
+      },
+      {
+        "id": 13,
+        "question": "Welche Art von Kryptowährung geht weit über das einfache Zahlungsmittel hinaus ?",
+        "propositions": [
+          "Soziale",
+          "Lokal",
+          "Einkaufen",
+          "Infrastruktur"
+        ],
+        "réponse": "Infrastruktur",
+        "anecdote": "Wahre Lastwagen, wir sollten sie nicht als Kryptowährungen bezeichnen, ihr Ehrgeiz geht über die Bezahlung hinaus."
+      },
+      {
+        "id": 14,
+        "question": "Welche hochsichere Kryptowährung zielt ausschließlich auf den legalen Cannabismarkt ab ?",
+        "propositions": [
+          "PotCoin",
+          "ZiftrCoin",
+          "QuickCoin",
+          "PayCoin"
+        ],
+        "réponse": "PotCoin",
+        "anecdote": "Im Juni 2017 sponserte PotCoin die Reise des ehemaligen NBA-Stars Dennis Rodman nach Nordkorea."
+      },
+      {
+        "id": 15,
+        "question": "Welches Symbol wird von der Kryptowährung Primecoin verwendet ?",
+        "propositions": [
+          "Steinadler",
+          "Psi Brief",
+          "Doppelquadrat",
+          "Rote Null"
+        ],
+        "réponse": "Psi Brief",
+        "anecdote": "Der Funktionsmechanismus dieser Kryptowährung trägt zur Identifizierung von Primzahlen mit hoher Kapazität bei."
+      },
+      {
+        "id": 16,
+        "question": "Wie heißt die erste Kryptowährung, die für Android-Systeme entwickelt wurde ?",
+        "propositions": [
+          "Reddcoin",
+          "MangoCoinz",
+          "Burstcoin",
+          "Vertcoin"
+        ],
+        "réponse": "MangoCoinz",
+        "anecdote": "MangoCoinz verwendet die Sensoren Ihres Smartphones oder Tablets, um Energie in Geldbewegungen umzuwandeln."
+      },
+      {
+        "id": 17,
+        "question": "Welches Land hat als erstes die Verwendung von Bitcoin in seinem Hoheitsgebiet verboten ?",
+        "propositions": [
+          "Thailand",
+          "Russland",
+          "Deutschland",
+          "Vereinigte Staaten"
+        ],
+        "réponse": "Thailand",
+        "anecdote": "2016 erklärte die thailändische Zentralbank, dass Bitcoin nicht illegal sei, warnte jedoch davor, es zu verwenden."
+      },
+      {
+        "id": 18,
+        "question": "Welche Kryptowährung nutzt den nicht genutzten Speicherplatz eines Computers aus ?",
+        "propositions": [
+          "Burstcoin",
+          "MangoCoinz",
+          "Vertcoin",
+          "NameCoin"
+        ],
+        "réponse": "Burstcoin",
+        "anecdote": "Freier Speicherplatz reicht aus, um die Burstcoin-Blockchain-Transaktionen zu überprüfen und Burst für diesen Job zu erhalten."
+      },
+      {
+        "id": 19,
+        "question": "Welcher Entwickler ist seit seinen Anfängen das Herzstück der Kryptowährung Peercoin ?",
+        "propositions": [
+          "Gavin Wood",
+          "Roger Ver",
+          "Sunny King",
+          "Charlie Lee"
+        ],
+        "réponse": "Sunny King",
+        "anecdote": "Peercoin wurde von Bitcoin inspiriert und teilt mit ihm einen Großteil seines Quellcodes sowie seine technische Implementierung."
+      },
+      {
+        "id": 20,
+        "question": "Welche Kryptowährung soll die Erzeugung von Photovoltaik-Strom fördern ?",
+        "propositions": [
+          "Burstcoin",
+          "SolarCoin",
+          "Vertcoin",
+          "NameCoin"
+        ],
+        "réponse": "SolarCoin",
+        "anecdote": "Die Stiftung entwickelt SolarCoins seit 40 Jahren zur Erzeugung von 97 500 TWh Solarenergie."
+      }
+    ],
+    "expert": [
+      {
+        "id": 21,
+        "question": "Welche dieser Kryptowährungs-Handelsplattformen wurde 2017 erstellt ?",
+        "propositions": [
+          "Binance",
+          "Bibox",
+          "Bittrex",
+          "CoinBase"
+        ],
+        "réponse": "Binance",
+        "anecdote": "Auf Binance, einer globalen Plattform, können Sie eine große Anzahl verschiedener Alt-Münzen mit Bitcoin oder Ethereum handeln."
+      },
+      {
+        "id": 22,
+        "question": "Welche einheimische Währung wird vom Ripple-Zahlungsprotokoll verwendet ?",
+        "propositions": [
+          "RIL",
+          "PSA",
+          "PRP",
+          "XRP"
+        ],
+        "réponse": "XRP",
+        "anecdote": "Das 2012 gestartete Ripple-Netzwerk zielt darauf ab, sichere globale Finanztransaktionen jeder Größe ohne Belastung zu ermöglichen."
+      },
+      {
+        "id": 23,
+        "question": "Welcher Computerarzt hat das Polkadot-Whitepaper veröffentlicht ?",
+        "propositions": [
+          "Gavin Wood",
+          "Charlie Lee",
+          "Roger Ver",
+          "Sunny King"
+        ],
+        "réponse": "Gavin Wood",
+        "anecdote": "Dank Polkadot können verschiedene Blockchains Nachrichten sicher und ohne vertrauenswürdige Dritte austauschen."
+      },
+      {
+        "id": 24,
+        "question": "Welche Kryptowährung hat der Slogan « Unbank the banked » ?",
+        "propositions": [
+          "Burstcoin",
+          "PotCoin",
+          "SolarCoin",
+          "OmiseGO"
+        ],
+        "réponse": "OmiseGO",
+        "anecdote": "OmiseGO möchte eine vollständige Dezentralisierung der Finanzströme in Verbindung mit einem umfassenden Zugang zu traditionellen Finanzinstrumenten."
+      },
+      {
+        "id": 25,
+        "question": "Welche Art von Business-Kryptowährung wird häufig als Bitcoin 2.0 bezeichnet ?",
+        "propositions": [
+          "Lokal",
+          "Soziale",
+          "Einkaufen",
+          "Infrastruktur"
+        ],
+        "réponse": "Infrastruktur",
+        "anecdote": "Infrastrukturprojekte zielen darauf ab, echte Alternativen zu bestehenden Finanzsystemen zu schaffen."
+      },
+      {
+        "id": 26,
+        "question": "Welche lokale Kryptowährung ist für die Bewohner Islands gedacht ?",
+        "propositions": [
+          "Litecoin",
+          "AuroaCoin",
+          "PeerCoin",
+          "NEO"
+        ],
+        "réponse": "AuroaCoin",
+        "anecdote": "Die Münzen wurden am 25. März 2014 um Mitternacht kostenlos an die 330.000 isländischen Bürger verteilt."
+      },
+      {
+        "id": 27,
+        "question": "Welche dieser Kryptowährungen kann für langfristige Investitionen verwendet werden ?",
+        "propositions": [
+          "Reddcoin",
+          "NxT",
+          "NameCoin",
+          "PeerCoin"
+        ],
+        "réponse": "NxT",
+        "anecdote": "Nxt wurde als flexible Plattform konzipiert, auf der Finanzanwendungen und -dienste erstellt werden können."
+      },
+      {
+        "id": 28,
+        "question": "Welche Bitcoin-Handelsplattform hat Mark Karpeles gekauft ?",
+        "propositions": [
+          "Mt. Gox",
+          "Huobi",
+          "CoinBase",
+          "Binance"
+        ],
+        "réponse": "Mt. Gox",
+        "anecdote": "Der brutale Zusammenbruch im Februar 2014 war auf Hackerangriffe zurückzuführen, die einen Verlust von 744.408 Bitcoins zur Folge hatten."
+      },
+      {
+        "id": 29,
+        "question": "Wen beauftragte der Wirtschaftsminister in Frankreich mit einer Mission für Bitcoin ?",
+        "propositions": [
+          "Jean-Pierre Landau",
+          "Jean-Louis Levet",
+          "Jean Lemierre",
+          "Serge Lasvignes"
+        ],
+        "réponse": "Jean-Pierre Landau",
+        "anecdote": "Jean-Pierre Landau unterrichtet an der Princeton University der Woodrow Wilson School for International Relations."
+      },
+      {
+        "id": 30,
+        "question": "Welche chinesische Kryptowährung ähnelt Ethereum ?",
+        "propositions": [
+          "NxT",
+          "NEO",
+          "PPCoin",
+          "XRP"
+        ],
+        "réponse": "NEO",
+        "anecdote": "NEO wurde seit 2014 entwickelt und ermöglicht die Implementierung intelligenter Verträge in vielen Programmiersprachen."
+      }
+    ]
+    },
+    "es": {
+      "débutant": [
+      {
+        "id": 1,
+        "question": "¿Bajo qué otro nombre también se conocen especialistas en criptomoneda Peercoin ?",
+        "propositions": [
+          "ConnectCoin",
+          "RipCoin",
+          "DualCoin",
+          "PPCoin"
+        ],
+        "réponse": "PPCoin",
+        "anecdote": "Peercoin se inspiró en Bitcoin y comparte con él gran parte de su código fuente, así como de su implementación técnica."
+      },
+      {
+        "id": 2,
+        "question": "¿En qué cartera se pueden almacenar los Ethers ?",
+        "propositions": [
+          "Billetera",
+          "Disquete",
+          "Baloncesto",
+          "Imán"
+        ],
+        "réponse": "Billetera",
+        "anecdote": "Ethereum es la segunda moneda criptográfica descentralizada más grande con una capitalización de más de cien mil millones."
+      },
+      {
+        "id": 3,
+        "question": "¿Qué inversor de criptomonedas es también el creador del sitio bitcoin.com ?",
+        "propositions": [
+          "Gavin Wood",
+          "Sunny King",
+          "Roger Ver",
+          "Charlie Lee"
+        ],
+        "réponse": "Roger Ver",
+        "anecdote": "A finales de 2013, Roger Ver donó más de $ 1 millón en bitcoins a la Fundación para la Educación Económica."
+      },
+      {
+        "id": 4,
+        "question": "¿Cuántas criptomonedas en la categoría de infraestructura hay hasta ahora ?",
+        "propositions": [
+          "Mil",
+          "Cien",
+          "Una docena",
+          "Unos cincuenta"
+        ],
+        "réponse": "Una docena",
+        "anecdote": "A pesar de sus pequeños números, es probable que estas criptomonedas provoquen los cambios más profundos."
+      },
+      {
+        "id": 5,
+        "question": "¿Qué aporta la criptomoneda en comparación con otras soluciones como PayPal ?",
+        "propositions": [
+          "Honorarios",
+          "Identificación",
+          "Anonimato",
+          "Trazabilidad"
+        ],
+        "réponse": "Anonimato",
+        "anecdote": "Las nuevas directivas europeas que pronto se incorporarán a la legislación francesa darán prioridad a la lucha contra el blanqueo de dinero."
+      },
+      {
+        "id": 6,
+        "question": "¿En qué año surgió Bitcoin, la primera criptomoneda ?",
+        "propositions": [
+          "2013",
+          "2009",
+          "2011",
+          "2015"
+        ],
+        "réponse": "2009",
+        "anecdote": "Como moneda o mercancía, los bitcoins se pueden cambiar por otras monedas, bienes o servicios."
+      },
+      {
+        "id": 7,
+        "question": "¿Qué operación se utiliza para validar las transacciones y asegurar la red de Bitcoin ?",
+        "propositions": [
+          "Depuración",
+          "Enrutamiento",
+          "Hashing",
+          "Minería"
+        ],
+        "réponse": "Minería",
+        "anecdote": "La extracción de una criptomoneda consiste en proporcionar un servicio a la red de la moneda a cambio de una recompensa pecuniaria."
+      },
+      {
+        "id": 8,
+        "question": "¿En qué serie de televisión creada por Sam Esmail estamos hablando de Bitcoin ?",
+        "propositions": [
+          "Breaking Bad",
+          "Homeland",
+          "The Affair",
+          "Mr. Robot"
+        ],
+        "réponse": "Mr. Robot",
+        "anecdote": "Según The Guardian en 2016, « Mr. Robot » es una de las series más emocionantes del momento y se niega a cumplir las reglas."
+      },
+      {
+        "id": 9,
+        "question": "¿En qué plataforma puedes comprar hasta 200 criptomonedas diferentes ?",
+        "propositions": [
+          "Criptopia",
+          "CoinHouse",
+          "Bittrex",
+          "Kraken"
+        ],
+        "réponse": "Bittrex",
+        "anecdote": "Su motor de negociación personalizado ha sido diseñado para ser escalable y garantizar que las órdenes se ejecuten en tiempo real."
+      },
+      {
+        "id": 10,
+        "question": "¿Cuál fue el precio de bitcoin en enero de 2018, sabiendo que valía 1 euro en 2001 ?",
+        "propositions": [
+          "3,519 EUR",
+          "9,306 EUR",
+          "5,944 EUR",
+          "7,607 EUR"
+        ],
+        "réponse": "9,306 EUR",
+        "anecdote": "Los bitcoins se están desembolsando agresivamente hasta un máximo de $ 21 millones en unas pocas décadas."
+      }
+    ],
+    "confirmé": [
+      {
+        "id": 11,
+        "question": "¿Qué ex empleado de Google desarrolló la moneda electrónica Litecoin ?",
+        "propositions": [
+          "Kevin Castner",
+          "Charlie Lee",
+          "Terri Hall",
+          "Robert Walsh"
+        ],
+        "réponse": "Charlie Lee",
+        "anecdote": "El objetivo de la red Litecoin es crear un bloque cada dos minutos treinta, en lugar de cada diez minutos para Bitcoin."
+      },
+      {
+        "id": 12,
+        "question": "¿En qué año se fundó el protocolo de pago de código abierto Stellar ?",
+        "propositions": [
+          "2014",
+          "2016",
+          "2012",
+          "2010"
+        ],
+        "réponse": "2014",
+        "anecdote": "El procotole Stellar es apoyado por una fundación sin fines de lucro, la Stellar Development Foundation."
+      },
+      {
+        "id": 13,
+        "question": "¿Qué tipo de criptomoneda va más allá de los simples medios de pago ?",
+        "propositions": [
+          "Compras",
+          "Social",
+          "Local",
+          "Infraestructura"
+        ],
+        "réponse": "Infraestructura",
+        "anecdote": "Verdaderos camiones, no deberíamos llamarlos criptomonedas, su ambición va más allá del pago."
+      },
+      {
+        "id": 14,
+        "question": "¿Qué criptomoneda ultrasegura se dirige exclusivamente al mercado legal del cannabis ?",
+        "propositions": [
+          "PayCoin",
+          "PotCoin",
+          "QuickCoin",
+          "ZiftrCoin"
+        ],
+        "réponse": "PotCoin",
+        "anecdote": "En junio de 2017, PotCoin patrocinó el viaje de la ex estrella de la NBA Dennis Rodman, que luego visitó Corea del Norte."
+      },
+      {
+        "id": 15,
+        "question": "¿Cuál es el símbolo utilizado por la criptomoneda Primecoin ?",
+        "propositions": [
+          "Águila real",
+          "Rojo cero",
+          "Doble plaza",
+          "Letra psi"
+        ],
+        "réponse": "Letra psi",
+        "anecdote": "El mecanismo de operación de esta criptomoneda contribuye a la identificación de números primos de alta capacidad."
+      },
+      {
+        "id": 16,
+        "question": "¿Qué nombre es la primera criptomoneda diseñada para sistemas Android ?",
+        "propositions": [
+          "Reddcoin",
+          "Vertcoin",
+          "MangoCoinz",
+          "Burstcoin"
+        ],
+        "réponse": "MangoCoinz",
+        "anecdote": "MangoCoinz usa los sensores en su teléfono inteligente o tableta para convertir energía en movimientos de dinero."
+      },
+      {
+        "id": 17,
+        "question": "¿Qué país fue el primero en prohibir el uso de bitcoin en su territorio ?",
+        "propositions": [
+          "Rusia",
+          "Estados Unidos",
+          "Tailandia",
+          "Alemania"
+        ],
+        "réponse": "Tailandia",
+        "anecdote": "En 2016, el banco central de Tailandia dijo que bitcoin no era ilegal, pero advirtió contra su uso."
+      },
+      {
+        "id": 18,
+        "question": "¿Qué criptomoneda explota el espacio en disco no utilizado de una computadora ?",
+        "propositions": [
+          "MangoCoinz",
+          "Burstcoin",
+          "Vertcoin",
+          "NameCoin"
+        ],
+        "réponse": "Burstcoin",
+        "anecdote": "El espacio libre es suficiente para verificar las transacciones de blockchain de Burstcoin y recibir Burst para este trabajo."
+      },
+      {
+        "id": 19,
+        "question": "¿Qué desarrollador está desde sus inicios en el corazón de la criptomoneda Peercoin ?",
+        "propositions": [
+          "Charlie Lee",
+          "Roger Ver",
+          "Sunny King",
+          "Gavin Wood"
+        ],
+        "réponse": "Sunny King",
+        "anecdote": "Peercoin se inspiró en Bitcoin y comparte con él gran parte de su código fuente, así como de su implementación técnica."
+      },
+      {
+        "id": 20,
+        "question": "¿Qué criptomoneda intenta fomentar la producción de electricidad fotovoltaica ?",
+        "propositions": [
+          "SolarCoin",
+          "Vertcoin",
+          "NameCoin",
+          "Burstcoin"
+        ],
+        "réponse": "SolarCoin",
+        "anecdote": "La Fundación ha diseñado SolarCoins durante 40 años para generar 97 500 Thh de energía solar."
+      }
+    ],
+    "expert": [
+      {
+        "id": 21,
+        "question": "¿Cuál de estas plataformas de comercio de criptomonedas se creó en 2017 ?",
+        "propositions": [
+          "Binance",
+          "Bittrex",
+          "CoinBase",
+          "Bibox"
+        ],
+        "réponse": "Binance",
+        "anecdote": "En Binance, una plataforma global, puede intercambiar una gran cantidad de monedas Alt diferentes con Bitcoin o Ethereum."
+      },
+      {
+        "id": 22,
+        "question": "¿Qué moneda nativa usa el protocolo de pago Ripple ?",
+        "propositions": [
+          "PRP",
+          "RIL",
+          "XRP",
+          "EPI"
+        ],
+        "réponse": "XRP",
+        "anecdote": "Lanzada en 2012, la red Ripple tiene como objetivo permitir transacciones financieras globales seguras de cualquier tamaño sin débito."
+      },
+      {
+        "id": 23,
+        "question": "¿Qué doctor en informática ha publicado el documento técnico de Polkadot ?",
+        "propositions": [
+          "Gavin Wood",
+          "Roger Ver",
+          "Charlie Lee",
+          "Sunny King"
+        ],
+        "réponse": "Gavin Wood",
+        "anecdote": "Gracias a Polkadot, diferentes blockchains pueden intercambiar mensajes de forma segura y sin un tercero de confianza."
+      },
+      {
+        "id": 24,
+        "question": "¿Qué criptomoneda tiene el eslogan « Unbank the banked » ?",
+        "propositions": [
+          "SolarCoin",
+          "PotCoin",
+          "OmiseGO",
+          "Burstcoin"
+        ],
+        "réponse": "OmiseGO",
+        "anecdote": "OmiseGO desea la descentralización total de los flujos financieros junto con un acceso generalizado a las herramientas financieras tradicionales."
+      },
+      {
+        "id": 25,
+        "question": "¿Qué tipo de criptomoneda comercial a menudo se llama Bitcoin 2.0 ?",
+        "propositions": [
+          "Local",
+          "Social",
+          "Infraestructura",
+          "Compras"
+        ],
+        "réponse": "Infraestructura",
+        "anecdote": "Los proyectos de infraestructura apuntan a construir alternativas reales a los sistemas financieros existentes."
+      },
+      {
+        "id": 26,
+        "question": "¿Qué criptomoneda local está destinada a los habitantes de Islandia ?",
+        "propositions": [
+          "NEO",
+          "AuroaCoin",
+          "PeerCoin",
+          "Litecoin"
+        ],
+        "réponse": "AuroaCoin",
+        "anecdote": "Las monedas se distribuyeron gratuitamente a los 330,000 ciudadanos islandeses a través de una entrega el 25 de marzo de 2014 a la medianoche."
+      },
+      {
+        "id": 27,
+        "question": "¿Cuál de estas criptomonedas se puede usar para inversiones a largo plazo ?",
+        "propositions": [
+          "Reddcoin",
+          "PeerCoin",
+          "NxT",
+          "NameCoin"
+        ],
+        "réponse": "NxT",
+        "anecdote": "Nxt fue concebido como una plataforma flexible alrededor de la cual se pueden construir aplicaciones y servicios financieros."
+      },
+      {
+        "id": 28,
+        "question": "¿Qué plataforma de comercio de bitcoins fue comprada por Mark Karpeles ?",
+        "propositions": [
+          "Huobi",
+          "CoinBase",
+          "Binance",
+          "Monte Gox"
+        ],
+        "réponse": "Monte Gox",
+        "anecdote": "Su brutal colapso en febrero de 2014 se debió a la piratería que resultó en una pérdida de 744,408 bitcoins."
+      },
+      {
+        "id": 29,
+        "question": "En Francia, ¿a quién le confió el Ministro de Economía una misión en bitcoin ?",
+        "propositions": [
+          "Jean-Louis Levet",
+          "Serge Lasvignes",
+          "Jean Lemierre",
+          "Jean-Pierre Landau"
+        ],
+        "réponse": "Jean-Pierre Landau",
+        "anecdote": "Jean-Pierre Landau enseña en la Universidad de Princeton, en la Woodrow Wilson School for International Relations."
+      },
+      {
+        "id": 30,
+        "question": "¿Qué criptomoneda china es similar a Ethereum ?",
+        "propositions": [
+          "NxT",
+          "PPCoin",
+          "XRP",
+          "NEO"
+        ],
+        "réponse": "NEO",
+        "anecdote": "Desarrollado desde 2014, NEO permite la implementación de contratos inteligentes en muchos lenguajes de programación."
+      }
+    ]
+    },
+    "it": {
+      "débutant": [
+      {
+        "id": 1,
+        "question": "Con quale altro nome è anche noto specialista criptovaluta Peercoin ?",
+        "propositions": [
+          "DualCoin",
+          "RipCoin",
+          "ConnectCoin",
+          "PPCoin"
+        ],
+        "réponse": "PPCoin",
+        "anecdote": "Peercoin è stato ispirato da Bitcoin e condivide con lui gran parte del suo codice sorgente e della sua implementazione tecnica."
+      },
+      {
+        "id": 2,
+        "question": "In quale portafoglio possono essere immagazzinati gli eteri ?",
+        "propositions": [
+          "Pallacanestro",
+          "Disket",
+          "Magnete",
+          "Portafoglio"
+        ],
+        "réponse": "Portafoglio",
+        "anecdote": "Ethereum è la seconda valuta crittografica decentralizzata più grande con una capitalizzazione di oltre cento miliardi."
+      },
+      {
+        "id": 3,
+        "question": "Quale investitore in criptovaluta è anche il creatore del sito bitcoin.com ?",
+        "propositions": [
+          "Roger Ver",
+          "Sunny King",
+          "Gavin Wood",
+          "Charlie Lee"
+        ],
+        "réponse": "Roger Ver",
+        "anecdote": "Alla fine del 2013, Roger Ver ha donato oltre 1 milione di dollari in bitcoin alla Foundation for Economic Education."
+      },
+      {
+        "id": 4,
+        "question": "Quante criptovalute nella categoria delle infrastrutture ci sono finora ?",
+        "propositions": [
+          "Circa cinquanta",
+          "Cento",
+          "Mille",
+          "Una dozzina"
+        ],
+        "réponse": "Una dozzina",
+        "anecdote": "Nonostante il loro piccolo numero, sono queste criptovalute che possono causare i cambiamenti più profondi."
+      },
+      {
+        "id": 5,
+        "question": "Cosa comporta la criptovaluta rispetto ad altre soluzioni come PayPal ?",
+        "propositions": [
+          "Identificazione",
+          "Anonimato",
+          "Tracciabilità",
+          "Commissioni"
+        ],
+        "réponse": "Anonimato",
+        "anecdote": "Le nuove direttive europee che saranno presto recepite nel diritto francese daranno priorità alla lotta contro il riciclaggio di denaro."
+      },
+      {
+        "id": 6,
+        "question": "In quale anno è nato Bitcoin, la prima criptovaluta ?",
+        "propositions": [
+          "2009",
+          "2013",
+          "2011",
+          "2015"
+        ],
+        "réponse": "2009",
+        "anecdote": "Come valuta o merce, i bitcoin possono essere scambiati con altre valute, beni o servizi."
+      },
+      {
+        "id": 7,
+        "question": "Quale operazione viene utilizzata per convalidare le transazioni e proteggere la rete Bitcoin ?",
+        "propositions": [
+          "Debug",
+          "Estrazione",
+          "Instradamento",
+          "Hashing"
+        ],
+        "réponse": "Estrazione",
+        "anecdote": "L'estrazione di una criptovaluta consiste nel fornire un servizio alla rete della valuta in cambio di una ricompensa pecuniaria."
+      },
+      {
+        "id": 8,
+        "question": "In quali serie televisive create da Sam Esmail stiamo parlando di Bitcoin ?",
+        "propositions": [
+          "Homeland",
+          "The Affair",
+          "Breaking Bad",
+          "Mr. Robot"
+        ],
+        "réponse": "Mr. Robot",
+        "anecdote": "Secondo The Guardian nel 2016, « Mr. Robot » è una delle serie più eccitanti del momento, che rifiuta di rispettare le regole."
+      },
+      {
+        "id": 9,
+        "question": "Su quale piattaforma puoi acquistare fino a 200 diverse criptovalute ?",
+        "propositions": [
+          "Bittrex",
+          "Cryptopia",
+          "CoinHouse",
+          "Kraken"
+        ],
+        "réponse": "Bittrex",
+        "anecdote": "Il loro motore di trading personalizzato è stato progettato per essere scalabile e per garantire che gli ordini vengano eseguiti in tempo reale."
+      },
+      {
+        "id": 10,
+        "question": "Qual è stato il prezzo del bitcoin a gennaio 2018, sapendo che valeva 1 euro nel 2001 ?",
+        "propositions": [
+          "9.306 EUR",
+          "3.519 EUR",
+          "5.944 EUR",
+          "7.607 EUR"
+        ],
+        "réponse": "9.306 EUR",
+        "anecdote": "I bitcoin vengono erogati in modo aggressivo a un massimo di $ 21 milioni in pochi decenni."
+      }
+    ],
+    "confirmé": [
+      {
+        "id": 11,
+        "question": "Quale ex dipendente di Google ha sviluppato la valuta elettronica Litecoin ?",
+        "propositions": [
+          "Sala Terri",
+          "Kevin Castner",
+          "Charlie Lee",
+          "Robert Walsh"
+        ],
+        "réponse": "Charlie Lee",
+        "anecdote": "L'obiettivo della rete Litecoin è creare un blocco ogni due minuti e trenta, anziché ogni dieci minuti per Bitcoin."
+      },
+      {
+        "id": 12,
+        "question": "In quale anno è stato fondato il protocollo di pagamento open source Stellar ?",
+        "propositions": [
+          "2012",
+          "2010",
+          "2014",
+          "2016"
+        ],
+        "réponse": "2014",
+        "anecdote": "Il procotole Stellare è supportato da una fondazione senza scopo di lucro, la Stellar Development Foundation."
+      },
+      {
+        "id": 13,
+        "question": "Quale tipo di criptovaluta va ben oltre il semplice mezzo di pagamento ?",
+        "propositions": [
+          "Locale",
+          "Sociale",
+          "Acquisti",
+          "Infrastruttura"
+        ],
+        "réponse": "Infrastruttura",
+        "anecdote": "Veri camion, non dovremmo chiamarli criptovalute, la loro ambizione va oltre il pagamento."
+      },
+      {
+        "id": 14,
+        "question": "Quale criptovaluta ultra sicura si rivolge esclusivamente al mercato legale della cannabis ?",
+        "propositions": [
+          "ZiftrCoin",
+          "PayCoin",
+          "PotCoin",
+          "QuickCoin"
+        ],
+        "réponse": "PotCoin",
+        "anecdote": "Nel giugno 2017, PotCoin ha sponsorizzato il viaggio dell'ex star della NBA Dennis Rodman, visitando poi la Corea del Nord."
+      },
+      {
+        "id": 15,
+        "question": "Qual è il simbolo utilizzato dalla criptovaluta Primecoin ?",
+        "propositions": [
+          "Lettera psi",
+          "Aquila reale",
+          "Red Zero",
+          "Doppio quadrato"
+        ],
+        "réponse": "Lettera psi",
+        "anecdote": "Il meccanismo di funzionamento di questa criptovaluta contribuisce all'identificazione di numeri primi di elevata capacità."
+      },
+      {
+        "id": 16,
+        "question": "Qual è il nome della prima criptovaluta progettata per i sistemi Android ?",
+        "propositions": [
+          "Burstcoin",
+          "MangoCoinz",
+          "Reddcoin",
+          "Vertcoin"
+        ],
+        "réponse": "MangoCoinz",
+        "anecdote": "MangoCoinz utilizza i sensori sul tuo smartphone o tablet per convertire l'energia in movimenti di denaro."
+      },
+      {
+        "id": 17,
+        "question": "Quale paese è stato il primo a vietare l'uso del bitcoin sul suo territorio ?",
+        "propositions": [
+          "Stati Uniti",
+          "Thailandia",
+          "Russia",
+          "Germania"
+        ],
+        "réponse": "Thailandia",
+        "anecdote": "Nel 2016, la banca centrale thailandese ha dichiarato che il bitcoin non era illegale, ma ha messo in guardia dall'utilizzarlo."
+      },
+      {
+        "id": 18,
+        "question": "Quale criptovaluta sfrutta lo spazio su disco inutilizzato di un computer ?",
+        "propositions": [
+          "Vertcoin",
+          "Burstcoin",
+          "MangoCoinz",
+          "NameCoin"
+        ],
+        "réponse": "Burstcoin",
+        "anecdote": "Lo spazio libero è sufficiente per controllare le transazioni blockchain di Burstcoin e ricevere Burst per questo lavoro."
+      },
+      {
+        "id": 19,
+        "question": "Quale sviluppatore è fin dalle sue origini al centro della criptovaluta Peercoin ?",
+        "propositions": [
+          "Sunny King",
+          "Gavin Wood",
+          "Charlie Lee",
+          "Roger Ver"
+        ],
+        "réponse": "Sunny King",
+        "anecdote": "Peercoin è stato ispirato da Bitcoin e condivide con lui gran parte del suo codice sorgente e della sua implementazione tecnica."
+      },
+      {
+        "id": 20,
+        "question": "Quale criptovaluta cerca di incoraggiare la produzione di elettricità fotovoltaica ?",
+        "propositions": [
+          "SolarCoin",
+          "NameCoin",
+          "Vertcoin",
+          "Burstcoin"
+        ],
+        "réponse": "SolarCoin",
+        "anecdote": "La Fondazione ha progettato SolarCoin per 40 anni per generare 97,500 THW di energia solare."
+      }
+    ],
+    "expert": [
+      {
+        "id": 21,
+        "question": "Quale di queste piattaforme di trading di criptovaluta è stata creata nel 2017 ?",
+        "propositions": [
+          "Bittrex",
+          "CoinBase",
+          "Bibox",
+          "Binance"
+        ],
+        "réponse": "Binance",
+        "anecdote": "Su Binance, una piattaforma globale, puoi scambiare un gran numero di monete Alt diverse con Bitcoin o Ethereum."
+      },
+      {
+        "id": 22,
+        "question": "Quale valuta nativa viene utilizzata dal protocollo di pagamento Ripple ?",
+        "propositions": [
+          "RIL",
+          "XRP",
+          "PRP",
+          "DPI"
+        ],
+        "réponse": "XRP",
+        "anecdote": "Lanciata nel 2012, la rete Ripple mira a consentire transazioni finanziarie globali sicure di qualsiasi dimensione senza addebito."
+      },
+      {
+        "id": 23,
+        "question": "Quale medico ha pubblicato il white paper di Polkadot ?",
+        "propositions": [
+          "Gavin Wood",
+          "Roger Ver",
+          "Sunny King",
+          "Charlie Lee"
+        ],
+        "réponse": "Gavin Wood",
+        "anecdote": "Grazie a Polkadot, diverse blockchain possono scambiare messaggi in modo sicuro e senza una terza parte attendibile."
+      },
+      {
+        "id": 24,
+        "question": "Quale criptovaluta ha lo slogan « Unbank the banked » ?",
+        "propositions": [
+          "SolarCoin",
+          "PotCoin",
+          "Burstcoin",
+          "OmiseGO"
+        ],
+        "réponse": "OmiseGO",
+        "anecdote": "OmiseGO vuole il decentramento totale dei flussi finanziari unito ad un ampio accesso agli strumenti finanziari tradizionali."
+      },
+      {
+        "id": 25,
+        "question": "Quale tipo di criptovaluta aziendale viene spesso soprannominata Bitcoin 2.0 ?",
+        "propositions": [
+          "Locale",
+          "Acquisti",
+          "Sociale",
+          "Infrastruttura"
+        ],
+        "réponse": "Infrastruttura",
+        "anecdote": "I progetti infrastrutturali mirano a costruire alternative reali ai sistemi finanziari esistenti."
+      },
+      {
+        "id": 26,
+        "question": "Quale criptovaluta locale è destinata agli abitanti dell'Islanda ?",
+        "propositions": [
+          "AuroaCoin",
+          "Litecoin",
+          "NEO",
+          "PeerCoin"
+        ],
+        "réponse": "AuroaCoin",
+        "anecdote": "Le monete sono state distribuite gratuitamente ai 330.000 cittadini islandesi tramite una caduta il 25 marzo 2014 a mezzanotte."
+      },
+      {
+        "id": 27,
+        "question": "Quale di queste criptovalute può essere utilizzata per investimenti a lungo termine ?",
+        "propositions": [
+          "Reddcoin",
+          "NxT",
+          "PeerCoin",
+          "NameCoin"
+        ],
+        "réponse": "NxT",
+        "anecdote": "Nxt è stata concepita come una piattaforma flessibile attorno alla quale è possibile creare applicazioni e servizi finanziari."
+      },
+      {
+        "id": 28,
+        "question": "Quale piattaforma di trading di bitcoin è stata acquistata da Mark Karpeles ?",
+        "propositions": [
+          "Huobi",
+          "Mt. Gox",
+          "Binance",
+          "CoinBase"
+        ],
+        "réponse": "Mt. Gox",
+        "anecdote": "Il suo brutale crollo nel febbraio 2014 è dovuto alla pirateria informatica con conseguente perdita di 744.408 bitcoin."
+      },
+      {
+        "id": 29,
+        "question": "In Francia, a chi è stata affidata la missione del bitcoin sul bitcoin ?",
+        "propositions": [
+          "Jean-Louis Levet",
+          "Jean Lemierre",
+          "Jean-Pierre Landau",
+          "Serge Lasvignes"
+        ],
+        "réponse": "Jean-Pierre Landau",
+        "anecdote": "Jean-Pierre Landau insegna alla Princeton University, alla Woodrow Wilson School for International Relations."
+      },
+      {
+        "id": 30,
+        "question": "Quale criptovaluta cinese è simile a Ethereum ?",
+        "propositions": [
+          "PPCoin",
+          "XRP",
+          "NxT",
+          "NEO"
+        ],
+        "réponse": "NEO",
+        "anecdote": "Sviluppato dal 2014, NEO consente l'implementazione di contratti intelligenti in molti linguaggi di programmazione."
+      }
+    ]
+    },
+    "nl": {
+      "débutant": [
+      {
+        "id": 1,
+        "question": "Onder welke andere naam staan book bekende specialisten cryptocurrency Peercoin ?",
+        "propositions": [
+          "RipCoin",
+          "PPCoin",
+          "ConnectCoin",
+          "DualCoin"
+        ],
+        "réponse": "PPCoin",
+        "anecdote": "Peercoin werd geïnspireerd door Bitcoin en deelt veel van zijn broncode en zijn technische implementatie met hem."
+      },
+      {
+        "id": 2,
+        "question": "In welke portefeuille kunnen de Ethers worden opgeslagen ?",
+        "propositions": [
+          "Portemonnee",
+          "Disket",
+          "Basketbal",
+          "Magneet"
+        ],
+        "réponse": "Portemonnee",
+        "anecdote": "Ethereum is de tweede grootste gedecentraliseerde cryptografische valuta met een kapitalisatie van meer dan honderd miljard."
+      },
+      {
+        "id": 3,
+        "question": "Welke investeerder in cryptocurrency is ook de maker van de site bitcoin.com ?",
+        "propositions": [
+          "Roger Ver",
+          "Gavin Wood",
+          "Charlie Lee",
+          "Zonnige koning"
+        ],
+        "réponse": "Roger Ver",
+        "anecdote": "Eind 2013 schonk Roger Ver meer dan $ 1 miljoen aan bitcoins aan de Foundation for Economic Education."
+      },
+      {
+        "id": 4,
+        "question": "Hoeveel crypto-valuta's in de infrastructuurcategorie zijn er tot nu toe ?",
+        "propositions": [
+          "Honderd",
+          "Duizend",
+          "Een dozijn",
+          "Ongeveer vijftig"
+        ],
+        "réponse": "Een dozijn",
+        "anecdote": "Ondanks hun kleine aantal zijn het deze cryptovaluta's die waarschijnlijk de meest ingrijpende veranderingen zullen teweegbrengen."
+      },
+      {
+        "id": 5,
+        "question": "Wat brengt cryptocurrency ten opzichte van andere oplossingen zoals PayPal ?",
+        "propositions": [
+          "Kosten",
+          "Traceerbaarheid",
+          "Anonimiteit",
+          "Identificatie"
+        ],
+        "réponse": "Anonimiteit",
+        "anecdote": "Nieuwe Europese richtlijnen die binnenkort in de Franse wetgeving worden omgezet, zullen prioriteit geven aan de bestrijding van het witwassen van geld."
+      },
+      {
+        "id": 6,
+        "question": "In welk jaar is Bitcoin, de eerste cryptocurrency, ontstaan ?",
+        "propositions": [
+          "2011",
+          "2009",
+          "2015",
+          "2013"
+        ],
+        "réponse": "2009",
+        "anecdote": "Als valuta of grondstof kunnen bitcoins worden ingewisseld voor andere valuta, goederen of diensten."
+      },
+      {
+        "id": 7,
+        "question": "Welke bewerking wordt gebruikt om transacties te valideren en het Bitcoin-netwerk te beveiligen ?",
+        "propositions": [
+          "Hashing",
+          "Mijnbouw",
+          "Debuggen",
+          "Routering"
+        ],
+        "réponse": "Mijnbouw",
+        "anecdote": "Mijnbouw van een cryptocurrency bestaat uit het leveren van een service aan het netwerk van de valuta in ruil voor een geldelijke beloning."
+      },
+      {
+        "id": 8,
+        "question": "In welke televisieseries gemaakt door Sam Esmail hebben we het over Bitcoin ?",
+        "propositions": [
+          "Homeland",
+          "Breaking Bad",
+          "Mr. Robot",
+          "The Affair"
+        ],
+        "réponse": "Mr. Robot",
+        "anecdote": "Volgens The Guardian in 2016 is « Mr. Robot » een van de meest opwindende series van dit moment, die weigert volgens de regels te spelen."
+      },
+      {
+        "id": 9,
+        "question": "Op welk platform kunt u tot 200 verschillende crypto-valuta's kopen ?",
+        "propositions": [
+          "Kraken",
+          "Bittrex",
+          "Cryptopia",
+          "CoinHouse"
+        ],
+        "réponse": "Bittrex",
+        "anecdote": "Hun aangepaste handelsengine is ontworpen om schaalbaar te zijn en ervoor te zorgen dat orders in realtime worden uitgevoerd."
+      },
+      {
+        "id": 10,
+        "question": "Wat was de prijs van bitcoin in januari 2018, wetende dat het 1 euro waard was in 2001 ?",
+        "propositions": [
+          "EUR 9.306",
+          "EUR 5.944",
+          "EUR 3.519",
+          "EUR 7.607"
+        ],
+        "réponse": "EUR 9.306",
+        "anecdote": "Bitcoins worden binnen enkele decennia agressief uitbetaald tot een maximum van $ 21 miljoen."
+      }
+    ],
+    "confirmé": [
+      {
+        "id": 11,
+        "question": "Welke voormalige Google-medewerker heeft de elektronische valuta van Litecoin ontwikkeld ?",
+        "propositions": [
+          "Robert Walsh",
+          "Charlie Lee",
+          "Kevin Castner",
+          "Terri Hall"
+        ],
+        "réponse": "Charlie Lee",
+        "anecdote": "Het doel van het Litecoin-netwerk is om elke twee minuten een blok te maken in plaats van om de tien minuten voor Bitcoin."
+      },
+      {
+        "id": 12,
+        "question": "In welk jaar werd het Stellar open-source betalingsprotocol opgericht ?",
+        "propositions": [
+          "2016",
+          "2012",
+          "2014",
+          "2010"
+        ],
+        "réponse": "2014",
+        "anecdote": "De Stellar-procotole wordt ondersteund door een stichting zonder winstoogmerk, de Stellar Development Foundation."
+      },
+      {
+        "id": 13,
+        "question": "Welk type cryptocurrency gaat veel verder dan de eenvoudige betaalmiddelen ?",
+        "propositions": [
+          "Infrastructuur",
+          "Lokaal",
+          "Winkelen",
+          "Sociaal"
+        ],
+        "réponse": "Infrastructuur",
+        "anecdote": "Echte vrachtwagens, we moeten ze geen cryptovaluta's noemen, hun ambitie gaat verder dan betalen."
+      },
+      {
+        "id": 14,
+        "question": "Welke ultraveilige cryptocurrency richt zich exclusief op de legale cannabismarkt ?",
+        "propositions": [
+          "PotCoin",
+          "ZiftrCoin",
+          "PayCoin",
+          "QuickCoin"
+        ],
+        "réponse": "PotCoin",
+        "anecdote": "In juni 2017 sponsorde PotCoin de reis van de voormalige NBA-ster Dennis Rodman en vervolgens een bezoek aan Noord-Korea."
+      },
+      {
+        "id": 15,
+        "question": "Wat is het symbool dat wordt gebruikt door de cryptocurrency Primecoin ?",
+        "propositions": [
+          "Rode nul",
+          "Steenarend",
+          "Dubbel vierkant",
+          "Psi brief"
+        ],
+        "réponse": "Psi brief",
+        "anecdote": "Het werkingsmechanisme van deze cryptocurrency draagt bij aan de identificatie van priemgetallen met hoge capaciteit."
+      },
+      {
+        "id": 16,
+        "question": "Welke naam is de eerste cryptocurrency ontworpen voor Android-systemen ?",
+        "propositions": [
+          "MangoCoinz",
+          "Burstcoin",
+          "Reddcoin",
+          "Vertcoin"
+        ],
+        "réponse": "MangoCoinz",
+        "anecdote": "MangoCoinz gebruikt de sensoren op uw smartphone of tablet om energie om te zetten in geldbewegingen."
+      },
+      {
+        "id": 17,
+        "question": "Welk land verbood als eerste het gebruik van bitcoin op zijn grondgebied ?",
+        "propositions": [
+          "Duitsland",
+          "Rusland",
+          "Verenigde Staten",
+          "Thailand"
+        ],
+        "réponse": "Thailand",
+        "anecdote": "In 2016 zei de centrale bank van Thailand dat bitcoin niet illegaal was, maar waarschuwde tegen het gebruik ervan."
+      },
+      {
+        "id": 18,
+        "question": "Welke cryptocurrency exploiteert de ongebruikte schijfruimte van een computer ?",
+        "propositions": [
+          "MangoCoinz",
+          "Vertcoin",
+          "NameCoin",
+          "Burstcoin"
+        ],
+        "réponse": "Burstcoin",
+        "anecdote": "Vrije ruimte is voldoende om de Burstcoin-blockchain-transacties te controleren en Burst te ontvangen voor deze taak."
+      },
+      {
+        "id": 19,
+        "question": "Welke ontwikkelaar is sinds het begin in het hart van cryptocurrency Peercoin ?",
+        "propositions": [
+          "Charlie Lee",
+          "Zonnige koning",
+          "Roger Ver",
+          "Gavin Wood"
+        ],
+        "réponse": "Zonnige koning",
+        "anecdote": "Peercoin werd geïnspireerd door Bitcoin en deelt veel van zijn broncode en zijn technische implementatie met hem."
+      },
+      {
+        "id": 20,
+        "question": "Welke cryptocurrency probeert de productie van fotovoltaïsche elektriciteit aan te moedigen ?",
+        "propositions": [
+          "SolarCoin",
+          "Burstcoin",
+          "Vertcoin",
+          "NameCoin"
+        ],
+        "réponse": "SolarCoin",
+        "anecdote": "De Foundation heeft SolarCoins 40 jaar lang ontworpen om 97 500 TWh aan zonne-energie te genereren."
+      }
+    ],
+    "expert": [
+      {
+        "id": 21,
+        "question": "Welke van deze cryptocurrency-handelsplatforms is in 2017 gemaakt ?",
+        "propositions": [
+          "Bibox",
+          "Binance",
+          "Bittrex",
+          "CoinBase"
+        ],
+        "réponse": "Binance",
+        "anecdote": "Op Binance, een wereldwijd platform, kunt u een groot aantal verschillende Alt-munten verhandelen met Bitcoin of Ethereum."
+      },
+      {
+        "id": 22,
+        "question": "Welke nationale valuta wordt gebruikt door het Ripple-betalingsprotocol ?",
+        "propositions": [
+          "PRP",
+          "PBM",
+          "XRP",
+          "RIL"
+        ],
+        "réponse": "XRP",
+        "anecdote": "Het Ripple-netwerk werd in 2012 geïntroduceerd en is bedoeld om veilige wereldwijde financiële transacties van elke omvang mogelijk te maken zonder te debiteren."
+      },
+      {
+        "id": 23,
+        "question": "Welke computerarts heeft de Polkadot-whitepaper gepubliceerd ?",
+        "propositions": [
+          "Gavin Wood",
+          "Zonnige koning",
+          "Roger Ver",
+          "Charlie Lee"
+        ],
+        "réponse": "Gavin Wood",
+        "anecdote": "Dankzij Polkadot kunnen verschillende blockchains berichten veilig en zonder een vertrouwde derde partij uitwisselen."
+      },
+      {
+        "id": 24,
+        "question": "Welke cryptocurrency heeft de slogan « Unbank the banked » ?",
+        "propositions": [
+          "Burstcoin",
+          "OmiseGO",
+          "PotCoin",
+          "SolarCoin"
+        ],
+        "réponse": "OmiseGO",
+        "anecdote": "OmiseGO wil totale decentralisatie van financiële stromen in combinatie met brede toegang tot traditionele financiële instrumenten."
+      },
+      {
+        "id": 25,
+        "question": "Wat voor soort zakelijke cryptocurrency wordt vaak de bijnaam Bitcoin 2.0 gegeven ?",
+        "propositions": [
+          "Infrastructuur",
+          "Lokaal",
+          "Winkelen",
+          "Sociaal"
+        ],
+        "réponse": "Infrastructuur",
+        "anecdote": "Infrastructuurprojecten zijn gericht op het bouwen van echte alternatieven voor bestaande financiële systemen."
+      },
+      {
+        "id": 26,
+        "question": "Welke lokale cryptocurrency is bedoeld voor de inwoners van IJsland ?",
+        "propositions": [
+          "AuroaCoin",
+          "Litecoin",
+          "PeerCoin",
+          "NEO"
+        ],
+        "réponse": "AuroaCoin",
+        "anecdote": "De munten werden gratis uitgedeeld aan de 330.000 IJslandse burgers via een dropping op 25 maart 2014 om middernacht."
+      },
+      {
+        "id": 27,
+        "question": "Welke van deze cryptovaluta's kunnen worden gebruikt voor langetermijninvesteringen ?",
+        "propositions": [
+          "NxT",
+          "NameCoin",
+          "PeerCoin",
+          "Reddcoin"
+        ],
+        "réponse": "NxT",
+        "anecdote": "Nxt is opgevat als een flexibel platform waarrond financiële applicaties en services kunnen worden gebouwd."
+      },
+      {
+        "id": 28,
+        "question": "Welk bitcoin-handelsplatform is gekocht door Mark Karpeles ?",
+        "propositions": [
+          "Huobi",
+          "CoinBase",
+          "Binance",
+          "Mount Gox"
+        ],
+        "réponse": "Mount Gox",
+        "anecdote": "De brute ineenstorting in februari 2014 was te wijten aan hacken resulterend in een verlies van 744.408 bitcoins."
+      },
+      {
+        "id": 29,
+        "question": "Wie heeft de minister van Economie in Frankrijk een missie op bitcoin toevertrouwd ?",
+        "propositions": [
+          "Jean Lemierre",
+          "Jean-Pierre Landau",
+          "Serge Lasvignes",
+          "Jean-Louis Levet"
+        ],
+        "réponse": "Jean-Pierre Landau",
+        "anecdote": "Jean-Pierre Landau geeft les aan de Princeton University, aan de Woodrow Wilson School for International Relations."
+      },
+      {
+        "id": 30,
+        "question": "Welke Chinese cryptocurrency lijkt op Ethereum ?",
+        "propositions": [
+          "PPCoin",
+          "NEO",
+          "NxT",
+          "XRP"
+        ],
+        "réponse": "NEO",
+        "anecdote": "NEO is ontwikkeld sinds 2014 en maakt de implementatie van slimme contracten in veel programmeertalen mogelijk."
+      }
+    ]
+    }
+  }
+}

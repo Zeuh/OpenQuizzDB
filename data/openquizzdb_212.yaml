@@ -1,0 +1,1650 @@
+---
+fournisseur: OpenQuizzDB - Fournisseur de contenu libre (https://www.openquizzdb.org)
+rédacteur: Philippe Bresoux
+thème: Golf (Accepter d'être imparfait)
+difficulté: 3 / 5
+quizz:
+  fr:
+  - débutant:
+    - id: 1
+      question: Au golf, quel objet utilise-t-on pour envoyer la balle dans le trou ?
+      propositions:
+      - Bâton
+      - Raquette
+      - Club
+      - Crosse
+      réponse: Club
+      anecdote: Chaque club est composé d'un manche, d'un grip où le golfeur va venir poser ses mains et d'une tête en contact avec la balle.
+    - id: 2
+      question: Dans quel alphabet le mot Golf est-il associé à la lettre G ?
+      propositions:
+      - Sémaphore
+      - Gotique
+      - Phonétique
+      - Radio
+      réponse: Radio
+      anecdote: Un alphabet radio est un code utilisé en radiotéléphonie, qui consiste à représenter chaque lettre de l'alphabet par un mot entier.
+    - id: 3
+      question: Quel sportif a dominé le monde du golf masculin dans les années 2000 ?
+      propositions:
+      - Curtis Strange
+      - Raymond Floyd
+      - Tiger Woods
+      - Payne Stewart
+      réponse: Tiger Woods
+      anecdote: À la suite du scandale sur ses infidélités, il annoncera se retirer du circuit de golf professionnel pour une période indéterminée.
+    - id: 4
+      question: Combien de trous un parcours de golf classique compte-t-il généralement ?
+      propositions:
+      - 16
+      - 14
+      - 12
+      - 18
+      réponse: 18
+      anecdote: Sur un parcours de 9 trous, il s'agit parfois de réaliser 9 trous dans un sens (aller) puis dans l'autre (retour), soit un total de 18 trous.
+    - id: 5
+      question: En golf, quelle pièce de sable permet de pimenter parfois considérablement le jeu ?
+      propositions:
+      - Chip
+      - Grip
+      - Bunker
+      - Dropper
+      réponse: Bunker
+      anecdote: Un parcours de golf fait l'objet de soins très attentifs tout au long de l'année et plus particulièrement durant la saison golfique.
+    - id: 6
+      question: Quel nom donne-t-on à la zone d'herbe située autour du trou au golf ?
+      propositions:
+      - Pré-rough
+      - Rough
+      - Green
+      - Fairway
+      réponse: Green
+      anecdote: Des zones en réparation, délimitées par des piquets de couleur bleue, peuvent se rencontrer sur le parcours sans en faire partie.
+    - id: 7
+      question: Quel joueur surnommé The King a rendu le golf très populaire ?
+      propositions:
+      - Justin Rose
+      - Martin Kaymer
+      - Jordan Spieth
+      - Arnold Palmer
+      réponse: Arnold Palmer
+      anecdote: Il mit un terme à sa carrière sur le circuit professionnel à 75 ans par une cinquantième participation consécutive au Masters d'Augusta.
+    - id: 8
+      question: Quel nombre de coups standard est fixé pour terminer un trou au golf ?
+      propositions:
+      - Par
+      - Birdie
+      - Bogey
+      - Eagle
+      réponse: Par
+      anecdote: Habituellement, sur un parcours de 18 trous, le par est de 72 : cette moyenne est calculée en fonction des par de chaque trou.
+    - id: 9
+      question: Quelle personne est la seule autorisée à conseiller un joueur sur le terrain ?
+      propositions:
+      - Shaft
+      - Caddie
+      - Practice
+      - Hook
+      réponse: Caddie
+      anecdote: Un caddie est présent pour permettre au joueur de se concentrer uniquement sur son jeu en lui évitant la plupart des corvées.
+    - id: 10
+      question: Quelle est la langue officielle du golf, fixée en raison de ses origines ?
+      propositions:
+      - Allemand
+      - Français
+      - Espagnol
+      - Anglais
+      réponse: Anglais
+      anecdote: Dans les règles de golf, la Fédération française de golf utilise les termes anglais lorsque ceux-ci sont utilisés par les golfeurs.
+  - confirmé:
+    - id: 11
+      question: Quel précurseur du golf moderne est surnommé The Golden Bear ?
+      propositions:
+      - Lucas Glover
+      - Michael Campbell
+      - Jack Nicklaus
+      - Webb Simpson
+      réponse: Jack Nicklaus
+      anecdote: C'est le développement de la rivalité entre Jack Nicklaus et Arnold Palmer qui développa un certain intérêt des téléspectateurs pour le golf.
+    - id: 12
+      question: Lors de quels Jeux olympiques le golf a-t-il fait son retour après 112 ans d'absence ?
+      propositions:
+      - Pékin 2008
+      - Rio 2016
+      - Londres 2012
+      - Sydney 2000
+      réponse: Rio 2016
+      anecdote: Des épreuves de golf furent disputées lors des Jeux olympiques de Paris de 1900 et de nouveau en 1904 à Saint-Louis.
+    - id: 13
+      question: Combien de trous contenait le premier parcours de Saint Andrews ?
+      propositions:
+      - 34
+      - 22
+      - 30
+      - 26
+      réponse: 22
+      anecdote: Le parcours comptait vingt-deux trous au départ avant d'être amputé de sa longueur pour la construction de maisons.
+    - id: 14
+      question: Quel espagnol a fait connaître le golf en dehors de ses pays traditionnels ?
+      propositions:
+      - Casper
+      - Aaron
+      - Coody
+      - Ballesteros
+      réponse: Ballesteros
+      anecdote: Plusieurs fois numéro un mondial entre 1986 et 1989, il a été l'une des figures de proue de ce sport depuis le milieu des années 1970.
+    - id: 15
+      question: En golf, par quoi est délimité un obstacle d'eau qui traverse un trou ?
+      propositions:
+      - Barrière blanche
+      - Piquet jaune
+      - Balle rouge
+      - Drapeau bleu
+      réponse: Piquet jaune
+      anecdote: Un parcours peut présenter des parties arborées, des buissons, mais aussi des plans d'eau ou ruisseaux que l'on nomme obstacles d'eau.
+    - id: 16
+      question: En golf, quel terme anglophone est utilisé si vous faites un coup sous le par ?
+      propositions:
+      - Eagle
+      - Bogey
+      - Birdie
+      - Albatros
+      réponse: Birdie
+      anecdote: Le Birdie putt signifie quant à lui que si la balle tombe dans le trou à la suite de ce putt, le joueur enregistrera un birdie.
+    - id: 17
+      question: Quelle star du golf a remporté le Masters et l'Open britannique en 1990 ?
+      propositions:
+      - Dustin Johnson
+      - Tom Watson
+      - Nick Faldo
+      - Larry Nelson
+      réponse: Nick Faldo
+      anecdote: Il remporte de nouveau en 1990 le titre de European Tour Player of the Year, auquel il ajoute le titre de Player of the Year du PGA Tour.
+    - id: 18
+      question: Laquelle de ces propositions ne correspond pas à une dénomination d'un club de golf ?
+      propositions:
+      - Fer
+      - Putter
+      - Bois
+      - Eagle
+      réponse: Eagle
+      anecdote: Au départ d'un parcours, un golfeur doit au maximum emporter quatorze clubs avec lui : le choix est donc déterminant.
+    - id: 19
+      question: Quel club de golf permet d'envoyer la balle assez loin avec une trajectoire tendue ?
+      propositions:
+      - Hybride
+      - Fer
+      - Bois
+      - Putter
+      réponse: Bois
+      anecdote: Les bois existent dans les tailles 1, 3, 5, 7 et 9, mais peuvent aller jusqu'à 13. Ils sont également appelés bois de parcours.
+    - id: 20
+      question: Quel effet permet à une balle de golf d'être fortement ralentie à l'impact ?
+      propositions:
+      - Stance
+      - Topspin
+      - Swing
+      - Backspin
+      réponse: Backspin
+      anecdote: Souvent utilisé pendant les approches du green, une balle avec du backspin tombera puis repartira en arrière sur une distance variable.
+  - expert:
+    - id: 21
+      question: Dans quel pays le golf a-t-il été pour la première fois codifié en 1754 ?
+      propositions:
+      - Écosse
+      - Espagne
+      - Australie
+      - Allemagne
+      réponse: Écosse
+      anecdote: Codifié en Écosse en 1754 par le Royal And Ancient Golf Club de Saint Andrews, ce sport a des origines diverses dont le jeu de mail.
+    - id: 22
+      question: Combien de pratiquants de golf réguliers dasn le monde comptait-on en 2010 ?
+      propositions:
+      - 63 millions
+      - 82 millions
+      - 57 millions
+      - 74 millions
+      réponse: 82 millions
+      anecdote: Mondialisé à la fin du XXe siècle, le golf est moins pratiqué par les femmes et souffre d'un traitement médiatique et financier inégal.
+    - id: 23
+      question: Quel avocat de profession était surnommé le Mozart du golf ?
+      propositions:
+      - Alex Smith
+      - Chick Evans
+      - Bobby Jones
+      - Alec Ross
+      réponse: Bobby Jones
+      anecdote: Golfeur amateur le plus accompli sur le plan national et international, il ne disputa que 53 tournois et en remporta 23.
+    - id: 24
+      question: En quelle année fut disputé le premier Open britannique pro ?
+      propositions:
+      - 1890
+      - 1920
+      - 1860
+      - 1950
+      réponse: 1860
+      anecdote: Tournoi de référence jusqu'aux années 1930, l'Open britannique pro devient l'un des tournois du grand chelem dans les années 1960.
+    - id: 25
+      question: Comment le golf était-il appelé à ses débuts aux Pays-Bas ?
+      propositions:
+      - Dolf
+      - Wolf
+      - Rolf
+      - Colf
+      réponse: Colf
+      anecdote: En raison des nombreux échanges entre les Pays-Bas et l'Écosse, les Hollandais exportèrent ce jeu (dérivé de kolbe signifiant bâton).
+    - id: 26
+      question: Dans quelle ville s'est installé en 1627 le premier fabricant de clubs de golf ?
+      propositions:
+      - Saint Andrews
+      - Londres
+      - Oslo
+      - Dublin
+      réponse: Saint Andrews
+      anecdote: Cette ville écossaise est située sur la côte de la mer du Nord entre Édimbourg et Dundee et compte 15 000 habitants.
+    - id: 27
+      question: Combien de touristes en moyenne viennent jouer au golf en Thaïlande chaque année ?
+      propositions:
+      - 400 000
+      - 300 000
+      - 200 000
+      - 100 000
+      réponse: 400 000
+      anecdote: La Thaïlande a fait du golf un article de promotion touristique en leur proposant à ce jour un catalogue de 280 parcours différents.
+    - id: 28
+      question: Quel pesticide très utilisé sur les terrains de golf a été interdit aux États-Unis ?
+      propositions:
+      - Diazinon
+      - Firponil
+      - Novaluron
+      - Spinosad
+      réponse: Diazinon
+      anecdote: Le diazinon était autrefois utilisé pour contrôler l'invasion des cancrelats, du poisson d'argent, des fourmis et des puces.
+    - id: 29
+      question: Combien de dépressions comportent la plupart des balles de golf mises en vente ?
+      propositions:
+      - 450
+      - 300
+      - 150
+      - 600
+      réponse: 450
+      anecdote: L'impact d'une balle frappée (une milliseconde) détermine la vitesse de la balle, son angle de tir ainsi que sa vitesse de rotation.
+    - id: 30
+      question: Quel est le plus populaire des circuits de golf féminin ?
+      propositions:
+      - FGTB
+      - LPGA
+      - CGSP
+      - BKCP
+      réponse: LPGA
+      anecdote: En 2017, le circuit professionnel de golf féminin était doté au total de 67 millions de dollars contre 58 millions de dollars en 2008.
+  en:
+  - débutant:
+    - id: 1
+      question: In golf, what object is used to send the ball into the hole ?
+      propositions:
+      - Club
+      - Crosse
+      - Stick
+      - Racquet
+      réponse: Club
+      anecdote: Each club is composed of a handle, a grip where the golfer will come to put his hands and a head in contact with the ball.
+    - id: 2
+      question: In which alphabet is the word Golf associated with the letter G ?
+      propositions:
+      - Phonetic
+      - Semaphore
+      - Gothic
+      - Radio
+      réponse: Radio
+      anecdote: A radio alphabet is a code used in radio, which consists of representing each letter of the alphabet by an entire word.
+    - id: 3
+      question: Which sportsman dominated the world of men's golf in the 2000s ?
+      propositions:
+      - Curtis Strange
+      - Tiger Woods
+      - Raymond Floyd
+      - Payne Stewart
+      réponse: Tiger Woods
+      anecdote: Following the scandal over his infidelities, he announced that he would retire from the professional golf circuit for an indefinite period.
+    - id: 4
+      question: How many holes does a typical golf course have in general ?
+      propositions:
+      - 18
+      - 14
+      - 12
+      - 16
+      réponse: 18
+      anecdote: On a course of 9 holes, it is sometimes necessary to realize 9 holes in a direction (go) then in the other (return), that is a total of 18 holes.
+    - id: 5
+      question: In golf, which piece of sand can spice the game considerably ?
+      propositions:
+      - Dropper
+      - Bunker
+      - Grip
+      - Chip
+      réponse: Bunker
+      anecdote: A golf course is very carefully cared for throughout the year and especially during the golf season.
+    - id: 6
+      question: What name is given to the grass area around the golf hole ?
+      propositions:
+      - Pre-rough
+      - Fairway
+      - Rough
+      - Green
+      réponse: Green
+      anecdote: Repaired areas, bounded by blue stakes, can meet on the course without being part of it.
+    - id: 7
+      question: Which player nicknamed The King made golf very popular ?
+      propositions:
+      - Arnold Palmer
+      - Jordan Spieth
+      - Martin Kaymer
+      - Justin Rose
+      réponse: Arnold Palmer
+      anecdote: He ended his career on the professional circuit at age 75 with a fiftieth consecutive participation in the Augusta Masters.
+    - id: 8
+      question: How many standard shots are set to finish a hole in golf ?
+      propositions:
+      - By
+      - Eagle
+      - Birdie
+      - Bogey
+      réponse: By
+      anecdote: Usually, on a course of 18 holes, the par is 72 : this average is computed according to par of each hole.
+    - id: 9
+      question: Who is the only person allowed to advise a player on the field ?
+      propositions:
+      - Shopping Cart
+      - Practice
+      - Shaft
+      - Hook
+      réponse: Shopping Cart
+      anecdote: A caddy is present to allow the player to focus solely on his game by avoiding most chores.
+    - id: 10
+      question: What is the official language of golf, set because of its origins ?
+      propositions:
+      - Spanish
+      - German
+      - French
+      - English
+      réponse: English
+      anecdote: In the rules of golf, the French Golf Federation uses the English terms when they are used by golfers.
+  - confirmé:
+    - id: 11
+      question: What precursor of modern golf is nicknamed The Golden Bear ?
+      propositions:
+      - Lucas Glover
+      - Michael Campbell
+      - Webb Simpson
+      - Jack Nicklaus
+      réponse: Jack Nicklaus
+      anecdote: It was the development of Jack Nicklaus' rivalry with Arnold Palmer that developed a certain interest for golf viewers.
+    - id: 12
+      question: At which Olympic Games did golf return after 112 years of absence ?
+      propositions:
+      - London 2012
+      - Rio 2016
+      - Beijing 2008
+      - Sydney 2000
+      réponse: Rio 2016
+      anecdote: Golf competitions were held during the Paris Olympic Games of 1900 and again in 1904 in Saint-Louis.
+    - id: 13
+      question: How many holes contained the first course of Saint Andrews ?
+      propositions:
+      - 30
+      - 34
+      - 22
+      - 26
+      réponse: 22
+      anecdote: The course had twenty-two holes at the beginning before being cut down for the construction of houses.
+    - id: 14
+      question: What Spanish did golf know apart from its traditional countries ?
+      propositions:
+      - Aaron
+      - Ballesteros
+      - Casper
+      - Coody
+      réponse: Ballesteros
+      anecdote: Numerous times a world between 1986 and 1989, he has been one of the leading figures of the sport since the mid-1970s.
+    - id: 15
+      question: In golf, what is the limit of a water obstacle that crosses a hole ?
+      propositions:
+      - Yellow picket
+      - White barrier
+      - Red ball
+      - Blue Flag
+      réponse: Yellow picket
+      anecdote: A route can present tree parts, bushes, but also water bodies or streams that are called water hazards.
+    - id: 16
+      question: In golf, which anglophone term is used if you make a shot under the par ?
+      propositions:
+      - Eagle
+      - Birdie
+      - Albatross
+      - Bogey
+      réponse: Birdie
+      anecdote: The Birdie putt signifies that if the ball falls into the hole as a result of this putt, the player will record a birdie.
+    - id: 17
+      question: Which golf star won the Masters and the British Open in 1990 ?
+      propositions:
+      - Tom Watson
+      - Nick Faldo
+      - Dustin Johnson
+      - Larry Nelson
+      réponse: Nick Faldo
+      anecdote: He won again in 1990 the title of European Tour Player of the Year, to which he adds the title of Player of the Year of the PGA Tour.
+    - id: 18
+      question: Which of these proposals does not correspond to a name of a golf club ?
+      propositions:
+      - Wood
+      - Iron
+      - Putter
+      - Eagle
+      réponse: Eagle
+      anecdote: At the start of a course, a golfer must carry a maximum of fourteen clubs with him: the choice is therefore decisive.
+    - id: 19
+      question: Which golf club can send the ball far enough with a tense trajectory ?
+      propositions:
+      - Iron
+      - Wood
+      - Hybrid
+      - Putter
+      réponse: Wood
+      anecdote: The woods exist in sizes 1, 3, 5, 7 and 9, but can go up to 13.
+    - id: 20
+      question: What effect does a golf ball have on being strongly slowed down to impact ?
+      propositions:
+      - Backspin
+      - Swing
+      - Stance
+      - Topspin
+      réponse: Backspin
+      anecdote: Often used during approaches to the green, a ball with backspin will fall and then go back a variable distance.
+  - expert:
+    - id: 21
+      question: In which country was golf for the first time codified in 1754 ?
+      propositions:
+      - Australia
+      - Germany
+      - Scotland
+      - Spain
+      réponse: Scotland
+      anecdote: Codified in Scotland in 1754 by the Royal And Ancient Golf Club of Saint Andrews, this sport has various origins including the game of mail.
+    - id: 22
+      question: How many regular golfers in the world did we count in 2010 ?
+      propositions:
+      - 74 million
+      - 57 million
+      - 63 million
+      - 82 million
+      réponse: 82 million
+      anecdote: Globalized in the late twentieth century, golf is less practiced by women and suffers from unequal media and financial treatment.
+    - id: 23
+      question: What professional lawyer was nicknamed the Mozart of golf ?
+      propositions:
+      - Alex Smith
+      - Alec Ross
+      - Chick Evans
+      - Bobby Jones
+      réponse: Bobby Jones
+      anecdote: The most accomplished amateur golfer nationally and internationally, he played only 53 tournaments and won 23.
+    - id: 24
+      question: In which year was the first British Open pro played ?
+      propositions:
+      - 1950
+      - 1890
+      - 1920
+      - 1860
+      réponse: 1860
+      anecdote: Referee tournament until the 1930s, the British Open Pro became one of the Grand Slam tournaments in the 1960s.
+    - id: 25
+      question: How was golf called for its beginnings in the Netherlands ?
+      propositions:
+      - Wolf
+      - Rolf
+      - Dolf
+      - Colf
+      réponse: Colf
+      anecdote: Because of the many exchanges between the Netherlands and Scotland, the Dutch exported this game (kolbe deed meaning concrete).
+    - id: 26
+      question: In which city did it settle in 1627 the first manufacturer of golf clubs ?
+      propositions:
+      - Saint Andrews
+      - Dublin
+      - London
+      - Oslo
+      réponse: Saint Andrews
+      anecdote: This Scottish city is located on the North Sea coast between Edinburgh and Dundee and has a population of 15,000.
+    - id: 27
+      question: How many tourists on average come to play golf in Thailand each year ?
+      propositions:
+      - 100,000
+      - 200,000
+      - 400,000
+      - 300,000
+      réponse: 400,000
+      anecdote: Thailand has made golf a tourism promotion article by offering them a catalog of 280 different courses.
+    - id: 28
+      question: Which pesticide used on golf courses has been banned in the United States ?
+      propositions:
+      - Diazinon
+      - Novaluron
+      - Spinosad
+      - Firponil
+      réponse: Diazinon
+      anecdote: Diazinon was once used to control the invasion of cockroaches, silverfish, ants and fleas.
+    - id: 29
+      question: How many depressions do most golf balls put on sale ?
+      propositions:
+      - 150
+      - 450
+      - 600
+      - 300
+      réponse: 450
+      anecdote: The impact of a hit ball (one millisecond) determines the speed of the ball, its angle of fire and its speed of rotation.
+    - id: 30
+      question: What is the most popular female golf course ?
+      propositions:
+      - FGTB
+      - LPGA
+      - CGSP
+      - BKCP
+      réponse: LPGA
+      anecdote: In 2017, the total female golf tour was $ 67 million, up from $ 58 million in 2008.
+  de:
+  - débutant:
+    - id: 1
+      question: Welches Objekt wird beim Golf verwendet, um den Ball in das Loch zu befördern ?
+      propositions:
+      - Schläger
+      - Club
+      - Stab
+      - Crosse
+      réponse: Club
+      anecdote: Jeder Schläger besteht aus einem Griff, ohne dass der Golfer seine Hände und einen Kopf in Kontakt mit dem Ball bringt.
+    - id: 2
+      question: In welchem Alphabet steht das Wort Golf für den Buchstaben G ?
+      propositions:
+      - Phonetisch
+      - Gothic
+      - Semaphore
+      - Radio
+      réponse: Radio
+      anecdote: Ein Radioalphabet ist ein Code, der im Radio verwendet wird und darin besteht, jeden Buchstaben des Alphabets durch ein ganzes Wort darzustellen.
+    - id: 3
+      question: Welcher Sportler dominierte in den 2000er Jahren das Männergolf ?
+      propositions:
+      - Curtis Strange
+      - Payne Stewart
+      - Raymond Floyd
+      - Tiger Woods
+      réponse: Tiger Woods
+      anecdote: Nach dem Skandal um seine Untreue kündigte er an, sich auf unbestimmte Zeit aus dem professionellen Golfsport zurückzuziehen.
+    - id: 4
+      question: Wie viele Löcher hat ein typischer Golfplatz im Allgemeinen ?
+      propositions:
+      - 12
+      - 14
+      - 18
+      - 16
+      réponse: 18
+      anecdote: Auf einem Kurs von 9 Löchern ist es manchmal notwendig, 9 Löcher in einer Richtung (gehen) als in der anderen (zurück) zu realisieren, dh insgesamt 18 Löcher.
+    - id: 5
+      question: Welches Stück Sand kann das Golfspiel erheblich aufpeppen ?
+      propositions:
+      - Tropfer
+      - Chip
+      - Bunker
+      - Griff
+      réponse: Bunker
+      anecdote: Ein Golfplatz wird das ganze Jahr über und insbesondere während der Golfsaison sehr sorgfältig gepflegt.
+    - id: 6
+      question: Wie heißt die Rasenfläche um das Golfloch ?
+      propositions:
+      - Fairway
+      - Raue
+      - Pre-rough
+      - Grün
+      réponse: Grün
+      anecdote: Reparierte Bereiche, die von blauen Pfählen begrenzt sind, können sich auf der Strecke treffen, ohne ein Teil davon zu sein.
+    - id: 7
+      question: Welcher Spieler mit dem Spitznamen The King machte Golf sehr beliebt ?
+      propositions:
+      - Justin Rose
+      - Martin Kaymer
+      - Jordan Spieth
+      - Arnold Palmer
+      réponse: Arnold Palmer
+      anecdote: Mit 75 Jahren beendete er seine Karriere im professionellen Bereich mit der 50. Teilnahme am Augusta Masters in Folge.
+    - id: 8
+      question: Wie viele Standardschläge sind vorgesehen, um ein Loch im Golf zu beenden ?
+      propositions:
+      - Birdie
+      - Von
+      - Bogey
+      - Adler
+      réponse: Von
+      anecdote: Normalerweise beträgt der Par auf einem 18-Loch-Kurs 72 : Dieser Durchschnitt wird nach dem Par jedes Lochs berechnet.
+    - id: 9
+      question: Wer ist die einzige Person, die einen Spieler auf dem Spielfeld beraten darf ?
+      propositions:
+      - Üben
+      - Welle
+      - Warenkorb
+      - Haken
+      réponse: Warenkorb
+      anecdote: Ein Caddy ist vorhanden, um dem Spieler zu ermöglichen, sich ausschließlich auf sein Spiel zu konzentrieren, indem die meisten Aufgaben vermieden werden.
+    - id: 10
+      question: Was ist die offizielle Sprache des Golfsports, die aufgrund ihrer Herkunft festgelegt wurde ?
+      propositions:
+      - Englisch
+      - Französisch
+      - Deutsch
+      - Spanisch
+      réponse: Englisch
+      anecdote: In den Golfregeln verwendet der französische Golfverband die englischen Begriffe, wenn sie von Golfspielern verwendet werden.
+  - confirmé:
+    - id: 11
+      question: Welcher Vorläufer des modernen Golfsports trägt den Spitznamen 
+      propositions:
+      - Lucas Glover
+      - Jack Nicklaus
+      - Webb Simpson
+      - Michael Campbell
+      réponse: Jack Nicklaus
+      anecdote: Es war die Entwicklung der Rivalität von Jack Nicklaus mit Arnold Palmer, die ein gewisses Interesse für die Golfzuschauer weckte.
+    - id: 12
+      question: Bei welchen Olympischen Spielen kehrte Golf nach 112 Jahren Abwesenheit zurück ?
+      propositions:
+      - Peking 2008
+      - Rio 2016
+      - Sydney 2000
+      - London 2012
+      réponse: Rio 2016
+      anecdote: Golfwettbewerbe fanden während der Olympischen Spiele in Paris von 1900 und erneut 1904 in Saint-Louis statt.
+    - id: 13
+      question: Wie viele Löcher enthielt der erste Platz von Saint Andrews ?
+      propositions:
+      - 34
+      - 22
+      - 26
+      - 30
+      réponse: 22
+      anecdote: Der Platz hatte zu Beginn zweiundzwanzig Löcher, bevor er für den Bau von Häusern abgeholzt wurde.
+    - id: 14
+      question: Welches Spanisch kannte der Golfsport anders als seine traditionellen Länder ?
+      propositions:
+      - Casper
+      - Aaron
+      - Coody
+      - Ballesteros
+      réponse: Ballesteros
+      anecdote: Zwischen 1986 und 1989 war er mehrmals eine der führenden Figuren des Sports seit Mitte der 1970er Jahre.
+    - id: 15
+      question: Was ist die Grenze eines Wasserhindernisses, das ein Loch durchquert ?
+      propositions:
+      - Gelbe Streikposten
+      - Blaue Flagge
+      - Weiße Barriere
+      - Rote Kugel
+      réponse: Gelbe Streikposten
+      anecdote: Eine Route kann Baumteile, Büsche, aber auch Gewässer oder Bäche darstellen, die als Wasserhindernisse bezeichnet werden.
+    - id: 16
+      question: Welcher anglophone Begriff wird im Golf verwendet, wenn Sie einen Schlag unter die Latte machen ?
+      propositions:
+      - Bogey
+      - Albatros
+      - Birdie
+      - Adler
+      réponse: Birdie
+      anecdote: Der Birdie-Putt bedeutet, dass der Spieler einen Birdie aufnimmt, wenn der Ball durch diesen Putt in das Loch fällt.
+    - id: 17
+      question: Welcher Golfstar gewann 1990 das Masters und das British Open ?
+      propositions:
+      - Larry Nelson
+      - Tom Watson
+      - Nick Faldo
+      - Dustin Johnson
+      réponse: Nick Faldo
+      anecdote: 1990 gewann er erneut den Titel European Tour Player of the Year, zu dem er den Titel Player of the Year auf der PGA Tour hinzufügte.
+    - id: 18
+      question: Welcher dieser Vorschläge entspricht nicht dem Namen eines Golfclubs ?
+      propositions:
+      - Adler
+      - Putter
+      - Eisen
+      - Holz
+      réponse: Adler
+      anecdote: Zu Beginn eines Platzes darf ein Golfer maximal vierzehn Schläger mitführen.
+    - id: 19
+      question: Welcher Golfschläger kann den Ball mit einer angespannten Flugbahn weit genug schicken ?
+      propositions:
+      - Holz
+      - Eisen
+      - Hybrid
+      - Putter
+      réponse: Holz
+      anecdote: Die Hölzer existieren in den Größen 1, 3, 5, 7 und 9, können aber bis zu 13 betragen.
+    - id: 20
+      question: Wie wirkt sich ein Golfball darauf aus, dass er beim Aufprall stark verlangsamt wird ?
+      propositions:
+      - Backspin
+      - Haltung
+      - Schaukel
+      - Topspin
+      réponse: Backspin
+      anecdote: Ein Ball mit Backspin, der oft bei Anflügen gegen das Green verwendet wird, fällt ab und geht dann auf einer variablen Distanz zurück.
+  - expert:
+    - id: 21
+      question: In welchem Land wurde Golf 1754 erstmals kodifiziert ?
+      propositions:
+      - Deutschland
+      - Schottland
+      - Australien
+      - Spanien
+      réponse: Schottland
+      anecdote: Diese Sportart wurde 1754 in Schottland vom Royal And Ancient Golf Club in Saint Andrews kodifiziert und hat verschiedene Ursprünge, einschließlich des Postspiels.
+    - id: 22
+      question: Wie viele reguläre Golfer auf der Welt haben wir 2010 gezählt ?
+      propositions:
+      - 82 Millionen
+      - 57 Millionen
+      - 63 Millionen
+      - 74 Millionen
+      réponse: 82 Millionen
+      anecdote: Im späten zwanzigsten Jahrhundert globalisiert, wird Golf weniger von Frauen praktiziert und leidet unter ungleichen Medien und finanzieller Behandlung.
+    - id: 23
+      question: Welcher professionelle Anwalt wurde als Mozart des Golfs bezeichnet ?
+      propositions:
+      - Alec Ross
+      - Bobby Jones
+      - Küken Evans
+      - Alex Smith
+      réponse: Bobby Jones
+      anecdote: Als bester Amateurgolfer im In- und Ausland bestritt er nur 53 Turniere und gewann 23.
+    - id: 24
+      question: In welchem Jahr wurde der erste Pro der British Open gespielt ?
+      propositions:
+      - 1950
+      - 1860
+      - 1890
+      - 1920
+      réponse: 1860
+      anecdote: Das British Open Pro war bis in die 1930er Jahre eines der Grand Slam-Turniere in den 1960er Jahren.
+    - id: 25
+      question: Wie wurde Golf für seine Anfänge in den Niederlanden genannt ?
+      propositions:
+      - Wolf
+      - Rolf
+      - Dolf
+      - Colf
+      réponse: Colf
+      anecdote: Aufgrund des vielen Austauschs zwischen den Niederlanden und Schottland haben die Holländer dieses Spiel exportiert (Kolbe-Urkunde bedeutet konkret).
+    - id: 26
+      question: In welcher Stadt ließ es sich 1627 als erster Hersteller von Golfschlägern nieder ?
+      propositions:
+      - Oslo
+      - Saint Andrews
+      - Dublin
+      - London
+      réponse: Saint Andrews
+      anecdote: Diese schottische Stadt liegt an der Nordseeküste zwischen Edinburgh und Dundee und hat 15.
+    - id: 27
+      question: Wie viele Touristen kommen durchschnittlich jedes Jahr nach Thailand, um Golf zu spielen ?
+      propositions:
+      - 100.000
+      - 200.000
+      - 400.000
+      - 300.000
+      réponse: 400.000
+      anecdote: Thailand hat Golf zu einem touristischen Werbeartikel gemacht, indem es 280 verschiedene Golfplätze anbot.
+    - id: 28
+      question: Welches auf Golfplätzen eingesetzte Pestizid ist in den USA verboten ?
+      propositions:
+      - Diazinon
+      - Firponil
+      - Spinosad
+      - Novaluron
+      réponse: Diazinon
+      anecdote: Diazinon wurde früher verwendet, um das Eindringen von Kakerlaken, Silberfischen, Ameisen und Flöhen zu kontrollieren.
+    - id: 29
+      question: Wie viele Depressionen verkaufen die meisten Golfbälle ?
+      propositions:
+      - 450
+      - 600
+      - 300
+      - 150
+      réponse: 450
+      anecdote: Der Aufprall eines getroffenen Balls (eine Millisekunde) bestimmt die Geschwindigkeit des Balls, seinen Schusswinkel und seine Rotationsgeschwindigkeit.
+    - id: 30
+      question: Was ist der beliebteste weibliche Golfplatz ?
+      propositions:
+      - FGTB
+      - LPGA
+      - CGSP
+      - BKCP
+      réponse: LPGA
+      anecdote: 2017 belief sich die gesamte Golftour für Frauen auf 67 Millionen US-Dollar nach 58 Millionen US-Dollar im Jahr 2008.
+  es:
+  - débutant:
+    - id: 1
+      question: En el golf, ¿qué objeto se usa para enviar la pelota al hoyo ?
+      propositions:
+      - Club
+      - Palo
+      - Crosse
+      - Raqueta
+      réponse: Club
+      anecdote: Cada palo está compuesto por un mango, sin agarre, el jugador de golf vendrá a poner sus manos y una cabeza en contacto con la pelota.
+    - id: 2
+      question: ¿En qué alfabeto está asociada la palabra Golf con la letra G ?
+      propositions:
+      - Semaphore
+      - Gótico
+      - Radio
+      - Fonética
+      réponse: Radio
+      anecdote: Un alfabeto de radio es un código utilizado en la radio, que consiste en representar cada letra del alfabeto con una palabra completa.
+    - id: 3
+      question: ¿Qué deportista dominó el mundo del golf masculino en la década de 2000 ?
+      propositions:
+      - Payne Stewart
+      - Tiger Woods
+      - Curtis extraño
+      - Raymond Floyd
+      réponse: Tiger Woods
+      anecdote: Tras el escándalo sobre sus infidelidades, anunció que se retiraría del circuito de golf profesional por un período indefinido.
+    - id: 4
+      question: ¿Cuántos hoyos tiene un campo de golf típico en general ?
+      propositions:
+      - 12
+      - 14
+      - 16
+      - 18
+      réponse: 18
+      anecdote: En un curso de 9 hoyos, a veces es necesario realizar 9 hoyos en una dirección (ir) y luego en el otro (volver), es decir, un total de 18 hoyos.
+    - id: 5
+      question: En el golf, ¿qué arena puede condimentar considerablemente el juego ?
+      propositions:
+      - Agarre
+      - Cuentagotas
+      - Chip
+      - Búnker
+      réponse: Búnker
+      anecdote: Un campo de golf se cuida con mucho cuidado durante todo el año y especialmente durante la temporada de golf.
+    - id: 6
+      question: ¿Qué nombre se le da al área de césped alrededor del hoyo de golf ?
+      propositions:
+      - Fairway
+      - Áspero
+      - Pre-rugoso
+      - Verde
+      réponse: Verde
+      anecdote: Las áreas reparadas, delimitadas por estacas azules, pueden encontrarse en el campo sin ser parte de él.
+    - id: 7
+      question: ¿Qué jugador apodado The King hizo que el golf fuera muy popular ?
+      propositions:
+      - Arnold Palmer
+      - Martin Kaymer
+      - Justin Rose
+      - Jordan Spieth
+      réponse: Arnold Palmer
+      anecdote: Terminó su carrera en el circuito profesional a los 75 años con una quincuagésima participación consecutiva en el Augusta Masters.
+    - id: 8
+      question: ¿Cuántos tiros estándar se configuran para terminar un hoyo en el golf ?
+      propositions:
+      - Pajarito
+      - Bogey
+      - Por
+      - Águila
+      réponse: Por
+      anecdote: Por lo general, en un curso de 18 hoyos, el par es 72 : este promedio se calcula de acuerdo con el par de cada hoyo.
+    - id: 9
+      question: ¿Quién es la única persona autorizada para asesorar a un jugador en el campo ?
+      propositions:
+      - Carro de compras
+      - Práctica
+      - Eje
+      - Gancho
+      réponse: Carro de compras
+      anecdote: Un caddie está presente para permitir que el jugador se concentre únicamente en su juego evitando la mayoría de las tareas.
+    - id: 10
+      question: ¿Cuál es el idioma oficial del golf, establecido debido a sus orígenes ?
+      propositions:
+      - Español
+      - Aleman
+      - Inglés
+      - Francés
+      réponse: Inglés
+      anecdote: En las reglas del golf, la Federación Francesa de Golf usa los términos en inglés cuando los golfistas los usan.
+  - confirmé:
+    - id: 11
+      question: ¿Qué precursor del golf moderno es apodado The Golden Bear ?
+      propositions:
+      - Michael Campbell
+      - Webb Simpson
+      - Jack Nicklaus
+      - Lucas Glover
+      réponse: Jack Nicklaus
+      anecdote: Fue el desarrollo de la rivalidad de Jack Nicklaus con Arnold Palmer lo que desarrolló cierto interés para los espectadores de golf.
+    - id: 12
+      question: ¿En qué Juegos Olímpicos regresó el golf después de 112 años de ausencia ?
+      propositions:
+      - Londres 2012
+      - Rio 2016
+      - Sydney 2000
+      - Beijing 2008
+      réponse: Rio 2016
+      anecdote: Las competiciones de golf se llevaron a cabo durante los Juegos Olímpicos de París de 1900 y nuevamente en 1904 en Saint-Louis.
+    - id: 13
+      question: ¿Cuántos agujeros contenía el primer curso de Saint Andrews ?
+      propositions:
+      - 22
+      - 26
+      - 34
+      - 30
+      réponse: 22
+      anecdote: El campo tenía veintidós hoyos al principio antes de ser cortado para la construcción de casas.
+    - id: 14
+      question: ¿Qué español sabía el golf aparte de sus países tradicionales ?
+      propositions:
+      - Casper
+      - Ballesteros
+      - Aaron
+      - Coody
+      réponse: Ballesteros
+      anecdote: Numerosas veces en el mundo entre 1986 y 1989, ha sido una de las principales figuras del deporte desde mediados de la década de 1970.
+    - id: 15
+      question: En el golf, ¿cuál es el límite de un obstáculo de agua que cruza un hoyo ?
+      propositions:
+      - Piquete amarillo
+      - Barrera blanca
+      - Bola roja
+      - Bandera azul
+      réponse: Piquete amarillo
+      anecdote: Una ruta puede presentar partes de árboles, arbustos, pero también cuerpos de agua o arroyos que se denominan obstáculos de agua.
+    - id: 16
+      question: En el golf, ¿qué término anglófono se usa si haces un tiro por debajo del par ?
+      propositions:
+      - Bogey
+      - Albatros
+      - Pajarito
+      - Águila
+      réponse: Pajarito
+      anecdote: El putt Birdie significa que si la bola cae en el hoyo como resultado de este putt, el jugador grabará un birdie.
+    - id: 17
+      question: ¿Qué estrella de golf ganó el Masters y el British Open en 1990 ?
+      propositions:
+      - Dustin Johnson
+      - Nick Faldo
+      - Larry Nelson
+      - Tom Watson
+      réponse: Nick Faldo
+      anecdote: Ganó nuevamente en 1990 el título de Jugador del Año del Tour Europeo, al que le agrega el título de Jugador del Año del Tour de la PGA.
+    - id: 18
+      question: ¿Cuál de estas propuestas no corresponde al nombre de un club de golf ?
+      propositions:
+      - Hierro
+      - Putter
+      - Madera
+      - Águila
+      réponse: Águila
+      anecdote: Al comienzo de un curso, un golfista debe llevar un máximo de catorce palos con él: por lo tanto, la elección es decisiva.
+    - id: 19
+      question: ¿Qué club de golf puede enviar la pelota lo suficientemente lejos con una trayectoria tensa ?
+      propositions:
+      - Madera
+      - Putter
+      - Hierro
+      - Híbrido
+      réponse: Madera
+      anecdote: Los bosques existen en tamaños 1, 3, 5, 7 y 9, pero pueden llegar hasta 13.
+    - id: 20
+      question: ¿Qué efecto tiene una pelota de golf en ser fuertemente ralentizada para impactar ?
+      propositions:
+      - Backspin
+      - Columpio
+      - Postura
+      - Topspin
+      réponse: Backspin
+      anecdote: A menudo se usa durante las aproximaciones del green, una pelota con backspin caerá y luego retrocederá a una distancia variable.
+  - expert:
+    - id: 21
+      question: ¿En qué país se codificó por primera vez el golf en 1754 ?
+      propositions:
+      - Escocia
+      - Alemania
+      - España
+      - Australia
+      réponse: Escocia
+      anecdote: Codificado en Escocia en 1754 por el Royal And Ancient Golf Club de Saint Andrews, este deporte tiene varios orígenes, incluido el juego de correo.
+    - id: 22
+      question: ¿Cuántos golfistas regulares en el mundo contamos en 2010 ?
+      propositions:
+      - 63 millones
+      - 74 millones
+      - 57 millones
+      - 82 millones
+      réponse: 82 millones
+      anecdote: Globalizado a fines del siglo XX, el golf es menos practicado por las mujeres y sufre de medios desiguales y tratamiento financiero.
+    - id: 23
+      question: ¿Qué abogado profesional fue apodado el Mozart del golf ?
+      propositions:
+      - Polluelo evans
+      - Bobby Jones
+      - Alec Ross
+      - Alex Smith
+      réponse: Bobby Jones
+      anecdote: El golfista aficionado más exitoso a nivel nacional e internacional, jugó solo 53 torneos y ganó 23.
+    - id: 24
+      question: ¿En qué año se jugó el primer profesional del British Open ?
+      propositions:
+      - 1920
+      - 1950
+      - 1890
+      - 1860
+      réponse: 1860
+      anecdote: Torneo de árbitros hasta la década de 1930, el British Open Pro se convirtió en uno de los torneos de Grand Slam en la década de 1960.
+    - id: 25
+      question: ¿Cómo se inició el golf en Holanda ?
+      propositions:
+      - Lobo
+      - Dolf
+      - Rolf
+      - Colf
+      réponse: Colf
+      anecdote: Debido a los numerosos intercambios entre los Países Bajos y Escocia, los holandeses exportaron este juego (hecho de kolbe que significa concreto).
+    - id: 26
+      question: ¿En qué ciudad se estableció en 1627 el primer fabricante de palos de golf ?
+      propositions:
+      - Dublín
+      - Londres
+      - Saint Andrews
+      - Oslo
+      réponse: Saint Andrews
+      anecdote: Esta ciudad escocesa se encuentra en la costa del Mar del Norte entre Edimburgo y Dundee y tiene una población de 15,000.
+    - id: 27
+      question: ¿Cuántos turistas en promedio vienen a jugar al golf en Tailandia cada año ?
+      propositions:
+      - 400,000
+      - 100,000
+      - 200,000
+      - 300,000
+      réponse: 400,000
+      anecdote: Tailandia ha convertido el golf en un artículo de promoción turística al ofrecerles un catálogo de 280 campos diferentes.
+    - id: 28
+      question: ¿Qué pesticida usado en los campos de golf ha sido prohibido en los Estados Unidos ?
+      propositions:
+      - Diazinon
+      - Spinosad
+      - Novalurón
+      - Firponil
+      réponse: Diazinon
+      anecdote: El diazinón alguna vez se usó para controlar la invasión de cucarachas, peces plateados, hormigas y pulgas.
+    - id: 29
+      question: ¿Cuántas depresiones ponen a la venta la mayoría de las pelotas de golf ?
+      propositions:
+      - 150
+      - 450
+      - 600
+      - 300
+      réponse: 450
+      anecdote: El impacto de una bola de golpe (un milisegundo) determina la velocidad de la bola, su ángulo de fuego y su velocidad de rotación.
+    - id: 30
+      question: ¿Cuál es el campo de golf femenino más popular ?
+      propositions:
+      - CGSP
+      - FGTB
+      - BKCP
+      - LPGA
+      réponse: LPGA
+      anecdote: En 2017, el recorrido total de golf femenino fue de $ 67 millones, en comparación con $ 58 millones en 2008.
+  it:
+  - débutant:
+    - id: 1
+      question: Nel golf, quale oggetto viene utilizzato per mandare la palla nella buca ?
+      propositions:
+      - Racchetta
+      - Bastone
+      - Club
+      - Crosse
+      réponse: Club
+      anecdote: Ogni mazza è composta da una maniglia, una presa in cui verrà il golfista per mettere le mani e una testa a contatto con la palla.
+    - id: 2
+      question: In quale alfabeto è associata la parola Golf alla lettera G ?
+      propositions:
+      - Gotico
+      - Fonetico
+      - Radio
+      - Mappa
+      réponse: Radio
+      anecdote: Un alfabeto radio è un codice utilizzato nella radio, che consiste nel rappresentare ogni lettera dell'alfabeto con un'intera parola.
+    - id: 3
+      question: Quale sportivo ha dominato il mondo del golf maschile negli anni 2000 ?
+      propositions:
+      - Curtis Strange
+      - Tiger Woods
+      - Raymond Floyd
+      - Payne Stewart
+      réponse: Tiger Woods
+      anecdote: A seguito dello scandalo sulle sue infedeltà, ha annunciato che si sarebbe ritirato dal circuito di golf professionale per un periodo indefinito.
+    - id: 4
+      question: Quante buche ha un tipico campo da golf in generale ?
+      propositions:
+      - 18
+      - 14
+      - 16
+      - 12
+      réponse: 18
+      anecdote: In un percorso di 9 buche, a volte è necessario realizzare 9 buche in una direzione (vai) e poi nell'altra (ritorno), per un totale di 18 buche.
+    - id: 5
+      question: Nel golf, quale pezzo di sabbia può rendere il gioco considerevolmente ?
+      propositions:
+      - Impugnatura
+      - Chip
+      - Contagocce
+      - Bunker
+      réponse: Bunker
+      anecdote: Un campo da golf è molto curato durante tutto l'anno e soprattutto durante la stagione golfistica.
+    - id: 6
+      question: Quale nome viene dato all'erba intorno alla buca da golf ?
+      propositions:
+      - Pre-rough
+      - Fairway
+      - Ruvido
+      - Verde
+      réponse: Verde
+      anecdote: Le aree riparate, delimitate da puntate blu, possono incontrarsi sul campo senza farne parte.
+    - id: 7
+      question: Quale giocatore soprannominato The King ha reso il golf molto popolare ?
+      propositions:
+      - Justin Rose
+      - Martin Kaymer
+      - Arnold Palmer
+      - Jordan Spieth
+      réponse: Arnold Palmer
+      anecdote: Ha terminato la sua carriera nel circuito professionale all'età di 75 anni con una cinquantesimo partecipazione consecutiva ai Maestri Augusta.
+    - id: 8
+      question: Quanti tiri standard sono previsti per finire una buca nel golf ?
+      propositions:
+      - Aquila
+      - Bogey
+      - Birdie
+      - Di
+      réponse: Di
+      anecdote: Di solito, su un percorso di 18 buche, il parametro è 72 : questa media viene calcolata in base al parametro di ciascun foro.
+    - id: 9
+      question: Chi è l'unica persona autorizzata a consigliare un giocatore sul campo ?
+      propositions:
+      - Carrello della spesa
+      - Hook
+      - Pratica
+      - Albero
+      réponse: Carrello della spesa
+      anecdote: È presente un carrello per consentire al giocatore di concentrarsi esclusivamente sul suo gioco evitando la maggior parte delle faccende.
+    - id: 10
+      question: Qual è la lingua ufficiale del golf, impostata a causa delle sue origini ?
+      propositions:
+      - Francese
+      - Inglese
+      - Spagnolo
+      - Tedesco
+      réponse: Inglese
+      anecdote: Nelle regole del golf, la Federazione francese del golf usa i termini inglesi quando sono usati dai golfisti.
+  - confirmé:
+    - id: 11
+      question: Quale precursore del golf moderno è soprannominato The Golden Bear ?
+      propositions:
+      - Lucas Glover
+      - Jack Nicklaus
+      - Webb Simpson
+      - Michael Campbell
+      réponse: Jack Nicklaus
+      anecdote: Fu lo sviluppo della rivalità di Jack Nicklaus con Arnold Palmer a suscitare un certo interesse per gli spettatori di golf.
+    - id: 12
+      question: A quali giochi olimpici è tornato il golf dopo 112 anni di assenza ?
+      propositions:
+      - Pechino 2008
+      - Londra 2012
+      - Sydney 2000
+      - Rio 2016
+      réponse: Rio 2016
+      anecdote: Le gare di golf si sono svolte durante le Olimpiadi di Parigi del 1900 e di nuovo nel 1904 a Saint-Louis.
+    - id: 13
+      question: Quante buche contenevano il primo corso di Saint Andrews ?
+      propositions:
+      - 26
+      - 22
+      - 34
+      - 30
+      réponse: 22
+      anecdote: Il percorso aveva ventidue buche all'inizio prima di essere abbattuto per la costruzione di case.
+    - id: 14
+      question: Quale spagnolo conosceva il golf oltre ai suoi paesi tradizionali ?
+      propositions:
+      - Coody
+      - Ballesteros
+      - Casper
+      - Aaron
+      réponse: Ballesteros
+      anecdote: Molte volte un mondo tra il 1986 e il 1989, è stato una delle figure di spicco di questo sport dalla metà degli anni '70.
+    - id: 15
+      question: Nel golf, qual è il limite di un ostacolo d'acqua che attraversa una buca ?
+      propositions:
+      - Picchetto giallo
+      - Bandiera blu
+      - Barriera bianca
+      - Palla rossa
+      réponse: Picchetto giallo
+      anecdote: Un percorso può presentare parti di alberi, cespugli, ma anche corpi idrici o corsi d'acqua che sono chiamati ostacoli d'acqua.
+    - id: 16
+      question: Nel golf, quale termine anglofono viene utilizzato se si effettua un tiro sotto il par ?
+      propositions:
+      - Birdie
+      - Albatro
+      - Bogey
+      - Aquila
+      réponse: Birdie
+      anecdote: Il putt Birdie indica che se la palla cade nella buca a seguito di questo putt, il giocatore registrerà un birdie.
+    - id: 17
+      question: Quale stella del golf ha vinto il Masters e il British Open nel 1990 ?
+      propositions:
+      - Dustin Johnson
+      - Tom Watson
+      - Larry Nelson
+      - Nick Faldo
+      réponse: Nick Faldo
+      anecdote: Ha vinto nuovamente nel 1990 il titolo di Giocatore europeo dell'anno del Tour, a cui aggiunge il titolo di Giocatore dell'anno del tour PGA.
+    - id: 18
+      question: Quale di queste proposte non corrisponde al nome di una mazza da golf ?
+      propositions:
+      - Legno
+      - Aquila
+      - Putter
+      - Ferro
+      réponse: Aquila
+      anecdote: All'inizio di un percorso, un golfista deve portare con sé un massimo di quattordici fiori: la scelta è quindi decisiva.
+    - id: 19
+      question: Quale mazza da golf può mandare la palla abbastanza lontano con una traiettoria tesa ?
+      propositions:
+      - Putter
+      - Ferro
+      - Legno
+      - Ibrido
+      réponse: Legno
+      anecdote: I boschi esistono nelle taglie 1, 3, 5, 7 e 9, ma possono arrivare fino a 13.
+    - id: 20
+      question: Che effetto ha una pallina da golf sul forte rallentamento dell'impatto ?
+      propositions:
+      - Posizione
+      - Topspin
+      - Altalena
+      - Backspin
+      réponse: Backspin
+      anecdote: Spesso usata durante gli avvicinamenti del verde, una palla con la rotazione indietro cadrà e poi tornerà indietro a una distanza variabile.
+  - expert:
+    - id: 21
+      question: In quale paese il golf è stato codificato per la prima volta nel 1754 ?
+      propositions:
+      - Australia
+      - Scozia
+      - Spagna
+      - Germania
+      réponse: Scozia
+      anecdote: Codificato in Scozia nel 1754 dal Royal And Ancient Golf Club di Saint Andrews, questo sport ha origini diverse tra cui il gioco della posta.
+    - id: 22
+      question: Quanti giocatori di golf al mondo abbiamo contato nel 2010 ?
+      propositions:
+      - 63 milioni
+      - 74 milioni
+      - 57 milioni
+      - 82 milioni
+      réponse: 82 milioni
+      anecdote: Globalizzato alla fine del XX secolo, il golf è meno praticato dalle donne e soffre di disparità mediatiche e di trattamento finanziario.
+    - id: 23
+      question: Quale avvocato professionista è stato soprannominato Mozart del golf ?
+      propositions:
+      - Bobby Jones
+      - Alex Smith
+      - Alec Ross
+      - Chick Evans
+      réponse: Bobby Jones
+      anecdote: Il golfista dilettante più abile a livello nazionale e internazionale, ha giocato solo 53 tornei e ha vinto 23.
+    - id: 24
+      question: In quale anno è stato suonato il primo British Open pro ?
+      propositions:
+      - 1920
+      - 1950
+      - 1890
+      - 1860
+      réponse: 1860
+      anecdote: Torneo arbitro fino agli anni '30, il British Open Pro divenne uno dei tornei del Grande Slam negli anni '60.
+    - id: 25
+      question: Come fu chiamato il golf per i suoi inizi nei Paesi Bassi ?
+      propositions:
+      - Rolf
+      - Lupo
+      - Dolf
+      - Colf
+      réponse: Colf
+      anecdote: A causa dei numerosi scambi tra Paesi Bassi e Scozia, gli olandesi hanno esportato questo gioco (atto kolbe che significa concreto).
+    - id: 26
+      question: In quale città si stabilì nel 1627 il primo produttore di mazze da golf ?
+      propositions:
+      - Oslo
+      - Londra
+      - Dublino
+      - Sant'Andrea
+      réponse: Sant'Andrea
+      anecdote: Questa città scozzese si trova sulla costa del Mare del Nord tra Edimburgo e Dundee e ha una popolazione di 15.
+    - id: 27
+      question: Quanti turisti in media vengono a giocare a golf in Thailandia ogni anno ?
+      propositions:
+      - 100.000
+      - 400.000
+      - 300.000
+      - 200.000
+      réponse: 400.000
+      anecdote: La Tailandia ha reso il golf un articolo di promozione turistica offrendo loro un catalogo di 280 corsi diversi.
+    - id: 28
+      question: Quale pesticida utilizzato sui campi da golf è stato vietato negli Stati Uniti ?
+      propositions:
+      - Novaluron
+      - Spinosad
+      - Diazinon
+      - Firponil
+      réponse: Diazinon
+      anecdote: Un tempo il diazinone veniva usato per controllare l'invasione di scarafaggi, pesciolini d'argento, formiche e pulci.
+    - id: 29
+      question: Quante depressioni mettono in vendita la maggior parte delle palline da golf ?
+      propositions:
+      - 450
+      - 150
+      - 600
+      - 300
+      réponse: 450
+      anecdote: L'impatto di una palla colpita (un millisecondo) determina la velocità della palla, il suo angolo di fuoco e la sua velocità di rotazione.
+    - id: 30
+      question: Qual è il campo da golf femminile più popolare ?
+      propositions:
+      - FGTB
+      - CGSP
+      - BKCP
+      - LPGA
+      réponse: LPGA
+      anecdote: Nel 2017, il tour di golf femminile totale è stato di $ 67 milioni, in aumento rispetto ai $ 58 milioni del 2008.
+  nl:
+  - débutant:
+    - id: 1
+      question: Welk object wordt in golf gebruikt om de bal de hole in te sturen ?
+      propositions:
+      - Crosse
+      - Stok
+      - Racket
+      - Club
+      réponse: Club
+      anecdote: Elke club bestaat uit een handvat, een greep waar de golfer zijn handen komt en een hoofd in contact met de bal.
+    - id: 2
+      question: In welk alfabet wordt het woord Golf geassocieerd met de letter G ?
+      propositions:
+      - Semaphore
+      - Radio
+      - Gothic
+      - Fonetisch
+      réponse: Radio
+      anecdote: Een radioalfabet is een code die wordt gebruikt in radio, die bestaat uit het vertegenwoordigen van elke letter van het alfabet door een heel woord.
+    - id: 3
+      question: Welke sportman domineerde de wereld van herengolf in de jaren 2000 ?
+      propositions:
+      - Raymond Floyd
+      - Curtis Strange
+      - Payne Stewart
+      - Tiger Woods
+      réponse: Tiger Woods
+      anecdote: Na het schandaal over zijn ontrouw kondigde hij aan dat hij zich voor onbepaalde tijd zou terugtrekken uit het professionele golfcircuit.
+    - id: 4
+      question: Hoeveel holes heeft een typische golfbaan in het algemeen ?
+      propositions:
+      - 18
+      - 14
+      - 16
+      - 12
+      réponse: 18
+      anecdote: Op een baan van 9 holes is het soms nodig om 9 holes in een richting (go) te realiseren en dan in de andere (return), dat is een totaal van 18 holes.
+    - id: 5
+      question: Welk stuk zand kan het spel in golf aanzienlijk opfleuren ?
+      propositions:
+      - Bunker
+      - Chip
+      - Druppelaar
+      - Grip
+      réponse: Bunker
+      anecdote: Een golfbaan wordt het hele jaar door en met name tijdens het golfseizoen zeer zorgvuldig verzorgd.
+    - id: 6
+      question: Welke naam wordt gegeven aan het grasveld rond het golfgat ?
+      propositions:
+      - Fairway
+      - Ruw
+      - Groen
+      - Pre-ruw
+      réponse: Groen
+      anecdote: Gerepareerde gebieden, begrensd door blauwe palen, kunnen elkaar ontmoeten op de baan zonder er deel van uit te maken.
+    - id: 7
+      question: Welke speler met de bijnaam The King heeft golf erg populair gemaakt ?
+      propositions:
+      - Jordan Spieth
+      - Arnold Palmer
+      - Justin Rose
+      - Martin Kaymer
+      réponse: Arnold Palmer
+      anecdote: Hij beëindigde zijn carrière op het professionele circuit op 75-jarige leeftijd met een vijftigste opeenvolgende deelname aan de Augusta Masters.
+    - id: 8
+      question: Hoeveel standaard foto's zijn er gemaakt om een hole in golf te voltooien ?
+      propositions:
+      - Birdie
+      - Bogey
+      - Door
+      - Eagle
+      réponse: Door
+      anecdote: Gewoonlijk is de par bij een parcours van 18 holes 72 : dit gemiddelde wordt berekend volgens par van elk hole.
+    - id: 9
+      question: Wie is de enige persoon die een speler op het veld mag adviseren ?
+      propositions:
+      - Winkelwagen
+      - Praktijk
+      - As
+      - Hook
+      réponse: Winkelwagen
+      anecdote: Er is een caddie aanwezig zodat de speler zich uitsluitend op zijn spel kan concentreren door de meeste klusjes te vermijden.
+    - id: 10
+      question: Wat is de officiële taal van golf, ingesteld vanwege zijn oorsprong ?
+      propositions:
+      - Duits
+      - Frans
+      - Spaans
+      - Engels
+      réponse: Engels
+      anecdote: In de golfregels gebruikt de Franse Golffederatie de Engelse termen wanneer ze door golfers worden gebruikt.
+  - confirmé:
+    - id: 11
+      question: Welke voorloper van modern golf heeft de bijnaam The Golden Bear ?
+      propositions:
+      - Jack Nicklaus
+      - Michael Campbell
+      - Lucas Glover
+      - Webb Simpson
+      réponse: Jack Nicklaus
+      anecdote: Het was de ontwikkeling van de rivaliteit van Jack Nicklaus met Arnold Palmer die een zekere interesse ontwikkelde voor golfkijkers.
+    - id: 12
+      question: Bij welke Olympische Spelen keerde golf terug na 112 jaar afwezigheid ?
+      propositions:
+      - Beijing 2008
+      - Sydney 2000
+      - Rio 2016
+      - Londen 2012
+      réponse: Rio 2016
+      anecdote: Golfwedstrijden werden gehouden tijdens de Olympische Spelen van Parijs van 1900 en opnieuw in 1904 in Saint-Louis.
+    - id: 13
+      question: Hoeveel gaten bevatten de eerste gang van Saint Andrews ?
+      propositions:
+      - 22
+      - 34
+      - 26
+      - 30
+      réponse: 22
+      anecdote: De baan had in het begin tweeëntwintig holes voordat hij werd ingekort voor de bouw van huizen.
+    - id: 14
+      question: Wat Spaans wist golf buiten zijn traditionele landen ?
+      propositions:
+      - Coody
+      - Aaron
+      - Ballesteros
+      - Casper
+      réponse: Ballesteros
+      anecdote: Talloze tijden een wereld tussen 1986 en 1989, hij is een van de leidende figuren van de sport sinds het midden van de jaren 1970.
+    - id: 15
+      question: Wat is in golf de grens van een waterobstakel dat een hole kruist ?
+      propositions:
+      - Blauwe Vlag
+      - Rode bal
+      - Geel piket
+      - Witte barrière
+      réponse: Geel piket
+      anecdote: Een route kan boomdelen, struiken, maar ook waterlichamen of stromen bevatten die waterhindernissen worden genoemd.
+    - id: 16
+      question: In golf, welke Engelstalige term wordt gebruikt als je een shot maakt onder de maat ?
+      propositions:
+      - Eagle
+      - Birdie
+      - Bogey
+      - Albatros
+      réponse: Birdie
+      anecdote: De Birdie-putt geeft aan dat als de bal in het gat valt als gevolg van deze putt, de speler een birdie zal opnemen.
+    - id: 17
+      question: Welke golfster won de Masters en de British Open in 1990 ?
+      propositions:
+      - Tom Watson
+      - Nick Faldo
+      - Dustin Johnson
+      - Larry Nelson
+      réponse: Nick Faldo
+      anecdote: Hij won in 1990 opnieuw de titel van Europese Tour Speler van het Jaar, waaraan hij de titel van Speler van het Jaar van de PGA Tour toevoegt.
+    - id: 18
+      question: Welke van deze voorstellen komt niet overeen met een naam van een golfclub ?
+      propositions:
+      - Putter
+      - Hout
+      - Eagle
+      - IJzer
+      réponse: Eagle
+      anecdote: Aan het begin van een cursus moet een golfer maximaal veertien clubs bij zich hebben: de keuze is daarom bepalend.
+    - id: 19
+      question: Welke golfclub kan de bal ver genoeg sturen met een gespannen traject ?
+      propositions:
+      - Hybride
+      - Putter
+      - Hout
+      - IJzer
+      réponse: Hout
+      anecdote: Het bos bestaat in de maten 1, 3, 5, 7 en 9, maar kan oplopen tot 13.
+    - id: 20
+      question: Welk effect heeft een golfbal op een sterk vertraagde impact ?
+      propositions:
+      - Swing
+      - Houding
+      - Topspin
+      - Rugspin
+      réponse: Rugspin
+      anecdote: Vaak gebruikt tijdens het naderen van groen, zal een bal met rugspin vallen en dan teruggaan op een variabele afstand.
+  - expert:
+    - id: 21
+      question: In welk land werd golf voor het eerst gecodificeerd in 1754 ?
+      propositions:
+      - Australië
+      - Schotland
+      - Spanje
+      - Duitsland
+      réponse: Schotland
+      anecdote: Gecodificeerd in Schotland in 1754 door de Royal And Ancient Golf Club van Saint Andrews, deze sport heeft verschillende oorsprong, waaronder het spel van post.
+    - id: 22
+      question: Hoeveel reguliere golfers hebben we in 2010 geteld ?
+      propositions:
+      - 57 miljoen
+      - 74 miljoen
+      - 82 miljoen
+      - 63 miljoen
+      réponse: 82 miljoen
+      anecdote: Globalisering in de late twintigste eeuw, golf wordt minder beoefend door vrouwen en lijdt aan ongelijke media en financiële behandeling.
+    - id: 23
+      question: Welke professionele advocaat kreeg de bijnaam Mozart of golf ?
+      propositions:
+      - Alex Smith
+      - Chick Evans
+      - Alec Ross
+      - Bobby Jones
+      réponse: Bobby Jones
+      anecdote: De meest volleerde amateur-golfer nationaal en internationaal, speelde hij slechts 53 toernooien en won 23.
+    - id: 24
+      question: In welk jaar werd de eerste British Open pro gespeeld ?
+      propositions:
+      - 1920
+      - 1950
+      - 1890
+      - 1860
+      réponse: 1860
+      anecdote: Scheidsrechtertoernooi tot de jaren 1930, de British Open Pro werd een van de Grand Slam-toernooien in de jaren 1960.
+    - id: 25
+      question: Hoe werd golf in het begin van Nederland genoemd ?
+      propositions:
+      - Dolf
+      - Wolf
+      - Colf
+      - Rolf
+      réponse: Colf
+      anecdote: Vanwege de vele uitwisselingen tussen Nederland en Schotland hebben de Nederlanders dit spel geëxporteerd (kolbe akte betekent concreet).
+    - id: 26
+      question: In welke stad vestigde het zich in 1627 als eerste fabrikant van golfclubs ?
+      propositions:
+      - Dublin
+      - Londen
+      - Oslo
+      - Saint Andrews
+      réponse: Saint Andrews
+      anecdote: Deze Schotse stad ligt aan de Noordzeekust tussen Edinburgh en Dundee en heeft een bevolking van 15.
+    - id: 27
+      question: Hoeveel toeristen komen er gemiddeld elk jaar golfen in Thailand ?
+      propositions:
+      - 400.000
+      - 100.000
+      - 300.000
+      - 200.000
+      réponse: 400.000
+      anecdote: Thailand heeft van golf een promotieartikel voor toerisme gemaakt door hen een catalogus van 280 verschillende banen aan te bieden.
+    - id: 28
+      question: Welk bestrijdingsmiddel op golfbanen is in de Verenigde Staten verboden ?
+      propositions:
+      - Diazinon
+      - Firponil
+      - Novaluron
+      - Spinosad
+      réponse: Diazinon
+      anecdote: Diazinon werd ooit gebruikt om de invasie van kakkerlakken, zilvervissen, mieren en vlooien te beheersen.
+    - id: 29
+      question: Hoeveel depressies hebben de meeste golfballen te koop ?
+      propositions:
+      - 300
+      - 150
+      - 600
+      - 450
+      réponse: 450
+      anecdote: De impact van een slagbal (één milliseconde) bepaalt de snelheid van de bal, de vuurhoek en de rotatiesnelheid.
+    - id: 30
+      question: Wat is de populairste golfbaan voor dames ?
+      propositions:
+      - BKCP
+      - FGTB
+      - CGSP
+      - LPGA
+      réponse: LPGA
+      anecdote: In 2017 bedroeg de totale golfronde voor dames $ 67 miljoen, vergeleken met $ 58 miljoen in 2008.

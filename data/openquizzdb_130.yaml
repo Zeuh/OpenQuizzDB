@@ -1,0 +1,280 @@
+---
+fournisseur: OpenQuizzDB - Fournisseur de contenu libre (https://www.openquizzdb.org)
+rédacteur: Philippe Bresoux
+thème: Royaume-Uni (So British !)
+difficulté: 3 / 5
+quizz:
+  fr:
+  - débutant:
+    - id: 1
+      question: De quel palais britannique Big Ben est-elle désignée la grande cloche ?
+      propositions:
+      - Winchester
+      - Buckingham
+      - Westminster
+      - Kensington
+      réponse: Westminster
+      anecdote: Le palais borde la rive nord de la Tamise et se situe dans l'arrondissement londonien de la Cité de Westminster.
+    - id: 2
+      question: Quel fleuve du Royaume-Uni possède une longueur totale de 346 kilomètres ?
+      propositions:
+      - Le Tay
+      - La Tamise
+      - Le Spey
+      - La Trent
+      réponse: La Tamise
+      anecdote: L'activité humaine a profité de la Tamise pendant des milliers d'années pour en tirer son eau, sa nourriture et son énergie.
+    - id: 3
+      question: De quelle couleur sont les célèbres LTI, les taxis londoniens ?
+      propositions:
+      - Jaune
+      - Verte
+      - Noire
+      - Rouge
+      réponse: Noire
+      anecdote: La compagnie London Taxis International produit chaque année pas moins de 30 000 nouveaux « taxis noirs ».
+    - id: 4
+      question: Quel ancien premier ministre de Grande-Bretagne appelait-on la « Dame de Fer » ?
+      propositions:
+      - Tessa Jowell
+      - Eleanor Rathbone
+      - Margaret Thatcher
+      - Patricia Hewitt
+      réponse: Margaret Thatcher
+      anecdote: Margaret Thatcher est la plus renommée des leaders politiques britanniques depuis Winston Churchill.
+    - id: 5
+      question: Quel comté du Royaume-Uni a donné son nom à une race de chiens de petite taille ?
+      propositions:
+      - Sussex
+      - Yorkshire
+      - Kent
+      - Rutland
+      réponse: Yorkshire
+      anecdote: Les traits distinctifs de la race sont sa petite taille et son pelage long et soyeux de couleur bleue et feu.
+    - id: 6
+      question: Quelle unité monétaire est principalement utilisée en Grande-Bretagne ?
+      propositions:
+      - Livre tournois
+      - Livre de Jersey
+      - Livre sterling
+      - Livre parisis
+      réponse: Livre sterling
+      anecdote: Bien qu'unité monétaire officielle, il faut toutefois différencier plusieurs livres sterling selon les territoires.
+    - id: 7
+      question: Quel est le prénom de la seconde épouse du prince de Galles ?
+      propositions:
+      - Diana
+      - Samantha
+      - Camilla
+      - Claudia
+      réponse: Camilla
+      anecdote: Son Altesse Royale, la duchesse de Cornouailles, est donc promise à devenir reine du Royaume-Uni.
+    - id: 8
+      question: À quel auteur britannique doit-on le roman « Dix petits nègres » ?
+      propositions:
+      - Mary Stewart
+      - Arthur Conan Doyle
+      - Agatha Christie
+      - Peter James
+      réponse: Agatha Christie
+      anecdote: Avec plus de 100 millions de copies, ce livre est un des ouvrages les plus vendus des romans d'Agatha Christie.
+    - id: 9
+      question: À Londres, où êtes-vous si vous circulez dans le Tube ?
+      propositions:
+      - Dans le métro
+      - Dans le train
+      - Dans le bus
+      - Dans le taxi
+      réponse: Dans le métro
+      anecdote: Ouvert en 1863, le métro de Londres ou « London Underground » est le plus vieux métro du monde.
+    - id: 10
+      question: De quelle couleur sont la plupart des boîtes aux lettres londoniennes depuis 1874 ?
+      propositions:
+      - Rouge
+      - Jaune
+      - Bleue
+      - Verte
+      réponse: Rouge
+      anecdote: Dans de nombreux pays, l'emplacement et les dimensions d'une boîte aux lettres sont souvent réglementées.
+  - confirmé:
+    - id: 11
+      question: À Londres, quel édifice porte le nom de « Sir Benjamin Hall » ?
+      propositions:
+      - Old Bailey
+      - Kew Palace
+      - Syon House
+      - Big Ben
+      réponse: Big Ben
+      anecdote: Seules les personnes qui habitent au Royaume-Uni peuvent visiter Big Ben, après avoir obtenu une autorisation.
+    - id: 12
+      question: Qui détient le rôle principal dans la série télévisée britannique « Inspecteur Barnaby » ?
+      propositions:
+      - Paolo Seganti
+      - Anthony LaPaglia
+      - Emily Deschanel
+      - John Nettles
+      réponse: John Nettles
+      anecdote: Cette série, diffusée sur le réseau ITV, arrive à dépeindre une Angleterre authentique bien qu'imaginaire.
+    - id: 13
+      question: Quel est le plus grand parc du centre de Londres en terme de superficie ?
+      propositions:
+      - Kensington Gardens
+      - Green Park
+      - Russell Square
+      - Hyde Park
+      réponse: Hyde Park
+      anecdote: La plus ancienne partie du parc appartenait au manoir d'Ebury et avait une superficie d'un « hide ».
+    - id: 14
+      question: Quelle est la ville britannique la plus proche du continent européen ?
+      propositions:
+      - Belfast
+      - Southampton
+      - Plymouth
+      - Douvres
+      réponse: Douvres
+      anecdote: Située au bord de la Manche, Douvres est une ville portuaire du comté du Kent, dans le Sud-Est de l'Angleterre.
+    - id: 15
+      question: Combien de fois Winston Churchill a-t-il été nommé premier ministre anglais ?
+      propositions:
+      - Deux fois
+      - Trois fois
+      - Une fois
+      - Quatre fois
+      réponse: Deux fois
+      anecdote: À sa mort, la reine le gratifie d'obsèques nationales qui rassembleront de très nombreux hommes d'État.
+    - id: 16
+      question: Quel ingrédient principal compose la très britannique marmelade ?
+      propositions:
+      - Les citrons
+      - Les poires
+      - Les pommes
+      - Les oranges amères
+      réponse: Les oranges amères
+      anecdote: Une marmelade était à l'origine une confiture de coing (devant du mot « marmelo » en portugais).
+    - id: 17
+      question: Quel groupe de musique anglais est mené par le chanteur Jay Kay ?
+      propositions:
+      - Brown Starr
+      - Jamiroquai
+      - Blacknuss
+      - Chuff Nutts
+      réponse: Jamiroquai
+      anecdote: Aujourd'hui, le groupe a acquis une renommée mondiale, tout en ayant su faire évoluer sa musique.
+    - id: 18
+      question: À quel parti politique anglais appartenait Margaret Thatcher ?
+      propositions:
+      - Travailliste
+      - Socialiste
+      - Libéral
+      - Conservateur
+      réponse: Conservateur
+      anecdote: Margaret Thatcher reste fortement associée à la « révolution conservatrice » des années 1980.
+    - id: 19
+      question: Combien y a-t-il de triangles bleus sur le drapeau du Royaume-Uni ?
+      propositions:
+      - 10
+      - 8
+      - 12
+      - 6
+      réponse: 8
+      anecdote: Le drapeau du Royaume-Uni est également appelé « Union Flag » ou « Union Jack ».
+    - id: 20
+      question: Dans quelle ville anglaise les habitants sont-ils appelés les Mancuniens ?
+      propositions:
+      - Chester
+      - Coventry
+      - Manchester
+      - Cambridge
+      réponse: Manchester
+      anecdote: Le terme « Manchester » est utilisé pour désigner à la fois l'agglomération et la ville-centre elle-même.
+  - expert:
+    - id: 21
+      question: En quelle année la première ligne du métro londonien a-t-elle été inaugurée ?
+      propositions:
+      - 1872
+      - 1869
+      - 1879
+      - 1863
+      réponse: 1863
+      anecdote: Un second réseau, le Docklands Light Railway, dessert également l'agglomération de Londres (les Docklands et la City).
+    - id: 22
+      question: Quel musicien anglais a composé la musique du film « Birdy » ?
+      propositions:
+      - Clint Mansell
+      - David Arnold
+      - Peter Gabriel
+      - Michael Nyman
+      réponse: Peter Gabriel
+      anecdote: Peter Gabriel est aussi un producteur britannique de disques par le biais de son label Real World.
+    - id: 23
+      question: Quelle abbaye constitue un reliquaire de toutes les époques du gothique anglais ?
+      propositions:
+      - Westminster
+      - Malmesbury
+      - Glastonbury
+      - Melrose
+      réponse: Westminster
+      anecdote: L'abbaye est le lieu de sépulture d'une partie des rois et reines d'Angleterre et aussi des hommes et des femmes célèbres.
+    - id: 24
+      question: Quel célèbre site préhistorique semble être un sanctuaire du culte solaire ?
+      propositions:
+      - Silbury Hill
+      - Blaenavon
+      - Greenwich
+      - Stonehenge
+      réponse: Stonehenge
+      anecdote: Aujourd'hui, seul 40% du site néolithique subsiste, attirant chaque année près d'un million de touristes.
+    - id: 25
+      question: Quel ancien nom était jadis donné à la Grande-Bretagne ?
+      propositions:
+      - Alberton
+      - Albano
+      - Albini
+      - Albion
+      réponse: Albion
+      anecdote: Le nom « Albion » une hellénisation renaissante du nom antique de la Grande-Bretagne, Alba.
+    - id: 26
+      question: Que vous fournira-t-on avec le sel pour mettre sur vos frites en Angleterre ?
+      propositions:
+      - Du sucre
+      - Du sirop
+      - Du lait
+      - Du vinaigre
+      réponse: Du vinaigre
+      anecdote: La plupart des frites consommées dans le monde sont des frites surgelées produites industriellement.
+    - id: 27
+      question: Quel plongeur britannique s'est marié deux ans après son coming out ?
+      propositions:
+      - Tom Daley
+      - Chris Mears
+      - Brian Phelps
+      - Jack Laugher
+      réponse: Tom Daley
+      anecdote: Sa déclaration a été favorablement accueillie, constituant même un « modèle pour la communauté LGBT ».
+    - id: 28
+      question: De quelle discipline la revue britannique « The Lancet » traite-t-elle ?
+      propositions:
+      - Science médicale
+      - Physique et chimie
+      - Astronomie
+      - Aviation
+      réponse: Science médicale
+      anecdote: Le premier numéro date du 5 octobre 1823 et a été lancé par Thomas Wakley qui éditera la revue jusqu'à sa mort.
+    - id: 29
+      question: Quel endroit est souvent considéré comme étant le « coeur de Londres » ?
+      propositions:
+      - Trafalgar Square
+      - Covent Garden
+      - Oxford Street
+      - Charing Cross
+      réponse: Charing Cross
+      anecdote: Les distances calculées depuis Londres se font à partir de la statue équestre de Charles Ier, située au centre de Charing Cross.
+    - id: 30
+      question: Dans quelle ville anglaise se trouve le stade de football Old Trafford ?
+      propositions:
+      - Manchester
+      - Birmingham
+      - Lancaster
+      - Liverpool
+      réponse: Manchester
+      anecdote: Construit en 1909, le stade est la résidence de Manchester United depuis 1910, à l'exception de la période 1941 à 1949.

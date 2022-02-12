@@ -1,0 +1,1650 @@
+---
+fournisseur: OpenQuizzDB - Fournisseur de contenu libre (https://www.openquizzdb.org)
+rédacteur: Philippe Bresoux
+thème: Jardin japonais (Interpréter et idéaliser la nature)
+difficulté: 4 / 5
+quizz:
+  fr:
+  - débutant:
+    - id: 1
+      question: Sur combien de grands principes est composé un jardin japonais ?
+      propositions:
+      - Six
+      - Trois
+      - Cinq
+      - Quatre
+      réponse: Trois
+      anecdote: Les trois grands principes du jardin japonais sont la reproduction de la nature en miniature, le symbolisme et la capture de paysages.
+    - id: 2
+      question: Quelle caractéristique est importante dans la plupart des styles japonais ?
+      propositions:
+      - Gigantisme
+      - Horizontalité
+      - Simplicité
+      - Provocation
+      réponse: Simplicité
+      anecdote: La miniaturisation a pour but la représentation de scènes dans un espace restreint, opérant aussi sur une réduction de la complexité.
+    - id: 3
+      question: Quelle technique donne l'illusion d'espace à certaines zones du jardin ?
+      propositions:
+      - Asymétrie
+      - Dissimulation
+      - Perspective
+      - Symbolisme
+      réponse: Perspective
+      anecdote: Au contraire de la perspective occidentale, la perspective du jardin japonais repose sur le principe des trois profondeurs.
+    - id: 4
+      question: Historiquement, comment est transmis l'enseignement des techniques ?
+      propositions:
+      - Oralement
+      - Via des estampes
+      - Par écrit
+      - En sanscrit
+      réponse: Oralement
+      anecdote: L'art du jardinage est religieux et ésotérique. Transmis oralement par un maître à ses élèves, les manuels sont secrètement conservés.
+    - id: 5
+      question: Quels poissons les étendues d'eau contiennent-elles fréquemment ?
+      propositions:
+      - Tanche de Mongolie
+      - Carpes koï
+      - Gardon
+      - Esturgeon blanc
+      réponse: Carpes koï
+      anecdote: Très prisé et élevé en Chine, en Corée et au Japon, ce poisson d'eau douce a été obtenu à partir de croisements de la Carpe commune.
+    - id: 6
+      question: Dans un jardin japonais sec, par quoi l'eau est-elle représentée ?
+      propositions:
+      - Feuilles
+      - Graviers
+      - Terres
+      - Branches
+      réponse: Graviers
+      anecdote: Découverts en Chine, les kaolins sont des argiles blanches, friables et réfractaires, composées principalement de kaolinite.
+    - id: 7
+      question: Comment sont systématiquement conçus les jardins japonais ?
+      propositions:
+      - Sur un étang
+      - Ouverts
+      - Clos
+      - Suspendus
+      réponse: Clos
+      anecdote: La notion de grands espaces ouverts, comme les pelouses du château de Versailles, est étrangère à l'esthétique japonaise.
+    - id: 8
+      question: Quel passe-pied fut imaginé par les maîtres de la cérémonie du thé ?
+      propositions:
+      - Rond chinois
+      - Cercle indien
+      - Pas japonais
+      - Marche coréenne
+      réponse: Pas japonais
+      anecdote: Permettant de relier le pavillon du thé en traversant le jardin sans salir son kimono, il permet de circuler à travers les massifs.
+    - id: 9
+      question: Quelle technique a pour but le miegakure ou le « cacher et révéler » ?
+      propositions:
+      - Asymétrie
+      - Symbolisme
+      - Dissimulation
+      - Perspective
+      réponse: Dissimulation
+      anecdote: Le miegakure utilise la végétation, les bâtiments et le décor comme des lanternes pour cacher ou montrer différentes parties du jardin.
+    - id: 10
+      question: Quel élément du jardin joue un rôle purificateur dans le shintoïsme ?
+      propositions:
+      - Eau
+      - Sable
+      - Pierre
+      - Bois
+      réponse: Eau
+      anecdote: L'eau a également joué un rôle esthétique dès la conception des premiers jardins, fortement inspirés des jardins chinois.
+  - confirmé:
+    - id: 11
+      question: Quel principe est issu de la fonction religieuse des premiers proto-jardins ?
+      propositions:
+      - Symbolisme
+      - Asymétrie
+      - Dissimulation
+      - Perspective
+      réponse: Symbolisme
+      anecdote: Parmi les représentations symboliques fréquentes on retrouve le mont Shumisen du bouddhisme ou le mont Horai du taoïsme.
+    - id: 12
+      question: Combien de plans utilise la technique des « paysages empruntés » ?
+      propositions:
+      - Cinq
+      - Six
+      - Trois
+      - Quatre
+      réponse: Quatre
+      anecdote: L'avant-plan, mineur, le second plan, positionné avec soin, le troisième plan qui limite le terrain et le paysage emprunté lui-même.
+    - id: 13
+      question: Autour de quoi un jardin japonais est-il souvent organisé ?
+      propositions:
+      - Arbre
+      - Bâtiment
+      - Montagne
+      - Étang
+      réponse: Bâtiment
+      anecdote: Au-delà de l'architecture propre au bâtiment (une résidence ou un temple), on retrouve la plupart des éléments de nombreux jardins.
+    - id: 14
+      question: De quelle matière sont traditionnellement faites les lanternes des jardins ?
+      propositions:
+      - Pierre
+      - Bambou
+      - Porcelaine
+      - Bois
+      réponse: Pierre
+      anecdote: Comme beaucoup d'autres éléments de l'architecture traditionnelle japonaise, le toro est une lanterne originaire de Chine.
+    - id: 15
+      question: Quel rôle essentiel jouent les rochers dans les jardins japonais ?
+      propositions:
+      - Tremplin du monde
+      - Cache misère
+      - Signe de sagesse
+      - Abri des esprits
+      réponse: Abri des esprits
+      anecdote: Les rochers apportent une forte note organique au dessein d'ensemble et sont regroupés à la manière de sculptures.
+    - id: 16
+      question: Quelles roches d'aspect brut symbolisent souvent des montagnes ?
+      propositions:
+      - Friables
+      - Sédimentaires
+      - Métamorphiques
+      - Magmatiques
+      réponse: Magmatiques
+      anecdote: Les roches magmatiques, d'aspect plutôt brut, servent également de pierres de gué, mais ont surtout un accent fort.
+    - id: 17
+      question: Sur quel élément du jardin japonais dessine-t-on des motifs ?
+      propositions:
+      - Feuille morte
+      - Sable ou gravier
+      - Eau stagnante
+      - Terre glaise
+      réponse: Sable ou gravier
+      anecdote: Les motifs ondulants tracés sur le sable donnent une impression de mouvement, et offrent un contraste net avec les rochers.
+    - id: 18
+      question: Quel principe évite qu'un objet ne déséquilibre la composition d'un jardin ?
+      propositions:
+      - Triangulation
+      - Asymétrie
+      - Géométrie
+      - Horizontalité
+      réponse: Asymétrie
+      anecdote: Le principe d'asymétrie associe le spectateur à la composition, en incitant à parcourir du regard d'un point intéressant au suivant.
+    - id: 19
+      question: Quels jardins japonais sont essentiellement destinés à la méditation ?
+      propositions:
+      - Jardins flottants
+      - Jardins miniatures
+      - Jardins de thé
+      - Jardins secs
+      réponse: Jardins secs
+      anecdote: Ils utilisent une représentation plus abstraite, où du sable ou du gravier figure la mer, et des rochers symbolisent des montagnes.
+    - id: 20
+      question: De quoi sont généralement dépourvus la plupart des jardins secs ?
+      propositions:
+      - Mousse
+      - Graviers
+      - Sable
+      - Plantes
+      réponse: Plantes
+      anecdote: De nombreux jardins secs ont été créés dans les monastères et les temples zen, d'où leur nom courant de jardin zen.
+  - expert:
+    - id: 21
+      question: Quel jardin japonais est situé à Kanazawa, dans la préfecture d'Ishikawa ?
+      propositions:
+      - Maruyama
+      - Aramaki
+      - Murin-an
+      - Kenroku-en
+      réponse: Kenroku-en
+      anecdote: Avec le Kairaku-en de Mito et le Koraku-en d'Okayama, le Kenroku-en est l'un des trois jardins les plus célèbres du Japon.
+    - id: 22
+      question: Sous quelle forme les plans d'eau des jardins japonais sont-ils souvent dessinés ?
+      propositions:
+      - En cercle
+      - En huit
+      - Ovale
+      - Sinogramme
+      réponse: Sinogramme
+      anecdote: Les caractères chinois (ou sinogrammes) forment le plus ancien système d'écriture qui soit resté d'un usage continu.
+    - id: 23
+      question: Quel conifère représente la longévité dans un jardin japonais ?
+      propositions:
+      - Bouleau
+      - Chêne
+      - Hêtre
+      - Pin
+      réponse: Pin
+      anecdote: Un grand nombre d'espèces de pins peuvent vivre très longtemps, une douzaine d'espèces pouvant atteindre jusque 1 000 ans.
+    - id: 24
+      question: Quel jardin est considéré comme le plus vaste jardin japonais d'Europe ?
+      propositions:
+      - Séricourt
+      - Malmaison
+      - Maulévrier
+      - Charance
+      réponse: Maulévrier
+      anecdote: Situé en France, organisé autour d'un lac artificiel alimenté par la Moine qui le traverse, il contient les espèces d'environ 300 plantes.
+    - id: 25
+      question: Historiquement, sur quelle île sont apparus les différents styles de jardins ?
+      propositions:
+      - Shikoku
+      - Sado
+      - Honshu
+      - Amani
+      réponse: Honshu
+      anecdote: Honshu (littéralement province principale) est la plus grande île du Japon, autrefois connue en Occident sous le nom Hondo.
+    - id: 26
+      question: Quels types de jardins japonais sont portés sur une simplicité extrême ?
+      propositions:
+      - Jardins miniatures
+      - Jardins de thé
+      - Jardins secs
+      - Jardins flottants
+      réponse: Jardins de thé
+      anecdote: La classification traditionnelle regroupe les jardins japonais en trois grandes catégories, dont font partie les jardins à thé.
+    - id: 27
+      question: Qu'emprunte-t-on généralement pour accéder à un jardin de thé ?
+      propositions:
+      - Ligne de lune
+      - Chemin de rosée
+      - Tracé des rois
+      - Terre de cendres
+      réponse: Chemin de rosée
+      anecdote: Ce nom fait allusion à un sûtra parlant d'un tel chemin où l'on renaît après avoir échappé aux désirs matériels.
+    - id: 28
+      question: Quel jardin japonais se trouve sur un banc de sable au milieu du fleuve Asahi ?
+      propositions:
+      - Koraku-en
+      - Murin-an
+      - Daigo-ji
+      - Isahaya
+      réponse: Koraku-en
+      anecdote: Le Korakuen, finalisé en 1863, a été construit en 1700 à la demande de Ikeda Tsunamasa, daimyo d'Okayama.
+    - id: 29
+      question: En Belgique, quel jardin japonais résulte d'une collaboration avec la ville d'Itami ?
+      propositions:
+      - Jardin de Hasselt
+      - Jardin de Leuze
+      - Jardin de Verviers
+      - Jardin de Mons
+      réponse: Jardin de Hasselt
+      anecdote: Hasselt offrit à Itami en novembre 1991 une tour à carillon, et Hasselt se vit offrir un jardin japonais, symbole d'amitié.
+    - id: 30
+      question: Quel est le plus connu des jardins japonais sur le continent américain ?
+      propositions:
+      - Lima
+      - Caracas
+      - Santiago
+      - Buenos Aires
+      réponse: Buenos Aires
+      anecdote: Le jardin a été aménagé à l'occasion de la visite en Argentine du Prince héritier de l'époque Akihito, actuel Empereur du Japon.
+  en:
+  - débutant:
+    - id: 1
+      question: How many main principles is a Japanese garden made up of ?
+      propositions:
+      - Five
+      - Six
+      - Three
+      - Four
+      réponse: Three
+      anecdote: The three main principles of the Japanese garden are the reproduction of nature in miniature, symbolism and the capture of landscapes.
+    - id: 2
+      question: What characteristic is important in most Japanese styles ?
+      propositions:
+      - Horizontality
+      - Gigantism
+      - Provocation
+      - Simplicity
+      réponse: Simplicity
+      anecdote: Miniaturization aims to represent scenes in a limited space, also operating on a reduction of complexity.
+    - id: 3
+      question: What technique can we give the illusion of space to certain areas of the garden ?
+      propositions:
+      - Concealment
+      - Symbolism
+      - Perspective
+      - Asymmetry
+      réponse: Perspective
+      anecdote: Unlike the Western perspective, the Japanese garden perspective is based on the three depths principle.
+    - id: 4
+      question: Historically, how is the teaching of techniques transmitted ?
+      propositions:
+      - Orally
+      - Via prints
+      - In Sanskrit
+      - In writing
+      réponse: Orally
+      anecdote: The art of gardening is religious and esoteric.
+    - id: 5
+      question: What fish do bodies of water frequently contain ?
+      propositions:
+      - Koi carp
+      - Gardon
+      - White sturgeon
+      - Mongolian Tench
+      réponse: Koi carp
+      anecdote: Highly prized and bred in China, Korea and Japan, this freshwater fish was obtained from crossbreeds of Common Carp.
+    - id: 6
+      question: In a dry Japanese garden, what is water represented by ?
+      propositions:
+      - Leaves
+      - Branches
+      - Land
+      - Gravel
+      réponse: Gravel
+      anecdote: Discovered in China, kaolins are white, friable and refractory clays, mainly composed of kaolinite.
+    - id: 7
+      question: How are Japanese gardens systematically designed ?
+      propositions:
+      - Closed
+      - Open
+      - Hanging
+      - On a pond
+      réponse: Closed
+      anecdote: The notion of large open spaces, like the lawns of the Palace of Versailles, is foreign to the Japanese aesthetic.
+    - id: 8
+      question: What pass was imagined by the masters of the tea ceremony ?
+      propositions:
+      - Not Japanese
+      - Chinese round
+      - Indian circle
+      - Korean March
+      réponse: Not Japanese
+      anecdote: Allowing you to connect the tea pavilion by crossing the garden without soiling your kimono, it allows you to move through the beds.
+    - id: 9
+      question: What technique does the miegakure aim to hide and reveal ?
+      propositions:
+      - Perspective
+      - Asymmetry
+      - Concealment
+      - Symbolism
+      réponse: Concealment
+      anecdote: The miegakure uses vegetation, buildings and scenery as lanterns to hide or show different parts of the garden.
+    - id: 10
+      question: What element of the garden plays a purifying role in Shintoism ?
+      propositions:
+      - Sand
+      - Wood
+      - Stone
+      - Water
+      réponse: Water
+      anecdote: Water also played an aesthetic role from the design of the first gardens, strongly inspired by Chinese gardens.
+  - confirmé:
+    - id: 11
+      question: What principle came from the religious function of the first proto-gardens ?
+      propositions:
+      - Perspective
+      - Symbolism
+      - Concealment
+      - Asymmetry
+      réponse: Symbolism
+      anecdote: Among the frequent symbolic representations we find Mount Shumisen of Buddhism or Mount Horai of Taoism.
+    - id: 12
+      question: How many shots does the borrowed landscape technique use ?
+      propositions:
+      - Four
+      - Three
+      - Five
+      - Six
+      réponse: Four
+      anecdote: The foreground, minor, the second plan, carefully positioned, the third plan which limits the terrain and the borrowed landscape itself.
+    - id: 13
+      question: Around what is a Japanese garden often organized ?
+      propositions:
+      - Building
+      - Mountain
+      - Pond
+      - Tree
+      réponse: Building
+      anecdote: Beyond the architecture specific to the building (a residence or a temple), we find most of the elements of many gardens.
+    - id: 14
+      question: What material are garden lanterns traditionally made of ?
+      propositions:
+      - Bamboo
+      - Porcelain
+      - Stone
+      - Wood
+      réponse: Stone
+      anecdote: Like many other elements of traditional Japanese architecture, the toro is a lantern that originated in China.
+    - id: 15
+      question: What essential role do rocks play in Japanese gardens ?
+      propositions:
+      - Sign of wisdom
+      - Springboard of the world
+      - Misery cache
+      - Shelter of the Spirits
+      réponse: Shelter of the Spirits
+      anecdote: The rocks bring a strong organic note to the overall design and are grouped together like sculptures.
+    - id: 16
+      question: What rough looking rocks often symbolize mountains ?
+      propositions:
+      - Sedimentary
+      - Friable
+      - Metamorphic
+      - Magmatic
+      réponse: Magmatic
+      anecdote: The magmatic rocks, of rather raw appearance, also serve as stepping stones, but above all have a strong accent.
+    - id: 17
+      question: What element of the Japanese garden are patterns drawn on ?
+      propositions:
+      - Stagnant water
+      - Sand or gravel
+      - Dead leaf
+      - Clay
+      réponse: Sand or gravel
+      anecdote: The undulating patterns drawn on the sand give an impression of movement, and offer a clear contrast with the rocks.
+    - id: 18
+      question: What principle prevents an object from unbalancing the composition of a garden ?
+      propositions:
+      - Triangulation
+      - Asymmetry
+      - Horizontality
+      - Geometry
+      réponse: Asymmetry
+      anecdote: The principle of asymmetry associates the viewer with the composition, encouraging them to glance from one interesting point to the next.
+    - id: 19
+      question: Which Japanese gardens are primarily intended for meditation ?
+      propositions:
+      - Miniature gardens
+      - Tea gardens
+      - Dry gardens
+      - Floating gardens
+      réponse: Dry gardens
+      anecdote: They use a more abstract representation, where sand or gravel represents the sea, and rocks symbolize mountains.
+    - id: 20
+      question: What are most dry gardens usually lacking ?
+      propositions:
+      - Sand
+      - Gravel
+      - Plants
+      - Foam
+      réponse: Plants
+      anecdote: Many dry gardens have been created in monasteries and Zen temples, hence their common name of Zen garden.
+  - expert:
+    - id: 21
+      question: Which Japanese garden is located in Kanazawa, Ishikawa Prefecture ?
+      propositions:
+      - Murin-an
+      - Kenroku-en
+      - Aramaki
+      - Maruyama
+      réponse: Kenroku-en
+      anecdote: Along with Mito's Kairaku-en and Okayama's Koraku-en, Kenroku-en is one of Japan's three most famous gardens.
+    - id: 22
+      question: In what form are the bodies of water in Japanese gardens often drawn ?
+      propositions:
+      - In eight
+      - Sinogramme
+      - Oval
+      - In a circle
+      réponse: Sinogramme
+      anecdote: Chinese characters (or sinograms) form the oldest writing system that has remained in continuous use.
+    - id: 23
+      question: Which conifer represents longevity in a Japanese garden ?
+      propositions:
+      - Beech
+      - Birch
+      - Pine
+      - Oak
+      réponse: Pine
+      anecdote: A large number of species of pine can live very long, a dozen species reaching up to 1000 years.
+    - id: 24
+      question: Which garden is considered the largest Japanese garden in Europe ?
+      propositions:
+      - Maulevrier
+      - Séricourt
+      - Malmaison
+      - Charance
+      réponse: Maulevrier
+      anecdote: Located in France, organized around an artificial lake fed by the Monk who crosses it, it contains the species of about 300 plants.
+    - id: 25
+      question: Historically, on which island did the different styles of gardens appear ?
+      propositions:
+      - Honshu
+      - Sado
+      - Shikoku
+      - Amani
+      réponse: Honshu
+      anecdote: Honshu (literally the main province) is the largest island in Japan, once known in the West as Hondo.
+    - id: 26
+      question: What types of Japanese gardens are brought to extreme simplicity ?
+      propositions:
+      - Dry gardens
+      - Floating gardens
+      - Tea gardens
+      - Miniature gardens
+      réponse: Tea gardens
+      anecdote: The traditional classification groups Japanese gardens into three main categories, which include tea gardens.
+    - id: 27
+      question: What do you usually borrow to access a tea garden ?
+      propositions:
+      - Land of ashes
+      - Dew path
+      - Moon line
+      - Track of the Kings
+      réponse: Dew path
+      anecdote: This name alludes to a sutra speaking of such a path where one is reborn after having escaped material desires.
+    - id: 28
+      question: Which Japanese garden is on a sandbar in the middle of the Asahi River ?
+      propositions:
+      - Daigo-ji
+      - Murin-an
+      - Isahaya
+      - Koraku-en
+      réponse: Koraku-en
+      anecdote: The Korakuen, completed in 1863, was built in 1700 at the request of Ikeda Tsunamasa, daimyo of Okayama.
+    - id: 29
+      question: In Belgium, which Japanese garden results from a collaboration with the city of Itami ?
+      propositions:
+      - Garden of Verviers
+      - Mons Garden
+      - Leuze Garden
+      - Hasselt Garden
+      réponse: Hasselt Garden
+      anecdote: Hasselt offered Itami in November 1991 a carillon tower, and Hasselt was offered a Japanese garden, a symbol of friendship.
+    - id: 30
+      question: What is the most famous Japanese garden in the Americas ?
+      propositions:
+      - Santiago
+      - Caracas
+      - Buenos Aires
+      - Lima
+      réponse: Buenos Aires
+      anecdote: The garden was created on the occasion of the visit to Argentina of the then Crown Prince Akihito, current Emperor of Japan.
+  de:
+  - débutant:
+    - id: 1
+      question: Aus wie vielen Hauptprinzipien besteht ein japanischer Garten ?
+      propositions:
+      - Vier
+      - Drei
+      - Fünf
+      - Sechs
+      réponse: Drei
+      anecdote: Die drei Hauptprinzipien des japanischen Gartens sind die Reproduktion der Natur in Miniatur, Symbolik und die Erfassung von Landschaften.
+    - id: 2
+      question: Welche Eigenschaft ist in den meisten japanischen Stilen wichtig ?
+      propositions:
+      - Provokation
+      - Gigantismus
+      - Horizontalität
+      - Einfachheit
+      réponse: Einfachheit
+      anecdote: Die Miniaturisierung zielt darauf ab, Szenen auf engstem Raum darzustellen, wobei auch die Komplexität reduziert wird.
+    - id: 3
+      question: Mit welcher Technik können wir bestimmten Bereichen des Gartens die Illusion von Raum geben ?
+      propositions:
+      - Verschleierung ","Dissimulation
+      - Asymmetrie
+      - Symbolik
+      - Perspektive
+      réponse: Perspektive
+      anecdote: Im Gegensatz zur westlichen Perspektive basiert die japanische Gartenperspektive auf dem Drei-Tiefen-Prinzip.
+    - id: 4
+      question: Wie wird historisch die Vermittlung von Techniken vermittelt ?
+      propositions:
+      - Mündlich
+      - Über Drucke
+      - Schriftlich
+      - In Sanskrit
+      réponse: Mündlich
+      anecdote: Die Kunst des Gartens ist religiös und esoterisch.
+    - id: 5
+      question: Welche Fische enthalten Gewässer häufig ?
+      propositions:
+      - Koi Karpfen
+      - Gardon
+      - Weißer Stör
+      - Mongolische Schleie
+      réponse: Koi Karpfen
+      anecdote: Dieser in China, Korea und Japan hoch geschätzte und gezüchtete Süßwasserfisch wurde aus Kreuzungen von Karpfen gewonnen.
+    - id: 6
+      question: Was bedeutet Wasser in einem trockenen japanischen Garten ?
+      propositions:
+      - Blätter
+      - Zweige
+      - Land
+      - Kies
+      réponse: Kies
+      anecdote: In China entdeckte Kaoline sind weiße, bröckelige und feuerfeste Tone, die hauptsächlich aus Kaolinit bestehen.
+    - id: 7
+      question: Wie werden japanische Gärten systematisch gestaltet ?
+      propositions:
+      - Hängend
+      - Öffnen Sie
+      - Geschlossen
+      - Auf einem Teich
+      réponse: Geschlossen
+      anecdote: Die Vorstellung von großen Freiflächen wie den Rasenflächen des Schlosses von Versailles ist der japanischen Ästhetik fremd.
+    - id: 8
+      question: Welchen Pass haben sich die Meister der Teezeremonie vorgestellt ?
+      propositions:
+      - Koreanischer März
+      - Chinesische Runde
+      - Nicht japanisch
+      - Indischer Kreis
+      réponse: Nicht japanisch
+      anecdote: So können Sie den Teepavillon verbinden, indem Sie den Garten durchqueren, ohne Ihren Kimono zu verschmutzen.
+    - id: 9
+      question: Welche Technik soll die Miegakure verbergen und enthüllen ?
+      propositions:
+      - Symbolik
+      - Perspektive
+      - Asymmetrie
+      - Verschleierung
+      réponse: Verschleierung
+      anecdote: Die Miegakure verwendet Vegetation, Gebäude und Landschaften als Laternen, um verschiedene Teile des Gartens zu verstecken oder zu zeigen.
+    - id: 10
+      question: Welches Element des Gartens spielt im Shintoismus eine reinigende Rolle ?
+      propositions:
+      - Holz
+      - Wasser
+      - Stein
+      - Sand
+      réponse: Wasser
+      anecdote: Wasser spielte auch eine ästhetische Rolle bei der Gestaltung der ersten Gärten, die stark von chinesischen Gärten inspiriert waren.
+  - confirmé:
+    - id: 11
+      question: Welches Prinzip kam aus der religiösen Funktion der ersten Protogärten ?
+      propositions:
+      - Symbolik
+      - Perspektive
+      - Verschleierung
+      - Asymmetrie
+      réponse: Symbolik
+      anecdote: Unter den häufigen symbolischen Darstellungen finden wir den Berg Shumisen des Buddhismus oder den Berg Horai des Taoismus.
+    - id: 12
+      question: Wie viele Aufnahmen verwendet die geliehene Landschaftstechnik ?
+      propositions:
+      - Vier
+      - Fünf
+      - Drei
+      - Sechs
+      réponse: Vier
+      anecdote: Der Vordergrund, Moll, der zweite Plan, sorgfältig positioniert, der dritte Plan, der das Gelände und die geliehene Landschaft selbst begrenzt.
+    - id: 13
+      question: Um was ist ein japanischer Garten oft organisiert ?
+      propositions:
+      - Baum
+      - Gebäude
+      - Teich
+      - Berg
+      réponse: Gebäude
+      anecdote: Abgesehen von der für das Gebäude spezifischen Architektur (eine Residenz oder ein Tempel) finden wir die meisten Elemente vieler Gärten.
+    - id: 14
+      question: Aus welchem Material bestehen Gartenlaternen traditionell ?
+      propositions:
+      - Stein
+      - Porzellan
+      - Holz
+      - Bambus
+      réponse: Stein
+      anecdote: Wie viele andere Elemente der traditionellen japanischen Architektur ist der Toro eine Laterne, die ihren Ursprung in China hat.
+    - id: 15
+      question: Welche wesentliche Rolle spielen Felsen in japanischen Gärten ?
+      propositions:
+      - Sprungbrett der Welt
+      - Zeichen der Weisheit
+      - Schutz der Geister
+      - Elend-Cache
+      réponse: Schutz der Geister
+      anecdote: Die Felsen verleihen dem Gesamtdesign eine starke organische Note und sind wie Skulpturen zusammengefasst.
+    - id: 16
+      question: Welche rau aussehenden Felsen symbolisieren oft Berge ?
+      propositions:
+      - Sedimentär
+      - Friable
+      - Magmatisch
+      - Metamorph
+      réponse: Magmatisch
+      anecdote: Die magmatischen Gesteine von eher rohem Aussehen dienen auch als Sprungbrett, haben aber vor allem einen starken Akzent.
+    - id: 17
+      question: Auf welchem Element des japanischen Gartens sind Muster gezeichnet ?
+      propositions:
+      - Totes Blatt
+      - Sand oder Kies
+      - Ton
+      - Stehendes Wasser
+      réponse: Sand oder Kies
+      anecdote: Die auf dem Sand gezeichneten Wellenmuster vermitteln einen Eindruck von Bewegung und bilden einen deutlichen Kontrast zu den Felsen.
+    - id: 18
+      question: Welches Prinzip verhindert, dass ein Objekt die Zusammensetzung eines Gartens aus dem Gleichgewicht bringt ?
+      propositions:
+      - Triangulation
+      - Horizontalität
+      - Asymmetrie
+      - Geometrie
+      réponse: Asymmetrie
+      anecdote: Das Prinzip der Asymmetrie verbindet den Betrachter mit der Komposition und ermutigt ihn, von einem interessanten Punkt zum nächsten zu blicken.
+    - id: 19
+      question: Welche japanischen Gärten sind hauptsächlich zur Meditation gedacht ?
+      propositions:
+      - Teegärten
+      - Miniaturgärten
+      - Schwimmende Gärten
+      - Trockene Gärten
+      réponse: Trockene Gärten
+      anecdote: Sie verwenden eine abstraktere Darstellung, bei der Sand oder Kies das Meer darstellen und Felsen Berge symbolisieren.
+    - id: 20
+      question: Was fehlt den meisten trockenen Gärten normalerweise ?
+      propositions:
+      - Schaum
+      - Pflanzen
+      - Sand
+      - Kies
+      réponse: Pflanzen
+      anecdote: In Klöstern und Zen-Tempeln wurden viele Trockengärten angelegt, daher der gebräuchliche Name Zen-Garten.
+  - expert:
+    - id: 21
+      question: Welcher japanische Garten befindet sich in Kanazawa, Präfektur Ishikawa ?
+      propositions:
+      - Kenroku-en
+      - Maruyama
+      - Aramaki
+      - Murin-an
+      réponse: Kenroku-en
+      anecdote: Kenroku-en ist neben Mitos Kairaku-en und Okayamas Koraku-en einer der drei berühmtesten Gärten Japans.
+    - id: 22
+      question: In welcher Form werden die Gewässer in japanischen Gärten oft gezeichnet ?
+      propositions:
+      - Oval
+      - In acht
+      - Sinogramme
+      - In einem Kreis
+      réponse: Sinogramme
+      anecdote: Chinesische Schriftzeichen (oder Sinogramme) bilden das älteste Schriftsystem, das ständig verwendet wird.
+    - id: 23
+      question: Welcher Nadelbaum steht für Langlebigkeit in einem japanischen Garten ?
+      propositions:
+      - Kiefer
+      - Eiche
+      - Birke
+      - Buche
+      réponse: Kiefer
+      anecdote: Eine große Anzahl von Kiefernarten kann sehr lange leben, ein Dutzend Arten erreichen bis zu 1000 Jahre.
+    - id: 24
+      question: Welcher Garten gilt als der größte japanische Garten in Europa ?
+      propositions:
+      - Wohltätigkeit
+      - Maulevrier
+      - Malmaison
+      - Séricourt
+      réponse: Maulevrier
+      anecdote: Es befindet sich in Frankreich und ist um einen künstlichen See herum organisiert, der vom Mönch gespeist wird, der ihn überquert.
+    - id: 25
+      question: Historisch gesehen, auf welcher Insel tauchten die verschiedenen Gartenstile auf ?
+      propositions:
+      - Amani
+      - Honshu
+      - Sado
+      - Shikoku
+      réponse: Honshu
+      anecdote: Honshu (buchstäblich die Hauptprovinz) ist die größte Insel Japans, die im Westen einst als Hondo bekannt war.
+    - id: 26
+      question: Welche Arten japanischer Gärten werden extrem einfach ?
+      propositions:
+      - Trockene Gärten
+      - Miniaturgärten
+      - Teegärten
+      - Schwimmende Gärten
+      réponse: Teegärten
+      anecdote: Die traditionelle Klassifizierung unterteilt japanische Gärten in drei Hauptkategorien, darunter Teegärten.
+    - id: 27
+      question: Was leihen Sie sich normalerweise aus, um Zugang zu einem Teegarten zu erhalten ?
+      propositions:
+      - Tauweg
+      - Spur der Könige
+      - Land der Asche ","Terre de cendres
+      - Mondlinie
+      réponse: Tauweg
+      anecdote: Dieser Name spielt auf ein Sutra an, das von einem solchen Weg spricht, auf dem man wiedergeboren wird, nachdem man materiellen Wünschen entkommen ist.
+    - id: 28
+      question: Welcher japanische Garten befindet sich auf einer Sandbank mitten im Asahi ?
+      propositions:
+      - Daigo-ji
+      - Isahaya
+      - Koraku-en
+      - Murin-an
+      réponse: Koraku-en
+      anecdote: Das 1863 fertiggestellte Korakuen wurde 1700 auf Wunsch von Ikeda Tsunamasa, dem Daimyo von Okayama, gebaut.
+    - id: 29
+      question: Welcher japanische Garten in Belgien ergibt sich aus einer Zusammenarbeit mit der Stadt Itami ?
+      propositions:
+      - Leuze Garten
+      - Garten der Verviers
+      - Hasselt Garden
+      - Mons Garden
+      réponse: Hasselt Garden
+      anecdote: Hasselt bot Itami im November 1991 einen Glockenturm an, und Hasselt wurde ein japanischer Garten angeboten, ein Symbol der Freundschaft.
+    - id: 30
+      question: Was ist der berühmteste japanische Garten in Amerika ?
+      propositions:
+      - Lima
+      - Santiago
+      - Buenos Aires
+      - Caracas
+      réponse: Buenos Aires
+      anecdote: Der Garten wurde anlässlich des Besuchs des damaligen Kronprinzen Akihito, des heutigen japanischen Kaisers, in Argentinien angelegt.
+  es:
+  - débutant:
+    - id: 1
+      question: ¿De cuántos principios fundamentales se compone un jardín japonés ?
+      propositions:
+      - Seis
+      - Cuatro
+      - Cinco
+      - Tres
+      réponse: Tres
+      anecdote: Los tres principios fundamentales del jardín japonés son la reproducción de la naturaleza en miniatura, el simbolismo y la captura de paisajes.
+    - id: 2
+      question: ¿Qué característica es importante en la mayoría de los estilos japoneses ?
+      propositions:
+      - Gigantismo
+      - Simplicidad
+      - Horizontalidad
+      - Provocación
+      réponse: Simplicidad
+      anecdote: La miniaturización tiene como objetivo representar escenas en un espacio limitado, operando también en una reducción de la complejidad.
+    - id: 3
+      question: ¿Qué técnica podemos dar la ilusión de espacio a determinadas zonas del jardín ?
+      propositions:
+      - Ocultación
+      - Perspectiva
+      - Simbolismo
+      - Asimetría
+      réponse: Perspectiva
+      anecdote: A diferencia de la perspectiva occidental, la perspectiva del jardín japonés se basa en el principio de las tres profundidades.
+    - id: 4
+      question: Históricamente, ¿cómo se transmite la enseñanza de técnicas ?
+      propositions:
+      - Vía impresiones
+      - En sánscrito
+      - Oralmente
+      - Por escrito
+      réponse: Oralmente
+      anecdote: El arte de la jardinería es religioso y esotérico.
+    - id: 5
+      question: ¿Qué peces contienen con frecuencia los cuerpos de agua ?
+      propositions:
+      - Esturión blanco
+      - Carpa koi
+      - Gardon
+      - Tenca de Mongolia
+      réponse: Carpa koi
+      anecdote: Muy apreciado y criado en China, Corea y Japón, este pez de agua dulce se obtuvo de cruces de carpa común.
+    - id: 6
+      question: En un jardín japonés seco, ¿qué representa el agua ?
+      propositions:
+      - Tierra
+      - Grava
+      - Hojas
+      - Ramas
+      réponse: Grava
+      anecdote: Descubiertos en China, los caolines son arcillas blancas, friables y refractarias, compuestas principalmente de caolinita.
+    - id: 7
+      question: ¿Cómo se diseñan sistemáticamente los jardines japoneses ?
+      propositions:
+      - Abrir
+      - Cerrado
+      - En un estanque
+      - Colgando
+      réponse: Cerrado
+      anecdote: La noción de grandes espacios abiertos, como los prados del Palacio de Versalles, es ajena a la estética japonesa.
+    - id: 8
+      question: ¿Qué pase imaginaban los maestros de la ceremonia del té ?
+      propositions:
+      - Círculo indio
+      - No japonés
+      - Ronda china
+      - Marcha coreana
+      réponse: No japonés
+      anecdote: Permitiéndole conectar el pabellón de té cruzando el jardín sin ensuciar su kimono, le permite moverse entre las camas.
+    - id: 9
+      question: ¿Qué técnica pretende ocultar y revelar el miegakure ?
+      propositions:
+      - Ocultación
+      - Perspectiva
+      - Simbolismo
+      - Asimetría
+      réponse: Ocultación
+      anecdote: El miegakure utiliza la vegetación, los edificios y el paisaje como linternas para ocultar o mostrar diferentes partes del jardín.
+    - id: 10
+      question: ¿Qué elemento del jardín juega un papel depurativo en el sintoísmo ?
+      propositions:
+      - Agua
+      - Madera
+      - Arena
+      - Piedra
+      réponse: Agua
+      anecdote: El agua también jugó un papel estético desde el diseño de los primeros jardines, fuertemente inspirado en los jardines chinos.
+  - confirmé:
+    - id: 11
+      question: ¿Qué principio surgió de la función religiosa de los primeros proto-jardines ?
+      propositions:
+      - Perspectiva
+      - Asimetría
+      - Simbolismo
+      - Ocultación
+      réponse: Simbolismo
+      anecdote: Entre las representaciones simbólicas frecuentes encontramos el monte Shumisen del budismo o el monte Horai del taoísmo.
+    - id: 12
+      question: ¿Cuántas tomas utiliza la técnica del paisaje prestado ?
+      propositions:
+      - Cuatro
+      - Tres
+      - Seis
+      - Cinco
+      réponse: Cuatro
+      anecdote: El primer plano, menor, el segundo plano, cuidadosamente colocado, el tercer plano que limita el terreno y el propio paisaje prestado.
+    - id: 13
+      question: ¿En torno a qué se organiza a menudo un jardín japonés ?
+      propositions:
+      - Montaña
+      - Edificio
+      - Estanque
+      - Árbol
+      réponse: Edificio
+      anecdote: Más allá de la arquitectura propia del edificio (una residencia o un templo), encontramos la mayoría de los elementos de muchos jardines.
+    - id: 14
+      question: ¿De qué material se fabrican tradicionalmente las linternas de jardín ?
+      propositions:
+      - Madera
+      - Piedra
+      - Porcelana
+      - Bambú
+      réponse: Piedra
+      anecdote: Como muchos otros elementos de la arquitectura tradicional japonesa, el toro es una linterna que se originó en China.
+    - id: 15
+      question: ¿Qué papel fundamental juegan las rocas en los jardines japoneses ?
+      propositions:
+      - Refugio de los Espíritus
+      - Signo de sabiduría
+      - Trampolín del mundo
+      - Caché de miseria
+      réponse: Refugio de los Espíritus
+      anecdote: Las rocas aportan una fuerte nota orgánica al diseño general y se agrupan como esculturas.
+    - id: 16
+      question: ¿Qué rocas de aspecto rugoso simbolizan a menudo montañas ?
+      propositions:
+      - Metamórfico
+      - Sedimentario
+      - Magmatic
+      - Friable
+      réponse: Magmatic
+      anecdote: Las rocas magmáticas, de apariencia bastante cruda, también sirven como escalones, pero sobre todo tienen un fuerte acento.
+    - id: 17
+      question: ¿En qué elemento del jardín japonés se dibujan los patrones ?
+      propositions:
+      - Hoja muerta
+      - Agua estancada
+      - Arena o grava
+      - Clay
+      réponse: Arena o grava
+      anecdote: Los patrones ondulados dibujados en la arena dan una impresión de movimiento y ofrecen un claro contraste con las rocas.
+    - id: 18
+      question: ¿Qué principio impide que un objeto desequilibre la composición de un jardín ?
+      propositions:
+      - Asimetría
+      - Geometría
+      - Horizontalidad
+      - Triangulación
+      réponse: Asimetría
+      anecdote: El principio de asimetría asocia al espectador con la composición, animándolo a mirar de un punto interesante al siguiente.
+    - id: 19
+      question: ¿Qué jardines japoneses están destinados principalmente a la meditación ?
+      propositions:
+      - Jardines secos
+      - Jardines en miniatura
+      - Jardines de té
+      - Jardines flotantes
+      réponse: Jardines secos
+      anecdote: Utilizan una representación más abstracta, donde la arena o la grava representan el mar y las rocas simbolizan las montañas.
+    - id: 20
+      question: ¿Qué les falta a la mayoría de los jardines secos ?
+      propositions:
+      - Arena
+      - Espuma
+      - Plantas
+      - Grava
+      réponse: Plantas
+      anecdote: Se han creado muchos jardines secos en monasterios y templos zen, de ahí su nombre común de jardín zen.
+  - expert:
+    - id: 21
+      question: ¿Qué jardín japonés se encuentra en Kanazawa, prefectura de Ishikawa ?
+      propositions:
+      - Kenroku-en
+      - Aramaki
+      - Murin-an
+      - Maruyama
+      réponse: Kenroku-en
+      anecdote: Junto con Kairaku-en de Mito y Koraku-en de Okayama, Kenroku-en es uno de los tres jardines más famosos de Japón.
+    - id: 22
+      question: ¿De qué forma se dibujan a menudo las masas de agua de los jardines japoneses ?
+      propositions:
+      - En un circulo
+      - Sinogramme
+      - Oval
+      - En ocho
+      réponse: Sinogramme
+      anecdote: Los caracteres chinos (o sinogramas) forman el sistema de escritura más antiguo que se ha mantenido en uso continuo.
+    - id: 23
+      question: ¿Qué conífera representa la longevidad en un jardín japonés ?
+      propositions:
+      - Haya
+      - Roble
+      - Abedul
+      - Pino
+      réponse: Pino
+      anecdote: Una gran cantidad de especies de pino puede vivir mucho tiempo, una docena de especies alcanzan los 1000 años.
+    - id: 24
+      question: ¿Qué jardín se considera el jardín japonés más grande de Europa ?
+      propositions:
+      - Malmaison
+      - Séricourt
+      - Maulevrier
+      - Charance
+      réponse: Maulevrier
+      anecdote: Ubicado en Francia, organizado alrededor de un lago artificial alimentado por el Monje que lo cruza, contiene las especies de alrededor de 300 plantas.
+    - id: 25
+      question: Históricamente, ¿en qué isla aparecieron los diferentes estilos de jardines ?
+      propositions:
+      - Sado
+      - Honshu
+      - Amani
+      - Shikoku
+      réponse: Honshu
+      anecdote: Honshu (literalmente, la provincia principal) es la isla más grande de Japón, una vez conocida en Occidente como Hondo.
+    - id: 26
+      question: ¿Qué tipos de jardines japoneses se llevan a la extrema simplicidad ?
+      propositions:
+      - Jardines de té
+      - Jardines flotantes
+      - Jardines secos
+      - Jardines en miniatura
+      réponse: Jardines de té
+      anecdote: La clasificación tradicional agrupa los jardines japoneses en tres categorías principales, que incluyen los jardines de té.
+    - id: 27
+      question: ¿Qué suele pedir prestado para acceder a un jardín de té ?
+      propositions:
+      - Pista de los Reyes
+      - Línea lunar
+      - Tierra de cenizas
+      - Camino de rocío
+      réponse: Camino de rocío
+      anecdote: Este nombre se refiere a un sutra que habla de un camino en el que uno renace después de haber escapado de los deseos materiales.
+    - id: 28
+      question: ¿Qué jardín japonés está en un banco de arena en medio del río Asahi ?
+      propositions:
+      - Isahaya
+      - Murin-an
+      - Koraku-en
+      - Daigo-ji
+      réponse: Koraku-en
+      anecdote: El Korakuen, terminado en 1863, fue construido en 1700 a pedido de Ikeda Tsunamasa, daimyo de Okayama.
+    - id: 29
+      question: En Bélgica, ¿qué jardín japonés es el resultado de una colaboración con la ciudad de Itami ?
+      propositions:
+      - Jardín de Leuze
+      - Jardín de Verviers
+      - Jardín Hasselt
+      - Jardín de Mons
+      réponse: Jardín Hasselt
+      anecdote: Hasselt le ofreció a Itami en noviembre de 1991 una torre de carillón, ya Hasselt le ofrecieron un jardín japonés, símbolo de amistad.
+    - id: 30
+      question: ¿Cuál es el jardín japonés más famoso de América ?
+      propositions:
+      - Lima
+      - Santiago
+      - Caracas
+      - Buenos Aires
+      réponse: Buenos Aires
+      anecdote: El jardín fue creado con motivo de la visita a Argentina del entonces Príncipe Heredero Akihito, actual Emperador de Japón.
+  it:
+  - débutant:
+    - id: 1
+      question: Di quanti principi fondamentali è composto un giardino giapponese ?
+      propositions:
+      - Tre
+      - Quattro
+      - Sei
+      - Cinque
+      réponse: Tre
+      anecdote: I tre principi fondamentali del giardino giapponese sono la riproduzione della natura in miniatura, il simbolismo e la cattura dei paesaggi.
+    - id: 2
+      question: Quale caratteristica è importante nella maggior parte degli stili giapponesi ?
+      propositions:
+      - Orizzontalità
+      - Provocazione
+      - Semplicità
+      - Gigantismo
+      réponse: Semplicità
+      anecdote: La miniaturizzazione mira a rappresentare scene in uno spazio limitato, operando anche su una riduzione della complessità.
+    - id: 3
+      question: Quale tecnica possiamo dare l'illusione dello spazio a certe zone del giardino ?
+      propositions:
+      - Prospettiva
+      - Asimmetria
+      - Simbolismo
+      - Occultamento
+      réponse: Prospettiva
+      anecdote: A differenza della prospettiva occidentale, la prospettiva del giardino giapponese si basa sul principio delle tre profondità.
+    - id: 4
+      question: Storicamente, come viene trasmesso l'insegnamento delle tecniche ?
+      propositions:
+      - Oralmente
+      - Per iscritto
+      - In sanscrito
+      - Via stampe
+      réponse: Oralmente
+      anecdote: L'arte del giardinaggio è religiosa ed esoterica.
+    - id: 5
+      question: Quali pesci contengono spesso i corpi idrici ?
+      propositions:
+      - Tinca mongola
+      - Gardon
+      - Carpa Koi
+      - Storione bianco
+      réponse: Carpa Koi
+      anecdote: Molto apprezzato e allevato in Cina, Corea e Giappone, questo pesce d'acqua dolce è stato ottenuto da incroci di carpa comune.
+    - id: 6
+      question: In un giardino giapponese secco, da cosa è rappresentata l'acqua ?
+      propositions:
+      - Foglie
+      - Ghiaia
+      - Filiali
+      - Terra
+      réponse: Ghiaia
+      anecdote: Scoperti in Cina, i caolini sono argille bianche, friabili e refrattarie, composte principalmente da caolinite.
+    - id: 7
+      question: Come vengono progettati sistematicamente i giardini giapponesi ?
+      propositions:
+      - Chiuso
+      - Appeso
+      - Su uno stagno
+      - Apri
+      réponse: Chiuso
+      anecdote: La nozione di grandi spazi aperti, come i prati della Reggia di Versailles, è estranea all'estetica giapponese.
+    - id: 8
+      question: Quale passaggio è stato immaginato dai maestri della cerimonia del tè ?
+      propositions:
+      - Round cinese
+      - Cerchio indiano
+      - Non giapponese
+      - Marzo coreano
+      réponse: Non giapponese
+      anecdote: Permettendoti di collegare il padiglione del tè attraversando il giardino senza sporcare il tuo kimono, ti permette di muoverti tra i letti.
+    - id: 9
+      question: Quale tecnica mira a nascondere e rivelare il miegakure ?
+      propositions:
+      - Occultamento
+      - Asimmetria
+      - Simbolismo
+      - Prospettiva
+      réponse: Occultamento
+      anecdote: Il miegakure utilizza la vegetazione, gli edifici e il paesaggio come lanterne per nascondere o mostrare diverse parti del giardino.
+    - id: 10
+      question: Quale elemento del giardino svolge un ruolo purificante nello shintoismo ?
+      propositions:
+      - Acqua
+      - Legno
+      - Sabbia
+      - Pietra
+      réponse: Acqua
+      anecdote: Anche l'acqua ha svolto un ruolo estetico sin dalla progettazione dei primi giardini, fortemente ispirati ai giardini cinesi.
+  - confirmé:
+    - id: 11
+      question: Quale principio proveniva dalla funzione religiosa dei primi proto-giardini ?
+      propositions:
+      - Prospettiva
+      - Simbolismo
+      - Occultamento
+      - Asimmetria
+      réponse: Simbolismo
+      anecdote: Tra le frequenti rappresentazioni simboliche troviamo il Monte Shumisen del Buddismo o il Monte Horai del Taoismo.
+    - id: 12
+      question: Quanti scatti utilizza la tecnica del paesaggio presa in prestito ?
+      propositions:
+      - Sei
+      - Quattro
+      - Cinque
+      - Tre
+      réponse: Quattro
+      anecdote: Il primo piano, minore, il secondo piano, accuratamente posizionato, il terzo piano che delimita il terreno e il paesaggio stesso preso in prestito.
+    - id: 13
+      question: Intorno a cosa è spesso organizzato un giardino giapponese ?
+      propositions:
+      - Costruzione
+      - Montagna
+      - Stagno
+      - Albero
+      réponse: Costruzione
+      anecdote: Al di là dell'architettura specifica dell'edificio (una residenza o un tempio), troviamo la maggior parte degli elementi di molti giardini.
+    - id: 14
+      question: Di che materiale sono tradizionalmente fatte le lanterne da giardino ?
+      propositions:
+      - Bamboo
+      - Legno
+      - Pietra
+      - Porcellana
+      réponse: Pietra
+      anecdote: Come molti altri elementi dell'architettura tradizionale giapponese, il toro è una lanterna originaria della Cina.
+    - id: 15
+      question: Quale ruolo essenziale svolgono le rocce nei giardini giapponesi ?
+      propositions:
+      - Rifugio degli Spiriti
+      - Segno di saggezza
+      - Trampolino di lancio del mondo
+      - Misery cache
+      réponse: Rifugio degli Spiriti
+      anecdote: Le rocce conferiscono una forte nota organica al design generale e sono raggruppate come sculture.
+    - id: 16
+      question: Quali rocce dall'aspetto ruvido spesso simboleggiano le montagne ?
+      propositions:
+      - Magmatico
+      - Metamorfico
+      - Friabile
+      - Sedimentario
+      réponse: Magmatico
+      anecdote: Le rocce magmatiche, di aspetto piuttosto grezzo, servono anche come trampolini di lancio, ma soprattutto hanno un forte accento.
+    - id: 17
+      question: Su quale elemento del giardino giapponese sono disegnati i motivi ?
+      propositions:
+      - Foglia morta
+      - Sabbia o ghiaia
+      - Acqua stagnante
+      - Argilla
+      réponse: Sabbia o ghiaia
+      anecdote: I motivi ondulati disegnati sulla sabbia danno un'impressione di movimento e offrono un netto contrasto con le rocce.
+    - id: 18
+      question: Quale principio impedisce a un oggetto di sbilanciare la composizione di un giardino ?
+      propositions:
+      - Asimmetria
+      - Orizzontalità
+      - Triangolazione
+      - Geometria
+      réponse: Asimmetria
+      anecdote: Il principio di asimmetria associa lo spettatore alla composizione, incoraggiandolo a guardare da un punto interessante all'altro.
+    - id: 19
+      question: Quali giardini giapponesi sono destinati principalmente alla meditazione ?
+      propositions:
+      - Giardini in miniatura
+      - Giardini galleggianti
+      - Giardini secchi
+      - Giardini del tè
+      réponse: Giardini secchi
+      anecdote: Usano una rappresentazione più astratta, dove la sabbia o la ghiaia rappresentano il mare e le rocce simboleggiano le montagne.
+    - id: 20
+      question: Cosa manca di solito alla maggior parte dei giardini aridi ?
+      propositions:
+      - Sabbia
+      - Ghiaia
+      - Schiuma
+      - Piante
+      réponse: Piante
+      anecdote: Molti giardini a secco sono stati creati nei monasteri e nei templi Zen, da cui il nome comune di giardino Zen.
+  - expert:
+    - id: 21
+      question: Quale giardino giapponese si trova a Kanazawa, nella prefettura di Ishikawa ?
+      propositions:
+      - Kenroku-en
+      - Aramaki
+      - Murin-an
+      - Maruyama
+      réponse: Kenroku-en
+      anecdote: Insieme al Kairaku-en di Mito e al Koraku-en di Okayama, Kenroku-en è uno dei tre giardini più famosi del Giappone.
+    - id: 22
+      question: In quale forma sono spesso disegnati i corpi d'acqua nei giardini giapponesi ?
+      propositions:
+      - In otto
+      - Ovale
+      - In un cerchio
+      - Sinogramme
+      réponse: Sinogramme
+      anecdote: I caratteri cinesi (o sinogrammi) costituiscono il più antico sistema di scrittura rimasto in uso continuo.
+    - id: 23
+      question: Quale conifera rappresenta la longevità in un giardino giapponese ?
+      propositions:
+      - Betulla
+      - Pino
+      - Faggio
+      - Quercia
+      réponse: Pino
+      anecdote: Un gran numero di specie di pino può vivere molto a lungo, una dozzina di specie che arriva fino a 1000 anni.
+    - id: 24
+      question: Quale giardino è considerato il più grande giardino giapponese d'Europa ?
+      propositions:
+      - Malmaison
+      - Maulevrier
+      - Séricourt
+      - Charance
+      réponse: Maulevrier
+      anecdote: Situato in Francia, organizzato intorno ad un lago artificiale alimentato dal Monaco che lo attraversa, contiene le specie di circa 300 piante.
+    - id: 25
+      question: Storicamente, su quale isola apparivano i diversi stili di giardini ?
+      propositions:
+      - Shikoku
+      - Sado
+      - Honshu
+      - Amani
+      réponse: Honshu
+      anecdote: Honshu (letteralmente la provincia principale) è l'isola più grande del Giappone, un tempo conosciuta in Occidente come Hondo.
+    - id: 26
+      question: Quali tipi di giardini giapponesi sono portati all'estrema semplicità ?
+      propositions:
+      - Giardini in miniatura
+      - Giardini del tè
+      - Giardini secchi
+      - Giardini galleggianti
+      réponse: Giardini del tè
+      anecdote: La classificazione tradizionale raggruppa i giardini giapponesi in tre categorie principali, che includono le piantagioni di tè.
+    - id: 27
+      question: Cosa prendi in prestito di solito per accedere a un giardino del tè ?
+      propositions:
+      - Sentiero di rugiada
+      - Track of the Kings
+      - Terra di ceneri
+      - Linea lunare
+      réponse: Sentiero di rugiada
+      anecdote: Questo nome si riferisce a un sutra che parla di un tale percorso in cui si rinasce dopo essere sfuggiti ai desideri materiali.
+    - id: 28
+      question: Quale giardino giapponese si trova su un banco di sabbia nel mezzo del fiume Asahi ?
+      propositions:
+      - Koraku-en
+      - Murin-an
+      - Daigo-ji
+      - Isahaya
+      réponse: Koraku-en
+      anecdote: Il Korakuen, completato nel 1863, fu costruito nel 1700 su richiesta di Ikeda Tsunamasa, daimyo di Okayama.
+    - id: 29
+      question: In Belgio quale giardino giapponese nasce da una collaborazione con la città di Itami ?
+      propositions:
+      - Giardino Leuze
+      - Mons Garden
+      - Giardino Hasselt
+      - Giardino di Verviers
+      réponse: Giardino Hasselt
+      anecdote: Hasselt offrì a Itami nel novembre 1991 una torre a carillon, e ad Hasselt fu offerto un giardino giapponese, un simbolo di amicizia.
+    - id: 30
+      question: Qual è il giardino giapponese più famoso delle Americhe ?
+      propositions:
+      - Santiago
+      - Lima
+      - Caracas
+      - Buenos Aires
+      réponse: Buenos Aires
+      anecdote: Il giardino è stato realizzato in occasione della visita in Argentina dell'allora principe ereditario Akihito, attuale imperatore del Giappone.
+  nl:
+  - débutant:
+    - id: 1
+      question: Uit hoeveel hoofdprincipes bestaat een Japanse tuin ?
+      propositions:
+      - Drie
+      - Zes
+      - Vijf
+      - Vier
+      réponse: Drie
+      anecdote: De drie belangrijkste principes van de Japanse tuin zijn de reproductie van de natuur in miniatuur, symboliek en het vastleggen van landschappen.
+    - id: 2
+      question: Welk kenmerk is belangrijk in de meeste Japanse stijlen ?
+      propositions:
+      - Provocatie
+      - Gigantisme
+      - Horizontaliteit
+      - Eenvoud
+      réponse: Eenvoud
+      anecdote: Miniaturisatie beoogt de weergave van scènes in een beperkte ruimte en werkt ook aan het verminderen van de complexiteit.
+    - id: 3
+      question: Welke techniek kunnen we de illusie van ruimte geven aan bepaalde delen van de tuin ?
+      propositions:
+      - Perspectief
+      - Verbergen
+      - Symboliek
+      - Asymmetrie
+      réponse: Perspectief
+      anecdote: In tegenstelling tot het westerse perspectief is het Japanse tuinperspectief gebaseerd op het drie diepteprincipe.
+    - id: 4
+      question: Hoe wordt historisch gezien het onderwijzen van technieken overgedragen ?
+      propositions:
+      - Schriftelijk
+      - Mondeling
+      - Via afdrukken
+      - In het Sanskriet
+      réponse: Mondeling
+      anecdote: De kunst van het tuinieren is religieus en esoterisch.
+    - id: 5
+      question: Welke vissen bevatten vaak watermassa's ?
+      propositions:
+      - Gardon
+      - Witte steur
+      - Mongoolse Zeelt
+      - Koi-karpers
+      réponse: Koi-karpers
+      anecdote: Deze zoetwatervis werd zeer gewaardeerd en gefokt in China, Korea en Japan en werd verkregen uit kruisingen van gewone karper.
+    - id: 6
+      question: Waar wordt water door vertegenwoordigd in een droge Japanse tuin ?
+      propositions:
+      - Land
+      - Grind
+      - Bladeren
+      - Takken
+      réponse: Grind
+      anecdote: Kaolien, ontdekt in China, zijn witte, brokkelige en vuurvaste kleien, voornamelijk samengesteld uit kaoliniet.
+    - id: 7
+      question: Hoe worden Japanse tuinen systematisch ontworpen ?
+      propositions:
+      - Open
+      - Gesloten
+      - Opknoping
+      - Op een vijver
+      réponse: Gesloten
+      anecdote: Het idee van grote open ruimtes, zoals de grasvelden van het paleis van Versailles, is vreemd aan de Japanse esthetiek.
+    - id: 8
+      question: Welke pas werd door de meesters van de theeceremonie voorgesteld ?
+      propositions:
+      - Niet Japans
+      - Chinees rond
+      - Koreaanse maart
+      - Indiase cirkel
+      réponse: Niet Japans
+      anecdote: Hierdoor kunt u het theepaviljoen verbinden door de tuin te doorkruisen zonder uw kimono te vervuilen, zodat u zich door de bedden kunt bewegen.
+    - id: 9
+      question: Welke techniek wil de miegakure verbergen en onthullen ?
+      propositions:
+      - Symboliek
+      - Perspectief
+      - Asymmetrie
+      - Verbergen
+      réponse: Verbergen
+      anecdote: De miegakure gebruikt vegetatie, gebouwen en landschappen als lantaarns om verschillende delen van de tuin te verbergen of te laten zien.
+    - id: 10
+      question: Welk element van de tuin speelt een zuiverende rol in het shintoïsme ?
+      propositions:
+      - Hout
+      - Steen
+      - Water
+      - Zand
+      réponse: Water
+      anecdote: Water speelde ook een esthetische rol vanaf het ontwerp van de eerste tuinen, sterk geïnspireerd door Chinese tuinen.
+  - confirmé:
+    - id: 11
+      question: Welk principe kwam voort uit de religieuze functie van de eerste prototuinen ?
+      propositions:
+      - Symboliek
+      - Verbergen
+      - Asymmetrie
+      - Perspectief
+      réponse: Symboliek
+      anecdote: Onder de veel voorkomende symbolische voorstellingen vinden we de berg Shumisen van het boeddhisme of de berg Horai van het taoïsme.
+    - id: 12
+      question: Hoeveel shots gebruikt de techniek van het geleende landschap ?
+      propositions:
+      - Vier
+      - Zes
+      - Vijf
+      - Drie
+      réponse: Vier
+      anecdote: De voorgrond, klein, het tweede plan, zorgvuldig gepositioneerd, het derde plan dat het terrein en het geleende landschap zelf begrenst.
+    - id: 13
+      question: Waaromheen wordt vaak een Japanse tuin georganiseerd ?
+      propositions:
+      - Berg
+      - Boom
+      - Vijver
+      - Gebouw
+      réponse: Gebouw
+      anecdote: Naast de architectuur die specifiek is voor het gebouw (een woning of een tempel), vinden we de meeste elementen van veel tuinen.
+    - id: 14
+      question: Van welk materiaal worden tuinlantaarns traditioneel gemaakt ?
+      propositions:
+      - Steen
+      - Porselein
+      - Hout
+      - Bamboe
+      réponse: Steen
+      anecdote: Net als veel andere elementen van traditionele Japanse architectuur, is de toro een lantaarn die zijn oorsprong heeft in China.
+    - id: 15
+      question: Welke essentiële rol spelen rotsen in Japanse tuinen ?
+      propositions:
+      - Shelter of the Spirits
+      - Ellende cache
+      - Teken van wijsheid
+      - Springplank van de wereld
+      réponse: Shelter of the Spirits
+      anecdote: De rotsen geven een sterk organisch tintje aan het algehele ontwerp en zijn als sculpturen bij elkaar gegroepeerd.
+    - id: 16
+      question: Welke ruig uitziende rotsen symboliseren vaak bergen ?
+      propositions:
+      - Sedimentair
+      - Metamorf
+      - Broedbaar
+      - Magmatisch
+      réponse: Magmatisch
+      anecdote: De magmatische rotsen, die nogal rauw voorkomen, dienen ook als stapstenen, maar hebben bovenal een sterk accent.
+    - id: 17
+      question: Op welk element van de Japanse tuin zijn patronen getekend ?
+      propositions:
+      - Dood blad
+      - Zand of grind
+      - Stilstaand water
+      - Klei
+      réponse: Zand of grind
+      anecdote: De golvende patronen die op het zand zijn getekend, geven een indruk van beweging en bieden een duidelijk contrast met de rotsen.
+    - id: 18
+      question: Welk principe voorkomt dat een object de samenstelling van een tuin uit balans brengt ?
+      propositions:
+      - Horizontaliteit
+      - Geometrie
+      - Asymmetrie
+      - Triangulatie
+      réponse: Asymmetrie
+      anecdote: Het principe van asymmetrie verbindt de kijker met de compositie en moedigt hen aan om van het ene interessante punt naar het andere te kijken.
+    - id: 19
+      question: Welke Japanse tuinen zijn voornamelijk bedoeld voor meditatie ?
+      propositions:
+      - Theetuinen
+      - Droge tuinen
+      - Drijvende tuinen
+      - Miniatuurtuinen
+      réponse: Droge tuinen
+      anecdote: Ze gebruiken een meer abstracte weergave, waarbij zand of grind de zee vertegenwoordigt en rotsen bergen symboliseren.
+    - id: 20
+      question: Waar ontbreken de meeste droge tuinen meestal ?
+      propositions:
+      - Schuim
+      - Grind
+      - Zand
+      - Planten
+      réponse: Planten
+      anecdote: In kloosters en Zen-tempels zijn veel droge tuinen aangelegd, vandaar de gebruikelijke naam Zen-tuin.
+  - expert:
+    - id: 21
+      question: Welke Japanse tuin bevindt zich in Kanazawa, in de prefectuur Ishikawa ?
+      propositions:
+      - Maruyama
+      - Kenroku-en
+      - Aramaki
+      - Murin-an
+      réponse: Kenroku-en
+      anecdote: Samen met Mito's Kairaku-en en Okayama's Koraku-en is Kenroku-en een van de drie beroemdste tuinen van Japan.
+    - id: 22
+      question: In welke vorm worden de watermassa's in Japanse tuinen vaak getekend ?
+      propositions:
+      - Sinogramme
+      - Ovaal
+      - In een cirkel
+      - In acht
+      réponse: Sinogramme
+      anecdote: Chinese karakters (of sinogrammen) vormen het oudste schrijfsysteem dat continu in gebruik is gebleven.
+    - id: 23
+      question: Welke naaldboom staat voor een lang leven in een Japanse tuin ?
+      propositions:
+      - Berk
+      - Grenen
+      - Beuken
+      - Eiken
+      réponse: Grenen
+      anecdote: Een groot aantal soorten dennen kunnen erg lang leven, een dozijn soorten kan wel 1000 jaar oud worden.
+    - id: 24
+      question: Welke tuin wordt beschouwd als de grootste Japanse tuin van Europa ?
+      propositions:
+      - Maulevrier
+      - Charance
+      - Séricourt
+      - Malmaison
+      réponse: Maulevrier
+      anecdote: Gelegen in Frankrijk, georganiseerd rond een kunstmatig meer dat wordt gevoed door de monnik die het oversteekt, bevat het de soort van ongeveer 300 planten.
+    - id: 25
+      question: Historisch gezien, op welk eiland kwamen de verschillende stijlen van tuinen voor ?
+      propositions:
+      - Shikoku
+      - Amani
+      - Honshu
+      - Sado
+      réponse: Honshu
+      anecdote: Honshu (letterlijk de belangrijkste provincie) is het grootste eiland van Japan, ooit in het Westen bekend als Hondo.
+    - id: 26
+      question: Welke soorten Japanse tuinen worden tot extreme eenvoud gebracht ?
+      propositions:
+      - Droge tuinen
+      - Miniatuurtuinen
+      - Drijvende tuinen
+      - Theetuinen
+      réponse: Theetuinen
+      anecdote: De traditionele classificatie groepeert Japanse tuinen in drie hoofdcategorieën, waaronder theetuinen.
+    - id: 27
+      question: Wat leen je meestal om toegang te krijgen tot een theetuin ?
+      propositions:
+      - Dauwpad
+      - Land van as
+      - Track of the Kings
+      - Maanlijn
+      réponse: Dauwpad
+      anecdote: Deze naam verwijst naar een sutra die spreekt over een dergelijk pad waar iemand wordt herboren nadat hij aan materiële verlangens is ontsnapt.
+    - id: 28
+      question: Welke Japanse tuin staat op een zandbank midden in de Asahi-rivier ?
+      propositions:
+      - Daigo-ji
+      - Isahaya
+      - Koraku-en
+      - Murin-an
+      réponse: Koraku-en
+      anecdote: De Korakuen, voltooid in 1863, werd in 1700 gebouwd op verzoek van Ikeda Tsunamasa, daimyo van Okayama.
+    - id: 29
+      question: Welke Japanse tuin in België is het resultaat van een samenwerking met de stad Itami ?
+      propositions:
+      - Hasselt Tuin
+      - Leuze Tuin
+      - Tuin van Mons
+      - Tuin van Verviers
+      réponse: Hasselt Tuin
+      anecdote: Hasselt bood Itami in november 1991 een beiaardtoren aan en Hasselt kreeg een Japanse tuin aangeboden, een symbool van vriendschap.
+    - id: 30
+      question: Wat is de beroemdste Japanse tuin in Amerika ?
+      propositions:
+      - Buenos Aires
+      - Caracas
+      - Lima
+      - Santiago
+      réponse: Buenos Aires
+      anecdote: De tuin is aangelegd ter gelegenheid van het bezoek aan Argentinië van de toenmalige kroonprins Akihito, de huidige keizer van Japan.

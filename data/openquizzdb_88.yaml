@@ -1,0 +1,280 @@
+---
+fournisseur: OpenQuizzDB - Fournisseur de contenu libre (https://www.openquizzdb.org)
+rédacteur: Philippe Bresoux
+thème: Toy Story (Vers l'infini et l'au-delà)
+difficulté: 2 / 5
+quizz:
+  fr:
+  - débutant:
+    - id: 1
+      question: Comment se prénomme le cow-boy héros de la saga « Toy Story » ?
+      propositions:
+      - Woody
+      - Pile-Poil
+      - Randy
+      - Jessy
+      réponse: Woody
+      anecdote: Woody est loyal, toujours prêt à aider les autres et ferait n'importe quoi pour Andy.
+    - id: 2
+      question: Qui est l'ennemi de Woody au début de « Toy Story », devenant par la suite son ami ?
+      propositions:
+      - Buzz
+      - Rex
+      - Razmotte
+      - Sid
+      réponse: Buzz
+      anecdote: Le plus grand défaut de Buzz l'Éclair est de se prendre continuellement pour un vrai ranger de l'espace.
+    - id: 3
+      question: Combien d'yeux ont les extraterrestres vendus dans un des jeux d'arcade de Pizza Planet ?
+      propositions:
+      - Quatre
+      - Deux
+      - Trois
+      - Un seul
+      réponse: Trois
+      anecdote: Les aliens sont tous identiques : de couleur verte, costume bleu, une antenne et trois yeux.
+    - id: 4
+      question: Quel effrayant voisin d'Andy torture les jouets dans « Toy Story » ?
+      propositions:
+      - Chuck
+      - Ted
+      - Sid
+      - Zurg
+      réponse: Sid
+      anecdote: Dans « Toy Story 3 », Sid est devenu éboueur et ramasse les poubelles dans le quartier d'Andy.
+    - id: 5
+      question: Dans quel restaurant la maman d'Andy l'a-t-elle invité pour aller manger des pizzas ?
+      propositions:
+      - Pizza Hut
+      - Pizza Paï
+      - Pizza Lunch
+      - Pizza Planet
+      réponse: Pizza Planet
+      anecdote: Les restaurants Pizza Planet, ayant pour logo une fusée rouge et blanche, prennent pour thème l'espace et la science-fiction.
+    - id: 6
+      question: De quels studios est sorti « Toy Story », premier long-métrage en images de synthèse ?
+      propositions:
+      - Pixar
+      - Sony
+      - Touchstone
+      - Marvel
+      réponse: Pixar
+      anecdote: Pixar a été créé en 1979 sous le nom de Graphics Group, un service de la division informatique de Lucasfilm.
+    - id: 7
+      question: En quelle année est sorti le tout premier voler de la saga « Toy Story » ?
+      propositions:
+      - 2010
+      - 2000
+      - 1995
+      - 2005
+      réponse: 1995
+      anecdote: En 2015, de nombreuses télévisions ont fêté le vingtième anniversaire de la saga au succès planétaire.
+    - id: 8
+      question: À la garderie, dans « Toy Story 3 », de qui Barbie tombe-t-elle follement amoureuse ?
+      propositions:
+      - Sid
+      - Ken
+      - GI Joe
+      - Ben 10
+      réponse: Ken
+      anecdote: Ken et Barbie, un des ex-jouets de Molly, se déclarent leurs sentiments et seule Barbie échappe à leur terrifiante destinée.
+    - id: 9
+      question: Dans quel film le trio extraterrestre est-il adopté par Monsieur et Madame Patate ?
+      propositions:
+      - Toy Story 2
+      - Toy Story 4
+      - Toy Story 3
+      - Toy Story
+      réponse: Toy Story 2
+      anecdote: Les aliens proviennent du restaurant Pizza Planet et sont des jouets à gagner au jeu du grappin.
+    - id: 10
+      question: Qui est le jouet préféré d'Andy au début du film « Toy Story » ?
+      propositions:
+      - Monsieur Patate
+      - Buzz
+      - Rex
+      - Woody
+      réponse: Woody
+      anecdote: Woody est un cow-boy doté d'une corde vocale dans son dos, qui émet des phrases lorsqu'on la tire.
+  - confirmé:
+    - id: 11
+      question: Comment s'appelle le chien d'Andy dans la saga « Toy Story » ?
+      propositions:
+      - Lotso
+      - Scud
+      - Razmotte
+      - Pile-Poil
+      réponse: Razmotte
+      anecdote: Contrairement à leurs craintes initiales, Razmotte est devenu, pour les jouets de la chambre d'Andy, un compagnon de jeu.
+    - id: 12
+      question: À qui appartiennent les jouets dont font partie Woody, Buzz et ses amis ?
+      propositions:
+      - Daisy
+      - Sid
+      - Lisa
+      - Andy
+      réponse: Andy
+      anecdote: Andy tient énormément à tous ses jouets, et certains plus que d'autres, au point de les garder jusque dans son adolescence.
+    - id: 13
+      question: Dans quel lieu se déroule la scène du combat final dans « Toy Story 2 » ?
+      propositions:
+      - Hôtel
+      - Aéroport
+      - Gare
+      - École
+      réponse: Aéroport
+      anecdote: « Toy Story 2 » est souvent considéré pour beaucoup comme étant le meilleur opus de la saga « Toy Story ».
+    - id: 14
+      question: Qui a réalisé les deux premiers films de la saga « Toy Story » ?
+      propositions:
+      - Lee Unkrich
+      - Ralph Guggenheim
+      - John Lasseter
+      - Bonnie Arnold
+      réponse: John Lasseter
+      anecdote: Le 31 octobre 2011, John Lasseter est entré dans la légende en obtenant une étoile sur le Walk of Fame d'Hollywood Boulevard.
+    - id: 15
+      question: Quel acteur américain double la voix du Shérif Woody dans la version originale de « Toy Story » ?
+      propositions:
+      - Tom Hanks
+      - Jack Nicholson
+      - Anthony Hopkins
+      - Nicolas Cage
+      réponse: Tom Hanks
+      anecdote: En 2012, les films auxquels a participé Tom Hanks ont généré plus de 4 milliards de dollars.
+    - id: 16
+      question: Comment Sid, passionné de torture et voisin du jeune Andy, a-t-il appelé son chien ?
+      propositions:
+      - Ken
+      - Scud
+      - Ruby
+      - Zurg
+      réponse: Scud
+      anecdote: De la race des bull terriers, Scud est un chien violent et mal dressé qui adore détruire les jouets qui tombent sous ses crocs.
+    - id: 17
+      question: Lotso, le vieil ours en peluche de « Toy Story 3 », est parfumé avec quelle senteur ?
+      propositions:
+      - La fraise
+      - La framboise
+      - La banane
+      - La pomme
+      réponse: La fraise
+      anecdote: Lotso est un gros nounours tout doux avec un corps en peluche rose et blanche et un nez en velours violet.
+    - id: 18
+      question: Quel dessin retrouve-t-on sur le tee-shirt noir de Sid dans le film « Toy Story » ?
+      propositions:
+      - Un smiley
+      - Un éclair
+      - Une tête de mort
+      - Le nombre 95
+      réponse: Une tête de mort
+      anecdote: Enfant solitaire, Sid passe la majeure partie de son temps à expérimenter ses idées diaboliques sur les jouets qu'il récupère.
+    - id: 19
+      question: De quelle couleur est la pieuvre Flex dans le film d'animation « Toy Story 3 » ?
+      propositions:
+      - Violette
+      - Verte
+      - Rouge
+      - Bleue
+      réponse: Violette
+      anecdote: Flex est une pieuvre violette possédant des dizaines de petites ventouses sur ses huit longs tentacules.
+    - id: 20
+      question: Comment se prénomme l'enfant propriétaire de Lotso, Rictus et Big Baby ?
+      propositions:
+      - Mary
+      - Daisy
+      - Ruby
+      - Molly
+      réponse: Daisy
+      anecdote: Woody présente à Big Bay et à Lotso un coeur sur lequel est inscrit le nom de Daisy, leur propriétaire.
+  - expert:
+    - id: 21
+      question: Dans « Toy Story 2 », à qui appartenait Jessie avant d'être abandonnée ?
+      propositions:
+      - Suzy
+      - Molly
+      - Emily
+      - Mary
+      réponse: Emily
+      anecdote: Toujours surexcitée et débordante d'énergie, elle est heureuse de voir Woody à ses côtés.
+    - id: 22
+      question: Qui se trouve être l'empereur Zurg, dans une référence à Luke Skywalker et Dark Vador ?
+      propositions:
+      - Le père de Buzz
+      - L'oncle de Buzz
+      - Le fils de Buzz
+      - Le frère de Buzz
+      réponse: Le père de Buzz
+      anecdote: Dans « Toy Story 3 », Zurg fait une apparition dans un carton de jouets donné à la garderie Sunnyside.
+    - id: 23
+      question: Dans « Toy Story », qui est l'ennemi juré de Buzz, le cosmonaute ?
+      propositions:
+      - Scud
+      - Vador
+      - Zurg
+      - Spock
+      réponse: Zurg
+      anecdote: Menaçant l'alliance galactique défendue par Buzz, il apparaît à deux reprises dans le film « Toy Story 2 ».
+    - id: 24
+      question: Quelle est la couleur de la salopette de Papi Pépite dans « Toy Story 2 » ?
+      propositions:
+      - Jaune
+      - Verte
+      - Bleue
+      - Rouge
+      réponse: Bleue
+      anecdote: Papi Pépite n'a jamais été ouvert et figure toujours dans sa boîte, ce qui lui donne une grande valeur aux yeux des collectionneurs.
+    - id: 25
+      question: Dans « Toy Story 3 », où les jouets d'Andy sont-ils fait prisonniers par l'horrible Lotso ?
+      propositions:
+      - Dans le grenier
+      - À Sunnyside
+      - Chez Bonnie
+      - Au parc
+      réponse: À Sunnyside
+      anecdote: Devenu chef de Sunnyside et régnant à la manière d'un tyran, Lotso présente toutefois une image joviale.
+    - id: 26
+      question: Avec quel jeu Zig-Zag veut-il passer du temps avec Woody au début du film « Toy Story » ?
+      propositions:
+      - Au jeu de l'oie
+      - Aux dames
+      - Aux cartes
+      - Aux échecs
+      réponse: Aux échecs
+      anecdote: Surnommé Ziggy par Woody, Zig-Zag est un teckel en plastique avec un long ressort en guise de corps.
+    - id: 27
+      question: Buzz l'Éclair est probablement le meilleur agent de quelle base de l'espace ?
+      propositions:
+      - SideralStar
+      - StarCommand
+      - AstralCorp
+      - MoonLight
+      réponse: StarCommand
+      anecdote: Le prénom de Buzz l'Éclair, le ranger de l'espace, est inspiré de l'astronaute d'Apollo, Buzz Aldrin.
+    - id: 28
+      question: Dans quelle salle se retrouvent Buzz et ses autres amis dans « Toy Story 3 » ?
+      propositions:
+      - Salle des limaces
+      - Salle des fourmis
+      - Salle des chenilles
+      - Salle des papillons
+      réponse: Salle des chenilles
+      anecdote: La salle de Lotso et des autres, qui accueille des enfants beaucoup moins perturbés, est celle des papillons.
+    - id: 29
+      question: Quel nouvel accessoire possède le Buzz du magasin de jouets dans « Toy Story 2 » ?
+      propositions:
+      - Une ceinture
+      - Un pistolet
+      - Des gants
+      - Des bottes
+      réponse: Une ceinture
+      anecdote: Buzz est en vente chez « Al La ferme aux jouets » et a pour accessoire une ceinture anti-gravitationnelle lui permettant de flotter.
+    - id: 30
+      question: Dans « Toy Story », quel jouet Molly frappe-t-elle régulièrement sur les barreaux de son parc ?
+      propositions:
+      - Rex
+      - Woody
+      - Buzz
+      - Monsieur Patate
+      réponse: Monsieur Patate
+      anecdote: Monsieur Patate peut facilement perdre les accessoires qui s'accrochent à son socle et qui lui servent de visage.

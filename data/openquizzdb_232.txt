@@ -1,0 +1,1487 @@
+**
+** OpenQuizzDB    
+** Fournisseur de contenu libre
+**
+** Quizz : OpenBSD
+** [ L'intransigeance du code source ]
+** Niveau de difficulté : 5 / 5
+** Rédacteur : Philippe Bresoux
+** 
+** https://www.openquizzdb.org
+**
+
+- - - - -
+ F R A N C A I S
+- - - - -
+
+[1 - Débutant]
+Question: OpenBSD est un système d'exploitation libre de quel type ?
+A > Unix *
+B > System V
+C > Linux
+D > Posix
+Anecdote: Un système d'exploitation de type Unix est un système d'exploitation qui se comporte d'une façon semblable à un système Unix.
+
+[2 - Débutant]
+Question: Quel ingénieur est à l'origine de la création du système OpenBSD ?
+A > Theo de Raadt *
+B > Alan Cox
+C > Linus Torvalds
+D > Richard Stallman
+Anecdote: C'est à la suite de son exclusion du conseil d'administration de NetBSD que Theo de Raadt a fondé le projet OpenBSD en 1994.
+
+[3 - Débutant]
+Question: OpenBSD est issu de la séparation de quel autre système d'exploitation ?
+A > NetBSD *
+B > Fedora
+C > Debian
+D > Solaris
+Anecdote: NetBSD est entièrement fondé sur des logiciels libres, la plupart des composants étant soumis à la Licence BSD.
+
+[4 - Débutant]
+Question: Lequel de ces éléments renforce la qualité du projet OpenBSD ?
+A > Documentation *
+B > Design
+C > Prix
+D > Souplesse
+Anecdote: Liberté du code source, qualité de la documentation, sécurité et cryptographie intégrée sont les ingrédients principaux d'OpenBSD.
+
+[5 - Débutant]
+Question: Sur quel point les développeurs d'OpenBSD se concentrent-ils principalement ?
+A > Sécurité *
+B > Esthétique
+C > Rendement
+D > Bureautique
+Anecdote: Les développeurs doivent faire ce qui est correct, propre et sécurisé, au détriment de la facilité, de la vitesse ou des fonctionnalités.
+
+[6 - Débutant]
+Question: Quel nom a été donné à la mascotte du projet libre OpenBSD ?
+A > Puffy *
+B > Tux
+C > Dogcow
+D > Wilber
+Anecdote: Puffy est employé pour signifier l'intention des concepteurs de faire un système d'exploitation particulièrement dur à attaquer.
+
+[7 - Débutant]
+Question: À quelle fréquence l'équipe d'OpenBSD réalise-t-elle une nouvelle version ?
+A > Six mois *
+B > Trois ans
+C > Deux ans
+D > Cinq ans
+Anecdote: D'après undeadly.org, le projet OpenBSD aurait subi des pertes financières de l'ordre de 20 000 dollars par an en 2004 et en 2005.
+
+[8 - Débutant]
+Question: Quel est le projet annexe à OpenBSD le plus connu du groupe ?
+A > OpenSSH *
+B > CrossCrypt
+C > CipherShed
+D > Cryptoloop
+Anecdote: OpenSSH est un ensemble d'outils informatiques libres permettant des communications sécurisées sur un réseau informatique.
+
+[9 - Débutant]
+Question: Quel événement réunit un groupe de développeurs OpenBSD sur plusieurs jours ?
+A > Hackathon *
+B > Sicob
+C > CeBIT
+D > Museomix
+Anecdote: La philosophie du hackathon prend sa source dans les idées des mouvements Free/Libre Open Source Software.
+
+[10 - Débutant]
+Question: Que réalisent de manière permanente les développeurs d'OpenBSD ?
+A > Audits *
+B > Conférences
+C > Croquis
+D > Chansons
+Anecdote: Le projet pratique des audits de codes considérés comme étant des éléments importants de la sécurité d'un système.
+
+[11 - Confirmé]
+Question: Dans combien de dépôts CVS est développé le noyau d'OpenBSD ?
+A > Un seul *
+B > Deux
+C > Trois
+D > Quatre
+Anecdote: Les logiciels tiers sont offerts en paquets binaires ou peuvent être compilés depuis leurs sources grâce à la collection des ports.
+
+[12 - Confirmé]
+Question: De quelle ville Theo de Raadt coordonne-t-il le projet OpenBSD ?
+A > Calgary *
+B > Nagano
+C > Innsbruck
+D > Grenoble
+Anecdote: La ville de Calgary, à l'est des montagnes Rocheuses, est une destination bien connue pour les sports d'hiver et l'écotourisme.
+
+[13 - Confirmé]
+Question: Après la sortie de quelle version de NetBSD le projet OpenBSD fut-il créé ?
+A > 1.0 *
+B > 1.5
+C > 2.0
+D > 2.5
+Anecdote: Theo De Raadt démissionna et créa en 1994 le système OpenBSD d'après la version 1.0 de NetBSD, comme l'en autorisait la licence.
+
+[14 - Confirmé]
+Question: Quel algorithme fut ajouté pour le chiffrement des mots de passe sur OpenBSD ?
+A > Blowfish *
+B > Camellia
+C > Skipjack
+D > Square
+Anecdote: Conçu par Bruce Schneier, Blowfish utilise une taille de bloc de 64 bits et la clé de longueur variable peut aller de 32 à 448 bits.
+
+[15 - Confirmé]
+Question: En quoi est converti le code C au format classique pre-ANSI pour les gars d'OpenBSD ?
+A > ANSI *
+B > TSE
+C > JSA
+D > CSTB
+Anecdote: Ceci ne doit pas impliquer des changements de fonctionnalités et n'est réalisé qu'à des fins de lisibilité et de cohérence.
+
+[16 - Confirmé]
+Question: Quel terme désigne un nouveau logiciel créé à partir d'un logiciel existant ?
+A > Fork *
+B > Commit
+C > Trunk
+D > Merge
+Anecdote: Un fork peut être bénéfique pour un projet donné lorsque sa gouvernance actuelle conduit, par exemple, à une impasse.
+
+[17 - Confirmé]
+Question: Quelle société a injecté d'importantes liquidités pour soutenir OpenSSH ?
+A > Microsoft *
+B > Apple
+C > Facebook
+D > Twitter
+Anecdote: En 2016, le chiffre d'affaires de Microsoft Corporation s'élevait à 89,95 milliards de dollars avec 120 000 employés dans 107 pays.
+
+[18 - Confirmé]
+Question: Pour qui le système OpenBSD est-il surtout très intéressant ?
+A > Développeurs *
+B > Utilisateurs
+C > Commerciaux
+D > Internautes
+Anecdote: Beaucoup d'utilisateurs ne connaissent pas OpenBSD et se tournent vers des systèmes plus populaires comme Linux ou FreeBSD.
+
+[19 - Confirmé]
+Question: Quel pare-feu d'OpenBSD est désormais utilisé sur Mac OS X ?
+A > Packet Filter *
+B > Firestarter
+C > Comodo
+D > ClearOS
+Anecdote: Un port gratuit de PF a été réalisé pour les systèmes d'exploitation Windows 2000 et XP par la communauté Core FORCE.
+
+[20 - Confirmé]
+Question: Quelle interface de programmation (API) sécurisée est souvent associée à strlcat ?
+A > Strlcpy *
+B > Sudo
+C > Wget
+D > Chmod
+Anecdote: Une interface de programmation est une façade clairement délimitée par laquelle un logiciel offre des services à d'autres logiciels.
+
+[21 - Expert]
+Question: Sous OpenBSD, quelle technique de mise en cage permet la gestion des privilèges ?
+A > Chroot *
+B > Bash
+C > Grep
+D > Rlogin
+Anecdote: La séparation des privilèges est une technique, pionnière sur OpenBSD, et inspirée du principe du moindre privilège.
+
+[22 - Expert]
+Question: Quelle licence open source propre est utilisée par OpenBSD ?
+A > ISC *
+B > LPPL
+C > SPDX
+D > CeCILL
+Anecdote: Cette licence propre a conduit à un audit exhaustif des licences et des remplacements, voire des suppressions de codes sous licences.
+
+[23 - Expert]
+Question: Que représente la mascotte régulièrement utilisée par le projet OpenBSD ?
+A > Diodon *
+B > Cachalot
+C > Gnou
+D > Chapeau
+Anecdote: Ces espèces sont souvent appelées poissons-hérissons, poissons porc-épic ou encore hérisson des mers.
+
+[24 - Expert]
+Question: Avec quelle société Theo de Raadt a-t-il sorti OpenBSD 2.3 ?
+A > Secure Networks inc. *
+B > Cisco
+C > Sysdream
+D > Corail Systems
+Anecdote: SNI était une société locale de logiciels de sécurité qui développait un outil d'audit de la sécurité réseau nommé Ballista.
+
+[25 - Expert]
+Question: Qui a découvert en 2002 une faille dans le code d'OpenSSH ?
+A > Mark Dow *
+B > Joel Knight
+C > Chris Cappuccio
+D > Steven Mestdagh
+Anecdote: Ce fut la première vulnérabilité découverte dans l'installation par défaut d'OpenBSD permettant d'accéder au compte superutilisateur.
+
+[26 - Expert]
+Question: À quel endroit du code d'OpenBSD a-t-on découvert une faille en 2007 ?
+A > Pile IPV6 *
+B > Fdisk
+C > NFS
+D > Packet Filter
+Anecdote: Internet Protocol version 6 est un protocole réseau sans connexion de la couche 3 du modèle OSI (Open Systems Interconnection).
+
+[27 - Expert]
+Question: Quelle technique de protection de mémoire est implémentée dans le code d'OpenBSD ?
+A > ProPolice *
+B > LinShare
+C > ClamWin
+D > PhotoRec
+Anecdote: La protection Stack-Smashing Protector a originairement été écrite, et est toujours entretenue, par Hiroaki Etoh de la société IBM.
+
+[28 - Expert]
+Question: Sur combien de plates-formes matérielles OpenBSD a-t-il fonctionné ?
+A > 32 *
+B > 22
+C > 12
+D > 42
+Anecdote: OpenBSD peut également exécuter des programmes compilés pour Linux (sur les processeurs i386 uniquement).
+
+[29 - Expert]
+Question: Quel projet du groupe OpenBSD permet de remplacer sendmail ?
+A > OpenSMTPD *
+B > OpenNTPD
+C > OpenBGPD
+D > OpenCVS
+Anecdote: Le développement d'OpenSMTPD a commencé fin 2008. Il est apparu pour la première fois dans OpenBSD 4.6.
+
+[30 - Expert]
+Question: Quelle version d'Apache lourdement modifiée est intégrée à OpenBSD ?
+A > 1.3 *
+B > 2.3
+C > 3.3
+D > 4.3
+Anecdote: Maintenu au sein de la fondation Apache, distribué sous la licence Apache, ce serveur HTTP est le plus populaire du web.
+
+* = Bonne réponse
+ 
+- - - - -
+ A N G L A I S
+- - - - -
+
+[1 - Débutant]
+Question: OpenBSD is what type of free operating system ?
+A > Unix *
+B > System V
+C > Linux
+D > Posix
+Anecdote: A Unix-like operating system is an operating system that behaves in a similar way to a Unix system.
+
+[2 - Débutant]
+Question: Which engineer was behind the creation of the OpenBSD system ?
+A > Theo de Raadt *
+B > Alan Cox
+C > Linus Torvalds
+D > Richard Stallman
+Anecdote: It was after his exclusion from the NetBSD board that Theo de Raadt founded the OpenBSD project in 1994.
+
+[3 - Débutant]
+Question: OpenBSD came from the separation of what other operating system ?
+A > NetBSD *
+B > Fedora
+C > Debian
+D > Solaris
+Anecdote: NetBSD is entirely based on free software, most of the components being subject to the BSD License.
+
+[4 - Débutant]
+Question: Which of these elements enhances the quality of the OpenBSD project ?
+A > Documentation *
+B > Design
+C > Price
+D > Flexibility
+Anecdote: Source code freedom, quality of documentation, security and integrated cryptography are the main ingredients of OpenBSD.
+
+[5 - Débutant]
+Question: What are the main focuses of the OpenBSD developers ?
+A > Security *
+B > Aesthetic
+C > Yield
+D > Office automation
+Anecdote: Developers must do what is right, clean and secure, at the expense of ease, speed, or functionality.
+
+[6 - Débutant]
+Question: What name was given to the mascot of the free OpenBSD project ?
+A > Puffy *
+B > Tux
+C > Dogcow
+D > Wilber
+Anecdote: Puffy is used to signify the intention of designers to make an operating system particularly hard to attack.
+
+[7 - Débutant]
+Question: How often does the OpenBSD team release a new version ?
+A > Six months *
+B > Three years
+C > Two years
+D > Five years
+Anecdote: According to undeadly.org, the OpenBSD project suffered financial losses of around $ 20,000 a year in 2004 and 2005.
+
+[8 - Débutant]
+Question: What is the group's best-known OpenBSD side project ?
+A > OpenSSH *
+B > CrossCrypt
+C > CipherShed
+D > Cryptoloop
+Anecdote: OpenSSH is a set of free IT tools allowing secure communications on a computer network.
+
+[9 - Débutant]
+Question: What event brings a group of OpenBSD developers together over several days ?
+A > Hackathon *
+B > Sicob
+C > CeBIT
+D > Museomix
+Anecdote: The philosophy of the hackathon has its source in the ideas of the Free / Libre Open Source Software movements.
+
+[10 - Débutant]
+Question: What do OpenBSD developers permanently achieve ?
+A > Audits *
+B > Conferences
+C > Sketch
+D > Songs
+Anecdote: The project practices code audits which are considered to be important elements of the security of a system.
+
+[11 - Confirmé]
+Question: In how many CVS repositories is the OpenBSD kernel developed ?
+A > One *
+B > Two
+C > Three
+D > Four
+Anecdote: Third party software is offered in binary packages or can be compiled from source using the collection of ports.
+
+[12 - Confirmé]
+Question: From which city is Theo de Raadt coordinating the OpenBSD project ?
+A > Calgary *
+B > Nagano
+C > Innsbruck
+D > Grenoble
+Anecdote: The city of Calgary, east of the Rocky Mountains, is a well-known destination for winter sports and eco-tourism.
+
+[13 - Confirmé]
+Question: After the release of which version of NetBSD was the OpenBSD project created ?
+A > 1.0 *
+B > 1.5
+C > 2.0
+D > 2.5
+Anecdote: Theo De Raadt divested and created the OpenBSD system in 1994 from version 1.
+
+[14 - Confirmé]
+Question: What algorithm was added for password encryption on OpenBSD ?
+A > Blowfish *
+B > Camellia
+C > Skipjack
+D > Square
+Anecdote: Designed by Bruce Schneier, Blowfish uses a block size of 64 bits and the variable length key can range from 32 to 448 bits.
+
+[15 - Confirmé]
+Question: How is C code converted to the classic pre-ANSI format for OpenBSD programmers ?
+A > ANSI *
+B > TSE
+C > JSA
+D > CSTB
+Anecdote: This should not imply changes in functionality and is only done for readability and consistency.
+
+[16 - Confirmé]
+Question: What term denotes new software created from existing software ?
+A > Fork *
+B > Commit
+C > Trunk
+D > Merge
+Anecdote: A fork can be beneficial for a given project when its current governance leads, for example, to an impasse.
+
+[17 - Confirmé]
+Question: Which company injected significant cash to support OpenSSH ?
+A > Microsoft *
+B > Apple
+C > Facebook
+D > Twitter
+Anecdote: In 2016, Microsoft Corporation revenue was $ 89.95 billion with 120,000 employees in 107 countries.
+
+[18 - Confirmé]
+Question: For whom is the OpenBSD system especially interesting ?
+A > Developers *
+B > Users
+C > Commercial
+D > Internet users
+Anecdote: Many users are unfamiliar with OpenBSD and are turning to more popular systems like Linux or FreeBSD.
+
+[19 - Confirmé]
+Question: Which OpenBSD firewall is now used on Mac OS X ?
+A > Packet Filter *
+B > Firestarter
+C > Comodo
+D > ClearOS
+Anecdote: A free PF port has been realized for Windows 2000 and XP operating systems by the Core FORCE community.
+
+[20 - Confirmé]
+Question: Which secure programming interface (API) is often associated with strlcat ?
+A > Strlcpy *
+B > Sudo
+C > Wget
+D > Chmod
+Anecdote: A programming interface is a clearly defined facade by which software offers services to other software.
+
+[21 - Expert]
+Question: Under OpenBSD, what caging technique known to admins allows privilege management ?
+A > Chroot *
+B > Bash
+C > Grep
+D > Rlogin
+Anecdote: Privilege separation is a pioneering technique on OpenBSD, inspired by the principle of least privilege.
+
+[22 - Expert]
+Question: What own open source license is used by OpenBSD ?
+A > ISC *
+B > LPPL
+C > SPDX
+D > CeCILL
+Anecdote: This own license led to a comprehensive audit of licenses and replacements, or even deletions of licensed codes.
+
+[23 - Expert]
+Question: What does the mascot regularly used by the OpenBSD project represent ?
+A > Diodon *
+B > Sperm whale
+C > Wildebeest
+D > Hat
+Anecdote: These species are often called hedgehog fish, porcupine fish or sea hedgehog.
+
+[24 - Expert]
+Question: With which company did Theo de Raadt release OpenBSD 2.3 ?
+A > Secure Networks inc. *
+B > Cisco
+C > Sysdream
+D > Corail Systems
+Anecdote: SNI was a local security software company that developed a network security audit tool called Ballista.
+
+[25 - Expert]
+Question: Who discovered a flaw in the OpenSSH code in 2002 ?
+A > Mark Dow *
+B > Joel Knight
+C > Chris Cappuccio
+D > Steven Mestdagh
+Anecdote: It was the first vulnerability discovered in the default installation of OpenBSD allowing access to the superuser account.
+
+[26 - Expert]
+Question: Where in the OpenBSD code was discovered in 2007 ?
+A > IPV6 battery *
+B > Fdisk
+C > NFS
+D > Packet Filter
+Anecdote: Internet Protocol version 6 is a connectionless network protocol of layer 3 of the OSI (Open Systems Interconnection) model.
+
+[27 - Expert]
+Question: What memory protection technique is implemented in the OpenBSD code ?
+A > ProPolice *
+B > LinShare
+C > ClamWin
+D > PhotoRec
+Anecdote: The Stack-Smashing Protector protection was originally written, and is still maintained, by Hiroaki Etoh of the company IBM.
+
+[28 - Expert]
+Question: How many hardware platforms has OpenBSD run on ?
+A > 32 *
+B > 22
+C > 12
+D > 42
+Anecdote: OpenBSD can also run programs compiled for Linux (on i386 processors only).
+
+[29 - Expert]
+Question: Which OpenBSD group project can replace sendmail ?
+A > OpenSMTPD *
+B > OpenNTPD
+C > OpenBGPD
+D > OpenCVS
+Anecdote: Development of OpenSMTPD began in late 2008. It first appeared in OpenBSD 4.6.
+
+[30 - Expert]
+Question: Which heavily modified version of Apache is integrated with OpenBSD ?
+A > 1.3 *
+B > 2.3
+C > 3.3
+D > 4.3
+Anecdote: Maintained within the Apache foundation, distributed under the Apache license, this HTTP server is the most popular on the web.
+
+* = Bonne réponse
+
+- - - - -
+ A L L E M A N D
+- - - - -
+
+[1 - Débutant]
+Question: OpenBSD ist was für ein freies Betriebssystem ?
+A > Unix *
+B > System V
+C > Linux
+D > Posix
+Anecdote: Ein Unix-ähnliches Betriebssystem ist ein Betriebssystem, das sich ähnlich wie ein Unix-System verhält.
+
+[2 - Débutant]
+Question: Welcher Ingenieur hat das OpenBSD-System entwickelt ?
+A > Theo de Raadt *
+B > Alan Cox
+C > Linus Torvalds
+D > Richard Stallman
+Anecdote: Nach seinem Ausschluss aus dem NetBSD-Vorstand gründete Theo de Raadt 1994 das OpenBSD-Projekt.
+
+[3 - Débutant]
+Question: OpenBSD kam aus der Trennung von welchem anderen Betriebssystem ?
+A > NetBSD *
+B > Fedora
+C > Debian
+D > Solaris
+Anecdote: NetBSD basiert vollständig auf freier Software, wobei die meisten Komponenten der BSD-Lizenz unterliegen.
+
+[4 - Débutant]
+Question: Welches dieser Elemente verbessert die Qualität des OpenBSD-Projekts ?
+A > Dokumentation *
+B > Design
+C > Preis
+D > Flexibilität
+Anecdote: Quellcode-Freiheit, Dokumentationsqualität, Sicherheit und integrierte Kryptographie sind die Hauptbestandteile von OpenBSD.
+
+[5 - Débutant]
+Question: Was sind die Schwerpunkte der OpenBSD-Entwickler ?
+A > Sicherheit *
+B > Ästhetik
+C > Ausbeute
+D > Büroautomation
+Anecdote: Entwickler müssen auf Kosten der Benutzerfreundlichkeit, Geschwindigkeit oder Funktionalität das tun, was richtig, sauber und sicher ist.
+
+[6 - Débutant]
+Question: Wie hieß das Maskottchen des kostenlosen OpenBSD-Projekts ?
+A > Puffy *
+B > Tux
+C > Dogcow
+D > Wilber
+Anecdote: Mit Puffy wird die Absicht von Designern bezeichnet, ein Betriebssystem besonders schwer anzugreifen.
+
+[7 - Débutant]
+Question: Wie oft veröffentlicht das OpenBSD Team eine neue Version ?
+A > Sechs Monate *
+B > Drei Jahre
+C > Zwei Jahre
+D > Fünf Jahre
+Anecdote: Laut undeadly.org erlitt das OpenBSD-Projekt in den Jahren 2004 und 2005 finanzielle Verluste von rund 20.000 USD pro Jahr.
+
+[8 - Débutant]
+Question: Was ist das bekannteste OpenBSD-Nebenprojekt der Gruppe ?
+A > OpenSSH *
+B > CrossCrypt
+C > CipherShed
+D > Cryptoloop
+Anecdote: OpenSSH ist eine Reihe kostenloser IT-Tools, die eine sichere Kommunikation in einem Computernetzwerk ermöglichen.
+
+[9 - Débutant]
+Question: Welche Veranstaltung bringt eine Gruppe von OpenBSD-Entwicklern über mehrere Tage zusammen ?
+A > Hackathon *
+B > Sicob
+C > CeBIT
+D > Museomix
+Anecdote: Die Philosophie des Hackathons hat ihren Ursprung in den Ideen der Free / Libre Open Source Software Bewegungen.
+
+[10 - Débutant]
+Question: Was erreichen OpenBSD-Entwickler dauerhaft ?
+A > Audits *
+B > Konferenzen
+C > Skizze
+D > Lieder
+Anecdote: Das Projekt führt Code-Audits durch, die als wichtige Elemente für die Sicherheit eines Systems angesehen werden.
+
+[11 - Confirmé]
+Question: In wie vielen CVS-Repositories wurde der OpenBSD-Kernel entwickelt ?
+A > Eins *
+B > Zwei
+C > Drei
+D > Vier
+Anecdote: Software von Drittanbietern wird in Binärpaketen angeboten oder kann mithilfe der Portsammlung aus dem Quellcode kompiliert werden.
+
+[12 - Confirmé]
+Question: Von welcher Stadt aus koordiniert Theo de Raadt das OpenBSD-Projekt ?
+A > Calgary *
+B > Nagano
+C > Innsbruck
+D > Grenoble
+Anecdote: Die Stadt Calgary östlich der Rocky Mountains ist ein bekanntes Ziel für Wintersport und Ökotourismus.
+
+[13 - Confirmé]
+Question: Nach der Veröffentlichung welcher NetBSD-Version wurde das OpenBSD-Projekt erstellt ?
+A > 1,0 *
+B > 1,5
+C > 2,0
+D > 2,5
+Anecdote: Theo De Raadt hat das OpenBSD-System 1994 von NetBSD Version 1.
+
+[14 - Confirmé]
+Question: Welcher Algorithmus wurde für die Passwortverschlüsselung unter OpenBSD hinzugefügt ?
+A > Kugelfisch *
+B > Kamelie
+C > Skipjack
+D > Quadrat
+Anecdote: Blowfish wurde von Bruce Schneier entworfen und verwendet eine Blockgröße von 64 Bit.
+
+[15 - Confirmé]
+Question: Wie wird C-Code für OpenBSD-Programmierer in das klassische Pre-ANSI-Format konvertiert ?
+A > ANSI *
+B > TSE
+C > JSA
+D > CSTB
+Anecdote: Dies sollte keine Änderungen in der Funktionalität bedeuten und wird nur aus Gründen der Lesbarkeit und Konsistenz durchgeführt.
+
+[16 - Confirmé]
+Question: Welcher Begriff bezeichnet neue Software, die aus vorhandener Software erstellt wurde ?
+A > Gabel *
+B > Commit
+C > Kofferraum
+D > Zusammenführen
+Anecdote: Eine Abzweigung kann für ein bestimmtes Projekt von Vorteil sein, wenn die aktuelle Governance beispielsweise zu einer Sackgasse führt.
+
+[17 - Confirmé]
+Question: Welches Unternehmen hat beträchtliche Summen für die Unterstützung von OpenSSH bereitgestellt ?
+A > Microsoft *
+B > Apple
+C > Facebook
+D > Twitter
+Anecdote: Im Jahr 2016 erzielte die Microsoft Corporation mit 120.000 Mitarbeitern in 107 Ländern einen Umsatz von 89,95 Milliarden US-Dollar.
+
+[18 - Confirmé]
+Question: Für wen ist das OpenBSD System besonders interessant ?
+A > Entwickler *
+B > Benutzer
+C > Kommerziell
+D > Internetnutzer
+Anecdote: Viele Benutzer sind mit OpenBSD nicht vertraut und greifen auf populärere Systeme wie Linux oder FreeBSD zurück.
+
+[19 - Confirmé]
+Question: Welche OpenBSD-Firewall wird jetzt unter Mac OS X verwendet ?
+A > Paketfilter *
+B > Feuerstarter
+C > Comodo
+D > ClearOS
+Anecdote: Ein freier PF-Port wurde von der Core FORCE-Community für Windows 2000- und XP-Betriebssysteme realisiert.
+
+[20 - Confirmé]
+Question: Welche sichere Programmierschnittstelle (API) wird häufig mit strlcat in Verbindung gebracht ?
+A > Strlcpy *
+B > Sudo
+C > Wget
+D > Chmod
+Anecdote: Eine Programmierschnittstelle ist eine klar definierte Fassade, über die Software Dienste für andere Software anbietet.
+
+[21 - Expert]
+Question: Welche Caging-Technik, die Administratoren unter OpenBSD bekannt ist, ermöglicht die Rechteverwaltung ?
+A > Chroot *
+B > Bash
+C > Grep
+D > Rlogin
+Anecdote: Privilegientrennung ist eine wegweisende Technik unter OpenBSD, die vom Prinzip der geringsten Privilegien inspiriert ist.
+
+[22 - Expert]
+Question: Welche eigene Open Source-Lizenz wird von OpenBSD verwendet ?
+A > ISC *
+B > LPPL
+C > SPDX
+D > CeCILL
+Anecdote: Diese eigene Lizenz führte zu einer umfassenden Prüfung von Lizenzen und Ersetzungen oder sogar zur Löschung von Lizenzcodes.
+
+[23 - Expert]
+Question: Wofür steht das Maskottchen, das das OpenBSD-Projekt regelmäßig verwendet ?
+A > Diodon *
+B > Pottwal
+C > Gnus
+D > Hut
+Anecdote: Diese Arten werden oft Igelfische, Stachelschweinfische oder Seeigel genannt.
+
+[24 - Expert]
+Question: Mit welcher Firma hat Theo de Raadt OpenBSD 2.3 veröffentlicht ?
+A > Secure Networks Inc. *
+B > Cisco
+C > Sysdream
+D > Corail Systems
+Anecdote: SNI war ein lokales Unternehmen für Sicherheitssoftware, das das Netzwerksicherheits-Audit-Tool Ballista entwickelte.
+
+[25 - Expert]
+Question: Wer hat 2002 einen Fehler im OpenSSH-Code entdeckt ?
+A > Mark Dow *
+B > Joel Knight
+C > Chris Cappuccio
+D > Steven Mestdagh
+Anecdote: Es war die erste Schwachstelle, die in der Standardinstallation von OpenBSD entdeckt wurde und den Zugriff auf das Superuser-Konto ermöglichte.
+
+[26 - Expert]
+Question: Wo im OpenBSD-Code wurde 2007 entdeckt ?
+A > IPV6 Batterie *
+B > Fdisk
+C > NFS
+D > Paketfilter
+Anecdote: Internet Protocol Version 6 ist ein verbindungsloses Netzwerkprotokoll der Schicht 3 des OSI-Modells (Open Systems Interconnection).
+
+[27 - Expert]
+Question: Welche Speicherschutztechnik ist im OpenBSD-Code implementiert ?
+A > ProPolice *
+B > LinShare
+C > ClamWin
+D > PhotoRec
+Anecdote: Der Stack-Smashing Protector-Schutz wurde ursprünglich von Hiroaki Etoh von der Firma IBM geschrieben und wird noch immer gepflegt.
+
+[28 - Expert]
+Question: Auf wie vielen Hardware-Plattformen läuft OpenBSD ?
+A > 32 *
+B > 22
+C > 12
+D > 42
+Anecdote: OpenBSD kann auch Programme ausführen, die für Linux kompiliert wurden (nur auf i386-Prozessoren).
+
+[29 - Expert]
+Question: Welches OpenBSD-Gruppenprojekt kann sendmail ersetzen ?
+A > OpenSMTPD *
+B > OpenNTPD
+C > OpenBGPD
+D > OpenCVS
+Anecdote: Die Entwicklung von OpenSMTPD begann Ende 2008. Es erschien zuerst in OpenBSD 4.6.
+
+[30 - Expert]
+Question: Welche stark modifizierte Version von Apache ist in OpenBSD integriert ?
+A > 1.3 *
+B > 2.3
+C > 3.3
+D > 4.3
+Anecdote: Dieser HTTP-Server wird in der Apache Foundation verwaltet und unter der Apache-Lizenz vertrieben.
+
+* = Bonne réponse
+
+- - - - -
+ E S P A G N O L
+- - - - -
+
+[1 - Débutant]
+Question: OpenBSD es qué tipo de sistema operativo libre ?
+A > Unix *
+B > Sistema V
+C > Linux
+D > Posix
+Anecdote: Un sistema operativo tipo Unix es un sistema operativo que se comporta de manera similar a un sistema Unix.
+
+[2 - Débutant]
+Question: ¿Qué ingeniero estuvo detrás de la creación del sistema OpenBSD ?
+A > Theo de Raadt *
+B > Alan Cox
+C > Linus Torvalds
+D > Richard Stallman
+Anecdote: Fue después de su exclusión de la junta de NetBSD que Theo de Raadt fundó el proyecto OpenBSD en 1994.
+
+[3 - Débutant]
+Question: OpenBSD vino de la separación de qué otro sistema operativo ?
+A > NetBSD *
+B > Fedora
+C > Debian
+D > Solaris
+Anecdote: NetBSD está completamente basado en software libre, la mayoría de los componentes están sujetos a la Licencia BSD.
+
+[4 - Débutant]
+Question: ¿Cuál de estos elementos mejora la calidad del proyecto OpenBSD ?
+A > Documentación *
+B > Diseño
+C > Precio
+D > Flexibilidad
+Anecdote: La libertad del código fuente, la calidad de la documentación, la seguridad y la criptografía integrada son los ingredientes principales de OpenBSD.
+
+[5 - Débutant]
+Question: ¿Cuáles son los principales focos de los desarrolladores de OpenBSD ?
+A > Seguridad *
+B > Estética
+C > Rendimiento
+D > Ofimática
+Anecdote: Los desarrolladores deben hacer lo correcto, limpio y seguro, a expensas de la facilidad, la velocidad o la funcionalidad.
+
+[6 - Débutant]
+Question: ¿Qué nombre se le dio a la mascota del proyecto gratuito OpenBSD ?
+A > Puffy *
+B > Tux
+C > Dogcow
+D > Wilber
+Anecdote: Puffy se utiliza para indicar la intención de los diseñadores de hacer que un sistema operativo sea particularmente difícil de atacar.
+
+[7 - Débutant]
+Question: ¿Con qué frecuencia el equipo de OpenBSD lanza una nueva versión ?
+A > Seis meses *
+B > Tres años
+C > Dos años
+D > Cinco años
+Anecdote: Según undeadly.org, el proyecto OpenBSD sufrió pérdidas financieras de alrededor de $ 20,000 al año en 2004 y 2005.
+
+[8 - Débutant]
+Question: ¿Cuál es el proyecto paralelo de OpenBSD más conocido del grupo ?
+A > OpenSSH *
+B > CrossCrypt
+C > CipherShed
+D > Cryptoloop
+Anecdote: OpenSSH es un conjunto de herramientas informáticas gratuitas que permiten comunicaciones seguras en una red informática.
+
+[9 - Débutant]
+Question: ¿Qué evento reúne a un grupo de desarrolladores de OpenBSD durante varios días ?
+A > Hackathon *
+B > Sicob
+C > CeBIT
+D > Museomix
+Anecdote: La filosofía del hackathon tiene su origen en las ideas de los movimientos del software libre / libre de código abierto.
+
+[10 - Débutant]
+Question: ¿Qué hacen los desarrolladores de OpenBSD de forma permanente ?
+A > Auditorias *
+B > Conferencias
+C > Bosquejo
+D > Canciones
+Anecdote: El proyecto practica auditorías de código que se consideran elementos importantes de la seguridad de un sistema.
+
+[11 - Confirmé]
+Question: ¿En cuántos repositorios CVS se desarrolla el núcleo de OpenBSD ?
+A > Uno *
+B > Dos
+C > Tres
+D > Cuatro
+Anecdote: El software de terceros se ofrece en paquetes binarios o puede compilarse desde la fuente utilizando la colección de puertos.
+
+[12 - Confirmé]
+Question: ¿Desde qué ciudad coordina Theo de Raadt el proyecto OpenBSD ?
+A > Calgary *
+B > Nagano
+C > Innsbruck
+D > Grenoble
+Anecdote: La ciudad de Calgary, al este de las Montañas Rocosas, es un destino muy conocido para los deportes de invierno y el ecoturismo.
+
+[13 - Confirmé]
+Question: ¿Después del lanzamiento de qué versión de NetBSD se creó el proyecto OpenBSD ?
+A > 1.0 *
+B > 1,5
+C > 2,0
+D > 2.5
+Anecdote: Theo De Raadt se deshizo y creó el sistema OpenBSD en 1994 a partir de la versión 1.
+
+[14 - Confirmé]
+Question: ¿Qué algoritmo se agregó para el cifrado de contraseña en OpenBSD ?
+A > Blowfish *
+B > Camelia
+C > Skipjack
+D > Plaza
+Anecdote: Diseñado por Bruce Schneier, Blowfish utiliza un tamaño de bloque de 64 bits y la clave de longitud variable puede variar de 32 a 448 bits.
+
+[15 - Confirmé]
+Question: ¿Cómo se convierte el código C al formato clásico anterior a ANSI para los programadores de OpenBSD ?
+A > ANSI *
+B > TSE
+C > JSA
+D > CSTB
+Anecdote: Esto no debería implicar cambios en la funcionalidad y solo se hace para facilitar la lectura y la coherencia.
+
+[16 - Confirmé]
+Question: ¿Qué término denota el nuevo software creado a partir del software existente ?
+A > Tenedor *
+B > Comprometerse
+C > Tronco
+D > Fusionar
+Anecdote: Una bifurcación puede ser beneficiosa para un proyecto dado cuando su gobierno actual conduce, por ejemplo, a un punto muerto.
+
+[17 - Confirmé]
+Question: ¿Qué compañía inyectó efectivo significativo para soportar OpenSSH ?
+A > Microsoft *
+B > Apple
+C > Facebook
+D > Twitter
+Anecdote: En 2016, los ingresos de Microsoft Corporation fueron de $ 89.95 mil millones con 120,000 empleados en 107 países.
+
+[18 - Confirmé]
+Question: ¿Para quién es especialmente interesante el sistema OpenBSD ?
+A > Desarrolladores *
+B > Usuarios
+C > Comercial
+D > Usuarios de internet
+Anecdote: Muchos usuarios no están familiarizados con OpenBSD y están recurriendo a sistemas más populares como Linux o FreeBSD.
+
+[19 - Confirmé]
+Question: ¿Qué firewall de OpenBSD se usa ahora en Mac OS X ?
+A > Filtro de paquetes *
+B > Firestarter
+C > Comodo
+D > ClearOS
+Anecdote: La comunidad Core FORCE ha realizado un puerto PF libre para los sistemas operativos Windows 2000 y XP.
+
+[20 - Confirmé]
+Question: ¿Qué interfaz de programación segura (API) a menudo se asocia con strlcat ?
+A > Strlcpy *
+B > Sudo
+C > Wget
+D > Chmod
+Anecdote: Una interfaz de programación es una fachada claramente definida por la cual el software ofrece servicios a otro software.
+
+[21 - Expert]
+Question: Bajo OpenBSD, ¿qué técnica de enjaulamiento conocida por los administradores permite la gestión de privilegios ?
+A > Chroot *
+B > Bash
+C > Grep
+D > Rlogin
+Anecdote: La separación de privilegios es una técnica pionera en OpenBSD, inspirada en el principio del mínimo privilegio.
+
+[22 - Expert]
+Question: ¿Qué licencia de código abierto propia utiliza OpenBSD ?
+A > ISC *
+B > LPPL
+C > SPDX
+D > CeCILL
+Anecdote: Esta propia licencia condujo a una auditoría integral de licencias y reemplazos, o incluso a la eliminación de códigos con licencia.
+
+[23 - Expert]
+Question: ¿Qué representa la mascota utilizada regularmente por el proyecto OpenBSD ?
+A > Diodon *
+B > Cachalote
+C > Ñu
+D > Sombrero
+Anecdote: Estas especies a menudo se llaman peces erizo, puercoespín o erizo de mar.
+
+[24 - Expert]
+Question: ¿Con qué compañía lanzó Theo de Raadt OpenBSD 2.3 ?
+A > Secure Networks inc. *
+B > Cisco
+C > Sysdream
+D > Corail Systems
+Anecdote: SNI era una compañía de software de seguridad local que desarrolló una herramienta de auditoría de seguridad de red llamada Ballista.
+
+[25 - Expert]
+Question: ¿Quién descubrió una falla en el código OpenSSH en 2002 ?
+A > Mark Dow *
+B > Joel Knight
+C > Chris Cappuccio
+D > Steven Mestdagh
+Anecdote: Fue la primera vulnerabilidad descubierta en la instalación predeterminada de OpenBSD que permite el acceso a la cuenta de superusuario.
+
+[26 - Expert]
+Question: ¿Dónde se descubrió el código de OpenBSD en 2007 ?
+A > Batería IPV6 *
+B > Fdisk
+C > NFS
+D > Filtro de paquetes
+Anecdote: El Protocolo de Internet versión 6 es un protocolo de red sin conexión de la capa 3 del modelo OSI (Interconexión de sistemas abiertos).
+
+[27 - Expert]
+Question: ¿Qué técnica de protección de memoria se implementa en el código OpenBSD ?
+A > ProPolice *
+B > LinShare
+C > ClamWin
+D > PhotoRec
+Anecdote: La protección de Stack-Smashing Protector fue originalmente escrita y aún es mantenida por Hiroaki Etoh de la compañía IBM.
+
+[28 - Expert]
+Question: ¿En cuántas plataformas de hardware se ha ejecutado OpenBSD ?
+A > 32 *
+B > 22
+C > 12
+D > 42
+Anecdote: OpenBSD también puede ejecutar programas compilados para Linux (solo en procesadores i386).
+
+[29 - Expert]
+Question: ¿Qué proyecto grupal de OpenBSD puede reemplazar a sendmail ?
+A > OpenSMTPD *
+B > OpenNTPD
+C > OpenBGPD
+D > OpenCVS
+Anecdote: El desarrollo de OpenSMTPD comenzó a fines de 2008. Apareció por primera vez en OpenBSD 4.6.
+
+[30 - Expert]
+Question: ¿Qué versión muy modificada de Apache está integrada con OpenBSD ?
+A > 1.3 *
+B > 2,3
+C > 3,3
+D > 4.3
+Anecdote: Mantenido dentro de la fundación Apache, distribuido bajo la licencia Apache, este servidor HTTP es el más popular en la web.
+
+* = Bonne réponse
+
+- - - - -
+ I T A L I E N
+- - - - -
+
+[1 - Débutant]
+Question: OpenBSD è che tipo di sistema operativo gratuito ?
+A > Unix *
+B > Sistema V
+C > Linux
+D > Posix
+Anecdote: Un sistema operativo simile a Unix è un sistema operativo che si comporta in modo simile a un sistema Unix.
+
+[2 - Débutant]
+Question: Quale ingegnere era alla base della creazione del sistema OpenBSD ?
+A > Theo de Raadt *
+B > Alan Cox
+C > Linus Torvalds
+D > Richard Stallman
+Anecdote: Fu dopo la sua esclusione dal consiglio di amministrazione di NetBSD che Theo de Raadt fondò il progetto OpenBSD nel 1994.
+
+[3 - Débutant]
+Question: OpenBSD è venuto dalla separazione di quale altro sistema operativo ?
+A > NetBSD *
+B > Fedora
+C > Debian
+D > Solaris
+Anecdote: NetBSD è interamente basato su software libero, la maggior parte dei componenti è soggetta alla Licenza BSD.
+
+[4 - Débutant]
+Question: Quale di questi elementi migliora la qualità del progetto OpenBSD ?
+A > Documentazione *
+B > Design
+C > Prezzo
+D > Flessibilità
+Anecdote: La libertà del codice sorgente, la qualità della documentazione, la sicurezza e la crittografia integrata sono gli ingredienti principali di OpenBSD.
+
+[5 - Débutant]
+Question: Quali sono i focus principali degli sviluppatori OpenBSD ?
+A > Sicurezza *
+B > Estetica
+C > Resa
+D > Automazione d'ufficio
+Anecdote: Gli sviluppatori devono fare ciò che è giusto, pulito e sicuro a spese di facilità, velocità o funzionalità.
+
+[6 - Débutant]
+Question: Quale nome è stato dato alla mascotte del progetto OpenBSD gratuito ?
+A > Gonfio *
+B > Tux
+C > Dogcow
+D > Wilber
+Anecdote: Puffy viene utilizzato per indicare l'intenzione dei progettisti di rendere un sistema operativo particolarmente difficile da attaccare.
+
+[7 - Débutant]
+Question: Con quale frequenza il team OpenBSD rilascia una nuova versione ?
+A > Sei mesi *
+B > Tre anni
+C > Due anni
+D > Cinque anni
+Anecdote: Secondo undeadly.org, il progetto OpenBSD ha subito perdite finanziarie di circa $ 20.000 all'anno nel 2004 e nel 2005.
+
+[8 - Débutant]
+Question: Qual è il progetto side OpenDD più noto del gruppo ?
+A > OpenSSH *
+B > CrossCrypt
+C > CipherShed
+D > Cryptoloop
+Anecdote: OpenSSH è un insieme di strumenti IT gratuiti che consentono comunicazioni sicure su una rete di computer.
+
+[9 - Débutant]
+Question: Quale evento riunisce un gruppo di sviluppatori OpenBSD per diversi giorni ?
+A > Hackathon *
+B > Sicob
+C > CeBIT
+D > Museomix
+Anecdote: La filosofia dell'hackathon ha origine nelle idee dei movimenti del software Open Source Free / Libre.
+
+[10 - Débutant]
+Question: Cosa ottengono in modo permanente gli sviluppatori OpenBSD ?
+A > Audit *
+B > Conferenze
+C > Schizzo
+D > Canzoni
+Anecdote: Il progetto pratica audit di codice che sono considerati elementi importanti della sicurezza di un sistema.
+
+[11 - Confirmé]
+Question: In quanti repository CVS è stato sviluppato il kernel OpenBSD ?
+A > Uno *
+B > Due
+C > Tre
+D > Quattro
+Anecdote: Software di terze parti viene offerto in pacchetti binari o può essere compilato dal sorgente utilizzando la raccolta di porte.
+
+[12 - Confirmé]
+Question: Da quale città Theo de Raadt sta coordinando il progetto OpenBSD ?
+A > Calgary *
+B > Nagano
+C > Innsbruck
+D > Grenoble
+Anecdote: La città di Calgary, a est delle Montagne Rocciose, è una destinazione ben nota per gli sport invernali e l'ecoturismo.
+
+[13 - Confirmé]
+Question: Dopo il rilascio di quale versione di NetBSD è stato creato il progetto OpenBSD ?
+A > 1.0 *
+B > 1.5
+C > 2.0
+D > 2.5
+Anecdote: Theo De Raadt ha ceduto e creato il sistema OpenBSD nel 1994 dalla versione 1.
+
+[14 - Confirmé]
+Question: Quale algoritmo è stato aggiunto per la crittografia delle password su OpenBSD ?
+A > Blowfish *
+B > Camelia
+C > Skipjack
+D > Square
+Anecdote: Progettato da Bruce Schneier, Blowfish utilizza una dimensione di blocco di 64 bit e la chiave a lunghezza variabile può variare da 32 a 448 bit.
+
+[15 - Confirmé]
+Question: Come viene convertito il codice C nel classico formato pre-ANSI per i programmatori OpenBSD ?
+A > ANSI *
+B > TSE
+C > JSA
+D > CSTB
+Anecdote: Ciò non dovrebbe implicare cambiamenti nella funzionalità e viene fatto solo per leggibilità e coerenza.
+
+[16 - Confirmé]
+Question: Quale termine indica nuovo software creato da software esistente ?
+A > Fork *
+B > Impegni
+C > Tronco
+D > Unisci
+Anecdote: Un fork può essere utile per un determinato progetto quando la sua attuale governance conduce, ad esempio, a un vicolo cieco.
+
+[17 - Confirmé]
+Question: Quale azienda ha iniettato denaro significativo per supportare OpenSSH ?
+A > Microsoft *
+B > Apple
+C > Facebook
+D > Twitter
+Anecdote: Nel 2016, le entrate di Microsoft Corporation sono state di $ 89,95 miliardi con 120.000 dipendenti in 107 paesi.
+
+[18 - Confirmé]
+Question: Per chi è particolarmente interessante il sistema OpenBSD ?
+A > Sviluppatori *
+B > Utenti
+C > Commerciale
+D > Utenti di Internet
+Anecdote: Molti utenti non hanno familiarità con OpenBSD e si rivolgono a sistemi più popolari come Linux o FreeBSD.
+
+[19 - Confirmé]
+Question: Quale firewall OpenBSD è ora utilizzato su Mac OS X ?
+A > Filtro pacchetti *
+B > Firestarter
+C > Comodo
+D > ClearOS
+Anecdote: La community Core FORCE ha realizzato una porta PF gratuita per i sistemi operativi Windows 2000 e XP.
+
+[20 - Confirmé]
+Question: Quale interfaccia di programmazione sicura (API) è spesso associata a strlcat ?
+A > Strlcpy *
+B > Sudo
+C > Wget
+D > Chmod
+Anecdote: Un'interfaccia di programmazione è una facciata chiaramente delimitata dalla quale il software offre servizi ad altri software.
+
+[21 - Expert]
+Question: Sotto OpenBSD, quale tecnica di ingabbiamento nota agli amministratori consente la gestione dei privilegi ?
+A > Chroot *
+B > Bash
+C > Grep
+D > Rlogin
+Anecdote: La separazione dei privilegi è una tecnica pionieristica su OpenBSD, ispirata al principio del privilegio minimo.
+
+[22 - Expert]
+Question: Quale licenza open source viene utilizzata da OpenBSD ?
+A > ISC *
+B > LPPL
+C > SPDX
+D > CeCILL
+Anecdote: Questa licenza ha portato a un controllo completo delle licenze e delle sostituzioni, o addirittura alla cancellazione dei codici di licenza.
+
+[23 - Expert]
+Question: Cosa rappresenta la mascotte regolarmente utilizzata dal progetto OpenBSD ?
+A > Diodon *
+B > Capodoglio
+C > GNU
+D > Cappello
+Anecdote: Queste specie sono spesso chiamate pesce riccio, pesce istrice o riccio di mare.
+
+[24 - Expert]
+Question: Con quale compagnia Theo de Raadt ha rilasciato OpenBSD 2.3 ?
+A > Secure Networks inc. *
+B > Cisco
+C > Sysdream
+D > Corail Systems
+Anecdote: SNI era una società di software di sicurezza locale che ha sviluppato uno strumento di controllo della sicurezza della rete chiamato Ballista.
+
+[25 - Expert]
+Question: Chi ha scoperto un difetto nel codice OpenSSH nel 2002 ?
+A > Mark Dow *
+B > Joel Knight
+C > Chris Cappuccio
+D > Steven Mestdagh
+Anecdote: È stata la prima vulnerabilità rilevata nell'installazione predefinita di OpenBSD che consente l'accesso all'account superutente.
+
+[26 - Expert]
+Question: Dove nel codice OpenBSD è stato scoperto nel 2007 ?
+A > Batteria IPV6 *
+B > Fdisk
+C > NFS
+D > Filtro pacchetti
+Anecdote: Internet Protocol versione 6 è un protocollo di rete senza connessione del livello 3 del modello OSI (Open Systems Interconnection).
+
+[27 - Expert]
+Question: Quale tecnica di protezione della memoria è implementata nel codice OpenBSD ?
+A > ProPolice *
+B > LinShare
+C > ClamWin
+D > PhotoRec
+Anecdote: La protezione Stack-Smashing Protector è stata originariamente scritta, ed è ancora mantenuta, da Hiroaki Etoh della società IBM.
+
+[28 - Expert]
+Question: Su quante piattaforme hardware funziona OpenBSD ?
+A > 32 *
+B > 22
+C > 12
+D > 42
+Anecdote: OpenBSD può anche eseguire programmi compilati per Linux (solo su processori i386).
+
+[29 - Expert]
+Question: Quale progetto del gruppo OpenBSD può sostituire sendmail ?
+A > OpenSMTPD *
+B > OpenNTPD
+C > OpenBGPD
+D > OpenCVS
+Anecdote: Lo sviluppo di OpenSMTPD è iniziato alla fine del 2008. È apparso per la prima volta in OpenBSD 4.6.
+
+[30 - Expert]
+Question: Quale versione pesantemente modificata di Apache è integrata con OpenBSD ?
+A > 1.3 *
+B > 2.3
+C > 3.3
+D > 4.3
+Anecdote: Gestito all'interno della fondazione Apache, distribuito con licenza Apache, questo server HTTP è il più popolare sul Web.
+
+* = Bonne réponse
+
+- - - - -
+ N E E R L A N D A I S
+- - - - -
+
+[1 - Débutant]
+Question: OpenBSD is welk type gratis besturingssysteem ?
+A > Unix *
+B > Systeem V
+C > Linux
+D > Posix
+Anecdote: Een Unix-achtig besturingssysteem is een besturingssysteem dat zich op dezelfde manier gedraagt \u200b\u200bals een Unix-systeem.
+
+[2 - Débutant]
+Question: Welke ingenieur zat achter de oprichting van het OpenBSD-systeem ?
+A > Theo de Raadt *
+B > Alan Cox
+C > Linus Torvalds
+D > Richard Stallman
+Anecdote: Het was na zijn uitsluiting van de NetBSD-raad dat Theo de Raadt het OpenBSD-project in 1994 oprichtte.
+
+[3 - Débutant]
+Question: OpenBSD kwam voort uit de scheiding van welk ander besturingssysteem ?
+A > NetBSD *
+B > Fedora
+C > Debian
+D > Solaris
+Anecdote: NetBSD is volledig gebaseerd op gratis software, de meeste componenten vallen onder de BSD-licentie.
+
+[4 - Débutant]
+Question: Welke van deze elementen verbetert de kwaliteit van het OpenBSD-project ?
+A > Documentatie *
+B > Ontwerp
+C > Prijs
+D > Flexibiliteit
+Anecdote: Broncodevrijheid, kwaliteit van documentatie, beveiliging en geïntegreerde cryptografie zijn de belangrijkste ingrediënten van OpenBSD.
+
+[5 - Débutant]
+Question: Wat zijn de belangrijkste aandachtspunten van de OpenBSD-ontwikkelaars ?
+A > Beveiliging *
+B > Esthetisch
+C > Opbrengst
+D > Kantoorautomatisering
+Anecdote: Ontwikkelaars moeten doen wat goed, schoon en veilig is, ten koste van gemak, snelheid of functionaliteit.
+
+[6 - Débutant]
+Question: Welke naam kreeg de mascotte van het gratis OpenBSD-project ?
+A > Gezwollen *
+B > Tux
+C > Dogcow
+D > Wilber
+Anecdote: Puffy wordt gebruikt om de bedoeling van ontwerpers aan te geven om een besturingssysteem bijzonder moeilijk aan te vallen.
+
+[7 - Débutant]
+Question: Hoe vaak brengt het OpenBSD team een nieuwe versie uit ?
+A > Zes maanden *
+B > Drie jaar
+C > Twee jaar
+D > Vijf jaar
+Anecdote: Volgens undeadly.org leed het OpenBSD-project in 2004 en 2005 financiële verliezen van ongeveer $ 20.000 per jaar.
+
+[8 - Débutant]
+Question: Wat is het bekendste OpenBSD-zijproject van de groep ?
+A > OpenSSH *
+B > CrossCrypt
+C > CipherShed
+D > Cryptoloop
+Anecdote: OpenSSH is een set gratis IT-tools die veilige communicatie op een computernetwerk mogelijk maken.
+
+[9 - Débutant]
+Question: Welk evenement brengt een groep OpenBSD-ontwikkelaars gedurende meerdere dagen samen ?
+A > Hackathon *
+B > Sicob
+C > CeBIT
+D > Museomix
+Anecdote: De filosofie van de hackathon vindt zijn oorsprong in de ideeën van de Free / Libre Open Source Software-bewegingen.
+
+[10 - Débutant]
+Question: Wat bereiken OpenBSD-ontwikkelaars permanent ?
+A > Audits *
+B > Conferenties
+C > Schets
+D > Liederen
+Anecdote: Het project voert code-audits uit die worden beschouwd als belangrijke elementen van de beveiliging van een systeem.
+
+[11 - Confirmé]
+Question: In hoeveel CVS-repositories is de OpenBSD-kernel ontwikkeld ?
+A > Een *
+B > Twee
+C > Drie
+D > Vier
+Anecdote: Software van derden wordt aangeboden in binaire pakketten of kan vanaf de bron worden gecompileerd met behulp van de verzameling poorten.
+
+[12 - Confirmé]
+Question: Vanuit welke stad coördineert Theo de Raadt het OpenBSD-project ?
+A > Calgary *
+B > Nagano
+C > Innsbruck
+D > Grenoble
+Anecdote: De stad Calgary, ten oosten van de Rocky Mountains, is een bekende bestemming voor wintersport en ecotoerisme.
+
+[13 - Confirmé]
+Question: Na de release van welke versie van NetBSD is het OpenBSD-project gemaakt ?
+A > 1.0 *
+B > 1.5
+C > 2.0
+D > 2.5
+Anecdote: Theo De Raadt verkocht en creëerde het OpenBSD-systeem in 1994 vanaf versie 1.
+
+[14 - Confirmé]
+Question: Welk algoritme is toegevoegd voor wachtwoordcodering op OpenBSD ?
+A > Blowfish *
+B > Camellia
+C > Skipjack
+D > Vierkant
+Anecdote: Blowfish is ontworpen door Bruce Schneier en gebruikt een blokgrootte van 64 bits en de sleutel met variabele lengte kan variëren van 32 tot 448 bits.
+
+[15 - Confirmé]
+Question: Hoe wordt C-code geconverteerd naar het klassieke pre-ANSI-formaat voor OpenBSD-programmeurs ?
+A > ANSI *
+B > TSE
+C > JSA
+D > CSTB
+Anecdote: Dit mag geen veranderingen in functionaliteit impliceren en wordt alleen gedaan voor leesbaarheid en consistentie.
+
+[16 - Confirmé]
+Question: Welke term duidt op nieuwe software die is gemaakt op basis van bestaande software ?
+A > Vork *
+B > Commit
+C > Kofferbak
+D > Samenvoegen
+Anecdote: Een vork kan gunstig zijn voor een bepaald project wanneer zijn huidige governance bijvoorbeeld tot een impasse leidt.
+
+[17 - Confirmé]
+Question: Welk bedrijf heeft veel geld geïnjecteerd om OpenSSH te ondersteunen ?
+A > Microsoft *
+B > Apple
+C > Facebook
+D > Twitter
+Anecdote: In 2016 bedroeg de omzet van Microsoft Corporation $ 89,95 miljard met 120.000 werknemers in 107 landen.
+
+[18 - Confirmé]
+Question: Voor wie is het OpenBSD systeem bijzonder interessant ?
+A > Ontwikkelaars *
+B > Gebruikers
+C > Commercieel
+D > Internetgebruikers
+Anecdote: Veel gebruikers zijn niet bekend met OpenBSD en wenden zich tot meer populaire systemen zoals Linux of FreeBSD.
+
+[19 - Confirmé]
+Question: Welke OpenBSD-firewall wordt nu gebruikt op Mac OS X ?
+A > Pakketfilter *
+B > Firestarter
+C > Comodo
+D > ClearOS
+Anecdote: Een gratis PF-poort is gerealiseerd voor Windows 2000 en XP-besturingssystemen door de Core FORCE-gemeenschap.
+
+[20 - Confirmé]
+Question: Welke beveiligde programmeerinterface (API) wordt vaak geassocieerd met strlcat ?
+A > Strlcpy *
+B > Sudo
+C > Wget
+D > Chmod
+Anecdote: Een programmeerinterface is een duidelijk gedefinieerde gevel waarmee software diensten aanbiedt aan andere software.
+
+[21 - Expert]
+Question: Onder OpenBSD, welke kooitechniek bekend bij beheerders staat privilegebeheer toe ?
+A > Chroot *
+B > Bash
+C > Grep
+D > Rlogin
+Anecdote: Privilege scheiding is een baanbrekende techniek op OpenBSD, geïnspireerd door het principe van de minste privilege.
+
+[22 - Expert]
+Question: Welke eigen open source licentie wordt gebruikt door OpenBSD ?
+A > ISC *
+B > LPPL
+C > SPDX
+D > CeCILL
+Anecdote: Deze eigen licentie leidde tot een uitgebreide audit van licenties en vervangingen, of zelfs het verwijderen van gelicentieerde codes.
+
+[23 - Expert]
+Question: Wat vertegenwoordigt de mascotte die regelmatig door het OpenBSD-project wordt gebruikt ?
+A > Diodon *
+B > Potvis
+C > Wildebeest
+D > Hoed
+Anecdote: Deze soorten worden vaak egelvis, stekelvarkenvis of zee-egel genoemd.
+
+[24 - Expert]
+Question: Met welk bedrijf heeft Theo de Raadt OpenBSD 2.3 uitgegeven ?
+A > Secure Networks inc. *
+B > Cisco
+C > Sysdream
+D > Corail Systems
+Anecdote: SNI was een lokaal beveiligingssoftwarebedrijf dat een audit-tool voor netwerkbeveiliging ontwikkelde, Ballista genaamd.
+
+[25 - Expert]
+Question: Wie ontdekte een fout in de OpenSSH-code in 2002 ?
+A > Mark Dow *
+B > Joel Knight
+C > Chris Cappuccio
+D > Steven Mestdagh
+Anecdote: Het was de eerste kwetsbaarheid die werd ontdekt in de standaardinstallatie van OpenBSD die toegang gaf tot de superuser-account.
+
+[26 - Expert]
+Question: Waar in de OpenBSD-code werd ontdekt in 2007 ?
+A > IPV6-batterij *
+B > Fdisk
+C > NFS
+D > Pakketfilter
+Anecdote: Internet Protocol versie 6 is een verbindingsloos netwerkprotocol van laag 3 van het OSI-model (Open Systems Interconnection).
+
+[27 - Expert]
+Question: Welke geheugenbeschermingstechniek is ge ?mplementeerd in de OpenBSD-code ?
+A > ProPolice *
+B > LinShare
+C > ClamWin
+D > PhotoRec
+Anecdote: De Stack-Smashing Protector-bescherming is oorspronkelijk geschreven en wordt nog steeds onderhouden door Hiroaki Etoh van het bedrijf IBM.
+
+[28 - Expert]
+Question: Op hoeveel hardwareplatforms heeft OpenBSD gedraaid ?
+A > 32 *
+B > 22
+C > 12
+D > 42
+Anecdote: OpenBSD kan ook programma's uitvoeren die zijn gecompileerd voor Linux (alleen op i386-processors).
+
+[29 - Expert]
+Question: Welk OpenBSD-groepsproject kan sendmail vervangen ?
+A > OpenSMTPD *
+B > OpenNTPD
+C > OpenBGPD
+D > OpenCVS
+Anecdote: De ontwikkeling van OpenSMTPD begon eind 2008. Het verscheen voor het eerst in OpenBSD 4.6.
+
+[30 - Expert]
+Question: Welke sterk gewijzigde versie van Apache is ge ?ntegreerd met OpenBSD ?
+A > 1.3 *
+B > 2.3
+C > 3.3
+D > 4.3
+Anecdote: Onderhouden binnen de Apache-stichting, gedistribueerd onder de Apache-licentie, is deze HTTP-server de populairste op het web.
+
+* = Bonne réponse

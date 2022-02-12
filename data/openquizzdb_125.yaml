@@ -1,0 +1,280 @@
+---
+fournisseur: OpenQuizzDB - Fournisseur de contenu libre (https://www.openquizzdb.org)
+rédacteur: Philippe Bresoux
+thème: Objets et accessoires (Les partenaires du quotidien)
+difficulté: 2 / 5
+quizz:
+  fr:
+  - débutant:
+    - id: 1
+      question: Avec quel appareil peut-on mesurer la profondeur des océans ?
+      propositions:
+      - Un sonar
+      - Un compteur Geiger
+      - Un sextant
+      - Un radar
+      réponse: Un sonar
+      anecdote: Un sonar est un appareil utilisant les propriétés de la propagation du son dans l'eau pour détecter et situer les objets sous l'eau.
+    - id: 2
+      question: Quel petit objet est utilisé pour maintenir solidaire une liasse de feuilles de papier ?
+      propositions:
+      - Un post-it
+      - Un Rolodex
+      - Un stencil
+      - Un trombone
+      réponse: Un trombone
+      anecdote: Le mot s'emploie pour désigner la petite « agrafe provisoire » permettant d'assembler plusieurs feuilles de papier.
+    - id: 3
+      question: Combien de trous possédait autrefois le cadran de votre ancien téléphone ?
+      propositions:
+      - 8 trous
+      - 6 trous
+      - 12 trous
+      - 10 trous
+      réponse: 10 trous
+      anecdote: Le cadran était alors composé d'un disque rotatif autour duquel sont portés les chiffres de 1 à 9 puis 0.
+    - id: 4
+      question: Contre quoi un paratonnerre avec mise à la terre protège-t-il un bâtiment ?
+      propositions:
+      - Le vent
+      - La pluie
+      - Le soleil
+      - La foudre
+      réponse: La foudre
+      anecdote: Pour construire une protection contre la foudre, il faut construire une cage de Faraday enveloppant l'édifice à protéger.
+    - id: 5
+      question: Quel appareil de levage permet entre autre de soulever une voiture ?
+      propositions:
+      - Une rustine
+      - Un cric
+      - Un delco
+      - Un hayon
+      réponse: Un cric
+      anecdote: L'utilisation la plus fréquente du cric permet de changer une roue après une crevaison ou un problème de pneumatique.
+    - id: 6
+      question: Quel appareil, redouté par toutes les femmes, sert à arracher le poil ?
+      propositions:
+      - Un sèche-cheveux
+      - Un vibromasseur
+      - Un épilateur
+      - Un aspirateur
+      réponse: Un épilateur
+      anecdote: Les raisons invoquées vont des critères cosmétiques de beauté, de traditions ethniques aux soucis de confort ou d'hygiène.
+    - id: 7
+      question: Que retrouve-ton traditionnellement à l'intérieur d'un juke-box ?
+      propositions:
+      - Des friandises
+      - Des disques
+      - Des fruits
+      - Des jeux vidéo
+      réponse: Des disques
+      anecdote: Un juke-box (ou jukebox) est un appareil public capable de jouer automatiquement de la musique enregistrée.
+    - id: 8
+      question: Quel accessoire, indispensable pour jouer au 421, peut être « pipé » ?
+      propositions:
+      - Une carte
+      - Un dé
+      - Un tapis
+      - Une cible
+      réponse: Un dé
+      anecdote: Les dés les plus courants sont des petits cubes de 1 à 2 cm de côté, possédant donc 6 faces numérotées de 1 à 6.
+    - id: 9
+      question: De quel organe du corps humain un pacemaker règle-t-il le rythme ?
+      propositions:
+      - Le coeur
+      - Le rein
+      - Le poumon
+      - Le foie
+      réponse: Le coeur
+      anecdote: C'est en 1781 que Luigi Galvani constate que la stimulation électrique d'un nerf provoque la contraction du muscle relié.
+    - id: 10
+      question: Quel appareil électroménager peut être à la fois « balai », « sans sac » ou « à main » ?
+      propositions:
+      - Grille-pain
+      - Aspirateur
+      - Frigidaire
+      - Cuit vapeur
+      réponse: Aspirateur
+      anecdote: L'aspirateur motorisé a été inventé en 1901 par l'ingénieur britannique Hubert Cecil Booth, né à Paris en 1871.
+  - confirmé:
+    - id: 11
+      question: Quel ustensile sert à couper les légumes en très fines tranches ?
+      propositions:
+      - Une mandoline
+      - Un massicot
+      - Un bandonéon
+      - Un hachoir
+      réponse: Une mandoline
+      anecdote: La mandoline est généralement en inox pour les professionnels ou en matière plastique ABS pour les particuliers.
+    - id: 12
+      question: En alpinisme, quelle lame métallique est enfoncée dans une fissure avec un marteau ?
+      propositions:
+      - Un baudrier
+      - Un piton
+      - Un piolet
+      - Un crampon
+      réponse: Un piton
+      anecdote: Les pitons ont été le premier type de matériel de protection et sont toujours utilisés quand rien d'autre ne convient.
+    - id: 13
+      question: Quel mammifère a donné son nom à un instrument de rasage ?
+      propositions:
+      - Le blaireau
+      - Le bouquetin
+      - Le buffle
+      - Le bison
+      réponse: Le blaireau
+      anecdote: Traditionnellement fabriqué en poils de blaireau, il en existe aussi en soies de sanglier, en crin de cheval ou poils synthétiques.
+    - id: 14
+      question: Quel outil utilise-t-on pour alimenter un foyer en air, domestique ou industriel ?
+      propositions:
+      - Une estrapade
+      - Un soufflet
+      - Une chasse
+      - Un burin
+      réponse: Un soufflet
+      anecdote: Divers instruments de musique sont également munis de soufflets, tel l'orgue, l'accordéon ou diverses cornemuses.
+    - id: 15
+      question: Quel long balai-brosse est généralement utilisé pour ramoner une cheminée ?
+      propositions:
+      - Une girafe
+      - Un hérisson
+      - Un blaireau
+      - Un col de cygne
+      réponse: Un hérisson
+      anecdote: Les ramoneurs étaient souvent atteints de déformations articulaires, de brûlures et de cancer causé par la suie.
+    - id: 16
+      question: Quel objet du quotidien peut être à la fois aiguille, bobine, plat ou crayon ?
+      propositions:
+      - Une assiette
+      - Un fil
+      - Un talon
+      - Une pince
+      réponse: Un talon
+      anecdote: Un talon peut être la partie rigide à l'arrière d'une chaussure qui se pose sur le sol et sur laquelle repose l'arrière du pied.
+    - id: 17
+      question: Quel appareil permet de surveiller la surface de la mer depuis un sous-marin en plongée ?
+      propositions:
+      - Le catadioptre
+      - Le périscope
+      - Le fibroscope
+      - Le monocle
+      réponse: Le périscope
+      anecdote: Depuis l'avènement du matériel vidéo et de la fibre optique, le périscope est souvent remplacé par une caméra.
+    - id: 18
+      question: Comment appelle-t-on familièrement des bottes à bout pointu et talon biseauté ?
+      propositions:
+      - Des charentaises
+      - Des santiag
+      - Des mocassins
+      - Des mules
+      réponse: Des santiag
+      anecdote: Les santiags ou bottes de cowboy, au talon assez haut, sont principalement fabriquées à base de cuir de vachette.
+    - id: 19
+      question: En aviation, quelle est la couleur de la boîte noire enregistrant les informations de vol ?
+      propositions:
+      - Noire
+      - Blanche
+      - Orange
+      - Verte
+      réponse: Orange
+      anecdote: Dans la pratique, les boîtes noires sont de couleur orange ou rouge avec des bandes blanches réfléchissantes.
+    - id: 20
+      question: À quel objet utilisé par le pêcheur se rapporte le terme « madrague » ?
+      propositions:
+      - Un filet de pêche
+      - Un bateau de pêche
+      - Un épuisette
+      - Une canne à pêche
+      réponse: Un filet de pêche
+      anecdote: Ce filet de pêche fixe est particulièrement conçu pour la pêche aux thons migrant régulièrement en longeant certaines côtes.
+  - expert:
+    - id: 21
+      question: Quel autre nom est donné au détecteur de mensonges appliqué sur un individu ?
+      propositions:
+      - Tachigraphe
+      - Détectographe
+      - Mésographe
+      - Polygraphe
+      réponse: Polygraphe
+      anecdote: Le stress engendré par le mensonge augmenterait sensiblement la transpiration et donc la conductance cutanée.
+    - id: 22
+      question: Quel instrument servait autrefois à enfoncer les portes des châteaux-forts ?
+      propositions:
+      - Le bélier
+      - Le scorpion
+      - Le corbeau
+      - La baliste
+      réponse: Le bélier
+      anecdote: L'utilisation des béliers a eu un effet important sur l'évolution de la conception des murailles et des fortifications.
+    - id: 23
+      question: Quel outil des cordonniers et des bourreliers sert à percer le cuir ?
+      propositions:
+      - Une alêne
+      - Un cachet
+      - Un touchau
+      - Un perçoir
+      réponse: Une alêne
+      anecdote: Ce poinçon servant à percer le cuir existe depuis le paléolithique où il servait alors à assembler les peaux.
+    - id: 24
+      question: Quel ciseau à tranchant courbé ou en V sert à sculpter et faire des moulures ?
+      propositions:
+      - Le burin
+      - La masse
+      - La gouge
+      - Le fusain
+      réponse: La gouge
+      anecdote: La gouge a été perfectionnée en Angleterre et réintroduite au faubourg St Antoine par la soeur du roi Louis XIII.
+    - id: 25
+      question: Quel récipient cylindrique à fond plat est utilisé dans de nombreux laboratoires ?
+      propositions:
+      - Une cuvette
+      - Une pipette
+      - Un décanteur
+      - Un bécher
+      réponse: Un bécher
+      anecdote: Le bécher, signifiant « gobelet » en allemand, est également appelé « vase de Berlin » ou « berlin » (surtout en Belgique).
+    - id: 26
+      question: Comment appelle-t-on le petit robinet installé sur les tonneaux à alcool ?
+      propositions:
+      - Une valsesource
+      - Un chantepleure
+      - Une tendrefontaine
+      - Une diluvienne
+      réponse: Un chantepleure
+      anecdote: Ce robinet pour tonneau de vin, souvent fabriqué en laiton, est utilisé avec le pressoir à robinet d'écoulement.
+    - id: 27
+      question: Quel instrument de navigation maritime sert à mesurer la vitesse des bateaux ?
+      propositions:
+      - Le compas
+      - Le sextant
+      - Le loch
+      - La boussole
+      réponse: Le loch
+      anecdote: La vitesse est simplement obtenue par division de la distance parcourue par le temps passé à effectuer la mesure.
+    - id: 28
+      question: Dans quel objet peut-on souffler pour reproduire le chant des oiseaux ?
+      propositions:
+      - Un appeau
+      - Un chat
+      - Un berlingot
+      - Un moineau
+      réponse: Un appeau
+      anecdote: L'appeau est utilisé à la chasse pour produire un son ou un bruit particulier attirant les oiseaux ou le gibier.
+    - id: 29
+      question: Que peut-on utiliser pour mesurer le nombre de dents sur un timbre-poste on utilise un...
+      propositions:
+      - Un odontomètre
+      - Un dentomètre
+      - Un dentoscope
+      - Un odontoscope
+      réponse: Un odontomètre
+      anecdote: Cet instrument philatélique donne avec précision le nombre exact de dents sur environ deux centimètres.
+    - id: 30
+      question: Comment appelle-t-on la partie ronde située au bout des ancres des navires ?
+      propositions:
+      - Le lièvre
+      - La cigale
+      - La fourmi
+      - Le lapin
+      réponse: La cigale
+      anecdote: Les ancres modernes sont conçues pour pénétrer profondément et par leur surface importante, résister à l'ensemble de ces forces.

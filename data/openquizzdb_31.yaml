@@ -1,0 +1,280 @@
+---
+fournisseur: OpenQuizzDB - Fournisseur de contenu libre (https://www.openquizzdb.org)
+rédacteur: Philippe Bresoux
+thème: X-Files : la série (Aux frontières du réel)
+difficulté: 3 / 5
+quizz:
+  fr:
+  - débutant:
+    - id: 1
+      question: Dans quel service de renseignement intérieur travaillent les agents Mulder et Scully ?
+      propositions:
+      - NSA
+      - CIA
+      - FBI
+      - CSI
+      réponse: FBI
+      anecdote: Les attributions du FBI incluent l'antiterrorisme, le contre-espionnage, le crime informatique et la médecine légale.
+    - id: 2
+      question: Qui est le supérieur hiérarchique direct de Mulder et Scully dans la série « X-Files » ?
+      propositions:
+      - Wallace Sommer
+      - Walter Skinner
+      - William Stabler
+      - Chris Carter
+      réponse: Walter Skinner
+      anecdote: Walter Skinner est un ancien marine qui a fait le Vietnam et en cela il est sévère, exigeant mais toutefois juste et honnête.
+    - id: 3
+      question: Qu'y a-t-il d'écrit sur la célèbre affiche qui se trouve dans le bureau de Fox Mulder ?
+      propositions:
+      - Are you scared  ?
+      - Do aliens exist  ?
+      - I want to believe
+      - U.F.O.
+      réponse: I want to believe
+      anecdote: Intuitif et paranoïaque, Mulder est considéré comme étrange et excentrique par ses pairs, ce qui lui a valu le surnom de « Martien ».
+    - id: 4
+      question: Durant quelle saison apparaît pour la première fois l'homme à la cigarette dans « X-Files » ?
+      propositions:
+      - Saison 2
+      - Saison 3
+      - Saison 1
+      - Saison 4
+      réponse: Saison 1
+      anecdote: De nature froide et solitaire à l'origine, la série le fait évoluer pour faire comprendre qu'il est le personnage incontournable du complot.
+    - id: 5
+      question: Quelle était la profession de Scully avant de devenir agent du FBI dans « X-Files » ?
+      propositions:
+      - Médecin
+      - Photographe
+      - Avocate
+      - Architecte
+      réponse: Médecin
+      anecdote: Scully a échappé à de nombreuses reprises à la mort durant la série, et au moins 2 épisodes laissent penser qu'elle serait immortelle.
+    - id: 6
+      question: Combien de saisons compte la série télévisée « X-Files : Aux frontières du réel » ?
+      propositions:
+      - Neuf
+      - Huit
+      - Onze
+      - Diz
+      réponse: Onze
+      anecdote: La série décrit les différentes enquêtes des agents spéciaux du FBI Fox Mulder et Dana Scully sur des dossiers classés X (X-Files).
+    - id: 7
+      question: Quelle actrice interprète le rôle de Dana Scully dans la série télé « X-Files » ?
+      propositions:
+      - Annabeth Gish
+      - Gillian Anderson
+      - Jolie Jenkins
+      - Laurie Holden
+      réponse: Gillian Anderson
+      anecdote: Gillian Anderson a été récompensée pour ce rôle par un Golden Globes Award et un Primetime Emmy Award.
+    - id: 8
+      question: Quel est le surnom donné à Fox Mulder par ses collègues dans la série télé « X-Files » ?
+      propositions:
+      - Matrix
+      - Biquet
+      - Bibou
+      - Martien
+      réponse: Martien
+      anecdote: Mulder est le nom de jeune fille de la mère de Chris Carter, réalisateur de la série, et Fox est le nom de l'un de ses amis.
+    - id: 9
+      question: Quel acteur remplace David Duchovny dans les saisons 6, 7 et 8 de « X-Files » ?
+      propositions:
+      - Robert Downey Jr.
+      - Robert Patrick
+      - Robert Wagner
+      - Robert Pattinson
+      réponse: Robert Patrick
+      anecdote: Robert Patrick a été révélé au cinéma en 1991 par son interprétation du T-1000 dans le second volet de la saga « Terminator ».
+    - id: 10
+      question: Quel scénariste, réalisateur et producteur américain a créé la série télévisée « X-Files » ?
+      propositions:
+      - Steven Spielberg
+      - J.J. Abrams
+      - Chris Carter
+      - Guillermo del Toro
+      réponse: Chris Carter
+      anecdote: Chris Carter a reçu en 1999 le PGA Award du producteur de télévision le plus prometteur.
+  - confirmé:
+    - id: 11
+      question: Dans quelle ville des États-Unis se trouve le bureau de Mulder et Scully ?
+      propositions:
+      - New York
+      - Dallas
+      - Washington
+      - Los Angeles
+      réponse: Washington
+      anecdote: Fox Mulder est un homme qui voue une véritable passion à tout ce qui touche au paranormal.
+    - id: 12
+      question: Quelle aventurière de fiction a fait une apparition remarquée dans la série « X-Files » ?
+      propositions:
+      - Lara Croft
+      - Xena
+      - Buffy
+      - Super Jamie
+      réponse: Xena
+      anecdote: En 1995, avant de devenir Xena, Lucy Lawless fut le personnage central de « Peach », un court-métrage traitant de l'homosexualité.
+    - id: 13
+      question: Dans « X-Files », quel meurtrier abolit les foies de ses victimes ?
+      propositions:
+      - Tooms
+      - Burks
+      - Hosteen
+      - Krycek
+      réponse: Tooms
+      anecdote: Tous les 30 ans, Eugène Victor Tooms sort de son hibernation pour se nourrir du foie d'êtres humains.
+    - id: 14
+      question: Quel est le prénom de la soeur disparue de Fox Mulder dans la série « X-Files » ?
+      propositions:
+      - Samantha
+      - Alicia
+      - Joanna
+      - Rita
+      réponse: Samantha
+      anecdote: Samantha Ann Mulder, née le 22 janvier 1964, est disparue le 27 novembre 1973 (Affaire non classée : dossier n° X-42053).
+    - id: 15
+      question: Combien de films ont été tirés de la série télévisée « X-Files » ?
+      propositions:
+      - 2
+      - 3
+      - Aucun
+      - 1
+      réponse: 2
+      anecdote: Les deux films sont « The X-Files, le film » de Rob S. Bowman, sorti en 1998, et « X-Files : Régénération » de Chris Carter, sorti en 2008.
+    - id: 16
+      question: Qui est le père de l'enfant de Scully dans la série télévisée « X-Files » ?
+      propositions:
+      - Mulder
+      - Krycek
+      - Skinner
+      - Doggett
+      réponse: Mulder
+      anecdote: Scully a une vie sentimentale et sociale assez terne, se retranchant le plus souvent dans ses expériences scientifiques et ses recherches.
+    - id: 17
+      question: Quel personnage de la série « X-Files » a perdu un bras suite à l'inoculation d'un vaccin ?
+      propositions:
+      - Skinner
+      - Pendrell
+      - Monsieur X
+      - Krycek
+      réponse: Krycek
+      anecdote: Présenté comme un partenaire mais perçu comme un élément gênant par l'agent Fox Mulder, Alex Krycek s'avère être un traître.
+    - id: 18
+      question: De quelle maladie souffre Scully à partir de la saison 4 de la série « X-Files » ?
+      propositions:
+      - Sclérose
+      - Amnésie
+      - Cancer
+      - Diabète
+      réponse: Cancer
+      anecdote: Scully a mis en doute ses croyances lorsqu'on lui diagnostiqua un cancer du cerveau, conséquence de son enlèvement.
+    - id: 19
+      question: Quel est le nom du chien de Dana Scully de la série « X-Files » ?
+      propositions:
+      - Fox
+      - Queequeg
+      - Bobby
+      - Gish
+      réponse: Queequeg
+      anecdote: Plus jeune, le livre préféré de Dana Scully était « Moby Dick », que son père prenait plaisir à lui lire très souvent.
+    - id: 20
+      question: Dans « X-Files », quel membre du FBI est mort dans les bras de Scully ?
+      propositions:
+      - Scott Blevins
+      - Monica Reyes
+      - Jeffrey Spender
+      - Agent Pendrell
+      réponse: Agent Pendrell
+      anecdote: L'agent Pendrell est un membre du laboratoire en sciences criminelles du FBI, qui assiste occasionnellement l'agent Dana Scully.
+  - expert:
+    - id: 21
+      question: Comment se surnomment les trois amis paranoïaques de Mulder dans « X-Files » ?
+      propositions:
+      - Lone Cowboys
+      - Lone Gunmen
+      - Lone Stars
+      - Lone Rangers
+      réponse: Lone Gunmen
+      anecdote: Ce trio est l'alliance improbable d'un bidouilleur en électronique, d'un pirate informatique et d'un ex-salarié des télécommunications.
+    - id: 22
+      question: Quel est le titre du dernier épisode de la série télévisée « X-Files » ?
+      propositions:
+      - La soif de savoir
+      - La Prophétie
+      - La vérité est ici
+      - La découverte
+      réponse: La vérité est ici
+      anecdote: Dans cet ultime épisode, la date de l'invasion coïncide avec le calendrier maya et les prédictions pour décembre 2012.
+    - id: 23
+      question: Quelle est le prénom de la fille de Scully dans la série « X-Files » ?
+      propositions:
+      - Emma
+      - Janis
+      - Emily
+      - Diane
+      réponse: Emily
+      anecdote: Interprétée par Lauren Diewold, cette petite fille (Emily Sim) apparaît dans le double épisode « Emily » de la saison 5 de la série.
+    - id: 24
+      question: De quelle université Mulder, de la série « X-Files », est-il diplômé ?
+      propositions:
+      - Yale
+      - Oxford
+      - Manchester
+      - Princeton
+      réponse: Oxford
+      anecdote: De 1983 à 1986, Fox Mulder étudie à Oxford en Angleterre et sort premier de sa promotion avec en poche son diplôme en psychologie.
+    - id: 25
+      question: Quelle actrice remplace Gillian Anderson dans les dernières saisons de la série « X-Files » ?
+      propositions:
+      - Jolie Jenkins
+      - Annabeth Gish
+      - Anna Faris
+      - Annabella Sciorra
+      réponse: Annabeth Gish
+      anecdote: Elle est nommée pour ce rôle au Saturn Award de la meilleure actrice de télévision dans un second rôle en 2002.
+    - id: 26
+      question: Qui enlève Scully pour la remettre aux aliens dans la saison 2 de « X-Files » ?
+      propositions:
+      - Billy Miles
+      - Chuck Burks
+      - Brad Follmer
+      - Duane Barry
+      réponse: Duane Barry
+      anecdote: Dans l'épisode en question, c'est l'acteur lui-même qui a réalisé la cascade sur le toit du téléphérique, mettant sa propre vie en danger.
+    - id: 27
+      question: Quel est le mot de passe de l'ordinateur de Mulder dans la série « X-Files » ?
+      propositions:
+      - Samantha
+      - Scully
+      - Aliens
+      - Trustno1
+      réponse: Trustno1
+      anecdote: Fox Mulder possède peu d'amis mais un bon nombre de contacts, ce qui lui est très utile durant l'ensemble de la série.
+    - id: 28
+      question: Quelle marque de cigarettes fume l'homme à la cigarette dans la série « X-Files » ?
+      propositions:
+      - Mighton
+      - Marlac
+      - Morley
+      - On ne sait pas
+      réponse: Morley
+      anecdote: Cette marque est apparue dans divers autres films de télévision et de cinéma, séries télévisées et jeux vidéo.
+    - id: 29
+      question: Quel surnom a été donné à Scully par son père dans la série télévisée « X-Files » ?
+      propositions:
+      - La martienne
+      - Queequeg
+      - Janis
+      - Starbuck
+      réponse: Starbuck
+      anecdote: Fan du roman « Moby Dick », il la surnommait « Starbuck » et Scully l'appelait en retour « Achab ».
+    - id: 30
+      question: Quel épisode de « X-Files » diffusé en 1999 se répète à l'infini ?
+      propositions:
+      - Jour J
+      - Réitération
+      - Pour toujours
+      - Lundi
+      réponse: Lundi
+      anecdote: Pris dans une boucle temporelle, Mulder doit empêcher une bombe d'exploser dans une banque pour y mettre fin.

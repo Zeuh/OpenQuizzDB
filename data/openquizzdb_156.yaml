@@ -1,0 +1,280 @@
+---
+fournisseur: OpenQuizzDB - Fournisseur de contenu libre (https://www.openquizzdb.org)
+rédacteur: Philippe Bresoux
+thème: Machu Picchu (Ancienne cité inca du Pérou)
+difficulté: 4 / 5
+quizz:
+  fr:
+  - débutant:
+    - id: 1
+      question: La cité du Machu Picchu unit le mont Huayna Picchu à quel autre mont ?
+      propositions:
+      - Huaca Rajada
+      - Machu Picchu
+      - Toro Muerto
+      - Cota Coca
+      réponse: Machu Picchu
+      anecdote: Le sommet du Huayna Picchu culmine à 2 720 mètres d'altitude, dominant d'environ 360 mètres l'ancien site inca.
+    - id: 2
+      question: Lors de l'effondrement de quel empire le Machu Picchu fut-il abandonné ?
+      propositions:
+      - Iroquois
+      - Corsaire
+      - Inca
+      - Aztèque
+      réponse: Inca
+      anecdote: Machu Picchu, la ville sacrée oubliée durant des siècles, est considérée comme une oeuvre maîtresse de l'architecture inca.
+    - id: 3
+      question: Aux limites de quelle forêt se dresse le Machu Picchu ?
+      propositions:
+      - Amazonienne
+      - Boréale
+      - Atlantique
+      - De Gola
+      réponse: Amazonienne
+      anecdote: Avec une superficie de 5 500 000 km2, soit près de dix fois la taille de la France, il s'agit de la plus grande forêt tropicale du monde.
+    - id: 4
+      question: Les montagnards de quelle région peuplèrent la région du Machu Picchu ?
+      propositions:
+      - Chavin
+      - Jumana
+      - Lima
+      - Cuzco
+      réponse: Cuzco
+      anecdote: De taille modérée, Cuzco fut la capitale des Incas et a été longtemps un carrefour sur l'axe économique transandin.
+    - id: 5
+      question: Quelles constructions composent la zone agricole du Machu Picchu ?
+      propositions:
+      - Terrasses
+      - Paillis
+      - Versoirs
+      - Brûlis
+      réponse: Terrasses
+      anecdote: D'autres terrasses de moindre largeur se trouvent dans la partie basse de Machu Picchu, tout autour de la cité.
+    - id: 6
+      question: La forme de quel animal peut-on associer au site du Machu Picchu ?
+      propositions:
+      - Condor
+      - Dauphin
+      - Serpent
+      - Ours
+      réponse: Condor
+      anecdote: Il est parfois admis que les Incas donnaient à leurs cités la forme d'animaux sacrés (puma, condor, ...).
+    - id: 7
+      question: Combien de routes desservent Aguas Calientes, près du Machu Picchu ?
+      propositions:
+      - Trois
+      - Aucune
+      - Six
+      - Neuf
+      réponse: Aucune
+      anecdote: Les visiteurs doivent en effet marcher ou utiliser la ligne de chemin de fer qui traverse le village, au départ d'Ollantaytambo.
+    - id: 8
+      question: Durant quel siècle la cité du Machu Picchu a-t-elle été créée ?
+      propositions:
+      - XIIIe siècle
+      - XVIe siècle
+      - XIe siècle
+      - VIe siècle
+      réponse: XIe siècle
+      anecdote: La cité du Machu Picchu, perchée sur un promontoire rocheux, unit les monts Machu Picchu et Huayna Picchu.
+    - id: 9
+      question: Quel chemin de randonnée est le plus emprunté pour accéder au Machu Picchu ?
+      propositions:
+      - Chemin des Sources
+      - Chemin du Temple
+      - Chemin de l'Inca
+      - Chemin du Vent
+      réponse: Chemin de l'Inca
+      anecdote: Le chemin de l'Inca est soumis à un contrôle touristique strict et ne peut être parcouru qu'avec une agence de voyage.
+    - id: 10
+      question: Entre quels mois les pluies sont-elles souvent abondantes au Machu Picchu ?
+      propositions:
+      - Juillet et décembre
+      - Novembre et mars
+      - Janvier et mai
+      - Avril et septembre
+      réponse: Novembre et mars
+      anecdote: Les pluies sont abondantes (environ 1 955 millimètres par an) et ces précipitations souvent fortes alternent avec de belles éclaircies.
+  - confirmé:
+    - id: 11
+      question: Comment se traduit le mot machu dans le langage quechua ?
+      propositions:
+      - Rocher
+      - Montagne
+      - Sommet
+      - Vieille
+      réponse: Vieille
+      anecdote: Le quechua est une famille de langues parlées au Pérou (4 millions de locuteurs) où il a le statut de langue officielle depuis 1975.
+    - id: 12
+      question: Quel archéologue américain a dévoilé la ville sacrée du Machu Picchu ?
+      propositions:
+      - Julius Popper
+      - Paul Walle
+      - Hiram Bingham
+      - Jimmy Angel
+      réponse: Hiram Bingham
+      anecdote: Bien que considéré comme archéologue, il préféra toujours le terme explorateur, insistant pour être décrit ainsi dans les « Who's Who ».
+    - id: 13
+      question: Depuis quelle année le Machu Picchu est-il inscrit sur la liste de l'UNESCO ?
+      propositions:
+      - 1963
+      - 1923
+      - 1943
+      - 1983
+      réponse: 1983
+      anecdote: L'Unesco poursuit son action à travers cinq grands programmes : éducation, sciences, culture, communication et information.
+    - id: 14
+      question: Combien de constructions composent le site du Machu Picchu dans son ensemble ?
+      propositions:
+      - 139
+      - 157
+      - 172
+      - 118
+      réponse: 172
+      anecdote: Les 172 constructions qui forment le Machu Picchu s'étendent sur environ 530 mètres de long et sur 200 mètres de large.
+    - id: 15
+      question: Sous le règne de quel empereur la ville du Machu Picchu fut-elle construite ?
+      propositions:
+      - Viracocha
+      - Pachacutec
+      - Lloque Yupanqui
+      - Atahualpa
+      réponse: Pachacutec
+      anecdote: À la mort de Pachacutec, et selon les coutumes royales incas, Machu Picchu passa à sa « panaca » (cour, clan, clientèle élargie).
+    - id: 16
+      question: Combien de touristes environ ont visité le Machu Picchu en 2004 ?
+      propositions:
+      - 400 000
+      - 200 000
+      - 100 000
+      - 300 000
+      réponse: 400 000
+      anecdote: L'éloignement et la difficulté d'accès au site imposent d'eux-mêmes des limites naturelles à l'expansion du tourisme.
+    - id: 17
+      question: En combien de grands secteurs la cité du Machu Picchu est-elle divisée ?
+      propositions:
+      - Six
+      - Quatre
+      - Deux
+      - Huit
+      réponse: Deux
+      anecdote: La zone agricole, formée de terrasses de cultures au sud, etait séparée de la zone urbaine dans laquelle vivaient ses occupants.
+    - id: 18
+      question: Quelle est la longueur du mur séparant la ville de la zone agricole du Machu Picchu ?
+      propositions:
+      - 400 mètres
+      - 200 mètres
+      - 600 mètres
+      - 800 mètres
+      réponse: 400 mètres
+      anecdote: La zone urbaine a été divisée par les archéologues en groupes d'édifices numérotés de 1 à 18.
+    - id: 19
+      question: À qui est principalement dédiée la zone sacrée du Machu Picchu ? 
+      propositions:
+      - Inti
+      - Coca
+      - Ocllo
+      - Quilla
+      réponse: Inti
+      anecdote: Inti, le dieu soleil, est la divinité principale du panthéon inca, après Huiracocha, le dieu créateur.
+    - id: 20
+      question: Combien de personnes environ pouvaient nourrir les champs du Machu Picchu ?
+      propositions:
+      - 7 000
+      - 4 000
+      - 10 000
+      - 1 000
+      réponse: 10 000
+      anecdote: La ville était alimentée grâce à ces cultures en terrasse, qui permettaient de récolter maïs, pomme de terre et divers légumes.
+  - expert:
+    - id: 21
+      question: Quel est le numéro d'identification du Machu Picchu au patrimoine mondial de l'UNESCO ?
+      propositions:
+      - 346
+      - 437
+      - 127
+      - 274
+      réponse: 274
+      anecdote: Le patrimoine mondial désigne un ensemble de biens présentant un intérêt exceptionnel pour l'héritage commun de l'humanité.
+    - id: 22
+      question: Quelle est la superficie du sanctuaire historique de Machu Picchu ?
+      propositions:
+      - 325 km²
+      - 225 km²
+      - 25 km²
+      - 125 km²
+      réponse: 325 km²
+      anecdote: Le Machu Picchu fait partie de tout un ensemble culturel et naturel connu sous le nom de Sanctuaire historique de Machu Picchu.
+    - id: 23
+      question: À quelle altitude le Machu Picchu est-il à cheval sur la crête entre deux sommets ?
+      propositions:
+      - 2 438 mètres
+      - 2 738 mètres
+      - 1 738 mètres
+      - 2 138 mètres
+      réponse: 2 438 mètres
+      anecdote: Sous certains angles, il est possible d'imaginer le profil d'un visage humain regardant vers le ciel, dont le Huayna Picchu serait le nez.
+    - id: 24
+      question: Quelle rivière coule sur les deux côtés de la cité du Machu Picchu ?
+      propositions:
+      - Urubamba
+      - Pastaza
+      - Branco
+      - Envira
+      réponse: Urubamba
+      anecdote: Autour du Huayna Picchu, cette importante rivière du Pérou décrit un grand arc en contrebas d'une falaise de 600 mètres de hauteur.
+    - id: 25
+      question: Quel est le plus proche village du Machu Picchu, situé à 400 mètres en contrebas ?
+      propositions:
+      - Charcana
+      - Huacachina
+      - Urcos
+      - Aguas Calientes
+      réponse: Aguas Calientes
+      anecdote: Depuis le village d'Aguas Calientes, un service de bus emprunte régulièrement la route Hiram Bingham vers le Machu Picchu.
+    - id: 26
+      question: Quelle tour conique du Machu Picchu se situe dans le quartier des nobles ?
+      propositions:
+      - Cajamarca
+      - Torréon
+      - Arequipa
+      - Pisac
+      réponse: Torréon
+      anecdote: Le Torréon est construit sur une grande roche en-dessous de laquelle se trouve une petite cavité, un mausolée pour les momies.
+    - id: 27
+      question: Combien de squelettes a-t-on retrouvé à proximité du Torréon du Machu Picchu ?
+      propositions:
+      - 99
+      - 166
+      - 120
+      - 142
+      réponse: 142
+      anecdote: L'hypothèse la plus commune est qu'il s'agirait d'acclas, jeunes filles sacrifiées pour célébrer le culte du Soleil.
+    - id: 28
+      question: Des recherches sur quelle ville ont permis à Hiram Bingham de découvrir le Machu Picchu ?
+      propositions:
+      - Yanaca
+      - Quenko
+      - Vicabamba
+      - Tambomachay
+      réponse: Vicabamba
+      anecdote: Accompagné par ses guides, le sergent Carrasco et le paysan Melchor Arteaga, il se rend à Machu Picchu le 24 juillet 1911.
+    - id: 29
+      question: Qui aurait déjà visité Machu Picchu en 1894, avant Hiram Bingham ?
+      propositions:
+      - Augustin Lizarraga
+      - Jill Langlois
+      - Luis Valcarel
+      - Alfredo Valencia
+      réponse: Augustin Lizarraga
+      anecdote: Augustin Lizarraga, originaire de Cuzco, arriva dans la ville le 14 juillet 1902 guidant Gabino Sanchez, Enrique Palma et Justo Ochoa.
+    - id: 30
+      question: Quel pont contrôle l'accès au Machu Picchu depuis l'ouest ?
+      propositions:
+      - Pont du Soleil
+      - Pont du Solstice
+      - Pont du Temple
+      - Pont de l'Inca
+      réponse: Pont de l'Inca
+      anecdote: L'accès au site du Machu Picchu est rigoureusement contrôlé pour limiter les méfaits et les détournements du tourisme massif.

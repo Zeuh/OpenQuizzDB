@@ -1,0 +1,280 @@
+---
+fournisseur: OpenQuizzDB - Fournisseur de contenu libre (https://www.openquizzdb.org)
+rédacteur: Philippe Bresoux
+thème: Orthoquizz (Des mots souvent difficiles à écrire)
+difficulté: 3 / 5
+quizz:
+  fr:
+  - débutant:
+    - id: 1
+      question: Où faut-il généralement d'abord se rendre en arrivant à l'hôpital ?
+      propositions:
+      - Acueil
+      - Acceuil
+      - Aceuil
+      - Accueil
+      réponse: Accueil
+      anecdote: Dans le monde du travail, l'accueil consiste à orienter un patient, un client ou un visiteur et à l'aider dans ses démarches.
+    - id: 2
+      question: Quel engin muni d'une planche et de deux roues est désormais électrique ?
+      propositions:
+      - Trottinette
+      - Trottinete
+      - Trotinete
+      - Trotinette
+      réponse: Trottinette
+      anecdote: Servant de jouet d'enfant en 1930, la trottinette est devenue un moyen de transport individuel urbain depuis les années 2010.
+    - id: 3
+      question: À quoi procède un avion qui s'apprête à rejoindre la terre ferme ?
+      propositions:
+      - Atterrisage
+      - Atterissage
+      - Atterrissage
+      - Aterrissage
+      réponse: Atterrissage
+      anecdote: Au début de l'aviation, le terme employé en place de l'atterrissage était la prise de terrain, terme toujours utilisé en parapente.
+    - id: 4
+      question: Quelle idée ou concept semble parfois être le remède à tous les maux ?
+      propositions:
+      - Panascée
+      - Panacée
+      - Pannacée
+      - Panassée
+      réponse: Panacée
+      anecdote: Le mot est parfois redoublé, on ne parle plus simplement de panacée, mais de panacée universelle, ce qui est un pléonasme.
+    - id: 5
+      question: Quelle simple supposition peut être étudiée, confrontée, utilisée ou discutée ?
+      propositions:
+      - Hypotèse
+      - Hipothèse
+      - Hyppothèse
+      - Hypothèse
+      réponse: Hypothèse
+      anecdote: Une hypothèse (sentimentale, religieuse ou politique) utilisée sans intention de la vérifier constitue dans ce cas un postulat.
+    - id: 6
+      question: Quelle bande de faible hauteur est souvent placée au pied des murs ?
+      propositions:
+      - Plynthe
+      - Plinte
+      - Plainte
+      - Plinthe
+      réponse: Plinthe
+      anecdote: Élément décoratif et utilitaire, elle permet entre autres de cacher des raccords ou des espaces laissés par les poseurs de parquet.
+    - id: 7
+      question: Quelle science a pour objet la recherche de l'origine des mots ?
+      propositions:
+      - Éthymologie
+      - Hétymologie
+      - Étymologie
+      - Étimologie
+      réponse: Étymologie
+      anecdote: L'étymologie s'appuie sur des lois de la phonétique historique (ascendance de ces mots) et sur l'évolution sémantique des termes.
+    - id: 8
+      question: Que dit-on d'une femme qui engage une relation durable pour de l'argent ?
+      propositions:
+      - Vénnale
+      - Vénale
+      - Vainale
+      - Veinale
+      réponse: Vénale
+      anecdote: Ce terme est souvent utilisé lorsqu'une belle et jeune femme se marie avec un homme riche et beaucoup plus âgé qu'elle.
+    - id: 9
+      question: Quelle croyance semble être manifestement erronée au premier abord ?
+      propositions:
+      - Mithe
+      - Myte
+      - Mythe
+      - Mytthe
+      réponse: Mythe
+      anecdote: Cette tradition orale propose une explication pour certains aspects fondamentaux du monde, qui a forgé ou qui véhicule ces mythes.
+    - id: 10
+      question: Quelle cavité verticale, souvent profonde, peut être naturelle ou artificielle ?
+      propositions:
+      - Puit
+      - Puis
+      - Puits
+      - Puy
+      réponse: Puits
+      anecdote: Un puits est, à l'origine, une cavité physique verticale, connectant deux niveaux de profondeurs différentes, pénétrables ou non.
+  - confirmé:
+    - id: 11
+      question: Quelle plante annuelle ou vivace est symbole de longévité en Chine ?
+      propositions:
+      - Crysanthème
+      - Chrysantème
+      - Chrysanthème
+      - Crisanthème
+      réponse: Chrysanthème
+      anecdote: Les plus connus des chrysanthèmes sont les chrysanthèmes d'automne, ou chrysanthèmes des fleuristes (pomponnettes).
+    - id: 12
+      question: Quel mammifère amphibien adulte n'a pas d'autre prédateur que l'homme ?
+      propositions:
+      - Hipopotame
+      - Hippopotame
+      - Hipoppotame
+      - Hypopotame
+      réponse: Hippopotame
+      anecdote: Pour séduire une femelle les hippopotames peuvent se battre jusqu'à la mort, se combattant à l'aide de leurs défenses.
+    - id: 13
+      question: Quelle plante Sim n'aimait-il pas dans une chanson de 1971 ?
+      propositions:
+      - Rododindron
+      - Rhododindron
+      - Rhododendron
+      - Rododundron
+      réponse: Rhododendron
+      anecdote: On les rencontre dans les régions montagneuses, telles que les Alpes, les Pyrénées, le Caucase, les Carpates et l'Himalaya.
+    - id: 14
+      question: Quelle infection à la couleur dorée est potentiellement mortelle ?
+      propositions:
+      - Stafylocoque
+      - Staphilocoque
+      - Stafilocoque
+      - Staphylocoque
+      réponse: Staphylocoque
+      anecdote: Si un patient n'est pas traité suffisamment tôt, et notamment s'il est immunodéprimé, il peut développer une septicémie.
+    - id: 15
+      question: Quelle mer, presque entièrement fermée, entoure une grande partie de l'Italie ?
+      propositions:
+      - Méditerranée
+      - Médittérrannée
+      - Méditteranée
+      - Métiterrannée
+      réponse: Méditerranée
+      anecdote: L'ouverture de la mer Méditerranée vers l'océan Atlantique par le détroit de Gibraltar est large d'environ quatorze kilomètres.
+    - id: 16
+      question: Quel animal semi-aquatique est endémique de l'est de l'Australie ?
+      propositions:
+      - Ornitorynque
+      - Ornitorinque
+      - Ornithorynque
+      - Ornythorinque
+      réponse: Ornithorynque
+      anecdote: L'ornithorynque est l'une des cinq espèces de l'ordre des monotrèmes, seul ordre de mammifères qui pond des oeufs.
+    - id: 17
+      question: Quel thérapeute irez-vous consulter pour retrouver l'usage d'une main ?
+      propositions:
+      - Kinésitérapeute
+      - Kynésithérapeute
+      - Kinésythérapeute
+      - Kinésithérapeute
+      réponse: Kinésithérapeute
+      anecdote: Le kinésithérapeute cherchera à augmenter les capacités fonctionnelles de la personne dans le cadre de la rééducation.
+    - id: 18
+      question: Quelle situation offrant une alternative mène à des résultats différents ?
+      propositions:
+      - Dilemme
+      - Dilème
+      - Dylème
+      - Dilemne
+      réponse: Dilemme
+      anecdote: Généralement, les possibilités offertes sont présentées aussi attirantes ou repoussantes l'une que l'autre, mais sans intérêt.
+    - id: 19
+      question: Quel moyen permet d'augmenter la mémorisation de l'information ?
+      propositions:
+      - Mnémotechnique
+      - Maimotechnique
+      - Mémotechnique
+      - Mnaimotechnique
+      réponse: Mnémotechnique
+      anecdote: La première référence connue à un mnémonique est l'Art de mémoire, décrite dans « De Oratore » par Cicéron.
+    - id: 20
+      question: Sur quelle structure rigide les éléments d'un véhicule terrestre sont-ils fixés ?
+      propositions:
+      - Châssis
+      - Chassi
+      - Chassis
+      - Châssit
+      réponse: Châssis
+      anecdote: Par opposition à la carrosserie, on peut parler de châssis pour désigner l'ensemble des structures participant à la fonction de roulage.
+  - expert:
+    - id: 21
+      question: Quel soulèvement armé peut parfois avoir lieu contre le pouvoir en place ?
+      propositions:
+      - Inssurection
+      - Inssurrection
+      - Insurrection
+      - Insurexion
+      réponse: Insurrection
+      anecdote: Constitue un mouvement insurrectionnel toute violence collective de nature à mettre en péril les institutions de la République.
+    - id: 22
+      question: Quelle maladie grave du foie résulte d'une consommation chronique d'alcool ?
+      propositions:
+      - Cyrrhose
+      - Cyrose
+      - Cirrose
+      - Cirrhose
+      réponse: Cirrhose
+      anecdote: La fibrose entraîne une élévation de la pression sanguine un épanchement de liquide dans l'abdomen susceptible de s'infecter.
+    - id: 23
+      question: Quels organes de la gorge sont en partie visibles au fond de la bouche ?
+      propositions:
+      - Ammydales
+      - Amigdales
+      - Amygdales
+      - Ammidales
+      réponse: Amygdales
+      anecdote: Elles jouent un rôle essentiel dans la défense immunitaire car situées, au niveau du pharynx, à l'entrée des voies respiratoires.
+    - id: 24
+      question: Quelle transmission d'un bien d'un défunt est faite à titre gratuit ?
+      propositions:
+      - Lègue
+      - Leg
+      - Legs
+      - Legg
+      réponse: Legs
+      anecdote: Le legs se distingue de la donation (effet du vivant et irrévocable) car il ne prend effet qu'au décès, et il est révocable.
+    - id: 25
+      question: Qu'avez-vous probablement si vos selles sont fort liquides ?
+      propositions:
+      - Dhiarrée
+      - Diarrhée
+      - Diarrée
+      - Diarée
+      réponse: Diarrhée
+      anecdote: Selon l'OMS, il s'agit de l'émission d'au moins trois selles molles ou liquides par jour, ou à une fréquence anormale pour l'individu.
+    - id: 26
+      question: Quel os résulte de la soudure de quatre vertèbres atrophiées ?
+      propositions:
+      - Coccyx
+      - Cocyx
+      - Coxis
+      - Coccis
+      réponse: Coccyx
+      anecdote: Le coccyx est un tout petit os triangulaire situé à l'extrémité de la colonne vertébrale chez certains primates dont l'Homme.
+    - id: 27
+      question: Quelle gomme est à peu près similaire au baume de La Mecque ?
+      propositions:
+      - Myrrhe
+      - Mirre
+      - Myre
+      - Myrre
+      réponse: Myrrhe
+      anecdote: La myrrhe fait partie des cadeaux apportés à Jésus par les rois mages, ce que rapporte l'Évangile selon Matthieu.
+    - id: 28
+      question: Qu'observe-t-on sur la peau lorsque du sang quitte les vaisseaux ?
+      propositions:
+      - Eccymose
+      - Ecchymose
+      - Ecquimose
+      - Equimose
+      réponse: Ecchymose
+      anecdote: Il s'agit de ce que l'on appelle plus communément un bleu, c'est à dire un épanchement diffus de sang sous la peau.
+    - id: 29
+      question: Quelles sommes sont versées par un client avant une livraison de biens ?
+      propositions:
+      - Arrhes
+      - Hares
+      - Ares
+      - Arhes
+      réponse: Arrhes
+      anecdote: Dans le cas d'une vente, l'acheteur se réserve ainsi le droit de ne pas donner suite (le vendeur conservant alors les arrhes données).
+    - id: 30
+      question: Quelle fleur symbolise l'ardeur du coeur dans le langage des fleurs ?
+      propositions:
+      - Fuchsia
+      - Fuchia
+      - Fuschia
+      - Fushia
+      réponse: Fuchsia
+      anecdote: Les fuchsias sont des plantes très cultivées dans les jardins d'ornement, bien qu'elles ne soient pas rustiques en régions tempérées.

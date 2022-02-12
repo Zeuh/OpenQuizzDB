@@ -1,0 +1,1650 @@
+---
+fournisseur: OpenQuizzDB - Fournisseur de contenu libre (https://www.openquizzdb.org)
+rédacteur: Philippe Bresoux
+thème: Marques et slogans (Identité visuelle, sonore et olfactive)
+difficulté: 2 / 5
+quizz:
+  fr:
+  - débutant:
+    - id: 1
+      question: De quelle filiale du groupe Nestlé George Clooney est-il devenu l'ambassadeur ?
+      propositions:
+      - Jacques Vabre
+      - Nespresso
+      - Carte Noire
+      - Ricoré
+      réponse: Nespresso
+      anecdote: Le fameux slogan « What else  ? », associé au beau George Clooney, a aujourd'hui été souvent parodié et a fait le tour du monde.
+    - id: 2
+      question: Quelle marque de jeans mondialement connue fabrique le célèbre 501 ?
+      propositions:
+      - Levis
+      - Diesel
+      - Lee Cooper
+      - C17
+      réponse: Levis
+      anecdote: Cette compagnie de vêtements est en effet mondialement connue, principalement pour son Blue-jeans.
+    - id: 3
+      question: Une marque de whisky écossais extrêmement populaire se nomme « Johnnie... »
+      propositions:
+      - Parker
+      - Walker
+      - Bunker
+      - Monster
+      réponse: Walker
+      anecdote: La gamme de whiskies se décompose en « labels » : Red, Black, Green, Gold, Blue et Swing.
+    - id: 4
+      question: Quelle marque vous invite à savourer « un café nommé désir » ?
+      propositions:
+      - Nespresso
+      - Jacques Vabre
+      - Ricoré
+      - Carte Noire
+      réponse: Carte Noire
+      anecdote: Ancienne marque du groupe américain Mondelez, Carte Noire appartient désormais au groupe italien Lavazza depuis février 2016.
+    - id: 5
+      question: Quelle marque vous garantit « le goût des choses simples » ?
+      propositions:
+      - Buitoni
+      - Maggi
+      - Herta
+      - Purina
+      réponse: Herta
+      anecdote: Herta est une marque industrielle de produits alimentaires du groupe Nestlé dont le siège social est basé à Noisiel en France.
+    - id: 6
+      question: Quelle grande marque de matériel informatique a pour logo une pomme ?
+      propositions:
+      - Apple
+      - Acer
+      - Dell
+      - IBM
+      réponse: Apple
+      anecdote: La firme est devenue célèbre avec son ordinateur personnel Apple II, sorti en 1977.
+    - id: 7
+      question: Quelle enseigne vous invite à rester « tous unis contre la vie chère » ?
+      propositions:
+      - Super U
+      - Intermarché
+      - Cora
+      - Carrefour
+      réponse: Intermarché
+      anecdote: Fondée en 1969 sous le nom des EX Offices de distribution, l'enseigne est devenue « Intermarché » en 1972.
+    - id: 8
+      question: De quelle poudre chocolatée pourriez-vous avoir « une énorme envie » ?
+      propositions:
+      - Banania
+      - Milka
+      - Nesquik
+      - Ovomaltine
+      réponse: Nesquik
+      anecdote: À l'origine, la poudre chocolatée portait le nom de Quik avant de devenir Nesquik, à l'occasion de son lancement en Europe en 1950.
+    - id: 9
+      question: « Secouez-moi, secouez-moi » a longtemps été le slogan de quelle grande marque ?
+      propositions:
+      - Pepsi
+      - Orangina
+      - Coca-Cola
+      - Schweppes
+      réponse: Orangina
+      anecdote: La célébrité de la marque vient en partie de l'originalité de sa bouteille, en forme d'orange avec une surface granulée.
+    - id: 10
+      question: Quel détaillant vous invite au « pays où la vie est moins chère » ?
+      propositions:
+      - Bricoman
+      - Conforama
+      - Darty
+      - Pixmania
+      réponse: Conforama
+      anecdote: La hiérarchie est très courte chez Conforama : on ne compte que sept niveaux entre le PDG du groupe et un employé de magasin.
+  - confirmé:
+    - id: 11
+      question: Quelle marque spécialisée en eaux minérales a pour logo un volcan vert ?
+      propositions:
+      - Volvic
+      - Thonon
+      - Evian
+      - Henniez
+      réponse: Volvic
+      anecdote: Depuis 1955, plus d'un milliard de litres de la marque Volvic sont vendus chaque année.
+    - id: 12
+      question: Quel assureur, cinquième gestionnaire d'actifs au monde, est « avec vous de A à Z » ?
+      propositions:
+      - Generali
+      - Axa
+      - Allianz
+      - Aviva
+      réponse: Allianz
+      anecdote: Le groupe est diversifié entre l'assurance-dommage et l'assurance-vie et est actif en Allemagne, en France et en Italie.
+    - id: 13
+      question: Quelle marque de parfum doit en partie sa célébrité à Marilyn Monroe ?
+      propositions:
+      - Gucci
+      - Cacharel
+      - Chanel
+      - Lancôme
+      réponse: Chanel
+      anecdote: L'entreprise Chanel appartient aujourd'hui à Alain Wertheimer et Gérard Wertheimer.
+    - id: 14
+      question: La Cayenne est un modèle de quelle marque automobile allemande ?
+      propositions:
+      - Audi
+      - Mercedes
+      - Porsche
+      - Volkswagen
+      réponse: Porsche
+      anecdote: Le Porsche Cayenne, également appelée 955, est le tout premier 4x4 fabriqué par Porsche.
+    - id: 15
+      question: La publicité de quelle marque de chocolat a été inspirée par la couleur mauve ?
+      propositions:
+      - Treets
+      - Kwatta
+      - Milka
+      - Smarties
+      réponse: Milka
+      anecdote: Dans les années 1990, Peter Steiner est soudain devenu populaire avec une publicité « Milka ».
+    - id: 16
+      question: Quelle entreprise française vous propose son « contrat de confiance » ?
+      propositions:
+      - Virgin
+      - Free
+      - Orange
+      - Darty
+      réponse: Darty
+      anecdote: La promesse historique de Darty fonctionne aujourd'hui sur le modèle « meilleur prix, meilleur choix, meilleur service ».
+    - id: 17
+      question: Quel emblème est utilisé dans toutes les stations de la marque Shell ?
+      propositions:
+      - Lion rouge
+      - Trèfle vert
+      - Coquillage jaune
+      - Soleil bleu
+      réponse: Coquillage jaune
+      anecdote: Le groupe Shell a son quartier général établi à la fois à Londres, Fortaleza et à La Haye.
+    - id: 18
+      question: Par quoi est représenté le logo de la marque Adidas, spécialisée dans les articles de sport ?
+      propositions:
+      - Trois cercles
+      - Trois carrés
+      - Trois losanges
+      - Trois bandes
+      réponse: Trois bandes
+      anecdote: Le siège social du groupe Adidas, spécialisée dans les articles de sport, se trouve à Herzogenaurach, en Bavière.
+    - id: 19
+      question: Quel animal est représenté sur les vêtements de la marque Lacoste ?
+      propositions:
+      - Un ours
+      - Un chameau
+      - Un taureau
+      - Un crocodile
+      réponse: Un crocodile
+      anecdote: René Lacoste, grand champion de tennis français, était surnommé « le Crocodile ».
+    - id: 20
+      question: Quelle bière belge utilise comme slogan « Les hommes savent pourquoi » ?
+      propositions:
+      - Gueuze
+      - Jupiler
+      - Stella Artois
+      - Maes
+      réponse: Jupiler
+      anecdote: Dernièrement, des campagnes publicitaires Jupiler plus féminines ont été éditées.
+  - expert:
+    - id: 21
+      question: Quel acteur a réalisé certaines publicités de la marque Orangina ?
+      propositions:
+      - Alain Chabat
+      - Thierry Lhermitte
+      - Michel Blanc
+      - Gérard Jugnot
+      réponse: Alain Chabat
+      anecdote: Le « secouement » y est mis en avant avec humour, notamment grâce aux costumes.
+    - id: 22
+      question: Créée en 1971, quelle est « la plus chaude des boissons froides » ?
+      propositions:
+      - Nestea
+      - Canada Dry
+      - Schweppes
+      - Gini
+      réponse: Gini
+      anecdote: La marque Gini a été créée en 1971 par le groupe Perrier et fait actuellement partie du groupe Orangina Schweppes.
+    - id: 23
+      question: Quelle chaîne de magasins française est un « agitateur de curiosité » ?
+      propositions:
+      - Sony
+      - Fnac
+      - HMV
+      - Virgin
+      réponse: Fnac
+      anecdote: FNAC est l'une des principales enseignes de la distribution de produits culturels et de loisirs en France et en Belgique.
+    - id: 24
+      question: Quelle marque de café avait pour emblème un serveur noir avec un turban ?
+      propositions:
+      - Barista
+      - Négresco
+      - Ricoré
+      - Melita
+      réponse: Négresco
+      anecdote: Dans les années 1970, Edmond Jean a été contraint de vendre cette ancienne marque de café de Marseille à Jacques Vabre.
+    - id: 25
+      question: Quelle marque a fabriqué les premiers mouchoirs en papier jetables ?
+      propositions:
+      - Renova
+      - Lotus
+      - Kleenex
+      - Labell
+      réponse: Kleenex
+      anecdote: Le côté pratique et hygiénique des mouchoirs jetables a détrôné les mouchoirs en tissu.
+    - id: 26
+      question: À quelle marque française de bière doit-on le slogan « Quatre chiffres. Une bière. » ?
+      propositions:
+      - 1832
+      - 1515
+      - 1664
+      - 1789
+      réponse: 1664
+      anecdote: La 1664 serait la bière française la plus vendue au monde et constitue la marque premium de Kronenbourg.
+    - id: 27
+      question: Quelle marque de surf a été inspirée, pour son logo, par une estampe japonaise ?
+      propositions:
+      - Oxbow
+      - Rip Curl
+      - Quiksilver
+      - Rusty
+      réponse: Quiksilver
+      anecdote: Le logo de Quiksilver, inspiré d'une estampe d'Hokusai, représente une vague avec une montagne en arrière-plan.
+    - id: 28
+      question: Quel gouverneur hollandais a donné son nom à des cigarettes blondes ?
+      propositions:
+      - Pieter De Grebber
+      - Pieter Codde
+      - Pieter de Graeff
+      - Pieter Stuyvesant
+      réponse: Pieter Stuyvesant
+      anecdote: La firme American Tobacco lance en 1960 la marque Pieter Stuyvesant dans le monde entier.
+    - id: 29
+      question: Quel bouquet satellite français vous propose « le meilleur du numérique » ?
+      propositions:
+      - Canalsat
+      - SFR
+      - Bouygues
+      - TPS
+      réponse: Canalsat
+      anecdote: Afin de s'adapter au mieux aux nouveaux réseaux numériques de communication, Canalsat se décline en une dizaine de bouquets.
+    - id: 30
+      question: Quelle compagnie aérienne « fait du ciel le plus bel endroit de la terre » ?
+      propositions:
+      - Air France
+      - Air Corsica
+      - Twin Jet
+      - Airbus Transport
+      réponse: Air France
+      anecdote: Les activités principales d'Air France sont le transport de passagers et de fret ainsi que la maintenance et l'entretien des avions.
+  en:
+  - débutant:
+    - id: 1
+      question: Which subsidiary of the Nestlé group did George Clooney become the ambassador of ?
+      propositions:
+      - Ricoré
+      - Nespresso
+      - Black Card
+      - Jacques Vabre
+      réponse: Nespresso
+      anecdote: The famous slogan « What else  ? », associated with the handsome George Clooney, has today been often parodied and has been around the world.
+    - id: 2
+      question: Which world famous jeans brand makes the famous 501 ?
+      propositions:
+      - C17
+      - Levis
+      - Lee Cooper
+      - Diesel
+      réponse: Levis
+      anecdote: This clothing company is indeed world famous, mainly for its Blue jeans.
+    - id: 3
+      question: An extremely popular brand of Scotch whiskey is called « Johnnie... »
+      propositions:
+      - Parker
+      - Bunker
+      - Walker
+      - Monster
+      réponse: Walker
+      anecdote: The range of whiskeys is broken down into labels: Red, Black, Green, Gold, Blue and Swing.
+    - id: 4
+      question: Which brand invites you to enjoy « a coffee named desire » ?
+      propositions:
+      - Jacques Vabre
+      - Ricoré
+      - Nespresso
+      - Black Card
+      réponse: Black Card
+      anecdote: Former brand of the American group Mondelez, Carte Noire now belongs to the Italian group Lavazza since February 2016.
+    - id: 5
+      question: Which brand guarantees you « a taste for simple things » ?
+      propositions:
+      - Purina
+      - Buitoni
+      - Herta
+      - Maggi
+      réponse: Herta
+      anecdote: Herta is an industrial brand of food products of the Nestlé group whose head office is based in Noisiel, France.
+    - id: 6
+      question: Which major brand of computer hardware has an apple logo ?
+      propositions:
+      - Acer
+      - Dell
+      - IBM
+      - Apple
+      réponse: Apple
+      anecdote: The company rose to fame with its Apple II personal computer, released in 1977.
+    - id: 7
+      question: What sign invites you to remain « all united against the high cost of living » ?
+      propositions:
+      - Intermarché
+      - Super U
+      - Carrefour
+      - Cora
+      réponse: Intermarché
+      anecdote: Founded in 1969 under the name of EX Distribution Offices, the brand became Intermarché in 1972.
+    - id: 8
+      question: What chocolate powder could you be « craving » ?
+      propositions:
+      - Banania
+      - Nesquik
+      - Milka
+      - Ovomaltine
+      réponse: Nesquik
+      anecdote: Originally, the chocolate powder was named Quik before becoming Nesquik when it was launched in Europe in 1950.
+    - id: 9
+      question: « Shake Me, Shake Me » has long been the slogan of what great brand ?
+      propositions:
+      - Coca-Cola
+      - Schweppes
+      - Orangina
+      - Pepsi
+      réponse: Orangina
+      anecdote: Part of the brand's fame comes from the originality of its orange-shaped bottle with a granulated surface.
+    - id: 10
+      question: Which retailer invites you to « the country where life is cheaper » ?
+      propositions:
+      - Bricoman
+      - Pixmania
+      - Darty
+      - Conforama
+      réponse: Conforama
+      anecdote: The hierarchy is very short at Conforama: there are only seven levels between the CEO of the group and a store employee.
+  - confirmé:
+    - id: 11
+      question: Which brand specializing in mineral water has a green volcano as its logo ?
+      propositions:
+      - Volvic
+      - Evian
+      - Thonon
+      - Henniez
+      réponse: Volvic
+      anecdote: Since 1955, more than a billion liters of the Volvic brand have been sold each year.
+    - id: 12
+      question: Which insurer, the fifth largest asset manager in the world, is « with you from A to Z » ?
+      propositions:
+      - Aviva
+      - Allianz
+      - Generali
+      - Axa
+      réponse: Allianz
+      anecdote: The group is diversified between non-life insurance and life insurance and is active in Germany, France and Italy.
+    - id: 13
+      question: Which perfume brand owes its fame in part to Marilyn Monroe ?
+      propositions:
+      - Lancôme
+      - Cacharel
+      - Gucci
+      - Chanel
+      réponse: Chanel
+      anecdote: The Chanel company is now owned by Alain Wertheimer and Gérard Wertheimer.
+    - id: 14
+      question: The Cayenne is a model of which German car brand ?
+      propositions:
+      - Audi
+      - Porsche
+      - Volkswagen
+      - Mercedes
+      réponse: Porsche
+      anecdote: The Porsche Cayenne, also called 955, was the very first 4x4 manufactured by Porsche.
+    - id: 15
+      question: Which brand of chocolate advertising was inspired by the color mauve ?
+      propositions:
+      - Kwatta
+      - Smarties
+      - Milka
+      - Treets
+      réponse: Milka
+      anecdote: In the 1990s, Peter Steiner suddenly became popular with a Milka ad.
+    - id: 16
+      question: Which French company offers you its « contract of confidence » ?
+      propositions:
+      - Free
+      - Darty
+      - Orange
+      - Virgin
+      réponse: Darty
+      anecdote: Darty's historic promise today operates on the best price, best choice, best service model.
+    - id: 17
+      question: Which emblem is used in all Shell brand stations ?
+      propositions:
+      - Yellow seashell
+      - Blue sun
+      - Green clover
+      - Red lion
+      réponse: Yellow seashell
+      anecdote: The Shell group has its headquarters in London, Fortaleza and The Hague.
+    - id: 18
+      question: What is the logo of the Adidas brand, specializing in sporting goods, represented by ?
+      propositions:
+      - Three squares
+      - Three bands
+      - Three circles
+      - Three diamonds
+      réponse: Three bands
+      anecdote: The headquarters of the Adidas Group, specializing in sporting goods, is in Herzogenaurach, Bavaria.
+    - id: 19
+      question: What animal is represented on the clothing of the Lacoste brand ?
+      propositions:
+      - A bear
+      - A bull
+      - A crocodile
+      - A camel
+      réponse: A crocodile
+      anecdote: René Lacoste, great French tennis champion, was nicknamed the Crocodile.
+    - id: 20
+      question: Which Belgian beer does « Men know why » use as a slogan ?
+      propositions:
+      - Maes
+      - Gueuze
+      - Jupiler
+      - Stella Artois
+      réponse: Jupiler
+      anecdote: Recently, more feminine Jupiler advertising campaigns have been published.
+  - expert:
+    - id: 21
+      question: Which actor carried out certain commercials for the Orangina brand ?
+      propositions:
+      - Alain Chabat
+      - Michel Blanc
+      - Gérard Jugnot
+      - Thierry Lhermitte
+      réponse: Alain Chabat
+      anecdote: The shaking is put forward with humor, in particular thanks to the costumes.
+    - id: 22
+      question: Founded in 1971, what is the « hottest cold drink » ?
+      propositions:
+      - Canada Dry
+      - Gini
+      - Nestea
+      - Schweppes
+      réponse: Gini
+      anecdote: The Gini brand was created in 1971 by the Perrier group and is currently part of the Orangina Schweppes group.
+    - id: 23
+      question: Which French chain of stores is a « stirrer of curiosity » ?
+      propositions:
+      - Fnac
+      - HMV
+      - Sony
+      - Virgin
+      réponse: Fnac
+      anecdote: FNAC is one of the main brands in the distribution of cultural and leisure products in France and Belgium.
+    - id: 24
+      question: Which brand of coffee had a black waiter with a turban as its emblem ?
+      propositions:
+      - Negresco
+      - Ricoré
+      - Barista
+      - Melita
+      réponse: Negresco
+      anecdote: In the 1970s, Edmond Jean was forced to sell this old brand of Marseille coffee to Jacques Vabre.
+    - id: 25
+      question: Which brand made the first disposable tissues ?
+      propositions:
+      - Kleenex
+      - Lotus
+      - Labell
+      - Renova
+      réponse: Kleenex
+      anecdote: The practical and hygienic side of disposable handkerchiefs has overtaken fabric handkerchiefs.
+    - id: 26
+      question: To which French brand of beer we owe the slogan « Quatre figures. A beer. » ?
+      propositions:
+      - 1515
+      - 1832
+      - 1789
+      - 1664
+      réponse: 1664
+      anecdote: The 1664 is said to be the best-selling French beer in the world and is Kronenbourg's premium brand.
+    - id: 27
+      question: Which surf brand was inspired, for its logo, by a Japanese print ?
+      propositions:
+      - Rusty
+      - Quiksilver
+      - Rip Curl
+      - Oxbow
+      réponse: Quiksilver
+      anecdote: Quiksilver's logo, inspired by a print by Hokusai, depicts a wave with a mountain in the background.
+    - id: 28
+      question: Which Dutch governor gave his name to blond cigarettes ?
+      propositions:
+      - Pieter Stuyvesant
+      - Pieter de Graeff
+      - Pieter Codde
+      - Pieter De Grebber
+      réponse: Pieter Stuyvesant
+      anecdote: The American Tobacco firm launched the Pieter Stuyvesant brand worldwide in 1960.
+    - id: 29
+      question: Which satellite package offers you « the best of digital » ?
+      propositions:
+      - GST
+      - Bouygues
+      - SFR
+      - Canalsat
+      réponse: Canalsat
+      anecdote: In order to best adapt to new digital communication networks, Canalsat is available in around ten packages.
+    - id: 30
+      question: Which airline « makes the sky the most beautiful place on earth » ?
+      propositions:
+      - Twin Jet
+      - Airbus Transport
+      - Air France
+      - Air Corsica
+      réponse: Air France
+      anecdote: Air France's main activities are passenger and freight transport as well as aircraft maintenance and servicing.
+  de:
+  - débutant:
+    - id: 1
+      question: Von welcher Tochtergesellschaft der Nestlé-Gruppe wurde George Clooney Botschafter ?
+      propositions:
+      - Ricoré
+      - Jacques Vabre
+      - Nespresso
+      - Schwarze Karte
+      réponse: Nespresso
+      anecdote: Der berühmte Slogan « Was noch  ? », der mit dem gutaussehenden George Clooney in Verbindung gebracht wird, wurde heute oft parodiert und war auf der ganzen Welt verbreitet.
+    - id: 2
+      question: Welche weltberühmte Jeansmarke macht den berühmten 501 ?
+      propositions:
+      - Lee Cooper
+      - Diesel
+      - C17
+      - Levis
+      réponse: Levis
+      anecdote: Diese Bekleidungsfirma ist in der Tat weltberühmt, hauptsächlich für ihre Blue Jeans.
+    - id: 3
+      question: Die äußerst beliebte Marke für Scotch Whisky heißt « Johnnie... »
+      propositions:
+      - Monster
+      - Parker
+      - Walker
+      - Bunker
+      réponse: Walker
+      anecdote: Das Whisky-Sortiment ist in Etiketten unterteilt: Rot, Schwarz, Grün, Gold, Blau und Swing.
+    - id: 4
+      question: Welche Marke lädt Sie ein, « einen Kaffee namens Wunsch » zu genießen ?
+      propositions:
+      - Ricoré
+      - Schwarze Karte
+      - Jacques Vabre
+      - Nespresso
+      réponse: Schwarze Karte
+      anecdote: Carte Noire, die frühere Marke der amerikanischen Gruppe Mondelez, gehört seit Februar 2016 zur italienischen Gruppe Lavazza.
+    - id: 5
+      question: Welche Marke garantiert Ihnen « einen Geschmack für einfache Dinge » ?
+      propositions:
+      - Purina
+      - Herta
+      - Maggi
+      - Buitoni
+      réponse: Herta
+      anecdote: Herta ist eine Industriemarke für Lebensmittel der Nestlé-Gruppe mit Hauptsitz in Noisiel, Frankreich.
+    - id: 6
+      question: Welche große Marke von Computerhardware hat ein Apple-Logo ?
+      propositions:
+      - Acer
+      - Dell
+      - Apple
+      - IBM
+      réponse: Apple
+      anecdote: Das Unternehmen wurde mit seinem 1977 veröffentlichten Apple II-PC bekannt.
+    - id: 7
+      question: Welches Zeichen lädt Sie ein, « gegen die hohen Lebenshaltungskosten » vereint zu bleiben ?
+      propositions:
+      - Super U
+      - Cora
+      - Intermarché
+      - Carrefour
+      réponse: Intermarché
+      anecdote: Die Marke wurde 1969 unter dem Namen EX Distribution Offices gegründet und 1972 zur Intermarché.
+    - id: 8
+      question: Welches Schokoladenpulver könnten Sie « begehren » ?
+      propositions:
+      - Milka
+      - Banania
+      - Ovomaltine
+      - Nesquik
+      réponse: Nesquik
+      anecdote: Ursprünglich hieß das Schokoladenpulver Quik, bevor es 1950 in Europa zu Nesquik wurde.
+    - id: 9
+      question: « Shake Me, Shake Me » ist seit langem der Slogan welcher großartigen Marke ?
+      propositions:
+      - Pepsi
+      - Coca-Cola
+      - Schweppes
+      - Orangina
+      réponse: Orangina
+      anecdote: Ein Teil des Ruhmes der Marke beruht auf der Originalität ihrer orangefarbenen Flasche mit granulierter Oberfläche.
+    - id: 10
+      question: Welcher Einzelhändler lädt Sie in « das Land ein, in dem das Leben billiger ist » ?
+      propositions:
+      - Bricoman
+      - Pixmania
+      - Darty
+      - Conforama
+      réponse: Conforama
+      anecdote: Die Hierarchie bei Conforama ist sehr kurz: Es gibt nur sieben Ebenen zwischen dem CEO der Gruppe und einem Filialmitarbeiter.
+  - confirmé:
+    - id: 11
+      question: Welche auf Mineralwasser spezialisierte Marke hat einen grünen Vulkan als Logo ?
+      propositions:
+      - Henniez
+      - Thonon
+      - Volvic
+      - Evian
+      réponse: Volvic
+      anecdote: Seit 1955 wurden jährlich mehr als eine Milliarde Liter der Marke Volvic verkauft.
+    - id: 12
+      question: Welcher Versicherer, der fünftgrößte Vermögensverwalter der Welt, ist « von A bis Z » bei Ihnen ?
+      propositions:
+      - Axa
+      - Allianz
+      - Aviva
+      - Generali
+      réponse: Allianz
+      anecdote: Die Gruppe ist zwischen Nichtlebensversicherung und Lebensversicherung diversifiziert und in Deutschland, Frankreich und Italien tätig.
+    - id: 13
+      question: Welche Parfümmarke verdankt ihren Ruhm zum Teil Marilyn Monroe ?
+      propositions:
+      - Cacharel
+      - Gucci
+      - Chanel
+      - Lancôme
+      réponse: Chanel
+      anecdote: Die Firma Chanel gehört jetzt Alain Wertheimer und Gérard Wertheimer.
+    - id: 14
+      question: Der Cayenne ist ein Modell welcher deutschen Automarke ?
+      propositions:
+      - Porsche
+      - Audi
+      - Volkswagen
+      - Mercedes
+      réponse: Porsche
+      anecdote: Der Porsche Cayenne, auch 955 genannt, war der allererste 4x4 von Porsche.
+    - id: 15
+      question: Welche Marke der Schokoladenwerbung wurde von der Farbe Lila inspiriert ?
+      propositions:
+      - Kwatta
+      - Smarties
+      - Milka
+      - Bäume
+      réponse: Milka
+      anecdote: In den 1990er Jahren wurde Peter Steiner plötzlich mit einer Milka-Anzeige populär.
+    - id: 16
+      question: Welches französische Unternehmen bietet Ihnen seinen « Vertrauensvertrag » an ?
+      propositions:
+      - Orange
+      - Kostenlos
+      - Jungfrau
+      - Darty
+      réponse: Darty
+      anecdote: Das historische Versprechen von Darty basiert heute auf dem besten Preis, der besten Wahl und dem besten Servicemodell.
+    - id: 17
+      question: Welches Emblem wird in allen Shell-Markenstationen verwendet ?
+      propositions:
+      - Grüner Klee
+      - Roter Löwe
+      - Gelbe Muschel
+      - Blaue Sonne
+      réponse: Gelbe Muschel
+      anecdote: Die Shell-Gruppe hat ihren Hauptsitz in London, Fortaleza und Den Haag.
+    - id: 18
+      question: Was ist das Logo der auf Sportartikel spezialisierten Marke Adidas, vertreten durch ?
+      propositions:
+      - Drei Diamanten
+      - Drei Kreise
+      - Drei Bands
+      - Drei Quadrate
+      réponse: Drei Bands
+      anecdote: Der Hauptsitz des auf Sportartikel spezialisierten Adidas Konzerns befindet sich in Herzogenaurach, Bayern.
+    - id: 19
+      question: Welches Tier ist auf der Kleidung der Marke Lacoste vertreten ?
+      propositions:
+      - Ein Bär
+      - Ein Stier
+      - Ein Kamel
+      - Ein Krokodil
+      réponse: Ein Krokodil
+      anecdote: René Lacoste, großer französischer Tennismeister, wurde als Krokodil bezeichnet.
+    - id: 20
+      question: Welches belgische Bier kennen « Männer, warum » sie als Slogan verwenden ?
+      propositions:
+      - Gueuze
+      - Stella Artois
+      - Jupiler
+      - Maes
+      réponse: Jupiler
+      anecdote: Kürzlich wurden mehr weibliche Jupiler-Werbekampagnen veröffentlicht.
+  - expert:
+    - id: 21
+      question: Welcher Schauspieler hat bestimmte Werbespots für die Marke Orangina gemacht ?
+      propositions:
+      - Thierry Lhermitte
+      - Alain Chabat
+      - Michel Blanc
+      - Gérard Jugnot
+      réponse: Alain Chabat
+      anecdote: Das Schütteln wird mit Humor vorgetragen, insbesondere dank der Kostüme.
+    - id: 22
+      question: Was ist das « heißeste kalte Getränk », das 1971 gegründet wurde ?
+      propositions:
+      - Schweppes
+      - Nestea
+      - Kanada trocken
+      - Gini
+      réponse: Gini
+      anecdote: Die Marke Gini wurde 1971 von der Perrier-Gruppe gegründet und gehört derzeit zur Orangina Schweppes-Gruppe.
+    - id: 23
+      question: Welche französische Handelskette ist ein « Neugieriger » ?
+      propositions:
+      - Fnac
+      - Sony
+      - Jungfrau
+      - HMV
+      réponse: Fnac
+      anecdote: FNAC ist eine der Hauptmarken im Vertrieb von Kultur- und Freizeitprodukten in Frankreich und Belgien.
+    - id: 24
+      question: Welche Kaffeemarke hatte einen schwarzen Kellner mit einem Turban als Emblem ?
+      propositions:
+      - Barista
+      - Melita
+      - Negresco
+      - Ricoré
+      réponse: Negresco
+      anecdote: In den 1970er Jahren war Edmond Jean gezwungen, diese alte Marke von Marseille-Kaffee an Jacques Vabre zu verkaufen.
+    - id: 25
+      question: Welche Marke hat die ersten Einweg-Taschentücher hergestellt ?
+      propositions:
+      - Lotus
+      - Renova
+      - Labell
+      - Kleenex
+      réponse: Kleenex
+      anecdote: Die praktische und hygienische Seite von Einweg-Taschentüchern hat Stoff-Taschentücher überholt.
+    - id: 26
+      question: Welcher französischen Biermarke verdanken wir den Slogan « Quatre-Zahlen. Ein Bier. » ?
+      propositions:
+      - 1832
+      - 1789
+      - 1664
+      - 1515
+      réponse: 1664
+      anecdote: Das 1664 gilt als das meistverkaufte französische Bier der Welt und ist Kronenbourgs Premiummarke.
+    - id: 27
+      question: Welche Surfmarke wurde für ihr Logo von einem japanischen Druck inspiriert ?
+      propositions:
+      - Rip Curl
+      - Oxbow
+      - Rusty
+      - Quiksilver
+      réponse: Quiksilver
+      anecdote: Das Quiksilver-Logo, inspiriert von einem Druck von Hokusai, zeigt eine Welle mit einem Berg im Hintergrund.
+    - id: 28
+      question: Welcher niederländische Gouverneur gab blonden Zigaretten seinen Namen ?
+      propositions:
+      - Pieter Stuyvesant
+      - Pieter de Graeff
+      - Pieter Codde
+      - Pieter De Grebber
+      réponse: Pieter Stuyvesant
+      anecdote: Die amerikanische Tabakfirma brachte 1960 die Marke Pieter Stuyvesant weltweit auf den Markt.
+    - id: 29
+      question: Welches Satellitenpaket bietet Ihnen « das Beste aus Digital » ?
+      propositions:
+      - GST
+      - Canalsat
+      - SFR
+      - Bouygues
+      réponse: Canalsat
+      anecdote: Um sich optimal an neue digitale Kommunikationsnetze anzupassen, ist Canalsat in rund zehn Paketen erhältlich.
+    - id: 30
+      question: Welche Fluggesellschaft « macht den Himmel zum schönsten Ort der Welt » ?
+      propositions:
+      - Luft Korsika
+      - Airbus Transport
+      - Twin Jet
+      - Air France
+      réponse: Air France
+      anecdote: Die Hauptaktivitäten von Air France sind der Personen- und Güterverkehr sowie die Wartung und Instandhaltung von Flugzeugen.
+  es:
+  - débutant:
+    - id: 1
+      question: ¿De qué filial del grupo Nestlé se convirtió George Clooney en embajador ?
+      propositions:
+      - Jacques Vabre
+      - Tarjeta negra
+      - Ricoré
+      - Nespresso
+      réponse: Nespresso
+      anecdote: El famoso lema « ¿Qué más  ? », asociado con el apuesto George Clooney, se ha parodiado a menudo en la actualidad y se ha dado la vuelta al mundo.
+    - id: 2
+      question: ¿Qué marca de jeans de fama mundial fabrica el famoso 501 ?
+      propositions:
+      - C17
+      - Diesel
+      - Levis
+      - Lee Cooper
+      réponse: Levis
+      anecdote: Esta empresa de ropa es de hecho mundialmente famosa, principalmente por sus blue jeans.
+    - id: 3
+      question: La marca extremadamente popular de whisky escocés se llama « Johnnie... »
+      propositions:
+      - Parker
+      - Monster
+      - Bunker
+      - Walker
+      réponse: Walker
+      anecdote: El rango de los whiskies se rompe en las etiquetas: rojo, negro, verde, dorado, azul y swing.
+    - id: 4
+      question: ¿Qué marca te invita a disfrutar de « un café llamado deseo » ?
+      propositions:
+      - Ricoré
+      - Nespresso
+      - Tarjeta negra
+      - Jacques Vabre
+      réponse: Tarjeta negra
+      anecdote: Carte Noire, antigua marca del grupo estadounidense Mondelez, pertenece ahora al grupo italiano Lavazza desde febrero de 2016.
+    - id: 5
+      question: ¿Qué marca te garantiza « el gusto por las cosas simples » ?
+      propositions:
+      - Maggi
+      - Herta
+      - Purina
+      - Buitoni
+      réponse: Herta
+      anecdote: Herta es una marca industrial de productos alimenticios del grupo Nestlé cuya oficina principal se encuentra en Noisiel, Francia.
+    - id: 6
+      question: ¿Qué marca importante de hardware informático tiene el logotipo de Apple ?
+      propositions:
+      - Apple
+      - IBM
+      - Dell
+      - Acer
+      réponse: Apple
+      anecdote: La compañía saltó a la fama con su computadora personal Apple II, lanzada en 1977.
+    - id: 7
+      question: ¿Qué cartel los invita a permanecer « todos unidos frente al alto costo de la vida » ?
+      propositions:
+      - Super U
+      - Carrefour
+      - Intermarché
+      - Cora
+      réponse: Intermarché
+      anecdote: Fundada en 1969 con el nombre de Oficinas de distribución EX, la marca se convirtió en Intermarché en 1972.
+    - id: 8
+      question: ¿Qué chocolate en polvo podrías tener « antojo » ?
+      propositions:
+      - Ovomaltine
+      - Nesquik
+      - Banania
+      - Milka
+      réponse: Nesquik
+      anecdote: Originalmente, el chocolate en polvo se llamaba Quik antes de convertirse en Nesquik cuando se lanzó en Europa en 1950.
+    - id: 9
+      question: « Shake Me, Shake Me » ha sido durante mucho tiempo el lema de ¿qué gran marca ?
+      propositions:
+      - Pepsi
+      - Schweppes
+      - Coca-Cola
+      - Orangina
+      réponse: Orangina
+      anecdote: Parte de la fama de la marca proviene de la originalidad de su frasco en forma de naranja con una superficie granulada.
+    - id: 10
+      question: ¿Qué minorista te invita a « el país donde la vida es más barata » ?
+      propositions:
+      - Pixmania
+      - Darty
+      - Conforama
+      - Bricoman
+      réponse: Conforama
+      anecdote: La jerarquía es muy corta en Conforama: solo hay siete niveles entre el CEO del grupo y un empleado de la tienda.
+  - confirmé:
+    - id: 11
+      question: ¿Qué marca especializada en agua mineral tiene un volcán verde como logo ?
+      propositions:
+      - Evian
+      - Thonon
+      - Volvic
+      - Henniez
+      réponse: Volvic
+      anecdote: Desde 1955, cada año se han vendido más de mil millones de litros de la marca Volvic.
+    - id: 12
+      question: ¿Qué aseguradora, la quinta administradora de activos más grande del mundo, está « con usted de la A a la Z » ?
+      propositions:
+      - Aviva
+      - Allianz
+      - Generali
+      - Axa
+      réponse: Allianz
+      anecdote: El grupo está diversificado entre seguros distintos de los de vida y seguros de vida y opera en Alemania, Francia e Italia.
+    - id: 13
+      question: ¿Qué marca de perfumes debe su fama en parte a Marilyn Monroe ?
+      propositions:
+      - Cacharel
+      - Chanel
+      - Lancôme
+      - Gucci
+      réponse: Chanel
+      anecdote: La empresa Chanel ahora es propiedad de Alain Wertheimer y Gérard Wertheimer.
+    - id: 14
+      question: ¿El Cayenne es un modelo de qué marca de automóviles alemana ?
+      propositions:
+      - Volkswagen
+      - Porsche
+      - Mercedes
+      - Audi
+      réponse: Porsche
+      anecdote: El Porsche Cayenne, también llamado 955, fue el primer 4x4 fabricado por Porsche.
+    - id: 15
+      question: ¿Qué marca de publicidad de chocolate se inspiró en el color malva ?
+      propositions:
+      - Treets
+      - Kwatta
+      - Smarties
+      - Milka
+      réponse: Milka
+      anecdote: En la década de 1990, Peter Steiner se hizo popular de repente con un anuncio de Milka.
+    - id: 16
+      question: ¿Qué empresa francesa le ofrece su « contrato de confianza » ?
+      propositions:
+      - Darty
+      - Virgen
+      - Naranja
+      - Gratis
+      réponse: Darty
+      anecdote: La promesa histórica de Darty opera hoy con el mejor precio, la mejor opción y el mejor modelo de servicio.
+    - id: 17
+      question: ¿Qué emblema se usa en todas las estaciones de la marca Shell ?
+      propositions:
+      - Sol azul
+      - León rojo
+      - Trébol verde
+      - Concha amarilla
+      réponse: Concha amarilla
+      anecdote: El grupo Shell tiene sus sedes en Londres, Fortaleza y La Haya.
+    - id: 18
+      question: ¿Cuál es el logo de la marca Adidas, especializada en artículos deportivos, representada por ?
+      propositions:
+      - Tres diamantes
+      - Tres círculos
+      - Tres bandas
+      - Tres cuadrados
+      réponse: Tres bandas
+      anecdote: La sede del Grupo Adidas, especializado en artículos deportivos, se encuentra en Herzogenaurach, Baviera.
+    - id: 19
+      question: ¿Qué animal está representado en la ropa de la marca Lacoste ?
+      propositions:
+      - Un camello
+      - Un toro
+      - Un oso
+      - Un cocodrilo
+      réponse: Un cocodrilo
+      anecdote: René Lacoste, gran campeón de tenis de Francia, fue apodado el Cocodrilo.
+    - id: 20
+      question: ¿Qué cerveza belga « los hombres saben por qué » usan como eslogan ?
+      propositions:
+      - Gueuze
+      - Maes
+      - Stella Artois
+      - Jupiler
+      réponse: Jupiler
+      anecdote: Recientemente se han publicado campañas publicitarias de Jupiler más femeninas.
+  - expert:
+    - id: 21
+      question: ¿Qué actor realizó ciertos comerciales para la marca Orangina ?
+      propositions:
+      - Thierry Lhermitte
+      - Alain Chabat
+      - Michel Blanc
+      - Gérard Jugnot
+      réponse: Alain Chabat
+      anecdote: El temblor se resalta con humor, en particular gracias al vestuario.
+    - id: 22
+      question: Fundada en 1971, ¿cuál es la « bebida fría más caliente » ?
+      propositions:
+      - Canada Dry
+      - Nestea
+      - Gini
+      - Schweppes
+      réponse: Gini
+      anecdote: La marca Gini fue creada en 1971 por el grupo Perrier y actualmente forma parte del grupo Orangina Schweppes.
+    - id: 23
+      question: ¿Qué cadena de tiendas francesa es un « despertador de curiosidad » ?
+      propositions:
+      - Sony
+      - Fnac
+      - HMV
+      - Virgen
+      réponse: Fnac
+      anecdote: FNAC es una de las principales marcas en la distribución de productos culturales y de ocio en Francia y Bélgica.
+    - id: 24
+      question: ¿Qué marca de café tenía un camarero negro con turbante como emblema ?
+      propositions:
+      - Negresco
+      - Barista
+      - Ricoré
+      - Melita
+      réponse: Negresco
+      anecdote: En la década de 1970, Edmond Jean se vio obligado a vender esta antigua marca de café de Marsella a Jacques Vabre.
+    - id: 25
+      question: ¿Qué marca fabricó los primeros pañuelos desechables ?
+      propositions:
+      - Renova
+      - Lotus
+      - Labell
+      - Kleenex
+      réponse: Kleenex
+      anecdote: El lado práctico e higiénico de los pañuelos desechables ha superado a los pañuelos de tela.
+    - id: 26
+      question: A qué marca francesa de cerveza le debemos el lema « Cifras de Quatre. Una cerveza. » ?
+      propositions:
+      - 1515
+      - 1664
+      - 1789
+      - 1832
+      réponse: 1664
+      anecdote: Se dice que la 1664 es la cerveza francesa más vendida en el mundo y es la marca premium de Kronenbourg.
+    - id: 27
+      question: ¿Qué marca de surf se inspiró, para su logotipo, en un estampado japonés ?
+      propositions:
+      - Oxidado
+      - Quiksilver
+      - Oxbow
+      - Rip Curl
+      réponse: Quiksilver
+      anecdote: El logotipo de Quiksilver, inspirado en un estampado de Hokusai, representa una ola con una montaña de fondo.
+    - id: 28
+      question: ¿Qué gobernador holandés dio su nombre a los cigarrillos rubios ?
+      propositions:
+      - Pieter de Graeff
+      - Pieter De Grebber
+      - Pieter Stuyvesant
+      - Pieter Codde
+      réponse: Pieter Stuyvesant
+      anecdote: La firma American Tobacco lanzó la marca Pieter Stuyvesant en todo el mundo en 1960.
+    - id: 29
+      question: ¿Qué paquete de satélite le ofrece « lo mejor de lo digital » ?
+      propositions:
+      - Canalsat
+      - SFR
+      - Bouygues
+      - GST
+      réponse: Canalsat
+      anecdote: Para adaptarse mejor a las nuevas redes de comunicación digital, Canalsat está disponible en unos diez paquetes.
+    - id: 30
+      question: ¿Qué aerolínea « hace del cielo el lugar más hermoso de la tierra » ?
+      propositions:
+      - Twin Jet
+      - Transporte de Airbus
+      - Air Corsica
+      - Air France
+      réponse: Air France
+      anecdote: Las principales actividades de Air France son el transporte de pasajeros y mercancías, así como el mantenimiento y el servicio de aeronaves.
+  it:
+  - débutant:
+    - id: 1
+      question: Di quale filiale del gruppo Nestlé è diventato ambasciatore George Clooney ?
+      propositions:
+      - Carta nera
+      - Ricoré
+      - Nespresso
+      - Jacques Vabre
+      réponse: Nespresso
+      anecdote: Il famoso slogan « What else  ? », associato al bel George Clooney, è stato oggi spesso parodiato e ha fatto il giro del mondo.
+    - id: 2
+      question: Quale marchio di jeans di fama mondiale produce il famoso 501 ?
+      propositions:
+      - Lee Cooper
+      - C17
+      - Levis
+      - Diesel
+      réponse: Levis
+      anecdote: Questa azienda di abbigliamento è davvero famosa nel mondo, principalmente per i suoi blue jeans.
+    - id: 3
+      question: Una marca estremamente popolare di whisky scozzese si chiama « Johnnie... »
+      propositions:
+      - Mostro
+      - Walker
+      - Parker
+      - Bunker
+      réponse: Walker
+      anecdote: La gamma di whisky è suddivisa in etichette: Red, Black, Green, Gold, Blue e Swing.
+    - id: 4
+      question: Quale marca ti invita a gustare « un caffè chiamato desiderio » ?
+      propositions:
+      - Nespresso
+      - Ricoré
+      - Carta nera
+      - Jacques Vabre
+      réponse: Carta nera
+      anecdote: Ex marchio del gruppo americano Mondelez, Carte Noire appartiene ora al gruppo italiano Lavazza da febbraio 2016.
+    - id: 5
+      question: Quale marchio ti garantisce « il gusto per le cose semplici » ?
+      propositions:
+      - Herta
+      - Maggi
+      - Buitoni
+      - Purina
+      réponse: Herta
+      anecdote: Herta è un marchio industriale di prodotti alimentari del gruppo Nestlé con sede a Noisiel, in Francia.
+    - id: 6
+      question: Quale principale marca di hardware per computer ha un logo Apple ?
+      propositions:
+      - Apple
+      - Dell
+      - IBM
+      - Acer
+      réponse: Apple
+      anecdote: L'azienda è diventata famosa con il suo personal computer Apple II, rilasciato nel 1977.
+    - id: 7
+      question: Quale segno vi invita a rimanere « tutti uniti contro l'alto costo della vita » ?
+      propositions:
+      - Super U
+      - Cora
+      - Intermarché
+      - Carrefour
+      réponse: Intermarché
+      anecdote: Fondato nel 1969 con il nome di EX Distribution Offices, il marchio è diventato Intermarché nel 1972.
+    - id: 8
+      question: Quale polvere di cioccolato potresti « desiderare » ?
+      propositions:
+      - Nesquik
+      - Milka
+      - Banania
+      - Ovomaltine
+      réponse: Nesquik
+      anecdote: In origine, la polvere di cioccolato si chiamava Quik prima di diventare Nesquik quando fu lanciata in Europa nel 1950.
+    - id: 9
+      question: « Shake Me, Shake Me » è stato a lungo lo slogan di quale grande marchio ?
+      propositions:
+      - Schweppes
+      - Coca-Cola
+      - Orangina
+      - Pepsi
+      réponse: Orangina
+      anecdote: Parte della fama del marchio deriva dall'originalità della sua bottiglia a forma di arancia con una superficie granulosa.
+    - id: 10
+      question: Quale rivenditore ti invita nel « paese in cui la vita costa meno » ?
+      propositions:
+      - Pixmania
+      - Darty
+      - Bricoman
+      - Conforama
+      réponse: Conforama
+      anecdote: La gerarchia in Conforama è molto breve: ci sono solo sette livelli tra l'amministratore delegato del gruppo e un impiegato del negozio.
+  - confirmé:
+    - id: 11
+      question: Quale marchio specializzato in acque minerali ha come logo un vulcano verde ?
+      propositions:
+      - Volvic
+      - Henniez
+      - Evian
+      - Thonon
+      réponse: Volvic
+      anecdote: Dal 1955, ogni anno sono stati venduti più di un miliardo di litri del marchio Volvic.
+    - id: 12
+      question: Quale assicuratore, il quinto più grande gestore patrimoniale al mondo, è « con te dalla A alla Z » ?
+      propositions:
+      - Generali
+      - Axa
+      - Allianz
+      - Aviva
+      réponse: Allianz
+      anecdote: Il gruppo è diversificato tra assicurazioni danni e assicurazioni vita ed è attivo in Germania, Francia e Italia.
+    - id: 13
+      question: Quale marca di profumi deve in parte la sua fama a Marilyn Monroe ?
+      propositions:
+      - Chanel
+      - Cacharel
+      - Lancôme
+      - Gucci
+      réponse: Chanel
+      anecdote: L'azienda Chanel è ora di proprietà di Alain Wertheimer e Gérard Wertheimer.
+    - id: 14
+      question: La Cayenne è un modello di quale marca automobilistica tedesca ?
+      propositions:
+      - Mercedes
+      - Porsche
+      - Audi
+      - Volkswagen
+      réponse: Porsche
+      anecdote: La Porsche Cayenne, chiamata anche 955, è stata la prima 4x4 prodotta da Porsche.
+    - id: 15
+      question: Quale marca di pubblicità sul cioccolato è stata ispirata dal colore malva ?
+      propositions:
+      - Alberi
+      - Kwatta
+      - Smarties
+      - Milka
+      réponse: Milka
+      anecdote: Negli anni '90, Peter Steiner divenne improvvisamente popolare con una pubblicità di Milka.
+    - id: 16
+      question: Quale azienda francese ti offre il suo « contratto di fiducia » ?
+      propositions:
+      - Darty
+      - Gratuito
+      - Orange
+      - Vergine
+      réponse: Darty
+      anecdote: La storica promessa di Darty oggi opera sul miglior prezzo, la migliore scelta, il miglior modello di servizio.
+    - id: 17
+      question: Quale emblema viene utilizzato in tutte le stazioni del marchio Shell ?
+      propositions:
+      - Sole blu
+      - Leone rosso
+      - Conchiglia gialla
+      - Trifoglio verde
+      réponse: Conchiglia gialla
+      anecdote: Il gruppo Shell ha le sue sedi a Londra, Fortaleza e L'Aia.
+    - id: 18
+      question: Da cosa è rappresentato il logo del marchio Adidas, specializzato in articoli sportivi ?
+      propositions:
+      - Tre quadrati
+      - Tre diamanti
+      - Tre bande
+      - Tre cerchi
+      réponse: Tre bande
+      anecdote: La sede del Gruppo Adidas, specializzato in articoli sportivi, è a Herzogenaurach, in Baviera.
+    - id: 19
+      question: Quale animale è rappresentato sull'abbigliamento del marchio Lacoste ?
+      propositions:
+      - Un cammello
+      - Un toro
+      - Un orso
+      - Un coccodrillo
+      réponse: Un coccodrillo
+      anecdote: René Lacoste, grande campione francese di tennis, è stato soprannominato il coccodrillo.
+    - id: 20
+      question: Quale birra belga « Gli uomini sanno perché » usa come slogan ?
+      propositions:
+      - Stella Artois
+      - Jupiler
+      - Gueuze
+      - Maes
+      réponse: Jupiler
+      anecdote: Recentemente sono state pubblicate campagne pubblicitarie Jupiler più femminili.
+  - expert:
+    - id: 21
+      question: Quale attore ha realizzato alcuni spot pubblicitari per il marchio Orangina ?
+      propositions:
+      - Thierry Lhermitte
+      - Gérard Jugnot
+      - Michel Blanc
+      - Alain Chabat
+      réponse: Alain Chabat
+      anecdote: Lo scuotimento è proposto con umorismo, in particolare grazie ai costumi.
+    - id: 22
+      question: Fondata nel 1971, qual è la « bevanda fredda più calda » ?
+      propositions:
+      - Canada Dry
+      - Nestea
+      - Schweppes
+      - Gini
+      réponse: Gini
+      anecdote: Il marchio Gini è stato creato nel 1971 dal gruppo Perrier e attualmente fa parte del gruppo Orangina Schweppes.
+    - id: 23
+      question: Quale catena di negozi francese è « stimola la curiosità » ?
+      propositions:
+      - Fnac
+      - Sony
+      - HMV
+      - Vergine
+      réponse: Fnac
+      anecdote: FNAC è uno dei principali marchi nella distribuzione di prodotti culturali e per il tempo libero in Francia e Belgio.
+    - id: 24
+      question: Quale marca di caffè aveva come emblema un cameriere nero con un turbante ?
+      propositions:
+      - Melita
+      - Ricoré
+      - Barista
+      - Negresco
+      réponse: Negresco
+      anecdote: Negli anni '70 Edmond Jean fu costretto a vendere questa vecchia marca di caffè Marsiglia a Jacques Vabre.
+    - id: 25
+      question: Quale marca ha realizzato i primi fazzoletti usa e getta ?
+      propositions:
+      - Kleenex
+      - Labell
+      - Renova
+      - Lotus
+      réponse: Kleenex
+      anecdote: Il lato pratico e igienico dei fazzoletti usa e getta ha superato i fazzoletti in tessuto.
+    - id: 26
+      question: A quale marca di birra francese dobbiamo lo slogan « Quatre figures. Una birra. » ?
+      propositions:
+      - 1789
+      - 1515
+      - 1664
+      - 1832
+      réponse: 1664
+      anecdote: Si dice che la 1664 sia la birra francese più venduta al mondo ed è il marchio premium di Kronenbourg.
+    - id: 27
+      question: A quale marchio di surf si è ispirato, per il suo logo, una stampa giapponese ?
+      propositions:
+      - Oxbow
+      - Quiksilver
+      - Rusty
+      - Rip Curl
+      réponse: Quiksilver
+      anecdote: Il logo di Quiksilver, ispirato a una stampa di Hokusai, raffigura un'onda con una montagna sullo sfondo.
+    - id: 28
+      question: Quale governatore olandese ha dato il suo nome alle sigarette bionde ?
+      propositions:
+      - Pieter de Graeff
+      - Pieter De Grebber
+      - Pieter Stuyvesant
+      - Pieter Codde
+      réponse: Pieter Stuyvesant
+      anecdote: L'azienda American Tobacco ha lanciato il marchio Pieter Stuyvesant in tutto il mondo nel 1960.
+    - id: 29
+      question: Quale pacchetto satellitare ti offre « il meglio del digitale » ?
+      propositions:
+      - Canalsat
+      - SFR
+      - Bouygues
+      - GST
+      réponse: Canalsat
+      anecdote: Per adattarsi al meglio alle nuove reti di comunicazione digitale, Canalsat è disponibile in una decina di pacchetti.
+    - id: 30
+      question: Quale compagnia aerea « rende il cielo il posto più bello della terra » ?
+      propositions:
+      - Air France
+      - Twin Jet
+      - Trasporto Airbus
+      - Air Corsica
+      réponse: Air France
+      anecdote: Le attività principali di Air France sono il trasporto di passeggeri e merci, nonché la manutenzione e l'assistenza degli aeromobili.
+  nl:
+  - débutant:
+    - id: 1
+      question: Van welke dochteronderneming van de Nestlé-groep werd George Clooney de ambassadeur ?
+      propositions:
+      - Nespresso
+      - Jacques Vabre
+      - Ricoré
+      - Zwarte kaart
+      réponse: Nespresso
+      anecdote: De beroemde slogan « What else  ? », geassocieerd met de knappe George Clooney, is tegenwoordig vaak geparodieerd en is de hele wereld over gegaan.
+    - id: 2
+      question: Welk wereldberoemd jeansmerk maakt de beroemde 501 ?
+      propositions:
+      - Lee Cooper
+      - Diesel
+      - C17
+      - Levis
+      réponse: Levis
+      anecdote: Dit kledingbedrijf is inderdaad wereldberoemd, vooral vanwege zijn blauwe spijkerbroek.
+    - id: 3
+      question: Een extreem populair merk Schotse whisky heet « Johnnie... »
+      propositions:
+      - Bunker
+      - Parker
+      - Walker
+      - Monster
+      réponse: Walker
+      anecdote: Het assortiment whisky's is onderverdeeld in labels: Rood, Zwart, Groen, Goud, Blauw en Swing.
+    - id: 4
+      question: Welk merk nodigt u uit om te genieten van « een koffie genaamd desire » ?
+      propositions:
+      - Ricoré
+      - Jacques Vabre
+      - Zwarte kaart
+      - Nespresso
+      réponse: Zwarte kaart
+      anecdote: Carte Noire, het voormalige merk van de Amerikaanse groep Mondelez, behoort nu sinds februari 2016 tot de Italiaanse groep Lavazza.
+    - id: 5
+      question: Welk merk garandeert je « smaak voor simpele dingen » ?
+      propositions:
+      - Herta
+      - Purina
+      - Buitoni
+      - Maggi
+      réponse: Herta
+      anecdote: Herta is een industrieel merk van voedingsproducten van de Nestlé-groep met hoofdkantoor in Noisiel, Frankrijk.
+    - id: 6
+      question: Welk belangrijk merk computerhardware heeft een Apple-logo ?
+      propositions:
+      - IBM
+      - Acer
+      - Dell
+      - Appel
+      réponse: Appel
+      anecdote: Het bedrijf verwierf bekendheid met zijn Apple II-pc, uitgebracht in 1977.
+    - id: 7
+      question: Welk teken nodigt je uit om « helemaal verenigd te blijven tegen de hoge kosten van levensonderhoud » ?
+      propositions:
+      - Cora
+      - Super U
+      - Carrefour
+      - Intermarché
+      réponse: Intermarché
+      anecdote: Opgericht in 1969 onder de naam EX Distribution Offices, werd het merk in 1972 Intermarché.
+    - id: 8
+      question: Naar welk chocoladepoeder zou je « hunkeren » ?
+      propositions:
+      - Ovomaltine
+      - Nesquik
+      - Bananië
+      - Milka
+      réponse: Nesquik
+      anecdote: Oorspronkelijk heette het chocoladepoeder Quik voordat het Nesquik werd toen het in 1950 in Europa werd gelanceerd.
+    - id: 9
+      question: « Shake Me, Shake Me » is al lang de slogan van welk geweldig merk ?
+      propositions:
+      - Coca-Cola
+      - Pepsi
+      - Orangina
+      - Schweppes
+      réponse: Orangina
+      anecdote: Een deel van de bekendheid van het merk komt van de originaliteit van de oranje fles met een gegranuleerd oppervlak.
+    - id: 10
+      question: Welke winkelier nodigt je uit in « het land waar het leven goedkoper is » ?
+      propositions:
+      - Darty
+      - Conforama
+      - Bricoman
+      - Pixmania
+      réponse: Conforama
+      anecdote: De hiërarchie is bij Conforama erg kort: er zijn maar zeven niveaus tussen de CEO van de groep en een winkelmedewerker.
+  - confirmé:
+    - id: 11
+      question: Welk merk gespecialiseerd in mineraalwater heeft een groene vulkaan als logo ?
+      propositions:
+      - Evian
+      - Volvic
+      - Thonon
+      - Henniez
+      réponse: Volvic
+      anecdote: Sinds 1955 is er elk jaar meer dan een miljard liter van het merk Volvic verkocht.
+    - id: 12
+      question: Welke verzekeraar, de op vier na grootste vermogensbeheerder ter wereld, staat « bij u van A tot Z » ?
+      propositions:
+      - Allianz
+      - Aviva
+      - Axa
+      - Generali
+      réponse: Allianz
+      anecdote: De groep is gediversifieerd tussen schadeverzekeringen en levensverzekeringen en is actief in Duitsland, Frankrijk en Italië.
+    - id: 13
+      question: Welk parfummerk dankt zijn bekendheid deels aan Marilyn Monroe ?
+      propositions:
+      - Chanel
+      - Gucci
+      - Cacharel
+      - Lancôme
+      réponse: Chanel
+      anecdote: Het bedrijf Chanel is nu eigendom van Alain Wertheimer en Gérard Wertheimer.
+    - id: 14
+      question: De Cayenne is een model van welk Duits automerk ?
+      propositions:
+      - Audi
+      - Porsche
+      - Mercedes
+      - Volkswagen
+      réponse: Porsche
+      anecdote: De Porsche Cayenne, ook wel 955 genoemd, was de allereerste door Porsche vervaardigde 4x4.
+    - id: 15
+      question: Welk merk chocoladereclame werd geïnspireerd door de kleur mauve ?
+      propositions:
+      - Smarties
+      - Kwatta
+      - Milka
+      - Treets
+      réponse: Milka
+      anecdote: In de jaren negentig werd Peter Steiner plotseling populair met een Milka-advertentie.
+    - id: 16
+      question: Welk Frans bedrijf biedt u zijn « vertrouwenscontract » aan ?
+      propositions:
+      - Maagd
+      - Oranje
+      - Darty
+      - Gratis
+      réponse: Darty
+      anecdote: Darty's historische belofte werkt vandaag op basis van de beste prijs, de beste keuze en het beste servicemodel.
+    - id: 17
+      question: Welk embleem wordt in alle stations van het Shell-merk gebruikt ?
+      propositions:
+      - Gele zeeschelp
+      - Groene klaver
+      - Rode leeuw
+      - Blauwe zon
+      réponse: Gele zeeschelp
+      anecdote: De Shell-groep heeft haar hoofdkantoor in Londen, Fortaleza en Den Haag.
+    - id: 18
+      question: Wat is het logo van het in sportartikelen gespecialiseerde merk Adidas ?
+      propositions:
+      - Drie bands
+      - Drie cirkels
+      - Drie vierkanten
+      - Drie diamanten
+      réponse: Drie bands
+      anecdote: Het hoofdkantoor van de in sportartikelen gespecialiseerde Adidas-groep bevindt zich in Herzogenaurach, Beieren.
+    - id: 19
+      question: Welk dier is afgebeeld op de kleding van het merk Lacoste ?
+      propositions:
+      - Een kameel
+      - Een beer
+      - Een stier
+      - Een krokodil
+      réponse: Een krokodil
+      anecdote: René Lacoste, grote Franse tenniskampioen, kreeg de bijnaam de krokodil.
+    - id: 20
+      question: Welk Belgisch bier weet « Mannen waarom » als slogan ?
+      propositions:
+      - Maes
+      - Jupiler
+      - Geuze
+      - Stella Artois
+      réponse: Jupiler
+      anecdote: Onlangs zijn er meer vrouwelijke Jupiler-advertentiecampagnes gepubliceerd.
+  - expert:
+    - id: 21
+      question: Welke acteur heeft bepaalde commercials gemaakt voor het merk Orangina ?
+      propositions:
+      - Michel Blanc
+      - Gérard Jugnot
+      - Alain Chabat
+      - Thierry Lhermitte
+      réponse: Alain Chabat
+      anecdote: Het schudden wordt met humor naar voren gebracht, met name dankzij de kostuums.
+    - id: 22
+      question: Wat is de « heetste koude drank », opgericht in 1971 ?
+      propositions:
+      - Nestea
+      - Schweppes
+      - Canada droog
+      - Gini
+      réponse: Gini
+      anecdote: Het merk Gini werd in 1971 opgericht door de Perrier-groep en maakt momenteel deel uit van de Orangina Schweppes-groep.
+    - id: 23
+      question: Welke Franse winkelketen is een « opwekker van nieuwsgierigheid » ?
+      propositions:
+      - HMV
+      - Fnac
+      - Maagd
+      - Sony
+      réponse: Fnac
+      anecdote: FNAC is een van de belangrijkste merken in de distributie van culturele en vrijetijdsproducten in Frankrijk en België.
+    - id: 24
+      question: Welk merk koffie had een zwarte ober met een tulband als embleem ?
+      propositions:
+      - Melita
+      - Ricoré
+      - Negresco
+      - Barista
+      réponse: Negresco
+      anecdote: In de jaren zeventig werd Edmond Jean gedwongen dit oude merk Marseille-koffie te verkopen aan Jacques Vabre.
+    - id: 25
+      question: Welk merk heeft de eerste wegwerpdoekjes gemaakt ?
+      propositions:
+      - Labell
+      - Lotus
+      - Kleenex
+      - Renova
+      réponse: Kleenex
+      anecdote: De praktische en hygiënische kant van wegwerpzakdoeken heeft stoffen zakdoeken ingehaald.
+    - id: 26
+      question: Aan welk Frans biermerk hebben we de slogan « Quatre figures te danken. Een biertje. » ?
+      propositions:
+      - 1664
+      - 1832
+      - 1515
+      - 1789
+      réponse: 1664
+      anecdote: De 1664 zou het best verkochte Franse bier ter wereld zijn en is het premiummerk van Kronenbourg.
+    - id: 27
+      question: Welk surfmerk werd voor zijn logo geïnspireerd door een Japanse print ?
+      propositions:
+      - Roestig
+      - Quiksilver
+      - Rip Curl
+      - Oxbow
+      réponse: Quiksilver
+      anecdote: Het logo van Quiksilver, geïnspireerd op een print van Hokusai, toont een golf met een berg op de achtergrond.
+    - id: 28
+      question: Welke Nederlandse gouverneur gaf zijn naam aan blonde sigaretten ?
+      propositions:
+      - Pieter Codde
+      - Pieter De Grebber
+      - Pieter de Graeff
+      - Pieter Stuyvesant
+      réponse: Pieter Stuyvesant
+      anecdote: De firma American Tobacco lanceerde in 1960 het merk Pieter Stuyvesant wereldwijd.
+    - id: 29
+      question: Welk satellietpakket biedt u « het beste van digitaal » ?
+      propositions:
+      - SFR
+      - Canalsat
+      - GST
+      - Bouygues
+      réponse: Canalsat
+      anecdote: Om zich zo goed mogelijk aan te passen aan nieuwe digitale communicatienetwerken, is Canalsat verkrijgbaar in een tiental pakketten.
+    - id: 30
+      question: Welke luchtvaartmaatschappij « maakt van de lucht de mooiste plek op aarde » ?
+      propositions:
+      - Twin Jet
+      - Lucht Corsica
+      - Air France
+      - Airbus-vervoer
+      réponse: Air France
+      anecdote: De hoofdactiviteiten van Air France zijn passagiers- en vrachtvervoer en onderhoud en service aan vliegtuigen.

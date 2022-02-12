@@ -1,0 +1,280 @@
+---
+fournisseur: OpenQuizzDB - Fournisseur de contenu libre (https://www.openquizzdb.org)
+rédacteur: Philippe Bresoux
+thème: Italie (Le pays de l'amour)
+difficulté: 2 / 5
+quizz:
+  fr:
+  - débutant:
+    - id: 1
+      question: Vue du ciel, à quoi compare-t-on souvent la forme très spécifique du territoire italien ?
+      propositions:
+      - Un hexagone
+      - Un chariot
+      - Une botte
+      - Une fleur
+      réponse: Une botte
+      anecdote: L'Italie est rattachée au reste du continent par le massif des Alpes recouvrant la frontière nord du pays.
+    - id: 2
+      question: Le Colisée, situé dans le centre de la ville de Rome, entre l'Esquilin et le Cælius, est un...
+      propositions:
+      - Amphithéâtre
+      - Musée
+      - Cinéma
+      - Temple
+      réponse: Amphithéâtre
+      anecdote: Le Colisée de Rome est l'une des plus grandes oeuvres de l'architecture et de l'ingénierie romaines.
+    - id: 3
+      question: Dans quelle ville touristique italienne peut-on admirer le palais des Doges ?
+      propositions:
+      - Milan
+      - Venise
+      - Florence
+      - Rome
+      réponse: Venise
+      anecdote: Le palais des Doges fut la résidence officielle des doges ainsi que le lieu de représentation de ses institutions majeures.
+    - id: 4
+      question: Quel homme politique et homme d'affaires italien est surnommé « Il Cavaliere » ?
+      propositions:
+      - Roberto Castelli
+      - Alfredo Mantica
+      - Silvio Berlusconi
+      - Andrea Riccardi
+      réponse: Silvio Berlusconi
+      anecdote: Selon le magazine « Forbes », Silvio Berlusconi serait le troisième homme le plus riche d'Italie.
+    - id: 5
+      question: Quelle est la vitesse maximale autorisée sur la totalité des autoroutes en Italie ?
+      propositions:
+      - 120 km/h
+      - 100 km/h
+      - 130 km/h
+      - 110 km/h
+      réponse: 130 km/h
+      anecdote: La première autoroute au monde, l'autoroute des Lacs longue de 77 kilomètres, a été créée en Italie en 1924.
+    - id: 6
+      question: Quelles pâtes alimentaires italiennes farcies sont façonnées en petites couronnes ?
+      propositions:
+      - Tortellini
+      - Capellini
+      - Fusilli
+      - Gnocchi
+      réponse: Tortellini
+      anecdote: Les tortellini sont des pâtes alimentaires annulaires farcies avec un mélange de viande et de parmesan.
+    - id: 7
+      question: Dans quelle ville se trouve la célèbre fontaine de Trevi, incontournable site touristique ?
+      propositions:
+      - Rome
+      - Milan
+      - Naples
+      - Turin
+      réponse: Rome
+      anecdote: Adossée au palais Poli, cette oeuvre monumentale en forme d'arc de triomphe, écrase la minuscule place sur laquelle elle se trouve.
+    - id: 8
+      question: Comment appelle-t-on les membres de la mafia italienne, d'abord développée en Sicile ?
+      propositions:
+      - Les mafiosi
+      - Les barzotti
+      - Les tifosi
+      - Les marvoli
+      réponse: Les mafiosi
+      anecdote: La mafia est une organisation criminelle qui repose sur une stratégie d'infiltration de la société civile et des institutions.
+    - id: 9
+      question: Quels volcans italiens sont passés en activité au cours du XXe siècle ?
+      propositions:
+      - Dempo et Languila
+      - Misti et Batur
+      - Guallatiri et Bromo
+      - Vésuve et Etna
+      réponse: Vésuve et Etna
+      anecdote: Le Vésuve est à l'origine de la destruction des villes de Pompéi, Herculanum, Oplontis et Stabies.
+    - id: 10
+      question: Quelle ville italienne abrite le pont du Rialto, l'un des monuments les plus visités de la cité ?
+      propositions:
+      - Turin
+      - Naples
+      - Florence
+      - Venise
+      réponse: Venise
+      anecdote: Le pont du Rialto est le plus ancien et certainement le plus célèbre des quatre ponts qui traversent le Grand Canal de Venise.
+  - confirmé:
+    - id: 11
+      question: À quel réalisateur et scénariste italien aujourd'hui disparu est associée « La dolce vita » ?
+      propositions:
+      - Sergio Leone
+      - Federico Fellini
+      - Luchino Visconti
+      - Nanni Moretti
+      réponse: Federico Fellini
+      anecdote: « La dolce vita » est construite comme une succession de petits épisodes en apparence déconnectés.
+    - id: 12
+      question: Le « grana padano », protégé par une appellation d'origine protégée (AOP), est un...
+      propositions:
+      - Gâteau
+      - Ragoût
+      - Fromage
+      - Potage
+      réponse: Fromage
+      anecdote: De forme cylindrique à la surface lisse, le « grana padano » est le fromage italien le plus vendu au monde.
+    - id: 13
+      question: Dans quelle ville italienne peut-on trouver le Palazzo Vecchio, magnifique hôtel de ville ?
+      propositions:
+      - Florence
+      - Milan
+      - Venise
+      - Turin
+      réponse: Florence
+      anecdote: Ce palais-forteresse en forme de parallélépipède est situé sur la Piazza della Signoria, lieu de réunion publique.
+    - id: 14
+      question: Quel lac italo-suisse est situé à cheval sur le Piémont, la Lombardie et le canton du Tessin ?
+      propositions:
+      - Le lac Majeur
+      - Le lac de Marmorera
+      - Le lac des Dix
+      - Le lac Lioson
+      réponse: Le lac Majeur
+      anecdote: Des services de bateaux assurent quotidiennement la liaison entre toutes les villes côtières et les îles.
+    - id: 15
+      question: Quel journaliste et auteur italien à écrit et publié « Le Désert des Tartares » en 1940 ?
+      propositions:
+      - Dino Buzzati
+      - Ugo Betti
+      - Cesare Battisti
+      - Camillo Boito
+      réponse: Dino Buzzati
+      anecdote: Le roman traite de façon suggestive et poignante de la fuite vaine du temps, de l'attente et de l'échec.
+    - id: 16
+      question: De quelle métropole italienne a-t-on beaucoup parlé en 2008 pour ses tonnes de déchets ?
+      propositions:
+      - Rome
+      - Naples
+      - Venise
+      - Turin
+      réponse: Naples
+      anecdote: La crise des déchets s'explique par une mauvaise gestion par les autorités locales mais aussi à cause de la mafia urbaine.
+    - id: 17
+      question: Quelle ville italienne le « T » du  constructeur automobile italien Fiat représente-t-il ?
+      propositions:
+      - Trévise
+      - Turin
+      - Tivoli
+      - Trieste
+      réponse: Turin
+      anecdote: La nouvelle Fiat 500, suivant la tendance néorétro initiée par la New Beetle, est venue renforcer les positions de la marque.
+    - id: 18
+      question: Quelle ville située entre le nord et le centre de l'Italie est célèbre pour son marbre ?
+      propositions:
+      - Grosseto
+      - Livourne
+      - Massa
+      - Carrare
+      réponse: Carrare
+      anecdote: La ville de Carrare est mondialement connue pour ses carrières de marbre exploitées depuis l'époque romaine.
+    - id: 19
+      question: Quel champion, cycliste italien professionnel, a remporté cinq fois le Tour de France ?
+      propositions:
+      - Giuseppe Azzini
+      - Nino Defilippis
+      - Rino Benedetti
+      - Fausto Coppi
+      réponse: Fausto Coppi
+      anecdote: Il est l'un des rares coureurs de l'histoire du cyclisme à être surnommé « Campionissimo », super-champion.
+    - id: 20
+      question: Quelle actrice italienne a incarné le « sex-symbol » aux lendemains de la guerre ?
+      propositions:
+      - Gina Lollobrigida
+      - Isabella Rossellini
+      - Monica Bellucci
+      - Valentina Cervi
+      réponse: Gina Lollobrigida
+      anecdote: Nommée Ambassadrice de bonne volonté, Gina Lollobrigida se consacre aujourd'hui à la sculpture et à la photographie.
+  - expert:
+    - id: 21
+      question: À quel compositeur romantique italien doit-on les opéras « Otello » et « Aïda » ?
+      propositions:
+      - Niccolo Paganini
+      - Giuseppe Verdi
+      - Vincenzo Bellini
+      - Nicola Sala
+      réponse: Giuseppe Verdi
+      anecdote: L'oeuvre de Giuseppe Verdi est essentiellement composée d'opéras très populaires de son vivant.
+    - id: 22
+      question: Quelle chaîne de montagnes divise le territoire italien en deux dans le sens de la longueur ?
+      propositions:
+      - Cordillère
+      - Pyrénées
+      - Apennins
+      - Alpes scandinaves
+      réponse: Apennins
+      anecdote: Les Apennins sont divisés en trois groupes majeurs : l'Apennin du Nord,l'Apennin central et l'Apennin du Sud.
+    - id: 23
+      question: Quelle est la hauteur de la tour de Pise, campanile de la cathédrale Notre-Dame ?
+      propositions:
+      - Environ 31 m
+      - Environ 54 m
+      - Environ 73 m
+      - Environ 19 m
+      réponse: Environ 54 m
+      anecdote: Située à proximité du chevet de la cathédrale, la tour a été fermée au public pour des raisons de sécurité de 1990 à 2001.
+    - id: 24
+      question: Quel plat italien, prisé dans le nord du pays, est fait à base de semoule de maïs bouillie ?
+      propositions:
+      - Panzerotti
+      - Grana Padano
+      - Polenta
+      - Pecorino
+      réponse: Polenta
+      anecdote: La polenta se présente sous forme de galette à base de semoule ou de farine de maïs et peut être servie chaude.
+    - id: 25
+      question: Sur quel circuit le pilote italien Renzo Pasolini a-t-il trouvé la mort en 1973 ?
+      propositions:
+      - Monza
+      - Imola
+      - Brno
+      - Opatija
+      réponse: Monza
+      anecdote: Il meurt dans le gigantesque accident qui impliqua 15 pilotes et causa également la mort de Jarno Saarinen.
+    - id: 26
+      question: Quel maillot est porté par le coureur occupant la première place du classement au Giro ?
+      propositions:
+      - Le maillot rose
+      - Le maillot vert
+      - Le maillot jaune
+      - Le maillot à pois
+      réponse: Le maillot rose
+      anecdote: Le maillot rose est porté par le coureur occupant la première place du classement général du Tour d'Italie depuis 1931.
+    - id: 27
+      question: Quelle eau-de-vie italienne est distillée à partir de grappes de raisin entières ?
+      propositions:
+      - Le chinotto
+      - Le limoncello
+      - La sambuca
+      - La grappa
+      réponse: La grappa
+      anecdote: Produit pauvre par définition, la grappa est née d'un procédé de distillation des marcs de raisins.
+    - id: 28
+      question: Quel est le style architectural de la très célèbre basilique Saint-Marc de Venise ?
+      propositions:
+      - Gothique
+      - Baroque
+      - Roman
+      - Byzantin
+      réponse: Byzantin
+      anecdote: Construite en 828 puis reconstruite en 976, la basilique Saint-Marc est la plus importante basilique de Venise.
+    - id: 29
+      question: Crémone, en Lombardie, est réputée pour la fabrication de quel instrument de musique ?
+      propositions:
+      - Le piano
+      - Le saxophone
+      - Le violon
+      - La harpe
+      réponse: Le violon
+      anecdote: De nombreux musées sont présents dans cette ville, notamment le Museo Stradivariano qui expose des violons.
+    - id: 30
+      question: Quelle est la couleur des truffes piémontaises, qui ne poussent que dans le Piémont ?
+      propositions:
+      - Rouge
+      - Noire
+      - Blanche
+      - Verte
+      réponse: Blanche
+      anecdote: La truffe en Italie a une histoire de 2000 ans, citée par le naturaliste Pline l'Ancien et de nombreux écrivains latins.

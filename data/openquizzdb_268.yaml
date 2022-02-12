@@ -1,0 +1,1650 @@
+---
+fournisseur: OpenQuizzDB - Fournisseur de contenu libre (https://www.openquizzdb.org)
+rédacteur: Philippe Bresoux
+thème: Foot 2000-2010 (Du terrain au cinéma, il n'y a qu'un pas)
+difficulté: 3 / 5
+quizz:
+  fr:
+  - débutant:
+    - id: 1
+      question: Quelle est la seule équipe à avoir battu l'Espagne durant l'Euro 2008 ?
+      propositions:
+      - France
+      - Grèce
+      - Italie
+      - Allemagne
+      réponse: Italie
+      anecdote: Le champion sortant, la Grèce, a remis son titre en jeu face à quinze autres nations, dont les deux pays organisateurs.
+    - id: 2
+      question: Quel instrument de torture a presque gâché la Coupe du monde 2010 ?
+      propositions:
+      - Oporo
+      - Vuvuzela
+      - Régale
+      - Sodina
+      réponse: Vuvuzela
+      anecdote: Cette corne fut un sujet de controverses suite au bourdonnement incessant généré pendant les matchs et leur retransmission.
+    - id: 3
+      question: Quel club avait envoyé le plus de joueurs participer à la Coupe du monde 2002 ?
+      propositions:
+      - Arsenal FC
+      - Real Madrid
+      - Bayern Munich
+      - Inter Milan
+      réponse: Inter Milan
+      anecdote: 14 joueurs de l'Inter Milan furent sélectionnés, 11 joueurs d'Arsenal FC, 10 joueurs du Bayern de Munich et du Real Madrid.
+    - id: 4
+      question: Avec quel autre pays la Belgique a-t-elle organisé l'Euro 2000 ?
+      propositions:
+      - Allemagne
+      - Luxembourg
+      - Suisse
+      - Pays-Bas
+      réponse: Pays-Bas
+      anecdote: Toutes les équipes, à l'exception de la Belgique et des Pays-Bas, ont dû disputer des qualifications pour prendre part à la phase finale.
+    - id: 5
+      question: Dans quelle ville s'est jouée la finale du Mondial 2002 ?
+      propositions:
+      - Kobe
+      - Yokohama
+      - Séoul
+      - Osaka
+      réponse: Yokohama
+      anecdote: Le Stade Nissan dispose en 2018 du plus grand nombre de places proposées dans un stade au Japon avec 72 327 places assises.
+    - id: 6
+      question: Lequel de ces pays ne faisait pas partie du groupe de la France à l'Euro 2008 ?
+      propositions:
+      - Allemagne
+      - Italie
+      - Pays-Bas
+      - Roumanie
+      réponse: Allemagne
+      anecdote: Avant le tournoi, le groupe C fut qualifié de groupe de la mort, signifiant qu'une grande sélection serait éliminée au premier tour.
+    - id: 7
+      question: Combien de buts a inscrit Thierry Henry lors de la saison 2003-2004 ?
+      propositions:
+      - 49
+      - 59
+      - 39
+      - 29
+      réponse: 39
+      anecdote: Thierry Henry sera élu joueur de l'année en Angleterre, meilleur joueur français de l'année et gagne le Soulier d'or européen.
+    - id: 8
+      question: De quelle maladie souffre Ronaldo, surnommé Gronaldo fin des années 2000 ?
+      propositions:
+      - Rachitisme
+      - Diabète
+      - Hypothyroïdie
+      - Bronchiolite
+      réponse: Hypothyroïdie
+      anecdote: Les symptômes sont notamment une somnolence, une frilosité, une prise de poids, une pâleur cutanée et une raideur musculaire.
+    - id: 9
+      question: Quelle canadienne a interprété l'hymne intitulé « Força » lors de l'Euro 2004 ?
+      propositions:
+      - Carly Rae Jepsen
+      - Shania Twain
+      - Nelly Furtado
+      - Céline Dion
+      réponse: Nelly Furtado
+      anecdote: Cette douzième édition, organisée par le Portugal entre le 12 juin et le 4 juillet 2004, fut disputée par seize nations.
+    - id: 10
+      question: En quelle année la coupe de l'UEFA est-elle devenue l'Europa League ?
+      propositions:
+      - 2011
+      - 2007
+      - 2013
+      - 2009
+      réponse: 2009
+      anecdote: Depuis 2015, le vainqueur de la compétition est automatiquement qualifié pour la Ligue des champions de l'UEFA.
+  - confirmé:
+    - id: 11
+      question: Quel joueur au gros nez a fini meilleur buteur de la liga en 2002-2003 ?
+      propositions:
+      - Cristiano Ronaldo
+      - Roy Makaay
+      - Lucas Toni
+      - Lionel Messi
+      réponse: Roy Makaay
+      anecdote: En 2003, le Bayern Munich réalise l'un des plus gros transferts de son histoire en l'achetant pour la somme de 20 millions d'euros.
+    - id: 12
+      question: Quelle est la nationalité de Santiago Munez, star du film « Goal » ?
+      propositions:
+      - Italienne
+      - Mexicaine
+      - Portugaise
+      - Espagnole
+      réponse: Mexicaine
+      anecdote: « Goal! » sera prolongé en trilogie avec un film en 2005, en 2007 et enfin en 2009 avec un film sorti en DVD uniquement.
+    - id: 13
+      question: Qui a réalisé le film « Looking for Eric », avec Éric Cantona ?
+      propositions:
+      - Ken Loach
+      - Jack Rosenthal
+      - Peter Lord
+      - Alan Parker
+      réponse: Ken Loach
+      anecdote: Le titre du film joue sur le prénom du personnage principal (Eric Bishop) et de son idole, le footballeur Éric Cantona.
+    - id: 14
+      question: Quel animal était censé représenter la mascotte Zakumi en 2010 ?
+      propositions:
+      - Léopard
+      - Dauphin
+      - Ours
+      - Tortue
+      réponse: Léopard
+      anecdote: Son nom vient de ZA, l'abréviation internationale pour l'Afrique du Sud, et kumi, un mot qui signifie dix en Afrique.
+    - id: 15
+      question: En quelle année le célèbre arbitre Pierluigi Collina a-t-il pris sa retraite ?
+      propositions:
+      - 2008
+      - 2005
+      - 1999
+      - 2002
+      réponse: 2005
+      anecdote: L'Euro 2004 sera son dernier tournoi majeur puisqu'il atteint l'âge de la retraite fixé à 45 ans pour les arbitres internationaux.
+    - id: 16
+      question: Quel gardien de but français est devenu pilote sur Porsche en 2008 ?
+      propositions:
+      - Roland Amar
+      - Rudy Riou
+      - Fabien Barthez
+      - Jean Castaneda
+      réponse: Fabien Barthez
+      anecdote: Il compte 87 sélections en équipe de France, mais est devancé par un autre gardien, Hugo Lloris, qui a dépassé la centaine.
+    - id: 17
+      question: À qui Pep Guardiola a-t-il succédé en 2008 à la tête du Barça ?
+      propositions:
+      - Hector Cuper
+      - Juande Ramos
+      - Mané
+      - Frank Rijkaard
+      réponse: Frank Rijkaard
+      anecdote: D'origine surinamienne, Frank Rijkaard fut l'un des meilleurs milieux européens de son époque évoluant au poste de milieu défensif.
+    - id: 18
+      question: Après Zizou, qui fut le deuxième joueur à mettre un doublé en première sélection ?
+      propositions:
+      - Florent Malouda
+      - Bafé Gomis
+      - Jérémy Toulalan
+      - François Clerc
+      réponse: Bafé Gomis
+      anecdote: Le 27 mai 2008, Gomis remplace Djibril Cissé à la mi-temps pour France-Équateur et marque ses deux premiers buts avec les Bleus.
+    - id: 19
+      question: Quel nom fut donné au ballon de football utilisé lors du Mondial 2010 ?
+      propositions:
+      - Tango 12
+      - Europass
+      - Jabulani
+      - Brazuca
+      réponse: Jabulani
+      anecdote: Le gardien de l'équipe de France, Hugo Lloris, le qualifiera de « catastrophe », favorisant des trajectoires aléatoires.
+    - id: 20
+      question: Quel numéro Lionel Messi portait-il sur son maillot de football à ses débuts ?
+      propositions:
+      - 10
+      - 30
+      - 7
+      - 20
+      réponse: 30
+      anecdote: C'est l'addition des numéros de Deco et Ronaldinho, ses amis qui venaient le chercher tous les matins pour aller à l'entraînement.
+  - expert:
+    - id: 21
+      question: Quel ukrainien a trafiqué son passeport pour jouer à l'ASSE en Grèce ?
+      propositions:
+      - Bohdan Butko
+      - Denys Holaydo
+      - Artem Dovbyk
+      - Maksym Levytsky
+      réponse: Maksym Levytsky
+      anecdote: Licencié du club, après avoir entrepris des actions en justice contre le club stéphanois, il sera débouté le 27 septembre 2006.
+    - id: 22
+      question: Qui a trouvé la mort durant un match Cameroun-Colombie en 2003 ?
+      propositions:
+      - Marc-Vivien Foé
+      - Modeste M'Bami
+      - Timothée Atouba
+      - Bill Tchato
+      réponse: Marc-Vivien Foé
+      anecdote: Ce milieu de terrain défensif sélectionné à 64 reprises en équipe du Cameroun est mort à l'âge de 28 ans d'un accident cardiaque.
+    - id: 23
+      question: Qui a été élu meilleur espoir de la Ligue 1 à l'issue de la saison 2002-2003 ?
+      propositions:
+      - Jérémy Toulalan
+      - Lionel Mathis
+      - Hatem Ben Arfa
+      - Sidney Govou
+      réponse: Lionel Mathis
+      anecdote: Lors de la saison 2006-2007, il devient un cadre essentiel de son équipe, grâce à Jean Fernandez qui compte énormément sur lui.
+    - id: 24
+      question: À partir de quelle année Mourinho est-il devenu « A Special One » ?
+      propositions:
+      - 2004
+      - 2008
+      - 2006
+      - 2002
+      réponse: 2004
+      anecdote: Ce surnom fut donné durant une conférence de presse, en référence aux titres européens consécutifs obtenus avec le FC Porto.
+    - id: 25
+      question: Quel ancien joueur de football roux du PSG avait pour prénom Igor ?
+      propositions:
+      - Igor Akinfeïev
+      - Igor Yanovski
+      - Igor Chalimov
+      - Igor Denissov
+      réponse: Igor Yanovski
+      anecdote: Ce footballeur russe, défenseur du Paris Saint Germain de 1998 à 2001, est aujourd'hui retraité du football professionnel.
+    - id: 26
+      question: Qui a été élu meilleur joueur de air football de la décennie 2000 ?
+      propositions:
+      - Seiichiro Maki
+      - Koji Nakata
+      - Naohiro Takahara
+      - Yoichi Doi
+      réponse: Koji Nakata
+      anecdote: Selon une enquête du magazine France Football, Koji Nakata figure parmi les pires recrues de l'histoire de l'Olympique de Marseille.
+    - id: 27
+      question: Quelle équipe de football a relancé la mode du marcel en 2002 ?
+      propositions:
+      - Grèce
+      - Cameroun
+      - Algérie
+      - Bolivie
+      réponse: Cameroun
+      anecdote: Les Lions Indomptables est la sélection de joueurs camerounais représentant le pays lors des compétitions internationales.
+    - id: 28
+      question: Qui est le seul joueur à être passé du Bayern Munich à l'Olympique lyonnais ?
+      propositions:
+      - Giovane Élber
+      - Diego Contento
+      - Thomas Linke
+      - Hans Nowak
+      réponse: Giovane Élber
+      anecdote: Après une première saison satisfaisante (10 buts en 27 matchs), Élber se blesse à l'entame de sa seconde saison lyonnaise.
+    - id: 29
+      question: Selon Zinedine Zidane, quel milieu de terrain était le meilleur du monde ?
+      propositions:
+      - Paul Robinson
+      - Wayne Rooney
+      - Frank Lampard
+      - Paul Scholes
+      réponse: Paul Scholes
+      anecdote: Avec 700 apparitions, il est le troisième joueur ayant le plus joué pour Manchester United, derrière Ryan Giggs et Bobby Charlton.
+    - id: 30
+      question: Après avoir joué à la Juventus, où David Trezeguet a-t-il signé ?
+      propositions:
+      - Pune City
+      - Allicante
+      - Baniyas
+      - River Plate
+      réponse: Allicante
+      anecdote: Trezegol a disputé trois Coupes du monde et a remporté la compétition en 1998 ainsi que le Championnat d'Europe 2000.
+  en:
+  - débutant:
+    - id: 1
+      question: Which is the only team to have beaten Spain during Euro 2008 ?
+      propositions:
+      - France
+      - Germany
+      - Greece
+      - Italy
+      réponse: Italy
+      anecdote: The outgoing champion, Greece, put their title on the line against fifteen other nations, including the two host countries.
+    - id: 2
+      question: What instrument of torture almost ruined the 2010 World Cup ?
+      propositions:
+      - Sodina
+      - Oporo
+      - Treat
+      - Vuvuzela
+      réponse: Vuvuzela
+      anecdote: This horn was a subject of controversy following the incessant buzzing generated during matches and their broadcast.
+    - id: 3
+      question: Which club sent the most players to the 2002 World Cup ?
+      propositions:
+      - Arsenal FC
+      - Real Madrid
+      - Inter Milan
+      - Bayern Munich
+      réponse: Inter Milan
+      anecdote: 14 Inter Milan players were selected, 11 Arsenal FC players, 10 Bayern Munich and Real Madrid players.
+    - id: 4
+      question: With which other country did Belgium organize Euro 2000 ?
+      propositions:
+      - Luxembourg
+      - Germany
+      - Netherlands
+      - Switzerland
+      réponse: Netherlands
+      anecdote: All the teams except Belgium and the Netherlands had to compete in qualifying to take part in the final tournament.
+    - id: 5
+      question: In which city was the 2002 World Cup final played ?
+      propositions:
+      - Yokohama
+      - Seoul
+      - Kobe
+      - Osaka
+      réponse: Yokohama
+      anecdote: In 2018, the Nissan Stadium has the largest number of seats on offer in a stadium in Japan with 72,327 seats.
+    - id: 6
+      question: Which of these countries was not part of France's group at Euro 2008 ?
+      propositions:
+      - Italy
+      - Germany
+      - Romania
+      - Netherlands
+      réponse: Germany
+      anecdote: Prior to the tournament, Group C was called the death group, meaning that a large selection would be eliminated in the first round.
+    - id: 7
+      question: How many goals did Thierry Henry score during the 2003-2004 season ?
+      propositions:
+      - 59
+      - 29
+      - 49
+      - 39
+      réponse: 39
+      anecdote: Thierry Henry will be voted player of the year in England, best French player of the year and wins the European Golden Shoe.
+    - id: 8
+      question: What disease does Ronaldo, nicknamed Gronaldo, suffer from at the end of the 2000s ?
+      propositions:
+      - Diabetes
+      - Bronchiolitis
+      - Rickets
+      - Hypothyroidism
+      réponse: Hypothyroidism
+      anecdote: Symptoms include drowsiness, chilliness, weight gain, pale skin, and muscle stiffness.
+    - id: 9
+      question: Which Canadian performed the anthem titled « Força » during Euro 2004 ?
+      propositions:
+      - Shania Twain
+      - Nelly Furtado
+      - Celine Dion
+      - Carly Rae Jepsen
+      réponse: Nelly Furtado
+      anecdote: This twelfth edition, organized by Portugal between June 12 and July 4, 2004, was contested by sixteen nations.
+    - id: 10
+      question: In what year did the UEFA Cup become the Europa League ?
+      propositions:
+      - 2009
+      - 2011
+      - 2013
+      - 2007
+      réponse: 2009
+      anecdote: Since 2015, the winner of the competition has automatically qualified for the UEFA Champions League.
+  - confirmé:
+    - id: 11
+      question: Which player with the big nose finished top scorer in La Liga in 2002-2003 ?
+      propositions:
+      - Cristiano Ronaldo
+      - Roy Makaay
+      - Lucas Toni
+      - Lionel Messi
+      réponse: Roy Makaay
+      anecdote: In 2003, Bayern Munich made one of the biggest transfers in its history by buying it for the sum of 20 million euros.
+    - id: 12
+      question: What is the nationality of Santiago Munez, star of the film « Goal » ?
+      propositions:
+      - Mexican
+      - Spanish
+      - Portuguese
+      - Italian
+      réponse: Mexican
+      anecdote: « Goal! » will be extended into a trilogy with a film in 2005, 2007 and finally in 2009 with a film released on DVD only.
+    - id: 13
+      question: Who directed the film « Looking for Eric », with Éric Cantona ?
+      propositions:
+      - Alan Parker
+      - Ken Loach
+      - Jack Rosenthal
+      - Peter Lord
+      réponse: Ken Loach
+      anecdote: The title of the film plays on the first name of the main character (Eric Bishop) and his idol, footballer Eric Cantona.
+    - id: 14
+      question: Which animal was Zakumi mascot supposed to represent in 2010 ?
+      propositions:
+      - Bear
+      - Dolphin
+      - Leopard
+      - Turtle
+      réponse: Leopard
+      anecdote: Its name comes from ZA, the international abbreviation for South Africa, and kumi, a word which means ten in Africa.
+    - id: 15
+      question: In what year did famous referee Pierluigi Collina retire ?
+      propositions:
+      - 2005
+      - 1999
+      - 2002
+      - 2008
+      réponse: 2005
+      anecdote: Euro 2004 will be his last major tournament as he reaches the retirement age set at 45 for international referees.
+    - id: 16
+      question: Which French goalkeeper became a Porsche driver in 2008 ?
+      propositions:
+      - Jean Castaneda
+      - Roland Amar
+      - Fabien Barthez
+      - Rudy Riou
+      réponse: Fabien Barthez
+      anecdote: He has 87 caps for the French team, but is preceded by another goalkeeper, Hugo Lloris, who has passed the hundred.
+    - id: 17
+      question: Who did Pep Guardiola succeed in 2008 at the head of Barça ?
+      propositions:
+      - Hector Cuper
+      - Juande Ramos
+      - Frank Rijkaard
+      - Mané
+      réponse: Frank Rijkaard
+      anecdote: Of Surinamese origin, Frank Rijkaard was one of the best European midfielders of his time, playing as a defensive midfielder.
+    - id: 18
+      question: After Zizou, who was the second player to score twice in the first selection ?
+      propositions:
+      - Florent Malouda
+      - François Clerc
+      - Jérémy Toulalan
+      - Bafé Gomis
+      réponse: Bafé Gomis
+      anecdote: On May 27, 2008, Gomis replaced Djibril Cissé at half-time for France-Ecuador and scored his first two goals with the Blues.
+    - id: 19
+      question: What name was given to the football used at the 2010 World Cup ?
+      propositions:
+      - Brazuca
+      - Tango 12
+      - Europass
+      - Jabulani
+      réponse: Jabulani
+      anecdote: The goalkeeper of the France team, Hugo Lloris, will describe it as a disaster, favoring random trajectories.
+    - id: 20
+      question: What number did Lionel Messi wear on his football shirt when he debuted ?
+      propositions:
+      - 30
+      - 10
+      - 7
+      - 20
+      réponse: 30
+      anecdote: It is the addition of the numbers of Deco and Ronaldinho, his friends who came to pick him up every morning to go to training.
+  - expert:
+    - id: 21
+      question: Which Ukrainian has tampered with his passport to play ASSE in Greece ?
+      propositions:
+      - Artem Dovbyk
+      - Bohdan Butko
+      - Maksym Levytsky
+      - Denys Holaydo
+      réponse: Maksym Levytsky
+      anecdote: Licensed from the club, after taking legal action against the Saint-Etienne club, he was dismissed on September 27, 2006.
+    - id: 22
+      question: Who was killed during a Cameroon-Colombia match in 2003 ?
+      propositions:
+      - Marc-Vivien Foé
+      - Bill Tchato
+      - Timothée Atouba
+      - Modest M'Bami
+      réponse: Marc-Vivien Foé
+      anecdote: This defensive midfielder, selected 64 times for the Cameroon team, died at the age of 28 of a heart attack.
+    - id: 23
+      question: Who was voted best hope in Ligue 1 at the end of the 2002-2003 season ?
+      propositions:
+      - Jérémy Toulalan
+      - Lionel Mathis
+      - Sidney Govou
+      - Hatem Ben Arfa
+      réponse: Lionel Mathis
+      anecdote: During the 2006-2007 season, he became an essential part of his team, thanks to Jean Fernandez who relied heavily on him.
+    - id: 24
+      question: From what year did Mourinho become A Special One ?
+      propositions:
+      - 2006
+      - 2008
+      - 2004
+      - 2002
+      réponse: 2004
+      anecdote: This nickname was given during a press conference, in reference to the consecutive European titles obtained with FC Porto.
+    - id: 25
+      question: Which former red-haired PSG football player had Igor as his first name ?
+      propositions:
+      - Igor Denissov
+      - Igor Akinfeïev
+      - Igor Chalimov
+      - Igor Yanovski
+      réponse: Igor Yanovski
+      anecdote: This Russian footballer, defender of Paris Saint Germain from 1998 to 2001, is now retired from professional football.
+    - id: 26
+      question: Who was voted the best air football player of the 2000s ?
+      propositions:
+      - Naohiro Takahara
+      - Seiichiro Maki
+      - Yoichi Doi
+      - Koji Nakata
+      réponse: Koji Nakata
+      anecdote: According to a survey by France Football magazine, Koji Nakata is one of the worst recruits in the history of Olympique de Marseille.
+    - id: 27
+      question: Which football team revived the fashion of the marcel in 2002 ?
+      propositions:
+      - Cameroon
+      - Greece
+      - Algeria
+      - Bolivia
+      réponse: Cameroon
+      anecdote: Les Lions Indomptables is the selection of Cameroonian players representing the country in international competitions.
+    - id: 28
+      question: Who is the only player to have moved from Bayern Munich to Olympique Lyonnais ?
+      propositions:
+      - Giovane Élber
+      - Diego Contento
+      - Hans Nowak
+      - Thomas Linke
+      réponse: Giovane Élber
+      anecdote: After a satisfactory first season (10 goals in 27 games), Élber was injured at the start of his second season in Lyon.
+    - id: 29
+      question: According to Zinedine Zidane, which midfielder was the best in the world ?
+      propositions:
+      - Paul Scholes
+      - Wayne Rooney
+      - Paul Robinson
+      - Frank Lampard
+      réponse: Paul Scholes
+      anecdote: With 700 appearances, he is the third-most played player for Manchester United, behind Ryan Giggs and Bobby Charlton.
+    - id: 30
+      question: After playing for Juventus, where did David Trezeguet sign ?
+      propositions:
+      - Baniyas
+      - Pune City
+      - Allicante
+      - River Plate
+      réponse: Allicante
+      anecdote: Trezegol has played three World Cups and won the competition in 1998 as well as the European Championship 2000.
+  de:
+  - débutant:
+    - id: 1
+      question: Welches ist das einzige Team, das Spanien bei der Euro 2008 geschlagen hat ?
+      propositions:
+      - Griechenland
+      - Deutschland
+      - Frankreich
+      - Italien
+      réponse: Italien
+      anecdote: Der scheidende Meister Griechenland setzte seinen Titel gegen fünfzehn andere Nationen, darunter die beiden Gastgeberländer, aufs Spiel.
+    - id: 2
+      question: Welches Folterinstrument hat die WM 2010 fast ruiniert ?
+      propositions:
+      - Oporo
+      - Behandeln
+      - Sodina
+      - Vuvuzela
+      réponse: Vuvuzela
+      anecdote: Dieses Horn war Gegenstand von Kontroversen nach dem unaufhörlichen Summen, das während der Spiele und ihrer Ausstrahlung erzeugt wurde.
+    - id: 3
+      question: Welcher Verein hat die meisten Spieler zur Weltmeisterschaft 2002 geschickt ?
+      propositions:
+      - Bayern München
+      - FC Arsenal
+      - Inter Mailand
+      - Real Madrid
+      réponse: Inter Mailand
+      anecdote: Es wurden 14 Inter Mailand-Spieler ausgewählt, 11 Arsenal FC-Spieler, 10 Bayern München- und Real Madrid-Spieler.
+    - id: 4
+      question: Mit welchem anderen Land hat Belgien die Euro 2000 organisiert ?
+      propositions:
+      - Schweiz
+      - Deutschland
+      - Luxemburg
+      - Niederlande
+      réponse: Niederlande
+      anecdote: Alle Teams außer Belgien und den Niederlanden mussten sich in der Qualifikation bewerben, um am Finale teilnehmen zu können.
+    - id: 5
+      question: Was Stadt hat das WM-Finale 2002 gespielt ?
+      propositions:
+      - Yokohama
+      - Kobe
+      - Osaka
+      - Seoul
+      réponse: Yokohama
+      anecdote: Im Jahr 2018 hat das Nissan Stadium mit 72.327 Sitzplätzen die größte Anzahl an Sitzplätzen in einem Stadion in Japan.
+    - id: 6
+      question: Welches dieser Länder gehörte bei der Euro 2008 nicht zur französischen Gruppe ?
+      propositions:
+      - Deutschland
+      - Rumänien
+      - Niederlande
+      - Italien
+      réponse: Deutschland
+      anecdote: Vor dem Turnier wurde Gruppe C als Todesgruppe bezeichnet, was bedeutet, dass eine große Auswahl in der ersten Runde eliminiert werden würde.
+    - id: 7
+      question: Wie viele Tore erzielte Thierry Henry in der Saison 2003/2004 ?
+      propositions:
+      - 59
+      - 39
+      - 49
+      - 29
+      réponse: 39
+      anecdote: Thierry Henry wird in England zum besten französischen Spieler des Jahres gewählt und gewinnt den europäischen Goldenen Schuh.
+    - id: 8
+      question: An welcher Krankheit leidet Ronaldo mit dem Spitznamen Gronaldo Ende der 2000er Jahre ?
+      propositions:
+      - Diabetes
+      - Rachitis
+      - Bronchiolitis
+      - Hypothyreose
+      réponse: Hypothyreose
+      anecdote: Zu den Symptomen gehören Schläfrigkeit, Frösteln, Gewichtszunahme, blasse Haut und Muskelsteifheit.
+    - id: 9
+      question: Welcher Kanadier hat die Hymne mit dem Titel « Força » während der Euro 2004 aufgeführt ?
+      propositions:
+      - Nelly Furtado
+      - Carly Rae Jepsen
+      - Shania Twain
+      - Celine Dion
+      réponse: Nelly Furtado
+      anecdote: Diese zwölfte Ausgabe, die vom 12. Juni bis 4. Juli 2004 von Portugal organisiert wurde, wurde von 16 Nationen bestritten.
+    - id: 10
+      question: In welchem Jahr wurde der UEFA-Pokal zur Europa League ?
+      propositions:
+      - 2013
+      - 2007
+      - 2009
+      - 2011
+      réponse: 2009
+      anecdote: Seit 2015 hat sich der Gewinner des Wettbewerbs automatisch für die UEFA Champions League qualifiziert.
+  - confirmé:
+    - id: 11
+      question: Welcher Spieler mit der großen Nase wurde 2002-2003 Torschützenkönig in der Liga ?
+      propositions:
+      - Lucas Toni
+      - Cristiano Ronaldo
+      - Roy Makaay
+      - Lionel Messi
+      réponse: Roy Makaay
+      anecdote: Im Jahr 2003 hat der FC Bayern München einen der größten Transfers seiner Geschichte getätigt, indem er ihn für 20 Millionen Euro gekauft hat.
+    - id: 12
+      question: Was ist die Nationalität von Santiago Munez, Star des Films « Goal » ?
+      propositions:
+      - Spanisch
+      - Italienisch
+      - Portugiesisch
+      - Mexikaner
+      réponse: Mexikaner
+      anecdote: « Goal! » wird 2005, 2007 und schließlich 2009 mit einem Film, der nur auf DVD veröffentlicht wird, zu einer Trilogie mit einem Film erweitert.
+    - id: 13
+      question: Wer hat den Film « Looking for Eric » mit Éric Cantona gedreht ?
+      propositions:
+      - Jack Rosenthal
+      - Alan Parker
+      - Ken Loach
+      - Peter Lord
+      réponse: Ken Loach
+      anecdote: Der Titel des Films spielt mit dem Vornamen der Hauptfigur (Eric Bishop) und seinem Idol, dem Fußballer Eric Cantona.
+    - id: 14
+      question: Welches Tier sollte das Zakumi-Maskottchen 2010 darstellen ?
+      propositions:
+      - Bär
+      - Delphin
+      - Leopard
+      - Schildkröte
+      réponse: Leopard
+      anecdote: Sein Name stammt von ZA, der internationalen Abkürzung für Südafrika, und Kumi, ein Wort, das in Afrika zehn bedeutet.
+    - id: 15
+      question: In welchem Jahr ging der berühmte Schiedsrichter Pierluigi Collina in den Ruhestand ?
+      propositions:
+      - 1999
+      - 2005
+      - 2002
+      - 2008
+      réponse: 2005
+      anecdote: Die Euro 2004 wird sein letztes großes Turnier sein, seit er das für internationale Schiedsrichter festgelegte Rentenalter von 45 Jahren erreicht hat.
+    - id: 16
+      question: Welcher französische Torhüter wurde 2008 Porsche-Fahrer ?
+      propositions:
+      - Rudy Riou
+      - Roland Amar
+      - Jean Castaneda
+      - Fabien Barthez
+      réponse: Fabien Barthez
+      anecdote: Er hat 87 Länderspiele für die französische Mannschaft, aber ein weiterer Torhüter, Hugo Lloris, hat die Hundert überholt.
+    - id: 17
+      question: Wem gelang Pep Guardiola 2008 an der Spitze von Barça ?
+      propositions:
+      - Hector Cuper
+      - Mané
+      - Frank Rijkaard
+      - Juande Ramos
+      réponse: Frank Rijkaard
+      anecdote: Frank Rijkaard, surinamischer Herkunft, war einer der besten europäischen Mittelfeldspieler seiner Zeit und spielte als defensiver Mittelfeldspieler.
+    - id: 18
+      question: Wer war nach Zizou der zweite Spieler, der in der ersten Auswahl zweimal getroffen hat ?
+      propositions:
+      - Jérémy Toulalan
+      - Florent Malouda
+      - François Clerc
+      - Bafé Gomis
+      réponse: Bafé Gomis
+      anecdote: Am 27. Mai 2008 ersetzte Gomis zur Halbzeit für Frankreich-Ecuador Djibril Cissé und erzielte seine ersten beiden Tore mit dem Blues.
+    - id: 19
+      question: Wie wurde der bei der Weltmeisterschaft 2010 verwendete Fußball benannt ?
+      propositions:
+      - Europass
+      - Brazuca
+      - Tango 12
+      - Jabulani
+      réponse: Jabulani
+      anecdote: Der Torhüter der französischen Mannschaft, Hugo Lloris, wird es als Katastrophe qualifizieren und zufällige Flugbahnen bevorzugen.
+    - id: 20
+      question: Welche Nummer trug Lionel Messi bei seinem Debüt auf seinem Fußballtrikot ?
+      propositions:
+      - 30
+      - 20
+      - 10
+      - 7
+      réponse: 30
+      anecdote: Es ist die Hinzufügung der Anzahl von Deco und Ronaldinho, seinen Freunden, die ihn jeden Morgen abholten, um zum Training zu gehen.
+  - expert:
+    - id: 21
+      question: Welcher Ukrainer hat seinen Pass manipuliert, um ASSE in Griechenland zu spielen ?
+      propositions:
+      - Maksym Levytsky
+      - Bohdan Butko
+      - Artem Dovbyk
+      - Denys Holaydo
+      réponse: Maksym Levytsky
+      anecdote: Nachdem er rechtliche Schritte gegen den Saint-Etienne-Club eingeleitet hatte, wurde er vom Club lizenziert und am 27.
+    - id: 22
+      question: Wer wurde 2003 bei einem Spiel zwischen Kamerun und Kolumbien getötet ?
+      propositions:
+      - Timothée Atouba
+      - Bescheidene M'Bami
+      - Bill Tchato
+      - Marc-Vivien Foé
+      réponse: Marc-Vivien Foé
+      anecdote: Dieser defensive Mittelfeldspieler, der 64 Mal für das kamerunische Team ausgewählt wurde, starb im Alter von 28 Jahren an einem Herzinfarkt.
+    - id: 23
+      question: Wer wurde am Ende der Saison 2002-2003 zur besten Hoffnung in der Ligue 1 gewählt ?
+      propositions:
+      - Hatem Ben Arfa
+      - Lionel Mathis
+      - Jérémy Toulalan
+      - Sidney Govou
+      réponse: Lionel Mathis
+      anecdote: In der Saison 2006-2007 wurde er dank Jean Fernandez, der sich stark auf ihn verlassen hatte, ein wesentlicher Bestandteil seines Teams.
+    - id: 24
+      question: Ab welchem Jahr wurde Mourinho ein besonderer ?
+      propositions:
+      - 2004
+      - 2006
+      - 2002
+      - 2008
+      réponse: 2004
+      anecdote: Dieser Spitzname wurde während einer Pressekonferenz in Bezug auf die aufeinanderfolgenden europäischen Titel vergeben, die mit dem FC Porto erhalten wurden.
+    - id: 25
+      question: Welcher ehemalige rothaarige PSG-Fußballspieler hatte Igor als Vornamen ?
+      propositions:
+      - Igor Akinfeïev
+      - Igor Chalimov
+      - Igor Yanovski
+      - Igor Denissov
+      réponse: Igor Yanovski
+      anecdote: Der russische Fußballspieler, der von 1998 bis 2001 Verteidiger von Paris Saint Germain war, ist jetzt aus dem Profifußball ausgeschieden.
+    - id: 26
+      question: Wer wurde in den 2000er Jahren zum besten Air-Football-Spieler gewählt ?
+      propositions:
+      - Koji Nakata
+      - Seiichiro Maki
+      - Naohiro Takahara
+      - Yoichi Doi
+      réponse: Koji Nakata
+      anecdote: Laut einer Umfrage des französischen Fußballmagazins ist Koji Nakata einer der schlechtesten Rekruten in der Geschichte von Olympique de Marseille.
+    - id: 27
+      question: Welche Fußballmannschaft hat die Mode des Marcel im Jahr 2002 wiederbelebt ?
+      propositions:
+      - Algerien
+      - Griechenland
+      - Bolivien
+      - Kamerun
+      réponse: Kamerun
+      anecdote: Les Lions Indomptables ist die Auswahl kamerunischer Spieler, die das Land bei internationalen Wettbewerben vertreten.
+    - id: 28
+      question: Wer ist der einzige Spieler, der von Bayern München zu Olympique Lyonnais gewechselt ist ?
+      propositions:
+      - Diego Contento
+      - Hans Nowak
+      - Thomas Linke
+      - Giovane Élber
+      réponse: Giovane Élber
+      anecdote: Nach einer zufriedenstellenden ersten Saison (10 Tore in 27 Spielen) wurde Élber zu Beginn seiner zweiten Saison in Lyon verletzt.
+    - id: 29
+      question: Welcher Mittelfeldspieler war laut Zinedine Zidane der beste der Welt ?
+      propositions:
+      - Paul Robinson
+      - Frank Lampard
+      - Wayne Rooney
+      - Paul Scholes
+      réponse: Paul Scholes
+      anecdote: Mit 700 Einsätzen ist er nach Ryan Giggs und Bobby Charlton der am dritthäufigsten gespielte Spieler für Manchester United.
+    - id: 30
+      question: Wo hat David Trezeguet nach seinem Spiel bei Juventus unterschrieben ?
+      propositions:
+      - Pune City
+      - Allicante
+      - Baniyas
+      - Flussplatte
+      réponse: Allicante
+      anecdote: Trezegol hat drei Weltmeisterschaften bestritten und den Wettbewerb 1998 sowie die Europameisterschaft 2000 gewonnen.
+  es:
+  - débutant:
+    - id: 1
+      question: ¿Cuál es el único equipo que ha ganado a España durante la Euro 2008 ?
+      propositions:
+      - Italia
+      - Alemania
+      - Francia
+      - Grecia
+      réponse: Italia
+      anecdote: El campeón saliente, Grecia, puso su título en juego contra otras quince naciones, incluidos los dos países anfitriones.
+    - id: 2
+      question: ¿Qué instrumento de tortura casi arruinó el Mundial de 2010 ?
+      propositions:
+      - Vuvuzela
+      - Tratar
+      - Sodina
+      - Oporo
+      réponse: Vuvuzela
+      anecdote: Esta bocina fue objeto de controversia a raíz del incesante zumbido que se generaba durante los partidos y su retransmisión.
+    - id: 3
+      question: ¿Qué club envió más jugadores al Mundial de 2002 ?
+      propositions:
+      - Inter de Milán
+      - Arsenal FC
+      - Real Madrid
+      - Bayern de Múnich
+      réponse: Inter de Milán
+      anecdote: Se seleccionaron 14 jugadores del Inter de Milán, 11 jugadores del Arsenal FC, 10 jugadores del Bayern de Múnich y del Real Madrid.
+    - id: 4
+      question: ¿Con qué otro país organizó Bélgica la Euro 2000 ?
+      propositions:
+      - Alemania
+      - Luxemburgo
+      - Holanda
+      - Suiza
+      réponse: Holanda
+      anecdote: Todos los equipos, excepto Bélgica y Holanda, tuvieron que competir en la clasificación para participar en la fase final.
+    - id: 5
+      question: ¿En qué ciudad ha jugado la final de la Copa del Mundo en 2002 ?
+      propositions:
+      - Kobe
+      - Seoul
+      - Yokohama
+      - Osaka
+      réponse: Yokohama
+      anecdote: En 2018, el Estadio Nissan tiene la mayor cantidad de asientos que se ofrecen en un estadio en Japón con 72,327 asientos.
+    - id: 6
+      question: ¿Cuál de estos países no formó parte del grupo de Francia en la Eurocopa 2008 ?
+      propositions:
+      - Rumania
+      - Italia ","Italie
+      - Alemania
+      - Holanda
+      réponse: Alemania
+      anecdote: Antes del torneo, el Grupo C se llamaba grupo de la muerte, lo que significa que una gran selección sería eliminada en la primera ronda.
+    - id: 7
+      question: ¿Cuántos goles marcó Thierry Henry durante la temporada 2003-2004 ?
+      propositions:
+      - 29
+      - 59
+      - 39
+      - 49
+      réponse: 39
+      anecdote: Thierry Henry será elegido jugador del año en Inglaterra, mejor jugador francés del año y gana la Bota de Oro europea.
+    - id: 8
+      question: ¿Qué enfermedad padece Ronaldo, apodado Gronaldo, a finales de la década de 2000 ?
+      propositions:
+      - Bronquiolitis
+      - Raquitismo
+      - Hipotiroidismo
+      - Diabetes
+      réponse: Hipotiroidismo
+      anecdote: Los síntomas incluyen somnolencia, escalofríos, aumento de peso, piel pálida y rigidez muscular.
+    - id: 9
+      question: ¿Qué canadiense interpretó el himno titulado « Força » durante la Eurocopa 2004 ?
+      propositions:
+      - Shania Twain
+      - Carly Rae Jepsen
+      - Celine Dion
+      - Nelly Furtado
+      réponse: Nelly Furtado
+      anecdote: Esta duodécima edición, organizada por Portugal entre el 12 de junio y el 4 de julio de 2004, fue disputada por dieciséis naciones.
+    - id: 10
+      question: ¿En qué año se convirtió la Copa de la UEFA en la Europa League ?
+      propositions:
+      - 2009
+      - 2007
+      - 2013
+      - 2011
+      réponse: 2009
+      anecdote: Desde 2015, el ganador de la competición se ha clasificado automáticamente para la UEFA Champions League.
+  - confirmé:
+    - id: 11
+      question: ¿Qué jugador de nariz grande terminó como máximo goleador de La Liga en 2002-2003 ?
+      propositions:
+      - Cristiano Ronaldo
+      - Lionel Messi
+      - Lucas Toni
+      - Roy Makaay
+      réponse: Roy Makaay
+      anecdote: En 2003, el Bayern de Múnich realizó una de las transferencias más importantes de su historia al comprarlo por la suma de 20 millones de euros.
+    - id: 12
+      question: ¿Cuál es la nacionalidad de Santiago Munez, protagonista de la película « Goal » ?
+      propositions:
+      - Español
+      - Portugués
+      - Italiano
+      - Mexicano
+      réponse: Mexicano
+      anecdote: « Goal! » se extenderá a una trilogía con una película en 2005, 2007 y finalmente en 2009 con una película lanzada solo en DVD.
+    - id: 13
+      question: ¿Quién dirigió la película « Buscando a Eric », con Éric Cantona ?
+      propositions:
+      - Jack Rosenthal
+      - Ken Loach
+      - Peter Lord
+      - Alan Parker
+      réponse: Ken Loach
+      anecdote: El título de la película juega con el nombre del personaje principal (Eric Bishop) y su ídolo, el futbolista Eric Cantona.
+    - id: 14
+      question: ¿Qué animal se suponía que representaba la mascota de Zakumi en 2010 ?
+      propositions:
+      - Delfín
+      - Tortuga
+      - Bear
+      - Leopardo
+      réponse: Leopardo
+      anecdote: Su nombre proviene de ZA, la abreviatura internacional de Sudáfrica, y kumi, una palabra que significa diez en África.
+    - id: 15
+      question: ¿En qué año se retiró el famoso árbitro Pierluigi Collina ?
+      propositions:
+      - 1999
+      - 2008
+      - 2005
+      - 2002
+      réponse: 2005
+      anecdote: La Eurocopa 2004 será su último gran torneo desde que alcance la edad de jubilación fijada en 45 años para los árbitros internacionales.
+    - id: 16
+      question: ¿Qué portero francés se convirtió en piloto de Porsche en 2008 ?
+      propositions:
+      - Jean Castaneda
+      - Roland Amar
+      - Rudy Riou
+      - Fabien Barthez
+      réponse: Fabien Barthez
+      anecdote: Lleva 87 partidos con la selección francesa, pero le precede otro portero, Hugo Lloris, que ha pasado de los cien.
+    - id: 17
+      question: ¿A quién triunfó Pep Guardiola en 2008 al frente del Barça ?
+      propositions:
+      - Héctor Cuper
+      - Mané
+      - Juande Ramos
+      - Frank Rijkaard
+      réponse: Frank Rijkaard
+      anecdote: De origen surinamés, Frank Rijkaard fue uno de los mejores centrocampistas europeos de su época, jugando como centrocampista defensivo.
+    - id: 18
+      question: Después de Zizou, ¿quién fue el segundo jugador en marcar dos veces en la primera selección ?
+      propositions:
+      - François Clerc
+      - Jérémy Toulalan
+      - Florent Malouda
+      - Bafé Gomis
+      réponse: Bafé Gomis
+      anecdote: El 27 de mayo de 2008, Gomis reemplazó a Djibril Cissé en el descanso para Francia-Ecuador y anotó sus dos primeros goles con los Blues.
+    - id: 19
+      question: ¿Qué nombre se le dio al fútbol utilizado en el Mundial de 2010 ?
+      propositions:
+      - Brazuca
+      - Europass
+      - Jabulani
+      - Tango 12
+      réponse: Jabulani
+      anecdote: El portero de la selección de Francia, Hugo Lloris, lo calificará de desastre, favoreciendo trayectorias aleatorias.
+    - id: 20
+      question: ¿Qué número llevaba Lionel Messi en su camiseta de fútbol cuando debutó ?
+      propositions:
+      - 20
+      - 7
+      - 10
+      - 30
+      réponse: 30
+      anecdote: Es la suma de los dorsales de Deco y Ronaldinho, sus amigos que venían a recogerlo cada mañana para ir a los entrenamientos.
+  - expert:
+    - id: 21
+      question: ¿Qué ucraniano ha manipulado su pasaporte para jugar ASSE en Grecia ?
+      propositions:
+      - Maksym Levytsky
+      - Artem Dovbyk
+      - Bohdan Butko
+      - Denys Holaydo
+      réponse: Maksym Levytsky
+      anecdote: Licenciado por el club, después de emprender acciones legales contra el club Saint-Etienne, fue despedido el 27 de septiembre de 2006.
+    - id: 22
+      question: ¿Quién fue asesinado durante un partido entre Camerún y Colombia en 2003 ?
+      propositions:
+      - Bill Tchato
+      - Marc-Vivien Foé
+      - Timothée Atouba
+      - Modest M'Bami
+      réponse: Marc-Vivien Foé
+      anecdote: Este mediocampista defensivo, seleccionado 64 veces por la selección camerunés, falleció a los 28 años de un infarto.
+    - id: 23
+      question: ¿Quién fue elegido como la mejor esperanza en la Ligue 1 al final de la temporada 2002-2003 ?
+      propositions:
+      - Lionel Mathis
+      - Jérémy Toulalan
+      - Hatem Ben Arfa
+      - Sidney Govou
+      réponse: Lionel Mathis
+      anecdote: Durante la temporada 2006-2007, se convirtió en una parte esencial de su equipo, gracias a Jean Fernandez, quien confió mucho en él.
+    - id: 24
+      question: ¿A partir de qué año Mourinho se convirtió en un especial ?
+      propositions:
+      - 2002
+      - 2004
+      - 2008
+      - 2006
+      réponse: 2004
+      anecdote: Este sobrenombre se le dio durante una rueda de prensa, en referencia a los títulos europeos consecutivos obtenidos con el FC Porto.
+    - id: 25
+      question: ¿Qué ex jugador pelirrojo de fútbol del PSG tenía a Igor como nombre de pila ?
+      propositions:
+      - Igor Akinfeïev
+      - Igor Denissov
+      - Igor Yanovski
+      - Igor Chalimov
+      réponse: Igor Yanovski
+      anecdote: Este futbolista ruso, defensor del Paris Saint Germain de 1998 a 2001, está ahora retirado del fútbol profesional.
+    - id: 26
+      question: ¿Quién fue votado como el mejor jugador de fútbol aéreo de la década de 2000 ?
+      propositions:
+      - Seiichiro Maki
+      - Naohiro Takahara
+      - Yoichi Doi
+      - Koji Nakata
+      réponse: Koji Nakata
+      anecdote: Según una encuesta de la revista France Football, Koji Nakata es uno de los peores reclutas de la historia del Olympique de Marseille.
+    - id: 27
+      question: ¿Qué equipo de fútbol revivió la moda del marcel en 2002 ?
+      propositions:
+      - Argelia
+      - Bolivia
+      - Camerún
+      - Grecia
+      réponse: Camerún
+      anecdote: Les Lions Indomptables es la selección de jugadores cameruneses que representan al país en competiciones internacionales.
+    - id: 28
+      question: ¿Quién es el único jugador que se ha trasladado del Bayern de Múnich al Olympique Lyonnais ?
+      propositions:
+      - Diego Contento
+      - Hans Nowak
+      - Thomas Linke
+      - Giovane Élber
+      réponse: Giovane Élber
+      anecdote: Tras una primera temporada satisfactoria (10 goles en 27 partidos), Élber se lesionó al inicio de su segunda temporada en Lyon.
+    - id: 29
+      question: Según Zinedine Zidane, ¿qué centrocampista fue el mejor del mundo ?
+      propositions:
+      - Wayne Rooney
+      - Frank Lampard
+      - Paul Robinson
+      - Paul Scholes
+      réponse: Paul Scholes
+      anecdote: Con 700 apariciones, es el tercer jugador más jugado del Manchester United, detrás de Ryan Giggs y Bobby Charlton.
+    - id: 30
+      question: Después de jugar en la Juventus, ¿dónde fichó David Trezeguet ?
+      propositions:
+      - Ciudad de Pune
+      - River Plate
+      - Baniyas
+      - Allicante
+      réponse: Allicante
+      anecdote: Trezegol ha jugado tres Copas del Mundo y ganó la competición en 1998, así como el Campeonato de Europa 2000.
+  it:
+  - débutant:
+    - id: 1
+      question: Qual è l'unica squadra ad aver battuto la Spagna durante Euro 2008 ?
+      propositions:
+      - Germania
+      - Francia
+      - Italia
+      - Grecia
+      réponse: Italia
+      anecdote: Il campione uscente, la Grecia, ha messo in gioco il titolo contro altre quindici nazioni, comprese le due nazioni ospitanti.
+    - id: 2
+      question: Quale strumento di tortura ha quasi rovinato i Mondiali 2010 ?
+      propositions:
+      - Trattare
+      - Oporo
+      - Vuvuzela
+      - Sodina
+      réponse: Vuvuzela
+      anecdote: Questo corno è stato oggetto di polemiche a seguito del ronzio incessante generato durante le partite e la loro trasmissione.
+    - id: 3
+      question: Quale club ha mandato più giocatori ai Mondiali del 2002 ?
+      propositions:
+      - Real Madrid
+      - Bayern Monaco
+      - Inter
+      - Arsenal FC
+      réponse: Inter
+      anecdote: Sono stati selezionati 14 giocatori dell'Inter, 11 giocatori dell'Arsenal FC, 10 giocatori del Bayern Monaco e del Real Madrid.
+    - id: 4
+      question: Con quale altro paese il Belgio ha organizzato Euro 2000 ?
+      propositions:
+      - Germania
+      - Svizzera
+      - Lussemburgo
+      - Paesi Bassi
+      réponse: Paesi Bassi
+      anecdote: Tutte le squadre tranne Belgio e Olanda hanno dovuto competere nelle qualificazioni per prendere parte al torneo finale.
+    - id: 5
+      question: Quale città ha giocato la finale di Coppa del Mondo nel 2002 ?
+      propositions:
+      - Kobe
+      - Yokohama
+      - Seoul
+      - Osaka
+      réponse: Yokohama
+      anecdote: Nel 2018, il Nissan Stadium ha il maggior numero di posti in offerta in uno stadio in Giappone con 72.327 posti.
+    - id: 6
+      question: Quale di questi paesi non faceva parte del gruppo francese a Euro 2008 ?
+      propositions:
+      - Paesi Bassi
+      - Germania
+      - Italia
+      - Romania
+      réponse: Germania
+      anecdote: Prima del torneo, il gruppo C era chiamato il gruppo della morte, il che significa che un'ampia selezione sarebbe stata eliminata al primo turno.
+    - id: 7
+      question: Quanti gol ha segnato Thierry Henry durante la stagione 2003-2004 ?
+      propositions:
+      - 49
+      - 29
+      - 39
+      - 59
+      réponse: 39
+      anecdote: Thierry Henry sarà votato giocatore dell'anno in Inghilterra, miglior giocatore francese dell'anno e vincerà la Scarpa d'Oro europea.
+    - id: 8
+      question: Di quale malattia soffre Ronaldo, soprannominato Gronaldo, alla fine degli anni 2000 ?
+      propositions:
+      - Diabete
+      - Bronchiolite
+      - Rickets
+      - Ipotiroidismo
+      réponse: Ipotiroidismo
+      anecdote: I sintomi includono sonnolenza, freddo, aumento di peso, pelle pallida e rigidità muscolare.
+    - id: 9
+      question: Quale canadese ha eseguito l'inno intitolato « Força » durante Euro 2004 ?
+      propositions:
+      - Carly Rae Jepsen
+      - Celine Dion
+      - Shania Twain
+      - Nelly Furtado
+      réponse: Nelly Furtado
+      anecdote: Questa dodicesima edizione, organizzata dal Portogallo tra il 12 giugno e il 4 luglio 2004, è stata contestata da sedici nazioni.
+    - id: 10
+      question: In che anno la Coppa UEFA è diventata Europa League ?
+      propositions:
+      - 2013
+      - 2007
+      - 2011
+      - 2009
+      réponse: 2009
+      anecdote: Dal 2015, il vincitore della competizione si è automaticamente qualificato per la UEFA Champions League.
+  - confirmé:
+    - id: 11
+      question: Quale giocatore con il grande naso è stato il capocannoniere della Liga nel 2002-2003 ?
+      propositions:
+      - Lucas Toni
+      - Cristiano Ronaldo
+      - Roy Makaay
+      - Lionel Messi
+      réponse: Roy Makaay
+      anecdote: Nel 2003, il Bayern Monaco ha fatto uno dei più grandi trasferimenti della sua storia acquistandolo per la somma di 20 milioni di euro.
+    - id: 12
+      question: Qual è la nazionalità di Santiago Munez, protagonista del film « Goal » ?
+      propositions:
+      - Spagnolo
+      - Messicano
+      - Portoghese
+      - Italiano
+      réponse: Messicano
+      anecdote: « Goal! » sarà esteso in una trilogia con un film nel 2005, 2007 e infine nel 2009 con un film uscito solo su DVD.
+    - id: 13
+      question: Chi ha diretto il film « Alla ricerca di Eric », con Éric Cantona ?
+      propositions:
+      - Jack Rosenthal
+      - Alan Parker
+      - Ken Loach
+      - Peter Lord
+      réponse: Ken Loach
+      anecdote: Il titolo del film gioca sul nome del personaggio principale (Eric Bishop) e del suo idolo, il calciatore Eric Cantona.
+    - id: 14
+      question: Quale animale avrebbe dovuto rappresentare la mascotte di Zakumi nel 2010 ?
+      propositions:
+      - Tartaruga
+      - Leopard
+      - Orso
+      - Delfino
+      réponse: Leopard
+      anecdote: Il suo nome deriva da ZA, l'abbreviazione internazionale di Sud Africa, e kumi, una parola che significa dieci in Africa.
+    - id: 15
+      question: In che anno si è ritirato il famoso arbitro Pierluigi Collina ?
+      propositions:
+      - 1999
+      - 2002
+      - 2005
+      - 2008
+      réponse: 2005
+      anecdote: Euro 2004 sarà il suo ultimo torneo importante da quando raggiungerà l'età pensionabile fissata a 45 anni per gli arbitri internazionali.
+    - id: 16
+      question: Quale portiere francese è diventato un pilota Porsche nel 2008 ?
+      propositions:
+      - Rudy Riou
+      - Fabien Barthez
+      - Jean Castaneda
+      - Roland Amar
+      réponse: Fabien Barthez
+      anecdote: Ha 87 presenze con la squadra francese, ma è preceduto da un altro portiere, Hugo Lloris, che ha superato le cento.
+    - id: 17
+      question: Chi è riuscito Pep Guardiola nel 2008 alla testa del Barça ?
+      propositions:
+      - Juande Ramos
+      - Frank Rijkaard
+      - Hector Cuper
+      - Mané
+      réponse: Frank Rijkaard
+      anecdote: Di origine surinamese, Frank Rijkaard è stato uno dei migliori centrocampisti europei del suo tempo, giocando come centrocampista difensivo.
+    - id: 18
+      question: Dopo Zizou, chi è stato il secondo giocatore a segnare due volte nella prima selezione ?
+      propositions:
+      - Bafé Gomis
+      - Jérémy Toulalan
+      - Florent Malouda
+      - François Clerc
+      réponse: Bafé Gomis
+      anecdote: Il 27 maggio 2008, Gomis ha sostituito Djibril Cissé a metà tempo per Francia-Ecuador e ha segnato i suoi primi due gol con i Blues.
+    - id: 19
+      question: Quale nome è stato dato al calcio utilizzato ai Mondiali 2010 ?
+      propositions:
+      - Brazuca
+      - Tango 12
+      - Europass
+      - Jabulani
+      réponse: Jabulani
+      anecdote: Il portiere della Francia, Hugo Lloris, lo descriverà come un disastro, favorendo traiettorie casuali.
+    - id: 20
+      question: Che numero indossava Lionel Messi sulla sua maglia da calcio quando ha debuttato ?
+      propositions:
+      - 7
+      - 30
+      - 10
+      - 20
+      réponse: 30
+      anecdote: È la somma dei numeri di Deco e Ronaldinho, i suoi amici che venivano a prenderlo ogni mattina per andare ad allenarsi.
+  - expert:
+    - id: 21
+      question: Quale ucraino ha manomesso il suo passaporto per giocare ad ASSE in Grecia ?
+      propositions:
+      - Denys Holaydo
+      - Maksym Levytsky
+      - Bohdan Butko
+      - Artem Dovbyk
+      réponse: Maksym Levytsky
+      anecdote: Licenziato dal club, dopo aver intentato un'azione legale contro il club del Saint-Etienne, è stato licenziato il 27 settembre 2006.
+    - id: 22
+      question: Chi è stato ucciso durante una partita Camerun-Colombia nel 2003 ?
+      propositions:
+      - Modest M'Bami
+      - Marc-Vivien Foé
+      - Timothée Atouba
+      - Bill Tchato
+      réponse: Marc-Vivien Foé
+      anecdote: Questo centrocampista difensivo, selezionato 64 volte per la squadra del Camerun, è morto all'età di 28 anni per un attacco di cuore.
+    - id: 23
+      question: Chi è stato votato come migliore speranza in Ligue 1 alla fine della stagione 2002-2003 ?
+      propositions:
+      - Hatem Ben Arfa
+      - Jérémy Toulalan
+      - Lionel Mathis
+      - Sidney Govou
+      réponse: Lionel Mathis
+      anecdote: Durante la stagione 2006-2007, è diventato una parte essenziale della sua squadra, grazie a Jean Fernandez che ha fatto molto affidamento su di lui.
+    - id: 24
+      question: Da che anno Mourinho è diventato uno speciale ?
+      propositions:
+      - 2004
+      - 2006
+      - 2008
+      - 2002
+      réponse: 2004
+      anecdote: Questo soprannome è stato dato durante una conferenza stampa, in riferimento ai titoli europei consecutivi ottenuti con l'FC Porto.
+    - id: 25
+      question: Quale ex calciatore del PSG dai capelli rossi aveva Igor come nome ?
+      propositions:
+      - Igor Denissov
+      - Igor Chalimov
+      - Igor Akinfeïev
+      - Igor Yanovski
+      réponse: Igor Yanovski
+      anecdote: Questo calciatore russo, difensore del Paris Saint Germain dal 1998 al 2001, è ora in pensione dal calcio professionistico.
+    - id: 26
+      question: Chi è stato votato il miglior giocatore di football degli anni 2000 ?
+      propositions:
+      - Koji Nakata
+      - Yoichi Doi
+      - Naohiro Takahara
+      - Seiichiro Maki
+      réponse: Koji Nakata
+      anecdote: Secondo un sondaggio della rivista France Football, Koji Nakata è una delle peggiori reclute nella storia dell'Olympique de Marseille.
+    - id: 27
+      question: Quale squadra di calcio ha fatto rivivere la moda del marcel nel 2002 ?
+      propositions:
+      - Camerun
+      - Algeria
+      - Bolivia
+      - Grecia
+      réponse: Camerun
+      anecdote: Les Lions Indomptables è la selezione di giocatori camerunesi che rappresentano il paese nelle competizioni internazionali.
+    - id: 28
+      question: Chi è l'unico giocatore ad essersi trasferito dal Bayern Monaco all'Olympique Lyonnais ?
+      propositions:
+      - Diego Contento
+      - Hans Nowak
+      - Thomas Linke
+      - Giovane Élber
+      réponse: Giovane Élber
+      anecdote: Dopo una prima stagione soddisfacente (10 gol in 27 partite), Élber si è infortunato all'inizio della sua seconda stagione a Lione.
+    - id: 29
+      question: Secondo Zinedine Zidane, quale centrocampista è stato il migliore al mondo ?
+      propositions:
+      - Frank Lampard
+      - Paul Scholes
+      - Wayne Rooney
+      - Paul Robinson
+      réponse: Paul Scholes
+      anecdote: Con 700 presenze, è il terzo giocatore più giocato per il Manchester United, dietro Ryan Giggs e Bobby Charlton.
+    - id: 30
+      question: Dopo aver giocato per la Juventus, dove ha firmato David Trezeguet ?
+      propositions:
+      - Baniyas
+      - River Plate
+      - Città di Pune
+      - Allicante
+      réponse: Allicante
+      anecdote: Trezegol ha giocato tre coppe del mondo e ha vinto la competizione nel 1998 e il campionato europeo 2000.
+  nl:
+  - débutant:
+    - id: 1
+      question: Wat is het enige team dat Spanje heeft verslagen tijdens EK 2008 ?
+      propositions:
+      - Duitsland
+      - Griekenland
+      - Frankrijk
+      - Italië
+      réponse: Italië
+      anecdote: De vertrekkende kampioen, Griekenland, zette hun titel op het spel tegen vijftien andere landen, waaronder de twee gastlanden.
+    - id: 2
+      question: Welk martelwerktuig heeft het WK 2010 bijna verpest ?
+      propositions:
+      - Vuvuzela
+      - Behandelen
+      - Sodina
+      - Oporo
+      réponse: Vuvuzela
+      anecdote: Deze hoorn was een onderwerp van controverse na het onophoudelijke gezoem dat tijdens wedstrijden en de uitzending ervan werd gegenereerd.
+    - id: 3
+      question: Welke club heeft de meeste spelers naar het WK 2002 gestuurd ?
+      propositions:
+      - Bayern München
+      - Real Madrid
+      - Inter Milaan
+      - Arsenal FC
+      réponse: Inter Milaan
+      anecdote: 14 Inter Milan-spelers werden geselecteerd, 11 Arsenal FC-spelers, 10 Bayern München en Real Madrid-spelers.
+    - id: 4
+      question: Met welk ander land organiseerde België Euro 2000 ?
+      propositions:
+      - Luxemburg
+      - Duitsland
+      - Nederland
+      - Zwitserland
+      réponse: Nederland
+      anecdote: Alle teams behalve België en Nederland moesten in de kwalificatie strijden om deel te nemen aan het eindtoernooi.
+    - id: 5
+      question: Welke stad heeft in 2002 de WK-finale gespeeld ?
+      propositions:
+      - Seoel
+      - Kobe
+      - Yokohama
+      - Osaka
+      réponse: Yokohama
+      anecdote: In 2018 heeft het Nissan Stadium het grootste aantal zitplaatsen in een stadion in Japan met 72.327 zitplaatsen.
+    - id: 6
+      question: Welk van deze landen maakte geen deel uit van de Franse groep op Euro 2008 ?
+      propositions:
+      - Roemenië
+      - Duitsland
+      - Italië
+      - Nederland
+      réponse: Duitsland
+      anecdote: Voorafgaand aan het toernooi heette Groep C de death group, wat betekende dat een grote selectie in de eerste ronde zou worden uitgeschakeld.
+    - id: 7
+      question: Hoeveel doelpunten maakte Thierry Henry in het seizoen 2003-2004 ?
+      propositions:
+      - 49
+      - 39
+      - 59
+      - 29
+      réponse: 39
+      anecdote: Thierry Henry wordt in Engeland verkozen tot speler van het jaar, beste Franse speler van het jaar en wint de Europese Gouden Schoen.
+    - id: 8
+      question: Aan welke ziekte lijdt Ronaldo, bijgenaamd Gronaldo, aan het einde van de jaren 2000 ?
+      propositions:
+      - Hypothyreoïdie
+      - Diabetes
+      - Rachitis
+      - Bronchiolitis
+      réponse: Hypothyreoïdie
+      anecdote: Symptomen zijn onder meer slaperigheid, kilte, gewichtstoename, bleke huid en spierstijfheid.
+    - id: 9
+      question: Welke Canadees voerde het volkslied « Força » uit tijdens Euro 2004 ?
+      propositions:
+      - Shania Twain
+      - Carly Rae Jepsen
+      - Celine Dion
+      - Nelly Furtado
+      réponse: Nelly Furtado
+      anecdote: Deze twaalfde editie, georganiseerd door Portugal tussen 12 juni en 4 juli 2004, werd betwist door zestien landen.
+    - id: 10
+      question: In welk jaar werd de UEFA Cup de Europa League ?
+      propositions:
+      - 2007
+      - 2011
+      - 2013
+      - 2009
+      réponse: 2009
+      anecdote: Sinds 2015 plaatst de winnaar van de competitie zich automatisch voor de UEFA Champions League.
+  - confirmé:
+    - id: 11
+      question: Welke speler met de grote neus werd in 2002-2003 topscorer in La Liga ?
+      propositions:
+      - Roy Makaay
+      - Cristiano Ronaldo
+      - Lionel Messi
+      - Lucas Toni
+      réponse: Roy Makaay
+      anecdote: In 2003 maakte Bayern München een van de grootste transfers in zijn geschiedenis door het te kopen voor een bedrag van 20 miljoen euro.
+    - id: 12
+      question: Wat is de nationaliteit van Santiago Munez, ster van de film « Goal » ?
+      propositions:
+      - Portugees
+      - Mexicaans
+      - Italiaans
+      - Spaans
+      réponse: Mexicaans
+      anecdote: « Doel! » zal worden uitgebreid tot een trilogie met een film in 2005, 2007 en tenslotte in 2009 met een film die alleen op dvd wordt uitgebracht.
+    - id: 13
+      question: Wie regisseerde de film « Op zoek naar Eric », met Éric Cantona ?
+      propositions:
+      - Peter Heer
+      - Alan Parker
+      - Ken Loach
+      - Jack Rosenthal
+      réponse: Ken Loach
+      anecdote: De titel van de film speelt op de voornaam van de hoofdpersoon (Eric Bishop) en zijn idool, voetballer Eric Cantona.
+    - id: 14
+      question: Welk dier moest de Zakumi-mascotte in 2010 vertegenwoordigen ?
+      propositions:
+      - Beer
+      - Luipaard
+      - Schildpad
+      - Dolfijn
+      réponse: Luipaard
+      anecdote: De naam komt van ZA, de internationale afkorting voor Zuid-Afrika, en kumi, een woord dat tien betekent in Afrika.
+    - id: 15
+      question: In welk jaar ging de beroemde scheidsrechter Pierluigi Collina met pensioen ?
+      propositions:
+      - 1999
+      - 2008
+      - 2002
+      - 2005
+      réponse: 2005
+      anecdote: Euro 2004 wordt zijn laatste grote toernooi sinds hij de pensioengerechtigde leeftijd van 45 jaar bereikt voor internationale scheidsrechters.
+    - id: 16
+      question: Welke Franse doelman werd in 2008 Porsche-coureur ?
+      propositions:
+      - Rudy Riou
+      - Jean Castaneda
+      - Roland Amar
+      - Fabien Barthez
+      réponse: Fabien Barthez
+      anecdote: Hij heeft 87 interlands voor het Franse team, maar wordt voorafgegaan door een andere doelman, Hugo Lloris, die de honderd heeft gepasseerd.
+    - id: 17
+      question: Wie slaagde Pep Guardiola in 2008 aan het hoofd van Barça ?
+      propositions:
+      - Frank Rijkaard
+      - Juande Ramos
+      - Mané
+      - Hector Cuper
+      réponse: Frank Rijkaard
+      anecdote: Van Surinaamse afkomst was Frank Rijkaard een van de beste Europese middenvelders van zijn tijd en speelde hij als verdedigende middenvelder.
+    - id: 18
+      question: Wie was na Zizou de tweede speler die tweemaal scoorde in de eerste selectie ?
+      propositions:
+      - Bafé Gomis
+      - François Clerc
+      - Jérémy Toulalan
+      - Florent Malouda
+      réponse: Bafé Gomis
+      anecdote: Op 27 mei 2008 verving Gomis Djibril Cissé tijdens de rust voor Frankrijk-Ecuador en scoorde zijn eerste twee doelpunten met de Blues.
+    - id: 19
+      question: Welke naam werd gegeven aan het voetbal dat op het WK 2010 werd gebruikt ?
+      propositions:
+      - Europass
+      - Jabulani
+      - Tango 12
+      - Brazuca
+      réponse: Jabulani
+      anecdote: De doelman van het Franse team, Hugo Lloris, zal het kwalificeren als een ramp, waarbij hij de voorkeur geeft aan willekeurige trajecten.
+    - id: 20
+      question: Welk nummer droeg Lionel Messi op zijn voetbalshirt toen hij debuteerde ?
+      propositions:
+      - 20
+      - 30
+      - 7
+      - 10
+      réponse: 30
+      anecdote: Het is de toevoeging van de nummers van Deco en Ronaldinho, zijn vrienden die hem elke ochtend kwamen ophalen om naar de training te gaan.
+  - expert:
+    - id: 21
+      question: Welke Oekraïner heeft met zijn paspoort geknoeid om ASSE in Griekenland te spelen ?
+      propositions:
+      - Bohdan Butko
+      - Artem Dovbyk
+      - Denys Holaydo
+      - Maksym Levytsky
+      réponse: Maksym Levytsky
+      anecdote: Hij kreeg een vergunning van de club en werd op 27 september 2006 ontslagen nadat hij juridische stappen had ondernomen tegen de club Saint-Etienne.
+    - id: 22
+      question: Wie kwam er in 2003 om het leven tijdens een wedstrijd Kameroen-Colombia ?
+      propositions:
+      - Marc-Vivien Foé
+      - Timothée Atouba
+      - Bill Tchato
+      - Bescheiden M'Bami
+      réponse: Marc-Vivien Foé
+      anecdote: Deze verdedigende middenvelder, 64 keer geselecteerd voor het Kameroense team, stierf op 28-jarige leeftijd aan een hartaanval.
+    - id: 23
+      question: Wie werd aan het einde van het seizoen 2002-2003 uitgeroepen tot beste hoop in de Ligue 1 ?
+      propositions:
+      - Jérémy Toulalan
+      - Sidney Govou
+      - Hatem Ben Arfa
+      - Lionel Mathis
+      réponse: Lionel Mathis
+      anecdote: Tijdens het seizoen 2006-2007 werd hij een essentieel onderdeel van zijn team, dankzij Jean Fernandez die zwaar op hem leunde.
+    - id: 24
+      question: Vanaf welk jaar werd Mourinho A Special One ?
+      propositions:
+      - 2002
+      - 2006
+      - 2004
+      - 2008
+      réponse: 2004
+      anecdote: Deze bijnaam werd gegeven tijdens een persconferentie, in verwijzing naar de opeenvolgende Europese titels behaald met FC Porto.
+    - id: 25
+      question: Welke voormalige roodharige PSG-voetballer had Igor als zijn voornaam ?
+      propositions:
+      - Igor Chalimov
+      - Igor Akinfeïev
+      - Igor Denissov
+      - Igor Yanovski
+      réponse: Igor Yanovski
+      anecdote: Deze Russische voetballer, verdediger van Paris Saint Germain van 1998 tot 2001, is nu gestopt met profvoetbal.
+    - id: 26
+      question: Wie werd uitgeroepen tot beste luchtvoetballer van de jaren 2000 ?
+      propositions:
+      - Koji Nakata
+      - Yoichi Doi
+      - Naohiro Takahara
+      - Seiichiro Maki
+      réponse: Koji Nakata
+      anecdote: Volgens een onderzoek van het tijdschrift France Football is Koji Nakata een van de slechtste rekruten in de geschiedenis van Olympique de Marseille.
+    - id: 27
+      question: Welk voetbalteam heeft de mode van het marcel in 2002 nieuw leven ingeblazen ?
+      propositions:
+      - Algerije
+      - Griekenland
+      - Kameroen
+      - Bolivia
+      réponse: Kameroen
+      anecdote: Les Lions Indomptables is de selectie van Kameroenese spelers die het land vertegenwoordigen in internationale competities.
+    - id: 28
+      question: Wie is de enige speler die van Bayern München naar Olympique Lyonnais is verhuisd ?
+      propositions:
+      - Giovane Élber
+      - Hans Nowak
+      - Diego Contento
+      - Thomas Linke
+      réponse: Giovane Élber
+      anecdote: Na een bevredigend eerste seizoen (10 goals in 27 wedstrijden) raakte Élber geblesseerd aan het begin van zijn tweede seizoen in Lyon.
+    - id: 29
+      question: Welke middenvelder was volgens Zinédine Zidane de beste ter wereld ?
+      propositions:
+      - Paul Robinson
+      - Frank Lampard
+      - Paul Scholes
+      - Wayne Rooney
+      réponse: Paul Scholes
+      anecdote: Met 700 optredens is hij de derde meest gespeelde speler voor Manchester United, achter Ryan Giggs en Bobby Charlton.
+    - id: 30
+      question: Waar tekende David Trezeguet na het spelen voor Juventus ?
+      propositions:
+      - Allicante
+      - Pune City
+      - River Plate
+      - Baniyas
+      réponse: Allicante
+      anecdote: Trezegol heeft drie World Cups gespeeld en won zowel de competitie in 1998 als het Europees Kampioenschap 2000.

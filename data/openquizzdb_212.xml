@@ -1,0 +1,2035 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes" ?>
+<quizz fournisseur="OpenQuizzDB : Fournisseur de contenu libre"
+       url="https://www.openquizzdb.org"
+       rédacteur="Philippe Bresoux"
+       thème="Golf (Accepter d'être imparfait)"
+       difficulté="3 / 5">
+  <fr>
+  <débutant>
+    <contenu id="1">
+      <question>Au golf, quel objet utilise-t-on pour envoyer la balle dans le trou ?</question>
+      <propositions>
+        <proposition id="1-1">Club</proposition>
+        <proposition id="1-2">Raquette</proposition>
+        <proposition id="1-3">Crosse</proposition>
+        <proposition id="1-4">Bâton</proposition>
+      </propositions>
+      <réponse proposition="1-1">Club</réponse>
+      <anecdote>Chaque club est composé d'un manche, d'un grip où le golfeur va venir poser ses mains et d'une tête en contact avec la balle.</anecdote>
+    </contenu>
+    <contenu id="2">
+      <question>Dans quel alphabet le mot Golf est-il associé à la lettre G ?</question>
+      <propositions>
+        <proposition id="2-1">Phonétique</proposition>
+        <proposition id="2-2">Sémaphore</proposition>
+        <proposition id="2-3">Gotique</proposition>
+        <proposition id="2-4">Radio</proposition>
+      </propositions>
+      <réponse proposition="2-4">Radio</réponse>
+      <anecdote>Un alphabet radio est un code utilisé en radiotéléphonie, qui consiste à représenter chaque lettre de l'alphabet par un mot entier.</anecdote>
+    </contenu>
+    <contenu id="3">
+      <question>Quel sportif a dominé le monde du golf masculin dans les années 2000 ?</question>
+      <propositions>
+        <proposition id="3-1">Payne Stewart</proposition>
+        <proposition id="3-2">Tiger Woods</proposition>
+        <proposition id="3-3">Curtis Strange</proposition>
+        <proposition id="3-4">Raymond Floyd</proposition>
+      </propositions>
+      <réponse proposition="3-2">Tiger Woods</réponse>
+      <anecdote>À la suite du scandale sur ses infidélités, il annoncera se retirer du circuit de golf professionnel pour une période indéterminée.</anecdote>
+    </contenu>
+    <contenu id="4">
+      <question>Combien de trous un parcours de golf classique compte-t-il généralement ?</question>
+      <propositions>
+        <proposition id="4-1">16</proposition>
+        <proposition id="4-2">14</proposition>
+        <proposition id="4-3">12</proposition>
+        <proposition id="4-4">18</proposition>
+      </propositions>
+      <réponse proposition="4-4">18</réponse>
+      <anecdote>Sur un parcours de 9 trous, il s'agit parfois de réaliser 9 trous dans un sens (aller) puis dans l'autre (retour), soit un total de 18 trous.</anecdote>
+    </contenu>
+    <contenu id="5">
+      <question>En golf, quelle pièce de sable permet de pimenter parfois considérablement le jeu ?</question>
+      <propositions>
+        <proposition id="5-1">Chip</proposition>
+        <proposition id="5-2">Bunker</proposition>
+        <proposition id="5-3">Grip</proposition>
+        <proposition id="5-4">Dropper</proposition>
+      </propositions>
+      <réponse proposition="5-2">Bunker</réponse>
+      <anecdote>Un parcours de golf fait l'objet de soins très attentifs tout au long de l'année et plus particulièrement durant la saison golfique.</anecdote>
+    </contenu>
+    <contenu id="6">
+      <question>Quel nom donne-t-on à la zone d'herbe située autour du trou au golf ?</question>
+      <propositions>
+        <proposition id="6-1">Fairway</proposition>
+        <proposition id="6-2">Pré-rough</proposition>
+        <proposition id="6-3">Green</proposition>
+        <proposition id="6-4">Rough</proposition>
+      </propositions>
+      <réponse proposition="6-3">Green</réponse>
+      <anecdote>Des zones en réparation, délimitées par des piquets de couleur bleue, peuvent se rencontrer sur le parcours sans en faire partie.</anecdote>
+    </contenu>
+    <contenu id="7">
+      <question>Quel joueur surnommé The King a rendu le golf très populaire ?</question>
+      <propositions>
+        <proposition id="7-1">Jordan Spieth</proposition>
+        <proposition id="7-2">Martin Kaymer</proposition>
+        <proposition id="7-3">Arnold Palmer</proposition>
+        <proposition id="7-4">Justin Rose</proposition>
+      </propositions>
+      <réponse proposition="7-3">Arnold Palmer</réponse>
+      <anecdote>Il mit un terme à sa carrière sur le circuit professionnel à 75 ans par une cinquantième participation consécutive au Masters d'Augusta.</anecdote>
+    </contenu>
+    <contenu id="8">
+      <question>Quel nombre de coups standard est fixé pour terminer un trou au golf ?</question>
+      <propositions>
+        <proposition id="8-1">Par</proposition>
+        <proposition id="8-2">Birdie</proposition>
+        <proposition id="8-3">Bogey</proposition>
+        <proposition id="8-4">Eagle</proposition>
+      </propositions>
+      <réponse proposition="8-1">Par</réponse>
+      <anecdote>Habituellement, sur un parcours de 18 trous, le par est de 72 : cette moyenne est calculée en fonction des par de chaque trou.</anecdote>
+    </contenu>
+    <contenu id="9">
+      <question>Quelle personne est la seule autorisée à conseiller un joueur sur le terrain ?</question>
+      <propositions>
+        <proposition id="9-1">Caddie</proposition>
+        <proposition id="9-2">Shaft</proposition>
+        <proposition id="9-3">Practice</proposition>
+        <proposition id="9-4">Hook</proposition>
+      </propositions>
+      <réponse proposition="9-1">Caddie</réponse>
+      <anecdote>Un caddie est présent pour permettre au joueur de se concentrer uniquement sur son jeu en lui évitant la plupart des corvées.</anecdote>
+    </contenu>
+    <contenu id="10">
+      <question>Quelle est la langue officielle du golf, fixée en raison de ses origines ?</question>
+      <propositions>
+        <proposition id="10-1">Anglais</proposition>
+        <proposition id="10-2">Allemand</proposition>
+        <proposition id="10-3">Espagnol</proposition>
+        <proposition id="10-4">Français</proposition>
+      </propositions>
+      <réponse proposition="10-1">Anglais</réponse>
+      <anecdote>Dans les règles de golf, la Fédération française de golf utilise les termes anglais lorsque ceux-ci sont utilisés par les golfeurs.</anecdote>
+    </contenu>
+  </débutant>
+  <confirmé>
+    <contenu id="11">
+      <question>Quel précurseur du golf moderne est surnommé The Golden Bear ?</question>
+      <propositions>
+        <proposition id="11-1">Lucas Glover</proposition>
+        <proposition id="11-2">Jack Nicklaus</proposition>
+        <proposition id="11-3">Michael Campbell</proposition>
+        <proposition id="11-4">Webb Simpson</proposition>
+      </propositions>
+      <réponse proposition="11-2">Jack Nicklaus</réponse>
+      <anecdote>C'est le développement de la rivalité entre Jack Nicklaus et Arnold Palmer qui développa un certain intérêt des téléspectateurs pour le golf.</anecdote>
+    </contenu>
+    <contenu id="12">
+      <question>Lors de quels Jeux olympiques le golf a-t-il fait son retour après 112 ans d'absence ?</question>
+      <propositions>
+        <proposition id="12-1">Londres 2012</proposition>
+        <proposition id="12-2">Sydney 2000</proposition>
+        <proposition id="12-3">Pékin 2008</proposition>
+        <proposition id="12-4">Rio 2016</proposition>
+      </propositions>
+      <réponse proposition="12-4">Rio 2016</réponse>
+      <anecdote>Des épreuves de golf furent disputées lors des Jeux olympiques de Paris de 1900 et de nouveau en 1904 à Saint-Louis.</anecdote>
+    </contenu>
+    <contenu id="13">
+      <question>Combien de trous contenait le premier parcours de Saint Andrews ?</question>
+      <propositions>
+        <proposition id="13-1">26</proposition>
+        <proposition id="13-2">34</proposition>
+        <proposition id="13-3">30</proposition>
+        <proposition id="13-4">22</proposition>
+      </propositions>
+      <réponse proposition="13-4">22</réponse>
+      <anecdote>Le parcours comptait vingt-deux trous au départ avant d'être amputé de sa longueur pour la construction de maisons.</anecdote>
+    </contenu>
+    <contenu id="14">
+      <question>Quel espagnol a fait connaître le golf en dehors de ses pays traditionnels ?</question>
+      <propositions>
+        <proposition id="14-1">Aaron</proposition>
+        <proposition id="14-2">Casper</proposition>
+        <proposition id="14-3">Coody</proposition>
+        <proposition id="14-4">Ballesteros</proposition>
+      </propositions>
+      <réponse proposition="14-4">Ballesteros</réponse>
+      <anecdote>Plusieurs fois numéro un mondial entre 1986 et 1989, il a été l'une des figures de proue de ce sport depuis le milieu des années 1970.</anecdote>
+    </contenu>
+    <contenu id="15">
+      <question>En golf, par quoi est délimité un obstacle d'eau qui traverse un trou ?</question>
+      <propositions>
+        <proposition id="15-1">Piquet jaune</proposition>
+        <proposition id="15-2">Barrière blanche</proposition>
+        <proposition id="15-3">Drapeau bleu</proposition>
+        <proposition id="15-4">Balle rouge</proposition>
+      </propositions>
+      <réponse proposition="15-1">Piquet jaune</réponse>
+      <anecdote>Un parcours peut présenter des parties arborées, des buissons, mais aussi des plans d'eau ou ruisseaux que l'on nomme obstacles d'eau.</anecdote>
+    </contenu>
+    <contenu id="16">
+      <question>En golf, quel terme anglophone est utilisé si vous faites un coup sous le par ?</question>
+      <propositions>
+        <proposition id="16-1">Birdie</proposition>
+        <proposition id="16-2">Eagle</proposition>
+        <proposition id="16-3">Albatros</proposition>
+        <proposition id="16-4">Bogey</proposition>
+      </propositions>
+      <réponse proposition="16-1">Birdie</réponse>
+      <anecdote>Le Birdie putt signifie quant à lui que si la balle tombe dans le trou à la suite de ce putt, le joueur enregistrera un birdie.</anecdote>
+    </contenu>
+    <contenu id="17">
+      <question>Quelle star du golf a remporté le Masters et l'Open britannique en 1990 ?</question>
+      <propositions>
+        <proposition id="17-1">Dustin Johnson</proposition>
+        <proposition id="17-2">Larry Nelson</proposition>
+        <proposition id="17-3">Tom Watson</proposition>
+        <proposition id="17-4">Nick Faldo</proposition>
+      </propositions>
+      <réponse proposition="17-4">Nick Faldo</réponse>
+      <anecdote>Il remporte de nouveau en 1990 le titre de European Tour Player of the Year, auquel il ajoute le titre de Player of the Year du PGA Tour.</anecdote>
+    </contenu>
+    <contenu id="18">
+      <question>Laquelle de ces propositions ne correspond pas à une dénomination d'un club de golf ?</question>
+      <propositions>
+        <proposition id="18-1">Bois</proposition>
+        <proposition id="18-2">Putter</proposition>
+        <proposition id="18-3">Fer</proposition>
+        <proposition id="18-4">Eagle</proposition>
+      </propositions>
+      <réponse proposition="18-4">Eagle</réponse>
+      <anecdote>Au départ d'un parcours, un golfeur doit au maximum emporter quatorze clubs avec lui : le choix est donc déterminant.</anecdote>
+    </contenu>
+    <contenu id="19">
+      <question>Quel club de golf permet d'envoyer la balle assez loin avec une trajectoire tendue ?</question>
+      <propositions>
+        <proposition id="19-1">Fer</proposition>
+        <proposition id="19-2">Hybride</proposition>
+        <proposition id="19-3">Bois</proposition>
+        <proposition id="19-4">Putter</proposition>
+      </propositions>
+      <réponse proposition="19-3">Bois</réponse>
+      <anecdote>Les bois existent dans les tailles 1, 3, 5, 7 et 9, mais peuvent aller jusqu'à 13. Ils sont également appelés bois de parcours.</anecdote>
+    </contenu>
+    <contenu id="20">
+      <question>Quel effet permet à une balle de golf d'être fortement ralentie à l'impact ?</question>
+      <propositions>
+        <proposition id="20-1">Swing</proposition>
+        <proposition id="20-2">Backspin</proposition>
+        <proposition id="20-3">Topspin</proposition>
+        <proposition id="20-4">Stance</proposition>
+      </propositions>
+      <réponse proposition="20-2">Backspin</réponse>
+      <anecdote>Souvent utilisé pendant les approches du green, une balle avec du backspin tombera puis repartira en arrière sur une distance variable.</anecdote>
+    </contenu>
+  </confirmé>
+  <expert>
+    <contenu id="21">
+      <question>Dans quel pays le golf a-t-il été pour la première fois codifié en 1754 ?</question>
+      <propositions>
+        <proposition id="21-1">Espagne</proposition>
+        <proposition id="21-2">Australie</proposition>
+        <proposition id="21-3">Allemagne</proposition>
+        <proposition id="21-4">Écosse</proposition>
+      </propositions>
+      <réponse proposition="21-4">Écosse</réponse>
+      <anecdote>Codifié en Écosse en 1754 par le Royal And Ancient Golf Club de Saint Andrews, ce sport a des origines diverses dont le jeu de mail.</anecdote>
+    </contenu>
+    <contenu id="22">
+      <question>Combien de pratiquants de golf réguliers dasn le monde comptait-on en 2010 ?</question>
+      <propositions>
+        <proposition id="22-1">82 millions</proposition>
+        <proposition id="22-2">74 millions</proposition>
+        <proposition id="22-3">57 millions</proposition>
+        <proposition id="22-4">63 millions</proposition>
+      </propositions>
+      <réponse proposition="22-1">82 millions</réponse>
+      <anecdote>Mondialisé à la fin du XXe siècle, le golf est moins pratiqué par les femmes et souffre d'un traitement médiatique et financier inégal.</anecdote>
+    </contenu>
+    <contenu id="23">
+      <question>Quel avocat de profession était surnommé le Mozart du golf ?</question>
+      <propositions>
+        <proposition id="23-1">Alec Ross</proposition>
+        <proposition id="23-2">Alex Smith</proposition>
+        <proposition id="23-3">Chick Evans</proposition>
+        <proposition id="23-4">Bobby Jones</proposition>
+      </propositions>
+      <réponse proposition="23-4">Bobby Jones</réponse>
+      <anecdote>Golfeur amateur le plus accompli sur le plan national et international, il ne disputa que 53 tournois et en remporta 23.</anecdote>
+    </contenu>
+    <contenu id="24">
+      <question>En quelle année fut disputé le premier Open britannique pro ?</question>
+      <propositions>
+        <proposition id="24-1">1950</proposition>
+        <proposition id="24-2">1920</proposition>
+        <proposition id="24-3">1860</proposition>
+        <proposition id="24-4">1890</proposition>
+      </propositions>
+      <réponse proposition="24-3">1860</réponse>
+      <anecdote>Tournoi de référence jusqu'aux années 1930, l'Open britannique pro devient l'un des tournois du grand chelem dans les années 1960.</anecdote>
+    </contenu>
+    <contenu id="25">
+      <question>Comment le golf était-il appelé à ses débuts aux Pays-Bas ?</question>
+      <propositions>
+        <proposition id="25-1">Dolf</proposition>
+        <proposition id="25-2">Wolf</proposition>
+        <proposition id="25-3">Rolf</proposition>
+        <proposition id="25-4">Colf</proposition>
+      </propositions>
+      <réponse proposition="25-4">Colf</réponse>
+      <anecdote>En raison des nombreux échanges entre les Pays-Bas et l'Écosse, les Hollandais exportèrent ce jeu (dérivé de kolbe signifiant bâton).</anecdote>
+    </contenu>
+    <contenu id="26">
+      <question>Dans quelle ville s'est installé en 1627 le premier fabricant de clubs de golf ?</question>
+      <propositions>
+        <proposition id="26-1">Saint Andrews</proposition>
+        <proposition id="26-2">Oslo</proposition>
+        <proposition id="26-3">Dublin</proposition>
+        <proposition id="26-4">Londres</proposition>
+      </propositions>
+      <réponse proposition="26-1">Saint Andrews</réponse>
+      <anecdote>Cette ville écossaise est située sur la côte de la mer du Nord entre Édimbourg et Dundee et compte 15 000 habitants.</anecdote>
+    </contenu>
+    <contenu id="27">
+      <question>Combien de touristes en moyenne viennent jouer au golf en Thaïlande chaque année ?</question>
+      <propositions>
+        <proposition id="27-1">100 000</proposition>
+        <proposition id="27-2">300 000</proposition>
+        <proposition id="27-3">200 000</proposition>
+        <proposition id="27-4">400 000</proposition>
+      </propositions>
+      <réponse proposition="27-4">400 000</réponse>
+      <anecdote>La Thaïlande a fait du golf un article de promotion touristique en leur proposant à ce jour un catalogue de 280 parcours différents.</anecdote>
+    </contenu>
+    <contenu id="28">
+      <question>Quel pesticide très utilisé sur les terrains de golf a été interdit aux États-Unis ?</question>
+      <propositions>
+        <proposition id="28-1">Firponil</proposition>
+        <proposition id="28-2">Diazinon</proposition>
+        <proposition id="28-3">Novaluron</proposition>
+        <proposition id="28-4">Spinosad</proposition>
+      </propositions>
+      <réponse proposition="28-2">Diazinon</réponse>
+      <anecdote>Le diazinon était autrefois utilisé pour contrôler l'invasion des cancrelats, du poisson d'argent, des fourmis et des puces.</anecdote>
+    </contenu>
+    <contenu id="29">
+      <question>Combien de dépressions comportent la plupart des balles de golf mises en vente ?</question>
+      <propositions>
+        <proposition id="29-1">150</proposition>
+        <proposition id="29-2">450</proposition>
+        <proposition id="29-3">600</proposition>
+        <proposition id="29-4">300</proposition>
+      </propositions>
+      <réponse proposition="29-2">450</réponse>
+      <anecdote>L'impact d'une balle frappée (une milliseconde) détermine la vitesse de la balle, son angle de tir ainsi que sa vitesse de rotation.</anecdote>
+    </contenu>
+    <contenu id="30">
+      <question>Quel est le plus populaire des circuits de golf féminin ?</question>
+      <propositions>
+        <proposition id="30-1">CGSP</proposition>
+        <proposition id="30-2">FGTB</proposition>
+        <proposition id="30-3">LPGA</proposition>
+        <proposition id="30-4">BKCP</proposition>
+      </propositions>
+      <réponse proposition="30-3">LPGA</réponse>
+      <anecdote>En 2017, le circuit professionnel de golf féminin était doté au total de 67 millions de dollars contre 58 millions de dollars en 2008.</anecdote>
+    </contenu>
+  </expert>
+  </fr>  
+  <en>
+  <débutant>
+    <contenu id="1">
+      <question>In golf, what object is used to send the ball into the hole ?</question>
+      <propositions>
+        <proposition id="1-1">Stick</proposition>
+        <proposition id="1-2">Crosse</proposition>
+        <proposition id="1-3">Racquet</proposition>
+        <proposition id="1-4">Club</proposition>
+      </propositions>
+      <réponse proposition="1-4">Club</réponse>
+      <anecdote>Each club is composed of a handle, a grip where the golfer will come to put his hands and a head in contact with the ball.</anecdote>
+    </contenu>
+    <contenu id="2">
+      <question>In which alphabet is the word Golf associated with the letter G ?</question>
+      <propositions>
+        <proposition id="2-1">Radio</proposition>
+        <proposition id="2-2">Phonetic</proposition>
+        <proposition id="2-3">Semaphore</proposition>
+        <proposition id="2-4">Gothic</proposition>
+      </propositions>
+      <réponse proposition="2-1">Radio</réponse>
+      <anecdote>A radio alphabet is a code used in radio, which consists of representing each letter of the alphabet by an entire word.</anecdote>
+    </contenu>
+    <contenu id="3">
+      <question>Which sportsman dominated the world of men's golf in the 2000s ?</question>
+      <propositions>
+        <proposition id="3-1">Tiger Woods</proposition>
+        <proposition id="3-2">Payne Stewart</proposition>
+        <proposition id="3-3">Curtis Strange</proposition>
+        <proposition id="3-4">Raymond Floyd</proposition>
+      </propositions>
+      <réponse proposition="3-1">Tiger Woods</réponse>
+      <anecdote>Following the scandal over his infidelities, he announced that he would retire from the professional golf circuit for an indefinite period.</anecdote>
+    </contenu>
+    <contenu id="4">
+      <question>How many holes does a typical golf course have in general ?</question>
+      <propositions>
+        <proposition id="4-1">18</proposition>
+        <proposition id="4-2">14</proposition>
+        <proposition id="4-3">12</proposition>
+        <proposition id="4-4">16</proposition>
+      </propositions>
+      <réponse proposition="4-1">18</réponse>
+      <anecdote>On a course of 9 holes, it is sometimes necessary to realize 9 holes in a direction (go) then in the other (return), that is a total of 18 holes.</anecdote>
+    </contenu>
+    <contenu id="5">
+      <question>In golf, which piece of sand can spice the game considerably ?</question>
+      <propositions>
+        <proposition id="5-1">Bunker</proposition>
+        <proposition id="5-2">Dropper</proposition>
+        <proposition id="5-3">Chip</proposition>
+        <proposition id="5-4">Grip</proposition>
+      </propositions>
+      <réponse proposition="5-1">Bunker</réponse>
+      <anecdote>A golf course is very carefully cared for throughout the year and especially during the golf season.</anecdote>
+    </contenu>
+    <contenu id="6">
+      <question>What name is given to the grass area around the golf hole ?</question>
+      <propositions>
+        <proposition id="6-1">Fairway</proposition>
+        <proposition id="6-2">Green</proposition>
+        <proposition id="6-3">Pre-rough</proposition>
+        <proposition id="6-4">Rough</proposition>
+      </propositions>
+      <réponse proposition="6-2">Green</réponse>
+      <anecdote>Repaired areas, bounded by blue stakes, can meet on the course without being part of it.</anecdote>
+    </contenu>
+    <contenu id="7">
+      <question>Which player nicknamed The King made golf very popular ?</question>
+      <propositions>
+        <proposition id="7-1">Jordan Spieth</proposition>
+        <proposition id="7-2">Justin Rose</proposition>
+        <proposition id="7-3">Arnold Palmer</proposition>
+        <proposition id="7-4">Martin Kaymer</proposition>
+      </propositions>
+      <réponse proposition="7-3">Arnold Palmer</réponse>
+      <anecdote>He ended his career on the professional circuit at age 75 with a fiftieth consecutive participation in the Augusta Masters.</anecdote>
+    </contenu>
+    <contenu id="8">
+      <question>How many standard shots are set to finish a hole in golf ?</question>
+      <propositions>
+        <proposition id="8-1">By</proposition>
+        <proposition id="8-2">Bogey</proposition>
+        <proposition id="8-3">Eagle</proposition>
+        <proposition id="8-4">Birdie</proposition>
+      </propositions>
+      <réponse proposition="8-1">By</réponse>
+      <anecdote>Usually, on a course of 18 holes, the par is 72 : this average is computed according to par of each hole.</anecdote>
+    </contenu>
+    <contenu id="9">
+      <question>Who is the only person allowed to advise a player on the field ?</question>
+      <propositions>
+        <proposition id="9-1">Hook</proposition>
+        <proposition id="9-2">Shaft</proposition>
+        <proposition id="9-3">Shopping Cart</proposition>
+        <proposition id="9-4">Practice</proposition>
+      </propositions>
+      <réponse proposition="9-3">Shopping Cart</réponse>
+      <anecdote>A caddy is present to allow the player to focus solely on his game by avoiding most chores.</anecdote>
+    </contenu>
+    <contenu id="10">
+      <question>What is the official language of golf, set because of its origins ?</question>
+      <propositions>
+        <proposition id="10-1">German</proposition>
+        <proposition id="10-2">French</proposition>
+        <proposition id="10-3">Spanish</proposition>
+        <proposition id="10-4">English</proposition>
+      </propositions>
+      <réponse proposition="10-4">English</réponse>
+      <anecdote>In the rules of golf, the French Golf Federation uses the English terms when they are used by golfers.</anecdote>
+    </contenu>
+  </débutant>
+  <confirmé>
+    <contenu id="11">
+      <question>What precursor of modern golf is nicknamed The Golden Bear ?</question>
+      <propositions>
+        <proposition id="11-1">Webb Simpson</proposition>
+        <proposition id="11-2">Jack Nicklaus</proposition>
+        <proposition id="11-3">Lucas Glover</proposition>
+        <proposition id="11-4">Michael Campbell</proposition>
+      </propositions>
+      <réponse proposition="11-2">Jack Nicklaus</réponse>
+      <anecdote>It was the development of Jack Nicklaus' rivalry with Arnold Palmer that developed a certain interest for golf viewers.</anecdote>
+    </contenu>
+    <contenu id="12">
+      <question>At which Olympic Games did golf return after 112 years of absence ?</question>
+      <propositions>
+        <proposition id="12-1">London 2012</proposition>
+        <proposition id="12-2">Rio 2016</proposition>
+        <proposition id="12-3">Sydney 2000</proposition>
+        <proposition id="12-4">Beijing 2008</proposition>
+      </propositions>
+      <réponse proposition="12-2">Rio 2016</réponse>
+      <anecdote>Golf competitions were held during the Paris Olympic Games of 1900 and again in 1904 in Saint-Louis.</anecdote>
+    </contenu>
+    <contenu id="13">
+      <question>How many holes contained the first course of Saint Andrews ?</question>
+      <propositions>
+        <proposition id="13-1">30</proposition>
+        <proposition id="13-2">34</proposition>
+        <proposition id="13-3">26</proposition>
+        <proposition id="13-4">22</proposition>
+      </propositions>
+      <réponse proposition="13-4">22</réponse>
+      <anecdote>The course had twenty-two holes at the beginning before being cut down for the construction of houses.</anecdote>
+    </contenu>
+    <contenu id="14">
+      <question>What Spanish did golf know apart from its traditional countries ?</question>
+      <propositions>
+        <proposition id="14-1">Casper</proposition>
+        <proposition id="14-2">Coody</proposition>
+        <proposition id="14-3">Ballesteros</proposition>
+        <proposition id="14-4">Aaron</proposition>
+      </propositions>
+      <réponse proposition="14-3">Ballesteros</réponse>
+      <anecdote>Numerous times a world between 1986 and 1989, he has been one of the leading figures of the sport since the mid-1970s.</anecdote>
+    </contenu>
+    <contenu id="15">
+      <question>In golf, what is the limit of a water obstacle that crosses a hole ?</question>
+      <propositions>
+        <proposition id="15-1">Yellow picket</proposition>
+        <proposition id="15-2">Blue Flag</proposition>
+        <proposition id="15-3">Red ball</proposition>
+        <proposition id="15-4">White barrier</proposition>
+      </propositions>
+      <réponse proposition="15-1">Yellow picket</réponse>
+      <anecdote>A route can present tree parts, bushes, but also water bodies or streams that are called water hazards.</anecdote>
+    </contenu>
+    <contenu id="16">
+      <question>In golf, which anglophone term is used if you make a shot under the par ?</question>
+      <propositions>
+        <proposition id="16-1">Birdie</proposition>
+        <proposition id="16-2">Albatross</proposition>
+        <proposition id="16-3">Eagle</proposition>
+        <proposition id="16-4">Bogey</proposition>
+      </propositions>
+      <réponse proposition="16-1">Birdie</réponse>
+      <anecdote>The Birdie putt signifies that if the ball falls into the hole as a result of this putt, the player will record a birdie.</anecdote>
+    </contenu>
+    <contenu id="17">
+      <question>Which golf star won the Masters and the British Open in 1990 ?</question>
+      <propositions>
+        <proposition id="17-1">Tom Watson</proposition>
+        <proposition id="17-2">Larry Nelson</proposition>
+        <proposition id="17-3">Nick Faldo</proposition>
+        <proposition id="17-4">Dustin Johnson</proposition>
+      </propositions>
+      <réponse proposition="17-3">Nick Faldo</réponse>
+      <anecdote>He won again in 1990 the title of European Tour Player of the Year, to which he adds the title of Player of the Year of the PGA Tour.</anecdote>
+    </contenu>
+    <contenu id="18">
+      <question>Which of these proposals does not correspond to a name of a golf club ?</question>
+      <propositions>
+        <proposition id="18-1">Eagle</proposition>
+        <proposition id="18-2">Wood</proposition>
+        <proposition id="18-3">Iron</proposition>
+        <proposition id="18-4">Putter</proposition>
+      </propositions>
+      <réponse proposition="18-1">Eagle</réponse>
+      <anecdote>At the start of a course, a golfer must carry a maximum of fourteen clubs with him: the choice is therefore decisive.</anecdote>
+    </contenu>
+    <contenu id="19">
+      <question>Which golf club can send the ball far enough with a tense trajectory ?</question>
+      <propositions>
+        <proposition id="19-1">Hybrid</proposition>
+        <proposition id="19-2">Iron</proposition>
+        <proposition id="19-3">Wood</proposition>
+        <proposition id="19-4">Putter</proposition>
+      </propositions>
+      <réponse proposition="19-3">Wood</réponse>
+      <anecdote>The woods exist in sizes 1, 3, 5, 7 and 9, but can go up to 13.</anecdote>
+    </contenu>
+    <contenu id="20">
+      <question>What effect does a golf ball have on being strongly slowed down to impact ?</question>
+      <propositions>
+        <proposition id="20-1">Stance</proposition>
+        <proposition id="20-2">Swing</proposition>
+        <proposition id="20-3">Backspin</proposition>
+        <proposition id="20-4">Topspin</proposition>
+      </propositions>
+      <réponse proposition="20-3">Backspin</réponse>
+      <anecdote>Often used during approaches to the green, a ball with backspin will fall and then go back a variable distance.</anecdote>
+    </contenu>
+  </confirmé>
+  <expert>
+    <contenu id="21">
+      <question>In which country was golf for the first time codified in 1754 ?</question>
+      <propositions>
+        <proposition id="21-1">Germany</proposition>
+        <proposition id="21-2">Australia</proposition>
+        <proposition id="21-3">Scotland</proposition>
+        <proposition id="21-4">Spain</proposition>
+      </propositions>
+      <réponse proposition="21-3">Scotland</réponse>
+      <anecdote>Codified in Scotland in 1754 by the Royal And Ancient Golf Club of Saint Andrews, this sport has various origins including the game of mail.</anecdote>
+    </contenu>
+    <contenu id="22">
+      <question>How many regular golfers in the world did we count in 2010 ?</question>
+      <propositions>
+        <proposition id="22-1">57 million</proposition>
+        <proposition id="22-2">74 million</proposition>
+        <proposition id="22-3">63 million</proposition>
+        <proposition id="22-4">82 million</proposition>
+      </propositions>
+      <réponse proposition="22-4">82 million</réponse>
+      <anecdote>Globalized in the late twentieth century, golf is less practiced by women and suffers from unequal media and financial treatment.</anecdote>
+    </contenu>
+    <contenu id="23">
+      <question>What professional lawyer was nicknamed the Mozart of golf ?</question>
+      <propositions>
+        <proposition id="23-1">Alex Smith</proposition>
+        <proposition id="23-2">Chick Evans</proposition>
+        <proposition id="23-3">Alec Ross</proposition>
+        <proposition id="23-4">Bobby Jones</proposition>
+      </propositions>
+      <réponse proposition="23-4">Bobby Jones</réponse>
+      <anecdote>The most accomplished amateur golfer nationally and internationally, he played only 53 tournaments and won 23.</anecdote>
+    </contenu>
+    <contenu id="24">
+      <question>In which year was the first British Open pro played ?</question>
+      <propositions>
+        <proposition id="24-1">1890</proposition>
+        <proposition id="24-2">1950</proposition>
+        <proposition id="24-3">1920</proposition>
+        <proposition id="24-4">1860</proposition>
+      </propositions>
+      <réponse proposition="24-4">1860</réponse>
+      <anecdote>Referee tournament until the 1930s, the British Open Pro became one of the Grand Slam tournaments in the 1960s.</anecdote>
+    </contenu>
+    <contenu id="25">
+      <question>How was golf called for its beginnings in the Netherlands ?</question>
+      <propositions>
+        <proposition id="25-1">Wolf</proposition>
+        <proposition id="25-2">Colf</proposition>
+        <proposition id="25-3">Dolf</proposition>
+        <proposition id="25-4">Rolf</proposition>
+      </propositions>
+      <réponse proposition="25-2">Colf</réponse>
+      <anecdote>Because of the many exchanges between the Netherlands and Scotland, the Dutch exported this game (kolbe deed meaning concrete).</anecdote>
+    </contenu>
+    <contenu id="26">
+      <question>In which city did it settle in 1627 the first manufacturer of golf clubs ?</question>
+      <propositions>
+        <proposition id="26-1">Oslo</proposition>
+        <proposition id="26-2">Dublin</proposition>
+        <proposition id="26-3">Saint Andrews</proposition>
+        <proposition id="26-4">London</proposition>
+      </propositions>
+      <réponse proposition="26-3">Saint Andrews</réponse>
+      <anecdote>This Scottish city is located on the North Sea coast between Edinburgh and Dundee and has a population of 15,000.</anecdote>
+    </contenu>
+    <contenu id="27">
+      <question>How many tourists on average come to play golf in Thailand each year ?</question>
+      <propositions>
+        <proposition id="27-1">200,000</proposition>
+        <proposition id="27-2">100,000</proposition>
+        <proposition id="27-3">400,000</proposition>
+        <proposition id="27-4">300,000</proposition>
+      </propositions>
+      <réponse proposition="27-3">400,000</réponse>
+      <anecdote>Thailand has made golf a tourism promotion article by offering them a catalog of 280 different courses.</anecdote>
+    </contenu>
+    <contenu id="28">
+      <question>Which pesticide used on golf courses has been banned in the United States ?</question>
+      <propositions>
+        <proposition id="28-1">Spinosad</proposition>
+        <proposition id="28-2">Novaluron</proposition>
+        <proposition id="28-3">Diazinon</proposition>
+        <proposition id="28-4">Firponil</proposition>
+      </propositions>
+      <réponse proposition="28-3">Diazinon</réponse>
+      <anecdote>Diazinon was once used to control the invasion of cockroaches, silverfish, ants and fleas.</anecdote>
+    </contenu>
+    <contenu id="29">
+      <question>How many depressions do most golf balls put on sale ?</question>
+      <propositions>
+        <proposition id="29-1">300</proposition>
+        <proposition id="29-2">150</proposition>
+        <proposition id="29-3">600</proposition>
+        <proposition id="29-4">450</proposition>
+      </propositions>
+      <réponse proposition="29-4">450</réponse>
+      <anecdote>The impact of a hit ball (one millisecond) determines the speed of the ball, its angle of fire and its speed of rotation.</anecdote>
+    </contenu>
+    <contenu id="30">
+      <question>What is the most popular female golf course ?</question>
+      <propositions>
+        <proposition id="30-1">BKCP</proposition>
+        <proposition id="30-2">CGSP</proposition>
+        <proposition id="30-3">FGTB</proposition>
+        <proposition id="30-4">LPGA</proposition>
+      </propositions>
+      <réponse proposition="30-4">LPGA</réponse>
+      <anecdote>In 2017, the total female golf tour was $ 67 million, up from $ 58 million in 2008.</anecdote>
+    </contenu>
+  </expert>
+  </en>
+  <de>
+  <débutant>
+    <contenu id="1">
+      <question>Welches Objekt wird beim Golf verwendet, um den Ball in das Loch zu befördern ?</question>
+      <propositions>
+        <proposition id="1-1">Crosse</proposition>
+        <proposition id="1-2">Club</proposition>
+        <proposition id="1-3">Schläger</proposition>
+        <proposition id="1-4">Stab</proposition>
+      </propositions>
+      <réponse proposition="1-2">Club</réponse>
+      <anecdote>Jeder Schläger besteht aus einem Griff, ohne dass der Golfer seine Hände und einen Kopf in Kontakt mit dem Ball bringt.</anecdote>
+    </contenu>
+    <contenu id="2">
+      <question>In welchem Alphabet steht das Wort Golf für den Buchstaben G ?</question>
+      <propositions>
+        <proposition id="2-1">Gothic</proposition>
+        <proposition id="2-2">Radio</proposition>
+        <proposition id="2-3">Phonetisch</proposition>
+        <proposition id="2-4">Semaphore</proposition>
+      </propositions>
+      <réponse proposition="2-2">Radio</réponse>
+      <anecdote>Ein Radioalphabet ist ein Code, der im Radio verwendet wird und darin besteht, jeden Buchstaben des Alphabets durch ein ganzes Wort darzustellen.</anecdote>
+    </contenu>
+    <contenu id="3">
+      <question>Welcher Sportler dominierte in den 2000er Jahren das Männergolf ?</question>
+      <propositions>
+        <proposition id="3-1">Curtis Strange</proposition>
+        <proposition id="3-2">Tiger Woods</proposition>
+        <proposition id="3-3">Raymond Floyd</proposition>
+        <proposition id="3-4">Payne Stewart</proposition>
+      </propositions>
+      <réponse proposition="3-2">Tiger Woods</réponse>
+      <anecdote>Nach dem Skandal um seine Untreue kündigte er an, sich auf unbestimmte Zeit aus dem professionellen Golfsport zurückzuziehen.</anecdote>
+    </contenu>
+    <contenu id="4">
+      <question>Wie viele Löcher hat ein typischer Golfplatz im Allgemeinen ?</question>
+      <propositions>
+        <proposition id="4-1">16</proposition>
+        <proposition id="4-2">18</proposition>
+        <proposition id="4-3">12</proposition>
+        <proposition id="4-4">14</proposition>
+      </propositions>
+      <réponse proposition="4-2">18</réponse>
+      <anecdote>Auf einem Kurs von 9 Löchern ist es manchmal notwendig, 9 Löcher in einer Richtung (gehen) als in der anderen (zurück) zu realisieren, dh insgesamt 18 Löcher.</anecdote>
+    </contenu>
+    <contenu id="5">
+      <question>Welches Stück Sand kann das Golfspiel erheblich aufpeppen ?</question>
+      <propositions>
+        <proposition id="5-1">Bunker</proposition>
+        <proposition id="5-2">Tropfer</proposition>
+        <proposition id="5-3">Chip</proposition>
+        <proposition id="5-4">Griff</proposition>
+      </propositions>
+      <réponse proposition="5-1">Bunker</réponse>
+      <anecdote>Ein Golfplatz wird das ganze Jahr über und insbesondere während der Golfsaison sehr sorgfältig gepflegt.</anecdote>
+    </contenu>
+    <contenu id="6">
+      <question>Wie heißt die Rasenfläche um das Golfloch ?</question>
+      <propositions>
+        <proposition id="6-1">Fairway</proposition>
+        <proposition id="6-2">Grün</proposition>
+        <proposition id="6-3">Raue</proposition>
+        <proposition id="6-4">Pre-rough</proposition>
+      </propositions>
+      <réponse proposition="6-2">Grün</réponse>
+      <anecdote>Reparierte Bereiche, die von blauen Pfählen begrenzt sind, können sich auf der Strecke treffen, ohne ein Teil davon zu sein.</anecdote>
+    </contenu>
+    <contenu id="7">
+      <question>Welcher Spieler mit dem Spitznamen The King machte Golf sehr beliebt ?</question>
+      <propositions>
+        <proposition id="7-1">Justin Rose</proposition>
+        <proposition id="7-2">Arnold Palmer</proposition>
+        <proposition id="7-3">Jordan Spieth</proposition>
+        <proposition id="7-4">Martin Kaymer</proposition>
+      </propositions>
+      <réponse proposition="7-2">Arnold Palmer</réponse>
+      <anecdote>Mit 75 Jahren beendete er seine Karriere im professionellen Bereich mit der 50. Teilnahme am Augusta Masters in Folge.</anecdote>
+    </contenu>
+    <contenu id="8">
+      <question>Wie viele Standardschläge sind vorgesehen, um ein Loch im Golf zu beenden ?</question>
+      <propositions>
+        <proposition id="8-1">Von</proposition>
+        <proposition id="8-2">Bogey</proposition>
+        <proposition id="8-3">Adler</proposition>
+        <proposition id="8-4">Birdie</proposition>
+      </propositions>
+      <réponse proposition="8-1">Von</réponse>
+      <anecdote>Normalerweise beträgt der Par auf einem 18-Loch-Kurs 72 : Dieser Durchschnitt wird nach dem Par jedes Lochs berechnet.</anecdote>
+    </contenu>
+    <contenu id="9">
+      <question>Wer ist die einzige Person, die einen Spieler auf dem Spielfeld beraten darf ?</question>
+      <propositions>
+        <proposition id="9-1">Warenkorb</proposition>
+        <proposition id="9-2">Haken</proposition>
+        <proposition id="9-3">Welle</proposition>
+        <proposition id="9-4">Üben</proposition>
+      </propositions>
+      <réponse proposition="9-1">Warenkorb</réponse>
+      <anecdote>Ein Caddy ist vorhanden, um dem Spieler zu ermöglichen, sich ausschließlich auf sein Spiel zu konzentrieren, indem die meisten Aufgaben vermieden werden.</anecdote>
+    </contenu>
+    <contenu id="10">
+      <question>Was ist die offizielle Sprache des Golfsports, die aufgrund ihrer Herkunft festgelegt wurde ?</question>
+      <propositions>
+        <proposition id="10-1">Englisch</proposition>
+        <proposition id="10-2">Französisch</proposition>
+        <proposition id="10-3">Spanisch</proposition>
+        <proposition id="10-4">Deutsch</proposition>
+      </propositions>
+      <réponse proposition="10-1">Englisch</réponse>
+      <anecdote>In den Golfregeln verwendet der französische Golfverband die englischen Begriffe, wenn sie von Golfspielern verwendet werden.</anecdote>
+    </contenu>
+  </débutant>
+  <confirmé>
+    <contenu id="11">
+      <question>Welcher Vorläufer des modernen Golfsports trägt den Spitznamen </question>
+      <propositions>
+        <proposition id="11-1">Lucas Glover</proposition>
+        <proposition id="11-2">Michael Campbell</proposition>
+        <proposition id="11-3">Webb Simpson</proposition>
+        <proposition id="11-4">Jack Nicklaus</proposition>
+      </propositions>
+      <réponse proposition="11-4">Jack Nicklaus</réponse>
+      <anecdote>Es war die Entwicklung der Rivalität von Jack Nicklaus mit Arnold Palmer, die ein gewisses Interesse für die Golfzuschauer weckte.</anecdote>
+    </contenu>
+    <contenu id="12">
+      <question>Bei welchen Olympischen Spielen kehrte Golf nach 112 Jahren Abwesenheit zurück ?</question>
+      <propositions>
+        <proposition id="12-1">Sydney 2000</proposition>
+        <proposition id="12-2">London 2012</proposition>
+        <proposition id="12-3">Rio 2016</proposition>
+        <proposition id="12-4">Peking 2008</proposition>
+      </propositions>
+      <réponse proposition="12-3">Rio 2016</réponse>
+      <anecdote>Golfwettbewerbe fanden während der Olympischen Spiele in Paris von 1900 und erneut 1904 in Saint-Louis statt.</anecdote>
+    </contenu>
+    <contenu id="13">
+      <question>Wie viele Löcher enthielt der erste Platz von Saint Andrews ?</question>
+      <propositions>
+        <proposition id="13-1">30</proposition>
+        <proposition id="13-2">22</proposition>
+        <proposition id="13-3">26</proposition>
+        <proposition id="13-4">34</proposition>
+      </propositions>
+      <réponse proposition="13-2">22</réponse>
+      <anecdote>Der Platz hatte zu Beginn zweiundzwanzig Löcher, bevor er für den Bau von Häusern abgeholzt wurde.</anecdote>
+    </contenu>
+    <contenu id="14">
+      <question>Welches Spanisch kannte der Golfsport anders als seine traditionellen Länder ?</question>
+      <propositions>
+        <proposition id="14-1">Casper</proposition>
+        <proposition id="14-2">Coody</proposition>
+        <proposition id="14-3">Aaron</proposition>
+        <proposition id="14-4">Ballesteros</proposition>
+      </propositions>
+      <réponse proposition="14-4">Ballesteros</réponse>
+      <anecdote>Zwischen 1986 und 1989 war er mehrmals eine der führenden Figuren des Sports seit Mitte der 1970er Jahre.</anecdote>
+    </contenu>
+    <contenu id="15">
+      <question>Was ist die Grenze eines Wasserhindernisses, das ein Loch durchquert ?</question>
+      <propositions>
+        <proposition id="15-1">Blaue Flagge</proposition>
+        <proposition id="15-2">Rote Kugel</proposition>
+        <proposition id="15-3">Weiße Barriere</proposition>
+        <proposition id="15-4">Gelbe Streikposten</proposition>
+      </propositions>
+      <réponse proposition="15-4">Gelbe Streikposten</réponse>
+      <anecdote>Eine Route kann Baumteile, Büsche, aber auch Gewässer oder Bäche darstellen, die als Wasserhindernisse bezeichnet werden.</anecdote>
+    </contenu>
+    <contenu id="16">
+      <question>Welcher anglophone Begriff wird im Golf verwendet, wenn Sie einen Schlag unter die Latte machen ?</question>
+      <propositions>
+        <proposition id="16-1">Adler</proposition>
+        <proposition id="16-2">Birdie</proposition>
+        <proposition id="16-3">Bogey</proposition>
+        <proposition id="16-4">Albatros</proposition>
+      </propositions>
+      <réponse proposition="16-2">Birdie</réponse>
+      <anecdote>Der Birdie-Putt bedeutet, dass der Spieler einen Birdie aufnimmt, wenn der Ball durch diesen Putt in das Loch fällt.</anecdote>
+    </contenu>
+    <contenu id="17">
+      <question>Welcher Golfstar gewann 1990 das Masters und das British Open ?</question>
+      <propositions>
+        <proposition id="17-1">Nick Faldo</proposition>
+        <proposition id="17-2">Tom Watson</proposition>
+        <proposition id="17-3">Larry Nelson</proposition>
+        <proposition id="17-4">Dustin Johnson</proposition>
+      </propositions>
+      <réponse proposition="17-1">Nick Faldo</réponse>
+      <anecdote>1990 gewann er erneut den Titel European Tour Player of the Year, zu dem er den Titel Player of the Year auf der PGA Tour hinzufügte.</anecdote>
+    </contenu>
+    <contenu id="18">
+      <question>Welcher dieser Vorschläge entspricht nicht dem Namen eines Golfclubs ?</question>
+      <propositions>
+        <proposition id="18-1">Putter</proposition>
+        <proposition id="18-2">Adler</proposition>
+        <proposition id="18-3">Holz</proposition>
+        <proposition id="18-4">Eisen</proposition>
+      </propositions>
+      <réponse proposition="18-2">Adler</réponse>
+      <anecdote>Zu Beginn eines Platzes darf ein Golfer maximal vierzehn Schläger mitführen.</anecdote>
+    </contenu>
+    <contenu id="19">
+      <question>Welcher Golfschläger kann den Ball mit einer angespannten Flugbahn weit genug schicken ?</question>
+      <propositions>
+        <proposition id="19-1">Hybrid</proposition>
+        <proposition id="19-2">Holz</proposition>
+        <proposition id="19-3">Eisen</proposition>
+        <proposition id="19-4">Putter</proposition>
+      </propositions>
+      <réponse proposition="19-2">Holz</réponse>
+      <anecdote>Die Hölzer existieren in den Größen 1, 3, 5, 7 und 9, können aber bis zu 13 betragen.</anecdote>
+    </contenu>
+    <contenu id="20">
+      <question>Wie wirkt sich ein Golfball darauf aus, dass er beim Aufprall stark verlangsamt wird ?</question>
+      <propositions>
+        <proposition id="20-1">Haltung</proposition>
+        <proposition id="20-2">Schaukel</proposition>
+        <proposition id="20-3">Backspin</proposition>
+        <proposition id="20-4">Topspin</proposition>
+      </propositions>
+      <réponse proposition="20-3">Backspin</réponse>
+      <anecdote>Ein Ball mit Backspin, der oft bei Anflügen gegen das Green verwendet wird, fällt ab und geht dann auf einer variablen Distanz zurück.</anecdote>
+    </contenu>
+  </confirmé>
+  <expert>
+    <contenu id="21">
+      <question>In welchem Land wurde Golf 1754 erstmals kodifiziert ?</question>
+      <propositions>
+        <proposition id="21-1">Schottland</proposition>
+        <proposition id="21-2">Deutschland</proposition>
+        <proposition id="21-3">Spanien</proposition>
+        <proposition id="21-4">Australien</proposition>
+      </propositions>
+      <réponse proposition="21-1">Schottland</réponse>
+      <anecdote>Diese Sportart wurde 1754 in Schottland vom Royal And Ancient Golf Club in Saint Andrews kodifiziert und hat verschiedene Ursprünge, einschließlich des Postspiels.</anecdote>
+    </contenu>
+    <contenu id="22">
+      <question>Wie viele reguläre Golfer auf der Welt haben wir 2010 gezählt ?</question>
+      <propositions>
+        <proposition id="22-1">57 Millionen</proposition>
+        <proposition id="22-2">74 Millionen</proposition>
+        <proposition id="22-3">82 Millionen</proposition>
+        <proposition id="22-4">63 Millionen</proposition>
+      </propositions>
+      <réponse proposition="22-3">82 Millionen</réponse>
+      <anecdote>Im späten zwanzigsten Jahrhundert globalisiert, wird Golf weniger von Frauen praktiziert und leidet unter ungleichen Medien und finanzieller Behandlung.</anecdote>
+    </contenu>
+    <contenu id="23">
+      <question>Welcher professionelle Anwalt wurde als Mozart des Golfs bezeichnet ?</question>
+      <propositions>
+        <proposition id="23-1">Küken Evans</proposition>
+        <proposition id="23-2">Alec Ross</proposition>
+        <proposition id="23-3">Bobby Jones</proposition>
+        <proposition id="23-4">Alex Smith</proposition>
+      </propositions>
+      <réponse proposition="23-3">Bobby Jones</réponse>
+      <anecdote>Als bester Amateurgolfer im In- und Ausland bestritt er nur 53 Turniere und gewann 23.</anecdote>
+    </contenu>
+    <contenu id="24">
+      <question>In welchem Jahr wurde der erste Pro der British Open gespielt ?</question>
+      <propositions>
+        <proposition id="24-1">1950</proposition>
+        <proposition id="24-2">1890</proposition>
+        <proposition id="24-3">1860</proposition>
+        <proposition id="24-4">1920</proposition>
+      </propositions>
+      <réponse proposition="24-3">1860</réponse>
+      <anecdote>Das British Open Pro war bis in die 1930er Jahre eines der Grand Slam-Turniere in den 1960er Jahren.</anecdote>
+    </contenu>
+    <contenu id="25">
+      <question>Wie wurde Golf für seine Anfänge in den Niederlanden genannt ?</question>
+      <propositions>
+        <proposition id="25-1">Dolf</proposition>
+        <proposition id="25-2">Wolf</proposition>
+        <proposition id="25-3">Colf</proposition>
+        <proposition id="25-4">Rolf</proposition>
+      </propositions>
+      <réponse proposition="25-3">Colf</réponse>
+      <anecdote>Aufgrund des vielen Austauschs zwischen den Niederlanden und Schottland haben die Holländer dieses Spiel exportiert (Kolbe-Urkunde bedeutet konkret).</anecdote>
+    </contenu>
+    <contenu id="26">
+      <question>In welcher Stadt ließ es sich 1627 als erster Hersteller von Golfschlägern nieder ?</question>
+      <propositions>
+        <proposition id="26-1">London</proposition>
+        <proposition id="26-2">Dublin</proposition>
+        <proposition id="26-3">Oslo</proposition>
+        <proposition id="26-4">Saint Andrews</proposition>
+      </propositions>
+      <réponse proposition="26-4">Saint Andrews</réponse>
+      <anecdote>Diese schottische Stadt liegt an der Nordseeküste zwischen Edinburgh und Dundee und hat 15.</anecdote>
+    </contenu>
+    <contenu id="27">
+      <question>Wie viele Touristen kommen durchschnittlich jedes Jahr nach Thailand, um Golf zu spielen ?</question>
+      <propositions>
+        <proposition id="27-1">300.000</proposition>
+        <proposition id="27-2">100.000</proposition>
+        <proposition id="27-3">400.000</proposition>
+        <proposition id="27-4">200.000</proposition>
+      </propositions>
+      <réponse proposition="27-3">400.000</réponse>
+      <anecdote>Thailand hat Golf zu einem touristischen Werbeartikel gemacht, indem es 280 verschiedene Golfplätze anbot.</anecdote>
+    </contenu>
+    <contenu id="28">
+      <question>Welches auf Golfplätzen eingesetzte Pestizid ist in den USA verboten ?</question>
+      <propositions>
+        <proposition id="28-1">Spinosad</proposition>
+        <proposition id="28-2">Novaluron</proposition>
+        <proposition id="28-3">Diazinon</proposition>
+        <proposition id="28-4">Firponil</proposition>
+      </propositions>
+      <réponse proposition="28-3">Diazinon</réponse>
+      <anecdote>Diazinon wurde früher verwendet, um das Eindringen von Kakerlaken, Silberfischen, Ameisen und Flöhen zu kontrollieren.</anecdote>
+    </contenu>
+    <contenu id="29">
+      <question>Wie viele Depressionen verkaufen die meisten Golfbälle ?</question>
+      <propositions>
+        <proposition id="29-1">150</proposition>
+        <proposition id="29-2">300</proposition>
+        <proposition id="29-3">450</proposition>
+        <proposition id="29-4">600</proposition>
+      </propositions>
+      <réponse proposition="29-3">450</réponse>
+      <anecdote>Der Aufprall eines getroffenen Balls (eine Millisekunde) bestimmt die Geschwindigkeit des Balls, seinen Schusswinkel und seine Rotationsgeschwindigkeit.</anecdote>
+    </contenu>
+    <contenu id="30">
+      <question>Was ist der beliebteste weibliche Golfplatz ?</question>
+      <propositions>
+        <proposition id="30-1">CGSP</proposition>
+        <proposition id="30-2">BKCP</proposition>
+        <proposition id="30-3">FGTB</proposition>
+        <proposition id="30-4">LPGA</proposition>
+      </propositions>
+      <réponse proposition="30-4">LPGA</réponse>
+      <anecdote>2017 belief sich die gesamte Golftour für Frauen auf 67 Millionen US-Dollar nach 58 Millionen US-Dollar im Jahr 2008.</anecdote>
+    </contenu>
+  </expert>
+  </de>
+  <es>
+  <débutant>
+    <contenu id="1">
+      <question>En el golf, ¿qué objeto se usa para enviar la pelota al hoyo ?</question>
+      <propositions>
+        <proposition id="1-1">Raqueta</proposition>
+        <proposition id="1-2">Palo</proposition>
+        <proposition id="1-3">Crosse</proposition>
+        <proposition id="1-4">Club</proposition>
+      </propositions>
+      <réponse proposition="1-4">Club</réponse>
+      <anecdote>Cada palo está compuesto por un mango, sin agarre, el jugador de golf vendrá a poner sus manos y una cabeza en contacto con la pelota.</anecdote>
+    </contenu>
+    <contenu id="2">
+      <question>¿En qué alfabeto está asociada la palabra Golf con la letra G ?</question>
+      <propositions>
+        <proposition id="2-1">Radio</proposition>
+        <proposition id="2-2">Gótico</proposition>
+        <proposition id="2-3">Fonética</proposition>
+        <proposition id="2-4">Semaphore</proposition>
+      </propositions>
+      <réponse proposition="2-1">Radio</réponse>
+      <anecdote>Un alfabeto de radio es un código utilizado en la radio, que consiste en representar cada letra del alfabeto con una palabra completa.</anecdote>
+    </contenu>
+    <contenu id="3">
+      <question>¿Qué deportista dominó el mundo del golf masculino en la década de 2000 ?</question>
+      <propositions>
+        <proposition id="3-1">Raymond Floyd</proposition>
+        <proposition id="3-2">Payne Stewart</proposition>
+        <proposition id="3-3">Tiger Woods</proposition>
+        <proposition id="3-4">Curtis extraño</proposition>
+      </propositions>
+      <réponse proposition="3-3">Tiger Woods</réponse>
+      <anecdote>Tras el escándalo sobre sus infidelidades, anunció que se retiraría del circuito de golf profesional por un período indefinido.</anecdote>
+    </contenu>
+    <contenu id="4">
+      <question>¿Cuántos hoyos tiene un campo de golf típico en general ?</question>
+      <propositions>
+        <proposition id="4-1">12</proposition>
+        <proposition id="4-2">16</proposition>
+        <proposition id="4-3">14</proposition>
+        <proposition id="4-4">18</proposition>
+      </propositions>
+      <réponse proposition="4-4">18</réponse>
+      <anecdote>En un curso de 9 hoyos, a veces es necesario realizar 9 hoyos en una dirección (ir) y luego en el otro (volver), es decir, un total de 18 hoyos.</anecdote>
+    </contenu>
+    <contenu id="5">
+      <question>En el golf, ¿qué arena puede condimentar considerablemente el juego ?</question>
+      <propositions>
+        <proposition id="5-1">Búnker</proposition>
+        <proposition id="5-2">Agarre</proposition>
+        <proposition id="5-3">Chip</proposition>
+        <proposition id="5-4">Cuentagotas</proposition>
+      </propositions>
+      <réponse proposition="5-1">Búnker</réponse>
+      <anecdote>Un campo de golf se cuida con mucho cuidado durante todo el año y especialmente durante la temporada de golf.</anecdote>
+    </contenu>
+    <contenu id="6">
+      <question>¿Qué nombre se le da al área de césped alrededor del hoyo de golf ?</question>
+      <propositions>
+        <proposition id="6-1">Áspero</proposition>
+        <proposition id="6-2">Verde</proposition>
+        <proposition id="6-3">Pre-rugoso</proposition>
+        <proposition id="6-4">Fairway</proposition>
+      </propositions>
+      <réponse proposition="6-2">Verde</réponse>
+      <anecdote>Las áreas reparadas, delimitadas por estacas azules, pueden encontrarse en el campo sin ser parte de él.</anecdote>
+    </contenu>
+    <contenu id="7">
+      <question>¿Qué jugador apodado The King hizo que el golf fuera muy popular ?</question>
+      <propositions>
+        <proposition id="7-1">Jordan Spieth</proposition>
+        <proposition id="7-2">Martin Kaymer</proposition>
+        <proposition id="7-3">Arnold Palmer</proposition>
+        <proposition id="7-4">Justin Rose</proposition>
+      </propositions>
+      <réponse proposition="7-3">Arnold Palmer</réponse>
+      <anecdote>Terminó su carrera en el circuito profesional a los 75 años con una quincuagésima participación consecutiva en el Augusta Masters.</anecdote>
+    </contenu>
+    <contenu id="8">
+      <question>¿Cuántos tiros estándar se configuran para terminar un hoyo en el golf ?</question>
+      <propositions>
+        <proposition id="8-1">Águila</proposition>
+        <proposition id="8-2">Bogey</proposition>
+        <proposition id="8-3">Pajarito</proposition>
+        <proposition id="8-4">Por</proposition>
+      </propositions>
+      <réponse proposition="8-4">Por</réponse>
+      <anecdote>Por lo general, en un curso de 18 hoyos, el par es 72 : este promedio se calcula de acuerdo con el par de cada hoyo.</anecdote>
+    </contenu>
+    <contenu id="9">
+      <question>¿Quién es la única persona autorizada para asesorar a un jugador en el campo ?</question>
+      <propositions>
+        <proposition id="9-1">Carro de compras</proposition>
+        <proposition id="9-2">Práctica</proposition>
+        <proposition id="9-3">Eje</proposition>
+        <proposition id="9-4">Gancho</proposition>
+      </propositions>
+      <réponse proposition="9-1">Carro de compras</réponse>
+      <anecdote>Un caddie está presente para permitir que el jugador se concentre únicamente en su juego evitando la mayoría de las tareas.</anecdote>
+    </contenu>
+    <contenu id="10">
+      <question>¿Cuál es el idioma oficial del golf, establecido debido a sus orígenes ?</question>
+      <propositions>
+        <proposition id="10-1">Español</proposition>
+        <proposition id="10-2">Aleman</proposition>
+        <proposition id="10-3">Francés</proposition>
+        <proposition id="10-4">Inglés</proposition>
+      </propositions>
+      <réponse proposition="10-4">Inglés</réponse>
+      <anecdote>En las reglas del golf, la Federación Francesa de Golf usa los términos en inglés cuando los golfistas los usan.</anecdote>
+    </contenu>
+  </débutant>
+  <confirmé>
+    <contenu id="11">
+      <question>¿Qué precursor del golf moderno es apodado The Golden Bear ?</question>
+      <propositions>
+        <proposition id="11-1">Michael Campbell</proposition>
+        <proposition id="11-2">Lucas Glover</proposition>
+        <proposition id="11-3">Webb Simpson</proposition>
+        <proposition id="11-4">Jack Nicklaus</proposition>
+      </propositions>
+      <réponse proposition="11-4">Jack Nicklaus</réponse>
+      <anecdote>Fue el desarrollo de la rivalidad de Jack Nicklaus con Arnold Palmer lo que desarrolló cierto interés para los espectadores de golf.</anecdote>
+    </contenu>
+    <contenu id="12">
+      <question>¿En qué Juegos Olímpicos regresó el golf después de 112 años de ausencia ?</question>
+      <propositions>
+        <proposition id="12-1">Beijing 2008</proposition>
+        <proposition id="12-2">Sydney 2000</proposition>
+        <proposition id="12-3">Rio 2016</proposition>
+        <proposition id="12-4">Londres 2012</proposition>
+      </propositions>
+      <réponse proposition="12-3">Rio 2016</réponse>
+      <anecdote>Las competiciones de golf se llevaron a cabo durante los Juegos Olímpicos de París de 1900 y nuevamente en 1904 en Saint-Louis.</anecdote>
+    </contenu>
+    <contenu id="13">
+      <question>¿Cuántos agujeros contenía el primer curso de Saint Andrews ?</question>
+      <propositions>
+        <proposition id="13-1">34</proposition>
+        <proposition id="13-2">30</proposition>
+        <proposition id="13-3">26</proposition>
+        <proposition id="13-4">22</proposition>
+      </propositions>
+      <réponse proposition="13-4">22</réponse>
+      <anecdote>El campo tenía veintidós hoyos al principio antes de ser cortado para la construcción de casas.</anecdote>
+    </contenu>
+    <contenu id="14">
+      <question>¿Qué español sabía el golf aparte de sus países tradicionales ?</question>
+      <propositions>
+        <proposition id="14-1">Aaron</proposition>
+        <proposition id="14-2">Ballesteros</proposition>
+        <proposition id="14-3">Casper</proposition>
+        <proposition id="14-4">Coody</proposition>
+      </propositions>
+      <réponse proposition="14-2">Ballesteros</réponse>
+      <anecdote>Numerosas veces en el mundo entre 1986 y 1989, ha sido una de las principales figuras del deporte desde mediados de la década de 1970.</anecdote>
+    </contenu>
+    <contenu id="15">
+      <question>En el golf, ¿cuál es el límite de un obstáculo de agua que cruza un hoyo ?</question>
+      <propositions>
+        <proposition id="15-1">Bola roja</proposition>
+        <proposition id="15-2">Barrera blanca</proposition>
+        <proposition id="15-3">Piquete amarillo</proposition>
+        <proposition id="15-4">Bandera azul</proposition>
+      </propositions>
+      <réponse proposition="15-3">Piquete amarillo</réponse>
+      <anecdote>Una ruta puede presentar partes de árboles, arbustos, pero también cuerpos de agua o arroyos que se denominan obstáculos de agua.</anecdote>
+    </contenu>
+    <contenu id="16">
+      <question>En el golf, ¿qué término anglófono se usa si haces un tiro por debajo del par ?</question>
+      <propositions>
+        <proposition id="16-1">Bogey</proposition>
+        <proposition id="16-2">Pajarito</proposition>
+        <proposition id="16-3">Albatros</proposition>
+        <proposition id="16-4">Águila</proposition>
+      </propositions>
+      <réponse proposition="16-2">Pajarito</réponse>
+      <anecdote>El putt Birdie significa que si la bola cae en el hoyo como resultado de este putt, el jugador grabará un birdie.</anecdote>
+    </contenu>
+    <contenu id="17">
+      <question>¿Qué estrella de golf ganó el Masters y el British Open en 1990 ?</question>
+      <propositions>
+        <proposition id="17-1">Tom Watson</proposition>
+        <proposition id="17-2">Nick Faldo</proposition>
+        <proposition id="17-3">Dustin Johnson</proposition>
+        <proposition id="17-4">Larry Nelson</proposition>
+      </propositions>
+      <réponse proposition="17-2">Nick Faldo</réponse>
+      <anecdote>Ganó nuevamente en 1990 el título de Jugador del Año del Tour Europeo, al que le agrega el título de Jugador del Año del Tour de la PGA.</anecdote>
+    </contenu>
+    <contenu id="18">
+      <question>¿Cuál de estas propuestas no corresponde al nombre de un club de golf ?</question>
+      <propositions>
+        <proposition id="18-1">Putter</proposition>
+        <proposition id="18-2">Águila</proposition>
+        <proposition id="18-3">Madera</proposition>
+        <proposition id="18-4">Hierro</proposition>
+      </propositions>
+      <réponse proposition="18-2">Águila</réponse>
+      <anecdote>Al comienzo de un curso, un golfista debe llevar un máximo de catorce palos con él: por lo tanto, la elección es decisiva.</anecdote>
+    </contenu>
+    <contenu id="19">
+      <question>¿Qué club de golf puede enviar la pelota lo suficientemente lejos con una trayectoria tensa ?</question>
+      <propositions>
+        <proposition id="19-1">Hierro</proposition>
+        <proposition id="19-2">Híbrido</proposition>
+        <proposition id="19-3">Madera</proposition>
+        <proposition id="19-4">Putter</proposition>
+      </propositions>
+      <réponse proposition="19-3">Madera</réponse>
+      <anecdote>Los bosques existen en tamaños 1, 3, 5, 7 y 9, pero pueden llegar hasta 13.</anecdote>
+    </contenu>
+    <contenu id="20">
+      <question>¿Qué efecto tiene una pelota de golf en ser fuertemente ralentizada para impactar ?</question>
+      <propositions>
+        <proposition id="20-1">Postura</proposition>
+        <proposition id="20-2">Columpio</proposition>
+        <proposition id="20-3">Backspin</proposition>
+        <proposition id="20-4">Topspin</proposition>
+      </propositions>
+      <réponse proposition="20-3">Backspin</réponse>
+      <anecdote>A menudo se usa durante las aproximaciones del green, una pelota con backspin caerá y luego retrocederá a una distancia variable.</anecdote>
+    </contenu>
+  </confirmé>
+  <expert>
+    <contenu id="21">
+      <question>¿En qué país se codificó por primera vez el golf en 1754 ?</question>
+      <propositions>
+        <proposition id="21-1">España</proposition>
+        <proposition id="21-2">Alemania</proposition>
+        <proposition id="21-3">Escocia</proposition>
+        <proposition id="21-4">Australia</proposition>
+      </propositions>
+      <réponse proposition="21-3">Escocia</réponse>
+      <anecdote>Codificado en Escocia en 1754 por el Royal And Ancient Golf Club de Saint Andrews, este deporte tiene varios orígenes, incluido el juego de correo.</anecdote>
+    </contenu>
+    <contenu id="22">
+      <question>¿Cuántos golfistas regulares en el mundo contamos en 2010 ?</question>
+      <propositions>
+        <proposition id="22-1">63 millones</proposition>
+        <proposition id="22-2">82 millones</proposition>
+        <proposition id="22-3">57 millones</proposition>
+        <proposition id="22-4">74 millones</proposition>
+      </propositions>
+      <réponse proposition="22-2">82 millones</réponse>
+      <anecdote>Globalizado a fines del siglo XX, el golf es menos practicado por las mujeres y sufre de medios desiguales y tratamiento financiero.</anecdote>
+    </contenu>
+    <contenu id="23">
+      <question>¿Qué abogado profesional fue apodado el Mozart del golf ?</question>
+      <propositions>
+        <proposition id="23-1">Alec Ross</proposition>
+        <proposition id="23-2">Bobby Jones</proposition>
+        <proposition id="23-3">Alex Smith</proposition>
+        <proposition id="23-4">Polluelo evans</proposition>
+      </propositions>
+      <réponse proposition="23-2">Bobby Jones</réponse>
+      <anecdote>El golfista aficionado más exitoso a nivel nacional e internacional, jugó solo 53 torneos y ganó 23.</anecdote>
+    </contenu>
+    <contenu id="24">
+      <question>¿En qué año se jugó el primer profesional del British Open ?</question>
+      <propositions>
+        <proposition id="24-1">1950</proposition>
+        <proposition id="24-2">1890</proposition>
+        <proposition id="24-3">1860</proposition>
+        <proposition id="24-4">1920</proposition>
+      </propositions>
+      <réponse proposition="24-3">1860</réponse>
+      <anecdote>Torneo de árbitros hasta la década de 1930, el British Open Pro se convirtió en uno de los torneos de Grand Slam en la década de 1960.</anecdote>
+    </contenu>
+    <contenu id="25">
+      <question>¿Cómo se inició el golf en Holanda ?</question>
+      <propositions>
+        <proposition id="25-1">Rolf</proposition>
+        <proposition id="25-2">Colf</proposition>
+        <proposition id="25-3">Lobo</proposition>
+        <proposition id="25-4">Dolf</proposition>
+      </propositions>
+      <réponse proposition="25-2">Colf</réponse>
+      <anecdote>Debido a los numerosos intercambios entre los Países Bajos y Escocia, los holandeses exportaron este juego (hecho de kolbe que significa concreto).</anecdote>
+    </contenu>
+    <contenu id="26">
+      <question>¿En qué ciudad se estableció en 1627 el primer fabricante de palos de golf ?</question>
+      <propositions>
+        <proposition id="26-1">Saint Andrews</proposition>
+        <proposition id="26-2">Dublín</proposition>
+        <proposition id="26-3">Oslo</proposition>
+        <proposition id="26-4">Londres</proposition>
+      </propositions>
+      <réponse proposition="26-1">Saint Andrews</réponse>
+      <anecdote>Esta ciudad escocesa se encuentra en la costa del Mar del Norte entre Edimburgo y Dundee y tiene una población de 15,000.</anecdote>
+    </contenu>
+    <contenu id="27">
+      <question>¿Cuántos turistas en promedio vienen a jugar al golf en Tailandia cada año ?</question>
+      <propositions>
+        <proposition id="27-1">300,000</proposition>
+        <proposition id="27-2">200,000</proposition>
+        <proposition id="27-3">400,000</proposition>
+        <proposition id="27-4">100,000</proposition>
+      </propositions>
+      <réponse proposition="27-3">400,000</réponse>
+      <anecdote>Tailandia ha convertido el golf en un artículo de promoción turística al ofrecerles un catálogo de 280 campos diferentes.</anecdote>
+    </contenu>
+    <contenu id="28">
+      <question>¿Qué pesticida usado en los campos de golf ha sido prohibido en los Estados Unidos ?</question>
+      <propositions>
+        <proposition id="28-1">Novalurón</proposition>
+        <proposition id="28-2">Spinosad</proposition>
+        <proposition id="28-3">Firponil</proposition>
+        <proposition id="28-4">Diazinon</proposition>
+      </propositions>
+      <réponse proposition="28-4">Diazinon</réponse>
+      <anecdote>El diazinón alguna vez se usó para controlar la invasión de cucarachas, peces plateados, hormigas y pulgas.</anecdote>
+    </contenu>
+    <contenu id="29">
+      <question>¿Cuántas depresiones ponen a la venta la mayoría de las pelotas de golf ?</question>
+      <propositions>
+        <proposition id="29-1">150</proposition>
+        <proposition id="29-2">600</proposition>
+        <proposition id="29-3">300</proposition>
+        <proposition id="29-4">450</proposition>
+      </propositions>
+      <réponse proposition="29-4">450</réponse>
+      <anecdote>El impacto de una bola de golpe (un milisegundo) determina la velocidad de la bola, su ángulo de fuego y su velocidad de rotación.</anecdote>
+    </contenu>
+    <contenu id="30">
+      <question>¿Cuál es el campo de golf femenino más popular ?</question>
+      <propositions>
+        <proposition id="30-1">FGTB</proposition>
+        <proposition id="30-2">LPGA</proposition>
+        <proposition id="30-3">CGSP</proposition>
+        <proposition id="30-4">BKCP</proposition>
+      </propositions>
+      <réponse proposition="30-2">LPGA</réponse>
+      <anecdote>En 2017, el recorrido total de golf femenino fue de $ 67 millones, en comparación con $ 58 millones en 2008.</anecdote>
+    </contenu>
+  </expert>
+  </es>
+  <it>
+  <débutant>
+    <contenu id="1">
+      <question>Nel golf, quale oggetto viene utilizzato per mandare la palla nella buca ?</question>
+      <propositions>
+        <proposition id="1-1">Bastone</proposition>
+        <proposition id="1-2">Racchetta</proposition>
+        <proposition id="1-3">Club</proposition>
+        <proposition id="1-4">Crosse</proposition>
+      </propositions>
+      <réponse proposition="1-3">Club</réponse>
+      <anecdote>Ogni mazza è composta da una maniglia, una presa in cui verrà il golfista per mettere le mani e una testa a contatto con la palla.</anecdote>
+    </contenu>
+    <contenu id="2">
+      <question>In quale alfabeto è associata la parola Golf alla lettera G ?</question>
+      <propositions>
+        <proposition id="2-1">Mappa</proposition>
+        <proposition id="2-2">Radio</proposition>
+        <proposition id="2-3">Fonetico</proposition>
+        <proposition id="2-4">Gotico</proposition>
+      </propositions>
+      <réponse proposition="2-2">Radio</réponse>
+      <anecdote>Un alfabeto radio è un codice utilizzato nella radio, che consiste nel rappresentare ogni lettera dell'alfabeto con un'intera parola.</anecdote>
+    </contenu>
+    <contenu id="3">
+      <question>Quale sportivo ha dominato il mondo del golf maschile negli anni 2000 ?</question>
+      <propositions>
+        <proposition id="3-1">Tiger Woods</proposition>
+        <proposition id="3-2">Curtis Strange</proposition>
+        <proposition id="3-3">Raymond Floyd</proposition>
+        <proposition id="3-4">Payne Stewart</proposition>
+      </propositions>
+      <réponse proposition="3-1">Tiger Woods</réponse>
+      <anecdote>A seguito dello scandalo sulle sue infedeltà, ha annunciato che si sarebbe ritirato dal circuito di golf professionale per un periodo indefinito.</anecdote>
+    </contenu>
+    <contenu id="4">
+      <question>Quante buche ha un tipico campo da golf in generale ?</question>
+      <propositions>
+        <proposition id="4-1">16</proposition>
+        <proposition id="4-2">12</proposition>
+        <proposition id="4-3">18</proposition>
+        <proposition id="4-4">14</proposition>
+      </propositions>
+      <réponse proposition="4-3">18</réponse>
+      <anecdote>In un percorso di 9 buche, a volte è necessario realizzare 9 buche in una direzione (vai) e poi nell'altra (ritorno), per un totale di 18 buche.</anecdote>
+    </contenu>
+    <contenu id="5">
+      <question>Nel golf, quale pezzo di sabbia può rendere il gioco considerevolmente ?</question>
+      <propositions>
+        <proposition id="5-1">Contagocce</proposition>
+        <proposition id="5-2">Chip</proposition>
+        <proposition id="5-3">Impugnatura</proposition>
+        <proposition id="5-4">Bunker</proposition>
+      </propositions>
+      <réponse proposition="5-4">Bunker</réponse>
+      <anecdote>Un campo da golf è molto curato durante tutto l'anno e soprattutto durante la stagione golfistica.</anecdote>
+    </contenu>
+    <contenu id="6">
+      <question>Quale nome viene dato all'erba intorno alla buca da golf ?</question>
+      <propositions>
+        <proposition id="6-1">Verde</proposition>
+        <proposition id="6-2">Ruvido</proposition>
+        <proposition id="6-3">Pre-rough</proposition>
+        <proposition id="6-4">Fairway</proposition>
+      </propositions>
+      <réponse proposition="6-1">Verde</réponse>
+      <anecdote>Le aree riparate, delimitate da puntate blu, possono incontrarsi sul campo senza farne parte.</anecdote>
+    </contenu>
+    <contenu id="7">
+      <question>Quale giocatore soprannominato The King ha reso il golf molto popolare ?</question>
+      <propositions>
+        <proposition id="7-1">Martin Kaymer</proposition>
+        <proposition id="7-2">Jordan Spieth</proposition>
+        <proposition id="7-3">Arnold Palmer</proposition>
+        <proposition id="7-4">Justin Rose</proposition>
+      </propositions>
+      <réponse proposition="7-3">Arnold Palmer</réponse>
+      <anecdote>Ha terminato la sua carriera nel circuito professionale all'età di 75 anni con una cinquantesimo partecipazione consecutiva ai Maestri Augusta.</anecdote>
+    </contenu>
+    <contenu id="8">
+      <question>Quanti tiri standard sono previsti per finire una buca nel golf ?</question>
+      <propositions>
+        <proposition id="8-1">Aquila</proposition>
+        <proposition id="8-2">Bogey</proposition>
+        <proposition id="8-3">Birdie</proposition>
+        <proposition id="8-4">Di</proposition>
+      </propositions>
+      <réponse proposition="8-4">Di</réponse>
+      <anecdote>Di solito, su un percorso di 18 buche, il parametro è 72 : questa media viene calcolata in base al parametro di ciascun foro.</anecdote>
+    </contenu>
+    <contenu id="9">
+      <question>Chi è l'unica persona autorizzata a consigliare un giocatore sul campo ?</question>
+      <propositions>
+        <proposition id="9-1">Albero</proposition>
+        <proposition id="9-2">Hook</proposition>
+        <proposition id="9-3">Pratica</proposition>
+        <proposition id="9-4">Carrello della spesa</proposition>
+      </propositions>
+      <réponse proposition="9-4">Carrello della spesa</réponse>
+      <anecdote>È presente un carrello per consentire al giocatore di concentrarsi esclusivamente sul suo gioco evitando la maggior parte delle faccende.</anecdote>
+    </contenu>
+    <contenu id="10">
+      <question>Qual è la lingua ufficiale del golf, impostata a causa delle sue origini ?</question>
+      <propositions>
+        <proposition id="10-1">Inglese</proposition>
+        <proposition id="10-2">Spagnolo</proposition>
+        <proposition id="10-3">Tedesco</proposition>
+        <proposition id="10-4">Francese</proposition>
+      </propositions>
+      <réponse proposition="10-1">Inglese</réponse>
+      <anecdote>Nelle regole del golf, la Federazione francese del golf usa i termini inglesi quando sono usati dai golfisti.</anecdote>
+    </contenu>
+  </débutant>
+  <confirmé>
+    <contenu id="11">
+      <question>Quale precursore del golf moderno è soprannominato The Golden Bear ?</question>
+      <propositions>
+        <proposition id="11-1">Michael Campbell</proposition>
+        <proposition id="11-2">Webb Simpson</proposition>
+        <proposition id="11-3">Jack Nicklaus</proposition>
+        <proposition id="11-4">Lucas Glover</proposition>
+      </propositions>
+      <réponse proposition="11-3">Jack Nicklaus</réponse>
+      <anecdote>Fu lo sviluppo della rivalità di Jack Nicklaus con Arnold Palmer a suscitare un certo interesse per gli spettatori di golf.</anecdote>
+    </contenu>
+    <contenu id="12">
+      <question>A quali giochi olimpici è tornato il golf dopo 112 anni di assenza ?</question>
+      <propositions>
+        <proposition id="12-1">Sydney 2000</proposition>
+        <proposition id="12-2">Londra 2012</proposition>
+        <proposition id="12-3">Pechino 2008</proposition>
+        <proposition id="12-4">Rio 2016</proposition>
+      </propositions>
+      <réponse proposition="12-4">Rio 2016</réponse>
+      <anecdote>Le gare di golf si sono svolte durante le Olimpiadi di Parigi del 1900 e di nuovo nel 1904 a Saint-Louis.</anecdote>
+    </contenu>
+    <contenu id="13">
+      <question>Quante buche contenevano il primo corso di Saint Andrews ?</question>
+      <propositions>
+        <proposition id="13-1">30</proposition>
+        <proposition id="13-2">22</proposition>
+        <proposition id="13-3">34</proposition>
+        <proposition id="13-4">26</proposition>
+      </propositions>
+      <réponse proposition="13-2">22</réponse>
+      <anecdote>Il percorso aveva ventidue buche all'inizio prima di essere abbattuto per la costruzione di case.</anecdote>
+    </contenu>
+    <contenu id="14">
+      <question>Quale spagnolo conosceva il golf oltre ai suoi paesi tradizionali ?</question>
+      <propositions>
+        <proposition id="14-1">Casper</proposition>
+        <proposition id="14-2">Aaron</proposition>
+        <proposition id="14-3">Coody</proposition>
+        <proposition id="14-4">Ballesteros</proposition>
+      </propositions>
+      <réponse proposition="14-4">Ballesteros</réponse>
+      <anecdote>Molte volte un mondo tra il 1986 e il 1989, è stato una delle figure di spicco di questo sport dalla metà degli anni '70.</anecdote>
+    </contenu>
+    <contenu id="15">
+      <question>Nel golf, qual è il limite di un ostacolo d'acqua che attraversa una buca ?</question>
+      <propositions>
+        <proposition id="15-1">Barriera bianca</proposition>
+        <proposition id="15-2">Palla rossa</proposition>
+        <proposition id="15-3">Picchetto giallo</proposition>
+        <proposition id="15-4">Bandiera blu</proposition>
+      </propositions>
+      <réponse proposition="15-3">Picchetto giallo</réponse>
+      <anecdote>Un percorso può presentare parti di alberi, cespugli, ma anche corpi idrici o corsi d'acqua che sono chiamati ostacoli d'acqua.</anecdote>
+    </contenu>
+    <contenu id="16">
+      <question>Nel golf, quale termine anglofono viene utilizzato se si effettua un tiro sotto il par ?</question>
+      <propositions>
+        <proposition id="16-1">Albatro</proposition>
+        <proposition id="16-2">Bogey</proposition>
+        <proposition id="16-3">Aquila</proposition>
+        <proposition id="16-4">Birdie</proposition>
+      </propositions>
+      <réponse proposition="16-4">Birdie</réponse>
+      <anecdote>Il putt Birdie indica che se la palla cade nella buca a seguito di questo putt, il giocatore registrerà un birdie.</anecdote>
+    </contenu>
+    <contenu id="17">
+      <question>Quale stella del golf ha vinto il Masters e il British Open nel 1990 ?</question>
+      <propositions>
+        <proposition id="17-1">Larry Nelson</proposition>
+        <proposition id="17-2">Tom Watson</proposition>
+        <proposition id="17-3">Nick Faldo</proposition>
+        <proposition id="17-4">Dustin Johnson</proposition>
+      </propositions>
+      <réponse proposition="17-3">Nick Faldo</réponse>
+      <anecdote>Ha vinto nuovamente nel 1990 il titolo di Giocatore europeo dell'anno del Tour, a cui aggiunge il titolo di Giocatore dell'anno del tour PGA.</anecdote>
+    </contenu>
+    <contenu id="18">
+      <question>Quale di queste proposte non corrisponde al nome di una mazza da golf ?</question>
+      <propositions>
+        <proposition id="18-1">Aquila</proposition>
+        <proposition id="18-2">Putter</proposition>
+        <proposition id="18-3">Ferro</proposition>
+        <proposition id="18-4">Legno</proposition>
+      </propositions>
+      <réponse proposition="18-1">Aquila</réponse>
+      <anecdote>All'inizio di un percorso, un golfista deve portare con sé un massimo di quattordici fiori: la scelta è quindi decisiva.</anecdote>
+    </contenu>
+    <contenu id="19">
+      <question>Quale mazza da golf può mandare la palla abbastanza lontano con una traiettoria tesa ?</question>
+      <propositions>
+        <proposition id="19-1">Putter</proposition>
+        <proposition id="19-2">Ferro</proposition>
+        <proposition id="19-3">Ibrido</proposition>
+        <proposition id="19-4">Legno</proposition>
+      </propositions>
+      <réponse proposition="19-4">Legno</réponse>
+      <anecdote>I boschi esistono nelle taglie 1, 3, 5, 7 e 9, ma possono arrivare fino a 13.</anecdote>
+    </contenu>
+    <contenu id="20">
+      <question>Che effetto ha una pallina da golf sul forte rallentamento dell'impatto ?</question>
+      <propositions>
+        <proposition id="20-1">Topspin</proposition>
+        <proposition id="20-2">Posizione</proposition>
+        <proposition id="20-3">Altalena</proposition>
+        <proposition id="20-4">Backspin</proposition>
+      </propositions>
+      <réponse proposition="20-4">Backspin</réponse>
+      <anecdote>Spesso usata durante gli avvicinamenti del verde, una palla con la rotazione indietro cadrà e poi tornerà indietro a una distanza variabile.</anecdote>
+    </contenu>
+  </confirmé>
+  <expert>
+    <contenu id="21">
+      <question>In quale paese il golf è stato codificato per la prima volta nel 1754 ?</question>
+      <propositions>
+        <proposition id="21-1">Australia</proposition>
+        <proposition id="21-2">Scozia</proposition>
+        <proposition id="21-3">Spagna</proposition>
+        <proposition id="21-4">Germania</proposition>
+      </propositions>
+      <réponse proposition="21-2">Scozia</réponse>
+      <anecdote>Codificato in Scozia nel 1754 dal Royal And Ancient Golf Club di Saint Andrews, questo sport ha origini diverse tra cui il gioco della posta.</anecdote>
+    </contenu>
+    <contenu id="22">
+      <question>Quanti giocatori di golf al mondo abbiamo contato nel 2010 ?</question>
+      <propositions>
+        <proposition id="22-1">74 milioni</proposition>
+        <proposition id="22-2">57 milioni</proposition>
+        <proposition id="22-3">82 milioni</proposition>
+        <proposition id="22-4">63 milioni</proposition>
+      </propositions>
+      <réponse proposition="22-3">82 milioni</réponse>
+      <anecdote>Globalizzato alla fine del XX secolo, il golf è meno praticato dalle donne e soffre di disparità mediatiche e di trattamento finanziario.</anecdote>
+    </contenu>
+    <contenu id="23">
+      <question>Quale avvocato professionista è stato soprannominato Mozart del golf ?</question>
+      <propositions>
+        <proposition id="23-1">Alec Ross</proposition>
+        <proposition id="23-2">Chick Evans</proposition>
+        <proposition id="23-3">Alex Smith</proposition>
+        <proposition id="23-4">Bobby Jones</proposition>
+      </propositions>
+      <réponse proposition="23-4">Bobby Jones</réponse>
+      <anecdote>Il golfista dilettante più abile a livello nazionale e internazionale, ha giocato solo 53 tornei e ha vinto 23.</anecdote>
+    </contenu>
+    <contenu id="24">
+      <question>In quale anno è stato suonato il primo British Open pro ?</question>
+      <propositions>
+        <proposition id="24-1">1920</proposition>
+        <proposition id="24-2">1860</proposition>
+        <proposition id="24-3">1950</proposition>
+        <proposition id="24-4">1890</proposition>
+      </propositions>
+      <réponse proposition="24-2">1860</réponse>
+      <anecdote>Torneo arbitro fino agli anni '30, il British Open Pro divenne uno dei tornei del Grande Slam negli anni '60.</anecdote>
+    </contenu>
+    <contenu id="25">
+      <question>Come fu chiamato il golf per i suoi inizi nei Paesi Bassi ?</question>
+      <propositions>
+        <proposition id="25-1">Lupo</proposition>
+        <proposition id="25-2">Colf</proposition>
+        <proposition id="25-3">Dolf</proposition>
+        <proposition id="25-4">Rolf</proposition>
+      </propositions>
+      <réponse proposition="25-2">Colf</réponse>
+      <anecdote>A causa dei numerosi scambi tra Paesi Bassi e Scozia, gli olandesi hanno esportato questo gioco (atto kolbe che significa concreto).</anecdote>
+    </contenu>
+    <contenu id="26">
+      <question>In quale città si stabilì nel 1627 il primo produttore di mazze da golf ?</question>
+      <propositions>
+        <proposition id="26-1">Londra</proposition>
+        <proposition id="26-2">Dublino</proposition>
+        <proposition id="26-3">Oslo</proposition>
+        <proposition id="26-4">Sant'Andrea</proposition>
+      </propositions>
+      <réponse proposition="26-4">Sant'Andrea</réponse>
+      <anecdote>Questa città scozzese si trova sulla costa del Mare del Nord tra Edimburgo e Dundee e ha una popolazione di 15.</anecdote>
+    </contenu>
+    <contenu id="27">
+      <question>Quanti turisti in media vengono a giocare a golf in Thailandia ogni anno ?</question>
+      <propositions>
+        <proposition id="27-1">300.000</proposition>
+        <proposition id="27-2">100.000</proposition>
+        <proposition id="27-3">200.000</proposition>
+        <proposition id="27-4">400.000</proposition>
+      </propositions>
+      <réponse proposition="27-4">400.000</réponse>
+      <anecdote>La Tailandia ha reso il golf un articolo di promozione turistica offrendo loro un catalogo di 280 corsi diversi.</anecdote>
+    </contenu>
+    <contenu id="28">
+      <question>Quale pesticida utilizzato sui campi da golf è stato vietato negli Stati Uniti ?</question>
+      <propositions>
+        <proposition id="28-1">Diazinon</proposition>
+        <proposition id="28-2">Novaluron</proposition>
+        <proposition id="28-3">Spinosad</proposition>
+        <proposition id="28-4">Firponil</proposition>
+      </propositions>
+      <réponse proposition="28-1">Diazinon</réponse>
+      <anecdote>Un tempo il diazinone veniva usato per controllare l'invasione di scarafaggi, pesciolini d'argento, formiche e pulci.</anecdote>
+    </contenu>
+    <contenu id="29">
+      <question>Quante depressioni mettono in vendita la maggior parte delle palline da golf ?</question>
+      <propositions>
+        <proposition id="29-1">150</proposition>
+        <proposition id="29-2">600</proposition>
+        <proposition id="29-3">300</proposition>
+        <proposition id="29-4">450</proposition>
+      </propositions>
+      <réponse proposition="29-4">450</réponse>
+      <anecdote>L'impatto di una palla colpita (un millisecondo) determina la velocità della palla, il suo angolo di fuoco e la sua velocità di rotazione.</anecdote>
+    </contenu>
+    <contenu id="30">
+      <question>Qual è il campo da golf femminile più popolare ?</question>
+      <propositions>
+        <proposition id="30-1">CGSP</proposition>
+        <proposition id="30-2">LPGA</proposition>
+        <proposition id="30-3">FGTB</proposition>
+        <proposition id="30-4">BKCP</proposition>
+      </propositions>
+      <réponse proposition="30-2">LPGA</réponse>
+      <anecdote>Nel 2017, il tour di golf femminile totale è stato di $ 67 milioni, in aumento rispetto ai $ 58 milioni del 2008.</anecdote>
+    </contenu>
+  </expert>
+  </it>
+  <nl>
+  <débutant>
+    <contenu id="1">
+      <question>Welk object wordt in golf gebruikt om de bal de hole in te sturen ?</question>
+      <propositions>
+        <proposition id="1-1">Stok</proposition>
+        <proposition id="1-2">Club</proposition>
+        <proposition id="1-3">Racket</proposition>
+        <proposition id="1-4">Crosse</proposition>
+      </propositions>
+      <réponse proposition="1-2">Club</réponse>
+      <anecdote>Elke club bestaat uit een handvat, een greep waar de golfer zijn handen komt en een hoofd in contact met de bal.</anecdote>
+    </contenu>
+    <contenu id="2">
+      <question>In welk alfabet wordt het woord Golf geassocieerd met de letter G ?</question>
+      <propositions>
+        <proposition id="2-1">Fonetisch</proposition>
+        <proposition id="2-2">Radio</proposition>
+        <proposition id="2-3">Gothic</proposition>
+        <proposition id="2-4">Semaphore</proposition>
+      </propositions>
+      <réponse proposition="2-2">Radio</réponse>
+      <anecdote>Een radioalfabet is een code die wordt gebruikt in radio, die bestaat uit het vertegenwoordigen van elke letter van het alfabet door een heel woord.</anecdote>
+    </contenu>
+    <contenu id="3">
+      <question>Welke sportman domineerde de wereld van herengolf in de jaren 2000 ?</question>
+      <propositions>
+        <proposition id="3-1">Curtis Strange</proposition>
+        <proposition id="3-2">Payne Stewart</proposition>
+        <proposition id="3-3">Tiger Woods</proposition>
+        <proposition id="3-4">Raymond Floyd</proposition>
+      </propositions>
+      <réponse proposition="3-3">Tiger Woods</réponse>
+      <anecdote>Na het schandaal over zijn ontrouw kondigde hij aan dat hij zich voor onbepaalde tijd zou terugtrekken uit het professionele golfcircuit.</anecdote>
+    </contenu>
+    <contenu id="4">
+      <question>Hoeveel holes heeft een typische golfbaan in het algemeen ?</question>
+      <propositions>
+        <proposition id="4-1">14</proposition>
+        <proposition id="4-2">12</proposition>
+        <proposition id="4-3">16</proposition>
+        <proposition id="4-4">18</proposition>
+      </propositions>
+      <réponse proposition="4-4">18</réponse>
+      <anecdote>Op een baan van 9 holes is het soms nodig om 9 holes in een richting (go) te realiseren en dan in de andere (return), dat is een totaal van 18 holes.</anecdote>
+    </contenu>
+    <contenu id="5">
+      <question>Welk stuk zand kan het spel in golf aanzienlijk opfleuren ?</question>
+      <propositions>
+        <proposition id="5-1">Grip</proposition>
+        <proposition id="5-2">Druppelaar</proposition>
+        <proposition id="5-3">Bunker</proposition>
+        <proposition id="5-4">Chip</proposition>
+      </propositions>
+      <réponse proposition="5-3">Bunker</réponse>
+      <anecdote>Een golfbaan wordt het hele jaar door en met name tijdens het golfseizoen zeer zorgvuldig verzorgd.</anecdote>
+    </contenu>
+    <contenu id="6">
+      <question>Welke naam wordt gegeven aan het grasveld rond het golfgat ?</question>
+      <propositions>
+        <proposition id="6-1">Fairway</proposition>
+        <proposition id="6-2">Ruw</proposition>
+        <proposition id="6-3">Groen</proposition>
+        <proposition id="6-4">Pre-ruw</proposition>
+      </propositions>
+      <réponse proposition="6-3">Groen</réponse>
+      <anecdote>Gerepareerde gebieden, begrensd door blauwe palen, kunnen elkaar ontmoeten op de baan zonder er deel van uit te maken.</anecdote>
+    </contenu>
+    <contenu id="7">
+      <question>Welke speler met de bijnaam The King heeft golf erg populair gemaakt ?</question>
+      <propositions>
+        <proposition id="7-1">Justin Rose</proposition>
+        <proposition id="7-2">Arnold Palmer</proposition>
+        <proposition id="7-3">Jordan Spieth</proposition>
+        <proposition id="7-4">Martin Kaymer</proposition>
+      </propositions>
+      <réponse proposition="7-2">Arnold Palmer</réponse>
+      <anecdote>Hij beëindigde zijn carrière op het professionele circuit op 75-jarige leeftijd met een vijftigste opeenvolgende deelname aan de Augusta Masters.</anecdote>
+    </contenu>
+    <contenu id="8">
+      <question>Hoeveel standaard foto's zijn er gemaakt om een hole in golf te voltooien ?</question>
+      <propositions>
+        <proposition id="8-1">Door</proposition>
+        <proposition id="8-2">Eagle</proposition>
+        <proposition id="8-3">Birdie</proposition>
+        <proposition id="8-4">Bogey</proposition>
+      </propositions>
+      <réponse proposition="8-1">Door</réponse>
+      <anecdote>Gewoonlijk is de par bij een parcours van 18 holes 72 : dit gemiddelde wordt berekend volgens par van elk hole.</anecdote>
+    </contenu>
+    <contenu id="9">
+      <question>Wie is de enige persoon die een speler op het veld mag adviseren ?</question>
+      <propositions>
+        <proposition id="9-1">As</proposition>
+        <proposition id="9-2">Winkelwagen</proposition>
+        <proposition id="9-3">Praktijk</proposition>
+        <proposition id="9-4">Hook</proposition>
+      </propositions>
+      <réponse proposition="9-2">Winkelwagen</réponse>
+      <anecdote>Er is een caddie aanwezig zodat de speler zich uitsluitend op zijn spel kan concentreren door de meeste klusjes te vermijden.</anecdote>
+    </contenu>
+    <contenu id="10">
+      <question>Wat is de officiële taal van golf, ingesteld vanwege zijn oorsprong ?</question>
+      <propositions>
+        <proposition id="10-1">Duits</proposition>
+        <proposition id="10-2">Engels</proposition>
+        <proposition id="10-3">Frans</proposition>
+        <proposition id="10-4">Spaans</proposition>
+      </propositions>
+      <réponse proposition="10-2">Engels</réponse>
+      <anecdote>In de golfregels gebruikt de Franse Golffederatie de Engelse termen wanneer ze door golfers worden gebruikt.</anecdote>
+    </contenu>
+  </débutant>
+  <confirmé>
+    <contenu id="11">
+      <question>Welke voorloper van modern golf heeft de bijnaam The Golden Bear ?</question>
+      <propositions>
+        <proposition id="11-1">Webb Simpson</proposition>
+        <proposition id="11-2">Lucas Glover</proposition>
+        <proposition id="11-3">Michael Campbell</proposition>
+        <proposition id="11-4">Jack Nicklaus</proposition>
+      </propositions>
+      <réponse proposition="11-4">Jack Nicklaus</réponse>
+      <anecdote>Het was de ontwikkeling van de rivaliteit van Jack Nicklaus met Arnold Palmer die een zekere interesse ontwikkelde voor golfkijkers.</anecdote>
+    </contenu>
+    <contenu id="12">
+      <question>Bij welke Olympische Spelen keerde golf terug na 112 jaar afwezigheid ?</question>
+      <propositions>
+        <proposition id="12-1">Sydney 2000</proposition>
+        <proposition id="12-2">Rio 2016</proposition>
+        <proposition id="12-3">Beijing 2008</proposition>
+        <proposition id="12-4">Londen 2012</proposition>
+      </propositions>
+      <réponse proposition="12-2">Rio 2016</réponse>
+      <anecdote>Golfwedstrijden werden gehouden tijdens de Olympische Spelen van Parijs van 1900 en opnieuw in 1904 in Saint-Louis.</anecdote>
+    </contenu>
+    <contenu id="13">
+      <question>Hoeveel gaten bevatten de eerste gang van Saint Andrews ?</question>
+      <propositions>
+        <proposition id="13-1">34</proposition>
+        <proposition id="13-2">22</proposition>
+        <proposition id="13-3">26</proposition>
+        <proposition id="13-4">30</proposition>
+      </propositions>
+      <réponse proposition="13-2">22</réponse>
+      <anecdote>De baan had in het begin tweeëntwintig holes voordat hij werd ingekort voor de bouw van huizen.</anecdote>
+    </contenu>
+    <contenu id="14">
+      <question>Wat Spaans wist golf buiten zijn traditionele landen ?</question>
+      <propositions>
+        <proposition id="14-1">Aaron</proposition>
+        <proposition id="14-2">Casper</proposition>
+        <proposition id="14-3">Coody</proposition>
+        <proposition id="14-4">Ballesteros</proposition>
+      </propositions>
+      <réponse proposition="14-4">Ballesteros</réponse>
+      <anecdote>Talloze tijden een wereld tussen 1986 en 1989, hij is een van de leidende figuren van de sport sinds het midden van de jaren 1970.</anecdote>
+    </contenu>
+    <contenu id="15">
+      <question>Wat is in golf de grens van een waterobstakel dat een hole kruist ?</question>
+      <propositions>
+        <proposition id="15-1">Blauwe Vlag</proposition>
+        <proposition id="15-2">Witte barrière</proposition>
+        <proposition id="15-3">Geel piket</proposition>
+        <proposition id="15-4">Rode bal</proposition>
+      </propositions>
+      <réponse proposition="15-3">Geel piket</réponse>
+      <anecdote>Een route kan boomdelen, struiken, maar ook waterlichamen of stromen bevatten die waterhindernissen worden genoemd.</anecdote>
+    </contenu>
+    <contenu id="16">
+      <question>In golf, welke Engelstalige term wordt gebruikt als je een shot maakt onder de maat ?</question>
+      <propositions>
+        <proposition id="16-1">Eagle</proposition>
+        <proposition id="16-2">Bogey</proposition>
+        <proposition id="16-3">Birdie</proposition>
+        <proposition id="16-4">Albatros</proposition>
+      </propositions>
+      <réponse proposition="16-3">Birdie</réponse>
+      <anecdote>De Birdie-putt geeft aan dat als de bal in het gat valt als gevolg van deze putt, de speler een birdie zal opnemen.</anecdote>
+    </contenu>
+    <contenu id="17">
+      <question>Welke golfster won de Masters en de British Open in 1990 ?</question>
+      <propositions>
+        <proposition id="17-1">Nick Faldo</proposition>
+        <proposition id="17-2">Dustin Johnson</proposition>
+        <proposition id="17-3">Tom Watson</proposition>
+        <proposition id="17-4">Larry Nelson</proposition>
+      </propositions>
+      <réponse proposition="17-1">Nick Faldo</réponse>
+      <anecdote>Hij won in 1990 opnieuw de titel van Europese Tour Speler van het Jaar, waaraan hij de titel van Speler van het Jaar van de PGA Tour toevoegt.</anecdote>
+    </contenu>
+    <contenu id="18">
+      <question>Welke van deze voorstellen komt niet overeen met een naam van een golfclub ?</question>
+      <propositions>
+        <proposition id="18-1">Putter</proposition>
+        <proposition id="18-2">Eagle</proposition>
+        <proposition id="18-3">IJzer</proposition>
+        <proposition id="18-4">Hout</proposition>
+      </propositions>
+      <réponse proposition="18-2">Eagle</réponse>
+      <anecdote>Aan het begin van een cursus moet een golfer maximaal veertien clubs bij zich hebben: de keuze is daarom bepalend.</anecdote>
+    </contenu>
+    <contenu id="19">
+      <question>Welke golfclub kan de bal ver genoeg sturen met een gespannen traject ?</question>
+      <propositions>
+        <proposition id="19-1">Putter</proposition>
+        <proposition id="19-2">Hout</proposition>
+        <proposition id="19-3">Hybride</proposition>
+        <proposition id="19-4">IJzer</proposition>
+      </propositions>
+      <réponse proposition="19-2">Hout</réponse>
+      <anecdote>Het bos bestaat in de maten 1, 3, 5, 7 en 9, maar kan oplopen tot 13.</anecdote>
+    </contenu>
+    <contenu id="20">
+      <question>Welk effect heeft een golfbal op een sterk vertraagde impact ?</question>
+      <propositions>
+        <proposition id="20-1">Rugspin</proposition>
+        <proposition id="20-2">Houding</proposition>
+        <proposition id="20-3">Topspin</proposition>
+        <proposition id="20-4">Swing</proposition>
+      </propositions>
+      <réponse proposition="20-1">Rugspin</réponse>
+      <anecdote>Vaak gebruikt tijdens het naderen van groen, zal een bal met rugspin vallen en dan teruggaan op een variabele afstand.</anecdote>
+    </contenu>
+  </confirmé>
+  <expert>
+    <contenu id="21">
+      <question>In welk land werd golf voor het eerst gecodificeerd in 1754 ?</question>
+      <propositions>
+        <proposition id="21-1">Schotland</proposition>
+        <proposition id="21-2">Duitsland</proposition>
+        <proposition id="21-3">Australië</proposition>
+        <proposition id="21-4">Spanje</proposition>
+      </propositions>
+      <réponse proposition="21-1">Schotland</réponse>
+      <anecdote>Gecodificeerd in Schotland in 1754 door de Royal And Ancient Golf Club van Saint Andrews, deze sport heeft verschillende oorsprong, waaronder het spel van post.</anecdote>
+    </contenu>
+    <contenu id="22">
+      <question>Hoeveel reguliere golfers hebben we in 2010 geteld ?</question>
+      <propositions>
+        <proposition id="22-1">57 miljoen</proposition>
+        <proposition id="22-2">82 miljoen</proposition>
+        <proposition id="22-3">63 miljoen</proposition>
+        <proposition id="22-4">74 miljoen</proposition>
+      </propositions>
+      <réponse proposition="22-2">82 miljoen</réponse>
+      <anecdote>Globalisering in de late twintigste eeuw, golf wordt minder beoefend door vrouwen en lijdt aan ongelijke media en financiële behandeling.</anecdote>
+    </contenu>
+    <contenu id="23">
+      <question>Welke professionele advocaat kreeg de bijnaam Mozart of golf ?</question>
+      <propositions>
+        <proposition id="23-1">Chick Evans</proposition>
+        <proposition id="23-2">Alex Smith</proposition>
+        <proposition id="23-3">Bobby Jones</proposition>
+        <proposition id="23-4">Alec Ross</proposition>
+      </propositions>
+      <réponse proposition="23-3">Bobby Jones</réponse>
+      <anecdote>De meest volleerde amateur-golfer nationaal en internationaal, speelde hij slechts 53 toernooien en won 23.</anecdote>
+    </contenu>
+    <contenu id="24">
+      <question>In welk jaar werd de eerste British Open pro gespeeld ?</question>
+      <propositions>
+        <proposition id="24-1">1920</proposition>
+        <proposition id="24-2">1950</proposition>
+        <proposition id="24-3">1890</proposition>
+        <proposition id="24-4">1860</proposition>
+      </propositions>
+      <réponse proposition="24-4">1860</réponse>
+      <anecdote>Scheidsrechtertoernooi tot de jaren 1930, de British Open Pro werd een van de Grand Slam-toernooien in de jaren 1960.</anecdote>
+    </contenu>
+    <contenu id="25">
+      <question>Hoe werd golf in het begin van Nederland genoemd ?</question>
+      <propositions>
+        <proposition id="25-1">Rolf</proposition>
+        <proposition id="25-2">Wolf</proposition>
+        <proposition id="25-3">Colf</proposition>
+        <proposition id="25-4">Dolf</proposition>
+      </propositions>
+      <réponse proposition="25-3">Colf</réponse>
+      <anecdote>Vanwege de vele uitwisselingen tussen Nederland en Schotland hebben de Nederlanders dit spel geëxporteerd (kolbe akte betekent concreet).</anecdote>
+    </contenu>
+    <contenu id="26">
+      <question>In welke stad vestigde het zich in 1627 als eerste fabrikant van golfclubs ?</question>
+      <propositions>
+        <proposition id="26-1">Londen</proposition>
+        <proposition id="26-2">Dublin</proposition>
+        <proposition id="26-3">Oslo</proposition>
+        <proposition id="26-4">Saint Andrews</proposition>
+      </propositions>
+      <réponse proposition="26-4">Saint Andrews</réponse>
+      <anecdote>Deze Schotse stad ligt aan de Noordzeekust tussen Edinburgh en Dundee en heeft een bevolking van 15.</anecdote>
+    </contenu>
+    <contenu id="27">
+      <question>Hoeveel toeristen komen er gemiddeld elk jaar golfen in Thailand ?</question>
+      <propositions>
+        <proposition id="27-1">100.000</proposition>
+        <proposition id="27-2">400.000</proposition>
+        <proposition id="27-3">300.000</proposition>
+        <proposition id="27-4">200.000</proposition>
+      </propositions>
+      <réponse proposition="27-2">400.000</réponse>
+      <anecdote>Thailand heeft van golf een promotieartikel voor toerisme gemaakt door hen een catalogus van 280 verschillende banen aan te bieden.</anecdote>
+    </contenu>
+    <contenu id="28">
+      <question>Welk bestrijdingsmiddel op golfbanen is in de Verenigde Staten verboden ?</question>
+      <propositions>
+        <proposition id="28-1">Novaluron</proposition>
+        <proposition id="28-2">Spinosad</proposition>
+        <proposition id="28-3">Diazinon</proposition>
+        <proposition id="28-4">Firponil</proposition>
+      </propositions>
+      <réponse proposition="28-3">Diazinon</réponse>
+      <anecdote>Diazinon werd ooit gebruikt om de invasie van kakkerlakken, zilvervissen, mieren en vlooien te beheersen.</anecdote>
+    </contenu>
+    <contenu id="29">
+      <question>Hoeveel depressies hebben de meeste golfballen te koop ?</question>
+      <propositions>
+        <proposition id="29-1">450</proposition>
+        <proposition id="29-2">150</proposition>
+        <proposition id="29-3">300</proposition>
+        <proposition id="29-4">600</proposition>
+      </propositions>
+      <réponse proposition="29-1">450</réponse>
+      <anecdote>De impact van een slagbal (één milliseconde) bepaalt de snelheid van de bal, de vuurhoek en de rotatiesnelheid.</anecdote>
+    </contenu>
+    <contenu id="30">
+      <question>Wat is de populairste golfbaan voor dames ?</question>
+      <propositions>
+        <proposition id="30-1">FGTB</proposition>
+        <proposition id="30-2">BKCP</proposition>
+        <proposition id="30-3">CGSP</proposition>
+        <proposition id="30-4">LPGA</proposition>
+      </propositions>
+      <réponse proposition="30-4">LPGA</réponse>
+      <anecdote>In 2017 bedroeg de totale golfronde voor dames $ 67 miljoen, vergeleken met $ 58 miljoen in 2008.</anecdote>
+    </contenu>
+  </expert>
+  </nl>
+</quizz>

@@ -1,0 +1,1650 @@
+---
+fournisseur: OpenQuizzDB - Fournisseur de contenu libre (https://www.openquizzdb.org)
+rédacteur: Philippe Bresoux
+thème: Steven Spielberg (Mélanger les rêves en faisant des films)
+difficulté: 3 / 5
+quizz:
+  fr:
+  - débutant:
+    - id: 1
+      question: Quelle est la nationalité du réalisateur et producteur Steven Spielberg ?
+      propositions:
+      - Marocaine
+      - Tunisienne
+      - Américaine
+      - Canadienne
+      réponse: Américaine
+      anecdote: Steven Spielberg est né à Cincinnati, dans l'Ohio, le 18 décembre 1946, d'un père informaticien et d'une mère pianiste.
+    - id: 2
+      question: Quel film de Spielberg a été le premier véritable blockbuster du cinéma américain ?
+      propositions:
+      - Jaws
+      - Minority Report
+      - La Couleur pourpre
+      - Jurassic Park
+      réponse: Jaws
+      anecdote: Le film « Les Dents de la mer » est adapté du roman éponyme de Peter Benchley, publié en 1974 aux éditions Doubleday.
+    - id: 3
+      question: Qui est sans conteste le compositeur attitré des films de Steven Spielberg ?
+      propositions:
+      - John Williams
+      - Giorgio Moroder
+      - John Barry 
+      - James Horner
+      réponse: John Williams
+      anecdote: Avec 49 nominations aux Oscars, Williams est la deuxième personne la plus nommée après Walt Disney.
+    - id: 4
+      question: Quelle saga de Spielberg mélange aventures et personnages hauts en couleur ?
+      propositions:
+      - Minority Report
+      - Transformers
+      - Jurassic Park
+      - Indiana Jones
+      réponse: Indiana Jones
+      anecdote: Le récit de ses premières aventures mêle fiction et réalité, Indy rencontrant des personnages ayant réellement existé.
+    - id: 5
+      question: De quelle actrice, présente dans le film « E.T. », Steven Spielberg est-il le parrain ?
+      propositions:
+      - Téa Leoni
+      - Neve Campbell
+      - Christina Ricci
+      - Drew Barrymore
+      réponse: Drew Barrymore
+      anecdote: Après avoir tourné des films de série B, elle a fait un retour fracassant dans les années 1990, notamment avec « Scream ».
+    - id: 6
+      question: Quel film de dinosaures a rapporté plus de 900 millions de dollars de recette ?
+      propositions:
+      - Raptor
+      - Jurassic Park
+      - Future War
+      - Carnosaur
+      réponse: Jurassic Park
+      anecdote: La sortie du premier film s'est accompagnée d'un véritable travail de préparation à long terme pour intéresser le public.
+    - id: 7
+      question: Quel soldat faut-il sauver dans un film réalisé par Steven Spielberg ?
+      propositions:
+      - Soldat Adams
+      - Soldat Ryan
+      - Soldat Moore
+      - Soldat Garner
+      réponse: Soldat Ryan
+      anecdote: La reconstitution très réaliste du débarquement de Normandie est l'un des points forts du film.
+    - id: 8
+      question: Quel film représente le plus grand succès commercial de la carrière de Steven Spielberg ?
+      propositions:
+      - Empire du soleil
+      - Hook
+      - Amistad
+      - Jurassic Park
+      réponse: Jurassic Park
+      anecdote: Deux ans après sa ressortie en 3D, le film a fait partie de la sélection Cannes Classics lors du Festival de Cannes 2015.
+    - id: 9
+      question: Quel film de Steven Spielberg est en fait une adaptation de Peter Pan ?
+      propositions:
+      - Amistad
+      - Hook
+      - Sugarland Express
+      - Munich
+      réponse: Hook
+      anecdote: Le scénario montre un Peter Pan adulte, devenu un avocat d'affaires marié et père de deux enfants.
+    - id: 10
+      question: Un projet converti en film, raconté sur fond de Shoah, a pour titre « La Liste de »...
+      propositions:
+      - Schindler
+      - Brecht
+      - Hermann
+      - Dickmann
+      réponse: Schindler
+      anecdote: Oskar Schindler a réussi à sauver environ 1 100 Juifs promis à la mort dans le camp de concentration de Plaszow.
+  - confirmé:
+    - id: 11
+      question: Quel téléfilm est devenu le premier gros succès de Spielberg auprès du grand public ?
+      propositions:
+      - 1941
+      - Amistad
+      - Munich
+      - Duel
+      réponse: Duel
+      anecdote: « Duel » met en scène un représentant en informatique, interprété par Dennis Weaver, dont la vie est menacée par un camion poids lourd.
+    - id: 12
+      question: Avec qui Steven Spielberg est-il associé dans la réalisation de la saga « Indiana Jones » ?
+      propositions:
+      - George Lucas
+      - Ridley Scott
+      - James Cameron
+      - Ron Howard
+      réponse: George Lucas
+      anecdote: Par l'intermédiaire de sa société Lucasfilm, George Lucas produit des fictions et des documentaires pour le cinéma.
+    - id: 13
+      question: Dans quel film un Anglais est-il pris dans la tourmente de la Seconde Guerre mondiale ?
+      propositions:
+      - La Couleur pourpre
+      - Le Terminal
+      - Empire du soleil
+      - Minority Report
+      réponse: Empire du soleil
+      anecdote: Le film « Empire du soleil » est pour Christian Bale, qui interprète le héros, son premier rôle au cinéma.
+    - id: 14
+      question: Quel film raconte la vie d'une famille noire aux États-Unis à la moitié du XXème siècle ?
+      propositions:
+      - Le Livre témoin
+      - Empire du soleil
+      - Sugarland Express
+      - La Couleur pourpre
+      réponse: La Couleur pourpre
+      anecdote: Aux Oscars, le film « La Couleur pourpre » a été nominé dans toutes les catégories à l'exception de meilleur réalisateur.
+    - id: 15
+      question: Quel film a rassemblé sur les écrans Morgan Freeman et Anthony Hopkins ?
+      propositions:
+      - Amistad
+      - Indiana Jones
+      - Minority Report
+      - Lincoln
+      réponse: Amistad
+      anecdote: Le film est inspiré de faits authentiques, une mutinerie d'un groupe d'esclaves africains transportés à bord de La Amistad en 1839.
+    - id: 16
+      question: Dans quel film de Steven Spielberg un policier est-il piégé par un trinôme de devins ?
+      propositions:
+      - Minority Report
+      - Sugarland Express
+      - Amistad
+      - Hook
+      réponse: Minority Report
+      anecdote: Le film « Minority Report », lui-même adaptation de la nouvelle éponyme, a connu deux adaptations sous forme de jeu vidéo.
+    - id: 17
+      question: Quel film de Steven Spielberg se déroule presque exclusivement dans un aéroport ?
+      propositions:
+      - Empire du soleil
+      - Minority Report
+      - Le Terminal
+      - La Couleur pourpre
+      réponse: Le Terminal
+      anecdote: Le rôle de Lucy, la jeune fille que Viktor aide à fermer sa valise, est interprété par Sasha Spielberg, la fille du cinéaste.
+    - id: 18
+      question: Quelle saga de Michael Bay a été produite par Steven Spielberg ?
+      propositions:
+      - The Island
+      - Transformers
+      - Bad Boys
+      - Armageddon
+      réponse: Transformers
+      anecdote: C'est Lorenzo Di Bonaventura qui conseilla Shia LaBeouf à Michael Bay, après avoir travaillé avec lui dans « Constantine ».
+    - id: 19
+      question: Quel personnage de BD est à la base du premier film en 3D sorti par Steven Spielberg ?
+      propositions:
+      - Max Payne
+      - Jason Todd
+      - Tintin
+      - Le Rôdeur
+      réponse: Tintin
+      anecdote: Sony et Paramount ont investi 100 millions d'euros dans la campagne médiatique du film « Tintin ».
+    - id: 20
+      question: Sur quelle planète se déroulent les films de science-fiction réalisés par Steven Spielberg ?
+      propositions:
+      - Sur Mars
+      - Sur la Lune
+      - Sur Jupiter
+      - Sur Terre
+      réponse: Sur Terre
+      anecdote: Steven Spielberg, surnommé « le roi du divertissement », a personnellement reçu trois Oscars.
+  - expert:
+    - id: 21
+      question: Combien d'Oscars Steven Spielberg a-t-il reçu durant sa carrière ?
+      propositions:
+      - Quatre
+      - Deux
+      - Cinq
+      - Trois
+      réponse: Trois
+      anecdote: Steven Spielberg a reçu un Oscar pour le meilleur film (en 1994) et deux du meilleur réalisateur (en 1994 et 1999).
+    - id: 22
+      question: Quel titre porte le premier long-métrage réalisé pour le cinéma par Steven Spielberg ?
+      propositions:
+      - Empire du soleil
+      - Sugarland Express
+      - Hook
+      - Cheval de guerre
+      réponse: Sugarland Express
+      anecdote: Ce film est le premier de Steven Spielberg réalisé pour le cinéma (« Firelight » étant un home-movie et « Duel » à l'origine un téléfilm).
+    - id: 23
+      question: Quel film fantastique, réalisé par Tobe Hooper, a été produit par Steven Spielberg ?
+      propositions:
+      - Beetlejuice
+      - La Mouche
+      - Dead Zone
+      - Poltergeist
+      réponse: Poltergeist
+      anecdote: La franchise de Poltergeist est considérée comme maudite suite à la mort prématurée de plusieurs personnes associées au film.
+    - id: 24
+      question: En quelle année Steven Spielberg a-t-il présidé le Festival de Cannes ?
+      propositions:
+      - 2007
+      - 2011
+      - 2009
+      - 2013
+      réponse: 2013
+      anecdote: En 1977, Steven Spielberg fut président du jury du cinquième Festival international du film fantastique d'Avoriaz.
+    - id: 25
+      question: De quelle société de production Steven Spielberg est-il le fondateur ?
+      propositions:
+      - Blue Sky
+      - Pacific Data
+      - Playtone
+      - Amblin
+      réponse: Amblin
+      anecdote: Le nom du studio Amblin est inspiré d'un des premiers films de Steven Spielberg, « Amblin' », datant de 1968.
+    - id: 26
+      question: Dans quel film de Spielberg, Audrey Hepburn apparaît-elle pour la dernière fois ?
+      propositions:
+      - Amistad
+      - Always
+      - Hook
+      - Duel
+      réponse: Always
+      anecdote: Une fois le film terminé, Steven Spielberg offrit une Mazda MX5 Mk1 à Richard Dreyfuss, Holly Hunter et John Goodman.
+    - id: 27
+      question: Quel film de Spielberg, sorti en 2012, a reçu douze nominations aux Oscars ?
+      propositions:
+      - Minority Report
+      - Lincoln
+      - Empire du soleil
+      - Le Terminal
+      réponse: Lincoln
+      anecdote: Son interprète principal, Daniel Day-Lewis, a remporté quant à lui l'Oscar du meilleur acteur.
+    - id: 28
+      question: Quel réalisateur de cinéma est très souvent appelé le « Spielberg français » ?
+      propositions:
+      - Guillaume Canet
+      - Bertrand Tavernier
+      - Luc Besson
+      - Patrice Leconte
+      réponse: Luc Besson
+      anecdote: Luc Besson est surtout internationalement connu pour les séries de films « Taxi », « Taken » et « Le Transporteur ».
+    - id: 29
+      question: Quel épisode de la série télévisée « Columbo » a été réalisé par Steven Spielberg ?
+      propositions:
+      - Le Livre témoin
+      - Faux Témoin
+      - Poids mort
+      - Plein Cadre
+      réponse: Le Livre témoin
+      anecdote: Dans cet épisode de « Columbo », l'assassin est amené à commettre un second crime pour assurer ses arrières.
+    - id: 30
+      question: Quel réalisateur français Steven Spielberg considère-t-il comme son modèle ?
+      propositions:
+      - Luc Besson
+      - Claude Zidi
+      - François Truffaut
+      - Michel Deville
+      réponse: François Truffaut
+      anecdote: François Truffaut fut critique historique de la revue « les Cahiers du cinéma » et figure majeure de la Nouvelle Vague.
+  en:
+  - débutant:
+    - id: 1
+      question: What is the nationality of director and producer Steven Spielberg ?
+      propositions:
+      - Tunisian
+      - Moroccan
+      - American
+      - Canadian
+      réponse: American
+      anecdote: Steven Spielberg was born in Cincinnati, Ohio on December 18, 1946, to a computer scientist father and a pianist mother.
+    - id: 2
+      question: Which Spielberg film was the first real blockbuster in American cinema ?
+      propositions:
+      - Jurassic Park
+      - The Teeth of the Sea
+      - Minority Report
+      - The Color Purple
+      réponse: The Teeth of the Sea
+      anecdote: The film « The Teeth of the Sea » is adapted from the eponymous novel by Peter Benchley, published in 1974 by Doubleday editions.
+    - id: 3
+      question: Who is undoubtedly the official composer of Steven Spielberg's films ?
+      propositions:
+      - John Williams
+      - John Barry
+      - James Horner
+      - Giorgio Moroder
+      réponse: John Williams
+      anecdote: With 49 Oscar nominations, Williams is the second most nominated person after Walt Disney.
+    - id: 4
+      question: Which Spielberg saga mixes adventures and colorful characters ?
+      propositions:
+      - The Teeth of the Sea
+      - Jurassic Park
+      - Transformers
+      - Indiana Jones
+      réponse: Indiana Jones
+      anecdote: The account of his first adventures mixes fiction and reality, Indy meeting characters who really existed.
+    - id: 5
+      question: Which actress, featured in the film « E.T. », is Steven Spielberg the godfather ?
+      propositions:
+      - Neve Campbell
+      - Drew Barrymore
+      - Christina Ricci
+      - Téa Leoni
+      réponse: Drew Barrymore
+      anecdote: After making B movies, she made a dramatic comeback in the 1990s, notably with « Scream ».
+    - id: 6
+      question: Which dinosaur movie grossed over $ 900 million in revenue ?
+      propositions:
+      - Future War
+      - Raptor
+      - Carnosaur
+      - Jurassic Park
+      réponse: Jurassic Park
+      anecdote: The release of the first film was accompanied by a real long-term preparation work to interest the public.
+    - id: 7
+      question: Which soldier should we save in a movie directed by Steven Spielberg ?
+      propositions:
+      - Private Moore
+      - Private Garner
+      - Private Adams
+      - Private Ryan
+      réponse: Private Ryan
+      anecdote: The very realistic reconstruction of the Normandy landings is one of the highlights of the film.
+    - id: 8
+      question: Which film represents the greatest commercial success of Steven Spielberg's career ?
+      propositions:
+      - Empire of the Sun
+      - Jurassic Park
+      - Amistad
+      - Hook
+      réponse: Jurassic Park
+      anecdote: Two years after its release in 3D, the film was part of the Cannes Classics selection at the 2015 Cannes Film Festival.
+    - id: 9
+      question: Which Steven Spielberg movie is actually an adaptation of Peter Pan ?
+      propositions:
+      - Amistad
+      - Sugarland Express
+      - Hook
+      - Munich
+      réponse: Hook
+      anecdote: The script shows an adult Peter Pan who has become a married business lawyer with two children.
+    - id: 10
+      question: A project converted into a film, told against a background of the Shoah, is entitled « The List of »...
+      propositions:
+      - Hermann
+      - Brecht
+      - Schindler
+      - Dickmann
+      réponse: Schindler
+      anecdote: Oskar Schindler managed to save about 1,100 Jews promised death in the Plaszow concentration camp.
+  - confirmé:
+    - id: 11
+      question: Which TV movie became Steven Spielberg's first big hit with the general public ?
+      propositions:
+      - 1941
+      - Duel
+      - Amistad
+      - Munich
+      réponse: Duel
+      anecdote: « Duel » features a computer representative, played by Dennis Weaver, whose life is threatened by a heavy truck.
+    - id: 12
+      question: With whom is Steven Spielberg associated in the making of the « Indiana Jones » saga ?
+      propositions:
+      - James Cameron
+      - Ron Howard
+      - George Lucas
+      - Ridley Scott
+      réponse: George Lucas
+      anecdote: Through his company Lucasfilm, George Lucas produces fiction and documentaries for the cinema.
+    - id: 13
+      question: In which film is a young Englishman caught in the turmoil of World War II ?
+      propositions:
+      - Empire of the Sun
+      - The Terminal
+      - The Color Purple
+      - Minority Report
+      réponse: Empire of the Sun
+      anecdote: The film « Empire of the Sun » is for Christian Bale, who plays the hero, his first movie role.
+    - id: 14
+      question: What film tells the story of a black family in the United States in the mid-20th century ?
+      propositions:
+      - The Color Purple
+      - Empire of the Sun
+      - Sugarland Express
+      - The Witness Book
+      réponse: The Color Purple
+      anecdote: At the Oscars, the film « The Color Purple » was nominated in all categories except Best Director.
+    - id: 15
+      question: What film has Morgan Freeman and Anthony Hopkins collected on the screens ?
+      propositions:
+      - Lincoln
+      - Amistad
+      - Indiana Jones
+      - Minority Report
+      réponse: Amistad
+      anecdote: The film is based on authentic facts, a mutiny by a group of African slaves transported aboard La Amistad in 1839.
+    - id: 16
+      question: In which Steven Spielberg film is a policeman trapped by a trinomial of diviners ?
+      propositions:
+      - Minority Report
+      - Hook
+      - Sugarland Express
+      - Amistad
+      réponse: Minority Report
+      anecdote: The film « Minority Report », itself an adaptation of the eponymous short story, has seen two adaptations in the form of a video game.
+    - id: 17
+      question: Which Steven Spielberg film takes place almost exclusively in an airport ?
+      propositions:
+      - Minority Report
+      - Empire of the Sun
+      - The Terminal
+      - The Color Purple
+      réponse: The Terminal
+      anecdote: The role of Lucy, the young girl Viktor helps to close her suitcase, is played by Sasha Spielberg, the filmmaker's daughter.
+    - id: 18
+      question: Which Michael Bay saga was produced by Steven Spielberg ?
+      propositions:
+      - The Island
+      - Transformers
+      - Armageddon
+      - Bad Boys
+      réponse: Transformers
+      anecdote: It was Lorenzo Di Bonaventura who advised Shia LaBeouf in Michael Bay, after having worked with him in « Constantine ».
+    - id: 19
+      question: Which comic book character is the first 3D film released by Steven Spielberg ?
+      propositions:
+      - Tintin
+      - Jason Todd
+      - Max Payne
+      - The Ranger
+      réponse: Tintin
+      anecdote: Sony and Paramount have invested 100 million euros in the media campaign for the film « Tintin ».
+    - id: 20
+      question: On which planet are the science fiction films directed by Steven Spielberg set ?
+      propositions:
+      - On Earth
+      - On Mars
+      - On the Moon
+      - On Jupiter
+      réponse: On Earth
+      anecdote: Steven Spielberg, nicknamed the King of Entertainment, has personally received three Oscars.
+  - expert:
+    - id: 21
+      question: How many Oscars has Steven Spielberg received during his career ?
+      propositions:
+      - Four
+      - Two
+      - Five
+      - Three
+      réponse: Three
+      anecdote: Steven Spielberg received an Oscar for Best Picture (in 1994) and two for Best Director (in 1994 and 1999).
+    - id: 22
+      question: What is the title of the first feature film directed for the cinema by Steven Spielberg ?
+      propositions:
+      - Empire of the Sun
+      - Hook
+      - War horse
+      - Sugarland Express
+      réponse: Sugarland Express
+      anecdote: This film is Steven Spielberg's first ever made for theaters (« Firelight » being a home movie and « Duel » originally a TV movie).
+    - id: 23
+      question: What fantastic movie, directed by Tobe Hooper, was produced by Steven Spielberg ?
+      propositions:
+      - Beetlejuice
+      - Poltergeist
+      - Dead Zone
+      - The Fly
+      réponse: Poltergeist
+      anecdote: The Poltergeist franchise is considered cursed following the untimely deaths of several people associated with the film.
+    - id: 24
+      question: In what year did Steven Spielberg preside over the Cannes Film Festival ?
+      propositions:
+      - 2011
+      - 2007
+      - 2013
+      - 2009
+      réponse: 2013
+      anecdote: In 1977, Steven Spielberg was president of the jury of the fifth Avoriaz International Fantastic Film Festival.
+    - id: 25
+      question: What production company is Steven Spielberg the founder of ?
+      propositions:
+      - Pacific Data
+      - Blue Sky
+      - Playtone
+      - Amblin
+      réponse: Amblin
+      anecdote: The name of the Amblin studio is inspired by one of Steven Spielberg's first films, « Amblin' », dating from 1968.
+    - id: 26
+      question: Which Spielberg movie did Audrey Hepburn last appear in ?
+      propositions:
+      - Duel
+      - Amistad
+      - Always
+      - Hook
+      réponse: Always
+      anecdote: When the film was over, Steven Spielberg presented a Mazda MX5 Mk1 to Richard Dreyfuss, Holly Hunter and John Goodman.
+    - id: 27
+      question: Which Spielberg film, released in 2012, received twelve Oscar nominations ?
+      propositions:
+      - Minority Report
+      - The Terminal
+      - Lincoln
+      - Empire of the Sun
+      réponse: Lincoln
+      anecdote: Its main performer, Daniel Day-Lewis, won the Oscar for best actor.
+    - id: 28
+      question: Which film director is very often called the French Spielberg ?
+      propositions:
+      - Patrice Leconte
+      - Guillaume Canet
+      - Luc Besson
+      - Bertrand Tavernier
+      réponse: Luc Besson
+      anecdote: Luc Besson is best known internationally for the film series « Taxi », « Taken » and « Le Transporteur ».
+    - id: 29
+      question: Which episode of the « Columbo » television series was directed by Steven Spielberg ?
+      propositions:
+      - False Witness
+      - Dead weight
+      - The Witness Book
+      - Full Frame
+      réponse: The Witness Book
+      anecdote: In this episode of « Columbo », the assassin is led to commit a second crime to ensure his rear.
+    - id: 30
+      question: Which French director Steven Spielberg does he consider as his model ?
+      propositions:
+      - Michel Deville
+      - François Truffaut
+      - Claude Zidi
+      - Jean-Jacques Annaud
+      réponse: François Truffaut
+      anecdote: François Truffaut was a historical critic of the review « les Cahiers du cinéma » and a major figure in the New Wave.
+  de:
+  - débutant:
+    - id: 1
+      question: Welche Nationalität hat der Regisseur und Produzent Steven Spielberg ?
+      propositions:
+      - Amerikaner
+      - Marokkaner
+      - Kanadier
+      - Tunesisch
+      réponse: Amerikaner
+      anecdote: Steven Spielberg wurde am 18. Dezember 1946 in Cincinnati, Ohio, als Sohn eines Vaters eines Informatikers und einer Mutter eines Pianisten geboren.
+    - id: 2
+      question: Welcher Spielberg-Film war der erste echte Blockbuster im amerikanischen Kino ?
+      propositions:
+      - Die Farbe Lila
+      - Jurassic Park
+      - Die Zähne des Meeres
+      - Minderheitenbericht
+      réponse: Die Zähne des Meeres
+      anecdote: Der Film « Die Zähne des Meeres » ist aus dem gleichnamigen Roman von Peter Benchley adaptiert, der 1974 in den Doubleday-Ausgaben veröffentlicht wurde.
+    - id: 3
+      question: Wer ist zweifellos der offizielle Komponist von Steven Spielbergs Filmen ?
+      propositions:
+      - John Williams
+      - James Horner
+      - John Barry
+      - Giorgio Moroder
+      réponse: John Williams
+      anecdote: Mit 49 Oscar-Nominierungen ist Williams nach Walt Disney die am zweithäufigsten nominierte Person.
+    - id: 4
+      question: Welche Spielberg-Saga mischt Abenteuer und farbenfrohe Charaktere ?
+      propositions:
+      - Transformers
+      - Jurassic Park
+      - Indiana Jones
+      - Die Zähne des Meeres
+      réponse: Indiana Jones
+      anecdote: Der Bericht über seine ersten Abenteuer vermischt Fiktion und Realität, Indy trifft Charaktere, die wirklich existierten.
+    - id: 5
+      question: Welche Schauspielerin im Film « E.T. » ist Steven Spielberg der Pate ?
+      propositions:
+      - Christina Ricci
+      - Drew Barrymore
+      - Neve Campbell
+      - Téa Leoni
+      réponse: Drew Barrymore
+      anecdote: Nachdem sie B-Filme gedreht hatte, feierte sie in den 1990er Jahren ein dramatisches Comeback, insbesondere mit « Scream ».
+    - id: 6
+      question: Welcher Dinosaurierfilm erzielte einen Umsatz von über 900 Millionen US-Dollar ?
+      propositions:
+      - Jurassic Park
+      - Carnosaur
+      - Future War
+      - Raptor
+      réponse: Jurassic Park
+      anecdote: Die Veröffentlichung des ersten Films wurde von einer echten langfristigen Vorbereitungsarbeit begleitet, um das Publikum zu interessieren.
+    - id: 7
+      question: Welchen Soldaten sollten wir in einem Film von Steven Spielberg retten ?
+      propositions:
+      - Privat Ryan
+      - Private Moore
+      - Privater Garner
+      - Private Adams
+      réponse: Privat Ryan
+      anecdote: Die sehr realistische Rekonstruktion der Landungen in der Normandie ist einer der Höhepunkte des Films.
+    - id: 8
+      question: Welcher Film ist der größte kommerzielle Erfolg in Steven Spielbergs Karriere ?
+      propositions:
+      - Reich der Sonne
+      - Amistad
+      - Jurassic Park
+      - Hook
+      réponse: Jurassic Park
+      anecdote: Zwei Jahre nach seiner Veröffentlichung in 3D war der Film Teil der Auswahl der Cannes Classics bei den Filmfestspielen von Cannes 2015.
+    - id: 9
+      question: Welcher Steven Spielberg Film ist eigentlich eine Adaption von Peter Pan ?
+      propositions:
+      - Munich
+      - Amistad
+      - Sugarland Express
+      - Hook
+      réponse: Hook
+      anecdote: Das Drehbuch zeigt einen erwachsenen Peter Pan, der ein verheirateter Wirtschaftsanwalt mit zwei Kindern geworden ist.
+    - id: 10
+      question: Ein in einen Film umgewandeltes Projekt, das vor dem Hintergrund der Shoah erzählt wird, trägt den Titel « The List of »...
+      propositions:
+      - Dickmann
+      - Brecht
+      - Hermann
+      - Schindler
+      réponse: Schindler
+      anecdote: Oskar Schindler konnte rund 1.100 Juden sparen, um den Tod im Plaszow-Konzentrationslager versprochen zu haben.
+  - confirmé:
+    - id: 11
+      question: Welcher Fernsehfilm wurde Steven Spielbergs erster großer Erfolg in der Öffentlichkeit ?
+      propositions:
+      - Duel
+      - Amistad
+      - Munich
+      - 1941
+      réponse: Duel
+      anecdote: « Duel » zeigt einen Computervertreter, gespielt von Dennis Weaver, dessen Leben von einem schweren Lastwagen bedroht wird.
+    - id: 12
+      question: Mit wem ist Steven Spielberg bei der Entstehung der « Indiana Jones » -Saga verbunden ?
+      propositions:
+      - James Cameron
+      - Ron Howard
+      - Ridley Scott
+      - George Lucas
+      réponse: George Lucas
+      anecdote: Über seine Firma Lucasfilm produziert George Lucas Belletristik und Dokumentationen für das Kino.
+    - id: 13
+      question: In welchem Film ist ein junger Engländer in den Wirren des Zweiten Weltkriegs gefangen ?
+      propositions:
+      - Das Terminal
+      - Die Farbe Lila
+      - Reich der Sonne
+      - Minderheitenbericht
+      réponse: Reich der Sonne
+      anecdote: Der Film « Empire of the Sun » ist für Christian Bale, der den Helden spielt, seine erste Filmrolle.
+    - id: 14
+      question: Welcher Film erzählt die Geschichte einer schwarzen Familie in den Vereinigten Staaten Mitte des 20. Jahrhunderts ?
+      propositions:
+      - Die Farbe Lila
+      - Sugarland Express
+      - Das Zeugenbuch
+      - Reich der Sonne
+      réponse: Die Farbe Lila
+      anecdote: Bei den Oscars wurde der Film « The Color Purple » in allen Kategorien außer dem besten Regisseur nominiert.
+    - id: 15
+      question: Welchen Film haben Morgan Freeman und Anthony Hopkins auf den Bildschirmen gesammelt ?
+      propositions:
+      - Minority Report
+      - Lincoln
+      - Indiana Jones
+      - Amistad
+      réponse: Amistad
+      anecdote: Der Film basiert auf authentischen Fakten, einer Meuterei einer Gruppe afrikanischer Sklaven, die 1839 an Bord von La Amistad transportiert wurde.
+    - id: 16
+      question: In welchem Steven Spielberg-Film ist ein Polizist von einem Trinom von Wahrsagern gefangen ?
+      propositions:
+      - Hook
+      - Minority Report
+      - Sugarland Express
+      - Amistad
+      réponse: Minority Report
+      anecdote: Der Film « Minority Report », selbst eine Adaption der gleichnamigen Kurzgeschichte, hat zwei Adaptionen in Form eines Videospiels gesehen.
+    - id: 17
+      question: Welcher Steven Spielberg Film spielt fast ausschließlich auf einem Flughafen ?
+      propositions:
+      - Minority Report
+      - Reich der Sonne
+      - Die Farbe Lila
+      - Das Terminal
+      réponse: Das Terminal
+      anecdote: Die Rolle von Lucy, dem jungen Mädchen, das Viktor beim Schließen ihres Koffers hilft, spielt Sasha Spielberg, die Tochter des Filmemachers.
+    - id: 18
+      question: Welche Michael Bay-Saga wurde von Steven Spielberg produziert ?
+      propositions:
+      - Transformers
+      - Armageddon
+      - Die Insel
+      - Bad Boys
+      réponse: Transformers
+      anecdote: Es war Lorenzo Di Bonaventura, der Shia LaBeouf in Michael Bay beriet, nachdem er mit ihm in « Constantine » gearbeitet hatte.
+    - id: 19
+      question: Welche Comicfigur ist der erste 3D-Film von Steven Spielberg ?
+      propositions:
+      - Tintin
+      - Max Payne
+      - Der Waldläufer
+      - Jason Todd
+      réponse: Tintin
+      anecdote: Sony und Paramount haben 100 Millionen Euro in die Medienkampagne für den Film « Tim und Struppi » investiert.
+    - id: 20
+      question: Auf welchem Planeten spielen die Science-Fiction-Filme von Steven Spielberg ?
+      propositions:
+      - Auf dem Mond
+      - Auf der Erde
+      - Auf Jupiter
+      - Auf dem Mars
+      réponse: Auf der Erde
+      anecdote: Steven Spielberg, mit dem Spitznamen King of Entertainment, hat persönlich drei Oscars erhalten.
+  - expert:
+    - id: 21
+      question: Wie viele Oscars hat Steven Spielberg während seiner Karriere erhalten ?
+      propositions:
+      - Vier
+      - Fünf
+      - Drei
+      - Zwei
+      réponse: Drei
+      anecdote: Steven Spielberg erhielt einen Oscar für das beste Bild (1994) und zwei für den besten Regisseur (1994 und 1999).
+    - id: 22
+      question: Wie lautet der Titel des ersten Spielfilms von Steven Spielberg für das Kino ?
+      propositions:
+      - Hook
+      - Reich der Sonne
+      - Kriegspferd
+      - Sugarland Express
+      réponse: Sugarland Express
+      anecdote: Dieser Film ist Steven Spielbergs erster Film für das Kino (« Firelight » ist ein Heimfilm und « Duel » ursprünglich ein Fernsehfilm).
+    - id: 23
+      question: Welcher fantastische Film unter der Regie von Tobe Hooper wurde von Steven Spielberg produziert ?
+      propositions:
+      - Dead Zone
+      - Die Fliege
+      - Poltergeist
+      - Beetlejuice
+      réponse: Poltergeist
+      anecdote: Das Poltergeist-Franchise gilt als verflucht, nachdem mehrere Personen, die mit dem Film in Verbindung stehen, vorzeitig gestorben sind.
+    - id: 24
+      question: In welchem Jahr leitete Steven Spielberg die Filmfestspiele von Cannes ?
+      propositions:
+      - 2009
+      - 2013
+      - 2007
+      - 2011
+      réponse: 2013
+      anecdote: 1977 war Steven Spielberg Präsident der Jury des fünften Avoriaz International Fantastic Film Festival.
+    - id: 25
+      question: Von welcher Produktionsfirma ist Steven Spielberg der Gründer ?
+      propositions:
+      - Blauer Himmel
+      - Pacific Data
+      - Spielton
+      - Amblin
+      réponse: Amblin
+      anecdote: Der Name des Amblin-Studios ist inspiriert von einem der ersten Filme von Steven Spielberg, « Amblin' » aus dem Jahr 1968.
+    - id: 26
+      question: In welchem Spielberg-Film war Audrey Hepburn zuletzt zu sehen ?
+      propositions:
+      - Duel
+      - Hook
+      - Always
+      - Amistad
+      réponse: Always
+      anecdote: Als der Film zu Ende war, überreichte Steven Spielberg Richard Dreyfuss, Holly Hunter und John Goodman einen Mazda MX5 Mk1.
+    - id: 27
+      question: Welcher 2012 erschienene Spielberg-Film erhielt zwölf Oscar-Nominierungen ?
+      propositions:
+      - Das Terminal
+      - Minority Report
+      - Lincoln
+      - Reich der Sonne
+      réponse: Lincoln
+      anecdote: Sein Hauptdarsteller, Daniel Day-Lewis, gewann den Oscar für den besten Schauspieler.
+    - id: 28
+      question: Welcher Filmregisseur wird sehr oft als französischer Spielberg bezeichnet ?
+      propositions:
+      - Guillaume Canet
+      - Patrice Leconte
+      - Luc Besson
+      - Bertrand Tavernier
+      réponse: Luc Besson
+      anecdote: Luc Besson ist international am bekanntesten für die Filmreihen « Taxi », « Taken » und « Le Transporteur ».
+    - id: 29
+      question: Welche Folge der Fernsehserie « Columbo » wurde von Steven Spielberg inszeniert ?
+      propositions:
+      - Vollbild
+      - Falscher Zeuge
+      - Eigengewicht
+      - Das Zeugenbuch
+      réponse: Das Zeugenbuch
+      anecdote: In dieser Episode von « Columbo » wird der Attentäter dazu gebracht, ein zweites Verbrechen zu begehen, um seinen Rücken zu sichern.
+    - id: 30
+      question: Welchen französischen Regisseur Steven Spielberg betrachtet er als sein Vorbild ?
+      propositions:
+      - François Truffaut
+      - Claude Zidi
+      - Jean-Jacques Annaud
+      - Michel Deville
+      réponse: François Truffaut
+      anecdote: François Truffaut war ein historischer Kritiker der Rezension « les Cahiers du cinéma » und eine wichtige Figur in der Neuen Welle.
+  es:
+  - débutant:
+    - id: 1
+      question: ¿Cuál es la nacionalidad del director y productor Steven Spielberg ?
+      propositions:
+      - Tunecino
+      - Americano
+      - Canadiense
+      - Marroquí
+      réponse: Americano
+      anecdote: Steven Spielberg nació en Cincinnati, Ohio, el 18 de diciembre de 1946, de padre informático y madre pianista.
+    - id: 2
+      question: ¿Qué película de Spielberg fue la primera superproducción real del cine estadounidense ?
+      propositions:
+      - Los dientes del mar
+      - El color púrpura
+      - Informe de minorías
+      - Parque Jurásico
+      réponse: Los dientes del mar
+      anecdote: La película « Los dientes del mar » es una adaptación de la novela homónima de Peter Benchley, publicada en 1974 por las ediciones Doubleday.
+    - id: 3
+      question: ¿Quién es sin duda el compositor oficial de las películas de Steven Spielberg ?
+      propositions:
+      - John Williams
+      - James Horner
+      - Giorgio Moroder
+      - John Barry
+      réponse: John Williams
+      anecdote: Con 49 nominaciones al Oscar, Williams es la segunda persona más nominada después de Walt Disney.
+    - id: 4
+      question: ¿Qué saga de Spielberg mezcla aventuras y personajes coloridos ?
+      propositions:
+      - Los dientes del mar
+      - Transformers
+      - Indiana Jones
+      - Jurassic Park
+      réponse: Indiana Jones
+      anecdote: El relato de sus primeras aventuras mezcla ficción y realidad, indy conoce a personajes que realmente existieron.
+    - id: 5
+      question: ¿Qué actriz, que aparece en la película « E.T. », es Steven Spielberg el padrino ?
+      propositions:
+      - Drew Barrymore
+      - Téa Leoni
+      - Neve Campbell
+      - Christina Ricci
+      réponse: Drew Barrymore
+      anecdote: Después de hacer películas de serie B, hizo un regreso dramático en la década de 1990, sobre todo con « Scream ».
+    - id: 6
+      question: ¿Qué película de dinosaurios recaudó más de $ 900 millones en ingresos ?
+      propositions:
+      - Jurassic Park
+      - Carnosaur
+      - Future War
+      - Raptor
+      réponse: Jurassic Park
+      anecdote: El estreno de la primera película estuvo acompañado de un verdadero trabajo de preparación a largo plazo para interesar al público.
+    - id: 7
+      question: ¿Qué soldado deberíamos salvar en una película dirigida por Steven Spielberg ?
+      propositions:
+      - Privado Adams
+      - Soldado Moore
+      - Garner privado
+      - Soldado Ryan
+      réponse: Soldado Ryan
+      anecdote: La reconstrucción muy realista del desembarco de Normandía es uno de los aspectos más destacados de la película.
+    - id: 8
+      question: ¿Qué película representa el mayor éxito comercial de la carrera de Steven Spielberg ?
+      propositions:
+      - Amistad
+      - Jurassic Park
+      - Imperio del Sol
+      - Hook
+      réponse: Jurassic Park
+      anecdote: Dos años después de su lanzamiento en 3D, la película fue parte de la selección de Cannes Classics en el Festival de Cine de Cannes 2015.
+    - id: 9
+      question: ¿Qué película de Steven Spielberg es en realidad una adaptación de Peter Pan ?
+      propositions:
+      - Munich
+      - Hook
+      - Sugarland Express
+      - Amistad
+      réponse: Hook
+      anecdote: El guión muestra a un Peter Pan adulto que se ha convertido en un abogado de negocios casado y con dos hijos.
+    - id: 10
+      question: Un proyecto convertido en película, contado en el contexto de la Shoah, se titula « La lista de »...
+      propositions:
+      - Schindler
+      - Dickmann
+      - Brecht
+      - Hermann
+      réponse: Schindler
+      anecdote: Oskar Schindler logró ahorrar alrededor de 1,100 judíos prometió la muerte en el campamento de concentración de Plaszow.
+  - confirmé:
+    - id: 11
+      question: ¿Qué película para televisión se convirtió en el primer gran éxito de Steven Spielberg entre el público en general ?
+      propositions:
+      - 1941
+      - Munich
+      - Amistad
+      - Duel
+      réponse: Duel
+      anecdote: « Duel » presenta a un representante de la computadora, interpretado por Dennis Weaver, cuya vida está amenazada por un camión pesado.
+    - id: 12
+      question: ¿Con quién está asociado Steven Spielberg en la realización de la saga « Indiana Jones » ?
+      propositions:
+      - Ron Howard
+      - James Cameron
+      - Ridley Scott
+      - George Lucas
+      réponse: George Lucas
+      anecdote: A través de su compañía Lucasfilm, George Lucas produce ficción y documentales para el cine.
+    - id: 13
+      question: ¿En qué película está un joven inglés atrapado en la confusión de la Segunda Guerra Mundial ?
+      propositions:
+      - La Terminal
+      - El color púrpura
+      - Imperio del Sol
+      - Informe de minorías
+      réponse: Imperio del Sol
+      anecdote: La película « Empire of the Sun » es para Christian Bale, quien interpreta al héroe, su primer papel cinematográfico.
+    - id: 14
+      question: ¿Qué película cuenta la historia de una familia negra en los Estados Unidos a mediados del siglo XX ?
+      propositions:
+      - El libro de los testigos
+      - El color púrpura
+      - Sugarland Express
+      - Imperio del Sol
+      réponse: El color púrpura
+      anecdote: En los Oscar, la película « El color púrpura » fue nominada en todas las categorías excepto Mejor Director.
+    - id: 15
+      question: ¿Qué película han recogido Morgan Freeman y Anthony Hopkins en las pantallas ?
+      propositions:
+      - Lincoln
+      - Indiana Jones
+      - Amistad
+      - Minority Report
+      réponse: Amistad
+      anecdote: La película está basada en hechos auténticos, un motín de un grupo de esclavos africanos transportados a bordo de La Amistad en 1839.
+    - id: 16
+      question: ¿En qué película de Steven Spielberg hay un policía atrapado por un trinomio de adivinos ?
+      propositions:
+      - Hook
+      - Amistad
+      - Minority Report
+      - Sugarland Express
+      réponse: Minority Report
+      anecdote: La película « Minority Report », en sí misma una adaptación del cuento del mismo nombre, ha tenido dos adaptaciones en forma de videojuego.
+    - id: 17
+      question: ¿Qué película de Steven Spielberg se desarrolla casi exclusivamente en un aeropuerto ?
+      propositions:
+      - El color púrpura
+      - Imperio del Sol
+      - La Terminal
+      - Minority Report
+      réponse: La Terminal
+      anecdote: El papel de Lucy, la joven que Viktor ayuda a cerrar su maleta, es interpretado por Sasha Spielberg, la hija del cineasta.
+    - id: 18
+      question: ¿Qué saga de Michael Bay fue producida por Steven Spielberg ?
+      propositions:
+      - Bad Boys
+      - Transformers
+      - Armageddon
+      - La isla
+      réponse: Transformers
+      anecdote: Fue Lorenzo Di Bonaventura quien asesoró a Shia LaBeouf en Michael Bay, después de haber trabajado con él en « Constantine ».
+    - id: 19
+      question: ¿Qué personaje de cómic es la primera película en 3D estrenada por Steven Spielberg ?
+      propositions:
+      - Max Payne
+      - Jason Todd
+      - Tintin
+      - El guardabosques
+      réponse: Tintin
+      anecdote: Sony y Paramount han invertido 100 millones de euros en la campaña mediática de la película « Tintin ».
+    - id: 20
+      question: ¿En qué planeta se ambientan las películas de ciencia ficción dirigidas por Steven Spielberg ?
+      propositions:
+      - En Marte
+      - En Júpiter
+      - En la luna
+      - En la tierra
+      réponse: En la tierra
+      anecdote: Steven Spielberg, apodado el Rey del Entretenimiento, ha recibido personalmente tres premios Oscar.
+  - expert:
+    - id: 21
+      question: ¿Cuántos premios Oscar ha recibido Steven Spielberg durante su carrera ?
+      propositions:
+      - Cuatro
+      - Tres
+      - Dos
+      - Cinco
+      réponse: Tres
+      anecdote: Steven Spielberg recibió un Oscar a la mejor película (en 1994) y dos a la mejor dirección (en 1994 y 1999).
+    - id: 22
+      question: ¿Cuál es el título del primer largometraje dirigido al cine por Steven Spielberg ?
+      propositions:
+      - Imperio del Sol
+      - Caballo de guerra
+      - Hook
+      - Sugarland Express
+      réponse: Sugarland Express
+      anecdote: Esta película es la primera que Steven Spielberg hizo para el cine (« Firelight » es una película casera y « Duel » originalmente una película para televisión).
+    - id: 23
+      question: ¿Qué película fantástica, dirigida por Tobe Hooper, fue producida por Steven Spielberg ?
+      propositions:
+      - Poltergeist
+      - La mosca
+      - Beetlejuice
+      - Dead Zone
+      réponse: Poltergeist
+      anecdote: La franquicia Poltergeist se considera maldita después de la muerte prematura de varias personas asociadas con la película.
+    - id: 24
+      question: ¿En qué año presidió Steven Spielberg el Festival de Cine de Cannes ?
+      propositions:
+      - 2007
+      - 2013
+      - 2009
+      - 2011
+      réponse: 2013
+      anecdote: En 1977, Steven Spielberg fue presidente del jurado del quinto Festival Internacional de Cine Fantástico de Avoriaz.
+    - id: 25
+      question: ¿De qué productora es Steven Spielberg el fundador ?
+      propositions:
+      - Datos del Pacífico
+      - Playtone
+      - Amblin
+      - Cielo azul
+      réponse: Amblin
+      anecdote: El nombre del estudio Amblin está inspirado en una de las primeras películas de Steven Spielberg, « Amblin' », que data de 1968.
+    - id: 26
+      question: ¿En qué película de Spielberg apareció Audrey Hepburn por última vez ?
+      propositions:
+      - Hook
+      - Amistad
+      - Duel
+      - Always
+      réponse: Always
+      anecdote: Cuando terminó la película, Steven Spielberg presentó un Mazda MX5 Mk1 a Richard Dreyfuss, Holly Hunter y John Goodman.
+    - id: 27
+      question: ¿Qué película de Spielberg, estrenada en 2012, recibió doce nominaciones al Oscar ?
+      propositions:
+      - Lincoln
+      - Minority Report
+      - Imperio del Sol
+      - La Terminal
+      réponse: Lincoln
+      anecdote: Su intérprete principal, Daniel Day-Lewis, ganó el Oscar al mejor actor.
+    - id: 28
+      question: ¿Qué director de cine se llama muy a menudo el Spielberg francés ?
+      propositions:
+      - Luc Besson
+      - Patrice Leconte
+      - Bertrand Tavernier
+      - Guillaume Canet
+      réponse: Luc Besson
+      anecdote: Luc Besson es más conocido internacionalmente por las series de películas « Taxi », « Taken » y « Le Transporteur ».
+    - id: 29
+      question: ¿Qué episodio de la serie de televisión « Columbo » fue dirigido por Steven Spielberg ?
+      propositions:
+      - El libro de los testigos
+      - Peso muerto
+      - Fotograma completo
+      - Falso Testigo
+      réponse: El libro de los testigos
+      anecdote: En este episodio de « Columbo », el asesino es llevado a cometer un segundo crimen para asegurar su retaguardia.
+    - id: 30
+      question: ¿Qué director francés Steven Spielberg considera su modelo ?
+      propositions:
+      - Claude Zidi
+      - François Truffaut
+      - Jean-Jacques Annaud
+      - Michel Deville
+      réponse: François Truffaut
+      anecdote: François Truffaut fue un crítico histórico de la revista « les Cahiers du cinéma » y una figura importante de la New Wave.
+  it:
+  - débutant:
+    - id: 1
+      question: Qual è la nazionalità del regista e produttore Steven Spielberg ?
+      propositions:
+      - Marocchino
+      - Canadese
+      - Tunisino
+      - Americano
+      réponse: Americano
+      anecdote: Steven Spielberg è nato a Cincinnati, Ohio, il 18 dicembre 1946, da padre informatico e madre pianista.
+    - id: 2
+      question: Quale film di Spielberg è stato il primo vero blockbuster del cinema americano ?
+      propositions:
+      - Jurassic Park
+      - I denti del mare
+      - Rapporto sulle minoranze
+      - Il colore viola
+      réponse: I denti del mare
+      anecdote: Il film « I denti del mare » è un adattamento dell'omonimo romanzo di Peter Benchley, pubblicato nel 1974 dalle edizioni Doubleday.
+    - id: 3
+      question: Chi è senza dubbio il compositore ufficiale dei film di Steven Spielberg ?
+      propositions:
+      - Giorgio Moroder
+      - James Horner
+      - John Williams
+      - John Barry
+      réponse: John Williams
+      anecdote: Con 49 nomination agli Oscar, Williams è la seconda persona più nominata dopo Walt Disney.
+    - id: 4
+      question: Quale saga di Spielberg mescola avventure e personaggi colorati ?
+      propositions:
+      - Indiana Jones
+      - I denti del mare
+      - Jurassic Park
+      - Transformers
+      réponse: Indiana Jones
+      anecdote: Il racconto delle sue prime avventure mescola finzione e realtà, dove Indy incontra personaggi realmente esistiti.
+    - id: 5
+      question: Quale attrice, presente nel film « E.T. », è il padrino Steven Spielberg ?
+      propositions:
+      - Drew Barrymore
+      - Neve Campbell
+      - Christina Ricci
+      - Téa Leoni
+      réponse: Drew Barrymore
+      anecdote: Dopo aver girato i film di serie B, è tornata alla ribalta negli anni '90, in particolare con « Scream ».
+    - id: 6
+      question: Quale film sui dinosauri ha incassato oltre $ 900 milioni di entrate ?
+      propositions:
+      - Jurassic Park
+      - Raptor
+      - Future War
+      - Carnosaur
+      réponse: Jurassic Park
+      anecdote: L'uscita del primo film è stata accompagnata da un vero e proprio lavoro di preparazione a lungo termine per interessare il pubblico.
+    - id: 7
+      question: Quale soldato dovremmo salvare in un film diretto da Steven Spielberg ?
+      propositions:
+      - Private Adams
+      - Garner privato
+      - Moore privato
+      - Soldato Ryan
+      réponse: Soldato Ryan
+      anecdote: La ricostruzione molto realistica dello sbarco in Normandia è uno dei momenti salienti del film.
+    - id: 8
+      question: Quale film rappresenta il più grande successo commerciale della carriera di Steven Spielberg ?
+      propositions:
+      - Hook
+      - Impero del Sole
+      - Amistad
+      - Jurassic Park
+      réponse: Jurassic Park
+      anecdote: Due anni dopo la sua uscita in 3D, il film faceva parte della selezione Cannes Classics al Festival di Cannes 2015.
+    - id: 9
+      question: Quale film di Steven Spielberg è in realtà un adattamento di Peter Pan ?
+      propositions:
+      - Hook
+      - Munich
+      - Amistad
+      - Sugarland Express
+      réponse: Hook
+      anecdote: La sceneggiatura mostra un Peter Pan adulto che è diventato un avvocato d'affari sposato con due figli.
+    - id: 10
+      question: Un progetto trasformato in film, raccontato sullo sfondo della Shoah, si intitola « The List of »...
+      propositions:
+      - Brecht
+      - Schindler
+      - Dickmann
+      - Hermann
+      réponse: Schindler
+      anecdote: Oskar Schindler è riuscito a salvare circa 1.100 ebrei ha promesso la morte nel campo di concentramento di Plaszow.
+  - confirmé:
+    - id: 11
+      question: Quale film TV è diventato il primo grande successo di Steven Spielberg presso il grande pubblico ?
+      propositions:
+      - Duel
+      - Munich
+      - 1941
+      - Amistad
+      réponse: Duel
+      anecdote: « Duel » presenta un rappresentante del computer, interpretato da Dennis Weaver, la cui vita è minacciata da un camion pesante.
+    - id: 12
+      question: Con chi è stato associato Steven Spielberg nella realizzazione della saga di « Indiana Jones » ?
+      propositions:
+      - James Cameron
+      - George Lucas
+      - Ron Howard
+      - Ridley Scott
+      réponse: George Lucas
+      anecdote: Attraverso la sua compagnia Lucasfilm, George Lucas produce fiction e documentari per il cinema.
+    - id: 13
+      question: In quale film un giovane inglese è coinvolto nel tumulto della seconda guerra mondiale ?
+      propositions:
+      - Il colore viola
+      - Impero del Sole
+      - Rapporto sulle minoranze
+      - Il terminale
+      réponse: Impero del Sole
+      anecdote: Il film « L'impero del sole » è per Christian Bale, che interpreta l'eroe, il suo primo ruolo cinematografico.
+    - id: 14
+      question: Quale film racconta la storia di una famiglia nera negli Stati Uniti a metà del XX secolo ?
+      propositions:
+      - Il colore viola
+      - Il libro dei Testimoni
+      - Impero del Sole
+      - Sugarland Express
+      réponse: Il colore viola
+      anecdote: Agli Oscar, il film « The Color Purple » è stato nominato in tutte le categorie tranne quella per il miglior regista.
+    - id: 15
+      question: Quale film ha collezionato Morgan Freeman e Anthony Hopkins sugli schermi ?
+      propositions:
+      - Indiana Jones
+      - Lincoln
+      - Amistad
+      - Minority Report
+      réponse: Amistad
+      anecdote: Il film è basato su fatti autentici, un ammutinamento di un gruppo di schiavi africani trasportati a bordo di La Amistad nel 1839.
+    - id: 16
+      question: In quale film di Steven Spielberg è un poliziotto intrappolato da un trinomio di indovini ?
+      propositions:
+      - Sugarland Express
+      - Hook
+      - Amistad
+      - Minority Report
+      réponse: Minority Report
+      anecdote: Il film « Minority Report », a sua volta un adattamento dell'omonimo racconto, ha visto due adattamenti sotto forma di videogioco.
+    - id: 17
+      question: Quale film di Steven Spielberg si svolge quasi esclusivamente in un aeroporto ?
+      propositions:
+      - Impero del Sole
+      - Il terminale
+      - Minority Report
+      - Il colore viola
+      réponse: Il terminale
+      anecdote: Il ruolo di Lucy, la giovane ragazza che Viktor aiuta a chiudere la valigia, è interpretato da Sasha Spielberg, la figlia del regista.
+    - id: 18
+      question: Quale saga di Michael Bay è stata prodotta da Steven Spielberg ?
+      propositions:
+      - Armageddon
+      - Bad Boys
+      - Transformers
+      - L'isola
+      réponse: Transformers
+      anecdote: È stato Lorenzo Di Bonaventura a consigliare Shia LaBeouf a Michael Bay, dopo aver lavorato con lui in « Constantine ».
+    - id: 19
+      question: Quale personaggio dei fumetti è il primo film in 3D rilasciato da Steven Spielberg ?
+      propositions:
+      - Tintin
+      - Max Payne
+      - Jason Todd
+      - Il Ranger
+      réponse: Tintin
+      anecdote: Sony e Paramount hanno investito 100 milioni di euro nella campagna mediatica per il film « Tintin ».
+    - id: 20
+      question: Su quale pianeta sono ambientati i film di fantascienza diretti da Steven Spielberg ?
+      propositions:
+      - Sulla luna
+      - Su Giove
+      - Sulla Terra
+      - Su Marte
+      réponse: Sulla Terra
+      anecdote: Steven Spielberg, soprannominato il Re dello spettacolo, ha ricevuto personalmente tre Oscar.
+  - expert:
+    - id: 21
+      question: Quanti Oscar ha ricevuto Steven Spielberg durante la sua carriera ?
+      propositions:
+      - Due
+      - Cinque
+      - Quattro
+      - Tre
+      réponse: Tre
+      anecdote: Steven Spielberg ha ricevuto un Oscar per il miglior film (nel 1994) e due per il miglior regista (nel 1994 e nel 1999).
+    - id: 22
+      question: Qual è il titolo del primo lungometraggio diretto per il cinema da Steven Spielberg ?
+      propositions:
+      - Hook
+      - Sugarland Express
+      - Cavallo da guerra
+      - Impero del Sole
+      réponse: Sugarland Express
+      anecdote: Questo film è il primo film realizzato da Steven Spielberg per il cinema (« Firelight » è un home movie e « Duel » originariamente un film per la TV).
+    - id: 23
+      question: Quale film fantastico, diretto da Tobe Hooper, è stato prodotto da Steven Spielberg ?
+      propositions:
+      - The Fly
+      - Beetlejuice
+      - Poltergeist
+      - Dead Zone
+      réponse: Poltergeist
+      anecdote: Il franchise di Poltergeist è considerato maledetto in seguito alla morte prematura di diverse persone associate al film.
+    - id: 24
+      question: In che anno Steven Spielberg ha presieduto il Festival di Cannes ?
+      propositions:
+      - 2011
+      - 2009
+      - 2013
+      - 2007
+      réponse: 2013
+      anecdote: Nel 1977, Steven Spielberg è stato presidente della giuria del quinto Festival Internazionale del Film Fantastico di Avoriaz.
+    - id: 25
+      question: Di quale società di produzione è il fondatore Steven Spielberg ?
+      propositions:
+      - Amblin
+      - Cielo blu
+      - Playtone
+      - Pacific Data
+      réponse: Amblin
+      anecdote: Il nome dello studio Amblin è ispirato a uno dei primi film di Steven Spielberg, « Amblin' », risalente al 1968.
+    - id: 26
+      question: In quale film di Spielberg è apparsa l'ultima volta Audrey Hepburn ?
+      propositions:
+      - Duel
+      - Always
+      - Amistad
+      - Hook
+      réponse: Always
+      anecdote: Alla fine del film, Steven Spielberg ha presentato una Mazda MX5 Mk1 a Richard Dreyfuss, Holly Hunter e John Goodman.
+    - id: 27
+      question: Quale film di Spielberg, uscito nel 2012, ha ricevuto dodici nomination agli Oscar ?
+      propositions:
+      - Minority Report
+      - Lincoln
+      - Il terminale
+      - Impero del Sole
+      réponse: Lincoln
+      anecdote: Il suo interprete principale, Daniel Day-Lewis, ha vinto l'Oscar come miglior attore.
+    - id: 28
+      question: Quale regista è molto spesso chiamato lo Spielberg francese ?
+      propositions:
+      - Bertrand Tavernier
+      - Guillaume Canet
+      - Luc Besson
+      - Patrice Leconte
+      réponse: Luc Besson
+      anecdote: Luc Besson è meglio conosciuto a livello internazionale per le serie di film « Taxi », « Taken » e « Le Transporteur ».
+    - id: 29
+      question: Quale episodio della serie televisiva « Columbo » è stato diretto da Steven Spielberg ?
+      propositions:
+      - Falsa testimonianza
+      - Peso proprio
+      - Il libro dei Testimoni
+      - Full Frame
+      réponse: Il libro dei Testimoni
+      anecdote: In questo episodio di « Columbo », l'assassino è portato a commettere un secondo crimine per assicurarsi le spalle.
+    - id: 30
+      question: Quale regista francese Steven Spielberg considera come il suo modello ?
+      propositions:
+      - Claude Zidi
+      - François Truffaut
+      - Jean-Jacques Annaud
+      - Michel Deville
+      réponse: François Truffaut
+      anecdote: François Truffaut è stato un critico storico della rivista « les Cahiers du cinéma » e una figura di spicco della New Wave.
+  nl:
+  - débutant:
+    - id: 1
+      question: Wat is de nationaliteit van regisseur en producer Steven Spielberg ?
+      propositions:
+      - Marokkaans
+      - Amerikaans
+      - Canadees
+      - Tunesisch
+      réponse: Amerikaans
+      anecdote: Steven Spielberg werd geboren in Cincinnati, Ohio op 18 december 1946, als zoon van een computerwetenschapper als vader en een pianist-moeder.
+    - id: 2
+      question: Welke Spielberg-film was de eerste echte kaskraker in de Amerikaanse cinema ?
+      propositions:
+      - The Teeth of the Sea
+      - Jurassic Park
+      - Minderheidsrapport
+      - The Color Purple
+      réponse: The Teeth of the Sea
+      anecdote: De film « The Teeth of the Sea » is een bewerking van de gelijknamige roman van Peter Benchley, in 1974 uitgegeven door Doubleday Editions.
+    - id: 3
+      question: Wie is ongetwijfeld de officiële componist van de films van Steven Spielberg ?
+      propositions:
+      - John Williams
+      - John Barry
+      - Giorgio Moroder
+      - James Horner
+      réponse: John Williams
+      anecdote: Met 49 Oscar-nominaties is Williams de tweede meest genomineerde persoon na Walt Disney.
+    - id: 4
+      question: Welke Spielberg-saga combineert avonturen en kleurrijke personages ?
+      propositions:
+      - Jurassic Park
+      - The Teeth of the Sea
+      - Transformers
+      - Indiana Jones
+      réponse: Indiana Jones
+      anecdote: Het verslag van zijn eerste avonturen vermengt fictie en realiteit, waarbij Indy personages ontmoet die echt hebben bestaan.
+    - id: 5
+      question: Welke actrice uit de film « E.T. » is Steven Spielberg de peetvader ?
+      propositions:
+      - Drew Barrymore
+      - Christina Ricci
+      - Téa Leoni
+      - Neve Campbell
+      réponse: Drew Barrymore
+      anecdote: Nadat ze B-films had gemaakt, maakte ze in de jaren negentig een dramatische comeback, met name met « Scream ».
+    - id: 6
+      question: Welke dinosaurusfilm genereerde meer dan $ 900 miljoen aan inkomsten ?
+      propositions:
+      - Carnosaur
+      - Future War
+      - Jurassic Park
+      - Raptor
+      réponse: Jurassic Park
+      anecdote: De release van de eerste film ging gepaard met een echt voorbereidend werk op lange termijn om het publiek te interesseren.
+    - id: 7
+      question: Welke soldaat moeten we redden in een film geregisseerd door Steven Spielberg ?
+      propositions:
+      - Private Moore
+      - Private Garner
+      - Privé Adams
+      - Privé Ryan
+      réponse: Privé Ryan
+      anecdote: De zeer realistische reconstructie van de landingen in Normandië is een van de hoogtepunten van de film.
+    - id: 8
+      question: Welke film vertegenwoordigt het grootste commerciële succes uit de carrière van Steven Spielberg ?
+      propositions:
+      - Jurassic Park
+      - Empire of the Sun
+      - Amistad
+      - Hook
+      réponse: Jurassic Park
+      anecdote: Twee jaar na de release in 3D maakte de film deel uit van de selectie Cannes Classics op het filmfestival van Cannes in 2015.
+    - id: 9
+      question: Welke Steven Spielberg-film is eigenlijk een bewerking van Peter Pan ?
+      propositions:
+      - Hook
+      - Munich
+      - Amistad
+      - Sugarland Express
+      réponse: Hook
+      anecdote: Het script toont een volwassen Peter Pan die een getrouwde bedrijfsjurist met twee kinderen is geworden.
+    - id: 10
+      question: Een in een film omgezet project, verteld tegen een achtergrond van de Shoah, heeft als titel « The List of »...
+      propositions:
+      - Dickmann
+      - Hermann
+      - Schindler
+      - Brecht
+      réponse: Schindler
+      anecdote: Oskar Schindler slaagde erin ongeveer 1.100 Joden te besparen, beloofde de dood in het Concentratieramp van Plaszow.
+  - confirmé:
+    - id: 11
+      question: Welke tv-film werd de eerste grote hit van Steven Spielberg bij het grote publiek ?
+      propositions:
+      - Amistad
+      - Duel
+      - 1941
+      - Munich
+      réponse: Duel
+      anecdote: In « Duel » staat een computervertegenwoordiger, gespeeld door Dennis Weaver, wiens leven wordt bedreigd door een zware vrachtwagen.
+    - id: 12
+      question: Met wie wordt Steven Spielberg geassocieerd bij het maken van de « Indiana Jones » saga ?
+      propositions:
+      - James Cameron
+      - Ridley Scott
+      - Ron Howard
+      - George Lucas
+      réponse: George Lucas
+      anecdote: Via zijn bedrijf Lucasfilm maakt George Lucas fictie en documentaires voor de bioscoop.
+    - id: 13
+      question: In welke film zit een jonge Engelsman gevangen in de chaos van de Tweede Wereldoorlog ?
+      propositions:
+      - Minderheidsrapport
+      - The Color Purple
+      - Empire of the Sun
+      - De terminal
+      réponse: Empire of the Sun
+      anecdote: De film « Empire of the Sun » is voor Christian Bale, die de held speelt, zijn eerste filmrol.
+    - id: 14
+      question: Welke film vertelt het verhaal van een zwarte familie in de Verenigde Staten in het midden van de 20e eeuw ?
+      propositions:
+      - Sugarland Express
+      - The Color Purple
+      - Empire of the Sun
+      - The Witness Book
+      réponse: The Color Purple
+      anecdote: Bij de Oscars werd de film « The Color Purple » genomineerd in alle categorieën, behalve voor Beste Regisseur.
+    - id: 15
+      question: Welke film hebben Morgan Freeman en Anthony Hopkins op de schermen verzameld ?
+      propositions:
+      - Minority Report
+      - Amistad
+      - Lincoln
+      - Indiana Jones
+      réponse: Amistad
+      anecdote: De film is gebaseerd op authentieke feiten, een muiterij door een groep Afrikaanse slaven die in 1839 aan boord van La Amistad werd vervoerd.
+    - id: 16
+      question: In welke film van Steven Spielberg zit een politieagent gevangen door een trinominaal van waarzeggers ?
+      propositions:
+      - Amistad
+      - Minority Report
+      - Sugarland Express
+      - Hook
+      réponse: Minority Report
+      anecdote: De film « Minority Report », zelf een bewerking van het gelijknamige korte verhaal, heeft twee aanpassingen gezien in de vorm van een videogame.
+    - id: 17
+      question: Welke film van Steven Spielberg speelt zich bijna uitsluitend af op een luchthaven ?
+      propositions:
+      - The Color Purple
+      - De terminal
+      - Minority Report
+      - Empire of the Sun
+      réponse: De terminal
+      anecdote: De rol van Lucy, het jonge meisje dat Viktor helpt bij het sluiten van haar koffer, wordt gespeeld door Sasha Spielberg, de dochter van de filmmaker.
+    - id: 18
+      question: Welke Michael Bay-saga werd geproduceerd door Steven Spielberg ?
+      propositions:
+      - Het eiland
+      - Armageddon
+      - Bad Boys
+      - Transformers
+      réponse: Transformers
+      anecdote: Het was Lorenzo Di Bonaventura die Shia LaBeouf adviseerde in Michael Bay, nadat hij met hem had gewerkt in « Constantine ».
+    - id: 19
+      question: Welk stripboekpersonage is de eerste 3D-film die door Steven Spielberg is uitgebracht ?
+      propositions:
+      - Jason Todd
+      - De boswachter
+      - Max Payne
+      - Kuifje
+      réponse: Kuifje
+      anecdote: Sony en Paramount hebben 100 miljoen euro geïnvesteerd in de mediacampagne voor de film « Tintin ».
+    - id: 20
+      question: Op welke planeet spelen de sciencefictionfilms van Steven Spielberg zich af ?
+      propositions:
+      - Op de maan
+      - Op Mars
+      - Op Jupiter
+      - Op aarde
+      réponse: Op aarde
+      anecdote: Steven Spielberg, bijgenaamd de King of Entertainment, heeft persoonlijk drie Oscars ontvangen.
+  - expert:
+    - id: 21
+      question: Hoeveel Oscars heeft Steven Spielberg tijdens zijn carrière ontvangen ?
+      propositions:
+      - Vijf
+      - Twee
+      - Drie
+      - Vier
+      réponse: Drie
+      anecdote: Steven Spielberg ontving een Oscar voor Beste Film (in 1994) en twee voor Beste Regisseur (in 1994 en 1999).
+    - id: 22
+      question: Wat is de titel van de eerste speelfilm die door Steven Spielberg voor de bioscoop is geregisseerd ?
+      propositions:
+      - Sugarland Express
+      - Hook
+      - Oorlogspaard
+      - Empire of the Sun
+      réponse: Sugarland Express
+      anecdote: Deze film is Steven Spielbergs eerste film die ooit voor de bioscoop is gemaakt (« Firelight » is een homemovie en « Duel » oorspronkelijk een tv-film).
+    - id: 23
+      question: Welke fantastische film, geregisseerd door Tobe Hooper, werd geproduceerd door Steven Spielberg ?
+      propositions:
+      - Dead Zone
+      - Beetlejuice
+      - Poltergeist
+      - The Fly
+      réponse: Poltergeist
+      anecdote: De Poltergeist-franchise wordt als vervloekt beschouwd na de vroegtijdige dood van verschillende mensen die bij de film betrokken zijn.
+    - id: 24
+      question: In welk jaar was Steven Spielberg voorzitter van het filmfestival van Cannes ?
+      propositions:
+      - 2013
+      - 2007
+      - 2009
+      - 2011
+      réponse: 2013
+      anecdote: In 1977 was Steven Spielberg voorzitter van de jury van het vijfde Avoriaz International Fantastic Film Festival.
+    - id: 25
+      question: Van welk productiebedrijf is Steven Spielberg de oprichter ?
+      propositions:
+      - Speeltoon
+      - Amblin
+      - Blauwe lucht
+      - Pacific-gegevens
+      réponse: Amblin
+      anecdote: De naam van de Amblin-studio is geïnspireerd op een van Steven Spielbergs eerste films, « Amblin' », daterend uit 1968.
+    - id: 26
+      question: In welke Spielberg-film verscheen Audrey Hepburn voor het laatst ?
+      propositions:
+      - Always
+      - Amistad
+      - Hook
+      - Duel
+      réponse: Always
+      anecdote: Toen de film voorbij was, presenteerde Steven Spielberg een Mazda MX5 Mk1 aan Richard Dreyfuss, Holly Hunter en John Goodman.
+    - id: 27
+      question: Welke Spielberg-film, uitgebracht in 2012, ontving twaalf Oscar-nominaties ?
+      propositions:
+      - Minority Report
+      - Empire of the Sun
+      - De terminal
+      - Lincoln
+      réponse: Lincoln
+      anecdote: De hoofdrolspeler, Daniel Day-Lewis, won de Oscar voor beste acteur.
+    - id: 28
+      question: Welke filmregisseur wordt heel vaak de Franse Spielberg genoemd ?
+      propositions:
+      - Luc Besson
+      - Guillaume Canet
+      - Patrice Leconte
+      - Bertrand Tavernier
+      réponse: Luc Besson
+      anecdote: Luc Besson is internationaal vooral bekend van de filmseries « Taxi », « Taken » en « Le Transporteur ».
+    - id: 29
+      question: Welke aflevering van de televisieserie « Columbo » werd geregisseerd door Steven Spielberg ?
+      propositions:
+      - Valse getuige
+      - Volledig frame
+      - Dood gewicht
+      - The Witness Book
+      réponse: The Witness Book
+      anecdote: In deze aflevering van « Columbo » wordt de huurmoordenaar ertoe gebracht een tweede misdaad te begaan om zijn achterban te verzekeren.
+    - id: 30
+      question: Welke Franse regisseur Steven Spielberg beschouwt hij als zijn model ?
+      propositions:
+      - Michel Deville
+      - Jean-Jacques Annaud
+      - Claude Zidi
+      - François Truffaut
+      réponse: François Truffaut
+      anecdote: François Truffaut was een historisch criticus van de recensie « les Cahiers du cinéma » en een belangrijk figuur in de New Wave.

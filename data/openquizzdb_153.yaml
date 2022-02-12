@@ -1,0 +1,280 @@
+---
+fournisseur: OpenQuizzDB - Fournisseur de contenu libre (https://www.openquizzdb.org)
+rédacteur: Philippe Bresoux
+thème: Sports pour tous (Du plus connu au plus exotique)
+difficulté: 3 / 5
+quizz:
+  fr:
+  - débutant:
+    - id: 1
+      question: De quel petit objet se munit le golfeur pour surélever sa balle avant de la frapper ?
+      propositions:
+      - Tee
+      - Caddie
+      - Putter
+      - Pitch
+      réponse: Tee
+      anecdote: Le joueur peut poser sa balle sur une cheville de bois ou de plastique qui ne peut pas être utilisée en dehors des départs.
+    - id: 2
+      question: Quel sport de raquette porte le nom de la ville anglaise où il fut inventé ?
+      propositions:
+      - Padel
+      - Squash
+      - Badminton
+      - Tennis
+      réponse: Badminton
+      anecdote: Le badminton est toujours pratiqué en intérieur car avec le vent, en extérieur, le volant peut brusquement changer de direction.
+    - id: 3
+      question: Combien y a-t-il de joueurs sur le terrain dans une équipe de football ?
+      propositions:
+      - Neuf
+      - Onze
+      - Quatorze
+      - Dix
+      réponse: Onze
+      anecdote: Codifié par les Britanniques à la fin du XIXe siècle, le football s'est doté en 1904 d'une fédération internationale, la FIFA.
+    - id: 4
+      question: Quel tapis à ressorts sert au gymnaste à faire toutes sortes de figures ?
+      propositions:
+      - Cheval d'arçons
+      - Trampoline
+      - Ruban
+      - Espalier
+      réponse: Trampoline
+      anecdote: Le terme générique de trampoline englobe trois disciplines : le trampoline, le tumbling et le double mini trampoline.
+    - id: 5
+      question: Que réussit une équipe de rugby qui remporte les quatre matches du Tournoi des Six Nations ?
+      propositions:
+      - Rose rouge
+      - Chardon
+      - Grand chelem
+      - Trois plumes
+      réponse: Grand chelem
+      anecdote: Pour des raisons de sponsoring, ce tournoi est officiellement appelé RBS Six Nations (RBS pour Royal Bank of Scotland).
+    - id: 6
+      question: Que signale le drapeau à damier noir et jaune dans une station de sports d'hiver ?
+      propositions:
+      - Pistes fermées
+      - Fin de journée
+      - Risque d'avalanche
+      - Télésiège en panne
+      réponse: Risque d'avalanche
+      anecdote: La puissance des avalanches est telle qu'elles emportent facilement tout élément mobile rencontré (hommes, animaux, rochers).
+    - id: 7
+      question: Au golf, au milieu de quoi le trou est-il généralement placé ?
+      propositions:
+      - Spin
+      - Green
+      - Gin
+      - Spleen
+      réponse: Green
+      anecdote: Le golf, qui souffre d'un traitement médiatique et financier inégal, est un sport moins pratiqué par les femmes que par les hommes.
+    - id: 8
+      question: Laquelle de ces propositions ne retrouve-t-on pas sur un vélo de sprinter sur piste ?
+      propositions:
+      - Selle
+      - Cadre
+      - Guidon
+      - Freins
+      réponse: Freins
+      anecdote: Le pratiquant de ce sport est donc obligé de pédaler en permanence jusqu'à l'arrêt complet de son vélo (pignons fixes).
+    - id: 9
+      question: Comment appelle-t-on une descente rapide en ski alpin ?
+      propositions:
+      - Freestyle
+      - Slalom
+      - Schuss
+      - Combiné
+      réponse: Schuss
+      anecdote: En compétition, durant les épreuves de vitesse, le bâton est profilé pour épouser la forme du corps du skieur lors du schuss.
+    - id: 10
+      question: Quel nombre de jeux chaque set de tennis comporte-t-il ?
+      propositions:
+      - Sept
+      - Onze
+      - Au moins six
+      - Cinq
+      réponse: Au moins six
+      anecdote: Le mot tennis provient du français tenez, mot que l'on adressait à l'adversaire au moment de servir.
+  - confirmé:
+    - id: 11
+      question: En épreuve de saut en longueur, à combien d'essais chaque concurrent a-t-il droit ?
+      propositions:
+      - Trois
+      - Quatre
+      - Cinq
+      - Deux
+      réponse: Trois
+      anecdote: Le record du monde masculin de saut en longueur est détenu depuis 1991 par Mike Powell avec un saut à 8,95 mètres.
+    - id: 12
+      question: En kayak, de quel type de pagaie se sert-on pour avancer ou reculer ?
+      propositions:
+      - Simple
+      - Triple
+      - Quadruple
+      - Double
+      réponse: Double
+      anecdote: Le kayak est parfois confondu avec le canoë, la pratique sportive étant désignée par le terme général canoë-kayak.
+    - id: 13
+      question: Quel était le nom de la navigatrice en solitaire française, skipper du Biotherm ?
+      propositions:
+      - Maud Fontenoy
+      - Isabelle Autissier
+      - Florence Artaud
+      - Mathilde Géron
+      réponse: Florence Artaud
+      anecdote: Florence Artaud a perdu la vie dans un accident d'hélicoptère alors qu'elle participait au tournage de l'émission « Dropped » de TF1.
+    - id: 14
+      question: Dans le jargon de l'alpinisme, que fait un alpiniste qui dévisse ?
+      propositions:
+      - Il ôte un piton
+      - Il dort
+      - Il tombe
+      - Il mange
+      réponse: Il tombe
+      anecdote: L'alpinisme est une pratique sportive d'ascension en haute montagne qui repose sur différentes techniques de progression.
+    - id: 15
+      question: En escrime, quelle est la troisième arme blanche avec l'épée et le fleuret ?
+      propositions:
+      - Couteau
+      - Hache
+      - Poignard
+      - Sabre
+      réponse: Sabre
+      anecdote: Ces trois armes sont sexuées : épée féminine et masculine, fleuret féminin et masculin et sabre féminin et masculin.
+    - id: 16
+      question: À quelle grande gymnaste roumaine Ecaterina Szabo a-t-elle succédé ?
+      propositions:
+      - Vera Caslavska
+      - Larissa Latynina
+      - Nadia Comaneci
+      - Yelena Davydova
+      réponse: Nadia Comaneci
+      anecdote: Nadia Comaneci est souvent présentée, à tort, comme la première gymnaste de tous les temps à avoir obtenu la note parfaite de 10.
+    - id: 17
+      question: Avec quel entraîneur la France a-t-elle remporté la Coupe d'Europe de football de 1984 ?
+      propositions:
+      - Luis Fernandez
+      - Michel Hidalgo
+      - Aimé Jacquet
+      - Guy Roux
+      réponse: Michel Hidalgo
+      anecdote: En 1986, Michel Hidalgo a rejoint Bernard Tapie à l'Olympique de Marseille pour en devenir le manager général jusqu'en 1991.
+    - id: 18
+      question: Dans quel sport est-il préférable d'avoir un bon coup de pelle ?
+      propositions:
+      - L'aviron
+      - Le cricket
+      - Le golf
+      - L'escrime
+      réponse: L'aviron
+      anecdote: L'aviron est un sport olympique depuis la création des Jeux olympiques modernes en 1896, sous l'impulsion du Baron Pierre de Coubertin.
+    - id: 19
+      question: Quel sport reste à ce jour le sport préféré des collégiens anglais ?
+      propositions:
+      - Cricket
+      - Football
+      - Tennis
+      - Handball
+      réponse: Cricket
+      anecdote: Plus de cent pays sont affiliés à l'International Cricket Council, qui organise notamment la Coupe du monde de cricket.
+    - id: 20
+      question: Comment le barreur dirige-t-il ses coéquipiers en aviron ?
+      propositions:
+      - Au sifflet
+      - Au porte-voix
+      - En musique
+      - Au tambour
+      réponse: Au porte-voix
+      anecdote: Dans un équipage d'aviron, le barreur est le membre qui s'assoit sur la poupe, se mettant ainsi face à la proue.
+  - expert:
+    - id: 21
+      question: En baseball, combien de joueurs se trouvent sur le terrain en défense ?
+      propositions:
+      - Treize
+      - Sept
+      - Neuf
+      - Onze
+      réponse: Neuf
+      anecdote: La première référence au rounders est faite dans un livre anglais de John Newbery en 1744 : « A Little Pretty Pocket-Book ».
+    - id: 22
+      question: En ski, le christiana est une technique permettant d'effectuer quelle manoeuvre ?
+      propositions:
+      - Virage
+      - Arrêt
+      - Freinage
+      - Saut
+      réponse: Virage
+      anecdote: La technique du virage est née à la Belle Époque sur les longues pistes de ski très fréquentées de la ville de Christiania.
+    - id: 23
+      question: Combien les Américains ont-ils gagné de médailles aux Jeux olympiques d'été de 1984 ?
+      propositions:
+      - 83
+      - 30
+      - 174
+      - 61
+      réponse: 174
+      anecdote: En l'absence de grandes nations sportives comme l'URSS et la RDA, les États-Unis ont dominé ces jeux de Los Angeles.
+    - id: 24
+      question: Quelle équipe de rugby a comme emblème une antilope sur maillot vert et sombre ?
+      propositions:
+      - Nouvelle-Zélande
+      - Irlande
+      - Écosse
+      - Afrique du Sud
+      réponse: Afrique du Sud
+      anecdote: En raison de son palmarès, l'équipe d'Afrique du Sud est considérée comme l'une des meilleures sélections nationales au monde.
+    - id: 25
+      question: Quelle moto possède la cylindrée la plus adaptée au trial ?
+      propositions:
+      - 150 cm³
+      - 100 cm³
+      - 250 cm³
+      - 200 cm³
+      réponse: 250 cm³
+      anecdote: Le trial, qui consiste à franchir des obstacles naturels ou artificiels, est un sport où la notion de vitesse n'intervient pas.
+    - id: 26
+      question: Combien d'heures la course cycliste des Six Jours de Paris durait-elle ?
+      propositions:
+      - 144 heures
+      - 104 heures
+      - 124 heures
+      - 84 heures
+      réponse: 144 heures
+      anecdote: Richement dotée, elle était très populaire avant la Seconde Guerre mondiale et était la principale compétition de ce type en France.
+    - id: 27
+      question: En croquet, que devient une boule qui franchit tous les arceaux sans toucher le piquet ?
+      propositions:
+      - Pirate
+      - Corsaire
+      - Matelot
+      - Capitaine
+      réponse: Corsaire
+      anecdote: Une fois le dernier anneau passé, un joueur peut empêcher ses adversaires de gagner en prenant soin de ne pas toucher le piquet.
+    - id: 28
+      question: Quelle course de fond suédoise emprunte la piste des Dalécarliens ?
+      propositions:
+      - Tartu Maraton
+      - Vasaloppet
+      - Marcialonga
+      - Dolomitenlauf
+      réponse: Vasaloppet
+      anecdote: La course se tient le premier dimanche de mars et près de 15 000 skieurs prennent le départ en 10 vagues successives.
+    - id: 29
+      question: Quelle planche de surf pour grosses vagues permet de démarrer très tôt sur la vague ?
+      propositions:
+      - Gun
+      - Eggs
+      - Malibu
+      - Fishes
+      réponse: Gun
+      anecdote: En fonction du temps, des préférences et de la manière de surfer, il existe différentes type de planches (appelées shape).
+    - id: 30
+      question: Dans quelle ville les premiers jeux Olympiques d'hiver ont-ils eu lieu en 1924 ?
+      propositions:
+      - Innsbruck
+      - Grenoble
+      - Chamonix
+      - Oslo
+      réponse: Chamonix
+      anecdote: La compétition rassembla 258 athlètes de 16 pays qui disputèrent un total de 16 épreuves dans 6 sports différents.

@@ -1,0 +1,1650 @@
+---
+fournisseur: OpenQuizzDB - Fournisseur de contenu libre (https://www.openquizzdb.org)
+rédacteur: Philippe Bresoux
+thème: Plaisirs sucrés (Qui n'a jamais craqué pour des bonbons  ?)
+difficulté: 4 / 5
+quizz:
+  fr:
+  - débutant:
+    - id: 1
+      question: Dans nos régions, de quelle betterave le sucre est-il principalement extrait ?
+      propositions:
+      - Fourragère
+      - Sucrière
+      - Potagère
+      - Marinière
+      réponse: Sucrière
+      anecdote: Les betteraves sucrières, dont il existe de nombreuses variétés, sont de couleur blanche et très enterrées.
+    - id: 2
+      question: De quel composé le sucre est-il majoritairement formé ?
+      propositions:
+      - Saccharose
+      - Glucose
+      - Fructose
+      - Maltose
+      réponse: Saccharose
+      anecdote: Les glucides, et plus particulièrement le saccharose, étaient autrefois appelés « hydrates de carbone ».
+    - id: 3
+      question: Comment appelle-t-on le sucre contenu dans les fruits ?
+      propositions:
+      - Fructose
+      - Maltose
+      - Glucose
+      - Galactose
+      réponse: Fructose
+      anecdote: Le fructose a un pouvoir sucrant supérieur au saccharose, de 20 à 40% selon les conditions.
+    - id: 4
+      question: Combien de morceaux de sucre contient une canette de Coca-Cola de 33cl ?
+      propositions:
+      - 11
+      - 7
+      - 15
+      - 3
+      réponse: 7
+      anecdote: La consommation de boissons sucrées, si non compensée par une heure de sport par canette, est dommageable sur la durée de vie.
+    - id: 5
+      question: Quelle maladie peut être engendrée par une consommation excessive de sucre ?
+      propositions:
+      - Grippe
+      - Diabète
+      - Dépression
+      - Hypertension
+      réponse: Diabète
+      anecdote: Le diabète sucré (avec glycosurie), le plus fréquent chez nous, est lié à une anomalie de synthèse ou de l'action de l'insuline.
+    - id: 6
+      question: Quel nom est couramment employé pour désigner le « sucre roux » ?
+      propositions:
+      - Sucre glace
+      - Cassonade
+      - Sucre candi
+      - Sucre gélifiant
+      réponse: Cassonade
+      anecdote: En Belgique et dans le nord de la France, la cassonade désigne aussi une sorte de vergeoise.
+    - id: 7
+      question: En pâtisserie, que forme le sucre blanc mélangé avec un peu d'eau ?
+      propositions:
+      - Du sirop
+      - De la confiture
+      - De la glace
+      - De la pâte
+      réponse: Du sirop
+      anecdote: Le terme « sirop » est aussi employé pour qualifier des liquides visqueux contenant autre chose que du sucre en solution.
+    - id: 8
+      question: Lequel de ces termes ne désigne pas un glucide au pouvoir sucrant ?
+      propositions:
+      - Maltose
+      - Glucose
+      - Fructose
+      - Halitose
+      réponse: Halitose
+      anecdote: L'halitose, ou mauvaise haleine, est le fait d'avoir une haleine dont l'odeur est considérée comme incommodante.
+    - id: 9
+      question: Quel problème lié au sucre peut détruire l'émail dentaire ?
+      propositions:
+      - Fluor
+      - Carie
+      - Déglutition
+      - Gingivite
+      réponse: Carie
+      anecdote: Pour la plupart des autres mammifères, la carie témoigne d'une santé générale dégradée et de carences alimentaires.
+    - id: 10
+      question: Quel sucre fait « prendre » les confitures et gelées plus facilement ?
+      propositions:
+      - Glace
+      - Perlé
+      - Candi
+      - Gélifiant
+      réponse: Gélifiant
+      anecdote: L'origine animale de la gélatine n'est pas à préciser selon la réglementation sauf si l'origine est bovine.
+  - confirmé:
+    - id: 11
+      question: Quel terme scientifique est utilisé pour désigner le sucre de table ?
+      propositions:
+      - Glucose
+      - Maltose
+      - Saccharose
+      - Fructose
+      réponse: Saccharose
+      anecdote: Le pouvoir sucrant du saccharose sert de référence dans l'échelle des produits sucrants.
+    - id: 12
+      question: Combien de kilos de sucre les Français consomment-ils en moyenne chaque année ?
+      propositions:
+      - 30 kg
+      - 50 kg
+      - 70 kg
+      - 10 kg
+      réponse: 30 kg
+      anecdote: Le sucre est une substance de saveur douce extraite principalement de la canne à sucre et de la betterave sucrière.
+    - id: 13
+      question: Le pouvoir sucrant de la stevia est combien de fois supérieur à celui du saccharose ?
+      propositions:
+      - 300 fois
+      - 3 fois
+      - 3 000 fois
+      - 30 fois
+      réponse: 300 fois
+      anecdote: La stevia fut d'abord étudiée par le botaniste et médecin espagnol Petrus Jacobus Stevus, qui a donné son nom à la plante.
+    - id: 14
+      question: Au XIIe siècle, comment utilisait-on le sucre, d'abord réservé aux apothicaires ?
+      propositions:
+      - Conservateur
+      - Médicament
+      - Friandise
+      - Punition
+      réponse: Médicament
+      anecdote: Le sucre ne deviendra réellement un ingrédient utilisé en cuisine qu'au XVIIIe siècle.
+    - id: 15
+      question: Quelle est la durée impressionnante de conservation du sucre ?
+      propositions:
+      - 5 ans
+      - 25 ans
+      - 15 ans
+      - Illimitée
+      réponse: Illimitée
+      anecdote: En France, les ventes de sucre sont passées de 5 kg/an/habitant en 1850 à 3035 kg dans les années 1970.
+    - id: 16
+      question: À quelle température faut-il chauffer le sucre pour obtenir du caramel ?
+      propositions:
+      - 200 °C
+      - 50 °C
+      - 100 °C
+      - 150 °C
+      réponse: 150 °C
+      anecdote: Le nom de famille Caramel existe aussi et est plutôt répandu dans le Sud de la France.
+    - id: 17
+      question: Quel pays est le plus grand exportateur de sucre de betteraves ?
+      propositions:
+      - Cameroun
+      - France
+      - Brésil
+      - Russie
+      réponse: Brésil
+      anecdote: La culture de la betterave sucrière occupe environ 4,4 millions d'hectares dans le monde.
+    - id: 18
+      question: Quel sucre est obtenu par cristallisation lente d'un sirop formant de gros cristaux ?
+      propositions:
+      - Blond
+      - Glace
+      - Perlé
+      - Candi
+      réponse: Candi
+      anecdote: Le sucre candi, apparu en Europe au XIXe siècle, est constitué de sucre de canne sous forme de cristaux de très grande taille.
+    - id: 19
+      question: Quel est le pourcentage de saccharose contenu dans une canne à sucre ?
+      propositions:
+      - 14 %
+      - 24 %
+      - 44 %
+      - 34 %
+      réponse: 14 %
+      anecdote: Avec deux milliards de tonnes produites, les cannes à sucre sont les premières plantes cultivées au niveau mondial.
+    - id: 20
+      question: Quelle est la couleur naturelle du sucre de betterave après extraction et purification ?
+      propositions:
+      - Brune
+      - Jaune
+      - Blanche
+      - Noire
+      réponse: Blanche
+      anecdote: La betterave sucrière est utilisée pour la production de sucre (dont la vergeoise), et secondairement d'alcool et d'éthanol-carburant. 
+  - expert:
+    - id: 21
+      question: Combien de calories vous apporte un morceau de sucre de six grammes ?
+      propositions:
+      - 37 kcal
+      - 54 kcal
+      - 24 kcal
+      - 42 kcal
+      réponse: 24 kcal
+      anecdote: Le sucre en morceaux est classé par calibre : « domino numéro 4 » indiquera que la boîte (1 kg) comporte 4 rangées.
+    - id: 22
+      question: Quel dirigeant a permis le développement du sucre de betterave en France ?
+      propositions:
+      - Charles VI
+      - Napoléon
+      - Philippe II
+      - Louis XIV
+      réponse: Napoléon
+      anecdote: Premier empereur des Français, Napoléon réorganisa et réforma durablement l'État et la société.
+    - id: 23
+      question: Combien de pays produisent du sucre dans le monde ?
+      propositions:
+      - 79
+      - 99
+      - 119
+      - 59
+      réponse: 119
+      anecdote: Sur 119 pays producteurs, 40 cultivent la betterave sucrière, et fournissaient environ 20 % de la production en 2011.
+    - id: 24
+      question: Quelle saveur primaire vient compléter le sucré, le salé et l'acide ?
+      propositions:
+      - Le piquant
+      - Le pimenté
+      - L'amer
+      - Le gras
+      réponse: L'amer
+      anecdote: L'amertume est une caractéristique importante de la bière, au même titre que la teneur en alcool par exemple.
+    - id: 25
+      question: En quelle année est né le sucre en morceaux, réalisé grâce à un procédé artisanal ?
+      propositions:
+      - 1949
+      - 1742
+      - 1644
+      - 1841
+      réponse: 1841
+      anecdote: Le sucre en morceaux est obtenu en liant des cristaux de sucre avec du sirop de sucre.
+    - id: 26
+      question: Par quelle peuplade la canne à sucre a-t-elle été introduite en Europe ?
+      propositions:
+      - Arabes
+      - Francs
+      - Perses
+      - Grecs
+      réponse: Perses
+      anecdote: La canne à sucre est une grande graminée tropicale herbacée à port de roseau, d'une hauteur allant de deux à six mètres.
+    - id: 27
+      question: Le mot sucre, désignant les glucides au pouvoir sucrant, provient de quel mot sanscrit ?
+      propositions:
+      - Sinakra
+      - Sucara
+      - Soukra
+      - Sarkara
+      réponse: Sarkara
+      anecdote: Le terme « sucre » provient du terme italien « zucchero », lui-même emprunté à l'arabe « sukkar ».
+    - id: 28
+      question: Qui a réussi le premier l'extraction du sucre de betterave en grande quantité ?
+      propositions:
+      - S. Bernard
+      - B. Delessert
+      - D. Bouton
+      - Th. Jauge
+      réponse: B. Delessert
+      anecdote: Benjamin Delessert est également le fondateur des Caisses d'épargne en France en 1818.
+    - id: 29
+      question: Combien de kilos de sucre donne en moyenne une tonne de betteraves ?
+      propositions:
+      - 200 kg
+      - 140 kg
+      - 110 kg
+      - 170 kg
+      réponse: 140 kg
+      anecdote: Depuis quelques années, le jus de la betterave à sucre est utilisé comme fondant routier en Amérique du Nord.
+    - id: 30
+      question: Que rajoute-t-on dans le sucre glace pour éviter qu'il ne s'agglomère ?
+      propositions:
+      - Jus de citron
+      - Lécithine
+      - Huile
+      - Amidon
+      réponse: Amidon
+      anecdote: Le sucre glace est principalement utilisé pour la décoration des pâtisseries ou pour sucrer les blancs en neige.
+  en:
+  - débutant:
+    - id: 1
+      question: In our regions, which sugar beet is mainly extracted from ?
+      propositions:
+      - Forage harvester
+      - Sailor
+      - Vegetable garden
+      - Sugar bowl
+      réponse: Sugar bowl
+      anecdote: Sugar beets, of which there are many varieties, are white in color and very buried.
+    - id: 2
+      question: What compound is most of the sugar made of ?
+      propositions:
+      - Fructose
+      - Maltose
+      - Sucrose
+      - Glucose
+      réponse: Sucrose
+      anecdote: Carbohydrates, and more specifically sucrose, were once called carbohydrates.
+    - id: 3
+      question: What is the sugar in fruits called ?
+      propositions:
+      - Glucose
+      - Maltose
+      - Fructose
+      - Galactose
+      réponse: Fructose
+      anecdote: Fructose has a higher sweetening power than sucrose, from 20 to 40% depending on the conditions.
+    - id: 4
+      question: How many pieces of sugar does a 33cl can of Coca-Cola contain ?
+      propositions:
+      - 3
+      - 15
+      - 11
+      - 7
+      réponse: 7
+      anecdote: The consumption of sugary drinks, if not compensated for by an hour of sport per can, is damaging over life.
+    - id: 5
+      question: What disease can be caused by excessive consumption of sugar ?
+      propositions:
+      - Flu
+      - Diabetes
+      - Hypertension
+      - Depression
+      réponse: Diabetes
+      anecdote: Diabetes mellitus (with glycosuria), the most common in us, is linked to an abnormality in the synthesis or action of insulin.
+    - id: 6
+      question: What name is commonly used to designate brown sugar ?
+      propositions:
+      - Candy sugar
+      - Icing sugar
+      - Brown sugar
+      - Gelling sugar
+      réponse: Brown sugar
+      anecdote: In Belgium and northern France, brown sugar also refers to a kind of vergeoise.
+    - id: 7
+      question: In baking, what does white sugar mixed with a little water form ?
+      propositions:
+      - Jam
+      - Syrup
+      - Ice cream
+      - Dough
+      réponse: Syrup
+      anecdote: The term syrup is also used to describe viscous liquids containing something other than sugar in solution.
+    - id: 8
+      question: Which of the following does not refer to a carbohydrate with sweetening power ?
+      propositions:
+      - Halitosis
+      - Maltose
+      - Glucose
+      - Fructose
+      réponse: Halitosis
+      anecdote: Halitosis, or bad breath, is when you have breath that smells badly.
+    - id: 9
+      question: What problem with sugar can destroy tooth enamel ?
+      propositions:
+      - Fluorine
+      - Decay
+      - Gingivitis
+      - Swallowing
+      réponse: Decay
+      anecdote: For most other mammals, decay is a sign of poor general health and nutritional deficiencies.
+    - id: 10
+      question: What sugar makes jams and jellies set more easily ?
+      propositions:
+      - Gelling agent
+      - Pearl
+      - Candi
+      - Ice
+      réponse: Gelling agent
+      anecdote: The animal origin of the gelatin does not have to be specified according to the regulations unless the origin is bovine.
+  - confirmé:
+    - id: 11
+      question: What scientific term is used to refer to table sugar ?
+      propositions:
+      - Sucrose
+      - Fructose
+      - Glucose
+      - Maltose
+      réponse: Sucrose
+      anecdote: The sweetening power of sucrose is used as a benchmark in the scale of sweetening products.
+    - id: 12
+      question: How many kilos of sugar do the French consume on average each year ?
+      propositions:
+      - 10 kg
+      - 50 kg
+      - 70 kg
+      - 30 kg
+      réponse: 30 kg
+      anecdote: Sugar is a mild-flavored substance that is mainly extracted from sugar cane and sugar beets.
+    - id: 13
+      question: How many times more sweetening power is stevia than sucrose ?
+      propositions:
+      - 3,000 times
+      - 30 times
+      - 3 times
+      - 300 times
+      réponse: 300 times
+      anecdote: Stevia was first studied by the Spanish botanist and physician Petrus Jacobus Stevus, who gave the plant its name.
+    - id: 14
+      question: In the 12th century, how was sugar used, initially reserved for apothecaries ?
+      propositions:
+      - Treat
+      - Punishment
+      - Medication
+      - Curator
+      réponse: Medication
+      anecdote: Sugar will not really become an ingredient used in cooking until the 18th century.
+    - id: 15
+      question: What is the impressive shelf life of sugar ?
+      propositions:
+      - Unlimited
+      - 5 years
+      - 25 years
+      - 15 years
+      réponse: Unlimited
+      anecdote: In France, sugar sales rose from 5 kg / year / capita in 1850 to 3035 kg in the 1970s.
+    - id: 16
+      question: At what temperature should the sugar be heated to obtain caramel ?
+      propositions:
+      - 150 ° C
+      - 100 ° C
+      - 50 ° C
+      - 200 ° C
+      réponse: 150 ° C
+      anecdote: The surname Caramel also exists and is rather common in the South of France.
+    - id: 17
+      question: Which country is the largest exporter of beet sugar ?
+      propositions:
+      - France
+      - Brazil
+      - Cameroon
+      - Russia
+      réponse: Brazil
+      anecdote: The cultivation of sugar beet occupies approximately 4.4 million hectares worldwide.
+    - id: 18
+      question: What sugar is obtained by slow crystallization of a syrup forming large crystals ?
+      propositions:
+      - Blond
+      - Candi
+      - Ice
+      - Pearl
+      réponse: Candi
+      anecdote: Candy sugar, which appeared in Europe in the 19th century, is made up of cane sugar in the form of very large crystals.
+    - id: 19
+      question: What is the percentage of sucrose contained in a sugar cane ?
+      propositions:
+      - 14%
+      - 34%
+      - 44%
+      - 24%
+      réponse: 14%
+      anecdote: With two billion tons produced, sugar cane is the first cultivated plants worldwide.
+    - id: 20
+      question: What is the natural color of beet sugar after extraction and purification ?
+      propositions:
+      - Black
+      - White
+      - Brunette
+      - Yellow
+      réponse: White
+      anecdote: Sugar beet is used for the production of sugar (including vergeoise), and secondarily alcohol and fuel ethanol.
+  - expert:
+    - id: 21
+      question: How many calories does a six gram lump of sugar give you ?
+      propositions:
+      - 42 kcal
+      - 54 kcal
+      - 24 kcal
+      - 37 kcal
+      réponse: 24 kcal
+      anecdote: Lump sugar is classified by size : « domino number 4 » will indicate that the box (1 kg) has 4 rows.
+    - id: 22
+      question: Which leader enabled the development of beet sugar in France ?
+      propositions:
+      - Philip II
+      - Napoleon
+      - Louis XIV
+      - Charles VI
+      réponse: Napoleon
+      anecdote: First emperor of the French, Napoleon reorganized and reformed the state and society on a lasting basis.
+    - id: 23
+      question: How many countries produce sugar in the world ?
+      propositions:
+      - 79
+      - 119
+      - 99
+      - 59
+      réponse: 119
+      anecdote: Out of 119 producing countries, 40 grow sugar beet, and provided around 20% of production in 2011.
+    - id: 24
+      question: Which primary flavor complements the sweet, salty and sour ?
+      propositions:
+      - The spiciness
+      - The bitter
+      - Fat
+      - The spicy
+      réponse: The bitter
+      anecdote: Bitterness is an important characteristic of beer, as is alcohol content for example.
+    - id: 25
+      question: In what year was lump sugar born, made using an artisanal process ?
+      propositions:
+      - 1644
+      - 1841
+      - 1949
+      - 1742
+      réponse: 1841
+      anecdote: Lump sugar is made by binding sugar crystals with sugar syrup.
+    - id: 26
+      question: By which people was sugar cane introduced to Europe ?
+      propositions:
+      - Arabs
+      - Francs
+      - Greeks
+      - Persians
+      réponse: Persians
+      anecdote: Sugarcane is a large tropical herbaceous grass with a reed habit, ranging in height from two to six meters.
+    - id: 27
+      question: The word sugar, designating carbohydrates with sweetening power, comes from which Sanskrit word ?
+      propositions:
+      - Soukra
+      - Sarkara
+      - Sucara
+      - Sinakra
+      réponse: Sarkara
+      anecdote: The term sugar comes from the Italian term zucchero, itself borrowed from the Arabic sukkar.
+    - id: 28
+      question: Who was the first to extract beet sugar in large quantities ?
+      propositions:
+      - S. Bernard
+      - Th. Gauge
+      - D. Button
+      - B. Delessert
+      réponse: B. Delessert
+      anecdote: Benjamin Delessert is also the founder of the Savings Banks in France in 1818.
+    - id: 29
+      question: How many kilos of sugar does a ton of beets on average give ?
+      propositions:
+      - 170 kg
+      - 200 kg
+      - 110 kg
+      - 140 kg
+      réponse: 140 kg
+      anecdote: In recent years, sugar beet juice has been used as a road fondant in North America.
+    - id: 30
+      question: What do you add to the icing sugar to prevent it from clumping ?
+      propositions:
+      - Oil
+      - Lecithin
+      - Starch
+      - Lemon juice
+      réponse: Starch
+      anecdote: Icing sugar is mainly used for decorating pastries or for sweetening snow whites.
+  de:
+  - débutant:
+    - id: 1
+      question: Aus welchen Zuckerrüben wird in unseren Regionen hauptsächlich gewonnen ?
+      propositions:
+      - Zuckerdose
+      - Seemann
+      - Feldhäcksler
+      - Gemüsegarten
+      réponse: Zuckerdose
+      anecdote: Zuckerrüben, von denen es viele Sorten gibt, sind weiß und sehr vergraben.
+    - id: 2
+      question: Aus welcher Verbindung besteht der meiste Zucker ?
+      propositions:
+      - Glukose
+      - Fruktose
+      - Saccharose
+      - Maltose
+      réponse: Saccharose
+      anecdote: Kohlenhydrate und insbesondere Saccharose wurden früher als Kohlenhydrate bezeichnet.
+    - id: 3
+      question: Wie heißt der Zucker in Früchten ?
+      propositions:
+      - Galactose
+      - Glukose
+      - Fruktose
+      - Maltose
+      réponse: Fruktose
+      anecdote: Fruktose hat eine höhere Süßkraft als Saccharose, je nach den Bedingungen zwischen 20 und 40%.
+    - id: 4
+      question: Wie viele Zuckerstücke enthält eine 33-cl-Dose Coca-Cola ?
+      propositions:
+      - 15
+      - 3
+      - 11
+      - 7
+      réponse: 7
+      anecdote: Der Konsum von zuckerhaltigen Getränken ist lebenslang schädlich, wenn er nicht durch eine Stunde Sport pro Dose ausgeglichen wird.
+    - id: 5
+      question: Welche Krankheit kann durch übermäßigen Zuckerkonsum verursacht werden ?
+      propositions:
+      - Depression
+      - Diabetes
+      - Hypertonie
+      - Grippe
+      réponse: Diabetes
+      anecdote: Diabetes mellitus (mit Glykosurie), der bei uns am häufigsten auftritt, ist mit einer Abnormalität in der Synthese oder Wirkung von Insulin verbunden.
+    - id: 6
+      question: Welcher Name wird üblicherweise zur Bezeichnung von braunem Zucker verwendet ?
+      propositions:
+      - Brauner Zucker
+      - Kandiszucker
+      - Zucker gelieren
+      - Puderzucker
+      réponse: Brauner Zucker
+      anecdote: In Belgien und Nordfrankreich bezieht sich brauner Zucker auch auf eine Art Vergeoise.
+    - id: 7
+      question: Was bildet beim Backen weißer Zucker mit etwas Wasser ?
+      propositions:
+      - Jam
+      - Sirup
+      - Eis
+      - Teig
+      réponse: Sirup
+      anecdote: Der Begriff Sirup wird auch verwendet, um viskose Flüssigkeiten zu beschreiben, die etwas anderes als Zucker in Lösung enthalten.
+    - id: 8
+      question: Welche der folgenden Aussagen bezieht sich nicht auf ein Kohlenhydrat mit Süßkraft ?
+      propositions:
+      - Glukose
+      - Mundgeruch
+      - Fruktose
+      - Maltose
+      réponse: Mundgeruch
+      anecdote: Mundgeruch oder Mundgeruch ist, wenn Sie Atem haben, der schlecht riecht.
+    - id: 9
+      question: Welches Problem mit Zucker kann den Zahnschmelz zerstören ?
+      propositions:
+      - Zerfall
+      - Schlucken
+      - Fluor
+      - Gingivitis
+      réponse: Zerfall
+      anecdote: Für die meisten anderen Säugetiere ist Zerfall ein Zeichen für schlechte allgemeine Gesundheit und Mangelernährung.
+    - id: 10
+      question: Welcher Zucker lässt Marmeladen und Gelees leichter abbinden ?
+      propositions:
+      - Perle
+      - Eis
+      - Geliermittel
+      - Candi
+      réponse: Geliermittel
+      anecdote: Der tierische Ursprung der Gelatine muss nicht gemäß den Vorschriften angegeben werden, es sei denn, der Ursprung ist Rinder.
+  - confirmé:
+    - id: 11
+      question: Welcher wissenschaftliche Begriff bezieht sich auf Haushaltszucker ?
+      propositions:
+      - Fruktose
+      - Saccharose
+      - Glukose
+      - Maltose
+      réponse: Saccharose
+      anecdote: Die Süßkraft von Saccharose wird als Maßstab für die Skala von Süßungsprodukten verwendet.
+    - id: 12
+      question: Wie viele Kilo Zucker verbrauchen die Franzosen durchschnittlich pro Jahr ?
+      propositions:
+      - 70 kg
+      - 30 kg
+      - 50 kg
+      - 10 kg
+      réponse: 30 kg
+      anecdote: Zucker ist eine Substanz mit mildem Geschmack, die hauptsächlich aus Zuckerrohr und Zuckerrüben gewonnen wird.
+    - id: 13
+      question: Wie viel mehr Süßkraft hat Stevia als Saccharose ?
+      propositions:
+      - 300 mal
+      - 3.000 mal
+      - 30 mal
+      - 3 mal
+      réponse: 300 mal
+      anecdote: Stevia wurde zuerst vom spanischen Botaniker und Arzt Petrus Jacobus Stevus untersucht, der der Pflanze ihren Namen gab.
+    - id: 14
+      question: Wie wurde im 12. Jahrhundert Zucker verwendet, der ursprünglich Apothekern vorbehalten war ?
+      propositions:
+      - Medikamente
+      - Behandeln
+      - Bestrafung
+      - Kurator
+      réponse: Medikamente
+      anecdote: Zucker wird erst im 18. Jahrhundert zu einer Zutat für das Kochen.
+    - id: 15
+      question: Was ist die beeindruckende Haltbarkeit von Zucker ?
+      propositions:
+      - 5 Jahre
+      - 25 Jahre
+      - 15 Jahre
+      - Unbegrenzt
+      réponse: Unbegrenzt
+      anecdote: In Frankreich stieg der Zuckerabsatz von 5 kg / Jahr / Kopf im Jahr 1850 auf 30 bis 35 kg in den 1970er Jahren.
+    - id: 16
+      question: Auf welche Temperatur sollte der Zucker erhitzt werden, um Karamell zu erhalten ?
+      propositions:
+      - 50 ° C
+      - 200 ° C
+      - 150 ° C
+      - 100 ° C
+      réponse: 150 ° C
+      anecdote: Der Familienname Karamell existiert auch und ist in Südfrankreich eher verbreitet.
+    - id: 17
+      question: Welches Land ist der größte Exporteur von Rübenzucker ?
+      propositions:
+      - Russland
+      - Brasilien
+      - Frankreich
+      - Kamerun
+      réponse: Brasilien
+      anecdote: Der Anbau von Zuckerrüben nimmt weltweit rund 4,4 Millionen Hektar ein.
+    - id: 18
+      question: Welcher Zucker wird durch langsame Kristallisation eines Sirups unter Bildung großer Kristalle erhalten ?
+      propositions:
+      - Blond
+      - Perle
+      - Eis
+      - Candi
+      réponse: Candi
+      anecdote: Kandiszucker, der im 19. Jahrhundert in Europa auftauchte, besteht aus Rohrzucker in Form sehr großer Kristalle.
+    - id: 19
+      question: Wie viel Prozent Saccharose sind in einem Zuckerrohr enthalten ?
+      propositions:
+      - 44%
+      - 24%
+      - 14%
+      - 34%
+      réponse: 14%
+      anecdote: Zuckerrohr ist mit zwei Milliarden produzierten Tonnen die erste Kulturpflanze weltweit.
+    - id: 20
+      question: Welche natürliche Farbe hat Rübenzucker nach Extraktion und Reinigung ?
+      propositions:
+      - Schwarz
+      - Gelb
+      - Brünette
+      - Weiß
+      réponse: Weiß
+      anecdote: Zuckerrüben werden zur Herstellung von Zucker (einschließlich Vergeoise) und zweitens von Alkohol und Ethanol verwendet.
+  - expert:
+    - id: 21
+      question: Wie viele Kalorien gibt Ihnen ein 6-Gramm-Klumpen Zucker ?
+      propositions:
+      - 42 kcal
+      - 37 kcal
+      - 24 kcal
+      - 54 kcal
+      réponse: 24 kcal
+      anecdote: Würfelzucker wird nach Größe klassifiziert : « Domino Nummer 4 » zeigt an, dass die Schachtel (1 kg) 4 Reihen hat.
+    - id: 22
+      question: Welcher Marktführer hat die Entwicklung von Rübenzucker in Frankreich ermöglicht ?
+      propositions:
+      - Ludwig XIV.
+      - Charles VI
+      - Philipp II.
+      - Napoleon
+      réponse: Napoleon
+      anecdote: Napoleon, der erste Kaiser der Franzosen, reorganisierte und reformierte den Staat und die Gesellschaft dauerhaft.
+    - id: 23
+      question: Wie viele Länder produzieren weltweit Zucker ?
+      propositions:
+      - 119
+      - 59
+      - 99
+      - 79
+      réponse: 119
+      anecdote: Von 119 Produktionsländern bauen 40 Zuckerrüben an und lieferten 2011 rund 20% der Produktion.
+    - id: 24
+      question: Welcher Hauptgeschmack ergänzt das Süße, Salzige und Saure ?
+      propositions:
+      - Die Schärfe
+      - Das würzige
+      - Fett
+      - Der bittere
+      réponse: Der bittere
+      anecdote: Bitterkeit ist ein wichtiges Merkmal von Bier, ebenso wie beispielsweise der Alkoholgehalt.
+    - id: 25
+      question: In welchem Jahr wurde Würfelzucker geboren, der nach einem handwerklichen Verfahren hergestellt wurde ?
+      propositions:
+      - 1949
+      - 1841
+      - 1644
+      - 1742
+      réponse: 1841
+      anecdote: Klumpenzucker wird durch Binden von Zuckerkristallen mit Zuckersirup hergestellt.
+    - id: 26
+      question: Von welchen Menschen wurde Zuckerrohr nach Europa gebracht ?
+      propositions:
+      - Araber
+      - Griechen
+      - Perser
+      - Franken
+      réponse: Perser
+      anecdote: Zuckerrohr ist ein großes tropisches Kräutergras mit einem Schilfwuchs, dessen Höhe zwischen zwei und sechs Metern liegt.
+    - id: 27
+      question: Aus welchem Sanskrit-Wort stammt das Wort Zucker, das Kohlenhydrate mit Süßkraft bezeichnet ?
+      propositions:
+      - Sucara
+      - Sinakra
+      - Sarkara
+      - Soukra
+      réponse: Sarkara
+      anecdote: Der Begriff Zucker stammt vom italienischen Begriff Zucchero ab, der selbst aus dem arabischen Sukkar entlehnt wurde.
+    - id: 28
+      question: Wer hat als erster Rübenzucker in großen Mengen gewonnen ?
+      propositions:
+      - Th. Spurweite
+      - B. Delessert
+      - S. Bernard
+      - D. Button
+      réponse: B. Delessert
+      anecdote: Benjamin Delessert ist auch der Gründer der Sparkassen in Frankreich im Jahr 1818.
+    - id: 29
+      question: Wie viele Kilo Zucker gibt eine Tonne Rüben durchschnittlich ?
+      propositions:
+      - 110 kg
+      - 140 kg
+      - 170 kg
+      - 200 kg
+      réponse: 140 kg
+      anecdote: In den letzten Jahren wurde in Nordamerika Zuckerrübensaft als Straßenfondant verwendet.
+    - id: 30
+      question: Was fügen Sie dem Puderzucker hinzu, um ein Verklumpen zu verhindern ?
+      propositions:
+      - Lecithin
+      - Öl
+      - Stärke
+      - Zitronensaft
+      réponse: Stärke
+      anecdote: Puderzucker wird hauptsächlich zum Dekorieren von Gebäck oder zum Süßen von Schneewittchen verwendet.
+  es:
+  - débutant:
+    - id: 1
+      question: En nuestras regiones, ¿de qué se extrae principalmente la remolacha azucarera ?
+      propositions:
+      - Cosechadora de forraje
+      - Marinero
+      - Azucarero
+      - Huerta
+      réponse: Azucarero
+      anecdote: Las remolachas azucareras, de las que existen muchas variedades, son de color blanco y muy enterradas.
+    - id: 2
+      question: ¿De qué compuesto está hecha la mayor parte del azúcar ?
+      propositions:
+      - Maltosa
+      - Fructosa
+      - Sacarosa
+      - Glucosa
+      réponse: Sacarosa
+      anecdote: Los carbohidratos, y más específicamente la sacarosa, alguna vez fueron llamados carbohidratos.
+    - id: 3
+      question: ¿Cómo se llama el azúcar de las frutas ?
+      propositions:
+      - Glucosa
+      - Fructosa
+      - Galactosa
+      - Maltosa
+      réponse: Fructosa
+      anecdote: La fructosa tiene un poder edulcorante superior a la sacarosa, del 20 al 40% según las condiciones.
+    - id: 4
+      question: ¿Cuántos azúcares contiene una lata de Coca-Cola de 33cl ?
+      propositions:
+      - 3
+      - 7
+      - 15
+      - 11
+      réponse: 7
+      anecdote: El consumo de bebidas azucaradas, si no se compensa con una hora de deporte por lata, es perjudicial para la vida.
+    - id: 5
+      question: ¿Qué enfermedad puede causar el consumo excesivo de azúcar ?
+      propositions:
+      - Depresión
+      - Hipertensión
+      - Gripe
+      - Diabetes
+      réponse: Diabetes
+      anecdote: La diabetes mellitus (con glucosuria), la más común en nosotros, está ligada a una anomalía en la síntesis o acción de la insulina.
+    - id: 6
+      question: ¿Qué nombre se usa comúnmente para designar el azúcar morena ?
+      propositions:
+      - Azúcar gelificante
+      - Azúcar glas
+      - Azúcar moreno
+      - Azúcar de caramelo
+      réponse: Azúcar moreno
+      anecdote: En Bélgica y el norte de Francia, el azúcar moreno también se refiere a una especie de burdeos.
+    - id: 7
+      question: Al hornear, ¿qué se forma el azúcar blanco mezclado con un poco de agua ?
+      propositions:
+      - Jarabe
+      - Helado
+      - Masa
+      - Jam
+      réponse: Jarabe
+      anecdote: El término jarabe también se usa para describir líquidos viscosos que contienen algo diferente al azúcar en solución.
+    - id: 8
+      question: ¿Cuál de los siguientes no se refiere a un carbohidrato con poder edulcorante ?
+      propositions:
+      - Maltosa
+      - Halitosis
+      - Glucosa
+      - Fructosa
+      réponse: Halitosis
+      anecdote: La halitosis, o mal aliento, ocurre cuando tienes un aliento que huele mal.
+    - id: 9
+      question: ¿Qué problema con el azúcar puede destruir el esmalte dental ?
+      propositions:
+      - Gingivitis ","Gingivite
+      - Decay
+      - Flúor
+      - Tragar
+      réponse: Decay
+      anecdote: Para la mayoría de los otros mamíferos, la descomposición es un signo de mala salud general y deficiencias nutricionales.
+    - id: 10
+      question: ¿Qué azúcar hace que las mermeladas y jaleas cuajen más fácilmente ?
+      propositions:
+      - Pearl
+      - Agente gelificante
+      - Candi
+      - Hielo
+      réponse: Agente gelificante
+      anecdote: El origen animal de la gelatina no tiene que especificarse según la normativa a menos que el origen sea bovino.
+  - confirmé:
+    - id: 11
+      question: ¿Qué término científico se utiliza para referirse al azúcar de mesa ?
+      propositions:
+      - Fructosa
+      - Sacarosa
+      - Maltosa
+      - Glucosa
+      réponse: Sacarosa
+      anecdote: El poder edulcorante de la sacarosa se utiliza como referencia en la escala de productos edulcorantes.
+    - id: 12
+      question: ¿Cuántos kilos de azúcar consumen de media los franceses al año ?
+      propositions:
+      - 70 kg
+      - 50 kg
+      - 30 kg
+      - 10 kg
+      réponse: 30 kg
+      anecdote: El azúcar es una sustancia de sabor suave que se extrae principalmente de la caña de azúcar y la remolacha azucarera.
+    - id: 13
+      question: ¿Cuántas veces más poder endulzante tiene la stevia que la sacarosa ?
+      propositions:
+      - 3 veces
+      - 3000 veces
+      - 300 veces
+      - 30 veces
+      réponse: 300 veces
+      anecdote: La stevia fue estudiada por primera vez por el botánico y médico español Petrus Jacobus Stevus, quien le dio su nombre a la planta.
+    - id: 14
+      question: En el siglo XII, ¿cómo se usaba el azúcar, inicialmente reservado a los boticarios ?
+      propositions:
+      - Curador
+      - Medicación
+      - Tratar
+      - Castigo
+      réponse: Medicación
+      anecdote: El azúcar no se convertirá realmente en un ingrediente utilizado en la cocina hasta el siglo XVIII.
+    - id: 15
+      question: ¿Cuál es la impresionante vida útil del azúcar ?
+      propositions:
+      - 25 años
+      - 5 años
+      - 15 años
+      - Ilimitado
+      réponse: Ilimitado
+      anecdote: En Francia, las ventas de azúcar aumentaron de 5 kg / año / cápita en 1850 a 30-35 kg en la década de 1970.
+    - id: 16
+      question: ¿A qué temperatura se debe calentar el azúcar para obtener caramelo ?
+      propositions:
+      - 50 ° C
+      - 200 ° C
+      - 100 ° C
+      - 150 ° C
+      réponse: 150 ° C
+      anecdote: El apellido Caramel también existe y es bastante común en el sur de Francia.
+    - id: 17
+      question: ¿Qué país es el mayor exportador de azúcar de remolacha ?
+      propositions:
+      - Camerún
+      - Francia
+      - Brasil
+      - Rusia
+      réponse: Brasil
+      anecdote: El cultivo de remolacha azucarera ocupa alrededor de 4,4 millones de hectáreas en todo el mundo.
+    - id: 18
+      question: ¿Qué azúcar se obtiene por cristalización lenta de un jarabe formando cristales grandes ?
+      propositions:
+      - Rubio
+      - Pearl
+      - Hielo
+      - Candi
+      réponse: Candi
+      anecdote: El azúcar dulce, que apareció en Europa en el siglo XIX, está compuesto de azúcar de caña en forma de cristales muy grandes.
+    - id: 19
+      question: ¿Cuál es el porcentaje de sacarosa que contiene una caña de azúcar ?
+      propositions:
+      - 34%
+      - 24%
+      - 44%
+      - 14%
+      réponse: 14%
+      anecdote: Con dos mil millones de toneladas producidas, la caña de azúcar es la primera planta cultivada en todo el mundo.
+    - id: 20
+      question: ¿Cuál es el color natural del azúcar de remolacha después de la extracción y purificación ?
+      propositions:
+      - Morena
+      - Amarillo
+      - Negro
+      - Blanco
+      réponse: Blanco
+      anecdote: La remolacha azucarera se utiliza para la producción de azúcar (incluida la verguesa) y, en segundo lugar, alcohol y etanol combustible.
+  - expert:
+    - id: 21
+      question: ¿Cuántas calorías te aporta un terrón de azúcar de seis gramos ?
+      propositions:
+      - 42 kcal
+      - 24 kcal
+      - 54 kcal
+      - 37 kcal
+      réponse: 24 kcal
+      anecdote: El azúcar en terrones se clasifica por tamaño : « dominó número 4 » indicará que la caja (1 kg) tiene 4 filas.
+    - id: 22
+      question: ¿Qué líder permitió el desarrollo del azúcar de remolacha en Francia ?
+      propositions:
+      - Louis XIV
+      - Felipe II
+      - Napoleón
+      - Charles VI
+      réponse: Napoleón
+      anecdote: Primer emperador de Francia, Napoleón reorganizó y reformó el estado y la sociedad de forma duradera.
+    - id: 23
+      question: ¿Cuántos países producen azúcar en el mundo ?
+      propositions:
+      - 59
+      - 119
+      - 99
+      - 79
+      réponse: 119
+      anecdote: De los 119 países productores, 40 cultivan remolacha azucarera y proporcionaron alrededor del 20% de la producción en 2011.
+    - id: 24
+      question: ¿Qué sabor primario complementa al dulce, salado y ácido ?
+      propositions:
+      - Grasa
+      - El picante
+      - El picante
+      - El amargo
+      réponse: El amargo
+      anecdote: El amargor es una característica importante de la cerveza, al igual que el contenido de alcohol, por ejemplo.
+    - id: 25
+      question: ¿En qué año nació el azúcar en terrones, elaborado mediante un proceso artesanal ?
+      propositions:
+      - 1644
+      - 1841
+      - 1949
+      - 1742
+      réponse: 1841
+      anecdote: El azúcar en terrones se elabora uniendo cristales de azúcar con jarabe de azúcar.
+    - id: 26
+      question: ¿Quién introdujo la caña de azúcar en Europa ?
+      propositions:
+      - Árabes
+      - Persas
+      - Francos
+      - Griegos
+      réponse: Persas
+      anecdote: La caña de azúcar es una gran hierba herbácea tropical con hábito de junco, cuya altura varía de dos a seis metros.
+    - id: 27
+      question: La palabra azúcar, que designa carbohidratos con poder edulcorante, ¿de qué palabra sánscrita proviene ?
+      propositions:
+      - Sinakra
+      - Sucara
+      - Sarkara
+      - Soukra
+      réponse: Sarkara
+      anecdote: El término azúcar proviene del término italiano zucchero, tomado del árabe sukkar.
+    - id: 28
+      question: ¿Quién fue el primero en extraer azúcar de remolacha en grandes cantidades ?
+      propositions:
+      - S. Bernard
+      - D. Botón
+      - B. Delessert
+      - Th. Gauge
+      réponse: B. Delessert
+      anecdote: Benjamin Delessert es también el fundador de las Cajas de Ahorros en Francia en 1818.
+    - id: 29
+      question: ¿Cuántos kilos de azúcar da en promedio una tonelada de remolacha ?
+      propositions:
+      - 140 kg
+      - 200 kg
+      - 110 kg
+      - 170 kg
+      réponse: 140 kg
+      anecdote: En los últimos años, el jugo de remolacha azucarera se ha utilizado como fondant para carreteras en América del Norte.
+    - id: 30
+      question: ¿Qué le agregas al azúcar glas para evitar que se apelmace ?
+      propositions:
+      - Almidón
+      - Jugo de limon
+      - Lecitina
+      - Petróleo
+      réponse: Almidón
+      anecdote: El azúcar glas se utiliza principalmente para decorar pasteles o para endulzar los blancos de nieve.
+  it:
+  - débutant:
+    - id: 1
+      question: Nelle nostre regioni, da quale barbabietola da zucchero viene estratta principalmente ?
+      propositions:
+      - Trince semoventi
+      - Zuccheriera
+      - Marinaio
+      - Orto
+      réponse: Zuccheriera
+      anecdote: Le barbabietole da zucchero, di cui esistono molte varietà, sono di colore bianco e molto interrate.
+    - id: 2
+      question: Di quale composto è composta la maggior parte dello zucchero ?
+      propositions:
+      - Saccarosio
+      - Glucosio
+      - Fruttosio
+      - Maltosio
+      réponse: Saccarosio
+      anecdote: I carboidrati, e più specificamente il saccarosio, una volta erano chiamati carboidrati.
+    - id: 3
+      question: Come si chiama lo zucchero nella frutta ?
+      propositions:
+      - Galattosio
+      - Fruttosio
+      - Glucosio
+      - Maltosio
+      réponse: Fruttosio
+      anecdote: Il fruttosio ha un potere dolcificante superiore al saccarosio, dal 20 al 40% a seconda delle condizioni.
+    - id: 4
+      question: Quanti pezzi di zucchero contiene una lattina da 33 cl di Coca-Cola ?
+      propositions:
+      - 7
+      - 11
+      - 15
+      - 3
+      réponse: 7
+      anecdote: Il consumo di bevande zuccherate, se non compensato da un'ora di sport per lattina, è dannoso per tutta la vita.
+    - id: 5
+      question: Quale malattia può essere causata da un consumo eccessivo di zucchero ?
+      propositions:
+      - Ipertensione
+      - Diabete
+      - Depressione
+      - Influenza
+      réponse: Diabete
+      anecdote: Il diabete mellito (con glicosuria), il più comune in noi, è legato ad un'anomalia nella sintesi o nell'azione dell'insulina.
+    - id: 6
+      question: Quale nome è comunemente usato per designare lo zucchero di canna ?
+      propositions:
+      - Zucchero di canna
+      - Zucchero gelificante
+      - Zucchero candito
+      - Zucchero a velo
+      réponse: Zucchero di canna
+      anecdote: In Belgio e nel nord della Francia, lo zucchero di canna si riferisce anche a una sorta di vergeoise.
+    - id: 7
+      question: In cottura cosa forma lo zucchero bianco mescolato con un po 'd'acqua ?
+      propositions:
+      - Impasto
+      - Gelato
+      - Sciroppo
+      - Jam
+      réponse: Sciroppo
+      anecdote: Il termine sciroppo è anche usato per descrivere liquidi viscosi contenenti qualcosa di diverso dallo zucchero in soluzione.
+    - id: 8
+      question: Quale dei seguenti non si riferisce a un carboidrato con potere dolcificante ?
+      propositions:
+      - Fruttosio
+      - Alitosi
+      - Maltosio
+      - Glucosio
+      réponse: Alitosi
+      anecdote: L'alitosi, o alito cattivo, è quando hai un alito che ha un cattivo odore.
+    - id: 9
+      question: Quale problema con lo zucchero può distruggere lo smalto dei denti ?
+      propositions:
+      - Deglutizione
+      - Fluoro
+      - Gengivite
+      - Decadimento
+      réponse: Decadimento
+      anecdote: Per la maggior parte degli altri mammiferi, la carie è un segno di cattiva salute generale e carenze nutrizionali.
+    - id: 10
+      question: Qual è lo zucchero che fa fissarsi più facilmente marmellate e gelatine ?
+      propositions:
+      - Agente gelificante
+      - Candi
+      - Perla
+      - Ghiaccio
+      réponse: Agente gelificante
+      anecdote: L'origine animale della gelatina non deve essere specificata secondo i regolamenti a meno che l'origine non sia bovina.
+  - confirmé:
+    - id: 11
+      question: Quale termine scientifico viene utilizzato per riferirsi allo zucchero da tavola ?
+      propositions:
+      - Saccarosio
+      - Maltosio
+      - Fruttosio
+      - Glucosio
+      réponse: Saccarosio
+      anecdote: Il potere dolcificante del saccarosio è utilizzato come parametro di riferimento nella scala dei prodotti dolcificanti.
+    - id: 12
+      question: Quanti chili di zucchero consumano in media ogni anno i francesi ?
+      propositions:
+      - 10 kg
+      - 50 kg
+      - 30 kg
+      - 70 kg
+      réponse: 30 kg
+      anecdote: Lo zucchero è una sostanza dal sapore delicato che viene estratta principalmente dalla canna da zucchero e dalle barbabietole da zucchero.
+    - id: 13
+      question: Quante volte più potere dolcificante è la stevia del saccarosio ?
+      propositions:
+      - 3.000 volte
+      - 300 volte
+      - 3 volte
+      - 30 volte
+      réponse: 300 volte
+      anecdote: La stevia fu studiata per la prima volta dal botanico e medico spagnolo Petrus Jacobus Stevus, che diede il nome alla pianta.
+    - id: 14
+      question: Nel XII secolo come si utilizzava lo zucchero, inizialmente riservato agli speziali ?
+      propositions:
+      - Curatore
+      - Punizione
+      - Farmaco
+      - Trattare
+      réponse: Farmaco
+      anecdote: Lo zucchero non diventerà davvero un ingrediente utilizzato in cucina fino al XVIII secolo.
+    - id: 15
+      question: Qual è l'impressionante durata di conservazione dello zucchero ?
+      propositions:
+      - 15 anni
+      - Illimitato
+      - 25 anni
+      - 5 anni
+      réponse: Illimitato
+      anecdote: In Francia, le vendite di zucchero sono passate da 5 kg / anno / pro capite nel 1850 a 30-35 kg negli anni '70.
+    - id: 16
+      question: A che temperatura va riscaldato lo zucchero per ottenere il caramello ?
+      propositions:
+      - 200 ° C
+      - 100 ° C
+      - 150 ° C
+      - 50 ° C
+      réponse: 150 ° C
+      anecdote: Il cognome Caramel esiste anche ed è piuttosto comune nel sud della Francia.
+    - id: 17
+      question: Quale paese è il più grande esportatore di zucchero di barbabietola ?
+      propositions:
+      - Camerun
+      - Francia
+      - Brasile
+      - Russia
+      réponse: Brasile
+      anecdote: La coltivazione della barbabietola da zucchero occupa circa 4,4 milioni di ettari nel mondo.
+    - id: 18
+      question: Quale zucchero si ottiene dalla cristallizzazione lenta di uno sciroppo formando grossi cristalli ?
+      propositions:
+      - Biondo
+      - Perla
+      - Ghiaccio
+      - Candi
+      réponse: Candi
+      anecdote: Lo zucchero candito, apparso in Europa nel XIX secolo, è costituito da zucchero di canna sotto forma di cristalli molto grandi.
+    - id: 19
+      question: Qual è la percentuale di saccarosio contenuta in una canna da zucchero ?
+      propositions:
+      - 24%
+      - 44%
+      - 34%
+      - 14%
+      réponse: 14%
+      anecdote: Con due miliardi di tonnellate prodotte, la canna da zucchero è la prima pianta coltivata al mondo.
+    - id: 20
+      question: Qual è il colore naturale dello zucchero di barbabietola dopo l'estrazione e la purificazione ?
+      propositions:
+      - Bruna
+      - Bianco
+      - Nero
+      - Giallo
+      réponse: Bianco
+      anecdote: La barbabietola da zucchero viene utilizzata per la produzione di zucchero (compresa la vergeoise) e secondariamente alcol ed etanolo combustibile.
+  - expert:
+    - id: 21
+      question: Quante calorie ti dà una zolletta di zucchero da sei grammi ?
+      propositions:
+      - 42 kcal
+      - 54 kcal
+      - 24 kcal
+      - 37 kcal
+      réponse: 24 kcal
+      anecdote: La zolletta di zucchero è classificata per dimensione : « numero 4 di domino » indicherà che la scatola (1 kg) ha 4 righe.
+    - id: 22
+      question: Quale leader ha consentito lo sviluppo dello zucchero di barbabietola in Francia ?
+      propositions:
+      - Filippo II
+      - Carlo VI
+      - Napoleone
+      - Louis XIV
+      réponse: Napoleone
+      anecdote: Primo imperatore dei francesi, Napoleone riorganizzò e riformò lo stato e la società in modo duraturo.
+    - id: 23
+      question: Quanti paesi producono zucchero nel mondo ?
+      propositions:
+      - 119
+      - 79
+      - 99
+      - 59
+      réponse: 119
+      anecdote: Su 119 paesi produttori, 40 coltivano barbabietola da zucchero e hanno fornito circa il 20% della produzione nel 2011.
+    - id: 24
+      question: Quale sapore principale completa il dolce, il salato e l'acido ?
+      propositions:
+      - Grasso
+      - La piccantezza
+      - L'amaro
+      - Il piccante
+      réponse: L'amaro
+      anecdote: L'amaro è una caratteristica importante della birra, così come il contenuto di alcol, ad esempio.
+    - id: 25
+      question: In che anno è nata la zolletta di zucchero, prodotta con procedimento artigianale ?
+      propositions:
+      - 1841
+      - 1742
+      - 1644
+      - 1949
+      réponse: 1841
+      anecdote: Lo zucchero in grumi si ottiene legando i cristalli di zucchero con lo sciroppo di zucchero.
+    - id: 26
+      question: Da quali persone è stata introdotta la canna da zucchero in Europa ?
+      propositions:
+      - Arabi
+      - Greci
+      - Persiani
+      - Franchi
+      réponse: Persiani
+      anecdote: La canna da zucchero è una grande erba erbacea tropicale con un portamento di canna, che varia in altezza da due a sei metri.
+    - id: 27
+      question: Da quale parola sanscrita deriva la parola zucchero, che designa i carboidrati con potere dolcificante ?
+      propositions:
+      - Soukra
+      - Sucara
+      - Sarkara
+      - Sinakra
+      réponse: Sarkara
+      anecdote: Il termine zucchero deriva dal termine italiano zucchero, a sua volta preso in prestito dall'arabo sukkar.
+    - id: 28
+      question: Chi è stato il primo a estrarre lo zucchero di barbabietola in grandi quantità ?
+      propositions:
+      - B. Delessert
+      - Th. Gauge
+      - S. Bernard
+      - Pulsante D.
+      réponse: B. Delessert
+      anecdote: Benjamin Delessert è anche il fondatore delle casse di risparmio in Francia nel 1818.
+    - id: 29
+      question: Quanti chili di zucchero dà in media una tonnellata di barbabietole ?
+      propositions:
+      - 170 kg
+      - 140 kg
+      - 110 kg
+      - 200 kg
+      réponse: 140 kg
+      anecdote: Negli ultimi anni, il succo di barbabietola da zucchero è stato utilizzato come fondente da strada in Nord America.
+    - id: 30
+      question: Cosa aggiungete allo zucchero a velo per evitare che si raggrumi ?
+      propositions:
+      - Olio
+      - Succo di limone
+      - Lecitina
+      - Amido
+      réponse: Amido
+      anecdote: Lo zucchero a velo viene utilizzato principalmente per decorare la pasticceria o per addolcire i bianchi della neve.
+  nl:
+  - débutant:
+    - id: 1
+      question: Van welke suikerbiet wordt in onze streken voornamelijk gewonnen ?
+      propositions:
+      - Matroos
+      - Suikerpot
+      - Moestuin
+      - Hakselaar
+      réponse: Suikerpot
+      anecdote: Suikerbieten, waarvan er veel soorten zijn, zijn wit van kleur en erg begraven.
+    - id: 2
+      question: Van welke samenstelling is de meeste suiker gemaakt ?
+      propositions:
+      - Glucose
+      - Maltose
+      - Fructose
+      - Sucrose
+      réponse: Sucrose
+      anecdote: Koolhydraten, en meer specifiek sucrose, werden ooit koolhydraten genoemd.
+    - id: 3
+      question: Hoe heet de suiker in fruit ?
+      propositions:
+      - Fructose
+      - Glucose
+      - Galactose
+      - Maltose
+      réponse: Fructose
+      anecdote: Fructose heeft een hogere zoetkracht dan sucrose, van 20 tot 40% afhankelijk van de omstandigheden.
+    - id: 4
+      question: Hoeveel stukjes suiker bevat een blikje Coca-Cola van 33 cl ?
+      propositions:
+      - 3
+      - 7
+      - 15
+      - 11
+      réponse: 7
+      anecdote: De consumptie van suikerhoudende dranken, indien niet gecompenseerd door een uur sporten per blik, is schadelijk voor het leven.
+    - id: 5
+      question: Welke ziekte kan worden veroorzaakt door overmatige consumptie van suiker ?
+      propositions:
+      - Diabetes
+      - Depressie
+      - Hypertensie
+      - Griep
+      réponse: Diabetes
+      anecdote: Diabetes mellitus (met glycosurie), de meest voorkomende bij ons, houdt verband met een afwijking in de synthese of werking van insuline.
+    - id: 6
+      question: Welke naam wordt gewoonlijk gebruikt om bruine suiker aan te duiden ?
+      propositions:
+      - Gelerende suiker
+      - Poedersuiker
+      - Kandijsuiker
+      - Bruine suiker
+      réponse: Bruine suiker
+      anecdote: In België en Noord-Frankrijk verwijst bruine suiker ook naar een soort berm.
+    - id: 7
+      question: Wat vormt bij het bakken witte suiker gemengd met een beetje water ?
+      propositions:
+      - Jam
+      - IJs
+      - Siroop
+      - Deeg
+      réponse: Siroop
+      anecdote: De term siroop wordt ook gebruikt om stroperige vloeistoffen te beschrijven die iets anders dan suiker in oplossing bevatten.
+    - id: 8
+      question: Welke van de volgende heeft geen betrekking op een koolhydraat met zoetkracht ?
+      propositions:
+      - Maltose
+      - Glucose
+      - Halitosis
+      - Fructose
+      réponse: Halitosis
+      anecdote: Halitose, of slechte adem, is wanneer je een slechte adem hebt.
+    - id: 9
+      question: Welk probleem met suiker kan tandglazuur vernietigen ?
+      propositions:
+      - Fluor
+      - Tandvleesontsteking
+      - Slikken
+      - Verval
+      réponse: Verval
+      anecdote: Voor de meeste andere zoogdieren is bederf een teken van een slechte algemene gezondheid en voedingstekorten.
+    - id: 10
+      question: Welke suiker zorgt ervoor dat jam en gelei gemakkelijker 
+      propositions:
+      - Candi
+      - IJs
+      - Geleermiddel
+      - Parel
+      réponse: Geleermiddel
+      anecdote: De dierlijke oorsprong van de gelatine hoeft niet te worden gespecificeerd volgens de regelgeving, tenzij de oorsprong van runderen is.
+  - confirmé:
+    - id: 11
+      question: Welke wetenschappelijke term wordt gebruikt om naar tafelsuiker te verwijzen ?
+      propositions:
+      - Sucrose
+      - Maltose
+      - Fructose
+      - Glucose
+      réponse: Sucrose
+      anecdote: De zoetkracht van sucrose wordt gebruikt als maatstaf in de schaal van zoetstoffen.
+    - id: 12
+      question: Hoeveel kilo suiker consumeren de Fransen gemiddeld per jaar ?
+      propositions:
+      - 30 kg
+      - 50 kg
+      - 10 kg
+      - 70 kg
+      réponse: 30 kg
+      anecdote: Suiker is een mild smakende stof die voornamelijk wordt gewonnen uit suikerriet en suikerbieten.
+    - id: 13
+      question: Hoeveel keer meer zoetkracht is stevia dan sucrose ?
+      propositions:
+      - 300 keer
+      - 3.000 keer
+      - 3 keer
+      - 30 keer
+      réponse: 300 keer
+      anecdote: Stevia werd voor het eerst bestudeerd door de Spaanse botanicus en arts Petrus Jacobus Stevus, die de plant zijn naam gaf.
+    - id: 14
+      question: Hoe werd in de 12e eeuw suiker gebruikt, aanvankelijk gereserveerd voor apothekers ?
+      propositions:
+      - Straf
+      - Behandelen
+      - Curator
+      - Medicatie
+      réponse: Medicatie
+      anecdote: Suiker zal pas in de 18e eeuw een ingrediënt worden dat wordt gebruikt bij het koken.
+    - id: 15
+      question: Wat is de indrukwekkende houdbaarheid van suiker ?
+      propositions:
+      - 5 jaar
+      - 25 jaar
+      - 15 jaar
+      - Onbeperkt
+      réponse: Onbeperkt
+      anecdote: In Frankrijk steeg de suikerverkoop van 5 kg / jaar / inwoner in 1850 tot 30-35 kg in de jaren zeventig.
+    - id: 16
+      question: Op welke temperatuur moet de suiker worden verwarmd om karamel te verkrijgen ?
+      propositions:
+      - 150 ° C
+      - 100 ° C
+      - 200 ° C
+      - 50 ° C
+      réponse: 150 ° C
+      anecdote: De achternaam Caramel bestaat ook en komt vrij veel voor in Zuid-Frankrijk.
+    - id: 17
+      question: Welk land is de grootste exporteur van bietsuiker ?
+      propositions:
+      - Kameroen
+      - Frankrijk
+      - Rusland
+      - Brazilië
+      réponse: Brazilië
+      anecdote: De teelt van suikerbieten beslaat wereldwijd ongeveer 4,4 miljoen hectare.
+    - id: 18
+      question: Welke suiker wordt verkregen door langzame kristallisatie van een siroop die grote kristallen vormt ?
+      propositions:
+      - IJs
+      - Parel
+      - Blond
+      - Candi
+      réponse: Candi
+      anecdote: Kandijsuiker, die in de 19e eeuw in Europa verscheen, bestaat uit rietsuiker in de vorm van zeer grote kristallen.
+    - id: 19
+      question: Wat is het percentage sucrose in een suikerriet ?
+      propositions:
+      - 34%
+      - 44%
+      - 14%
+      - 24%
+      réponse: 14%
+      anecdote: Met 2 miljard ton geproduceerd, is suikerriet de eerste gecultiveerde plant ter wereld.
+    - id: 20
+      question: Wat is de natuurlijke kleur van bietsuiker na extractie en zuivering ?
+      propositions:
+      - Zwart
+      - Geel
+      - Brunette
+      - Wit
+      réponse: Wit
+      anecdote: Suikerbiet wordt gebruikt voor de productie van suiker (inclusief bermen), en in de tweede plaats alcohol en brandstof ethanol.
+  - expert:
+    - id: 21
+      question: Hoeveel calorieën levert een klontje suiker van zes gram u op ?
+      propositions:
+      - 42 kcal
+      - 37 kcal
+      - 54 kcal
+      - 24 kcal
+      réponse: 24 kcal
+      anecdote: De suikerklontjes zijn ingedeeld naar grootte : « domino nummer 4 » geeft aan dat de doos (1 kg) 4 rijen heeft.
+    - id: 22
+      question: Welke leider heeft de ontwikkeling van bietsuiker in Frankrijk mogelijk gemaakt ?
+      propositions:
+      - Lodewijk XIV
+      - Philip II
+      - Napoleon
+      - Charles VI
+      réponse: Napoleon
+      anecdote: Napoleon, de eerste keizer van de Fransen, reorganiseerde en hervormde de staat en de samenleving duurzaam.
+    - id: 23
+      question: Hoeveel landen produceren suiker in de wereld ?
+      propositions:
+      - 59
+      - 119
+      - 99
+      - 79
+      réponse: 119
+      anecdote: Van de 119 producerende landen telen er 40 suikerbieten, die in 2011 voor ongeveer 20% van de productie zorgden.
+    - id: 24
+      question: Welke primaire smaak vormt een aanvulling op zoet, zout en zuur ?
+      propositions:
+      - De bittere
+      - De kruidigheid
+      - De pittige
+      - Vet
+      réponse: De bittere
+      anecdote: Bitterheid is een belangrijk kenmerk van bier, net als bijvoorbeeld het alcoholgehalte.
+    - id: 25
+      question: In welk jaar werd suikerklontjes geboren, gemaakt met een artisanaal proces ?
+      propositions:
+      - 1644
+      - 1841
+      - 1742
+      - 1949
+      réponse: 1841
+      anecdote: Suikerklontjes worden gemaakt door suikerkristallen te binden met suikersiroop.
+    - id: 26
+      question: Door welke mensen is suikerriet in Europa geïntroduceerd ?
+      propositions:
+      - Arabieren
+      - Perzen
+      - Frank
+      - Grieken
+      réponse: Perzen
+      anecdote: Suikerriet is een groot tropisch kruidachtig gras met een rietvorm, variërend in hoogte van twee tot zes meter.
+    - id: 27
+      question: Het woord suiker, dat koolhydraten met zoetkracht aanduidt, komt van welk Sanskrietwoord ?
+      propositions:
+      - Sucara
+      - Sinakra
+      - Soukra
+      - Sarkara
+      réponse: Sarkara
+      anecdote: De term suiker komt van de Italiaanse term zucchero, zelf ontleend aan het Arabische sukkar.
+    - id: 28
+      question: Wie was de eerste die bietsuiker in grote hoeveelheden won ?
+      propositions:
+      - S. Bernard
+      - B. Delessert
+      - Th. Spoor
+      - D. knop
+      réponse: B. Delessert
+      anecdote: Benjamin Delessert is ook de oprichter van de spaarbanken in Frankrijk in 1818.
+    - id: 29
+      question: Hoeveel kilo suiker geeft gemiddeld een ton bieten ?
+      propositions:
+      - 110 kg
+      - 170 kg
+      - 140 kg
+      - 200 kg
+      réponse: 140 kg
+      anecdote: In de afgelopen jaren is suikerbietensap in Noord-Amerika als wegfondant gebruikt.
+    - id: 30
+      question: Wat voeg je toe aan de poedersuiker om klontering te voorkomen ?
+      propositions:
+      - Citroensap
+      - Olie
+      - Zetmeel
+      - Lecithine
+      réponse: Zetmeel
+      anecdote: Poedersuiker wordt voornamelijk gebruikt voor het decoreren van gebak of voor het zoeten van sneeuwwitjes.

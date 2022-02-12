@@ -1,0 +1,280 @@
+---
+fournisseur: OpenQuizzDB - Fournisseur de contenu libre (https://www.openquizzdb.org)
+rédacteur: Philippe Bresoux
+thème: Foot d'antan (Ils ont marqué à jamais le ballon rond)
+difficulté: 4 / 5
+quizz:
+  fr:
+  - débutant:
+    - id: 1
+      question: En football, que siffle l'arbitre si un défenseur touche le ballon de la main dans les 16 m ?
+      propositions:
+      - Mi-temps
+      - Touche
+      - Coup-franc
+      - Penalty
+      réponse: Penalty
+      anecdote: Un but peut être marqué directement contre l'équipe adverse sur un penalty, mais ce n'est pas une obligation.
+    - id: 2
+      question: Qui était le gardien de but du Benfica Lisbonne en 1981 ?
+      propositions:
+      - Pedro Estrems
+      - José Valero
+      - Carlos Medrano
+      - Manuel Bento
+      réponse: Manuel Bento
+      anecdote: Manuel Bento a été le gardien indiscutable du Portugal entre 1976 et 1986 en alignant 63 sélections en équipe du Portugal.
+    - id: 3
+      question: Quelle était la nationalité du célèbre arbitre S. Gonella ?
+      propositions:
+      - Portugaise
+      - Italienne
+      - Française
+      - Espagnole
+      réponse: Italienne
+      anecdote: Sergio Gonella devint arbitre international en 1972 et arrêta en 1978. De 1998 à 2000, il fut le président des arbitres italiens.
+    - id: 4
+      question: Combien de pays sont à l'origine de la création de la FIFA en 1904 ?
+      propositions:
+      - 14
+      - 8
+      - 10
+      - 12
+      réponse: 8
+      anecdote: En 2016, la FIFA comptait 211 associations nationales affiliées qui doivent être reconnues par l'une des six confédérations.
+    - id: 5
+      question: Quel joueur de football portugais était souvent comparé à Pelé ?
+      propositions:
+      - Duda
+      - Nani
+      - Eusébio
+      - Manecas
+      réponse: Eusébio
+      anecdote: Considéré comme l'un des meilleurs joueurs de l'histoire, Eusébio est surnommé la panthère noire ou bien encore le roi.
+    - id: 6
+      question: Quel footballeur fut élu Meilleur joueur français de l'année 1989 ?
+      propositions:
+      - Jean-Pierre Papin
+      - Alain Giresse
+      - Manuel Amoros
+      - Maxime Bossis
+      réponse: Jean-Pierre Papin
+      anecdote: Avant-centre efficace et spectaculaire, ses reprises de volée et retournés acrobatiques (papinades) sont restés célèbres.
+    - id: 7
+      question: Breitner et Beckenbauer ont joué dans quel même club de football ?
+      propositions:
+      - Hambourg SV
+      - Bayern Munich
+      - FC Barcelone
+      - Manchester United
+      réponse: Bayern Munich
+      anecdote: Le FC Bayern rejoint la Bundesliga en 1965 et s'impose en cador du championnat, remportant quatre titres entre 1969 et 1973.
+    - id: 8
+      question: Dans quel championnat le club CA Osasuna évolue-t-il ?
+      propositions:
+      - Grec
+      - Portugais
+      - Italien
+      - Espagnol
+      réponse: Espagnol
+      anecdote: Le 18 juin 2016, le CA Osasuna entraîné par Enrique Martín Monreal remonte en première division en battant Girona FC.
+    - id: 9
+      question: Quelles sont les couleurs des maillots de l'Ajax Amsterdam ?
+      propositions:
+      - Noir et blanc
+      - Vert et gris
+      - Orange et bleu
+      - Blanc et rouge
+      réponse: Blanc et rouge
+      anecdote: L'Ajax Amsterdam fait partie des trois grands clubs de football de Hollande avec le Feyenoord Rotterdam et le PSV Eindhoven.
+    - id: 10
+      question: De quelle équipe Caligaris était-il le défenseur dans les années 30 ?
+      propositions:
+      - Juventus FC
+      - Milan AC
+      - Lazio Rome
+      - US Palerme
+      réponse: Juventus FC
+      anecdote: Umberto Caligaris aurait dit : « L'argent ne vaut pas l'amour pour un maillot et je n'en ai que deux, un bianconero et un azzurro. »
+  - confirmé:
+    - id: 11
+      question: Combien de coupes d'Espagne l'équipe de Barcelone a-t-elle gagné entre 1980 et 1989 ?
+      propositions:
+      - 6
+      - 5
+      - 4
+      - 3
+      réponse: 3
+      anecdote: La Coupe d'Espagne (ou Coupe du Roi) a pour nom officiel Campeonato de España-Copa de Su Majestad el Rey de Fútbol.
+    - id: 12
+      question: Quel club a remporté la Coupe de France de football 1982-1983 ?
+      propositions:
+      - PSG
+      - FC Nantes
+      - Lille OSC
+      - AS Monaco
+      réponse: PSG
+      anecdote: Il s'agit de la deuxième Coupe de France remportée par le club de la capitale, les joueurs conservant ainsi leur titre acquis en 1982.
+    - id: 13
+      question: Combien de sélections en équipe nationale compte Franz Beckenbauer ?
+      propositions:
+      - 63
+      - 123
+      - 103
+      - 83
+      réponse: 103
+      anecdote: À ce jour, Franz Beckenbauer est, avec Mario Zagallo le seul footballeur à avoir gagné la Coupe du monde en tant que joueur et entraîneur.
+    - id: 14
+      question: De quelle équipe nationale Grosics était-il le fabuleux gardien de but ?
+      propositions:
+      - Hongrie
+      - Grèce
+      - Suisse
+      - Autriche
+      réponse: Hongrie
+      anecdote: Surnommé la panthère noire, il compte 86 sélections en équipe de Hongrie et fait partie du légendaire onze des années cinquante.
+    - id: 15
+      question: Qui fut proclamé meilleur buteur de D1 en France en 1979 ?
+      propositions:
+      - Carlos Bianchi
+      - Erwin Kostedde
+      - Delio Onnis
+      - Josip Skoblar
+      réponse: Carlos Bianchi
+      anecdote: En dix-neuf ans de saisons professionnelles, Bianchi inscrit 397 buts en 565 matchs officiels, soit une moyenne de 0,70 but par match.
+    - id: 16
+      question: Laquelle de ces stars du foot entraînait le Paris Saint-Germain en 1983 ?
+      propositions:
+      - Yves Bertucci
+      - Lucien Leduc
+      - Christian Coste
+      - Guy Lacombe
+      réponse: Lucien Leduc
+      anecdote: Devenu entraîneur, il est notamment connu pour avoir remporté les cinq premiers trophées professionnels de l'histoire de l'AS Monaco.
+    - id: 17
+      question: Quelle est la nationalité de l'attaquant et soulier d'or Petar Jekov ?
+      propositions:
+      - Bulgare
+      - Anglaise
+      - Allemande
+      - Russe
+      réponse: Bulgare
+      anecdote: Petar Jekov a connu 44 sélections en équipe nationale bulgare entre 1963 et 1972 et a marqué 25 buts.
+    - id: 18
+      question: Quel est le prénom de l'ancien gardien de but français Baratelli ?
+      propositions:
+      - Dominique
+      - Jean
+      - Michel
+      - Jean-Luc
+      réponse: Dominique
+      anecdote: À la surprise générale, Jean-Luc Ettori (au lieu de Baratelli) sera nommé titulaire par Michel Hidalgo en 1982.
+    - id: 19
+      question: Quel fameux club portugais fut entraîné par Béla Guttmann en 1965 ?
+      propositions:
+      - Porto
+      - Benfica
+      - Tondela
+      - Braga
+      réponse: Benfica
+      anecdote: Guttmann est considéré comme l'un des inventeurs du 4-2-4, une tactique qu'il introduira lors de son passage au Brésil en 1957.
+    - id: 20
+      question: Quel joueur allemand détenait le record de sélections avant Beckenbauer ?
+      propositions:
+      - Paul Janes
+      - Jakob Bender
+      - Josef Streb
+      - Edmund Conen
+      réponse: Paul Janes
+      anecdote: Paul Janes fait partie du « Onze de Breslau » qui bat le Danemark 8-0 à Breslau en 1937 et qui gagna dix matchs sur onze.
+  - expert:
+    - id: 21
+      question: Dans quel championnat évolue le club de football de Palmeiras ?
+      propositions:
+      - Espagnol
+      - Grec
+      - Brésilien
+      - Portugais
+      réponse: Brésilien
+      anecdote: La SE Palmeiras est l'équipe la plus titrée sur le plan national, avec 9 championnats, 3 Coupes du Brésil et 1 Coupe des champions.
+    - id: 22
+      question: Où jouait Karl-Heinz Förster avant de signer à l'Olympique de Marseille ?
+      propositions:
+      - Stuttgart
+      - Düsseldorf
+      - Munich
+      - Nuremberg
+      réponse: Stuttgart
+      anecdote: Pièce maîtresse de la défense de l'équipe nationale d'Allemagne de 1978 à 1986, ce stoppeur était impitoyable sur l'homme.
+    - id: 23
+      question: La Coupe d'Espagne de football (ou Coupe du Roi) fut créée en quelle année ?
+      propositions:
+      - 1946
+      - 1932
+      - 1902
+      - 1920
+      réponse: 1902
+      anecdote: Comme en Angleterre, en Écosse ou en France, cette épreuve a vu le jour avant la mise en place du championnat national.
+    - id: 24
+      question: Lev Yachine a subi une amputation de quelle partie du corps ?
+      propositions:
+      - Main
+      - Bras
+      - Jambe
+      - Pied
+      réponse: Jambe
+      anecdote: Souvent considéré comme le meilleur portier de tous les temps, Lev Yachine est le seul gardien à avoir remporté le Ballon d'or.
+    - id: 25
+      question: Combien de clubs de D1 comptait le championnat belge de football en 1989 ?
+      propositions:
+      - 6
+      - 18
+      - 10
+      - 14
+      réponse: 18
+      anecdote: La Belgique a découvert le football dès les années 1860, par l'entremise des ouvriers anglais actifs dans la zone d'Anvers.
+    - id: 26
+      question: Dans quelle équipe nationale a évolué le footballeur Jesper Kristensen ?
+      propositions:
+      - Finlande
+      - Norvège
+      - Suède
+      - Danemark
+      réponse: Danemark
+      anecdote: Durant la saison 1995-1996, il joue les premiers matchs de la saison mais se blesse et met un terme à sa carrière.
+    - id: 27
+      question: Dans quel club italien joua Alcides Ghiggia dans les années 50 ?
+      propositions:
+      - FC Rieti
+      - AS Roma
+      - SS Lazio
+      - AC Milan
+      réponse: AS Roma
+      anecdote: Dernier joueur vivant ayant disputé la finale de la Coupe du monde de 1950, Alcides Ghiggia s'est éteint 65 ans après, jour pour jour.
+    - id: 28
+      question: Quel club du Danemark est le second plus vieux club d'Europe ?
+      propositions:
+      - AGF Aarhus
+      - Helsingor IF
+      - IK Skovbakken
+      - KB Copenhague
+      réponse: KB Copenhague
+      anecdote: La section football de ce club omnisports a fusionné avec le Boldklubben 1903 en 1992 pour former le FC Copenhague.
+    - id: 29
+      question: En quelle année Marius Trésor a-t-il marqué son premier but international ?
+      propositions:
+      - 1973
+      - 1974
+      - 1975
+      - 1976
+      réponse: 1973
+      anecdote: Marius Trésor a été sélectionné à 65 reprises et a marqué 4 buts sous le maillot bleu. En 2004, il est nommé au FIFA 100.
+    - id: 30
+      question: Quel joueur de foootball était surnommé le Mozart du football ?
+      propositions:
+      - Janda
+      - Stroh
+      - Wagner
+      - Sindelar
+      réponse: Sindelar
+      anecdote: 15 000 personnes assistèrent aux funérailles du plus grand footballeur autrichien de tous les temps.

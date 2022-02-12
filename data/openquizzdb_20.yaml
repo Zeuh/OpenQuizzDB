@@ -1,0 +1,1650 @@
+---
+fournisseur: OpenQuizzDB - Fournisseur de contenu libre (https://www.openquizzdb.org)
+rédacteur: Philippe Bresoux
+thème: Méandres du web (Le réseau des réseaux)
+difficulté: 3 / 5
+quizz:
+  fr:
+  - débutant:
+    - id: 1
+      question: Comment appelle-t-on une personne qui utilise Internet pour visiter des sites web ?
+      propositions:
+      - Butineur
+      - Navigateur
+      - Internaute
+      - Webmaster
+      réponse: Internaute
+      anecdote: Il est considéré que le pourcentage d'internautes par rapport à la population est un indice de développement économique.
+    - id: 2
+      question: Sur Internet, « Google », « Bing » et « Yahoo » sont des exemples de moteurs de...
+      propositions:
+      - Recherche
+      - Courrier
+      - Navigation
+      - Sauvegarde
+      réponse: Recherche
+      anecdote: Certains sites offrent un moteur comme principale fonctionnalité, on appelle alors « moteur de recherche » le site lui-même.
+    - id: 3
+      question: Quel symbole typographique est toujours représenté dans les adresses e-mails ?
+      propositions:
+      - Astérisque
+      - Croisillon
+      - Esperluette
+      - Arobase
+      réponse: Arobase
+      anecdote: Une opinion commune voudrait que le mot « arobase » provienne de la contraction du terme typographique « a rond bas ».
+    - id: 4
+      question: Quelle encyclopédie collaborative est actuellement la plus utilisée sur Internet ?
+      propositions:
+      - Pandocréon
+      - Netalya
+      - Wikipédia
+      - Framasoft
+      réponse: Wikipédia
+      anecdote: Sur Wikipédia, n'importe qui pouvant accéder au site peut modifier la quasi-totalité de ses articles, sous réserve de modération.
+    - id: 5
+      question: Que sont « Google Chrome », « Internet Explorer » et « Mozilla Firefox » ?
+      propositions:
+      - Encyclopédies
+      - Routeurs
+      - Moteurs
+      - Navigateurs
+      réponse: Navigateurs
+      anecdote: Le terme « navigateur » est inspiré de Netscape Navigator, le navigateur phare principalement utilisé en 1995 et 1996.
+    - id: 6
+      question: Quel logiciel est indispensable pour protéger votre ordinateur sur Internet ?
+      propositions:
+      - Navigateur
+      - Antivirus
+      - Messagerie
+      - Chat
+      réponse: Antivirus
+      anecdote: Les antivirus peuvent balayer le contenu d'un disque dur ainsi que la mémoire vive de l'ordinateur.
+    - id: 7
+      question: Comment désigne-t-on un passionné d'Internet et des nouvelles technologies ?
+      propositions:
+      - No life
+      - Butineur
+      - Geek
+      - Hacker
+      réponse: Geek
+      anecdote: Du fait de ses passions diverses et de ses connaissances pointues, le geek est parfois perçu comme trop cérébral.
+    - id: 8
+      question: Quels outils permettent de mettre en mémoire une adresse web pour y revenir ?
+      propositions:
+      - Extensions
+      - Adresses
+      - Onglets
+      - Favoris
+      réponse: Favoris
+      anecdote: On retrouve principalement les favoris dans les logiciels de traitement de texte ou pour la navigation internet.
+    - id: 9
+      question: Comment appelle-t-on généralement une discussion instantanée passée sur Internet ?
+      propositions:
+      - Cookie
+      - Chat
+      - Hoax
+      - Spam
+      réponse: Chat
+      anecdote: Contrairement au courrier électronique, ce moyen de communication permet de conduire un dialogue interactif.
+    - id: 10
+      question: Quelle connexion sans fil pouvez-vous utiliser pour surfer plus facilement sur Internet ?
+      propositions:
+      - RNIS
+      - Wi-Fi
+      - Fibre
+      - ADSL
+      réponse: Wi-Fi
+      anecdote: La portée du Wi-Fi atteint plusieurs dizaines de mètres en intérieur (généralement entre une vingtaine et une cinquantaine de mètres).
+  - confirmé:
+    - id: 11
+      question: Quelle box est reliée à votre ordinateur pour vous connecter à Internet ?
+      propositions:
+      - Serveur
+      - Routeur
+      - Modem
+      - Wi-Fi
+      réponse: Modem
+      anecdote: Techniquement, l'appareil sert à convertir les données numériques de l'ordinateur en signal modulé, dit « analogique ».
+    - id: 12
+      question: Quel mot français est désormais utilisé pour traduire le mot e-mail ?
+      propositions:
+      - Enveloppe
+      - Progiciel
+      - Courriel
+      - Navigateur
+      réponse: Courriel
+      anecdote: Les règles de bon usage du courrier électronique sont décrites dans un document de référence appelé nétiquette.
+    - id: 13
+      question: Sur quel média sont enregistrés les sites web que vous visitez depuis votre ordinateur ?
+      propositions:
+      - Wi-Fi
+      - CD-ROM
+      - Serveur
+      - Modem
+      réponse: Serveur
+      anecdote: Le nombre de sites sur Internet a augmenté rapidement en 2005 et en 2006 grâce à la popularité croissante des blogs.
+    - id: 14
+      question: Que signifie le deuxième w du www utilisé dans les adresses de sites internet ?
+      propositions:
+      - Web
+      - Wide
+      - World
+      - Worse
+      réponse: Wide
+      anecdote: Le Web n'est qu'une des applications d'Internet, distincte du courriel, de la messagerie instantanée ou du partage de fichiers.
+    - id: 15
+      question: De combien de mégaoctets avez-vous besoin pour obtenir un gigaoctet ?
+      propositions:
+      - 1 024
+      - 49
+      - 10 000
+      - 100
+      réponse: 1 024
+      anecdote: Les préfixes binaires sont souvent utilisés lorsque l'on doit traiter de grandes quantités d'octets.
+    - id: 16
+      question: Quel nom portait le précédent navigateur Internet devenu « Microsoft Edge » ?
+      propositions:
+      - Safari
+      - Internet Explorer
+      - Firefox
+      - Chrome
+      réponse: Internet Explorer
+      anecdote: La version 11 du navigateur « Internet Explorer » sera toujours présente dans Windows 10 avant le passage progressif à « Microsoft Edge ».
+    - id: 17
+      question: Sur Internet, que signifie l'extension « .com » que l'on peut retrouver dans une adresse web ?
+      propositions:
+      - Communication
+      - Communautaire
+      - Commercial
+      - Commémoration
+      réponse: Commercial
+      anecdote: Initialement administré par le ministère de la Défense américain, le domaine .com est aujourd'hui exploité par la société Verisign.
+    - id: 18
+      question: Lequel de ces outils ne permet pas de visionner des pages web ?
+      propositions:
+      - Internet Explorer
+      - Mozilla Firefox
+      - Acrobat Reader
+      - Google Chrome
+      réponse: Acrobat Reader
+      anecdote: Adobe change régulièrement le nom des produits de la famille Acrobat et cela en subdivisant sa gamme.
+    - id: 19
+      question: Comment appelle-t-on un e-mail non sollicité reçu depuis Internet ?
+      propositions:
+      - Spam
+      - Hoax
+      - Bug
+      - Cookie
+      réponse: Spam
+      anecdote: Le spam désigne en général des envois en grande quantité effectués à des fins publicitaires.
+    - id: 20
+      question: Quel spécialiste de l'informatique est capable de pirater presque n'importe quel site Internet ?
+      propositions:
+      - Hacker
+      - Surfeur
+      - Cracker
+      - Driver
+      réponse: Hacker
+      anecdote: Les hackers sont classés en plusieurs catégories en fonction de leurs objectifs, de leur compétence et de la légalité de leurs actes.
+  - expert:
+    - id: 21
+      question: Grâce à quoi tous les ordinateurs sur Internet sont-ils plus ou moins facilement repérables ?
+      propositions:
+      - Adresse IP
+      - Écran
+      - Bornage
+      - Antivirus
+      réponse: Adresse IP
+      anecdote: L'adresse IP est à la base du système d'acheminement (le routage) des messages sur Internet.
+    - id: 22
+      question: Quelle extension ajoutée à votre navigateur Internet préféré accentue ses possibilités ?
+      propositions:
+      - Spool
+      - Byte
+      - Plug-in
+      - Backup
+      réponse: Plug-in
+      anecdote: Certains plug-ins peuvent aussi être utilisés comme logiciel à part entière, on dit alors qu'ils sont « standalone ».
+    - id: 23
+      question: Comment appelle-t-on les canulars transmis par messagerie électronique ou via Internet ?
+      propositions:
+      - Hoax
+      - Cookie
+      - Bug
+      - Virus
+      réponse: Hoax
+      anecdote: Conçus pour apparaître crédibles et véritables, ces canulars peuvent parfois avoir un but malveillant.
+    - id: 24
+      question: De plus en plus de sites enregistrent sur votre ordinateur un témoin de passage appelé...
+      propositions:
+      - Spam
+      - Cupcake
+      - Cookie
+      - Modem
+      réponse: Cookie
+      anecdote: Existant depuis plus de 20 ans, les cookies permettent aux développeurs de sites internet de conserver des données utilisateur.
+    - id: 25
+      question: En quelle année a été envoyé le tout premier courriel ou courrier électronique ?
+      propositions:
+      - 1971
+      - 1981
+      - 1961
+      - 1991
+      réponse: 1971
+      anecdote: Il faut disposer d'une adresse électronique et d'un client de messagerie permettant l'accès aux messages via un navigateur.
+    - id: 26
+      question: Quelle opération informatique illicite consiste à copier un site Internet sur son ordinateur ?
+      propositions:
+      - Sauvegarde
+      - Copie
+      - Aspiration
+      - Gravure
+      réponse: Aspiration
+      anecdote: Un site web est un ensemble de pages qui peuvent être consultées en suivant des hyperliens à l'intérieur du site lui-même.
+    - id: 27
+      question: Quelle abréviation est utilisée pour désigner une adresse de site Internet ?
+      propositions:
+      - KBD
+      - TCP
+      - MP3
+      - URL
+      réponse: URL
+      anecdote: En France, d'après le Journal officiel du 16 mars 1999, « URL » peut être traduit par adresse réticulaire ou adresse universelle.
+    - id: 28
+      question: Quel anniversaire le World Wide Web a-t-il fêté en 2014 ?
+      propositions:
+      - Ses 35 ans
+      - Ses 25 ans
+      - Ses 45 ans
+      - Ses 15 ans
+      réponse: Ses 25 ans
+      anecdote: En septembre 2014, Internet dépassait un milliard de sites en ligne pour près de trois milliards d'internautes.
+    - id: 29
+      question: Quel protocole est dédié à la transmission de fichiers sur Internet ?
+      propositions:
+      - FTP
+      - IPX/SPX
+      - TCP/IP
+      - HTTP
+      réponse: FTP
+      anecdote: Ce mécanisme de copie est souvent utilisé pour alimenter un site web hébergé chez un tiers.
+    - id: 30
+      question: Quel terme désigne le code de bonne conduite sur Internet ?
+      propositions:
+      - Hameçonnage 
+      - Phishing
+      - Reboot
+      - Nétiquette
+      réponse: Nétiquette
+      anecdote: La « nétiquette » rassemble des tentatives de formalisation d'un certain contrat social pour l'Internet.
+  en:
+  - débutant:
+    - id: 1
+      question: What do you call a person who uses the Internet to visit websites ?
+      propositions:
+      - Webmaster
+      - Forager
+      - Internet user
+      - Browser
+      réponse: Internet user
+      anecdote: It is considered that the percentage of Internet users in relation to the population is an index of economic development.
+    - id: 2
+      question: On the Internet, « Google », « Bing » and « Yahoo » are examples of search engines...
+      propositions:
+      - Backup
+      - Search
+      - Navigation
+      - Mail
+      réponse: Search
+      anecdote: Some sites offer an engine as the main functionality, so the site itself is called the search engine.
+    - id: 3
+      question: What typographical symbol is always represented in e-mail addresses ?
+      propositions:
+      - At sign
+      - Asterisk
+      - Cross
+      - Ampersand
+      réponse: At sign
+      anecdote: A common opinion would be that the word arobase comes from the contraction of the typographical term a round low.
+    - id: 4
+      question: Which collaborative encyclopedia is currently the most widely used on the Internet ?
+      propositions:
+      - Pandocreon
+      - Wikipedia
+      - Netalya
+      - Framasoft
+      réponse: Wikipedia
+      anecdote: On Wikipedia, anyone who can access the site can modify almost all of its articles, subject to moderation.
+    - id: 5
+      question: What are « Google Chrome », « Internet Explorer » and « Mozilla Firefox » ?
+      propositions:
+      - Routers
+      - Encyclopedias
+      - Browsers
+      - Engines
+      réponse: Browsers
+      anecdote: The term browser is inspired by Netscape Navigator, the flagship browser used primarily in 1995 and 1996.
+    - id: 6
+      question: What software is essential to protect your computer on the Internet ?
+      propositions:
+      - Messaging
+      - Cat
+      - Antivirus
+      - Browser
+      réponse: Antivirus
+      anecdote: Antivirus programs can scan the contents of a hard drive as well as computer RAM.
+    - id: 7
+      question: How do you designate an Internet enthusiast and new technologies ?
+      propositions:
+      - No life
+      - Forager
+      - Geek
+      - Hacker
+      réponse: Geek
+      anecdote: Because of his various passions and his in-depth knowledge, the geek is sometimes perceived as too cerebral.
+    - id: 8
+      question: What tools allow you to store a web address in order to return to it ?
+      propositions:
+      - Addresses
+      - Favorites
+      - Extensions
+      - Tabs
+      réponse: Favorites
+      anecdote: The favorites are mainly found in word processing software or for internet browsing.
+    - id: 9
+      question: What is an instant chat on the Internet generally called ?
+      propositions:
+      - Hoax
+      - Cat
+      - Cookie
+      - Spam
+      réponse: Cat
+      anecdote: Unlike electronic mail, this means of communication allows for an interactive dialogue.
+    - id: 10
+      question: Which wireless connection can you use to surf the Internet more easily ?
+      propositions:
+      - ISDN
+      - ADSL
+      - Fiber
+      - Wi-Fi
+      réponse: Wi-Fi
+      anecdote: The range of Wi-Fi reaches several tens of meters indoors (generally between twenty and fifty meters).
+  - confirmé:
+    - id: 11
+      question: Which box is connected to your computer to connect to the Internet ?
+      propositions:
+      - Modem
+      - Router
+      - Wi-Fi
+      - Server
+      réponse: Modem
+      anecdote: Technically, the device is used to convert digital data from the computer into a modulated signal, called analog.
+    - id: 12
+      question: What French word is now used to translate the word e-mail ?
+      propositions:
+      - Email
+      - Software package
+      - Envelope
+      - Browser
+      réponse: Email
+      anecdote: The rules for the proper use of electronic mail are described in a reference document called netiquette.
+    - id: 13
+      question: What media are the websites you visit from your computer recorded on ?
+      propositions:
+      - Modem
+      - Wi-Fi
+      - CD-ROM
+      - Server
+      réponse: Server
+      anecdote: The number of sites on the Internet grew rapidly in 2005 and 2006 thanks to the growing popularity of blogging.
+    - id: 14
+      question: What does the second w of www used in website addresses mean ?
+      propositions:
+      - Web
+      - Worse
+      - World
+      - Wide
+      réponse: Wide
+      anecdote: The Web is just one of the Internet applications, distinct from e-mail, instant messaging or file sharing.
+    - id: 15
+      question: How many megabytes do you need to get a gigabyte ?
+      propositions:
+      - 49
+      - 100
+      - 10,000
+      - 1,024
+      réponse: 1,024
+      anecdote: Binary prefixes are often used when dealing with large amounts of bytes.
+    - id: 16
+      question: What was the name of the previous Internet browser that became « Microsoft Edge » ?
+      propositions:
+      - Internet Explorer
+      - Safari
+      - Chrome
+      - Firefox
+      réponse: Internet Explorer
+      anecdote: Version 11 of the « Internet Explorer » browser will still be present in Windows 10 before the gradual transition to « Microsoft Edge ».
+    - id: 17
+      question: On the Internet, what does the .com extension mean that can be found in a web address ?
+      propositions:
+      - Commercial
+      - Community
+      - Communication
+      - Commemoration
+      réponse: Commercial
+      anecdote: Initially administered by the US Department of Defense, the .com domain is now operated by the company Verisign.
+    - id: 18
+      question: Which of these tools does not allow you to view web pages ?
+      propositions:
+      - Mozilla Firefox
+      - Acrobat Reader
+      - Internet Explorer
+      - Google Chrome
+      réponse: Acrobat Reader
+      anecdote: Adobe regularly changes the name of the products of the Acrobat family and this by subdividing its range.
+    - id: 19
+      question: What is an unsolicited e-mail received from the Internet called ?
+      propositions:
+      - Cookie
+      - Hoax
+      - Bug
+      - Spam
+      réponse: Spam
+      anecdote: Spam generally refers to large quantities sent for advertising purposes.
+    - id: 20
+      question: Which computer scientist can hack almost any website ?
+      propositions:
+      - Surfer
+      - Cracker
+      - Hacker
+      - Driver
+      réponse: Hacker
+      anecdote: Hackers are classified into several categories according to their objectives, their competence and the legality of their actions.
+  - expert:
+    - id: 21
+      question: How are all computers on the Internet more or less easily spotted ?
+      propositions:
+      - Antivirus
+      - Demarcation
+      - Screen
+      - IP address
+      réponse: IP address
+      anecdote: The IP address is the basis of the routing system (routing) of messages on the Internet.
+    - id: 22
+      question: Which extension added to your favorite Internet browser enhances its possibilities ?
+      propositions:
+      - Byte
+      - Spool
+      - Backup
+      - Plug-in
+      réponse: Plug-in
+      anecdote: Some plug-ins can also be used as full software, we say that they are standalone.
+    - id: 23
+      question: What do we call hoaxes transmitted by email or the Internet ?
+      propositions:
+      - Bug
+      - Hoax
+      - Cookie
+      - Virus
+      réponse: Hoax
+      anecdote: Designed to appear believable and genuine, these hoaxes can sometimes have a malicious purpose.
+    - id: 24
+      question: More and more sites are saving a passing cookie on your computer called...
+      propositions:
+      - Cookie
+      - Spam
+      - Cupcake
+      - Modem
+      réponse: Cookie
+      anecdote: In existence for over 20 years, cookies allow website developers to store user data.
+    - id: 25
+      question: What year was the very first email or email sent ?
+      propositions:
+      - 1981
+      - 1991
+      - 1971
+      - 1961
+      réponse: 1971
+      anecdote: You must have an e-mail address and an e-mail client allowing access to messages via a browser.
+    - id: 26
+      question: What illegal computer operation consists of copying a website onto your computer ?
+      propositions:
+      - Backup
+      - Engraving
+      - Aspiration
+      - Copy
+      réponse: Aspiration
+      anecdote: A website is a collection of pages that can be accessed by following hyperlinks within the site itself.
+    - id: 27
+      question: What abbreviation is used to denote a website address ?
+      propositions:
+      - TCP
+      - KBD
+      - MP3
+      - URL
+      réponse: URL
+      anecdote: In France, according to the Official Journal of March 16, 1999, URL can be translated by reticular address or universal address.
+    - id: 28
+      question: What birthday did the World Wide Web celebrate in 2014 ?
+      propositions:
+      - Its 45 years
+      - Its 35 years
+      - Its 15 years
+      - Its 25 years
+      réponse: Its 25 years
+      anecdote: In September 2014, the Internet exceeded one billion sites online for nearly three billion Internet users.
+    - id: 29
+      question: Which protocol is dedicated to the transmission of files on the Internet ?
+      propositions:
+      - FTP
+      - TCP / IP
+      - IPX / SPX
+      - HTTP
+      réponse: FTP
+      anecdote: This copying mechanism is often used to feed a website hosted by a third party.
+    - id: 30
+      question: What term designates the code of conduct on the Internet ?
+      propositions:
+      - Phishing
+      - Reboot
+      - Netiquette
+      - Phishing
+      réponse: Netiquette
+      anecdote: Netiquette brings together attempts to formalize a certain social contract for the Internet.
+  de:
+  - débutant:
+    - id: 1
+      question: Wie nennt man eine Person, die das Internet nutzt, um Websites zu besuchen ?
+      propositions:
+      - Browser
+      - Webmaster
+      - Sammler
+      - Internetnutzer
+      réponse: Internetnutzer
+      anecdote: Es wird davon ausgegangen, dass der Prozentsatz der Internetnutzer im Verhältnis zur Bevölkerung ein Index für die wirtschaftliche Entwicklung ist.
+    - id: 2
+      question: Im Internet sind « Google », « Bing » und « Yahoo » Beispiele für Suchmaschinen...
+      propositions:
+      - Backup
+      - Suche
+      - Mail
+      - Navigation
+      réponse: Suche
+      anecdote: Einige Websites bieten eine Suchmaschine als Hauptfunktionalität an, sodass die Website selbst als Suchmaschine bezeichnet wird.
+    - id: 3
+      question: Welches typografische Symbol wird in E-Mail-Adressen immer dargestellt ?
+      propositions:
+      - Kaufmännisches Und
+      - Kreuz
+      - Am Zeichen
+      - Sternchen
+      réponse: Am Zeichen
+      anecdote: Eine verbreitete Meinung wäre, dass das Wort Arobase aus der Kontraktion des typografischen Begriffs ein rundes Tief stammt.
+    - id: 4
+      question: Welche kollaborative Enzyklopädie wird derzeit im Internet am häufigsten verwendet ?
+      propositions:
+      - Netalya
+      - Framasoft
+      - Wikipedia
+      - Pandocreon
+      réponse: Wikipedia
+      anecdote: Auf Wikipedia kann jeder, der auf die Website zugreifen kann, fast alle Artikel vorbehaltlich der Moderation ändern.
+    - id: 5
+      question: Was sind « Google Chrome », « Internet Explorer » und « Mozilla Firefox » ?
+      propositions:
+      - Motoren
+      - Router
+      - Enzyklopädien
+      - Browser
+      réponse: Browser
+      anecdote: Der Begriff Browser ist von Netscape Navigator inspiriert, dem Flaggschiff-Browser, der hauptsächlich in den Jahren 1995 und 1996 verwendet wurde.
+    - id: 6
+      question: Welche Software ist wichtig, um Ihren Computer im Internet zu schützen ?
+      propositions:
+      - Katze
+      - Messaging
+      - Browser
+      - Antivirus
+      réponse: Antivirus
+      anecdote: Antivirenprogramme können den Inhalt einer Festplatte sowie den Computer-RAM scannen.
+    - id: 7
+      question: Wie bezeichnen Sie einen Internet-Enthusiasten und neue Technologien ?
+      propositions:
+      - Kein Leben
+      - Hacker
+      - Geek
+      - Sammler
+      réponse: Geek
+      anecdote: Aufgrund seiner verschiedenen Leidenschaften und seines fundierten Wissens wird der Geek manchmal als zu zerebral wahrgenommen.
+    - id: 8
+      question: Mit welchen Tools können Sie eine Webadresse speichern, um zu dieser zurückzukehren ?
+      propositions:
+      - Adressen
+      - Tabs
+      - Favoriten
+      - Erweiterungen
+      réponse: Favoriten
+      anecdote: Die Favoriten finden sich hauptsächlich in Textverarbeitungssoftware oder beim Surfen im Internet.
+    - id: 9
+      question: Wie heißt ein Sofort-Chat im Internet im Allgemeinen ?
+      propositions:
+      - Scherz
+      - Katze
+      - Spam
+      - Cookie
+      réponse: Katze
+      anecdote: Im Gegensatz zur E-Mail ermöglicht dieses Kommunikationsmittel einen interaktiven Dialog.
+    - id: 10
+      question: Mit welcher drahtlosen Verbindung können Sie einfacher im Internet surfen ?
+      propositions:
+      - ADSL
+      - ISDN
+      - Wi-Fi
+      - Faser
+      réponse: Wi-Fi
+      anecdote: Die WLAN-Reichweite beträgt in Innenräumen mehrere zehn Meter (in der Regel zwischen zwanzig und fünfzig Metern).
+  - confirmé:
+    - id: 11
+      question: Welche Box ist mit Ihrem Computer verbunden, um eine Verbindung zum Internet herzustellen ?
+      propositions:
+      - Router
+      - Modem
+      - Wi-Fi
+      - Server
+      réponse: Modem
+      anecdote: Technisch wird das Gerät verwendet, um digitale Daten vom Computer in ein moduliertes Signal umzuwandeln, das als analog bezeichnet wird.
+    - id: 12
+      question: Welches französische Wort wird jetzt verwendet, um das Wort E-Mail zu übersetzen ?
+      propositions:
+      - Umschlag
+      - Browser
+      - E-Mail
+      - Softwarepaket
+      réponse: E-Mail
+      anecdote: Die Regeln für die ordnungsgemäße Verwendung von E-Mail sind in einem Referenzdokument namens Netiquette beschrieben.
+    - id: 13
+      question: Auf welchen Medien werden die Websites, die Sie von Ihrem Computer aus besuchen, aufgezeichnet ?
+      propositions:
+      - Server
+      - Modem
+      - CD-ROM
+      - Wi-Fi
+      réponse: Server
+      anecdote: Die Anzahl der Websites im Internet stieg in den Jahren 2005 und 2006 dank der wachsenden Beliebtheit des Bloggens rapide an.
+    - id: 14
+      question: Was bedeutet das zweite w von www, das in Website-Adressen verwendet wird ?
+      propositions:
+      - Welt
+      - Wide
+      - Schlimmer
+      - Web
+      réponse: Wide
+      anecdote: Das Web ist nur eine der Internetanwendungen, die sich von E-Mail, Instant Messaging oder Dateifreigabe unterscheidet.
+    - id: 15
+      question: Wie viele Megabyte benötigen Sie, um ein Gigabyte zu erhalten ?
+      propositions:
+      - 1.024
+      - 100
+      - 49
+      - 10.000
+      réponse: 1.024
+      anecdote: Binäre Präfixe werden häufig verwendet, wenn große Mengen von Bytes verarbeitet werden.
+    - id: 16
+      question: Wie hieß der vorherige Internetbrowser, der zu « Microsoft Edge » wurde ?
+      propositions:
+      - Internet Explorer
+      - Safari
+      - Chrome
+      - Firefox
+      réponse: Internet Explorer
+      anecdote: Version 11 des Browsers « Internet Explorer » ist vor dem schrittweisen Übergang zu « Microsoft Edge » weiterhin in Windows 10 vorhanden.
+    - id: 17
+      question: Was bedeutet die .com-Erweiterung im Internet, die in einer Webadresse enthalten ist ?
+      propositions:
+      - Kommerziell
+      - Kommunikation
+      - Gemeinschaft
+      - Gedenken
+      réponse: Kommerziell
+      anecdote: Die .com-Domain wurde ursprünglich vom US-Verteidigungsministerium verwaltet und wird jetzt von der Firma Verisign betrieben.
+    - id: 18
+      question: Mit welchem dieser Tools können Sie keine Webseiten anzeigen ?
+      propositions:
+      - Acrobat Reader
+      - Google Chrome
+      - Mozilla Firefox
+      - Internet Explorer
+      réponse: Acrobat Reader
+      anecdote: Adobe ändert regelmäßig den Namen der Produkte der Acrobat-Familie, indem das Sortiment unterteilt wird.
+    - id: 19
+      question: Wie heißt eine unerwünschte E-Mail aus dem Internet ?
+      propositions:
+      - Bug
+      - Scherz
+      - Spam
+      - Cookie
+      réponse: Spam
+      anecdote: Spam bezieht sich im Allgemeinen auf große Mengen, die zu Werbezwecken gesendet werden.
+    - id: 20
+      question: Welcher Informatiker kann fast jede Website hacken ?
+      propositions:
+      - Hacker
+      - Fahrer
+      - Surfer
+      - Cracker
+      réponse: Hacker
+      anecdote: Hacker werden nach ihren Zielen, ihrer Kompetenz und der Rechtmäßigkeit ihrer Handlungen in verschiedene Kategorien eingeteilt.
+  - expert:
+    - id: 21
+      question: Wie lassen sich alle Computer im Internet mehr oder weniger leicht erkennen ?
+      propositions:
+      - Antivirus
+      - Abgrenzung
+      - IP-Adresse
+      - Bildschirm
+      réponse: IP-Adresse
+      anecdote: Die IP-Adresse ist die Basis des Routing-Systems (Routing) von Nachrichten im Internet.
+    - id: 22
+      question: Welche Erweiterung, die Ihrem bevorzugten Internetbrowser hinzugefügt wurde, erweitert dessen Möglichkeiten ?
+      propositions:
+      - Spule
+      - Byte
+      - Backup
+      - Plug-in
+      réponse: Plug-in
+      anecdote: Einige Plug-Ins können auch als vollständige Software verwendet werden.
+    - id: 23
+      question: Wie nennen wir Hoaxes, die per E-Mail oder Internet übertragen werden ?
+      propositions:
+      - Bug
+      - Cookie
+      - Scherz
+      - Virus
+      réponse: Scherz
+      anecdote: Diese Hoaxes sollen glaubwürdig und echt erscheinen und manchmal einen böswilligen Zweck haben.
+    - id: 24
+      question: Immer mehr Websites speichern ein passierendes Cookie auf Ihrem Computer mit dem Namen...
+      propositions:
+      - Modem
+      - Spam
+      - Cookie
+      - Cupcake
+      réponse: Cookie
+      anecdote: Cookies bestehen seit über 20 Jahren und ermöglichen es Website-Entwicklern, Benutzerdaten zu speichern.
+    - id: 25
+      question: In welchem Jahr wurde die allererste E-Mail oder E-Mail gesendet ?
+      propositions:
+      - 1971
+      - 1961
+      - 1981
+      - 1991
+      réponse: 1971
+      anecdote: Sie müssen über eine E-Mail-Adresse und einen E-Mail-Client verfügen, die den Zugriff auf Nachrichten über einen Browser ermöglichen.
+    - id: 26
+      question: Welcher illegale Computerbetrieb besteht darin, eine Website auf Ihren Computer zu kopieren ?
+      propositions:
+      - Aspiration
+      - Gravur
+      - Kopieren
+      - Backup
+      réponse: Aspiration
+      anecdote: Eine Website ist eine Sammlung von Seiten, auf die über Hyperlinks auf der Website selbst zugegriffen werden kann.
+    - id: 27
+      question: Mit welcher Abkürzung wird eine Website-Adresse bezeichnet ?
+      propositions:
+      - MP3
+      - KBD
+      - TCP
+      - URL
+      réponse: URL
+      anecdote: In Frankreich kann die URL laut dem Amtsblatt vom 16. März 1999 nach Netzadresse oder Universaladresse übersetzt werden.
+    - id: 28
+      question: Welchen Geburtstag hat das World Wide Web 2014 gefeiert ?
+      propositions:
+      - Seine 35 Jahre
+      - Seine 25 Jahre
+      - Seine 15 Jahre
+      - Seine 45 Jahre
+      réponse: Seine 25 Jahre
+      anecdote: Im September 2014 hat das Internet eine Milliarde Websites für fast drei Milliarden Internetnutzer überschritten.
+    - id: 29
+      question: Welches Protokoll ist für die Übertragung von Dateien im Internet vorgesehen ?
+      propositions:
+      - HTTP
+      - FTP
+      - IPX / SPX
+      - TCP / IP
+      réponse: FTP
+      anecdote: Dieser Kopiermechanismus wird häufig verwendet, um eine von Dritten gehostete Website zu füttern.
+    - id: 30
+      question: Welcher Begriff bezeichnet den Verhaltenskodex im Internet ?
+      propositions:
+      - Phishing
+      - Netiquette
+      - Neustart
+      - Phishing
+      réponse: Netiquette
+      anecdote: Netiquette vereint Versuche, einen bestimmten Gesellschaftsvertrag für das Internet zu formalisieren.
+  es:
+  - débutant:
+    - id: 1
+      question: ¿Cómo se llama a una persona que usa Internet para visitar sitios web ?
+      propositions:
+      - Forager
+      - Navegador
+      - Usuario de Internet
+      - Webmaster
+      réponse: Usuario de Internet
+      anecdote: Se considera que el porcentaje de usuarios de Internet en relación a la población es un índice de desarrollo económico.
+    - id: 2
+      question: En Internet, « Google », « Bing » y « Yahoo » son ejemplos de motores de búsqueda...
+      propositions:
+      - Navegación
+      - Copia de seguridad
+      - Investigación
+      - Correo
+      réponse: Investigación
+      anecdote: Algunos sitios ofrecen un motor como funcionalidad principal, por lo que el sitio en sí se denomina motor de búsqueda.
+    - id: 3
+      question: ¿Qué símbolo tipográfico está siempre representado en las direcciones de correo electrónico ?
+      propositions:
+      - Ampersand
+      - Al firmar
+      - Cruz
+      - Asterisk
+      réponse: Al firmar
+      anecdote: Una opinión común sería que la palabra arobase proviene de la contracción del término tipográfico a round low.
+    - id: 4
+      question: ¿Qué enciclopedia colaborativa es actualmente la más utilizada en Internet ?
+      propositions:
+      - Pandocreon
+      - Wikipedia
+      - Framasoft
+      - Netalya
+      réponse: Wikipedia
+      anecdote: En Wikipedia, cualquiera que pueda acceder al sitio puede modificar casi todos sus artículos, sujeto a moderación.
+    - id: 5
+      question: ¿Qué son « Google Chrome », « Internet Explorer » y « Mozilla Firefox » ?
+      propositions:
+      - Motores
+      - Navegadores
+      - Enciclopedias
+      - Enrutadores
+      réponse: Navegadores
+      anecdote: El término navegador está inspirado en Netscape Navigator, el navegador insignia utilizado principalmente en 1995 y 1996.
+    - id: 6
+      question: ¿Qué software es esencial para proteger su computadora en Internet ?
+      propositions:
+      - Antivirus
+      - Gato
+      - Mensajería
+      - Navegador
+      réponse: Antivirus
+      anecdote: Los programas antivirus pueden escanear el contenido de un disco duro y la RAM de la computadora.
+    - id: 7
+      question: ¿Cómo se designa a un entusiasta de Internet y las nuevas tecnologías ?
+      propositions:
+      - Forager
+      - No hay vida
+      - Geek
+      - Hacker
+      réponse: Geek
+      anecdote: Debido a sus diversas pasiones y su profundo conocimiento, el friki a veces se percibe como demasiado cerebral.
+    - id: 8
+      question: ¿Qué herramientas le permiten almacenar una dirección web para volver a ella ?
+      propositions:
+      - Favoritos
+      - Pestañas
+      - Direcciones
+      - Extensiones
+      réponse: Favoritos
+      anecdote: Los favoritos se encuentran principalmente en software de procesamiento de textos o para navegar por Internet.
+    - id: 9
+      question: ¿Cómo se suele llamar un chat instantáneo en Internet ?
+      propositions:
+      - Gato
+      - Cookie
+      - Spam
+      - Engaño
+      réponse: Gato
+      anecdote: A diferencia del correo electrónico, este medio de comunicación permite un diálogo interactivo.
+    - id: 10
+      question: ¿Qué conexión inalámbrica puede utilizar para navegar por Internet más fácilmente ?
+      propositions:
+      - RDSI
+      - Fibra
+      - ADSL
+      - Wi-Fi
+      réponse: Wi-Fi
+      anecdote: El alcance de Wi-Fi alcanza varias decenas de metros en interiores (generalmente entre veinte y cincuenta metros).
+  - confirmé:
+    - id: 11
+      question: ¿Qué caja está conectada a su computadora para conectarse a Internet ?
+      propositions:
+      - Enrutador
+      - Módem
+      - Servidor
+      - Wi-Fi
+      réponse: Módem
+      anecdote: Técnicamente, el dispositivo se utiliza para convertir datos digitales de la computadora en una señal modulada, llamada analógica.
+    - id: 12
+      question: ¿Qué palabra francesa se usa ahora para traducir la palabra correo electrónico ?
+      propositions:
+      - Paquete de software
+      - Sobre
+      - Correo electrónico
+      - Navegador
+      réponse: Correo electrónico
+      anecdote: Las reglas para el uso adecuado del correo electrónico se describen en un documento de referencia denominado netiquette.
+    - id: 13
+      question: ¿En qué medios están grabados los sitios web que visita desde su computadora ?
+      propositions:
+      - Módem
+      - Servidor
+      - Wi-Fi
+      - CD-ROM
+      réponse: Servidor
+      anecdote: El número de sitios en Internet creció rápidamente en 2005 y 2006 gracias a la creciente popularidad de los blogs.
+    - id: 14
+      question: ¿Qué significa la segunda w de www utilizada en las direcciones de sitios web ?
+      propositions:
+      - Web
+      - Mundo
+      - Peor
+      - Ancho
+      réponse: Ancho
+      anecdote: La Web es solo una de las aplicaciones de Internet, distinta del correo electrónico, la mensajería instantánea o el intercambio de archivos.
+    - id: 15
+      question: ¿Cuántos megabytes necesitas para obtener un gigabyte ?
+      propositions:
+      - 1.024
+      - 49
+      - 10,000
+      - 100
+      réponse: 1.024
+      anecdote: Los prefijos binarios se utilizan a menudo cuando se trata de grandes cantidades de bytes.
+    - id: 16
+      question: ¿Cuál era el nombre del navegador de Internet anterior que se convirtió en « Microsoft Edge » ?
+      propositions:
+      - Chrome
+      - Firefox
+      - Internet Explorer
+      - Safari
+      réponse: Internet Explorer
+      anecdote: La versión 11 del navegador « Internet Explorer » seguirá estando presente en Windows 10 antes de la transición gradual a « Microsoft Edge ».
+    - id: 17
+      question: En Internet, ¿qué significa la extensión .com que se puede encontrar en una dirección web ?
+      propositions:
+      - Conmemoración
+      - Comunidad
+      - Comunicación
+      - Comercial
+      réponse: Comercial
+      anecdote: Inicialmente administrado por el Departamento de Defensa de los Estados Unidos, el dominio .com ahora es operado por la empresa Verisign.
+    - id: 18
+      question: ¿Cuál de estas herramientas no le permite ver páginas web ?
+      propositions:
+      - Acrobat Reader
+      - Google Chrome
+      - Internet Explorer
+      - Mozilla Firefox
+      réponse: Acrobat Reader
+      anecdote: Adobe cambia regularmente el nombre de los productos de la familia Acrobat y esto subdividiendo su gama.
+    - id: 19
+      question: ¿Cómo se llama un correo electrónico no solicitado recibido de Internet ?
+      propositions:
+      - Engaño
+      - Bug
+      - Cookie
+      - Spam
+      réponse: Spam
+      anecdote: El spam generalmente se refiere a grandes cantidades enviadas con fines publicitarios.
+    - id: 20
+      question: ¿Qué informático puede piratear casi cualquier sitio web ?
+      propositions:
+      - Hacker
+      - Conductor
+      - Cracker
+      - Surfista
+      réponse: Hacker
+      anecdote: Los piratas informáticos se clasifican en varias categorías según sus objetivos, su competencia y la legalidad de sus acciones.
+  - expert:
+    - id: 21
+      question: ¿Cómo se detectan más o menos fácilmente todas las computadoras en Internet ?
+      propositions:
+      - Demarcación
+      - Pantalla
+      - Dirección IP
+      - Antivirus
+      réponse: Dirección IP
+      anecdote: La dirección IP es la base del sistema de enrutamiento (enrutamiento) de los mensajes en Internet.
+    - id: 22
+      question: ¿Qué extensión agregada a su navegador de Internet favorito mejora sus posibilidades ?
+      propositions:
+      - Plug-in
+      - Copia de seguridad
+      - Carrete
+      - Byte
+      réponse: Plug-in
+      anecdote: Algunos complementos también se pueden utilizar como software completo, decimos que son independientes.
+    - id: 23
+      question: ¿A qué llamamos engaños transmitidos por correo electrónico o Internet ?
+      propositions:
+      - Bug
+      - Engaño
+      - Cookie
+      - Virus
+      réponse: Engaño
+      anecdote: Diseñados para parecer creíbles y genuinos, estos engaños a veces pueden tener un propósito malicioso.
+    - id: 24
+      question: Cada vez más sitios guardan una cookie de paso en su computadora llamada...
+      propositions:
+      - Cookie
+      - Spam
+      - Magdalena
+      - Módem
+      réponse: Cookie
+      anecdote: Con más de 20 años de existencia, las cookies permiten a los desarrolladores de sitios web almacenar datos de usuarios.
+    - id: 25
+      question: ¿En qué año se envió el primer correo electrónico o correo electrónico ?
+      propositions:
+      - 1961
+      - 1991
+      - 1971
+      - 1981
+      réponse: 1971
+      anecdote: Debe tener una dirección de correo electrónico y un cliente de correo electrónico que permita el acceso a los mensajes a través de un navegador.
+    - id: 26
+      question: ¿Qué operación informática ilegal consiste en copiar un sitio web en su computadora ?
+      propositions:
+      - Aspiración
+      - Grabado
+      - Copiar
+      - Copia de seguridad
+      réponse: Aspiración
+      anecdote: Un sitio web es una colección de páginas a las que se puede acceder siguiendo hipervínculos dentro del propio sitio.
+    - id: 27
+      question: ¿Qué abreviatura se utiliza para indicar la dirección de un sitio web ?
+      propositions:
+      - KBD
+      - URL
+      - MP3
+      - TCP
+      réponse: URL
+      anecdote: En Francia, según el Diario Oficial del 16 de marzo de 1999, la URL se puede traducir por dirección reticular o dirección universal.
+    - id: 28
+      question: ¿Qué cumpleaños celebró la World Wide Web en 2014 ?
+      propositions:
+      - Sus 45 años
+      - Sus 35 años
+      - Sus 15 años
+      - Sus 25 años
+      réponse: Sus 25 años
+      anecdote: En septiembre de 2014, Internet superó los mil millones de sitios en línea para casi tres mil millones de usuarios de Internet.
+    - id: 29
+      question: ¿Qué protocolo está dedicado a la transmisión de archivos en Internet ?
+      propositions:
+      - TCP / IP
+      - FTP
+      - HTTP
+      - IPX / SPX
+      réponse: FTP
+      anecdote: Este mecanismo de copia se utiliza a menudo para alimentar un sitio web alojado por un tercero.
+    - id: 30
+      question: ¿Qué término designa el código de conducta en Internet ?
+      propositions:
+      - Phishing
+      - Phishing
+      - Reiniciar
+      - Netiquette
+      réponse: Netiquette
+      anecdote: Netiquette reúne intentos de formalizar un determinado contrato social para Internet.
+  it:
+  - débutant:
+    - id: 1
+      question: Come si chiama una persona che utilizza Internet per visitare siti Web ?
+      propositions:
+      - Webmaster
+      - Forager
+      - Utente Internet
+      - Browser
+      réponse: Utente Internet
+      anecdote: Si ritiene che la percentuale di utenti di Internet rispetto alla popolazione sia un indice di sviluppo economico.
+    - id: 2
+      question: Su Internet, « Google », « Bing » e « Yahoo » sono esempi di motori di ricerca...
+      propositions:
+      - Navigazione
+      - Posta
+      - Backup
+      - Cerca
+      réponse: Cerca
+      anecdote: Alcuni siti offrono un motore come funzionalità principale, quindi il sito stesso è chiamato motore di ricerca.
+    - id: 3
+      question: Quale simbolo tipografico è sempre rappresentato negli indirizzi e-mail ?
+      propositions:
+      - Al segno
+      - E commerciale
+      - Croce
+      - Asterisco
+      réponse: Al segno
+      anecdote: Un'opinione comune sarebbe che la parola arobase derivi dalla contrazione del termine tipografico a tondo basso.
+    - id: 4
+      question: Quale enciclopedia collaborativa è attualmente la più utilizzata su Internet ?
+      propositions:
+      - Framasoft
+      - Wikipedia
+      - Pandocreon
+      - Netalya
+      réponse: Wikipedia
+      anecdote: Su Wikipedia, chiunque possa accedere al sito può modificare la quasi totalità dei suoi articoli, previa moderazione.
+    - id: 5
+      question: Cosa sono « Google Chrome », « Internet Explorer » e « Mozilla Firefox » ?
+      propositions:
+      - Browser
+      - Motori
+      - Enciclopedie
+      - Router
+      réponse: Browser
+      anecdote: Il termine browser è ispirato a Netscape Navigator, il browser di punta utilizzato principalmente nel 1995 e nel 1996.
+    - id: 6
+      question: Quale software è essenziale per proteggere il tuo computer su Internet ?
+      propositions:
+      - Messaggistica
+      - Antivirus
+      - Browser
+      - Gatto
+      réponse: Antivirus
+      anecdote: I programmi antivirus possono eseguire la scansione del contenuto di un disco rigido e della RAM del computer.
+    - id: 7
+      question: Come designate un appassionato di Internet e le nuove tecnologie ?
+      propositions:
+      - Hacker
+      - Nessuna vita
+      - Geek
+      - Forager
+      réponse: Geek
+      anecdote: A causa delle sue varie passioni e della sua conoscenza approfondita, il geek a volte è percepito come troppo cerebrale.
+    - id: 8
+      question: Quali strumenti ti consentono di memorizzare un indirizzo web per ritornarvi ?
+      propositions:
+      - Indirizzi
+      - Estensioni
+      - Schede
+      - Preferiti
+      réponse: Preferiti
+      anecdote: I preferiti si trovano principalmente nei software di elaborazione testi o per la navigazione in Internet.
+    - id: 9
+      question: Come si chiama generalmente una chat istantanea su Internet ?
+      propositions:
+      - Spam
+      - Cookie
+      - Gatto
+      - Hoax
+      réponse: Gatto
+      anecdote: A differenza della posta elettronica, questo mezzo di comunicazione consente un dialogo interattivo.
+    - id: 10
+      question: Quale connessione wireless puoi utilizzare per navigare in Internet più facilmente ?
+      propositions:
+      - ADSL
+      - Fibra
+      - ISDN
+      - Wi-Fi
+      réponse: Wi-Fi
+      anecdote: La portata del Wi-Fi raggiunge diverse decine di metri al chiuso (generalmente tra venti e cinquanta metri).
+  - confirmé:
+    - id: 11
+      question: Quale box è connesso al tuo computer per connettersi a Internet ?
+      propositions:
+      - Router
+      - Wi-Fi
+      - Server
+      - Modem
+      réponse: Modem
+      anecdote: Tecnicamente, il dispositivo viene utilizzato per convertire i dati digitali dal computer in un segnale modulato, chiamato analogico.
+    - id: 12
+      question: Quale parola francese viene ora utilizzata per tradurre la parola e-mail ?
+      propositions:
+      - Browser
+      - Pacchetto software
+      - Busta
+      - E-mail
+      réponse: E-mail
+      anecdote: Le regole per il corretto utilizzo della posta elettronica sono descritte in un documento di riferimento chiamato netiquette.
+    - id: 13
+      question: Su quali supporti vengono registrati i siti Web visitati dal computer ?
+      propositions:
+      - Wi-Fi
+      - CD-ROM
+      - Modem
+      - Server
+      réponse: Server
+      anecdote: Il numero di siti su Internet è cresciuto rapidamente nel 2005 e nel 2006 grazie alla crescente popolarità dei blog.
+    - id: 14
+      question: Cosa significa la seconda w di www usata negli indirizzi dei siti web ?
+      propositions:
+      - Mondo
+      - Web
+      - Largo
+      - Peggio ancora
+      réponse: Largo
+      anecdote: Il Web è solo una delle applicazioni Internet, distinte da e-mail, messaggistica istantanea o condivisione di file.
+    - id: 15
+      question: Di quanti megabyte hai bisogno per ottenere un gigabyte ?
+      propositions:
+      - 49
+      - 100
+      - 10.000
+      - 1.024
+      réponse: 1.024
+      anecdote: I prefissi binari vengono spesso utilizzati quando si tratta di grandi quantità di byte.
+    - id: 16
+      question: Qual era il nome del browser Internet precedente che divenne « Microsoft Edge » ?
+      propositions:
+      - Firefox
+      - Safari
+      - Internet Explorer
+      - Chrome
+      réponse: Internet Explorer
+      anecdote: La versione 11 del browser « Internet Explorer » sarà ancora presente in Windows 10 prima della transizione graduale a « Microsoft Edge ».
+    - id: 17
+      question: Su Internet, cosa significa l'estensione .com che si trova in un indirizzo web ?
+      propositions:
+      - Comunità
+      - Comunicazione
+      - Commerciale
+      - Commemorazione
+      réponse: Commerciale
+      anecdote: Gestito inizialmente dal Dipartimento della Difesa degli Stati Uniti, il dominio .com è ora gestito dalla società Verisign.
+    - id: 18
+      question: Quale di questi strumenti non ti consente di visualizzare le pagine web ?
+      propositions:
+      - Google Chrome
+      - Acrobat Reader
+      - Mozilla Firefox
+      - Internet Explorer
+      réponse: Acrobat Reader
+      anecdote: Adobe cambia regolarmente il nome dei prodotti della famiglia Acrobat e questo suddividendone la gamma.
+    - id: 19
+      question: Come viene chiamata un'e-mail non richiesta ricevuta da Internet ?
+      propositions:
+      - Spam
+      - Hoax
+      - Bug
+      - Cookie
+      réponse: Spam
+      anecdote: Lo spam generalmente si riferisce a grandi quantità inviate per scopi pubblicitari.
+    - id: 20
+      question: Quale scienziato informatico può hackerare quasi tutti i siti web ?
+      propositions:
+      - Hacker
+      - Cracker
+      - Surfer
+      - Driver
+      réponse: Hacker
+      anecdote: Gli hacker sono classificati in diverse categorie in base ai loro obiettivi, alla loro competenza e alla legalità delle loro azioni.
+  - expert:
+    - id: 21
+      question: Come vengono individuati più o meno facilmente tutti i computer su Internet ?
+      propositions:
+      - Indirizzo IP
+      - Demarcazione
+      - Schermo
+      - Antivirus
+      réponse: Indirizzo IP
+      anecdote: L'indirizzo IP è la base del sistema di routing (routing) dei messaggi su Internet.
+    - id: 22
+      question: Quale estensione aggiunta al tuo browser Internet preferito ne migliora le possibilità ?
+      propositions:
+      - Byte
+      - Plug-in
+      - Bobina
+      - Backup
+      réponse: Plug-in
+      anecdote: Alcuni plug-in possono essere utilizzati anche come software completo, diciamo che sono autonomi.
+    - id: 23
+      question: Cosa chiamiamo bufale trasmesse via e-mail o Internet ?
+      propositions:
+      - Cookie
+      - Bug
+      - Hoax
+      - Virus
+      réponse: Hoax
+      anecdote: Progettate per apparire credibili e genuine, queste bufale a volte possono avere uno scopo dannoso.
+    - id: 24
+      question: Sempre più siti stanno salvando un cookie di passaggio sul tuo computer chiamato...
+      propositions:
+      - Cupcake
+      - Cookie
+      - Modem
+      - Spam
+      réponse: Cookie
+      anecdote: I cookie esistono da oltre 20 anni, consentono agli sviluppatori di siti web di memorizzare i dati degli utenti.
+    - id: 25
+      question: In che anno è stata inviata la prima e-mail o e-mail ?
+      propositions:
+      - 1991
+      - 1971
+      - 1961
+      - 1981
+      réponse: 1971
+      anecdote: È necessario disporre di un indirizzo di posta elettronica e di un client di posta elettronica che consenta l'accesso ai messaggi tramite un browser.
+    - id: 26
+      question: Quale operazione illegale del computer consiste nel copiare un sito Web sul tuo computer ?
+      propositions:
+      - Incisione
+      - Backup
+      - Aspirazione
+      - Copia
+      réponse: Aspirazione
+      anecdote: Un sito Web è una raccolta di pagine a cui è possibile accedere seguendo i collegamenti ipertestuali all'interno del sito stesso.
+    - id: 27
+      question: Quale abbreviazione viene utilizzata per indicare l'indirizzo di un sito Web ?
+      propositions:
+      - MP3
+      - TCP
+      - URL
+      - KBD
+      réponse: URL
+      anecdote: In Francia, secondo la Gazzetta ufficiale del 16 marzo 1999, l'URL può essere tradotto con indirizzo reticolare o indirizzo universale.
+    - id: 28
+      question: Quale compleanno ha festeggiato il World Wide Web nel 2014 ?
+      propositions:
+      - I suoi 15 anni
+      - I suoi 25 anni
+      - I suoi 35 anni
+      - I suoi 45 anni
+      réponse: I suoi 25 anni
+      anecdote: Nel settembre 2014, Internet ha superato il miliardo di siti online per quasi tre miliardi di utenti Internet.
+    - id: 29
+      question: Quale protocollo è dedicato alla trasmissione di file su Internet ?
+      propositions:
+      - IPX / SPX
+      - TCP / IP
+      - FTP
+      - HTTP
+      réponse: FTP
+      anecdote: Questo meccanismo di copia viene spesso utilizzato per alimentare un sito Web ospitato da una terza parte.
+    - id: 30
+      question: Quale termine designa il codice di condotta su Internet ?
+      propositions:
+      - Phishing
+      - Netiquette
+      - Riavvia
+      - Phishing
+      réponse: Netiquette
+      anecdote: La netiquette riunisce i tentativi di formalizzare un certo contratto sociale per Internet.
+  nl:
+  - débutant:
+    - id: 1
+      question: Hoe noem je iemand die internet gebruikt om websites te bezoeken ?
+      propositions:
+      - Internetgebruiker
+      - Forager
+      - Webmaster
+      - Browser
+      réponse: Internetgebruiker
+      anecdote: Aangenomen wordt dat het percentage internetgebruikers in verhouding tot de bevolking een index is van economische ontwikkeling.
+    - id: 2
+      question: Op internet zijn « Google », « Bing » en « Yahoo » voorbeelden van zoekmachines...
+      propositions:
+      - Navigatie
+      - E-mail
+      - Back-up
+      - Zoeken
+      réponse: Zoeken
+      anecdote: Sommige sites bieden een engine als de belangrijkste functionaliteit, dus de site zelf wordt de zoekmachine genoemd.
+    - id: 3
+      question: Welk typografisch symbool wordt altijd weergegeven in e-mailadressen ?
+      propositions:
+      - Apenstaartje
+      - Ampersand
+      - Kruis
+      - Asterisk
+      réponse: Apenstaartje
+      anecdote: Een algemene mening zou zijn dat het woord arobase komt van de samentrekking van de typografische term een rond laag.
+    - id: 4
+      question: Welke samenwerkende encyclopedie wordt momenteel het meest gebruikt op internet ?
+      propositions:
+      - Netalya
+      - Wikipedia
+      - Pandocreon
+      - Framasoft
+      réponse: Wikipedia
+      anecdote: Op Wikipedia kan iedereen die toegang heeft tot de site, bijna al zijn artikelen wijzigen, onder voorbehoud van moderatie.
+    - id: 5
+      question: Wat zijn « Google Chrome », « Internet Explorer » en « Mozilla Firefox » ?
+      propositions:
+      - Motoren
+      - Browsers
+      - Routers
+      - Encyclopedieën
+      réponse: Browsers
+      anecdote: De term browser is geïnspireerd op Netscape Navigator, de vlaggenschipbrowser die voornamelijk in 1995 en 1996 werd gebruikt.
+    - id: 6
+      question: Welke software is essentieel om uw computer op internet te beschermen ?
+      propositions:
+      - Berichten
+      - Antivirus
+      - Browser
+      - Kat
+      réponse: Antivirus
+      anecdote: Antivirusprogramma's kunnen zowel de inhoud van een harde schijf als computer-RAM scannen.
+    - id: 7
+      question: Hoe duid je een internetliefhebber en nieuwe technologieën aan ?
+      propositions:
+      - Hacker
+      - Geek
+      - Geen leven
+      - Forager
+      réponse: Geek
+      anecdote: Vanwege zijn verschillende passies en zijn diepgaande kennis, wordt de nerd soms als te cerebraal ervaren.
+    - id: 8
+      question: Met welke tools kun je een webadres opslaan om ernaar terug te keren ?
+      propositions:
+      - Extensies
+      - Favorieten
+      - Adressen
+      - Tabbladen
+      réponse: Favorieten
+      anecdote: De favorieten zijn vooral te vinden in tekstverwerkingssoftware of voor surfen op internet.
+    - id: 9
+      question: Hoe wordt een instantchat op internet in het algemeen genoemd ?
+      propositions:
+      - Hoax
+      - Spam
+      - Kat
+      - Koekje
+      réponse: Kat
+      anecdote: In tegenstelling tot elektronische post maakt dit communicatiemiddel een interactieve dialoog mogelijk.
+    - id: 10
+      question: Welke draadloze verbinding kunt u gebruiken om gemakkelijker op internet te surfen ?
+      propositions:
+      - ADSL
+      - Wi-Fi
+      - Vezel
+      - ISDN
+      réponse: Wi-Fi
+      anecdote: Het bereik van wifi bereikt binnenshuis enkele tientallen meters (doorgaans tussen de twintig en vijftig meter).
+  - confirmé:
+    - id: 11
+      question: Welke box is op uw computer aangesloten om verbinding te maken met internet ?
+      propositions:
+      - Router
+      - Server
+      - Wi-Fi
+      - Modem
+      réponse: Modem
+      anecdote: Technisch gezien wordt het apparaat gebruikt om digitale gegevens van de computer om te zetten in een gemoduleerd signaal, analoog genaamd.
+    - id: 12
+      question: Welk Frans woord wordt nu gebruikt om het woord e-mail te vertalen ?
+      propositions:
+      - E-mail
+      - Envelop
+      - Softwarepakket
+      - Browser
+      réponse: E-mail
+      anecdote: De regels voor het juiste gebruik van elektronische post worden beschreven in een referentiedocument genaamd netiquette.
+    - id: 13
+      question: Op welke media zijn de websites die u vanaf uw computer bezoekt, opgenomen ?
+      propositions:
+      - Modem
+      - Wi-Fi
+      - Server
+      - Cd-rom
+      réponse: Server
+      anecdote: Het aantal sites op internet groeide in 2005 en 2006 snel dankzij de groeiende populariteit van bloggen.
+    - id: 14
+      question: Wat betekent de tweede w van www die in websiteadressen wordt gebruikt ?
+      propositions:
+      - Web
+      - Breed
+      - Wereld
+      - Erger nog
+      réponse: Breed
+      anecdote: Het internet is slechts een van de internettoepassingen, anders dan e-mail, instant messaging of het delen van bestanden.
+    - id: 15
+      question: Hoeveel megabytes heb je nodig om een gigabyte te krijgen ?
+      propositions:
+      - 10.000
+      - 100
+      - 49
+      - 1,024
+      réponse: 1,024
+      anecdote: Binaire prefixen worden vaak gebruikt bij het omgaan met grote hoeveelheden bytes.
+    - id: 16
+      question: Wat was de naam van de vorige internetbrowser die « Microsoft Edge » werd ?
+      propositions:
+      - Chrome
+      - Firefox
+      - Safari
+      - Internet Explorer
+      réponse: Internet Explorer
+      anecdote: Versie 11 van de « Internet Explorer » -browser zal nog steeds aanwezig zijn in Windows 10 vóór de geleidelijke overgang naar « Microsoft Edge ».
+    - id: 17
+      question: Wat betekent de extensie .com op internet die u in een webadres kunt vinden ?
+      propositions:
+      - Communicatie
+      - Herdenking
+      - Commercieel
+      - Gemeenschap
+      réponse: Commercieel
+      anecdote: Oorspronkelijk beheerd door het Amerikaanse ministerie van Defensie, wordt het .com-domein nu beheerd door het bedrijf Verisign.
+    - id: 18
+      question: Met welke van deze tools kunt u webpagina's niet bekijken ?
+      propositions:
+      - Mozilla Firefox
+      - Acrobat Reader
+      - Google Chrome
+      - Internet Explorer
+      réponse: Acrobat Reader
+      anecdote: Adobe verandert regelmatig de naam van de producten van de Acrobat-familie en dit door het assortiment onder te verdelen.
+    - id: 19
+      question: Hoe heet een ongevraagde e-mail die van internet wordt ontvangen ?
+      propositions:
+      - Bug
+      - Hoax
+      - Spam
+      - Koekje
+      réponse: Spam
+      anecdote: Spam verwijst doorgaans naar grote hoeveelheden die voor reclamedoeleinden worden verzonden.
+    - id: 20
+      question: Welke computerwetenschapper kan bijna elke website hacken ?
+      propositions:
+      - Cracker
+      - Bestuurder
+      - Hacker
+      - Surfer
+      réponse: Hacker
+      anecdote: Hackers worden ingedeeld in verschillende categorieën op basis van hun doelstellingen, hun competentie en de wettigheid van hun acties.
+  - expert:
+    - id: 21
+      question: Hoe worden alle computers op internet min of meer gemakkelijk opgemerkt ?
+      propositions:
+      - Scherm
+      - Antivirus
+      - Afbakening
+      - IP-adres
+      réponse: IP-adres
+      anecdote: Het IP-adres vormt de basis van het routeringssysteem (routering) van berichten op internet.
+    - id: 22
+      question: Welke extensie toegevoegd aan uw favoriete internetbrowser vergroot de mogelijkheden ervan ?
+      propositions:
+      - Spoel
+      - Back-up
+      - Plug-in
+      - Byte
+      réponse: Plug-in
+      anecdote: Sommige plug-ins kunnen ook als volledige software worden gebruikt, we zeggen dat ze op zichzelf staan.
+    - id: 23
+      question: Hoe noemen we hoaxes die via e-mail of internet worden verzonden ?
+      propositions:
+      - Koekje
+      - Virus
+      - Hoax
+      - Bug
+      réponse: Hoax
+      anecdote: Deze hoaxes zijn ontworpen om geloofwaardig en oprecht te lijken en kunnen soms een kwaadaardig doel hebben.
+    - id: 24
+      question: Steeds meer sites bewaren een passerende cookie op uw computer met de naam...
+      propositions:
+      - Modem
+      - Koekje
+      - Spam
+      - Cupcake
+      réponse: Koekje
+      anecdote: Cookies bestaan al meer dan 20 jaar en stellen website-ontwikkelaars in staat gebruikersgegevens op te slaan.
+    - id: 25
+      question: In welk jaar is de allereerste e-mail of e-mail verzonden ?
+      propositions:
+      - 1961
+      - 1971
+      - 1991
+      - 1981
+      réponse: 1971
+      anecdote: U moet een e-mailadres hebben en een e-mailclient die toegang geeft tot berichten via een browser.
+    - id: 26
+      question: Welke illegale computerbewerking bestaat uit het kopiëren van een website naar uw computer ?
+      propositions:
+      - Aspiratie
+      - Graveren
+      - Back-up
+      - Kopiëren
+      réponse: Aspiratie
+      anecdote: Een website is een verzameling pagina's die toegankelijk zijn via hyperlinks op de site zelf.
+    - id: 27
+      question: Welke afkorting wordt gebruikt om een websiteadres aan te duiden ?
+      propositions:
+      - URL
+      - MP3
+      - TCP
+      - KBD
+      réponse: URL
+      anecdote: In Frankrijk kan de URL volgens het Publicatieblad van 16 maart 1999 worden vertaald met een reticulair adres of een universeel adres.
+    - id: 28
+      question: Welke verjaardag vierde het World Wide Web in 2014 ?
+      propositions:
+      - Zijn 45 jaar
+      - Zijn 35 jaar
+      - Zijn 15 jaar
+      - Zijn 25 jaar
+      réponse: Zijn 25 jaar
+      anecdote: In september 2014 telde internet meer dan een miljard sites online voor bijna drie miljard internetgebruikers.
+    - id: 29
+      question: Welk protocol is bedoeld voor het verzenden van bestanden op internet ?
+      propositions:
+      - IPX / SPX
+      - HTTP
+      - TCP / IP
+      - FTP
+      réponse: FTP
+      anecdote: Dit kopieermechanisme wordt vaak gebruikt om een \u200b\u200bwebsite te voeden die door een derde partij wordt gehost.
+    - id: 30
+      question: Welke term duidt de gedragscode op internet aan ?
+      propositions:
+      - Phishing
+      - Netiquette
+      - Phishing
+      - Herstart
+      réponse: Netiquette
+      anecdote: Netiquette brengt pogingen samen om een \u200b\u200bbepaald sociaal contract voor internet te formaliseren.

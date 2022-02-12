@@ -1,0 +1,1650 @@
+---
+fournisseur: OpenQuizzDB - Fournisseur de contenu libre (https://www.openquizzdb.org)
+rédacteur: Philippe Bresoux
+thème: Surnoms des villes (L'Histoire en quelques mots)
+difficulté: 4 / 5
+quizz:
+  fr:
+  - débutant:
+    - id: 1
+      question: Quel est le surnom donné à la ville américaine de New York ?
+      propositions:
+      - Orange Épaisse
+      - Longue Banane
+      - Grosse Pomme
+      - Petite Poire
+      réponse: Grosse Pomme
+      anecdote: En 1971, cette expression prit toute son ampleur grâce à Charles Gillett qui lança une publicité sur le thème de la Big Apple.
+    - id: 2
+      question: Quelle ville italienne a pour surnom la cité des Doges ?
+      propositions:
+      - Turin
+      - Venise
+      - Naples
+      - Milan
+      réponse: Venise
+      anecdote: Le doge était le premier magistrat de plusieurs républiques d'Italie, particulièrement de Venise et de Gênes.
+    - id: 3
+      question: Quel surnom est donné à la ville de Las Vegas, dans le comté de Clark ?
+      propositions:
+      - Ville des Vents
+      - Ville émeraude
+      - Ville du Péché
+      - Ville fantôme
+      réponse: Ville du Péché
+      anecdote: La légalisation des jeux d'argent en 1931 a vu naître dans la ville des casinos, des hôtels ainsi que le développement de la prostitution.
+    - id: 4
+      question: Quelle capitale est surnommée la ville aux sept collines ?
+      propositions:
+      - Budapest
+      - Varsovie
+      - Sofia
+      - Rome
+      réponse: Rome
+      anecdote: Le centre historique de Rome est dominé par les sept collines : Aventin, Caelius, Capitole, Esquilin, Palatin, Quirinal et Viminal.
+    - id: 5
+      question: Quelle ville italienne est surnommée la capitale des arts ?
+      propositions:
+      - Pescara
+      - Syracuse
+      - Florence
+      - Rimini
+      réponse: Florence
+      anecdote: Les Corporations d'arts et métiers médiévales de Florence représentent les sept arts majeurs et leurs techniques.
+    - id: 6
+      question: Quel est le surnom donné à la ville de Los Angeles, en Californie ?
+      propositions:
+      - Cité des Anges
+      - Ville du Péché
+      - Grosse Pomme
+      - Capitale des Arts
+      réponse: Cité des Anges
+      anecdote: La cathédrale Notre-Dame des anges est aussi haute qu'un immeuble de 12 étages et peut accueillir plus de 3 000 fidèles.
+    - id: 7
+      question: Laquelle de ces villes est surnommée la ville Sainte ?
+      propositions:
+      - Téhéran
+      - Beyrouth
+      - Abou Dabi
+      - Jérusalem
+      réponse: Jérusalem
+      anecdote: Jérusalem est une ville du Proche-Orient que les Israéliens ont érigée en capitale et que les Palestiniens souhaitent comme capitale.
+    - id: 8
+      question: Quelle ville est parfois reconnue comme capitale mondiale de la mode ?
+      propositions:
+      - Austin
+      - Rome
+      - Bruxelles
+      - La Haye
+      réponse: Rome
+      anecdote: Malgré très peu de grands magasins, la place d'Espagne est à la fois le coeur du quartier commerçant de Rome et le fief de la mode.
+    - id: 9
+      question: Quelle ville allemande est surnommée la ville des ours ?
+      propositions:
+      - Cologne
+      - Munich
+      - Berlin
+      - Hambourg
+      réponse: Berlin
+      anecdote: Chaque année, en février, la Berlinale, festival international de cinéma, offre la récompense suprême qui est l'Ours d'Or.
+    - id: 10
+      question: Quel est le surnom donné à la ville de Detroit, dans le Michigan ?
+      propositions:
+      - Ville émeraude
+      - Ville des Vents
+      - Ville des Ours
+      - Ville du Moteur
+      réponse: Ville du Moteur
+      anecdote: Entre 1900 et 1930, l'industrie automobile lui a donné son surnom de Motor City et a été à l'origine de son développement.
+  - confirmé:
+    - id: 11
+      question: Quelle ville était autrefois surnommée le Petit Paris des Balkans ?
+      propositions:
+      - Bucarest
+      - Prague
+      - Budapest
+      - Varsovie
+      réponse: Bucarest
+      anecdote: L'influence française sur une partie de l'architecture bucarestoise fut autrefois telle que Bucarest était appelée le « Petit Paris ».
+    - id: 12
+      question: Quel est le surnom donné à la ville de Grenoble, en France ?
+      propositions:
+      - Cité du Lion
+      - Ville des Vents
+      - Ville de l'acier
+      - Capitale des Alpes
+      réponse: Capitale des Alpes
+      anecdote: C'est le fait d'être la plus grande métropole alpine, devant Innsbruck et Bolzano, qui vaut à Grenoble le surnom de « capitale des Alpes ».
+    - id: 13
+      question: Quelle ville a gagné son surnom de capitale de l'automobile ?
+      propositions:
+      - Turin
+      - Pittsburgh
+      - Berlin
+      - Marseille
+      réponse: Turin
+      anecdote: Turin est devenu un centre industriel important au cours de la première partie du XXe siècle, grâce à l'industrie automobile.
+    - id: 14
+      question: Quel est le surnom donné à la célèbre ville côtière de Miami ?
+      propositions:
+      - Steel City
+      - Fog City
+      - Magic City
+      - River City
+      réponse: Magic City
+      anecdote: « Magic City » est une série télévisée américaine en seize épisodes de 50 minutes créée par Mitch Glazer ayant pour décors Miami.
+    - id: 15
+      question: Quelle ville égyptienne est surnommée la ville aux mille minarets ?
+      propositions:
+      - Le Caire
+      - Suez
+      - Alexandrie
+      - Louxor
+      réponse: Le Caire
+      anecdote: Le centre historique de la ville du Caire comprend le Vieux Caire ainsi que le quartier islamique, classé au patrimoine mondial.
+    - id: 16
+      question: Quelle ville est connue comme étant le bout du monde ?
+      propositions:
+      - Pékin
+      - Cuba
+      - Kuala Lumpur
+      - Ushuaïa
+      réponse: Ushuaïa
+      anecdote: Le musée du Bout du Monde, inauguré en 1979, se consacre à la mise en valeur de son patrimoine ethnographique et historique.
+    - id: 17
+      question: Quel est le surnom donné à la ville de Chicago, dans l'Illinois ?
+      propositions:
+      - Cité des Rêves
+      - Ville du Moteur
+      - Cité des Anges
+      - Ville des Vents
+      réponse: Ville des Vents
+      anecdote: Le surnom vient en partie du fait des vents qui soufflent depuis le lac Michigan et qui s'engouffrent dans les rues de la métropole.
+    - id: 18
+      question: Quelle ville des États-Unis est souvent surnommée Big D ?
+      propositions:
+      - Dallas
+      - Détroit
+      - Denver
+      - Dayton
+      réponse: Dallas
+      anecdote: Big D est un grand centre industriel spécialisé dans les des télécommunications, de l'information, des banques et des transports.
+    - id: 19
+      question: Quelle ville est surnommée la ville de la paix et de la justice ?
+      propositions:
+      - La Haye
+      - Amsterdam
+      - Rotterdam
+      - Eindhoven
+      réponse: La Haye
+      anecdote: La Haye est également la ville où siègent la Cour internationale de justice, la Cour pénale internationale, Europol et Eurojust.
+    - id: 20
+      question: Quelle ville est surnommée la ville à l'éternel printemps ?
+      propositions:
+      - Florence
+      - Pékin
+      - Manille
+      - Berlin
+      réponse: Pékin
+      anecdote: Pékin n'est pas très éloigné de la mer, mais celle-ci se trouve à l'est, alors que les vents dominants viennent plutôt de l'ouest.
+  - expert:
+    - id: 21
+      question: Quel est le surnom donné à la ville de La Nouvelle-Orléans ?
+      propositions:
+      - Big Easy
+      - Fog City
+      - River City
+      - Magic City
+      réponse: Big Easy
+      anecdote: Berceau du jazz, la vie culturelle riche, ancienne et vibrante de la ville de La Nouvelle-Orléans lui vaut le surnom de Big Easy.
+    - id: 22
+      question: Quelle ville des États-Unis est surnommée la ville de l'acier ?
+      propositions:
+      - Pittsburgh
+      - Tucson
+      - Sacramento
+      - Boston
+      réponse: Pittsburgh
+      anecdote: Pittsburgh a connu une forte croissance industrielle, devenant grâce à Andrew Carnegie à partir de 1875 une ville mondiale de l'acier.
+    - id: 23
+      question: Quel est le surnom donné à la ville de Seattle dans l'État de Washington ?
+      propositions:
+      - Ville diamant
+      - Ville émeraude
+      - Ville rubis
+      - Ville saphir
+      réponse: Ville émeraude
+      anecdote: Longtemps appelée Queen City, le nom finalement retenu fut Emerald City, par allusion aux couleurs des paysages.
+    - id: 24
+      question: Quelle ville est surnommée la ville aux mille et une portes colorées ?
+      propositions:
+      - Dubrovnik
+      - Dublin
+      - Cadiz
+      - Bilbao
+      réponse: Dublin
+      anecdote: Les portes des maisons du centre sont éclatantes, peut-être parce que 48 % de la population de Dublin a moins de 35 ans.
+    - id: 25
+      question: Quel est le surnom historique donné à la ville de Moscou ?
+      propositions:
+      - Nouveau Paris
+      - Troisième Rome
+      - Ancienne Athènes
+      - Petit Luxembourg
+      réponse: Troisième Rome
+      anecdote: Par son mariage avec Zoé Paléologue, nièce de Constantin XI, Ivan III revendiqua pour Moscou le rôle de Troisième Rome.
+    - id: 26
+      question: Quel est le surnom donné à la ville de Singapour depuis 1377 ?
+      propositions:
+      - Cité du Lion
+      - Cité des Anges
+      - Cité des Rois
+      - Cité des Rêves
+      réponse: Cité du Lion
+      anecdote: Un prince de Palembang aurait assassiné le gouverneur de Tumasik et rebaptisé la cité « Singapura » (« ville du lion » en sanskrit).
+    - id: 27
+      question: Quelle ville est surnommée la locomotive du Brésil ?
+      propositions:
+      - Salvador
+      - Rio de Janeiro
+      - Sao Paulo
+      - Porto Alegre
+      réponse: Sao Paulo
+      anecdote: Avec ses onze millions d'habitants en 2014, Sao Paulo, fondée en 1554 par des jésuites portugais, est la plus grande ville du pays.
+    - id: 28
+      question: Quelle ville est surnommée la perle de l'Adriatique ?
+      propositions:
+      - Dubrovnik
+      - Zadar
+      - Split
+      - Zagreb
+      réponse: Dubrovnik
+      anecdote: La ville de Dubrovnik, municipalité de Croatie, fut autrefois la capitale de la République maritime de Raguse.
+    - id: 29
+      question: Quelle ville est surnommée la capitale secrète de l'Allemagne ?
+      propositions:
+      - Munich
+      - Berlin
+      - Cologne
+      - Hambourg
+      réponse: Munich
+      anecdote: Arrivés au pouvoir, les nazis firent de Munich la capitale du mouvement et construisirent plusieurs édifices entre 1933 et 1945.
+    - id: 30
+      question: Quelle ville est surnommée la ville aux mille métiers ?
+      propositions:
+      - Tijuana
+      - Birmingham
+      - Lima
+      - La Haye
+      réponse: Birmingham
+      anecdote: Birmingham a été une ville phare lors de la révolution industrielle en Angleterre, d'où son surnom d'atelier du monde.
+  en:
+  - débutant:
+    - id: 1
+      question: What is the nickname given to the American city of New York ?
+      propositions:
+      - Long Banana
+      - Little Pear
+      - Big Apple
+      - Thick Orange
+      réponse: Big Apple
+      anecdote: In 1971, this expression took on its full significance thanks to Charles Gillett who launched an advertisement on the theme of the Big Apple.
+    - id: 2
+      question: Which Italian city has the city of the Doges as its nickname ?
+      propositions:
+      - Venice
+      - Naples
+      - Turin
+      - Milan
+      réponse: Venice
+      anecdote: The doge was the first magistrate of several republics of Italy, particularly of Venice and Genoa.
+    - id: 3
+      question: What is the nickname given to the city of Las Vegas, in Clark County ?
+      propositions:
+      - City of Sin
+      - Emerald City
+      - City of the Winds
+      - Ghost town
+      réponse: City of Sin
+      anecdote: The legalization of gambling in 1931 saw the birth in the city of casinos, hotels and the development of prostitution.
+    - id: 4
+      question: Which capital is nicknamed the City of Seven Hills ?
+      propositions:
+      - Budapest
+      - Rome
+      - Warsaw
+      - Sofia
+      réponse: Rome
+      anecdote: The historic center of Rome is dominated by the seven hills : Aventine, Caelius, Capitoline, Esquiline, Palatine, Quirinal and Viminal.
+    - id: 5
+      question: Which Italian city is nicknamed the capital of the arts ?
+      propositions:
+      - Florence
+      - Syracuse
+      - Rimini
+      - Pescara
+      réponse: Florence
+      anecdote: The Corporations of Medieval Arts and Crafts of Florence represent the seven major arts and their techniques.
+    - id: 6
+      question: What is the nickname given to the city of Los Angeles, California ?
+      propositions:
+      - Big Apple
+      - City of Sin
+      - City of Angels
+      - Capital of the Arts
+      réponse: City of Angels
+      anecdote: Notre-Dame des Anges Cathedral is as tall as a 12-story building and can accommodate over 3,000 worshipers.
+    - id: 7
+      question: Which of these cities is nicknamed the Holy City ?
+      propositions:
+      - Abu Dhabi
+      - Beirut
+      - Jerusalem
+      - Tehran
+      réponse: Jerusalem
+      anecdote: Jerusalem is a city in the Middle East that the Israelis have erected as a capital and that the Palestinians want as a capital.
+    - id: 8
+      question: Which city is sometimes recognized as the fashion capital of the world ?
+      propositions:
+      - Rome
+      - The Hague
+      - Austin
+      - Brussels
+      réponse: Rome
+      anecdote: Despite very few department stores, the Spanish Steps are both the heart of Rome's shopping district and the stronghold of fashion.
+    - id: 9
+      question: Which German city is nicknamed the city of bears ?
+      propositions:
+      - Berlin
+      - Munich
+      - Hamburg
+      - Cologne
+      réponse: Berlin
+      anecdote: Every year in February, the Berlinale, the international film festival, offers the supreme award which is the Golden Bear.
+    - id: 10
+      question: What is the nickname given to the city of Detroit, Michigan ?
+      propositions:
+      - Emerald City
+      - City of Bears
+      - City of the Winds
+      - Motor City
+      réponse: Motor City
+      anecdote: Between 1900 and 1930, the automotive industry gave it its nickname Motor City and was at the origin of its development.
+  - confirmé:
+    - id: 11
+      question: What city was once nicknamed the Little Paris of the Balkans ?
+      propositions:
+      - Prague
+      - Warsaw
+      - Budapest
+      - Bucharest
+      réponse: Bucharest
+      anecdote: The French influence on part of Bucharest architecture was once such that Bucharest was called the Little Paris.
+    - id: 12
+      question: What is the nickname given to the city of Grenoble, France ?
+      propositions:
+      - City of the Winds
+      - Capital of the Alps
+      - City of Steel
+      - City of the Lion
+      réponse: Capital of the Alps
+      anecdote: It is the fact of being the largest Alpine metropolis, ahead of Innsbruck and Bolzano, which earned Grenoble the nickname of capital of the Alps.
+    - id: 13
+      question: Which city has earned its nickname as the capital of the automobile ?
+      propositions:
+      - Marseilles
+      - Turin
+      - Pittsburgh
+      - Berlin
+      réponse: Turin
+      anecdote: Turin became an important industrial center during the first part of the 20th century, thanks to the automobile industry.
+    - id: 14
+      question: What is the nickname given to the famous coastal city of Miami ?
+      propositions:
+      - Fog City
+      - River City
+      - Magic City
+      - Steel City
+      réponse: Magic City
+      anecdote: « Magic City » is an American television series in sixteen, 50-minute episodes created by Mitch Glazer and set in Miami.
+    - id: 15
+      question: Which Egyptian city is nicknamed the City of a Thousand Minarets ?
+      propositions:
+      - Suez
+      - Cairo
+      - Alexandria
+      - Luxor
+      réponse: Cairo
+      anecdote: The historic city center of Cairo includes Old Cairo as well as the Islamic Quarter, which is a World Heritage Site.
+    - id: 16
+      question: Which city is known as the end of the world ?
+      propositions:
+      - Kuala Lumpur
+      - Cuba
+      - Beijing
+      - Ushuaia
+      réponse: Ushuaia
+      anecdote: The Bout du Monde museum, inaugurated in 1979, is dedicated to highlighting its ethnographic and historical heritage.
+    - id: 17
+      question: What is the nickname given to the city of Chicago, Illinois ?
+      propositions:
+      - City of the Winds
+      - Motor City
+      - City of Angels
+      - City of Dreams
+      réponse: City of the Winds
+      anecdote: The nickname comes in part from the winds that blow from Lake Michigan and rush through the streets of the metropolis.
+    - id: 18
+      question: Which city in the United States is often referred to as Big D ?
+      propositions:
+      - Detroit
+      - Denver
+      - Dallas
+      - Dayton
+      réponse: Dallas
+      anecdote: Big D is a large industrial center specializing in telecommunications, information, banking and transport.
+    - id: 19
+      question: Which city is nicknamed the City of Peace and Justice ?
+      propositions:
+      - Eindhoven
+      - The Hague
+      - Rotterdam
+      - Amsterdam
+      réponse: The Hague
+      anecdote: The Hague is also the city where the International Court of Justice, the International Criminal Court, Europol and Eurojust sit.
+    - id: 20
+      question: Which city is nicknamed the City of Eternal Spring ?
+      propositions:
+      - Berlin
+      - Florence
+      - Manila
+      - Beijing
+      réponse: Beijing
+      anecdote: Beijing is not far from the sea, but the sea lies to the east, while the prevailing winds are more from the west.
+  - expert:
+    - id: 21
+      question: What is the nickname given to the city of New Orleans ?
+      propositions:
+      - Big Easy
+      - Magic City
+      - River City
+      - Fog City
+      réponse: Big Easy
+      anecdote: The birthplace of jazz, the rich, ancient and vibrant cultural life of the city of New Orleans has earned it the nickname Big Easy.
+    - id: 22
+      question: Which city in the United States is nicknamed the City of Steel ?
+      propositions:
+      - Sacramento
+      - Tucson
+      - Boston
+      - Pittsburgh
+      réponse: Pittsburgh
+      anecdote: Pittsburgh experienced strong industrial growth, becoming thanks to Andrew Carnegie from 1875 a world city of steel.
+    - id: 23
+      question: What is the nickname given to the city of Seattle in the state of Washington ?
+      propositions:
+      - Diamond City
+      - Ruby city
+      - Sapphire City
+      - Emerald City
+      réponse: Emerald City
+      anecdote: Long called Queen City, the name finally retained was Emerald City, alluding to the colors of the landscapes.
+    - id: 24
+      question: Which city is nicknamed the city of a thousand and one colorful doors ?
+      propositions:
+      - Dubrovnik
+      - Cadiz
+      - Dublin
+      - Bilbao
+      réponse: Dublin
+      anecdote: The doors of the houses in the center are glowing, perhaps because 48 % of Dublin's population is under 35.
+    - id: 25
+      question: What is the historical nickname given to the city of Moscow ?
+      propositions:
+      - Third Rome
+      - New Paris
+      - Ancient Athens
+      - Small Luxembourg
+      réponse: Third Rome
+      anecdote: By his marriage to Zoe Paleologus, niece of Constantine XI, Ivan III claimed for Moscow the role of Third Rome.
+    - id: 26
+      question: What is the nickname given to the city of Singapore since 1377 ?
+      propositions:
+      - City of Angels
+      - City of the Lion
+      - City of Dreams
+      - City of Kings
+      réponse: City of the Lion
+      anecdote: A prince of Palembang would have assassinated the governor of Tumasik and renamed the city Singapura (city of the lion in Sanskrit).
+    - id: 27
+      question: Which city is nicknamed the locomotive of Brazil ?
+      propositions:
+      - Sao Paulo
+      - Porto Alegre
+      - Rio de Janeiro
+      - Salvador
+      réponse: Sao Paulo
+      anecdote: With its eleven million inhabitants in 2014, Sao Paulo, founded in 1554 by Portuguese Jesuits, is the largest city in the country.
+    - id: 28
+      question: Which city is nicknamed the Pearl of the Adriatic ?
+      propositions:
+      - Zagreb
+      - Dubrovnik
+      - Split
+      - Zadar
+      réponse: Dubrovnik
+      anecdote: The city of Dubrovnik, a municipality in Croatia, was once the capital of the Maritime Republic of Ragusa.
+    - id: 29
+      question: Which city is nicknamed the secret capital of Germany ?
+      propositions:
+      - Cologne
+      - Hamburg
+      - Munich
+      - Berlin
+      réponse: Munich
+      anecdote: When they came to power, the Nazis made Munich the capital of the movement and built several buildings between 1933 and 1945.
+    - id: 30
+      question: Which city is nicknamed the city of a thousand trades ?
+      propositions:
+      - Lima
+      - Birmingham
+      - The Hague
+      - Tijuana
+      réponse: Birmingham
+      anecdote: Birmingham was a flagship city during the Industrial Revolution in England, hence its nickname the Workshop of the World.
+  de:
+  - débutant:
+    - id: 1
+      question: Wie lautet der Spitzname der amerikanischen Stadt New York ?
+      propositions:
+      - Kleine Birne
+      - Lange Banane
+      - Dickes Orange
+      - Big Apple
+      réponse: Big Apple
+      anecdote: 1971 gewann dieser Ausdruck dank Charles Gillett an Dynamik, der eine Werbung zum Thema Big Apple startete.
+    - id: 2
+      question: Welche italienische Stadt hat die Stadt der Dogen als Spitznamen ?
+      propositions:
+      - Neapel
+      - Venedig
+      - Mailand
+      - Turin
+      réponse: Venedig
+      anecdote: Der Dogen war der erste Richter mehrerer Republiken Italiens, insbesondere von Venedig und Genua.
+    - id: 3
+      question: Wie lautet der Spitzname der Stadt Las Vegas in Clark County ?
+      propositions:
+      - Stadt der Sünde
+      - Geisterstadt
+      - Stadt der Winde
+      - Smaragdstadt
+      réponse: Stadt der Sünde
+      anecdote: Mit der Legalisierung des Glücksspiels im Jahr 1931 wurden in der Stadt Kasinos, Hotels und die Prostitution geboren.
+    - id: 4
+      question: Welche Hauptstadt trägt den Spitznamen Stadt der sieben Hügel ?
+      propositions:
+      - Warschau
+      - Sofia
+      - Budapest
+      - Rom
+      réponse: Rom
+      anecdote: Das historische Zentrum Roms wird von den sieben Hügeln dominiert : Aventin, Caelius, Kapitolin, Esquiline, Palatine, Quirinal und Viminal.
+    - id: 5
+      question: Welche italienische Stadt wird als Hauptstadt der Künste bezeichnet ?
+      propositions:
+      - Pescara
+      - Syrakus
+      - Florenz
+      - Rimini
+      réponse: Florenz
+      anecdote: Die Unternehmen für mittelalterliche Kunst und Handwerk von Florenz repräsentieren die sieben wichtigsten Künste und ihre Techniken.
+    - id: 6
+      question: Wie lautet der Spitzname der Stadt Los Angeles, Kalifornien ?
+      propositions:
+      - Big Apple
+      - Stadt der Sünde
+      - Hauptstadt der Künste
+      - Stadt der Engel
+      réponse: Stadt der Engel
+      anecdote: Die Kathedrale Notre-Dame des Anges ist so hoch wie ein 12-stöckiges Gebäude und bietet Platz für mehr als 3.000 Gläubige.
+    - id: 7
+      question: Welche dieser Städte trägt den Spitznamen Heilige Stadt ?
+      propositions:
+      - Jerusalem
+      - Abu Dhabi
+      - Beirut
+      - Teheran
+      réponse: Jerusalem
+      anecdote: Jerusalem ist eine Stadt im Nahen Osten, die die Israelis als Hauptstadt errichtet haben und die die Palästinenser als Hauptstadt wollen.
+    - id: 8
+      question: Welche Stadt wird manchmal als Modehauptstadt der Welt anerkannt ?
+      propositions:
+      - Austin
+      - Rom
+      - Den Haag
+      - Brüssel
+      réponse: Rom
+      anecdote: Trotz sehr weniger Kaufhäuser sind die Spanische Treppe sowohl das Herz des Einkaufsviertels von Rom als auch die Hochburg der Mode.
+    - id: 9
+      question: Welche deutsche Stadt trägt den Spitznamen Bärenstadt ?
+      propositions:
+      - Berlin
+      - München
+      - Hamburg
+      - Köln
+      réponse: Berlin
+      anecdote: Jedes Jahr im Februar bietet die Berlinale, das internationale Filmfestival, den höchsten Preis an, den Goldenen Bären.
+    - id: 10
+      question: Wie lautet der Spitzname der Stadt Detroit, Michigan ?
+      propositions:
+      - Stadt der Winde
+      - Smaragdstadt
+      - Stadt der Bären
+      - Motor City
+      réponse: Motor City
+      anecdote: Zwischen 1900 und 1930 gab die Automobilindustrie ihr den Spitznamen Motor City und war die Quelle ihrer Entwicklung.
+  - confirmé:
+    - id: 11
+      question: Welche Stadt wurde einst das kleine Paris des Balkans genannt ?
+      propositions:
+      - Prag
+      - Warschau
+      - Bukarest
+      - Budapest
+      réponse: Bukarest
+      anecdote: Der französische Einfluss auf einen Teil der Bukarester Architektur war einst so groß, dass Bukarest das kleine Paris genannt wurde.
+    - id: 12
+      question: Wie lautet der Spitzname der Stadt Grenoble in Frankreich ?
+      propositions:
+      - Stadt des Löwen
+      - Stadt aus Stahl
+      - Hauptstadt der Alpen
+      - Stadt der Winde
+      réponse: Hauptstadt der Alpen
+      anecdote: Es ist die Tatsache, die größte alpine Metropole vor Innsbruck und Bozen zu sein, die Grenoble den Spitznamen der Hauptstadt der Alpen einbrachte.
+    - id: 13
+      question: Welche Stadt hat ihren Spitznamen als Hauptstadt des Automobils verdient ?
+      propositions:
+      - Marseille
+      - Turin
+      - Berlin
+      - Pittsburgh
+      réponse: Turin
+      anecdote: Turin wurde in der ersten Hälfte des 20. Jahrhunderts dank der Automobilindustrie zu einem wichtigen Industriezentrum.
+    - id: 14
+      question: Wie lautet der Spitzname der berühmten Küstenstadt Miami ?
+      propositions:
+      - Magische Stadt
+      - Stahlstadt
+      - Nebelstadt
+      - Flussstadt
+      réponse: Magische Stadt
+      anecdote: « Magic City » ist eine amerikanische Fernsehserie in 16 Folgen von 50 Minuten, die von Mitch Glazer in Miami gedreht wurde.
+    - id: 15
+      question: Welche ägyptische Stadt trägt den Spitznamen Stadt der tausend Minarette ?
+      propositions:
+      - Kairo
+      - Alexandria
+      - Suez
+      - Luxor
+      réponse: Kairo
+      anecdote: Das historische Zentrum der Stadt Kairo umfasst das alte Kairo sowie das Islamische Viertel, das zum Weltkulturerbe gehört.
+    - id: 16
+      question: Welche Stadt ist als das Ende der Welt bekannt ?
+      propositions:
+      - Kuba
+      - Kuala Lumpur
+      - Peking
+      - Ushuaia
+      réponse: Ushuaia
+      anecdote: Das 1979 eingeweihte Museum Bout du Monde widmet sich der Hervorhebung seines ethnografischen und historischen Erbes.
+    - id: 17
+      question: Wie lautet der Spitzname der Stadt Chicago, Illinois ?
+      propositions:
+      - Stadt der Träume
+      - Stadt der Winde
+      - Stadt der Engel
+      - Motor City
+      réponse: Stadt der Winde
+      anecdote: Der Spitzname kommt zum Teil von den Winden, die vom Michigansee wehen und durch die Straßen der Metropole rauschen.
+    - id: 18
+      question: Welche Stadt in den USA wird oft als Big D bezeichnet ?
+      propositions:
+      - Dayton
+      - Detroit
+      - Denver
+      - Dallas
+      réponse: Dallas
+      anecdote: Big D ist ein großes Industriezentrum, das sich auf Telekommunikation, Information, Bankwesen und Verkehr spezialisiert hat.
+    - id: 19
+      question: Welche Stadt trägt den Spitznamen Stadt des Friedens und der Gerechtigkeit ?
+      propositions:
+      - Amsterdam
+      - Den Haag
+      - Eindhoven
+      - Rotterdam
+      réponse: Den Haag
+      anecdote: Den Haag ist auch die Stadt, in der der Internationale Gerichtshof, der Internationale Strafgerichtshof, Europol und Eurojust sitzen.
+    - id: 20
+      question: Welche Stadt trägt den Spitznamen Stadt des ewigen Frühlings ?
+      propositions:
+      - Berlin
+      - Manila
+      - Florenz
+      - Peking
+      réponse: Peking
+      anecdote: Peking ist nicht weit vom Meer entfernt, aber das Meer liegt im Osten, während die vorherrschenden Winde eher aus dem Westen kommen.
+  - expert:
+    - id: 21
+      question: Wie lautet der Spitzname der Stadt New Orleans ?
+      propositions:
+      - Nebelstadt
+      - Flussstadt
+      - Big Easy
+      - Magische Stadt
+      réponse: Big Easy
+      anecdote: Der Geburtsort des Jazz, das reiche, alte und lebendige kulturelle Leben der Stadt New Orleans hat ihm den Spitznamen Big Easy eingebracht.
+    - id: 22
+      question: Welche Stadt in den USA trägt den Spitznamen City of Steel ?
+      propositions:
+      - Pittsburgh
+      - Boston
+      - Tucson
+      - Sacramento
+      réponse: Pittsburgh
+      anecdote: Pittsburgh verzeichnete ein starkes industrielles Wachstum und wurde dank Andrew Carnegie ab 1875 eine Weltstadt aus Stahl.
+    - id: 23
+      question: Wie lautet der Spitzname der Stadt Seattle im Bundesstaat Washington ?
+      propositions:
+      - Smaragdstadt
+      - Diamond City
+      - Saphirstadt
+      - Rubinstadt
+      réponse: Smaragdstadt
+      anecdote: Lange Zeit Queen City genannt, wurde der Name schließlich Emerald City beibehalten, was auf die Farben der Landschaften anspielt.
+    - id: 24
+      question: Welche Stadt wird die Stadt der tausendundein bunten Türen genannt ?
+      propositions:
+      - Bilbao
+      - Cadiz
+      - Dublin
+      - Dubrovnik
+      réponse: Dublin
+      anecdote: Die Türen der Häuser im Zentrum leuchten, vielleicht weil 48 % der Bevölkerung Dublins unter 35 Jahre alt sind.
+    - id: 25
+      question: Wie lautet der historische Spitzname der Stadt Moskau ?
+      propositions:
+      - Kleines Luxemburg
+      - Drittes Rom
+      - New Paris
+      - Altes Athen
+      réponse: Drittes Rom
+      anecdote: Durch seine Heirat mit Zoe Paleologus, der Nichte von Konstantin XI., Behauptete Iwan III. Für Moskau die Rolle des Dritten Roms.
+    - id: 26
+      question: Wie lautet der Spitzname der Stadt Singapur seit 1377 ?
+      propositions:
+      - Stadt des Löwen
+      - Stadt der Träume
+      - Stadt der Könige
+      - Stadt der Engel
+      réponse: Stadt des Löwen
+      anecdote: Ein Prinz von Palembang hätte den Gouverneur von Tumasik ermordet und die Stadt Singapura (Stadt des Löwen in Sanskrit) umbenannt.
+    - id: 27
+      question: Welche Stadt wird als brasilianische Lokomotive bezeichnet ?
+      propositions:
+      - Porto Alegre
+      - Rio de Janeiro
+      - Sao Paulo
+      - Salvador
+      réponse: Sao Paulo
+      anecdote: Sao Paulo wurde 1554 von portugiesischen Jesuiten gegründet und ist mit elf Millionen Einwohnern im Jahr 2014 die größte Stadt des Landes.
+    - id: 28
+      question: Welche Stadt trägt den Spitznamen Perle der Adria ?
+      propositions:
+      - Zadar
+      - Dubrovnik
+      - Zagreb
+      - Split
+      réponse: Dubrovnik
+      anecdote: Die Stadt Dubrovnik, eine Gemeinde in Kroatien, war einst die Hauptstadt der Seerepublik Ragusa.
+    - id: 29
+      question: Welche Stadt wird die geheime Hauptstadt Deutschlands genannt ?
+      propositions:
+      - Hamburg
+      - Berlin
+      - Köln
+      - München
+      réponse: München
+      anecdote: Als sie an die Macht kamen, machten die Nazis München zur Hauptstadt der Bewegung und bauten zwischen 1933 und 1945 mehrere Gebäude.
+    - id: 30
+      question: Welche Stadt wird die Stadt der tausend Geschäfte genannt ?
+      propositions:
+      - Birmingham
+      - Tijuana
+      - Den Haag
+      - Lima
+      réponse: Birmingham
+      anecdote: Birmingham war während der industriellen Revolution in England ein Flaggschiff der Stadt, daher der Spitzname Werkstatt der Welt.
+  es:
+  - débutant:
+    - id: 1
+      question: ¿Cuál es el apodo que se le da a la ciudad estadounidense de Nueva York ?
+      propositions:
+      - Naranja espesa
+      - Plátano largo
+      - Little Pear
+      - Gran Manzana
+      réponse: Gran Manzana
+      anecdote: En 1971, esta expresión cobró todo su significado gracias a Charles Gillett, quien lanzó un anuncio sobre el tema de la Big Apple.
+    - id: 2
+      question: ¿Qué ciudad italiana tiene la ciudad de los Doges como apodo ?
+      propositions:
+      - Nápoles
+      - Milán
+      - Venecia
+      - Turín
+      réponse: Venecia
+      anecdote: El dux fue el primer magistrado de varias repúblicas de Italia, particularmente de Venecia y Génova.
+    - id: 3
+      question: ¿Cuál es el apodo que se le da a la ciudad de Las Vegas, en el condado de Clark ?
+      propositions:
+      - Ciudad Esmeralda
+      - Ciudad del pecado
+      - Ciudad de los Vientos
+      - Pueblo fantasma
+      réponse: Ciudad del pecado
+      anecdote: La legalización del juego en 1931 vio el nacimiento en la ciudad de los casinos, los hoteles y el desarrollo de la prostitución.
+    - id: 4
+      question: ¿Qué capital recibe el sobrenombre de Ciudad de las Siete Colinas ?
+      propositions:
+      - Roma
+      - Budapest
+      - Sofia
+      - Varsovia
+      réponse: Roma
+      anecdote: El centro histórico de Roma está dominado por las siete colinas : Aventino, Celio, Capitolino, Esquilino, Palatino, Quirinal y Viminal.
+    - id: 5
+      question: ¿Qué ciudad italiana es conocida como la capital de las artes ?
+      propositions:
+      - Siracusa
+      - Rimini
+      - Pescara
+      - Florencia
+      réponse: Florencia
+      anecdote: Las Corporaciones de Artes y Oficios Medievales de Florencia representan las siete artes principales y sus técnicas.
+    - id: 6
+      question: ¿Cuál es el apodo que se le da a la ciudad de Los Ángeles, California ?
+      propositions:
+      - Ciudad de los Ángeles
+      - Capital de las Artes
+      - Gran Manzana
+      - Ciudad del pecado
+      réponse: Ciudad de los Ángeles
+      anecdote: La catedral de Notre-Dame des Anges tiene la altura de un edificio de 12 pisos y puede albergar a más de 3000 fieles.
+    - id: 7
+      question: ¿Cuál de estas ciudades recibe el sobrenombre de Ciudad Santa ?
+      propositions:
+      - Abu Dhabi
+      - Jerusalén
+      - Teherán
+      - Beirut
+      réponse: Jerusalén
+      anecdote: Jerusalén es una ciudad en el Medio Oriente que los israelíes han erigido como capital y que los palestinos quieren como capital.
+    - id: 8
+      question: ¿Qué ciudad a veces es reconocida como la capital mundial de la moda ?
+      propositions:
+      - Bruselas
+      - Roma
+      - La Haya
+      - Austin
+      réponse: Roma
+      anecdote: A pesar de muy pocos grandes almacenes, la Plaza de España es tanto el corazón del distrito comercial de Roma como el baluarte de la moda.
+    - id: 9
+      question: ¿Qué ciudad alemana recibe el sobrenombre de la ciudad de los osos ?
+      propositions:
+      - Colonia
+      - Hamburgo
+      - Munich
+      - Berlín
+      réponse: Berlín
+      anecdote: Cada año en febrero, la Berlinale, el festival internacional de cine, ofrece el premio supremo que es el Oso de Oro.
+    - id: 10
+      question: ¿Cuál es el apodo que se le da a la ciudad de Detroit, Michigan ?
+      propositions:
+      - Ciudad de los Vientos
+      - Ciudad Esmeralda
+      - Ciudad de los Osos
+      - Motor City
+      réponse: Motor City
+      anecdote: Entre 1900 y 1930, la industria del automóvil le dio el sobrenombre de Motor City y fue la fuente de su desarrollo.
+  - confirmé:
+    - id: 11
+      question: ¿Qué ciudad fue apodada una vez el Pequeño París de los Balcanes ?
+      propositions:
+      - Bucarest
+      - Praga
+      - Budapest
+      - Varsovia
+      réponse: Bucarest
+      anecdote: La influencia francesa en parte de la arquitectura de Bucarest fue una vez tal que Bucarest se llamó el Pequeño París.
+    - id: 12
+      question: ¿Cuál es el apodo que se le da a la ciudad de Grenoble, Francia ?
+      propositions:
+      - Ciudad de acero
+      - Ciudad de los Vientos
+      - Capital de los Alpes
+      - Ciudad del León
+      réponse: Capital de los Alpes
+      anecdote: Es el hecho de ser la metrópoli alpina más grande, por delante de Innsbruck y Bolzano, lo que le valió a Grenoble el sobrenombre de capital de los Alpes.
+    - id: 13
+      question: ¿Qué ciudad se ha ganado el sobrenombre de capital del automóvil ?
+      propositions:
+      - Marsella
+      - Berlín
+      - Pittsburgh
+      - Turín
+      réponse: Turín
+      anecdote: Turín se convirtió en un importante centro industrial durante la primera parte del siglo XX, gracias a la industria del automóvil.
+    - id: 14
+      question: ¿Cuál es el apodo que se le da a la famosa ciudad costera de Miami ?
+      propositions:
+      - Ciudad Mágica
+      - Ciudad de la niebla
+      - River City
+      - Steel City
+      réponse: Ciudad Mágica
+      anecdote: « Magic City » es una serie de televisión estadounidense de dieciséis episodios de 50 minutos creada por Mitch Glazer ambientada en Miami.
+    - id: 15
+      question: ¿Qué ciudad egipcia recibe el sobrenombre de la ciudad de los mil minaretes ?
+      propositions:
+      - Luxor
+      - El Cairo
+      - Alejandría
+      - Suez
+      réponse: El Cairo
+      anecdote: El centro histórico de la ciudad de El Cairo incluye el Viejo Cairo y el Barrio Islámico, que es Patrimonio de la Humanidad.
+    - id: 16
+      question: ¿Qué ciudad es conocida como el fin del mundo ?
+      propositions:
+      - Cuba
+      - Beijing
+      - Kuala Lumpur
+      - Ushuaia
+      réponse: Ushuaia
+      anecdote: El museo Bout du Monde, inaugurado en 1979, está dedicado a destacar su patrimonio etnográfico e histórico.
+    - id: 17
+      question: ¿Cuál es el apodo que se le da a la ciudad de Chicago, Illinois ?
+      propositions:
+      - Ciudad de los Vientos
+      - Ciudad de los Ángeles
+      - Motor City
+      - Ciudad de los sueños
+      réponse: Ciudad de los Vientos
+      anecdote: El apodo proviene en parte de los vientos que soplan desde el lago Michigan y corren por las calles de la metrópoli.
+    - id: 18
+      question: ¿Qué ciudad de los Estados Unidos a menudo se conoce como Big D ?
+      propositions:
+      - Denver
+      - Dallas
+      - Detroit
+      - Dayton
+      réponse: Dallas
+      anecdote: Big D es un gran centro industrial especializado en telecomunicaciones, información, banca y transporte.
+    - id: 19
+      question: ¿Qué ciudad recibe el sobrenombre de Ciudad de la Paz y la Justicia ?
+      propositions:
+      - La Haya
+      - Eindhoven
+      - Amsterdam
+      - Rotterdam
+      réponse: La Haya
+      anecdote: La Haya es también la ciudad donde se encuentran la Corte Internacional de Justicia, la Corte Penal Internacional, Europol y Eurojust.
+    - id: 20
+      question: ¿Qué ciudad recibe el sobrenombre de la ciudad de la eterna primavera ?
+      propositions:
+      - Manila
+      - Beijing
+      - Berlín
+      - Florencia
+      réponse: Beijing
+      anecdote: Beijing no está lejos del mar, pero el mar se encuentra al este, mientras que los vientos predominantes son más del oeste.
+  - expert:
+    - id: 21
+      question: ¿Cuál es el apodo que se le da a la ciudad de Nueva Orleans ?
+      propositions:
+      - Big Easy
+      - River City
+      - Ciudad Mágica
+      - Ciudad de la niebla
+      réponse: Big Easy
+      anecdote: La cuna del jazz, la rica, antigua y vibrante vida cultural de la ciudad de Nueva Orleans le ha valido el apodo de Big Easy.
+    - id: 22
+      question: ¿Qué ciudad de los Estados Unidos recibe el sobrenombre de Ciudad del Acero ?
+      propositions:
+      - Pittsburgh
+      - Sacramento
+      - Tucson
+      - Boston
+      réponse: Pittsburgh
+      anecdote: Pittsburgh experimentó un fuerte crecimiento industrial, convirtiéndose gracias a Andrew Carnegie desde 1875 en una ciudad mundial del acero.
+    - id: 23
+      question: ¿Cuál es el apodo que se le da a la ciudad de Seattle en el estado de Washington ?
+      propositions:
+      - Diamond City
+      - Ciudad rubí
+      - Ciudad Esmeralda
+      - Ciudad zafiro
+      réponse: Ciudad Esmeralda
+      anecdote: Llamada durante mucho tiempo Queen City, el nombre que finalmente se conservó fue Emerald City, en alusión a los colores de los paisajes.
+    - id: 24
+      question: ¿Qué ciudad recibe el sobrenombre de la ciudad de las mil una puertas coloridas ?
+      propositions:
+      - Dublín
+      - Bilbao
+      - Dubrovnik
+      - Cádiz
+      réponse: Dublín
+      anecdote: Las puertas de las casas del centro están encendidas, quizás porque el 48 % de la población de Dublín tiene menos de 35 años.
+    - id: 25
+      question: ¿Cuál es el apodo histórico que se le da a la ciudad de Moscú ?
+      propositions:
+      - Pequeño Luxemburgo
+      - Atenas antigua
+      - Nuevo París
+      - Tercera Roma
+      réponse: Tercera Roma
+      anecdote: Por su matrimonio con Zoe Paleologus, sobrina de Constantino XI, Iván III reclamó para Moscú el papel de la Tercera Roma.
+    - id: 26
+      question: ¿Cuál es el apodo que se le da a la ciudad de Singapur desde 1377 ?
+      propositions:
+      - Ciudad de los sueños
+      - Ciudad del León
+      - Ciudad de los Reyes
+      - Ciudad de los Ángeles
+      réponse: Ciudad del León
+      anecdote: Un príncipe de Palembang habría asesinado al gobernador de Tumasik y renombrado la ciudad Singapura (ciudad del león en sánscrito).
+    - id: 27
+      question: ¿A qué ciudad se le conoce como la locomotora de Brasil ?
+      propositions:
+      - Rio de Janeiro
+      - Sao Paulo
+      - Porto Alegre
+      - Salvador
+      réponse: Sao Paulo
+      anecdote: Con once millones de habitantes en 2014, Sao Paulo, fundada en 1554 por jesuitas portugueses, es la ciudad más grande del país.
+    - id: 28
+      question: ¿Qué ciudad recibe el sobrenombre de la Perla del Adriático ?
+      propositions:
+      - Zadar
+      - Split
+      - Zagreb
+      - Dubrovnik
+      réponse: Dubrovnik
+      anecdote: La ciudad de Dubrovnik, un municipio de Croacia, fue una vez la capital de la República Marítima de Ragusa.
+    - id: 29
+      question: ¿Qué ciudad es conocida como la capital secreta de Alemania ?
+      propositions:
+      - Colonia
+      - Munich
+      - Hamburgo
+      - Berlín
+      réponse: Munich
+      anecdote: Cuando llegaron al poder, los nazis hicieron de Munich la capital del movimiento y construyeron varios edificios entre 1933 y 1945.
+    - id: 30
+      question: ¿Qué ciudad es conocida como la ciudad de los mil oficios ?
+      propositions:
+      - La Haya
+      - Lima
+      - Birmingham
+      - Tijuana
+      réponse: Birmingham
+      anecdote: Birmingham fue una ciudad emblemática durante la Revolución Industrial en Inglaterra, de ahí su apodo de Taller del Mundo.
+  it:
+  - débutant:
+    - id: 1
+      question: Qual è il soprannome dato alla città americana di New York ?
+      propositions:
+      - Grande Mela
+      - Little Pear
+      - Arancio spesso
+      - Banana lunga
+      réponse: Grande Mela
+      anecdote: Nel 1971 questa espressione ha assunto tutta la sua valenza grazie a Charles Gillett che ha lanciato uno spot pubblicitario sul tema della Big Apple.
+    - id: 2
+      question: Quale città italiana ha come soprannome la città dei Dogi ?
+      propositions:
+      - Milano
+      - Napoli
+      - Torino
+      - Venezia
+      réponse: Venezia
+      anecdote: Il doge è stato il primo magistrato di diverse repubbliche italiane, in particolare di Venezia e Genova.
+    - id: 3
+      question: Qual è il soprannome dato alla città di Las Vegas, nella contea di Clark ?
+      propositions:
+      - Emerald City
+      - Città dei venti
+      - Città fantasma
+      - Città del peccato
+      réponse: Città del peccato
+      anecdote: La legalizzazione del gioco d'azzardo nel 1931 ha visto la nascita nella città di casinò, hotel e lo sviluppo della prostituzione.
+    - id: 4
+      question: Quale capitale è soprannominata la città dei sette colli ?
+      propositions:
+      - Budapest
+      - Varsavia
+      - Sofia
+      - Roma
+      réponse: Roma
+      anecdote: Il centro storico di Roma è dominato dai sette colli : Aventino, Celio, Capitolino, Esquilino, Palatino, Quirinale e Viminale.
+    - id: 5
+      question: Quale città italiana è soprannominata la capitale delle arti ?
+      propositions:
+      - Rimini
+      - Firenze
+      - Siracusa
+      - Pescara
+      réponse: Firenze
+      anecdote: Le Corporations of Medieval Arts and Crafts of Florence rappresentano le sette arti maggiori e le loro tecniche.
+    - id: 6
+      question: Qual è il soprannome dato alla città di Los Angeles, in California ?
+      propositions:
+      - Capitale delle arti
+      - Città del peccato
+      - Città degli angeli
+      - Grande Mela
+      réponse: Città degli angeli
+      anecdote: La cattedrale di Notre-Dame des Anges è alta quanto un edificio di 12 piani e può ospitare più di 3.000 fedeli.
+    - id: 7
+      question: Quale di queste città è soprannominata la Città Santa ?
+      propositions:
+      - Teheran
+      - Gerusalemme
+      - Beirut
+      - Abu Dhabi
+      réponse: Gerusalemme
+      anecdote: Gerusalemme è una città del Medio Oriente che gli israeliani hanno eretto come capitale e che i palestinesi vogliono come capitale.
+    - id: 8
+      question: Quale città è talvolta riconosciuta come la capitale mondiale della moda ?
+      propositions:
+      - Austin
+      - Bruxelles
+      - L'Aia
+      - Roma
+      réponse: Roma
+      anecdote: Nonostante i pochi grandi magazzini, Piazza di Spagna è sia il cuore del quartiere dello shopping di Roma che la roccaforte della moda.
+    - id: 9
+      question: Quale città tedesca è soprannominata la città degli orsi ?
+      propositions:
+      - Monaco di Baviera
+      - Amburgo
+      - Berlino
+      - Colonia
+      réponse: Berlino
+      anecdote: Ogni anno a febbraio, la Berlinale, il festival internazionale del cinema, offre il premio supremo che è l'Orso d'Oro.
+    - id: 10
+      question: Qual è il soprannome dato alla città di Detroit, Michigan ?
+      propositions:
+      - Emerald City
+      - Città degli orsi
+      - Città dei venti
+      - Motor City
+      réponse: Motor City
+      anecdote: Tra il 1900 e il 1930, l'industria automobilistica le diede il soprannome di Motor City e fu la fonte del suo sviluppo.
+  - confirmé:
+    - id: 11
+      question: Quale città una volta era soprannominata la Piccola Parigi dei Balcani ?
+      propositions:
+      - Praga
+      - Varsavia
+      - Bucarest
+      - Budapest
+      réponse: Bucarest
+      anecdote: L'influenza francese su alcune delle architetture di Bucarest era una volta tale che Bucarest era chiamata Little Paris.
+    - id: 12
+      question: Qual è il soprannome dato alla città di Grenoble, in Francia ?
+      propositions:
+      - Città del Leone
+      - Città dei venti
+      - Capitale delle Alpi
+      - Città d'acciaio
+      réponse: Capitale delle Alpi
+      anecdote: È il fatto di essere la più grande metropoli alpina, davanti a Innsbruck e Bolzano, che ha valso a Grenoble l'appellativo di capitale delle Alpi.
+    - id: 13
+      question: Quale città si è guadagnata il soprannome di capitale dell'automobile ?
+      propositions:
+      - Berlino
+      - Pittsburgh
+      - Torino
+      - Marsiglia
+      réponse: Torino
+      anecdote: Torino divenne un importante centro industriale nella prima parte del XX secolo, grazie all'industria automobilistica.
+    - id: 14
+      question: Qual è il soprannome dato alla famosa città costiera di Miami ?
+      propositions:
+      - River City
+      - Magic City
+      - Steel City
+      - Fog City
+      réponse: Magic City
+      anecdote: « Magic City » è una serie televisiva americana in sedici episodi da 50 minuti creata da Mitch Glazer e ambientata a Miami.
+    - id: 15
+      question: Quale città egiziana è soprannominata la città dei mille minareti ?
+      propositions:
+      - Alessandria
+      - Luxor
+      - Il Cairo
+      - Suez
+      réponse: Il Cairo
+      anecdote: Il centro storico della città del Cairo comprende il vecchio Cairo e il quartiere islamico, patrimonio dell'umanità.
+    - id: 16
+      question: Quale città è conosciuta come la fine del mondo ?
+      propositions:
+      - Cuba
+      - Kuala Lumpur
+      - Pechino
+      - Ushuaia
+      réponse: Ushuaia
+      anecdote: Il museo Bout du Monde, inaugurato nel 1979, è dedicato alla valorizzazione del suo patrimonio etnografico e storico.
+    - id: 17
+      question: Qual è il soprannome dato alla città di Chicago, Illinois ?
+      propositions:
+      - Città degli angeli
+      - Città dei sogni
+      - Motor City
+      - Città dei venti
+      réponse: Città dei venti
+      anecdote: Il soprannome deriva in parte dai venti che soffiano dal lago Michigan e si precipitano per le strade della metropoli.
+    - id: 18
+      question: Quale città degli Stati Uniti viene spesso chiamata Big D ?
+      propositions:
+      - Dallas
+      - Dayton
+      - Denver
+      - Detroit
+      réponse: Dallas
+      anecdote: Big D è un grande centro industriale specializzato in telecomunicazioni, informazioni, banche e trasporti.
+    - id: 19
+      question: Quale città è soprannominata la Città della Pace e della Giustizia ?
+      propositions:
+      - L'Aia
+      - Amsterdam
+      - Rotterdam
+      - Eindhoven
+      réponse: L'Aia
+      anecdote: L'Aia è anche la città in cui si trovano la Corte internazionale di giustizia, la Corte penale internazionale, Europol ed Eurojust.
+    - id: 20
+      question: Quale città è soprannominata la città dell'eterna primavera ?
+      propositions:
+      - Berlino
+      - Pechino
+      - Firenze
+      - Manila
+      réponse: Pechino
+      anecdote: Pechino non è lontana dal mare, ma il mare si trova a est, mentre i venti dominanti sono più da ovest.
+  - expert:
+    - id: 21
+      question: Qual è il soprannome dato alla città di New Orleans ?
+      propositions:
+      - Magic City
+      - Fog City
+      - Grande facile
+      - River City
+      réponse: Grande facile
+      anecdote: Il luogo di nascita del jazz, la ricca, antica e vibrante vita culturale della città di New Orleans le è valso il soprannome di Big Easy.
+    - id: 22
+      question: Quale città negli Stati Uniti è soprannominata la città d'acciaio ?
+      propositions:
+      - Boston
+      - Tucson
+      - Sacramento
+      - Pittsburgh
+      réponse: Pittsburgh
+      anecdote: Pittsburgh conobbe una forte crescita industriale, diventando grazie ad Andrew Carnegie dal 1875 una città mondiale dell'acciaio.
+    - id: 23
+      question: Qual è il soprannome dato alla città di Seattle nello stato di Washington ?
+      propositions:
+      - Emerald City
+      - Città di rubino
+      - Diamond City
+      - Sapphire City
+      réponse: Emerald City
+      anecdote: A lungo chiamata Queen City, il nome alla fine mantenuto era Emerald City, alludendo ai colori dei paesaggi.
+    - id: 24
+      question: Quale città è soprannominata la città delle mille e una porta colorata ?
+      propositions:
+      - Dubrovnik
+      - Dublino
+      - Cadice
+      - Bilbao
+      réponse: Dublino
+      anecdote: Le porte delle case in centro brillano, forse perché il 48 % della popolazione di Dublino ha meno di 35 anni.
+    - id: 25
+      question: Qual è il soprannome storico dato alla città di Mosca ?
+      propositions:
+      - Nuova Parigi
+      - Antica Atene
+      - Terza Roma
+      - Piccolo Lussemburgo
+      réponse: Terza Roma
+      anecdote: Con il suo matrimonio con Zoe Paleologus, nipote di Costantino XI, Ivan III rivendicò per Mosca il ruolo di Terza Roma.
+    - id: 26
+      question: Qual è il soprannome dato alla città di Singapore dal 1377 ?
+      propositions:
+      - Città dei Re
+      - Città del Leone
+      - Città degli angeli
+      - Città dei sogni
+      réponse: Città del Leone
+      anecdote: Un principe di Palembang avrebbe assassinato il governatore di Tumasik e ribattezzato la città Singapura (città del leone in sanscrito).
+    - id: 27
+      question: Quale città è soprannominata la locomotiva del Brasile ?
+      propositions:
+      - Rio de Janeiro
+      - Sao Paulo
+      - Porto Alegre
+      - Salvador
+      réponse: Sao Paulo
+      anecdote: Con i suoi undici milioni di abitanti nel 2014, San Paolo, fondata nel 1554 dai gesuiti portoghesi, è la città più grande del paese.
+    - id: 28
+      question: Quale città è soprannominata la Perla dell'Adriatico ?
+      propositions:
+      - Zagabria
+      - Dubrovnik
+      - Zara
+      - Split
+      réponse: Dubrovnik
+      anecdote: La città di Dubrovnik, un comune della Croazia, un tempo era la capitale della Repubblica Marinara di Ragusa.
+    - id: 29
+      question: Quale città è soprannominata la capitale segreta della Germania ?
+      propositions:
+      - Monaco di Baviera
+      - Amburgo
+      - Colonia
+      - Berlino
+      réponse: Monaco di Baviera
+      anecdote: Quando salirono al potere, i nazisti fecero di Monaco la capitale del movimento e costruirono diversi edifici tra il 1933 e il 1945.
+    - id: 30
+      question: Quale città è soprannominata la città dei mille mestieri ?
+      propositions:
+      - Tijuana
+      - Lima
+      - L'Aia
+      - Birmingham
+      réponse: Birmingham
+      anecdote: Birmingham è stata una città di punta durante la rivoluzione industriale in Inghilterra, da cui il soprannome di Workshop of the World.
+  nl:
+  - débutant:
+    - id: 1
+      question: Wat is de bijnaam die aan de Amerikaanse stad New York wordt gegeven ?
+      propositions:
+      - Big Apple
+      - Dikke oranje
+      - Lange banaan
+      - Kleine peer
+      réponse: Big Apple
+      anecdote: In 1971 kreeg deze uitdrukking zijn volle betekenis dankzij Charles Gillett die een advertentie lanceerde over het thema van de Big Apple.
+    - id: 2
+      question: Welke Italiaanse stad heeft de stad van de Doges als bijnaam ?
+      propositions:
+      - Turijn
+      - Milaan
+      - Venetië
+      - Napels
+      réponse: Venetië
+      anecdote: De doge was de eerste magistraat van verschillende republieken van Italië, met name van Venetië en Genua.
+    - id: 3
+      question: Wat is de bijnaam die wordt gegeven aan de stad Las Vegas, in Clark County ?
+      propositions:
+      - Emerald City
+      - Stad van de winden
+      - Stad van Sin
+      - Spookstad
+      réponse: Stad van Sin
+      anecdote: Door de legalisering van gokken in 1931 ontstonden in de stad casino's, hotels en de ontwikkeling van prostitutie.
+    - id: 4
+      question: Welke hoofdstad wordt de stad van de zeven heuvels genoemd ?
+      propositions:
+      - Sofia
+      - Rome
+      - Boedapest
+      - Warschau
+      réponse: Rome
+      anecdote: Het historische centrum van Rome wordt gedomineerd door de zeven heuvels : Aventijn, Caelius, Capitolijn, Esquilijn, Palatijn, Quirinaal en Viminal.
+    - id: 5
+      question: Welke Italiaanse stad wordt de hoofdstad van de kunsten genoemd ?
+      propositions:
+      - Pescara
+      - Florence
+      - Syracuse
+      - Rimini
+      réponse: Florence
+      anecdote: De middeleeuwse kunst- en ambachtsbedrijven van Florence vertegenwoordigen de zeven belangrijkste kunsten en hun technieken.
+    - id: 6
+      question: Wat is de bijnaam die wordt gegeven aan de stad Los Angeles, Californië ?
+      propositions:
+      - Big Apple
+      - Stad van Sin
+      - City of Angels
+      - Hoofdstad van de kunsten
+      réponse: City of Angels
+      anecdote: De kathedraal Notre-Dame des Anges is zo hoog als een gebouw van 12 verdiepingen en biedt plaats aan meer dan 3.000 gelovigen.
+    - id: 7
+      question: Welke van deze steden heeft de bijnaam de heilige stad ?
+      propositions:
+      - Beiroet
+      - Abu Dhabi
+      - Teheran
+      - Jeruzalem
+      réponse: Jeruzalem
+      anecdote: Jeruzalem is een stad in het Midden-Oosten die de Israëli's hebben opgericht als hoofdstad en die de Palestijnen willen als hoofdstad.
+    - id: 8
+      question: Welke stad wordt soms erkend als de modehoofdstad van de wereld ?
+      propositions:
+      - Brussel
+      - Rome
+      - Austin
+      - Den Haag
+      réponse: Rome
+      anecdote: Ondanks dat er maar heel weinig warenhuizen zijn, zijn de Spaanse Trappen zowel het hart van het winkelgebied van Rome als het bolwerk van de mode.
+    - id: 9
+      question: Welke Duitse stad wordt de berenstad genoemd ?
+      propositions:
+      - Hamburg
+      - Berlijn
+      - Keulen
+      - München
+      réponse: Berlijn
+      anecdote: Elk jaar in februari biedt de Berlinale, het internationale filmfestival, de hoogste onderscheiding aan: de Gouden Beer.
+    - id: 10
+      question: Wat is de bijnaam die aan de stad Detroit, Michigan wordt gegeven ?
+      propositions:
+      - Stad van de winden
+      - City of Bears
+      - Emerald City
+      - Motor City
+      réponse: Motor City
+      anecdote: Tussen 1900 en 1930 gaf de auto-industrie het de bijnaam Motor City en stond het aan de basis van zijn ontwikkeling.
+  - confirmé:
+    - id: 11
+      question: Welke stad heette ooit het kleine Parijs van de Balkan ?
+      propositions:
+      - Praag
+      - Warschau
+      - Boekarest
+      - Boedapest
+      réponse: Boekarest
+      anecdote: De Franse invloed op een deel van de architectuur van Boekarest was ooit zodanig dat Boekarest het Kleine Parijs werd genoemd.
+    - id: 12
+      question: Wat is de bijnaam die wordt gegeven aan de stad Grenoble, Frankrijk ?
+      propositions:
+      - Hoofdstad van de Alpen
+      - Stad van de winden
+      - Stad van de Leeuw
+      - Stad van staal
+      réponse: Hoofdstad van de Alpen
+      anecdote: Omdat het de grootste Alpenmetropool is, vóór Innsbruck en Bolzano, kreeg Grenoble de bijnaam van hoofdstad van de Alpen.
+    - id: 13
+      question: Welke stad heeft zijn bijnaam als hoofdstad van de auto verdiend ?
+      propositions:
+      - Turijn
+      - Marseille
+      - Pittsburgh
+      - Berlijn
+      réponse: Turijn
+      anecdote: Turijn werd in de eerste helft van de 20e eeuw dankzij de auto-industrie een belangrijk industrieel centrum.
+    - id: 14
+      question: Wat is de bijnaam die aan de beroemde kuststad Miami is gegeven ?
+      propositions:
+      - River City
+      - Magische stad
+      - Fog City
+      - Steel City
+      réponse: Magische stad
+      anecdote: « Magic City » is een Amerikaanse televisieserie in zestien afleveringen van 50 minuten gemaakt door Mitch Glazer en speelt zich af in Miami.
+    - id: 15
+      question: Welke Egyptische stad wordt de stad van de duizend minaretten genoemd ?
+      propositions:
+      - Suez
+      - Luxor
+      - Caïro
+      - Alexandrië
+      réponse: Caïro
+      anecdote: Het historische centrum van de stad Caïro omvat zowel het oude Caïro als de Islamitische wijk, die op de Werelderfgoedlijst staat.
+    - id: 16
+      question: Welke stad staat bekend als het einde van de wereld ?
+      propositions:
+      - Kuala Lumpur
+      - Cuba
+      - Peking
+      - Ushuaia
+      réponse: Ushuaia
+      anecdote: Het Bout du Monde-museum, ingehuldigd in 1979, legt de nadruk op het etnografisch en historisch erfgoed.
+    - id: 17
+      question: Wat is de bijnaam die aan de stad Chicago, Illinois wordt gegeven ?
+      propositions:
+      - Motor City
+      - City of Angels
+      - Stad van dromen
+      - Stad van de winden
+      réponse: Stad van de winden
+      anecdote: De bijnaam komt gedeeltelijk van de wind die uit Lake Michigan waait en door de straten van de metropool raast.
+    - id: 18
+      question: Welke stad in de Verenigde Staten wordt vaak Big D genoemd ?
+      propositions:
+      - Dayton
+      - Dallas
+      - Detroit
+      - Denver
+      réponse: Dallas
+      anecdote: Big D is een groot industrieel centrum dat gespecialiseerd is in telecommunicatie, informatie, bankwezen en transport.
+    - id: 19
+      question: Welke stad heeft de bijnaam Stad van Vrede en Recht ?
+      propositions:
+      - Amsterdam
+      - Rotterdam
+      - Eindhoven
+      - Den Haag
+      réponse: Den Haag
+      anecdote: Den Haag is ook de stad waar het Internationaal Gerechtshof, het Internationaal Strafhof, Europol en Eurojust zetelen.
+    - id: 20
+      question: Welke stad heeft de bijnaam de stad van de eeuwige lente ?
+      propositions:
+      - Florence
+      - Berlijn
+      - Peking
+      - Manilla
+      réponse: Peking
+      anecdote: Peking ligt niet ver van de zee, maar de zee ligt in het oosten, terwijl de overheersende winden meer uit het westen komen.
+  - expert:
+    - id: 21
+      question: Wat is de bijnaam die aan de stad New Orleans wordt gegeven ?
+      propositions:
+      - Fog City
+      - Big Easy
+      - Magische stad
+      - River City
+      réponse: Big Easy
+      anecdote: De geboorteplaats van jazz, het rijke, oude en levendige culturele leven van de stad New Orleans heeft het de bijnaam Big Easy opgeleverd.
+    - id: 22
+      question: Welke stad in de Verenigde Staten heeft de bijnaam de City of Steel ?
+      propositions:
+      - Sacramento
+      - Tucson
+      - Boston
+      - Pittsburgh
+      réponse: Pittsburgh
+      anecdote: Pittsburgh kende een sterke industriële groei en werd dankzij Andrew Carnegie vanaf 1875 een wereldstad van staal.
+    - id: 23
+      question: Wat is de bijnaam die aan de stad Seattle in de staat Washington wordt gegeven ?
+      propositions:
+      - Diamond City
+      - Ruby stad
+      - Emerald City
+      - Sapphire City
+      réponse: Emerald City
+      anecdote: Lange tijd Queen City genoemd, de naam die uiteindelijk werd behouden was Emerald City, verwijzend naar de kleuren van de landschappen.
+    - id: 24
+      question: Welke stad wordt de stad met duizend-en-een kleurrijke deuren genoemd ?
+      propositions:
+      - Dublin
+      - Dubrovnik
+      - Cadiz
+      - Bilbao
+      réponse: Dublin
+      anecdote: De deuren van de huizen in het centrum gloeien, misschien omdat 48 % van de bevolking van Dublin jonger is dan 35 jaar.
+    - id: 25
+      question: Wat is de historische bijnaam die aan de stad Moskou is gegeven ?
+      propositions:
+      - Het oude Athene
+      - Nieuw Parijs
+      - Derde Rome
+      - Klein Luxemburg
+      réponse: Derde Rome
+      anecdote: Door zijn huwelijk met Zoe Paleologus, nicht van Constantijn XI, claimde Ivan III voor Moskou de rol van Derde Rome.
+    - id: 26
+      question: Wat is de bijnaam die sinds 1377 aan de stad Singapore is gegeven ?
+      propositions:
+      - Stad van de Leeuw
+      - Stad der koningen
+      - City of Angels
+      - Stad van dromen
+      réponse: Stad van de Leeuw
+      anecdote: Een prins van Palembang zou de gouverneur van Tumasik hebben vermoord en de stad Singapura (stad van de leeuw in het Sanskriet) hebben hernoemd.
+    - id: 27
+      question: Welke stad wordt de locomotief van Brazilië genoemd ?
+      propositions:
+      - Porto Alegre
+      - São Paulo
+      - Salvador
+      - Rio de Janeiro
+      réponse: São Paulo
+      anecdote: Met elf miljoen inwoners in 2014 is Sao Paulo, in 1554 gesticht door Portugese jezuïeten, de grootste stad van het land.
+    - id: 28
+      question: Welke stad wordt de parel van de Adriatische Zee genoemd ?
+      propositions:
+      - Splitsen
+      - Zadar
+      - Dubrovnik
+      - Zagreb
+      réponse: Dubrovnik
+      anecdote: De stad Dubrovnik, een gemeente in Kroatië, was ooit de hoofdstad van de Maritieme Republiek Ragusa.
+    - id: 29
+      question: Welke stad wordt de geheime hoofdstad van Duitsland genoemd ?
+      propositions:
+      - Hamburg
+      - Berlijn
+      - München
+      - Keulen
+      réponse: München
+      anecdote: Toen ze aan de macht kwamen, maakten de nazi's München de hoofdstad van de beweging en bouwden ze tussen 1933 en 1945 verschillende gebouwen.
+    - id: 30
+      question: Welke stad wordt de stad van duizend ambachten genoemd ?
+      propositions:
+      - Birmingham
+      - Lima
+      - Den Haag
+      - Tijuana
+      réponse: Birmingham
+      anecdote: Birmingham was een vlaggenschipstad tijdens de industriële revolutie in Engeland, vandaar de bijnaam de Workshop of the World.

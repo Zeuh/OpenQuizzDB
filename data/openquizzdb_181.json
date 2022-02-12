@@ -1,0 +1,376 @@
+{                                     
+  "fournisseur": "OpenQuizzDB - Fournisseur de contenu libre (https://www.openquizzdb.org)",
+  "rédacteur": "Philippe Bresoux",
+  "thème": "Garçon un café (Tel le café, l'humour est meilleur très noir)",         
+  "difficulté": "3 / 5",
+  "quizz": {
+    "fr": {
+      "débutant": [
+      {
+        "id": 1,
+        "question": "Dans quel expresso ajoute-t-on un tiers de lait et un tiers de mousse de lait ?",
+        "propositions": [
+          "Moka",
+          "Café viennois",
+          "Cappuccino",
+          "Irish coffee"
+        ],
+        "réponse": "Cappuccino",
+        "anecdote": "Alors que le cappuccino se boit avec du lait, quand on ajoute de la chantilly au café, il s'agit alors d'un café viennois."
+      },
+      {
+        "id": 2,
+        "question": "Dans quelle boisson caféinée froide ajoute-t-on de la crème glacée ?",
+        "propositions": [
+          "Café liégeois",
+          "Café bruxellois",
+          "Café tournaisien",
+          "Café montois"
+        ],
+        "réponse": "Café liégeois",
+        "anecdote": "Le café liégeois n'est pas une spécialité de la ville belge de Liège mais bien un hommage à la résistance liégeoise de 1914."
+      },
+      {
+        "id": 3,
+        "question": "Quelle boisson alcoolisée est préparée avec du whisky et du café ?",
+        "propositions": [
+          "French coffee",
+          "Irish coffee",
+          "Café normand",
+          "Café viennois"
+        ],
+        "réponse": "Irish coffee",
+        "anecdote": "La difficulté d'un irish coffee bien réussi est d'arriver à ce que la crème légèrement battue flotte sur le liquide encore chaud."
+      },
+      {
+        "id": 4,
+        "question": "Quel café est agrémenté de chocolat en poudre ou en copeaux ?",
+        "propositions": [
+          "Café viennois",
+          "Café creusois",
+          "Café lorrain",
+          "Café normand"
+        ],
+        "réponse": "Café viennois",
+        "anecdote": "Moins en vogue que le Latté ou le Cappuccino, le café viennois demeure un classique dans les cafés de Budapest et de Vienne."
+      },
+      {
+        "id": 5,
+        "question": "Quel café expresso est préparé avec du lait chauffé à la vapeur ?",
+        "propositions": [
+          "Latte",
+          "Vaporetto",
+          "Barista",
+          "Moka"
+        ],
+        "réponse": "Latte",
+        "anecdote": "Un latte art est quant à lui un café latte proposant des motifs variés tracés à sa surface avec du lait et une tige fine."
+      },
+      {
+        "id": 6,
+        "question": "Quel entremets de génoise, fourré de crème au beurre, est parfumé au café ?",
+        "propositions": [
+          "Moka",
+          "Bavarois",
+          "Religieuse",
+          "Diplomate"
+        ],
+        "réponse": "Moka",
+        "anecdote": "La génoise, inventée vers le début du XVIIIe siècle, est un biscuit à pâte battue qui entre dans la composition de nombreux entremets."
+      },
+      {
+        "id": 7,
+        "question": "Avec quoi les cafetières de la marque Senseo fonctionnent-elles ?",
+        "propositions": [
+          "Capsules",
+          "Café filtre",
+          "Café soluble",
+          "Dosettes"
+        ],
+        "réponse": "Dosettes",
+        "anecdote": "La marque de cafetière Senseo est portée en Europe par les entreprises néerlandaises Philips et Jacobs Douwe Egberts."
+      },
+      {
+        "id": 8,
+        "question": "Quelle boisson alcoolisée est préparée avec du café et du calvados ?",
+        "propositions": [
+          "Café mosan",
+          "Café viennois",
+          "Café normand",
+          "Café charentais"
+        ],
+        "réponse": "Café normand",
+        "anecdote": "Un bon calvados se sert tel quel chambré (jamais sur glace), en dégustation apéritive, en digestif ou bien en trou normand."
+      },
+      {
+        "id": 9,
+        "question": "Quel café instantané se boit frais avec une paille et des glaçons ?",
+        "propositions": [
+          "Café giflé",
+          "Café frappé",
+          "Café cogné",
+          "Café cassé"
+        ],
+        "réponse": "Café frappé",
+        "anecdote": "Le produit, lancé par la marque Nestlé et surtout consommé durant l'été, a rencontré un franc succès dans toute la Grèce."
+      },
+      {
+        "id": 10,
+        "question": "Quelle marque vous invite à savourer « un café nommé désir » ?",
+        "propositions": [
+          "Ricoré",
+          "Jacques Vabre",
+          "Carte Noire",
+          "Nespresso"
+        ],
+        "réponse": "Carte Noire",
+        "anecdote": "Ancienne marque du groupe américain Mondelez, Carte Noire appartient désormais au groupe italien Lavazza depuis février 2016."
+      }
+    ],
+    "confirmé": [
+      {
+        "id": 11,
+        "question": "Comment appelle-t-on un expresso dans lequel on ajoute un peu de mousse de lait ?",
+        "propositions": [
+          "Pistache",
+          "Amande",
+          "Châtaigne",
+          "Noisette"
+        ],
+        "réponse": "Noisette",
+        "anecdote": "La crema idéale, de couleur noisette, doit être dense, uniforme et lisse et ne pas présenter des bulles à sa surface."
+      },
+      {
+        "id": 12,
+        "question": "Dans quel expresso rajoute-t-on sept fois son volume d'eau chaude ?",
+        "propositions": [
+          "Americano",
+          "Italiano",
+          "Perfecto",
+          "Ristretto"
+        ],
+        "réponse": "Americano",
+        "anecdote": "L'americano est très proche du Long black, mais avec l'expresso avant l'eau, ce qui a pour effet de dissoudre le créma."
+      },
+      {
+        "id": 13,
+        "question": "Quelle boisson alcoolisée est préparée avec du cognac et du café ?",
+        "propositions": [
+          "Greek coffee",
+          "German coffee",
+          "Italian coffee",
+          "French coffee"
+        ],
+        "réponse": "French coffee",
+        "anecdote": "Le terroir viticole de Cognac, située à l'ouest du département de la Charente, connaît un climat océanique aquitain."
+      },
+      {
+        "id": 14,
+        "question": "En Suisse romande, que demande-t-on pour boire un café au lait ?",
+        "propositions": [
+          "Un poirier",
+          "Un renversé",
+          "Une roulade",
+          "Un salto"
+        ],
+        "réponse": "Un renversé",
+        "anecdote": "Le renversé est un café au lait où les proportions lait-café sont inversées (renversées), soit 60% de lait pour 40% de café."
+      },
+      {
+        "id": 15,
+        "question": "Quel café en décoction se boit principalement au Proche-Orient ?",
+        "propositions": [
+          "Café turc",
+          "Celtia",
+          "Stella",
+          "Boga"
+        ],
+        "réponse": "Café turc",
+        "anecdote": "Cette dénomination ne fait pas référence à une paternité historique avérée mais bien à la diffusion par le biais du monde ottoman."
+      },
+      {
+        "id": 16,
+        "question": "Quel café est préparé en allongeant deux doses d'expresso avec de l'eau chaude ?",
+        "propositions": [
+          "Long Red",
+          "Long black",
+          "Long Blue",
+          "Long Green"
+        ],
+        "réponse": "Long black",
+        "anecdote": "Un long black est similaire à un Americano si ce n'est que le long black garde la crème de l'expresso et présente une saveur plus forte."
+      },
+      {
+        "id": 17,
+        "question": "À quel peintre doit-on le tableau « La Femme à la cafetière » ?",
+        "propositions": [
+          "Gauguin",
+          "Van Gogh",
+          "Cézanne",
+          "Renoir"
+        ],
+        "réponse": "Cézanne",
+        "anecdote": "Cézanne cherchait ici à expérimenter les lois de sa peinture, ne visant pas à une reproduction exacte du modèle."
+      },
+      {
+        "id": 18,
+        "question": "Laquelle de ces variétés de café est généralement la plus corsée ?",
+        "propositions": [
+          "Arabica",
+          "Robusta",
+          "Manille",
+          "Décaféiné"
+        ],
+        "réponse": "Robusta",
+        "anecdote": "Originaire d'Afrique, le robusta nécessite moins d'entretien que le Coffea arabica et est donc moins cher à produire."
+      },
+      {
+        "id": 19,
+        "question": "Depuis 1972, quelle marque de café utilise dans ses publicités un expert nommé Gringo ?",
+        "propositions": [
+          "Café Grand'Mère",
+          "Senseo",
+          "Jacques Vabre",
+          "Necafé"
+        ],
+        "réponse": "Jacques Vabre",
+        "anecdote": "Le café Jacques Vabre doit son nom à un ex-enseignant entré en 1946 dans le commerce de son beau-père."
+      },
+      {
+        "id": 20,
+        "question": "Quelle boisson alcoolisée est préparée avec du café et de l'amaretto ?",
+        "propositions": [
+          "Greek coffee",
+          "French coffee",
+          "German coffee",
+          "Italian coffee"
+        ],
+        "réponse": "Italian coffee",
+        "anecdote": "L'amaretto est une boisson alcoolisée douce, avec un léger parfum d'amandes amères (d'où son nom), originaire d'Italie."
+      }
+    ],
+    "expert": [
+      {
+        "id": 21,
+        "question": "Les gens du nord de la France préparent un café à base de café et de...",
+        "propositions": [
+          "Genièvre",
+          "Chicorée",
+          "Welsh",
+          "Vergeoise"
+        ],
+        "réponse": "Chicorée",
+        "anecdote": "En France, la production de chicorée à café est concentrée dans le Nord-Pas-de-Calais (société Leroux installée à Orchies)."
+      },
+      {
+        "id": 22,
+        "question": "Dans quel café fait-on fondre un volume égal de Nutella ?",
+        "propositions": [
+          "Café Julienne",
+          "Café Mireille",
+          "Café Hélène",
+          "Café Henriette"
+        ],
+        "réponse": "Café Hélène",
+        "anecdote": "Nutella est une marque de pâte à tartiner parfumée à la noisette et au cacao, déposée par la société italienne Ferrero."
+      },
+      {
+        "id": 23,
+        "question": "Quelle boisson alcoolisée est préparée avec du genièvre et du café ?",
+        "propositions": [
+          "Ieper koffie",
+          "Leuven koffie",
+          "Gent koffie",
+          "Hasselt koffie"
+        ],
+        "réponse": "Hasselt koffie",
+        "anecdote": "Le genièvre est l'une des spécialités du nord de la France et de la Belgique (notamment de Hasselt et de Liège)."
+      },
+      {
+        "id": 24,
+        "question": "Quel breuvage est aussi appelé café-goutte ou café-liqueur ?",
+        "propositions": [
+          "Sangria",
+          "Castagnou",
+          "Communard",
+          "Champoreau"
+        ],
+        "réponse": "Champoreau",
+        "anecdote": "Il peut s'agir aussi en pratique soit d'un mélange de café et de liqueurs, ou encore de vin ou d'un autre alcool."
+      },
+      {
+        "id": 25,
+        "question": "Quel café est généralement flambé au cognac directement dans la soucoupe ?",
+        "propositions": [
+          "Moretta",
+          "Brûlot charentais",
+          "Expresso cubain",
+          "Café frappé"
+        ],
+        "réponse": "Brûlot charentais",
+        "anecdote": "En Charentes, ce sont les viticulteurs qui ont découvert que cette méthode permettait d'éviter le gaspillage du café froid."
+      },
+      {
+        "id": 26,
+        "question": "Quelle boisson légèrement sucrée est considérée comme l'origine du café glacé ?",
+        "propositions": [
+          "Affogato",
+          "Carajillo",
+          "Bicerin",
+          "Mazagran"
+        ],
+        "réponse": "Mazagran",
+        "anecdote": "Une version rapide du café mazagran se prépare en versant un expresso sucré sur des glaçons et une tranche de citron."
+      },
+      {
+        "id": 27,
+        "question": "Quel café est consommé avec un alcool servi à part dans un verre à liqueur ?",
+        "propositions": [
+          "Corretto",
+          "Grappa",
+          "Ginger",
+          "Amaretto"
+        ],
+        "réponse": "Corretto",
+        "anecdote": "Cette boisson italienne est préparée avec un expresso et de la grappa, de la sambuca, de l'amer ou du brandy."
+      },
+      {
+        "id": 28,
+        "question": "Dans quel café l'expresso est-il mélangé à du café filtre ?",
+        "propositions": [
+          "Red eye",
+          "Blue finger",
+          "Black skin",
+          "Green nose"
+        ],
+        "réponse": "Red eye",
+        "anecdote": "Ce breuvage est aussi appelé red eye, black eye ou dead eye en ajoutant respectivement une, deux ou trois doses d'expresso."
+      },
+      {
+        "id": 29,
+        "question": "Quelle marque de café avait pour emblème un serveur noir avec un turban ?",
+        "propositions": [
+          "Négresco",
+          "Melita",
+          "Ricoré",
+          "Barista"
+        ],
+        "réponse": "Négresco",
+        "anecdote": "Dans les années 1970, Edmond Jean a été contraint de vendre cette ancienne marque de café de Marseille à Jacques Vabre."
+      },
+      {
+        "id": 30,
+        "question": "Quel pays est le second plus gros producteur de café au monde, après le Brésil ?",
+        "propositions": [
+          "Viêt Nam",
+          "Chine",
+          "Kenya",
+          "Colombie"
+        ],
+        "réponse": "Viêt Nam",
+        "anecdote": "La production de café fait vivre environ vingt cinq millions de personnes, essentiellement des petits producteurs."
+      }
+    ]
+    }
+  }
+}

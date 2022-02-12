@@ -1,0 +1,280 @@
+---
+fournisseur: OpenQuizzDB - Fournisseur de contenu libre (https://www.openquizzdb.org)
+rédacteur: Philippe Bresoux
+thème: Ponts en longueur (Voûtés, à poutres, en arc ou suspendus)
+difficulté: 4 / 5
+quizz:
+  fr:
+  - débutant:
+    - id: 1
+      question: Dans quelle ville peut-on admirer le très touristique pont des Soupirs ?
+      propositions:
+      - Prague
+      - Londres
+      - Avignon
+      - Venise
+      réponse: Venise
+      anecdote: Le pont des Soupirs, suggérant le soupir des prisonniers, est l'un des lieux touristiques les plus célèbres de la ville de Venise.
+    - id: 2
+      question: Dans quelle ville américaine se dresse le Golden Gate Bridge ?
+      propositions:
+      - San Diego
+      - New York
+      - San Francisco
+      - Los Angeles
+      réponse: San Francisco
+      anecdote: Le « Golden Gate Bridge » a été jusqu'en 1964 le pont suspendu le plus long du monde.
+    - id: 3
+      question: Quelle rivière aux crues redoutables est enjambée par le pont du Gard ?
+      propositions:
+      - Le Rhône
+      - La Bièvre
+      - Le Gardon
+      - La Garonne
+      réponse: Le Gardon
+      anecdote: Le pont du Gard est un pont-aqueduc romain à trois niveaux, situé à Vers-Pont-du-Gard entre Uzès et Nîmes, qui enjambe le Gardon.
+    - id: 4
+      question: Quel grand pont français est proche du pont de Normandie ?
+      propositions:
+      - Pont de Rangiport
+      - Pont de Gaillon
+      - Pont Mathilde
+      - Pont de Tancarville
+      réponse: Pont de Tancarville
+      anecdote: Le pont de Tancarville a été un temps le pont le plus proche de l'estuaire.
+    - id: 5
+      question: Quel pont basculant construit sur la Tamise se situe près de la tour de Londres ?
+      propositions:
+      - Waterloo Bridge
+      - Tower Bridge
+      - Chelsea Bridge
+      - Westminster Bridge
+      réponse: Tower Bridge
+      anecdote: Au moment de sa construction, il était le plus grand pont basculant jamais construit.
+    - id: 6
+      question: Quel pont routier à haubans enjambe l'estuaire de la Seine près de Honfleur ?
+      propositions:
+      - Tancarville
+      - Normandie
+      - Rouen
+      - Brotonne
+      réponse: Normandie
+      anecdote: En 1994, la portée principale de l'ouvrage bat de plus de 250 m le précédent record du monde (1993).
+    - id: 7
+      question: Quel est, malgré son nom, le plus ancien pont de Paris ?
+      propositions:
+      - Pont du Roi
+      - Pont du Diable
+      - Pont Marie
+      - Pont Neuf
+      réponse: Pont Neuf
+      anecdote: Toujours intact, le pont Neuf est classé monument historique depuis 1889.
+    - id: 8
+      question: Selon Guillaume Apollinaire, sous quel pont coule la Seine ?
+      propositions:
+      - Royal
+      - Neuf
+      - Marie
+      - Mirabeau
+      réponse: Mirabeau
+      anecdote: « Le pont Mirabeau » est un poème d'Apollinaire paru dans le recueil « Alcools ».
+    - id: 9
+      question: Depuis 1959, quel pont suspendu de 1 410 mètres peut-on emprunter vers Le Havre ?
+      propositions:
+      - Tancarville
+      - Neuilly
+      - Poissy
+      - Brotonne
+      réponse: Tancarville
+      anecdote: Jusqu'à l'ouverture du pont de Normandie, il a été le pont le plus proche de l'estuaire.
+    - id: 10
+      question: Quel pont à haubans traverse la vallée du Tarn en France ?
+      propositions:
+      - Viaduc de Jaulny
+      - Viaduc de Garabit
+      - Viaduc de Millau
+      - Viaduc de Caroual
+      réponse: Viaduc de Millau
+      anecdote: Portant l'autoroute A75, le e viaduc de Millau fait la jonction entre le Causse Rouge et le Causse du Larzac.
+  - confirmé:
+    - id: 11
+      question: Quel roi a inauguré le Pont Neuf, le plus ancien pont existant de Paris ?
+      propositions:
+      - Charles X
+      - Louis XIV
+      - Henri IV
+      - Jean II
+      réponse: Henri IV
+      anecdote: Le Pont Neuf fait l'objet d'un classement au titre des monuments historiques depuis 1889.
+    - id: 12
+      question: Quel pont à la structure en béton de 2 142 mètres de long relie Le Havre à Honfleur ?
+      propositions:
+      - Pont du Morbihan
+      - Viaduc de Millau
+      - Viaduc de Gien
+      - Pont de Normandie
+      réponse: Pont de Normandie
+      anecdote: Conçu pour laisser le passage aux navires qui remontent la Seine, ce pont est à péage, sauf pour les piétons, cyclistes, motocyclistes.
+    - id: 13
+      question: Dans quelle grande ville se trouve le pont de Queensboro ?
+      propositions:
+      - Miami
+      - Melbourne
+      - Londres
+      - New York
+      réponse: New York
+      anecdote: À sa construction, le pont de Queensboro était le plus long pont cantilever des États-Unis.
+    - id: 14
+      question: Quel pont de Montréal, enjambant le fleuve Saint-Laurent, a été inauguré en mai 1930 ?
+      propositions:
+      - Mercier
+      - Victoria
+      - Champlain
+      - Jacques-Cartier
+      réponse: Jacques-Cartier
+      anecdote: Environ 35 millions de véhicules empruntent chaque année le pont Jacques-Cartier ouvert à la circulation le 14 mai 1930.
+    - id: 15
+      question: Quelle est la hauteur du pont du Gard, cessé d'être utilisé au début du VIe siècle ?
+      propositions:
+      - Environ 39 mètres
+      - Environ 69 mètres
+      - Environ 59 mètres
+      - Environ 49 mètres
+      réponse: Environ 49 mètres
+      anecdote: Le pont du Gard est un pont-aqueduc à trois niveaux qui assurait la continuité de l'aqueduc romain qui conduisait l'eau d'Uzès à Nîmes.
+    - id: 16
+      question: Le pont de Westminster est un pont de fer constitué de combien d'arches ?
+      propositions:
+      - Huit
+      - Six
+      - Neuf
+      - Sept
+      réponse: Sept
+      anecdote: Le pont actuel est le second sur cet emplacement et a remplacé un pont qui avait tendance à se balancer de façon alarmante.
+    - id: 17
+      question: À quel pays la République de Singapour est-elle reliée par des ponts ?
+      propositions:
+      - Malaisie
+      - Thaïlande
+      - Chine
+      - Indonésie
+      réponse: Malaisie
+      anecdote: Singapour est connue dans le monde entier et souvent montrée en exemple pour son extraordinaire réussite économique.
+    - id: 18
+      question: À Venise, quel célèbre pont relie le palais des Doges aux prisons ?
+      propositions:
+      - Le pont du Rialto
+      - Le pont de la Liberté
+      - Le pont des Lagunes
+      - Le pont des Soupirs
+      réponse: Le pont des Soupirs
+      anecdote: Le nom du pont suggère le soupir exprimé par les prisonniers conduits devant les juges.
+    - id: 19
+      question: Dans quelle ville le pont Vasco da Gama a-t-il été construit ?
+      propositions:
+      - Barcelone
+      - Turin
+      - Lisbonne
+      - Madrid
+      réponse: Lisbonne
+      anecdote: La longueur hors-tout de plus de 17 km du pont Vasco da Gama en fait le plus grand d'Europe.
+    - id: 20
+      question: Combien compte-t-on de ponts à Amsterdam, capitale du royaume des Pays-Bas ?
+      propositions:
+      - Environ 800
+      - Environ 600
+      - Environ 400
+      - Environ 200
+      réponse: Environ 400
+      anecdote: Amsterdam est la plus grande ville de la province de Hollande septentrionale et l'un des principaux centres financiers d'Europe.
+  - expert:
+    - id: 21
+      question: Quelle ville italienne abrite le pont du Rialto, l'un des monuments les plus visités de la cité ?
+      propositions:
+      - Florence
+      - Turin
+      - Naples
+      - Venise
+      réponse: Venise
+      anecdote: Le pont du Rialto est le plus ancien et certainement le plus célèbre des quatre ponts qui traversent le Grand Canal de Venise.
+    - id: 22
+      question: Quel est le plus haut pont suspendu du monde, d'une longueur totale de 3 911 mètres ?
+      propositions:
+      - Grand Belt
+      - Rialto
+      - Akashi-Kaikyo
+      - Golden Gate
+      réponse: Akashi-Kaikyo
+      anecdote: Ce pont est le dernier élément d'un réseau qui relie les quatre îles principales du Japon : Honshu, Hokkaido, Kyushu et Shikoku.
+    - id: 23
+      question: Quel fleuve est traversé par le Pont des « Filles de Jacob », construit sur un site stratégique ?
+      propositions:
+      - Le Jourdain
+      - Le Tibre
+      - Le Nil
+      - Le Gange
+      réponse: Le Jourdain
+      anecdote: Le site du pont des Filles de Jacob était le dernier gué au sud de la vallée de la Houla avant le passage du Jourdain.
+    - id: 24
+      question: Quel célèbre pont en arc métallique est situé dans la baie de Sydney ?
+      propositions:
+      - Le Pulteney Bridge
+      - Le Harbour Bridge
+      - Le Mackinac Bridge
+      - Le Britannia Bridge
+      réponse: Le Harbour Bridge
+      anecdote: Le Harbour Bridge est le principal point de traversée de la baie de Sydney.
+    - id: 25
+      question: Dans quelle ville se trouve le plus long pont-canal de France ?
+      propositions:
+      - Agen
+      - Arles
+      - Albi
+      - Avignon
+      réponse: Agen
+      anecdote: Un pont-canal permet le passage de la navigation au-dessus d'une rivière, d'une route, d'une voie ferrée.
+    - id: 26
+      question: Quel pont du réseau routier permet de relier la ville de Venise à la terre ferme ?
+      propositions:
+      - Pont des Lagunes
+      - Pont de la Liberté
+      - Pont du Rialto
+      - Pont des Soupirs
+      réponse: Pont de la Liberté
+      anecdote: Le pont fut rebaptisé ainsi en l'honneur de la libération contre les nazis et les fascistes.
+    - id: 27
+      question: Dans quel pays le pont de Tatara, long de 1 480 m, a-t-il été construit ?
+      propositions:
+      - La Grèce
+      - Le Brésil
+      - Le Japon
+      - La Roumanie
+      réponse: Le Japon
+      anecdote: Le pont a détenu le record de portée pour les ponts à haubans de 1999 à 2008.
+    - id: 28
+      question: Quelle est la longueur du pont maritime de Donghai, en Chine ?
+      propositions:
+      - 12 200 m
+      - 32 500 m
+      - 21 400 m
+      - 41 800 m
+      réponse: 32 500 m
+      anecdote: Le pont de Donghai ou Grand pont de la mer orientale était en 2005 le plus long pont maritime du monde.
+    - id: 29
+      question: Dans quelle ville se trouve le pont Bac de Roda, premier pont conçu par Santiago Calatrava ?
+      propositions:
+      - Milan
+      - Bilbao
+      - Barcelone
+      - Lisbonne
+      réponse: Barcelone
+      anecdote: Ce pont assure la liaison entre les districts de Sant Andreu et Sant Marti à Barcelone, dans la communauté autonome de Catalogne.
+    - id: 30
+      question: Dans quelle ville peut-on contempler le pont Charles, incontournable pour les touristes ?
+      propositions:
+      - Prague
+      - Bombay
+      - Berlin
+      - Agra
+      réponse: Prague
+      anecdote: Envahi de musiciens, d'artistes divers, de bonimenteurs et de camelots, son nom fait référence au roi Charles IV.

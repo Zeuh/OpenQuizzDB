@@ -1,0 +1,1650 @@
+---
+fournisseur: OpenQuizzDB - Fournisseur de contenu libre (https://www.openquizzdb.org)
+rédacteur: Philippe Bresoux
+thème: Bières belges (Patrimoine exporté dans le monde entier)
+difficulté: 4 / 5
+quizz:
+  fr:
+  - débutant:
+    - id: 1
+      question: Quelle bière belge est fabriquée en ajoutant des cerises acides au lambic ?
+      propositions:
+      - Duvel
+      - Chimay
+      - Kriek
+      - Leffe
+      réponse: Kriek
+      anecdote: Jadis, certaines brasseries produisaient des krieks réalisées à partir d'un mélange de lagers (ou pils) et de cerises.
+    - id: 2
+      question: Laquelle de ces propositions ne désigne pas une couleur de bière belge ?
+      propositions:
+      - Blonde
+      - Ambrée
+      - Rouge
+      - Noire
+      réponse: Rouge
+      anecdote: La bière est une boisson obtenue par fermentation de céréales, généralement de grains d'orge.
+    - id: 3
+      question: Quelle bière belge, produit phare de la brasserie Dubuisson, titre 12 % ?
+      propositions:
+      - Mort Subite
+      - Tongerlo
+      - Bush
+      - Stella
+      réponse: Bush
+      anecdote: Également appelée Bush 12, on peut lire sur son étiquette qu'elle est la plus forte bière de Belgique.
+    - id: 4
+      question: Quel label figure sur une bouteille de Leffe, développée en de nombreuses variétés ?
+      propositions:
+      - Bière d'Abbaye
+      - Swiss Made
+      - Bière Bio
+      - Trappiste
+      réponse: Bière d'Abbaye
+      anecdote: Du nom d'un quartier de Dinant dans la vallée de la Meuse, la bière de Leffe fait partie de la variété des bières d'abbaye.
+    - id: 5
+      question: Quelle bière belge se boit dans un verre soutenu par un socle en bois ?
+      propositions:
+      - Duvel
+      - Kwak
+      - Bacchus
+      - Lupulus
+      réponse: Kwak
+      anecdote: La légende veut que le nom de la Kwak provienne du bruit que l'on entend quand on boit son verre cul-sec.
+    - id: 6
+      question: Quel système de bouchon est utilisé sur les bouteilles de Quintine ?
+      propositions:
+      - Mécanique
+      - À visser
+      - À capsule
+      - De liège
+      réponse: Mécanique
+      anecdote: La Brasserie Ellezelloise produit plusieurs bières artisanales parmi lesquelles la Quintine.
+    - id: 7
+      question: Quelle bière belge conserve son statut de référence au pays des blanches ?
+      propositions:
+      - Floreffe
+      - Corsendonk
+      - Bacchus
+      - Hoegaarden
+      réponse: Hoegaarden
+      anecdote: Selon une certaine croyance populaire, la bière Hoegaarden est souvent citée comme étant la première bière blanche.
+    - id: 8
+      question: Quel intrus se cache parmi ces bières de Chimay, ni filtrées ni pasteurisées ?
+      propositions:
+      - Rouge
+      - Blanche
+      - Rosée
+      - Bleue
+      réponse: Rosée
+      anecdote: La Chimay est une bière trappiste belge, produite à l'abbaye Notre-Dame de Scourmont.
+    - id: 9
+      question: Laquelle de ces bières belges se présente dans une bouteille de forme ovale ?
+      propositions:
+      - Leffe
+      - Bush
+      - Kriek
+      - Orval
+      réponse: Orval
+      anecdote: L'Orval se caractérise par une amertume assez forte et gagne à mûrir en cave pendant quelques mois.
+    - id: 10
+      question: Laquelle de ces bières belges, moins connue du grand public, est aromatisée au miel ?
+      propositions:
+      - Barbar
+      - Caracole
+      - Ename
+      - Affligem
+      réponse: Barbar
+      anecdote: La Barbar est considérée par de nombreux amateurs de bières comme le repos du guerrier.
+  - confirmé:
+    - id: 11
+      question: La Gauloise est une bière belge dont la bouteille propose quelle contenance ?
+      propositions:
+      - 33 cl
+      - 25 cl
+      - 75 cl
+      - 50 cl
+      réponse: 33 cl
+      anecdote: La brasserie du Bocq est une brasserie belge située à Purnode, dans la commune d'Yvoir en Belgique.
+    - id: 12
+      question: Quel intrus se cache parmi ces bières de Rochefort, brassées en abbaye depuis 1595 ?
+      propositions:
+      - Rochefort 12
+      - Rochefort 6
+      - Rochefort 8
+      - Rochefort 10
+      réponse: Rochefort 12
+      anecdote: À Rochefort, la quantité de bière fabriquée est volontairement limitée à 300 hectolitres par semaine.
+    - id: 13
+      question: Quel roi de Sardaigne possède, en Belgique, une bière blonde dorée ?
+      propositions:
+      - Charles VI
+      - Charles Quint
+      - Ferdinand Ier
+      - Philippe II
+      réponse: Charles Quint
+      anecdote: La brasserie Haacht, qui produit la Charles Quint, est une brasserie belge  située dans la province du Brabant flamand.
+    - id: 14
+      question: Laquelle de ces villes de Belgique possède une cuvée de bière blonde ?
+      propositions:
+      - Verviers
+      - Couvin
+      - Ciney
+      - Waremme
+      réponse: Ciney
+      anecdote: Il existe trois sortes de bières de Ciney : Ciney Blonde, Ciney Brune et Ciney Spéciale.
+    - id: 15
+      question: La Delirium Tremens présente sur sa bouteille une étiquette de quelle couleur ?
+      propositions:
+      - Verte
+      - Bleue
+      - Jaune
+      - Rouge
+      réponse: Bleue
+      anecdote: En 1992, la Confrérie de l'Éléphant Rose a été créée pour promouvoir la Delirium Tremens et autres bières de Melle.
+    - id: 16
+      question: Laquelle de ces bières belges existe en version classique ainsi qu'en version biologique ?
+      propositions:
+      - Barbar
+      - Chimay
+      - Moinette
+      - Duvel
+      réponse: Moinette
+      anecdote: La Moinette est une bière à la mousse abondante, à l'arôme malté et houblonné ainsi qu'au goût légèrement amer.
+    - id: 17
+      question: Quelle bière belge, produite dans la province du Hainaut, contient de la vitamine C ?
+      propositions:
+      - Chimay
+      - St Feuillien
+      - Orval
+      - Rochefort 10
+      réponse: St Feuillien
+      anecdote: La gamme St Feuillien se décline en quatre versions reprises parmi les bières belges d'abbaye reconnues.
+    - id: 18
+      question: Quelle bière annoncée comme blanche a pourtant une couleur presque ambrée ?
+      propositions:
+      - Westmalle
+      - St. Bernardus
+      - Grimbergen
+      - Vedett
+      réponse: Grimbergen
+      anecdote: Grimbergen est une marque de bière d'origine belge appartenant aujourd'hui aux groupes Carlsberg et Heineken.
+    - id: 19
+      question: Quelle bière belge désigne aussi une chanson interprétée par Lady Gaga ?
+      propositions:
+      - Born This Way
+      - Bloody Mary
+      - Judas
+      - Hair
+      réponse: Judas
+      anecdote: Alken-Maes est une entreprise brassicole belge créée en 1988 lors de la fusion des brasseries Maes et Alken.
+    - id: 20
+      question: Quelle bière belge est reconnaissable grâce à son lutin au bonnet rouge ?
+      propositions:
+      - La Maes
+      - La Barbar
+      - La Chouffe
+      - La Durboyse
+      réponse: La Chouffe
+      anecdote: L'arôme très particulier de la Chouffe mélange à la fois fleur d'oranger et pomme acide.
+  - expert:
+    - id: 21
+      question: Quelle bière de fermentation spontanée est produite au sud de Bruxelles ?
+      propositions:
+      - Triple
+      - Stout
+      - Pils
+      - Lambic
+      réponse: Lambic
+      anecdote: La lambic est une bière plus ou moins acide selon son âge, sans pétillant ni mousse, titrant environ cinq degrés d'alcool. 
+    - id: 22
+      question: Quelle brasserie belge produit la Brigand, bière ambrée à fermentation haute ?
+      propositions:
+      - Liefmans
+      - Bosteels
+      - Van Steenberge
+      - Van Honsebrouck
+      réponse: Van Honsebrouck
+      anecdote: On brasse principalement chez Van Honsebrouck les marques de bières Kasteel, St-Louis, Brigand et Bacchus.
+    - id: 23
+      question: Quelle bière belge présente un escargot étrange sur son étiquette ?
+      propositions:
+      - Moinette
+      - Caracole
+      - Rochefort
+      - Gordon
+      réponse: Caracole
+      anecdote: La production annuelle de la brasserie Caracole est de 1600 hl, au rythme d'environ un brassin par semaine.
+    - id: 24
+      question: Quel animal blanc est utilisé comme logo de la bière Palm ?
+      propositions:
+      - Un lion
+      - Un éléphant
+      - Un ours
+      - Un cheval
+      réponse: Un cheval
+      anecdote: L'histoire de Palm commence en 1597 par la signature d'un acte de vente d'une ferme, ce qui explique le choix du logo.
+    - id: 25
+      question: Laquelle de ces propositions désigne une bière belge ambrée ?
+      propositions:
+      - Saison 1700
+      - Saison 1800
+      - Saison 1900
+      - Saison 1600
+      réponse: Saison 1900
+      anecdote: La Saison 1900, produite par la brasserie Lefebvre, est une bière de tradition wallonne.
+    - id: 26
+      question: Laquelle de ces bières belges possède un label biologique ?
+      propositions:
+      - Affligem
+      - Ciney
+      - Zulte
+      - Blanche du Hainaut
+      réponse: Blanche du Hainaut
+      anecdote: La Brasserie Dupont est une entreprise belge établie à Tourpes dans la commune de Leuze-en-Hainaut, au centre du Hainaut occidental.
+    - id: 27
+      question: La Troublette, brassée près de la ville de Dinant, est une bière de quelle couleur ?
+      propositions:
+      - Ambrée
+      - Brune
+      - Blanche
+      - Noire
+      réponse: Blanche
+      anecdote: La Troublette est une bière blanche de la brasserie Caracole, légère et rafraîchissante, qui existe aussi en bio.
+    - id: 28
+      question: Quelle bière belge est réputée comme étant une bière vivante ?
+      propositions:
+      - Grimbergen
+      - Bon Secours
+      - St Feuillien
+      - Charles Quint
+      réponse: Bon Secours
+      anecdote: La gamme de bières Bon Secours est une gamme de bières artisanales belges de type « bière d'abbaye », à fermentation haute.
+    - id: 29
+      question: Laquelle de ces bières belges sort tout droit de la brasserie Roman ?
+      propositions:
+      - Rochefort
+      - Caracole
+      - Ename
+      - Moinette
+      réponse: Ename
+      anecdote: La brasserie Roman paie une redevance au musée de la ville d'Ename pour l'utilisation de l'appellation « Abbaye d'Ename ».
+    - id: 30
+      question: Quelle bière belge affiche un géant sur ses étiquettes ?
+      propositions:
+      - Rochefort
+      - Judas
+      - Palm
+      - Gouyasse
+      réponse: Gouyasse
+      anecdote: La brasserie se visite en 50 minutes et se termine par la dégustation d'une bière au choix parmi les bières brassées.
+  en:
+  - débutant:
+    - id: 1
+      question: Which Belgian beer is made by adding sour cherries to lambic ?
+      propositions:
+      - Duvel
+      - Chimay
+      - Leffe
+      - Kriek
+      réponse: Kriek
+      anecdote: In the past, some breweries produced krieks made from a mixture of lagers (or pils) and cherries.
+    - id: 2
+      question: Which of the following does not designate a color of Belgian beer ?
+      propositions:
+      - Red
+      - Blonde
+      - Amber
+      - Black
+      réponse: Red
+      anecdote: Beer is a drink obtained by fermentation of cereals, generally barley grains.
+    - id: 3
+      question: Which Belgian beer, flagship product of the Dubuisson brewery, 12 % content ?
+      propositions:
+      - Bush
+      - Sudden Death
+      - Tongerlo
+      - Stella
+      réponse: Bush
+      anecdote: Also called Bush 12, we can read on its label that it is the strongest beer in Belgium.
+    - id: 4
+      question: What label appears on a bottle of Leffe, developed in many varieties ?
+      propositions:
+      - Swiss Made
+      - Organic beer
+      - Abbey beer
+      - Trappist
+      réponse: Abbey beer
+      anecdote: Named after a district of Dinant in the Meuse valley, Leffe beer is part of the variety of abbey beers.
+    - id: 5
+      question: Which Belgian beer should be drunk in a glass supported by a wooden base ?
+      propositions:
+      - Kwak
+      - Lupulus
+      - Bacchus
+      - Duvel
+      réponse: Kwak
+      anecdote: Legend has it that the name of the Kwak comes from the noise you hear when you drink your glass dry.
+    - id: 6
+      question: What capping system is used on Quintine bottles ?
+      propositions:
+      - Mechanics
+      - To screw
+      - Of cork
+      - Capsule
+      réponse: Mechanics
+      anecdote: The Brasserie Ellezelloise produces several craft beers, including Quintine.
+    - id: 7
+      question: Which Belgian beer retains its reference status in the land of white people ?
+      propositions:
+      - Hoegaarden
+      - Floreffe
+      - Corsendonk
+      - Bacchus
+      réponse: Hoegaarden
+      anecdote: According to some popular belief, Hoegaarden beer is often cited as the first white beer.
+    - id: 8
+      question: What intruder is hiding among these Chimay beers, neither filtered nor pasteurized ?
+      propositions:
+      - Red
+      - White
+      - Dew
+      - Blue
+      réponse: Dew
+      anecdote: Chimay is a Belgian Trappist beer, produced at Notre-Dame de Scourmont Abbey.
+    - id: 9
+      question: Which of these Belgian beers comes in an oval-shaped bottle ?
+      propositions:
+      - Kriek
+      - Leffe
+      - Bush
+      - Orval
+      réponse: Orval
+      anecdote: Orval is characterized by a fairly strong bitterness and benefits from aging in the cellar for a few months.
+    - id: 10
+      question: Which of these Belgian beers, less known to the general public, is flavored with honey ?
+      propositions:
+      - Affligem
+      - Ename
+      - Barbar
+      - Caracole
+      réponse: Barbar
+      anecdote: La Barbar is considered by many beer lovers to be the warrior's rest.
+  - confirmé:
+    - id: 11
+      question: La Gauloise is a Belgian beer whose bottle offers what capacity ?
+      propositions:
+      - 75 cl
+      - 50 cl
+      - 33 cl
+      - 25 cl
+      réponse: 33 cl
+      anecdote: The Bocq brewery is a Belgian brewery located in Purnode, in the commune of Yvoir in Belgium.
+    - id: 12
+      question: Who is the intruder hiding among these Rochefort beers, brewed in the abbey since 1595 ?
+      propositions:
+      - Rochefort 10
+      - Rochefort 8
+      - Rochefort 12
+      - Rochefort 6
+      réponse: Rochefort 12
+      anecdote: In Rochefort, the quantity of beer produced is voluntarily limited to 300 hectoliters per week.
+    - id: 13
+      question: Which king of Sardinia has a golden blond beer in Belgium ?
+      propositions:
+      - Philip II
+      - Charles V
+      - Ferdinand I
+      - Charles VI
+      réponse: Charles V
+      anecdote: The Haacht brewery, which produces Charles V, is a Belgian brewery located in the province of Flemish Brabant.
+    - id: 14
+      question: Which of these cities in Belgium has a cuvée of blond beer ?
+      propositions:
+      - Couvin
+      - Waremme
+      - Ciney
+      - Verviers
+      réponse: Ciney
+      anecdote: There are three types of Ciney beers: Ciney Blonde, Ciney Brune and Ciney Spéciale.
+    - id: 15
+      question: What color does Delirium Tremens have on its bottle ?
+      propositions:
+      - Red
+      - Green
+      - Yellow
+      - Blue
+      réponse: Blue
+      anecdote: In 1992, the Brotherhood of the Pink Elephant was created to promote Delirium Tremens and other Melle beers.
+    - id: 16
+      question: Which of these Belgian beers is available in a classic version as well as an organic version ?
+      propositions:
+      - Barbar
+      - Duvel
+      - Chimay
+      - Moinette
+      réponse: Moinette
+      anecdote: La Moinette is a beer with abundant foam, a malty and hoppy aroma as well as a slightly bitter taste.
+    - id: 17
+      question: Which Belgian beer, produced in the province of Hainaut, contains vitamin C ?
+      propositions:
+      - St Feuillien
+      - Rochefort 10
+      - Chimay
+      - Orval
+      réponse: St Feuillien
+      anecdote: The St Feuillien range is available in four versions, included among the recognized Belgian abbey beers.
+    - id: 18
+      question: Which beer advertised as white has an almost amber color ?
+      propositions:
+      - Grimbergen
+      - Featured
+      - Westmalle
+      - St. Bernardus
+      réponse: Grimbergen
+      anecdote: Grimbergen is a brand of beer of Belgian origin belonging today to the Carlsberg and Heineken groups.
+    - id: 19
+      question: Which Belgian beer also designates a song performed by Lady Gaga ?
+      propositions:
+      - Judas
+      - Born This Way
+      - Bloody Mary
+      - Hair
+      réponse: Judas
+      anecdote: Alken-Maes is a Belgian brewing company created in 1988 when the Maes and Alken breweries merged.
+    - id: 20
+      question: Which Belgian beer is recognizable thanks to its elf with the red cap ?
+      propositions:
+      - La Chouffe
+      - The Durboyse
+      - La Maes
+      - The Barbar
+      réponse: La Chouffe
+      anecdote: The very particular aroma of Chouffe mixes both orange blossom and sour apple.
+  - expert:
+    - id: 21
+      question: Which spontaneous fermentation beer is produced in the south of Brussels ?
+      propositions:
+      - Lambic
+      - Stout
+      - Pils
+      - Triple
+      réponse: Lambic
+      anecdote: Lambic is a beer that is more or less acidic depending on its age, without sparkling or foam, containing around five degrees of alcohol.
+    - id: 22
+      question: Which Belgian brewery produces Brigand, a high fermentation amber beer ?
+      propositions:
+      - Van Steenberge
+      - Van Honsebrouck
+      - Liefmans
+      - Bosteels
+      réponse: Van Honsebrouck
+      anecdote: The Kasteel, St-Louis, Brigand and Bacchus beer brands are mainly brewed at Van Honsebrouck.
+    - id: 23
+      question: Which Belgian beer has a strange snail on its label ?
+      propositions:
+      - Caracole
+      - Rochefort
+      - Moinette
+      - Gordon
+      réponse: Caracole
+      anecdote: The annual production of the Caracole brewery is 1600 hl, at the rate of about one brew per week.
+    - id: 24
+      question: What white animal is used as the logo for Palm beer ?
+      propositions:
+      - A lion
+      - A bear
+      - An elephant
+      - A horse
+      réponse: A horse
+      anecdote: The history of Palm begins in 1597 with the signing of a deed of sale for a farm, which explains the choice of the logo.
+    - id: 25
+      question: Which of the following designates an amber Belgian beer ?
+      propositions:
+      - Season 1600
+      - Season 1700
+      - Season 1900
+      - Season 1800
+      réponse: Season 1900
+      anecdote: The Saison 1900, produced by the Lefebvre brewery, is a traditional Walloon beer.
+    - id: 26
+      question: Which of these Belgian beers has an organic label ?
+      propositions:
+      - Zulte
+      - Affligem
+      - Blanche du Hainaut
+      - Ciney
+      réponse: Blanche du Hainaut
+      anecdote: Brasserie Dupont is a Belgian company established in Tourpes in the town of Leuze-en-Hainaut, in the center of western Hainaut.
+    - id: 27
+      question: La Troublette, brewed near the town of Dinant, is what color beer ?
+      propositions:
+      - Amber
+      - Brunette
+      - Black
+      - White
+      réponse: White
+      anecdote: La Troublette is a white beer from the Caracole brewery, light and refreshing, which also exists organically.
+    - id: 28
+      question: Which Belgian beer is known to be a living beer ?
+      propositions:
+      - Charles V
+      - Bon Secours
+      - St Feuillien
+      - Grimbergen
+      réponse: Bon Secours
+      anecdote: The Bon Secours range of beers is a range of Belgian craft beers of the abbey beer type, with high fermentation.
+    - id: 29
+      question: Which of these Belgian beers comes straight from the Roman brewery ?
+      propositions:
+      - Rochefort
+      - Caracole
+      - Ename
+      - Moinette
+      réponse: Ename
+      anecdote: The Roman brewery pays a royalty to the museum of the town of Ename for the use of the appellation Abbaye d'Ename.
+    - id: 30
+      question: Which Belgian beer has a giant on its labels ?
+      propositions:
+      - Palm
+      - Gouyasse
+      - Rochefort
+      - Judas
+      réponse: Gouyasse
+      anecdote: The brewery can be visited in 50 minutes and ends with the tasting of a beer of your choice among the beers brewed.
+  de:
+  - débutant:
+    - id: 1
+      question: Welches belgische Bier wird durch Zugabe von Sauerkirschen zu Lambic hergestellt ?
+      propositions:
+      - Leffe
+      - Duvel
+      - Chimay
+      - Kriek
+      réponse: Kriek
+      anecdote: In der Vergangenheit produzierten einige Brauereien Krieks aus einer Mischung von Lagern (oder Pils) und Kirschen.
+    - id: 2
+      question: Welche der folgenden Angaben kennzeichnet keine belgische Bierfarbe ?
+      propositions:
+      - Blond
+      - Schwarz
+      - Bernstein
+      - Rot
+      réponse: Rot
+      anecdote: Bier ist ein Getränk, das durch Fermentation von Getreide, im Allgemeinen Gerstenkörnern, gewonnen wird.
+    - id: 3
+      question: Welches belgische Bier, Flaggschiff der Dubuisson-Brauerei, enthält 12 % ?
+      propositions:
+      - Tongerlo
+      - Stella
+      - Plötzlicher Tod
+      - Bush
+      réponse: Bush
+      anecdote: Auch Bush 12 genannt, können wir auf seinem Etikett lesen, dass es das stärkste Bier in Belgien ist.
+    - id: 4
+      question: Welches Etikett befindet sich auf einer Flasche Leffe, die in vielen Sorten entwickelt wurde ?
+      propositions:
+      - Abteibier
+      - Trappist
+      - Bio-Bier
+      - Swiss Made
+      réponse: Abteibier
+      anecdote: Das nach einem Stadtteil Dinant im Maastal benannte Leffe-Bier gehört zur Vielfalt der Abteibiere.
+    - id: 5
+      question: Welches belgische Bier sollte in einem Glas getrunken werden, das von einem Holzsockel getragen wird ?
+      propositions:
+      - Kwak
+      - Lupulus
+      - Bacchus
+      - Duvel
+      réponse: Kwak
+      anecdote: Die Legende besagt, dass der Name des Kwak von dem Geräusch herrührt, das Sie hören, wenn Sie Ihr Glas trocken trinken.
+    - id: 6
+      question: Welches Verschlusssystem wird bei Quintine-Flaschen verwendet ?
+      propositions:
+      - Kapsel
+      - Aus Kork
+      - Zu schrauben
+      - Mechanik
+      réponse: Mechanik
+      anecdote: In der Brasserie Ellezelloise werden verschiedene Craft-Biere hergestellt, darunter Quintine.
+    - id: 7
+      question: Welches belgische Bier behält seinen Referenzstatus im Land der Weißen ?
+      propositions:
+      - Floreffe
+      - Hoegaarden
+      - Bacchus
+      - Corsendonk
+      réponse: Hoegaarden
+      anecdote: Nach allgemeiner Meinung wird Hoegaarden-Bier oft als erstes Weißbier bezeichnet.
+    - id: 8
+      question: Welcher Eindringling versteckt sich unter diesen Chimay-Bieren, weder gefiltert noch pasteurisiert ?
+      propositions:
+      - Weiß
+      - Blau
+      - Rot
+      - Tau
+      réponse: Tau
+      anecdote: Chimay ist ein belgisches Trappistenbier, das in der Abtei Notre-Dame de Scourmont hergestellt wird.
+    - id: 9
+      question: Welches dieser belgischen Biere kommt in einer ovalen Flasche ?
+      propositions:
+      - Bush
+      - Leffe
+      - Kriek
+      - Orval
+      réponse: Orval
+      anecdote: Orval zeichnet sich durch eine ziemlich starke Bitterkeit aus und profitiert von einigen Monaten Alterung im Keller.
+    - id: 10
+      question: Welches dieser weniger bekannten belgischen Biere ist mit Honig aromatisiert ?
+      propositions:
+      - Caracole
+      - Affligem
+      - Ename
+      - Barbar
+      réponse: Barbar
+      anecdote: La Barbar wird von vielen Bierliebhabern als die Ruhe des Kriegers angesehen.
+  - confirmé:
+    - id: 11
+      question: La Gauloise ist ein belgisches Bier, dessen Flasche welche Kapazität bietet ?
+      propositions:
+      - 33 cl
+      - 75 cl
+      - 25 cl
+      - 50 cl
+      réponse: 33 cl
+      anecdote: Die Bocq-Brauerei ist eine belgische Brauerei in Purnode in der Gemeinde Yvoir in Belgien.
+    - id: 12
+      question: Welcher Eindringling versteckt sich unter diesen Rochefort-Bieren, die seit 1595 in der Abtei gebraut werden ?
+      propositions:
+      - Rochefort 10
+      - Rochefort 12
+      - Rochefort 8
+      - Rochefort 6
+      réponse: Rochefort 12
+      anecdote: In Rochefort ist die produzierte Biermenge freiwillig auf 300 Hektoliter pro Woche begrenzt.
+    - id: 13
+      question: Welcher König von Sardinien hat in Belgien ein goldblondes Bier ?
+      propositions:
+      - Ferdinand I
+      - Philipp II.
+      - Charles V
+      - Charles VI
+      réponse: Charles V
+      anecdote: Die Haacht-Brauerei, die Charles V produziert, ist eine belgische Brauerei in der Provinz Flämisch-Brabant.
+    - id: 14
+      question: In welcher dieser belgischen Städte gibt es eine Cuvée mit blondem Bier ?
+      propositions:
+      - Ciney
+      - Waremme
+      - Verviers
+      - Couvin
+      réponse: Ciney
+      anecdote: Es gibt drei Arten von Ciney-Bieren: Ciney Blonde, Ciney Brune und Ciney Spéciale.
+    - id: 15
+      question: Welche Farbe hat Delirium Tremens auf seiner Flasche ?
+      propositions:
+      - Gelb
+      - Rot
+      - Grün
+      - Blau
+      réponse: Blau
+      anecdote: 1992 wurde die Bruderschaft des rosa Elefanten gegründet, um Delirium Tremens und andere Melle-Biere zu fördern.
+    - id: 16
+      question: Welches dieser belgischen Biere ist sowohl in klassischer als auch in Bio-Version erhältlich ?
+      propositions:
+      - Duvel
+      - Chimay
+      - Moinette
+      - Barbar
+      réponse: Moinette
+      anecdote: La Moinette ist ein Bier mit reichlich Schaum, einem malzigen und hopfenreichen Aroma sowie einem leicht bitteren Geschmack.
+    - id: 17
+      question: Welches belgische Bier, das in der Provinz Hennegau hergestellt wird, enthält Vitamin C ?
+      propositions:
+      - Chimay
+      - Orval
+      - Rochefort 10
+      - St. Feuillien
+      réponse: St. Feuillien
+      anecdote: Das St Feuillien-Sortiment ist in vier Versionen erhältlich, die zu den anerkannten belgischen Abteibieren gehören.
+    - id: 18
+      question: Welches als Weiß beworbene Bier hat eine fast bernsteinfarbene Farbe ?
+      propositions:
+      - Grimbergen
+      - Westmalle
+      - Vorgestellt
+      - St. Bernardus
+      réponse: Grimbergen
+      anecdote: Grimbergen ist eine Biermarke belgischen Ursprungs, die heute zu den Gruppen Carlsberg und Heineken gehört.
+    - id: 19
+      question: Welches belgische Bier bezeichnet auch ein Lied von Lady Gaga ?
+      propositions:
+      - Judas
+      - Haare
+      - Bloody Mary
+      - Auf diese Weise geboren
+      réponse: Judas
+      anecdote: Alken-Maes ist eine belgische Brauerei, die 1988 gegründet wurde, als die Brauereien Maes und Alken fusionierten.
+    - id: 20
+      question: Welches belgische Bier ist an seinem Elfen mit der roten Kappe zu erkennen ?
+      propositions:
+      - La Chouffe
+      - La Maes
+      - Die Durboyse
+      - Der Barbar
+      réponse: La Chouffe
+      anecdote: Das besondere Aroma von Chouffe mischt sowohl Orangenblüte als auch sauren Apfel.
+  - expert:
+    - id: 21
+      question: Welches spontane Fermentationsbier wird im Süden von Brüssel hergestellt ?
+      propositions:
+      - Lambic
+      - Dreifach
+      - Stout
+      - Pils
+      réponse: Lambic
+      anecdote: Lambic ist ein Bier, das je nach Alter mehr oder weniger sauer ist, ohne Schaumbildung oder Schaum, das etwa fünf Grad Alkohol enthält.
+    - id: 22
+      question: Welche belgische Brauerei produziert Brigand, ein hochgäriges Bernsteinbier ?
+      propositions:
+      - Bosteels
+      - Liefmans
+      - Van Steenberge
+      - Van Honsebrouck
+      réponse: Van Honsebrouck
+      anecdote: Die Biermarken Kasteel, St-Louis, Brigand und Bacchus werden hauptsächlich in Van Honsebrouck gebraut.
+    - id: 23
+      question: Welches belgische Bier hat eine seltsame Schnecke auf dem Etikett ?
+      propositions:
+      - Moinette
+      - Gordon
+      - Caracole
+      - Rochefort
+      réponse: Caracole
+      anecdote: Die jährliche Produktion der Caracole-Brauerei beträgt 1600 hl, was einer Rate von etwa einem Gebräu pro Woche entspricht.
+    - id: 24
+      question: Welches weiße Tier wird als Logo für Palmbier verwendet ?
+      propositions:
+      - Ein Bär
+      - Ein Pferd
+      - Ein Löwe
+      - Ein Elefant
+      réponse: Ein Pferd
+      anecdote: Die Geschichte von Palm beginnt 1597 mit der Unterzeichnung einer Kaufurkunde für eine Farm, die die Wahl des Logos erklärt.
+    - id: 25
+      question: Welches der folgenden Merkmale kennzeichnet ein bernsteinfarbenes belgisches Bier ?
+      propositions:
+      - Staffel 1700
+      - Saison 1900
+      - Staffel 1600
+      - Staffel 1800
+      réponse: Saison 1900
+      anecdote: Die Saison 1900 der Brauerei Lefebvre ist ein traditionelles wallonisches Bier.
+    - id: 26
+      question: Welches dieser belgischen Biere hat ein Bio-Label ?
+      propositions:
+      - Zulte
+      - Affligem
+      - Ciney
+      - Blanche du Hainaut
+      réponse: Blanche du Hainaut
+      anecdote: Die Brasserie Dupont ist ein belgisches Unternehmen mit Sitz in Tourpes in der Stadt Leuze-en-Hainaut im Zentrum des westlichen Hennegau.
+    - id: 27
+      question: La Troublette, in der Nähe der Stadt Dinant gebraut, hat welche Farbe Bier ?
+      propositions:
+      - Weiß
+      - Brünette
+      - Bernstein
+      - Schwarz
+      réponse: Weiß
+      anecdote: La Troublette ist ein leichtes und erfrischendes Weißbier aus der Caracole-Brauerei, das auch biologisch erhältlich ist.
+    - id: 28
+      question: Welches belgische Bier ist als lebendes Bier bekannt ?
+      propositions:
+      - St. Feuillien
+      - Charles V
+      - Grimbergen
+      - Bon Secours
+      réponse: Bon Secours
+      anecdote: Die Bierserie Bon Secours ist eine Reihe belgischer Craft-Biere vom Typ Abbey Beer mit hoher Gärung.
+    - id: 29
+      question: Welches dieser belgischen Biere stammt direkt aus der römischen Brauerei ?
+      propositions:
+      - Caracole
+      - Ename
+      - Rochefort
+      - Moinette
+      réponse: Ename
+      anecdote: Die römische Brauerei zahlt dem Museum der Stadt Ename eine Lizenzgebühr für die Verwendung der Bezeichnung Abbaye d'Ename.
+    - id: 30
+      question: Welches belgische Bier hat einen Riesen auf seinen Etiketten ?
+      propositions:
+      - Palm
+      - Rochefort
+      - Judas
+      - Gouyasse
+      réponse: Gouyasse
+      anecdote: Die Brauerei kann in 50 Minuten besichtigt werden und endet mit der Verkostung eines Bieres Ihrer Wahl unter den gebrauten Bieren.
+  es:
+  - débutant:
+    - id: 1
+      question: ¿Qué cerveza belga se elabora agregando guindas a la lambic ?
+      propositions:
+      - Duvel
+      - Chimay
+      - Leffe
+      - Kriek
+      réponse: Kriek
+      anecdote: En el pasado, algunas cervecerías producían krieks elaborados con una mezcla de lagers (o pils) y cerezas.
+    - id: 2
+      question: ¿Cuál de los siguientes no designa un color de cerveza belga ?
+      propositions:
+      - Rubia
+      - Negro
+      - Rojo
+      - Ámbar
+      réponse: Rojo
+      anecdote: La cerveza es una bebida obtenida por fermentación de cereales, generalmente granos de cebada.
+    - id: 3
+      question: ¿Qué cerveza belga, producto estrella de la cervecería Dubuisson, 12 % de contenido ?
+      propositions:
+      - Muerte súbita
+      - Tongerlo
+      - Stella
+      - Bush
+      réponse: Bush
+      anecdote: También llamada Bush 12, podemos leer en su etiqueta que es la cerveza más fuerte de Bélgica.
+    - id: 4
+      question: ¿Qué etiqueta aparece en una botella de Leffe, desarrollada en muchas variedades ?
+      propositions:
+      - Cerveza Abbey
+      - Fabricado en Suiza
+      - Trapense
+      - Cerveza ecológica
+      réponse: Cerveza Abbey
+      anecdote: La cerveza Leffe, que lleva el nombre de un distrito de Dinant en el valle del Mosa, forma parte de la variedad de cervezas de abadía.
+    - id: 5
+      question: ¿Qué cerveza belga se debe beber en un vaso sostenido por una base de madera ?
+      propositions:
+      - Baco
+      - Lupulus
+      - Kwak
+      - Duvel
+      réponse: Kwak
+      anecdote: Cuenta la leyenda que el nombre del Kwak proviene del ruido que escuchas cuando bebes tu vaso seco.
+    - id: 6
+      question: ¿Qué sistema de taponado se utiliza en las botellas de Quintine ?
+      propositions:
+      - Cápsula ","À capsule
+      - De corcho
+      - Para atornillar
+      - Mecánica
+      réponse: Mecánica
+      anecdote: La Brasserie Ellezelloise produce varias cervezas artesanales, incluida Quintine.
+    - id: 7
+      question: ¿Qué cerveza belga conserva su estatus de referencia en la tierra de los blancos ?
+      propositions:
+      - Corsendonk
+      - Floreffe
+      - Hoegaarden
+      - Baco
+      réponse: Hoegaarden
+      anecdote: Según algunas creencias populares, la cerveza Hoegaarden a menudo se cita como la primera cerveza blanca.
+    - id: 8
+      question: ¿Qué intruso se esconde entre estas cervezas de Chimay, ni filtradas ni pasteurizadas ?
+      propositions:
+      - Azul
+      - Rojo
+      - Rocío
+      - Blanco
+      réponse: Rocío
+      anecdote: Chimay es una cerveza trapense belga, producida en la abadía de Notre-Dame de Scourmont.
+    - id: 9
+      question: ¿Cuál de estas cervezas belgas viene en una botella de forma ovalada ?
+      propositions:
+      - Kriek
+      - Leffe
+      - Bush
+      - Orval
+      réponse: Orval
+      anecdote: Orval se caracteriza por un amargor bastante fuerte y se beneficia de la crianza en bodega durante unos meses.
+    - id: 10
+      question: ¿Cuál de estas cervezas belgas, menos conocidas por el público en general, está aromatizada con miel ?
+      propositions:
+      - Ename
+      - Affligem
+      - Barbar
+      - Caracole
+      réponse: Barbar
+      anecdote: La Barbar es considerada por muchos amantes de la cerveza como el descanso del guerrero.
+  - confirmé:
+    - id: 11
+      question: La Gauloise es una cerveza belga cuya botella ofrece ¿qué capacidad ?
+      propositions:
+      - 25 cl
+      - 50 cl
+      - 33 cl
+      - 75 cl
+      réponse: 33 cl
+      anecdote: La cervecería Bocq es una fábrica de cerveza belga ubicada en Purnode, en la comuna de Yvoir en Bélgica.
+    - id: 12
+      question: ¿Quién es el intruso que se esconde entre estas cervezas Rochefort, elaboradas en la abadía desde 1595 ?
+      propositions:
+      - Rochefort 10
+      - Rochefort 12
+      - Rochefort 8
+      - Rochefort 6
+      réponse: Rochefort 12
+      anecdote: En Rochefort, la cantidad de cerveza producida se limita voluntariamente a 300 hectolitros por semana.
+    - id: 13
+      question: ¿Qué rey de Cerdeña tiene una cerveza rubia dorada en Bélgica ?
+      propositions:
+      - Ferdinand I
+      - Charles VI
+      - Felipe II
+      - Carlos V
+      réponse: Carlos V
+      anecdote: La fábrica de cerveza Haacht, que produce Carlos V, es una fábrica de cerveza belga ubicada en la provincia de Brabante Flamenco.
+    - id: 14
+      question: ¿Cuál de estas ciudades de Bélgica tiene una cuvée de cerveza rubia ?
+      propositions:
+      - Ciney
+      - Waremme
+      - Couvin
+      - Verviers
+      réponse: Ciney
+      anecdote: Hay tres tipos de cervezas Ciney: Ciney Blonde, Ciney Brune y Ciney Spéciale.
+    - id: 15
+      question: ¿Qué color tiene Delirium Tremens en su botella ?
+      propositions:
+      - Rojo
+      - Amarillo
+      - Azul
+      - Verde
+      réponse: Azul
+      anecdote: En 1992, se creó la Hermandad del Elefante Rosa para promover Delirium Tremens y otras cervezas Melle.
+    - id: 16
+      question: ¿Cuál de estas cervezas belgas está disponible en versión clásica y en versión orgánica ?
+      propositions:
+      - Chimay
+      - Duvel
+      - Barbar
+      - Moinette
+      réponse: Moinette
+      anecdote: La Moinette es una cerveza con abundante espuma, aroma a malta y lúpulo y un sabor ligeramente amargo.
+    - id: 17
+      question: ¿Qué cerveza belga, producida en la provincia de Hainaut, contiene vitamina C ?
+      propositions:
+      - St Feuillien
+      - Orval
+      - Chimay
+      - Rochefort 10
+      réponse: St Feuillien
+      anecdote: La gama St Feuillien está disponible en cuatro versiones, incluidas entre las reconocidas cervezas de abadía belgas.
+    - id: 18
+      question: ¿Qué cerveza anunciada como blanca tiene un color casi ámbar ?
+      propositions:
+      - San Bernardo
+      - Westmalle
+      - Destacado
+      - Grimbergen
+      réponse: Grimbergen
+      anecdote: Grimbergen es una marca de cerveza de origen belga que hoy pertenece a los grupos Carlsberg y Heineken.
+    - id: 19
+      question: ¿Qué cerveza belga también designa una canción interpretada por Lady Gaga ?
+      propositions:
+      - Bloody Mary
+      - Cabello
+      - Judas
+      - Nacido de esta manera
+      réponse: Judas
+      anecdote: Alken-Maes es una empresa cervecera belga creada en 1988 cuando las fábricas de cerveza Maes y Alken se fusionaron.
+    - id: 20
+      question: ¿Qué cerveza belga es reconocible gracias a su duende con la tapa roja ?
+      propositions:
+      - La Chouffe
+      - El Barbar
+      - El Durboyse
+      - La Maes
+      réponse: La Chouffe
+      anecdote: El aroma muy particular de Chouffe mezcla tanto la flor de naranja como la manzana ácida.
+  - expert:
+    - id: 21
+      question: ¿Qué cerveza de fermentación espontánea se produce en el sur de Bruselas ?
+      propositions:
+      - Triple
+      - Pils
+      - Stout
+      - Lambic
+      réponse: Lambic
+      anecdote: Lambic es una cerveza más o menos ácida según la edad, sin espumosos ni espuma, que contiene alrededor de cinco grados de alcohol.
+    - id: 22
+      question: ¿Qué cervecería belga produce Brigand, una cerveza ámbar de alta fermentación ?
+      propositions:
+      - Van Honsebrouck
+      - Liefmans
+      - Van Steenberge
+      - Bosteels
+      réponse: Van Honsebrouck
+      anecdote: Las marcas de cerveza Kasteel, St-Louis, Brigand y Bacchus se elaboran principalmente en Van Honsebrouck.
+    - id: 23
+      question: ¿Qué cerveza belga tiene un caracol extraño en su etiqueta ?
+      propositions:
+      - Caracole
+      - Moinette
+      - Gordon
+      - Rochefort
+      réponse: Caracole
+      anecdote: La producción anual de la cervecería Caracole es de 1600 hl, a razón de aproximadamente una infusión por semana.
+    - id: 24
+      question: ¿Qué animal blanco se usa como logo para la cerveza Palm ?
+      propositions:
+      - Un oso
+      - Un caballo
+      - Un león
+      - Un elefante
+      réponse: Un caballo
+      anecdote: La historia de Palm comienza en 1597 con la firma de una escritura de compraventa de una finca, que explica la elección del logotipo.
+    - id: 25
+      question: ¿Cuál de las siguientes designa una cerveza belga ámbar ?
+      propositions:
+      - Temporada 1800
+      - Temporada 1700
+      - Temporada 1900
+      - Temporada 1600
+      réponse: Temporada 1900
+      anecdote: La temporada 1900, producida por la fábrica de cerveza Lefebvre, es una cerveza tradicional valona.
+    - id: 26
+      question: ¿Cuál de estas cervezas belgas tiene etiqueta ecológica ?
+      propositions:
+      - Zulte
+      - Ciney
+      - Blanche du Hainaut
+      - Affligem
+      réponse: Blanche du Hainaut
+      anecdote: Brasserie Dupont es una empresa belga establecida en Tourpes en la ciudad de Leuze-en-Hainaut, en el centro del oeste de Hainaut.
+    - id: 27
+      question: La Troublette, elaborada cerca de la ciudad de Dinant, ¿es cerveza de qué color ?
+      propositions:
+      - Morena
+      - Blanco
+      - Negro
+      - Ámbar
+      réponse: Blanco
+      anecdote: La Troublette es una cerveza blanca de la cervecería Caracole, ligera y refrescante, que también existe de forma orgánica.
+    - id: 28
+      question: ¿Qué cerveza belga es conocida por ser una cerveza viva ?
+      propositions:
+      - Bon Secours
+      - St Feuillien
+      - Carlos V
+      - Grimbergen
+      réponse: Bon Secours
+      anecdote: La gama de cervezas Bon Secours es una gama de cervezas artesanales belgas del tipo abbey, con alta fermentación.
+    - id: 29
+      question: ¿Cuál de estas cervezas belgas proviene directamente de la cervecería romana ?
+      propositions:
+      - Ename
+      - Moinette
+      - Caracole
+      - Rochefort
+      réponse: Ename
+      anecdote: La cervecería romana paga una regalía al museo de la ciudad de Ename por el uso de la denominación Abbaye d'Ename.
+    - id: 30
+      question: ¿Qué cerveza belga tiene un gigante en sus etiquetas ?
+      propositions:
+      - Palm
+      - Gouyasse
+      - Rochefort
+      - Judas
+      réponse: Gouyasse
+      anecdote: La cervecería se puede visitar en 50 minutos y finaliza con la degustación de una cerveza de su elección entre las cervezas elaboradas.
+  it:
+  - débutant:
+    - id: 1
+      question: Quale birra belga viene prodotta aggiungendo amarene al lambic ?
+      propositions:
+      - Leffe
+      - Kriek
+      - Duvel
+      - Chimay
+      réponse: Kriek
+      anecdote: In passato, alcuni birrifici producevano kriek fatti con una miscela di lager (o pils) e ciliegie.
+    - id: 2
+      question: Quale dei seguenti non designa un colore della birra belga ?
+      propositions:
+      - Rosso
+      - Nero
+      - Ambra
+      - Bionda
+      réponse: Rosso
+      anecdote: La birra è una bevanda ottenuta dalla fermentazione di cereali, generalmente chicchi d'orzo.
+    - id: 3
+      question: Quale birra belga, prodotto di punta del birrificio Dubuisson, contenuto al 12 % ?
+      propositions:
+      - Tongerlo
+      - Stella
+      - Morte improvvisa
+      - Bush
+      réponse: Bush
+      anecdote: Chiamata anche Bush 12, possiamo leggere sulla sua etichetta che è la birra più forte del Belgio.
+    - id: 4
+      question: Quale etichetta compare su una bottiglia di Leffe, sviluppata in tante varietà ?
+      propositions:
+      - Birra biologica
+      - Trappist
+      - Fabbricato in Svizzera
+      - Birra d'Abbazia
+      réponse: Birra d'Abbazia
+      anecdote: Prende il nome da un distretto di Dinant nella valle della Mosa, la birra Leffe fa parte della varietà di birre dell'abbazia.
+    - id: 5
+      question: Quale birra belga va bevuta in un bicchiere sorretto da una base in legno ?
+      propositions:
+      - Duvel
+      - Bacco
+      - Kwak
+      - Lupulus
+      réponse: Kwak
+      anecdote: La leggenda vuole che il nome del Kwak derivi dal rumore che senti quando bevi il tuo bicchiere asciutto.
+    - id: 6
+      question: Quale sistema di tappatura viene utilizzato sulle bottiglie Quintine ?
+      propositions:
+      - Di sughero
+      - Capsula
+      - Meccanica
+      - Avvitare
+      réponse: Meccanica
+      anecdote: La Brasserie Ellezelloise produce diverse birre artigianali, tra cui Quintine.
+    - id: 7
+      question: Quale birra belga mantiene il suo status di riferimento nella terra dei bianchi ?
+      propositions:
+      - Corsendonk
+      - Hoegaarden
+      - Floreffe
+      - Bacco
+      réponse: Hoegaarden
+      anecdote: Secondo alcune credenze popolari, la birra Hoegaarden è spesso citata come la prima birra bianca.
+    - id: 8
+      question: Quale intruso si nasconde tra queste birre Chimay, né filtrate né pastorizzate ?
+      propositions:
+      - Blu
+      - Bianco
+      - Rugiada
+      - Rosso
+      réponse: Rugiada
+      anecdote: Chimay è una birra trappista belga, prodotta nell'abbazia di Notre-Dame de Scourmont.
+    - id: 9
+      question: Quale di queste birre belghe arriva in una bottiglia di forma ovale ?
+      propositions:
+      - Leffe
+      - Kriek
+      - Orval
+      - Bush
+      réponse: Orval
+      anecdote: Orval è caratterizzato da un amaro abbastanza forte e beneficia dell'invecchiamento in cantina per alcuni mesi.
+    - id: 10
+      question: Quale di queste birre belghe, meno note al grande pubblico, è aromatizzata al miele ?
+      propositions:
+      - Barbar
+      - Caracole
+      - Affligem
+      - Ename
+      réponse: Barbar
+      anecdote: La Barbar è considerata da molti amanti della birra come il riposo del guerriero.
+  - confirmé:
+    - id: 11
+      question: La Gauloise è una birra belga la cui bottiglia offre quale capacità ?
+      propositions:
+      - 25 cl
+      - 33 cl
+      - 50 cl
+      - 75 cl
+      réponse: 33 cl
+      anecdote: Il birrificio Bocq è un birrificio belga situato a Purnode, nel comune di Yvoir in Belgio.
+    - id: 12
+      question: Quale intruso si nasconde tra queste birre Rochefort, prodotte nell'abbazia dal 1595 ?
+      propositions:
+      - Rochefort 8
+      - Rochefort 10
+      - Rochefort 6
+      - Rochefort 12
+      réponse: Rochefort 12
+      anecdote: A Rochefort, la quantità di birra prodotta è volontariamente limitata a 300 ettolitri a settimana.
+    - id: 13
+      question: Quale re di Sardegna ha una birra biondo dorato in Belgio ?
+      propositions:
+      - Filippo II
+      - Carlo V
+      - Ferdinando I
+      - Carlo VI
+      réponse: Carlo V
+      anecdote: Il birrificio Haacht, che produce Carlo V, è un birrificio belga situato nella provincia del Brabante fiammingo.
+    - id: 14
+      question: Quale di queste città in Belgio ha una cuvée di birra bionda ?
+      propositions:
+      - Waremme
+      - Ciney
+      - Couvin
+      - Verviers
+      réponse: Ciney
+      anecdote: Esistono tre tipi di birre Ciney: Ciney Blonde, Ciney Brune e Ciney Spéciale.
+    - id: 15
+      question: Che colore ha Delirium Tremens sulla sua bottiglia ?
+      propositions:
+      - Blu
+      - Rosso
+      - Giallo
+      - Verde
+      réponse: Blu
+      anecdote: Nel 1992, la Confraternita dell'elefante rosa è stata creata per promuovere Delirium Tremens e altre birre Melle.
+    - id: 16
+      question: Quale di queste birre belghe è disponibile in una versione classica e in una versione biologica ?
+      propositions:
+      - Moinette
+      - Duvel
+      - Chimay
+      - Barbar
+      réponse: Moinette
+      anecdote: La Moinette è una birra con una schiuma abbondante, un aroma maltato e luppolato e un gusto leggermente amaro.
+    - id: 17
+      question: Quale birra belga, prodotta nella provincia dell'Hainaut, contiene vitamina C ?
+      propositions:
+      - Chimay
+      - Orval
+      - St Feuillien
+      - Rochefort 10
+      réponse: St Feuillien
+      anecdote: La gamma St Feuillien è disponibile in quattro versioni, incluse tra le rinomate birre d'abbazia belghe.
+    - id: 18
+      question: Quale birra pubblicizzata come bianca ha un colore quasi ambrato ?
+      propositions:
+      - Westmalle
+      - Grimbergen
+      - In primo piano
+      - San Bernardus
+      réponse: Grimbergen
+      anecdote: Grimbergen è una marca di birra di origine belga appartenente oggi ai gruppi Carlsberg e Heineken.
+    - id: 19
+      question: Quale birra belga designa anche una canzone eseguita da Lady Gaga ?
+      propositions:
+      - Bloody Mary
+      - Giuda
+      - Nato in questo modo
+      - Capelli
+      réponse: Giuda
+      anecdote: Alken-Maes è un'azienda di birra belga creata nel 1988 dalla fusione dei birrifici Maes e Alken.
+    - id: 20
+      question: Quale birra belga è riconoscibile grazie al suo elfo con il tappo rosso ?
+      propositions:
+      - La Maes
+      - The Barbar
+      - La Chouffe
+      - Il Durboyse
+      réponse: La Chouffe
+      anecdote: L'aroma molto particolare di Chouffe mescola sia fiori d'arancio che mela acerba.
+  - expert:
+    - id: 21
+      question: Quale birra a fermentazione spontanea viene prodotta a sud di Bruxelles ?
+      propositions:
+      - Triple
+      - Stout
+      - Pils
+      - Lambic
+      réponse: Lambic
+      anecdote: Il Lambic è una birra più o meno acida a seconda della sua età, senza bollicine né schiuma, contenente circa cinque gradi di alcol.
+    - id: 22
+      question: Quale birrificio belga produce Brigand, una birra ambrata ad alta fermentazione ?
+      propositions:
+      - Liefmans
+      - Van Steenberge
+      - Van Honsebrouck
+      - Bosteels
+      réponse: Van Honsebrouck
+      anecdote: I marchi di birra Kasteel, St-Louis, Brigand e Bacchus vengono prodotti principalmente a Van Honsebrouck.
+    - id: 23
+      question: Quale birra belga ha una strana lumaca sull'etichetta ?
+      propositions:
+      - Gordon
+      - Caracole
+      - Rochefort
+      - Moinette
+      réponse: Caracole
+      anecdote: La produzione annua del birrificio Caracole è di 1600 hl, al ritmo di circa una birra alla settimana.
+    - id: 24
+      question: Quale animale bianco viene utilizzato come logo per la birra Palm ?
+      propositions:
+      - Un cavallo
+      - Un elefante
+      - Un leone
+      - Un orso
+      réponse: Un cavallo
+      anecdote: La storia di Palm inizia nel 1597 con la firma di un atto di compravendita di un'azienda agricola, che spiega la scelta del logo.
+    - id: 25
+      question: Quale delle seguenti indica una birra belga ambrata ?
+      propositions:
+      - Stagione 1700
+      - Stagione 1800
+      - Stagione 1900
+      - Stagione 1600
+      réponse: Stagione 1900
+      anecdote: La Saison 1900, prodotta dal birrificio Lefebvre, è una birra tradizionale vallona.
+    - id: 26
+      question: Quale di queste birre belghe ha un'etichetta biologica ?
+      propositions:
+      - Affligem
+      - Blanche du Hainaut
+      - Zulte
+      - Ciney
+      réponse: Blanche du Hainaut
+      anecdote: Brasserie Dupont è un'azienda belga con sede a Tourpes, nella città di Leuze-en-Hainaut, nel centro dell'Hainaut occidentale.
+    - id: 27
+      question: Di che colore è la birra La Troublette, prodotta vicino alla città di Dinant ?
+      propositions:
+      - Bruna
+      - Bianco
+      - Ambra
+      - Nero
+      réponse: Bianco
+      anecdote: La Troublette è una birra bianca del birrificio Caracole, leggera e rinfrescante, anch'essa biologica.
+    - id: 28
+      question: Quale birra belga è nota per essere una birra viva ?
+      propositions:
+      - Carlo V
+      - Bon Secours
+      - St Feuillien
+      - Grimbergen
+      réponse: Bon Secours
+      anecdote: La gamma di birre Bon Secours è una gamma di birre artigianali belghe del tipo di birra d'abbazia, ad alta fermentazione.
+    - id: 29
+      question: Quale di queste birre belghe proviene direttamente dal birrificio romano ?
+      propositions:
+      - Moinette
+      - Caracole
+      - Rochefort
+      - Ename
+      réponse: Ename
+      anecdote: Il birrificio romano paga una royalty al museo della città di Ename per l'uso della denominazione Abbaye d'Ename.
+    - id: 30
+      question: Quale birra belga ha un gigante sulle sue etichette ?
+      propositions:
+      - Gouyasse
+      - Giuda
+      - Rochefort
+      - Palm
+      réponse: Gouyasse
+      anecdote: Il birrificio è visitabile in 50 minuti e si conclude con la degustazione di una birra a scelta tra le birre prodotte.
+  nl:
+  - débutant:
+    - id: 1
+      question: Welk Belgisch bier wordt gemaakt door zure kersen toe te voegen aan lambiek ?
+      propositions:
+      - Kriek
+      - Duvel
+      - Leffe
+      - Chimay
+      réponse: Kriek
+      anecdote: In het verleden produceerden sommige brouwerijen krieks gemaakt van een mengsel van lagers (of pils) en kersen.
+    - id: 2
+      question: Welke van de volgende duidt niet op een kleur van Belgisch bier ?
+      propositions:
+      - Rood
+      - Amber
+      - Zwart
+      - Blond
+      réponse: Rood
+      anecdote: Bier is een drank die wordt verkregen door fermentatie van granen, meestal gerstekorrels.
+    - id: 3
+      question: Welk Belgisch bier, vlaggenschip van brouwerij Dubuisson, 12 % inhoud ?
+      propositions:
+      - Bush
+      - Stella
+      - Tongerlo
+      - Plotselinge dood
+      réponse: Bush
+      anecdote: Ook wel Bush 12 genoemd, kunnen we op het etiket lezen dat dit het sterkste bier van België is.
+    - id: 4
+      question: Welk etiket staat op een fles Leffe, ontwikkeld in vele varianten ?
+      propositions:
+      - Zwitserse makelij
+      - Biologisch bier
+      - Abdijbier
+      - Trappist
+      réponse: Abdijbier
+      anecdote: Het Leffe-bier, genoemd naar een district van Dinant in de Maasvallei, maakt deel uit van de variëteit aan abdijbieren.
+    - id: 5
+      question: Welk Belgisch bier moet gedronken worden in een glas ondersteund door een houten voet ?
+      propositions:
+      - Duvel
+      - Bacchus
+      - Kwak
+      - Lupulus
+      réponse: Kwak
+      anecdote: Volgens de legende komt de naam van de Kwak van het geluid dat je hoort als je je glas droog drinkt.
+    - id: 6
+      question: Welk afdeksysteem wordt gebruikt op Quintine-flessen ?
+      propositions:
+      - Mechanica
+      - Van kurk
+      - Capsule
+      - Om te schroeven
+      réponse: Mechanica
+      anecdote: De Brasserie Ellezelloise produceert verschillende ambachtelijke bieren, waaronder Quintine.
+    - id: 7
+      question: Welk Belgisch bier behoudt zijn referentiestatus in het land van de blanken ?
+      propositions:
+      - Corsendonk
+      - Hoegaarden
+      - Bacchus
+      - Floreffe
+      réponse: Hoegaarden
+      anecdote: Volgens een algemeen geloof wordt Hoegaarden-bier vaak aangehaald als het eerste witbier.
+    - id: 8
+      question: Wie schuilt de indringer tussen deze Chimay-bieren, niet gefilterd of gepasteuriseerd ?
+      propositions:
+      - Blauw
+      - Rood
+      - Wit
+      - Dauw
+      réponse: Dauw
+      anecdote: Chimay is een Belgisch trappistenbier, geproduceerd in de abdij Notre-Dame de Scourmont.
+    - id: 9
+      question: Welk van deze Belgische bieren zit er in een ovale fles ?
+      propositions:
+      - Leffe
+      - Kriek
+      - Bush
+      - Orval
+      réponse: Orval
+      anecdote: Orval kenmerkt zich door een vrij sterke bitterheid en profiteert van enkele maanden rijping in de kelder.
+    - id: 10
+      question: Welke van deze Belgische bieren, minder bekend bij het grote publiek, is op smaak gebracht met honing ?
+      propositions:
+      - Ename
+      - Affligem
+      - Barbar
+      - Caracole
+      réponse: Barbar
+      anecdote: La Barbar wordt door veel bierliefhebbers beschouwd als de rust van de krijger.
+  - confirmé:
+    - id: 11
+      question: La Gauloise is een Belgisch bier waarvan de fles welke capaciteit biedt ?
+      propositions:
+      - 50 cl
+      - 33 cl
+      - 75 cl
+      - 25 cl
+      réponse: 33 cl
+      anecdote: Brouwerij Bocq is een Belgische brouwerij gelegen in Purnode, in de gemeente Yvoir in België.
+    - id: 12
+      question: Welke indringer verstopt zich tussen deze Rochefort-bieren, gebrouwen in de abdij sinds 1595 ?
+      propositions:
+      - Rochefort 10
+      - Rochefort 12
+      - Rochefort 8
+      - Rochefort 6
+      réponse: Rochefort 12
+      anecdote: In Rochefort wordt de hoeveelheid geproduceerd bier vrijwillig beperkt tot 300 hectoliter per week.
+    - id: 13
+      question: Welke koning van Sardinië heeft een goudblond bier in België ?
+      propositions:
+      - Ferdinand I
+      - Charles VI
+      - Karel V
+      - Philip II
+      réponse: Karel V
+      anecdote: Brouwerij Haacht, die Karel V produceert, is een Belgische brouwerij gelegen in de provincie Vlaams-Brabant.
+    - id: 14
+      question: Welke van deze steden in België heeft een cuvée blond bier ?
+      propositions:
+      - Couvin
+      - Waremme
+      - Verviers
+      - Ciney
+      réponse: Ciney
+      anecdote: Er zijn drie soorten Ciney-bieren: Ciney Blonde, Ciney Brune en Ciney Spéciale.
+    - id: 15
+      question: Welke kleur heeft Delirium Tremens op de fles ?
+      propositions:
+      - Rood
+      - Groen
+      - Geel
+      - Blauw
+      réponse: Blauw
+      anecdote: In 1992 werd de Brotherhood of the Pink Elephant opgericht om Delirium Tremens en andere Melle-bieren te promoten.
+    - id: 16
+      question: Welke van deze Belgische bieren is er zowel in een klassieke versie als in een biologische versie ?
+      propositions:
+      - Chimay
+      - Duvel
+      - Barbar
+      - Moinette
+      réponse: Moinette
+      anecdote: La Moinette is een bier met veel schuim, een moutig en hoppig aroma en een licht bittere smaak.
+    - id: 17
+      question: Welk Belgisch bier, geproduceerd in de provincie Henegouwen, bevat vitamine C ?
+      propositions:
+      - Chimay
+      - Rochefort 10
+      - Orval
+      - St Feuillien
+      réponse: St Feuillien
+      anecdote: Het St Feuillien-gamma is verkrijgbaar in vier versies, waaronder de erkende Belgische abdijbieren.
+    - id: 18
+      question: Welk bier dat als wit wordt geadverteerd, heeft een bijna amberkleurige kleur ?
+      propositions:
+      - Uitgelicht
+      - Sint Bernardus
+      - Grimbergen
+      - Westmalle
+      réponse: Grimbergen
+      anecdote: Grimbergen is een biermerk van Belgische oorsprong dat tegenwoordig tot de groepen Carlsberg en Heineken behoort.
+    - id: 19
+      question: Welk Belgisch bier duidt ook een lied aan dat wordt uitgevoerd door Lady Gaga ?
+      propositions:
+      - Op deze manier geboren
+      - Haar
+      - Judas
+      - Bloody Mary
+      réponse: Judas
+      anecdote: Alken-Maes is een Belgische brouwerij die werd opgericht in 1988 toen de brouwerijen van Maes en Alken fuseerden.
+    - id: 20
+      question: Welk Belgisch bier is herkenbaar aan zijn elfje met de rode dop ?
+      propositions:
+      - La Maes
+      - De barbar
+      - De Durboyse
+      - La Chouffe
+      réponse: La Chouffe
+      anecdote: Het zeer specifieke aroma van Chouffe combineert zowel oranjebloesem als zure appel.
+  - expert:
+    - id: 21
+      question: Welk bier van spontane gisting wordt geproduceerd in het zuiden van Brussel ?
+      propositions:
+      - Drievoudig
+      - Pils
+      - Stout
+      - Lambiek
+      réponse: Lambiek
+      anecdote: Lambiek is een bier dat afhankelijk van de leeftijd min of meer zuur is, zonder schuim of schuim, met ongeveer vijf graden alcohol.
+    - id: 22
+      question: Welke Belgische brouwerij produceert Brigand, een amberkleurig bier van hoge gisting ?
+      propositions:
+      - Van Honsebrouck
+      - Liefmans
+      - Van Steenberge
+      - Bosteels
+      réponse: Van Honsebrouck
+      anecdote: De biermerken Kasteel, St-Louis, Brigand en Bacchus worden voornamelijk bij Van Honsebrouck gebrouwen.
+    - id: 23
+      question: Welk Belgisch bier heeft een vreemde slak op het etiket ?
+      propositions:
+      - Caracole
+      - Moinette
+      - Rochefort
+      - Gordon
+      réponse: Caracole
+      anecdote: De jaarlijkse productie van de Caracole-brouwerij is 1600 hl, wat neerkomt op ongeveer één brouwsel per week.
+    - id: 24
+      question: Welk wit dier wordt gebruikt als logo voor palmbier ?
+      propositions:
+      - Een beer
+      - Een leeuw
+      - Een paard
+      - Een olifant
+      réponse: Een paard
+      anecdote: De geschiedenis van Palm begint in 1597 met de ondertekening van een verkoopakte voor een boerderij, wat de keuze van het logo verklaart.
+    - id: 25
+      question: Welke van de volgende duidt een amberkleurig Belgisch bier aan ?
+      propositions:
+      - Seizoen 1700
+      - Seizoen 1800
+      - Seizoen 1600
+      - Seizoen 1900
+      réponse: Seizoen 1900
+      anecdote: De Saison 1900, geproduceerd door de brouwerij Lefebvre, is een traditioneel Waals bier.
+    - id: 26
+      question: Welke van deze Belgische bieren heeft een biologisch label ?
+      propositions:
+      - Affligem
+      - Blanche du Hainaut
+      - Ciney
+      - Zulte
+      réponse: Blanche du Hainaut
+      anecdote: Brasserie Dupont is een Belgisch bedrijf gevestigd in Tourpes in de stad Leuze-en-Hainaut, in het centrum van West-Henegouwen.
+    - id: 27
+      question: Welke kleur bier is La Troublette, gebrouwen nabij de stad Dinant ?
+      propositions:
+      - Zwart
+      - Wit
+      - Amber
+      - Brunette
+      réponse: Wit
+      anecdote: La Troublette is een witbier van brouwerij Caracole, licht en verfrissend, dat ook nog eens biologisch bestaat.
+    - id: 28
+      question: Van welk Belgisch bier is bekend dat het een levend bier is ?
+      propositions:
+      - Karel V
+      - Grimbergen
+      - St Feuillien
+      - Bon Secours
+      réponse: Bon Secours
+      anecdote: Het assortiment bieren van Bon Secours is een gamma Belgische ambachtelijke bieren van het type abdijbier, met hoge gisting.
+    - id: 29
+      question: Welke van deze Belgische bieren komt rechtstreeks van de Romeinse brouwerij ?
+      propositions:
+      - Ename
+      - Moinette
+      - Rochefort
+      - Caracole
+      réponse: Ename
+      anecdote: De Romeinse brouwerij betaalt een royalty aan het museum van de stad Ename voor het gebruik van de benaming Abbaye d'Ename.
+    - id: 30
+      question: Welk Belgisch bier heeft een reus op zijn etiketten ?
+      propositions:
+      - Rochefort
+      - Judas
+      - Palm
+      - Gouyasse
+      réponse: Gouyasse
+      anecdote: De brouwerij is in 50 minuten te bezoeken en eindigt met het proeven van een bier naar keuze uit de gebrouwen bieren.

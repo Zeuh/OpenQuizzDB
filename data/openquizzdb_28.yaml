@@ -1,0 +1,280 @@
+---
+fournisseur: OpenQuizzDB - Fournisseur de contenu libre (https://www.openquizzdb.org)
+rédacteur: Philippe Bresoux
+thème: Herbes et épices (Parfumer et donner du relief aux plats)
+difficulté: 4 / 5
+quizz:
+  fr:
+  - débutant:
+    - id: 1
+      question: Quelle est la couleur du paprika, utilisé en cuisine pour son parfum âcre ?
+      propositions:
+      - Verte
+      - Rouge
+      - Blanche
+      - Jaune
+      réponse: Rouge
+      anecdote: Le paprika  est une épice en poudre obtenue à partir de la graine mûre, séchée et moulue du piment doux ou poivron.
+    - id: 2
+      question: Le safran, obtenu par déshydratation, est une épice tirée de quelle variété de fleur ?
+      propositions:
+      - Tulipe
+      - Crocus
+      - Acacia
+      - Pavot
+      réponse: Crocus
+      anecdote: Le safran, poétiquement appelé or rouge, est l'épice utilisée en cuisine la plus chère au monde.
+    - id: 3
+      question: Dans l'antiquité, quelle plante aromatique composait la couronne des vainqueurs ?
+      propositions:
+      - Basilic
+      - Thym
+      - Laurier
+      - Persil
+      réponse: Laurier
+      anecdote: Dans le sport, les concours ou les prix intellectuels, le laurier (Laurus nobilis) est le symbole de la victoire, d'où l'origine du mot lauréat.
+    - id: 4
+      question: Quelle plante est utilisée au Maghreb pour la préparation du thé ?
+      propositions:
+      - Coriandre
+      - Anis
+      - Menthe
+      - Cannelle
+      réponse: Menthe
+      anecdote: Le thé à la menthe, la boisson de l'hospitalité, n'est pas seulement proposée lors des repas mais tout au long de la journée.
+    - id: 5
+      question: Quel est le principal parfum du pastis, dont le titre alcoométrique minimal est de 40 % ?
+      propositions:
+      - Menthe
+      - Cardamone
+      - Menthe
+      - Anis
+      réponse: Anis
+      anecdote: Lorsque l'on fait le mélange en versant l'eau, on passe alors d'une couleur ambrée assez transparente à un jaune trouble.
+    - id: 6
+      question: Quelle plante est nommée farigoule en Provence ?
+      propositions:
+      - Marjolaine
+      - Bergamote
+      - Thym
+      - Basilic
+      réponse: Thym
+      anecdote: Ces plantes rampantes ou en coussinet sont riches en huiles essentielles et, à ce titre, font partie des plantes aromatiques.
+    - id: 7
+      question: Quelle herbe est indispensable dans la sauce béarnaise ?
+      propositions:
+      - Cerfeuil
+      - Estragon
+      - Romarin
+      - Sauge
+      réponse: Estragon
+      anecdote: La sauce béarnaise est une sauce émulsifiée chaude à base de beurre clarifié, de jaune d'oeuf, d'échalote, d'estragon et de cerfeuil.
+    - id: 8
+      question: Quel mélange contient entre autres poivre, coriandre, curcuma, fenugrec et piment ?
+      propositions:
+      - Cumin
+      - Carvi
+      - Curry
+      - Romarin
+      réponse: Curry
+      anecdote: Selon sa composition, le curry peut être très doux ou très fort (pimenté), généralement très parfumé.
+    - id: 9
+      question: Quelle noix est utilisée pour parfumer les pommes de terre et les soufflés au fromage ?
+      propositions:
+      - Gingembre
+      - Origan
+      - Poivre
+      - Muscade
+      réponse: Muscade
+      anecdote: La noix de muscade est utilisée râpée pour accommoder les viandes, less soupes, les purées de légumes et certains cocktails.
+    - id: 10
+      question: En quelle année a été lancée la campagne de publicité « Ducros se décarcasse » ?
+      propositions:
+      - 1965
+      - 1985
+      - 1975
+      - 1995
+      réponse: 1975
+      anecdote: Gilbert Ducros, industriel français, est le créateur des épices Ducros, désormais propriété du groupe américain McCormick And Company.
+  - confirmé:
+    - id: 11
+      question: Sous quel nom le thym des bergers, parfois confondu avec la marjolaine, est-il plus connu ?
+      propositions:
+      - Ciboulette
+      - Estragon
+      - Origan
+      - Basilic
+      réponse: Origan
+      anecdote: L'origan, qui nécessite un sol léger et aéré, se multiplie par éclat de touffes au printemps ou éventuellement par semis.
+    - id: 12
+      question: Quelle plante forme le pistou, avec l'ail et l'huile d'olive ?
+      propositions:
+      - Marjolaine
+      - Basilic
+      - Menthe
+      - Cumin
+      réponse: Basilic
+      anecdote: Le pistou constitue l'ingrédient essentiel de la soupe au pistou, une soupe de légumes frais et secs à laquelle on ajoute des pâtes.
+    - id: 13
+      question: Laquelle de ces plantes aromatiques possède un goût légèrement citronné ?
+      propositions:
+      - Absinthe
+      - Marjolaine
+      - Mélisse
+      - Menthe
+      réponse: Mélisse
+      anecdote: La mélisse a des petites feuilles ovales gaufrées et dentelées qui exhalent un parfum doux et citronné quand on les froisse.
+    - id: 14
+      question: Quelle épice est constituée par le fruit de certaines orchidées ?
+      propositions:
+      - Cannelle
+      - Aneth
+      - Myrte
+      - Vanille
+      réponse: Vanille
+      anecdote: Pour obtenir une épice richement aromatique, la culture et la préparation de la vanille nécessitent des soins longs et attentifs.
+    - id: 15
+      question: Quel aromate est aussi considéré comme un médicament ?
+      propositions:
+      - Absinthe
+      - Thym
+      - Ail
+      - Sauge
+      réponse: Sauge
+      anecdote: Les sauges étaient considérées au Moyen Âge comme une panacée, certaines espèces possédant en effet des vertus médicinales.
+    - id: 16
+      question: Parmi ces propositions, laquelle ne désigne pas un mélange de plusieurs épices ?
+      propositions:
+      - Cinq-parfums
+      - Toute épice
+      - Curry
+      - Garam masala
+      réponse: Toute épice
+      anecdote: La graine et l'huile de nigelle sont très appréciées, en particulier des musulmans, selon qui cette plante serait une panacée.
+    - id: 17
+      question: Quelle épice extraite de la fleur d'un crocus parfume le risotto à la milanaise ?
+      propositions:
+      - Curry
+      - Safran
+      - Origan
+      - Curcuma
+      réponse: Safran
+      anecdote: Selon certains chroniqueurs gastronomiques, le risotto à la milanaise descendrait directement d'une recette médiévale du riz au safran.
+    - id: 18
+      question: Quel apaisement procure une infusion de badiane, fruit du badianier de Chine ?
+      propositions:
+      - Toux
+      - Rhumatismes
+      - Digestion
+      - Démangeaisons
+      réponse: Digestion
+      anecdote: Les fruits du badianier sont cueillis verts, avant d'être séchés au soleil où ils prennent une couleur marron rouge.
+    - id: 19
+      question: Combien faut-il de fleurs de safran pour obtenir 500 grammes de filaments ?
+      propositions:
+      - 40 000
+      - 100 000
+      - 60 000
+      - 80 000
+      réponse: 60 000
+      anecdote: Le crocus prospère dans les climats semblables à celui des maquis méditerranéens ou du chaparral nord-américain.
+    - id: 20
+      question: Avec quelle viande êtes-vous sûr de ne pas faire de fausse note à utiliser la cannelle ?
+      propositions:
+      - Agneau
+      - Boeuf
+      - Poulet
+      - Porc
+      réponse: Agneau
+      anecdote: Sur l'île de Sri Lanka, seuls les Salagama avaient le droit de toucher à la cannelle, les autres étant alors punis de mort.
+  - expert:
+    - id: 21
+      question: Quelle épice et plante exceptionnelle est parfois appelée safran des Indes ?
+      propositions:
+      - Origan
+      - Pesto
+      - Noix de muscade
+      - Curcuma
+      réponse: Curcuma
+      anecdote: S'il est répandu dans le sud-est de l'Asie depuis l'antiquité, le curcuma est également l'objet de nombreuses études scientifiques.
+    - id: 22
+      question: En Inde, quelles graines sont considérées comme un symbole d'immortalité ?
+      propositions:
+      - Sésame
+      - Thym
+      - Quinoa
+      - Pavot
+      réponse: Sésame
+      anecdote: Le sésame connaît un fort développement du fait de sa culture facile et des faibles coûts de production.
+    - id: 23
+      question: Quel cousin de la marjolaine est utilisé dans la soupe de goulasch ?
+      propositions:
+      - Laurier
+      - Sauge
+      - Cumin
+      - Origan
+      réponse: Origan
+      anecdote: Le goulasch est vraisemblablement à l'origine un mets indissociable de la vie pastorale dans la Grande plaine hongroise.
+    - id: 24
+      question: Quel nom commun utilise-t-on parfois pour désigner l'aneth ?
+      propositions:
+      - Fenouil bâtard
+      - Mauvais ail
+      - Céleri vulgaire
+      - Cumin noir
+      réponse: Fenouil bâtard
+      anecdote: L'aneth est cultivée pour ses feuilles et ses graines aromatiques, proche du fenouil par son odeur et ses propriétés.
+    - id: 25
+      question: Quelle partie du gingembre utilise-t-on dans un grand nombre de cuisines asiatiques ?
+      propositions:
+      - Le rhizome
+      - Les fleurs
+      - Les feuilles
+      - La racine
+      réponse: Le rhizome
+      anecdote: Les jeunes racines de gingembre, qui sont en fait des rhizomes, sont juteuses et charnues avec un goût très doux.
+    - id: 26
+      question: Quelle plante très ramifiée est aussi appelée herbe sacrée ?
+      propositions:
+      - Sarriette
+      - Coriandre
+      - Sauge
+      - Estragon
+      réponse: Sauge
+      anecdote: Commune en Europe, plus spécialement dans les régions méridionales, la sauge est cependant rare à l'état sauvage.
+    - id: 27
+      question: Quelle épice originaire du Mexique a été commercialisée en Europe au XVIe siècle ?
+      propositions:
+      - Cannelle
+      - Cacao
+      - Basilic
+      - Canille
+      réponse: Canille
+      anecdote: La vanille se présente sous la forme de bâtonnets noirs et luisants, communément appelés « gousses de vanille ».
+    - id: 28
+      question: Quelle épice, dont le fruit ressemble à une orange, est surtout cultivée en Calabre ?
+      propositions:
+      - Sarriette
+      - Estragon
+      - Bergamote
+      - Sauge
+      réponse: Bergamote
+      anecdote: Le fruit est récolté principalement pour l'huile utilisée pour moitié dans le domaine alimentaire et en cosmétique.
+    - id: 29
+      question: Quelle plante est appréciée des Allemands pour assaisonner les haricots ?
+      propositions:
+      - Sarriette
+      - Origan
+      - Romarin
+      - Basilic
+      réponse: Sarriette
+      anecdote: Les espèces de sarriettes ont comme habitat préférentiel des lieux ensoleillés aux sols calcaires, légers et bien drainés.
+    - id: 30
+      question: Quelle épice parfume les fromages comme le gouda ou encore le munster ?
+      propositions:
+      - Carvi
+      - Cardamone
+      - Sarriette
+      - Cumin
+      réponse: Carvi
+      anecdote: Le carvi, proche du fenouil, de l'anis et de l'aneth, est parfois appelé anis des Vosges ou cumin de Hollande.

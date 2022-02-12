@@ -1,0 +1,376 @@
+{                                     
+  "fournisseur": "OpenQuizzDB - Fournisseur de contenu libre (https://www.openquizzdb.org)",
+  "rédacteur": "Philippe Bresoux",
+  "thème": "Sports collectifs (Estime et confiance en soi)",         
+  "difficulté": "4 / 5",
+  "quizz": {
+    "fr": {
+      "débutant": [
+      {
+        "id": 1,
+        "question": "Combien vaut un lancer franc au basket-ball, accordé à un joueur victime d'une faute ?",
+        "propositions": [
+          "Trois points",
+          "Un point",
+          "Sept points",
+          "Cinq points"
+        ],
+        "réponse": "Un point",
+        "anecdote": "En cas de faute flagrante, les lancers francs accordés le sont sans joueur au rebond, car la balle est redonné à l'équipe du tireur."
+      },
+      {
+        "id": 2,
+        "question": "De quel sport la finale est-elle connue aux USA sous le nom de « Super Bowl » ?",
+        "propositions": [
+          "Football",
+          "Basket-ball",
+          "Football américain",
+          "Baseball"
+        ],
+        "réponse": "Football américain",
+        "anecdote": "Le Super Bowl est la finale du championnat de football américain qui voit s'affronter les vainqueurs des deux conférences."
+      },
+      {
+        "id": 3,
+        "question": "En tennis, combien de sets maximum peut-il y avoir dans un match de Coupe Davis ?",
+        "propositions": [
+          "Cinq",
+          "Sept",
+          "Quatre",
+          "Trois"
+        ],
+        "réponse": "Cinq",
+        "anecdote": "La Coupe Davis est la plus prestigieuse des compétitions internationales annuelles de tennis masculin par équipes."
+      },
+      {
+        "id": 4,
+        "question": "Quel nom porte la version « soft » du baseball aux États-Unis, aussi appelé « balle-molle » ?",
+        "propositions": [
+          "Netball",
+          "Softball",
+          "Handball",
+          "Korfball"
+        ],
+        "réponse": "Softball",
+        "anecdote": "Tout comme le baseball, le softball est pratiqué par les deux sexes de façon amateur ou compétitive."
+      },
+      {
+        "id": 5,
+        "question": "Au rugby à XV, combien de points vaut un essai permettant de tenter une transformation ?",
+        "propositions": [
+          "Deux",
+          "Cinq",
+          "Quatre",
+          "Trois"
+        ],
+        "réponse": "Cinq",
+        "anecdote": "Au rugby, un essai est l'action de jeu consistant à aplatir le ballon dans l'en-but adverse."
+      },
+      {
+        "id": 6,
+        "question": "Laquelle de ces propositions représente le point commun entre le football et le cricket ?",
+        "propositions": [
+          "La balle",
+          "Onze joueurs",
+          "La batte",
+          "Le terrain"
+        ],
+        "réponse": "Onze joueurs",
+        "anecdote": "Plus de cent pays sont affiliés à l'International Cricket Council, qui organise notamment la Coupe du monde de cricket."
+      },
+      {
+        "id": 7,
+        "question": "Combien de temps a-t-on pour viser avant de lancer un panier au basket-ball ?",
+        "propositions": [
+          "45 secondes",
+          "10 secondes",
+          "20 secondes",
+          "30 secondes"
+        ],
+        "réponse": "30 secondes",
+        "anecdote": "Le basket-ball se pratique exclusivement à la main, et les joueurs ne peuvent se déplacer balle en main qu'en la dribblant au sol."
+      },
+      {
+        "id": 8,
+        "question": "Dans quel sport Johan Cruijff, dit le « Chevalier Blanc », est-il connu ?",
+        "propositions": [
+          "La boxe",
+          "Le tennis",
+          "Le football",
+          "Le golf"
+        ],
+        "réponse": "Le football",
+        "anecdote": "Premier joueur de football à remporter trois fois le Ballon d'or, il est considéré comme l'un des meilleurs joueurs de l'Histoire."
+      },
+      {
+        "id": 9,
+        "question": "En France, dans quel sport collectif gagne-t-on le Bouclier de Brennus ?",
+        "propositions": [
+          "Basket-ball",
+          "Football",
+          "Rugby",
+          "Handball"
+        ],
+        "réponse": "Rugby",
+        "anecdote": "Conçu d'après un dessin initial du baron Pierre de Coubertin, ce trophée doit son nom à son artiste créateur Charles Brennus."
+      },
+      {
+        "id": 10,
+        "question": "Entré aux Jeux olympiques, quel est le sport collectif aquatique « par excellence » ?",
+        "propositions": [
+          "Roller derby",
+          "Ultimate",
+          "Water-polo",
+          "Fistball"
+        ],
+        "réponse": "Water-polo",
+        "anecdote": "Le water-polo masculin existe depuis 1870 alors que le water-polo féminin n'est apparu qu'au début du XXe siècle."
+      }
+    ],
+    "confirmé": [
+      {
+        "id": 11,
+        "question": "Où s'affrontent la plupart du temps les joueurs de kayak-polo ?",
+        "propositions": [
+          "Sur gazon",
+          "En piscine",
+          "Sur la neige",
+          "En montagne"
+        ],
+        "réponse": "En piscine",
+        "anecdote": "Le kayak-polo est souvent décrit comme un mélange de kayak, de handball, basket-ball et de water-polo."
+      },
+      {
+        "id": 12,
+        "question": "Combien de joueurs compte-t-on dans une équipe de hockey sur gazon ?",
+        "propositions": [
+          "Six",
+          "Onze",
+          "Huit",
+          "Cinq"
+        ],
+        "réponse": "Onze",
+        "anecdote": "Le hockey sur gazon est le plus ancien jeu de balle avec crosse connu qu'on ait pu trouver parmi les premières civilisations."
+      },
+      {
+        "id": 13,
+        "question": "À quel moment une équipe peut-elle marquer un point au volley-ball ?",
+        "propositions": [
+          "En réception",
+          "En fin de set",
+          "Après un service",
+          "À la mi-temps"
+        ],
+        "réponse": "Après un service",
+        "anecdote": "Avec 269 millions de pratiquants, le volley-ball est le sport le plus pratiqué dans le monde."
+      },
+      {
+        "id": 14,
+        "question": "Que réalise une équipe qui gagne tous ses matchs lors d'un Tournoi des Six Nations ?",
+        "propositions": [
+          "Un tie-break",
+          "Le Jeu décisif",
+          "Une Triple couronne",
+          "Le Grand Chelem"
+        ],
+        "réponse": "Le Grand Chelem",
+        "anecdote": "Par extension, cette expression peut être employée pour toute compétition fonctionnant sur un système identique au Tournoi."
+      },
+      {
+        "id": 15,
+        "question": "Quel est le pays des terribles All Blacks, rugbymen de renom ?",
+        "propositions": [
+          "Pays de Galles",
+          "Irlande",
+          "Nouvelle-Zélande",
+          "Écosse"
+        ],
+        "réponse": "Nouvelle-Zélande",
+        "anecdote": "Le rugby à XV est le sport le plus populaire de Nouvelle-Zélande et attire principalement les meilleurs sportifs du pays."
+      },
+      {
+        "id": 16,
+        "question": "Combien y a-t-il de joueurs sur le terrain à gazon d'une équipe de polo ?",
+        "propositions": [
+          "Quatre",
+          "Sept",
+          "Six",
+          "Cinq"
+        ],
+        "réponse": "Quatre",
+        "anecdote": "Le polo est un sport équestre qui serait né chez les peuples cavaliers des steppes d'Asie centrale il y a 2 500 ans au moins."
+      },
+      {
+        "id": 17,
+        "question": "Dans quel sport frappe-t-on un palet avec une crosse de 135 cm ?",
+        "propositions": [
+          "Croquet",
+          "Hockey sur glace",
+          "Cricket",
+          "Baseball"
+        ],
+        "réponse": "Hockey sur glace",
+        "anecdote": "Sport de vitesse, le hockey sur glace est souvent qualifié de « sport collectif le plus rapide du monde »."
+      },
+      {
+        "id": 18,
+        "question": "Qui a marqué un but de la main gauche en Coupe du Monde de football 1986 ?",
+        "propositions": [
+          "Didier Deschamps",
+          "Fabio Cannavaro",
+          "Laurent Blanc",
+          "Diego Maradona"
+        ],
+        "réponse": "Diego Maradona",
+        "anecdote": "En 1986, Maradona était capitaine d'une équipe d'Argentine qui voulait à tout prix venger la déroute de 1982."
+      },
+      {
+        "id": 19,
+        "question": "Quel sport américain dérivé des mêmes racines que le cricket se pratique en neuf manches ?",
+        "propositions": [
+          "Basket-ball",
+          "Golf",
+          "Baseball",
+          "Football américain"
+        ],
+        "réponse": "Baseball",
+        "anecdote": "Au baseball, les gants de réception de la balle que portent les joueurs de défense varient selon le poste occupé."
+      },
+      {
+        "id": 20,
+        "question": "Combien de joueurs dénombre-t-on dans une équipe de cricket ?",
+        "propositions": [
+          "Treize",
+          "Douze",
+          "Dix",
+          "Onze"
+        ],
+        "réponse": "Onze",
+        "anecdote": "Un match de cricket peut durer, selon la forme jouée, de quelques heures à parfois plusieurs jours."
+      }
+    ],
+    "expert": [
+      {
+        "id": 21,
+        "question": "Quel sport d'équipe se pratique en patin à roulettes sur une piste de forme ovale ?",
+        "propositions": [
+          "Ultimate",
+          "Fistball",
+          "Roller derby",
+          "Water-polo"
+        ],
+        "réponse": "Roller derby",
+        "anecdote": "En 2013, on comptait plus de 1 250 ligues de roller derby autour du monde, principalement dans les pays anglophones."
+      },
+      {
+        "id": 22,
+        "question": "Où se jouent les matchs internationaux de rugby dans le Grand Londres ?",
+        "propositions": [
+          "Twickenham",
+          "Rectory Field",
+          "Edgeley Park",
+          "Madejski Stadium"
+        ],
+        "réponse": "Twickenham",
+        "anecdote": "Le 18 septembre 2015, le stade a accueilli la cérémonie d'ouverture de la Coupe du monde de rugby 2015."
+      },
+      {
+        "id": 23,
+        "question": "Quel sport souvent assimilé au volley-ball se pratique en plein air ?",
+        "propositions": [
+          "Roller derby",
+          "Water-polo",
+          "Ultimate",
+          "Fistball"
+        ],
+        "réponse": "Fistball",
+        "anecdote": "La dernière édition de la Coupe du monde masculine s'est tenue en Allemagne en août 2007. "
+      },
+      {
+        "id": 24,
+        "question": "Dans quel pays se trouve le terrain de rugby aujourd'hui appelé Coca-Cola Park ?",
+        "propositions": [
+          "États-Unis",
+          "Nouvelle-Zélande",
+          "Afrique du Sud",
+          "France"
+        ],
+        "réponse": "Afrique du Sud",
+        "anecdote": "Construit en 1928, le stade a notamment accueilli le finale de la Coupe du monde de rugby à XV de 1995."
+      },
+      {
+        "id": 25,
+        "question": "Quel sport se pratique sur le célèbre terrain londonien The Oval ?",
+        "propositions": [
+          "Football",
+          "Rugby",
+          "Tennis",
+          "Cricket"
+        ],
+        "réponse": "Cricket",
+        "anecdote": "Traditionnellement, il accueille les matchs de l'équipe du Surrey, ainsi que le dernier test-match de la saison sur le sol anglais."
+      },
+      {
+        "id": 26,
+        "question": "Combien de cercles sont dessinés sur une patinoire de hockey sur glace ?",
+        "propositions": [
+          "Neuf",
+          "Sept",
+          "Cinq",
+          "Trois"
+        ],
+        "réponse": "Cinq",
+        "anecdote": "Le hockey se joue sur une surface de glace rectangulaire, d'une soixantaine de mètres de long avec des coins arrondis."
+      },
+      {
+        "id": 27,
+        "question": "Quel sport fut pratiqué par les Suédois à l'Ice Stadium de Stockholm ?",
+        "propositions": [
+          "Volley-ball",
+          "Hockey",
+          "Basket-ball",
+          "Cricket"
+        ],
+        "réponse": "Hockey",
+        "anecdote": "Le club a été fondé en 1946 après des tentatives antérieures ajournées pour cause de Seconde Guerre mondiale."
+      },
+      {
+        "id": 28,
+        "question": "Combien de joueurs figurent dans une équipe de moto-ball ?",
+        "propositions": [
+          "Neuf",
+          "Sept",
+          "Trois",
+          "Cinq"
+        ],
+        "réponse": "Cinq",
+        "anecdote": "Chaque formation de moto-ball est composée de quatre joueurs plus un gardien qui n'est pas à moto."
+      },
+      {
+        "id": 29,
+        "question": "De quelle langue vient le mot polo, d'abord entraînement pour les unités de cavalerie ?",
+        "propositions": [
+          "Le coréen",
+          "Le portugais",
+          "Le tibétain",
+          "Le russe"
+        ],
+        "réponse": "Le tibétain",
+        "anecdote": "Le sport traditionnel de polo se joue sur un large terrain à gazon mesurant jusqu'à 300 mètres de long."
+      },
+      {
+        "id": 30,
+        "question": "Quel sport collectif utilise un disque opposant deux équipes de sept joueurs ?",
+        "propositions": [
+          "Ultimate",
+          "Fistball",
+          "Roller derby",
+          "Water-polo"
+        ],
+        "réponse": "Ultimate",
+        "anecdote": "L'ultimate se pratique dans sa version la plus courante sur terrain en herbe à l'extérieur (7 contre 7)."
+      }
+    ]
+    }
+  }
+}

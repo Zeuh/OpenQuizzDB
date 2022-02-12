@@ -1,0 +1,1650 @@
+---
+fournisseur: OpenQuizzDB - Fournisseur de contenu libre (https://www.openquizzdb.org)
+rédacteur: Philippe Bresoux
+thème: Marilyn Monroe (Une mort toujours mystérieuse)
+difficulté: 4 / 5
+quizz:
+  fr:
+  - débutant:
+    - id: 1
+      question: Quel prénom est inscrit sur le certificat de baptême de Marilyn Monroe ?
+      propositions:
+      - Lucy Fay
+      - Ruby Catherine
+      - Louise Marie
+      - Norma Jeane
+      réponse: Norma Jeane
+      anecdote: Marilyn Monroe est née Norma Jeane Mortenson, parfois aussi Norma Jeane Baker selon son certificat de baptême.
+    - id: 2
+      question: Dans quelle ville de Californie est née l'actrice Marilyn Monroe ?
+      propositions:
+      - San Francisco
+      - San Diego
+      - Sacramento
+      - Los Angeles
+      réponse: Los Angeles
+      anecdote: Son prénom (Norma) fut choisi par sa mère en référence à l'actrice Norma Talmadge qu'elle admirait beaucoup.
+    - id: 3
+      question: Quelle était la nationalité de Marilyn Monroe, née le 1er juin 1926 ?
+      propositions:
+      - Suédoise
+      - Française
+      - Américaine
+      - Italienne
+      réponse: Américaine
+      anecdote: La mère de Marilyn, Gladys Pearl Monroe, née au Mexique de parents américains, travaillait comme monteuse dans un labo.
+    - id: 4
+      question: De quel sport le deuxième mari de Marilyn Monroe était-il une légende vivante ?
+      propositions:
+      - Boxe
+      - Tennis
+      - Baseball
+      - Golf
+      réponse: Baseball
+      anecdote: D'origine sicilienne, le champion de baseball Joe DiMaggio tomba sous le charme de Marilyn et divorça pour l'épouser en 1954.
+    - id: 5
+      question: Dans « Chérie, je me sens rajeunir », Marilyn Monroe apparaît pour la première fois en...
+      propositions:
+      - Brune
+      - Châtain clair
+      - Rousse
+      - Blonde platine
+      réponse: Blonde platine
+      anecdote: Les acteurs ont fortement contribué au ton quelque peu décalé et humoristique du film « Chérie, je me sens rajeunir ».
+    - id: 6
+      question: Lequel de ces films renferme deux stars : Marilyn Monroe et les chutes du Niagara ?
+      propositions:
+      - Dangerous Years
+      - Tourment
+      - Ève
+      - Niagara
+      réponse: Niagara
+      anecdote: « Niagara » est un des rares films où Marilyn Monroe interprète un rôle de « méchante ».
+    - id: 7
+      question: Quelle est la couleur de la robe de Marilyn Monroe dans le film « Sept ans de réflexion » ?
+      propositions:
+      - Noire
+      - Bleue
+      - Blanche
+      - Rouge
+      réponse: Blanche
+      anecdote: Après ce grand succès, Marilyn a obtenu plus de pouvoir face aux studios, notamment quant aux scripts et aux réalisateurs.
+    - id: 8
+      question: Dans quel film Marilyn Monroe a-t-elle joué la plus célèbre scène de sa carrière ?
+      propositions:
+      - Quand la ville dort
+      - 7 ans de réflexion
+      - Les Désaxés
+      - Le Milliardaire
+      réponse: 7 ans de réflexion
+      anecdote: Lors de cette scène devenue mythique, une grille d'aération du métro soulève sa robe blanche.
+    - id: 9
+      question: Dans lequel de ces films Marilyn Monroe joue-t-elle une jeune femme naïve ?
+      propositions:
+      - Irma la douce
+      - La Garçonnière
+      - Sabrina
+      - 7 ans de réflexion
+      réponse: 7 ans de réflexion
+      anecdote: Son personnage dans le film est âgé de 22 ans, alors que pendant le tournage elle en avait 28.
+    - id: 10
+      question: Combien de fois Marilyn Monroe fut-elle mariée au cours de sa vie ?
+      propositions:
+      - Trois fois
+      - Quatre fois
+      - Deux fois
+      - Une fois
+      réponse: Trois fois
+      anecdote: Marilyn Monroe a été mariée successivement à James Dougherty, Joe DiMaggio et enfin Arthur Miller.
+  - confirmé:
+    - id: 11
+      question: À quel métier se destinait initialement la jeune et belle Marilyn Monroe ?
+      propositions:
+      - La photographie
+      - Le mannequinat
+      - La musique
+      - La danse
+      réponse: Le mannequinat
+      anecdote: Norma Jeane fut alors repérée par Howard Hughes et signa son premier contrat avec la 20th Century Fox en 1947.
+    - id: 12
+      question: Qui a été durant plus de quatre ans le premier mari de Marilyn Monroe ?
+      propositions:
+      - Clark Gable
+      - Joe DiMaggio
+      - Arthur Miller
+      - James Dougherty
+      réponse: James Dougherty
+      anecdote: James Dougherty sera le premier amour de Marilyn, avant qu'elle ne devienne célèbre, d'où son surnom de « Jim le Veinard ».
+    - id: 13
+      question: Dans quel pays Marilyn Monroe a-t-elle chanté en 1954 devant des soldats américains ?
+      propositions:
+      - Corée
+      - Colombie
+      - Vietnam
+      - Brésil
+      réponse: Corée
+      anecdote: L'armée américaine lui proposa de se rendre durant quatre jours en Corée et de chanter à neuf reprises trois de ses chansons.
+    - id: 14
+      question: Quel réalisateur disait de Marilyn Monroe qu'elle avait « le sexe affiché sur la figure » ?
+      propositions:
+      - Alfred Hitchcock
+      - Howard Hawks
+      - George Cukor
+      - John Huston
+      réponse: Alfred Hitchcock
+      anecdote: Hitchcock ajoutera qu'il préfère de loin des blondes froides comme Grace Kelly ou Tippi Hedren.
+    - id: 15
+      question: En quelle année Marilyn Monroe a-t-elle épousé Arthur Miller ?
+      propositions:
+      - 1950
+      - 1952
+      - 1956
+      - 1954
+      réponse: 1956
+      anecdote: Marilyn Monroe divorcera d'avec Arthur Miller en janvier 1961 et rédigera son testament le 14 janvier de la même année.
+    - id: 16
+      question: Qui a dit en riant : « Embrasser Marilyn Monroe est comme embrasser Hitler » ?
+      propositions:
+      - Dean Martin
+      - Montgomery Clift
+      - Tony Curtis
+      - Clark Gable
+      réponse: Tony Curtis
+      anecdote: Tony Curtis dira plus tard que cette phrase, prononcée sans intention de nuire, n'était en fait qu'une farce.
+    - id: 17
+      question: Dans quel film de George Cukor Marilyn Monroe joue-t-elle avec Yves Montand ?
+      propositions:
+      - Melinda
+      - Le Milliardaire
+      - Sanctuaire
+      - Ma geisha
+      réponse: Le Milliardaire
+      anecdote: Ce film a été surnommé par certains comme « le film dont Marilyn Monroe et Yves Montand ont pris le titre trop au sérieux ».
+    - id: 18
+      question: Quel film met en scène Marilyn Monroe, Clark Gable et Montgomery Clift ?
+      propositions:
+      - Les Désaxés
+      - Dieu seul le sait
+      - Griffes jaunes
+      - Moulin Rouge
+      réponse: Les Désaxés
+      anecdote: « Les Désaxés » est le dernier film de Clark Gable, mort quelques jours après la fin du tournage.
+    - id: 19
+      question: Dans la nuit du 4 au 5 août de quelle année, Marilyn Monroe a-t-elle perdu la vie ?
+      propositions:
+      - 1963
+      - 1962
+      - 1964
+      - 1965
+      réponse: 1962
+      anecdote: Le rapport du médecin légiste Thomas Noguchi parle de « suicide probable » dû à un surdosage accidentel de barbituriques.
+    - id: 20
+      question: Qui a réalisé en 1964 une célèbre série de sérigraphies de Marilyn Monroe ?
+      propositions:
+      - Andy Warhol
+      - James Rizzi
+      - Jasper Johns
+      - Wayne Thiebaud
+      réponse: Andy Warhol
+      anecdote: C'est d'ailleurs l'une des oeuvres de l'artiste les plus reproduites à ce jour, en photos ou en cadres décoratifs.
+  - expert:
+    - id: 21
+      question: Quelle playmate possédait une forte ressemblance physique avec Marilyn Monroe ?
+      propositions:
+      - Christa Speck
+      - Arlene Hunter
+      - Linda Gamble
+      - Ellen Stratton
+      réponse: Arlene Hunter
+      anecdote: Une rumeur infondée attribua à Marilyn des films érotiques ou pornographiques, tournés en fait par Arlene Hunter.
+    - id: 22
+      question: Grâce à qui Marilyn Monroe a-t-elle signé son premier contrat avec la Fox ?
+      propositions:
+      - Paul Allen
+      - Howard Hughes
+      - Donald Trump
+      - Warren Buffett
+      réponse: Howard Hughes
+      anecdote: Howard Hughes fut l'un des hommes les plus riches et les plus puissants des États-Unis d'Amérique.
+    - id: 23
+      question: Quel a été le montant hebdomadaire du premier salaire de Marilyn Monroe ?
+      propositions:
+      - 125 USD
+      - 720 USD
+      - 380 USD
+      - 35 USD
+      réponse: 125 USD
+      anecdote: Marilyn Monroe signa avec la Fox un premier contrat de six mois le 26 juillet 1946, pour un salaire de 125 USD par semaine.
+    - id: 24
+      question: De quelle actrice Marilyn Monroe a-t-elle repris le prénom ?
+      propositions:
+      - Marilyn Cooper
+      - Marilyn Maxwell
+      - Marilyn Burns
+      - Marilyn Miller
+      réponse: Marilyn Miller
+      anecdote: Le nom Monroe lui vient quant à lui de sa mère (elle adoptera officiellement ce patronyme le 23 février 1956).
+    - id: 25
+      question: Sous quel nom Marilyn Monroe a-t-elle posé nue pour le photographe Tom Kelly ?
+      propositions:
+      - Carly Monroe
+      - Mana Monroe
+      - Mary Monroe
+      - Lily Monroe
+      réponse: Mana Monroe
+      anecdote: Ces photos de calendrier feront le tour du monde quelques années plus tard, lorsqu'elle sera devenue célèbre.
+    - id: 26
+      question: Qui a réalisé le film « Comment épouser un millionnaire », avec Marilyn Monroe ?
+      propositions:
+      - Tay Garnett
+      - Howard Hawks
+      - David Miller
+      - Jean Negulesco
+      réponse: Jean Negulesco
+      anecdote: « Comment épouser un millionnaire » a été le premier film réalisé en CinemaScope, mais le deuxième distribué.
+    - id: 27
+      question: Qui était la conseillère personnelle de Marilyn Monroe pour de nombreux films ?
+      propositions:
+      - Barbra Streisand
+      - Jan Sterling
+      - Kristen Stewart
+      - Paula Strasberg
+      réponse: Paula Strasberg
+      anecdote: Paula Strasberg est l'épouse de l'acteur américain Lee Strasberg et la mère de l'actrice américaine Susan Strasberg.
+    - id: 28
+      question: Quel nom fut donné à la dernière séance photo mettant en scène Marilyn Monroe ?
+      propositions:
+      - The Last Sitting
+      - Lenna
+      - Dovima
+      - The Other Side
+      réponse: The Last Sitting
+      anecdote: Arrivée au rendez-vous avec quatre heures de retard, Marilyn posera pour cette séance pendant plus de douze heures.
+    - id: 29
+      question: Qui a prêté sa voix à Marilyn Monroe dans la plupart des versions françaises de ses films ?
+      propositions:
+      - Claire Guibert
+      - Laura Blanc
+      - Anne Dolan
+      - Nathalie Homs
+      réponse: Claire Guibert
+      anecdote: Claire Guibert a aussi doublé Vivien Leigh, Linda Darnell ainsi que Doris Day dans de nombreuses comédies.
+    - id: 30
+      question: Quel acteur a suggéré à Norma Jeane Baker de choisir comme prénom Marilyn ?
+      propositions:
+      - Clark Gable
+      - Keith Andes
+      - Ben Lyon
+      - Cary Grant
+      réponse: Ben Lyon
+      anecdote: C'est aussi Ben Lyon qui fit passer à Marilyn Monroe son premier bout d'essai en 1946.
+  en:
+  - débutant:
+    - id: 1
+      question: What first name is written on Marilyn Monroe's baptismal certificate ?
+      propositions:
+      - Norma Jeane
+      - Ruby Catherine
+      - Lucy Fay
+      - Louise Marie
+      réponse: Norma Jeane
+      anecdote: Marilyn Monroe was born Norma Jeane Mortenson, sometimes also Norma Jeane Baker according to her baptismal certificate.
+    - id: 2
+      question: In which city of California was actress Marilyn Monroe born ?
+      propositions:
+      - Los Angeles
+      - Sacramento
+      - San Diego
+      - San Francisco
+      réponse: Los Angeles
+      anecdote: Her first name (Norma) was chosen by her mother in reference to the actress Norma Talmadge whom she greatly admired.
+    - id: 3
+      question: What was the nationality of Marilyn Monroe, born June 1, 1926 ?
+      propositions:
+      - American
+      - French
+      - Italian
+      - Swedish
+      réponse: American
+      anecdote: Marilyn's mother, Gladys Pearl Monroe, born in Mexico to American parents, worked as an editor in a lab.
+    - id: 4
+      question: What sport was Marilyn Monroe's second husband a living legend ?
+      propositions:
+      - Golf
+      - Baseball
+      - Tennis
+      - Boxing
+      réponse: Baseball
+      anecdote: Of Sicilian origin, baseball champion Joe DiMaggio fell in love with Marilyn and divorced to marry her in 1954.
+    - id: 5
+      question: In « Honey, I Feel Rejuvenated », Marilyn Monroe appears for the first time in...
+      propositions:
+      - Redhead
+      - Light brown
+      - Brunette
+      - Platinum blonde
+      réponse: Platinum blonde
+      anecdote: The actors contributed heavily to the somewhat quirky and humorous tone of the film « Honey, I Feel Rejuvenated ».
+    - id: 6
+      question: Which of these movies has two stars : Marilyn Monroe and Niagara Falls ?
+      propositions:
+      - Niagara
+      - Torment
+      - Dangerous Years
+      - Eve
+      réponse: Niagara
+      anecdote: « Niagara » is one of the few films where Marilyn Monroe plays the role of a villain.
+    - id: 7
+      question: What is the color of Marilyn Monroe's dress in the movie « Seven Years of Thinking » ?
+      propositions:
+      - Red
+      - Black
+      - Blue
+      - White
+      réponse: White
+      anecdote: After this great success, Marilyn obtained more power against the studios, in particular as regards the scripts and the directors.
+    - id: 8
+      question: In which film did Marilyn Monroe play the most famous scene of her career ?
+      propositions:
+      - When the city sleeps
+      - The Crazed
+      - The Billionaire
+      - 7 years of reflection
+      réponse: 7 years of reflection
+      anecdote: During this scene which has become legendary, a ventilation grille in the metro lifts her white dress.
+    - id: 9
+      question: In which of these films does Marilyn Monroe play a naive and spontaneous young woman ?
+      propositions:
+      - Irma the sweet
+      - Sabrina
+      - La Garçonnière
+      - 7 years of reflection
+      réponse: 7 years of reflection
+      anecdote: Her character in the film is 22 years old, while during filming she was 28.
+    - id: 10
+      question: How many times has Marilyn Monroe been married during her life ?
+      propositions:
+      - Four times
+      - Three times
+      - Twice
+      - Once
+      réponse: Three times
+      anecdote: Marilyn Monroe was successively married to James Dougherty, Joe DiMaggio and finally Arthur Miller.
+  - confirmé:
+    - id: 11
+      question: What profession was the young and beautiful Marilyn Monroe initially destined for ?
+      propositions:
+      - The modeling
+      - The dance
+      - The music
+      - Photography
+      réponse: The modeling
+      anecdote: Norma Jeane was then spotted by Howard Hughes and signed her first contract with 20th Century Fox in 1947.
+    - id: 12
+      question: Who was Marilyn Monroe's first husband for more than four years ?
+      propositions:
+      - James Dougherty
+      - Clark Gable
+      - Joe DiMaggio
+      - Arthur Miller
+      réponse: James Dougherty
+      anecdote: James Dougherty will be Marilyn's first love, before she becomes famous, hence his nickname Jim the Lucky.
+    - id: 13
+      question: In which country did Marilyn Monroe sing in 1954 in front of American soldiers ?
+      propositions:
+      - Korea
+      - Colombia
+      - Brazil
+      - Vietnam
+      réponse: Korea
+      anecdote: The US military offered to travel to Korea for four days and sing three of his songs nine times.
+    - id: 14
+      question: Which director said of Marilyn Monroe that she had the sex displayed on her face ?
+      propositions:
+      - George Cukor
+      - Howard Hawks
+      - John Huston
+      - Alfred Hitchcock
+      réponse: Alfred Hitchcock
+      anecdote: Hitchcock will add that he much prefers cold blondes like Grace Kelly or Tippi Hedren.
+    - id: 15
+      question: In what year did Marilyn Monroe marry Arthur Miller ?
+      propositions:
+      - 1956
+      - 1950
+      - 1952
+      - 1954
+      réponse: 1956
+      anecdote: Marilyn Monroe divorced Arthur Miller in January 1961 and wrote her will on January 14 of the same year.
+    - id: 16
+      question: Who said laughing : Kissing Marilyn Monroe is like kissing Hitler ?
+      propositions:
+      - Tony Curtis
+      - Montgomery Clift
+      - Clark Gable
+      - Dean Martin
+      réponse: Tony Curtis
+      anecdote: Tony Curtis will say later that this sentence, spoken without intention to harm, was in fact a joke.
+    - id: 17
+      question: In which George Cukor movie does Marilyn Monroe play with Yves Montand ?
+      propositions:
+      - Melinda
+      - My geisha
+      - Sanctuary
+      - The Billionaire
+      réponse: The Billionaire
+      anecdote: This movie has been dubbed by some as the movie whose title Marilyn Monroe and Yves Montand took too seriously.
+    - id: 18
+      question: Which movie stars Marilyn Monroe, Clark Gable and Montgomery Clift ?
+      propositions:
+      - Yellow claws
+      - The Crazed
+      - Moulin Rouge
+      - God only knows
+      réponse: The Crazed
+      anecdote: « Les Désaxés » is the last film by Clark Gable, who died a few days after the end of filming.
+    - id: 19
+      question: On the night of August 4 to 5 of which year did Marilyn Monroe lose her life ?
+      propositions:
+      - 1965
+      - 1962
+      - 1964
+      - 1963
+      réponse: 1962
+      anecdote: The report by medical examiner Thomas Noguchi speaks of probable suicide due to an accidental overdose of barbiturates.
+    - id: 20
+      question: Who made in 1964 a famous serigraphy series of Marilyn Monroe ?
+      propositions:
+      - Andy Warhol
+      - James Rizzi
+      - Jasper Johns
+      - Wayne Thiebaud
+      réponse: Andy Warhol
+      anecdote: It is also one of the artist's most reproduced works to date, in photos or in decorative frames.
+  - expert:
+    - id: 21
+      question: Which playmate had a strong physical resemblance to Marilyn Monroe ?
+      propositions:
+      - Christa Speck
+      - Linda Gamble
+      - Arlene Hunter
+      - Ellen Stratton
+      réponse: Arlene Hunter
+      anecdote: An unfounded rumor attributed to Marilyn erotic or pornographic films, shot in fact by Arlene Hunter.
+    - id: 22
+      question: Thanks to whom did Marilyn Monroe sign her first contract with Fox ?
+      propositions:
+      - Howard Hughes
+      - Donald Trump
+      - Paul Allen
+      - Warren Buffett
+      réponse: Howard Hughes
+      anecdote: Howard Hughes was one of the richest and most powerful men in the United States of America.
+    - id: 23
+      question: What was the weekly amount of Marilyn Monroe's first salary ?
+      propositions:
+      - 35 USD
+      - 380 USD
+      - 125 USD
+      - 720 USD
+      réponse: 125 USD
+      anecdote: Marilyn Monroe signed a first six-month contract with Fox on July 26, 1946, for a salary of USD 125 per week.
+    - id: 24
+      question: From which actress did Marilyn Monroe take the first name ?
+      propositions:
+      - Marilyn Burns
+      - Marilyn Maxwell
+      - Marilyn Miller
+      - Marilyn Cooper
+      réponse: Marilyn Miller
+      anecdote: The name Monroe comes from his mother (she officially adopted this surname on February 23, 1956).
+    - id: 25
+      question: Under what name did Marilyn Monroe pose nude for photographer Tom Kelly ?
+      propositions:
+      - Mary Monroe
+      - Mana Monroe
+      - Lily Monroe
+      - Carly Monroe
+      réponse: Mana Monroe
+      anecdote: These calendar photos will go around the world a few years later, when she becomes famous.
+    - id: 26
+      question: Who directed the movie « How to marry a millionaire », starring Marilyn Monroe ?
+      propositions:
+      - Jean Negulesco
+      - Howard Hawks
+      - David Miller
+      - Tay Garnett
+      réponse: Jean Negulesco
+      anecdote: « How to Marry a Millionaire » was the first film made in CinemaScope, but the second released.
+    - id: 27
+      question: Who was Marilyn Monroe's personal advisor for many films ?
+      propositions:
+      - Jan Sterling
+      - Paula Strasberg
+      - Barbra Streisand
+      - Kristen Stewart
+      réponse: Paula Strasberg
+      anecdote: Paula Strasberg is the wife of American actor Lee Strasberg and mother of American actress Susan Strasberg.
+    - id: 28
+      question: What name was given to the last photo shoot featuring Marilyn Monroe ?
+      propositions:
+      - The Other Side
+      - Dovima
+      - Lenna
+      - The Last Sitting
+      réponse: The Last Sitting
+      anecdote: Arriving at the meeting four hours late, Marilyn will pose for this session for more than twelve hours.
+    - id: 29
+      question: Who lent her voice to Marilyn Monroe in most of the French versions of her films ?
+      propositions:
+      - Anne Dolan
+      - Claire Guibert
+      - Laura Blanc
+      - Nathalie Homs
+      réponse: Claire Guibert
+      anecdote: Claire Guibert has also voiced Vivien Leigh, Linda Darnell as well as Doris Day in numerous comedies.
+    - id: 30
+      question: Which actor suggested to Norma Jeane Baker to choose Marilyn as his first name ?
+      propositions:
+      - Keith Andes
+      - Ben Lyon
+      - Cary Grant
+      - Clark Gable
+      réponse: Ben Lyon
+      anecdote: It was also Ben Lyon who gave Marilyn Monroe his first test in 1946.
+  de:
+  - débutant:
+    - id: 1
+      question: Welcher Vorname steht auf Marilyn Monroes Taufschein ?
+      propositions:
+      - Ruby Catherine
+      - Louise Marie
+      - Lucy Fay
+      - Norma Jeane
+      réponse: Norma Jeane
+      anecdote: Marilyn Monroe wurde als Norma Jeane Mortenson geboren, manchmal auch als Norma Jeane Baker gemäß ihrer Taufurkunde.
+    - id: 2
+      question: In welcher Stadt von Kalifornien wurde die Schauspielerin Marilyn Monroe geboren ?
+      propositions:
+      - San Diego
+      - Los Angeles
+      - Sacramento
+      - San Francisco
+      réponse: Los Angeles
+      anecdote: Ihr Vorname (Norma) wurde von ihrer Mutter in Anlehnung an die Schauspielerin Norma Talmadge gewählt, die sie sehr bewunderte.
+    - id: 3
+      question: Welche Nationalität hatte Marilyn Monroe, geboren am 1. Juni 1926 ?
+      propositions:
+      - Französisch
+      - Amerikaner
+      - Schwedisch
+      - Italienisch
+      réponse: Amerikaner
+      anecdote: Marilyns Mutter Gladys Pearl Monroe, in Mexiko als Tochter amerikanischer Eltern geboren, arbeitete als Redakteurin in einem Labor.
+    - id: 4
+      question: Welcher Sport war Marilyn Monroes zweiter Ehemann eine lebende Legende ?
+      propositions:
+      - Boxen
+      - Baseball
+      - Golf
+      - Tennis
+      réponse: Baseball
+      anecdote: Der aus Sizilien stammende Baseball-Champion Joe DiMaggio geriet in den Bann von Marilyn und ließ sich 1954 scheiden, um sie zu heiraten.
+    - id: 5
+      question: In « Honey, I Feel Rejuvenated » erscheint Marilyn Monroe zum ersten Mal in...
+      propositions:
+      - Platinblond
+      - Hellbraun
+      - Brünette
+      - Rotschopf
+      réponse: Platinblond
+      anecdote: Die Schauspieler haben stark zum etwas schrulligen und humorvollen Ton des Films « Honey, I Feel Rejuvenated » beigetragen.
+    - id: 6
+      question: Welcher dieser Filme hat zwei Stars : Marilyn Monroe und Niagara Falls ?
+      propositions:
+      - Niagara
+      - Gefährliche Jahre
+      - Qual
+      - Eva
+      réponse: Niagara
+      anecdote: « Niagara » ist einer der wenigen Filme, in denen Marilyn Monroe die Rolle einer Bösewichtin spielt.
+    - id: 7
+      question: Welche Farbe hat Marilyn Monroes Kleid im Film « Sieben Jahre des Denkens » ?
+      propositions:
+      - Blau
+      - Schwarz
+      - Weiß
+      - Rot
+      réponse: Weiß
+      anecdote: Nach diesem großen Erfolg erhielt Marilyn mehr Macht gegen die Studios, insbesondere in Bezug auf die Drehbücher und die Regisseure.
+    - id: 8
+      question: In welchem Film spielte Marilyn Monroe die berühmteste Szene ihrer Karriere ?
+      propositions:
+      - Wenn die Stadt schläft
+      - Der Milliardär
+      - 7 Jahre Nachdenken
+      - The Crazed
+      réponse: 7 Jahre Nachdenken
+      anecdote: Während dieser legendären Szene hebt ein Lüftungsgitter in der U-Bahn ihr weißes Kleid an.
+    - id: 9
+      question: In welchem dieser Filme spielt Marilyn Monroe eine naive und spontane junge Frau ?
+      propositions:
+      - La Garçonnière
+      - Irma die Süße
+      - Sabrina
+      - 7 Jahre Nachdenken
+      réponse: 7 Jahre Nachdenken
+      anecdote: Ihr Charakter im Film ist 22 Jahre alt, während sie während der Dreharbeiten 28 Jahre alt war.
+    - id: 10
+      question: Wie oft war Marilyn Monroe in ihrem Leben verheiratet ?
+      propositions:
+      - Zweimal
+      - Viermal
+      - Einmal
+      - Dreimal
+      réponse: Dreimal
+      anecdote: Marilyn Monroe war nacheinander mit James Dougherty, Joe DiMaggio und schließlich Arthur Miller verheiratet.
+  - confirmé:
+    - id: 11
+      question: Für welchen Beruf war die junge und schöne Marilyn Monroe ursprünglich bestimmt ?
+      propositions:
+      - Die Musik
+      - Die Modellierung
+      - Fotografie
+      - Der Tanz
+      réponse: Die Modellierung
+      anecdote: Norma Jeane wurde dann von Howard Hughes entdeckt und unterzeichnete 1947 ihren ersten Vertrag mit 20th Century Fox.
+    - id: 12
+      question: Wer war Marilyn Monroes erster Ehemann seit mehr als vier Jahren ?
+      propositions:
+      - Arthur Miller
+      - James Dougherty
+      - Joe DiMaggio
+      - Clark Gable
+      réponse: James Dougherty
+      anecdote: James Dougherty wird Marilyns erste Liebe sein, bevor sie berühmt wird, daher sein Spitzname Jim the Lucky.
+    - id: 13
+      question: In welchem Land sang Marilyn Monroe 1954 vor amerikanischen Soldaten ?
+      propositions:
+      - Brasilien
+      - Vietnam
+      - Kolumbien
+      - Korea
+      réponse: Korea
+      anecdote: Das US-Militär bot an, vier Tage nach Korea zu reisen und neun Mal drei seiner Lieder zu singen.
+    - id: 14
+      question: Welcher Regisseur sagte über Marilyn Monroe, dass sie den Sex auf ihrem Gesicht hatte ?
+      propositions:
+      - George Cukor
+      - Alfred Hitchcock
+      - John Huston
+      - Howard Hawks
+      réponse: Alfred Hitchcock
+      anecdote: Hitchcock wird hinzufügen, dass er kalte Blondinen wie Grace Kelly oder Tippi Hedren sehr bevorzugt.
+    - id: 15
+      question: In welchem Jahr heiratete Marilyn Monroe Arthur Miller ?
+      propositions:
+      - 1950
+      - 1954
+      - 1956
+      - 1952
+      réponse: 1956
+      anecdote: Marilyn Monroe ließ sich im Januar 1961 von Arthur Miller scheiden und schrieb ihr Testament am 14. Januar desselben Jahres.
+    - id: 16
+      question: Wer hat lachend gesagt : Marilyn Monroe zu küssen ist wie Hitler zu küssen ?
+      propositions:
+      - Tony Curtis
+      - Clark Gable
+      - Montgomery Clift
+      - Dean Martin
+      réponse: Tony Curtis
+      anecdote: Tony Curtis wird später sagen, dass dieser Satz, der ohne die Absicht zu schaden gesprochen wurde, tatsächlich ein Witz war.
+    - id: 17
+      question: In welchem George Cukor-Film spielt Marilyn Monroe mit Yves Montand ?
+      propositions:
+      - Meine Geisha
+      - Heiligtum
+      - Melinda
+      - Der Milliardär
+      réponse: Der Milliardär
+      anecdote: Dieser Film wurde von einigen als der Film bezeichnet, dessen Titel Marilyn Monroe und Yves Montand zu ernst nahmen.
+    - id: 18
+      question: Welche Filmstars sind Marilyn Monroe, Clark Gable und Montgomery Clift ?
+      propositions:
+      - The Crazed
+      - Gott weiß nur
+      - Gelbe Krallen
+      - Moulin Rouge
+      réponse: The Crazed
+      anecdote: « Les Désaxés » ist der letzte Film von Clark Gable, der einige Tage nach dem Ende der Dreharbeiten starb.
+    - id: 19
+      question: In der Nacht vom 4. auf den 5. August in welchem Jahr hat Marilyn Monroe ihr Leben verloren ?
+      propositions:
+      - 1963
+      - 1964
+      - 1965
+      - 1962
+      réponse: 1962
+      anecdote: Der Bericht des medizinischen Untersuchers Thomas Noguchi spricht von einem wahrscheinlichen Selbstmord aufgrund einer versehentlichen Überdosierung von Barbituraten.
+    - id: 20
+      question: Wer hat 1964 eine berühmte Serigraphie-Serie von Marilyn Monroe gemacht ?
+      propositions:
+      - Jasper Johns
+      - James Rizzi
+      - Andy Warhol
+      - Wayne Thiebaud
+      réponse: Andy Warhol
+      anecdote: Es ist auch eines der am meisten reproduzierten Werke des Künstlers, auf Fotos oder in dekorativen Rahmen.
+  - expert:
+    - id: 21
+      question: Welcher Spielkamerad hatte eine starke physische Ähnlichkeit mit Marilyn Monroe ?
+      propositions:
+      - Linda Gamble
+      - Arlene Hunter
+      - Christa Speck
+      - Ellen Stratton
+      réponse: Arlene Hunter
+      anecdote: Ein unbegründetes Gerücht, das Marilyns erotischen oder pornografischen Filmen zugeschrieben wird und tatsächlich von Arlene Hunter gedreht wurde.
+    - id: 22
+      question: Dank wem hat Marilyn Monroe ihren ersten Vertrag mit Fox unterschrieben ?
+      propositions:
+      - Howard Hughes
+      - Donald Trump
+      - Warren Buffett
+      - Paul Allen
+      réponse: Howard Hughes
+      anecdote: Howard Hughes war einer der reichsten und mächtigsten Männer in den Vereinigten Staaten von Amerika.
+    - id: 23
+      question: Was war der wöchentliche Betrag von Marilyn Monroes erstem Gehalt ?
+      propositions:
+      - 125 USD
+      - 720 USD
+      - 35 USD
+      - 380 USD
+      réponse: 125 USD
+      anecdote: Marilyn Monroe unterzeichnete am 26. Juli 1946 einen ersten Sechsmonatsvertrag mit Fox über ein Gehalt von 125 USD pro Woche.
+    - id: 24
+      question: Von welcher Schauspielerin hat Marilyn Monroe den Vornamen genommen ?
+      propositions:
+      - Marilyn Maxwell
+      - Marilyn Miller
+      - Marilyn Cooper
+      - Marilyn Burns
+      réponse: Marilyn Miller
+      anecdote: Der Name Monroe stammt von seiner Mutter (sie hat diesen Nachnamen am 23. Februar 1956 offiziell angenommen).
+    - id: 25
+      question: Unter welchem Namen posierte Marilyn Monroe nackt für den Fotografen Tom Kelly ?
+      propositions:
+      - Mana Monroe
+      - Lily Monroe
+      - Carly Monroe
+      - Mary Monroe
+      réponse: Mana Monroe
+      anecdote: Diese Kalenderfotos werden einige Jahre später um die Welt gehen, wenn sie berühmt wird.
+    - id: 26
+      question: Wer hat den Film « Wie man einen Millionär » mit Marilyn Monroe heiratet ?
+      propositions:
+      - Howard Hawks
+      - Tay Garnett
+      - Jean Negulesco
+      - David Miller
+      réponse: Jean Negulesco
+      anecdote: « Wie man einen Millionär heiratet » war der erste Film, der in CinemaScope gedreht wurde, aber der zweite, der veröffentlicht wurde.
+    - id: 27
+      question: Wer war Marilyn Monroes persönlicher Berater für viele Filme ?
+      propositions:
+      - Barbra Streisand
+      - Jan Sterling
+      - Paula Strasberg
+      - Kristen Stewart
+      réponse: Paula Strasberg
+      anecdote: Paula Strasberg ist die Frau des amerikanischen Schauspielers Lee Strasberg und Mutter der amerikanischen Schauspielerin Susan Strasberg.
+    - id: 28
+      question: Wie hieß das letzte Fotoshooting mit Marilyn Monroe ?
+      propositions:
+      - Lenna
+      - Dovima
+      - Die andere Seite
+      - Die letzte Sitzung
+      réponse: Die letzte Sitzung
+      anecdote: Marilyn kommt vier Stunden zu spät zum Treffen und wird mehr als zwölf Stunden für diese Sitzung posieren.
+    - id: 29
+      question: Wer hat Marilyn Monroe in den meisten französischen Versionen ihrer Filme ihre Stimme verliehen ?
+      propositions:
+      - Claire Guibert
+      - Nathalie Homs
+      - Anne Dolan
+      - Laura Blanc
+      réponse: Claire Guibert
+      anecdote: Claire Guibert hat auch Vivien Leigh, Linda Darnell sowie Doris Day in zahlreichen Komödien geäußert.
+    - id: 30
+      question: Welcher Schauspieler schlug Norma Jeane Baker vor, Marilyn als seinen Vornamen zu wählen ?
+      propositions:
+      - Cary Grant
+      - Keith Andes
+      - Ben Lyon
+      - Clark Gable
+      réponse: Ben Lyon
+      anecdote: Es war auch Ben Lyon, der Marilyn Monroe 1946 seinen ersten Test gab.
+  es:
+  - débutant:
+    - id: 1
+      question: ¿Qué nombre está escrito en el certificado de bautismo de Marilyn Monroe ?
+      propositions:
+      - Lucy Fay
+      - Norma Jeane
+      - Louise Marie
+      - Ruby Catherine
+      réponse: Norma Jeane
+      anecdote: Marilyn Monroe nació Norma Jeane Mortenson, a veces también Norma Jeane Baker según su certificado de bautismo.
+    - id: 2
+      question: ¿En qué ciudad de California nació la actriz Marilyn Monroe ?
+      propositions:
+      - San Diego
+      - Los Ángeles
+      - Sacramento
+      - San Francisco
+      réponse: Los Ángeles
+      anecdote: Su primer nombre (Norma) fue elegido por su madre en referencia a la actriz Norma Talmadge a quien admiraba mucho.
+    - id: 3
+      question: ¿Cuál era la nacionalidad de Marilyn Monroe, nacida el 1 de junio de 1926 ?
+      propositions:
+      - Sueco
+      - Italiano
+      - Francés
+      - Americano
+      réponse: Americano
+      anecdote: La madre de Marilyn, Gladys Pearl Monroe, nacida en México de padres estadounidenses, trabajaba como editora en un laboratorio.
+    - id: 4
+      question: ¿En qué deporte fue el segundo marido de Marilyn Monroe una leyenda viviente ?
+      propositions:
+      - Béisbol
+      - Golf
+      - Tenis
+      - Boxeo ","Boxe
+      réponse: Béisbol
+      anecdote: De origen siciliano, el campeón de béisbol Joe DiMaggio cayó bajo el hechizo de Marilyn y se divorció para casarse con ella en 1954.
+    - id: 5
+      question: En « Cariño, me siento rejuvenecida », Marilyn Monroe aparece por primera vez en...
+      propositions:
+      - Rousse
+      - Marrón claro
+      - Marrón
+      - Rubio platino
+      réponse: Rubio platino
+      anecdote: Los actores contribuyeron en gran medida al tono un tanto peculiar y humorístico de la película « Cariño, me siento rejuvenecido ».
+    - id: 6
+      question: ¿Cuál de estas películas tiene dos estrellas : Marilyn Monroe y Niagara Falls ?
+      propositions:
+      - Años peligrosos
+      - Niagara
+      - Tormento
+      - Eva
+      réponse: Niagara
+      anecdote: « Niagara » es una de las pocas películas en las que Marilyn Monroe interpreta el papel de una villana.
+    - id: 7
+      question: ¿De qué color es el vestido de Marilyn Monroe en la película « Seven Years of Thinking » ?
+      propositions:
+      - Rojo
+      - Blanco
+      - Negro
+      - Azul
+      réponse: Blanco
+      anecdote: Después de este gran éxito, Marilyn obtuvo más poder contra los estudios, en particular en lo que respecta a los guiones y los directores.
+    - id: 8
+      question: ¿En qué película interpretó Marilyn Monroe la escena más famosa de su carrera ?
+      propositions:
+      - El loco
+      - 7 años de reflexión
+      - Cuando la ciudad duerme
+      - El multimillonario
+      réponse: 7 años de reflexión
+      anecdote: Durante esta escena que se ha convertido en legendaria, una rejilla de ventilación en el metro levanta su vestido blanco.
+    - id: 9
+      question: ¿En cuál de estas películas Marilyn Monroe interpreta a una joven ingenua y espontánea ?
+      propositions:
+      - Irma la dulce
+      - Sabrina
+      - La Garçonnière
+      - 7 años de reflexión
+      réponse: 7 años de reflexión
+      anecdote: Su personaje en la película tiene 22 años, mientras que durante el rodaje tenía 28.
+    - id: 10
+      question: ¿Cuántas veces se ha casado Marilyn Monroe durante su vida ?
+      propositions:
+      - Cuatro veces
+      - Dos veces
+      - Tres veces
+      - Once
+      réponse: Tres veces
+      anecdote: Marilyn Monroe se casó sucesivamente con James Dougherty, Joe DiMaggio y finalmente Arthur Miller.
+  - confirmé:
+    - id: 11
+      question: ¿A qué profesión estaba destinada inicialmente la joven y bella Marilyn Monroe ?
+      propositions:
+      - Fotografía
+      - La musica
+      - El baile
+      - El modelado
+      réponse: El modelado
+      anecdote: Luego, Norma Jeane fue descubierta por Howard Hughes y firmó su primer contrato con 20th Century Fox en 1947.
+    - id: 12
+      question: ¿Quién fue el primer marido de Marilyn Monroe durante más de cuatro años ?
+      propositions:
+      - Joe DiMaggio
+      - Arthur Miller
+      - Clark Gable
+      - James Dougherty
+      réponse: James Dougherty
+      anecdote: James Dougherty será el primer amor de Marilyn, antes de que se haga famosa, de ahí su apodo Jim the Lucky.
+    - id: 13
+      question: ¿En qué país cantó Marilyn Monroe en 1954 frente a soldados estadounidenses ?
+      propositions:
+      - Corea
+      - Brasil
+      - Vietnam
+      - Colombia
+      réponse: Corea
+      anecdote: El ejército estadounidense se ofreció a viajar a Corea durante cuatro días y cantar tres de sus canciones nueve veces.
+    - id: 14
+      question: ¿Qué director dijo de Marilyn Monroe que tenía el sexo en su rostro ?
+      propositions:
+      - John Huston
+      - George Cukor
+      - Alfred Hitchcock
+      - Howard Hawks
+      réponse: Alfred Hitchcock
+      anecdote: Hitchcock agregará que prefiere a las rubias frías como Grace Kelly o Tippi Hedren.
+    - id: 15
+      question: ¿En qué año se casó Marilyn Monroe con Arthur Miller ?
+      propositions:
+      - 1950
+      - 1952
+      - 1956
+      - 1954
+      réponse: 1956
+      anecdote: Marilyn Monroe se divorció de Arthur Miller en enero de 1961 y escribió su testamento el 14 de enero del mismo año.
+    - id: 16
+      question: ¿Quién dijo reír : besar a Marilyn Monroe es como besar a Hitler ?
+      propositions:
+      - Tony Curtis
+      - Dean Martin
+      - Clark Gable
+      - Montgomery Clift
+      réponse: Tony Curtis
+      anecdote: Tony Curtis dirá más tarde que esta frase, dicha sin intención de dañar, fue en realidad una broma.
+    - id: 17
+      question: ¿En qué película de George Cukor juega Marilyn Monroe con Yves Montand ?
+      propositions:
+      - El multimillonario
+      - Santuario
+      - Mi geisha
+      - Melinda
+      réponse: El multimillonario
+      anecdote: Esta película ha sido apodada por algunos como la película cuyo título Marilyn Monroe e Yves Montand se tomaron demasiado en serio.
+    - id: 18
+      question: ¿Qué película está protagonizada por Marilyn Monroe, Clark Gable y Montgomery Clift ?
+      propositions:
+      - Garras amarilla
+      - Moulin Rouge
+      - El loco
+      - Solo Dios lo sabe
+      réponse: El loco
+      anecdote: « Les Désaxés » es la última película de Clark Gable, que falleció pocos días después del final del rodaje.
+    - id: 19
+      question: ¿En la noche del 4 al 5 de agosto de qué año perdió la vida Marilyn Monroe ?
+      propositions:
+      - 1965
+      - 1964
+      - 1962
+      - 1963
+      réponse: 1962
+      anecdote: El informe del médico forense Thomas Noguchi habla de un probable suicidio debido a una sobredosis accidental de barbitúricos.
+    - id: 20
+      question: ¿Quién hizo en 1964 una famosa serie de serigrafía de Marilyn Monroe ?
+      propositions:
+      - Wayne Thiebaud
+      - Jasper Johns
+      - James Rizzi
+      - Andy Warhol
+      réponse: Andy Warhol
+      anecdote: También es una de las obras más reproducidas del artista hasta la fecha, en fotografías o en marcos decorativos.
+  - expert:
+    - id: 21
+      question: ¿Qué compañera de juegos tenía un gran parecido físico con Marilyn Monroe ?
+      propositions:
+      - Ellen Stratton
+      - Christa Speck
+      - Linda Gamble
+      - Arlene Hunter
+      réponse: Arlene Hunter
+      anecdote: Un rumor infundado atribuido a películas eróticas o pornográficas de Marilyn, filmado de hecho por Arlene Hunter.
+    - id: 22
+      question: ¿Gracias a quién firmó Marilyn Monroe su primer contrato con Fox ?
+      propositions:
+      - Warren Buffett
+      - Howard Hughes
+      - Donald Trump
+      - Paul Allen
+      réponse: Howard Hughes
+      anecdote: Howard Hughes fue uno de los hombres más ricos y poderosos de los Estados Unidos de América.
+    - id: 23
+      question: ¿Cuál fue la cantidad semanal del primer salario de Marilyn Monroe ?
+      propositions:
+      - 125 USD
+      - 720 USD
+      - 35 USD
+      - 380 USD
+      réponse: 125 USD
+      anecdote: Marilyn Monroe firmó un primer contrato de seis meses con Fox el 26 de julio de 1946 por un salario de 125 dólares a la semana.
+    - id: 24
+      question: ¿De qué actriz tomó Marilyn Monroe el primer nombre ?
+      propositions:
+      - Marilyn Miller
+      - Marilyn Maxwell
+      - Marilyn Cooper
+      - Marilyn Burns
+      réponse: Marilyn Miller
+      anecdote: El nombre Monroe proviene de su madre (adoptó oficialmente este apellido el 23 de febrero de 1956).
+    - id: 25
+      question: ¿Con qué nombre posó desnuda Marilyn Monroe para el fotógrafo Tom Kelly ?
+      propositions:
+      - Mary Monroe
+      - Carly Monroe
+      - Lily Monroe
+      - Mana Monroe
+      réponse: Mana Monroe
+      anecdote: Estas fotos del calendario darán la vuelta al mundo unos años después, cuando ella se haga famosa.
+    - id: 26
+      question: ¿Quién dirigió la película « Cómo casarse con un millonario », protagonizada por Marilyn Monroe ?
+      propositions:
+      - Jean Negulesco
+      - Howard Hawks
+      - Tay Garnett
+      - David Miller
+      réponse: Jean Negulesco
+      anecdote: « Cómo casarse con un millonario » fue la primera película realizada en CinemaScope, pero la segunda lanzada.
+    - id: 27
+      question: ¿Quién fue el asesor personal de Marilyn Monroe en muchas películas ?
+      propositions:
+      - Paula Strasberg
+      - Jan Sterling
+      - Barbra Streisand
+      - Kristen Stewart
+      réponse: Paula Strasberg
+      anecdote: Paula Strasberg es la esposa del actor estadounidense Lee Strasberg y la madre de la actriz estadounidense Susan Strasberg.
+    - id: 28
+      question: ¿Qué nombre se le dio a la última sesión de fotos con Marilyn Monroe ?
+      propositions:
+      - Dovima
+      - El otro lado
+      - Lenna
+      - La última sesión
+      réponse: La última sesión
+      anecdote: Al llegar a la reunión con cuatro horas de retraso, Marilyn posará para esta sesión durante más de doce horas.
+    - id: 29
+      question: ¿Quién prestó su voz a Marilyn Monroe en la mayoría de las versiones francesas de sus películas ?
+      propositions:
+      - Laura Blanc
+      - Claire Guibert
+      - Nathalie Homs
+      - Anne Dolan
+      réponse: Claire Guibert
+      anecdote: Claire Guibert también ha dado voz a Vivien Leigh, Linda Darnell y Doris Day en numerosas comedias.
+    - id: 30
+      question: ¿Qué actor le sugirió a Norma Jeane Baker que eligiera a Marilyn como su primer nombre ?
+      propositions:
+      - Ben Lyon
+      - Clark Gable
+      - Cary Grant
+      - Keith Andes
+      réponse: Ben Lyon
+      anecdote: También fue Ben Lyon quien le dio a Marilyn Monroe su primera prueba en 1946.
+  it:
+  - débutant:
+    - id: 1
+      question: Quale nome è scritto sul certificato di battesimo di Marilyn Monroe ?
+      propositions:
+      - Norma Jeane
+      - Lucy Fay
+      - Ruby Catherine
+      - Louise Marie
+      réponse: Norma Jeane
+      anecdote: Marilyn Monroe è nata Norma Jeane Mortenson, a volte anche Norma Jeane Baker secondo il suo certificato di battesimo.
+    - id: 2
+      question: In quale città della California è nata l'attrice Marilyn Monroe ?
+      propositions:
+      - San Francisco
+      - Sacramento
+      - Los Angeles
+      - San Diego
+      réponse: Los Angeles
+      anecdote: Il suo nome (Norma) è stato scelto dalla madre in riferimento all'attrice Norma Talmadge che ammirava molto.
+    - id: 3
+      question: Qual era la nazionalità di Marilyn Monroe, nata il 1 giugno 1926 ?
+      propositions:
+      - Francese
+      - Americano
+      - Svedese
+      - Italiano
+      réponse: Americano
+      anecdote: La madre di Marilyn, Gladys Pearl Monroe, nata in Messico da genitori americani, ha lavorato come editrice in un laboratorio.
+    - id: 4
+      question: Che sport era il secondo marito di Marilyn Monroe una leggenda vivente ?
+      propositions:
+      - Pugilato
+      - Tennis
+      - Baseball
+      - Golf
+      réponse: Baseball
+      anecdote: Di origine siciliana, il campione di baseball Joe DiMaggio si innamorò di Marilyn e divorziò per sposarla nel 1954.
+    - id: 5
+      question: In « Honey, I Feel Rejuvenated », Marilyn Monroe appare per la prima volta in...
+      propositions:
+      - Rossa
+      - Bruna
+      - Marrone chiaro
+      - Biondo platino
+      réponse: Biondo platino
+      anecdote: Gli attori hanno contribuito notevolmente al tono un po 'bizzarro e divertente del film « Honey, I Feel Rejuvenated ».
+    - id: 6
+      question: Quale di questi film ha due stelle : Marilyn Monroe e Niagara Falls ?
+      propositions:
+      - Anni pericolosi
+      - Tormento
+      - Eva
+      - Niagara
+      réponse: Niagara
+      anecdote: « Niagara » è uno dei pochi film in cui Marilyn Monroe interpreta il ruolo di un cattivo.
+    - id: 7
+      question: Qual è il colore del vestito di Marilyn Monroe nel film « Seven Years of Thinking » ?
+      propositions:
+      - Nero
+      - Rosso
+      - Bianco
+      - Blu
+      réponse: Bianco
+      anecdote: Dopo questo grande successo, Marilyn ha ottenuto più potere contro gli studi, in particolare per quanto riguarda le sceneggiature e i registi.
+    - id: 8
+      question: In quale film Marilyn Monroe ha interpretato la scena più famosa della sua carriera ?
+      propositions:
+      - Quando la città dorme
+      - Il pazzo
+      - 7 anni di riflessione
+      - Il miliardario
+      réponse: 7 anni di riflessione
+      anecdote: Durante questa scena che è diventata leggendaria, una griglia di ventilazione nella metropolitana solleva il suo vestito bianco.
+    - id: 9
+      question: In quale di questi film Marilyn Monroe interpreta una giovane donna ingenua e spontanea ?
+      propositions:
+      - Sabrina
+      - Irma la dolce
+      - La Garçonnière
+      - 7 anni di riflessione
+      réponse: 7 anni di riflessione
+      anecdote: Il suo personaggio nel film ha 22 anni, mentre durante le riprese ne aveva 28.
+    - id: 10
+      question: Quante volte Marilyn Monroe si è sposata durante la sua vita ?
+      propositions:
+      - Quattro volte
+      - Una volta
+      - Due volte
+      - Tre volte
+      réponse: Tre volte
+      anecdote: Marilyn Monroe è stata sposata successivamente con James Dougherty, Joe DiMaggio e infine Arthur Miller.
+  - confirmé:
+    - id: 11
+      question: A quale professione era inizialmente destinata la giovane e bella Marilyn Monroe ?
+      propositions:
+      - La musica
+      - La danza
+      - Fotografia
+      - La modellazione
+      réponse: La modellazione
+      anecdote: Norma Jeane fu poi avvistata da Howard Hughes e firmò il suo primo contratto con la 20th Century Fox nel 1947.
+    - id: 12
+      question: Chi è stato il primo marito di Marilyn Monroe per più di quattro anni ?
+      propositions:
+      - Joe DiMaggio
+      - Clark Gable
+      - James Dougherty
+      - Arthur Miller
+      réponse: James Dougherty
+      anecdote: James Dougherty sarà il primo amore di Marilyn, prima che diventi famosa, da qui il suo soprannome Jim the Lucky.
+    - id: 13
+      question: In quale paese Marilyn Monroe cantava nel 1954 davanti ai soldati americani ?
+      propositions:
+      - Brasile
+      - Corea
+      - Colombia
+      - Vietnam
+      réponse: Corea
+      anecdote: L'esercito americano si è offerto di viaggiare in Corea per quattro giorni e di cantare tre delle sue canzoni nove volte.
+    - id: 14
+      question: Quale regista ha detto di Marilyn Monroe che aveva il sesso mostrato sul suo viso ?
+      propositions:
+      - George Cukor
+      - John Huston
+      - Alfred Hitchcock
+      - Howard Hawks
+      réponse: Alfred Hitchcock
+      anecdote: Hitchcock aggiungerà che preferisce di gran lunga bionde fredde come Grace Kelly o Tippi Hedren.
+    - id: 15
+      question: In che anno Marilyn Monroe ha sposato Arthur Miller ?
+      propositions:
+      - 1956
+      - 1952
+      - 1950
+      - 1954
+      réponse: 1956
+      anecdote: Marilyn Monroe ha divorziato da Arthur Miller nel gennaio 1961 e ha scritto il suo testamento il 14 gennaio dello stesso anno.
+    - id: 16
+      question: Chi ha detto che ride : baciare Marilyn Monroe è come baciare Hitler ?
+      propositions:
+      - Montgomery Clift
+      - Tony Curtis
+      - Clark Gable
+      - Dean Martin
+      réponse: Tony Curtis
+      anecdote: Tony Curtis dirà più tardi che questa frase, pronunciata senza intenzione di nuocere, era in realtà uno scherzo.
+    - id: 17
+      question: In quale film di George Cukor Marilyn Monroe recita con Yves Montand ?
+      propositions:
+      - Il miliardario
+      - La mia geisha
+      - Melinda
+      - Santuario
+      réponse: Il miliardario
+      anecdote: Questo film è stato soprannominato da alcuni come il film il cui titolo Marilyn Monroe e Yves Montand hanno preso troppo sul serio.
+    - id: 18
+      question: Quale film è interpretato da Marilyn Monroe, Clark Gable e Montgomery Clift ?
+      propositions:
+      - Il pazzo
+      - Dio solo lo sa
+      - Moulin Rouge
+      - Artigli gialli
+      réponse: Il pazzo
+      anecdote: « Les Désaxés » è l'ultimo film di Clark Gable, scomparso pochi giorni dopo la fine delle riprese.
+    - id: 19
+      question: Nella notte tra il 4 e il 5 agosto di quale anno Marilyn Monroe ha perso la vita ?
+      propositions:
+      - 1964
+      - 1965
+      - 1962
+      - 1963
+      réponse: 1962
+      anecdote: Il rapporto del medico legale Thomas Noguchi parla di probabile suicidio per overdose accidentale di barbiturici.
+    - id: 20
+      question: Chi ha realizzato nel 1964 una famosa serie di serigrafia di Marilyn Monroe ?
+      propositions:
+      - Jasper Johns
+      - Andy Warhol
+      - Wayne Thiebaud
+      - James Rizzi
+      réponse: Andy Warhol
+      anecdote: È anche una delle opere dell'artista più riprodotte fino ad oggi, in foto o in cornici decorative.
+  - expert:
+    - id: 21
+      question: Quale compagno di giochi aveva una forte somiglianza fisica con Marilyn Monroe ?
+      propositions:
+      - Christa Speck
+      - Arlene Hunter
+      - Ellen Stratton
+      - Linda Gamble
+      réponse: Arlene Hunter
+      anecdote: Una voce infondata attribuita a film erotici o pornografici di Marilyn, girati appunto da Arlene Hunter.
+    - id: 22
+      question: Grazie a chi Marilyn Monroe ha firmato il suo primo contratto con la Fox ?
+      propositions:
+      - Donald Trump
+      - Warren Buffett
+      - Howard Hughes
+      - Paul Allen
+      réponse: Howard Hughes
+      anecdote: Howard Hughes era uno degli uomini più ricchi e potenti degli Stati Uniti d'America.
+    - id: 23
+      question: Qual era l'importo settimanale del primo stipendio di Marilyn Monroe ?
+      propositions:
+      - 720 USD
+      - 125 USD
+      - 35 USD
+      - 380 USD
+      réponse: 125 USD
+      anecdote: Marilyn Monroe ha firmato un primo contratto di sei mesi con Fox il 26 luglio 1946, per uno stipendio di 125 dollari a settimana.
+    - id: 24
+      question: Da quale attrice ha preso il nome Marilyn Monroe ?
+      propositions:
+      - Marilyn Miller
+      - Marilyn Burns
+      - Marilyn Maxwell
+      - Marilyn Cooper
+      réponse: Marilyn Miller
+      anecdote: Il nome Monroe deriva da sua madre (adottò ufficialmente questo cognome il 23 febbraio 1956).
+    - id: 25
+      question: Con quale nome Marilyn Monroe ha posato nuda per il fotografo Tom Kelly ?
+      propositions:
+      - Carly Monroe
+      - Mary Monroe
+      - Mana Monroe
+      - Lily Monroe
+      réponse: Mana Monroe
+      anecdote: Queste foto del calendario faranno il giro del mondo pochi anni dopo, quando diventerà famosa.
+    - id: 26
+      question: Chi ha diretto il film « Come sposare un milionario », con Marilyn Monroe ?
+      propositions:
+      - Jean Negulesco
+      - David Miller
+      - Tay Garnett
+      - Howard Hawks
+      réponse: Jean Negulesco
+      anecdote: « Come sposare un milionario » è stato il primo film realizzato in CinemaScope, ma il secondo è stato pubblicato.
+    - id: 27
+      question: Chi era il consigliere personale di Marilyn Monroe per molti film ?
+      propositions:
+      - Barbra Streisand
+      - Paula Strasberg
+      - Kristen Stewart
+      - Jan Sterling
+      réponse: Paula Strasberg
+      anecdote: Paula Strasberg è la moglie dell'attore americano Lee Strasberg e la madre dell'attrice americana Susan Strasberg.
+    - id: 28
+      question: Quale nome è stato dato all'ultimo servizio fotografico con Marilyn Monroe ?
+      propositions:
+      - Dovima
+      - L'ultima seduta
+      - Lenna
+      - L'altro lato
+      réponse: L'ultima seduta
+      anecdote: Arrivando alla riunione con quattro ore di ritardo, Marilyn poserà per questa sessione per più di dodici ore.
+    - id: 29
+      question: Chi ha prestato la sua voce a Marilyn Monroe nella maggior parte delle versioni francesi dei suoi film ?
+      propositions:
+      - Laura Blanc
+      - Claire Guibert
+      - Anne Dolan
+      - Nathalie Homs
+      réponse: Claire Guibert
+      anecdote: Claire Guibert ha anche doppiato Vivien Leigh, Linda Darnell e Doris Day in numerose commedie.
+    - id: 30
+      question: Quale attore ha suggerito a Norma Jeane Baker di scegliere Marilyn come nome ?
+      propositions:
+      - Keith Andes
+      - Cary Grant
+      - Clark Gable
+      - Ben Lyon
+      réponse: Ben Lyon
+      anecdote: Fu anche Ben Lyon a dare a Marilyn Monroe il suo primo test nel 1946.
+  nl:
+  - débutant:
+    - id: 1
+      question: Welke voornaam staat er op de doopakte van Marilyn Monroe ?
+      propositions:
+      - Lucy Fay
+      - Ruby Catherine
+      - Norma Jeane
+      - Louise Marie
+      réponse: Norma Jeane
+      anecdote: Marilyn Monroe werd geboren als Norma Jeane Mortenson, soms ook Norma Jeane Baker volgens haar doopakte.
+    - id: 2
+      question: In welke stad van Californië werd actrice Marilyn Monroe geboren ?
+      propositions:
+      - Sacramento
+      - Los Angeles
+      - San Diego
+      - San Francisco
+      réponse: Los Angeles
+      anecdote: Haar voornaam (Norma) werd gekozen door haar moeder in verwijzing naar de actrice Norma Talmadge die ze veel bewonderde.
+    - id: 3
+      question: Wat was de nationaliteit van Marilyn Monroe, geboren op 1 juni 1926 ?
+      propositions:
+      - Italiaans
+      - Frans
+      - Zweeds
+      - Amerikaans
+      réponse: Amerikaans
+      anecdote: Marilyns moeder, Gladys Pearl Monroe, geboren in Mexico uit Amerikaanse ouders, werkte als redacteur in een laboratorium.
+    - id: 4
+      question: Welke sport was de tweede echtgenoot van Marilyn Monroe, een levende legende ?
+      propositions:
+      - Honkbal
+      - Golf
+      - Tennis
+      - Boksen
+      réponse: Honkbal
+      anecdote: Van Siciliaanse afkomst werd honkbalkampioen Joe DiMaggio verliefd op Marilyn en scheidde om met haar te trouwen in 1954.
+    - id: 5
+      question: In « Liefje, ik voel me verjongd », verschijnt Marilyn Monroe voor het eerst in...
+      propositions:
+      - Platina blond
+      - Lichtbruin
+      - Brunette
+      - Roodharige
+      réponse: Platina blond
+      anecdote: De acteurs droegen sterk bij aan de ietwat eigenzinnige en humoristische toon van de film « Lieverd, ik voel me verjongd ».
+    - id: 6
+      question: Welke van deze films heeft twee sterren : Marilyn Monroe en Niagara Falls ?
+      propositions:
+      - Eve
+      - Gevaarlijke jaren
+      - Niagara
+      - Kwelling
+      réponse: Niagara
+      anecdote: « Niagara » is een van de weinige films waarin Marilyn Monroe de rol van slechterik speelt.
+    - id: 7
+      question: Wat is de kleur van de jurk van Marilyn Monroe in de film « Seven Years of Thinking » ?
+      propositions:
+      - Zwart
+      - Rood
+      - Blauw
+      - Wit
+      réponse: Wit
+      anecdote: Na dit grote succes kreeg Marilyn meer macht tegen de studio's, met name wat betreft de scripts en de regisseurs.
+    - id: 8
+      question: In welke film speelde Marilyn Monroe de beroemdste scène uit haar carrière ?
+      propositions:
+      - The Crazed
+      - 7 jaar reflectie
+      - The Billionaire
+      - Als de stad slaapt
+      réponse: 7 jaar reflectie
+      anecdote: Tijdens deze legendarische scène tilt een ventilatierooster in de metro haar witte jurk op.
+    - id: 9
+      question: In welke van deze films speelt Marilyn Monroe een naïeve en spontane jonge vrouw ?
+      propositions:
+      - Sabrina
+      - La Garçonnière
+      - 7 jaar reflectie
+      - Irma de zoete
+      réponse: 7 jaar reflectie
+      anecdote: Haar personage in de film is 22 jaar oud, terwijl ze tijdens het filmen 28 was.
+    - id: 10
+      question: Hoe vaak is Marilyn Monroe tijdens haar leven getrouwd geweest ?
+      propositions:
+      - Een keer
+      - Tweemaal
+      - Vier keer
+      - Drie keer
+      réponse: Drie keer
+      anecdote: Marilyn Monroe was achtereenvolgens getrouwd met James Dougherty, Joe DiMaggio en tenslotte Arthur Miller.
+  - confirmé:
+    - id: 11
+      question: Voor welk beroep was de jonge en mooie Marilyn Monroe aanvankelijk bestemd ?
+      propositions:
+      - De muziek
+      - Fotografie
+      - De dans
+      - De modellering
+      réponse: De modellering
+      anecdote: Norma Jeane werd vervolgens opgemerkt door Howard Hughes en tekende in 1947 haar eerste contract met 20th Century Fox.
+    - id: 12
+      question: Wie was de eerste echtgenoot van Marilyn Monroe gedurende meer dan vier jaar ?
+      propositions:
+      - Clark Gable
+      - James Dougherty
+      - Arthur Miller
+      - Joe DiMaggio
+      réponse: James Dougherty
+      anecdote: James Dougherty zal Marilyns eerste liefde zijn, voordat ze beroemd wordt, vandaar zijn bijnaam Jim the Lucky.
+    - id: 13
+      question: In welk land zong Marilyn Monroe in 1954 voor Amerikaanse soldaten ?
+      propositions:
+      - Brazilië
+      - Vietnam
+      - Korea
+      - Colombia
+      réponse: Korea
+      anecdote: Het Amerikaanse leger bood hem aan om voor vier dagen naar Korea te gaan en negen keer drie van zijn liedjes te zingen.
+    - id: 14
+      question: Welke regisseur zei over Marilyn Monroe dat ze de seks op haar gezicht had laten zien ?
+      propositions:
+      - John Huston
+      - Alfred Hitchcock
+      - George Cukor
+      - Howard Hawks
+      réponse: Alfred Hitchcock
+      anecdote: Hitchcock zal eraan toevoegen dat hij de voorkeur geeft aan koude blondines zoals Grace Kelly of Tippi Hedren.
+    - id: 15
+      question: In welk jaar trouwde Marilyn Monroe met Arthur Miller ?
+      propositions:
+      - 1954
+      - 1956
+      - 1952
+      - 1950
+      réponse: 1956
+      anecdote: Marilyn Monroe scheidde in januari 1961 van Arthur Miller en schreef haar testament op 14 januari van hetzelfde jaar.
+    - id: 16
+      question: Wie zei er lachend : Marilyn Monroe zoenen is als Hitler kussen ?
+      propositions:
+      - Clark Gable
+      - Dean Martin
+      - Tony Curtis
+      - Montgomery Clift
+      réponse: Tony Curtis
+      anecdote: Tony Curtis zal later zeggen dat deze zin, uitgesproken zonder de bedoeling te schaden, in feite een grap was.
+    - id: 17
+      question: In welke George Cukor-film speelt Marilyn Monroe met Yves Montand ?
+      propositions:
+      - The Billionaire
+      - Mijn geisha
+      - Melinda
+      - Heiligdom
+      réponse: The Billionaire
+      anecdote: Deze film is door sommigen genoemd als de film waarvan de titel Marilyn Monroe en Yves Montand te serieus namen.
+    - id: 18
+      question: Welke filmsterren Marilyn Monroe, Clark Gable en Montgomery Clift ?
+      propositions:
+      - God weet het alleen
+      - Gele klauwen
+      - Moulin Rouge
+      - The Crazed
+      réponse: The Crazed
+      anecdote: « Les Désaxés » is de laatste film van Clark Gable, die een paar dagen na het filmen stierf.
+    - id: 19
+      question: In de nacht van 4 op 5 augustus van welk jaar verloor Marilyn Monroe haar leven ?
+      propositions:
+      - 1963
+      - 1965
+      - 1964
+      - 1962
+      réponse: 1962
+      anecdote: Het rapport van medisch onderzoeker Thomas Noguchi spreekt van waarschijnlijke zelfmoord als gevolg van een accidentele overdosis barbituraten.
+    - id: 20
+      question: Wie heeft er in 1964 een beroemde serie zeefdruk van Marilyn Monroe gemaakt ?
+      propositions:
+      - Wayne Thiebaud
+      - Jasper Johns
+      - James Rizzi
+      - Andy Warhol
+      réponse: Andy Warhol
+      anecdote: Het is ook een van de meest gereproduceerde werken van de kunstenaar tot nu toe, op foto's of in decoratieve lijsten.
+  - expert:
+    - id: 21
+      question: Welke speelkameraad had een sterke fysieke gelijkenis met Marilyn Monroe ?
+      propositions:
+      - Arlene Hunter
+      - Ellen Stratton
+      - Christa Speck
+      - Linda Gamble
+      réponse: Arlene Hunter
+      anecdote: Een ongegrond gerucht dat wordt toegeschreven aan Marilyn erotische of pornografische films, die in feite zijn opgenomen door Arlene Hunter.
+    - id: 22
+      question: Dankzij wie tekende Marilyn Monroe haar eerste contract met Fox ?
+      propositions:
+      - Donald Trump
+      - Warren Buffett
+      - Howard Hughes
+      - Paul Allen
+      réponse: Howard Hughes
+      anecdote: Howard Hughes was een van de rijkste en machtigste mannen in de Verenigde Staten van Amerika.
+    - id: 23
+      question: Wat was het wekelijkse bedrag van het eerste salaris van Marilyn Monroe ?
+      propositions:
+      - 125 USD
+      - 35 USD
+      - 380 USD
+      - 720 USD
+      réponse: 125 USD
+      anecdote: Marilyn Monroe tekende op 26 juli 1946 een eerste contract van zes maanden met Fox voor een salaris van 125 dollar per week.
+    - id: 24
+      question: Van welke actrice nam Marilyn Monroe de voornaam ?
+      propositions:
+      - Marilyn Cooper
+      - Marilyn Miller
+      - Marilyn Maxwell
+      - Marilyn Burns
+      réponse: Marilyn Miller
+      anecdote: De naam Monroe komt van zijn moeder (ze heeft deze achternaam officieel aangenomen op 23 februari 1956).
+    - id: 25
+      question: Onder welke naam poseerde Marilyn Monroe naakt voor fotograaf Tom Kelly ?
+      propositions:
+      - Mary Monroe
+      - Mana Monroe
+      - Carly Monroe
+      - Lily Monroe
+      réponse: Mana Monroe
+      anecdote: Deze kalenderfoto's gaan een paar jaar later de wereld rond, wanneer ze beroemd wordt.
+    - id: 26
+      question: Wie regisseerde de film « Hoe trouwen met een miljonair », met in de hoofdrol Marilyn Monroe ?
+      propositions:
+      - Howard Hawks
+      - Tay Garnett
+      - David Miller
+      - Jean Negulesco
+      réponse: Jean Negulesco
+      anecdote: « How to Marry a Millionaire » was de eerste film gemaakt in CinemaScope, maar de tweede werd uitgebracht.
+    - id: 27
+      question: Wie was de persoonlijke adviseur van Marilyn Monroe voor veel films ?
+      propositions:
+      - Paula Strasberg
+      - Barbra Streisand
+      - Kristen Stewart
+      - Jan Sterling
+      réponse: Paula Strasberg
+      anecdote: Paula Strasberg is de vrouw van de Amerikaanse acteur Lee Strasberg en moeder van de Amerikaanse actrice Susan Strasberg.
+    - id: 28
+      question: Welke naam kreeg de laatste fotoshoot met Marilyn Monroe ?
+      propositions:
+      - The Last Sitting
+      - Lenna
+      - De andere kant
+      - Dovima
+      réponse: The Last Sitting
+      anecdote: Marilyn komt vier uur te laat bij de vergadering en poseert voor deze sessie voor meer dan twaalf uur.
+    - id: 29
+      question: Wie leende haar stem aan Marilyn Monroe in de meeste Franse versies van haar films ?
+      propositions:
+      - Nathalie Homs
+      - Claire Guibert
+      - Anne Dolan
+      - Laura Blanc
+      réponse: Claire Guibert
+      anecdote: Claire Guibert heeft ook Vivien Leigh, Linda Darnell en Doris Day geuit in tal van komedies.
+    - id: 30
+      question: Welke acteur stelde Norma Jeane Baker voor om Marilyn als zijn voornaam te kiezen ?
+      propositions:
+      - Keith Andes
+      - Ben Lyon
+      - Cary Grant
+      - Clark Gable
+      réponse: Ben Lyon
+      anecdote: Het was ook Ben Lyon die Marilyn Monroe in 1946 zijn eerste test gaf.

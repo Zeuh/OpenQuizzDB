@@ -1,0 +1,280 @@
+---
+fournisseur: OpenQuizzDB - Fournisseur de contenu libre (https://www.openquizzdb.org)
+rédacteur: Philippe Bresoux
+thème: Ironman (Les champions du triathlon)
+difficulté: 3 / 5
+quizz:
+  fr:
+  - débutant:
+    - id: 1
+      question: Quelle est la longueur totale de la course multi-disciplinaire Ironman ?
+      propositions:
+      - 98 km
+      - 184 km
+      - 142 km
+      - 226 km
+      réponse: 226 km
+      anecdote: Cette appellation est associée au triathlon Ironman d'Hawaï originel créé en 1978 par John et Judy Collins.
+    - id: 2
+      question: Laquelle de ces disciplines ne fait pas partie de la course Ironman ?
+      propositions:
+      - Cyclisme
+      - Natation
+      - Tir à l'arc
+      - Marathon
+      réponse: Tir à l'arc
+      anecdote: Cette course multi-disciplinaire consiste à enchaîner 3.8km de natation, 180.2km de cyclisme puis un marathon de 42.195km.
+    - id: 3
+      question: En combien de temps la course Ironman est-elle réalisée ?
+      propositions:
+      - Moins d'1 jour
+      - 1 semaine
+      - 3 jours
+      - 1 mois
+      réponse: Moins d'1 jour
+      anecdote: Les vainqueurs de cette compétition mondiale arrivent à achever le circuit complet en un peu plus de huit heures.
+    - id: 4
+      question: Quelle société décerne chaque année le titre de champion du monde d'Ironman ?
+      propositions:
+      - PNG
+      - ATP
+      - IRM
+      - WTC
+      réponse: WTC
+      anecdote: La WTC organise un circuit officiel et international de qualifications s'appuyant sur une vigoureuse politique commerciale.
+    - id: 5
+      question: Quelle Suissesse fut la première européenne à remporter Ironman ?
+      propositions:
+      - Lyn Lemaire
+      - Natascha Badmann
+      - Daniela Ryf
+      - Lori Bowden
+      réponse: Natascha Badmann
+      anecdote: Mademoiselle Suisse gagnera six fois le titre et maintiendra son emprise sur la compétition féminine jusqu'en 2005.
+    - id: 6
+      question: Vers quelle baie a été déplacé l'ancien Ironman d'Hawaï ?
+      propositions:
+      - Pahoa
+      - Honalo
+      - Kailua-Kona
+      - Volcano
+      réponse: Kailua-Kona
+      anecdote: Depuis sa transformation en championnat du monde d'Ironman en 1990, le parcours est resté sensiblement le même.
+    - id: 7
+      question: Quelle compétition dérivée de l'Ironman est aussi appelée Half Ironman ?
+      propositions:
+      - Ironman 70.3
+      - Embrunman
+      - Roth Challenge
+      - Hawaï KPR
+      réponse: Ironman 70.3
+      anecdote: L'appellation vient de la distance totale de la course en miles qui correspondent à la moitié de la distance d'un Ironmnan.
+    - id: 8
+      question: Combien de participants courent chaque année la finale de l'Ironman ?
+      propositions:
+      - 3 000
+      - 5 000
+      - 4 000
+      - 2 000
+      réponse: 2 000
+      anecdote: La participation à la finale de la compétition moderne exige une qualification préalable de participation au championnat.
+    - id: 9
+      question: Par quelle discipline débute le championnat du monde Ironman ?
+      propositions:
+      - Le cyclisme
+      - La natation
+      - La course
+      - La marathon
+      réponse: La natation
+      anecdote: La première épreuve de natation se déroule dans la baie de Kailua (Kailua-Bay) en une boucle unique de 3.8 kilomètres.
+    - id: 10
+      question: De quelle ville part le marathon de la compétition moderne Ironman ?
+      propositions:
+      - Eden Roc
+      - Wainaku
+      - Ainaloa
+      - Kailu
+      réponse: Kailu
+      anecdote: Le circuit part de Kailu en direction du sud jusqu'à Kalahuu, puis propose un second aller-retour vers le nord jusqu'à l'aéroport.
+  - confirmé:
+    - id: 11
+      question: Quelle triathlète a marqué l'Ironman de 1982 en s'effondrant devant la ligne d'arrivée ?
+      propositions:
+      - Linsey Corbin
+      - Amanda Stevens
+      - Amy Marsh
+      - Julie Moss
+      réponse: Julie Moss
+      anecdote: Franchissant la ligne à quatre pattes, Julie Moss inscrit ainsi un des moments emblématiques de l'histoire de l'Ironman.
+    - id: 12
+      question: Quelle devise est adoptée par tous les compétiteurs de la course Ironman ?
+      propositions:
+      - Aller plus loin
+      - Tout est possible
+      - Jusqu'au bout
+      - Vaincre ici</i>
+      réponse: Tout est possible
+      anecdote: Réservée aux amateurs et aux professionnels, la compétition pousse les participants jusqu'à leur extrême limite.
+    - id: 13
+      question: En quelle année le triathlon Ironman d'Hawaï originel a-t-il été créé ?
+      propositions:
+      - 1978
+      - 1988
+      - 2008
+      - 1998
+      réponse: 1978
+      anecdote: Jonh et Judy Collins furent introduits dans le Hall of Fame de l'Ironman en 1998 pour le 20e anniversaire de la compétition.
+    - id: 14
+      question: Quelle chaîne de télé a fait découvrir l'Ironman aux spectateurs du monde entier ?
+      propositions:
+      - ABC
+      - CBS
+      - FOX
+      - NBC
+      réponse: ABC
+      anecdote: Les fondateurs John et Judy Collins donnèrent à ABC la permission de filmer pour leur émission « Wide World of Sports ».
+    - id: 15
+      question: À partir de quelle année le nombre de coureurs fut-il limité à Ironman ?
+      propositions:
+      - 1992
+      - 1983
+      - 1989
+      - 1986
+      réponse: 1983
+      anecdote: Le premier Ironman organisé aux États-Unis et qualificatif pour l'épreuve reine fut le Ricoh Ironman U.S. Championship.
+    - id: 16
+      question: Quel athlète a remporté six titres en huit participations à Ironman ?
+      propositions:
+      - Dave Scott
+      - Pete Jacobs
+      - Peter Reid
+      - Greg Welch
+      réponse: Dave Scott
+      anecdote: Dave Scott a pris connaissance de l'existence de la course Ironman au travers d'un reportage de « Sport Illustrated ».
+    - id: 17
+      question: Depuis quelle édition de l'Ironman le départ de l'ensemble des compétiteurs est-il différé ?
+      propositions:
+      - 2008
+      - 2012
+      - 2010
+      - 2014
+      réponse: 2014
+      anecdote: Les vagues sont au nombre de quatre, espacées de cinq minutes pour les professionnels et de dix pour les différentes classes d'âge.
+    - id: 18
+      question: Quelle est la température de l'eau au mois d'octobre dans la baie de Kailua ?
+      propositions:
+      - 22 °C
+      - 30 °C
+      - 26 °C
+      - 18 °C
+      réponse: 26 °C
+      anecdote: La première boucle est donc disputée sans combinaison néoprène, augmentant ainsi sa difficulté due à la flottabilité.
+    - id: 19
+      question: Quel type de roue est interdit lors de la compétition cycliste de l'Ironman ?
+      propositions:
+      - Large
+      - Lenticulaire
+      - Dentée
+      - En carbone
+      réponse: Lenticulaire
+      anecdote: Face au risque d'accident, les roues pleines et donc très sensibles aux vents latéraux sont interdites sur cette compétition.
+    - id: 20
+      question: Quelle conséquence directe une aide extérieure amène-t-elle en compétition Ironman ?
+      propositions:
+      - Carte jaune
+      - Élimination
+      - Pénalité
+      - Suspension
+      réponse: Élimination
+      anecdote: La règle de base de cette compétition étant l'effort individuel, l'aspiration-abri (drafting) est donc également interdite.
+  - expert:
+    - id: 21
+      question: À quel âge Walt Stack a-t-il terminé sa course Ironman en 1981 ?
+      propositions:
+      - 84 ans
+      - 73 ans
+      - 68 ans
+      - 91 ans
+      réponse: 73 ans
+      anecdote: Le plus âgé des triathlètes engagés a terminé dernier en 26h et 20min, le temps le plus lent de toute l'histoire des Ironmans.
+    - id: 22
+      question: Qui est le premier triathlète non américain à remporter Ironman ?
+      propositions:
+      - Gordon Haller
+      - Greg Welch
+      - Scott Tinley
+      - Dave Scott
+      réponse: Greg Welch
+      anecdote: Greg Welch met ainsi un terme à la domination américaine chez les hommes en battant Dave Scott et Mark Allen en 1994.
+    - id: 23
+      question: Quelle britannique a réalisé un des plus grands chocs de l'histoire d'Ironman ?
+      propositions:
+      - Chrissie Wellington
+      - Karen Smyers
+      - Robin Beck
+      - Erin Baker
+      réponse: Chrissie Wellington
+      anecdote: Un exploit salué par la presse spécialisée, tant il demeure impossible de remporter cette course en première participation.
+    - id: 24
+      question: En 2019, où s'est déroulée la finale du championnat du monde Ironman 70.3 ?
+      propositions:
+      - Tokyo
+      - Montréal
+      - Nice
+      - Madrid
+      réponse: Nice
+      anecdote: En 2017, c'est Daniela Ryf qui remporte la compétition féminine tandis que Javier Gomez gagne le titre masculin.
+    - id: 25
+      question: Qui fut le premier vainqueur Ironman du monde après une course de 11h 46min 58s ?
+      propositions:
+      - Gordon Haller
+      - Dave Scott
+      - Tom Warren
+      - John Howard
+      réponse: Gordon Haller
+      anecdote: Quinze concurrents s'élancèrent avec lui pour cette première mondiale, douze seulement terminant l'épreuve de 226 kilomètres.
+    - id: 26
+      question: Quelle cycliste de Boston fut la première femme à terminer un Ironwoman ?
+      propositions:
+      - Julie Leach
+      - Linda Sweeney
+      - Lyn Lemaire
+      - Robin Beck
+      réponse: Lyn Lemaire
+      anecdote: Lyn Lemaire est également championne des États-unis de course contre-la-montre en cyclisme sur route en 1976 et 1977.
+    - id: 27
+      question: Qui fut le premier à l'Ironman à utiliser un guidon de triathlète sur son vélo ?
+      propositions:
+      - Dave Scott
+      - Scott Tinley
+      - Gordon Haller
+      - Tom Warren
+      réponse: Scott Tinley
+      anecdote: Scott Tinley remporte ainsi le trophée en établissant un nouveau record de la course en 8h 50min 54s.
+    - id: 28
+      question: Quel triathlète vétéran a créé la World Triathlon Corporation ?
+      propositions:
+      - Scott Tinley
+      - Scott Molina
+      - James P. Gills
+      - Greg Welch
+      réponse: James P. Gills
+      anecdote: Cette société commerciale formalise et développe le championnat du monde d'Ironman et promeut la marque Ironman.
+    - id: 29
+      question: Combien de triathlètes ont participé en 2016 à une course Ironman qualificative ?
+      propositions:
+      - 91 000
+      - 63 000
+      - 77 000
+      - 85 000
+      réponse: 91 000
+      anecdote: Sur les 2 300 qualifiés, record historique, les triathlètes féminines représentent 30 % du nombre de compétiteurs.
+    - id: 30
+      question: Quel est le dénivelé positif global du circuit à vélo de l'Ironman ?
+      propositions:
+      - 1 400 m
+      - 1 100 m
+      - 1 700 m
+      - 2 000 m
+      réponse: 1 100 m
+      anecdote: Le circuit à vélo propose un dénivelé positif global faible sur 180 km, le classant dans les parcours très roulants.

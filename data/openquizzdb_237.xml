@@ -1,0 +1,2035 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes" ?>
+<quizz fournisseur="OpenQuizzDB : Fournisseur de contenu libre"
+       url="https://www.openquizzdb.org"
+       rédacteur="Philippe Bresoux"
+       thème="Abeilles du rucher (Une abeille vaut mieux que mille mouches)"
+       difficulté="3 / 5">
+  <fr>
+  <débutant>
+    <contenu id="1">
+      <question>Comment appelle-t-on une personne qui élève des abeilles à miel ?</question>
+      <propositions>
+        <proposition id="1-1">Raniculteur</proposition>
+        <proposition id="1-2">Aviculteur</proposition>
+        <proposition id="1-3">Apiculteur</proposition>
+        <proposition id="1-4">Ostréiculteur</proposition>
+      </propositions>
+      <réponse proposition="1-3">Apiculteur</réponse>
+      <anecdote>Pratiquée sur tous les continents, cette activité diffère selon les variétés d'abeilles, le climat et le développement économique.</anecdote>
+    </contenu>
+    <contenu id="2">
+      <question>De quel suc sécrété se nourrissent la plupart des abeilles de nos régions ?</question>
+      <propositions>
+        <proposition id="2-1">Nectar</proposition>
+        <proposition id="2-2">Bourgeon</proposition>
+        <proposition id="2-3">Cerne</proposition>
+        <proposition id="2-4">Loge</proposition>
+      </propositions>
+      <réponse proposition="2-1">Nectar</réponse>
+      <anecdote>Cette substance possède, par son goût ou son odeur, un pouvoir d'attraction sur les insectes ainsi que sur certains oiseaux.</anecdote>
+    </contenu>
+    <contenu id="3">
+      <question>Avec quel autre insecte plus agressif confond-on souvent l'abeille ?</question>
+      <propositions>
+        <proposition id="3-1">Frelon</proposition>
+        <proposition id="3-2">Guêpe</proposition>
+        <proposition id="3-3">Bourdon</proposition>
+        <proposition id="3-4">Taon</proposition>
+      </propositions>
+      <réponse proposition="3-2">Guêpe</réponse>
+      <anecdote>La guêpe est un insecte ayant généralement un abdomen jaune rayé de noir et dont la femelle porte un dard venimeux.</anecdote>
+    </contenu>
+    <contenu id="4">
+      <question>Que font les abeilles volant de fleur en fleur à la recherche de nourriture ?</question>
+      <propositions>
+        <proposition id="4-1">Elles dessinent</proposition>
+        <proposition id="4-2">Elles butinent</proposition>
+        <proposition id="4-3">Elles patinent</proposition>
+        <proposition id="4-4">Elles ruminent</proposition>
+      </propositions>
+      <réponse proposition="4-2">Elles butinent</réponse>
+      <anecdote>L'abeille récolte ainsi dans la nature nectar, propolis, miellat et pollen. En butinant, l'abeille assure également la pollinisation.</anecdote>
+    </contenu>
+    <contenu id="5">
+      <question>Quel phénomène important l'abeille permet-elle d'assurer en butinant ?</question>
+      <propositions>
+        <proposition id="5-1">Pollinisation</proposition>
+        <proposition id="5-2">Germination</proposition>
+        <proposition id="5-3">Introgression</proposition>
+        <proposition id="5-4">Sporulation</proposition>
+      </propositions>
+      <réponse proposition="5-1">Pollinisation</réponse>
+      <anecdote>Les plantes contribuent quant à elle à l'alimentation des pollinisateurs en leur fournissant le pollen en excès ou nectar.</anecdote>
+    </contenu>
+    <contenu id="6">
+      <question>Laquelle de ces propositions n'est pas un produit dérivé de l'abeille ?</question>
+      <propositions>
+        <proposition id="6-1">Beurre</proposition>
+        <proposition id="6-2">Gelée</proposition>
+        <proposition id="6-3">Cire</proposition>
+        <proposition id="6-4">Miel</proposition>
+      </propositions>
+      <réponse proposition="6-1">Beurre</réponse>
+      <anecdote>Ces produits sont stockés dans des galeries pour les espèces solitaires, des assemblages complexes pour les espèces sociales.</anecdote>
+    </contenu>
+    <contenu id="7">
+      <question>Quel est le seul individu femelle fertile au sein d'une colonie d'abeilles ?</question>
+      <propositions>
+        <proposition id="7-1">Frelon</proposition>
+        <proposition id="7-2">Ouvrière</proposition>
+        <proposition id="7-3">Guêpe</proposition>
+        <proposition id="7-4">Reine</proposition>
+      </propositions>
+      <réponse proposition="7-4">Reine</réponse>
+      <anecdote>La reine, à l'abdomen plus allongé, est habituellement la mère de la plupart des abeilles de la ruche, sinon de la totalité.</anecdote>
+    </contenu>
+    <contenu id="8">
+      <question>Quel mâle de l'abeille est le produit de l'éclosion d'un oeuf non fécondé ?</question>
+      <propositions>
+        <proposition id="8-1">Faux bourdon</proposition>
+        <proposition id="8-2">Coléoptère</proposition>
+        <proposition id="8-3">Phasme</proposition>
+        <proposition id="8-4">Tique</proposition>
+      </propositions>
+      <réponse proposition="8-1">Faux bourdon</réponse>
+      <anecdote>Contrairement à l'abeille ouvrière femelle, le faux bourdon ne possède pas de dard et ne récolte ni nectar ni pollen.</anecdote>
+    </contenu>
+    <contenu id="9">
+      <question>Quelle petite abeille a fait la joie des enfants à la télévision dans les années 1980 ?</question>
+      <propositions>
+        <proposition id="9-1">Maya</proposition>
+        <proposition id="9-2">Tao Tao</proposition>
+        <proposition id="9-3">Zigby</proposition>
+        <proposition id="9-4">Heidi</proposition>
+      </propositions>
+      <réponse proposition="9-1">Maya</réponse>
+      <anecdote>Maya découvre le monde en compagnie de ses amis Willy l'abeille, Flip la sauterelle, Max le ver de terre et Alexandre la souris.</anecdote>
+    </contenu>
+    <contenu id="10">
+      <question>Environ combien d'espèces d'abeilles sont répertoriées à ce jour sur la planète ?</question>
+      <propositions>
+        <proposition id="10-1">20 000</proposition>
+        <proposition id="10-2">15 000</proposition>
+        <proposition id="10-3">10 000</proposition>
+        <proposition id="10-4">5 000</proposition>
+      </propositions>
+      <réponse proposition="10-1">20 000</réponse>
+      <anecdote>Les abeilles peuvent être classées selon leur mode de vie : abeilles domestiques, sauvages, solitaires ou bien sociales.</anecdote>
+    </contenu>
+  </débutant>
+  <confirmé>
+    <contenu id="11">
+      <question>Quel nom donne-t-on à un groupe d'abeilles vivant en société ?</question>
+      <propositions>
+        <proposition id="11-1">Écotype</proposition>
+        <proposition id="11-2">Niche</proposition>
+        <proposition id="11-3">Guilde</proposition>
+        <proposition id="11-4">Colonie</proposition>
+      </propositions>
+      <réponse proposition="11-4">Colonie</réponse>
+      <anecdote>En biologie, une colonie est un groupe d'organismes de la même espèce vivant rassemblés selon un mode de vie particulier.</anecdote>
+    </contenu>
+    <contenu id="12">
+      <question>Quelle espèce d'abeille est probablement la plus connue en Europe ?</question>
+      <propositions>
+        <proposition id="12-1">Apis dorsata</proposition>
+        <proposition id="12-2">Apis florea</proposition>
+        <proposition id="12-3">Apis mellifera</proposition>
+        <proposition id="12-4">Apis cerana</proposition>
+      </propositions>
+      <réponse proposition="12-3">Apis mellifera</réponse>
+      <anecdote>Semi-domestique, le nom de genre Apis est le terme latin pour abeille, et mellifera signifie qui donne du miel.</anecdote>
+    </contenu>
+    <contenu id="13">
+      <question>Quelle est la durée de vie moyenne d'une abeille durant les mois d'été ?</question>
+      <propositions>
+        <proposition id="13-1">Deux mois</proposition>
+        <proposition id="13-2">Quatre mois</proposition>
+        <proposition id="13-3">Trois mois</proposition>
+        <proposition id="13-4">Un mois</proposition>
+      </propositions>
+      <réponse proposition="13-4">Un mois</réponse>
+      <anecdote>Se nourrissant du nectar des fleurs, une abeille peut vivre jusqu'à dix mois en hiver et seulement un mois en été.</anecdote>
+    </contenu>
+    <contenu id="14">
+      <question>Quelle expression désigne une espèce d'abeille vivant en colonie ?</question>
+      <propositions>
+        <proposition id="14-1">Abeille parasite</proposition>
+        <proposition id="14-2">Abeille à miel</proposition>
+        <proposition id="14-3">Abeille sociale</proposition>
+        <proposition id="14-4">Abeille solitaire</proposition>
+      </propositions>
+      <réponse proposition="14-3">Abeille sociale</réponse>
+      <anecdote>D'autres espèces sont des abeilles parasites ou abeilles coucous qui pratiquent le cleptoparasitisme.</anecdote>
+    </contenu>
+    <contenu id="15">
+      <question>De quoi la larve d'une future reine des abeilles est-elle exclusivement nourrie ?</question>
+      <propositions>
+        <proposition id="15-1">Gelée royale</proposition>
+        <proposition id="15-2">Insectes</proposition>
+        <proposition id="15-3">Sel</proposition>
+        <proposition id="15-4">Sédiments</proposition>
+      </propositions>
+      <réponse proposition="15-1">Gelée royale</réponse>
+      <anecdote>La gelée royale est le produit de sécrétion des abeilles ouvrières, entre le cinquième et le quatorzième jour de leur existence.</anecdote>
+    </contenu>
+    <contenu id="16">
+      <question>Comment appelle-t-on un rassemblement important d'abeilles ?</question>
+      <propositions>
+        <proposition id="16-1">Essaim</proposition>
+        <proposition id="16-2">Grappe</proposition>
+        <proposition id="16-3">Manteau</proposition>
+        <proposition id="16-4">Sac</proposition>
+      </propositions>
+      <réponse proposition="16-1">Essaim</réponse>
+      <anecdote>Le phénomène dit de nuée n'a pas d'origine météorologique directe mais est saisonnier et lié aux épisodes de sécheresse.</anecdote>
+    </contenu>
+    <contenu id="17">
+      <question>Quelle abeille est la grande favorite de l'apiculture en Europe ?</question>
+      <propositions>
+        <proposition id="17-1">Abeille bleue</proposition>
+        <proposition id="17-2">Abeille rouge</proposition>
+        <proposition id="17-3">Abeille noire</proposition>
+        <proposition id="17-4">Abeille blanche</proposition>
+      </propositions>
+      <réponse proposition="17-3">Abeille noire</réponse>
+      <anecdote>Son aire de répartition originale s'étendait de l'ouest de la Russie à l'Europe du Nord et probablement à la péninsule ibérique.</anecdote>
+    </contenu>
+    <contenu id="18">
+      <question>Que se passe-t-il pour l'abeille lorsque celle-ci utilise son dard cranté pour piquer ?</question>
+      <propositions>
+        <proposition id="18-1">Elle boit</proposition>
+        <proposition id="18-2">Elle meurt</proposition>
+        <proposition id="18-3">Elle gonfle</proposition>
+        <proposition id="18-4">Elle dort</proposition>
+      </propositions>
+      <réponse proposition="18-2">Elle meurt</réponse>
+      <anecdote>La piqûre entraîne une partie des organes internes de l'abeille, dont son sac à venin, ce qui est presque toujours fatal à l'abeille.</anecdote>
+    </contenu>
+    <contenu id="19">
+      <question>Comment appelle-t-on l'ensemble des ruches d'un apiculteur ?</question>
+      <propositions>
+        <proposition id="19-1">Essaim</proposition>
+        <proposition id="19-2">Colonie</proposition>
+        <proposition id="19-3">Grappe</proposition>
+        <proposition id="19-4">Rucher</proposition>
+      </propositions>
+      <réponse proposition="19-4">Rucher</réponse>
+      <anecdote>L'emplacement des ruchers se fait notamment en fonction de l'environnement et de l'exposition (de préférence sud ou sud-est).</anecdote>
+    </contenu>
+    <contenu id="20">
+      <question>Quel film d'animation raconte la vie d'une abeille fraîchement diplômée ?</question>
+      <propositions>
+        <proposition id="20-1">Rosa</proposition>
+        <proposition id="20-2">Bee Movie</proposition>
+        <proposition id="20-3">Happy Feet</proposition>
+        <proposition id="20-4">Le Lorax</proposition>
+      </propositions>
+      <réponse proposition="20-2">Bee Movie</réponse>
+      <anecdote>Ce film d'animation en images de synthèse sorti en 2007 a été écrit et produit par Jerry Seinfeld pour DreamWorks SKG.</anecdote>
+    </contenu>
+  </confirmé>
+  <expert>
+    <contenu id="21">
+      <question>Dans quelle résine a-t-on retrouvé les plus anciens fossiles d'abeilles ?</question>
+      <propositions>
+        <proposition id="21-1">Turquoise</proposition>
+        <proposition id="21-2">Ambre</proposition>
+        <proposition id="21-3">Opale</proposition>
+        <proposition id="21-4">Jais</proposition>
+      </propositions>
+      <réponse proposition="21-2">Ambre</réponse>
+      <anecdote>Le plus vieux fossile à ce jour est Melittosphex burmensis, daté de 100 millions d'années et découvert en 2006 en Birmanie.</anecdote>
+    </contenu>
+    <contenu id="22">
+      <question>De combien de castes une colonie d'abeilles est-elle composée ?</question>
+      <propositions>
+        <proposition id="22-1">Cinq</proposition>
+        <proposition id="22-2">Trois</proposition>
+        <proposition id="22-3">Quatre</proposition>
+        <proposition id="22-4">Six</proposition>
+      </propositions>
+      <réponse proposition="22-2">Trois</réponse>
+      <anecdote>La reine, l'unique femelle fertile du groupe, une majorité d'ouvrières et des mâles (ou faux-bourdons) qui fécondent les futures reines.</anecdote>
+    </contenu>
+    <contenu id="23">
+      <question>Quelles abeilles utilisent des galeries creusées dans le bois ?</question>
+      <propositions>
+        <proposition id="23-1">Horticoles</proposition>
+        <proposition id="23-2">Xylicoles</proposition>
+        <proposition id="23-3">Vinicoles</proposition>
+        <proposition id="23-4">Rubicoles</proposition>
+      </propositions>
+      <réponse proposition="23-2">Xylicoles</réponse>
+      <anecdote>Un xylophage est un organisme vivant dont le régime alimentaire est composé principalement d'aubier, mais aussi de bois parfait.</anecdote>
+    </contenu>
+    <contenu id="24">
+      <question>Jusqu'à combien d'oeufs la reine des abeilles peut-elle pondre environ en une année ?</question>
+      <propositions>
+        <proposition id="24-1">300 000</proposition>
+        <proposition id="24-2">100 000</proposition>
+        <proposition id="24-3">400 000</proposition>
+        <proposition id="24-4">200 000</proposition>
+      </propositions>
+      <réponse proposition="24-3">400 000</réponse>
+      <anecdote>Quand sa spermathèque commence à se vider, elle ne peut plus pondre d'oeufs d'ouvrières et sa diffusion de phéromones se modifie.</anecdote>
+    </contenu>
+    <contenu id="25">
+      <question>Quel processus fait naître une nouvelle reine-mère pour la ruche ?</question>
+      <propositions>
+        <proposition id="25-1">Reinage</proposition>
+        <proposition id="25-2">Ruchage</proposition>
+        <proposition id="25-3">Remérage</proposition>
+        <proposition id="25-4">Restaurage</proposition>
+      </propositions>
+      <réponse proposition="25-3">Remérage</réponse>
+      <anecdote>La colonie amorce alors le périlleux processus de nourrir plusieurs nymphes de gelée royale, la survie de la colonie en dépendant.</anecdote>
+    </contenu>
+    <contenu id="26">
+      <question>Dans quelle maternité de la ruche se développent les futures abeilles ?</question>
+      <propositions>
+        <proposition id="26-1">Bûcher</proposition>
+        <proposition id="26-2">Couvain</proposition>
+        <proposition id="26-3">Dortoir</proposition>
+        <proposition id="26-4">Levant</proposition>
+      </propositions>
+      <réponse proposition="26-2">Couvain</réponse>
+      <anecdote>Il est généralement situé au centre de la ruche et est entouré de rayons de miel et de pollen (pain d'abeille) pour l'alimenter.</anecdote>
+    </contenu>
+    <contenu id="27">
+      <question>Comment les abeilles évitent-elles d'engendrer un organisme étouffant ?</question>
+      <propositions>
+        <proposition id="27-1">Ruchage</proposition>
+        <proposition id="27-2">Essaimage</proposition>
+        <proposition id="27-3">Pollinage</proposition>
+        <proposition id="27-4">Remérage</proposition>
+      </propositions>
+      <réponse proposition="27-2">Essaimage</réponse>
+      <anecdote>Ce phénomène a lieu quand une partie des abeilles quitte la ruche avec une reine (l'essaim) pour former une nouvelle colonie.</anecdote>
+    </contenu>
+    <contenu id="28">
+      <question>Quelle pratique consiste à soigner avec les produits de la ruche ?</question>
+      <propositions>
+        <proposition id="28-1">Phytothérapie</proposition>
+        <proposition id="28-2">Oligothérapie</proposition>
+        <proposition id="28-3">Ayurveda</proposition>
+        <proposition id="28-4">Apithérapie</proposition>
+      </propositions>
+      <réponse proposition="28-4">Apithérapie</réponse>
+      <anecdote>L'apithérapie propose d'utiliser les propriétés supposées du miel, de la propolis, du venin d'abeilles, de la gelée royale et du pollen.</anecdote>
+    </contenu>
+    <contenu id="29">
+      <question>Quel choc une piqûre d'abeille peut-elle parfois entraîner sur l'homme ?</question>
+      <propositions>
+        <proposition id="29-1">Perforin</proposition>
+        <proposition id="29-2">Antigène</proposition>
+        <proposition id="29-3">Macrophage</proposition>
+        <proposition id="29-4">Anaphylactique</proposition>
+      </propositions>
+      <réponse proposition="29-4">Anaphylactique</réponse>
+      <anecdote>Il s'agit d'une manifestation d'hypersensibilité immédiate due à la libération de médiateurs vaso-actifs chez un sujet sensibilisé.</anecdote>
+    </contenu>
+    <contenu id="30">
+      <question>Qu'ont remplacé les abeilles impériales de Napoléon Bonaparte ?</question>
+      <propositions>
+        <proposition id="30-1">Trèfle</proposition>
+        <proposition id="30-2">Myosotis</proposition>
+        <proposition id="30-3">Fleur de lys</proposition>
+        <proposition id="30-4">Bleuet</proposition>
+      </propositions>
+      <réponse proposition="30-3">Fleur de lys</réponse>
+      <anecdote>Les fleurs de lis d'or sur champ d'azur devinrent les armes de France et l'emblème spécifique des rois de France.</anecdote>
+    </contenu>
+  </expert>
+  </fr>  
+  <en>
+  <débutant>
+    <contenu id="1">
+      <question>What is a person who raises honey bees called ?</question>
+      <propositions>
+        <proposition id="1-1">Beekeeper</proposition>
+        <proposition id="1-2">Oyster farmer</proposition>
+        <proposition id="1-3">Poultry farmer</proposition>
+        <proposition id="1-4">Raniculteur</proposition>
+      </propositions>
+      <réponse proposition="1-1">Beekeeper</réponse>
+      <anecdote>Practiced on all continents, this activity differs according to bee varieties, climate and economic development.</anecdote>
+    </contenu>
+    <contenu id="2">
+      <question>What secreted juice do most bees eat ?</question>
+      <propositions>
+        <proposition id="2-1">Bud</proposition>
+        <proposition id="2-2">Nectar</proposition>
+        <proposition id="2-3">Lodge</proposition>
+        <proposition id="2-4">Circles</proposition>
+      </propositions>
+      <réponse proposition="2-2">Nectar</réponse>
+      <anecdote>This substance has, by its taste or smell, a power of attraction on insects as well as on certain birds.</anecdote>
+    </contenu>
+    <contenu id="3">
+      <question>What other more aggressive insect is the bee often confused with ?</question>
+      <propositions>
+        <proposition id="3-1">Wasp</proposition>
+        <proposition id="3-2">Hornet</proposition>
+        <proposition id="3-3">Bumblebee</proposition>
+        <proposition id="3-4">Horsefly</proposition>
+      </propositions>
+      <réponse proposition="3-1">Wasp</réponse>
+      <anecdote>The wasp is an insect generally with a yellow abdomen striped with black and the female of which carries a poisonous stinger.</anecdote>
+    </contenu>
+    <contenu id="4">
+      <question>What do bees do flying from flower to flower in search of food ?</question>
+      <propositions>
+        <proposition id="4-1">They are foraging</proposition>
+        <proposition id="4-2">They skate</proposition>
+        <proposition id="4-3">They ruminate</proposition>
+        <proposition id="4-4">They draw</proposition>
+      </propositions>
+      <réponse proposition="4-1">They are foraging</réponse>
+      <anecdote>The bee harvests in nature nectar, propolis, honeydew and pollen.</anecdote>
+    </contenu>
+    <contenu id="5">
+      <question>What important phenomenon does the bee provide by foraging ?</question>
+      <propositions>
+        <proposition id="5-1">Sporulation</proposition>
+        <proposition id="5-2">Pollination</proposition>
+        <proposition id="5-3">Introgression</proposition>
+        <proposition id="5-4">Germination</proposition>
+      </propositions>
+      <réponse proposition="5-2">Pollination</réponse>
+      <anecdote>Plants contribute to the diet of pollinators by providing them with excess pollen or nectar.</anecdote>
+    </contenu>
+    <contenu id="6">
+      <question>Which of these is not a bee product ?</question>
+      <propositions>
+        <proposition id="6-1">Jelly</proposition>
+        <proposition id="6-2">Wax</proposition>
+        <proposition id="6-3">Butter</proposition>
+        <proposition id="6-4">Honey</proposition>
+      </propositions>
+      <réponse proposition="6-3">Butter</réponse>
+      <anecdote>These products are stored in galleries for solitary species, complex assemblies for social species.</anecdote>
+    </contenu>
+    <contenu id="7">
+      <question>Who is the only fertile female individual in a bee colony ?</question>
+      <propositions>
+        <proposition id="7-1">Queen</proposition>
+        <proposition id="7-2">Hornet</proposition>
+        <proposition id="7-3">Wasp</proposition>
+        <proposition id="7-4">Worker</proposition>
+      </propositions>
+      <réponse proposition="7-1">Queen</réponse>
+      <anecdote>The queen, with a more elongated abdomen, is usually the mother of most, if not all, bees in the hive.</anecdote>
+    </contenu>
+    <contenu id="8">
+      <question>Which honey bee is the product of the hatching of an unfertilized egg ?</question>
+      <propositions>
+        <proposition id="8-1">False drone</proposition>
+        <proposition id="8-2">Beetle</proposition>
+        <proposition id="8-3">Tick</proposition>
+        <proposition id="8-4">Stick insect</proposition>
+      </propositions>
+      <réponse proposition="8-1">False drone</réponse>
+      <anecdote>Unlike the female worker bee, the drone has no stinger and does not harvest nectar or pollen.</anecdote>
+    </contenu>
+    <contenu id="9">
+      <question>What little bee delighted children on television in the 1980s ?</question>
+      <propositions>
+        <proposition id="9-1">Zigby</proposition>
+        <proposition id="9-2">Maya</proposition>
+        <proposition id="9-3">Tao Tao</proposition>
+        <proposition id="9-4">Heidi</proposition>
+      </propositions>
+      <réponse proposition="9-2">Maya</réponse>
+      <anecdote>Maya discovers the world in the company of her friends Willy the bee, Flip the grasshopper, Max the earthworm and Alexander the mouse.</anecdote>
+    </contenu>
+    <contenu id="10">
+      <question>How many species of bees are listed so far on the planet ?</question>
+      <propositions>
+        <proposition id="10-1">10,000</proposition>
+        <proposition id="10-2">20,000</proposition>
+        <proposition id="10-3">5,000</proposition>
+        <proposition id="10-4">15,000</proposition>
+      </propositions>
+      <réponse proposition="10-2">20,000</réponse>
+      <anecdote>Bees can be classified according to their way of life: domestic, wild, solitary or social bees.</anecdote>
+    </contenu>
+  </débutant>
+  <confirmé>
+    <contenu id="11">
+      <question>What name is given to a group of bees living in society ?</question>
+      <propositions>
+        <proposition id="11-1">Niche</proposition>
+        <proposition id="11-2">Colony</proposition>
+        <proposition id="11-3">Guild</proposition>
+        <proposition id="11-4">Ecotype</proposition>
+      </propositions>
+      <réponse proposition="11-2">Colony</réponse>
+      <anecdote>In biology, a colony is a group of living organisms of the same species gathered together according to a particular way of life.</anecdote>
+    </contenu>
+    <contenu id="12">
+      <question>Which bee species is probably the best known in Europe ?</question>
+      <propositions>
+        <proposition id="12-1">Apis dorsata</proposition>
+        <proposition id="12-2">Apis cerana</proposition>
+        <proposition id="12-3">Apis florea</proposition>
+        <proposition id="12-4">Apis mellifera</proposition>
+      </propositions>
+      <réponse proposition="12-4">Apis mellifera</réponse>
+      <anecdote>Semi-domestic, the genus name Apis is the Latin term for bee, and mellifera means that gives honey.</anecdote>
+    </contenu>
+    <contenu id="13">
+      <question>What is the average lifespan of a bee during the summer months ?</question>
+      <propositions>
+        <proposition id="13-1">One month</proposition>
+        <proposition id="13-2">Three months</proposition>
+        <proposition id="13-3">Four months</proposition>
+        <proposition id="13-4">Two months</proposition>
+      </propositions>
+      <réponse proposition="13-1">One month</réponse>
+      <anecdote>Feeding on the nectar of flowers, a bee can live up to ten months in winter and only one month in summer.</anecdote>
+    </contenu>
+    <contenu id="14">
+      <question>What expression denotes a species of bee living in a colony ?</question>
+      <propositions>
+        <proposition id="14-1">Lonely bee</proposition>
+        <proposition id="14-2">Honey bee</proposition>
+        <proposition id="14-3">Parasitic bee</proposition>
+        <proposition id="14-4">Social bee</proposition>
+      </propositions>
+      <réponse proposition="14-4">Social bee</réponse>
+      <anecdote>Other species are parasitic bees or cuckoo bees who practice cleptoparasitism.</anecdote>
+    </contenu>
+    <contenu id="15">
+      <question>What is the larva of a future queen bee exclusively fed on ?</question>
+      <propositions>
+        <proposition id="15-1">Sediments</proposition>
+        <proposition id="15-2">Insects</proposition>
+        <proposition id="15-3">Salt</proposition>
+        <proposition id="15-4">Royal jelly</proposition>
+      </propositions>
+      <réponse proposition="15-4">Royal jelly</réponse>
+      <anecdote>Royal jelly is the secretion product of worker bees, between the fifth and fourteenth day of their existence.</anecdote>
+    </contenu>
+    <contenu id="16">
+      <question>What do you call a large gathering of bees ?</question>
+      <propositions>
+        <proposition id="16-1">Bag</proposition>
+        <proposition id="16-2">Coat</proposition>
+        <proposition id="16-3">Swarm</proposition>
+        <proposition id="16-4">Cluster</proposition>
+      </propositions>
+      <réponse proposition="16-3">Swarm</réponse>
+      <anecdote>The phenomenon known as cloudless does not have a direct meteorological origin but is seasonal and linked to drought episodes.</anecdote>
+    </contenu>
+    <contenu id="17">
+      <question>Which bee is the big beekeeping favorite in Europe ?</question>
+      <propositions>
+        <proposition id="17-1">Black bee</proposition>
+        <proposition id="17-2">Blue bee</proposition>
+        <proposition id="17-3">White bee</proposition>
+        <proposition id="17-4">Red bee</proposition>
+      </propositions>
+      <réponse proposition="17-1">Black bee</réponse>
+      <anecdote>Its original range stretched from western Russia to northern Europe and possibly the Iberian Peninsula.</anecdote>
+    </contenu>
+    <contenu id="18">
+      <question>What happens when a bee uses its notched sting to sting ?</question>
+      <propositions>
+        <proposition id="18-1">She drinks</proposition>
+        <proposition id="18-2">She sleeps</proposition>
+        <proposition id="18-3">It swells</proposition>
+        <proposition id="18-4">She dies</proposition>
+      </propositions>
+      <réponse proposition="18-4">She dies</réponse>
+      <anecdote>The sting involves part of the internal organs of the bee, including its venom sac, which is almost always fatal to the bee.</anecdote>
+    </contenu>
+    <contenu id="19">
+      <question>What do you call all of a beekeeper's hives ?</question>
+      <propositions>
+        <proposition id="19-1">Swarm</proposition>
+        <proposition id="19-2">Colony</proposition>
+        <proposition id="19-3">Apiary</proposition>
+        <proposition id="19-4">Cluster</proposition>
+      </propositions>
+      <réponse proposition="19-3">Apiary</réponse>
+      <anecdote>The location of the apiaries is made in particular according to the environment and the exposure (preferably south or southeast).</anecdote>
+    </contenu>
+    <contenu id="20">
+      <question>What animated film tells the life of a freshly graduated bee ?</question>
+      <propositions>
+        <proposition id="20-1">Rosa</proposition>
+        <proposition id="20-2">Le Lorax</proposition>
+        <proposition id="20-3">Happy Feet</proposition>
+        <proposition id="20-4">Bee Movie</proposition>
+      </propositions>
+      <réponse proposition="20-4">Bee Movie</réponse>
+      <anecdote>This animated film in computer graphics released in 2007 was written and produced by Jerry Seinfeld for DreamWorks SKG.</anecdote>
+    </contenu>
+  </confirmé>
+  <expert>
+    <contenu id="21">
+      <question>In which resin were the oldest bee fossils found ?</question>
+      <propositions>
+        <proposition id="21-1">Jet</proposition>
+        <proposition id="21-2">Opal</proposition>
+        <proposition id="21-3">Amber</proposition>
+        <proposition id="21-4">Turquoise</proposition>
+      </propositions>
+      <réponse proposition="21-3">Amber</réponse>
+      <anecdote>The oldest fossil to date is Melittosphex burmensis, dated 100 million years ago and discovered in 2006 in Burma.</anecdote>
+    </contenu>
+    <contenu id="22">
+      <question>How many castes does a bee colony consist of ?</question>
+      <propositions>
+        <proposition id="22-1">Six</proposition>
+        <proposition id="22-2">Four</proposition>
+        <proposition id="22-3">Three</proposition>
+        <proposition id="22-4">Five</proposition>
+      </propositions>
+      <réponse proposition="22-3">Three</réponse>
+      <anecdote>The queen, the only fertile female in the group, a majority of workers and males (or drones) who fertilize future queens.</anecdote>
+    </contenu>
+    <contenu id="23">
+      <question>Which bees use galleries dug in the wood ?</question>
+      <propositions>
+        <proposition id="23-1">Horticultural</proposition>
+        <proposition id="23-2">Xylicoles</proposition>
+        <proposition id="23-3">Wineries</proposition>
+        <proposition id="23-4">Rubicoles</proposition>
+      </propositions>
+      <réponse proposition="23-2">Xylicoles</réponse>
+      <anecdote>A xylophagus is a living organism whose diet consists mainly of sapwood, but also of perfect wood.</anecdote>
+    </contenu>
+    <contenu id="24">
+      <question>How many eggs can the queen bee lay approximately in a year ?</question>
+      <propositions>
+        <proposition id="24-1">400,000</proposition>
+        <proposition id="24-2">300,000</proposition>
+        <proposition id="24-3">200,000</proposition>
+        <proposition id="24-4">100,000</proposition>
+      </propositions>
+      <réponse proposition="24-1">400,000</réponse>
+      <anecdote>When its spermatheca begins to empty, it can no longer lay workers' eggs and its distribution of pheromones changes.</anecdote>
+    </contenu>
+    <contenu id="25">
+      <question>What process produces a new queen mother for the hive ?</question>
+      <propositions>
+        <proposition id="25-1">Restoration</proposition>
+        <proposition id="25-2">Reinage</proposition>
+        <proposition id="25-3">Perching</proposition>
+        <proposition id="25-4">Remage</proposition>
+      </propositions>
+      <réponse proposition="25-4">Remage</réponse>
+      <anecdote>The colony then begins the perilous process of feeding several nymphs of royal jelly, the survival of the colony depending on it.</anecdote>
+    </contenu>
+    <contenu id="26">
+      <question>In which maternity of the hive develop the future bees ?</question>
+      <propositions>
+        <proposition id="26-1">Dormitory</proposition>
+        <proposition id="26-2">Beaker</proposition>
+        <proposition id="26-3">Levant</proposition>
+        <proposition id="26-4">Couvain</proposition>
+      </propositions>
+      <réponse proposition="26-4">Couvain</réponse>
+      <anecdote>It is generally located in the center of the hive and is surrounded by honeycombs and pollen (bee bread) to feed it.</anecdote>
+    </contenu>
+    <contenu id="27">
+      <question>How do bees avoid creating a suffocating organism ?</question>
+      <propositions>
+        <proposition id="27-1">Pollination</proposition>
+        <proposition id="27-2">Swarming</proposition>
+        <proposition id="27-3">Perching</proposition>
+        <proposition id="27-4">Remage</proposition>
+      </propositions>
+      <réponse proposition="27-2">Swarming</réponse>
+      <anecdote>This phenomenon occurs when a part of the bees leaves the hive with a queen (the swarm) to form a new colony.</anecdote>
+    </contenu>
+    <contenu id="28">
+      <question>What is the practice of treating with bee products ?</question>
+      <propositions>
+        <proposition id="28-1">Phytotherapy</proposition>
+        <proposition id="28-2">Ayurveda</proposition>
+        <proposition id="28-3">Oligotherapy</proposition>
+        <proposition id="28-4">Apitherapy</proposition>
+      </propositions>
+      <réponse proposition="28-4">Apitherapy</réponse>
+      <anecdote>Apitherapy suggests using the supposed properties of honey, propolis, bee venom, royal jelly and pollen.</anecdote>
+    </contenu>
+    <contenu id="29">
+      <question>What shock can a bee sting sometimes cause on humans ?</question>
+      <propositions>
+        <proposition id="29-1">Antigen</proposition>
+        <proposition id="29-2">Anaphylactic</proposition>
+        <proposition id="29-3">Perforin</proposition>
+        <proposition id="29-4">Macrophage</proposition>
+      </propositions>
+      <réponse proposition="29-2">Anaphylactic</réponse>
+      <anecdote>It is a manifestation of immediate hypersensitivity due to the release of vasoactive mediators in a sensitized subject.</anecdote>
+    </contenu>
+    <contenu id="30">
+      <question>What have replaced Napoleon Bonaparte's imperial bees ?</question>
+      <propositions>
+        <proposition id="30-1">Clover</proposition>
+        <proposition id="30-2">Lily flower</proposition>
+        <proposition id="30-3">Myosotis</proposition>
+        <proposition id="30-4">Blueberry</proposition>
+      </propositions>
+      <réponse proposition="30-2">Lily flower</réponse>
+      <anecdote>The golden fleur-de-lis on the azure field became the arms of France and the specific emblem of the kings of France.</anecdote>
+    </contenu>
+  </expert>
+  </en>
+  <de>
+  <débutant>
+    <contenu id="1">
+      <question>Wie heißt eine Person, die Honigbienen züchtet ?</question>
+      <propositions>
+        <proposition id="1-1">Austernzüchter</proposition>
+        <proposition id="1-2">Geflügelzüchter</proposition>
+        <proposition id="1-3">Imker</proposition>
+        <proposition id="1-4">Raniculteur</proposition>
+      </propositions>
+      <réponse proposition="1-3">Imker</réponse>
+      <anecdote>Diese Aktivität wird auf allen Kontinenten praktiziert und unterscheidet sich je nach Bienensorte, Klima und wirtschaftlicher Entwicklung.</anecdote>
+    </contenu>
+    <contenu id="2">
+      <question>Welchen abgesonderten Saft essen die meisten Bienen ?</question>
+      <propositions>
+        <proposition id="2-1">Lodge</proposition>
+        <proposition id="2-2">Nektar</proposition>
+        <proposition id="2-3">Kreise</proposition>
+        <proposition id="2-4">Knospe</proposition>
+      </propositions>
+      <réponse proposition="2-2">Nektar</réponse>
+      <anecdote>Diese Substanz hat aufgrund ihres Geschmacks oder Geruchs eine Anziehungskraft sowohl auf Insekten als auch auf bestimmte Vögel.</anecdote>
+    </contenu>
+    <contenu id="3">
+      <question>Mit welchem anderen aggressiveren Insekt wird die Biene oft verwechselt ?</question>
+      <propositions>
+        <proposition id="3-1">Wespe</proposition>
+        <proposition id="3-2">Hummel</proposition>
+        <proposition id="3-3">Bremse</proposition>
+        <proposition id="3-4">Hornisse</proposition>
+      </propositions>
+      <réponse proposition="3-1">Wespe</réponse>
+      <anecdote>Die Wespe ist ein Insekt, normalerweise mit einem gelben, schwarz gestreiften Bauch, dessen Weibchen einen giftigen Stachel trägt.</anecdote>
+    </contenu>
+    <contenu id="4">
+      <question>Was fliegen Bienen auf der Suche nach Nahrung von Blume zu Blume ?</question>
+      <propositions>
+        <proposition id="4-1">Sie suchen</proposition>
+        <proposition id="4-2">Sie zeichnen</proposition>
+        <proposition id="4-3">Sie skaten</proposition>
+        <proposition id="4-4">Sie grübeln</proposition>
+      </propositions>
+      <réponse proposition="4-1">Sie suchen</réponse>
+      <anecdote>Die Biene erntet in Naturnektar, Propolis, Honigtau und Pollen.</anecdote>
+    </contenu>
+    <contenu id="5">
+      <question>Welches wichtige Phänomen liefert die Biene durch Nahrungssuche ?</question>
+      <propositions>
+        <proposition id="5-1">Introgression</proposition>
+        <proposition id="5-2">Keimung</proposition>
+        <proposition id="5-3">Sporulation</proposition>
+        <proposition id="5-4">Bestäubung</proposition>
+      </propositions>
+      <réponse proposition="5-4">Bestäubung</réponse>
+      <anecdote>Pflanzen tragen zur Ernährung von Bestäubern bei, indem sie ihnen überschüssigen Pollen oder Nektar zuführen.</anecdote>
+    </contenu>
+    <contenu id="6">
+      <question>Welches davon ist kein Bienenprodukt ?</question>
+      <propositions>
+        <proposition id="6-1">Gelee</proposition>
+        <proposition id="6-2">Honig</proposition>
+        <proposition id="6-3">Butter</proposition>
+        <proposition id="6-4">Wachs</proposition>
+      </propositions>
+      <réponse proposition="6-3">Butter</réponse>
+      <anecdote>Diese Produkte werden in Galerien für einzelne Arten, komplexe Baugruppen für soziale Arten gelagert.</anecdote>
+    </contenu>
+    <contenu id="7">
+      <question>Wer ist das einzige fruchtbare weibliche Individuum in einer Bienenkolonie ?</question>
+      <propositions>
+        <proposition id="7-1">Hornisse</proposition>
+        <proposition id="7-2">Wespe</proposition>
+        <proposition id="7-3">Königin</proposition>
+        <proposition id="7-4">Arbeiter</proposition>
+      </propositions>
+      <réponse proposition="7-3">Königin</réponse>
+      <anecdote>Die Königin mit einem länglicheren Bauch ist normalerweise die Mutter der meisten, wenn nicht aller Bienen im Bienenstock.</anecdote>
+    </contenu>
+    <contenu id="8">
+      <question>Welche Honigbiene entsteht beim Schlüpfen eines unbefruchteten Eies ?</question>
+      <propositions>
+        <proposition id="8-1">Häkchen</proposition>
+        <proposition id="8-2">Falsche Drohne</proposition>
+        <proposition id="8-3">Käfer</proposition>
+        <proposition id="8-4">Stabheuschrecke</proposition>
+      </propositions>
+      <réponse proposition="8-2">Falsche Drohne</réponse>
+      <anecdote>Im Gegensatz zur Arbeiterin hat die Drohne keinen Stachel und erntet weder Nektar noch Pollen.</anecdote>
+    </contenu>
+    <contenu id="9">
+      <question>Welche kleine Biene begeisterte Kinder in den 1980er Jahren im Fernsehen ?</question>
+      <propositions>
+        <proposition id="9-1">Maya</proposition>
+        <proposition id="9-2">Tao Tao</proposition>
+        <proposition id="9-3">Zigby</proposition>
+        <proposition id="9-4">Heidi</proposition>
+      </propositions>
+      <réponse proposition="9-1">Maya</réponse>
+      <anecdote>Maya entdeckt die Welt in Begleitung ihrer Freunde Willy die Biene, Flip die Heuschrecke, Max der Regenwurm und Alexander die Maus.</anecdote>
+    </contenu>
+    <contenu id="10">
+      <question>Wie viele Bienenarten gibt es bisher auf dem Planeten ?</question>
+      <propositions>
+        <proposition id="10-1">15.000</proposition>
+        <proposition id="10-2">10.000</proposition>
+        <proposition id="10-3">20.000</proposition>
+        <proposition id="10-4">5.000</proposition>
+      </propositions>
+      <réponse proposition="10-3">20.000</réponse>
+      <anecdote>Bienen können nach ihrer Lebensweise klassifiziert werden: Haus-, Wild-, Einzel- oder Sozialbienen.</anecdote>
+    </contenu>
+  </débutant>
+  <confirmé>
+    <contenu id="11">
+      <question>Wie heißt eine Gruppe von Bienen, die in der Gesellschaft leben ?</question>
+      <propositions>
+        <proposition id="11-1">Ökotyp</proposition>
+        <proposition id="11-2">Nische</proposition>
+        <proposition id="11-3">Kolonie</proposition>
+        <proposition id="11-4">Gilde</proposition>
+      </propositions>
+      <réponse proposition="11-3">Kolonie</réponse>
+      <anecdote>In der Biologie ist eine Kolonie eine Gruppe lebender Organismen derselben Art, die sich nach einer bestimmten Lebensweise versammelt haben.</anecdote>
+    </contenu>
+    <contenu id="12">
+      <question>Welche Bienenart ist wohl die bekannteste in Europa ?</question>
+      <propositions>
+        <proposition id="12-1">Apis dorsata</proposition>
+        <proposition id="12-2">Apis cerana</proposition>
+        <proposition id="12-3">Apis florea</proposition>
+        <proposition id="12-4">Apis mellifera</proposition>
+      </propositions>
+      <réponse proposition="12-4">Apis mellifera</réponse>
+      <anecdote>Semi-Domestic, der Gattungsname Apis ist der lateinische Begriff für Biene, und Mellifera bedeutet, dass Honig gegeben wird.</anecdote>
+    </contenu>
+    <contenu id="13">
+      <question>Was ist die durchschnittliche Lebensdauer einer Biene in den Sommermonaten ?</question>
+      <propositions>
+        <proposition id="13-1">Drei Monate</proposition>
+        <proposition id="13-2">Vier Monate</proposition>
+        <proposition id="13-3">Ein Monat</proposition>
+        <proposition id="13-4">Zwei Monate</proposition>
+      </propositions>
+      <réponse proposition="13-3">Ein Monat</réponse>
+      <anecdote>Eine Biene ernährt sich vom Blumennektar und kann im Winter bis zu zehn Monate und im Sommer nur einen Monat leben.</anecdote>
+    </contenu>
+    <contenu id="14">
+      <question>Welcher Ausdruck bezeichnet eine Bienenart, die in einer Kolonie lebt ?</question>
+      <propositions>
+        <proposition id="14-1">Einsame Biene</proposition>
+        <proposition id="14-2">Soziale Biene</proposition>
+        <proposition id="14-3">Honigbiene</proposition>
+        <proposition id="14-4">Parasitäre Biene</proposition>
+      </propositions>
+      <réponse proposition="14-2">Soziale Biene</réponse>
+      <anecdote>Andere Arten sind parasitäre Bienen oder Kuckucksbienen, die Cleptoparasitismus praktizieren.</anecdote>
+    </contenu>
+    <contenu id="15">
+      <question>Was ist die Larve einer zukünftigen Bienenkönigin, die ausschließlich gefüttert wird ?</question>
+      <propositions>
+        <proposition id="15-1">Insekten</proposition>
+        <proposition id="15-2">Sedimente</proposition>
+        <proposition id="15-3">Salz</proposition>
+        <proposition id="15-4">Gelée Royale</proposition>
+      </propositions>
+      <réponse proposition="15-4">Gelée Royale</réponse>
+      <anecdote>Gelée Royale ist das Sekretionsprodukt von Arbeiterbienen zwischen dem fünften und vierzehnten Tag ihres Bestehens.</anecdote>
+    </contenu>
+    <contenu id="16">
+      <question>Wie nennt man eine große Ansammlung von Bienen ?</question>
+      <propositions>
+        <proposition id="16-1">Tasche</proposition>
+        <proposition id="16-2">Schwarm</proposition>
+        <proposition id="16-3">Cluster</proposition>
+        <proposition id="16-4">Mantel</proposition>
+      </propositions>
+      <réponse proposition="16-2">Schwarm</réponse>
+      <anecdote>Das als wolkenlos bekannte Phänomen hat keinen direkten meteorologischen Ursprung, sondern ist saisonabhängig und mit Dürreperioden verbunden.</anecdote>
+    </contenu>
+    <contenu id="17">
+      <question>Welche Biene ist der große Imkereifavorit in Europa ?</question>
+      <propositions>
+        <proposition id="17-1">Schwarze Biene</proposition>
+        <proposition id="17-2">Weiße Biene</proposition>
+        <proposition id="17-3">Blaue Biene</proposition>
+        <proposition id="17-4">Rote Biene</proposition>
+      </propositions>
+      <réponse proposition="17-1">Schwarze Biene</réponse>
+      <anecdote>Das ursprüngliche Verbreitungsgebiet erstreckte sich von Westrussland bis nach Nordeuropa und wahrscheinlich bis zur Iberischen Halbinsel.</anecdote>
+    </contenu>
+    <contenu id="18">
+      <question>Was passiert, wenn eine Biene ihren gekerbten Stich zum Stechen benutzt ?</question>
+      <propositions>
+        <proposition id="18-1">Sie schläft</proposition>
+        <proposition id="18-2">Es schwillt an ","Elle gonfle</proposition>
+        <proposition id="18-3">Sie stirbt</proposition>
+        <proposition id="18-4">Sie trinkt</proposition>
+      </propositions>
+      <réponse proposition="18-3">Sie stirbt</réponse>
+      <anecdote>Der Stich betrifft einen Teil der inneren Organe der Biene, einschließlich ihres Giftbeutels, der für die Biene fast immer tödlich ist.</anecdote>
+    </contenu>
+    <contenu id="19">
+      <question>Wie nennt man alle Bienenstöcke eines Imkers ?</question>
+      <propositions>
+        <proposition id="19-1">Cluster</proposition>
+        <proposition id="19-2">Kolonie</proposition>
+        <proposition id="19-3">Schwarm</proposition>
+        <proposition id="19-4">Bienenhaus</proposition>
+      </propositions>
+      <réponse proposition="19-4">Bienenhaus</réponse>
+      <anecdote>Die Lage der Bienenhäuser richtet sich insbesondere nach der Umgebung und der Exposition (vorzugsweise nach Süden oder Südosten).</anecdote>
+    </contenu>
+    <contenu id="20">
+      <question>Welcher Animationsfilm erzählt das Leben einer frisch graduierten Biene ?</question>
+      <propositions>
+        <proposition id="20-1">Bee Movie</proposition>
+        <proposition id="20-2">Le Lorax</proposition>
+        <proposition id="20-3">Rosa</proposition>
+        <proposition id="20-4">Happy Feet</proposition>
+      </propositions>
+      <réponse proposition="20-1">Bee Movie</réponse>
+      <anecdote>Dieser 2007 veröffentlichte Animationsfilm in Computergrafik wurde von Jerry Seinfeld für DreamWorks SKG geschrieben und produziert.</anecdote>
+    </contenu>
+  </confirmé>
+  <expert>
+    <contenu id="21">
+      <question>In welchem Harz wurden die ältesten Bienenfossilien gefunden ?</question>
+      <propositions>
+        <proposition id="21-1">Opal</proposition>
+        <proposition id="21-2">Jet</proposition>
+        <proposition id="21-3">Türkis</proposition>
+        <proposition id="21-4">Bernstein</proposition>
+      </propositions>
+      <réponse proposition="21-4">Bernstein</réponse>
+      <anecdote>Das älteste Fossil ist Melittosphex burmensis, das vor 100 Millionen Jahren datiert und 2006 in Burma entdeckt wurde.</anecdote>
+    </contenu>
+    <contenu id="22">
+      <question>Aus wie vielen Kasten besteht eine Bienenkolonie ?</question>
+      <propositions>
+        <proposition id="22-1">Drei</proposition>
+        <proposition id="22-2">Fünf</proposition>
+        <proposition id="22-3">Sechs</proposition>
+        <proposition id="22-4">Vier</proposition>
+      </propositions>
+      <réponse proposition="22-1">Drei</réponse>
+      <anecdote>Die Königin, die einzige fruchtbare Frau in der Gruppe, eine Mehrheit der Arbeiter und Männer (oder Drohnen), die zukünftige Königinnen befruchten.</anecdote>
+    </contenu>
+    <contenu id="23">
+      <question>Welche Bienen benutzen im Wald gegrabene Galerien ?</question>
+      <propositions>
+        <proposition id="23-1">Gartenbau</proposition>
+        <proposition id="23-2">Rubicoles</proposition>
+        <proposition id="23-3">Weingüter</proposition>
+        <proposition id="23-4">Xylicole</proposition>
+      </propositions>
+      <réponse proposition="23-4">Xylicole</réponse>
+      <anecdote>Ein Xylophagus ist ein lebender Organismus, dessen Ernährung hauptsächlich aus Splintholz, aber auch aus perfektem Holz besteht.</anecdote>
+    </contenu>
+    <contenu id="24">
+      <question>Wie viele Eier kann die Bienenkönigin ungefähr in einem Jahr legen ?</question>
+      <propositions>
+        <proposition id="24-1">200.000</proposition>
+        <proposition id="24-2">400.000</proposition>
+        <proposition id="24-3">300.000</proposition>
+        <proposition id="24-4">100.000</proposition>
+      </propositions>
+      <réponse proposition="24-2">400.000</réponse>
+      <anecdote>Wenn sich die Spermatheca zu entleeren beginnt, kann sie keine Arbeitereier mehr legen und die Verteilung der Pheromone ändert sich.</anecdote>
+    </contenu>
+    <contenu id="25">
+      <question>Welcher Prozess bringt eine neue Königinmutter für den Bienenstock hervor ?</question>
+      <propositions>
+        <proposition id="25-1">Sich niederlassen</proposition>
+        <proposition id="25-2">Remage</proposition>
+        <proposition id="25-3">Restaurierung</proposition>
+        <proposition id="25-4">Reinage</proposition>
+      </propositions>
+      <réponse proposition="25-2">Remage</réponse>
+      <anecdote>Die Kolonie beginnt dann den gefährlichen Prozess der Fütterung mehrerer Nymphen von Gelée Royale, wobei das Überleben der Kolonie davon abhängt.</anecdote>
+    </contenu>
+    <contenu id="26">
+      <question>In welcher Mutterschaft des Bienenstocks entwickeln sich die zukünftigen Bienen ?</question>
+      <propositions>
+        <proposition id="26-1">Levante</proposition>
+        <proposition id="26-2">Becher</proposition>
+        <proposition id="26-3">Couvain</proposition>
+        <proposition id="26-4">Schlafsaal</proposition>
+      </propositions>
+      <réponse proposition="26-3">Couvain</réponse>
+      <anecdote>Es befindet sich im Allgemeinen in der Mitte des Bienenstocks und ist von Waben und Pollen (Bienenbrot) umgeben, um es zu füttern.</anecdote>
+    </contenu>
+    <contenu id="27">
+      <question>Wie vermeiden Bienen die Entstehung eines erstickenden Organismus ?</question>
+      <propositions>
+        <proposition id="27-1">Sich niederlassen</proposition>
+        <proposition id="27-2">Bestäubung</proposition>
+        <proposition id="27-3">Remage</proposition>
+        <proposition id="27-4">Schwärmen</proposition>
+      </propositions>
+      <réponse proposition="27-4">Schwärmen</réponse>
+      <anecdote>Dieses Phänomen tritt auf, wenn ein Teil der Bienen den Bienenstock mit einer Königin (dem Schwarm) verlässt, um eine neue Kolonie zu bilden.</anecdote>
+    </contenu>
+    <contenu id="28">
+      <question>Was ist die Praxis der Behandlung mit Bienenprodukten ?</question>
+      <propositions>
+        <proposition id="28-1">Apitherapie</proposition>
+        <proposition id="28-2">Phytotherapie</proposition>
+        <proposition id="28-3">Oligotherapie</proposition>
+        <proposition id="28-4">Ayurveda</proposition>
+      </propositions>
+      <réponse proposition="28-1">Apitherapie</réponse>
+      <anecdote>Apitherapie schlägt vor, die angeblichen Eigenschaften von Honig, Propolis, Bienengift, Gelée Royale und Pollen zu verwenden.</anecdote>
+    </contenu>
+    <contenu id="29">
+      <question>Welchen Schock kann ein Bienenstich manchmal beim Menschen verursachen ?</question>
+      <propositions>
+        <proposition id="29-1">Antigen</proposition>
+        <proposition id="29-2">Anaphylaktisch</proposition>
+        <proposition id="29-3">Perforin</proposition>
+        <proposition id="29-4">Makrophagen</proposition>
+      </propositions>
+      <réponse proposition="29-2">Anaphylaktisch</réponse>
+      <anecdote>Es ist eine Manifestation einer sofortigen Überempfindlichkeit aufgrund der Freisetzung von vasoaktiven Mediatoren bei einem sensibilisierten Subjekt.</anecdote>
+    </contenu>
+    <contenu id="30">
+      <question>Was hat Napoleon Bonapartes kaiserliche Bienen ersetzt ?</question>
+      <propositions>
+        <proposition id="30-1">Myosotis</proposition>
+        <proposition id="30-2">Klee</proposition>
+        <proposition id="30-3">Lilienblume</proposition>
+        <proposition id="30-4">Blaubeere</proposition>
+      </propositions>
+      <réponse proposition="30-3">Lilienblume</réponse>
+      <anecdote>Die goldene Lilie auf dem azurblauen Feld wurde zum Wappen Frankreichs und zum besonderen Wahrzeichen der französischen Könige.</anecdote>
+    </contenu>
+  </expert>
+  </de>
+  <es>
+  <débutant>
+    <contenu id="1">
+      <question>¿Cómo se llama una persona que cría abejas melíferas ?</question>
+      <propositions>
+        <proposition id="1-1">Avicultor</proposition>
+        <proposition id="1-2">Raniculteur</proposition>
+        <proposition id="1-3">Apicultor</proposition>
+        <proposition id="1-4">Granjero de ostras</proposition>
+      </propositions>
+      <réponse proposition="1-3">Apicultor</réponse>
+      <anecdote>Practicada en todos los continentes, esta actividad difiere según las variedades de abejas, el clima y el desarrollo económico.</anecdote>
+    </contenu>
+    <contenu id="2">
+      <question>¿Qué jugo secretado comen la mayoría de las abejas ?</question>
+      <propositions>
+        <proposition id="2-1">Bud</proposition>
+        <proposition id="2-2">Néctar</proposition>
+        <proposition id="2-3">Lodge</proposition>
+        <proposition id="2-4">Círculos</proposition>
+      </propositions>
+      <réponse proposition="2-2">Néctar</réponse>
+      <anecdote>Esta sustancia tiene, por su sabor u olor, un poder de atracción tanto para los insectos como para ciertas aves.</anecdote>
+    </contenu>
+    <contenu id="3">
+      <question>¿Con qué otro insecto más agresivo se confunde a menudo la abeja ?</question>
+      <propositions>
+        <proposition id="3-1">Avispón</proposition>
+        <proposition id="3-2">Abejorro</proposition>
+        <proposition id="3-3">Tábano</proposition>
+        <proposition id="3-4">Avispa</proposition>
+      </propositions>
+      <réponse proposition="3-4">Avispa</réponse>
+      <anecdote>La avispa es un insecto generalmente con un abdomen amarillo rayado con negro y cuya hembra lleva un aguijón venenoso.</anecdote>
+    </contenu>
+    <contenu id="4">
+      <question>¿Qué hacen las abejas volando de flor en flor en busca de alimento ?</question>
+      <propositions>
+        <proposition id="4-1">Están buscando comida</proposition>
+        <proposition id="4-2">Ellos rumian</proposition>
+        <proposition id="4-3">Ellos patinan</proposition>
+        <proposition id="4-4">Dibujan</proposition>
+      </propositions>
+      <réponse proposition="4-1">Están buscando comida</réponse>
+      <anecdote>La abeja cosecha en la naturaleza néctar, propóleos, melaza y polen.</anecdote>
+    </contenu>
+    <contenu id="5">
+      <question>¿Qué fenómeno importante proporciona la abeja alimentándose ?</question>
+      <propositions>
+        <proposition id="5-1">Introgresión</proposition>
+        <proposition id="5-2">Esporulacion</proposition>
+        <proposition id="5-3">Polinización</proposition>
+        <proposition id="5-4">Germinación</proposition>
+      </propositions>
+      <réponse proposition="5-3">Polinización</réponse>
+      <anecdote>Las plantas contribuyen a la dieta de los polinizadores al proporcionarles un exceso de polen o néctar.</anecdote>
+    </contenu>
+    <contenu id="6">
+      <question>¿Cuál de estos no es un producto de abeja ?</question>
+      <propositions>
+        <proposition id="6-1">Miel</proposition>
+        <proposition id="6-2">Mantequilla</proposition>
+        <proposition id="6-3">Jalea</proposition>
+        <proposition id="6-4">Cera</proposition>
+      </propositions>
+      <réponse proposition="6-2">Mantequilla</réponse>
+      <anecdote>Estos productos se almacenan en galerías para especies solitarias, conjuntos complejos para especies sociales.</anecdote>
+    </contenu>
+    <contenu id="7">
+      <question>¿Quién es el único individuo femenino fértil en una colonia de abejas ?</question>
+      <propositions>
+        <proposition id="7-1">Avispón</proposition>
+        <proposition id="7-2">Reina</proposition>
+        <proposition id="7-3">Avispa</proposition>
+        <proposition id="7-4">Trabajador</proposition>
+      </propositions>
+      <réponse proposition="7-2">Reina</réponse>
+      <anecdote>La reina, con un abdomen más alargado, suele ser la madre de la mayoría, si no todas, las abejas en la colmena.</anecdote>
+    </contenu>
+    <contenu id="8">
+      <question>¿Qué abeja melífera es el producto de la eclosión de un huevo no fertilizado ?</question>
+      <propositions>
+        <proposition id="8-1">Falso drone</proposition>
+        <proposition id="8-2">Insecto palo</proposition>
+        <proposition id="8-3">Garrapata</proposition>
+        <proposition id="8-4">Escarabajo</proposition>
+      </propositions>
+      <réponse proposition="8-1">Falso drone</réponse>
+      <anecdote>A diferencia de la abeja trabajadora, el dron no tiene aguijón y no cosecha néctar ni polen.</anecdote>
+    </contenu>
+    <contenu id="9">
+      <question>¿Qué pequeña abeja deleitó a los niños en la televisión en la década de 1980 ?</question>
+      <propositions>
+        <proposition id="9-1">Heidi</proposition>
+        <proposition id="9-2">Maya</proposition>
+        <proposition id="9-3">Zigby</proposition>
+        <proposition id="9-4">Tao Tao</proposition>
+      </propositions>
+      <réponse proposition="9-2">Maya</réponse>
+      <anecdote>Maya descubre el mundo en compañía de sus amigos Willy, la abeja, Flip the grasshopper, Max the earthworm y Alexander the mouse.</anecdote>
+    </contenu>
+    <contenu id="10">
+      <question>¿Cuántas especies de abejas se enumeran hasta la fecha en el planeta ?</question>
+      <propositions>
+        <proposition id="10-1">10,000</proposition>
+        <proposition id="10-2">15,000</proposition>
+        <proposition id="10-3">5,000</proposition>
+        <proposition id="10-4">20,000</proposition>
+      </propositions>
+      <réponse proposition="10-4">20,000</réponse>
+      <anecdote>Las abejas se pueden clasificar según su forma de vida: abejas domésticas, salvajes, solitarias o sociales.</anecdote>
+    </contenu>
+  </débutant>
+  <confirmé>
+    <contenu id="11">
+      <question>¿Qué nombre se le da a un grupo de abejas que viven en la sociedad ?</question>
+      <propositions>
+        <proposition id="11-1">Gremio</proposition>
+        <proposition id="11-2">Ecotype</proposition>
+        <proposition id="11-3">Nicho</proposition>
+        <proposition id="11-4">Colonia</proposition>
+      </propositions>
+      <réponse proposition="11-4">Colonia</réponse>
+      <anecdote>En biología, una colonia es un grupo de organismos vivos de la misma especie reunidos de acuerdo con una forma particular de vida.</anecdote>
+    </contenu>
+    <contenu id="12">
+      <question>¿Qué especie de abeja es probablemente la más conocida en Europa ?</question>
+      <propositions>
+        <proposition id="12-1">Apis cerana</proposition>
+        <proposition id="12-2">Apis dorsata</proposition>
+        <proposition id="12-3">Apis mellifera</proposition>
+        <proposition id="12-4">Apis florea</proposition>
+      </propositions>
+      <réponse proposition="12-3">Apis mellifera</réponse>
+      <anecdote>Semi-doméstico, el nombre de género Apis es el término latino para abeja, y mellifera significa que da miel.</anecdote>
+    </contenu>
+    <contenu id="13">
+      <question>¿Cuál es el promedio de vida de una abeja durante los meses de verano ?</question>
+      <propositions>
+        <proposition id="13-1">Dos meses</proposition>
+        <proposition id="13-2">Tres meses</proposition>
+        <proposition id="13-3">Un mes</proposition>
+        <proposition id="13-4">Cuatro meses</proposition>
+      </propositions>
+      <réponse proposition="13-3">Un mes</réponse>
+      <anecdote>Al alimentarse del néctar de las flores, una abeja puede vivir hasta diez meses en invierno y solo un mes en verano.</anecdote>
+    </contenu>
+    <contenu id="14">
+      <question>¿Qué expresión denota una especie de abeja que vive en una colonia ?</question>
+      <propositions>
+        <proposition id="14-1">Abeja parásita</proposition>
+        <proposition id="14-2">Abeja solitaria</proposition>
+        <proposition id="14-3">Miel de abeja</proposition>
+        <proposition id="14-4">Abeja social</proposition>
+      </propositions>
+      <réponse proposition="14-4">Abeja social</réponse>
+      <anecdote>Otras especies son las abejas parásitas o las cuclillas que practican el cleptoparasitismo.</anecdote>
+    </contenu>
+    <contenu id="15">
+      <question>¿De qué se alimenta exclusivamente la larva de una futura abeja reina ?</question>
+      <propositions>
+        <proposition id="15-1">Insectos</proposition>
+        <proposition id="15-2">Sedimentos</proposition>
+        <proposition id="15-3">Sal</proposition>
+        <proposition id="15-4">Jalea real</proposition>
+      </propositions>
+      <réponse proposition="15-4">Jalea real</réponse>
+      <anecdote>La jalea real es el producto de secreción de las abejas obreras, entre el quinto y el decimocuarto día de su existencia.</anecdote>
+    </contenu>
+    <contenu id="16">
+      <question>¿Cómo se llama una gran reunión de abejas ?</question>
+      <propositions>
+        <proposition id="16-1">Abrigo</proposition>
+        <proposition id="16-2">Enjambre</proposition>
+        <proposition id="16-3">Bolsa</proposition>
+        <proposition id="16-4">Cluster</proposition>
+      </propositions>
+      <réponse proposition="16-2">Enjambre</réponse>
+      <anecdote>El fenómeno conocido como sin nubes no tiene un origen meteorológico directo, pero es estacional y está relacionado con episodios de sequía.</anecdote>
+    </contenu>
+    <contenu id="17">
+      <question>¿Qué abeja es la gran favorita de la apicultura en Europa ?</question>
+      <propositions>
+        <proposition id="17-1">Abeja roja</proposition>
+        <proposition id="17-2">Abeja negra</proposition>
+        <proposition id="17-3">Abeja azul</proposition>
+        <proposition id="17-4">Abeja blanca</proposition>
+      </propositions>
+      <réponse proposition="17-2">Abeja negra</réponse>
+      <anecdote>Su rango original se extendía desde el oeste de Rusia hasta el norte de Europa y posiblemente la Península Ibérica.</anecdote>
+    </contenu>
+    <contenu id="18">
+      <question>¿Qué sucede cuando una abeja usa su picadura con muesca para picar ?</question>
+      <propositions>
+        <proposition id="18-1">Se hincha</proposition>
+        <proposition id="18-2">Ella muere</proposition>
+        <proposition id="18-3">Ella duerme</proposition>
+        <proposition id="18-4">Ella bebe</proposition>
+      </propositions>
+      <réponse proposition="18-2">Ella muere</réponse>
+      <anecdote>La picadura involucra parte de los órganos internos de la abeja, incluido su saco de veneno, que casi siempre es fatal para la abeja.</anecdote>
+    </contenu>
+    <contenu id="19">
+      <question>¿Cómo llamas a todas las colmenas de un apicultor ?</question>
+      <propositions>
+        <proposition id="19-1">Cluster</proposition>
+        <proposition id="19-2">Colonia</proposition>
+        <proposition id="19-3">Colmenar</proposition>
+        <proposition id="19-4">Enjambre</proposition>
+      </propositions>
+      <réponse proposition="19-3">Colmenar</réponse>
+      <anecdote>La ubicación de los colmenares se realiza en particular de acuerdo con el entorno y la exposición (preferiblemente al sur o sureste).</anecdote>
+    </contenu>
+    <contenu id="20">
+      <question>¿Qué película animada cuenta la vida de una abeja recién graduada ?</question>
+      <propositions>
+        <proposition id="20-1">Happy Feet</proposition>
+        <proposition id="20-2">Bee Movie</proposition>
+        <proposition id="20-3">Rosa</proposition>
+        <proposition id="20-4">Le Lorax</proposition>
+      </propositions>
+      <réponse proposition="20-2">Bee Movie</réponse>
+      <anecdote>Esta película animada en gráficos de computadora lanzada en 2007 fue escrita y producida por Jerry Seinfeld para DreamWorks SKG.</anecdote>
+    </contenu>
+  </confirmé>
+  <expert>
+    <contenu id="21">
+      <question>¿En qué resina se encontraron los fósiles de abejas más antiguos ?</question>
+      <propositions>
+        <proposition id="21-1">Ámbar</proposition>
+        <proposition id="21-2">Chorro</proposition>
+        <proposition id="21-3">Ópalo</proposition>
+        <proposition id="21-4">Turquesa</proposition>
+      </propositions>
+      <réponse proposition="21-1">Ámbar</réponse>
+      <anecdote>El fósil más antiguo hasta la fecha es Melittosphex burmensis, fechado hace 100 millones de años y descubierto en 2006 en Birmania.</anecdote>
+    </contenu>
+    <contenu id="22">
+      <question>¿En cuántas castas consiste una colonia de abejas ?</question>
+      <propositions>
+        <proposition id="22-1">Cuatro</proposition>
+        <proposition id="22-2">Cinco</proposition>
+        <proposition id="22-3">Seis</proposition>
+        <proposition id="22-4">Tres</proposition>
+      </propositions>
+      <réponse proposition="22-4">Tres</réponse>
+      <anecdote>La reina, la única mujer fértil del grupo, una mayoría de trabajadores y hombres (o zánganos) que fertilizan a las futuras reinas.</anecdote>
+    </contenu>
+    <contenu id="23">
+      <question>¿Qué abejas usan galerías excavadas en el bosque ?</question>
+      <propositions>
+        <proposition id="23-1">Rubicoles</proposition>
+        <proposition id="23-2">Bodegas</proposition>
+        <proposition id="23-3">Xylicoles</proposition>
+        <proposition id="23-4">Horticultura</proposition>
+      </propositions>
+      <réponse proposition="23-3">Xylicoles</réponse>
+      <anecdote>Un xilófago es un organismo vivo cuya dieta consiste principalmente en albura, pero también en madera perfecta.</anecdote>
+    </contenu>
+    <contenu id="24">
+      <question>¿Cuántos huevos puede poner la abeja reina aproximadamente en un año ?</question>
+      <propositions>
+        <proposition id="24-1">400,000</proposition>
+        <proposition id="24-2">200,000</proposition>
+        <proposition id="24-3">300,000</proposition>
+        <proposition id="24-4">100,000</proposition>
+      </propositions>
+      <réponse proposition="24-1">400,000</réponse>
+      <anecdote>Cuando su espermateca comienza a vaciarse, ya no puede poner huevos de trabajadores y su distribución de feromonas cambia.</anecdote>
+    </contenu>
+    <contenu id="25">
+      <question>¿Qué proceso produce una nueva reina madre para la colmena ?</question>
+      <propositions>
+        <proposition id="25-1">Posarse</proposition>
+        <proposition id="25-2">Restauracion</proposition>
+        <proposition id="25-3">Reinage</proposition>
+        <proposition id="25-4">Remage</proposition>
+      </propositions>
+      <réponse proposition="25-4">Remage</réponse>
+      <anecdote>Luego, la colonia comienza el peligroso proceso de alimentar a varias ninfas de jalea real, y la supervivencia de la colonia depende de ella.</anecdote>
+    </contenu>
+    <contenu id="26">
+      <question>¿En qué maternidad de la colmena se desarrollan las futuras abejas ?</question>
+      <propositions>
+        <proposition id="26-1">Couvain</proposition>
+        <proposition id="26-2">Vaso de precipitados</proposition>
+        <proposition id="26-3">Levante</proposition>
+        <proposition id="26-4">Dormitorio</proposition>
+      </propositions>
+      <réponse proposition="26-1">Couvain</réponse>
+      <anecdote>Generalmente se encuentra en el centro de la colmena y está rodeada de panales y polen (pan de abeja) para alimentarlo.</anecdote>
+    </contenu>
+    <contenu id="27">
+      <question>¿Cómo evitan las abejas crear un organismo sofocante ?</question>
+      <propositions>
+        <proposition id="27-1">Remage</proposition>
+        <proposition id="27-2">Enjambre</proposition>
+        <proposition id="27-3">Polinización</proposition>
+        <proposition id="27-4">Posarse</proposition>
+      </propositions>
+      <réponse proposition="27-2">Enjambre</réponse>
+      <anecdote>Este fenómeno ocurre cuando una parte de las abejas abandona la colmena con una reina (el enjambre) para formar una nueva colonia.</anecdote>
+    </contenu>
+    <contenu id="28">
+      <question>¿Cuál es la práctica de tratar con productos de abejas ?</question>
+      <propositions>
+        <proposition id="28-1">Fitoterapia</proposition>
+        <proposition id="28-2">Ayurveda</proposition>
+        <proposition id="28-3">Oligoterapia</proposition>
+        <proposition id="28-4">Apiterapia</proposition>
+      </propositions>
+      <réponse proposition="28-4">Apiterapia</réponse>
+      <anecdote>La apiterapia sugiere usar las supuestas propiedades de la miel, el propóleos, el veneno de abeja, la jalea real y el polen.</anecdote>
+    </contenu>
+    <contenu id="29">
+      <question>¿Qué shock puede causar una picadura de abeja a los humanos ?</question>
+      <propositions>
+        <proposition id="29-1">Macrófagos</proposition>
+        <proposition id="29-2">Antígeno</proposition>
+        <proposition id="29-3">Anafiláctico</proposition>
+        <proposition id="29-4">Perforin</proposition>
+      </propositions>
+      <réponse proposition="29-3">Anafiláctico</réponse>
+      <anecdote>Es una manifestación de hipersensibilidad inmediata debido a la liberación de mediadores vasoactivos en un sujeto sensibilizado.</anecdote>
+    </contenu>
+    <contenu id="30">
+      <question>¿Qué ha reemplazado a las abejas imperiales de Napoleón Bonaparte ?</question>
+      <propositions>
+        <proposition id="30-1">Arándano</proposition>
+        <proposition id="30-2">Miosotis</proposition>
+        <proposition id="30-3">Trébol</proposition>
+        <proposition id="30-4">Flor de lirio</proposition>
+      </propositions>
+      <réponse proposition="30-4">Flor de lirio</réponse>
+      <anecdote>La flor de lis dorada en el campo azul se convirtió en los brazos de Francia y en el emblema específico de los reyes de Francia.</anecdote>
+    </contenu>
+  </expert>
+  </es>
+  <it>
+  <débutant>
+    <contenu id="1">
+      <question>Come si chiama una persona che alleva api da miele ?</question>
+      <propositions>
+        <proposition id="1-1">Allevatore avicolo</proposition>
+        <proposition id="1-2">Raniculteur</proposition>
+        <proposition id="1-3">Coltivatore di ostriche</proposition>
+        <proposition id="1-4">Apicoltore</proposition>
+      </propositions>
+      <réponse proposition="1-4">Apicoltore</réponse>
+      <anecdote>Praticata in tutti i continenti, questa attività differisce in base alle varietà di api, al clima e allo sviluppo economico.</anecdote>
+    </contenu>
+    <contenu id="2">
+      <question>Quale succo secreto mangia la maggior parte delle api ?</question>
+      <propositions>
+        <proposition id="2-1">Bud</proposition>
+        <proposition id="2-2">Lodge</proposition>
+        <proposition id="2-3">Cerchi</proposition>
+        <proposition id="2-4">Nettare</proposition>
+      </propositions>
+      <réponse proposition="2-4">Nettare</réponse>
+      <anecdote>Questa sostanza possiede, per il suo gusto o odore, un potere di attrazione sugli insetti e su alcuni uccelli.</anecdote>
+    </contenu>
+    <contenu id="3">
+      <question>Con quale altro insetto più aggressivo viene spesso confusa l'ape ?</question>
+      <propositions>
+        <proposition id="3-1">Tafano</proposition>
+        <proposition id="3-2">Calabrone</proposition>
+        <proposition id="3-3">Bumblebee</proposition>
+        <proposition id="3-4">Vespa</proposition>
+      </propositions>
+      <réponse proposition="3-4">Vespa</réponse>
+      <anecdote>La vespa è generalmente un insetto con un addome giallo striato di nero e la cui femmina porta un pungiglione velenoso.</anecdote>
+    </contenu>
+    <contenu id="4">
+      <question>Cosa fanno le api che volano da un fiore all'altro in cerca di cibo ?</question>
+      <propositions>
+        <proposition id="4-1">Disegnano</proposition>
+        <proposition id="4-2">Ruminano</proposition>
+        <proposition id="4-3">Stanno foraggiando</proposition>
+        <proposition id="4-4">Pattinano</proposition>
+      </propositions>
+      <réponse proposition="4-3">Stanno foraggiando</réponse>
+      <anecdote>L'ape raccoglie in natura nettare, propoli, melata e polline.</anecdote>
+    </contenu>
+    <contenu id="5">
+      <question>Quale importante fenomeno fornisce l'ape foraggiando ?</question>
+      <propositions>
+        <proposition id="5-1">Germinazione</proposition>
+        <proposition id="5-2">Sporulazione</proposition>
+        <proposition id="5-3">Introgressione</proposition>
+        <proposition id="5-4">Impollinazione</proposition>
+      </propositions>
+      <réponse proposition="5-4">Impollinazione</réponse>
+      <anecdote>Le piante contribuiscono alla dieta degli impollinatori fornendo loro polline o nettare in eccesso.</anecdote>
+    </contenu>
+    <contenu id="6">
+      <question>Quale di questi non è un prodotto delle api ?</question>
+      <propositions>
+        <proposition id="6-1">Miele</proposition>
+        <proposition id="6-2">Burro</proposition>
+        <proposition id="6-3">Gelatina</proposition>
+        <proposition id="6-4">Cera</proposition>
+      </propositions>
+      <réponse proposition="6-2">Burro</réponse>
+      <anecdote>Questi prodotti sono immagazzinati in gallerie per specie solitarie, complessi complessi per specie sociali.</anecdote>
+    </contenu>
+    <contenu id="7">
+      <question>Chi è l'unica femmina fertile in una colonia di api ?</question>
+      <propositions>
+        <proposition id="7-1">Calabrone</proposition>
+        <proposition id="7-2">Lavoratore</proposition>
+        <proposition id="7-3">Vespa</proposition>
+        <proposition id="7-4">Regina</proposition>
+      </propositions>
+      <réponse proposition="7-4">Regina</réponse>
+      <anecdote>La regina, con un addome più lungo, di solito è la madre della maggior parte, se non di tutte, le api nell'alveare.</anecdote>
+    </contenu>
+    <contenu id="8">
+      <question>Quale ape da miele è il prodotto della schiusa di un uovo non fertilizzato ?</question>
+      <propositions>
+        <proposition id="8-1">Scarabeo</proposition>
+        <proposition id="8-2">Insetto stecco</proposition>
+        <proposition id="8-3">Falso drone</proposition>
+        <proposition id="8-4">Spuntare</proposition>
+      </propositions>
+      <réponse proposition="8-3">Falso drone</réponse>
+      <anecdote>A differenza dell'ape operaia, il drone non ha pungiglione e non raccoglie nettare o polline.</anecdote>
+    </contenu>
+    <contenu id="9">
+      <question>Quale piccola ape ha deliziato i bambini in televisione negli anni '80 ?</question>
+      <propositions>
+        <proposition id="9-1">Maya</proposition>
+        <proposition id="9-2">Zigby</proposition>
+        <proposition id="9-3">Heidi</proposition>
+        <proposition id="9-4">Tao Tao</proposition>
+      </propositions>
+      <réponse proposition="9-1">Maya</réponse>
+      <anecdote>Maya scopre il mondo in compagnia dei suoi amici Willy l'ape, Capovolgi la cavalletta, Max il lombrico e Alessandro il topo.</anecdote>
+    </contenu>
+    <contenu id="10">
+      <question>Quante specie di api sono elencate fino ad oggi sul pianeta ?</question>
+      <propositions>
+        <proposition id="10-1">5.000</proposition>
+        <proposition id="10-2">10.000</proposition>
+        <proposition id="10-3">15.000</proposition>
+        <proposition id="10-4">20.000</proposition>
+      </propositions>
+      <réponse proposition="10-4">20.000</réponse>
+      <anecdote>Le api possono essere classificate in base al loro stile di vita: api domestiche, selvatiche, solitarie o sociali.</anecdote>
+    </contenu>
+  </débutant>
+  <confirmé>
+    <contenu id="11">
+      <question>Quale nome viene dato a un gruppo di api che vivono nella società ?</question>
+      <propositions>
+        <proposition id="11-1">Nicchia</proposition>
+        <proposition id="11-2">Colonia</proposition>
+        <proposition id="11-3">Ecotipo</proposition>
+        <proposition id="11-4">Gilda</proposition>
+      </propositions>
+      <réponse proposition="11-2">Colonia</réponse>
+      <anecdote>In biologia, una colonia è un gruppo di organismi viventi della stessa specie riuniti secondo un particolare stile di vita.</anecdote>
+    </contenu>
+    <contenu id="12">
+      <question>Quale specie di api è probabilmente la più conosciuta in Europa ?</question>
+      <propositions>
+        <proposition id="12-1">Apis dorsata</proposition>
+        <proposition id="12-2">Apis florea</proposition>
+        <proposition id="12-3">Apis cerana</proposition>
+        <proposition id="12-4">Apis mellifera</proposition>
+      </propositions>
+      <réponse proposition="12-4">Apis mellifera</réponse>
+      <anecdote>Semi-domestico, il genere Apis è il termine latino per ape, e mellifera significa che dà miele.</anecdote>
+    </contenu>
+    <contenu id="13">
+      <question>Qual è la durata media di un'ape durante i mesi estivi ?</question>
+      <propositions>
+        <proposition id="13-1">Un mese</proposition>
+        <proposition id="13-2">Due mesi</proposition>
+        <proposition id="13-3">Quattro mesi</proposition>
+        <proposition id="13-4">Tre mesi</proposition>
+      </propositions>
+      <réponse proposition="13-1">Un mese</réponse>
+      <anecdote>Nutrendosi del nettare dei fiori, un'ape può vivere fino a dieci mesi in inverno e solo un mese in estate.</anecdote>
+    </contenu>
+    <contenu id="14">
+      <question>Quale espressione indica una specie di ape che vive in una colonia ?</question>
+      <propositions>
+        <proposition id="14-1">Ape solitaria</proposition>
+        <proposition id="14-2">Ape parassita</proposition>
+        <proposition id="14-3">Ape da miele</proposition>
+        <proposition id="14-4">Ape sociale</proposition>
+      </propositions>
+      <réponse proposition="14-4">Ape sociale</réponse>
+      <anecdote>Altre specie sono api parassite o api a cucù che praticano il cleptoparassitismo.</anecdote>
+    </contenu>
+    <contenu id="15">
+      <question>Di cosa si nutre esclusivamente la larva di una futura ape regina ?</question>
+      <propositions>
+        <proposition id="15-1">Sale</proposition>
+        <proposition id="15-2">Sedimenti</proposition>
+        <proposition id="15-3">Insetti</proposition>
+        <proposition id="15-4">Pappa reale</proposition>
+      </propositions>
+      <réponse proposition="15-4">Pappa reale</réponse>
+      <anecdote>La pappa reale è il prodotto della secrezione delle api operaie, tra il quinto e il quattordicesimo giorno della loro esistenza.</anecdote>
+    </contenu>
+    <contenu id="16">
+      <question>Come si chiama un grande raduno di api ?</question>
+      <propositions>
+        <proposition id="16-1">Cluster</proposition>
+        <proposition id="16-2">Sciame</proposition>
+        <proposition id="16-3">Borsa</proposition>
+        <proposition id="16-4">Cappotto</proposition>
+      </propositions>
+      <réponse proposition="16-2">Sciame</réponse>
+      <anecdote>Il fenomeno noto come senza nuvole non ha un'origine meteorologica diretta ma è stagionale e legato a episodi di siccità.</anecdote>
+    </contenu>
+    <contenu id="17">
+      <question>Quale ape è la favorita dell'apicoltura in Europa ?</question>
+      <propositions>
+        <proposition id="17-1">Ape blu</proposition>
+        <proposition id="17-2">Ape rossa</proposition>
+        <proposition id="17-3">Ape nera</proposition>
+        <proposition id="17-4">Ape bianca</proposition>
+      </propositions>
+      <réponse proposition="17-3">Ape nera</réponse>
+      <anecdote>La sua area di distribuzione originale si estendeva dalla Russia occidentale al nord Europa e probabilmente alla penisola iberica.</anecdote>
+    </contenu>
+    <contenu id="18">
+      <question>Cosa succede quando un'ape usa la sua puntura dentellata per pungere ?</question>
+      <propositions>
+        <proposition id="18-1">Lei dorme</proposition>
+        <proposition id="18-2">Lei muore</proposition>
+        <proposition id="18-3">Si gonfia</proposition>
+        <proposition id="18-4">Beve</proposition>
+      </propositions>
+      <réponse proposition="18-2">Lei muore</réponse>
+      <anecdote>La puntura coinvolge parte degli organi interni dell'ape, incluso il suo sacco velenoso, che è quasi sempre fatale per l'ape.</anecdote>
+    </contenu>
+    <contenu id="19">
+      <question>Come si chiama tutti gli alveari di un apicoltore ?</question>
+      <propositions>
+        <proposition id="19-1">Sciame</proposition>
+        <proposition id="19-2">Apiario</proposition>
+        <proposition id="19-3">Cluster</proposition>
+        <proposition id="19-4">Colonia</proposition>
+      </propositions>
+      <réponse proposition="19-2">Apiario</réponse>
+      <anecdote>La posizione degli apiari è determinata in particolare dall'ambiente e dall'esposizione (preferibilmente a sud o sud-est).</anecdote>
+    </contenu>
+    <contenu id="20">
+      <question>Quale film d'animazione racconta la vita di un'ape appena laureata ?</question>
+      <propositions>
+        <proposition id="20-1">Le Lorax</proposition>
+        <proposition id="20-2">Rosa</proposition>
+        <proposition id="20-3">Happy Feet</proposition>
+        <proposition id="20-4">Bee Movie</proposition>
+      </propositions>
+      <réponse proposition="20-4">Bee Movie</réponse>
+      <anecdote>Questo film d'animazione in computer grafica uscito nel 2007 è stato scritto e prodotto da Jerry Seinfeld per DreamWorks SKG.</anecdote>
+    </contenu>
+  </confirmé>
+  <expert>
+    <contenu id="21">
+      <question>In quale resina sono stati trovati i più antichi fossili di api ?</question>
+      <propositions>
+        <proposition id="21-1">Jet</proposition>
+        <proposition id="21-2">Opale</proposition>
+        <proposition id="21-3">Turchese</proposition>
+        <proposition id="21-4">Ambra</proposition>
+      </propositions>
+      <réponse proposition="21-4">Ambra</réponse>
+      <anecdote>Il fossile più antico fino ad oggi è il Melittosphex burmensis, risalente a 100 milioni di anni fa e scoperto nel 2006 in Birmania.</anecdote>
+    </contenu>
+    <contenu id="22">
+      <question>In quante caste è composta una colonia di api ?</question>
+      <propositions>
+        <proposition id="22-1">Cinque</proposition>
+        <proposition id="22-2">Sei</proposition>
+        <proposition id="22-3">Quattro</proposition>
+        <proposition id="22-4">Tre</proposition>
+      </propositions>
+      <réponse proposition="22-4">Tre</réponse>
+      <anecdote>La regina, l'unica donna fertile nel gruppo, la maggioranza di operai e maschi (o droni) che fertilizzano le future regine.</anecdote>
+    </contenu>
+    <contenu id="23">
+      <question>Quali api usano le gallerie scavate nel bosco ?</question>
+      <propositions>
+        <proposition id="23-1">Orticola</proposition>
+        <proposition id="23-2">Rubicole</proposition>
+        <proposition id="23-3">Xylicole</proposition>
+        <proposition id="23-4">Cantine</proposition>
+      </propositions>
+      <réponse proposition="23-3">Xylicole</réponse>
+      <anecdote>Uno xilofago è un organismo vivente la cui dieta consiste principalmente di alburno, ma anche di legno perfetto.</anecdote>
+    </contenu>
+    <contenu id="24">
+      <question>Quante uova può depositare l'ape regina in circa un anno ?</question>
+      <propositions>
+        <proposition id="24-1">300.000</proposition>
+        <proposition id="24-2">100.000</proposition>
+        <proposition id="24-3">400.000</proposition>
+        <proposition id="24-4">200.000</proposition>
+      </propositions>
+      <réponse proposition="24-3">400.000</réponse>
+      <anecdote>Quando la sua spermatheca inizia a svuotarsi, non può più deporre le uova dei lavoratori e la sua distribuzione dei feromoni cambia.</anecdote>
+    </contenu>
+    <contenu id="25">
+      <question>Quale processo produce una nuova madre regina per l'alveare ?</question>
+      <propositions>
+        <proposition id="25-1">Remage</proposition>
+        <proposition id="25-2">Restauro</proposition>
+        <proposition id="25-3">Reinage</proposition>
+        <proposition id="25-4">Appollaiarsi</proposition>
+      </propositions>
+      <réponse proposition="25-1">Remage</réponse>
+      <anecdote>La colonia inizia quindi il pericoloso processo di alimentazione di diverse ninfe di pappa reale, la sopravvivenza della colonia dipende da essa.</anecdote>
+    </contenu>
+    <contenu id="26">
+      <question>In quale maternità dell'alveare si sviluppano le api future ?</question>
+      <propositions>
+        <proposition id="26-1">Couvain</proposition>
+        <proposition id="26-2">Becher</proposition>
+        <proposition id="26-3">Levante</proposition>
+        <proposition id="26-4">Dormitorio</proposition>
+      </propositions>
+      <réponse proposition="26-1">Couvain</réponse>
+      <anecdote>Si trova generalmente al centro dell'alveare ed è circondato da favi e polline (pane d'api) per nutrirlo.</anecdote>
+    </contenu>
+    <contenu id="27">
+      <question>Come possono le api evitare di creare un organismo soffocante ?</question>
+      <propositions>
+        <proposition id="27-1">Sciamare</proposition>
+        <proposition id="27-2">Remage</proposition>
+        <proposition id="27-3">Impollinazione</proposition>
+        <proposition id="27-4">Appollaiarsi</proposition>
+      </propositions>
+      <réponse proposition="27-1">Sciamare</réponse>
+      <anecdote>Questo fenomeno si verifica quando una parte delle api lascia l'alveare con una regina (lo sciame) per formare una nuova colonia.</anecdote>
+    </contenu>
+    <contenu id="28">
+      <question>Qual è la pratica del trattamento con i prodotti delle api ?</question>
+      <propositions>
+        <proposition id="28-1">Apiterapia</proposition>
+        <proposition id="28-2">Fitoterapia</proposition>
+        <proposition id="28-3">oligoterapia</proposition>
+        <proposition id="28-4">Ayurveda</proposition>
+      </propositions>
+      <réponse proposition="28-1">Apiterapia</réponse>
+      <anecdote>L'apiterapia suggerisce l'uso delle presunte proprietà di miele, propoli, veleno d'api, pappa reale e polline.</anecdote>
+    </contenu>
+    <contenu id="29">
+      <question>Quale shock può provocare a volte una puntura d'ape sull'uomo ?</question>
+      <propositions>
+        <proposition id="29-1">Perforina</proposition>
+        <proposition id="29-2">Antigene</proposition>
+        <proposition id="29-3">Anafilattico</proposition>
+        <proposition id="29-4">Macrofagi</proposition>
+      </propositions>
+      <réponse proposition="29-3">Anafilattico</réponse>
+      <anecdote>È una manifestazione di ipersensibilità immediata dovuta al rilascio di mediatori vasoattivi in \u200b\u200bun soggetto sensibilizzato.</anecdote>
+    </contenu>
+    <contenu id="30">
+      <question>Cosa hanno sostituito le api imperiali di Napoleone Bonaparte ?</question>
+      <propositions>
+        <proposition id="30-1">Mirtillo</proposition>
+        <proposition id="30-2">Trifoglio</proposition>
+        <proposition id="30-3">Fiore di giglio</proposition>
+        <proposition id="30-4">Miosotis</proposition>
+      </propositions>
+      <réponse proposition="30-3">Fiore di giglio</réponse>
+      <anecdote>Il giglio d'oro sul campo azzurro divenne le armi della Francia e l'emblema specifico dei re di Francia.</anecdote>
+    </contenu>
+  </expert>
+  </it>
+  <nl>
+  <débutant>
+    <contenu id="1">
+      <question>Hoe heet een persoon die honingbijen grootbrengt ?</question>
+      <propositions>
+        <proposition id="1-1">Oesterboer</proposition>
+        <proposition id="1-2">Pluimveehouder</proposition>
+        <proposition id="1-3">Raniculteur</proposition>
+        <proposition id="1-4">Imker</proposition>
+      </propositions>
+      <réponse proposition="1-4">Imker</réponse>
+      <anecdote>Geoefend op alle continenten, deze activiteit verschilt afhankelijk van bijen rassen, klimaat en economische ontwikkeling.</anecdote>
+    </contenu>
+    <contenu id="2">
+      <question>Welk uitgescheiden sap eten de meeste bijen ?</question>
+      <propositions>
+        <proposition id="2-1">Nectar</proposition>
+        <proposition id="2-2">Lodge</proposition>
+        <proposition id="2-3">Cirkels</proposition>
+        <proposition id="2-4">Knop</proposition>
+      </propositions>
+      <réponse proposition="2-1">Nectar</réponse>
+      <anecdote>Deze stof heeft door zijn smaak of geur een aantrekkingskracht op zowel insecten als bepaalde vogels.</anecdote>
+    </contenu>
+    <contenu id="3">
+      <question>Met welk ander agressiever insect wordt de bij vaak verward ?</question>
+      <propositions>
+        <proposition id="3-1">Hommel</proposition>
+        <proposition id="3-2">Wesp</proposition>
+        <proposition id="3-3">Horzel</proposition>
+        <proposition id="3-4">Paardevlieg</proposition>
+      </propositions>
+      <réponse proposition="3-2">Wesp</réponse>
+      <anecdote>De wesp is een insect met over het algemeen een gele buik gestreept met zwart en het vrouwtje draagt een giftige angel.</anecdote>
+    </contenu>
+    <contenu id="4">
+      <question>Wat vliegen bijen van bloem tot bloem op zoek naar voedsel ?</question>
+      <propositions>
+        <proposition id="4-1">Ze herkauwen</proposition>
+        <proposition id="4-2">Ze tekenen</proposition>
+        <proposition id="4-3">Ze foerageren</proposition>
+        <proposition id="4-4">Ze schaatsen</proposition>
+      </propositions>
+      <réponse proposition="4-3">Ze foerageren</réponse>
+      <anecdote>De bij oogst in de natuur nectar, propolis, honingdauw en stuifmeel.</anecdote>
+    </contenu>
+    <contenu id="5">
+      <question>Welk belangrijk fenomeen levert de bij door te foerageren ?</question>
+      <propositions>
+        <proposition id="5-1">Bestuiving</proposition>
+        <proposition id="5-2">Sporulatie</proposition>
+        <proposition id="5-3">Kieming</proposition>
+        <proposition id="5-4">Introgressie</proposition>
+      </propositions>
+      <réponse proposition="5-1">Bestuiving</réponse>
+      <anecdote>Planten dragen bij aan het dieet van bestuivers door ze te voorzien van overtollig stuifmeel of nectar.</anecdote>
+    </contenu>
+    <contenu id="6">
+      <question>Welke hiervan is geen bijenproduct ?</question>
+      <propositions>
+        <proposition id="6-1">Boter</proposition>
+        <proposition id="6-2">Was</proposition>
+        <proposition id="6-3">Gelei</proposition>
+        <proposition id="6-4">Honing</proposition>
+      </propositions>
+      <réponse proposition="6-1">Boter</réponse>
+      <anecdote>Deze producten worden opgeslagen in galerijen voor solitaire soorten, complexe samenstellingen voor sociale soorten.</anecdote>
+    </contenu>
+    <contenu id="7">
+      <question>Wie is de enige vruchtbare vrouw in een bijenkolonie ?</question>
+      <propositions>
+        <proposition id="7-1">Werknemer</proposition>
+        <proposition id="7-2">Wesp</proposition>
+        <proposition id="7-3">Koningin</proposition>
+        <proposition id="7-4">Horzel</proposition>
+      </propositions>
+      <réponse proposition="7-3">Koningin</réponse>
+      <anecdote>De koningin, met een meer langwerpige buik, is meestal de moeder van de meeste, zo niet alle, bijen in de korf.</anecdote>
+    </contenu>
+    <contenu id="8">
+      <question>Welke honingbij is het product van het uitkomen van een onbevrucht ei ?</question>
+      <propositions>
+        <proposition id="8-1">Stick insect</proposition>
+        <proposition id="8-2">Kever</proposition>
+        <proposition id="8-3">Valse drone</proposition>
+        <proposition id="8-4">Vink</proposition>
+      </propositions>
+      <réponse proposition="8-3">Valse drone</réponse>
+      <anecdote>In tegenstelling tot de vrouwelijke werkbij heeft de drone geen angel en oogst hij geen nectar of stuifmeel.</anecdote>
+    </contenu>
+    <contenu id="9">
+      <question>Welke kleine bij was dol op kinderen op televisie in de jaren tachtig ?</question>
+      <propositions>
+        <proposition id="9-1">Heidi</proposition>
+        <proposition id="9-2">Zigby</proposition>
+        <proposition id="9-3">Tao Tao</proposition>
+        <proposition id="9-4">Maya</proposition>
+      </propositions>
+      <réponse proposition="9-4">Maya</réponse>
+      <anecdote>Maya ontdekt de wereld in het gezelschap van haar vrienden Willy de bij, Flip de sprinkhaan, Max de regenworm en Alexander de muis.</anecdote>
+    </contenu>
+    <contenu id="10">
+      <question>Hoeveel soorten bijen worden er tot nu toe op de planeet vermeld ?</question>
+      <propositions>
+        <proposition id="10-1">5.000</proposition>
+        <proposition id="10-2">10.000</proposition>
+        <proposition id="10-3">20.000</proposition>
+        <proposition id="10-4">15.000</proposition>
+      </propositions>
+      <réponse proposition="10-3">20.000</réponse>
+      <anecdote>Bijen kunnen worden ingedeeld volgens hun manier van leven: tamme, wilde, solitaire of sociale bijen.</anecdote>
+    </contenu>
+  </débutant>
+  <confirmé>
+    <contenu id="11">
+      <question>Welke naam wordt gegeven aan een groep bijen die in de samenleving leven ?</question>
+      <propositions>
+        <proposition id="11-1">Niche</proposition>
+        <proposition id="11-2">Gilde</proposition>
+        <proposition id="11-3">Kolonie</proposition>
+        <proposition id="11-4">Ecotype</proposition>
+      </propositions>
+      <réponse proposition="11-3">Kolonie</réponse>
+      <anecdote>In de biologie is een kolonie een groep levende organismen van dezelfde soort die samenkomen volgens een bepaalde manier van leven.</anecdote>
+    </contenu>
+    <contenu id="12">
+      <question>Welke bijensoort is waarschijnlijk de bekendste in Europa ?</question>
+      <propositions>
+        <proposition id="12-1">Apis cerana</proposition>
+        <proposition id="12-2">Apis mellifera</proposition>
+        <proposition id="12-3">Apis dorsata</proposition>
+        <proposition id="12-4">Apis florea</proposition>
+      </propositions>
+      <réponse proposition="12-2">Apis mellifera</réponse>
+      <anecdote>Semi-huiselijk, de geslachtsnaam Apis is de Latijnse term voor bij, en mellifera betekent dat het honing geeft.</anecdote>
+    </contenu>
+    <contenu id="13">
+      <question>Wat is de gemiddelde levensduur van een bij tijdens de zomermaanden ?</question>
+      <propositions>
+        <proposition id="13-1">Een maand</proposition>
+        <proposition id="13-2">Vier maanden</proposition>
+        <proposition id="13-3">Twee maanden</proposition>
+        <proposition id="13-4">Drie maanden</proposition>
+      </propositions>
+      <réponse proposition="13-1">Een maand</réponse>
+      <anecdote>Zich voedend met de nectar van bloemen, kan een bij in de winter tot tien maanden leven en in de zomer slechts één maand.</anecdote>
+    </contenu>
+    <contenu id="14">
+      <question>Welke uitdrukking duidt een bijensoort aan die in een kolonie leeft ?</question>
+      <propositions>
+        <proposition id="14-1">Honingbij</proposition>
+        <proposition id="14-2">Parasitaire bij</proposition>
+        <proposition id="14-3">Sociale bij</proposition>
+        <proposition id="14-4">Eenzame bij</proposition>
+      </propositions>
+      <réponse proposition="14-3">Sociale bij</réponse>
+      <anecdote>Andere soorten zijn parasitaire bijen of koekoeksbijen die cleptoparasitisme beoefenen.</anecdote>
+    </contenu>
+    <contenu id="15">
+      <question>Wat is de larve van een toekomstige bijenkoningin die uitsluitend wordt gevoed ?</question>
+      <propositions>
+        <proposition id="15-1">Insecten</proposition>
+        <proposition id="15-2">Koninklijke gelei</proposition>
+        <proposition id="15-3">Zout</proposition>
+        <proposition id="15-4">Sedimenten</proposition>
+      </propositions>
+      <réponse proposition="15-2">Koninklijke gelei</réponse>
+      <anecdote>Koninginnegelei is het uitscheidingsproduct van werkbijen, tussen de vijfde en veertiende dag van hun bestaan.</anecdote>
+    </contenu>
+    <contenu id="16">
+      <question>Hoe noem je een grote verzameling bijen ?</question>
+      <propositions>
+        <proposition id="16-1">Zak</proposition>
+        <proposition id="16-2">Cluster</proposition>
+        <proposition id="16-3">Zwerm</proposition>
+        <proposition id="16-4">Vacht</proposition>
+      </propositions>
+      <réponse proposition="16-3">Zwerm</réponse>
+      <anecdote>Het fenomeen dat bekend staat als wolkenloos heeft geen directe meteorologische oorsprong, maar is seizoensgebonden en houdt verband met droogteperiodes.</anecdote>
+    </contenu>
+    <contenu id="17">
+      <question>Welke bij is de grote bijenteeltfavoriet in Europa ?</question>
+      <propositions>
+        <proposition id="17-1">Witte bij</proposition>
+        <proposition id="17-2">Blauwe bij</proposition>
+        <proposition id="17-3">Zwarte bij</proposition>
+        <proposition id="17-4">Rode bij</proposition>
+      </propositions>
+      <réponse proposition="17-3">Zwarte bij</réponse>
+      <anecdote>Het oorspronkelijke verspreidingsgebied strekte zich uit van West-Rusland tot Noord-Europa en waarschijnlijk tot aan het Iberisch schiereiland.</anecdote>
+    </contenu>
+    <contenu id="18">
+      <question>Wat gebeurt er als een bij zijn gekerfde angel gebruikt om te steken ?</question>
+      <propositions>
+        <proposition id="18-1">Ze slaapt</proposition>
+        <proposition id="18-2">Ze sterft</proposition>
+        <proposition id="18-3">Het zwelt</proposition>
+        <proposition id="18-4">Ze drinkt</proposition>
+      </propositions>
+      <réponse proposition="18-2">Ze sterft</réponse>
+      <anecdote>De angel heeft betrekking op een deel van de inwendige organen van de bij, inclusief de gifzak, die bijna altijd dodelijk is voor de bij.</anecdote>
+    </contenu>
+    <contenu id="19">
+      <question>Hoe noem je alle bijenkasten van een imker ?</question>
+      <propositions>
+        <proposition id="19-1">Zwerm</proposition>
+        <proposition id="19-2">Kolonie</proposition>
+        <proposition id="19-3">Bijenstal</proposition>
+        <proposition id="19-4">Cluster</proposition>
+      </propositions>
+      <réponse proposition="19-3">Bijenstal</réponse>
+      <anecdote>De locatie van de bijenstallen wordt met name gemaakt op basis van de omgeving en de belichting (bij voorkeur zuid of zuidoost).</anecdote>
+    </contenu>
+    <contenu id="20">
+      <question>Welke animatiefilm vertelt het leven van een pas afgestudeerde bij ?</question>
+      <propositions>
+        <proposition id="20-1">Happy Feet</proposition>
+        <proposition id="20-2">Bee Movie</proposition>
+        <proposition id="20-3">Rosa</proposition>
+        <proposition id="20-4">Le Lorax</proposition>
+      </propositions>
+      <réponse proposition="20-2">Bee Movie</réponse>
+      <anecdote>Deze in 2007 uitgebrachte animatiefilm in computergraphics is geschreven en geproduceerd door Jerry Seinfeld voor DreamWorks SKG.</anecdote>
+    </contenu>
+  </confirmé>
+  <expert>
+    <contenu id="21">
+      <question>In welke hars zijn de oudste bijenfossielen gevonden ?</question>
+      <propositions>
+        <proposition id="21-1">Opaal</proposition>
+        <proposition id="21-2">Amber</proposition>
+        <proposition id="21-3">Jet</proposition>
+        <proposition id="21-4">Turkoois</proposition>
+      </propositions>
+      <réponse proposition="21-2">Amber</réponse>
+      <anecdote>Het oudste fossiel tot nu toe is Melittosphex burmensis, 100 miljoen jaar geleden gedateerd en in 2006 ontdekt in Birma.</anecdote>
+    </contenu>
+    <contenu id="22">
+      <question>Uit hoeveel kasten bestaat een bijenkolonie ?</question>
+      <propositions>
+        <proposition id="22-1">Vijf</proposition>
+        <proposition id="22-2">Drie</proposition>
+        <proposition id="22-3">Vier</proposition>
+        <proposition id="22-4">Zes</proposition>
+      </propositions>
+      <réponse proposition="22-2">Drie</réponse>
+      <anecdote>De koningin, de enige vruchtbare vrouw in de groep, een meerderheid van de arbeiders en mannen (of drones) die toekomstige koninginnen bevruchten.</anecdote>
+    </contenu>
+    <contenu id="23">
+      <question>Welke bijen gebruiken galerijen die in het hout zijn gegraven ?</question>
+      <propositions>
+        <proposition id="23-1">Wijnhuizen</proposition>
+        <proposition id="23-2">Rubicoles</proposition>
+        <proposition id="23-3">Tuinbouw</proposition>
+        <proposition id="23-4">Xylicolen</proposition>
+      </propositions>
+      <réponse proposition="23-4">Xylicolen</réponse>
+      <anecdote>Een xylofaag is een levend organisme waarvan het dieet voornamelijk uit spinthout bestaat, maar ook uit perfect hout.</anecdote>
+    </contenu>
+    <contenu id="24">
+      <question>Hoeveel eieren kan de bijenkoningin ongeveer in een jaar leggen ?</question>
+      <propositions>
+        <proposition id="24-1">400.000</proposition>
+        <proposition id="24-2">200.000</proposition>
+        <proposition id="24-3">300.000</proposition>
+        <proposition id="24-4">100.000</proposition>
+      </propositions>
+      <réponse proposition="24-1">400.000</réponse>
+      <anecdote>Als haar spermatheca begint te legen, kan ze geen werkereieren meer leggen en verandert haar diffusie van feromonen.</anecdote>
+    </contenu>
+    <contenu id="25">
+      <question>Welk proces levert een nieuwe koningin-moeder op voor de korf ?</question>
+      <propositions>
+        <proposition id="25-1">Remage</proposition>
+        <proposition id="25-2">Restauratie</proposition>
+        <proposition id="25-3">Reinage</proposition>
+        <proposition id="25-4">Zitstokken</proposition>
+      </propositions>
+      <réponse proposition="25-1">Remage</réponse>
+      <anecdote>De kolonie begint dan met het gevaarlijke proces van het voeden van verschillende nimfen van koninginnengelei, het voortbestaan \u200b\u200bvan de kolonie hangt ervan af.</anecdote>
+    </contenu>
+    <contenu id="26">
+      <question>In welk moederschap van de korf ontwikkelen de toekomstige bijen zich ?</question>
+      <propositions>
+        <proposition id="26-1">Slaapzaal</proposition>
+        <proposition id="26-2">Bekerglas</proposition>
+        <proposition id="26-3">Couvain</proposition>
+        <proposition id="26-4">Levant</proposition>
+      </propositions>
+      <réponse proposition="26-3">Couvain</réponse>
+      <anecdote>Het bevindt zich over het algemeen in het midden van de korf en is omgeven door honingraten en stuifmeel (bijenbrood) om het te voeden.</anecdote>
+    </contenu>
+    <contenu id="27">
+      <question>Hoe voorkomen bijen dat ze een verstikkend organisme creëren ?</question>
+      <propositions>
+        <proposition id="27-1">Bestuiving</proposition>
+        <proposition id="27-2">Zwermen</proposition>
+        <proposition id="27-3">Remage</proposition>
+        <proposition id="27-4">Zitstokken</proposition>
+      </propositions>
+      <réponse proposition="27-2">Zwermen</réponse>
+      <anecdote>Dit fenomeen doet zich voor wanneer een deel van de bijen de korf verlaat met een koningin (de zwerm) om een \u200b\u200bnieuwe kolonie te vormen.</anecdote>
+    </contenu>
+    <contenu id="28">
+      <question>Hoe wordt behandeld met bijenproducten ?</question>
+      <propositions>
+        <proposition id="28-1">Fytotherapie</proposition>
+        <proposition id="28-2">Oligotherapie</proposition>
+        <proposition id="28-3">Apitherapie</proposition>
+        <proposition id="28-4">Ayurveda</proposition>
+      </propositions>
+      <réponse proposition="28-3">Apitherapie</réponse>
+      <anecdote>Apitherapie suggereert het gebruik van de veronderstelde eigenschappen van honing, propolis, bijengif, koninginnengelei en stuifmeel.</anecdote>
+    </contenu>
+    <contenu id="29">
+      <question>Welke schok kan een bijensteek soms bij mensen veroorzaken ?</question>
+      <propositions>
+        <proposition id="29-1">Antigeen</proposition>
+        <proposition id="29-2">Perforine</proposition>
+        <proposition id="29-3">Anafylactisch</proposition>
+        <proposition id="29-4">Macrofaag</proposition>
+      </propositions>
+      <réponse proposition="29-3">Anafylactisch</réponse>
+      <anecdote>Het is een uiting van onmiddellijke overgevoeligheid als gevolg van het vrijkomen van vasoactieve mediatoren bij een gevoelig persoon.</anecdote>
+    </contenu>
+    <contenu id="30">
+      <question>Wat heeft de keizerlijke bijen van Napoleon Bonaparte vervangen ?</question>
+      <propositions>
+        <proposition id="30-1">Myosotis</proposition>
+        <proposition id="30-2">Lily bloem</proposition>
+        <proposition id="30-3">Bosbes</proposition>
+        <proposition id="30-4">Klaver</proposition>
+      </propositions>
+      <réponse proposition="30-2">Lily bloem</réponse>
+      <anecdote>De gouden fleur-de-lis op het azuurblauwe veld werd het wapen van Frankrijk en het specifieke embleem van de koningen van Frankrijk.</anecdote>
+    </contenu>
+  </expert>
+  </nl>
+</quizz>

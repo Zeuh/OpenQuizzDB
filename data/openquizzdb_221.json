@@ -1,0 +1,2216 @@
+{                                     
+  "fournisseur": "OpenQuizzDB - Fournisseur de contenu libre (https://www.openquizzdb.org)",
+  "rédacteur": "Philippe Bresoux",
+  "thème": "Périgord (Patrimoine culturel et historique)",         
+  "difficulté": "4 / 5",
+  "quizz": {
+    "fr": {
+      "débutant": [
+      {
+        "id": 1,
+        "question": "Laquelle de ces couleurs ne désigne pas une région du Périgord ?",
+        "propositions": [
+          "Pourpre",
+          "Bleu",
+          "Vert",
+          "Blanc"
+        ],
+        "réponse": "Bleu",
+        "anecdote": "Le nom Périgord vient du peuple gaulois des Pétrocores, « Petrocorii » en gaulois, ce qui veut dire Quatre armées."
+      },
+      {
+        "id": 2,
+        "question": "Comment appelle-t-on les habitants de la ville de Périgueux ?",
+        "propositions": [
+          "Promontois",
+          "Pirigueusois",
+          "Périgourdins",
+          "Périeusins"
+        ],
+        "réponse": "Périgourdins",
+        "anecdote": "Labellisée 4 fleurs, Périgueux est la capitale culturelle et touristique du Périgord blanc, dans la vallée de l'Isle."
+      },
+      {
+        "id": 3,
+        "question": "Dans quel département le Périgord et ses quatre régions sont-ils inscrits ?",
+        "propositions": [
+          "Calvados",
+          "Aveyron",
+          "Vaucluse",
+          "Dordogne"
+        ],
+        "réponse": "Dordogne",
+        "anecdote": "La Dordogne, troisième département français métropolitain par sa superficie, fait partie de la région Nouvelle-Aquitaine."
+      },
+      {
+        "id": 4,
+        "question": "Quelle spécialité culinaire du Périgord est issue de l'engraissement par gavage ?",
+        "propositions": [
+          "Foie gras",
+          "Poil de jarre",
+          "Blanc de boeuf",
+          "Propolis"
+        ],
+        "réponse": "Foie gras",
+        "anecdote": "Le foie gras se consomme cru, mi-cuit ou cuit, et peut être proposé sous forme de produit frais ou en conserve."
+      },
+      {
+        "id": 5,
+        "question": "Quelle grotte ornée du Paléolithique se situe dans la vallée de la Vézère ?",
+        "propositions": [
+          "Lascaux",
+          "Niaux",
+          "Cussac",
+          "Razet"
+        ],
+        "réponse": "Lascaux",
+        "anecdote": "Les peintures et les gravures qu'elle renferme n'ont pas pu faire l'objet de datations directes précises : environ 18 000 et 17 000 ans."
+      },
+      {
+        "id": 6,
+        "question": "À quoi la région du Périgord blanc doit-elle principalement son nom ?",
+        "propositions": [
+          "Sable",
+          "Miel",
+          "Sucre",
+          "Pierre"
+        ],
+        "réponse": "Pierre",
+        "anecdote": "Elle occupe les territoires des régions naturelles du Ribéracois, du Périgord central, de la Double et d'une partie du Landais."
+      },
+      {
+        "id": 7,
+        "question": "Quel confit se mange généralement avec des pommes de terre à la sarladaise ?",
+        "propositions": [
+          "Confit de canard",
+          "Confit de vin",
+          "Confit de fleurs",
+          "Confit d'oignons"
+        ],
+        "réponse": "Confit de canard",
+        "anecdote": "Ce confit se prépare avec des oiseaux gras, engraissés par gavage, les mêmes qui servent à produire le magret et le foie gras."
+      },
+      {
+        "id": 8,
+        "question": "Avec ses grands champs de céréales, quel surnom est donné au Périgord blanc ?",
+        "propositions": [
+          "Grenier du Périgord",
+          "Salon du Périgord",
+          "Cave du Périgord",
+          "Jardin du Périgord"
+        ],
+        "réponse": "Grenier du Périgord",
+        "anecdote": "Le Périgord blanc, ancienne région naturelle, correspondait aux plateaux calcaires du Ribéracois et du Verteillacois."
+      },
+      {
+        "id": 9,
+        "question": "Autour de quelle ville se déploient les vignobles du Périgord pourpre ?",
+        "propositions": [
+          "Thiviers",
+          "Montignac",
+          "Le Bugue",
+          "Bergerac"
+        ],
+        "réponse": "Bergerac",
+        "anecdote": "1 200 viticulteurs y cultivent une superficie de 12 000 hectares, produisant des vins rouges, blancs, moelleux, liquoreux et rosés."
+      },
+      {
+        "id": 10,
+        "question": "Que produisent, en classification AOC, 612 communes du Périgord ?",
+        "propositions": [
+          "Pommes",
+          "Noix",
+          "Haricots",
+          "Citrons"
+        ],
+        "réponse": "Noix",
+        "anecdote": "Noix du Périgord est une appellation d'origine qui désigne les noix fraîches ou primeurs, les noix sèches et les cerneaux de noix."
+      }
+    ],
+    "confirmé": [
+      {
+        "id": 11,
+        "question": "Autour de quelle ville le Périgord noir se développe-t-il principalement ?",
+        "propositions": [
+          "Périgueux",
+          "Sarlat-la-Canéda",
+          "Bergerac",
+          "Montignac"
+        ],
+        "réponse": "Sarlat-la-Canéda",
+        "anecdote": "Cette cité historique est un site touristique majeur, renommé pour sa parure monumentale datant de la période médiévale."
+      },
+      {
+        "id": 12,
+        "question": "Quel vin du Périgord comprend cabernet-franc, cabernet-sauvignon et merlot ?",
+        "propositions": [
+          "Tavel",
+          "Buzet",
+          "Saumur",
+          "Bergerac"
+        ],
+        "réponse": "Bergerac",
+        "anecdote": "Comme la plupart des appellations de par le monde, les vins rouges de Bergerac peuvent être des vins de fruit à boire assez rapidement."
+      },
+      {
+        "id": 13,
+        "question": "Quelle est historiquement la plus ancienne des quatre appellations du Périgord ?",
+        "propositions": [
+          "Blanc",
+          "Noir",
+          "Vert",
+          "Pourpre"
+        ],
+        "réponse": "Noir",
+        "anecdote": "Le Périgord noir tire son nom des importantes forêts de chênes verts très sombres et n'a, initialement, rien à voir avec les truffes."
+      },
+      {
+        "id": 14,
+        "question": "Quel ancien précepteur du duc de Bourgogne possède un château à son nom ?",
+        "propositions": [
+          "Mascaron",
+          "Fabricius",
+          "Du Moulin",
+          "Fénelon"
+        ],
+        "réponse": "Fénelon",
+        "anecdote": "Le château de Fénelon est implanté à Sainte-Mondane dans le département de la Dordogne, en Nouvelle-Aquitaine."
+      },
+      {
+        "id": 15,
+        "question": "Quelle région du Périgord recouvre la partie granitique de la Dordogne ?",
+        "propositions": [
+          "Vert",
+          "Blanc",
+          "Pourpre",
+          "Noir"
+        ],
+        "réponse": "Vert",
+        "anecdote": "Le Nontronnais est une région naturelle située au nord du département de la Dordogne, dans la région Nouvelle-Aquitaine."
+      },
+      {
+        "id": 16,
+        "question": "Quel château de Dordogne est évoqué dans « Jacquou le Croquant » ?",
+        "propositions": [
+          "Château de l'Herm",
+          "Château de Puivert",
+          "Château de Beynac",
+          "Château des Ormes"
+        ],
+        "réponse": "Château de l'Herm",
+        "anecdote": "La plupart des lieux décrits dans le roman existent réellement, sur la rive droite de la Vallée de la Vézère, dans le Périgord."
+      },
+      {
+        "id": 17,
+        "question": "Quel type d'habitat souterrain ou creusé retrouve-t-on au Périgord ?",
+        "propositions": [
+          "Amérindien",
+          "Troglodytique",
+          "Antique",
+          "Nomade"
+        ],
+        "réponse": "Troglodytique",
+        "anecdote": "De l'abri sous roche au château ou à la cité souterraine, cette architecture a une fonction d'habitat temporaire ou permanent."
+      },
+      {
+        "id": 18,
+        "question": "Quelle ancienne bastide médiévale se situe dans l'arrondissement de Sarlat ?",
+        "propositions": [
+          "Daglan",
+          "Dussac",
+          "Douville",
+          "Domme"
+        ],
+        "réponse": "Domme",
+        "anecdote": "La bastide de Domme, perchée sur une falaise à 210 mètres d'altitude, domine la Dordogne de plus de cent mètres."
+      },
+      {
+        "id": 19,
+        "question": "Quel château est entouré d'un vignoble réputé, face à Bergerac ?",
+        "propositions": [
+          "Magny",
+          "Monbazillac",
+          "Marfontaine",
+          "Montardier"
+        ],
+        "réponse": "Monbazillac",
+        "anecdote": "Vers 1550, le château fut construit d'un seul jet par Charles d'Aydie sur un plan simple : un rectangle et quatre tours circulaires."
+      },
+      {
+        "id": 20,
+        "question": "Sous quel roi la notion de comté est-elle apparue pour le Périgord ?",
+        "propositions": [
+          "Louis le Pieux",
+          "Charles VI",
+          "Henri IV",
+          "Charlemagne"
+        ],
+        "réponse": "Charlemagne",
+        "anecdote": "Le comté était la base des divisions territoriales réalisées pour délimiter un pagus, confié à un comte nommé par l'empereur."
+      }
+    ],
+    "expert": [
+      {
+        "id": 21,
+        "question": "Quel château arborant un style Renaissance est situé sur la commune de Villars ?",
+        "propositions": [
+          "Herm",
+          "Beynac",
+          "Monbazillac",
+          "Puyguilhem"
+        ],
+        "réponse": "Puyguilhem",
+        "anecdote": "En 1938, l'État a exproprié pour cause d'utilité publique son propriétaire (de Rastignac) qui a laissé le château tomber en ruine."
+      },
+      {
+        "id": 22,
+        "question": "Quelle commune du sud-ouest de la France est appelée la Venise du Périgord ?",
+        "propositions": [
+          "Trélissac",
+          "Brantôme",
+          "Coursac",
+          "Eymet"
+        ],
+        "réponse": "Brantôme",
+        "anecdote": "Le centre-ville s'inscrit sur une île de 300 mètres de diamètre formée par la Dronne, à l'origine du surnom de Venise du Périgord."
+      },
+      {
+        "id": 23,
+        "question": "Quelle cathédrale de Périgueux est classée monument historique depuis 1840 ?",
+        "propositions": [
+          "Saint-Caprais",
+          "Saint-Front",
+          "Saint-André",
+          "Saint-Nazaire"
+        ],
+        "réponse": "Saint-Front",
+        "anecdote": "Le carillon de Saint-Front a été enregistré en 1938 par la radio nationale comme annonce du programme religieux dominical."
+      },
+      {
+        "id": 24,
+        "question": "Quel écrivain et philosophe français est né en 1533 dans le Périgord ?",
+        "propositions": [
+          "Michel de Montaigne",
+          "Pierre Charron",
+          "Guillaume Bigot",
+          "Jean Bodin"
+        ],
+        "réponse": "Michel de Montaigne",
+        "anecdote": "Le plus souvent souffrant ou maladif, Michel de Montaigne a hâté ses écrits et a essayé de guérir en voyageant vers des lieux de cure."
+      },
+      {
+        "id": 25,
+        "question": "Par quel traité le Périgord est-il passé sous souveraineté anglaise ?",
+        "propositions": [
+          "Traité de Romans",
+          "Traité de Brétigny",
+          "Traité de Loudun",
+          "Traité du Crotoy"
+        ],
+        "réponse": "Traité de Brétigny",
+        "anecdote": "Le traité mit un terme aux quatre années de captivité à Londres de Jean II le Bon, prisonnier des Anglais depuis la bataille de Poitiers."
+      },
+      {
+        "id": 26,
+        "question": "Quels jardins de Vézac sont inscrits sur la liste des jardins remarquables ?",
+        "propositions": [
+          "Hautefort",
+          "Losse",
+          "Marqueyssac",
+          "Caudon"
+        ],
+        "réponse": "Marqueyssac",
+        "anecdote": "Sur les vingt-deux hectares du domaine de Marqueyssac, dix-neuf forment un site classé pour son intérêt pittoresque et historique."
+      },
+      {
+        "id": 27,
+        "question": "Quel château a servi de cadre au tournage de « Jeanne d'Arc » de Luc Besson ?",
+        "propositions": [
+          "Beynac",
+          "Chavagnac",
+          "Rastignac",
+          "Marzac"
+        ],
+        "réponse": "Beynac",
+        "anecdote": "Ce château, classé monument historique le 11 février 1944, est l'un des mieux conservés et l'un des plus réputés de la région."
+      },
+      {
+        "id": 28,
+        "question": "Dans quelle ville est né l'écrivain humaniste Étienne de La Boétie ?",
+        "propositions": [
+          "Sarlat",
+          "Montignac",
+          "Bergerac",
+          "Périgueux"
+        ],
+        "réponse": "Sarlat",
+        "anecdote": "La Boétie est célèbre pour son « Discours de la servitude volontaire » et fut l'ami de Montaigne qui lui rendit hommage dans ses « Essais »."
+      },
+      {
+        "id": 29,
+        "question": "Quel arbre a donné son nom au village de Limeuil, dans le Périgord pourpre ?",
+        "propositions": [
+          "Sapin",
+          "Orme",
+          "Chêne",
+          "Hêtre"
+        ],
+        "réponse": "Orme",
+        "anecdote": "Le préfixe lim vient du terme lemo qui signifie orme, et euil dérive du terme ialo désigne un espace découvert."
+      },
+      {
+        "id": 30,
+        "question": "Quel canal latéral à la Dordogne, long de 15 km, est situé en amont de Bergerac ?",
+        "propositions": [
+          "Canal de Lalinde",
+          "Canal des Landes",
+          "Canal du Lagoin",
+          "Canal des Moines"
+        ],
+        "réponse": "Canal de Lalinde",
+        "anecdote": "Le canal de Lalinde a été utilisé jusqu'à la Seconde Guerre mondiale malgré la concurrence du chemin de fer à partir de 1879."
+      }
+    ]
+    },
+    "en": {
+      "débutant": [
+      {
+        "id": 1,
+        "question": "Which of these colors does not mean a region of the Perigord ?",
+        "propositions": [
+          "Green",
+          "Blue",
+          "Purple",
+          "White"
+        ],
+        "réponse": "Blue",
+        "anecdote": "The Perigord name comes from the Gallic people of Pétrocores, « Petrocorii » in Gaul, which means four armies."
+      },
+      {
+        "id": 2,
+        "question": "What is the name of the inhabitants of the city of Perigueux ?",
+        "propositions": [
+          "Promontois",
+          "Periinsins",
+          "Périgourdins",
+          "Pirigueusois"
+        ],
+        "réponse": "Périgourdins",
+        "anecdote": "Labeled 4 flowers, Périgueux is the cultural and tourist capital of White Perigord, in the Valley Isle."
+      },
+      {
+        "id": 3,
+        "question": "In which department are the Périgord and its four regions registered ?",
+        "propositions": [
+          "Calvados",
+          "Vaucluse",
+          "Dordogne",
+          "Aveyron"
+        ],
+        "réponse": "Dordogne",
+        "anecdote": "The Dordogne, the third largest French metropolitan area, is part of the Nouvelle-Aquitaine region."
+      },
+      {
+        "id": 4,
+        "question": "What culinary specialty of Périgord comes from fattening by gavage ?",
+        "propositions": [
+          "Foie gras",
+          "Beef white",
+          "Jar hair",
+          "Propolis"
+        ],
+        "réponse": "Foie gras",
+        "anecdote": "Foie gras is consumed raw, half-cooked or cooked, and can be proposed in the form of fresh or canned product."
+      },
+      {
+        "id": 5,
+        "question": "What Paleolithic painted cave is located in the Vézère Valley ?",
+        "propositions": [
+          "Niaux",
+          "Lascaux",
+          "Cussac",
+          "Razet"
+        ],
+        "réponse": "Lascaux",
+        "anecdote": "The paintings and engravings it contains could not be precise direct dating : about 18 000 and 17 000 years."
+      },
+      {
+        "id": 6,
+        "question": "What the White Perigord region should it mainly his name ?",
+        "propositions": [
+          "Sugar",
+          "Honey",
+          "Sand",
+          "Pierre"
+        ],
+        "réponse": "Pierre",
+        "anecdote": "It occupies the territories of the natural regions of Ribéracois, central Perigord, the Double and part of the Landais."
+      },
+      {
+        "id": 7,
+        "question": "What confit is best eaten with potatoes à la sarladaise ?",
+        "propositions": [
+          "Confit removes",
+          "Confit of wine",
+          "Confit of flowers",
+          "Confit of duck"
+        ],
+        "réponse": "Confit of duck",
+        "anecdote": "It is prepared with fat birds, fattened by gavage, the same ones used to produce duck breast and foie gras."
+      },
+      {
+        "id": 8,
+        "question": "With its large grain fields, what nickname is given to the White Périgord ?",
+        "propositions": [
+          "Attic of Périgord",
+          "Cave of Périgord",
+          "Salon of the Périgord",
+          "Garden of Périgord"
+        ],
+        "réponse": "Attic of Périgord",
+        "anecdote": "White Perigord, old natural region corresponded to the limestone plateaus of Ribérac and Verteillac."
+      },
+      {
+        "id": 9,
+        "question": "Around which city do the vineyards of purple Perigord unfold ?",
+        "propositions": [
+          "Montignac",
+          "Bergerac",
+          "Le Bugue",
+          "Thiviers"
+        ],
+        "réponse": "Bergerac",
+        "anecdote": "1 200 winegrowers cultivate an area of 12 000 hectares, producing red, white, soft, sweet and rosy."
+      },
+      {
+        "id": 10,
+        "question": "What produce, in AOC classification, 612 communes of Périgord ?",
+        "propositions": [
+          "Beans",
+          "Apples",
+          "Nuts",
+          "Lemons"
+        ],
+        "réponse": "Nuts",
+        "anecdote": "Perigord nut is an appellation of origin that means fresh or early-season nuts, dried nuts and walnut kernels."
+      }
+    ],
+    "confirmé": [
+      {
+        "id": 11,
+        "question": "Around which city does the Black Perigord grow mainly ?",
+        "propositions": [
+          "Montignac",
+          "Sarlat-la-Caneda",
+          "Perigueux",
+          "Bergerac"
+        ],
+        "réponse": "Sarlat-la-Caneda",
+        "anecdote": "This historic city is a major tourist site, renamed for its monumental finery dating back to the medieval period."
+      },
+      {
+        "id": 12,
+        "question": "Which of the Perigord wines include Cabernet Franc, Cabernet Sauvignon and Merlot ?",
+        "propositions": [
+          "Bergerac",
+          "Saumur",
+          "Buzet",
+          "Tavel"
+        ],
+        "réponse": "Bergerac",
+        "anecdote": "Like most appellations around the world, Bergerac red wines can be fruit wines to drink fast enough."
+      },
+      {
+        "id": 13,
+        "question": "What is historically the oldest of the four appellations of the Perigord ?",
+        "propositions": [
+          "Purple",
+          "Green",
+          "White",
+          "Black"
+        ],
+        "réponse": "Black",
+        "anecdote": "The Black Perigord takes its name from the important forests of very dark green oaks and initially has nothing to do with truffles."
+      },
+      {
+        "id": 14,
+        "question": "What former receiver of the Duke of Burgundy possesses a castle to his name ?",
+        "propositions": [
+          "Du Moulin",
+          "Mascaron",
+          "Fabricius",
+          "Fenelon"
+        ],
+        "réponse": "Fenelon",
+        "anecdote": "The Château de Fenelon is located in Sainte-Mondane in the Dordogne department of New Aquitaine."
+      },
+      {
+        "id": 15,
+        "question": "Which region of Périgord covers the granitic part of the Dordogne ?",
+        "propositions": [
+          "White",
+          "Purple",
+          "Green",
+          "Black"
+        ],
+        "réponse": "Green",
+        "anecdote": "The Nontronnais is a natural region located north of the department of Dordogne, in the New Aquitaine region."
+      },
+      {
+        "id": 16,
+        "question": "Which castle of Dordogne is evoked in « Jacquou le Croquant » ?",
+        "propositions": [
+          "Castle of Ormes",
+          "Castle of Beynac",
+          "Castle of Puivert",
+          "Castle of the Herm"
+        ],
+        "réponse": "Castle of the Herm",
+        "anecdote": "Most of the places described in the novel actually exist, on the right bank of the Vézère Valley, in Périgord."
+      },
+      {
+        "id": 17,
+        "question": "What type of subterranean or dug habitat is found in Perigord ?",
+        "propositions": [
+          "Antique",
+          "Nomad",
+          "Troglodyte",
+          "Amerindian"
+        ],
+        "réponse": "Troglodyte",
+        "anecdote": "From rock shelter to castle or underground city, this architecture has a temporary or permanent habitat function."
+      },
+      {
+        "id": 18,
+        "question": "What old medieval country house is located in the district of Sarlat ?",
+        "propositions": [
+          "Douville",
+          "Dussac",
+          "Domme",
+          "Daglan"
+        ],
+        "réponse": "Domme",
+        "anecdote": "The bastide town of Domme, perched on a cliff 210 meters above sea level, dominates the Dordogne more than a hundred meters."
+      },
+      {
+        "id": 19,
+        "question": "Which castle is surrounded by a famous vineyard, facing Bergerac ?",
+        "propositions": [
+          "Montardier",
+          "Monbazillac",
+          "Magny",
+          "Marfontaine"
+        ],
+        "réponse": "Monbazillac",
+        "anecdote": "Around 1550, the castle was built in a single shot by Charles d'Aydie on a simple plan: a rectangle and four circular towers."
+      },
+      {
+        "id": 20,
+        "question": "Under which king did the notion of county appear for Périgord ?",
+        "propositions": [
+          "Charles VI",
+          "Henri IV",
+          "Charlemagne",
+          "Louis the Pious"
+        ],
+        "réponse": "Charlemagne",
+        "anecdote": "The county was the base of the territorial divisions made to delimit a pagus, entrusted to a count named by the emperor."
+      }
+    ],
+    "expert": [
+      {
+        "id": 21,
+        "question": "Which castle with a Renaissance style is located in Villars ?",
+        "propositions": [
+          "Monbazillac",
+          "Puyguilhem",
+          "Herm",
+          "Beynac"
+        ],
+        "réponse": "Puyguilhem",
+        "anecdote": "In 1938, the state expropriated for public utility its owner (de Rastignac) who let the castle fall into ruin."
+      },
+      {
+        "id": 22,
+        "question": "Which commune in southwestern France is called the Venice of Périgord ?",
+        "propositions": [
+          "Coursac",
+          "Eymet",
+          "Trelissac",
+          "Brantome"
+        ],
+        "réponse": "Brantome",
+        "anecdote": "The city center is part of an island of 300 meters in diameter formed by the Dronne, the origin of the nickname of Venice of Périgord."
+      },
+      {
+        "id": 23,
+        "question": "Which cathedral of Périgueux is classified as a historical monument since 1840 ?",
+        "propositions": [
+          "Saint-Caprais",
+          "St. Andre",
+          "Saint-Front",
+          "Saint-Nazaire"
+        ],
+        "réponse": "Saint-Front",
+        "anecdote": "The carillon of Saint-Front was recorded in 1938 by the national radio as an announcement of the Sunday religious program."
+      },
+      {
+        "id": 24,
+        "question": "What French writer and philosopher was born in 1533 in the Périgord ?",
+        "propositions": [
+          "Guillaume Bigot",
+          "Jean Bodin",
+          "Michel de Montaigne",
+          "Pierre Charron"
+        ],
+        "réponse": "Michel de Montaigne",
+        "anecdote": "Most often suffering or sick, Michel de Montaigne hastened his writings and tried to heal while traveling to places of cure."
+      },
+      {
+        "id": 25,
+        "question": "By what treaty did the Perigord pass under English sovereignty ?",
+        "propositions": [
+          "Treaty of Bretigny",
+          "Treaty of Romans",
+          "Treaty of Crotoy",
+          "Treaty of Loudun"
+        ],
+        "réponse": "Treaty of Bretigny",
+        "anecdote": "The treaty put an end to the four years of captivity in London of John II the Good, prisoner of the English since the battle of Poitiers."
+      },
+      {
+        "id": 26,
+        "question": "Which Vézac gardens are on the list of remarkable gardens ?",
+        "propositions": [
+          "Losse",
+          "Hautefort",
+          "Marqueyssac",
+          "Caudon"
+        ],
+        "réponse": "Marqueyssac",
+        "anecdote": "Of the twenty-two hectares of the Marqueyssac estate, nineteen form a site classified for its picturesque and historical interest."
+      },
+      {
+        "id": 27,
+        "question": "Which castle served as the setting for Luc Besson's « Jeanne d'Arc » shoot ?",
+        "propositions": [
+          "Marzac",
+          "Beynac",
+          "Chavagnac",
+          "Rastignac"
+        ],
+        "réponse": "Beynac",
+        "anecdote": "This castle, listed as a historic monument on February 11, 1944, is one of the best preserved and one of the most renowned in the region."
+      },
+      {
+        "id": 28,
+        "question": "In which city was born the humanist writer Étienne de La Boétie ?",
+        "propositions": [
+          "Bergerac",
+          "Sarlat",
+          "Périgueux",
+          "Montignac"
+        ],
+        "réponse": "Sarlat",
+        "anecdote": "Boétie is famous for his « Speech of Voluntary Servitude » and was the friend of Montaigne who paid homage to him in his « Essays »."
+      },
+      {
+        "id": 29,
+        "question": "Which tree gave its name to the village of Limeuil, in the purple Perigord ?",
+        "propositions": [
+          "Orme",
+          "Fir tree",
+          "Oak",
+          "Be"
+        ],
+        "réponse": "Orme",
+        "anecdote": "The prefix lim comes from the term lemo which means elm, and the term derives from the term ialo denotes an open space."
+      },
+      {
+        "id": 30,
+        "question": "What side channel to the Dordogne, 15 km long, is located upstream of Bergerac ?",
+        "propositions": [
+          "Canal of the Landes",
+          "Lagoin Canal",
+          "Lalinde Canal",
+          "Canal des Moines"
+        ],
+        "réponse": "Lalinde Canal",
+        "anecdote": "The Lalinde Canal was used until World War II despite the competition of the railway from 1879."
+      }
+    ]
+    },
+    "de": {
+      "débutant": [
+      {
+        "id": 1,
+        "question": "Welche dieser Farben bedeutet keine Region des Perigord ?",
+        "propositions": [
+          "Lila",
+          "Blau",
+          "Weiß",
+          "Grün"
+        ],
+        "réponse": "Blau",
+        "anecdote": "Der Name Perigord kommt aus dem gallischen Volk Pétrocores, « Petrocorii » in Gallien, die vier Armeen bedeuten."
+      },
+      {
+        "id": 2,
+        "question": "Wie heißen die Einwohner der Stadt Perigueux ?",
+        "propositions": [
+          "Periinsine",
+          "Périgourdins",
+          "Promontois",
+          "Pirigueusois"
+        ],
+        "réponse": "Périgourdins",
+        "anecdote": "Beschriftete 4 Blumen, ist Périgueux die kulturelle und touristische Hauptstadt des weißen Perigord, in der Valley Isle."
+      },
+      {
+        "id": 3,
+        "question": "In welcher Abteilung sind das Périgord und seine vier Regionen registriert ?",
+        "propositions": [
+          "Vaucluse",
+          "Dordogne",
+          "Calvados",
+          "Aveyron"
+        ],
+        "réponse": "Dordogne",
+        "anecdote": "Die Dordogne, die drittgrößte französische Metropolregion, gehört zur Region Nouvelle-Aquitaine."
+      },
+      {
+        "id": 4,
+        "question": "Welche kulinarische Spezialität von Périgord kommt aus der Schluckmast ?",
+        "propositions": [
+          "Rindfleisch weiß",
+          "Gänseleber",
+          "Propolis",
+          "Jar Haare"
+        ],
+        "réponse": "Gänseleber",
+        "anecdote": "Foie Gras wird roh, halbgekocht oder gekocht verzehrt und kann in Form von frischem oder konserviertem Produkt angeboten werden."
+      },
+      {
+        "id": 5,
+        "question": "Was Altsteinzeit gemalt Höhle liegt im Vézère-Tal ?",
+        "propositions": [
+          "Niaux",
+          "Lascaux",
+          "Razet",
+          "Cussac"
+        ],
+        "réponse": "Lascaux",
+        "anecdote": "Die Gemälde und Stiche es enthält nicht präzise direkte Datierung sein könnte : etwa 18 000 und 17 000 Jahre."
+      },
+      {
+        "id": 6,
+        "question": "Was das Weiße Perigord Region sollte es vor allem sein Name ?",
+        "propositions": [
+          "Zucker",
+          "Honig",
+          "Sand",
+          "Pierre"
+        ],
+        "réponse": "Pierre",
+        "anecdote": "Es nimmt die Gebiete der Naturregionen Ribéracois, Zentral Perigord, Double und ein Teil des Landais."
+      },
+      {
+        "id": 7,
+        "question": "Welches Confit passt am besten zu Kartoffeln à la sarladaise ?",
+        "propositions": [
+          "Confit von Blumen",
+          "Confit der Ente",
+          "Confit von Wein",
+          "Confit entfernt"
+        ],
+        "réponse": "Confit der Ente",
+        "anecdote": "Es wird mit fetten, mit Magensonde gemästeten Vögeln zubereitet, die auch zur Herstellung von Entenbrust und Foie Gras verwendet werden."
+      },
+      {
+        "id": 8,
+        "question": "Mit seinen großen Getreidefeldern, welche Spitznamen wird zum Weiß Périgord gegeben ?",
+        "propositions": [
+          "Höhle von Périgord",
+          "Dachboden von Périgord",
+          "Garten des Périgord",
+          "Salon des Périgord"
+        ],
+        "réponse": "Dachboden von Périgord",
+        "anecdote": "Weiß Perigord, alte Naturregion entsprach den Kalkalpenplateaus von Ribérac und Verteillac."
+      },
+      {
+        "id": 9,
+        "question": "Um welche Stadt erstrecken sich die Weinberge des Purpur-Perigords ?",
+        "propositions": [
+          "Bergerac",
+          "Montignac",
+          "Thiviers",
+          "Le Bugue"
+        ],
+        "réponse": "Bergerac",
+        "anecdote": "1 200 Winzer pflegen eine Fläche von 12 000 Hektar, rot, weiß, weich, süß und rosig zu erzeugen."
+      },
+      {
+        "id": 10,
+        "question": "Was produzieren in der AOC-Klassifikation 612 Gemeinden von Périgord ?",
+        "propositions": [
+          "Bohnen",
+          "Zitronen",
+          "Muttern",
+          "Äpfel"
+        ],
+        "réponse": "Muttern",
+        "anecdote": "Perigordnuss ist eine Ursprungsbezeichnung, die frische oder frühe Nüsse, getrocknete Nüsse und Walnusskerne bedeutet."
+      }
+    ],
+    "confirmé": [
+      {
+        "id": 11,
+        "question": "Um welche Stadt wächst das Schwarze Perigord hauptsächlich ?",
+        "propositions": [
+          "Montignac",
+          "Perigueux",
+          "Bergerac",
+          "Sarlat-la-Caneda"
+        ],
+        "réponse": "Sarlat-la-Caneda",
+        "anecdote": "Diese historische Stadt ist eine bedeutende Touristenattraktion, die für ihre monumentale Dekoration aus dem Mittelalter umbenannt wurde."
+      },
+      {
+        "id": 12,
+        "question": "Zu welchen Périgord-Weinen gehören Cabernet Franc, Cabernet Sauvignon und Merlot ?",
+        "propositions": [
+          "Bergerac",
+          "Saumur",
+          "Buzet",
+          "Tavel"
+        ],
+        "réponse": "Bergerac",
+        "anecdote": "Wie die meisten Appellationen auf der Welt können Bergerac-Rotweine Fruchtweine sein, um schnell genug zu trinken."
+      },
+      {
+        "id": 13,
+        "question": "Was ist historisch die älteste der vier Appellationen des Périgord ?",
+        "propositions": [
+          "Lila",
+          "Schwarz",
+          "Weiß",
+          "Grün"
+        ],
+        "réponse": "Schwarz",
+        "anecdote": "Das Schwarze Perigord hat seinen Namen von den wichtigen Wäldern sehr dunkelgrüner Eichen und hat zunächst nichts mit Trüffeln zu tun."
+      },
+      {
+        "id": 14,
+        "question": "Welcher ehemalige Empfänger des Herzogs von Burgund besitzt eine Burg nach seinem Namen ?",
+        "propositions": [
+          "Du Moulin",
+          "Mascaron",
+          "Fenelon",
+          "Fabricius"
+        ],
+        "réponse": "Fenelon",
+        "anecdote": "Das Château de Fenelon befindet sich in Sainte-Mondane im Departement Dordogne in Neu-Aquitanien."
+      },
+      {
+        "id": 15,
+        "question": "Welche Region des Périgord deckt den granitischen Teil der Dordogne ab ?",
+        "propositions": [
+          "Weiß",
+          "Grün",
+          "Schwarz",
+          "Lila"
+        ],
+        "réponse": "Grün",
+        "anecdote": "Das Nontronnais ist eine natürliche Region nördlich des Departements Dordogne in der Region New Aquitaine."
+      },
+      {
+        "id": 16,
+        "question": "Welches Schloss der Dordogne wird in « Jacquou le Croquant » erwähnt ?",
+        "propositions": [
+          "Schloss von Ormes",
+          "Schloss des Herm",
+          "Schloss von Beynac",
+          "Schloss von Puivert"
+        ],
+        "réponse": "Schloss des Herm",
+        "anecdote": "Die meisten der im Roman beschriebenen Orte befinden sich tatsächlich am rechten Ufer des Vézère-Tals im Périgord."
+      },
+      {
+        "id": 17,
+        "question": "Welche Art von unterirdischem oder ausgegrabenem Lebensraum findet man in Périgord ?",
+        "propositions": [
+          "Indianer",
+          "Höhlenbewohner",
+          "Antik",
+          "Nomad"
+        ],
+        "réponse": "Höhlenbewohner",
+        "anecdote": "Diese Architektur hat eine vorübergehende oder dauerhafte Funktion als Lebensraum, von der Schutzhütte über die Burg bis zur unterirdischen Stadt."
+      },
+      {
+        "id": 18,
+        "question": "Welches alte mittelalterliche Landhaus befindet sich im Stadtteil Sarlat ?",
+        "propositions": [
+          "Douville",
+          "Domme",
+          "Dussac",
+          "Daglan"
+        ],
+        "réponse": "Domme",
+        "anecdote": "Die Bastidenstadt Domme thront auf einer Klippe auf 210 Metern Höhe und beherrscht die Dordogne über hundert Meter."
+      },
+      {
+        "id": 19,
+        "question": "Welches Schloss ist von einem berühmten Weinberg umgeben, gegenüber Bergerac ?",
+        "propositions": [
+          "Magny",
+          "Marfontaine",
+          "Montardier",
+          "Monbazillac"
+        ],
+        "réponse": "Monbazillac",
+        "anecdote": "Um 1550 wurde die Burg in einem einzigen Schuss von Charles d'Aydie nach einem einfachen Plan erbaut: einem Rechteck und vier runden Türmen."
+      },
+      {
+        "id": 20,
+        "question": "Unter welchem  ? ?König tauchte der Grafschaftsbegriff für das Perigord auf ?",
+        "propositions": [
+          "Karl der Große",
+          "Karl VI",
+          "Henri IV",
+          "Ludwig der Fromme"
+        ],
+        "réponse": "Karl der Große",
+        "anecdote": "Die Grafschaft war die Basis der Gebietsabteilungen, die zur Abgrenzung eines Pagus errichtet wurden und einem vom Kaiser benannten Grafen anvertraut waren."
+      }
+    ],
+    "expert": [
+      {
+        "id": 21,
+        "question": "Welches Renaissanceschloss befindet sich in Villars ?",
+        "propositions": [
+          "Herm",
+          "Monbazillac",
+          "Beynac",
+          "Puyguilhem"
+        ],
+        "réponse": "Puyguilhem",
+        "anecdote": "1938 enteignete der Staat seinen Eigentümer (de Rastignac), der die Burg in Schutt und Asche legte."
+      },
+      {
+        "id": 22,
+        "question": "Welche Gemeinde im Südwesten Frankreichs heißt das Venedig des Périgord ?",
+        "propositions": [
+          "Eymet",
+          "Coursac",
+          "Brantome",
+          "Trelissac"
+        ],
+        "réponse": "Brantome",
+        "anecdote": "Das Stadtzentrum ist Teil einer Insel mit einem Durchmesser von 300 Metern, die von der Dronne, dem Ursprung des Spitznamens von Venedig im Périgord, gebildet wird."
+      },
+      {
+        "id": 23,
+        "question": "Welche Kathedrale von Périgueux steht seit 1840 unter Denkmalschutz ?",
+        "propositions": [
+          "Saint-Nazaire",
+          "Saint-Front",
+          "St. Andre",
+          "Saint-Caprais"
+        ],
+        "réponse": "Saint-Front",
+        "anecdote": "Das Glockenspiel von Saint-Front wurde 1938 vom nationalen Rundfunk als Ankündigung des sonntäglichen religiösen Programms aufgenommen."
+      },
+      {
+        "id": 24,
+        "question": "Welcher französische Schriftsteller und Philosoph wurde 1533 im Périgord geboren ?",
+        "propositions": [
+          "Pierre Charron",
+          "Guillaume Bigot",
+          "Jean Bodin",
+          "Michel de Montaigne"
+        ],
+        "réponse": "Michel de Montaigne",
+        "anecdote": "Michel de Montaigne, der am häufigsten leidet oder krank ist, hat seine Schriften beschleunigt und versucht, auf Reisen zu Heilungsorten zu heilen."
+      },
+      {
+        "id": 25,
+        "question": "Nach welchem Vertrag unterlag das Perigord der englischen Souveränität ?",
+        "propositions": [
+          "Vertrag von Bretigny",
+          "Vertrag von Loudun",
+          "Vertrag von Crotoy",
+          "Vertrag von Romans"
+        ],
+        "réponse": "Vertrag von Bretigny",
+        "anecdote": "Der Vertrag beendete die vierjährige Gefangenschaft von Johannes II. Dem Guten in London, dem Gefangenen der Engländer seit der Schlacht von Poitiers."
+      },
+      {
+        "id": 26,
+        "question": "Welche Vézac-Gärten stehen auf der Liste der bemerkenswerten Gärten ?",
+        "propositions": [
+          "Losse",
+          "Marqueyssac",
+          "Hautefort",
+          "Caudon"
+        ],
+        "réponse": "Marqueyssac",
+        "anecdote": "Von den 22 Hektar des Marqueyssac-Anwesens bilden 19 einen Ort, der für sein malerisches und historisches Interesse klassifiziert ist."
+      },
+      {
+        "id": 27,
+        "question": "Welches Schloss diente Luc Bessons « Jeanne d'Arc » als Kulisse ?",
+        "propositions": [
+          "Marzac",
+          "Beynac",
+          "Rastignac",
+          "Chavagnac"
+        ],
+        "réponse": "Beynac",
+        "anecdote": "Dieses am 11. Februar 1944 unter Denkmalschutz gestellte Schloss ist eines der am besten erhaltenen und bekanntesten in der Region."
+      },
+      {
+        "id": 28,
+        "question": "In welcher Stadt wurde der humanistische Schriftsteller Étienne de La Boétie geboren ?",
+        "propositions": [
+          "Sarlat",
+          "Bergerac",
+          "Périgueux",
+          "Montignac"
+        ],
+        "réponse": "Sarlat",
+        "anecdote": "Boétie ist berühmt für seine « Rede der freiwilligen Knechtschaft » und war der Freund von Montaigne, der ihm in seinen « Essays » Tribut zollte."
+      },
+      {
+        "id": 29,
+        "question": "Welcher Baum hat dem Dorf Limeuil im violetten Perigord seinen Namen gegeben ?",
+        "propositions": [
+          "Orme",
+          "Eiche",
+          "Sein",
+          "Tannenbaum"
+        ],
+        "réponse": "Orme",
+        "anecdote": "Das Präfix lim stammt von dem Begriff lemo, der Ulme bedeutet, und der Begriff leitet sich von dem Begriff ialo ab, der einen offenen Raum bezeichnet."
+      },
+      {
+        "id": 30,
+        "question": "Welcher Seitenkanal der Dordogne, der 15 km lang ist, befindet sich stromaufwärts von Bergerac ?",
+        "propositions": [
+          "Canal des Moines",
+          "Lalinde-Kanal",
+          "Kanal der Landes",
+          "Lagoin-Kanal"
+        ],
+        "réponse": "Lalinde-Kanal",
+        "anecdote": "Der Lalinde-Kanal wurde trotz der Konkurrenz der Eisenbahn von 1879 bis zum Zweiten Weltkrieg benutzt."
+      }
+    ]
+    },
+    "es": {
+      "débutant": [
+      {
+        "id": 1,
+        "question": "¿Cuál de estos colores no significa una región del Perigord ?",
+        "propositions": [
+          "Azul",
+          "Verde",
+          "Blanco",
+          "Púrpura"
+        ],
+        "réponse": "Azul",
+        "anecdote": "El nombre proviene de las Perigord pueblo galo de Pétrocores, « Petrocorii » en la Galia, lo que significa cuatro ejércitos."
+      },
+      {
+        "id": 2,
+        "question": "¿Cómo se llaman los habitantes de la ciudad de Périgueux ?",
+        "propositions": [
+          "Periinsinas",
+          "Pirigueusois",
+          "Promontois",
+          "Périgourdins"
+        ],
+        "réponse": "Périgourdins",
+        "anecdote": "Etiquetada 4 flores, Périgueux es la capital cultural y turística de White Perigord, en la Isla del Valle."
+      },
+      {
+        "id": 3,
+        "question": "¿En qué departamento están registrados el Périgord y sus cuatro regiones ?",
+        "propositions": [
+          "Dordoña",
+          "Vaucluse",
+          "Calvados",
+          "Aveyron"
+        ],
+        "réponse": "Dordoña",
+        "anecdote": "La Dordoña, la tercera área metropolitana francesa más grande, es parte de la región de Nouvelle-Aquitaine."
+      },
+      {
+        "id": 4,
+        "question": "¿Qué especialidad culinaria del Périgord proviene del engorde por cebo ?",
+        "propositions": [
+          "Jar pelo",
+          "Propóleos",
+          "Carne blanca",
+          "Foie gras"
+        ],
+        "réponse": "Foie gras",
+        "anecdote": "El foie gras se consume crudo, medio cocido o cocido, y se puede proponer en forma de producto fresco o enlatado."
+      },
+      {
+        "id": 5,
+        "question": "Lo cueva pintada Paleolítico se encuentra en el valle de Vézère ?",
+        "propositions": [
+          "Niaux",
+          "Lascaux",
+          "Cussac",
+          "Razet"
+        ],
+        "réponse": "Lascaux",
+        "anecdote": "Las pinturas y grabados que contiene no podría ser datación directa precisa : cerca de 18 000 y 17 000 años."
+      },
+      {
+        "id": 6,
+        "question": "Lo que la región de Périgord blanco debe principalmente a que su nombre ?",
+        "propositions": [
+          "Azúcar",
+          "Miel",
+          "Arena",
+          "Pierre"
+        ],
+        "réponse": "Pierre",
+        "anecdote": "Que ocupa los territorios de las regiones naturales de Ribéracois, el centro de Périgord, el doble y parte de la Landais."
+      },
+      {
+        "id": 7,
+        "question": "¿Qué confit se come mejor con papas a la sarlada ?",
+        "propositions": [
+          "Confit de pato",
+          "Confitado de flores",
+          "Confitado de vino",
+          "Confit elimina"
+        ],
+        "réponse": "Confit de pato",
+        "anecdote": "Se prepara con aves gordas, engordadas por gavage, las mismas que se usan para producir pechuga de pato y foie gras."
+      },
+      {
+        "id": 8,
+        "question": "Con sus grandes campos de cereales, lo que apodo se le da al Périgord negro ?",
+        "propositions": [
+          "Atico del Périgord",
+          "Cueva del Périgord",
+          "Jardín del Périgord",
+          "Salón del Périgord"
+        ],
+        "réponse": "Atico del Périgord",
+        "anecdote": "Perigord blanco, viejo región natural correspondió a las mesetas calcáreas de Ribérac y Verteillac."
+      },
+      {
+        "id": 9,
+        "question": "¿Alrededor de qué ciudad se desarrollan los viñedos del Perigord púrpura ?",
+        "propositions": [
+          "Montignac",
+          "Le Bugue",
+          "Thiviers",
+          "Bergerac"
+        ],
+        "réponse": "Bergerac",
+        "anecdote": "1 200 viticultores cultivan una superficie de 12 000 hectáreas, la producción de rojo, blanco, suave, dulce y de color de rosa."
+      },
+      {
+        "id": 10,
+        "question": "¿Qué produce, en la clasificación AOC, 612 comunas de Périgord ?",
+        "propositions": [
+          "Manzanas",
+          "Limones",
+          "Nueces",
+          "Frijoles"
+        ],
+        "réponse": "Nueces",
+        "anecdote": "La nuez de Perigord es una denominación de origen que significa nueces frescas o de temporada temprana, nueces secas y nueces."
+      }
+    ],
+    "confirmé": [
+      {
+        "id": 11,
+        "question": "¿Alrededor de qué ciudad crece principalmente el Perigord negro ?",
+        "propositions": [
+          "Bergerac",
+          "Montignac",
+          "Perigueux",
+          "Sarlat-la-Caneda"
+        ],
+        "réponse": "Sarlat-la-Caneda",
+        "anecdote": "Esta ciudad histórica es un importante sitio turístico, renombrado por su decoración monumental que data del período medieval."
+      },
+      {
+        "id": 12,
+        "question": "¿Cuál de los vinos del Périgord incluye Cabernet Franc, Cabernet Sauvignon y Merlot ?",
+        "propositions": [
+          "Tavel",
+          "Saumur",
+          "Buzet",
+          "Bergerac"
+        ],
+        "réponse": "Bergerac",
+        "anecdote": "Como la mayoría de las denominaciones en todo el mundo, los vinos tintos de Bergerac pueden ser vinos de frutas para beber lo suficientemente rápido."
+      },
+      {
+        "id": 13,
+        "question": "¿Cuál es históricamente la más antigua de las cuatro denominaciones del Périgord ?",
+        "propositions": [
+          "Verde",
+          "Blanco",
+          "Púrpura",
+          "Negro"
+        ],
+        "réponse": "Negro",
+        "anecdote": "El Perigord Negro toma su nombre de los importantes bosques de robles muy oscuros e inicialmente no tiene nada que ver con las trufas."
+      },
+      {
+        "id": 14,
+        "question": "¿Qué antiguo receptor del duque de Borgoña posee un castillo a su nombre ?",
+        "propositions": [
+          "Mascaron",
+          "Du Moulin",
+          "Fenelon",
+          "Fabricius"
+        ],
+        "réponse": "Fenelon",
+        "anecdote": "El Château de Fenelon se encuentra en Sainte-Mondane, en el departamento de Dordoña de Nueva Aquitania."
+      },
+      {
+        "id": 15,
+        "question": "¿Qué región del Périgord cubre la parte granítica de Dordoña ?",
+        "propositions": [
+          "Púrpura",
+          "Verde",
+          "Blanco",
+          "Negro"
+        ],
+        "réponse": "Verde",
+        "anecdote": "El Nontronnais es una región natural ubicada al norte del departamento de Dordoña, en la región de Nueva Aquitania."
+      },
+      {
+        "id": 16,
+        "question": "¿Qué castillo de Dordoña se evoca en « Jacquou le Croquant » ?",
+        "propositions": [
+          "Castillo de Beynac",
+          "Castillo de ormes",
+          "Castillo de Puivert",
+          "Castillo de la Herm"
+        ],
+        "réponse": "Castillo de la Herm",
+        "anecdote": "La mayoría de los lugares descritos en la novela en realidad existen, en la margen derecha del valle de Vézère, en Périgord."
+      },
+      {
+        "id": 17,
+        "question": "¿Qué tipo de hábitat subterráneo o excavado se encuentra en Perigord ?",
+        "propositions": [
+          "Troglodita",
+          "Antiguo",
+          "Nómada",
+          "Amerindio"
+        ],
+        "réponse": "Troglodita",
+        "anecdote": "Desde el refugio de rocas hasta el castillo o la ciudad subterránea, esta arquitectura tiene una función de hábitat temporal o permanente."
+      },
+      {
+        "id": 18,
+        "question": "¿Qué antigua casa de campo medieval se encuentra en el distrito de Sarlat ?",
+        "propositions": [
+          "Dussac",
+          "Douville",
+          "Domme",
+          "Daglan"
+        ],
+        "réponse": "Domme",
+        "anecdote": "La ciudad bastide de Domme, encaramada en un acantilado a 210 metros sobre el nivel del mar, domina la Dordoña a más de cien metros."
+      },
+      {
+        "id": 19,
+        "question": "¿Qué castillo está rodeado por un famoso viñedo, frente a Bergerac ?",
+        "propositions": [
+          "Montardier",
+          "Marfontaine",
+          "Monbazillac",
+          "Magny"
+        ],
+        "réponse": "Monbazillac",
+        "anecdote": "Alrededor de 1550, el castillo fue construido en un solo disparo por Charles d'Aydie en un plan simple: un rectángulo y cuatro torres circulares."
+      },
+      {
+        "id": 20,
+        "question": "¿Bajo qué rey apareció la noción de condado para Périgord ?",
+        "propositions": [
+          "Henri IV",
+          "Carlomagno",
+          "Carlos VI",
+          "Louis el piadoso"
+        ],
+        "réponse": "Carlomagno",
+        "anecdote": "El condado era la base de las divisiones territoriales hechas para delimitar un pagus, confiado a un conde nombrado por el emperador."
+      }
+    ],
+    "expert": [
+      {
+        "id": 21,
+        "question": "¿Qué castillo de estilo renacentista se encuentra en Villars ?",
+        "propositions": [
+          "Herm",
+          "Beynac",
+          "Monbazillac",
+          "Puyguilhem"
+        ],
+        "réponse": "Puyguilhem",
+        "anecdote": "En 1938, el estado expropió para utilidad pública a su propietario (de Rastignac) que dejó que el castillo cayera en la ruina."
+      },
+      {
+        "id": 22,
+        "question": "¿Qué comuna en el suroeste de Francia se llama la Venecia del Périgord ?",
+        "propositions": [
+          "Trelissac",
+          "Eymet",
+          "Brantome",
+          "Coursac"
+        ],
+        "réponse": "Brantome",
+        "anecdote": "El centro de la ciudad es parte de una isla de 300 metros de diámetro formada por el Dronne, el origen del apodo de Venecia de Périgord."
+      },
+      {
+        "id": 23,
+        "question": "¿Qué catedral de Périgueux está clasificada como monumento histórico desde 1840 ?",
+        "propositions": [
+          "San Andrés",
+          "Saint-Nazaire",
+          "Saint-Front",
+          "Saint-Caprais"
+        ],
+        "réponse": "Saint-Front",
+        "anecdote": "El carillón de Saint-Front fue grabado en 1938 por la radio nacional como un anuncio del programa religioso dominical."
+      },
+      {
+        "id": 24,
+        "question": "¿Qué escritor y filósofo francés nació en 1533 en el Périgord ?",
+        "propositions": [
+          "Guillaume Bigot",
+          "Pierre Charron",
+          "Michel de Montaigne",
+          "Jean Bodin"
+        ],
+        "réponse": "Michel de Montaigne",
+        "anecdote": "Con mayor frecuencia sufriendo o enfermo, Michel de Montaigne aceleró sus escritos y trató de sanar mientras viajaba a lugares de cura."
+      },
+      {
+        "id": 25,
+        "question": "¿Por qué tratado pasó el Perigord bajo la soberanía inglesa ?",
+        "propositions": [
+          "Tratado de Loudun",
+          "Tratado de Romans",
+          "Tratado de Bretigny",
+          "Tratado de Crotoy"
+        ],
+        "réponse": "Tratado de Bretigny",
+        "anecdote": "El tratado puso fin a los cuatro años de cautiverio en Londres de Juan II el Bueno, prisionero de los ingleses desde la batalla de Poitiers."
+      },
+      {
+        "id": 26,
+        "question": "¿Qué jardines Vézac están en la lista de jardines notables ?",
+        "propositions": [
+          "Caudon",
+          "Hautefort",
+          "Marqueyssac",
+          "Losse"
+        ],
+        "réponse": "Marqueyssac",
+        "anecdote": "De las veintidós hectáreas de la finca Marqueyssac, diecinueve forman un sitio clasificado por su interés pintoresco e histórico."
+      },
+      {
+        "id": 27,
+        "question": "¿Qué castillo sirvió de escenario para el rodaje de « Jeanne d'Arc » de Luc Besson ?",
+        "propositions": [
+          "Chavagnac",
+          "Marzac",
+          "Beynac",
+          "Rastignac"
+        ],
+        "réponse": "Beynac",
+        "anecdote": "Este castillo, catalogado como monumento histórico el 11 de febrero de 1944, es uno de los mejor conservados y uno de los más famosos de la región."
+      },
+      {
+        "id": 28,
+        "question": "¿En qué ciudad nació el escritor humanista Étienne de La Boétie ?",
+        "propositions": [
+          "Sarlat",
+          "Bergerac",
+          "Périgueux",
+          "Montignac"
+        ],
+        "réponse": "Sarlat",
+        "anecdote": "Boétie es famoso por su « Discurso de servidumbre voluntaria » y era el amigo de Montaigne que le rindió homenaje en sus « Ensayos »."
+      },
+      {
+        "id": 29,
+        "question": "¿Qué árbol dio nombre al pueblo de Limeuil, en el Perigord púrpura ?",
+        "propositions": [
+          "Orme",
+          "Ser",
+          "Abeto",
+          "Roble"
+        ],
+        "réponse": "Orme",
+        "anecdote": "El prefijo lim proviene del término lemo, que significa olmo, y el término deriva del término ialo denota un espacio abierto."
+      },
+      {
+        "id": 30,
+        "question": "¿Qué canal lateral a Dordoña, de 15 km de largo, se encuentra aguas arriba de Bergerac ?",
+        "propositions": [
+          "Canal de las Landas",
+          "Canal des Moines",
+          "Canal de Lalinde",
+          "Canal Lagoin"
+        ],
+        "réponse": "Canal de Lalinde",
+        "anecdote": "El canal de Lalinde se utilizó hasta la Segunda Guerra Mundial a pesar de la competencia del ferrocarril desde 1879."
+      }
+    ]
+    },
+    "it": {
+      "débutant": [
+      {
+        "id": 1,
+        "question": "Quale di questi colori non significa una regione del Perigord ?",
+        "propositions": [
+          "Verde",
+          "Viola",
+          "Blu",
+          "Bianco"
+        ],
+        "réponse": "Blu",
+        "anecdote": "Il nome Perigord viene dal popolo gallico di Pétrocores, « Petrocorii » in Gallia, che significa quattro eserciti."
+      },
+      {
+        "id": 2,
+        "question": "Qual è il nome degli abitanti della città di Perigueux ?",
+        "propositions": [
+          "Periinsine",
+          "Périgourdins",
+          "Pirigueusois",
+          "Promontois"
+        ],
+        "réponse": "Périgourdins",
+        "anecdote": "Etichettati 4 fiori, Périgueux è la capitale culturale e turistica di White Perigord, nella Valle Isola."
+      },
+      {
+        "id": 3,
+        "question": "In quale dipartimento sono registrati Périgord e le sue quattro regioni ?",
+        "propositions": [
+          "Vaucluse",
+          "Calvados",
+          "Dordogna",
+          "Aveyron"
+        ],
+        "réponse": "Dordogna",
+        "anecdote": "La Dordogna, la terza più grande area metropolitana francese, fa parte della regione Nouvelle-Aquitaine."
+      },
+      {
+        "id": 4,
+        "question": "Quale specialità culinaria di Périgord proviene dall'ingrasso per gavage ?",
+        "propositions": [
+          "Propoli",
+          "Bianco di manzo",
+          "Barattolo",
+          "Foie gras"
+        ],
+        "réponse": "Foie gras",
+        "anecdote": "Il foie gras viene consumato crudo, semicotto o cotto e può essere proposto sotto forma di prodotto fresco o in scatola."
+      },
+      {
+        "id": 5,
+        "question": "Che paleolitica grotta dipinta si trova nella valle del Vézère ?",
+        "propositions": [
+          "Niaux",
+          "Cussac",
+          "Lascaux",
+          "Razet"
+        ],
+        "réponse": "Lascaux",
+        "anecdote": "I dipinti e incisioni che contiene non poteva essere precisi datazione diretta : circa 18 000 e 17 000 anni."
+      },
+      {
+        "id": 6,
+        "question": "Che la regione del Perigord bianco deve principalmente il suo nome ?",
+        "propositions": [
+          "Sabbia",
+          "Miele",
+          "Pierre",
+          "Zucchero"
+        ],
+        "réponse": "Pierre",
+        "anecdote": "Occupa i territori delle regioni naturali di Ribéracois, centro Perigord, il Double e parte del Landais."
+      },
+      {
+        "id": 7,
+        "question": "Quale confit si mangia meglio con le patate alla sarladaise ?",
+        "propositions": [
+          "Confit rimuove",
+          "Confit di vino",
+          "Confit di fiori",
+          "Confit di anatra"
+        ],
+        "réponse": "Confit di anatra",
+        "anecdote": "È preparato con uccelli grassi, ingrassati dal gavage, gli stessi utilizzati per produrre petto d'anatra e foie gras."
+      },
+      {
+        "id": 8,
+        "question": "Con le sue grandi campi di grano, quello soprannome è dato del Périgord Bianco ?",
+        "propositions": [
+          "Grotta di Périgord",
+          "Giardino di Périgord",
+          "Salone del Périgord",
+          "Soffitta di Périgord"
+        ],
+        "réponse": "Soffitta di Périgord",
+        "anecdote": "Bianco Perigord, vecchia regione naturale corrispondeva alle altipiani calcarei di Riberac e Verteillac."
+      },
+      {
+        "id": 9,
+        "question": "Intorno a quale città si svolgono i vigneti del Perigord viola ?",
+        "propositions": [
+          "Thiviers",
+          "Montignac",
+          "Bergerac",
+          "Le Bugue"
+        ],
+        "réponse": "Bergerac",
+        "anecdote": "1 200 viticoltori coltivano una superficie di 12 000 ettari, la produzione di rosso, bianco, morbido, dolce e roseo."
+      },
+      {
+        "id": 10,
+        "question": "Cosa producono, nella classificazione AOC, 612 comuni del Périgord ?",
+        "propositions": [
+          "Noci",
+          "Mele",
+          "Limoni",
+          "Fagioli"
+        ],
+        "réponse": "Noci",
+        "anecdote": "La noce di Perigord è una denominazione di origine che significa noci fresche o precoci, noci secche e gherigli di noci."
+      }
+    ],
+    "confirmé": [
+      {
+        "id": 11,
+        "question": "In quale città cresce principalmente il Perigord nero ?",
+        "propositions": [
+          "Perigueux",
+          "Bergerac",
+          "Sarlat-la-Caneda",
+          "Montignac"
+        ],
+        "réponse": "Sarlat-la-Caneda",
+        "anecdote": "Questa storica città è un importante sito turistico, ribattezzato per la sua monumentale raffinatezza risalente al periodo medievale."
+      },
+      {
+        "id": 12,
+        "question": "Quali dei vini Périgord includono Cabernet Franc, Cabernet Sauvignon e Merlot ?",
+        "propositions": [
+          "Bergerac",
+          "Tavel",
+          "Saumur",
+          "Buzet"
+        ],
+        "réponse": "Bergerac",
+        "anecdote": "Come la maggior parte delle denominazioni in tutto il mondo, i vini rossi Bergerac possono essere vini da frutta da bere abbastanza velocemente."
+      },
+      {
+        "id": 13,
+        "question": "Qual è storicamente la più antica delle quattro denominazioni del Perigord ?",
+        "propositions": [
+          "Viola",
+          "Bianco",
+          "Verde",
+          "Nero"
+        ],
+        "réponse": "Nero",
+        "anecdote": "Il Perigord nero prende il nome dalle foreste importanti di querce verde molto scuro e inizialmente non ha nulla a che fare con il tartufo."
+      },
+      {
+        "id": 14,
+        "question": "Quale ex destinatario del duca di Borgogna possiede un castello a suo nome ?",
+        "propositions": [
+          "Mascaron",
+          "Fenelon",
+          "Fabricius",
+          "Du Moulin"
+        ],
+        "réponse": "Fenelon",
+        "anecdote": "Il castello di Fenelon si trova a Sainte-Mondane, nel dipartimento della Dordogna nella Nuova Aquitania."
+      },
+      {
+        "id": 15,
+        "question": "Quale regione del Périgord copre la parte granitica della Dordogna ?",
+        "propositions": [
+          "Verde",
+          "Bianco",
+          "Nero",
+          "Viola"
+        ],
+        "réponse": "Verde",
+        "anecdote": "Il Nontronnais è una regione naturale situata a nord del dipartimento della Dordogna, nella regione della Nuova Aquitania."
+      },
+      {
+        "id": 16,
+        "question": "Quale castello della Dordogna è evocato in « Jacquou le Croquant » ?",
+        "propositions": [
+          "Castello di Ormes",
+          "Castello di Beynac",
+          "Castello di Puivert",
+          "Castello dell'Erma"
+        ],
+        "réponse": "Castello dell'Erma",
+        "anecdote": "La maggior parte dei luoghi descritti nel romanzo esiste effettivamente, sulla riva destra della valle Vézère, nel Périgord."
+      },
+      {
+        "id": 17,
+        "question": "Che tipo di habitat sotterraneo o scavato si trova nel Périgord ?",
+        "propositions": [
+          "Troglodita",
+          "Antico",
+          "Nomade",
+          "Amerindio"
+        ],
+        "réponse": "Troglodita",
+        "anecdote": "Da riparo di roccia a castello o città sotterranea, questa architettura ha una funzione di habitat temporaneo o permanente."
+      },
+      {
+        "id": 18,
+        "question": "Quale antica casa di campagna medievale si trova nel quartiere di Sarlat ?",
+        "propositions": [
+          "Daglan",
+          "Douville",
+          "Dussac",
+          "Domme"
+        ],
+        "réponse": "Domme",
+        "anecdote": "La cittadina di Domme, arroccata su una scogliera a 210 metri sul livello del mare, domina la Dordogna per oltre cento metri."
+      },
+      {
+        "id": 19,
+        "question": "Quale castello è circondato da un famoso vigneto, di fronte a Bergerac ?",
+        "propositions": [
+          "Magny",
+          "Marfontaine",
+          "Montardier",
+          "Monbazillac"
+        ],
+        "réponse": "Monbazillac",
+        "anecdote": "Intorno al 1550, il castello fu costruito in un colpo solo da Charles d'Aydie su un piano semplice: un rettangolo e quattro torri circolari."
+      },
+      {
+        "id": 20,
+        "question": "Sotto quale re apparve la nozione di contea per Périgord ?",
+        "propositions": [
+          "Luigi il Pio",
+          "Henri IV",
+          "Carlo Magno",
+          "Carlo VI"
+        ],
+        "réponse": "Carlo Magno",
+        "anecdote": "La contea era la base delle divisioni territoriali fatte per delimitare un pagus, affidato a un conte nominato dall'imperatore."
+      }
+    ],
+    "expert": [
+      {
+        "id": 21,
+        "question": "Quale castello in stile rinascimentale si trova a Villars ?",
+        "propositions": [
+          "Herm",
+          "Monbazillac",
+          "Beynac",
+          "Puyguilhem"
+        ],
+        "réponse": "Puyguilhem",
+        "anecdote": "Nel 1938, lo stato espropriò per pubblica utilità il suo proprietario (de Rastignac) che fece cadere in rovina il castello."
+      },
+      {
+        "id": 22,
+        "question": "Quale comune della Francia sudoccidentale è chiamato la Venezia del Périgord ?",
+        "propositions": [
+          "Coursac",
+          "Trelissac",
+          "Eymet",
+          "Brantome"
+        ],
+        "réponse": "Brantome",
+        "anecdote": "Il centro della città fa parte di un'isola di 300 metri di diametro formata dalla Dronne, l'origine del soprannome di Venezia del Périgord."
+      },
+      {
+        "id": 23,
+        "question": "Quale cattedrale di Périgueux è classificata come monumento storico dal 1840 ?",
+        "propositions": [
+          "Saint-Front",
+          "Sant'Andrea",
+          "Saint-Caprais",
+          "Saint-Nazaire"
+        ],
+        "réponse": "Saint-Front",
+        "anecdote": "Il carillon di Saint-Front fu registrato nel 1938 dalla radio nazionale come annuncio del programma religioso domenicale."
+      },
+      {
+        "id": 24,
+        "question": "Quale scrittore e filosofo francese nacque nel 1533 nel Périgord ?",
+        "propositions": [
+          "Michel de Montaigne",
+          "Guillaume Bigot",
+          "Jean Bodin",
+          "Pierre Charron"
+        ],
+        "réponse": "Michel de Montaigne",
+        "anecdote": "Molto spesso sofferente o malato, Michel de Montaigne affrettò i suoi scritti e cercò di guarire mentre viaggiava verso luoghi di cura."
+      },
+      {
+        "id": 25,
+        "question": "Con quale trattato il Perigord passò sotto la sovranità inglese ?",
+        "propositions": [
+          "Trattato di Loudun",
+          "Trattato di Romans",
+          "Trattato di Crotoy",
+          "Trattato di Bretigny"
+        ],
+        "réponse": "Trattato di Bretigny",
+        "anecdote": "Il trattato pose fine ai quattro anni di prigionia a Londra di Giovanni II il Buono, prigioniero degli inglesi dopo la battaglia di Poitiers."
+      },
+      {
+        "id": 26,
+        "question": "Quali giardini Vézac sono nella lista di giardini notevoli ?",
+        "propositions": [
+          "Marqueyssac",
+          "Caudon",
+          "Hautefort",
+          "Losse"
+        ],
+        "réponse": "Marqueyssac",
+        "anecdote": "Dei ventidue ettari della tenuta di Marqueyssac, diciannove formano un sito classificato per il suo interesse pittoresco e storico."
+      },
+      {
+        "id": 27,
+        "question": "Quale castello ha fatto da cornice alle riprese di « Jeanne d'Arc » di Luc Besson ?",
+        "propositions": [
+          "Beynac",
+          "Marzac",
+          "Rastignac",
+          "Chavagnac"
+        ],
+        "réponse": "Beynac",
+        "anecdote": "Questo castello, elencato come monumento storico l'11 febbraio 1944, è uno dei meglio conservati e uno dei più rinomati della regione."
+      },
+      {
+        "id": 28,
+        "question": "In quale città è nato lo scrittore umanista Étienne de La Boétie ?",
+        "propositions": [
+          "Bergerac",
+          "Sarlat",
+          "Montignac",
+          "Périgueux"
+        ],
+        "réponse": "Sarlat",
+        "anecdote": "Boétie è famoso per il suo « Discorso sulla servitù volontaria » ed era l'amico di Montaigne che gli rese omaggio nei suoi « Saggi »."
+      },
+      {
+        "id": 29,
+        "question": "Quale albero diede il nome al villaggio di Limeuil, nel Perigord viola ?",
+        "propositions": [
+          "Be",
+          "Abete",
+          "Orme",
+          "Quercia"
+        ],
+        "réponse": "Orme",
+        "anecdote": "Il prefisso lim deriva dal termine lemo che significa olmo, e il termine deriva dal termine ialo indica uno spazio aperto."
+      },
+      {
+        "id": 30,
+        "question": "Quale canale laterale verso la Dordogna, lungo 15 km, si trova a monte di Bergerac ?",
+        "propositions": [
+          "Canale di Lalinde",
+          "Canal des Moines",
+          "Lagoin Canal",
+          "Canale delle Landes"
+        ],
+        "réponse": "Canale di Lalinde",
+        "anecdote": "Il canale di Lalinde fu utilizzato fino alla seconda guerra mondiale nonostante la concorrenza della ferrovia dal 1879."
+      }
+    ]
+    },
+    "nl": {
+      "débutant": [
+      {
+        "id": 1,
+        "question": "Welke van deze kleuren betekent niet een regio van de Perigord ?",
+        "propositions": [
+          "Blauw",
+          "Paars",
+          "Wit",
+          "Groen"
+        ],
+        "réponse": "Blauw",
+        "anecdote": "De naam Perigord komt van de Gallische volk van Pétrocores, « Petrocorii » in Gallië, wat betekent dat vier legers."
+      },
+      {
+        "id": 2,
+        "question": "Wat is de naam van de inwoners van de stad Perigueux ?",
+        "propositions": [
+          "Périgourdins",
+          "Periinsins",
+          "Pirigueusois",
+          "Promontois"
+        ],
+        "réponse": "Périgourdins",
+        "anecdote": "Gelabeld 4 bloemen, Périgueux is het culturele en toeristische hoofdstad van White Perigord, in de vallei Isle."
+      },
+      {
+        "id": 3,
+        "question": "Op welke afdeling zijn de Périgord en zijn vier regio's geregistreerd ?",
+        "propositions": [
+          "Dordogne",
+          "Calvados",
+          "Aveyron",
+          "Vaucluse"
+        ],
+        "réponse": "Dordogne",
+        "anecdote": "De Dordogne, het derde grootste Franse grootstedelijk gebied, maakt deel uit van de regio Nouvelle-Aquitaine."
+      },
+      {
+        "id": 4,
+        "question": "Welke culinaire specialiteit van Périgord komt van mesten door sondevoeding ?",
+        "propositions": [
+          "Propolis",
+          "Ganzenlever",
+          "Jar haar",
+          "Rundvlees wit"
+        ],
+        "réponse": "Ganzenlever",
+        "anecdote": "Foie gras wordt rauw, half gekookt of gekookt geconsumeerd en kan worden voorgesteld in de vorm van vers of ingeblikt product."
+      },
+      {
+        "id": 5,
+        "question": "Wat Paleolithicum geschilderd grot ligt in de Vézère Valley ?",
+        "propositions": [
+          "Niaux",
+          "Lascaux",
+          "Cussac",
+          "Razet"
+        ],
+        "réponse": "Lascaux",
+        "anecdote": "De schilderijen en gravures die het bevat kon niet nauwkeurig direct dating : ongeveer 18 000 en 17 000 jaar."
+      },
+      {
+        "id": 6,
+        "question": "Wat de regio White Perigord moet het vooral zijn naam ?",
+        "propositions": [
+          "Zand",
+          "Pierre",
+          "Honing",
+          "Suiker"
+        ],
+        "réponse": "Pierre",
+        "anecdote": "Het is gevestigd in de gebieden van de natuurlijke regio's van Ribéracois, centrale Perigord, de Double en een deel van de Landais."
+      },
+      {
+        "id": 7,
+        "question": "Welke confit wordt het best gegeten met aardappelen à la sarladaise ?",
+        "propositions": [
+          "Gekonfijte wijn",
+          "Gekonfijte bloemen",
+          "Gekonfijte eend",
+          "Confit verwijdert"
+        ],
+        "réponse": "Gekonfijte eend",
+        "anecdote": "Het wordt bereid met dikke vogels, gemest door sondevoeding, dezelfde die worden gebruikt om eendenborst en ganzenlever te produceren."
+      },
+      {
+        "id": 8,
+        "question": "Met zijn grote graanvelden, wat bijnaam wordt gegeven aan het Witte Périgord ?",
+        "propositions": [
+          "Zolder van Périgord",
+          "Salon van de Périgord",
+          "Tuin van Périgord",
+          "Grot van Périgord"
+        ],
+        "réponse": "Zolder van Périgord",
+        "anecdote": "White Perigord, oude natuurlijke regio overeen met de kalkstenen plateaus van Ribérac en Verteillac."
+      },
+      {
+        "id": 9,
+        "question": "In welke stad liggen de wijngaarden van de paarse Perigord ?",
+        "propositions": [
+          "Le Bugue",
+          "Thiviers",
+          "Bergerac",
+          "Montignac"
+        ],
+        "réponse": "Bergerac",
+        "anecdote": "1 200 wijnboeren cultiveren een oppervlakte van 12 000 hectare, de productie van rood, wit, zacht, zoet en rooskleurig."
+      },
+      {
+        "id": 10,
+        "question": "Wat levert volgens AOC-classificatie 612 gemeenten van Périgord op ?",
+        "propositions": [
+          "Bonen",
+          "Noten",
+          "Citroenen",
+          "Appels"
+        ],
+        "réponse": "Noten",
+        "anecdote": "Perigord-noot is een oorsprongsbenaming die verse noten of noten uit het vroege seizoen, gedroogde noten en walnootpitten betekent."
+      }
+    ],
+    "confirmé": [
+      {
+        "id": 11,
+        "question": "In welke stad groeit de Zwarte Perigord vooral ?",
+        "propositions": [
+          "Montignac",
+          "Perigueux",
+          "Sarlat-la-Caneda",
+          "Bergerac"
+        ],
+        "réponse": "Sarlat-la-Caneda",
+        "anecdote": "Deze historische stad is een belangrijke toeristenplaats, omgedoopt om zijn monumentale pracht die teruggaat tot de middeleeuwse periode."
+      },
+      {
+        "id": 12,
+        "question": "Welke van de Perigord-wijnen zijn Cabernet Franc, Cabernet Sauvignon en Merlot ?",
+        "propositions": [
+          "Buzet",
+          "Bergerac",
+          "Saumur",
+          "Tavel"
+        ],
+        "réponse": "Bergerac",
+        "anecdote": "Zoals de meeste appellaties over de hele wereld, kunnen Bergerac rode wijnen fruitwijnen zijn om snel genoeg te drinken."
+      },
+      {
+        "id": 13,
+        "question": "Wat is historisch de oudste van de vier benamingen van de Perigord ?",
+        "propositions": [
+          "Paars",
+          "Groen",
+          "Wit",
+          "Zwart"
+        ],
+        "réponse": "Zwart",
+        "anecdote": "De Zwarte Perigord dankt zijn naam aan de belangrijke bossen van zeer donkergroene eiken en heeft aanvankelijk niets te maken met truffels."
+      },
+      {
+        "id": 14,
+        "question": "Welke voormalige ontvanger van de hertog van Bourgondi ? bezit een kasteel op zijn naam ?",
+        "propositions": [
+          "Mascaron",
+          "Fabricius",
+          "Fenelon",
+          "Du Moulin"
+        ],
+        "réponse": "Fenelon",
+        "anecdote": "Het kasteel van Fenelon ligt in Sainte-Mondane in het departement Dordogne in Nieuw-Aquitanië."
+      },
+      {
+        "id": 15,
+        "question": "Welke regio van de Périgord beslaat het granietachtige gedeelte van de Dordogne ?",
+        "propositions": [
+          "Groen",
+          "Paars",
+          "Wit",
+          "Zwart"
+        ],
+        "réponse": "Groen",
+        "anecdote": "De Nontronnais is een natuurlijke regio ten noorden van het departement Dordogne, in de regio New Aquitaine."
+      },
+      {
+        "id": 16,
+        "question": "Welk kasteel van Dordogne wordt opgeroepen in « Jacquou le Croquant » ?",
+        "propositions": [
+          "Kasteel van Ormes",
+          "Kasteel van Herm",
+          "Kasteel van Beynac",
+          "Kasteel van Puivert"
+        ],
+        "réponse": "Kasteel van Herm",
+        "anecdote": "De meeste in de roman beschreven plaatsen bestaan eigenlijk, op de rechteroever van de Vézère-vallei, in de Périgord."
+      },
+      {
+        "id": 17,
+        "question": "Welk type ondergrondse of gegraven habitat wordt gevonden in Perigord ?",
+        "propositions": [
+          "Nomade",
+          "Amerindian",
+          "Antiek",
+          "Holbewoner"
+        ],
+        "réponse": "Holbewoner",
+        "anecdote": "Van schuilkelder tot kasteel of ondergrondse stad, deze architectuur heeft een tijdelijke of permanente habitatfunctie."
+      },
+      {
+        "id": 18,
+        "question": "Welk oud middeleeuws landhuis ligt in de wijk Sarlat ?",
+        "propositions": [
+          "Douville",
+          "Dussac",
+          "Domme",
+          "Daglan"
+        ],
+        "réponse": "Domme",
+        "anecdote": "De vestingstad Domme, gelegen op een klif op 210 meter boven zeeniveau, domineert de Dordogne meer dan honderd meter."
+      },
+      {
+        "id": 19,
+        "question": "Welk kasteel wordt omringd door een beroemde wijngaard, tegenover Bergerac ?",
+        "propositions": [
+          "Monbazillac",
+          "Magny",
+          "Montardier",
+          "Marfontaine"
+        ],
+        "réponse": "Monbazillac",
+        "anecdote": "Rond 1550 werd het kasteel gebouwd in een enkel schot door Charles d'Aydie op een eenvoudig plan: een rechthoek en vier cirkelvormige torens."
+      },
+      {
+        "id": 20,
+        "question": "Onder welke koning verscheen het begrip graafschap voor de Périgord ?",
+        "propositions": [
+          "Charles VI",
+          "Louis de vrome",
+          "Karel de Grote",
+          "Henri IV"
+        ],
+        "réponse": "Karel de Grote",
+        "anecdote": "Het graafschap was de basis van de territoriale divisies die werden gemaakt om een pagus af te bakenen, toevertrouwd aan een graaf die door de keizer werd genoemd."
+      }
+    ],
+    "expert": [
+      {
+        "id": 21,
+        "question": "Welk kasteel in renaissancestijl bevindt zich in Villars ?",
+        "propositions": [
+          "Puyguilhem",
+          "Beynac",
+          "Herm",
+          "Monbazillac"
+        ],
+        "réponse": "Puyguilhem",
+        "anecdote": "In 1938 onteigende de staat voor openbaar nut zijn eigenaar (de Rastignac) die het kasteel in verval liet vallen."
+      },
+      {
+        "id": 22,
+        "question": "Welke gemeente in het zuidwesten van Frankrijk wordt het Venetië van de Périgord genoemd ?",
+        "propositions": [
+          "Trelissac",
+          "Coursac",
+          "Eymet",
+          "Brantome"
+        ],
+        "réponse": "Brantome",
+        "anecdote": "Het stadscentrum maakt deel uit van een eiland met een diameter van 300 meter gevormd door de Dronne, de oorsprong van de bijnaam van Venetië van de Périgord."
+      },
+      {
+        "id": 23,
+        "question": "Welke kathedraal van Périgueux is sinds 1840 geclassificeerd als historisch monument ?",
+        "propositions": [
+          "St. Andre",
+          "Saint-Nazaire",
+          "Saint-Caprais",
+          "Saint-Front"
+        ],
+        "réponse": "Saint-Front",
+        "anecdote": "De beiaard van Saint-Front werd in 1938 opgenomen door de nationale radio als een aankondiging van het zondagse religieuze programma."
+      },
+      {
+        "id": 24,
+        "question": "Welke Franse schrijver en filosoof werd in 1533 in de Périgord geboren ?",
+        "propositions": [
+          "Pierre Charron",
+          "Guillaume Bigot",
+          "Jean Bodin",
+          "Michel de Montaigne"
+        ],
+        "réponse": "Michel de Montaigne",
+        "anecdote": "Meestal leed of ziek, haastte Michel de Montaigne zijn geschriften en probeerde te genezen terwijl hij naar plaatsen van genezing reisde."
+      },
+      {
+        "id": 25,
+        "question": "Door welk verdrag ging de Perigord onder Engelse soevereiniteit ?",
+        "propositions": [
+          "Verdrag van Bretigny",
+          "Verdrag van Crotoy",
+          "Verdrag van Romans",
+          "Verdrag van Loudun"
+        ],
+        "réponse": "Verdrag van Bretigny",
+        "anecdote": "Het verdrag maakte een einde aan de vier jaar gevangenschap in Londen van John II de Goede, gevangene van de Engelsen sinds de slag om Poitiers."
+      },
+      {
+        "id": 26,
+        "question": "Welke Vézac-tuinen staan op de lijst van opmerkelijke tuinen ?",
+        "propositions": [
+          "Hautefort",
+          "Marqueyssac",
+          "Verliezen",
+          "Caudon"
+        ],
+        "réponse": "Marqueyssac",
+        "anecdote": "Van de tweeëntwintig hectare van het landgoed Marqueyssac vormen negentien een site die is geclassificeerd vanwege zijn pittoreske en historische belang."
+      },
+      {
+        "id": 27,
+        "question": "Welk kasteel diende als decor voor de shoot « Jeanne d'Arc » van Luc Besson ?",
+        "propositions": [
+          "Rastignac",
+          "Beynac",
+          "Marzac",
+          "Chavagnac"
+        ],
+        "réponse": "Beynac",
+        "anecdote": "Dit kasteel, vermeld als een historisch monument op 11 februari 1944, is een van de best bewaarde en een van de meest gerenommeerde in de regio."
+      },
+      {
+        "id": 28,
+        "question": "In welke stad is de humanistische schrijver Étienne de La Boétie geboren ?",
+        "propositions": [
+          "Périgueux",
+          "Sarlat",
+          "Bergerac",
+          "Montignac"
+        ],
+        "réponse": "Sarlat",
+        "anecdote": "Boétie is beroemd om zijn « Speech of Voluntary Servitude » en was de vriend van Montaigne die hem hulde bracht in zijn « Essays »."
+      },
+      {
+        "id": 29,
+        "question": "Welke boom gaf zijn naam aan het dorp Limeuil, in de paarse Perigord ?",
+        "propositions": [
+          "Dennenboom",
+          "Eik",
+          "Orme",
+          "Wees"
+        ],
+        "réponse": "Orme",
+        "anecdote": "Het voorvoegsel lim komt van de term lemo wat iep betekent, en de term komt van de term ialo geeft een open ruimte aan."
+      },
+      {
+        "id": 30,
+        "question": "Welk zijkanaal naar de Dordogne, 15 km lang, bevindt zich stroomopwaarts van Bergerac ?",
+        "propositions": [
+          "Canal des Moines",
+          "Lalinde-kanaal",
+          "Lagoin Canal",
+          "Kanaal van Landes"
+        ],
+        "réponse": "Lalinde-kanaal",
+        "anecdote": "Het Lalinde-kanaal werd gebruikt tot de Tweede Wereldoorlog ondanks de concurrentie van de spoorweg uit 1879."
+      }
+    ]
+    }
+  }
+}

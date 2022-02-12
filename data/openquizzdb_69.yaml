@@ -1,0 +1,280 @@
+---
+fournisseur: OpenQuizzDB - Fournisseur de contenu libre (https://www.openquizzdb.org)
+rédacteur: Philippe Bresoux
+thème: Sculpture (Voie royale pour connaître le monde)
+difficulté: 5 / 5
+quizz:
+  fr:
+  - débutant:
+    - id: 1
+      question: Qui a sculpté avec Tribolo et Montelupo les tombeaux des Médicis à Florence ?
+      propositions:
+      - Michel-Ange
+      - Raphaël
+      - Donatello
+      - Vicentino
+      réponse: Michel-Ange
+      anecdote: Les tombeaux des Médicis sont deux monuments de la « Nouvelle Sacristie » élaborée à l'intérieur des Chapelles des Médicis.
+    - id: 2
+      question: Où peut-on voir la « Victoire de Samothrace », sculpture grecque de l'époque hellénistique ?
+      propositions:
+      - Metro Museum
+      - Centre Pompidou
+      - Musée du Louvre
+      - Tate Gallery
+      réponse: Musée du Louvre
+      anecdote: La « Victoire de Samothrace » est une sculpture grecque représentant la déesse Niké, personnification de la victoire.
+    - id: 3
+      question: Dans quelle ville de la côte belge trouve-t-on une célèbre statue de Léopold Ier ?
+      propositions:
+      - La Panne
+      - Nieuwport
+      - Coxyde
+      - Blankenberge
+      réponse: La Panne
+      anecdote: C'est là que le premier roi des belges mit le pied sur « ses » terres en juillet 1831.
+    - id: 4
+      question: Que représente la sculpture de Marcel Duchamp « Fontaine », signée R. Mutt ?
+      propositions:
+      - Cascade
+      - Urinoir
+      - Vase
+      - Fontaine
+      réponse: Urinoir
+      anecdote: Oeuvre controversée de l'art du XXe siècle, « Fontaine » est un ready made, c'est-à-dire un « objet tout fait ».
+    - id: 5
+      question: Quelle statue monumentale de Michel-Ange trône à Florence ?
+      propositions:
+      - David
+      - Goliath
+      - Apollon
+      - Alexandre
+      réponse: David
+      anecdote: La statue de 4.34 mètres de hauteur est tirée d'un bloc de marbre blanc de Carrare.
+    - id: 6
+      question: Quel français est le créateur de la statue de la liberté de New York ?
+      propositions:
+      - Anatole Guillot
+      - Antoine Bourdelle
+      - Auguste Bartholdi
+      - Joseph Desbrosses
+      réponse: Auguste Bartholdi
+      anecdote: Il est aussi l'auteur de la Fontaine Bartholdi, située Place des Terreaux à Lyon.
+    - id: 7
+      question: Dans quel musée vous trouvez-vous si vous contemplez la Vénus de Milo ?
+      propositions:
+      - Musée Rodin
+      - Musée Magnin
+      - Musée du Louvre
+      - Musée Hébert
+      réponse: Musée du Louvre
+      anecdote: Le buste de la statue a été mis au jour le 8 avril 1820 à Milo, une île de la mer Égée.
+    - id: 8
+      question: Dans quel musée français peut-on admirer la « Victoire de Samothrace » ?
+      propositions:
+      - Musée du Louvre
+      - Musée d'Orsay
+      - Musée Picasso
+      - Musée Rodin
+      réponse: Musée du Louvre
+      anecdote: Cette sculpture grecque représente la déesse Niké, personnification de la victoire.
+    - id: 9
+      question: À quel sculpteur doit-on un désormais célèbre baiser, exposé dans un musée parisien ?
+      propositions:
+      - Lenoir
+      - Rodin
+      - Moreau
+      - Choppin
+      réponse: Rodin
+      anecdote: « Le Baiser » de Rodin est une sculpture en marbre représentant un couple enlacé réalisée à l'échelle 1.
+    - id: 10
+      question: Dans quelle ville belge trouve-t-on près du beffroi une statue de Christine de Lalaing ?
+      propositions:
+      - Liège
+      - Bruxelles
+      - Tournai
+      - Mons
+      réponse: Tournai
+      anecdote: En l'absence de son mari, elle défendit la ville de Tournai contre le prince de Parme.
+  - confirmé:
+    - id: 11
+      question: Dans quel type de sculpture le français Auguste Cain était-il spécialisé ?
+      propositions:
+      - Monumentale
+      - Architecturale
+      - Animalière
+      - Funéraire
+      réponse: Animalière
+      anecdote: À partir des années 1860, Auguste Cain commencera à recevoir des commandes officielles.
+    - id: 12
+      question: Quel célèbre sculpteur a participé à la construction du Parthénon ?
+      propositions:
+      - Elias
+      - Rodin
+      - Galidias
+      - Phidias
+      réponse: Phidias
+      anecdote: Phidias sera choisi par Périclès pour superviser l'ensemble des travaux de sculpture.
+    - id: 13
+      question: De combien de personnages est composée la sculpture de Rodin « Les Bourgeois de Calais » ?
+      propositions:
+      - Quatre
+      - Deux
+      - Six
+      - Dix
+      réponse: Six
+      anecdote: Le plâtre original achevé en 1889 a été édité en onze autres exemplaires en bronze.
+    - id: 14
+      question: Quel monument fait de blocs de grès roses se trouve dans la ville de Belfort ?
+      propositions:
+      - Lion de Belfort
+      - Les Trois-Sièges
+      - Tour de la Miotte
+      - Porte de Brisach
+      réponse: Lion de Belfort
+      anecdote: La sculpture représente un lion couché et blessé prêt à se dresser qui repose sur un piédestal en rocaillage.
+    - id: 15
+      question: À quel sculpteur doit-on la statue équestre de Vercingétorix située à Clermont-Ferrand ?
+      propositions:
+      - Auguste Bartholdi
+      - Antoine Bourdelle
+      - Honoré Daumier
+      - Jean Baffier
+      réponse: Auguste Bartholdi
+      anecdote: Cette statue fait face à la statue du général Desaix, sur la place de Jaude.
+    - id: 16
+      question: Quel artiste suisse du XXe siècle connaît-on surtout pour ses sculptures longilignes ?
+      propositions:
+      - Robert Hainard
+      - Martin Gramp
+      - Alberto Giacometti
+      - Heinz Schwartz
+      réponse: Alberto Giacometti
+      anecdote: À la fin de sa vie, Giacometti sera comblé d'honneurs en remportant de nombreux prix.
+    - id: 17
+      question: Quelle est la hauteur, sans le socle, du « David » de Michel-Ange ?
+      propositions:
+      - 3.26 mètres
+      - 4.34 mètres
+      - 5.67 mètres
+      - 6.84 mètres
+      réponse: 4.34 mètres
+      anecdote: Michel-Ange a représenté David, une fronde à la main, avant son combat contre Goliath.
+    - id: 18
+      question: À quel sculpteur doit-on le Lion de Belfort, sculpture monumentale en ronde-bosse ?
+      propositions:
+      - Félix Charpentier
+      - Honoré Daumier
+      - Antoine Bourdelle
+      - Auguste Bartholdi
+      réponse: Auguste Bartholdi
+      anecdote: Longue de 22 mètres, la sculpture est constituée de blocs de grès rose de Pérouse, sculptés individuellement.
+    - id: 19
+      question: Quel graveur monégasque fut le sculpteur officiel de Napoléon 1er ?
+      propositions:
+      - Houdon
+      - Le Bernin
+      - Pisano
+      - Bosio
+      réponse: Bosio
+      anecdote: François-Joseph Bosio fut recruté par Vivant Denon en 1808 pour être le portraitiste de Napoléon Ier.
+    - id: 20
+      question: De quel sculpteur les oeuvres ne nous sont-elles parvenues que sous forme de copies ?
+      propositions:
+      - Lysippe
+      - Myron
+      - Scopas
+      - Phidias
+      réponse: Myron
+      anecdote: Pline l'Ancien dira de Myron qu'il est « plus fécond » que son rival Polyclète.
+  - expert:
+    - id: 21
+      question: Quelle était la nationalité du sculpteur et peintre Alberto Giacometti ?
+      propositions:
+      - Argentine
+      - Italienne
+      - Portugaise
+      - Suisse
+      réponse: Suisse
+      anecdote: À la fin de sa vie, Giacometti a dénié à ses objets la moindre valeur, pourtant vendus aujourd'hui à plusieurs millions d'euros.
+    - id: 22
+      question: Quel sculpteur français est considéré comme un pionnier de la sculpture animalière ?
+      propositions:
+      - Serge Mangin
+      - Raymond Martin
+      - Pierre Jules Mène
+      - Léon-Ernest Drivier
+      réponse: Pierre Jules Mène
+      anecdote: Il a produit de nombreuses sculptures particulièrement en vogue sous le second empire.
+    - id: 23
+      question: Quelles statues grecques, datant de la période archaïque, représentent des hommes nus ?
+      propositions:
+      - Des éphèbes
+      - Des callypiges
+      - Des kouroï
+      - Des kores
+      réponse: Des kouroï
+      anecdote: Les kouroi, aux visages montrant l'influence de la Crète, sont toujours nus, portant tout au plus une ceinture et parfois des bottes.
+    - id: 24
+      question: Quelle technique de sculpture est observable de tous les côtés ?
+      propositions:
+      - La grande entaille
+      - La ronde-bosse
+      - Le relief pictural
+      - Le haut relief
+      réponse: La ronde-bosse
+      anecdote: Ce type de sculpture est le plus souvent utilisé pour des représentations figuratives.
+    - id: 25
+      question: Quel artiste a décoré une fontaine à côté du centre Beaubourg, à Paris ?
+      propositions:
+      - Pol Bury
+      - David Smith
+      - Charles Despiau
+      - Jean Tinguely
+      réponse: Jean Tinguely
+      anecdote: La fontaine Stravinski évoque l'oeuvre musicale du compositeur russe Stravinski.
+    - id: 26
+      question: Dans quelle ville belge peut-on admirer une statue du soldat légendaire Silvius Brabo ?
+      propositions:
+      - Namur
+      - Bruxelles
+      - Anvers
+      - Bastogne
+      réponse: Anvers
+      anecdote: La statue de Silvius Brabo brandissant et jetant la main d'Antigone est située sur la Grand-Place d'Anvers.
+    - id: 27
+      question: Qui a réalisé « Le Passe-muraille », statue installée devant la maison où habitait Marcel Aymé ?
+      propositions:
+      - Jacques Prévert
+      - Jean Marais
+      - Aragon
+      - Antoine Blondin
+      réponse: Jean Marais
+      anecdote: Jean Marais est enterré dans le petit cimetière de Vallauris, la ville des potiers, où il a passé les dernières années de sa vie.
+    - id: 28
+      question: Quel sculpteur français a mis au point une technique de moulage du verre au XIXe siècle ?
+      propositions:
+      - Pierre Curillon
+      - Jules Coutan
+      - Henry Cros
+      - Louis Convers
+      réponse: Henry Cros
+      anecdote: Henry Cros a suivi l'enseignement des sculpteurs François Jouffroy et Antoine Étex et du peintre Jules Valadon.
+    - id: 29
+      question: Quelle sculpture de Gian Lorenzo Bernini, dit Le Bernin, se trouve à Londres ?
+      propositions:
+      - Rapt de Prosperine
+      - Fontaine du Triton
+      - Neptune et Triton
+      - Apollon et Daphné
+      réponse: Neptune et Triton
+      anecdote: L'art de Le Bernin, typiquement baroque, est caractérisé par la recherche du mouvement et des effets d'illusion.
+    - id: 30
+      question: Quel sculpteur, aimé de Louis XIV, a beaucoup travaillé pour le château de Versailles ?
+      propositions:
+      - Antoine Coysevox
+      - Thibaud Maistrier
+      - Gervais Drouet
+      - Thomas Boudin
+      réponse: Antoine Coysevox
+      anecdote: Antoine Coysevox fut le décorateur du célèbre navire de guerre « le Soleil royal ».

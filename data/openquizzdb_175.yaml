@@ -1,0 +1,1650 @@
+---
+fournisseur: OpenQuizzDB - Fournisseur de contenu libre (https://www.openquizzdb.org)
+rédacteur: Philippe Bresoux
+thème: Animaux en chiffres (Si un animal vous parle, il ment !)
+difficulté: 4 / 5
+quizz:
+  fr:
+  - débutant:
+    - id: 1
+      question: Combien de temps dure en moyenne la gestation d'une éléphante ?
+      propositions:
+      - 13 mois
+      - 17 mois
+      - 21 mois
+      - 9 mois
+      réponse: 21 mois
+      anecdote: Une éléphante peut être en gestation jusqu'à l'âge de cinquante ans, où un seul éléphant est porté dans la plupart des cas.
+    - id: 2
+      question: À combien de pulsations par minute bat le coeur d'un hérisson en hibernation ?
+      propositions:
+      - 28
+      - 18
+      - 8
+      - 38
+      réponse: 18
+      anecdote: Il ne faut pas confondre les hérissons avec d'autres mammifères porteurs de piquants, comme par exemple les porcs-épics.
+    - id: 3
+      question: Jusqu'à combien de kilomètres le cri du singe hurleur est-il audible ?
+      propositions:
+      - 3 km
+      - 12 km
+      - 9 km
+      - 6 km
+      réponse: 3 km
+      anecdote: Ce singe hurle chaque matin, et quand il combat avec d'autres singes hurleurs, ils se battent également à coups de hurlements.
+    - id: 4
+      question: En quelle année le dernier dodo vivant a-t-il été vu à l'île Maurice ?
+      propositions:
+      - 1723
+      - 1681
+      - 1908
+      - 1832
+      réponse: 1681
+      anecdote: En plus de son incapacité à voler, le dodo n'avait développé aucune peur à l'encontre des êtres humains, faisant de lui une proie facile.
+    - id: 5
+      question: Combien de bisons environ Buffalo Bill a-t-il abattus en 18 mois seulement ?
+      propositions:
+      - 1 000
+      - 3 000
+      - 4 000
+      - 2 000
+      réponse: 4 000
+      anecdote: Le chapeau stetson ainsi que le bandana ont été popularisés par Buffalo Bill alors que tous les cow-boys n'en portaient pas forcément.
+    - id: 6
+      question: Jusqu'à quelle altitude vivent en général les bouquetins des Alpes ?
+      propositions:
+      - 3 500 m
+      - 4 600 m
+      - 1 900 m
+      - 2 300 m
+      réponse: 3 500 m
+      anecdote: Le milieu de prédilection du bouquetin des Alpes comprend des murailles abruptes, des falaises à pics ou des parois escarpées.
+    - id: 7
+      question: Combien de minutes une otarie peut-elle nager sous l'eau sans respirer ?
+      propositions:
+      - 5 min
+      - 9 min
+      - 7 min
+      - 11 min
+      réponse: 5 min
+      anecdote: Contrairement aux phoques, les otaries pourvuent de nageoires se servent à terre de leurs postérieurs pour marcher.
+    - id: 8
+      question: Quelle est, en centimètres, la longueur de la langue d'un fourmilier adulte ?
+      propositions:
+      - 50 cm
+      - 60 cm
+      - 70 cm
+      - 80 cm
+      réponse: 60 cm
+      anecdote: Le plus grand représentant du groupe est le fourmilier géant ou grand tamanoir, un animal mesurant plus d'un mètre de longueur.
+    - id: 9
+      question: Quel est le pourcentage de rongeurs parmi les mammifères ?
+      propositions:
+      - 30 %
+      - 40 %
+      - 10 %
+      - 20 %
+      réponse: 40 %
+      anecdote: Ces animaux se caractérisent par leur unique paire d'incisives qui leur servent à ronger, à creuser des galeries ou à se défendre.
+    - id: 10
+      question: Combien de fois par minute un fourmilier peut-il sortir la langue de sa gueule ?
+      propositions:
+      - 120 fois
+      - 160 fois
+      - 80 fois
+      - 40 fois
+      réponse: 160 fois
+      anecdote: Le fourmilier mange surtout des fourmis, mais il aime aussi les termites et d'autres insectes comme la coccinelle.
+  - confirmé:
+    - id: 11
+      question: Jusqu'à combien de kilos de viande une hyène peut-elle manger au cours d'un repas ?
+      propositions:
+      - 14 kg
+      - 34 kg
+      - 4 kg
+      - 24 kg
+      réponse: 14 kg
+      anecdote: Il est impossible de discerner par la simple observation un mâle hyène d'une femelle tant l'un et l'autre se ressemblent.
+    - id: 12
+      question: Quel est le poids moyen de la langue d'une baleine bleue adulte ?
+      propositions:
+      - 2,7 tonnes
+      - 1,3 tonne
+      - 2,2 tonnes
+      - 880 kg
+      réponse: 2,7 tonnes
+      anecdote: Quand la gueule de la baleine bleue est complètement ouverte, elle est assez grande pour contenir 90 tonnes d'eau et de nourriture.
+    - id: 13
+      question: Combien une reine termite pond-elle d'oeufs en moyenne par jour ?
+      propositions:
+      - 120
+      - 30
+      - 90
+      - 60
+      réponse: 30
+      anecdote: D'un couple de termites naissent des larves qui donnent des ouvriers stériles ou des nymphes qui donneront des adultes sexués.
+    - id: 14
+      question: Quelle vitesse un léopard au repos peut-il atteindre en seulement deux secondes ?
+      propositions:
+      - 60 km/h
+      - 100 km/h
+      - 80 km/h
+      - 40 km/h
+      réponse: 60 km/h
+      anecdote: Le léopard tient une place importante dans certaines cultures africaines où ce roi des animaux est l'attribut des chefs.
+    - id: 15
+      question: Combien de minutes un cachalot peut-il rester sous l'eau sans respirer ?
+      propositions:
+      - 70 min
+      - 50 min
+      - 30 min
+      - 90 min
+      réponse: 90 min
+      anecdote: La chasse au cachalot permettait de récolter le spermaceti, substance blanche et cireuse issue de la tête de l'animale.
+    - id: 16
+      question: Quelle vitesse un faucon pèlerin peut-il atteindre lorsqu'il fond sur sa proie ?
+      propositions:
+      - 120 km/h
+      - 240 km/h
+      - 200 km/h
+      - 160 km/h
+      réponse: 240 km/h
+      anecdote: Ses proies sont souvent des oiseaux, mais certains individus peuvent également s'attaquer à de petits animaux terrestres.
+    - id: 17
+      question: Combien de millilitres de sang une chauve-souris vampire peut-elle boire en une nuit ?
+      propositions:
+      - 20 ml
+      - 60 ml
+      - 80 ml
+      - 40 ml
+      réponse: 20 ml
+      anecdote: La chauve-souris vampire est originaire des zones tropicales du continent américain (Mexique, Chili, Brésil et Argentine).
+    - id: 18
+      question: Par quel facteur le poids d'un ours blanc est-il multiplié deux mois après sa naissance ?
+      propositions:
+      - 55
+      - 45
+      - 35
+      - 25
+      réponse: 25
+      anecdote: Parfaitement adapté à son habitat, l'ours blanc possède une épaisse couche de graisse et une fourrure qui l'isolent du froid.
+    - id: 19
+      question: Combien de fois compte-t-on plus de serpents non venimeux que venimeux ?
+      propositions:
+      - 1 300 fois
+      - 1 100 fois
+      - 1 700 fois
+      - 1 500 fois
+      réponse: 1 700 fois
+      anecdote: La plupart des serpents possèdent une langue bifide, des yeux sans paupière, un crâne articulé et des mâchoires mobiles.
+    - id: 20
+      question: Combien d'oeufs pond en moyenne un crocodile du Nil en bonne santé ?
+      propositions:
+      - 70
+      - 130
+      - 100
+      - 40
+      réponse: 100
+      anecdote: À l'éclosion des oeufs, le bébé crocodile mesure environ 30 cm et a le même corps que sa mère, qu'il soit mâle ou femelle.
+  - expert:
+    - id: 21
+      question: Quelle est la longueur maximale du bond que peut effectuer un puma ?
+      propositions:
+      - 10 m
+      - 6 m
+      - 8 m
+      - 12 m
+      réponse: 12 m
+      anecdote: Pour les besoins de la chasse ou en cas de menace, il est capable de grimper aux arbres et de faire preuve d'une grande agilité.
+    - id: 22
+      question: Combien un moustique normalement constitué a-t-il de dents ?
+      propositions:
+      - 34
+      - 11
+      - 47
+      - 29
+      réponse: 47
+      anecdote: Les adultes se nourrissent de nectar de fleurs et participent à la pollinisation des plantes, au même titre que les papillons.
+    - id: 23
+      question: Quelle est la longueur en centimètres d'un intestin de koala ?
+      propositions:
+      - 100 cm
+      - 400 cm
+      - 200 cm
+      - 300 cm
+      réponse: 300 cm
+      anecdote: Le koala est étroitement lié à l'eucalyptus ou gommier, dont il ne mange que les feuilles de certaines espèces.
+    - id: 24
+      question: Combien de jours dure l'hibernation d'un écureuil d'Alaska ?
+      propositions:
+      - 270 jours
+      - 320 jours
+      - 410 jours
+      - 180 jours
+      réponse: 270 jours
+      anecdote: La queue en panache de l'écureuil et son acharnement à faire des provisions pour l'hiver ont contribué à sa popularité.
+    - id: 25
+      question: Quelle est la vitesse maximale déjà atteinte par l'espadon-voilier ?
+      propositions:
+      - 89 km/h
+      - 109 km/h
+      - 119 km/h
+      - 99 km/h
+      réponse: 109 km/h
+      anecdote: Possédant des stries verticales sur les flancs, l'espadon-voilier est considéré comme étant le plus rapide des poissons.
+    - id: 26
+      question: Combien d'animaux du zoo de Berlin survécurent à la Seconde Guerre mondiale ?
+      propositions:
+      - 1 712
+      - 344
+      - 91
+      - 892
+      réponse: 91
+      anecdote: Les premiers dons d'animaux au zoo de Berlin, fondé en 1844, furent effectués par Frédéric-Guillaume IV, roi de Prusse.
+    - id: 27
+      question: Sur mille tortues marines, combien seulement atteignent l'âge de se reproduire ?
+      propositions:
+      - 100
+      - 15
+      - 250
+      - 640
+      réponse: 15
+      anecdote: Les tortues marines, bien que vulnérables, sont présentes dans tous les océans du monde, à l'exception de l'océan Arctique.
+    - id: 28
+      question: Combien de fois par seconde un colibri peut-il battre des ailes ?
+      propositions:
+      - 78 fois
+      - 58 fois
+      - 38 fois
+      - 18 fois
+      réponse: 78 fois
+      anecdote: Les colibris sont également surnommés oiseaux-mouches à cause de leur petite taille et de leurs battements d'ailes rapides.
+    - id: 29
+      question: Au sens large du terme, combien existe-t-il d'espèces de kangourous ?
+      propositions:
+      - 37
+      - 44
+      - 63
+      - 51
+      réponse: 63
+      anecdote: Animal emblématique de l'Australie, le grand kangourou y est plus populaire dans les campagnes que dans les villes.
+    - id: 30
+      question: Combien a-t-on découvert jusqu'ici d'espèces de coléoptères ?
+      propositions:
+      - 9 600
+      - 8 700
+      - 7 200
+      - 6 400
+      réponse: 9 600
+      anecdote: Les scarabées, les coccinelles, les lucanes, les chrysomèles, les hannetons et les charançons sont des coléoptères.
+  en:
+  - débutant:
+    - id: 1
+      question: How long does the average gestation of an elephant last ?
+      propositions:
+      - 9 months
+      - 21 months
+      - 13 months
+      - 17 months
+      réponse: 21 months
+      anecdote: An elephant can be pregnant up to the age of fifty, where only one elephant is carried in most cases.
+    - id: 2
+      question: How many pulses per minute does the heart of a hibernating hedgehog have ?
+      propositions:
+      - 18
+      - 38
+      - 8
+      - 28
+      réponse: 18
+      anecdote: Do not confuse the hedgehogs with other mammals carrying quills, such as porcupines.
+    - id: 3
+      question: How many kilometers is the howling monkey scream audible ?
+      propositions:
+      - 6 km
+      - 3 km
+      - 9 km
+      - 12 km
+      réponse: 3 km
+      anecdote: This monkey screams every morning, and when it fights with other howler monkeys, they also scream with screams.
+    - id: 4
+      question: In which year was the last living dodo seen in Mauritius ?
+      propositions:
+      - 1832
+      - 1723
+      - 1908
+      - 1681
+      réponse: 1681
+      anecdote: In addition to its inability to fly, the dodo had developed no fear of humans, making him an easy prey.
+    - id: 5
+      question: How many bison did Buffalo Bill slaughter in just 18 months ?
+      propositions:
+      - 4,000
+      - 2,000
+      - 3000
+      - 1,000
+      réponse: 4,000
+      anecdote: The stetson hat and the bandana were popularized by Buffalo Bill while not all cowboys wore it.
+    - id: 6
+      question: At what altitude do alpine ibex live in general ?
+      propositions:
+      - 1,900 m
+      - 2,300 m
+      - 3,500 m
+      - 4,600 m
+      réponse: 3,500 m
+      anecdote: The Alpine ibex prey includes steep walls, steep cliffs or steep walls.
+    - id: 7
+      question: How many minutes can a sea lion swim underwater without breathing ?
+      propositions:
+      - 11 min
+      - 7 min
+      - 5 min
+      - 9 min
+      réponse: 5 min
+      anecdote: Unlike seals, fur seals use their fins on the ground to walk.
+    - id: 8
+      question: What is, in centimeters, the length of the tongue of an adult anteater ?
+      propositions:
+      - 50 cm
+      - 70 cm
+      - 80 cm
+      - 60 cm
+      réponse: 60 cm
+      anecdote: The largest representative of the group is the giant anteater or large anteater, an animal measuring more than one meter in length.
+    - id: 9
+      question: What is the percentage of rodents among mammals ?
+      propositions:
+      - 20%
+      - 40%
+      - 30%
+      - 10%
+      réponse: 40%
+      anecdote: These animals are characterized by their unique pair of incisors which serve them to gnaw, dig galleries or defend themselves.
+    - id: 10
+      question: How many times a minute can an anteater get its tongue out of its mouth ?
+      propositions:
+      - 80 times
+      - 40 times
+      - 120 times
+      - 160 times
+      réponse: 160 times
+      anecdote: The anteater eats mostly ants, but it also likes termites and other insects such as ladybugs.
+  - confirmé:
+    - id: 11
+      question: How many pounds of meat can a hyena eat during a meal ?
+      propositions:
+      - 4 kg
+      - 14 kg
+      - 24 kg
+      - 34 kg
+      réponse: 14 kg
+      anecdote: It is impossible to discern, by simple observation, a hyena from a female, since both are alike.
+    - id: 12
+      question: What is the average weight of the tongue of an adult blue whale ?
+      propositions:
+      - 1.3 tons
+      - 2.2 tons
+      - 2.7 tons
+      - 880 kg
+      réponse: 2.7 tons
+      anecdote: When the mouth of the blue whale is completely open, it is big enough to hold 90 tons of water and food.
+    - id: 13
+      question: How much does a termite queen lay eggs on average per day ?
+      propositions:
+      - 60
+      - 30
+      - 90
+      - 120
+      réponse: 30
+      anecdote: From a termite couple are born larvae that give sterile workers or pupae that will give sexed adults.
+    - id: 14
+      question: How fast can a leopard at rest reach in just two seconds ?
+      propositions:
+      - 100 km / h
+      - 40 km / h
+      - 60 km / h
+      - 80 km / h
+      réponse: 60 km / h
+      anecdote: Leopard holds an important place in some African cultures where this king of animals is the attribute of the chiefs.
+    - id: 15
+      question: How many minutes can a sperm whale stay underwater without breathing ?
+      propositions:
+      - 30 min
+      - 90 min
+      - 50 min
+      - 70 min
+      réponse: 90 min
+      anecdote: Spermaceti, a white and waxy substance from the head of the animal, was harvested by the sperm whale.
+    - id: 16
+      question: How fast can a peregrine falcon reach when it is on its prey ?
+      propositions:
+      - 200 km / h
+      - 240 km / h
+      - 160 km / h
+      - 120 km / h
+      réponse: 240 km / h
+      anecdote: Its prey is often birds, but some individuals can also attack small land animals.
+    - id: 17
+      question: How many milliliters of blood can a vampire bat drink in one night ?
+      propositions:
+      - 20 ml
+      - 40 ml
+      - 60 ml
+      - 80 ml
+      réponse: 20 ml
+      anecdote: The vampire bat is native to the tropical areas of the American continent (Mexico, Chile, Brazil and Argentina).
+    - id: 18
+      question: By what factor is the weight of a polar bear multiplied two months after birth ?
+      propositions:
+      - 25
+      - 55
+      - 45
+      - 35
+      réponse: 25
+      anecdote: Perfectly adapted to its habitat, the polar bear has a thick layer of fat and a fur that isolates it from the cold.
+    - id: 19
+      question: How many times are there more non-venomous snakes than venomous ?
+      propositions:
+      - 1500 times
+      - 1,700 times
+      - 1,300 times
+      - 1,100 times
+      réponse: 1,700 times
+      anecdote: Most snakes have a bifid tongue, eyes without eyelids, articulated skulls and mobile jaws.
+    - id: 20
+      question: How many eggs does the average Nile crocodile produce in good health ?
+      propositions:
+      - 130
+      - 70
+      - 40
+      - 100
+      réponse: 100
+      anecdote: At the eggs' closing, the baby crocodile is approximately 30 cm and has the same body as his mother, whether male or female.
+  - expert:
+    - id: 21
+      question: What is the maximum length of the jump that a cougar can make ?
+      propositions:
+      - 6 m
+      - 12 m
+      - 8 m
+      - 10 m
+      réponse: 12 m
+      anecdote: For the purposes of hunting or in case of threat, he is able to climb trees and be very agile.
+    - id: 22
+      question: How much does a normally formed mosquito have teeth ?
+      propositions:
+      - 47
+      - 11
+      - 29
+      - 34
+      réponse: 47
+      anecdote: Adults feed on flower nectar and participate in the pollination of plants, just like butterflies.
+    - id: 23
+      question: What is the length in centimeters of a koala intestine ?
+      propositions:
+      - 400 cm
+      - 200 cm
+      - 100 cm
+      - 300 cm
+      réponse: 300 cm
+      anecdote: The koala is closely related to the eucalyptus or gum tree, from which it only eats the leaves of certain species.
+    - id: 24
+      question: How many days does an Alaskan squirrel hibernate ?
+      propositions:
+      - 320 days
+      - 410 days
+      - 270 days
+      - 180 days
+      réponse: 270 days
+      anecdote: The squirrel's plume tail and its relentless winter provisions have contributed to its popularity.
+    - id: 25
+      question: What is the maximum speed already reached by the sailing swordfish ?
+      propositions:
+      - 109 km / h
+      - 89 km / h
+      - 99 km / h
+      - 119 km / h
+      réponse: 109 km / h
+      anecdote: Possessing vertical streaks on the flanks, the sailfish is considered to be the fastest fish.
+    - id: 26
+      question: How many animals from the Berlin Zoo survived in the Second World War ?
+      propositions:
+      - 1,712
+      - 892
+      - 344
+      - 91
+      réponse: 91
+      anecdote: The first animal donations to the Berlin Zoo, founded in 1844, were made by Frederick William IV, King of Prussia.
+    - id: 27
+      question: Out of a thousand marine turtles, how many only reach the age to reproduce ?
+      propositions:
+      - 640
+      - 15
+      - 100
+      - 250
+      réponse: 15
+      anecdote: Sea turtles, although vulnerable, are present in all the oceans of the world, with the exception of the Arctic Ocean.
+    - id: 28
+      question: How many times a second can a hummingbird flap its wings ?
+      propositions:
+      - 78 times
+      - 18 times
+      - 38 times
+      - 58 times
+      réponse: 78 times
+      anecdote: Hummingbirds are also known as hummingbirds because of their small size and fast wing beats.
+    - id: 29
+      question: In the broad sense of the term, how many species of kangaroos are there ?
+      propositions:
+      - 37
+      - 51
+      - 44
+      - 63
+      réponse: 63
+      anecdote: An emblematic animal of Australia, the big kangaroo is more popular in the countryside than in the cities.
+    - id: 30
+      question: How many species have been discovered so far ?
+      propositions:
+      - 9 600
+      - 6 400
+      - 7,200
+      - 8 700
+      réponse: 9 600
+      anecdote: Beetles, ladybugs, lucans, beetles, cockchafers and charanceps are allopoei.
+  de:
+  - débutant:
+    - id: 1
+      question: Wie lange dauert die durchschnittliche Schwangerschaft eines Elefanten ?
+      propositions:
+      - 13 Monate
+      - 21 Monate
+      - 17 Monate
+      - 9 Monate
+      réponse: 21 Monate
+      anecdote: Ein Elefant kann bis zum Alter von fünfzig Jahren schwanger sein, wobei in den meisten Fällen nur ein Elefant getragen wird.
+    - id: 2
+      question: Wie viele Impulse pro Minute hat das Herz eines Winterschlafigels ?
+      propositions:
+      - 8
+      - 18
+      - 38
+      - 28
+      réponse: 18
+      anecdote: Verwechseln Sie die Igel nicht mit anderen Säugetieren, die Stacheln wie Stachelschweine tragen.
+    - id: 3
+      question: Wie viele Kilometer ist der schreiende Affe hörbar ?
+      propositions:
+      - 6 km
+      - 12 km
+      - 9 km
+      - 3 km
+      réponse: 3 km
+      anecdote: Dieser Affe schreit jeden Morgen, und wenn er mit anderen Brüllaffen kämpft, schreien sie auch mit Schreien.
+    - id: 4
+      question: In welchem Jahr wurde der letzte lebende Dodo auf Mauritius gesehen ?
+      propositions:
+      - 1723
+      - 1908
+      - 1681
+      - 1832
+      réponse: 1681
+      anecdote: Neben seiner Flugunfähigkeit hatte der Dodo keine Angst vor Menschen entwickelt, was ihn zu einer leichten Beute machte.
+    - id: 5
+      question: Wie viele Bisons hat Buffalo Bill in nur 18 Monaten geschlachtet ?
+      propositions:
+      - 1.000
+      - 2.000
+      - 4.000
+      - 3000
+      réponse: 4.000
+      anecdote: Der Stetson-Hut und das Bandana wurden von Buffalo Bill populär gemacht, während nicht alle Cowboys ihn trugen.
+    - id: 6
+      question: In welcher Höhe leben die Steinböcke im Allgemeinen ?
+      propositions:
+      - 1.900 m
+      - 2.300 m
+      - 3.500 m
+      - 4.600 m
+      réponse: 3.500 m
+      anecdote: Die alpine Steinbockbeute umfasst steile Wände, steile Klippen oder steile Wände.
+    - id: 7
+      question: Wie viele Minuten kann ein Seelöwe ohne zu atmen unter Wasser schwimmen ?
+      propositions:
+      - 11 min
+      - 5 min
+      - 9 min
+      - 7 min
+      réponse: 5 min
+      anecdote: Im Gegensatz zu Robben benutzen Pelzrobben ihre Flossen am Boden zum Gehen.
+    - id: 8
+      question: Wie lang ist die Zunge eines erwachsenen Ameisenbären in Zentimetern ?
+      propositions:
+      - 50 cm
+      - 80 cm
+      - 60 cm
+      - 70 cm
+      réponse: 60 cm
+      anecdote: Der größte Vertreter der Gruppe ist der riesige Ameisenbär oder ein großer Ameisenbär, ein Tier mit einer Länge von mehr als einem Meter.
+    - id: 9
+      question: Wie hoch ist der Anteil der Nagetiere bei Säugetieren ?
+      propositions:
+      - 10%
+      - 30%
+      - 40%
+      - 20%
+      réponse: 40%
+      anecdote: Diese Tiere zeichnen sich durch ihr einzigartiges Schneidezahnpaar aus, mit dem sie nagen, Galerien graben oder sich verteidigen können.
+    - id: 10
+      question: Wie oft pro Minute kann ein Ameisenbär seine Zunge aus dem Mund nehmen ?
+      propositions:
+      - 160 mal
+      - 80 mal
+      - 40 mal
+      - 120 mal
+      réponse: 160 mal
+      anecdote: Der Ameisenbär isst meistens Ameisen, aber auch Termiten und andere Insekten wie Marienkäfer.
+  - confirmé:
+    - id: 11
+      question: Wie viele Pfund Fleisch kann eine Hyäne während einer Mahlzeit essen ?
+      propositions:
+      - 24 kg
+      - 14 kg
+      - 4 kg
+      - 34 kg
+      réponse: 14 kg
+      anecdote: Es ist unmöglich, durch einfache Beobachtung eine Hyäne von einer Frau zu unterscheiden, da beide gleich sind.
+    - id: 12
+      question: Was ist das durchschnittliche Gewicht der Zunge eines erwachsenen Blauwals ?
+      propositions:
+      - 880 kg
+      - 2,2 Tonnen
+      - 1,3 Tonnen
+      - 2,7 Tonnen
+      réponse: 2,7 Tonnen
+      anecdote: Wenn der Mund des Blauwals vollständig geöffnet ist, ist er groß genug, um 90 Tonnen Wasser und Nahrung aufzunehmen.
+    - id: 13
+      question: Wie viel legt eine Termitenkönigin durchschnittlich pro Tag Eier ?
+      propositions:
+      - 120
+      - 90
+      - 30
+      - 60
+      réponse: 30
+      anecdote: Aus einem Termitenpaar werden Larven geboren, die sterilen Arbeitern oder Puppen geben, die geschlechtsspezifische Erwachsene geben.
+    - id: 14
+      question: Wie schnell kann ein Leopard in Ruhe in nur zwei Sekunden erreicht werden ?
+      propositions:
+      - 40 km / h
+      - 60 km / h
+      - 100 km / h
+      - 80 km / h
+      réponse: 60 km / h
+      anecdote: Leopard nimmt in einigen afrikanischen Kulturen einen wichtigen Platz ein, wo dieser Tierkönig das Attribut der Häuptlinge ist.
+    - id: 15
+      question: Wie viele Minuten kann ein Pottwal unter Wasser bleiben, ohne zu atmen ?
+      propositions:
+      - 50 min
+      - 70 min
+      - 90 min
+      - 30 min
+      réponse: 90 min
+      anecdote: Spermaceti, eine weiße und wachsartige Substanz aus dem Kopf des Tieres, wurde vom Pottwal geerntet.
+    - id: 16
+      question: Wie schnell kann ein Wanderfalke erreichen, wenn er auf Beute ist ?
+      propositions:
+      - 120 km / h
+      - 200 km / h
+      - 160 km / h
+      - 240 km / h
+      réponse: 240 km / h
+      anecdote: Seine Beute sind oft Vögel, aber manche Menschen können auch kleine Landtiere angreifen.
+    - id: 17
+      question: Wie viele Milliliter Blut kann ein Vampirschläger in einer Nacht trinken ?
+      propositions:
+      - 20 ml
+      - 60 ml
+      - 40 ml
+      - 80 ml
+      réponse: 20 ml
+      anecdote: Die Vampirfledermaus stammt aus den tropischen Gebieten des amerikanischen Kontinents (Mexiko, Chile, Brasilien und Argentinien).
+    - id: 18
+      question: Um welchen Faktor wird das Gewicht eines Eisbären zwei Monate nach der Geburt multipliziert ?
+      propositions:
+      - 35
+      - 45
+      - 25
+      - 55
+      réponse: 25
+      anecdote: Der Eisbär ist perfekt an seinen Lebensraum angepasst und hat eine dicke Fettschicht und ein Fell, das ihn vor der Kälte isoliert.
+    - id: 19
+      question: Wie oft gibt es mehr nicht giftige Schlangen als giftige ?
+      propositions:
+      - 1500 mal
+      - 1.100 mal
+      - 1.300 mal
+      - 1700 mal
+      réponse: 1700 mal
+      anecdote: Die meisten Schlangen haben eine bifide Zunge, Augen ohne Augenlider, gegliederte Schädel und bewegliche Kiefer.
+    - id: 20
+      question: Wie viele Eier produziert ein durchschnittliches Nilkrokodil bei guter Gesundheit ?
+      propositions:
+      - 40
+      - 70
+      - 100
+      - 130
+      réponse: 100
+      anecdote: Beim Schließen der Eier ist das Babykrokodil etwa 30 cm groß und hat den gleichen Körper wie seine Mutter, egal ob männlich oder weiblich.
+  - expert:
+    - id: 21
+      question: Was ist die maximale Sprunglänge, die ein Puma machen kann ?
+      propositions:
+      - 10 m
+      - 6 m
+      - 12 m
+      - 8 m
+      réponse: 12 m
+      anecdote: Für die Jagd oder im Falle einer Bedrohung kann er auf Bäume klettern und sehr wendig sein.
+    - id: 22
+      question: Wie viel hat eine normal geformte Mücke Zähne ?
+      propositions:
+      - 34
+      - 29
+      - 47
+      - 11
+      réponse: 47
+      anecdote: Erwachsene ernähren sich von Blumennektar und beteiligen sich wie Schmetterlinge an der Bestäubung von Pflanzen.
+    - id: 23
+      question: Wie lang ist ein Koaladarm in Zentimetern ?
+      propositions:
+      - 100 cm
+      - 400 cm
+      - 200 cm
+      - 300 cm
+      réponse: 300 cm
+      anecdote: Der Koala ist eng mit dem Eukalyptus oder Gummibaum verwandt, von dem er nur die Blätter bestimmter Arten frisst.
+    - id: 24
+      question: Wie viele Tage überwinkt ein alaskisches Eichhörnchen ?
+      propositions:
+      - 410 Tage
+      - 180 Tage
+      - 320 Tage
+      - 270 Tage
+      réponse: 270 Tage
+      anecdote: Der Eichhörnchenschwanz und seine unnachgiebigen Wintervorräte haben zu seiner Popularität beigetragen.
+    - id: 25
+      question: Was ist die Höchstgeschwindigkeit, die der Schwertfisch schon erreicht hat ?
+      propositions:
+      - 109 km / h
+      - 99 km / h
+      - 119 km / h
+      - 89 km / h
+      réponse: 109 km / h
+      anecdote: Der Segelfisch besitzt senkrechte Streifen an den Flanken und gilt als der schnellste Fisch.
+    - id: 26
+      question: Wie viele Tiere aus dem Berliner Zoo haben im Zweiten Weltkrieg überlebt ?
+      propositions:
+      - 1,712
+      - 344
+      - 892
+      - 91
+      réponse: 91
+      anecdote: Die ersten Tierspenden für den 1844 gegründeten Berliner Zoo wurden von Friedrich Wilhelm IV., König von Preußen, gemacht.
+    - id: 27
+      question: Wie viele von tausend Meeresschildkröten erreichen nur das Alter, um sich fortpflanzen zu können ?
+      propositions:
+      - 100
+      - 640
+      - 250
+      - 15
+      réponse: 15
+      anecdote: Obwohl Meeresschildkröten anfällig sind, sind sie in allen Ozeanen der Welt mit Ausnahme des Arktischen Ozeans vertreten.
+    - id: 28
+      question: Wie oft pro Sekunde kann ein Kolibri seine Flügel schlagen ?
+      propositions:
+      - 38 mal
+      - 18 mal
+      - 58 mal
+      - 78 mal
+      réponse: 78 mal
+      anecdote: Kolibris sind wegen ihrer geringen Größe und ihrer schnellen Flügelschläge auch als Kolibris bekannt.
+    - id: 29
+      question: Wie viele Kängurusarten gibt es im weitesten Sinne des Wortes ?
+      propositions:
+      - 44
+      - 37
+      - 51
+      - 63
+      réponse: 63
+      anecdote: Das große Känguru ist ein symbolträchtiges Tier Australiens und auf dem Land beliebter als in den Städten.
+    - id: 30
+      question: Wie viele Arten wurden bisher entdeckt ?
+      propositions:
+      - 7.200
+      - 9 600
+      - 6 400
+      - 8 700
+      réponse: 9 600
+      anecdote: Käfer, Marienkäfer, Lucans, Käfer, Cockchafers und Charanceps sind Allopoei.
+  es:
+  - débutant:
+    - id: 1
+      question: ¿Cuánto dura la gestación media de un elefante ?
+      propositions:
+      - 17 meses
+      - 13 meses
+      - 9 meses
+      - 21 meses
+      réponse: 21 meses
+      anecdote: Un elefante puede estar embarazada hasta la edad de cincuenta años, donde solo se lleva un elefante en la mayoría de los casos.
+    - id: 2
+      question: ¿Cuántos pulsos por minuto tiene el corazón de un erizo en hibernación ?
+      propositions:
+      - 38
+      - 28
+      - 8
+      - 18
+      réponse: 18
+      anecdote: No confunda los erizos con otros mamíferos que llevan plumas, como los puercoespines.
+    - id: 3
+      question: ¿Cuántos kilómetros es audible el grito del mono aullador ?
+      propositions:
+      - 12 km
+      - 9 km
+      - 3 km
+      - 6 km
+      réponse: 3 km
+      anecdote: Este mono grita todas las mañanas, y cuando pelea con otros monos aulladores, también gritan con gritos.
+    - id: 4
+      question: ¿En qué año se vio el último dodo viviente en Mauricio ?
+      propositions:
+      - 1908
+      - 1723
+      - 1681
+      - 1832
+      réponse: 1681
+      anecdote: Además de su incapacidad para volar, el dodo no había desarrollado ningún temor a los humanos, lo que lo convertía en una presa fácil.
+    - id: 5
+      question: ¿Cuántos bisontes mató Buffalo Bill en solo 18 meses ?
+      propositions:
+      - 4,000
+      - 3000
+      - 1,000
+      - 2,000
+      réponse: 4,000
+      anecdote: El sombrero stetson y el pañuelo fueron popularizados por Buffalo Bill, mientras que no todos los vaqueros lo usaban.
+    - id: 6
+      question: ¿A qué altitud vive el ibex alpino en general ?
+      propositions:
+      - 4,600 m
+      - 2,300 m
+      - 3,500 m
+      - 1,900 m
+      réponse: 3,500 m
+      anecdote: La presa ibex alpina incluye paredes escarpadas, acantilados o paredes empinadas.
+    - id: 7
+      question: ¿Cuántos minutos puede un león marino nadar bajo el agua sin respirar ?
+      propositions:
+      - 5 min
+      - 9 min
+      - 11 min
+      - 7 min
+      réponse: 5 min
+      anecdote: A diferencia de las focas, las focas usan sus aletas en el suelo para caminar.
+    - id: 8
+      question: ¿Cuál es, en centímetros, la longitud de la lengua de un oso hormiguero adulto ?
+      propositions:
+      - 70 cm
+      - 60 cm
+      - 50 cm
+      - 80 cm
+      réponse: 60 cm
+      anecdote: El mayor representante del grupo es el oso hormiguero gigante o oso hormiguero grande, un animal que mide más de un metro de longitud.
+    - id: 9
+      question: ¿Cuál es el porcentaje de roedores entre los mamíferos ?
+      propositions:
+      - 40%
+      - 20%
+      - 10%
+      - 30%
+      réponse: 40%
+      anecdote: Estos animales se caracterizan por su par único de incisivos que les sirven para roer, cavar galerías o defenderse.
+    - id: 10
+      question: ¿Cuántas veces por minuto puede un oso hormiguero sacarse la lengua de la boca ?
+      propositions:
+      - 120 veces
+      - 160 veces
+      - 40 veces
+      - 80 veces
+      réponse: 160 veces
+      anecdote: El oso hormiguero come principalmente hormigas, pero también le gustan las termitas y otros insectos como las mariquitas.
+  - confirmé:
+    - id: 11
+      question: ¿Cuántas libras de carne puede comer una hiena durante una comida ?
+      propositions:
+      - 34 kg
+      - 4 kg
+      - 24 kg
+      - 14 kg
+      réponse: 14 kg
+      anecdote: Es imposible discernir, por simple observación, una hiena de una hembra, ya que ambas son iguales.
+    - id: 12
+      question: ¿Cuál es el peso promedio de la lengua de una ballena azul adulta ?
+      propositions:
+      - 2,2 toneladas
+      - 880 kg
+      - 2,7 toneladas
+      - 1.3 toneladas
+      réponse: 2,7 toneladas
+      anecdote: Cuando la boca de la ballena azul está completamente abierta, es lo suficientemente grande como para contener 90 toneladas de agua y alimentos.
+    - id: 13
+      question: ¿Cuánto cuesta en promedio una reina de termitas por día ?
+      propositions:
+      - 120
+      - 90
+      - 60
+      - 30
+      réponse: 30
+      anecdote: De una pareja de termitas nacen larvas que dan trabajadores estériles o pupas que darán adultos sexuados.
+    - id: 14
+      question: ¿Qué tan rápido puede alcanzar un leopardo en reposo en solo dos segundos ?
+      propositions:
+      - 80 km / h
+      - 100 km / h
+      - 40 km / h
+      - 60 km / h
+      réponse: 60 km / h
+      anecdote: El leopardo ocupa un lugar importante en algunas culturas africanas donde este rey de los animales es el atributo de los jefes.
+    - id: 15
+      question: ¿Cuántos minutos puede una ballena de esperma permanecer bajo el agua sin respirar ?
+      propositions:
+      - 70 min
+      - 30 min
+      - 50 min
+      - 90 min
+      réponse: 90 min
+      anecdote: El espermatozoide, una sustancia blanca y cerosa de la cabeza del animal, fue cosechado por el cachalote.
+    - id: 16
+      question: ¿Qué tan rápido puede llegar un halcón peregrino cuando está en su presa ?
+      propositions:
+      - 200 km / h
+      - 160 km / h
+      - 120 km / h
+      - 240 km / h
+      réponse: 240 km / h
+      anecdote: Su presa es a menudo aves, pero algunos individuos también pueden atacar pequeños animales terrestres.
+    - id: 17
+      question: ¿Cuántos mililitros de sangre puede beber un murciélago vampiro en una noche ?
+      propositions:
+      - 40 ml
+      - 20 ml
+      - 60 ml
+      - 80 ml
+      réponse: 20 ml
+      anecdote: El murciélago vampiro es nativo de las áreas tropicales del continente americano (México, Chile, Brasil y Argentina).
+    - id: 18
+      question: ¿Por qué factor se multiplica el peso de un oso polar dos meses después del nacimiento ?
+      propositions:
+      - 25
+      - 45
+      - 55
+      - 35
+      réponse: 25
+      anecdote: Perfectamente adaptado a su hábitat, el oso polar tiene una gruesa capa de grasa y un pelaje que lo aísla del frío.
+    - id: 19
+      question: ¿Cuántas veces hay más serpientes no venenosas que venenosas ?
+      propositions:
+      - 1,100 veces
+      - 1,700 veces
+      - 1,300 veces
+      - 1500 veces
+      réponse: 1,700 veces
+      anecdote: La mayoría de las serpientes tienen una lengua bífida, ojos sin párpados, cráneos articulados y mandíbulas móviles.
+    - id: 20
+      question: ¿Cuántos huevos produce el cocodrilo promedio del Nilo en buena salud ?
+      propositions:
+      - 40
+      - 100
+      - 130
+      - 70
+      réponse: 100
+      anecdote: Al cierre de los huevos, el cocodrilo del bebé mide aproximadamente 30 cm y tiene el mismo cuerpo que su madre, ya sea macho o hembra.
+  - expert:
+    - id: 21
+      question: ¿Cuál es la longitud máxima del salto que puede hacer un puma ?
+      propositions:
+      - 6 m
+      - 12 m
+      - 10 m
+      - 8 m
+      réponse: 12 m
+      anecdote: A los efectos de la caza o en caso de amenaza, puede trepar árboles y ser muy ágil.
+    - id: 22
+      question: ¿Cuánto tienen los dientes un mosquito normalmente formado ?
+      propositions:
+      - 34
+      - 29
+      - 11
+      - 47
+      réponse: 47
+      anecdote: Los adultos se alimentan de néctar de flores y participan en la polinización de las plantas, al igual que las mariposas.
+    - id: 23
+      question: ¿Cuál es la longitud en centímetros de un intestino koala ?
+      propositions:
+      - 300 cm
+      - 100 cm
+      - 200 cm
+      - 400 cm
+      réponse: 300 cm
+      anecdote: El koala está estrechamente relacionado con el eucalipto o el árbol de las encías, del cual solo come las hojas de ciertas especies.
+    - id: 24
+      question: ¿Cuántos días hiberna una ardilla de Alaska ?
+      propositions:
+      - 410 dias
+      - 270 días
+      - 180 dias
+      - 320 días
+      réponse: 270 días
+      anecdote: La cola de la pluma de la ardilla y sus implacables disposiciones de invierno han contribuido a su popularidad.
+    - id: 25
+      question: ¿Cuál es la velocidad máxima ya alcanzada por el pez espada navegante ?
+      propositions:
+      - 109 km / h
+      - 99 km / h
+      - 89 km / h
+      - 119 km / h
+      réponse: 109 km / h
+      anecdote: Poseiendo rayas verticales en los flancos, el pez vela se considera el pez más rápido.
+    - id: 26
+      question: ¿Cuántos animales del zoológico de Berlín sobrevivieron en la Segunda Guerra Mundial ?
+      propositions:
+      - 344
+      - 91
+      - 892
+      - 1,712
+      réponse: 91
+      anecdote: Las primeras donaciones de animales al zoológico de Berlín, fundado en 1844, fueron hechas por Frederick William IV, rey de Prusia.
+    - id: 27
+      question: De las mil tortugas marinas, ¿cuántas solo llegan a la edad para reproducirse ?
+      propositions:
+      - 640
+      - 250
+      - 100
+      - 15
+      réponse: 15
+      anecdote: Las tortugas marinas, aunque vulnerables, están presentes en todos los océanos del mundo, con la excepción del Océano Ártico.
+    - id: 28
+      question: ¿Cuántas veces por segundo puede un colibrí batir sus alas ?
+      propositions:
+      - 58 veces
+      - 78 veces
+      - 18 veces
+      - 38 veces
+      réponse: 78 veces
+      anecdote: Los colibríes también son conocidos como colibríes debido a su pequeño tamaño y sus rápidos alerones.
+    - id: 29
+      question: En el sentido amplio del término, ¿cuántas especies de canguros hay ?
+      propositions:
+      - 37
+      - 44
+      - 63
+      - 51
+      réponse: 63
+      anecdote: Un animal emblemático de Australia, el gran canguro es más popular en el campo que en las ciudades.
+    - id: 30
+      question: ¿Cuántas especies se han descubierto hasta ahora ?
+      propositions:
+      - 9 600
+      - 7,200
+      - 8 700
+      - 6 400
+      réponse: 9 600
+      anecdote: Escarabajos, mariquitas, lucans, escarabajos, cockchafers y charanceps.
+  it:
+  - débutant:
+    - id: 1
+      question: Quanto dura la gestazione media di un elefante ?
+      propositions:
+      - 9 mesi
+      - 13 mesi
+      - 21 mesi
+      - 17 mesi
+      réponse: 21 mesi
+      anecdote: Un elefante può essere incinta fino ai cinquant'anni, dove nella maggior parte dei casi viene trasportato un solo elefante.
+    - id: 2
+      question: Quanti impulsi al minuto ha il cuore di un riccio in letargo ?
+      propositions:
+      - 18
+      - 8
+      - 28
+      - 38
+      réponse: 18
+      anecdote: Non confondere i ricci con altri mammiferi che trasportano le penne, come i porcospini.
+    - id: 3
+      question: Quanti chilometri è udibile la scimmia urlante ?
+      propositions:
+      - 9 km
+      - 6 km
+      - 3 km
+      - 12 km
+      réponse: 3 km
+      anecdote: Questa scimmia urla ogni mattina, e quando combatte con altre scimmie urlatrici, urlano anche con urla.
+    - id: 4
+      question: In quale anno è stato l'ultimo dodo vivente visto a Mauritius ?
+      propositions:
+      - 1723
+      - 1681
+      - 1832
+      - 1908
+      réponse: 1681
+      anecdote: Oltre alla sua incapacità di volare, il dodo non aveva sviluppato alcuna paura per gli umani, rendendolo una facile preda.
+    - id: 5
+      question: Quanti bisonti ha macellato Buffalo Bill in soli 18 mesi ?
+      propositions:
+      - 3000
+      - 1.000
+      - 2.000
+      - 4.000
+      réponse: 4.000
+      anecdote: Il cappello stetson e la bandana furono resi popolari da Buffalo Bill mentre non tutti i cowboy lo indossavano.
+    - id: 6
+      question: A che altezza vivono gli stambecchi alpini in generale ?
+      propositions:
+      - 3.500 m
+      - 2.300 m
+      - 1900 m
+      - 4.600 m
+      réponse: 3.500 m
+      anecdote: La preda dello stambecco alpino comprende pareti ripide, pareti rocciose ripide o pareti ripide.
+    - id: 7
+      question: Quanti minuti può un leone marino nuotare sott'acqua senza respirare ?
+      propositions:
+      - 7 minuti
+      - 5 minuti
+      - 9 minuti
+      - 11 minuti
+      réponse: 5 minuti
+      anecdote: A differenza delle foche, le foche usano le pinne a terra per camminare.
+    - id: 8
+      question: Qual è, in centimetri, la lunghezza della lingua di un formichiere adulto ?
+      propositions:
+      - 70 cm
+      - 60 cm
+      - 50 cm
+      - 80 cm
+      réponse: 60 cm
+      anecdote: Il più grande rappresentante del gruppo è il formichiere gigante o grande formichiere, un animale che misura più di un metro di lunghezza.
+    - id: 9
+      question: Qual è la percentuale di roditori tra i mammiferi ?
+      propositions:
+      - 30%
+      - 10%
+      - 20%
+      - 40%
+      réponse: 40%
+      anecdote: Questi animali sono caratterizzati dalla loro coppia unica di incisivi che li servono a rosicchiare, scavare gallerie o difendersi.
+    - id: 10
+      question: Quante volte al minuto un formichiere può togliersi la lingua dalla bocca ?
+      propositions:
+      - 40 volte
+      - 160 volte
+      - 80 volte
+      - 120 volte
+      réponse: 160 volte
+      anecdote: Il formichiere mangia principalmente le formiche, ma ama anche le termiti e altri insetti come le coccinelle.
+  - confirmé:
+    - id: 11
+      question: Quanti chili di carne può mangiare una iena durante un pasto ?
+      propositions:
+      - 4 kg
+      - 24 kg
+      - 34 kg
+      - 14 kg
+      réponse: 14 kg
+      anecdote: È impossibile distinguere, per semplice osservazione, una iena da una femmina, poiché entrambi sono simili.
+    - id: 12
+      question: Qual è il peso medio della lingua di una balena blu adulta ?
+      propositions:
+      - 2,7 tonnellate
+      - 2,2 tonnellate
+      - 880 kg
+      - 1,3 tonnellate
+      réponse: 2,7 tonnellate
+      anecdote: Quando la bocca della balena blu è completamente aperta, è abbastanza grande da contenere 90 tonnellate di acqua e cibo.
+    - id: 13
+      question: Quanto costa in media una regina di termiti al giorno ?
+      propositions:
+      - 120
+      - 90
+      - 60
+      - 30
+      réponse: 30
+      anecdote: Da una coppia di termiti nascono larve che danno sterili lavoratori o pupe che daranno adulti sessuati.
+    - id: 14
+      question: Quanto velocemente può raggiungere un leopardo in pace in soli due secondi ?
+      propositions:
+      - 40 km / h
+      - 100 km / h
+      - 80 km / h
+      - 60 km / h
+      réponse: 60 km / h
+      anecdote: Il leopardo occupa un posto importante in alcune culture africane in cui questo re degli animali è l'attributo dei capi.
+    - id: 15
+      question: Quanti minuti può un capodoglio rimanere sott'acqua senza respirare ?
+      propositions:
+      - 90 minuti
+      - 30 minuti
+      - 70 minuti
+      - 50 minuti
+      réponse: 90 minuti
+      anecdote: Spermaceti, una sostanza bianca e cerosa dalla testa dell'animale, è stata raccolta dal capodoglio.
+    - id: 16
+      question: Quanto velocemente può raggiungere un falco pellegrino quando è in preda ?
+      propositions:
+      - 240 km / h
+      - 120 km / h
+      - 200 km / h
+      - 160 km / h
+      réponse: 240 km / h
+      anecdote: Le sue prede sono spesso uccelli, ma alcuni individui possono anche attaccare piccoli animali terrestri.
+    - id: 17
+      question: Quanti millilitri di sangue può bere un pipistrello vampiro in una notte ?
+      propositions:
+      - 60 ml
+      - 20 ml
+      - 80 ml
+      - 40 ml
+      réponse: 20 ml
+      anecdote: Il pipistrello vampiro è originario delle zone tropicali del continente americano (Messico, Cile, Brasile e Argentina).
+    - id: 18
+      question: Con quale fattore il peso di un orso polare si moltiplica due mesi dopo la nascita ?
+      propositions:
+      - 55
+      - 35
+      - 25
+      - 45
+      réponse: 25
+      anecdote: Perfettamente adattato al suo habitat, l'orso polare ha uno spesso strato di grasso e una pelliccia che lo isola dal freddo.
+    - id: 19
+      question: Quante volte ci sono più serpenti non velenosi che velenosi ?
+      propositions:
+      - 1.700 volte
+      - 1.300 volte
+      - 1500 volte
+      - 1.100 volte
+      réponse: 1.700 volte
+      anecdote: La maggior parte dei serpenti ha una lingua bifida, occhi senza palpebre, crani articolati e mascelle mobili.
+    - id: 20
+      question: Quante uova produce il coccodrillo del Nilo in buona salute ?
+      propositions:
+      - 130
+      - 100
+      - 40
+      - 70
+      réponse: 100
+      anecdote: Alla chiusura delle uova, il coccodrillo del bambino è di circa 30 cm e ha lo stesso corpo di sua madre, maschio o femmina.
+  - expert:
+    - id: 21
+      question: Qual è la lunghezza massima del salto che può fare un puma ?
+      propositions:
+      - 6 m
+      - 12 m
+      - 8 m
+      - 10 m
+      réponse: 12 m
+      anecdote: Ai fini della caccia o in caso di minaccia, è in grado di arrampicarsi sugli alberi ed essere molto agile.
+    - id: 22
+      question: Quanto fa una zanzara formata normalmente con i denti ?
+      propositions:
+      - 47
+      - 29
+      - 11
+      - 34
+      réponse: 47
+      anecdote: Gli adulti si nutrono di nettare di fiori e partecipano all'impollinazione delle piante, proprio come le farfalle.
+    - id: 23
+      question: Qual è la lunghezza in centimetri di un intestino di koala ?
+      propositions:
+      - 400 cm
+      - 100 cm
+      - 200 cm
+      - 300 cm
+      réponse: 300 cm
+      anecdote: Il koala è strettamente correlato all'eucalipto o albero della gomma, dal quale mangia solo le foglie di alcune specie.
+    - id: 24
+      question: Quanti giorni ha uno scoiattolo dell'Alaska in letargo ?
+      propositions:
+      - 320 giorni
+      - 270 giorni
+      - 180 giorni
+      - 410 giorni
+      réponse: 270 giorni
+      anecdote: La coda del pennacchio dello scoiattolo e le sue implacabili disposizioni invernali hanno contribuito alla sua popolarità.
+    - id: 25
+      question: Qual è la velocità massima raggiunta dal pesce spada a vela ?
+      propositions:
+      - 89 km / h
+      - 99 km / h
+      - 109 km / h
+      - 119 km / h
+      réponse: 109 km / h
+      anecdote: Possedendo strisce verticali sui fianchi, il pesce vela è considerato il pesce più veloce.
+    - id: 26
+      question: Quanti animali dello zoo di Berlino sono sopravvissuti durante la seconda guerra mondiale ?
+      propositions:
+      - 344
+      - 91
+      - 1,712
+      - 892
+      réponse: 91
+      anecdote: Le prime donazioni di animali allo Zoo di Berlino, fondato nel 1844, furono realizzate da Federico Guglielmo IV, re di Prussia.
+    - id: 27
+      question: Su un migliaio di tartarughe marine, quanti riescono a raggiungere l'età per riprodursi ?
+      propositions:
+      - 250
+      - 100
+      - 640
+      - 15
+      réponse: 15
+      anecdote: Le tartarughe marine, sebbene vulnerabili, sono presenti in tutti gli oceani del mondo, ad eccezione dell'Oceano Artico.
+    - id: 28
+      question: Quante volte un secondo può un colibrì sbattere le ali ?
+      propositions:
+      - 78 volte
+      - 58 volte
+      - 18 volte
+      - 38 volte
+      réponse: 78 volte
+      anecdote: I colibrì sono anche conosciuti come colibrì a causa delle loro piccole dimensioni e veloci battiti d'ali.
+    - id: 29
+      question: Nel senso più ampio del termine, quante specie di canguri ci sono ?
+      propositions:
+      - 37
+      - 63
+      - 44
+      - 51
+      réponse: 63
+      anecdote: Un animale emblematico dell'Australia, il grande canguro è più popolare nelle campagne che nelle città.
+    - id: 30
+      question: Quante specie sono state scoperte finora ?
+      propositions:
+      - 7.200
+      - 8 700
+      - 9 600
+      - 6 400
+      réponse: 9 600
+      anecdote: Coleotteri, coccinelle, lucani, scarafaggi, cacari e charanges sono allopoei.
+  nl:
+  - débutant:
+    - id: 1
+      question: Hoe lang duurt de gemiddelde draagtijd van een olifant ?
+      propositions:
+      - 21 maanden
+      - 13 maanden
+      - 9 maanden
+      - 17 maanden
+      réponse: 21 maanden
+      anecdote: Een olifant kan zwanger zijn tot de leeftijd van vijftig, waarbij in de meeste gevallen slechts één olifant wordt gedragen.
+    - id: 2
+      question: Hoeveel pulsen per minuut heeft het hart van een winterslapende egel ?
+      propositions:
+      - 28
+      - 18
+      - 8
+      - 38
+      réponse: 18
+      anecdote: Verwar egels niet met andere zoogdieren die spillen dragen, zoals stekelvarkens.
+    - id: 3
+      question: Hoeveel kilometer is de schreeuwende aap schreeuw hoorbaar ?
+      propositions:
+      - 3 km
+      - 6 km
+      - 12 km
+      - 9 km
+      réponse: 3 km
+      anecdote: Deze aap schreeuwt elke ochtend, en wanneer het vecht met andere brulapen, schreeuwen ze ook met geschreeuw.
+    - id: 4
+      question: In welk jaar was de laatste levende dodo te zien op Mauritius ?
+      propositions:
+      - 1723
+      - 1908
+      - 1832
+      - 1681
+      réponse: 1681
+      anecdote: Naast zijn onvermogen om te vliegen, had de dodo geen angst voor mensen ontwikkeld, waardoor hij een gemakkelijke prooi was.
+    - id: 5
+      question: Hoeveel bizons heeft Buffalo Bill in slechts 18 maanden tijd afgemaakt ?
+      propositions:
+      - 1.000
+      - 4.000
+      - 2.000
+      - 3000
+      réponse: 4.000
+      anecdote: De stetson-hoed en de bandana werden gepopulariseerd door Buffalo Bill, terwijl niet alle cowboys het droegen.
+    - id: 6
+      question: Op welke hoogte leven alpine steenbokken in het algemeen ?
+      propositions:
+      - 1900 m
+      - 4.600 m
+      - 2300 m
+      - 3.500 m
+      réponse: 3.500 m
+      anecdote: De Alpine-steenbok prooi omvat steile wanden, steile kliffen of steile wanden.
+    - id: 7
+      question: Hoeveel minuten kan een zeeleeuw onderwater zwemmen zonder te ademen ?
+      propositions:
+      - 9 min
+      - 5 min
+      - 11 min
+      - 7 min
+      réponse: 5 min
+      anecdote: In tegenstelling tot zeehonden gebruiken pelsrobben hun vinnen op de grond om te lopen.
+    - id: 8
+      question: Wat is, in centimeters, de lengte van de tong van een volwassen miereneter ?
+      propositions:
+      - 50 cm
+      - 70 cm
+      - 60 cm
+      - 80 cm
+      réponse: 60 cm
+      anecdote: De grootste vertegenwoordiger van de groep is de reusachtige miereneter of grote miereneter, een dier van meer dan een meter lang.
+    - id: 9
+      question: Hoe groot is het percentage knaagdieren onder zoogdieren ?
+      propositions:
+      - 40%
+      - 20%
+      - 30%
+      - 10%
+      réponse: 40%
+      anecdote: Deze dieren worden gekenmerkt door hun unieke paar snijtanden die hen dienen om te knagen, galerijen te graven of zichzelf te verdedigen.
+    - id: 10
+      question: Hoeveel keer per minuut kan een miereneter zijn tong uit zijn mond halen ?
+      propositions:
+      - 80 keer
+      - 40 keer
+      - 120 keer
+      - 160 keer
+      réponse: 160 keer
+      anecdote: De miereneter eet voornamelijk mieren, maar houdt ook van termieten en andere insecten zoals lieveheersbeestjes.
+  - confirmé:
+    - id: 11
+      question: Hoeveel kilo vlees kan een hyena tijdens een maaltijd eten ?
+      propositions:
+      - 4 kg
+      - 34 kg
+      - 24 kg
+      - 14 kg
+      réponse: 14 kg
+      anecdote: Het is onmogelijk om, door eenvoudige waarneming, een hyena van een vrouw te onderscheiden, omdat beide gelijk zijn.
+    - id: 12
+      question: Wat is het gemiddelde gewicht van de tong van een volwassen blauwe vinvis ?
+      propositions:
+      - 1,3 ton
+      - 2,7 ton
+      - 880 kg
+      - 2,2 ton
+      réponse: 2,7 ton
+      anecdote: Wanneer de mond van de blauwe vinvis helemaal open is, is deze groot genoeg om 90 ton water en voedsel te bevatten.
+    - id: 13
+      question: Hoeveel kost een termietenkoningin gemiddeld per dag eieren ?
+      propositions:
+      - 60
+      - 90
+      - 120
+      - 30
+      réponse: 30
+      anecdote: Van een termietenkoppel worden larven geboren die steriele werkers of poppen geven die gesekste volwassenen geven.
+    - id: 14
+      question: Hoe snel kan een luipaard in rust in slechts twee seconden reiken ?
+      propositions:
+      - 100 km / h
+      - 60 km / h
+      - 80 km / h
+      - 40 km / h
+      réponse: 60 km / h
+      anecdote: Luipaard heeft een belangrijke plaats in sommige Afrikaanse culturen waar deze koning van dieren het attribuut is van de leiders.
+    - id: 15
+      question: Hoeveel minuten kan een potvis onderwater blijven zonder te ademen ?
+      propositions:
+      - 90 min
+      - 30 min
+      - 50 min
+      - 70 min
+      réponse: 90 min
+      anecdote: Spermaceti, een witte en wasachtige substantie van het hoofd van het dier, werd geoogst door de potvis.
+    - id: 16
+      question: Hoe snel kan een slechtvalken reiken wanneer hij op zijn prooi zit ?
+      propositions:
+      - 200 km / h
+      - 240 km / h
+      - 120 km / h
+      - 160 km / h
+      réponse: 240 km / h
+      anecdote: Zijn prooi is vaak vogels, maar sommige individuen kunnen ook kleine landdieren aanvallen.
+    - id: 17
+      question: Hoeveel milliliter bloed kan een vampirebat drinken in een nacht ?
+      propositions:
+      - 80 ml
+      - 40 ml
+      - 20 ml
+      - 60 ml
+      réponse: 20 ml
+      anecdote: De vampire-vleermuis is afkomstig uit de tropische gebieden van het Amerikaanse continent (Mexico, Chili, Brazilië en Argentinië).
+    - id: 18
+      question: Door welke factor wordt het gewicht van een ijsbeer vermenigvuldigd twee maanden na de geboorte ?
+      propositions:
+      - 55
+      - 35
+      - 45
+      - 25
+      réponse: 25
+      anecdote: De ijsbeer is perfect aangepast aan zijn habitat en heeft een dikke laag vet en een vacht die het isoleert tegen de kou.
+    - id: 19
+      question: Hoe vaak zijn er meer niet-giftige slangen dan giftig ?
+      propositions:
+      - 1.100 keer
+      - 1500 keer
+      - 1.300 keer
+      - 1700 keer
+      réponse: 1700 keer
+      anecdote: De meeste slangen hebben een gespleten tong, ogen zonder oogleden, gelede schedels en mobiele kaken.
+    - id: 20
+      question: Hoeveel eieren produceert de gemiddelde Nijlkrokodil in goede gezondheid ?
+      propositions:
+      - 40
+      - 70
+      - 130
+      - 100
+      réponse: 100
+      anecdote: Bij het sluiten van de eieren is de krokodil ongeveer 30 cm lang en heeft hij hetzelfde lichaam als zijn moeder, mannelijk of vrouwelijk.
+  - expert:
+    - id: 21
+      question: Wat is de maximale lengte van de sprong die een cougar kan maken ?
+      propositions:
+      - 8 m
+      - 10 m
+      - 6 m
+      - 12 m
+      réponse: 12 m
+      anecdote: Voor jachtdoeleinden of in geval van dreiging, kan hij in bomen klimmen en zeer behendig zijn.
+    - id: 22
+      question: Hoeveel kost een normaal gevormde mug tanden ?
+      propositions:
+      - 34
+      - 11
+      - 47
+      - 29
+      réponse: 47
+      anecdote: Volwassenen voeden zich met bloemnectar en nemen deel aan de bestuiving van planten, net als vlinders.
+    - id: 23
+      question: Wat is de lengte in centimeters van een koaladarm ?
+      propositions:
+      - 400 cm
+      - 300 cm
+      - 200 cm
+      - 100 cm
+      réponse: 300 cm
+      anecdote: De koala is nauw verwant aan de eucalyptus of gomboom, waarvan het alleen de bladeren van bepaalde soorten eet.
+    - id: 24
+      question: Hoeveel dagen overwintert een Alaskeleekhoorn ?
+      propositions:
+      - 270 dagen
+      - 320 dagen
+      - 180 dagen
+      - 410 dagen
+      réponse: 270 dagen
+      anecdote: De pluimstaart van de eekhoorn en de niet-aflatende wintervoorzieningen hebben bijgedragen aan zijn populariteit.
+    - id: 25
+      question: Wat is de maximale snelheid die al wordt bereikt door de zwaardvis te zeilen ?
+      propositions:
+      - 109 km / h
+      - 89 km / h
+      - 99 km / h
+      - 119 km / h
+      réponse: 109 km / h
+      anecdote: Het bezit van verticale strepen op de flanken, de sailfish wordt beschouwd als de snelste vis.
+    - id: 26
+      question: Hoeveel dieren uit de dierentuin van Berlijn hebben het overleefd in de Tweede Wereldoorlog ?
+      propositions:
+      - 344
+      - 892
+      - 91
+      - 1,712
+      réponse: 91
+      anecdote: De eerste dierenoffers aan de dierentuin van Berlijn, gesticht in 1844, zijn gemaakt door Frederik Willem IV, koning van Pruisen.
+    - id: 27
+      question: Van de duizend zeeschildpadden, hoeveel bereiken ze de leeftijd om zich te reproduceren ?
+      propositions:
+      - 100
+      - 640
+      - 250
+      - 15
+      réponse: 15
+      anecdote: Zeeschildpadden, hoewel kwetsbaar, zijn aanwezig in alle oceanen van de wereld, met uitzondering van de Noordelijke IJszee.
+    - id: 28
+      question: Hoe vaak een seconde kan een kolibrie met zijn vleugels klapperen ?
+      propositions:
+      - 58 keer
+      - 78 keer
+      - 38 keer
+      - 18 keer
+      réponse: 78 keer
+      anecdote: Kolibries zijn ook bekend als kolibries vanwege hun kleine formaat en snelle vleugelslagen.
+    - id: 29
+      question: In de brede betekenis van het woord, hoeveel soorten kangoeroes zijn er daar ?
+      propositions:
+      - 51
+      - 44
+      - 63
+      - 37
+      réponse: 63
+      anecdote: Een emblematisch dier van Australië, de grote kangoeroe is populairder op het platteland dan in de steden.
+    - id: 30
+      question: Hoeveel soorten zijn er tot nu toe ontdekt ?
+      propositions:
+      - 6 400
+      - 7.200
+      - 9 600
+      - 8 700
+      réponse: 9 600
+      anecdote: Kevers, lieveheersbeestjes, lucans, kevers, cockchafers en charanceps zijn allopoei.

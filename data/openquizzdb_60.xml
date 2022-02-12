@@ -1,0 +1,345 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes" ?>
+<quizz fournisseur="OpenQuizzDB : Fournisseur de contenu libre"
+       url="https://www.openquizzdb.org"
+       rédacteur="Philippe Bresoux"
+       thème="Sports collectifs (Estime et confiance en soi)"
+       difficulté="4 / 5">
+  <fr>
+  <débutant>
+    <contenu id="1">
+      <question>Combien vaut un lancer franc au basket-ball, accordé à un joueur victime d'une faute ?</question>
+      <propositions>
+        <proposition id="1-1">Sept points</proposition>
+        <proposition id="1-2">Cinq points</proposition>
+        <proposition id="1-3">Un point</proposition>
+        <proposition id="1-4">Trois points</proposition>
+      </propositions>
+      <réponse proposition="1-3">Un point</réponse>
+      <anecdote>En cas de faute flagrante, les lancers francs accordés le sont sans joueur au rebond, car la balle est redonné à l'équipe du tireur.</anecdote>
+    </contenu>
+    <contenu id="2">
+      <question>De quel sport la finale est-elle connue aux USA sous le nom de « Super Bowl » ?</question>
+      <propositions>
+        <proposition id="2-1">Basket-ball</proposition>
+        <proposition id="2-2">Football</proposition>
+        <proposition id="2-3">Football américain</proposition>
+        <proposition id="2-4">Baseball</proposition>
+      </propositions>
+      <réponse proposition="2-3">Football américain</réponse>
+      <anecdote>Le Super Bowl est la finale du championnat de football américain qui voit s'affronter les vainqueurs des deux conférences.</anecdote>
+    </contenu>
+    <contenu id="3">
+      <question>En tennis, combien de sets maximum peut-il y avoir dans un match de Coupe Davis ?</question>
+      <propositions>
+        <proposition id="3-1">Quatre</proposition>
+        <proposition id="3-2">Sept</proposition>
+        <proposition id="3-3">Trois</proposition>
+        <proposition id="3-4">Cinq</proposition>
+      </propositions>
+      <réponse proposition="3-4">Cinq</réponse>
+      <anecdote>La Coupe Davis est la plus prestigieuse des compétitions internationales annuelles de tennis masculin par équipes.</anecdote>
+    </contenu>
+    <contenu id="4">
+      <question>Quel nom porte la version « soft » du baseball aux États-Unis, aussi appelé « balle-molle » ?</question>
+      <propositions>
+        <proposition id="4-1">Korfball</proposition>
+        <proposition id="4-2">Softball</proposition>
+        <proposition id="4-3">Netball</proposition>
+        <proposition id="4-4">Handball</proposition>
+      </propositions>
+      <réponse proposition="4-2">Softball</réponse>
+      <anecdote>Tout comme le baseball, le softball est pratiqué par les deux sexes de façon amateur ou compétitive.</anecdote>
+    </contenu>
+    <contenu id="5">
+      <question>Au rugby à XV, combien de points vaut un essai permettant de tenter une transformation ?</question>
+      <propositions>
+        <proposition id="5-1">Cinq</proposition>
+        <proposition id="5-2">Deux</proposition>
+        <proposition id="5-3">Quatre</proposition>
+        <proposition id="5-4">Trois</proposition>
+      </propositions>
+      <réponse proposition="5-1">Cinq</réponse>
+      <anecdote>Au rugby, un essai est l'action de jeu consistant à aplatir le ballon dans l'en-but adverse.</anecdote>
+    </contenu>
+    <contenu id="6">
+      <question>Laquelle de ces propositions représente le point commun entre le football et le cricket ?</question>
+      <propositions>
+        <proposition id="6-1">Le terrain</proposition>
+        <proposition id="6-2">La batte</proposition>
+        <proposition id="6-3">La balle</proposition>
+        <proposition id="6-4">Onze joueurs</proposition>
+      </propositions>
+      <réponse proposition="6-4">Onze joueurs</réponse>
+      <anecdote>Plus de cent pays sont affiliés à l'International Cricket Council, qui organise notamment la Coupe du monde de cricket.</anecdote>
+    </contenu>
+    <contenu id="7">
+      <question>Combien de temps a-t-on pour viser avant de lancer un panier au basket-ball ?</question>
+      <propositions>
+        <proposition id="7-1">10 secondes</proposition>
+        <proposition id="7-2">45 secondes</proposition>
+        <proposition id="7-3">30 secondes</proposition>
+        <proposition id="7-4">20 secondes</proposition>
+      </propositions>
+      <réponse proposition="7-3">30 secondes</réponse>
+      <anecdote>Le basket-ball se pratique exclusivement à la main, et les joueurs ne peuvent se déplacer balle en main qu'en la dribblant au sol.</anecdote>
+    </contenu>
+    <contenu id="8">
+      <question>Dans quel sport Johan Cruijff, dit le « Chevalier Blanc », est-il connu ?</question>
+      <propositions>
+        <proposition id="8-1">La boxe</proposition>
+        <proposition id="8-2">Le tennis</proposition>
+        <proposition id="8-3">Le football</proposition>
+        <proposition id="8-4">Le golf</proposition>
+      </propositions>
+      <réponse proposition="8-3">Le football</réponse>
+      <anecdote>Premier joueur de football à remporter trois fois le Ballon d'or, il est considéré comme l'un des meilleurs joueurs de l'Histoire.</anecdote>
+    </contenu>
+    <contenu id="9">
+      <question>En France, dans quel sport collectif gagne-t-on le Bouclier de Brennus ?</question>
+      <propositions>
+        <proposition id="9-1">Handball</proposition>
+        <proposition id="9-2">Basket-ball</proposition>
+        <proposition id="9-3">Rugby</proposition>
+        <proposition id="9-4">Football</proposition>
+      </propositions>
+      <réponse proposition="9-3">Rugby</réponse>
+      <anecdote>Conçu d'après un dessin initial du baron Pierre de Coubertin, ce trophée doit son nom à son artiste créateur Charles Brennus.</anecdote>
+    </contenu>
+    <contenu id="10">
+      <question>Entré aux Jeux olympiques, quel est le sport collectif aquatique « par excellence » ?</question>
+      <propositions>
+        <proposition id="10-1">Fistball</proposition>
+        <proposition id="10-2">Ultimate</proposition>
+        <proposition id="10-3">Water-polo</proposition>
+        <proposition id="10-4">Roller derby</proposition>
+      </propositions>
+      <réponse proposition="10-3">Water-polo</réponse>
+      <anecdote>Le water-polo masculin existe depuis 1870 alors que le water-polo féminin n'est apparu qu'au début du XXe siècle.</anecdote>
+    </contenu>
+  </débutant>
+  <confirmé>
+    <contenu id="11">
+      <question>Où s'affrontent la plupart du temps les joueurs de kayak-polo ?</question>
+      <propositions>
+        <proposition id="11-1">Sur gazon</proposition>
+        <proposition id="11-2">En montagne</proposition>
+        <proposition id="11-3">Sur la neige</proposition>
+        <proposition id="11-4">En piscine</proposition>
+      </propositions>
+      <réponse proposition="11-4">En piscine</réponse>
+      <anecdote>Le kayak-polo est souvent décrit comme un mélange de kayak, de handball, basket-ball et de water-polo.</anecdote>
+    </contenu>
+    <contenu id="12">
+      <question>Combien de joueurs compte-t-on dans une équipe de hockey sur gazon ?</question>
+      <propositions>
+        <proposition id="12-1">Cinq</proposition>
+        <proposition id="12-2">Onze</proposition>
+        <proposition id="12-3">Six</proposition>
+        <proposition id="12-4">Huit</proposition>
+      </propositions>
+      <réponse proposition="12-2">Onze</réponse>
+      <anecdote>Le hockey sur gazon est le plus ancien jeu de balle avec crosse connu qu'on ait pu trouver parmi les premières civilisations.</anecdote>
+    </contenu>
+    <contenu id="13">
+      <question>À quel moment une équipe peut-elle marquer un point au volley-ball ?</question>
+      <propositions>
+        <proposition id="13-1">Après un service</proposition>
+        <proposition id="13-2">À la mi-temps</proposition>
+        <proposition id="13-3">En réception</proposition>
+        <proposition id="13-4">En fin de set</proposition>
+      </propositions>
+      <réponse proposition="13-1">Après un service</réponse>
+      <anecdote>Avec 269 millions de pratiquants, le volley-ball est le sport le plus pratiqué dans le monde.</anecdote>
+    </contenu>
+    <contenu id="14">
+      <question>Que réalise une équipe qui gagne tous ses matchs lors d'un Tournoi des Six Nations ?</question>
+      <propositions>
+        <proposition id="14-1">Le Jeu décisif</proposition>
+        <proposition id="14-2">Une Triple couronne</proposition>
+        <proposition id="14-3">Un tie-break</proposition>
+        <proposition id="14-4">Le Grand Chelem</proposition>
+      </propositions>
+      <réponse proposition="14-4">Le Grand Chelem</réponse>
+      <anecdote>Par extension, cette expression peut être employée pour toute compétition fonctionnant sur un système identique au Tournoi.</anecdote>
+    </contenu>
+    <contenu id="15">
+      <question>Quel est le pays des terribles All Blacks, rugbymen de renom ?</question>
+      <propositions>
+        <proposition id="15-1">Irlande</proposition>
+        <proposition id="15-2">Pays de Galles</proposition>
+        <proposition id="15-3">Nouvelle-Zélande</proposition>
+        <proposition id="15-4">Écosse</proposition>
+      </propositions>
+      <réponse proposition="15-3">Nouvelle-Zélande</réponse>
+      <anecdote>Le rugby à XV est le sport le plus populaire de Nouvelle-Zélande et attire principalement les meilleurs sportifs du pays.</anecdote>
+    </contenu>
+    <contenu id="16">
+      <question>Combien y a-t-il de joueurs sur le terrain à gazon d'une équipe de polo ?</question>
+      <propositions>
+        <proposition id="16-1">Six</proposition>
+        <proposition id="16-2">Sept</proposition>
+        <proposition id="16-3">Cinq</proposition>
+        <proposition id="16-4">Quatre</proposition>
+      </propositions>
+      <réponse proposition="16-4">Quatre</réponse>
+      <anecdote>Le polo est un sport équestre qui serait né chez les peuples cavaliers des steppes d'Asie centrale il y a 2 500 ans au moins.</anecdote>
+    </contenu>
+    <contenu id="17">
+      <question>Dans quel sport frappe-t-on un palet avec une crosse de 135 cm ?</question>
+      <propositions>
+        <proposition id="17-1">Baseball</proposition>
+        <proposition id="17-2">Hockey sur glace</proposition>
+        <proposition id="17-3">Croquet</proposition>
+        <proposition id="17-4">Cricket</proposition>
+      </propositions>
+      <réponse proposition="17-2">Hockey sur glace</réponse>
+      <anecdote>Sport de vitesse, le hockey sur glace est souvent qualifié de « sport collectif le plus rapide du monde ».</anecdote>
+    </contenu>
+    <contenu id="18">
+      <question>Qui a marqué un but de la main gauche en Coupe du Monde de football 1986 ?</question>
+      <propositions>
+        <proposition id="18-1">Diego Maradona</proposition>
+        <proposition id="18-2">Didier Deschamps</proposition>
+        <proposition id="18-3">Fabio Cannavaro</proposition>
+        <proposition id="18-4">Laurent Blanc</proposition>
+      </propositions>
+      <réponse proposition="18-1">Diego Maradona</réponse>
+      <anecdote>En 1986, Maradona était capitaine d'une équipe d'Argentine qui voulait à tout prix venger la déroute de 1982.</anecdote>
+    </contenu>
+    <contenu id="19">
+      <question>Quel sport américain dérivé des mêmes racines que le cricket se pratique en neuf manches ?</question>
+      <propositions>
+        <proposition id="19-1">Basket-ball</proposition>
+        <proposition id="19-2">Golf</proposition>
+        <proposition id="19-3">Football américain</proposition>
+        <proposition id="19-4">Baseball</proposition>
+      </propositions>
+      <réponse proposition="19-4">Baseball</réponse>
+      <anecdote>Au baseball, les gants de réception de la balle que portent les joueurs de défense varient selon le poste occupé.</anecdote>
+    </contenu>
+    <contenu id="20">
+      <question>Combien de joueurs dénombre-t-on dans une équipe de cricket ?</question>
+      <propositions>
+        <proposition id="20-1">Onze</proposition>
+        <proposition id="20-2">Douze</proposition>
+        <proposition id="20-3">Dix</proposition>
+        <proposition id="20-4">Treize</proposition>
+      </propositions>
+      <réponse proposition="20-1">Onze</réponse>
+      <anecdote>Un match de cricket peut durer, selon la forme jouée, de quelques heures à parfois plusieurs jours.</anecdote>
+    </contenu>
+  </confirmé>
+  <expert>
+    <contenu id="21">
+      <question>Quel sport d'équipe se pratique en patin à roulettes sur une piste de forme ovale ?</question>
+      <propositions>
+        <proposition id="21-1">Ultimate</proposition>
+        <proposition id="21-2">Roller derby</proposition>
+        <proposition id="21-3">Water-polo</proposition>
+        <proposition id="21-4">Fistball</proposition>
+      </propositions>
+      <réponse proposition="21-2">Roller derby</réponse>
+      <anecdote>En 2013, on comptait plus de 1 250 ligues de roller derby autour du monde, principalement dans les pays anglophones.</anecdote>
+    </contenu>
+    <contenu id="22">
+      <question>Où se jouent les matchs internationaux de rugby dans le Grand Londres ?</question>
+      <propositions>
+        <proposition id="22-1">Madejski Stadium</proposition>
+        <proposition id="22-2">Edgeley Park</proposition>
+        <proposition id="22-3">Rectory Field</proposition>
+        <proposition id="22-4">Twickenham</proposition>
+      </propositions>
+      <réponse proposition="22-4">Twickenham</réponse>
+      <anecdote>Le 18 septembre 2015, le stade a accueilli la cérémonie d'ouverture de la Coupe du monde de rugby 2015.</anecdote>
+    </contenu>
+    <contenu id="23">
+      <question>Quel sport souvent assimilé au volley-ball se pratique en plein air ?</question>
+      <propositions>
+        <proposition id="23-1">Roller derby</proposition>
+        <proposition id="23-2">Ultimate</proposition>
+        <proposition id="23-3">Fistball</proposition>
+        <proposition id="23-4">Water-polo</proposition>
+      </propositions>
+      <réponse proposition="23-3">Fistball</réponse>
+      <anecdote>La dernière édition de la Coupe du monde masculine s'est tenue en Allemagne en août 2007. </anecdote>
+    </contenu>
+    <contenu id="24">
+      <question>Dans quel pays se trouve le terrain de rugby aujourd'hui appelé Coca-Cola Park ?</question>
+      <propositions>
+        <proposition id="24-1">Afrique du Sud</proposition>
+        <proposition id="24-2">Nouvelle-Zélande</proposition>
+        <proposition id="24-3">France</proposition>
+        <proposition id="24-4">États-Unis</proposition>
+      </propositions>
+      <réponse proposition="24-1">Afrique du Sud</réponse>
+      <anecdote>Construit en 1928, le stade a notamment accueilli le finale de la Coupe du monde de rugby à XV de 1995.</anecdote>
+    </contenu>
+    <contenu id="25">
+      <question>Quel sport se pratique sur le célèbre terrain londonien The Oval ?</question>
+      <propositions>
+        <proposition id="25-1">Tennis</proposition>
+        <proposition id="25-2">Cricket</proposition>
+        <proposition id="25-3">Rugby</proposition>
+        <proposition id="25-4">Football</proposition>
+      </propositions>
+      <réponse proposition="25-2">Cricket</réponse>
+      <anecdote>Traditionnellement, il accueille les matchs de l'équipe du Surrey, ainsi que le dernier test-match de la saison sur le sol anglais.</anecdote>
+    </contenu>
+    <contenu id="26">
+      <question>Combien de cercles sont dessinés sur une patinoire de hockey sur glace ?</question>
+      <propositions>
+        <proposition id="26-1">Cinq</proposition>
+        <proposition id="26-2">Trois</proposition>
+        <proposition id="26-3">Sept</proposition>
+        <proposition id="26-4">Neuf</proposition>
+      </propositions>
+      <réponse proposition="26-1">Cinq</réponse>
+      <anecdote>Le hockey se joue sur une surface de glace rectangulaire, d'une soixantaine de mètres de long avec des coins arrondis.</anecdote>
+    </contenu>
+    <contenu id="27">
+      <question>Quel sport fut pratiqué par les Suédois à l'Ice Stadium de Stockholm ?</question>
+      <propositions>
+        <proposition id="27-1">Volley-ball</proposition>
+        <proposition id="27-2">Cricket</proposition>
+        <proposition id="27-3">Basket-ball</proposition>
+        <proposition id="27-4">Hockey</proposition>
+      </propositions>
+      <réponse proposition="27-4">Hockey</réponse>
+      <anecdote>Le club a été fondé en 1946 après des tentatives antérieures ajournées pour cause de Seconde Guerre mondiale.</anecdote>
+    </contenu>
+    <contenu id="28">
+      <question>Combien de joueurs figurent dans une équipe de moto-ball ?</question>
+      <propositions>
+        <proposition id="28-1">Cinq</proposition>
+        <proposition id="28-2">Trois</proposition>
+        <proposition id="28-3">Neuf</proposition>
+        <proposition id="28-4">Sept</proposition>
+      </propositions>
+      <réponse proposition="28-1">Cinq</réponse>
+      <anecdote>Chaque formation de moto-ball est composée de quatre joueurs plus un gardien qui n'est pas à moto.</anecdote>
+    </contenu>
+    <contenu id="29">
+      <question>De quelle langue vient le mot polo, d'abord entraînement pour les unités de cavalerie ?</question>
+      <propositions>
+        <proposition id="29-1">Le coréen</proposition>
+        <proposition id="29-2">Le russe</proposition>
+        <proposition id="29-3">Le portugais</proposition>
+        <proposition id="29-4">Le tibétain</proposition>
+      </propositions>
+      <réponse proposition="29-4">Le tibétain</réponse>
+      <anecdote>Le sport traditionnel de polo se joue sur un large terrain à gazon mesurant jusqu'à 300 mètres de long.</anecdote>
+    </contenu>
+    <contenu id="30">
+      <question>Quel sport collectif utilise un disque opposant deux équipes de sept joueurs ?</question>
+      <propositions>
+        <proposition id="30-1">Roller derby</proposition>
+        <proposition id="30-2">Ultimate</proposition>
+        <proposition id="30-3">Fistball</proposition>
+        <proposition id="30-4">Water-polo</proposition>
+      </propositions>
+      <réponse proposition="30-2">Ultimate</réponse>
+      <anecdote>L'ultimate se pratique dans sa version la plus courante sur terrain en herbe à l'extérieur (7 contre 7).</anecdote>
+    </contenu>
+  </expert>
+  </fr>
+</quizz>

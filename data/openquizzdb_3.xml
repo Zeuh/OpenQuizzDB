@@ -1,0 +1,2035 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes" ?>
+<quizz fournisseur="OpenQuizzDB : Fournisseur de contenu libre"
+       url="https://www.openquizzdb.org"
+       rédacteur="Philippe Bresoux"
+       thème="Harry Potter (La saga n'est pas terminée)"
+       difficulté="4 / 5">
+  <fr>
+  <débutant>
+    <contenu id="1">
+      <question>Quel poste tient Harry Potter dans son équipe de quidditch ?</question>
+      <propositions>
+        <proposition id="1-1">Poursuiveur</proposition>
+        <proposition id="1-2">Batteur</proposition>
+        <proposition id="1-3">Attrapeur</proposition>
+        <proposition id="1-4">Lanceur</proposition>
+      </propositions>
+      <réponse proposition="1-3">Attrapeur</réponse>
+      <anecdote>Chaque équipe de quidditch possède sept joueurs chevauchant des balais volants.</anecdote>
+    </contenu>
+    <contenu id="2">
+      <question>Dans quelle école de sorcellerie Harry Potter a-t-il suivi ses enseignements ?</question>
+      <propositions>
+        <proposition id="2-1">Cambridge</proposition>
+        <proposition id="2-2">Oxford</proposition>
+        <proposition id="2-3">West Point</proposition>
+        <proposition id="2-4">Poudlard</proposition>
+      </propositions>
+      <réponse proposition="2-4">Poudlard</réponse>
+      <anecdote>Le directeur y enseigne à ses élèves la valeur du courage, de l'amitié, de la justice et de la vérité par son attitude et ses discours.</anecdote>
+    </contenu>
+    <contenu id="3">
+      <question>À quelle adresse habite la famille Dursley dans la saga « Harry Potter » ?</question>
+      <propositions>
+        <proposition id="3-1">4 Privet Road</proposition>
+        <proposition id="3-2">4 Privet Drive</proposition>
+        <proposition id="3-3">4 Privet Avenue</proposition>
+        <proposition id="3-4">4 Privet Square</proposition>
+      </propositions>
+      <réponse proposition="3-2">4 Privet Drive</réponse>
+      <anecdote>Dursley, le cousin d'Harry Potter, est un garçon indiscipliné, violent et colérique.</anecdote>
+    </contenu>
+    <contenu id="4">
+      <question>Qui a succédé à Armando Dippet comme directeur de Poudlard dans « Harry Potter » ?</question>
+      <propositions>
+        <proposition id="4-1">Lord Voldemort</proposition>
+        <proposition id="4-2">Albus Dumbledore</proposition>
+        <proposition id="4-3">Ron Weasley</proposition>
+        <proposition id="4-4">Severus Rogue</proposition>
+      </propositions>
+      <réponse proposition="4-2">Albus Dumbledore</réponse>
+      <anecdote>Albus Dumbledore, promu nouveau directeur, est entré à Poudlard en 1892, dans la maison Gryffondor.</anecdote>
+    </contenu>
+    <contenu id="5">
+      <question>Quel est le nom de famille de Hermione dans la saga « Harry Potter » ?</question>
+      <propositions>
+        <proposition id="5-1">Grindelwald</proposition>
+        <proposition id="5-2">Greengrass</proposition>
+        <proposition id="5-3">Gaunt</proposition>
+        <proposition id="5-4">Granger</proposition>
+      </propositions>
+      <réponse proposition="5-4">Granger</réponse>
+      <anecdote>Hermione est la meilleure amie d'Harry Potter et de Ron Weasley, et réside, durant sa scolarité, à Poudlard, à la maison Gryffondor.</anecdote>
+    </contenu>
+    <contenu id="6">
+      <question>Dans la saga « Harry Potter », un Moldu est une personne née dans une famille...</question>
+      <propositions>
+        <proposition id="6-1">Sans secrets</proposition>
+        <proposition id="6-2">Sans magie</proposition>
+        <proposition id="6-3">Sans argent</proposition>
+        <proposition id="6-4">Sans enfants</proposition>
+      </propositions>
+      <réponse proposition="6-2">Sans magie</réponse>
+      <anecdote>Chez les humains, les pouvoirs magiques sont héréditaires, transmis par des allèles dominants ou récessifs.</anecdote>
+    </contenu>
+    <contenu id="7">
+      <question>Quel est le prénom du meilleur ami du jeune Harry Potter ?</question>
+      <propositions>
+        <proposition id="7-1">Hagrid</proposition>
+        <proposition id="7-2">Drago</proposition>
+        <proposition id="7-3">Sirius</proposition>
+        <proposition id="7-4">Ron</proposition>
+      </propositions>
+      <réponse proposition="7-4">Ron</réponse>
+      <anecdote>Ron, qui a rencontré Harry à King's Cross, fait partie de la famille Weasley, une famille de sang-pur, qui réside au Terrier.</anecdote>
+    </contenu>
+    <contenu id="8">
+      <question>Quelle actrice incarne Hermione Granger dans la saga « Harry Potter » ?</question>
+      <propositions>
+        <proposition id="8-1">Zoë Wanamaker </proposition>
+        <proposition id="8-2">Maggie Smith </proposition>
+        <proposition id="8-3">Emma Watson</proposition>
+        <proposition id="8-4">Danielle Taylor </proposition>
+      </propositions>
+      <réponse proposition="8-3">Emma Watson</réponse>
+      <anecdote>Emma Watson est l'actrice la plus rentable de la décennie, en grande partie grâce à la saga « Harry Potter ».</anecdote>
+    </contenu>
+    <contenu id="9">
+      <question>Dans « Harry Potter », quel titre Voldemort a-t-il décidé de porter ?</question>
+      <propositions>
+        <proposition id="9-1">Duc</proposition>
+        <proposition id="9-2">Baron</proposition>
+        <proposition id="9-3">Comte</proposition>
+        <proposition id="9-4">Lord</proposition>
+      </propositions>
+      <réponse proposition="9-4">Lord</réponse>
+      <anecdote>Lord Voldemort est aussi appelé « Le Seigneur des Ténèbres » ou « Celui-Dont-On-Ne-Doit-Pas-Prononcer-Le-Nom ».</anecdote>
+    </contenu>
+    <contenu id="10">
+      <question>Qui garde Azkaban, la prison des sorciers dans la saga « Harry Potter » ?</question>
+      <propositions>
+        <proposition id="10-1">Les goules</proposition>
+        <proposition id="10-2">Les épouvantards</proposition>
+        <proposition id="10-3">Les détraqueurs</proposition>
+        <proposition id="10-4">Les cerbères</proposition>
+      </propositions>
+      <réponse proposition="10-3">Les détraqueurs</réponse>
+      <anecdote>Les détraqueurs sont considérés comme des créatures parmi les plus répugnantes de toutes celles qui existent.</anecdote>
+    </contenu>
+  </débutant>
+  <confirmé>
+    <contenu id="11">
+      <question>Quelle forme prend l'épouvantard de Ron dans la saga « Harry Potter » ?</question>
+      <propositions>
+        <proposition id="11-1">Un dragon</proposition>
+        <proposition id="11-2">Une araignée</proposition>
+        <proposition id="11-3">Un scorpion</proposition>
+        <proposition id="11-4">Un loup</proposition>
+      </propositions>
+      <réponse proposition="11-2">Une araignée</réponse>
+      <anecdote>Dix-neuf ans après la chute de Voldemort, Ron et Hermione ont deux enfants : Rose et son frère cadet Hugo.</anecdote>
+    </contenu>
+    <contenu id="12">
+      <question>Comment se prénomment les parents du jeune Harry Potter ?</question>
+      <propositions>
+        <proposition id="12-1">Laurena et Victor</proposition>
+        <proposition id="12-2">Hermione et Ron</proposition>
+        <proposition id="12-3">James et Lily</proposition>
+        <proposition id="12-4">Olivia et Tom</proposition>
+      </propositions>
+      <réponse proposition="12-3">James et Lily</réponse>
+      <anecdote>La famille Potter est également un descendant d'Ignotus Peverell, le premier propriétaire de la convoitée cape d'Invisibilité.</anecdote>
+    </contenu>
+    <contenu id="13">
+      <question>Quel acteur joue le rôle de Drago Malefoy dans « Harry Potter » ?</question>
+      <propositions>
+        <proposition id="13-1">Rupert Grint</proposition>
+        <proposition id="13-2">Jeff Rawle</proposition>
+        <proposition id="13-3">Robbie Coltrane</proposition>
+        <proposition id="13-4">Tom Felton</proposition>
+      </propositions>
+      <réponse proposition="13-4">Tom Felton</réponse>
+      <anecdote>Tom Felton a, début 2007, commencé une carrière musicale sous le pseudonyme Feltbeats, réunissant 3 millions de fans sur Instagram.</anecdote>
+    </contenu>
+    <contenu id="14">
+      <question>Quelle est la marque du balai de course utilisé par Harry Potter ?</question>
+      <propositions>
+        <proposition id="14-1">Nimbus 2000</proposition>
+        <proposition id="14-2">Comète 260</proposition>
+        <proposition id="14-3">Étoile Filante</proposition>
+        <proposition id="14-4">Brossdur 5</proposition>
+      </propositions>
+      <réponse proposition="14-1">Nimbus 2000</réponse>
+      <anecdote>Dans l'univers « Harry Potter », les balais sont utilisés pour le transport des sorciers ainsi que pour le Quidditch.</anecdote>
+    </contenu>
+    <contenu id="15">
+      <question>Quel est le nom du dragon appartenant à Hagrid dans la saga « Harry Potter » ?</question>
+      <propositions>
+        <proposition id="15-1">Norbert</proposition>
+        <proposition id="15-2">Aragog</proposition>
+        <proposition id="15-3">Errol</proposition>
+        <proposition id="15-4">Crockdur</proposition>
+      </propositions>
+      <réponse proposition="15-1">Norbert</réponse>
+      <anecdote>Hagrid, né d'un humain et d'une géante, a été l'un des premiers personnages créés par J. K. Rowling.</anecdote>
+    </contenu>
+    <contenu id="16">
+      <question>Qui est ministre de la magie dans la saga « Harry Potter » ?</question>
+      <propositions>
+        <proposition id="16-1">Ludovic Verpey</proposition>
+        <proposition id="16-2">Cornelius Fudge</proposition>
+        <proposition id="16-3">Lucius Malefoy</proposition>
+        <proposition id="16-4">Albus Dumbledore</proposition>
+      </propositions>
+      <réponse proposition="16-2">Cornelius Fudge</réponse>
+      <anecdote>Cornelius Fudge est également nommé Cornelius Lafadaise dans la première édition de « Harry Potter à l'école des sorciers ».</anecdote>
+    </contenu>
+    <contenu id="17">
+      <question>Quelle matière enseigne le Professeur Rogue dans la saga « Harry Potter » ?</question>
+      <propositions>
+        <proposition id="17-1">Potions</proposition>
+        <proposition id="17-2">Métamorphose</proposition>
+        <proposition id="17-3">Défense</proposition>
+        <proposition id="17-4">Enchantement</proposition>
+      </propositions>
+      <réponse proposition="17-1">Potions</réponse>
+      <anecdote>Personnage sombre, orgueilleux, aigri et amer, Rogue a une personnalité complexe, ambiguë et quelque peu indéchiffrable.</anecdote>
+    </contenu>
+    <contenu id="18">
+      <question>Quel est le prénom de Hagrid, le demi-géant de la saga « Harry Potter » ?</question>
+      <propositions>
+        <proposition id="18-1">Remus</proposition>
+        <proposition id="18-2">Albus</proposition>
+        <proposition id="18-3">Rubeus</proposition>
+        <proposition id="18-4">Severus</proposition>
+      </propositions>
+      <réponse proposition="18-3">Rubeus</réponse>
+      <anecdote>Hagrid est garde-chasse et enseigne les Soins aux Créatures magiques depuis le tome 3 de la saga.</anecdote>
+    </contenu>
+    <contenu id="19">
+      <question>Qui est professeur de soins aux créatures magiques dans la saga « Harry Potter » ?</question>
+      <propositions>
+        <proposition id="19-1">Hagrid</proposition>
+        <proposition id="19-2">Severus Rogue</proposition>
+        <proposition id="19-3">Mme Chourave</proposition>
+        <proposition id="19-4">Albus Dumbledore</proposition>
+      </propositions>
+      <réponse proposition="19-1">Hagrid</réponse>
+      <anecdote>Rubeus Hagrid, membre de l'Ordre du Phénix depuis son origine, est interprété au cinéma par Robbie Coltrane.</anecdote>
+    </contenu>
+    <contenu id="20">
+      <question>Qui a offert le très performant Nimbus 2000 à Harry Potter ?</question>
+      <propositions>
+        <proposition id="20-1">A. Dumbledore</proposition>
+        <proposition id="20-2">S. Rogue</proposition>
+        <proposition id="20-3">M. McGonagall</proposition>
+        <proposition id="20-4">D. Malefoy</proposition>
+      </propositions>
+      <réponse proposition="20-3">M. McGonagall</réponse>
+      <anecdote>Minerva McGonagall est directrice de Poudlard et également professeur de métamorphose.</anecdote>
+    </contenu>
+  </confirmé>
+  <expert>
+    <contenu id="21">
+      <question>Quelle est la formule du sortilège de mort dans la saga « Harry Potter » ?</question>
+      <propositions>
+        <proposition id="21-1">Avada Kedavra </proposition>
+        <proposition id="21-2">Post Mortem </proposition>
+        <proposition id="21-3">Machina Fino</proposition>
+        <proposition id="21-4">Mortibus Rem</proposition>
+      </propositions>
+      <réponse proposition="21-1">Avada Kedavra </réponse>
+      <anecdote>L'Avada Kedavra provoque la mort instantanée, dans un éclair de lumière verte et un bruit semblable à une rafale de vent.</anecdote>
+    </contenu>
+    <contenu id="22">
+      <question>Quels prénoms portent les jumeaux Weasley dans « Harry Potter » ?</question>
+      <propositions>
+        <proposition id="22-1">Lou et Cédric</proposition>
+        <proposition id="22-2">Bill et George</proposition>
+        <proposition id="22-3">Fred et George</proposition>
+        <proposition id="22-4">Charlie et Bill</proposition>
+      </propositions>
+      <réponse proposition="22-3">Fred et George</réponse>
+      <anecdote>L'ambition des jumeaux a toujours été d'ouvrir un magasin de farces et attrapes pour vendre certaines de leurs inventions.</anecdote>
+    </contenu>
+    <contenu id="23">
+      <question>Dans la saga « Harry Potter », qui est le prince de sang mêlé ?</question>
+      <propositions>
+        <proposition id="23-1">Severus Rogue</proposition>
+        <proposition id="23-2">Voldemort</proposition>
+        <proposition id="23-3">Dumbledore</proposition>
+        <proposition id="23-4">Drago Malefoy</proposition>
+      </propositions>
+      <réponse proposition="23-1">Severus Rogue</réponse>
+      <anecdote>Le rôle de Severus Rogue dans l'intrigue est difficile à interpréter pour le lecteur qui est fréquemment entraîné sur de fausses pistes.</anecdote>
+    </contenu>
+    <contenu id="24">
+      <question>À qui Harry Potter doit-il sa cicatrice obtenue suite à un sortilège de la Mort ?</question>
+      <propositions>
+        <proposition id="24-1">Professeur Lupin</proposition>
+        <proposition id="24-2">Ron</proposition>
+        <proposition id="24-3">James Potter</proposition>
+        <proposition id="24-4">Voldemort</proposition>
+      </propositions>
+      <réponse proposition="24-4">Voldemort</réponse>
+      <anecdote>Harry Potter porte des lunettes rondes à monture noire et une fine cicatrice en forme d'éclair sur le front.</anecdote>
+    </contenu>
+    <contenu id="25">
+      <question>Quelle boisson sert-on principalement aux « Trois balais » dans « Harry Potter » ?</question>
+      <propositions>
+        <proposition id="25-1">La bièraubeurre</proposition>
+        <proposition id="25-2">Le sodalamenthe</proposition>
+        <proposition id="25-3">Le vinausucre</proposition>
+        <proposition id="25-4">Le laitpinard</proposition>
+      </propositions>
+      <réponse proposition="25-1">La bièraubeurre</réponse>
+      <anecdote>La bièraubeurre, servie bien fraîche aux Trois balais, est la boisson la plus célèbre dans le monde des sorciers.</anecdote>
+    </contenu>
+    <contenu id="26">
+      <question>Comment se prénomme la mère de Drago Malefoy dans « Harry Potter » ?</question>
+      <propositions>
+        <proposition id="26-1">Dolores</proposition>
+        <proposition id="26-2">Narcissa</proposition>
+        <proposition id="26-3">Lily</proposition>
+        <proposition id="26-4">Bellatrix</proposition>
+      </propositions>
+      <réponse proposition="26-2">Narcissa</réponse>
+      <anecdote>Les Malefoy et les Black sont parents par le mariage de Narcissa et de Lucius, où le jeune Drago est l'unique héritier.</anecdote>
+    </contenu>
+    <contenu id="27">
+      <question>À Poudlard, à quel étage se trouve la salle sur demande ?</question>
+      <propositions>
+        <proposition id="27-1">Onzième étage</proposition>
+        <proposition id="27-2">Deuxième étage</proposition>
+        <proposition id="27-3">Vingtième étage</proposition>
+        <proposition id="27-4">Septième étage</proposition>
+      </propositions>
+      <réponse proposition="27-4">Septième étage</réponse>
+      <anecdote>Un grand nombre de passages dissimulés, d'escaliers et de portraits de peinture mouvants rendent l'établissement assez mystérieux.</anecdote>
+    </contenu>
+    <contenu id="28">
+      <question>Quel est le premier cadeau de Noël que Hagrid a offert à Harry Potter ?</question>
+      <propositions>
+        <proposition id="28-1">Flûte</proposition>
+        <proposition id="28-2">Clé</proposition>
+        <proposition id="28-3">Baguette</proposition>
+        <proposition id="28-4">Chouette</proposition>
+      </propositions>
+      <réponse proposition="28-1">Flûte</réponse>
+      <anecdote>Hagrid, membre de l'ordre du Phénix, fut élève à Poudlard, dans la maison Gryffondor, où il arriva en 1940.</anecdote>
+    </contenu>
+    <contenu id="29">
+      <question>Quel est le signe zodiacal du jeune Harry Potter, né en 1980 ?</question>
+      <propositions>
+        <proposition id="29-1">Taureau</proposition>
+        <proposition id="29-2">Balance</proposition>
+        <proposition id="29-3">Lion</proposition>
+        <proposition id="29-4">Vierge</proposition>
+      </propositions>
+      <réponse proposition="29-3">Lion</réponse>
+      <anecdote>Harry James Potter est né le 31 juillet 1980 et a donc le même jour d'anniversaire que J. K. Rowling.</anecdote>
+    </contenu>
+    <contenu id="30">
+      <question>En quoi se transforme Peter Pettigrow dans « Harry Potter » ?</question>
+      <propositions>
+        <proposition id="30-1">En poisson</proposition>
+        <proposition id="30-2">En chat</proposition>
+        <proposition id="30-3">En serpent</proposition>
+        <proposition id="30-4">En rat</proposition>
+      </propositions>
+      <réponse proposition="30-4">En rat</réponse>
+      <anecdote>Peter Pettigrow est un sorcier né en 1960, responsable de la mort de Lily et James Potter.</anecdote>
+    </contenu>
+  </expert>
+  </fr>  
+  <en>
+  <débutant>
+    <contenu id="1">
+      <question>What position does Harry Potter hold on his Quidditch team ?</question>
+      <propositions>
+        <proposition id="1-1">Drummer</proposition>
+        <proposition id="1-2">Chaser</proposition>
+        <proposition id="1-3">Seeker</proposition>
+        <proposition id="1-4">Launcher</proposition>
+      </propositions>
+      <réponse proposition="1-3">Seeker</réponse>
+      <anecdote>Each Quidditch team has seven players riding flying brooms.</anecdote>
+    </contenu>
+    <contenu id="2">
+      <question>In which witchcraft school did Harry Potter follow his teachings ?</question>
+      <propositions>
+        <proposition id="2-1">Oxford</proposition>
+        <proposition id="2-2">Hogwarts</proposition>
+        <proposition id="2-3">Cambridge</proposition>
+        <proposition id="2-4">West Point</proposition>
+      </propositions>
+      <réponse proposition="2-2">Hogwarts</réponse>
+      <anecdote>The director teaches his students the value of courage, friendship, justice and truth through his attitude and his speeches.</anecdote>
+    </contenu>
+    <contenu id="3">
+      <question>Where does the Dursley family live in the « Harry Potter » saga ?</question>
+      <propositions>
+        <proposition id="3-1">4 Privet Drive</proposition>
+        <proposition id="3-2">4 Privet Avenue</proposition>
+        <proposition id="3-3">4 Privet Road</proposition>
+        <proposition id="3-4">4 Privet Square</proposition>
+      </propositions>
+      <réponse proposition="3-1">4 Privet Drive</réponse>
+      <anecdote>Harry Potter's cousin Dursley is an unruly, violent and angry boy.</anecdote>
+    </contenu>
+    <contenu id="4">
+      <question>Who succeeded Armando Dippet as Head of Hogwarts in « Harry Potter » ?</question>
+      <propositions>
+        <proposition id="4-1">Albus Dumbledore</proposition>
+        <proposition id="4-2">Ron Weasley</proposition>
+        <proposition id="4-3">Lord Voldemort</proposition>
+        <proposition id="4-4">Severus Snape</proposition>
+      </propositions>
+      <réponse proposition="4-1">Albus Dumbledore</réponse>
+      <anecdote>Albus Dumbledore, promoted to new headmaster, entered Hogwarts in 1892, in the Gryffindor house.</anecdote>
+    </contenu>
+    <contenu id="5">
+      <question>What is Hermione's last name in the « Harry Potter » saga ?</question>
+      <propositions>
+        <proposition id="5-1">Grindelwald</proposition>
+        <proposition id="5-2">Gaunt</proposition>
+        <proposition id="5-3">Greengrass</proposition>
+        <proposition id="5-4">Granger</proposition>
+      </propositions>
+      <réponse proposition="5-4">Granger</réponse>
+      <anecdote>Hermione is the best friend of Harry Potter and Ron Weasley, and resides, during her schooling, at Hogwarts, at the Gryffindor house.</anecdote>
+    </contenu>
+    <contenu id="6">
+      <question>In the « Harry Potter » saga, a Muggle is someone born into a family...</question>
+      <propositions>
+        <proposition id="6-1">Without magic</proposition>
+        <proposition id="6-2">Without secrets</proposition>
+        <proposition id="6-3">Without money</proposition>
+        <proposition id="6-4">Without children</proposition>
+      </propositions>
+      <réponse proposition="6-1">Without magic</réponse>
+      <anecdote>In humans, magical powers are inherited, transmitted by dominant or recessive alleles.</anecdote>
+    </contenu>
+    <contenu id="7">
+      <question>What is the first name of young Harry Potter's best friend ?</question>
+      <propositions>
+        <proposition id="7-1">Sirius</proposition>
+        <proposition id="7-2">Draco</proposition>
+        <proposition id="7-3">Hagrid</proposition>
+        <proposition id="7-4">Ron</proposition>
+      </propositions>
+      <réponse proposition="7-4">Ron</réponse>
+      <anecdote>Ron, who met Harry at King's Cross, is part of the Weasley family, a pureblood family, who reside at the Burrow.</anecdote>
+    </contenu>
+    <contenu id="8">
+      <question>Which actress does Hermione Granger play in the « Harry Potter » saga ?</question>
+      <propositions>
+        <proposition id="8-1">Maggie Smith</proposition>
+        <proposition id="8-2">Danielle Taylor</proposition>
+        <proposition id="8-3">Emma Watson</proposition>
+        <proposition id="8-4">Zoë Wanamaker</proposition>
+      </propositions>
+      <réponse proposition="8-3">Emma Watson</réponse>
+      <anecdote>Emma Watson is the highest-grossing actress of the decade, thanks in large part to the « Harry Potter » saga.</anecdote>
+    </contenu>
+    <contenu id="9">
+      <question>In « Harry Potter », what title did Voldemort decide to wear ?</question>
+      <propositions>
+        <proposition id="9-1">Lord</proposition>
+        <proposition id="9-2">Duke</proposition>
+        <proposition id="9-3">Count</proposition>
+        <proposition id="9-4">Baron</proposition>
+      </propositions>
+      <réponse proposition="9-1">Lord</réponse>
+      <anecdote>Lord Voldemort is also called The Dark Lord or The Must-Not-Speak-The-Name.</anecdote>
+    </contenu>
+    <contenu id="10">
+      <question>Who is guarding Azkaban, the wizarding prison in the « Harry Potter » saga ?</question>
+      <propositions>
+        <proposition id="10-1">Ghouls</proposition>
+        <proposition id="10-2">The Dementors</proposition>
+        <proposition id="10-3">The scarecrows</proposition>
+        <proposition id="10-4">The Cerberus</proposition>
+      </propositions>
+      <réponse proposition="10-2">The Dementors</réponse>
+      <anecdote>Dementors are considered to be some of the most loathsome creatures of all that exist.</anecdote>
+    </contenu>
+  </débutant>
+  <confirmé>
+    <contenu id="11">
+      <question>What form does Ron's scarecrow take in the « Harry Potter » saga ?</question>
+      <propositions>
+        <proposition id="11-1">A spider</proposition>
+        <proposition id="11-2">A wolf</proposition>
+        <proposition id="11-3">A dragon</proposition>
+        <proposition id="11-4">A scorpion</proposition>
+      </propositions>
+      <réponse proposition="11-1">A spider</réponse>
+      <anecdote>Nineteen years after Voldemort's fall, Ron and Hermione have two children: Rose and her younger brother Hugo.</anecdote>
+    </contenu>
+    <contenu id="12">
+      <question>What are the names of the parents of young Harry Potter ?</question>
+      <propositions>
+        <proposition id="12-1">Olivia and Tom</proposition>
+        <proposition id="12-2">Hermione and Ron</proposition>
+        <proposition id="12-3">Laurena and Victor</proposition>
+        <proposition id="12-4">James and Lily</proposition>
+      </propositions>
+      <réponse proposition="12-4">James and Lily</réponse>
+      <anecdote>The Potter family is also a descendant of Ignotus Peverell, the original owner of the coveted Invisibility Cloak.</anecdote>
+    </contenu>
+    <contenu id="13">
+      <question>Which actor plays Draco Malfoy in « Harry Potter » ?</question>
+      <propositions>
+        <proposition id="13-1">Tom Felton</proposition>
+        <proposition id="13-2">Jeff Rawle</proposition>
+        <proposition id="13-3">Robbie Coltrane</proposition>
+        <proposition id="13-4">Rupert Grint</proposition>
+      </propositions>
+      <réponse proposition="13-1">Tom Felton</réponse>
+      <anecdote>Tom Felton began a musical career in early 2007 under the pseudonym Feltbeats, gaining 3 million fans on Instagram.</anecdote>
+    </contenu>
+    <contenu id="14">
+      <question>What brand of racing broom does Harry Potter use ?</question>
+      <propositions>
+        <proposition id="14-1">Nimbus 2000</proposition>
+        <proposition id="14-2">Comet 260</proposition>
+        <proposition id="14-3">Shooting Star</proposition>
+        <proposition id="14-4">Brossdur 5</proposition>
+      </propositions>
+      <réponse proposition="14-1">Nimbus 2000</réponse>
+      <anecdote>In the « Harry Potter » universe, brooms are used for transporting wizards as well as for Quidditch.</anecdote>
+    </contenu>
+    <contenu id="15">
+      <question>What is the name of the dragon belonging to Hagrid in the « Harry Potter » saga ?</question>
+      <propositions>
+        <proposition id="15-1">Crockdur</proposition>
+        <proposition id="15-2">Norbert</proposition>
+        <proposition id="15-3">Errol</proposition>
+        <proposition id="15-4">Aragog</proposition>
+      </propositions>
+      <réponse proposition="15-2">Norbert</réponse>
+      <anecdote>Hagrid, born of a human and a giant, was one of the first characters created by J. K. Rowling.</anecdote>
+    </contenu>
+    <contenu id="16">
+      <question>Who is the Minister of Magic in the « Harry Potter » saga ?</question>
+      <propositions>
+        <proposition id="16-1">Cornelius Fudge</proposition>
+        <proposition id="16-2">Ludovic Verpey</proposition>
+        <proposition id="16-3">Albus Dumbledore</proposition>
+        <proposition id="16-4">Lucius Malfoy</proposition>
+      </propositions>
+      <réponse proposition="16-1">Cornelius Fudge</réponse>
+      <anecdote>Cornelius Fudge is also named Cornelius Lafadaise in the first edition of « Harry Potter and the Sorcerer's Stone ».</anecdote>
+    </contenu>
+    <contenu id="17">
+      <question>What subject does Professor Snape teach in the « Harry Potter » saga ?</question>
+      <propositions>
+        <proposition id="17-1">Defense</proposition>
+        <proposition id="17-2">Potions</proposition>
+        <proposition id="17-3">Enchantment</proposition>
+        <proposition id="17-4">Metamorphosis</proposition>
+      </propositions>
+      <réponse proposition="17-2">Potions</réponse>
+      <anecdote>A dark, proud, embittered, and bitter character, Snape has a complex, ambiguous, and somewhat indecipherable personality.</anecdote>
+    </contenu>
+    <contenu id="18">
+      <question>What is the first name of Hagrid, the half-giant of the « Harry Potter » saga ?</question>
+      <propositions>
+        <proposition id="18-1">Remus</proposition>
+        <proposition id="18-2">Severus</proposition>
+        <proposition id="18-3">Rubeus</proposition>
+        <proposition id="18-4">Albus</proposition>
+      </propositions>
+      <réponse proposition="18-3">Rubeus</réponse>
+      <anecdote>Hagrid is a game warden and has been teaching Care of Magical Creatures since volume 3 of the saga.</anecdote>
+    </contenu>
+    <contenu id="19">
+      <question>Who is the « Harry Potter » Saga of the Care of Magical Creatures ?</question>
+      <propositions>
+        <proposition id="19-1">Hagrid</proposition>
+        <proposition id="19-2">Mrs Sprout</proposition>
+        <proposition id="19-3">Albus Dumbledore</proposition>
+        <proposition id="19-4">Severus Snape</proposition>
+      </propositions>
+      <réponse proposition="19-1">Hagrid</réponse>
+      <anecdote>Rubeus Hagrid, member of the Order of the Phoenix since its origin, is played in the cinema by Robbie Coltrane.</anecdote>
+    </contenu>
+    <contenu id="20">
+      <question>Who gave Harry Potter the high-performing Nimbus 2000 ?</question>
+      <propositions>
+        <proposition id="20-1">A. Dumbledore</proposition>
+        <proposition id="20-2">D. Malefoy</proposition>
+        <proposition id="20-3">M. McGonagall</proposition>
+        <proposition id="20-4">S. Rogue</proposition>
+      </propositions>
+      <réponse proposition="20-3">M. McGonagall</réponse>
+      <anecdote>Minerva McGonagall is Head of Hogwarts and also a Transfiguration teacher.</anecdote>
+    </contenu>
+  </confirmé>
+  <expert>
+    <contenu id="21">
+      <question>What is the formula for the killing curse in the « Harry Potter » saga ?</question>
+      <propositions>
+        <proposition id="21-1">Post Mortem</proposition>
+        <proposition id="21-2">Mortibus Rem</proposition>
+        <proposition id="21-3">Avada Kedavra</proposition>
+        <proposition id="21-4">Machina Fino</proposition>
+      </propositions>
+      <réponse proposition="21-3">Avada Kedavra</réponse>
+      <anecdote>Avada Kedavra causes instant death, in a flash of green light and a sound similar to a gust of wind.</anecdote>
+    </contenu>
+    <contenu id="22">
+      <question>What names do the Weasley twins wear in « Harry Potter » ?</question>
+      <propositions>
+        <proposition id="22-1">Charlie and Bill</proposition>
+        <proposition id="22-2">Lou and Cédric</proposition>
+        <proposition id="22-3">Fred and George</proposition>
+        <proposition id="22-4">Bill and George</proposition>
+      </propositions>
+      <réponse proposition="22-3">Fred and George</réponse>
+      <anecdote>The twins' ambition has always been to open a joke and trick store to sell some of their inventions.</anecdote>
+    </contenu>
+    <contenu id="23">
+      <question>In the « Harry Potter » saga, who is the half-blood prince ?</question>
+      <propositions>
+        <proposition id="23-1">Severus Snape</proposition>
+        <proposition id="23-2">Draco Malfoy</proposition>
+        <proposition id="23-3">Dumbledore</proposition>
+        <proposition id="23-4">Voldemort</proposition>
+      </propositions>
+      <réponse proposition="23-1">Severus Snape</réponse>
+      <anecdote>The role of Severus Snape in the plot is difficult for the reader who is frequently drawn on false leads.</anecdote>
+    </contenu>
+    <contenu id="24">
+      <question>To whom does Harry Potter owe his scar from a Death Curse ?</question>
+      <propositions>
+        <proposition id="24-1">Professor Lupine</proposition>
+        <proposition id="24-2">Voldemort</proposition>
+        <proposition id="24-3">Ron</proposition>
+        <proposition id="24-4">James Potter</proposition>
+      </propositions>
+      <réponse proposition="24-2">Voldemort</réponse>
+      <anecdote>Harry Potter wears round black rimmed glasses and a thin lightning bolt scar on his forehead.</anecdote>
+    </contenu>
+    <contenu id="25">
+      <question>What drink are primarily served to the « Three Brooms » in « Harry Potter » ?</question>
+      <propositions>
+        <proposition id="25-1">Butterbeer</proposition>
+        <proposition id="25-2">Milk spinach</proposition>
+        <proposition id="25-3">Sodalament</proposition>
+        <proposition id="25-4">The vinausucre</proposition>
+      </propositions>
+      <réponse proposition="25-1">Butterbeer</réponse>
+      <anecdote>Butterbeer, served chilled at Les Trois Broomsticks, is the most famous drink in the wizarding world.</anecdote>
+    </contenu>
+    <contenu id="26">
+      <question>What is the name of Draco Malfoy's mother in « Harry Potter » ?</question>
+      <propositions>
+        <proposition id="26-1">Dolores</proposition>
+        <proposition id="26-2">Narcissa</proposition>
+        <proposition id="26-3">Bellatrix</proposition>
+        <proposition id="26-4">Lily</proposition>
+      </propositions>
+      <réponse proposition="26-2">Narcissa</réponse>
+      <anecdote>The Malfoys and the Blacks are related by marriage between Narcissa and Lucius, where young Draco is the sole heir.</anecdote>
+    </contenu>
+    <contenu id="27">
+      <question>At Hogwarts, what floor is the On Demand Room located on ?</question>
+      <propositions>
+        <proposition id="27-1">Eleventh floor</proposition>
+        <proposition id="27-2">Seventh Floor</proposition>
+        <proposition id="27-3">Twentieth Floor</proposition>
+        <proposition id="27-4">Second floor</proposition>
+      </propositions>
+      <réponse proposition="27-2">Seventh Floor</réponse>
+      <anecdote>A large number of hidden passages, stairs and moving painting portraits make the establishment quite mysterious.</anecdote>
+    </contenu>
+    <contenu id="28">
+      <question>What is the first Christmas gift that Hagrid offers to Harry Potter ?</question>
+      <propositions>
+        <proposition id="28-1">Baguette</proposition>
+        <proposition id="28-2">Flute</proposition>
+        <proposition id="28-3">Key</proposition>
+        <proposition id="28-4">Owl</proposition>
+      </propositions>
+      <réponse proposition="28-2">Flute</réponse>
+      <anecdote>Hagrid, a member of the Order of the Phoenix, was raised at Hogwarts in the Gryffindor House, where he arrived in 1940.</anecdote>
+    </contenu>
+    <contenu id="29">
+      <question>What is the zodiac sign of young Harry Potter, born in 1980 ?</question>
+      <propositions>
+        <proposition id="29-1">Virgo</proposition>
+        <proposition id="29-2">Lion</proposition>
+        <proposition id="29-3">Libra</proposition>
+        <proposition id="29-4">Taurus</proposition>
+      </propositions>
+      <réponse proposition="29-2">Lion</réponse>
+      <anecdote>Harry James Potter was born on July 31, 1980 and therefore has the same birthday as J. K. Rowling.</anecdote>
+    </contenu>
+    <contenu id="30">
+      <question>What does Peter Pettigrew transform into in « Harry Potter » ?</question>
+      <propositions>
+        <proposition id="30-1">In fish</proposition>
+        <proposition id="30-2">In chat</proposition>
+        <proposition id="30-3">In rat</proposition>
+        <proposition id="30-4">In snake</proposition>
+      </propositions>
+      <réponse proposition="30-3">In rat</réponse>
+      <anecdote>Peter Pettigrew is a wizard born in 1960, responsible for the deaths of Lily and James Potter.</anecdote>
+    </contenu>
+  </expert>
+  </en>
+  <de>
+  <débutant>
+    <contenu id="1">
+      <question>Welche Position hat Harry Potter in seinem Quidditch-Team ?</question>
+      <propositions>
+        <proposition id="1-1">Sucher</proposition>
+        <proposition id="1-2">Schlagzeuger</proposition>
+        <proposition id="1-3">Chaser</proposition>
+        <proposition id="1-4">Launcher</proposition>
+      </propositions>
+      <réponse proposition="1-1">Sucher</réponse>
+      <anecdote>Jedes Quidditch-Team hat sieben Spieler, die fliegende Besen reiten.</anecdote>
+    </contenu>
+    <contenu id="2">
+      <question>In welcher Hexenschule folgte Harry Potter seinen Lehren ?</question>
+      <propositions>
+        <proposition id="2-1">West Point</proposition>
+        <proposition id="2-2">Oxford</proposition>
+        <proposition id="2-3">Hogwarts</proposition>
+        <proposition id="2-4">Cambridge</proposition>
+      </propositions>
+      <réponse proposition="2-3">Hogwarts</réponse>
+      <anecdote>Der Regisseur lehrt seine Schüler durch seine Haltung und seine Reden den Wert von Mut, Freundschaft, Gerechtigkeit und Wahrheit.</anecdote>
+    </contenu>
+    <contenu id="3">
+      <question>Wo lebt die Familie Dursley in der « Harry Potter » Saga ?</question>
+      <propositions>
+        <proposition id="3-1">4 Privet Square</proposition>
+        <proposition id="3-2">4 Privet Drive</proposition>
+        <proposition id="3-3">4 Privet Avenue</proposition>
+        <proposition id="3-4">4 Privet Road</proposition>
+      </propositions>
+      <réponse proposition="3-2">4 Privet Drive</réponse>
+      <anecdote>Harry Potters Cousin Dursley ist ein widerspenstiger, gewalttätiger und wütender Junge.</anecdote>
+    </contenu>
+    <contenu id="4">
+      <question>Wer trat die Nachfolge von Armando Dippet als Head of Hogwarts in « Harry Potter » an ?</question>
+      <propositions>
+        <proposition id="4-1">Severus Snape</proposition>
+        <proposition id="4-2">Lord Voldemort</proposition>
+        <proposition id="4-3">Ron Weasley</proposition>
+        <proposition id="4-4">Albus Dumbledore</proposition>
+      </propositions>
+      <réponse proposition="4-4">Albus Dumbledore</réponse>
+      <anecdote>Albus Dumbledore, der zum neuen Schulleiter befördert wurde, betrat 1892 Hogwarts im Haus von Gryffindor.</anecdote>
+    </contenu>
+    <contenu id="5">
+      <question>Wie lautet Hermines Nachname in der « Harry Potter » Saga ?</question>
+      <propositions>
+        <proposition id="5-1">Grindelwald</proposition>
+        <proposition id="5-2">Granger</proposition>
+        <proposition id="5-3">Gaunt</proposition>
+        <proposition id="5-4">Greengrass</proposition>
+      </propositions>
+      <réponse proposition="5-2">Granger</réponse>
+      <anecdote>Hermine ist die beste Freundin von Harry Potter und Ron Weasley und lebt während ihrer Schulzeit in Hogwarts im Gryffindor-Haus.</anecdote>
+    </contenu>
+    <contenu id="6">
+      <question>In der « Harry Potter » Saga ist ein Muggel jemand, der in eine Familie hineingeboren wurde...</question>
+      <propositions>
+        <proposition id="6-1">Ohne Kinder</proposition>
+        <proposition id="6-2">Ohne Geheimnisse</proposition>
+        <proposition id="6-3">Ohne Magie</proposition>
+        <proposition id="6-4">Ohne Geld</proposition>
+      </propositions>
+      <réponse proposition="6-3">Ohne Magie</réponse>
+      <anecdote>Beim Menschen werden magische Kräfte vererbt, die von dominanten oder rezessiven Allelen übertragen werden.</anecdote>
+    </contenu>
+    <contenu id="7">
+      <question>Wie lautet der Vorname des besten Freundes des jungen Harry Potter ?</question>
+      <propositions>
+        <proposition id="7-1">Ron</proposition>
+        <proposition id="7-2">Hagrid</proposition>
+        <proposition id="7-3">Draco</proposition>
+        <proposition id="7-4">Sirius</proposition>
+      </propositions>
+      <réponse proposition="7-1">Ron</réponse>
+      <anecdote>Ron, der Harry am King's Cross kennengelernt hat, gehört zur Familie Weasley, einer reinblütigen Familie, die im Fuchsbau wohnt.</anecdote>
+    </contenu>
+    <contenu id="8">
+      <question>Welche Schauspielerin spielt Hermine Granger in der « Harry Potter » Saga ?</question>
+      <propositions>
+        <proposition id="8-1">Zoë Wanamaker</proposition>
+        <proposition id="8-2">Maggie Smith</proposition>
+        <proposition id="8-3">Emma Watson</proposition>
+        <proposition id="8-4">Danielle Taylor</proposition>
+      </propositions>
+      <réponse proposition="8-3">Emma Watson</réponse>
+      <anecdote>Emma Watson ist die umsatzstärkste Schauspielerin des Jahrzehnts, was zum großen Teil der « Harry Potter » Saga zu verdanken ist.</anecdote>
+    </contenu>
+    <contenu id="9">
+      <question>Welchen Titel hat Voldemort in « Harry Potter » getragen ?</question>
+      <propositions>
+        <proposition id="9-1">Anzahl</proposition>
+        <proposition id="9-2">Herzog</proposition>
+        <proposition id="9-3">Herr</proposition>
+        <proposition id="9-4">Baron</proposition>
+      </propositions>
+      <réponse proposition="9-3">Herr</réponse>
+      <anecdote>Lord Voldemort wird auch The Dark Lord oder The Must-Not-Speak-The-Name genannt.</anecdote>
+    </contenu>
+    <contenu id="10">
+      <question>Wer bewacht Askaban, das Zauberergefängnis in der « Harry Potter » Saga ?</question>
+      <propositions>
+        <proposition id="10-1">Die Dementoren</proposition>
+        <proposition id="10-2">Ghule</proposition>
+        <proposition id="10-3">Der Cerberus</proposition>
+        <proposition id="10-4">Die Vogelscheuchen</proposition>
+      </propositions>
+      <réponse proposition="10-1">Die Dementoren</réponse>
+      <anecdote>Dementoren gelten als einige der abscheulichsten Kreaturen überhaupt.</anecdote>
+    </contenu>
+  </débutant>
+  <confirmé>
+    <contenu id="11">
+      <question>Wie sieht Rons Vogelscheuche in der « Harry Potter » Saga aus ?</question>
+      <propositions>
+        <proposition id="11-1">Ein Drache</proposition>
+        <proposition id="11-2">Eine Spinne</proposition>
+        <proposition id="11-3">Ein Wolf</proposition>
+        <proposition id="11-4">Ein Skorpion</proposition>
+      </propositions>
+      <réponse proposition="11-2">Eine Spinne</réponse>
+      <anecdote>Neunzehn Jahre nach Voldemorts Sturz haben Ron und Hermine zwei Kinder: Rose und ihren jüngeren Bruder Hugo.</anecdote>
+    </contenu>
+    <contenu id="12">
+      <question>Wie heißen die Eltern des jungen Harry Potter ?</question>
+      <propositions>
+        <proposition id="12-1">Hermine und Ron</proposition>
+        <proposition id="12-2">James und Lily</proposition>
+        <proposition id="12-3">Laurena und Victor</proposition>
+        <proposition id="12-4">Olivia und Tom</proposition>
+      </propositions>
+      <réponse proposition="12-2">James und Lily</réponse>
+      <anecdote>Die Potter-Familie ist auch ein Nachkomme von Ignotus Peverell, dem ursprünglichen Besitzer des begehrten Unsichtbarkeitsumhangs.</anecdote>
+    </contenu>
+    <contenu id="13">
+      <question>Welcher Schauspieler spielt Draco Malfoy in « Harry Potter » ?</question>
+      <propositions>
+        <proposition id="13-1">Rupert Grint</proposition>
+        <proposition id="13-2">Tom Felton</proposition>
+        <proposition id="13-3">Robbie Coltrane</proposition>
+        <proposition id="13-4">Jeff Rawle</proposition>
+      </propositions>
+      <réponse proposition="13-2">Tom Felton</réponse>
+      <anecdote>Tom Felton begann seine musikalische Karriere Anfang 2007 unter dem Pseudonym Feltbeats und gewann 3 Millionen Fans auf Instagram.</anecdote>
+    </contenu>
+    <contenu id="14">
+      <question>Welche Marke von Rennbesen benutzt Harry Potter ?</question>
+      <propositions>
+        <proposition id="14-1">Komet 260</proposition>
+        <proposition id="14-2">Sternschnuppe</proposition>
+        <proposition id="14-3">Nimbus 2000</proposition>
+        <proposition id="14-4">Brossdur 5</proposition>
+      </propositions>
+      <réponse proposition="14-3">Nimbus 2000</réponse>
+      <anecdote>Im « Harry Potter » Universum werden Besen sowohl für den Transport von Zauberern als auch für Quidditch verwendet.</anecdote>
+    </contenu>
+    <contenu id="15">
+      <question>Wie heißt der Drache von Hagrid in der « Harry Potter » Saga ?</question>
+      <propositions>
+        <proposition id="15-1">Aragog</proposition>
+        <proposition id="15-2">Norbert</proposition>
+        <proposition id="15-3">Errol</proposition>
+        <proposition id="15-4">Crockdur</proposition>
+      </propositions>
+      <réponse proposition="15-2">Norbert</réponse>
+      <anecdote>Hagrid, geboren von einem Menschen und einem Riesen, war eine der ersten Figuren, die von J. K. Rowling.</anecdote>
+    </contenu>
+    <contenu id="16">
+      <question>Wer ist der Zaubereiminister in der « Harry Potter » Saga ?</question>
+      <propositions>
+        <proposition id="16-1">Albus Dumbledore</proposition>
+        <proposition id="16-2">Cornelius Fudge</proposition>
+        <proposition id="16-3">Ludovic Verpey</proposition>
+        <proposition id="16-4">Lucius Malfoy</proposition>
+      </propositions>
+      <réponse proposition="16-2">Cornelius Fudge</réponse>
+      <anecdote>Cornelius Fudge wird in der ersten Ausgabe von « Harry Potter und der Stein der Weisen » auch Cornelius Lafadaise genannt.</anecdote>
+    </contenu>
+    <contenu id="17">
+      <question>Welches Fach unterrichtet Professor Snape in der « Harry Potter » Saga ?</question>
+      <propositions>
+        <proposition id="17-1">Verzauberung</proposition>
+        <proposition id="17-2">Tränke</proposition>
+        <proposition id="17-3">Metamorphose</proposition>
+        <proposition id="17-4">Verteidigung</proposition>
+      </propositions>
+      <réponse proposition="17-2">Tränke</réponse>
+      <anecdote>Snape ist ein dunkler, stolzer, verbitterter und bitterer Charakter. Er hat eine komplexe, mehrdeutige und etwas unkenntliche Persönlichkeit.</anecdote>
+    </contenu>
+    <contenu id="18">
+      <question>Wie lautet der Vorname von Hagrid, dem Halbriesen der « Harry Potter » Saga ?</question>
+      <propositions>
+        <proposition id="18-1">Albus</proposition>
+        <proposition id="18-2">Rubeus</proposition>
+        <proposition id="18-3">Remus</proposition>
+        <proposition id="18-4">Severus</proposition>
+      </propositions>
+      <réponse proposition="18-2">Rubeus</réponse>
+      <anecdote>Hagrid ist ein Wildhüter und unterrichtet seit Band 3 der Saga die Pflege magischer Kreaturen.</anecdote>
+    </contenu>
+    <contenu id="19">
+      <question>Wer ist die « Harry Potter » Saga der Pflege magischer Kreaturen ?</question>
+      <propositions>
+        <proposition id="19-1">Albus Dumbledore</proposition>
+        <proposition id="19-2">Severus Snape</proposition>
+        <proposition id="19-3">Hagrid</proposition>
+        <proposition id="19-4">Frau Sprout</proposition>
+      </propositions>
+      <réponse proposition="19-3">Hagrid</réponse>
+      <anecdote>Rubeus Hagrid, seit seiner Gründung Mitglied des Ordens des Phönix, wird im Kino von Robbie Coltrane gespielt.</anecdote>
+    </contenu>
+    <contenu id="20">
+      <question>Wer hat Harry Potter den leistungsstarken Nimbus 2000 gegeben ?</question>
+      <propositions>
+        <proposition id="20-1">M. McGonagall</proposition>
+        <proposition id="20-2">D. Malefoy</proposition>
+        <proposition id="20-3">S. Rogue</proposition>
+        <proposition id="20-4">A. Dumbledore</proposition>
+      </propositions>
+      <réponse proposition="20-1">M. McGonagall</réponse>
+      <anecdote>Minerva McGonagall ist Leiterin von Hogwarts und auch Lehrerin für Verklärung.</anecdote>
+    </contenu>
+  </confirmé>
+  <expert>
+    <contenu id="21">
+      <question>Wie lautet die Formel für den Todesfluch in der « Harry Potter » Saga ?</question>
+      <propositions>
+        <proposition id="21-1">Post Mortem</proposition>
+        <proposition id="21-2">Machina Fino</proposition>
+        <proposition id="21-3">Avada Kedavra</proposition>
+        <proposition id="21-4">Mortibus Rem</proposition>
+      </propositions>
+      <réponse proposition="21-3">Avada Kedavra</réponse>
+      <anecdote>Avada Kedavra verursacht sofortigen Tod, in einem grünen Lichtblitz und einem Geräusch, das einem Windstoß ähnelt.</anecdote>
+    </contenu>
+    <contenu id="22">
+      <question>Welche Namen tragen die Weasley-Zwillinge in « Harry Potter » ?</question>
+      <propositions>
+        <proposition id="22-1">Fred und George</proposition>
+        <proposition id="22-2">Charlie und Bill</proposition>
+        <proposition id="22-3">Bill und George</proposition>
+        <proposition id="22-4">Lou und Cédric</proposition>
+      </propositions>
+      <réponse proposition="22-1">Fred und George</réponse>
+      <anecdote>Das Ziel der Zwillinge war es immer, einen Witz und Trickladen zu eröffnen, um einige ihrer Erfindungen zu verkaufen.</anecdote>
+    </contenu>
+    <contenu id="23">
+      <question>Wer ist in der « Harry Potter » Saga der Halbblutprinz ?</question>
+      <propositions>
+        <proposition id="23-1">Draco Malfoy</proposition>
+        <proposition id="23-2">Voldemort</proposition>
+        <proposition id="23-3">Dumbledore</proposition>
+        <proposition id="23-4">Severus Snape</proposition>
+      </propositions>
+      <réponse proposition="23-4">Severus Snape</réponse>
+      <anecdote>Die Rolle von Severus Snape in der Handlung ist für den Leser, der häufig auf falsche Hinweise stützt, schwer zu interpretieren.</anecdote>
+    </contenu>
+    <contenu id="24">
+      <question>Wem verdankt Harry Potter seine Narbe von einem Todesfluch ?</question>
+      <propositions>
+        <proposition id="24-1">Voldemort</proposition>
+        <proposition id="24-2">Ron</proposition>
+        <proposition id="24-3">James Potter</proposition>
+        <proposition id="24-4">Professor Lupin</proposition>
+      </propositions>
+      <réponse proposition="24-1">Voldemort</réponse>
+      <anecdote>Harry Potter trägt eine runde Brille mit schwarzem Rand und eine dünne Blitznarbe auf seiner Stirn.</anecdote>
+    </contenu>
+    <contenu id="25">
+      <question>Welches Getränk wird hauptsächlich den « Drei Besen » in « Harry Potter » serviert ?</question>
+      <propositions>
+        <proposition id="25-1">Sodalament</proposition>
+        <proposition id="25-2">Butterbier</proposition>
+        <proposition id="25-3">Das vinausucre</proposition>
+        <proposition id="25-4">Milchspinat</proposition>
+      </propositions>
+      <réponse proposition="25-2">Butterbier</réponse>
+      <anecdote>Butterbier, gekühlt in Les Trois Broomsticks serviert, ist das berühmteste Getränk der Zaubererwelt.</anecdote>
+    </contenu>
+    <contenu id="26">
+      <question>Wie heißt Draco Malfoys Mutter in « Harry Potter » ?</question>
+      <propositions>
+        <proposition id="26-1">Dolores</proposition>
+        <proposition id="26-2">Lily</proposition>
+        <proposition id="26-3">Bellatrix</proposition>
+        <proposition id="26-4">Narzissa</proposition>
+      </propositions>
+      <réponse proposition="26-4">Narzissa</réponse>
+      <anecdote>Die Malfoys und die Schwarzen sind durch Heirat zwischen Narzissa und Lucius verwandt, wo der junge Draco der einzige Erbe ist.</anecdote>
+    </contenu>
+    <contenu id="27">
+      <question>Auf welcher Etage befindet sich in Hogwarts der On Demand Room ?</question>
+      <propositions>
+        <proposition id="27-1">Zweiter Stock</proposition>
+        <proposition id="27-2">Zwanzigste Etage</proposition>
+        <proposition id="27-3">Siebte Etage</proposition>
+        <proposition id="27-4">Elfter Stock</proposition>
+      </propositions>
+      <réponse proposition="27-3">Siebte Etage</réponse>
+      <anecdote>Eine große Anzahl versteckter Passagen, Treppen und beweglicher Gemäldeporträts machen das Haus ziemlich mysteriös.</anecdote>
+    </contenu>
+    <contenu id="28">
+      <question>Was ist das erste Weihnachtsgeschenk, das Hagrid Harry Potter bietet ?</question>
+      <propositions>
+        <proposition id="28-1">Flöte</proposition>
+        <proposition id="28-2">Baguette</proposition>
+        <proposition id="28-3">Schlüssel</proposition>
+        <proposition id="28-4">Eule</proposition>
+      </propositions>
+      <réponse proposition="28-1">Flöte</réponse>
+      <anecdote>Hagrid, ein Mitglied des Ordens des Phönix, wurde in Hogwarts im Gryffindor House aufgewachsen, wo er 1940 ankam.</anecdote>
+    </contenu>
+    <contenu id="29">
+      <question>Was ist das Sternzeichen des jungen Harry Potter, geboren 1980 ?</question>
+      <propositions>
+        <proposition id="29-1">Waage</proposition>
+        <proposition id="29-2">Stier</proposition>
+        <proposition id="29-3">Jungfrau</proposition>
+        <proposition id="29-4">Löwe</proposition>
+      </propositions>
+      <réponse proposition="29-4">Löwe</réponse>
+      <anecdote>Harry James Potter wurde am 31. Juli 1980 geboren und hat daher denselben Geburtstag wie J. K. Rowling.</anecdote>
+    </contenu>
+    <contenu id="30">
+      <question>In was verwandelt sich Peter Pettigrew in « Harry Potter » ?</question>
+      <propositions>
+        <proposition id="30-1">Im Chat</proposition>
+        <proposition id="30-2">In Fisch</proposition>
+        <proposition id="30-3">In Ratte</proposition>
+        <proposition id="30-4">In der Schlange</proposition>
+      </propositions>
+      <réponse proposition="30-3">In Ratte</réponse>
+      <anecdote>Peter Pettigrew ist ein 1960 geborener Zauberer, der für den Tod von Lily und James Potter verantwortlich ist.</anecdote>
+    </contenu>
+  </expert>
+  </de>
+  <es>
+  <débutant>
+    <contenu id="1">
+      <question>¿Qué puesto ocupa Harry Potter en su equipo de Quidditch ?</question>
+      <propositions>
+        <proposition id="1-1">Lanzador</proposition>
+        <proposition id="1-2">Baterista</proposition>
+        <proposition id="1-3">Chaser</proposition>
+        <proposition id="1-4">Buscador</proposition>
+      </propositions>
+      <réponse proposition="1-4">Buscador</réponse>
+      <anecdote>Cada equipo de Quidditch tiene siete jugadores montados en escobas voladoras.</anecdote>
+    </contenu>
+    <contenu id="2">
+      <question>¿En qué escuela de brujería siguió Harry Potter sus enseñanzas ?</question>
+      <propositions>
+        <proposition id="2-1">West Point</proposition>
+        <proposition id="2-2">Hogwarts</proposition>
+        <proposition id="2-3">Oxford</proposition>
+        <proposition id="2-4">Cambridge</proposition>
+      </propositions>
+      <réponse proposition="2-2">Hogwarts</réponse>
+      <anecdote>El director enseña a sus alumnos el valor del coraje, la amistad, la justicia y la verdad a través de su actitud y sus discursos.</anecdote>
+    </contenu>
+    <contenu id="3">
+      <question>¿Dónde vive la familia Dursley en la saga « Harry Potter » ?</question>
+      <propositions>
+        <proposition id="3-1">4 Privet Drive</proposition>
+        <proposition id="3-2">4 Privet Road</proposition>
+        <proposition id="3-3">4 Privet Square</proposition>
+        <proposition id="3-4">4 Privet Avenue</proposition>
+      </propositions>
+      <réponse proposition="3-1">4 Privet Drive</réponse>
+      <anecdote>El primo de Harry Potter, Dursley, es un niño rebelde, violento y enojado.</anecdote>
+    </contenu>
+    <contenu id="4">
+      <question>¿Quién sucedió a Armando Dippet como Jefe de Hogwarts en « Harry Potter » ?</question>
+      <propositions>
+        <proposition id="4-1">Severus Snape</proposition>
+        <proposition id="4-2">Lord Voldemort</proposition>
+        <proposition id="4-3">Albus Dumbledore</proposition>
+        <proposition id="4-4">Ron Weasley</proposition>
+      </propositions>
+      <réponse proposition="4-3">Albus Dumbledore</réponse>
+      <anecdote>Albus Dumbledore, ascendido a nuevo director, ingresó a Hogwarts en 1892, en la casa de Gryffindor.</anecdote>
+    </contenu>
+    <contenu id="5">
+      <question>¿Cuál es el apellido de Hermione en la saga « Harry Potter » ?</question>
+      <propositions>
+        <proposition id="5-1">Greengrass</proposition>
+        <proposition id="5-2">Gaunt</proposition>
+        <proposition id="5-3">Grindelwald</proposition>
+        <proposition id="5-4">Granger</proposition>
+      </propositions>
+      <réponse proposition="5-4">Granger</réponse>
+      <anecdote>Hermione es la mejor amiga de Harry Potter y Ron Weasley, y reside, durante sus años escolares, en Hogwarts, en la casa de Gryffindor.</anecdote>
+    </contenu>
+    <contenu id="6">
+      <question>En la saga de « Harry Potter », un Muggle es alguien nacido en una familia...</question>
+      <propositions>
+        <proposition id="6-1">Sin dinero</proposition>
+        <proposition id="6-2">Sin magia</proposition>
+        <proposition id="6-3">Sin hijos</proposition>
+        <proposition id="6-4">Sin secretos</proposition>
+      </propositions>
+      <réponse proposition="6-2">Sin magia</réponse>
+      <anecdote>En los humanos, los poderes mágicos se heredan, transmitidos por alelos dominantes o recesivos.</anecdote>
+    </contenu>
+    <contenu id="7">
+      <question>¿Cuál es el primer nombre del mejor amigo del joven Harry Potter ?</question>
+      <propositions>
+        <proposition id="7-1">Draco</proposition>
+        <proposition id="7-2">Ron</proposition>
+        <proposition id="7-3">Hagrid</proposition>
+        <proposition id="7-4">Sirius</proposition>
+      </propositions>
+      <réponse proposition="7-2">Ron</réponse>
+      <anecdote>Ron, que conoció a Harry en King's Cross, es parte de la familia Weasley, una familia sangre pura, que reside en La Madriguera.</anecdote>
+    </contenu>
+    <contenu id="8">
+      <question>¿Qué actriz interpreta Hermione Granger en la saga « Harry Potter » ?</question>
+      <propositions>
+        <proposition id="8-1">Maggie Smith</proposition>
+        <proposition id="8-2">Zoë Wanamaker</proposition>
+        <proposition id="8-3">Danielle Taylor</proposition>
+        <proposition id="8-4">Emma Watson</proposition>
+      </propositions>
+      <réponse proposition="8-4">Emma Watson</réponse>
+      <anecdote>Emma Watson es la actriz más taquillera de la década, gracias en gran parte a la saga « Harry Potter ».</anecdote>
+    </contenu>
+    <contenu id="9">
+      <question>En « Harry Potter », ¿qué título decidió usar Voldemort ?</question>
+      <propositions>
+        <proposition id="9-1">Duke</proposition>
+        <proposition id="9-2">Baron</proposition>
+        <proposition id="9-3">Señor</proposition>
+        <proposition id="9-4">Contar</proposition>
+      </propositions>
+      <réponse proposition="9-3">Señor</réponse>
+      <anecdote>Lord Voldemort también se llama The Dark Lord o The Must-Not-Speak-The-Name.</anecdote>
+    </contenu>
+    <contenu id="10">
+      <question>¿Quién custodia Azkaban, la prisión mágica de la saga « Harry Potter » ?</question>
+      <propositions>
+        <proposition id="10-1">Los espantapájaros</proposition>
+        <proposition id="10-2">Los dementores</proposition>
+        <proposition id="10-3">El Cerberus</proposition>
+        <proposition id="10-4">Ghouls</proposition>
+      </propositions>
+      <réponse proposition="10-2">Los dementores</réponse>
+      <anecdote>Se considera que los dementores son algunas de las criaturas más repugnantes de todas las que existen.</anecdote>
+    </contenu>
+  </débutant>
+  <confirmé>
+    <contenu id="11">
+      <question>¿Qué forma toma el espantapájaros de Ron en la saga « Harry Potter » ?</question>
+      <propositions>
+        <proposition id="11-1">Un escorpión</proposition>
+        <proposition id="11-2">Un dragón</proposition>
+        <proposition id="11-3">Una araña</proposition>
+        <proposition id="11-4">Un lobo</proposition>
+      </propositions>
+      <réponse proposition="11-3">Una araña</réponse>
+      <anecdote>Diecinueve años después de la caída de Voldemort, Ron y Hermione tienen dos hijos: Rose y su hermano menor Hugo.</anecdote>
+    </contenu>
+    <contenu id="12">
+      <question>¿Cuáles son los nombres de los padres del joven Harry Potter ?</question>
+      <propositions>
+        <proposition id="12-1">Laurena y Victor</proposition>
+        <proposition id="12-2">James y Lily</proposition>
+        <proposition id="12-3">Hermione y Ron</proposition>
+        <proposition id="12-4">Olivia y Tom</proposition>
+      </propositions>
+      <réponse proposition="12-2">James y Lily</réponse>
+      <anecdote>La familia Potter también es descendiente de Ignotus Peverell, el propietario original de la codiciada Capa de Invisibilidad.</anecdote>
+    </contenu>
+    <contenu id="13">
+      <question>¿Qué actor interpreta a Draco Malfoy en « Harry Potter » ?</question>
+      <propositions>
+        <proposition id="13-1">Robbie Coltrane</proposition>
+        <proposition id="13-2">Tom Felton</proposition>
+        <proposition id="13-3">Rupert Grint</proposition>
+        <proposition id="13-4">Jeff Rawle</proposition>
+      </propositions>
+      <réponse proposition="13-2">Tom Felton</réponse>
+      <anecdote>Tom Felton comenzó una carrera musical a principios de 2007 bajo el seudónimo de Feltbeats, ganando 3 millones de fanáticos en Instagram.</anecdote>
+    </contenu>
+    <contenu id="14">
+      <question>¿Qué marca de escoba de carreras usa Harry Potter ?</question>
+      <propositions>
+        <proposition id="14-1">Brossdur 5</proposition>
+        <proposition id="14-2">Nimbus 2000</proposition>
+        <proposition id="14-3">Estrella fugaz</proposition>
+        <proposition id="14-4">Comet 260</proposition>
+      </propositions>
+      <réponse proposition="14-2">Nimbus 2000</réponse>
+      <anecdote>En el universo de « Harry Potter », las escobas se utilizan para transportar magos y también para Quidditch.</anecdote>
+    </contenu>
+    <contenu id="15">
+      <question>¿Cómo se llama el dragón que pertenece a Hagrid en la saga « Harry Potter » ?</question>
+      <propositions>
+        <proposition id="15-1">Norbert</proposition>
+        <proposition id="15-2">Aragog</proposition>
+        <proposition id="15-3">Crockdur</proposition>
+        <proposition id="15-4">Errol</proposition>
+      </propositions>
+      <réponse proposition="15-1">Norbert</réponse>
+      <anecdote>Hagrid, nacido de un humano y un gigante, fue uno de los primeros personajes creados por J. K. Rowling.</anecdote>
+    </contenu>
+    <contenu id="16">
+      <question>¿Quién es el Ministro de Magia en la saga « Harry Potter » ?</question>
+      <propositions>
+        <proposition id="16-1">Cornelius Fudge</proposition>
+        <proposition id="16-2">Lucius Malfoy</proposition>
+        <proposition id="16-3">Albus Dumbledore</proposition>
+        <proposition id="16-4">Ludovic Verpey</proposition>
+      </propositions>
+      <réponse proposition="16-1">Cornelius Fudge</réponse>
+      <anecdote>Cornelius Fudge también se llama Cornelius Lafadaise en la primera edición de « Harry Potter y la piedra filosofal ».</anecdote>
+    </contenu>
+    <contenu id="17">
+      <question>¿Qué tema enseña el profesor Snape en la saga « Harry Potter » ?</question>
+      <propositions>
+        <proposition id="17-1">Metamorfosis</proposition>
+        <proposition id="17-2">Pociones</proposition>
+        <proposition id="17-3">Encantamiento</proposition>
+        <proposition id="17-4">Defensa</proposition>
+      </propositions>
+      <réponse proposition="17-2">Pociones</réponse>
+      <anecdote>Snape, un personaje oscuro, orgulloso, amargado y amargado, tiene una personalidad compleja, ambigua y algo indescifrable.</anecdote>
+    </contenu>
+    <contenu id="18">
+      <question>¿Cuál es el primer nombre de Hagrid, el medio gigante de la saga « Harry Potter » ?</question>
+      <propositions>
+        <proposition id="18-1">Rubeus</proposition>
+        <proposition id="18-2">Severus</proposition>
+        <proposition id="18-3">Remus</proposition>
+        <proposition id="18-4">Albus</proposition>
+      </propositions>
+      <réponse proposition="18-1">Rubeus</réponse>
+      <anecdote>Hagrid es un guardián de juegos y ha estado enseñando Cuidado de criaturas mágicas desde el volumen 3 de la saga.</anecdote>
+    </contenu>
+    <contenu id="19">
+      <question>¿Quién es la saga del cuidado de criaturas mágicas de « Harry Potter » ?</question>
+      <propositions>
+        <proposition id="19-1">Hagrid</proposition>
+        <proposition id="19-2">Severus Snape</proposition>
+        <proposition id="19-3">Sra. Sprout</proposition>
+        <proposition id="19-4">Albus Dumbledore</proposition>
+      </propositions>
+      <réponse proposition="19-1">Hagrid</réponse>
+      <anecdote>Rubeus Hagrid, miembro de la Orden del Fénix desde sus orígenes, es interpretado en el cine por Robbie Coltrane.</anecdote>
+    </contenu>
+    <contenu id="20">
+      <question>¿Quién le dio a Harry Potter la Nimbus 2000 de alto rendimiento ?</question>
+      <propositions>
+        <proposition id="20-1">M. McGonagall</proposition>
+        <proposition id="20-2">D. Malefoy</proposition>
+        <proposition id="20-3">A. Dumbledore</proposition>
+        <proposition id="20-4">S. Rogue</proposition>
+      </propositions>
+      <réponse proposition="20-1">M. McGonagall</réponse>
+      <anecdote>Minerva McGonagall es directora de Hogwarts y también profesora de Transformaciones.</anecdote>
+    </contenu>
+  </confirmé>
+  <expert>
+    <contenu id="21">
+      <question>¿Cuál es la fórmula de la maldición asesina en la saga « Harry Potter » ?</question>
+      <propositions>
+        <proposition id="21-1">Post Mortem</proposition>
+        <proposition id="21-2">Mortibus Rem</proposition>
+        <proposition id="21-3">Avada Kedavra</proposition>
+        <proposition id="21-4">Machina Fino</proposition>
+      </propositions>
+      <réponse proposition="21-3">Avada Kedavra</réponse>
+      <anecdote>Avada Kedavra provoca la muerte instantánea, en un destello de luz verde y un ruido similar a una ráfaga de viento.</anecdote>
+    </contenu>
+    <contenu id="22">
+      <question>¿Qué nombres llevan los gemelos Weasley en « Harry Potter » ?</question>
+      <propositions>
+        <proposition id="22-1">Fred y George</proposition>
+        <proposition id="22-2">Charlie y Bill</proposition>
+        <proposition id="22-3">Lou y Cédric</proposition>
+        <proposition id="22-4">Bill y George</proposition>
+      </propositions>
+      <réponse proposition="22-1">Fred y George</réponse>
+      <anecdote>La ambición de las gemelas siempre ha sido abrir una tienda de bromas y trucos para vender algunos de sus inventos.</anecdote>
+    </contenu>
+    <contenu id="23">
+      <question>En la saga de « Harry Potter », ¿quién es el príncipe mestizo ?</question>
+      <propositions>
+        <proposition id="23-1">Dumbledore</proposition>
+        <proposition id="23-2">Voldemort</proposition>
+        <proposition id="23-3">Severus Snape</proposition>
+        <proposition id="23-4">Draco Malfoy</proposition>
+      </propositions>
+      <réponse proposition="23-3">Severus Snape</réponse>
+      <anecdote>El papel de Severus Snape en la trama es difícil de interpretar para el lector, que a menudo se basa en pistas falsas.</anecdote>
+    </contenu>
+    <contenu id="24">
+      <question>¿A quién le debe Harry Potter la cicatriz de una maldición mortal ?</question>
+      <propositions>
+        <proposition id="24-1">Voldemort</proposition>
+        <proposition id="24-2">Profesor Lupin</proposition>
+        <proposition id="24-3">James Potter</proposition>
+        <proposition id="24-4">Ron</proposition>
+      </propositions>
+      <réponse proposition="24-1">Voldemort</réponse>
+      <anecdote>Harry Potter usa anteojos redondos con montura negra y una fina cicatriz de rayo en la frente.</anecdote>
+    </contenu>
+    <contenu id="25">
+      <question>¿Qué bebidas se sirven principalmente a las « Tres Escobas » en « Harry Potter » ?</question>
+      <propositions>
+        <proposition id="25-1">Sodalament</proposition>
+        <proposition id="25-2">El vinausucre</proposition>
+        <proposition id="25-3">Cerveza de mantequilla</proposition>
+        <proposition id="25-4">Leche de espinacas</proposition>
+      </propositions>
+      <réponse proposition="25-3">Cerveza de mantequilla</réponse>
+      <anecdote>La cerveza de mantequilla, que se sirve fría en Les Trois Broomsticks, es la bebida más famosa del mundo mágico.</anecdote>
+    </contenu>
+    <contenu id="26">
+      <question>¿Cuál es el nombre de la madre de Draco Malfoy en « Harry Potter » ?</question>
+      <propositions>
+        <proposition id="26-1">Narcissa</proposition>
+        <proposition id="26-2">Dolores</proposition>
+        <proposition id="26-3">Lily</proposition>
+        <proposition id="26-4">Bellatrix</proposition>
+      </propositions>
+      <réponse proposition="26-1">Narcissa</réponse>
+      <anecdote>Los Malfoy y los Black están relacionados por el matrimonio entre Narcissa y Lucius, donde el joven Draco es el único heredero.</anecdote>
+    </contenu>
+    <contenu id="27">
+      <question>En Hogwarts, ¿en qué piso está ubicada la Sala On Demand ?</question>
+      <propositions>
+        <proposition id="27-1">Vigésimo piso</proposition>
+        <proposition id="27-2">Séptimo piso</proposition>
+        <proposition id="27-3">Segundo piso</proposition>
+        <proposition id="27-4">Undécimo piso</proposition>
+      </propositions>
+      <réponse proposition="27-2">Séptimo piso</réponse>
+      <anecdote>Una gran cantidad de pasillos ocultos, escaleras y retratos de pinturas en movimiento hacen que el establecimiento sea bastante misterioso.</anecdote>
+    </contenu>
+    <contenu id="28">
+      <question>¿Cuál es el primer regalo de Navidad que Hagrid le ofrece a Harry Potter ?</question>
+      <propositions>
+        <proposition id="28-1">Llave</proposition>
+        <proposition id="28-2">Baguette</proposition>
+        <proposition id="28-3">Búho</proposition>
+        <proposition id="28-4">Flauta</proposition>
+      </propositions>
+      <réponse proposition="28-4">Flauta</réponse>
+      <anecdote>Hagrid, miembro de la Orden del Fénix, fue criado en Hogwarts en la Casa Gryffindor, donde llegó en 1940.</anecdote>
+    </contenu>
+    <contenu id="29">
+      <question>¿Cuál es el signo zodiacal del joven Harry Potter, nacido en 1980 ?</question>
+      <propositions>
+        <proposition id="29-1">Tauro</proposition>
+        <proposition id="29-2">León</proposition>
+        <proposition id="29-3">Virgo</proposition>
+        <proposition id="29-4">Libra</proposition>
+      </propositions>
+      <réponse proposition="29-2">León</réponse>
+      <anecdote>Harry James Potter nació el 31 de julio de 1980 y, por tanto, tiene el mismo cumpleaños que J. K. Rowling.</anecdote>
+    </contenu>
+    <contenu id="30">
+      <question>¿En qué se transforma Peter Pettigrew en « Harry Potter » ?</question>
+      <propositions>
+        <proposition id="30-1">En serpiente</proposition>
+        <proposition id="30-2">En el chat</proposition>
+        <proposition id="30-3">En rata</proposition>
+        <proposition id="30-4">En pescado</proposition>
+      </propositions>
+      <réponse proposition="30-3">En rata</réponse>
+      <anecdote>Peter Pettigrew es un mago nacido en 1960, responsable de la muerte de Lily y James Potter.</anecdote>
+    </contenu>
+  </expert>
+  </es>
+  <it>
+  <débutant>
+    <contenu id="1">
+      <question>Che posizione occupa Harry Potter nella sua squadra di Quidditch ?</question>
+      <propositions>
+        <proposition id="1-1">Chaser</proposition>
+        <proposition id="1-2">Launcher</proposition>
+        <proposition id="1-3">Batterista</proposition>
+        <proposition id="1-4">Cercatore</proposition>
+      </propositions>
+      <réponse proposition="1-4">Cercatore</réponse>
+      <anecdote>Ogni squadra di Quidditch ha sette giocatori in sella a scope volanti.</anecdote>
+    </contenu>
+    <contenu id="2">
+      <question>In quale scuola di stregoneria Harry Potter ha seguito i suoi insegnamenti ?</question>
+      <propositions>
+        <proposition id="2-1">Cambridge</proposition>
+        <proposition id="2-2">Oxford</proposition>
+        <proposition id="2-3">West Point</proposition>
+        <proposition id="2-4">Hogwarts</proposition>
+      </propositions>
+      <réponse proposition="2-4">Hogwarts</réponse>
+      <anecdote>Il regista insegna ai suoi studenti il valore del coraggio, dell'amicizia, della giustizia e della verità attraverso il suo atteggiamento e i suoi discorsi.</anecdote>
+    </contenu>
+    <contenu id="3">
+      <question>Dove vive la famiglia Dursley nella saga di « Harry Potter » ?</question>
+      <propositions>
+        <proposition id="3-1">4 Privet Drive</proposition>
+        <proposition id="3-2">4 Privet Road</proposition>
+        <proposition id="3-3">4 Privet Avenue</proposition>
+        <proposition id="3-4">4 Privet Square</proposition>
+      </propositions>
+      <réponse proposition="3-1">4 Privet Drive</réponse>
+      <anecdote>Il cugino di Harry Potter, Dursley, è un ragazzo ribelle, violento e arrabbiato.</anecdote>
+    </contenu>
+    <contenu id="4">
+      <question>Chi è succeduto ad Armando Dippet come capo di Hogwarts in « Harry Potter » ?</question>
+      <propositions>
+        <proposition id="4-1">Lord Voldemort</proposition>
+        <proposition id="4-2">Ron Weasley</proposition>
+        <proposition id="4-3">Severus Snape</proposition>
+        <proposition id="4-4">Albus Silente</proposition>
+      </propositions>
+      <réponse proposition="4-4">Albus Silente</réponse>
+      <anecdote>Albus Silente, promosso nuovo preside, entrò a Hogwarts nel 1892, nella casa dei Grifondoro.</anecdote>
+    </contenu>
+    <contenu id="5">
+      <question>Qual è il cognome di Hermione nella saga di « Harry Potter » ?</question>
+      <propositions>
+        <proposition id="5-1">Grindelwald</proposition>
+        <proposition id="5-2">Gaunt</proposition>
+        <proposition id="5-3">Greengrass</proposition>
+        <proposition id="5-4">Granger</proposition>
+      </propositions>
+      <réponse proposition="5-4">Granger</réponse>
+      <anecdote>Hermione è la migliore amica di Harry Potter e Ron Weasley e risiede, durante i suoi anni scolastici, a Hogwarts, a casa dei Grifondoro.</anecdote>
+    </contenu>
+    <contenu id="6">
+      <question>Nella saga di « Harry Potter », un Babbano è qualcuno nato in una famiglia...</question>
+      <propositions>
+        <proposition id="6-1">Senza figli</proposition>
+        <proposition id="6-2">Senza segreti</proposition>
+        <proposition id="6-3">Senza soldi</proposition>
+        <proposition id="6-4">Senza magia</proposition>
+      </propositions>
+      <réponse proposition="6-4">Senza magia</réponse>
+      <anecdote>Negli esseri umani, i poteri magici vengono ereditati, trasmessi da alleli dominanti o recessivi.</anecdote>
+    </contenu>
+    <contenu id="7">
+      <question>Qual è il nome del migliore amico del giovane Harry Potter ?</question>
+      <propositions>
+        <proposition id="7-1">Hagrid</proposition>
+        <proposition id="7-2">Sirius</proposition>
+        <proposition id="7-3">Ron</proposition>
+        <proposition id="7-4">Draco</proposition>
+      </propositions>
+      <réponse proposition="7-3">Ron</réponse>
+      <anecdote>Ron, che ha incontrato Harry a King's Cross, fa parte della famiglia Weasley, una famiglia purosangue, che risiede nella Tana.</anecdote>
+    </contenu>
+    <contenu id="8">
+      <question>Quale attrice interpreta Hermione Granger nella saga di « Harry Potter » ?</question>
+      <propositions>
+        <proposition id="8-1">Maggie Smith</proposition>
+        <proposition id="8-2">Zoë Wanamaker</proposition>
+        <proposition id="8-3">Emma Watson</proposition>
+        <proposition id="8-4">Danielle Taylor</proposition>
+      </propositions>
+      <réponse proposition="8-3">Emma Watson</réponse>
+      <anecdote>Emma Watson è l'attrice di maggior incasso del decennio, grazie in gran parte alla saga di « Harry Potter ».</anecdote>
+    </contenu>
+    <contenu id="9">
+      <question>In « Harry Potter », quale titolo ha deciso di indossare Voldemort ?</question>
+      <propositions>
+        <proposition id="9-1">Conte</proposition>
+        <proposition id="9-2">Signore</proposition>
+        <proposition id="9-3">Duke</proposition>
+        <proposition id="9-4">Barone</proposition>
+      </propositions>
+      <réponse proposition="9-2">Signore</réponse>
+      <anecdote>Lord Voldemort è anche indicato come The Dark Lord o The Must-Not-Speak-The-Name.</anecdote>
+    </contenu>
+    <contenu id="10">
+      <question>Chi sta a guardia di Azkaban, la prigione dei maghi della saga di « Harry Potter » ?</question>
+      <propositions>
+        <proposition id="10-1">Gli spaventapasseri</proposition>
+        <proposition id="10-2">Il Cerbero</proposition>
+        <proposition id="10-3">I Dissennatori</proposition>
+        <proposition id="10-4">Ghouls</proposition>
+      </propositions>
+      <réponse proposition="10-3">I Dissennatori</réponse>
+      <anecdote>I Dissennatori sono considerati alcune delle creature più odiose di tutto ciò che esistono.</anecdote>
+    </contenu>
+  </débutant>
+  <confirmé>
+    <contenu id="11">
+      <question>Che forma assume lo spaventapasseri di Ron nella saga di « Harry Potter » ?</question>
+      <propositions>
+        <proposition id="11-1">Uno scorpione</proposition>
+        <proposition id="11-2">Un drago</proposition>
+        <proposition id="11-3">Un ragno</proposition>
+        <proposition id="11-4">Un lupo</proposition>
+      </propositions>
+      <réponse proposition="11-3">Un ragno</réponse>
+      <anecdote>Diciannove anni dopo la caduta di Voldemort, Ron e Hermione hanno due figli: Rose e suo fratello minore Hugo.</anecdote>
+    </contenu>
+    <contenu id="12">
+      <question>Quali sono i nomi dei genitori del giovane Harry Potter ?</question>
+      <propositions>
+        <proposition id="12-1">Hermione e Ron</proposition>
+        <proposition id="12-2">Olivia e Tom</proposition>
+        <proposition id="12-3">James e Lily</proposition>
+        <proposition id="12-4">Laurena e Victor</proposition>
+      </propositions>
+      <réponse proposition="12-3">James e Lily</réponse>
+      <anecdote>La famiglia Potter è anche un discendente di Ignotus Peverell, il proprietario originale dell'ambito Mantello dell'Invisibilità.</anecdote>
+    </contenu>
+    <contenu id="13">
+      <question>Quale attore interpreta Draco Malfoy in « Harry Potter » ?</question>
+      <propositions>
+        <proposition id="13-1">Robbie Coltrane</proposition>
+        <proposition id="13-2">Jeff Rawle</proposition>
+        <proposition id="13-3">Tom Felton</proposition>
+        <proposition id="13-4">Rupert Grint</proposition>
+      </propositions>
+      <réponse proposition="13-3">Tom Felton</réponse>
+      <anecdote>Tom Felton ha iniziato una carriera musicale all'inizio del 2007 sotto lo pseudonimo di Feltbeats, guadagnando 3 milioni di fan su Instagram.</anecdote>
+    </contenu>
+    <contenu id="14">
+      <question>Che marca di scopa da corsa usa Harry Potter ?</question>
+      <propositions>
+        <proposition id="14-1">Brossdur 5</proposition>
+        <proposition id="14-2">Comet 260</proposition>
+        <proposition id="14-3">Stella cadente</proposition>
+        <proposition id="14-4">Nimbus 2000</proposition>
+      </propositions>
+      <réponse proposition="14-4">Nimbus 2000</réponse>
+      <anecdote>Nell'universo di « Harry Potter », le scope vengono utilizzate per il trasporto di maghi e per il Quidditch.</anecdote>
+    </contenu>
+    <contenu id="15">
+      <question>Qual è il nome del drago appartenente a Hagrid nella saga di « Harry Potter » ?</question>
+      <propositions>
+        <proposition id="15-1">Crockdur</proposition>
+        <proposition id="15-2">Norbert</proposition>
+        <proposition id="15-3">Errol</proposition>
+        <proposition id="15-4">Aragog</proposition>
+      </propositions>
+      <réponse proposition="15-2">Norbert</réponse>
+      <anecdote>Hagrid, nato da un umano e un gigante, è stato uno dei primi personaggi creati da J. K. Rowling.</anecdote>
+    </contenu>
+    <contenu id="16">
+      <question>Chi è il ministro della Magia nella saga di « Harry Potter » ?</question>
+      <propositions>
+        <proposition id="16-1">Cornelius Fudge</proposition>
+        <proposition id="16-2">Ludovic Verpey</proposition>
+        <proposition id="16-3">Albus Silente</proposition>
+        <proposition id="16-4">Lucius Malfoy</proposition>
+      </propositions>
+      <réponse proposition="16-1">Cornelius Fudge</réponse>
+      <anecdote>Cornelius Fudge è anche chiamato Cornelius Lafadaise nella prima edizione di « Harry Potter e la pietra filosofale ».</anecdote>
+    </contenu>
+    <contenu id="17">
+      <question>Quale materia insegna il professor Snape nella saga di « Harry Potter » ?</question>
+      <propositions>
+        <proposition id="17-1">Difesa</proposition>
+        <proposition id="17-2">Incantesimo</proposition>
+        <proposition id="17-3">Pozioni</proposition>
+        <proposition id="17-4">Metamorfosi</proposition>
+      </propositions>
+      <réponse proposition="17-3">Pozioni</réponse>
+      <anecdote>Un personaggio oscuro, orgoglioso, amareggiato e amareggiato, Snape ha una personalità complessa, ambigua e in qualche modo indecifrabile.</anecdote>
+    </contenu>
+    <contenu id="18">
+      <question>Qual è il primo nome di Hagrid, il mezzo gigante della saga di « Harry Potter » ?</question>
+      <propositions>
+        <proposition id="18-1">Remus</proposition>
+        <proposition id="18-2">Albus</proposition>
+        <proposition id="18-3">Severus</proposition>
+        <proposition id="18-4">Rubeus</proposition>
+      </propositions>
+      <réponse proposition="18-4">Rubeus</réponse>
+      <anecdote>Hagrid è un guardiacaccia e insegna Cura delle creature magiche dal volume 3 della saga.</anecdote>
+    </contenu>
+    <contenu id="19">
+      <question>Chi è la saga di « Harry Potter » della cura delle creature magiche ?</question>
+      <propositions>
+        <proposition id="19-1">Hagrid</proposition>
+        <proposition id="19-2">Severus Snape</proposition>
+        <proposition id="19-3">Signora Sprout</proposition>
+        <proposition id="19-4">Albus Silente</proposition>
+      </propositions>
+      <réponse proposition="19-1">Hagrid</réponse>
+      <anecdote>Rubeus Hagrid, membro dell'Ordine della Fenice sin dalle sue origini, è interpretato al cinema da Robbie Coltrane.</anecdote>
+    </contenu>
+    <contenu id="20">
+      <question>Chi ha dato a Harry Potter il Nimbus 2000 ad alte prestazioni ?</question>
+      <propositions>
+        <proposition id="20-1">A. Dumbledore</proposition>
+        <proposition id="20-2">S. Rogue</proposition>
+        <proposition id="20-3">M. McGonagall</proposition>
+        <proposition id="20-4">D. Malefoy</proposition>
+      </propositions>
+      <réponse proposition="20-3">M. McGonagall</réponse>
+      <anecdote>Minerva McGonagall è a capo di Hogwarts e anche un'insegnante di Trasfigurazione.</anecdote>
+    </contenu>
+  </confirmé>
+  <expert>
+    <contenu id="21">
+      <question>Qual è la formula per la maledizione mortale nella saga di « Harry Potter » ?</question>
+      <propositions>
+        <proposition id="21-1">Mortibus Rem</proposition>
+        <proposition id="21-2">Avada Kedavra</proposition>
+        <proposition id="21-3">Post Mortem</proposition>
+        <proposition id="21-4">Machina Fino</proposition>
+      </propositions>
+      <réponse proposition="21-2">Avada Kedavra</réponse>
+      <anecdote>Avada Kedavra provoca la morte istantanea, in un lampo di luce verde e un rumore simile a una folata di vento.</anecdote>
+    </contenu>
+    <contenu id="22">
+      <question>Quali nomi indossano i gemelli Weasley in « Harry Potter » ?</question>
+      <propositions>
+        <proposition id="22-1">Lou e Cédric</proposition>
+        <proposition id="22-2">Fred e George</proposition>
+        <proposition id="22-3">Charlie e Bill</proposition>
+        <proposition id="22-4">Bill e George</proposition>
+      </propositions>
+      <réponse proposition="22-2">Fred e George</réponse>
+      <anecdote>L'ambizione dei gemelli è sempre stata quella di aprire un negozio di scherzi e trucchi per vendere alcune delle loro invenzioni.</anecdote>
+    </contenu>
+    <contenu id="23">
+      <question>Nella saga di « Harry Potter », chi è il principe mezzosangue ?</question>
+      <propositions>
+        <proposition id="23-1">Voldemort</proposition>
+        <proposition id="23-2">Draco Malfoy</proposition>
+        <proposition id="23-3">Severus Snape</proposition>
+        <proposition id="23-4">Silente</proposition>
+      </propositions>
+      <réponse proposition="23-3">Severus Snape</réponse>
+      <anecdote>Il ruolo di Severus Snape nella trama è difficile da interpretare per il lettore che è spesso attratto da false piste.</anecdote>
+    </contenu>
+    <contenu id="24">
+      <question>A chi Harry Potter deve la sua cicatrice da una maledizione della morte ?</question>
+      <propositions>
+        <proposition id="24-1">James Potter</proposition>
+        <proposition id="24-2">Professor Lupin</proposition>
+        <proposition id="24-3">Ron</proposition>
+        <proposition id="24-4">Voldemort</proposition>
+      </propositions>
+      <réponse proposition="24-4">Voldemort</réponse>
+      <anecdote>Harry Potter indossa occhiali rotondi con montatura nera e una sottile cicatrice di un fulmine sulla fronte.</anecdote>
+    </contenu>
+    <contenu id="25">
+      <question>Quale bevanda viene servita principalmente alle « Tre scope » in « Harry Potter » ?</question>
+      <propositions>
+        <proposition id="25-1">Il vinausucre</proposition>
+        <proposition id="25-2">Burrobirra</proposition>
+        <proposition id="25-3">Spinaci al latte</proposition>
+        <proposition id="25-4">Sodalament</proposition>
+      </propositions>
+      <réponse proposition="25-2">Burrobirra</réponse>
+      <anecdote>La Burrobirra, servita fresca da Les Trois Broomsticks, è la bevanda più famosa del mondo magico.</anecdote>
+    </contenu>
+    <contenu id="26">
+      <question>Qual è il nome della madre di Draco Malfoy in « Harry Potter » ?</question>
+      <propositions>
+        <proposition id="26-1">Narcissa</proposition>
+        <proposition id="26-2">Dolores</proposition>
+        <proposition id="26-3">Bellatrix</proposition>
+        <proposition id="26-4">Lily</proposition>
+      </propositions>
+      <réponse proposition="26-1">Narcissa</réponse>
+      <anecdote>I Malfoy e i Neri sono legati dal matrimonio tra Narcissa e Lucius, dove il giovane Draco è l'unico erede.</anecdote>
+    </contenu>
+    <contenu id="27">
+      <question>A Hogwarts, a che piano si trova la sala on demand ?</question>
+      <propositions>
+        <proposition id="27-1">Undicesimo piano</proposition>
+        <proposition id="27-2">Secondo piano</proposition>
+        <proposition id="27-3">Ventesimo piano</proposition>
+        <proposition id="27-4">Settimo piano</proposition>
+      </propositions>
+      <réponse proposition="27-4">Settimo piano</réponse>
+      <anecdote>Un gran numero di passaggi nascosti, scale e ritratti di pittura in movimento rendono l'edificio piuttosto misterioso.</anecdote>
+    </contenu>
+    <contenu id="28">
+      <question>Qual è il primo regalo di Natale che Hagrid offre a Harry Potter ?</question>
+      <propositions>
+        <proposition id="28-1">Flauto</proposition>
+        <proposition id="28-2">Gufo</proposition>
+        <proposition id="28-3">Baguette</proposition>
+        <proposition id="28-4">Chiave</proposition>
+      </propositions>
+      <réponse proposition="28-1">Flauto</réponse>
+      <anecdote>Hagrid, membro dell'Ordine della Fenice, fu cresciuto a Hogwarts nella Casa dei Grifondoro, dove arrivò nel 1940.</anecdote>
+    </contenu>
+    <contenu id="29">
+      <question>Qual è il segno zodiacale del giovane Harry Potter, nato nel 1980 ?</question>
+      <propositions>
+        <proposition id="29-1">Vergine</proposition>
+        <proposition id="29-2">Leone</proposition>
+        <proposition id="29-3">Bilancia</proposition>
+        <proposition id="29-4">Toro</proposition>
+      </propositions>
+      <réponse proposition="29-2">Leone</réponse>
+      <anecdote>Harry James Potter è nato il 31 luglio 1980 e quindi ha lo stesso compleanno di J. K. Rowling.</anecdote>
+    </contenu>
+    <contenu id="30">
+      <question>In che cosa si trasforma Peter Minus in « Harry Potter » ?</question>
+      <propositions>
+        <proposition id="30-1">In chat</proposition>
+        <proposition id="30-2">Nel ratto</proposition>
+        <proposition id="30-3">Nel pesce</proposition>
+        <proposition id="30-4">In serpente</proposition>
+      </propositions>
+      <réponse proposition="30-2">Nel ratto</réponse>
+      <anecdote>Peter Pettigrew è un mago nato nel 1960, responsabile della morte di Lily e James Potter.</anecdote>
+    </contenu>
+  </expert>
+  </it>
+  <nl>
+  <débutant>
+    <contenu id="1">
+      <question>Welke positie heeft Harry Potter in zijn Zwerkbalteam ?</question>
+      <propositions>
+        <proposition id="1-1">Launcher</proposition>
+        <proposition id="1-2">Jager</proposition>
+        <proposition id="1-3">Zoeker</proposition>
+        <proposition id="1-4">Drummer</proposition>
+      </propositions>
+      <réponse proposition="1-3">Zoeker</réponse>
+      <anecdote>Elk Quidditch-team heeft zeven spelers die op vliegende bezems rijden.</anecdote>
+    </contenu>
+    <contenu id="2">
+      <question>Op welke hekserijschool volgde Harry Potter zijn leringen ?</question>
+      <propositions>
+        <proposition id="2-1">Westpunt</proposition>
+        <proposition id="2-2">Zweinstein</proposition>
+        <proposition id="2-3">Cambridge</proposition>
+        <proposition id="2-4">Oxford</proposition>
+      </propositions>
+      <réponse proposition="2-2">Zweinstein</réponse>
+      <anecdote>De directeur leert zijn studenten de waarde van moed, vriendschap, gerechtigheid en waarheid door zijn houding en zijn toespraken.</anecdote>
+    </contenu>
+    <contenu id="3">
+      <question>Waar woont de familie Duffeling in het verhaal van « Harry Potter » ?</question>
+      <propositions>
+        <proposition id="3-1">4 Privet Road</proposition>
+        <proposition id="3-2">4 Privet Avenue</proposition>
+        <proposition id="3-3">4 Privet Drive</proposition>
+        <proposition id="3-4">4 Privet Square</proposition>
+      </propositions>
+      <réponse proposition="3-3">4 Privet Drive</réponse>
+      <anecdote>Harry Potter's neef Duffeling is een weerbarstige, gewelddadige en boze jongen.</anecdote>
+    </contenu>
+    <contenu id="4">
+      <question>Wie volgde Armando Dippet op als Hoofd van Zweinstein in « Harry Potter » ?</question>
+      <propositions>
+        <proposition id="4-1">Heer Voldemort</proposition>
+        <proposition id="4-2">Severus Sneep</proposition>
+        <proposition id="4-3">Albus Perkamentus</proposition>
+        <proposition id="4-4">Ron Wemel</proposition>
+      </propositions>
+      <réponse proposition="4-3">Albus Perkamentus</réponse>
+      <anecdote>Albus Perkamentus, gepromoveerd tot nieuwe rector, ging in 1892 naar Zweinstein, in het Griffoendorhuis.</anecdote>
+    </contenu>
+    <contenu id="5">
+      <question>Wat is de achternaam van Hermelien in de « Harry Potter » serie ?</question>
+      <propositions>
+        <proposition id="5-1">Gaunt</proposition>
+        <proposition id="5-2">Griffel</proposition>
+        <proposition id="5-3">Grindelwald</proposition>
+        <proposition id="5-4">Greengrass</proposition>
+      </propositions>
+      <réponse proposition="5-2">Griffel</réponse>
+      <anecdote>Hermelien is de beste vriend van Harry Potter en Ron Wemel, en verblijft tijdens haar schooljaren op Zweinstein, in het Griffoendor huis.</anecdote>
+    </contenu>
+    <contenu id="6">
+      <question>In de saga van « Harry Potter » is een Dreuzel iemand die in een gezin wordt geboren...</question>
+      <propositions>
+        <proposition id="6-1">Zonder magie</proposition>
+        <proposition id="6-2">Zonder kinderen</proposition>
+        <proposition id="6-3">Zonder geld</proposition>
+        <proposition id="6-4">Zonder geheimen</proposition>
+      </propositions>
+      <réponse proposition="6-1">Zonder magie</réponse>
+      <anecdote>Bij mensen worden magische krachten geërfd, overgedragen door dominante of recessieve allelen.</anecdote>
+    </contenu>
+    <contenu id="7">
+      <question>Wat is de voornaam van de beste vriend van de jonge Harry Potter ?</question>
+      <propositions>
+        <proposition id="7-1">Sirius</proposition>
+        <proposition id="7-2">Ron</proposition>
+        <proposition id="7-3">Draco</proposition>
+        <proposition id="7-4">Hagrid</proposition>
+      </propositions>
+      <réponse proposition="7-2">Ron</réponse>
+      <anecdote>Ron, die Harry ontmoette bij King's Cross, maakt deel uit van de Weasley-familie, een raszuivere familie, die in The Burrow woont.</anecdote>
+    </contenu>
+    <contenu id="8">
+      <question>Welke actrice speelt Hermione Granger in de saga van « Harry Potter » ?</question>
+      <propositions>
+        <proposition id="8-1">Emma Watson</proposition>
+        <proposition id="8-2">Zoë Wanamaker</proposition>
+        <proposition id="8-3">Danielle Taylor</proposition>
+        <proposition id="8-4">Maggie Smith</proposition>
+      </propositions>
+      <réponse proposition="8-1">Emma Watson</réponse>
+      <anecdote>Emma Watson is de meest verdienende actrice van het decennium, grotendeels dankzij de « Harry Potter » saga.</anecdote>
+    </contenu>
+    <contenu id="9">
+      <question>Welke titel besloot Voldemort in « Harry Potter » te dragen ?</question>
+      <propositions>
+        <proposition id="9-1">Tellen</proposition>
+        <proposition id="9-2">Hertog</proposition>
+        <proposition id="9-3">Baron</proposition>
+        <proposition id="9-4">Heer</proposition>
+      </propositions>
+      <réponse proposition="9-4">Heer</réponse>
+      <anecdote>Lord Voldemort wordt ook wel The Dark Lord of The Must-Not-Speak-The-Name genoemd.</anecdote>
+    </contenu>
+    <contenu id="10">
+      <question>Wie bewaakt Azkaban, de tovenaarsgevangenis in de « Harry Potter » saga ?</question>
+      <propositions>
+        <proposition id="10-1">Geesten</proposition>
+        <proposition id="10-2">De Cerberus</proposition>
+        <proposition id="10-3">De Dementors</proposition>
+        <proposition id="10-4">De vogelverschrikkers</proposition>
+      </propositions>
+      <réponse proposition="10-3">De Dementors</réponse>
+      <anecdote>Dementors worden beschouwd als enkele van de meest walgelijke wezens die er bestaan.</anecdote>
+    </contenu>
+  </débutant>
+  <confirmé>
+    <contenu id="11">
+      <question>Welke vorm neemt de vogelverschrikker van Ron aan in de « Harry Potter » saga ?</question>
+      <propositions>
+        <proposition id="11-1">Een wolf</proposition>
+        <proposition id="11-2">Een spin</proposition>
+        <proposition id="11-3">Een draak</proposition>
+        <proposition id="11-4">Een schorpioen</proposition>
+      </propositions>
+      <réponse proposition="11-2">Een spin</réponse>
+      <anecdote>Negentien jaar na de val van Voldemort hebben Ron en Hermelien twee kinderen: Rose en haar jongere broer Hugo.</anecdote>
+    </contenu>
+    <contenu id="12">
+      <question>Wat zijn de namen van de ouders van de jonge Harry Potter ?</question>
+      <propositions>
+        <proposition id="12-1">Olivia en Tom</proposition>
+        <proposition id="12-2">Laurena en Victor</proposition>
+        <proposition id="12-3">Hermione en Ron</proposition>
+        <proposition id="12-4">James en Lily</proposition>
+      </propositions>
+      <réponse proposition="12-4">James en Lily</réponse>
+      <anecdote>De Potter-familie is ook een afstammeling van Ignotus Peverell, de oorspronkelijke eigenaar van de felbegeerde Onzichtbaarheidsmantel.</anecdote>
+    </contenu>
+    <contenu id="13">
+      <question>Welke acteur speelt Draco Malfidus in « Harry Potter » ?</question>
+      <propositions>
+        <proposition id="13-1">Rupert Grint</proposition>
+        <proposition id="13-2">Jeff Rawle</proposition>
+        <proposition id="13-3">Robbie Coltrane</proposition>
+        <proposition id="13-4">Tom Felton</proposition>
+      </propositions>
+      <réponse proposition="13-4">Tom Felton</réponse>
+      <anecdote>Tom Felton begon begin 2007 een muzikale carrière onder het pseudoniem Feltbeats en kreeg 3 miljoen fans op Instagram.</anecdote>
+    </contenu>
+    <contenu id="14">
+      <question>Welk merk racebezem gebruikt Harry Potter ?</question>
+      <propositions>
+        <proposition id="14-1">Brossdur 5</proposition>
+        <proposition id="14-2">Komeet 260</proposition>
+        <proposition id="14-3">Vallende ster</proposition>
+        <proposition id="14-4">Nimbus 2000</proposition>
+      </propositions>
+      <réponse proposition="14-4">Nimbus 2000</réponse>
+      <anecdote>In het « Harry Potter » universum worden bezems gebruikt voor het vervoeren van tovenaars en voor Zwerkbal.</anecdote>
+    </contenu>
+    <contenu id="15">
+      <question>Hoe heet de draak die aan Hagrid toebehoort in de « Harry Potter » saga ?</question>
+      <propositions>
+        <proposition id="15-1">Crockdur</proposition>
+        <proposition id="15-2">Norbert</proposition>
+        <proposition id="15-3">Aragog</proposition>
+        <proposition id="15-4">Errol</proposition>
+      </propositions>
+      <réponse proposition="15-2">Norbert</réponse>
+      <anecdote>Hagrid, geboren uit een mens en een reus, was een van de eerste personages gemaakt door J. K. Rowling.</anecdote>
+    </contenu>
+    <contenu id="16">
+      <question>Wie is de Minister van Toverkunst in de « Harry Potter » saga ?</question>
+      <propositions>
+        <proposition id="16-1">Lucius Malfidus</proposition>
+        <proposition id="16-2">Albus Perkamentus</proposition>
+        <proposition id="16-3">Cornelius Fudge</proposition>
+        <proposition id="16-4">Ludovic Verpey</proposition>
+      </propositions>
+      <réponse proposition="16-3">Cornelius Fudge</réponse>
+      <anecdote>Cornelius Droebel wordt ook Cornelius Lafadaise genoemd in de eerste editie van « Harry Potter en de Steen der Wijzen ».</anecdote>
+    </contenu>
+    <contenu id="17">
+      <question>Welk onderwerp geeft professor Sneep les in de « Harry Potter » saga ?</question>
+      <propositions>
+        <proposition id="17-1">Metamorfose</proposition>
+        <proposition id="17-2">Drankjes</proposition>
+        <proposition id="17-3">Verdediging</proposition>
+        <proposition id="17-4">Betovering</proposition>
+      </propositions>
+      <réponse proposition="17-2">Drankjes</réponse>
+      <anecdote>Een duister, trots, verbitterd en bitter karakter, Sneep heeft een complexe, dubbelzinnige en enigszins onleesbare persoonlijkheid.</anecdote>
+    </contenu>
+    <contenu id="18">
+      <question>Wat is de voornaam van Hagrid, de halve reus van de « Harry Potter » saga ?</question>
+      <propositions>
+        <proposition id="18-1">Albus</proposition>
+        <proposition id="18-2">Rubeus</proposition>
+        <proposition id="18-3">Remus</proposition>
+        <proposition id="18-4">Severus</proposition>
+      </propositions>
+      <réponse proposition="18-2">Rubeus</réponse>
+      <anecdote>Hagrid is een jachtopziener en geeft les in Care of Magical Creatures sinds deel 3 van de saga.</anecdote>
+    </contenu>
+    <contenu id="19">
+      <question>Wie is de « Harry Potter » Saga of the Care of Magical Creatures ?</question>
+      <propositions>
+        <proposition id="19-1">Albus Perkamentus</proposition>
+        <proposition id="19-2">Mevrouw Sprout</proposition>
+        <proposition id="19-3">Severus Sneep</proposition>
+        <proposition id="19-4">Hagrid</proposition>
+      </propositions>
+      <réponse proposition="19-4">Hagrid</réponse>
+      <anecdote>Rubeus Hagrid, sinds zijn ontstaan \u200b\u200blid van de Orde van de Feniks, wordt in de bioscoop gespeeld door Robbie Coltrane.</anecdote>
+    </contenu>
+    <contenu id="20">
+      <question>Wie heeft Harry Potter de goed presterende Nimbus 2000 gegeven ?</question>
+      <propositions>
+        <proposition id="20-1">M. McGonagall</proposition>
+        <proposition id="20-2">D. Malefoy</proposition>
+        <proposition id="20-3">S. Rogue</proposition>
+        <proposition id="20-4">A. Dumbledore</proposition>
+      </propositions>
+      <réponse proposition="20-1">M. McGonagall</réponse>
+      <anecdote>Minerva Anderling is Hoofd van Zweinstein en tevens leraar Transfiguratie.</anecdote>
+    </contenu>
+  </confirmé>
+  <expert>
+    <contenu id="21">
+      <question>Wat is de formule voor de moordvloek in de saga van « Harry Potter » ?</question>
+      <propositions>
+        <proposition id="21-1">Mortibus Rem</proposition>
+        <proposition id="21-2">Machina Fino</proposition>
+        <proposition id="21-3">Post Mortem</proposition>
+        <proposition id="21-4">Avada Kedavra</proposition>
+      </propositions>
+      <réponse proposition="21-4">Avada Kedavra</réponse>
+      <anecdote>Avada Kedavra veroorzaakt onmiddellijke dood, in een flits van groen licht en een geluid dat lijkt op een windvlaag.</anecdote>
+    </contenu>
+    <contenu id="22">
+      <question>Welke namen dragen de Weasley-tweeling in « Harry Potter » ?</question>
+      <propositions>
+        <proposition id="22-1">Charlie en Bill</proposition>
+        <proposition id="22-2">Fred en George</proposition>
+        <proposition id="22-3">Lou en Cédric</proposition>
+        <proposition id="22-4">Bill en George</proposition>
+      </propositions>
+      <réponse proposition="22-2">Fred en George</réponse>
+      <anecdote>De ambitie van de tweeling is altijd geweest om een grap en trucwinkel te openen om een aantal van hun uitvindingen te verkopen.</anecdote>
+    </contenu>
+    <contenu id="23">
+      <question>Wie is de halfbloedprins in de saga van « Harry Potter » ?</question>
+      <propositions>
+        <proposition id="23-1">Severus Sneep</proposition>
+        <proposition id="23-2">Draco Malfidus</proposition>
+        <proposition id="23-3">Perkamentus</proposition>
+        <proposition id="23-4">Voldemort</proposition>
+      </propositions>
+      <réponse proposition="23-1">Severus Sneep</réponse>
+      <anecdote>De rol van Severus Sneep in de plot is moeilijk voor de lezer die vaak wordt aangetrokken door valse aanwijzingen.</anecdote>
+    </contenu>
+    <contenu id="24">
+      <question>Aan wie heeft Harry Potter zijn litteken van een Death Curse te danken ?</question>
+      <propositions>
+        <proposition id="24-1">Professor Lupin</proposition>
+        <proposition id="24-2">Voldemort</proposition>
+        <proposition id="24-3">James Potter</proposition>
+        <proposition id="24-4">Ron</proposition>
+      </propositions>
+      <réponse proposition="24-2">Voldemort</réponse>
+      <anecdote>Harry Potter draagt een ronde bril met een zwart montuur en een dun litteken van de bliksemschicht op zijn voorhoofd.</anecdote>
+    </contenu>
+    <contenu id="25">
+      <question>Welke drank wordt er voornamelijk geserveerd aan de « Three Brooms » in « Harry Potter » ?</question>
+      <propositions>
+        <proposition id="25-1">Sodalament</proposition>
+        <proposition id="25-2">Melk spinazie</proposition>
+        <proposition id="25-3">Boterbier</proposition>
+        <proposition id="25-4">De vinausucre</proposition>
+      </propositions>
+      <réponse proposition="25-3">Boterbier</réponse>
+      <anecdote>Boterbier, gekoeld geserveerd bij Les Trois Broomsticks, is het beroemdste drankje in de tovenaarswereld.</anecdote>
+    </contenu>
+    <contenu id="26">
+      <question>Hoe heet de moeder van Draco Malfidus in « Harry Potter » ?</question>
+      <propositions>
+        <proposition id="26-1">Narcissa</proposition>
+        <proposition id="26-2">Dolores</proposition>
+        <proposition id="26-3">Bellatrix</proposition>
+        <proposition id="26-4">Lelie</proposition>
+      </propositions>
+      <réponse proposition="26-1">Narcissa</réponse>
+      <anecdote>De Malfidussen en de Zwarten zijn verwant door een huwelijk tussen Narcissa en Lucius, waar de jonge Draco de enige erfgenaam is.</anecdote>
+    </contenu>
+    <contenu id="27">
+      <question>Op Zweinstein, op welke verdieping bevindt de On Demand Room zich ?</question>
+      <propositions>
+        <proposition id="27-1">Twentieth Floor</proposition>
+        <proposition id="27-2">Elfde verdieping</proposition>
+        <proposition id="27-3">Zevende verdieping</proposition>
+        <proposition id="27-4">Tweede verdieping</proposition>
+      </propositions>
+      <réponse proposition="27-3">Zevende verdieping</réponse>
+      <anecdote>Een groot aantal verborgen gangen, trappen en bewegende schilderijportretten maken het etablissement behoorlijk mysterieus.</anecdote>
+    </contenu>
+    <contenu id="28">
+      <question>Wat is het eerste kerstcadeau dat Hagrid aanbiedt aan Harry Potter ?</question>
+      <propositions>
+        <proposition id="28-1">Baguette</proposition>
+        <proposition id="28-2">Fluit</proposition>
+        <proposition id="28-3">Owl</proposition>
+        <proposition id="28-4">Sleutel</proposition>
+      </propositions>
+      <réponse proposition="28-2">Fluit</réponse>
+      <anecdote>Hagrid, een lid van de Orde van de Feniks, is opgegroeid op Hogwarts in het Gryffindor House, waar hij in 1940 aankwam.</anecdote>
+    </contenu>
+    <contenu id="29">
+      <question>Wat is het sterrenbeeld van de jonge Harry Potter, geboren in 1980 ?</question>
+      <propositions>
+        <proposition id="29-1">Weegschaal</proposition>
+        <proposition id="29-2">Maagd</proposition>
+        <proposition id="29-3">Leeuw</proposition>
+        <proposition id="29-4">Stier</proposition>
+      </propositions>
+      <réponse proposition="29-3">Leeuw</réponse>
+      <anecdote>Harry James Potter is geboren op 31 juli 1980 en heeft dus dezelfde verjaardag als J. K. Rowling.</anecdote>
+    </contenu>
+    <contenu id="30">
+      <question>Waar verandert Peter Pippeling in in « Harry Potter » ?</question>
+      <propositions>
+        <proposition id="30-1">In vis</proposition>
+        <proposition id="30-2">Bij rat</proposition>
+        <proposition id="30-3">In de chat</proposition>
+        <proposition id="30-4">In slang</proposition>
+      </propositions>
+      <réponse proposition="30-2">Bij rat</réponse>
+      <anecdote>Peter Pettigrew is een tovenaar geboren in 1960, verantwoordelijk voor de dood van Lily en James Potter.</anecdote>
+    </contenu>
+  </expert>
+  </nl>
+</quizz>

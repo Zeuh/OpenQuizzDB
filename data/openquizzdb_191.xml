@@ -1,0 +1,2035 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes" ?>
+<quizz fournisseur="OpenQuizzDB : Fournisseur de contenu libre"
+       url="https://www.openquizzdb.org"
+       rédacteur="Philippe Bresoux"
+       thème="Escalade (Qui veut gravir commence par le bas)"
+       difficulté="3 / 5">
+  <fr>
+  <débutant>
+    <contenu id="1">
+      <question>Combien faut-il être au minimum pour prétendre pouvoir grimper en escalade ?</question>
+      <propositions>
+        <proposition id="1-1">Quatre</proposition>
+        <proposition id="1-2">Deux</proposition>
+        <proposition id="1-3">Un</proposition>
+        <proposition id="1-4">Trois</proposition>
+      </propositions>
+      <réponse proposition="1-3">Un</réponse>
+      <anecdote>L'escalade sportive se pratique sur des voies entièrement équipées, où des points d'ancrage ont été au préalable mis en place.</anecdote>
+    </contenu>
+    <contenu id="2">
+      <question>Quel noeud important doit-on au minimum savoir réaliser pour faire de l'escalade ?</question>
+      <propositions>
+        <proposition id="2-1">Noeud plat</proposition>
+        <proposition id="2-2">Noeud papillon</proposition>
+        <proposition id="2-3">Noeud de chaise</proposition>
+        <proposition id="2-4">Noeud en huit</proposition>
+      </propositions>
+      <réponse proposition="2-4">Noeud en huit</réponse>
+      <anecdote>Le noeud en huit est relativement simple à défaire, n'abîme pas trop le cordage et forme un noeud plus gros que le noeud simple.</anecdote>
+    </contenu>
+    <contenu id="3">
+      <question>Quelle technique de descente se pratique le long d'une corde munie d'un frein ?</question>
+      <propositions>
+        <proposition id="3-1">Désobstruction</proposition>
+        <proposition id="3-2">Tyrolienne</proposition>
+        <proposition id="3-3">Rappel</proposition>
+        <proposition id="3-4">Assurage</proposition>
+      </propositions>
+      <réponse proposition="3-3">Rappel</réponse>
+      <anecdote>L'invention en 1876 de la technique de descente en rappel est attribuée à Jean Charlet-Straton, un guide chamoniard.</anecdote>
+    </contenu>
+    <contenu id="4">
+      <question>Que dois-je suivre si je décide de n'utiliser que des prises de même couleur sur un mur ?</question>
+      <propositions>
+        <proposition id="4-1">Parcours</proposition>
+        <proposition id="4-2">Voie</proposition>
+        <proposition id="4-3">Chemin</proposition>
+        <proposition id="4-4">Tracé</proposition>
+      </propositions>
+      <réponse proposition="4-2">Voie</réponse>
+      <anecdote>Une voie d'escalade est un cheminement par lequel un grimpeur atteint le haut d'une montagne ou d'un rocher.</anecdote>
+    </contenu>
+    <contenu id="5">
+      <question>Laquelle de ces cotations désigne un niveau de difficulté officiel en escalade ?</question>
+      <propositions>
+        <proposition id="5-1">2-4</proposition>
+        <proposition id="5-2">7C</proposition>
+        <proposition id="5-3">C2</proposition>
+        <proposition id="5-4">B+</proposition>
+      </propositions>
+      <réponse proposition="5-2">7C</réponse>
+      <anecdote>Le grimpeur qui réussit la première ascension d'une voie est généralement celui qui donne la première cotation de la voie.</anecdote>
+    </contenu>
+    <contenu id="6">
+      <question>En escalade, quel système constitue un point d'ancrage dans la roche ?</question>
+      <propositions>
+        <proposition id="6-1">Mousqueton</proposition>
+        <proposition id="6-2">Grigri</proposition>
+        <proposition id="6-3">Coinceur</proposition>
+        <proposition id="6-4">Relais</proposition>
+      </propositions>
+      <réponse proposition="6-3">Coinceur</réponse>
+      <anecdote>Ce point d'ancrage peut servir de point de protection dans une longueur ou de progression, ou bien servir à constituer un relais.</anecdote>
+    </contenu>
+    <contenu id="7">
+      <question>Quel équipement vient enserrer le bassin du grimpeur tel un harnais ?</question>
+      <propositions>
+        <proposition id="7-1">Anneau de sangle</proposition>
+        <proposition id="7-2">Baudrier</proposition>
+        <proposition id="7-3">Coinceur</proposition>
+        <proposition id="7-4">Crash pad</proposition>
+      </propositions>
+      <réponse proposition="7-2">Baudrier</réponse>
+      <anecdote>Le baudrier est largement utilisé dans la pratique de divers sports comme l'escalade, l'alpinisme, le canyonisme et la spéléologie.</anecdote>
+    </contenu>
+    <contenu id="8">
+      <question>Quelle poudre blanche sert à ne pas transpirer des mains en escalade ?</question>
+      <propositions>
+        <proposition id="8-1">Magnésie</proposition>
+        <proposition id="8-2">Sucre glace</proposition>
+        <proposition id="8-3">Talc</proposition>
+        <proposition id="8-4">Farine</proposition>
+      </propositions>
+      <réponse proposition="8-1">Magnésie</réponse>
+      <anecdote>Le carbonate de magnésium peut contenir une faible proportion de silice qui, inhalée, peut avoir des effets néfastes sur les poumons.</anecdote>
+    </contenu>
+    <contenu id="9">
+      <question>Quel type de chaussures est généralement utilisé pour l'escalade ?</question>
+      <propositions>
+        <proposition id="9-1">Botte</proposition>
+        <proposition id="9-2">Basket</proposition>
+        <proposition id="9-3">Pantoufle</proposition>
+        <proposition id="9-4">Chausson</proposition>
+      </propositions>
+      <réponse proposition="9-4">Chausson</réponse>
+      <anecdote>Afin d'améliorer l'accroche du pied par friction sur un mur d'escalade ou un rocher, le chausson est recouvert d'une couche de gomme.</anecdote>
+    </contenu>
+    <contenu id="10">
+      <question>Laquelle de ces cotations est la plus haute pour un grimpeur averti ?</question>
+      <propositions>
+        <proposition id="10-1">1a</proposition>
+        <proposition id="10-2">7c+</proposition>
+        <proposition id="10-3">9a</proposition>
+        <proposition id="10-4">e7</proposition>
+      </propositions>
+      <réponse proposition="10-3">9a</réponse>
+      <anecdote>La difficulté est estimée pour une ascension en tête, sans s'aider des points d'assurage et sans se reposer pendu à la corde.</anecdote>
+    </contenu>
+  </débutant>
+  <confirmé>
+    <contenu id="11">
+      <question>Que signifie « lover une corde » dans la terminologie des grimpeurs ?</question>
+      <propositions>
+        <proposition id="11-1">Dénouer</proposition>
+        <proposition id="11-2">Enrouler</proposition>
+        <proposition id="11-3">Détacher</proposition>
+        <proposition id="11-4">Accrocher</proposition>
+      </propositions>
+      <réponse proposition="11-2">Enrouler</réponse>
+      <anecdote>L'utilisation est dite à simple lorsque le sportif est assuré par un seul brin de corde et à double par deux brins indépendants.</anecdote>
+    </contenu>
+    <contenu id="12">
+      <question>Quelle est la nationalité de la marque Petzl, surtout connue pour ses lampes frontales ?</question>
+      <propositions>
+        <proposition id="12-1">Autrichienne</proposition>
+        <proposition id="12-2">Américaine</proposition>
+        <proposition id="12-3">Anglaise</proposition>
+        <proposition id="12-4">Française</proposition>
+      </propositions>
+      <réponse proposition="12-4">Française</réponse>
+      <anecdote>La marque Petzl propose du matériel pour l'alpinisme, l'escalade, la spéléologie, la via ferrata, le canyonisme et le trail running.</anecdote>
+    </contenu>
+    <contenu id="13">
+      <question>Quel noeud bien connu des grimpeurs permet de se vacher en toute sécurité ?</question>
+      <propositions>
+        <proposition id="13-1">Pêcheur</proposition>
+        <proposition id="13-2">Papillon</proposition>
+        <proposition id="13-3">Chaise</proposition>
+        <proposition id="13-4">Cabestan</proposition>
+      </propositions>
+      <réponse proposition="13-4">Cabestan</réponse>
+      <anecdote>Le noeud de cabestan est noué sur la corde d'assurance passée dans un mousqueton : la corde est alors bloquée dans les deux sens.</anecdote>
+    </contenu>
+    <contenu id="14">
+      <question>Quelle partie du mur d'escalade appelle-t-on le dévers ?</question>
+      <propositions>
+        <proposition id="14-1">Verticale</proposition>
+        <proposition id="14-2">Penchée</proposition>
+        <proposition id="14-3">Droite</proposition>
+        <proposition id="14-4">En bordure</proposition>
+      </propositions>
+      <réponse proposition="14-2">Penchée</réponse>
+      <anecdote>C'est en 1983 que François Savigny inventa les prises d'escalade amovibles, d'abord en grès puis en béton de résine.</anecdote>
+    </contenu>
+    <contenu id="15">
+      <question>Dans quel système de sécurité peut-on passer une corde lorsque l'on grimpe ?</question>
+      <propositions>
+        <proposition id="15-1">Crash pad</proposition>
+        <proposition id="15-2">Piolet</proposition>
+        <proposition id="15-3">Mousqueton</proposition>
+        <proposition id="15-4">Tamponnoir</proposition>
+      </propositions>
+      <réponse proposition="15-3">Mousqueton</réponse>
+      <anecdote>L'utilisation du mousqueton en escalade était en fait une conséquence logique de l'usage des pitons inventés par Hans Fiechtl.</anecdote>
+    </contenu>
+    <contenu id="16">
+      <question>Quel est l'autre nom que donnent parfois les grimpeurs à la colophane ?</question>
+      <propositions>
+        <proposition id="16-1">Jumar</proposition>
+        <proposition id="16-2">Clip</proposition>
+        <proposition id="16-3">Pof</proposition>
+        <proposition id="16-4">Longe</proposition>
+      </propositions>
+      <réponse proposition="16-3">Pof</réponse>
+      <anecdote>Le pof ou colophane est une résine que les musiciens mettent sur les crins des archets. En escalade, le pof imperméabilise et colle.</anecdote>
+    </contenu>
+    <contenu id="17">
+      <question>En escalade sur roche, quel autre terme est utilisé pour mousquetonner ?</question>
+      <propositions>
+        <proposition id="17-1">Brocher</proposition>
+        <proposition id="17-2">Flasher</proposition>
+        <proposition id="17-3">Corder</proposition>
+        <proposition id="17-4">Clipper</proposition>
+      </propositions>
+      <réponse proposition="17-4">Clipper</réponse>
+      <anecdote>Apparue dans les années 1980, l'escalade sportive est un des types d'escalade les plus modernes et aussi la pratique la plus sécuritaire.</anecdote>
+    </contenu>
+    <contenu id="18">
+      <question>Quelle règle faut-il suivre pour garder son équilibre en escalade ?</question>
+      <propositions>
+        <proposition id="18-1">Temps zéro</proposition>
+        <proposition id="18-2">Trois points</proposition>
+        <proposition id="18-3">Pleine main</proposition>
+        <proposition id="18-4">Carré interne</proposition>
+      </propositions>
+      <réponse proposition="18-2">Trois points</réponse>
+      <anecdote>Elle consiste à garder en permanence au moins trois points d'appui lors de la progression (deux pieds une main ou deux mains un pied).</anecdote>
+    </contenu>
+    <contenu id="19">
+      <question>Dans quel livre sont répertoriées les voies d'escalade et leur difficulté ?</question>
+      <propositions>
+        <proposition id="19-1">Topo-guide</proposition>
+        <proposition id="19-2">Sérac</proposition>
+        <proposition id="19-3">Lunule</proposition>
+        <proposition id="19-4">Prussik</proposition>
+      </propositions>
+      <réponse proposition="19-1">Topo-guide</réponse>
+      <anecdote>Les topos peuvent aussi offrir de l'information sur l'histoire, les possibilités locales de restauration, les bars et les hébergements.</anecdote>
+    </contenu>
+    <contenu id="20">
+      <question>En escalade, que donne-t-on lorsque l'on assure son partenaire en tête ?</question>
+      <propositions>
+        <proposition id="20-1">Un panier</proposition>
+        <proposition id="20-2">Du mou</proposition>
+        <proposition id="20-3">De la résistance</proposition>
+        <proposition id="20-4">Un harnais</proposition>
+      </propositions>
+      <réponse proposition="20-2">Du mou</réponse>
+      <anecdote>L'assureur peut ainsi bloquer son défilement au cas où le grimpeur viendrait à chuter via un frein ou un dispositif autobloquant.</anecdote>
+    </contenu>
+  </confirmé>
+  <expert>
+    <contenu id="21">
+      <question>Quel matériel faut-il en plus des dégaines pour grimper en falaise ?</question>
+      <propositions>
+        <proposition id="21-1">Bélier</proposition>
+        <proposition id="21-2">Vache</proposition>
+        <proposition id="21-3">Chamois</proposition>
+        <proposition id="21-4">Mouton</proposition>
+      </propositions>
+      <réponse proposition="21-2">Vache</réponse>
+      <anecdote>La vache ou longe est constituée d'un anneau de sangle et de son mousqueton ainsi que d'un bout de corde dynamique.</anecdote>
+    </contenu>
+    <contenu id="22">
+      <question>Quel grimpeur de haut niveau est couramment appelé le Spiderman français ?</question>
+      <propositions>
+        <proposition id="22-1">Patrick Edlinger</proposition>
+        <proposition id="22-2">Alain Robert</proposition>
+        <proposition id="22-3">Jeff Mercier</proposition>
+        <proposition id="22-4">Charles Albert</proposition>
+      </propositions>
+      <réponse proposition="22-2">Alain Robert</réponse>
+      <anecdote>Alain Robert s'est spécialisé dans l'escalade rocheuse en solo intégral puis dans l'escalade d'immeubles, aussi en solo intégral.</anecdote>
+    </contenu>
+    <contenu id="23">
+      <question>En escalade, quel noeud faut-il impérativement réaliser après un noeud de chaise ?</question>
+      <propositions>
+        <proposition id="23-1">Noeud de papillon</proposition>
+        <proposition id="23-2">Noeud de coeur</proposition>
+        <proposition id="23-3">Noeud d'arrêt</proposition>
+        <proposition id="23-4">Noeud de Lorenzi</proposition>
+      </propositions>
+      <réponse proposition="23-3">Noeud d'arrêt</réponse>
+      <anecdote>Le noeud de chaise est facile à desserrer, contrairement au noeud de huit qui peut parfois être difficile à desserrer après une chute.</anecdote>
+    </contenu>
+    <contenu id="24">
+      <question>Quel est le meilleur moyen pour effectuer une réchappe en voie ?</question>
+      <propositions>
+        <proposition id="24-1">Cordelette</proposition>
+        <proposition id="24-2">Dégaine</proposition>
+        <proposition id="24-3">Mousqueton</proposition>
+        <proposition id="24-4">Maillon rapide</proposition>
+      </propositions>
+      <réponse proposition="24-4">Maillon rapide</réponse>
+      <anecdote>Depuis trois générations, Péguet est le fabricant du Maillon Rapide pour toute connexion permanente ou semi permanente.</anecdote>
+    </contenu>
+    <contenu id="25">
+      <question>Quel grimpeur a participé en 2004 à une publicité pour les céréales Grany ?</question>
+      <propositions>
+        <proposition id="25-1">Daniel Du Lac</proposition>
+        <proposition id="25-2">Patrick Edlinger</proposition>
+        <proposition id="25-3">Manuel Romain</proposition>
+        <proposition id="25-4">Laurent Jacob</proposition>
+      </propositions>
+      <réponse proposition="25-2">Patrick Edlinger</réponse>
+      <anecdote>Réputé pour ses ascensions en solo intégral, Patrick Edlinger est l'un des grands pionniers de l'escalade libre de haut niveau.</anecdote>
+    </contenu>
+    <contenu id="26">
+      <question>Quel est le nom de la plus célèbre voie réalisée par Fred Rouhling ?</question>
+      <propositions>
+        <proposition id="26-1">Silence</proposition>
+        <proposition id="26-2">Hubble</proposition>
+        <proposition id="26-3">Akira</proposition>
+        <proposition id="26-4">Dreamtime</proposition>
+      </propositions>
+      <réponse proposition="26-3">Akira</réponse>
+      <anecdote>En 1995, Fred Rouhling ouvre Akira et propose la cotation inédite de 9b, ce qui entraînera de nombreuses réactions de grimpeurs.</anecdote>
+    </contenu>
+    <contenu id="27">
+      <question>Quel noeud faut-il utiliser pour faire du rappel avec un mousqueton ovoïde ?</question>
+      <propositions>
+        <proposition id="27-1">Noeud en huit</proposition>
+        <proposition id="27-2">Noeud de chaise</proposition>
+        <proposition id="27-3">Noeud plat</proposition>
+        <proposition id="27-4">Demi-cabestan</proposition>
+      </propositions>
+      <réponse proposition="27-4">Demi-cabestan</réponse>
+      <anecdote>Ce noeud peut être utilisé pour assurer un grimpeur en escalade ou le remplacement d'un descendeur lorsqu'on a perdu celui-ci.</anecdote>
+    </contenu>
+    <contenu id="28">
+      <question>Dans quel mode d'ascension escalade-t-on une voie encore non testée ?</question>
+      <propositions>
+        <proposition id="28-1">À vue</proposition>
+        <proposition id="28-2">Urbaine</proposition>
+        <proposition id="28-3">Trad</proposition>
+        <proposition id="28-4">Flash</proposition>
+      </propositions>
+      <réponse proposition="28-1">À vue</réponse>
+      <anecdote>Ce mode d'ascension pour grimpeurs avertis est considéré comme plus difficile que l'ascension flash ou que l'ascension après travail.</anecdote>
+    </contenu>
+    <contenu id="29">
+      <question>Depuis 1875, comment l'escalade était-elle autrefois appelée ?</question>
+      <propositions>
+        <proposition id="29-1">Valdrague</proposition>
+        <proposition id="29-2">Varappe</proposition>
+        <proposition id="29-3">Vantance</proposition>
+        <proposition id="29-4">Vairon</proposition>
+      </propositions>
+      <réponse proposition="29-2">Varappe</réponse>
+      <anecdote>Ce nom provient de plusieurs couloirs rocheux du mont Salève, près de Genève où, dès 1862, des grimpeurs se retrouvaient amicalement.</anecdote>
+    </contenu>
+    <contenu id="30">
+      <question>Quelle norme européenne régit les structures artificielles d'escalade ?</question>
+      <propositions>
+        <proposition id="30-1">EN 12572</proposition>
+        <proposition id="30-2">BD 432</proposition>
+        <proposition id="30-3">KC 8855</proposition>
+        <proposition id="30-4">RG 165</proposition>
+      </propositions>
+      <réponse proposition="30-1">EN 12572</réponse>
+      <anecdote>La France a quant à elle élaboré une seconde norme, à titre expérimental en 2005 : la norme XP P 90-312.</anecdote>
+    </contenu>
+  </expert>
+  </fr>  
+  <en>
+  <débutant>
+    <contenu id="1">
+      <question>How much is it necessary to be able to pretend to be able to climb climbing ?</question>
+      <propositions>
+        <proposition id="1-1">Four</proposition>
+        <proposition id="1-2">Two</proposition>
+        <proposition id="1-3">One</proposition>
+        <proposition id="1-4">Three</proposition>
+      </propositions>
+      <réponse proposition="1-3">One</réponse>
+      <anecdote>Sport climbing is practiced on fully equipped tracks, where anchorage points have been previously set up.</anecdote>
+    </contenu>
+    <contenu id="2">
+      <question>What important knot do we need to know how to do climbing ?</question>
+      <propositions>
+        <proposition id="2-1">Nose in eight</proposition>
+        <proposition id="2-2">Chair bow</proposition>
+        <proposition id="2-3">Bow tie</proposition>
+        <proposition id="2-4">Flat knot</proposition>
+      </propositions>
+      <réponse proposition="2-1">Nose in eight</réponse>
+      <anecdote>The node in eight is relatively simple to disassemble, does not damage the rope too much and forms a knot larger than the simple knot.</anecdote>
+    </contenu>
+    <contenu id="3">
+      <question>What downhill technique is practiced along a rope with a braking system ?</question>
+      <propositions>
+        <proposition id="3-1">Obstruction</proposition>
+        <proposition id="3-2">Tyrolean</proposition>
+        <proposition id="3-3">Reminder</proposition>
+        <proposition id="3-4">Assuring</proposition>
+      </propositions>
+      <réponse proposition="3-3">Reminder</réponse>
+      <anecdote>The invention of the abseiling technique in 1876 was attributed to Jean Charlet-Straton, a Chamonix guide.</anecdote>
+    </contenu>
+    <contenu id="4">
+      <question>What should I follow if I decide to use only the same color plugs on a wall ?</question>
+      <propositions>
+        <proposition id="4-1">Traced</proposition>
+        <proposition id="4-2">Course</proposition>
+        <proposition id="4-3">Path</proposition>
+        <proposition id="4-4">Way</proposition>
+      </propositions>
+      <réponse proposition="4-4">Way</réponse>
+      <anecdote>A climbing path is a path through which a climber reaches the top of a mountain or rock.</anecdote>
+    </contenu>
+    <contenu id="5">
+      <question>Which of these quotes means a level of official difficulty climbing ?</question>
+      <propositions>
+        <proposition id="5-1">7C</proposition>
+        <proposition id="5-2">B +</proposition>
+        <proposition id="5-3">C2</proposition>
+        <proposition id="5-4">2-4</proposition>
+      </propositions>
+      <réponse proposition="5-1">7C</réponse>
+      <anecdote>The climber who achieves the first climb of a lane is usually the one who gives the first odds of the lane.</anecdote>
+    </contenu>
+    <contenu id="6">
+      <question>In climbing, which system constitutes an anchor point in the rock ?</question>
+      <propositions>
+        <proposition id="6-1">Closing</proposition>
+        <proposition id="6-2">Relay</proposition>
+        <proposition id="6-3">Grigri</proposition>
+        <proposition id="6-4">Carabiner</proposition>
+      </propositions>
+      <réponse proposition="6-1">Closing</réponse>
+      <anecdote>This anchor can serve as a protection point in a length or progression, or serve as a relay.</anecdote>
+    </contenu>
+    <contenu id="7">
+      <question>What equipment grips the climber's pelvis like a harness ?</question>
+      <propositions>
+        <proposition id="7-1">Closing</proposition>
+        <proposition id="7-2">Baudrier</proposition>
+        <proposition id="7-3">Strap ring</proposition>
+        <proposition id="7-4">Crash pad</proposition>
+      </propositions>
+      <réponse proposition="7-2">Baudrier</réponse>
+      <anecdote>The harness is widely used in the practice of various sports such as climbing, mountaineering, canyoning and speleology.</anecdote>
+    </contenu>
+    <contenu id="8">
+      <question>What white powder is used to avoid sweating climbing hands ?</question>
+      <propositions>
+        <proposition id="8-1">Flour</proposition>
+        <proposition id="8-2">Ice sugar</proposition>
+        <proposition id="8-3">Talc</proposition>
+        <proposition id="8-4">Magnets</proposition>
+      </propositions>
+      <réponse proposition="8-4">Magnets</réponse>
+      <anecdote>The carbonate of magnesium may contain a small proportion of silica which, inhaled, can have adverse effects on the lungs.</anecdote>
+    </contenu>
+    <contenu id="9">
+      <question>What type of shoes is generally used for climbing ?</question>
+      <propositions>
+        <proposition id="9-1">Slipper</proposition>
+        <proposition id="9-2">Slipper</proposition>
+        <proposition id="9-3">Boot</proposition>
+        <proposition id="9-4">Basketball</proposition>
+      </propositions>
+      <réponse proposition="9-2">Slipper</réponse>
+      <anecdote>In order to improve the grip of the foot by friction on a wall of climbing or a rock, the slipper is covered with a layer of rubber.</anecdote>
+    </contenu>
+    <contenu id="10">
+      <question>Which of these quotes is considered the highest for an experienced climber ?</question>
+      <propositions>
+        <proposition id="10-1">1a</proposition>
+        <proposition id="10-2">e7</proposition>
+        <proposition id="10-3">7c +</proposition>
+        <proposition id="10-4">9a</proposition>
+      </propositions>
+      <réponse proposition="10-4">9a</réponse>
+      <anecdote>The difficulty is estimated for an ascent to the head, without the help of belay points and without resting on the rope.</anecdote>
+    </contenu>
+  </débutant>
+  <confirmé>
+    <contenu id="11">
+      <question>What does « lover a rope » mean in climber terminology ?</question>
+      <propositions>
+        <proposition id="11-1">Hang</proposition>
+        <proposition id="11-2">Unlock</proposition>
+        <proposition id="11-3">To wind up</proposition>
+        <proposition id="11-4">Detach</proposition>
+      </propositions>
+      <réponse proposition="11-3">To wind up</réponse>
+      <anecdote>The use is said to be simple when the sportsman is insured by a single strand of rope and double by two independent strands.</anecdote>
+    </contenu>
+    <contenu id="12">
+      <question>What is the nationality of the Petzl brand, among others known for its headlamps ?</question>
+      <propositions>
+        <proposition id="12-1">Austrian</proposition>
+        <proposition id="12-2">French</proposition>
+        <proposition id="12-3">English</proposition>
+        <proposition id="12-4">American</proposition>
+      </propositions>
+      <réponse proposition="12-2">French</réponse>
+      <anecdote>The brand Petzl offers equipment for mountaineering, climbing, speleology, via ferrata, canyoning and trail running.</anecdote>
+    </contenu>
+    <contenu id="13">
+      <question>What knot well known to climbers makes it possible to cow in complete safety ?</question>
+      <propositions>
+        <proposition id="13-1">Butterfly</proposition>
+        <proposition id="13-2">Capstan</proposition>
+        <proposition id="13-3">Chair</proposition>
+        <proposition id="13-4">Fisherman</proposition>
+      </propositions>
+      <réponse proposition="13-2">Capstan</réponse>
+      <anecdote>The capstan knot is tied to the lifeline in a carabiner: the rope is then locked in both directions.</anecdote>
+    </contenu>
+    <contenu id="14">
+      <question>What part of the climbing wall is called the d-verse ?</question>
+      <propositions>
+        <proposition id="14-1">Leaning</proposition>
+        <proposition id="14-2">Vertical</proposition>
+        <proposition id="14-3">On the edge</proposition>
+        <proposition id="14-4">Right</proposition>
+      </propositions>
+      <réponse proposition="14-1">Leaning</réponse>
+      <anecdote>In 1983, François Savigny invented the removable climbing catches, first in sandstone and then in resin concrete.</anecdote>
+    </contenu>
+    <contenu id="15">
+      <question>In what safety system can we pass a rope when climbing ?</question>
+      <propositions>
+        <proposition id="15-1">Carabiner</proposition>
+        <proposition id="15-2">Tampon</proposition>
+        <proposition id="15-3">Piolet</proposition>
+        <proposition id="15-4">Crash pad</proposition>
+      </propositions>
+      <réponse proposition="15-1">Carabiner</réponse>
+      <anecdote>The use of the climbing carabiner was in fact a logical consequence of the use of pitons invented by Hans Fiechtl.</anecdote>
+    </contenu>
+    <contenu id="16">
+      <question>What is the other name sometimes given by rosin climbers ?</question>
+      <propositions>
+        <proposition id="16-1">Pof</proposition>
+        <proposition id="16-2">Loin</proposition>
+        <proposition id="16-3">Jumar</proposition>
+        <proposition id="16-4">Clip</proposition>
+      </propositions>
+      <réponse proposition="16-1">Pof</réponse>
+      <anecdote>The pof or rosin is a resin that the musicians put on the hair of the bows. In climbing, the pof waterproofs and sticks.</anecdote>
+    </contenu>
+    <contenu id="17">
+      <question>In rock climbing, what other term is used to caraband ?</question>
+      <propositions>
+        <proposition id="17-1">Corder</proposition>
+        <proposition id="17-2">Broach</proposition>
+        <proposition id="17-3">Clipper</proposition>
+        <proposition id="17-4">Flasher</proposition>
+      </propositions>
+      <réponse proposition="17-3">Clipper</réponse>
+      <anecdote>Appearing in the 1980s, sports climbing is one of the most modern climbing types and also the safest practice.</anecdote>
+    </contenu>
+    <contenu id="18">
+      <question>What rules do you have to follow to keep your balance in climbing ?</question>
+      <propositions>
+        <proposition id="18-1">Internal square</proposition>
+        <proposition id="18-2">Three points</proposition>
+        <proposition id="18-3">Full hand</proposition>
+        <proposition id="18-4">Zero time</proposition>
+      </propositions>
+      <réponse proposition="18-2">Three points</réponse>
+      <anecdote>It consists of constantly maintaining at least three points of support during the progression (two feet one hand or two hands one foot).</anecdote>
+    </contenu>
+    <contenu id="19">
+      <question>In which book are the routes of escalation and their difficulty recounted ?</question>
+      <propositions>
+        <proposition id="19-1">Serap</proposition>
+        <proposition id="19-2">Prussik</proposition>
+        <proposition id="19-3">Lunule</proposition>
+        <proposition id="19-4">Topo-guide</proposition>
+      </propositions>
+      <réponse proposition="19-4">Topo-guide</réponse>
+      <anecdote>Topos can also offer information on history, local dining options, bars and accommodations.</anecdote>
+    </contenu>
+    <contenu id="20">
+      <question>In climbing, what does one give when one assures one's partner in mind ?</question>
+      <propositions>
+        <proposition id="20-1">A harness</proposition>
+        <proposition id="20-2">Slack</proposition>
+        <proposition id="20-3">Resistance</proposition>
+        <proposition id="20-4">A basket</proposition>
+      </propositions>
+      <réponse proposition="20-2">Slack</réponse>
+      <anecdote>The insurer can thus block his removal in case the climber falls on a brake or a self-locking device.</anecdote>
+    </contenu>
+  </confirmé>
+  <expert>
+    <contenu id="21">
+      <question>What material is needed in addition to the pitches to climb a cliff ?</question>
+      <propositions>
+        <proposition id="21-1">Chamois</proposition>
+        <proposition id="21-2">Beier</proposition>
+        <proposition id="21-3">Cow</proposition>
+        <proposition id="21-4">Sheep</proposition>
+      </propositions>
+      <réponse proposition="21-3">Cow</réponse>
+      <anecdote>The cow or loin consists of a ring of strap and its carabiner and a piece of dynamic rope.</anecdote>
+    </contenu>
+    <contenu id="22">
+      <question>Which high-level climber is commonly referred to as the French Spiderman ?</question>
+      <propositions>
+        <proposition id="22-1">Charles Albert</proposition>
+        <proposition id="22-2">Alain Robert</proposition>
+        <proposition id="22-3">Patrick Edlinger</proposition>
+        <proposition id="22-4">Jeff Mercier</proposition>
+      </propositions>
+      <réponse proposition="22-2">Alain Robert</réponse>
+      <anecdote>Alain Robert specializes in rock climbing solo and then in building climbing, also in solo solo.</anecdote>
+    </contenu>
+    <contenu id="23">
+      <question>What knot do you need to perform after a chair knot ?</question>
+      <propositions>
+        <proposition id="23-1">Butterfly nut</proposition>
+        <proposition id="23-2">Lorenzi's knight</proposition>
+        <proposition id="23-3">Heart Nut</proposition>
+        <proposition id="23-4">Stop node</proposition>
+      </propositions>
+      <réponse proposition="23-4">Stop node</réponse>
+      <anecdote>Unlike the eight knot, which can be difficult to loosen after a fall, the chair knot is easy to loosen.</anecdote>
+    </contenu>
+    <contenu id="24">
+      <question>What is the best way to make a pathway ?</question>
+      <propositions>
+        <proposition id="24-1">Dégain</proposition>
+        <proposition id="24-2">Quick link</proposition>
+        <proposition id="24-3">Carabiner</proposition>
+        <proposition id="24-4">Cordelette</proposition>
+      </propositions>
+      <réponse proposition="24-2">Quick link</réponse>
+      <anecdote>For three generations, Péguet is the manufacturer of the Quick Link for any permanent or semi-permanent connection.</anecdote>
+    </contenu>
+    <contenu id="25">
+      <question>Which climber participated in 2004 in an advertisement for Grany ceramics ?</question>
+      <propositions>
+        <proposition id="25-1">Laurent Jacob</proposition>
+        <proposition id="25-2">Roman Manual</proposition>
+        <proposition id="25-3">Daniel Du Lac</proposition>
+        <proposition id="25-4">Patrick Edlinger</proposition>
+      </propositions>
+      <réponse proposition="25-4">Patrick Edlinger</réponse>
+      <anecdote>Reputed for his climbs in full solo, Patrick Edlinger is one of the great pioneers of free climbing high level.</anecdote>
+    </contenu>
+    <contenu id="26">
+      <question>What is the name of the most famous route made by Fred Rouhling ?</question>
+      <propositions>
+        <proposition id="26-1">Akira</proposition>
+        <proposition id="26-2">Hubble</proposition>
+        <proposition id="26-3">Silence</proposition>
+        <proposition id="26-4">Dreamtime</proposition>
+      </propositions>
+      <réponse proposition="26-1">Akira</réponse>
+      <anecdote>In 1995, Fred Rouhling opened Akira and offered the untimely rating of 9b, which will lead to many climbers' reactions.</anecdote>
+    </contenu>
+    <contenu id="27">
+      <question>Which node should be used for rappelling with an oval carabiner ?</question>
+      <propositions>
+        <proposition id="27-1">Flat knot</proposition>
+        <proposition id="27-2">Nose in eight</proposition>
+        <proposition id="27-3">Half capstan</proposition>
+        <proposition id="27-4">Chair bow</proposition>
+      </propositions>
+      <réponse proposition="27-3">Half capstan</réponse>
+      <anecdote>This node can be used to ensure a climbing climber or the replacement of a chute when one has lost it.</anecdote>
+    </contenu>
+    <contenu id="28">
+      <question>In which climbing mode are we climbing an untested track ?</question>
+      <propositions>
+        <proposition id="28-1">Urban</proposition>
+        <proposition id="28-2">Trad</proposition>
+        <proposition id="28-3">In sight</proposition>
+        <proposition id="28-4">Flash</proposition>
+      </propositions>
+      <réponse proposition="28-3">In sight</réponse>
+      <anecdote>This climbing mode for savvy climbers is considered more difficult than climbing up or climbing after work.</anecdote>
+    </contenu>
+    <contenu id="29">
+      <question>Since 1875, how was climbing formerly called ?</question>
+      <propositions>
+        <proposition id="29-1">Vantance</proposition>
+        <proposition id="29-2">Vairon</proposition>
+        <proposition id="29-3">Rock climbing</proposition>
+        <proposition id="29-4">Valdrague</proposition>
+      </propositions>
+      <réponse proposition="29-3">Rock climbing</réponse>
+      <anecdote>This name comes from several rocky corridors of Mount Salève, near Geneva where, from 1862, climbers found themselves friendly.</anecdote>
+    </contenu>
+    <contenu id="30">
+      <question>What European standard governs artificial climbing structures ?</question>
+      <propositions>
+        <proposition id="30-1">RG 165</proposition>
+        <proposition id="30-2">EN 12572</proposition>
+        <proposition id="30-3">KC 8855</proposition>
+        <proposition id="30-4">BD 432</proposition>
+      </propositions>
+      <réponse proposition="30-2">EN 12572</réponse>
+      <anecdote>France has developed a second standard, experimentally in 2005: the standard XP P 90-312.</anecdote>
+    </contenu>
+  </expert>
+  </en>
+  <de>
+  <débutant>
+    <contenu id="1">
+      <question>Wie viel muss man vorgeben, klettern zu können ?</question>
+      <propositions>
+        <proposition id="1-1">Drei</proposition>
+        <proposition id="1-2">Eins</proposition>
+        <proposition id="1-3">Zwei</proposition>
+        <proposition id="1-4">Vier</proposition>
+      </propositions>
+      <réponse proposition="1-2">Eins</réponse>
+      <anecdote>Das Sportklettern wird auf voll ausgestatteten Strecken durchgeführt, auf denen zuvor Ankerpunkte eingerichtet wurden.</anecdote>
+    </contenu>
+    <contenu id="2">
+      <question>Welchen wichtigen Knoten müssen wir wissen, wie man Klettern macht ?</question>
+      <propositions>
+        <proposition id="2-1">Nase in acht</proposition>
+        <proposition id="2-2">Fliege</proposition>
+        <proposition id="2-3">Stuhlbogen</proposition>
+        <proposition id="2-4">Flacher Knoten</proposition>
+      </propositions>
+      <réponse proposition="2-1">Nase in acht</réponse>
+      <anecdote>Der Knoten in Acht ist relativ einfach zu demontieren, beschädigt das Seil nicht zu sehr und bildet einen Knoten, der größer ist als der einfache Knoten.</anecdote>
+    </contenu>
+    <contenu id="3">
+      <question>Welche Downhill-Technik wird an einem Seil mit Bremssystem trainiert ?</question>
+      <propositions>
+        <proposition id="3-1">Versichern</proposition>
+        <proposition id="3-2">Erinnerung</proposition>
+        <proposition id="3-3">Tiroler</proposition>
+        <proposition id="3-4">Behinderung</proposition>
+      </propositions>
+      <réponse proposition="3-2">Erinnerung</réponse>
+      <anecdote>Die Erfindung der Abseiltechnik im Jahre 1876 wurde Jean Charlet-Straton, einem Chamonix-Führer, zugeschrieben.</anecdote>
+    </contenu>
+    <contenu id="4">
+      <question>Was muss ich tun, wenn ich beschließe, nur Stecker mit der gleichen Farbe an einer Wand zu verwenden ?</question>
+      <propositions>
+        <proposition id="4-1">Weg</proposition>
+        <proposition id="4-2">Pfad</proposition>
+        <proposition id="4-3">Verfolgt</proposition>
+        <proposition id="4-4">Kurs</proposition>
+      </propositions>
+      <réponse proposition="4-1">Weg</réponse>
+      <anecdote>Ein Kletterpfad ist ein Pfad, durch den ein Kletterer die Spitze eines Berges oder eines Felsens erreicht.</anecdote>
+    </contenu>
+    <contenu id="5">
+      <question>Welches dieser Zitate bedeutet ein offizielles Schwierigkeitsniveau beim Klettern ?</question>
+      <propositions>
+        <proposition id="5-1">2-4</proposition>
+        <proposition id="5-2">C2</proposition>
+        <proposition id="5-3">7C</proposition>
+        <proposition id="5-4">B +</proposition>
+      </propositions>
+      <réponse proposition="5-3">7C</réponse>
+      <anecdote>Der Kletterer, der den ersten Anstieg einer Spur erreicht, ist normalerweise derjenige, der die ersten Chancen der Spur angibt.</anecdote>
+    </contenu>
+    <contenu id="6">
+      <question>Welches System stellt beim Klettern einen Ankerpunkt im Felsen dar ?</question>
+      <propositions>
+        <proposition id="6-1">Relais</proposition>
+        <proposition id="6-2">Grigri</proposition>
+        <proposition id="6-3">Karabiner</proposition>
+        <proposition id="6-4">Schließen</proposition>
+      </propositions>
+      <réponse proposition="6-4">Schließen</réponse>
+      <anecdote>Dieser Anker kann als Schutzpunkt in einer Länge oder Progression dienen oder als Relais dienen.</anecdote>
+    </contenu>
+    <contenu id="7">
+      <question>Mit welcher Ausrüstung greift das Becken des Bergsteigers wie ein Gurtzeug ?</question>
+      <propositions>
+        <proposition id="7-1">Sturzpad</proposition>
+        <proposition id="7-2">Baudrier</proposition>
+        <proposition id="7-3">Riemenring</proposition>
+        <proposition id="7-4">Schließen</proposition>
+      </propositions>
+      <réponse proposition="7-2">Baudrier</réponse>
+      <anecdote>Das Geschirr wird häufig in der Ausübung verschiedener Sportarten wie Klettern, Bergsteigen, Canyoning und Höhlenforschung eingesetzt.</anecdote>
+    </contenu>
+    <contenu id="8">
+      <question>Welches weiße Pulver wird verwendet, um das Klettern an den Händen zu vermeiden ?</question>
+      <propositions>
+        <proposition id="8-1">Magnete</proposition>
+        <proposition id="8-2">Mehl</proposition>
+        <proposition id="8-3">Eiszucker</proposition>
+        <proposition id="8-4">Talk</proposition>
+      </propositions>
+      <réponse proposition="8-1">Magnete</réponse>
+      <anecdote>Das Carbonat von Magnesium kann einen geringen Anteil an Siliciumdioxid enthalten, der sich beim Einatmen nachteilig auf die Lunge auswirken kann.</anecdote>
+    </contenu>
+    <contenu id="9">
+      <question>Welche Schuhe werden im Allgemeinen zum Klettern verwendet ?</question>
+      <propositions>
+        <proposition id="9-1">Slipper</proposition>
+        <proposition id="9-2">Slipper</proposition>
+        <proposition id="9-3">Boot</proposition>
+        <proposition id="9-4">Basketball</proposition>
+      </propositions>
+      <réponse proposition="9-2">Slipper</réponse>
+      <anecdote>Um den Halt des Fußes durch Reibung an einer Kletterwand oder einem Felsen zu verbessern, ist der Slipper mit einer Gummischicht bedeckt.</anecdote>
+    </contenu>
+    <contenu id="10">
+      <question>Welches dieser Zitate gilt für einen erfahrenen Bergsteiger als das höchste ?</question>
+      <propositions>
+        <proposition id="10-1">e7</proposition>
+        <proposition id="10-2">7c +</proposition>
+        <proposition id="10-3">9a</proposition>
+        <proposition id="10-4">1a</proposition>
+      </propositions>
+      <réponse proposition="10-3">9a</réponse>
+      <anecdote>Die Schwierigkeit wird für einen Aufstieg zum Kopf geschätzt, ohne Hilfe von Sicherungspunkten und ohne auf dem Seil zu ruhen.</anecdote>
+    </contenu>
+  </débutant>
+  <confirmé>
+    <contenu id="11">
+      <question>Was bedeutet « ein Seil » in der Kletterer-Terminologie ?</question>
+      <propositions>
+        <proposition id="11-1">Hängen</proposition>
+        <proposition id="11-2">Trennen Sie</proposition>
+        <proposition id="11-3">Aufziehen</proposition>
+        <proposition id="11-4">Entsperren</proposition>
+      </propositions>
+      <réponse proposition="11-3">Aufziehen</réponse>
+      <anecdote>Die Verwendung gilt als einfach, wenn der Sportler durch einen einzelnen Seilstrang und zwei durch zwei unabhängige Stränge versichert ist.</anecdote>
+    </contenu>
+    <contenu id="12">
+      <question>Wie ist die Nationalität der Marke Petzl, die unter anderem für ihre Scheinwerfer bekannt ist ?</question>
+      <propositions>
+        <proposition id="12-1">Amerikanisch</proposition>
+        <proposition id="12-2">Österreichisch</proposition>
+        <proposition id="12-3">Englisch</proposition>
+        <proposition id="12-4">Französisch</proposition>
+      </propositions>
+      <réponse proposition="12-4">Französisch</réponse>
+      <anecdote>Die Marke Petzl bietet Ausrüstungen für Bergsteigen, Klettern, Höhlenforschung, Klettersteige, Canyoning und Trailrunning an.</anecdote>
+    </contenu>
+    <contenu id="13">
+      <question>Welcher Knoten, der den Kletterern gut bekannt ist, macht es möglich, in absoluter Sicherheit zu kuhlen ?</question>
+      <propositions>
+        <proposition id="13-1">Capstan</proposition>
+        <proposition id="13-2">Schmetterling</proposition>
+        <proposition id="13-3">Stuhl</proposition>
+        <proposition id="13-4">Fischer</proposition>
+      </propositions>
+      <réponse proposition="13-1">Capstan</réponse>
+      <anecdote>Der Spillenknoten wird mit einem Karabiner an die Rettungsleine gebunden: Das Seil wird dann in beide Richtungen arretiert.</anecdote>
+    </contenu>
+    <contenu id="14">
+      <question>Welcher Teil der Kletterwand wird als d-Vers bezeichnet ?</question>
+      <propositions>
+        <proposition id="14-1">Vertikal</proposition>
+        <proposition id="14-2">Richtig</proposition>
+        <proposition id="14-3">Gelehnt</proposition>
+        <proposition id="14-4">Am Rande</proposition>
+      </propositions>
+      <réponse proposition="14-3">Gelehnt</réponse>
+      <anecdote>Im Jahr 1983 erfand François Savigny die entfernbaren Kletterhaken zuerst aus Sandstein und dann aus Harzbeton.</anecdote>
+    </contenu>
+    <contenu id="15">
+      <question>In welchem Sicherheitssystem können wir beim Klettern ein Seil passieren ?</question>
+      <propositions>
+        <proposition id="15-1">Sturzpad</proposition>
+        <proposition id="15-2">Tampon</proposition>
+        <proposition id="15-3">Karabiner</proposition>
+        <proposition id="15-4">Piolet</proposition>
+      </propositions>
+      <réponse proposition="15-3">Karabiner</réponse>
+      <anecdote>Der Einsatz des Kletterkarabiners war in der Tat eine logische Konsequenz des von Hans Fiechtl erfundenen Pitons.</anecdote>
+    </contenu>
+    <contenu id="16">
+      <question>Was ist der andere Name, der manchmal von Kolophoniumkletterern gegeben wird ?</question>
+      <propositions>
+        <proposition id="16-1">Clip</proposition>
+        <proposition id="16-2">Lende</proposition>
+        <proposition id="16-3">Jumar</proposition>
+        <proposition id="16-4">Pof</proposition>
+      </propositions>
+      <réponse proposition="16-4">Pof</réponse>
+      <anecdote>Das Pof oder Kolophonium ist ein Harz, das die Musiker auf die Bogenhaare setzen. Beim Klettern imprägniert und pickt der Pof.</anecdote>
+    </contenu>
+    <contenu id="17">
+      <question>Welcher andere Begriff wird beim Klettern im Caraband verwendet ?</question>
+      <propositions>
+        <proposition id="17-1">Broach</proposition>
+        <proposition id="17-2">Corder</proposition>
+        <proposition id="17-3">Clipper</proposition>
+        <proposition id="17-4">Blinker</proposition>
+      </propositions>
+      <réponse proposition="17-3">Clipper</réponse>
+      <anecdote>Sportklettern ist in den 1980er Jahren eine der modernsten Kletterarten und die sicherste Praxis.</anecdote>
+    </contenu>
+    <contenu id="18">
+      <question>Welche Regeln müssen Sie beachten, um beim Klettern das Gleichgewicht zu halten ?</question>
+      <propositions>
+        <proposition id="18-1">Nullzeit</proposition>
+        <proposition id="18-2">Drei Punkte</proposition>
+        <proposition id="18-3">Internes Quadrat</proposition>
+        <proposition id="18-4">Volle Hand</proposition>
+      </propositions>
+      <réponse proposition="18-2">Drei Punkte</réponse>
+      <anecdote>Es besteht darin, während des Fortschreitens ständig mindestens drei Stützpunkte zu halten (zwei Fuß eine Hand oder zwei Hände einen Fuß).</anecdote>
+    </contenu>
+    <contenu id="19">
+      <question>In welchem Buch werden die Eskalationsrouten und ihre Schwierigkeiten beschrieben ?</question>
+      <propositions>
+        <proposition id="19-1">Topo-Guide</proposition>
+        <proposition id="19-2">Prussik</proposition>
+        <proposition id="19-3">Lunule</proposition>
+        <proposition id="19-4">Serap</proposition>
+      </propositions>
+      <réponse proposition="19-1">Topo-Guide</réponse>
+      <anecdote>Topos bietet auch Informationen zur Geschichte, zu Restaurants, Bars und Unterkünften.</anecdote>
+    </contenu>
+    <contenu id="20">
+      <question>Was gibt man beim Klettern, wenn man seinen Partner im Hinterkopf hat ?</question>
+      <propositions>
+        <proposition id="20-1">Ein Geschirr</proposition>
+        <proposition id="20-2">Widerstand</proposition>
+        <proposition id="20-3">Slack</proposition>
+        <proposition id="20-4">Ein Korb</proposition>
+      </propositions>
+      <réponse proposition="20-3">Slack</réponse>
+      <anecdote>Der Versicherer kann somit seinen Ausbau blockieren, falls der Kletterer auf eine Bremse oder eine Selbstsperrvorrichtung fällt.</anecdote>
+    </contenu>
+  </confirmé>
+  <expert>
+    <contenu id="21">
+      <question>Welches Material benötigt man zusätzlich zu den Stellplätzen, um eine Klippe zu erklimmen ?</question>
+      <propositions>
+        <proposition id="21-1">Schafe</proposition>
+        <proposition id="21-2">Beier</proposition>
+        <proposition id="21-3">Chamois</proposition>
+        <proposition id="21-4">Kuh</proposition>
+      </propositions>
+      <réponse proposition="21-4">Kuh</réponse>
+      <anecdote>Die Kuh oder Lende besteht aus einem Riemenring und seinem Karabiner sowie einem Stück dynamischen Seil.</anecdote>
+    </contenu>
+    <contenu id="22">
+      <question>Welcher hochrangige Bergsteiger wird allgemein als französischer Spiderman bezeichnet ?</question>
+      <propositions>
+        <proposition id="22-1">Charles Albert</proposition>
+        <proposition id="22-2">Jeff Mercier</proposition>
+        <proposition id="22-3">Alain Robert</proposition>
+        <proposition id="22-4">Patrick Edlinger</proposition>
+      </propositions>
+      <réponse proposition="22-3">Alain Robert</réponse>
+      <anecdote>Alain Robert ist auf das Klettern solo und dann auf das Gebäudeklettern spezialisiert, auch auf das Solo solo.</anecdote>
+    </contenu>
+    <contenu id="23">
+      <question>Welchen Knoten müssen Sie nach einem Stuhlknoten ausführen ?</question>
+      <propositions>
+        <proposition id="23-1">Lorenzis Ritter</proposition>
+        <proposition id="23-2">Schmetterlingsmutter</proposition>
+        <proposition id="23-3">Stoppen Sie den Knoten</proposition>
+        <proposition id="23-4">Herzmutter</proposition>
+      </propositions>
+      <réponse proposition="23-3">Stoppen Sie den Knoten</réponse>
+      <anecdote>Im Gegensatz zu dem Achtknoten, der nach einem Sturz schwer zu lösen ist, lässt sich der Stuhlknoten leicht lösen.</anecdote>
+    </contenu>
+    <contenu id="24">
+      <question>Was ist der beste Weg, um einen Weg zu machen ?</question>
+      <propositions>
+        <proposition id="24-1">Cordelette</proposition>
+        <proposition id="24-2">Schneller Link</proposition>
+        <proposition id="24-3">Dégain</proposition>
+        <proposition id="24-4">Karabiner</proposition>
+      </propositions>
+      <réponse proposition="24-2">Schneller Link</réponse>
+      <anecdote>Péguet ist seit drei Generationen der Hersteller des Quick Links für permanente oder semi-permanente Verbindungen.</anecdote>
+    </contenu>
+    <contenu id="25">
+      <question>Welcher Bergsteiger hat 2004 an einer Werbung für Grany-Keramik teilgenommen ?</question>
+      <propositions>
+        <proposition id="25-1">Patrick Edlinger</proposition>
+        <proposition id="25-2">Daniel Du Lac</proposition>
+        <proposition id="25-3">Römisches Handbuch</proposition>
+        <proposition id="25-4">Laurent Jacob</proposition>
+      </propositions>
+      <réponse proposition="25-1">Patrick Edlinger</réponse>
+      <anecdote>Patrick Edlinger ist einer der großen Pioniere des Freeclimbing auf hohem Niveau.</anecdote>
+    </contenu>
+    <contenu id="26">
+      <question>Wie heißt die berühmteste Route von Fred Rouhling ?</question>
+      <propositions>
+        <proposition id="26-1">Traumzeit</proposition>
+        <proposition id="26-2">Akira</proposition>
+        <proposition id="26-3">Hubble</proposition>
+        <proposition id="26-4">Stille</proposition>
+      </propositions>
+      <réponse proposition="26-2">Akira</réponse>
+      <anecdote>1995 eröffnete Fred Rouhling Akira und bot die vorzeitige Bewertung von 9b an, was zu Reaktionen vieler Kletterer führen wird.</anecdote>
+    </contenu>
+    <contenu id="27">
+      <question>Welcher Knoten sollte zum Abseilen mit einem ovalen Karabiner verwendet werden ?</question>
+      <propositions>
+        <proposition id="27-1">Stuhlbogen</proposition>
+        <proposition id="27-2">Halbe Winde</proposition>
+        <proposition id="27-3">Nase in acht</proposition>
+        <proposition id="27-4">Flacher Knoten</proposition>
+      </propositions>
+      <réponse proposition="27-2">Halbe Winde</réponse>
+      <anecdote>Dieser Knoten kann verwendet werden, um sicherzustellen, dass ein Kletterer klettert oder einen Fallschirm ersetzt, wenn er verloren gegangen ist.</anecdote>
+    </contenu>
+    <contenu id="28">
+      <question>In welchem Klettermodus erklimmen wir eine ungeprüfte Strecke ?</question>
+      <propositions>
+        <proposition id="28-1">Urban</proposition>
+        <proposition id="28-2">Flash</proposition>
+        <proposition id="28-3">Trad</proposition>
+        <proposition id="28-4">In Sicht</proposition>
+      </propositions>
+      <réponse proposition="28-4">In Sicht</réponse>
+      <anecdote>Dieser Klettermodus für kluge Kletterer wird als schwieriger angesehen als nach der Arbeit zu klettern.</anecdote>
+    </contenu>
+    <contenu id="29">
+      <question>Wie hieß es seit 1875 früher ?</question>
+      <propositions>
+        <proposition id="29-1">Vantance</proposition>
+        <proposition id="29-2">Valdrague</proposition>
+        <proposition id="29-3">Vairon</proposition>
+        <proposition id="29-4">Klettern</proposition>
+      </propositions>
+      <réponse proposition="29-4">Klettern</réponse>
+      <anecdote>Dieser Name stammt von mehreren steinigen Korridoren des Mont Salève in der Nähe von Genf, wo sich die Kletterer seit 1862 als freundlich empfanden.</anecdote>
+    </contenu>
+    <contenu id="30">
+      <question>Welche europäische Norm regelt künstliche Kletterstrukturen ?</question>
+      <propositions>
+        <proposition id="30-1">KC 8855</proposition>
+        <proposition id="30-2">RG 165</proposition>
+        <proposition id="30-3">EN 12572</proposition>
+        <proposition id="30-4">BD 432</proposition>
+      </propositions>
+      <réponse proposition="30-3">EN 12572</réponse>
+      <anecdote>Frankreich hat 2005 experimentell einen zweiten Standard entwickelt: den Standard XP P 90-312.</anecdote>
+    </contenu>
+  </expert>
+  </de>
+  <es>
+  <débutant>
+    <contenu id="1">
+      <question>¿Cuánto es necesario para poder pretender poder escalar la escalada ?</question>
+      <propositions>
+        <proposition id="1-1">Tres</proposition>
+        <proposition id="1-2">Cuatro</proposition>
+        <proposition id="1-3">Uno</proposition>
+        <proposition id="1-4">Dos</proposition>
+      </propositions>
+      <réponse proposition="1-3">Uno</réponse>
+      <anecdote>La escalada deportiva se practica en pistas totalmente equipadas, donde los puntos de anclaje se han establecido previamente.</anecdote>
+    </contenu>
+    <contenu id="2">
+      <question>¿Qué nudo importante necesitamos saber para hacer escalada ?</question>
+      <propositions>
+        <proposition id="2-1">Nudo plano</proposition>
+        <proposition id="2-2">Nariz en ocho</proposition>
+        <proposition id="2-3">Pajarita</proposition>
+        <proposition id="2-4">Silla de proa</proposition>
+      </propositions>
+      <réponse proposition="2-2">Nariz en ocho</réponse>
+      <anecdote>El nodo en ocho es relativamente fácil de desmontar, no daña demasiado la cuerda y forma un nudo más grande que el simple.</anecdote>
+    </contenu>
+    <contenu id="3">
+      <question>¿Qué técnica de descenso se practica a lo largo de una cuerda con un sistema de frenado ?</question>
+      <propositions>
+        <proposition id="3-1">Tirolés</proposition>
+        <proposition id="3-2">Asegurando</proposition>
+        <proposition id="3-3">Recordatorio</proposition>
+        <proposition id="3-4">Obstruccion</proposition>
+      </propositions>
+      <réponse proposition="3-3">Recordatorio</réponse>
+      <anecdote>La invención de la técnica de rappel en 1876 se atribuyó a Jean Charlet-Straton, una guía de Chamonix.</anecdote>
+    </contenu>
+    <contenu id="4">
+      <question>¿Qué debo seguir si decido usar solo enchufes del mismo color en una pared ?</question>
+      <propositions>
+        <proposition id="4-1">Camino</proposition>
+        <proposition id="4-2">Camino</proposition>
+        <proposition id="4-3">Curso</proposition>
+        <proposition id="4-4">Trazado</proposition>
+      </propositions>
+      <réponse proposition="4-2">Camino</réponse>
+      <anecdote>Un camino de escalada es un camino a través del cual un escalador alcanza la cima de una montaña o roca.</anecdote>
+    </contenu>
+    <contenu id="5">
+      <question>¿Cuál de estas citas significa un nivel de dificultad oficial para escalar ?</question>
+      <propositions>
+        <proposition id="5-1">C2</proposition>
+        <proposition id="5-2">7C</proposition>
+        <proposition id="5-3">B +</proposition>
+        <proposition id="5-4">2-4</proposition>
+      </propositions>
+      <réponse proposition="5-2">7C</réponse>
+      <anecdote>El escalador que logra la primera subida de un carril suele ser el que da las primeras probabilidades del carril.</anecdote>
+    </contenu>
+    <contenu id="6">
+      <question>En la escalada, ¿qué sistema constituye un punto de anclaje en la roca ?</question>
+      <propositions>
+        <proposition id="6-1">Relé</proposition>
+        <proposition id="6-2">Mosquetón</proposition>
+        <proposition id="6-3">Grigri</proposition>
+        <proposition id="6-4">Cierre</proposition>
+      </propositions>
+      <réponse proposition="6-4">Cierre</réponse>
+      <anecdote>Este anclaje puede servir como un punto de protección en una longitud o progresión, o servir como un relé.</anecdote>
+    </contenu>
+    <contenu id="7">
+      <question>¿Qué equipo agarra la pelvis del escalador como un arnés ?</question>
+      <propositions>
+        <proposition id="7-1">Cierre</proposition>
+        <proposition id="7-2">Baudrier</proposition>
+        <proposition id="7-3">Almohadilla de choque</proposition>
+        <proposition id="7-4">Anillo de la correa</proposition>
+      </propositions>
+      <réponse proposition="7-2">Baudrier</réponse>
+      <anecdote>El arnés se utiliza ampliamente en la práctica de diversos deportes como escalada, montañismo, barranquismo y espeleología.</anecdote>
+    </contenu>
+    <contenu id="8">
+      <question>¿Qué polvo blanco se usa para evitar sudar las manos trepadoras ?</question>
+      <propositions>
+        <proposition id="8-1">Azúcar en el hielo</proposition>
+        <proposition id="8-2">Imanes</proposition>
+        <proposition id="8-3">Harina</proposition>
+        <proposition id="8-4">Talco</proposition>
+      </propositions>
+      <réponse proposition="8-2">Imanes</réponse>
+      <anecdote>El carbonato de magnesio puede contener una pequeña proporción de sílice que, si se inhala, puede tener efectos adversos en los pulmones.</anecdote>
+    </contenu>
+    <contenu id="9">
+      <question>¿Qué tipo de zapatos se usa generalmente para escalar ?</question>
+      <propositions>
+        <proposition id="9-1">Zapatilla</proposition>
+        <proposition id="9-2">Bota</proposition>
+        <proposition id="9-3">Basquetbol</proposition>
+        <proposition id="9-4">Zapatilla</proposition>
+      </propositions>
+      <réponse proposition="9-4">Zapatilla</réponse>
+      <anecdote>Para mejorar el agarre del pie por fricción en una pared de escalada o en una roca, la zapatilla se cubre con una capa de caucho.</anecdote>
+    </contenu>
+    <contenu id="10">
+      <question>¿Cuál de estas citas se considera la más alta para un escalador experimentado ?</question>
+      <propositions>
+        <proposition id="10-1">e7</proposition>
+        <proposition id="10-2">1a</proposition>
+        <proposition id="10-3">7c +</proposition>
+        <proposition id="10-4">9a</proposition>
+      </propositions>
+      <réponse proposition="10-4">9a</réponse>
+      <anecdote>La dificultad se estima para un ascenso a la cabeza, sin la ayuda de puntos de aseguramiento y sin apoyarse en la cuerda.</anecdote>
+    </contenu>
+  </débutant>
+  <confirmé>
+    <contenu id="11">
+      <question>¿Qué significa « amante de una cuerda » en la terminología de escaladores ?</question>
+      <propositions>
+        <proposition id="11-1">Desbloquear</proposition>
+        <proposition id="11-2">Colgar</proposition>
+        <proposition id="11-3">Separar</proposition>
+        <proposition id="11-4">Para terminar</proposition>
+      </propositions>
+      <réponse proposition="11-4">Para terminar</réponse>
+      <anecdote>Se dice que el uso es simple cuando el deportista está asegurado por una sola hebra de cuerda y el doble por dos hebras independientes.</anecdote>
+    </contenu>
+    <contenu id="12">
+      <question>¿Cuál es la nacionalidad de la marca Petzl, entre otras conocidas por sus faros ?</question>
+      <propositions>
+        <proposition id="12-1">Americano</proposition>
+        <proposition id="12-2">Inglés</proposition>
+        <proposition id="12-3">Austriaco</proposition>
+        <proposition id="12-4">Francés</proposition>
+      </propositions>
+      <réponse proposition="12-4">Francés</réponse>
+      <anecdote>La marca Petzl ofrece equipos para montañismo, escalada, espeleología, ferrata, barranquismo y trail running.</anecdote>
+    </contenu>
+    <contenu id="13">
+      <question>¿Qué nudo bien conocido por los escaladores hace posible vacas con total seguridad ?</question>
+      <propositions>
+        <proposition id="13-1">Mariposa</proposition>
+        <proposition id="13-2">Silla</proposition>
+        <proposition id="13-3">Pescador</proposition>
+        <proposition id="13-4">Cabrestante</proposition>
+      </propositions>
+      <réponse proposition="13-4">Cabrestante</réponse>
+      <anecdote>El nudo del cabrestante está atado a la cuerda de salvamento en un mosquetón: la cuerda se bloquea en ambas direcciones.</anecdote>
+    </contenu>
+    <contenu id="14">
+      <question>¿Qué parte del muro de escalada se llama el d-verse ?</question>
+      <propositions>
+        <proposition id="14-1">En el borde</proposition>
+        <proposition id="14-2">Inclinada</proposition>
+        <proposition id="14-3">Vertical</proposition>
+        <proposition id="14-4">Derecha</proposition>
+      </propositions>
+      <réponse proposition="14-2">Inclinada</réponse>
+      <anecdote>En 1983, François Savigny inventó las capturas de escalada removibles, primero en arenisca y luego en resina de concreto.</anecdote>
+    </contenu>
+    <contenu id="15">
+      <question>¿En qué sistema de seguridad podemos pasar una cuerda al subir ?</question>
+      <propositions>
+        <proposition id="15-1">Mosquetón</proposition>
+        <proposition id="15-2">Piolet</proposition>
+        <proposition id="15-3">Almohadilla de choque</proposition>
+        <proposition id="15-4">Tampon</proposition>
+      </propositions>
+      <réponse proposition="15-1">Mosquetón</réponse>
+      <anecdote>El uso del mosquetón de escalada fue, de hecho, una consecuencia lógica del uso de pitones inventados por Hans Fiechtl.</anecdote>
+    </contenu>
+    <contenu id="16">
+      <question>¿Cuál es el otro nombre dado a veces por los escaladores de colofonia ?</question>
+      <propositions>
+        <proposition id="16-1">Lomo</proposition>
+        <proposition id="16-2">Pof</proposition>
+        <proposition id="16-3">Jumar</proposition>
+        <proposition id="16-4">Clip</proposition>
+      </propositions>
+      <réponse proposition="16-2">Pof</réponse>
+      <anecdote>El pof o la colofonia es una resina que los músicos ponen en el cabello de los lazos. En la escalada, el pof se impermeabiliza y se pega.</anecdote>
+    </contenu>
+    <contenu id="17">
+      <question>En la escalada en roca, ¿qué otro término se utiliza para acariciar ?</question>
+      <propositions>
+        <proposition id="17-1">Clipper</proposition>
+        <proposition id="17-2">Brocha</proposition>
+        <proposition id="17-3">Flasher</proposition>
+        <proposition id="17-4">Corder</proposition>
+      </propositions>
+      <réponse proposition="17-1">Clipper</réponse>
+      <anecdote>Apareciendo en la década de 1980, la escalada deportiva es uno de los tipos de escalada más modernos y también la práctica más segura.</anecdote>
+    </contenu>
+    <contenu id="18">
+      <question>¿Qué reglas debes seguir para mantener el equilibrio en la escalada ?</question>
+      <propositions>
+        <proposition id="18-1">Tiempo cero</proposition>
+        <proposition id="18-2">Cuadrado interno</proposition>
+        <proposition id="18-3">Mano completa</proposition>
+        <proposition id="18-4">Tres puntos</proposition>
+      </propositions>
+      <réponse proposition="18-4">Tres puntos</réponse>
+      <anecdote>Consiste en mantener constantemente al menos tres puntos de apoyo durante la progresión (dos pies una mano o dos manos un pie).</anecdote>
+    </contenu>
+    <contenu id="19">
+      <question>¿En qué libro se recuentan las rutas de escalada y su dificultad ?</question>
+      <propositions>
+        <proposition id="19-1">Lunule</proposition>
+        <proposition id="19-2">Prussik</proposition>
+        <proposition id="19-3">Serap</proposition>
+        <proposition id="19-4">Topo-guía</proposition>
+      </propositions>
+      <réponse proposition="19-4">Topo-guía</réponse>
+      <anecdote>Topos también puede ofrecer información sobre historia, opciones de restaurantes locales, bares y alojamiento.</anecdote>
+    </contenu>
+    <contenu id="20">
+      <question>En la escalada, ¿qué se da cuando se asegura a la pareja ?</question>
+      <propositions>
+        <proposition id="20-1">Holgura</proposition>
+        <proposition id="20-2">Un arnés</proposition>
+        <proposition id="20-3">Resistencia</proposition>
+        <proposition id="20-4">Una canasta</proposition>
+      </propositions>
+      <réponse proposition="20-1">Holgura</réponse>
+      <anecdote>De este modo, el asegurador puede bloquear su retiro en caso de que el escalador caiga en un freno o un dispositivo de autobloqueo.</anecdote>
+    </contenu>
+  </confirmé>
+  <expert>
+    <contenu id="21">
+      <question>¿Qué material se necesita además de los campos para escalar un acantilado ?</question>
+      <propositions>
+        <proposition id="21-1">Vaca</proposition>
+        <proposition id="21-2">Ovejas</proposition>
+        <proposition id="21-3">Gamuza</proposition>
+        <proposition id="21-4">Beier</proposition>
+      </propositions>
+      <réponse proposition="21-1">Vaca</réponse>
+      <anecdote>La vaca o el lomo consiste en un anillo de correa y su mosquetón y una cuerda dinámica.</anecdote>
+    </contenu>
+    <contenu id="22">
+      <question>¿A qué escalador de alto nivel se le conoce comúnmente como el hombre araña francés ?</question>
+      <propositions>
+        <proposition id="22-1">Charles Albert</proposition>
+        <proposition id="22-2">Jeff mercier</proposition>
+        <proposition id="22-3">Patrick Edlinger</proposition>
+        <proposition id="22-4">Alain Robert</proposition>
+      </propositions>
+      <réponse proposition="22-4">Alain Robert</réponse>
+      <anecdote>Alain Robert se especializa en escalada en solitario y luego en escalada de edificios, también en solitario.</anecdote>
+    </contenu>
+    <contenu id="23">
+      <question>¿Qué nudo necesitas realizar después de un nudo de silla ?</question>
+      <propositions>
+        <proposition id="23-1">Tuerca del corazón</proposition>
+        <proposition id="23-2">Nodo de parada</proposition>
+        <proposition id="23-3">Nuez de mariposa</proposition>
+        <proposition id="23-4">El caballero de Lorenzi</proposition>
+      </propositions>
+      <réponse proposition="23-2">Nodo de parada</réponse>
+      <anecdote>A diferencia de los ocho nudos, que pueden ser difíciles de aflojar después de una caída, el nudo de la silla es fácil de aflojar.</anecdote>
+    </contenu>
+    <contenu id="24">
+      <question>¿Cuál es la mejor manera de hacer un camino ?</question>
+      <propositions>
+        <proposition id="24-1">Cordelette</proposition>
+        <proposition id="24-2">Mosquetón</proposition>
+        <proposition id="24-3">Enlace rápido</proposition>
+        <proposition id="24-4">Dégain</proposition>
+      </propositions>
+      <réponse proposition="24-3">Enlace rápido</réponse>
+      <anecdote>Durante tres generaciones, Péguet es el fabricante del enlace rapido para cualquier conexion permanente o semipermanente.</anecdote>
+    </contenu>
+    <contenu id="25">
+      <question>¿Qué escalador participó en 2004 en un anuncio de cerámica Grany ?</question>
+      <propositions>
+        <proposition id="25-1">Daniel Du Lac</proposition>
+        <proposition id="25-2">Manual Romano</proposition>
+        <proposition id="25-3">Laurent jacob</proposition>
+        <proposition id="25-4">Patrick Edlinger</proposition>
+      </propositions>
+      <réponse proposition="25-4">Patrick Edlinger</réponse>
+      <anecdote>Reputado por sus subidas en solitario, Patrick Edlinger es uno de los grandes pioneros de la escalada libre de alto nivel.</anecdote>
+    </contenu>
+    <contenu id="26">
+      <question>¿Cuál es el nombre de la ruta más famosa hecha por Fred Rouhling ?</question>
+      <propositions>
+        <proposition id="26-1">Dreamtime</proposition>
+        <proposition id="26-2">Silencio</proposition>
+        <proposition id="26-3">Hubble</proposition>
+        <proposition id="26-4">Akira</proposition>
+      </propositions>
+      <réponse proposition="26-4">Akira</réponse>
+      <anecdote>En 1995, Fred Rouhling abrió Akira y ofreció la calificación inoportuna de 9b, lo que conducirá a muchas reacciones de escaladores.</anecdote>
+    </contenu>
+    <contenu id="27">
+      <question>¿Qué nodo se debe utilizar para hacer rappel con un mosquetón ovalado ?</question>
+      <propositions>
+        <proposition id="27-1">Medio cabrestante</proposition>
+        <proposition id="27-2">Nudo plano</proposition>
+        <proposition id="27-3">Silla de proa</proposition>
+        <proposition id="27-4">Nariz en ocho</proposition>
+      </propositions>
+      <réponse proposition="27-1">Medio cabrestante</réponse>
+      <anecdote>Este nodo se puede usar para asegurar un escalador o el reemplazo de una rampa cuando uno la ha perdido.</anecdote>
+    </contenu>
+    <contenu id="28">
+      <question>¿En qué modo de escalada estamos subiendo una pista no probada ?</question>
+      <propositions>
+        <proposition id="28-1">Urbano</proposition>
+        <proposition id="28-2">A la vista</proposition>
+        <proposition id="28-3">Trad</proposition>
+        <proposition id="28-4">Flash</proposition>
+      </propositions>
+      <réponse proposition="28-2">A la vista</réponse>
+      <anecdote>Este modo de escalada para escaladores expertos se considera más difícil que escalar o escalar después del trabajo.</anecdote>
+    </contenu>
+    <contenu id="29">
+      <question>Desde 1875, ¿cómo se llamaba antes la escalada ?</question>
+      <propositions>
+        <proposition id="29-1">Vantance</proposition>
+        <proposition id="29-2">Vairon</proposition>
+        <proposition id="29-3">Valdrague</proposition>
+        <proposition id="29-4">Escalada en roca</proposition>
+      </propositions>
+      <réponse proposition="29-4">Escalada en roca</réponse>
+      <anecdote>Este nombre proviene de varios corredores rocosos del monte Salève, cerca de Ginebra, donde, desde 1862, los escaladores se encontraron amigables.</anecdote>
+    </contenu>
+    <contenu id="30">
+      <question>¿Qué norma europea rige las estructuras de escalada artificial ?</question>
+      <propositions>
+        <proposition id="30-1">KC 8855</proposition>
+        <proposition id="30-2">EN 12572</proposition>
+        <proposition id="30-3">BD 432</proposition>
+        <proposition id="30-4">RG 165</proposition>
+      </propositions>
+      <réponse proposition="30-2">EN 12572</réponse>
+      <anecdote>Francia ha desarrollado un segundo estándar, experimentalmente en 2005: el estándar XP P 90-312.</anecdote>
+    </contenu>
+  </expert>
+  </es>
+  <it>
+  <débutant>
+    <contenu id="1">
+      <question>Quanto è necessario essere in grado di fingere di essere in grado di arrampicare ?</question>
+      <propositions>
+        <proposition id="1-1">Quattro</proposition>
+        <proposition id="1-2">Due</proposition>
+        <proposition id="1-3">Tre</proposition>
+        <proposition id="1-4">Uno</proposition>
+      </propositions>
+      <réponse proposition="1-4">Uno</réponse>
+      <anecdote>L'arrampicata sportiva viene praticata su piste completamente attrezzate, dove sono stati precedentemente predisposti punti di ancoraggio.</anecdote>
+    </contenu>
+    <contenu id="2">
+      <question>Quale nodo importante abbiamo bisogno di sapere come fare l'arrampicata ?</question>
+      <propositions>
+        <proposition id="2-1">Arco della sedia</proposition>
+        <proposition id="2-2">Papillon</proposition>
+        <proposition id="2-3">Nodo piano</proposition>
+        <proposition id="2-4">Naso in otto</proposition>
+      </propositions>
+      <réponse proposition="2-4">Naso in otto</réponse>
+      <anecdote>Il nodo in otto è relativamente semplice da smontare, non danneggia troppo la fune e forma un nodo più grande del semplice nodo.</anecdote>
+    </contenu>
+    <contenu id="3">
+      <question>Quale tecnica di downhill viene praticata su una corda con un sistema di frenata ?</question>
+      <propositions>
+        <proposition id="3-1">Assicurare</proposition>
+        <proposition id="3-2">Tirolese</proposition>
+        <proposition id="3-3">Ostruzione</proposition>
+        <proposition id="3-4">Promemoria</proposition>
+      </propositions>
+      <réponse proposition="3-4">Promemoria</réponse>
+      <anecdote>L'invenzione della tecnica di discesa in corda doppia nel 1876 fu attribuita a Jean Charlet-Straton, una guida di Chamonix.</anecdote>
+    </contenu>
+    <contenu id="4">
+      <question>Cosa devo seguire se decido di utilizzare solo gli stessi connettori colorati su un muro ?</question>
+      <propositions>
+        <proposition id="4-1">Corso</proposition>
+        <proposition id="4-2">Percorso</proposition>
+        <proposition id="4-3">Tracciato</proposition>
+        <proposition id="4-4">Way</proposition>
+      </propositions>
+      <réponse proposition="4-4">Way</réponse>
+      <anecdote>Un percorso di arrampicata è un percorso attraverso il quale uno scalatore raggiunge la cima di una montagna o di una roccia.</anecdote>
+    </contenu>
+    <contenu id="5">
+      <question>Quale di queste citazioni indica un livello di difficoltà ufficiale in salita ?</question>
+      <propositions>
+        <proposition id="5-1">B +</proposition>
+        <proposition id="5-2">C2</proposition>
+        <proposition id="5-3">7C</proposition>
+        <proposition id="5-4">2-4</proposition>
+      </propositions>
+      <réponse proposition="5-3">7C</réponse>
+      <anecdote>Lo scalatore che raggiunge la prima salita di una corsia è solitamente colui che dà le prime probabilità della corsia.</anecdote>
+    </contenu>
+    <contenu id="6">
+      <question>Nell'arrampicata, quale sistema costituisce un punto di ancoraggio nella roccia ?</question>
+      <propositions>
+        <proposition id="6-1">Grigri</proposition>
+        <proposition id="6-2">Relè</proposition>
+        <proposition id="6-3">Chiusura</proposition>
+        <proposition id="6-4">Moschettone</proposition>
+      </propositions>
+      <réponse proposition="6-3">Chiusura</réponse>
+      <anecdote>Questa ancora può servire come punto di protezione in una lunghezza o progressione, o servire come relè.</anecdote>
+    </contenu>
+    <contenu id="7">
+      <question>Quale attrezzatura afferra la pelvi dello scalatore come un'imbracatura ?</question>
+      <propositions>
+        <proposition id="7-1">Anello cinturino</proposition>
+        <proposition id="7-2">Baudrier</proposition>
+        <proposition id="7-3">Crash pad</proposition>
+        <proposition id="7-4">Chiusura</proposition>
+      </propositions>
+      <réponse proposition="7-2">Baudrier</réponse>
+      <anecdote>L'imbracatura è ampiamente utilizzata nella pratica di vari sport come l'arrampicata, l'alpinismo, il canyoning e la speleologia.</anecdote>
+    </contenu>
+    <contenu id="8">
+      <question>Quale polvere bianca viene utilizzata per evitare di sudare le mani ?</question>
+      <propositions>
+        <proposition id="8-1">Zucchero di ghiaccio</proposition>
+        <proposition id="8-2">Farina</proposition>
+        <proposition id="8-3">Magneti</proposition>
+        <proposition id="8-4">Talco</proposition>
+      </propositions>
+      <réponse proposition="8-3">Magneti</réponse>
+      <anecdote>Il carbonato di magnesio può contenere una piccola percentuale di silice che, inalata, può avere effetti avversi sui polmoni.</anecdote>
+    </contenu>
+    <contenu id="9">
+      <question>Che tipo di scarpe è generalmente utilizzato per l'arrampicata ?</question>
+      <propositions>
+        <proposition id="9-1">Slipper</proposition>
+        <proposition id="9-2">Boot</proposition>
+        <proposition id="9-3">Pallacanestro</proposition>
+        <proposition id="9-4">Slipper</proposition>
+      </propositions>
+      <réponse proposition="9-4">Slipper</réponse>
+      <anecdote>Al fine di migliorare l'aderenza del piede per attrito su un muro di arrampicata o una roccia, la pantofola è ricoperta da uno strato di gomma.</anecdote>
+    </contenu>
+    <contenu id="10">
+      <question>Quale di queste citazioni è considerata la più alta per un alpinista esperto ?</question>
+      <propositions>
+        <proposition id="10-1">9a</proposition>
+        <proposition id="10-2">e7</proposition>
+        <proposition id="10-3">7c +</proposition>
+        <proposition id="10-4">1a</proposition>
+      </propositions>
+      <réponse proposition="10-1">9a</réponse>
+      <anecdote>La difficoltà è stimata per una risalita in testa, senza l'ausilio di punti sosta e senza sosta sulla corda.</anecdote>
+    </contenu>
+  </débutant>
+  <confirmé>
+    <contenu id="11">
+      <question>Cosa significa « lover a rope » nella terminologia degli scalatori ?</question>
+      <propositions>
+        <proposition id="11-1">Per finire</proposition>
+        <proposition id="11-2">Hang</proposition>
+        <proposition id="11-3">Sblocca</proposition>
+        <proposition id="11-4">Staccare</proposition>
+      </propositions>
+      <réponse proposition="11-1">Per finire</réponse>
+      <anecdote>Si dice che l'uso sia semplice quando lo sportivo è assicurato da un singolo capo di corda e doppio da due fili indipendenti.</anecdote>
+    </contenu>
+    <contenu id="12">
+      <question>Qual è la nazionalità del marchio Petzl, tra l'altro noto per i suoi proiettori ?</question>
+      <propositions>
+        <proposition id="12-1">Austriaco</proposition>
+        <proposition id="12-2">Americano</proposition>
+        <proposition id="12-3">Inglese</proposition>
+        <proposition id="12-4">Francese</proposition>
+      </propositions>
+      <réponse proposition="12-4">Francese</réponse>
+      <anecdote>Il marchio Petzl offre attrezzature per alpinismo, arrampicata, speleologia, via ferrata, canyoning e trail running.</anecdote>
+    </contenu>
+    <contenu id="13">
+      <question>Quale nodo ben noto agli alpinisti rende possibile la mucca in totale sicurezza ?</question>
+      <propositions>
+        <proposition id="13-1">Pescatore</proposition>
+        <proposition id="13-2">Sedia</proposition>
+        <proposition id="13-3">Farfalla</proposition>
+        <proposition id="13-4">Capstan</proposition>
+      </propositions>
+      <réponse proposition="13-4">Capstan</réponse>
+      <anecdote>Il nodo del mantello è legato alla linea di vita in un moschettone: la fune viene quindi bloccata in entrambe le direzioni.</anecdote>
+    </contenu>
+    <contenu id="14">
+      <question>Quale parte della parete di arrampicata è chiamata il d-verse ?</question>
+      <propositions>
+        <proposition id="14-1">Verticale</proposition>
+        <proposition id="14-2">Giusto</proposition>
+        <proposition id="14-3">Appoggiato</proposition>
+        <proposition id="14-4">Sul bordo</proposition>
+      </propositions>
+      <réponse proposition="14-3">Appoggiato</réponse>
+      <anecdote>Nel 1983, François Savigny inventò i ramponi rimovibili, prima in arenaria e poi in cemento resinoso.</anecdote>
+    </contenu>
+    <contenu id="15">
+      <question>In quale sistema di sicurezza possiamo passare una corda quando saliamo ?</question>
+      <propositions>
+        <proposition id="15-1">Crash pad</proposition>
+        <proposition id="15-2">Moschettone</proposition>
+        <proposition id="15-3">Tampone</proposition>
+        <proposition id="15-4">Piolet</proposition>
+      </propositions>
+      <réponse proposition="15-2">Moschettone</réponse>
+      <anecdote>L'uso del moschettone rampicante era infatti una conseguenza logica dell'uso dei chiodi inventati da Hans Fiechtl.</anecdote>
+    </contenu>
+    <contenu id="16">
+      <question>Qual è l'altro nome a volte dato dagli alpinisti ?</question>
+      <propositions>
+        <proposition id="16-1">Jumar</proposition>
+        <proposition id="16-2">Lombo</proposition>
+        <proposition id="16-3">Pof</proposition>
+        <proposition id="16-4">Clip</proposition>
+      </propositions>
+      <réponse proposition="16-3">Pof</réponse>
+      <anecdote>Il pof o colofonia è una resina che i musicisti mettono sui capelli degli archi. Nell'arrampicata, il pof impermeabilizza e attacca.</anecdote>
+    </contenu>
+    <contenu id="17">
+      <question>Nell'arrampicata su roccia, quale altro termine viene usato per caraband ?</question>
+      <propositions>
+        <proposition id="17-1">Broach</proposition>
+        <proposition id="17-2">Lampeggiatore</proposition>
+        <proposition id="17-3">Corder</proposition>
+        <proposition id="17-4">Clipper</proposition>
+      </propositions>
+      <réponse proposition="17-4">Clipper</réponse>
+      <anecdote>Apparendo negli anni '80, l'arrampicata sportiva è uno dei tipi di arrampicata più moderni e anche la pratica più sicura.</anecdote>
+    </contenu>
+    <contenu id="18">
+      <question>Quali regole devi seguire per mantenere il tuo equilibrio in arrampicata ?</question>
+      <propositions>
+        <proposition id="18-1">Quadrato interno</proposition>
+        <proposition id="18-2">Tempo zero</proposition>
+        <proposition id="18-3">Mano piena</proposition>
+        <proposition id="18-4">Tre punti</proposition>
+      </propositions>
+      <réponse proposition="18-4">Tre punti</réponse>
+      <anecdote>Consiste nel mantenere costantemente almeno tre punti di supporto durante la progressione (due piedi una mano o due mani un piede).</anecdote>
+    </contenu>
+    <contenu id="19">
+      <question>In quale libro sono riportate le vie di escalation e le loro difficoltà ?</question>
+      <propositions>
+        <proposition id="19-1">Guida topografica</proposition>
+        <proposition id="19-2">Prussik</proposition>
+        <proposition id="19-3">Lunule</proposition>
+        <proposition id="19-4">Serap</proposition>
+      </propositions>
+      <réponse proposition="19-1">Guida topografica</réponse>
+      <anecdote>Topos può anche offrire informazioni su storia, ristoranti, bar e alloggi.</anecdote>
+    </contenu>
+    <contenu id="20">
+      <question>Nell'arrampicata, cosa si dà quando si assicura il proprio partner in mente ?</question>
+      <propositions>
+        <proposition id="20-1">Resistenza</proposition>
+        <proposition id="20-2">Un cestino</proposition>
+        <proposition id="20-3">Slack</proposition>
+        <proposition id="20-4">Un'imbracatura</proposition>
+      </propositions>
+      <réponse proposition="20-3">Slack</réponse>
+      <anecdote>L'assicuratore può quindi bloccare la sua rimozione nel caso in cui lo scalatore cada su un freno o un dispositivo autobloccante.</anecdote>
+    </contenu>
+  </confirmé>
+  <expert>
+    <contenu id="21">
+      <question>Quale materiale è necessario in aggiunta alle piazzole per scalare una scogliera ?</question>
+      <propositions>
+        <proposition id="21-1">Camoscio</proposition>
+        <proposition id="21-2">Pecora</proposition>
+        <proposition id="21-3">Mucca</proposition>
+        <proposition id="21-4">Beier</proposition>
+      </propositions>
+      <réponse proposition="21-3">Mucca</réponse>
+      <anecdote>La mucca o lombata consiste in un anello di cinturino e il suo moschettone e un pezzo di corda dinamica.</anecdote>
+    </contenu>
+    <contenu id="22">
+      <question>Quale scalatore di alto livello viene comunemente chiamato Spiderman francese ?</question>
+      <propositions>
+        <proposition id="22-1">Charles Albert</proposition>
+        <proposition id="22-2">Patrick Edlinger</proposition>
+        <proposition id="22-3">Alain Robert</proposition>
+        <proposition id="22-4">Jeff Mercier</proposition>
+      </propositions>
+      <réponse proposition="22-3">Alain Robert</réponse>
+      <anecdote>Alain Robert è specializzato nell'arrampicata da solista e poi nella costruzione di arrampicata, anche in assoli da solista.</anecdote>
+    </contenu>
+    <contenu id="23">
+      <question>Che nodo hai bisogno di eseguire dopo un nodo di sedia ?</question>
+      <propositions>
+        <proposition id="23-1">Arresta il nodo</proposition>
+        <proposition id="23-2">Dado a farfalla</proposition>
+        <proposition id="23-3">Cuore</proposition>
+        <proposition id="23-4">Il cavaliere di Lorenzi</proposition>
+      </propositions>
+      <réponse proposition="23-1">Arresta il nodo</réponse>
+      <anecdote>A differenza degli otto nodi, che possono essere difficili da allentare dopo una caduta, il nodo della sedia è facile da allentare.</anecdote>
+    </contenu>
+    <contenu id="24">
+      <question>Qual è il modo migliore per fare un percorso ?</question>
+      <propositions>
+        <proposition id="24-1">Moschettone</proposition>
+        <proposition id="24-2">Dégain</proposition>
+        <proposition id="24-3">Cordelette</proposition>
+        <proposition id="24-4">Collegamento rapido</proposition>
+      </propositions>
+      <réponse proposition="24-4">Collegamento rapido</réponse>
+      <anecdote>Per tre generazioni, Péguet è il produttore del collegamento rapido per qualsiasi connessione permanente o semi-permanente.</anecdote>
+    </contenu>
+    <contenu id="25">
+      <question>Quale scalatore ha partecipato nel 2004 a una pubblicità per ceramiche Grany ?</question>
+      <propositions>
+        <proposition id="25-1">Laurent Jacob</proposition>
+        <proposition id="25-2">Daniel Du Lac</proposition>
+        <proposition id="25-3">Manuale romano</proposition>
+        <proposition id="25-4">Patrick Edlinger</proposition>
+      </propositions>
+      <réponse proposition="25-4">Patrick Edlinger</réponse>
+      <anecdote>Conosciuto per le sue salite in full solo, Patrick Edlinger è uno dei grandi pionieri del free climbing di alto livello.</anecdote>
+    </contenu>
+    <contenu id="26">
+      <question>Qual è il nome del percorso più famoso realizzato da Fred Rouhling ?</question>
+      <propositions>
+        <proposition id="26-1">Dreamtime</proposition>
+        <proposition id="26-2">Silenzio</proposition>
+        <proposition id="26-3">Hubble</proposition>
+        <proposition id="26-4">Akira</proposition>
+      </propositions>
+      <réponse proposition="26-4">Akira</réponse>
+      <anecdote>Nel 1995, Fred Rouhling ha aperto Akira e ha offerto la valutazione intempestiva di 9b, che porterà a molte reazioni degli scalatori.</anecdote>
+    </contenu>
+    <contenu id="27">
+      <question>Quale nodo dovrebbe essere usato per calarsi in corda doppia con un moschettone ovale ?</question>
+      <propositions>
+        <proposition id="27-1">Arco della sedia</proposition>
+        <proposition id="27-2">Nodo piano</proposition>
+        <proposition id="27-3">Mezzo Verricello</proposition>
+        <proposition id="27-4">Naso in otto</proposition>
+      </propositions>
+      <réponse proposition="27-3">Mezzo Verricello</réponse>
+      <anecdote>Questo nodo può essere utilizzato per garantire uno scalatore o la sostituzione di uno scivolo quando si è perso.</anecdote>
+    </contenu>
+    <contenu id="28">
+      <question>In quale modalità di arrampicata stiamo salendo su una pista non testata ?</question>
+      <propositions>
+        <proposition id="28-1">Flash</proposition>
+        <proposition id="28-2">Urbano</proposition>
+        <proposition id="28-3">In vista</proposition>
+        <proposition id="28-4">Trad</proposition>
+      </propositions>
+      <réponse proposition="28-3">In vista</réponse>
+      <anecdote>Questa modalità di arrampicata per scalatori esperti è considerata più difficile che salire o arrampicare dopo il lavoro.</anecdote>
+    </contenu>
+    <contenu id="29">
+      <question>Dal 1875, come si chiamava l'arrampicata ?</question>
+      <propositions>
+        <proposition id="29-1">Valdrague</proposition>
+        <proposition id="29-2">Vairon</proposition>
+        <proposition id="29-3">Arrampicata</proposition>
+        <proposition id="29-4">Vantance</proposition>
+      </propositions>
+      <réponse proposition="29-3">Arrampicata</réponse>
+      <anecdote>Questo nome deriva da diversi corridoi rocciosi del monte Salève, vicino a Ginevra, dove, dal 1862, gli scalatori si sono trovati amichevoli.</anecdote>
+    </contenu>
+    <contenu id="30">
+      <question>Quale norma europea governa le strutture di arrampicata artificiale ?</question>
+      <propositions>
+        <proposition id="30-1">RG 165</proposition>
+        <proposition id="30-2">KC 8855</proposition>
+        <proposition id="30-3">EN 12572</proposition>
+        <proposition id="30-4">BD 432</proposition>
+      </propositions>
+      <réponse proposition="30-3">EN 12572</réponse>
+      <anecdote>La Francia ha sviluppato un secondo standard, sperimentalmente nel 2005: lo standard XP P 90-312.</anecdote>
+    </contenu>
+  </expert>
+  </it>
+  <nl>
+  <débutant>
+    <contenu id="1">
+      <question>Hoeveel is het nodig om te kunnen doen of je kunt klimmen ?</question>
+      <propositions>
+        <proposition id="1-1">Vier</proposition>
+        <proposition id="1-2">Een</proposition>
+        <proposition id="1-3">Twee</proposition>
+        <proposition id="1-4">Drie</proposition>
+      </propositions>
+      <réponse proposition="1-2">Een</réponse>
+      <anecdote>Sportklimmen wordt beoefend op volledig uitgeruste banen, waar voorheen verankeringspunten werden opgezet.</anecdote>
+    </contenu>
+    <contenu id="2">
+      <question>Welke belangrijke knoop hebben we nodig om te weten hoe klimmen te doen ?</question>
+      <propositions>
+        <proposition id="2-1">Vlinderdas</proposition>
+        <proposition id="2-2">Neus in acht</proposition>
+        <proposition id="2-3">Stoel boog</proposition>
+        <proposition id="2-4">Platte knoop</proposition>
+      </propositions>
+      <réponse proposition="2-2">Neus in acht</réponse>
+      <anecdote>Het knooppunt in acht is relatief eenvoudig te demonteren, beschadigt het touw niet te veel en vormt een knoop die groter is dan de eenvoudige knoop.</anecdote>
+    </contenu>
+    <contenu id="3">
+      <question>Welke afdalingstechniek wordt langs een touw met een remsysteem beoefend ?</question>
+      <propositions>
+        <proposition id="3-1">Herinnering</proposition>
+        <proposition id="3-2">Tiroler</proposition>
+        <proposition id="3-3">Obstructie</proposition>
+        <proposition id="3-4">Verzekeren</proposition>
+      </propositions>
+      <réponse proposition="3-1">Herinnering</réponse>
+      <anecdote>De uitvinding van de abseiling-techniek in 1876 werd toegeschreven aan Jean Charlet-Straton, een gids van Chamonix.</anecdote>
+    </contenu>
+    <contenu id="4">
+      <question>Wat moet ik doen als ik besluit om alleen dezelfde kleurstekkers op een muur te gebruiken ?</question>
+      <propositions>
+        <proposition id="4-1">Getraceerd</proposition>
+        <proposition id="4-2">Cursus</proposition>
+        <proposition id="4-3">Weg</proposition>
+        <proposition id="4-4">Pad</proposition>
+      </propositions>
+      <réponse proposition="4-3">Weg</réponse>
+      <anecdote>Een klimpad is een pad waardoor een klimmer de top van een berg of rots bereikt.</anecdote>
+    </contenu>
+    <contenu id="5">
+      <question>Welke van deze offertes betekent een niveau van offici ?le moeilijkheidsgraad klimmen ?</question>
+      <propositions>
+        <proposition id="5-1">B +</proposition>
+        <proposition id="5-2">C2</proposition>
+        <proposition id="5-3">7C</proposition>
+        <proposition id="5-4">2-4</proposition>
+      </propositions>
+      <réponse proposition="5-3">7C</réponse>
+      <anecdote>De klimmer die de eerste klim van een rijstrook bereikt, is meestal degene die de eerste kansen op de rijstrook aangeeft.</anecdote>
+    </contenu>
+    <contenu id="6">
+      <question>Bij het klimmen, welk systeem vormt een ankerpunt in de rots ?</question>
+      <propositions>
+        <proposition id="6-1">Grigri</proposition>
+        <proposition id="6-2">Karabijnhaak</proposition>
+        <proposition id="6-3">Sluiten</proposition>
+        <proposition id="6-4">Relais</proposition>
+      </propositions>
+      <réponse proposition="6-3">Sluiten</réponse>
+      <anecdote>Dit anker kan dienen als een beschermingspunt in een lengte of progressie, of kan dienen als een relais.</anecdote>
+    </contenu>
+    <contenu id="7">
+      <question>Welke uitrusting grijpt het bekken van de klimmer als een harnas ?</question>
+      <propositions>
+        <proposition id="7-1">Crash pad</proposition>
+        <proposition id="7-2">Baudrier</proposition>
+        <proposition id="7-3">Riemring</proposition>
+        <proposition id="7-4">Sluiten</proposition>
+      </propositions>
+      <réponse proposition="7-2">Baudrier</réponse>
+      <anecdote>Het harnas wordt veel gebruikt in de praktijk van verschillende sporten zoals klimmen, bergbeklimmen, canyoning en speleologie.</anecdote>
+    </contenu>
+    <contenu id="8">
+      <question>Welk wit poeder wordt gebruikt om zwetende klimhandschoenen te voorkomen ?</question>
+      <propositions>
+        <proposition id="8-1">Talk</proposition>
+        <proposition id="8-2">Meel</proposition>
+        <proposition id="8-3">IJssuiker</proposition>
+        <proposition id="8-4">Magneten</proposition>
+      </propositions>
+      <réponse proposition="8-4">Magneten</réponse>
+      <anecdote>Het carbonaat van magnesium kan een kleine hoeveelheid silica bevatten die, ingeademd, nadelige effecten op de longen kan hebben.</anecdote>
+    </contenu>
+    <contenu id="9">
+      <question>Welk type schoenen wordt meestal gebruikt voor klimmen ?</question>
+      <propositions>
+        <proposition id="9-1">Slipper</proposition>
+        <proposition id="9-2">Basketbal</proposition>
+        <proposition id="9-3">Slipper</proposition>
+        <proposition id="9-4">Boot</proposition>
+      </propositions>
+      <réponse proposition="9-3">Slipper</réponse>
+      <anecdote>Om de grip van de voet te verbeteren door wrijving op een muur van klimmen of een rots, is de pantoffel bedekt met een laag rubber.</anecdote>
+    </contenu>
+    <contenu id="10">
+      <question>Welke van deze citaten wordt als het hoogste beschouwd voor een ervaren klimmer ?</question>
+      <propositions>
+        <proposition id="10-1">e7</proposition>
+        <proposition id="10-2">7c +</proposition>
+        <proposition id="10-3">1a</proposition>
+        <proposition id="10-4">9a</proposition>
+      </propositions>
+      <réponse proposition="10-4">9a</réponse>
+      <anecdote>De moeilijkheid wordt geschat voor een klim naar het hoofd, zonder de hulp van zekeringspunten en zonder op het touw te rusten.</anecdote>
+    </contenu>
+  </débutant>
+  <confirmé>
+    <contenu id="11">
+      <question>Wat betekent « minnaar een touw » in climber-terminologie ?</question>
+      <propositions>
+        <proposition id="11-1">Onthechten</proposition>
+        <proposition id="11-2">Ontgrendelen</proposition>
+        <proposition id="11-3">Hang</proposition>
+        <proposition id="11-4">Om te liquideren</proposition>
+      </propositions>
+      <réponse proposition="11-4">Om te liquideren</réponse>
+      <anecdote>Er wordt gezegd dat het gebruik eenvoudig is wanneer de sporter verzekerd is door een enkele streng touw en dubbel door twee onafhankelijke strengen.</anecdote>
+    </contenu>
+    <contenu id="12">
+      <question>Wat is de nationaliteit van het merk Petzl, onder andere bekend om zijn koplampen ?</question>
+      <propositions>
+        <proposition id="12-1">Engels</proposition>
+        <proposition id="12-2">Oostenrijks</proposition>
+        <proposition id="12-3">Frans</proposition>
+        <proposition id="12-4">Amerikaans</proposition>
+      </propositions>
+      <réponse proposition="12-3">Frans</réponse>
+      <anecdote>Het merk Petzl biedt uitrusting voor bergbeklimmen, klimmen, speleologie, via ferrata, canyoning en trailrunning.</anecdote>
+    </contenu>
+    <contenu id="13">
+      <question>Welke knoop die bij klimmers bekend is, maakt het mogelijk om koeien in alle veiligheid te houden ?</question>
+      <propositions>
+        <proposition id="13-1">Kaapstander</proposition>
+        <proposition id="13-2">Stoel</proposition>
+        <proposition id="13-3">Visser</proposition>
+        <proposition id="13-4">Butterfly</proposition>
+      </propositions>
+      <réponse proposition="13-1">Kaapstander</réponse>
+      <anecdote>De kaapstander-knoop is met een karabijnhaak aan de reddingslijn vastgemaakt: het touw wordt dan in beide richtingen vergrendeld.</anecdote>
+    </contenu>
+    <contenu id="14">
+      <question>Welk deel van de klimmuur wordt het d-couplet genoemd ?</question>
+      <propositions>
+        <proposition id="14-1">Verticaal</proposition>
+        <proposition id="14-2">Op de rand</proposition>
+        <proposition id="14-3">Leunend</proposition>
+        <proposition id="14-4">Rechts</proposition>
+      </propositions>
+      <réponse proposition="14-3">Leunend</réponse>
+      <anecdote>In 1983 vond François Savigny de uitneembare klimvangers uit, eerst in zandsteen en vervolgens in harsbeton.</anecdote>
+    </contenu>
+    <contenu id="15">
+      <question>In welk veiligheidssysteem kunnen we een touw passeren tijdens het klimmen ?</question>
+      <propositions>
+        <proposition id="15-1">Karabijnhaak</proposition>
+        <proposition id="15-2">Crash pad</proposition>
+        <proposition id="15-3">Tampon</proposition>
+        <proposition id="15-4">Piolet</proposition>
+      </propositions>
+      <réponse proposition="15-1">Karabijnhaak</réponse>
+      <anecdote>Het gebruik van de klimkarabiner was in feite een logisch gevolg van het gebruik van putons uitgevonden door Hans Fiechtl.</anecdote>
+    </contenu>
+    <contenu id="16">
+      <question>Wat is de andere naam die soms wordt gegeven door klimmers met hars ?</question>
+      <propositions>
+        <proposition id="16-1">Pof</proposition>
+        <proposition id="16-2">Lendenen</proposition>
+        <proposition id="16-3">Jumar</proposition>
+        <proposition id="16-4">Clip</proposition>
+      </propositions>
+      <réponse proposition="16-1">Pof</réponse>
+      <anecdote>De pof of hars is een hars die de muzikanten op het haar van de bogen leggen. Bij het klimmen, maakt de pof waterdicht en plakt.</anecdote>
+    </contenu>
+    <contenu id="17">
+      <question>Welke andere term wordt in het bergbeklimmen gebruikt voor caraband ?</question>
+      <propositions>
+        <proposition id="17-1">Corder</proposition>
+        <proposition id="17-2">Flasher</proposition>
+        <proposition id="17-3">Clipper</proposition>
+        <proposition id="17-4">Broach</proposition>
+      </propositions>
+      <réponse proposition="17-3">Clipper</réponse>
+      <anecdote>In de jaren tachtig is sportklimmen een van de modernste klimtypen en ook de veiligste manier om te klimmen.</anecdote>
+    </contenu>
+    <contenu id="18">
+      <question>Welke regels moet je volgen om je evenwicht in klimmen te houden ?</question>
+      <propositions>
+        <proposition id="18-1">Drie punten</proposition>
+        <proposition id="18-2">Intern vierkant</proposition>
+        <proposition id="18-3">Volledige hand</proposition>
+        <proposition id="18-4">Nul tijd</proposition>
+      </propositions>
+      <réponse proposition="18-1">Drie punten</réponse>
+      <anecdote>Het bestaat uit het constant onderhouden van ten minste drie ondersteuningspunten tijdens de voortgang (twee voet één hand of twee handen een voet).</anecdote>
+    </contenu>
+    <contenu id="19">
+      <question>In welk boek zijn de routes van escalatie en hun moeilijkheid verhaald ?</question>
+      <propositions>
+        <proposition id="19-1">Topo-gids</proposition>
+        <proposition id="19-2">Serap</proposition>
+        <proposition id="19-3">Prussik</proposition>
+        <proposition id="19-4">Lunule</proposition>
+      </propositions>
+      <réponse proposition="19-1">Topo-gids</réponse>
+      <anecdote>Topos kan ook informatie bieden over geschiedenis, lokale eetgelegenheden, bars en accommodaties.</anecdote>
+    </contenu>
+    <contenu id="20">
+      <question>Wat geeft men bij het klimmen als iemand zijn partner in gedachten heeft ?</question>
+      <propositions>
+        <proposition id="20-1">Slack</proposition>
+        <proposition id="20-2">Een harnas</proposition>
+        <proposition id="20-3">Een mand</proposition>
+        <proposition id="20-4">Weerstand</proposition>
+      </propositions>
+      <réponse proposition="20-1">Slack</réponse>
+      <anecdote>De verzekeraar kan dus zijn verwijdering blokkeren als de klimmer op een rem of een zelfremmend apparaat valt.</anecdote>
+    </contenu>
+  </confirmé>
+  <expert>
+    <contenu id="21">
+      <question>Welke apparatuur is nodig naast een trekking om een klif te beklimmen ?</question>
+      <propositions>
+        <proposition id="21-1">Schapen</proposition>
+        <proposition id="21-2">Chamois</proposition>
+        <proposition id="21-3">Koe</proposition>
+        <proposition id="21-4">Beier</proposition>
+      </propositions>
+      <réponse proposition="21-3">Koe</réponse>
+      <anecdote>De koe of lende bestaat uit een riemring en zijn karabijnhaak en een stuk dynamisch touw.</anecdote>
+    </contenu>
+    <contenu id="22">
+      <question>Welke high-level klimmer wordt gewoonlijk de Franse Spiderman genoemd ?</question>
+      <propositions>
+        <proposition id="22-1">Jeff Mercier</proposition>
+        <proposition id="22-2">Alain Robert</proposition>
+        <proposition id="22-3">Patrick Edlinger</proposition>
+        <proposition id="22-4">Charles Albert</proposition>
+      </propositions>
+      <réponse proposition="22-2">Alain Robert</réponse>
+      <anecdote>Alain Robert is gespecialiseerd in solo klimmen in rotsklimmen en vervolgens in het bouwen van klimmen, ook in solo-solo.</anecdote>
+    </contenu>
+    <contenu id="23">
+      <question>Welke knoop heb je nodig om te presteren na een stoelknoop ?</question>
+      <propositions>
+        <proposition id="23-1">Vlindermoer</proposition>
+        <proposition id="23-2">Hartnoot</proposition>
+        <proposition id="23-3">Stop knoop</proposition>
+        <proposition id="23-4">Lorenzi's ridder</proposition>
+      </propositions>
+      <réponse proposition="23-3">Stop knoop</réponse>
+      <anecdote>In tegenstelling tot de achtste knoop, die na een val moeilijk los te maken is, is de stoelknoop gemakkelijk los te maken.</anecdote>
+    </contenu>
+    <contenu id="24">
+      <question>Wat is de beste manier om een track escape uit te voeren ?</question>
+      <propositions>
+        <proposition id="24-1">Dégain</proposition>
+        <proposition id="24-2">Karabijnhaak</proposition>
+        <proposition id="24-3">Cordelette</proposition>
+        <proposition id="24-4">Snelle link</proposition>
+      </propositions>
+      <réponse proposition="24-4">Snelle link</réponse>
+      <anecdote>Al drie generaties lang is Péguet de fabrikant van de Quick Link voor elke permanente of semi-permanente verbinding.</anecdote>
+    </contenu>
+    <contenu id="25">
+      <question>Welke klimmer heeft in 2004 deelgenomen aan een advertentie voor Grany-keramiek ?</question>
+      <propositions>
+        <proposition id="25-1">Patrick Edlinger</proposition>
+        <proposition id="25-2">Laurent Jacob</proposition>
+        <proposition id="25-3">Daniel Du Lac</proposition>
+        <proposition id="25-4">Romeinse handleiding</proposition>
+      </propositions>
+      <réponse proposition="25-1">Patrick Edlinger</réponse>
+      <anecdote>Geroemd voor zijn beklimmingen in volle solo, Patrick Edlinger is een van de grote pioniers op het gebied van klimmen op hoog niveau.</anecdote>
+    </contenu>
+    <contenu id="26">
+      <question>Hoe heet de beroemdste route van Fred Rouhling ?</question>
+      <propositions>
+        <proposition id="26-1">Stilte</proposition>
+        <proposition id="26-2">Akira</proposition>
+        <proposition id="26-3">Hubble</proposition>
+        <proposition id="26-4">Dreamtime</proposition>
+      </propositions>
+      <réponse proposition="26-2">Akira</réponse>
+      <anecdote>In 1995 opent Fred Rouhling Akira en biedt de ongekende rating van 9b, die veel reacties van klimmers zal veroorzaken.</anecdote>
+    </contenu>
+    <contenu id="27">
+      <question>Welk knooppunt moet worden gebruikt voor abseilen met een ovale karabijnhaak ?</question>
+      <propositions>
+        <proposition id="27-1">Platte knoop</proposition>
+        <proposition id="27-2">Stoel boog</proposition>
+        <proposition id="27-3">Halve kaapstander</proposition>
+        <proposition id="27-4">Neus in acht</proposition>
+      </propositions>
+      <réponse proposition="27-3">Halve kaapstander</réponse>
+      <anecdote>Dit knooppunt kan worden gebruikt om te zorgen voor een klimmende klimmer of om een parachute te vervangen wanneer men deze kwijt is.</anecdote>
+    </contenu>
+    <contenu id="28">
+      <question>In welke klimmodus klimmen we een niet-getest pad ?</question>
+      <propositions>
+        <proposition id="28-1">In zicht</proposition>
+        <proposition id="28-2">Flash</proposition>
+        <proposition id="28-3">Trad</proposition>
+        <proposition id="28-4">Stedelijk</proposition>
+      </propositions>
+      <réponse proposition="28-1">In zicht</réponse>
+      <anecdote>Deze klimmodus voor slimme klimmers wordt als moeilijker beschouwd dan klimmen of klimmen na het werk.</anecdote>
+    </contenu>
+    <contenu id="29">
+      <question>Sinds 1875, hoe werd klimmen vroeger genoemd ?</question>
+      <propositions>
+        <proposition id="29-1">Vairon</proposition>
+        <proposition id="29-2">Vantance</proposition>
+        <proposition id="29-3">Rotsklimmen</proposition>
+        <proposition id="29-4">Valrag</proposition>
+      </propositions>
+      <réponse proposition="29-3">Rotsklimmen</réponse>
+      <anecdote>Deze naam komt van verschillende rotsachtige gangen van de berg Salève, in de buurt van Genève, waar klimmers vanaf 1862 bevriend raakten.</anecdote>
+    </contenu>
+    <contenu id="30">
+      <question>Welke Europese norm regelt kunstklimstructuren ?</question>
+      <propositions>
+        <proposition id="30-1">KC 8855</proposition>
+        <proposition id="30-2">EN 12572</proposition>
+        <proposition id="30-3">RG 165</proposition>
+        <proposition id="30-4">BD 432</proposition>
+      </propositions>
+      <réponse proposition="30-2">EN 12572</réponse>
+      <anecdote>Frankrijk heeft een tweede standaard ontwikkeld, experimenteel in 2005: de standaard XP P 90-312.</anecdote>
+    </contenu>
+  </expert>
+  </nl>
+</quizz>

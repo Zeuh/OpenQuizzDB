@@ -1,0 +1,1650 @@
+---
+fournisseur: OpenQuizzDB - Fournisseur de contenu libre (https://www.openquizzdb.org)
+rédacteur: Philippe Bresoux
+thème: Harry Potter (La saga n'est pas terminée)
+difficulté: 4 / 5
+quizz:
+  fr:
+  - débutant:
+    - id: 1
+      question: Quel poste tient Harry Potter dans son équipe de quidditch ?
+      propositions:
+      - Batteur
+      - Lanceur
+      - Poursuiveur
+      - Attrapeur
+      réponse: Attrapeur
+      anecdote: Chaque équipe de quidditch possède sept joueurs chevauchant des balais volants.
+    - id: 2
+      question: Dans quelle école de sorcellerie Harry Potter a-t-il suivi ses enseignements ?
+      propositions:
+      - Cambridge
+      - West Point
+      - Poudlard
+      - Oxford
+      réponse: Poudlard
+      anecdote: Le directeur y enseigne à ses élèves la valeur du courage, de l'amitié, de la justice et de la vérité par son attitude et ses discours.
+    - id: 3
+      question: À quelle adresse habite la famille Dursley dans la saga « Harry Potter » ?
+      propositions:
+      - 4 Privet Square
+      - 4 Privet Drive
+      - 4 Privet Avenue
+      - 4 Privet Road
+      réponse: 4 Privet Drive
+      anecdote: Dursley, le cousin d'Harry Potter, est un garçon indiscipliné, violent et colérique.
+    - id: 4
+      question: Qui a succédé à Armando Dippet comme directeur de Poudlard dans « Harry Potter » ?
+      propositions:
+      - Albus Dumbledore
+      - Lord Voldemort
+      - Severus Rogue
+      - Ron Weasley
+      réponse: Albus Dumbledore
+      anecdote: Albus Dumbledore, promu nouveau directeur, est entré à Poudlard en 1892, dans la maison Gryffondor.
+    - id: 5
+      question: Quel est le nom de famille de Hermione dans la saga « Harry Potter » ?
+      propositions:
+      - Greengrass
+      - Gaunt
+      - Granger
+      - Grindelwald
+      réponse: Granger
+      anecdote: Hermione est la meilleure amie d'Harry Potter et de Ron Weasley, et réside, durant sa scolarité, à Poudlard, à la maison Gryffondor.
+    - id: 6
+      question: Dans la saga « Harry Potter », un Moldu est une personne née dans une famille...
+      propositions:
+      - Sans magie
+      - Sans enfants
+      - Sans secrets
+      - Sans argent
+      réponse: Sans magie
+      anecdote: Chez les humains, les pouvoirs magiques sont héréditaires, transmis par des allèles dominants ou récessifs.
+    - id: 7
+      question: Quel est le prénom du meilleur ami du jeune Harry Potter ?
+      propositions:
+      - Drago
+      - Sirius
+      - Hagrid
+      - Ron
+      réponse: Ron
+      anecdote: Ron, qui a rencontré Harry à King's Cross, fait partie de la famille Weasley, une famille de sang-pur, qui réside au Terrier.
+    - id: 8
+      question: Quelle actrice incarne Hermione Granger dans la saga « Harry Potter » ?
+      propositions:
+      - Danielle Taylor 
+      - Maggie Smith 
+      - Emma Watson
+      - Zoë Wanamaker 
+      réponse: Emma Watson
+      anecdote: Emma Watson est l'actrice la plus rentable de la décennie, en grande partie grâce à la saga « Harry Potter ».
+    - id: 9
+      question: Dans « Harry Potter », quel titre Voldemort a-t-il décidé de porter ?
+      propositions:
+      - Duc
+      - Baron
+      - Comte
+      - Lord
+      réponse: Lord
+      anecdote: Lord Voldemort est aussi appelé « Le Seigneur des Ténèbres » ou « Celui-Dont-On-Ne-Doit-Pas-Prononcer-Le-Nom ».
+    - id: 10
+      question: Qui garde Azkaban, la prison des sorciers dans la saga « Harry Potter » ?
+      propositions:
+      - Les détraqueurs
+      - Les goules
+      - Les épouvantards
+      - Les cerbères
+      réponse: Les détraqueurs
+      anecdote: Les détraqueurs sont considérés comme des créatures parmi les plus répugnantes de toutes celles qui existent.
+  - confirmé:
+    - id: 11
+      question: Quelle forme prend l'épouvantard de Ron dans la saga « Harry Potter » ?
+      propositions:
+      - Une araignée
+      - Un dragon
+      - Un scorpion
+      - Un loup
+      réponse: Une araignée
+      anecdote: Dix-neuf ans après la chute de Voldemort, Ron et Hermione ont deux enfants : Rose et son frère cadet Hugo.
+    - id: 12
+      question: Comment se prénomment les parents du jeune Harry Potter ?
+      propositions:
+      - Hermione et Ron
+      - Olivia et Tom
+      - James et Lily
+      - Laurena et Victor
+      réponse: James et Lily
+      anecdote: La famille Potter est également un descendant d'Ignotus Peverell, le premier propriétaire de la convoitée cape d'Invisibilité.
+    - id: 13
+      question: Quel acteur joue le rôle de Drago Malefoy dans « Harry Potter » ?
+      propositions:
+      - Tom Felton
+      - Jeff Rawle
+      - Rupert Grint
+      - Robbie Coltrane
+      réponse: Tom Felton
+      anecdote: Tom Felton a, début 2007, commencé une carrière musicale sous le pseudonyme Feltbeats, réunissant 3 millions de fans sur Instagram.
+    - id: 14
+      question: Quelle est la marque du balai de course utilisé par Harry Potter ?
+      propositions:
+      - Nimbus 2000
+      - Brossdur 5
+      - Comète 260
+      - Étoile Filante
+      réponse: Nimbus 2000
+      anecdote: Dans l'univers « Harry Potter », les balais sont utilisés pour le transport des sorciers ainsi que pour le Quidditch.
+    - id: 15
+      question: Quel est le nom du dragon appartenant à Hagrid dans la saga « Harry Potter » ?
+      propositions:
+      - Aragog
+      - Norbert
+      - Errol
+      - Crockdur
+      réponse: Norbert
+      anecdote: Hagrid, né d'un humain et d'une géante, a été l'un des premiers personnages créés par J. K. Rowling.
+    - id: 16
+      question: Qui est ministre de la magie dans la saga « Harry Potter » ?
+      propositions:
+      - Cornelius Fudge
+      - Albus Dumbledore
+      - Ludovic Verpey
+      - Lucius Malefoy
+      réponse: Cornelius Fudge
+      anecdote: Cornelius Fudge est également nommé Cornelius Lafadaise dans la première édition de « Harry Potter à l'école des sorciers ».
+    - id: 17
+      question: Quelle matière enseigne le Professeur Rogue dans la saga « Harry Potter » ?
+      propositions:
+      - Enchantement
+      - Défense
+      - Potions
+      - Métamorphose
+      réponse: Potions
+      anecdote: Personnage sombre, orgueilleux, aigri et amer, Rogue a une personnalité complexe, ambiguë et quelque peu indéchiffrable.
+    - id: 18
+      question: Quel est le prénom de Hagrid, le demi-géant de la saga « Harry Potter » ?
+      propositions:
+      - Albus
+      - Rubeus
+      - Remus
+      - Severus
+      réponse: Rubeus
+      anecdote: Hagrid est garde-chasse et enseigne les Soins aux Créatures magiques depuis le tome 3 de la saga.
+    - id: 19
+      question: Qui est professeur de soins aux créatures magiques dans la saga « Harry Potter » ?
+      propositions:
+      - Severus Rogue
+      - Hagrid
+      - Albus Dumbledore
+      - Mme Chourave
+      réponse: Hagrid
+      anecdote: Rubeus Hagrid, membre de l'Ordre du Phénix depuis son origine, est interprété au cinéma par Robbie Coltrane.
+    - id: 20
+      question: Qui a offert le très performant Nimbus 2000 à Harry Potter ?
+      propositions:
+      - D. Malefoy
+      - M. McGonagall
+      - A. Dumbledore
+      - S. Rogue
+      réponse: M. McGonagall
+      anecdote: Minerva McGonagall est directrice de Poudlard et également professeur de métamorphose.
+  - expert:
+    - id: 21
+      question: Quelle est la formule du sortilège de mort dans la saga « Harry Potter » ?
+      propositions:
+      - Machina Fino
+      - Mortibus Rem
+      - Avada Kedavra 
+      - Post Mortem 
+      réponse: Avada Kedavra 
+      anecdote: L'Avada Kedavra provoque la mort instantanée, dans un éclair de lumière verte et un bruit semblable à une rafale de vent.
+    - id: 22
+      question: Quels prénoms portent les jumeaux Weasley dans « Harry Potter » ?
+      propositions:
+      - Lou et Cédric
+      - Bill et George
+      - Fred et George
+      - Charlie et Bill
+      réponse: Fred et George
+      anecdote: L'ambition des jumeaux a toujours été d'ouvrir un magasin de farces et attrapes pour vendre certaines de leurs inventions.
+    - id: 23
+      question: Dans la saga « Harry Potter », qui est le prince de sang mêlé ?
+      propositions:
+      - Drago Malefoy
+      - Severus Rogue
+      - Voldemort
+      - Dumbledore
+      réponse: Severus Rogue
+      anecdote: Le rôle de Severus Rogue dans l'intrigue est difficile à interpréter pour le lecteur qui est fréquemment entraîné sur de fausses pistes.
+    - id: 24
+      question: À qui Harry Potter doit-il sa cicatrice obtenue suite à un sortilège de la Mort ?
+      propositions:
+      - James Potter
+      - Ron
+      - Professeur Lupin
+      - Voldemort
+      réponse: Voldemort
+      anecdote: Harry Potter porte des lunettes rondes à monture noire et une fine cicatrice en forme d'éclair sur le front.
+    - id: 25
+      question: Quelle boisson sert-on principalement aux « Trois balais » dans « Harry Potter » ?
+      propositions:
+      - Le sodalamenthe
+      - Le vinausucre
+      - La bièraubeurre
+      - Le laitpinard
+      réponse: La bièraubeurre
+      anecdote: La bièraubeurre, servie bien fraîche aux Trois balais, est la boisson la plus célèbre dans le monde des sorciers.
+    - id: 26
+      question: Comment se prénomme la mère de Drago Malefoy dans « Harry Potter » ?
+      propositions:
+      - Lily
+      - Dolores
+      - Narcissa
+      - Bellatrix
+      réponse: Narcissa
+      anecdote: Les Malefoy et les Black sont parents par le mariage de Narcissa et de Lucius, où le jeune Drago est l'unique héritier.
+    - id: 27
+      question: À Poudlard, à quel étage se trouve la salle sur demande ?
+      propositions:
+      - Septième étage
+      - Onzième étage
+      - Deuxième étage
+      - Vingtième étage
+      réponse: Septième étage
+      anecdote: Un grand nombre de passages dissimulés, d'escaliers et de portraits de peinture mouvants rendent l'établissement assez mystérieux.
+    - id: 28
+      question: Quel est le premier cadeau de Noël que Hagrid a offert à Harry Potter ?
+      propositions:
+      - Chouette
+      - Baguette
+      - Clé
+      - Flûte
+      réponse: Flûte
+      anecdote: Hagrid, membre de l'ordre du Phénix, fut élève à Poudlard, dans la maison Gryffondor, où il arriva en 1940.
+    - id: 29
+      question: Quel est le signe zodiacal du jeune Harry Potter, né en 1980 ?
+      propositions:
+      - Taureau
+      - Lion
+      - Vierge
+      - Balance
+      réponse: Lion
+      anecdote: Harry James Potter est né le 31 juillet 1980 et a donc le même jour d'anniversaire que J. K. Rowling.
+    - id: 30
+      question: En quoi se transforme Peter Pettigrow dans « Harry Potter » ?
+      propositions:
+      - En chat
+      - En poisson
+      - En serpent
+      - En rat
+      réponse: En rat
+      anecdote: Peter Pettigrow est un sorcier né en 1960, responsable de la mort de Lily et James Potter.
+  en:
+  - débutant:
+    - id: 1
+      question: What position does Harry Potter hold on his Quidditch team ?
+      propositions:
+      - Drummer
+      - Launcher
+      - Chaser
+      - Seeker
+      réponse: Seeker
+      anecdote: Each Quidditch team has seven players riding flying brooms.
+    - id: 2
+      question: In which witchcraft school did Harry Potter follow his teachings ?
+      propositions:
+      - Cambridge
+      - Hogwarts
+      - Oxford
+      - West Point
+      réponse: Hogwarts
+      anecdote: The director teaches his students the value of courage, friendship, justice and truth through his attitude and his speeches.
+    - id: 3
+      question: Where does the Dursley family live in the « Harry Potter » saga ?
+      propositions:
+      - 4 Privet Drive
+      - 4 Privet Road
+      - 4 Privet Square
+      - 4 Privet Avenue
+      réponse: 4 Privet Drive
+      anecdote: Harry Potter's cousin Dursley is an unruly, violent and angry boy.
+    - id: 4
+      question: Who succeeded Armando Dippet as Head of Hogwarts in « Harry Potter » ?
+      propositions:
+      - Ron Weasley
+      - Lord Voldemort
+      - Severus Snape
+      - Albus Dumbledore
+      réponse: Albus Dumbledore
+      anecdote: Albus Dumbledore, promoted to new headmaster, entered Hogwarts in 1892, in the Gryffindor house.
+    - id: 5
+      question: What is Hermione's last name in the « Harry Potter » saga ?
+      propositions:
+      - Granger
+      - Greengrass
+      - Gaunt
+      - Grindelwald
+      réponse: Granger
+      anecdote: Hermione is the best friend of Harry Potter and Ron Weasley, and resides, during her schooling, at Hogwarts, at the Gryffindor house.
+    - id: 6
+      question: In the « Harry Potter » saga, a Muggle is someone born into a family...
+      propositions:
+      - Without magic
+      - Without children
+      - Without money
+      - Without secrets
+      réponse: Without magic
+      anecdote: In humans, magical powers are inherited, transmitted by dominant or recessive alleles.
+    - id: 7
+      question: What is the first name of young Harry Potter's best friend ?
+      propositions:
+      - Draco
+      - Ron
+      - Sirius
+      - Hagrid
+      réponse: Ron
+      anecdote: Ron, who met Harry at King's Cross, is part of the Weasley family, a pureblood family, who reside at the Burrow.
+    - id: 8
+      question: Which actress does Hermione Granger play in the « Harry Potter » saga ?
+      propositions:
+      - Danielle Taylor
+      - Zoë Wanamaker
+      - Maggie Smith
+      - Emma Watson
+      réponse: Emma Watson
+      anecdote: Emma Watson is the highest-grossing actress of the decade, thanks in large part to the « Harry Potter » saga.
+    - id: 9
+      question: In « Harry Potter », what title did Voldemort decide to wear ?
+      propositions:
+      - Baron
+      - Duke
+      - Lord
+      - Count
+      réponse: Lord
+      anecdote: Lord Voldemort is also called The Dark Lord or The Must-Not-Speak-The-Name.
+    - id: 10
+      question: Who is guarding Azkaban, the wizarding prison in the « Harry Potter » saga ?
+      propositions:
+      - Ghouls
+      - The Cerberus
+      - The Dementors
+      - The scarecrows
+      réponse: The Dementors
+      anecdote: Dementors are considered to be some of the most loathsome creatures of all that exist.
+  - confirmé:
+    - id: 11
+      question: What form does Ron's scarecrow take in the « Harry Potter » saga ?
+      propositions:
+      - A wolf
+      - A scorpion
+      - A dragon
+      - A spider
+      réponse: A spider
+      anecdote: Nineteen years after Voldemort's fall, Ron and Hermione have two children: Rose and her younger brother Hugo.
+    - id: 12
+      question: What are the names of the parents of young Harry Potter ?
+      propositions:
+      - Olivia and Tom
+      - Hermione and Ron
+      - Laurena and Victor
+      - James and Lily
+      réponse: James and Lily
+      anecdote: The Potter family is also a descendant of Ignotus Peverell, the original owner of the coveted Invisibility Cloak.
+    - id: 13
+      question: Which actor plays Draco Malfoy in « Harry Potter » ?
+      propositions:
+      - Jeff Rawle
+      - Tom Felton
+      - Robbie Coltrane
+      - Rupert Grint
+      réponse: Tom Felton
+      anecdote: Tom Felton began a musical career in early 2007 under the pseudonym Feltbeats, gaining 3 million fans on Instagram.
+    - id: 14
+      question: What brand of racing broom does Harry Potter use ?
+      propositions:
+      - Brossdur 5
+      - Comet 260
+      - Shooting Star
+      - Nimbus 2000
+      réponse: Nimbus 2000
+      anecdote: In the « Harry Potter » universe, brooms are used for transporting wizards as well as for Quidditch.
+    - id: 15
+      question: What is the name of the dragon belonging to Hagrid in the « Harry Potter » saga ?
+      propositions:
+      - Aragog
+      - Norbert
+      - Errol
+      - Crockdur
+      réponse: Norbert
+      anecdote: Hagrid, born of a human and a giant, was one of the first characters created by J. K. Rowling.
+    - id: 16
+      question: Who is the Minister of Magic in the « Harry Potter » saga ?
+      propositions:
+      - Ludovic Verpey
+      - Lucius Malfoy
+      - Cornelius Fudge
+      - Albus Dumbledore
+      réponse: Cornelius Fudge
+      anecdote: Cornelius Fudge is also named Cornelius Lafadaise in the first edition of « Harry Potter and the Sorcerer's Stone ».
+    - id: 17
+      question: What subject does Professor Snape teach in the « Harry Potter » saga ?
+      propositions:
+      - Metamorphosis
+      - Potions
+      - Enchantment
+      - Defense
+      réponse: Potions
+      anecdote: A dark, proud, embittered, and bitter character, Snape has a complex, ambiguous, and somewhat indecipherable personality.
+    - id: 18
+      question: What is the first name of Hagrid, the half-giant of the « Harry Potter » saga ?
+      propositions:
+      - Rubeus
+      - Remus
+      - Severus
+      - Albus
+      réponse: Rubeus
+      anecdote: Hagrid is a game warden and has been teaching Care of Magical Creatures since volume 3 of the saga.
+    - id: 19
+      question: Who is the « Harry Potter » Saga of the Care of Magical Creatures ?
+      propositions:
+      - Hagrid
+      - Albus Dumbledore
+      - Mrs Sprout
+      - Severus Snape
+      réponse: Hagrid
+      anecdote: Rubeus Hagrid, member of the Order of the Phoenix since its origin, is played in the cinema by Robbie Coltrane.
+    - id: 20
+      question: Who gave Harry Potter the high-performing Nimbus 2000 ?
+      propositions:
+      - S. Rogue
+      - A. Dumbledore
+      - D. Malefoy
+      - M. McGonagall
+      réponse: M. McGonagall
+      anecdote: Minerva McGonagall is Head of Hogwarts and also a Transfiguration teacher.
+  - expert:
+    - id: 21
+      question: What is the formula for the killing curse in the « Harry Potter » saga ?
+      propositions:
+      - Post Mortem
+      - Mortibus Rem
+      - Machina Fino
+      - Avada Kedavra
+      réponse: Avada Kedavra
+      anecdote: Avada Kedavra causes instant death, in a flash of green light and a sound similar to a gust of wind.
+    - id: 22
+      question: What names do the Weasley twins wear in « Harry Potter » ?
+      propositions:
+      - Charlie and Bill
+      - Bill and George
+      - Lou and Cédric
+      - Fred and George
+      réponse: Fred and George
+      anecdote: The twins' ambition has always been to open a joke and trick store to sell some of their inventions.
+    - id: 23
+      question: In the « Harry Potter » saga, who is the half-blood prince ?
+      propositions:
+      - Severus Snape
+      - Draco Malfoy
+      - Dumbledore
+      - Voldemort
+      réponse: Severus Snape
+      anecdote: The role of Severus Snape in the plot is difficult for the reader who is frequently drawn on false leads.
+    - id: 24
+      question: To whom does Harry Potter owe his scar from a Death Curse ?
+      propositions:
+      - Voldemort
+      - James Potter
+      - Professor Lupine
+      - Ron
+      réponse: Voldemort
+      anecdote: Harry Potter wears round black rimmed glasses and a thin lightning bolt scar on his forehead.
+    - id: 25
+      question: What drink are primarily served to the « Three Brooms » in « Harry Potter » ?
+      propositions:
+      - The vinausucre
+      - Sodalament
+      - Milk spinach
+      - Butterbeer
+      réponse: Butterbeer
+      anecdote: Butterbeer, served chilled at Les Trois Broomsticks, is the most famous drink in the wizarding world.
+    - id: 26
+      question: What is the name of Draco Malfoy's mother in « Harry Potter » ?
+      propositions:
+      - Bellatrix
+      - Lily
+      - Dolores
+      - Narcissa
+      réponse: Narcissa
+      anecdote: The Malfoys and the Blacks are related by marriage between Narcissa and Lucius, where young Draco is the sole heir.
+    - id: 27
+      question: At Hogwarts, what floor is the On Demand Room located on ?
+      propositions:
+      - Eleventh floor
+      - Seventh Floor
+      - Second floor
+      - Twentieth Floor
+      réponse: Seventh Floor
+      anecdote: A large number of hidden passages, stairs and moving painting portraits make the establishment quite mysterious.
+    - id: 28
+      question: What is the first Christmas gift that Hagrid offers to Harry Potter ?
+      propositions:
+      - Flute
+      - Baguette
+      - Owl
+      - Key
+      réponse: Flute
+      anecdote: Hagrid, a member of the Order of the Phoenix, was raised at Hogwarts in the Gryffindor House, where he arrived in 1940.
+    - id: 29
+      question: What is the zodiac sign of young Harry Potter, born in 1980 ?
+      propositions:
+      - Libra
+      - Lion
+      - Virgo
+      - Taurus
+      réponse: Lion
+      anecdote: Harry James Potter was born on July 31, 1980 and therefore has the same birthday as J. K. Rowling.
+    - id: 30
+      question: What does Peter Pettigrew transform into in « Harry Potter » ?
+      propositions:
+      - In chat
+      - In rat
+      - In fish
+      - In snake
+      réponse: In rat
+      anecdote: Peter Pettigrew is a wizard born in 1960, responsible for the deaths of Lily and James Potter.
+  de:
+  - débutant:
+    - id: 1
+      question: Welche Position hat Harry Potter in seinem Quidditch-Team ?
+      propositions:
+      - Schlagzeuger
+      - Sucher
+      - Chaser
+      - Launcher
+      réponse: Sucher
+      anecdote: Jedes Quidditch-Team hat sieben Spieler, die fliegende Besen reiten.
+    - id: 2
+      question: In welcher Hexenschule folgte Harry Potter seinen Lehren ?
+      propositions:
+      - West Point
+      - Hogwarts
+      - Cambridge
+      - Oxford
+      réponse: Hogwarts
+      anecdote: Der Regisseur lehrt seine Schüler durch seine Haltung und seine Reden den Wert von Mut, Freundschaft, Gerechtigkeit und Wahrheit.
+    - id: 3
+      question: Wo lebt die Familie Dursley in der « Harry Potter » Saga ?
+      propositions:
+      - 4 Privet Square
+      - 4 Privet Avenue
+      - 4 Privet Road
+      - 4 Privet Drive
+      réponse: 4 Privet Drive
+      anecdote: Harry Potters Cousin Dursley ist ein widerspenstiger, gewalttätiger und wütender Junge.
+    - id: 4
+      question: Wer trat die Nachfolge von Armando Dippet als Head of Hogwarts in « Harry Potter » an ?
+      propositions:
+      - Severus Snape
+      - Albus Dumbledore
+      - Ron Weasley
+      - Lord Voldemort
+      réponse: Albus Dumbledore
+      anecdote: Albus Dumbledore, der zum neuen Schulleiter befördert wurde, betrat 1892 Hogwarts im Haus von Gryffindor.
+    - id: 5
+      question: Wie lautet Hermines Nachname in der « Harry Potter » Saga ?
+      propositions:
+      - Granger
+      - Gaunt
+      - Greengrass
+      - Grindelwald
+      réponse: Granger
+      anecdote: Hermine ist die beste Freundin von Harry Potter und Ron Weasley und lebt während ihrer Schulzeit in Hogwarts im Gryffindor-Haus.
+    - id: 6
+      question: In der « Harry Potter » Saga ist ein Muggel jemand, der in eine Familie hineingeboren wurde...
+      propositions:
+      - Ohne Magie
+      - Ohne Geld
+      - Ohne Geheimnisse
+      - Ohne Kinder
+      réponse: Ohne Magie
+      anecdote: Beim Menschen werden magische Kräfte vererbt, die von dominanten oder rezessiven Allelen übertragen werden.
+    - id: 7
+      question: Wie lautet der Vorname des besten Freundes des jungen Harry Potter ?
+      propositions:
+      - Draco
+      - Ron
+      - Sirius
+      - Hagrid
+      réponse: Ron
+      anecdote: Ron, der Harry am King's Cross kennengelernt hat, gehört zur Familie Weasley, einer reinblütigen Familie, die im Fuchsbau wohnt.
+    - id: 8
+      question: Welche Schauspielerin spielt Hermine Granger in der « Harry Potter » Saga ?
+      propositions:
+      - Zoë Wanamaker
+      - Emma Watson
+      - Danielle Taylor
+      - Maggie Smith
+      réponse: Emma Watson
+      anecdote: Emma Watson ist die umsatzstärkste Schauspielerin des Jahrzehnts, was zum großen Teil der « Harry Potter » Saga zu verdanken ist.
+    - id: 9
+      question: Welchen Titel hat Voldemort in « Harry Potter » getragen ?
+      propositions:
+      - Herzog
+      - Baron
+      - Anzahl
+      - Herr
+      réponse: Herr
+      anecdote: Lord Voldemort wird auch The Dark Lord oder The Must-Not-Speak-The-Name genannt.
+    - id: 10
+      question: Wer bewacht Askaban, das Zauberergefängnis in der « Harry Potter » Saga ?
+      propositions:
+      - Die Vogelscheuchen
+      - Ghule
+      - Die Dementoren
+      - Der Cerberus
+      réponse: Die Dementoren
+      anecdote: Dementoren gelten als einige der abscheulichsten Kreaturen überhaupt.
+  - confirmé:
+    - id: 11
+      question: Wie sieht Rons Vogelscheuche in der « Harry Potter » Saga aus ?
+      propositions:
+      - Ein Drache
+      - Eine Spinne
+      - Ein Skorpion
+      - Ein Wolf
+      réponse: Eine Spinne
+      anecdote: Neunzehn Jahre nach Voldemorts Sturz haben Ron und Hermine zwei Kinder: Rose und ihren jüngeren Bruder Hugo.
+    - id: 12
+      question: Wie heißen die Eltern des jungen Harry Potter ?
+      propositions:
+      - James und Lily
+      - Hermine und Ron
+      - Olivia und Tom
+      - Laurena und Victor
+      réponse: James und Lily
+      anecdote: Die Potter-Familie ist auch ein Nachkomme von Ignotus Peverell, dem ursprünglichen Besitzer des begehrten Unsichtbarkeitsumhangs.
+    - id: 13
+      question: Welcher Schauspieler spielt Draco Malfoy in « Harry Potter » ?
+      propositions:
+      - Robbie Coltrane
+      - Jeff Rawle
+      - Rupert Grint
+      - Tom Felton
+      réponse: Tom Felton
+      anecdote: Tom Felton begann seine musikalische Karriere Anfang 2007 unter dem Pseudonym Feltbeats und gewann 3 Millionen Fans auf Instagram.
+    - id: 14
+      question: Welche Marke von Rennbesen benutzt Harry Potter ?
+      propositions:
+      - Nimbus 2000
+      - Komet 260
+      - Brossdur 5
+      - Sternschnuppe
+      réponse: Nimbus 2000
+      anecdote: Im « Harry Potter » Universum werden Besen sowohl für den Transport von Zauberern als auch für Quidditch verwendet.
+    - id: 15
+      question: Wie heißt der Drache von Hagrid in der « Harry Potter » Saga ?
+      propositions:
+      - Errol
+      - Crockdur
+      - Aragog
+      - Norbert
+      réponse: Norbert
+      anecdote: Hagrid, geboren von einem Menschen und einem Riesen, war eine der ersten Figuren, die von J. K. Rowling.
+    - id: 16
+      question: Wer ist der Zaubereiminister in der « Harry Potter » Saga ?
+      propositions:
+      - Lucius Malfoy
+      - Albus Dumbledore
+      - Cornelius Fudge
+      - Ludovic Verpey
+      réponse: Cornelius Fudge
+      anecdote: Cornelius Fudge wird in der ersten Ausgabe von « Harry Potter und der Stein der Weisen » auch Cornelius Lafadaise genannt.
+    - id: 17
+      question: Welches Fach unterrichtet Professor Snape in der « Harry Potter » Saga ?
+      propositions:
+      - Tränke
+      - Verteidigung
+      - Verzauberung
+      - Metamorphose
+      réponse: Tränke
+      anecdote: Snape ist ein dunkler, stolzer, verbitterter und bitterer Charakter. Er hat eine komplexe, mehrdeutige und etwas unkenntliche Persönlichkeit.
+    - id: 18
+      question: Wie lautet der Vorname von Hagrid, dem Halbriesen der « Harry Potter » Saga ?
+      propositions:
+      - Albus
+      - Remus
+      - Severus
+      - Rubeus
+      réponse: Rubeus
+      anecdote: Hagrid ist ein Wildhüter und unterrichtet seit Band 3 der Saga die Pflege magischer Kreaturen.
+    - id: 19
+      question: Wer ist die « Harry Potter » Saga der Pflege magischer Kreaturen ?
+      propositions:
+      - Frau Sprout
+      - Albus Dumbledore
+      - Severus Snape
+      - Hagrid
+      réponse: Hagrid
+      anecdote: Rubeus Hagrid, seit seiner Gründung Mitglied des Ordens des Phönix, wird im Kino von Robbie Coltrane gespielt.
+    - id: 20
+      question: Wer hat Harry Potter den leistungsstarken Nimbus 2000 gegeben ?
+      propositions:
+      - S. Rogue
+      - M. McGonagall
+      - D. Malefoy
+      - A. Dumbledore
+      réponse: M. McGonagall
+      anecdote: Minerva McGonagall ist Leiterin von Hogwarts und auch Lehrerin für Verklärung.
+  - expert:
+    - id: 21
+      question: Wie lautet die Formel für den Todesfluch in der « Harry Potter » Saga ?
+      propositions:
+      - Machina Fino
+      - Avada Kedavra
+      - Post Mortem
+      - Mortibus Rem
+      réponse: Avada Kedavra
+      anecdote: Avada Kedavra verursacht sofortigen Tod, in einem grünen Lichtblitz und einem Geräusch, das einem Windstoß ähnelt.
+    - id: 22
+      question: Welche Namen tragen die Weasley-Zwillinge in « Harry Potter » ?
+      propositions:
+      - Charlie und Bill
+      - Lou und Cédric
+      - Fred und George
+      - Bill und George
+      réponse: Fred und George
+      anecdote: Das Ziel der Zwillinge war es immer, einen Witz und Trickladen zu eröffnen, um einige ihrer Erfindungen zu verkaufen.
+    - id: 23
+      question: Wer ist in der « Harry Potter » Saga der Halbblutprinz ?
+      propositions:
+      - Dumbledore
+      - Voldemort
+      - Draco Malfoy
+      - Severus Snape
+      réponse: Severus Snape
+      anecdote: Die Rolle von Severus Snape in der Handlung ist für den Leser, der häufig auf falsche Hinweise stützt, schwer zu interpretieren.
+    - id: 24
+      question: Wem verdankt Harry Potter seine Narbe von einem Todesfluch ?
+      propositions:
+      - Ron
+      - Professor Lupin
+      - Voldemort
+      - James Potter
+      réponse: Voldemort
+      anecdote: Harry Potter trägt eine runde Brille mit schwarzem Rand und eine dünne Blitznarbe auf seiner Stirn.
+    - id: 25
+      question: Welches Getränk wird hauptsächlich den « Drei Besen » in « Harry Potter » serviert ?
+      propositions:
+      - Sodalament
+      - Milchspinat
+      - Butterbier
+      - Das vinausucre
+      réponse: Butterbier
+      anecdote: Butterbier, gekühlt in Les Trois Broomsticks serviert, ist das berühmteste Getränk der Zaubererwelt.
+    - id: 26
+      question: Wie heißt Draco Malfoys Mutter in « Harry Potter » ?
+      propositions:
+      - Narzissa
+      - Dolores
+      - Bellatrix
+      - Lily
+      réponse: Narzissa
+      anecdote: Die Malfoys und die Schwarzen sind durch Heirat zwischen Narzissa und Lucius verwandt, wo der junge Draco der einzige Erbe ist.
+    - id: 27
+      question: Auf welcher Etage befindet sich in Hogwarts der On Demand Room ?
+      propositions:
+      - Zweiter Stock
+      - Zwanzigste Etage
+      - Siebte Etage
+      - Elfter Stock
+      réponse: Siebte Etage
+      anecdote: Eine große Anzahl versteckter Passagen, Treppen und beweglicher Gemäldeporträts machen das Haus ziemlich mysteriös.
+    - id: 28
+      question: Was ist das erste Weihnachtsgeschenk, das Hagrid Harry Potter bietet ?
+      propositions:
+      - Eule
+      - Schlüssel
+      - Baguette
+      - Flöte
+      réponse: Flöte
+      anecdote: Hagrid, ein Mitglied des Ordens des Phönix, wurde in Hogwarts im Gryffindor House aufgewachsen, wo er 1940 ankam.
+    - id: 29
+      question: Was ist das Sternzeichen des jungen Harry Potter, geboren 1980 ?
+      propositions:
+      - Stier
+      - Waage
+      - Jungfrau
+      - Löwe
+      réponse: Löwe
+      anecdote: Harry James Potter wurde am 31. Juli 1980 geboren und hat daher denselben Geburtstag wie J. K. Rowling.
+    - id: 30
+      question: In was verwandelt sich Peter Pettigrew in « Harry Potter » ?
+      propositions:
+      - In der Schlange
+      - In Ratte
+      - Im Chat
+      - In Fisch
+      réponse: In Ratte
+      anecdote: Peter Pettigrew ist ein 1960 geborener Zauberer, der für den Tod von Lily und James Potter verantwortlich ist.
+  es:
+  - débutant:
+    - id: 1
+      question: ¿Qué puesto ocupa Harry Potter en su equipo de Quidditch ?
+      propositions:
+      - Buscador
+      - Baterista
+      - Chaser
+      - Lanzador
+      réponse: Buscador
+      anecdote: Cada equipo de Quidditch tiene siete jugadores montados en escobas voladoras.
+    - id: 2
+      question: ¿En qué escuela de brujería siguió Harry Potter sus enseñanzas ?
+      propositions:
+      - Oxford
+      - Cambridge
+      - West Point
+      - Hogwarts
+      réponse: Hogwarts
+      anecdote: El director enseña a sus alumnos el valor del coraje, la amistad, la justicia y la verdad a través de su actitud y sus discursos.
+    - id: 3
+      question: ¿Dónde vive la familia Dursley en la saga « Harry Potter » ?
+      propositions:
+      - 4 Privet Square
+      - 4 Privet Drive
+      - 4 Privet Road
+      - 4 Privet Avenue
+      réponse: 4 Privet Drive
+      anecdote: El primo de Harry Potter, Dursley, es un niño rebelde, violento y enojado.
+    - id: 4
+      question: ¿Quién sucedió a Armando Dippet como Jefe de Hogwarts en « Harry Potter » ?
+      propositions:
+      - Ron Weasley
+      - Lord Voldemort
+      - Severus Snape
+      - Albus Dumbledore
+      réponse: Albus Dumbledore
+      anecdote: Albus Dumbledore, ascendido a nuevo director, ingresó a Hogwarts en 1892, en la casa de Gryffindor.
+    - id: 5
+      question: ¿Cuál es el apellido de Hermione en la saga « Harry Potter » ?
+      propositions:
+      - Grindelwald
+      - Greengrass
+      - Granger
+      - Gaunt
+      réponse: Granger
+      anecdote: Hermione es la mejor amiga de Harry Potter y Ron Weasley, y reside, durante sus años escolares, en Hogwarts, en la casa de Gryffindor.
+    - id: 6
+      question: En la saga de « Harry Potter », un Muggle es alguien nacido en una familia...
+      propositions:
+      - Sin dinero
+      - Sin magia
+      - Sin secretos
+      - Sin hijos
+      réponse: Sin magia
+      anecdote: En los humanos, los poderes mágicos se heredan, transmitidos por alelos dominantes o recesivos.
+    - id: 7
+      question: ¿Cuál es el primer nombre del mejor amigo del joven Harry Potter ?
+      propositions:
+      - Sirius
+      - Hagrid
+      - Ron
+      - Draco
+      réponse: Ron
+      anecdote: Ron, que conoció a Harry en King's Cross, es parte de la familia Weasley, una familia sangre pura, que reside en La Madriguera.
+    - id: 8
+      question: ¿Qué actriz interpreta Hermione Granger en la saga « Harry Potter » ?
+      propositions:
+      - Danielle Taylor
+      - Zoë Wanamaker
+      - Maggie Smith
+      - Emma Watson
+      réponse: Emma Watson
+      anecdote: Emma Watson es la actriz más taquillera de la década, gracias en gran parte a la saga « Harry Potter ».
+    - id: 9
+      question: En « Harry Potter », ¿qué título decidió usar Voldemort ?
+      propositions:
+      - Contar
+      - Señor
+      - Baron
+      - Duke
+      réponse: Señor
+      anecdote: Lord Voldemort también se llama The Dark Lord o The Must-Not-Speak-The-Name.
+    - id: 10
+      question: ¿Quién custodia Azkaban, la prisión mágica de la saga « Harry Potter » ?
+      propositions:
+      - Ghouls
+      - Los espantapájaros
+      - El Cerberus
+      - Los dementores
+      réponse: Los dementores
+      anecdote: Se considera que los dementores son algunas de las criaturas más repugnantes de todas las que existen.
+  - confirmé:
+    - id: 11
+      question: ¿Qué forma toma el espantapájaros de Ron en la saga « Harry Potter » ?
+      propositions:
+      - Una araña
+      - Un escorpión
+      - Un dragón
+      - Un lobo
+      réponse: Una araña
+      anecdote: Diecinueve años después de la caída de Voldemort, Ron y Hermione tienen dos hijos: Rose y su hermano menor Hugo.
+    - id: 12
+      question: ¿Cuáles son los nombres de los padres del joven Harry Potter ?
+      propositions:
+      - Laurena y Victor
+      - James y Lily
+      - Olivia y Tom
+      - Hermione y Ron
+      réponse: James y Lily
+      anecdote: La familia Potter también es descendiente de Ignotus Peverell, el propietario original de la codiciada Capa de Invisibilidad.
+    - id: 13
+      question: ¿Qué actor interpreta a Draco Malfoy en « Harry Potter » ?
+      propositions:
+      - Jeff Rawle
+      - Tom Felton
+      - Rupert Grint
+      - Robbie Coltrane
+      réponse: Tom Felton
+      anecdote: Tom Felton comenzó una carrera musical a principios de 2007 bajo el seudónimo de Feltbeats, ganando 3 millones de fanáticos en Instagram.
+    - id: 14
+      question: ¿Qué marca de escoba de carreras usa Harry Potter ?
+      propositions:
+      - Comet 260
+      - Estrella fugaz
+      - Brossdur 5
+      - Nimbus 2000
+      réponse: Nimbus 2000
+      anecdote: En el universo de « Harry Potter », las escobas se utilizan para transportar magos y también para Quidditch.
+    - id: 15
+      question: ¿Cómo se llama el dragón que pertenece a Hagrid en la saga « Harry Potter » ?
+      propositions:
+      - Crockdur
+      - Aragog
+      - Norbert
+      - Errol
+      réponse: Norbert
+      anecdote: Hagrid, nacido de un humano y un gigante, fue uno de los primeros personajes creados por J. K. Rowling.
+    - id: 16
+      question: ¿Quién es el Ministro de Magia en la saga « Harry Potter » ?
+      propositions:
+      - Albus Dumbledore
+      - Ludovic Verpey
+      - Cornelius Fudge
+      - Lucius Malfoy
+      réponse: Cornelius Fudge
+      anecdote: Cornelius Fudge también se llama Cornelius Lafadaise en la primera edición de « Harry Potter y la piedra filosofal ».
+    - id: 17
+      question: ¿Qué tema enseña el profesor Snape en la saga « Harry Potter » ?
+      propositions:
+      - Defensa
+      - Encantamiento
+      - Metamorfosis
+      - Pociones
+      réponse: Pociones
+      anecdote: Snape, un personaje oscuro, orgulloso, amargado y amargado, tiene una personalidad compleja, ambigua y algo indescifrable.
+    - id: 18
+      question: ¿Cuál es el primer nombre de Hagrid, el medio gigante de la saga « Harry Potter » ?
+      propositions:
+      - Albus
+      - Rubeus
+      - Remus
+      - Severus
+      réponse: Rubeus
+      anecdote: Hagrid es un guardián de juegos y ha estado enseñando Cuidado de criaturas mágicas desde el volumen 3 de la saga.
+    - id: 19
+      question: ¿Quién es la saga del cuidado de criaturas mágicas de « Harry Potter » ?
+      propositions:
+      - Severus Snape
+      - Hagrid
+      - Sra. Sprout
+      - Albus Dumbledore
+      réponse: Hagrid
+      anecdote: Rubeus Hagrid, miembro de la Orden del Fénix desde sus orígenes, es interpretado en el cine por Robbie Coltrane.
+    - id: 20
+      question: ¿Quién le dio a Harry Potter la Nimbus 2000 de alto rendimiento ?
+      propositions:
+      - S. Rogue
+      - A. Dumbledore
+      - D. Malefoy
+      - M. McGonagall
+      réponse: M. McGonagall
+      anecdote: Minerva McGonagall es directora de Hogwarts y también profesora de Transformaciones.
+  - expert:
+    - id: 21
+      question: ¿Cuál es la fórmula de la maldición asesina en la saga « Harry Potter » ?
+      propositions:
+      - Post Mortem
+      - Machina Fino
+      - Mortibus Rem
+      - Avada Kedavra
+      réponse: Avada Kedavra
+      anecdote: Avada Kedavra provoca la muerte instantánea, en un destello de luz verde y un ruido similar a una ráfaga de viento.
+    - id: 22
+      question: ¿Qué nombres llevan los gemelos Weasley en « Harry Potter » ?
+      propositions:
+      - Fred y George
+      - Bill y George
+      - Charlie y Bill
+      - Lou y Cédric
+      réponse: Fred y George
+      anecdote: La ambición de las gemelas siempre ha sido abrir una tienda de bromas y trucos para vender algunos de sus inventos.
+    - id: 23
+      question: En la saga de « Harry Potter », ¿quién es el príncipe mestizo ?
+      propositions:
+      - Severus Snape
+      - Voldemort
+      - Dumbledore
+      - Draco Malfoy
+      réponse: Severus Snape
+      anecdote: El papel de Severus Snape en la trama es difícil de interpretar para el lector, que a menudo se basa en pistas falsas.
+    - id: 24
+      question: ¿A quién le debe Harry Potter la cicatriz de una maldición mortal ?
+      propositions:
+      - James Potter
+      - Voldemort
+      - Ron
+      - Profesor Lupin
+      réponse: Voldemort
+      anecdote: Harry Potter usa anteojos redondos con montura negra y una fina cicatriz de rayo en la frente.
+    - id: 25
+      question: ¿Qué bebidas se sirven principalmente a las « Tres Escobas » en « Harry Potter » ?
+      propositions:
+      - Leche de espinacas
+      - El vinausucre
+      - Cerveza de mantequilla
+      - Sodalament
+      réponse: Cerveza de mantequilla
+      anecdote: La cerveza de mantequilla, que se sirve fría en Les Trois Broomsticks, es la bebida más famosa del mundo mágico.
+    - id: 26
+      question: ¿Cuál es el nombre de la madre de Draco Malfoy en « Harry Potter » ?
+      propositions:
+      - Lily
+      - Bellatrix
+      - Narcissa
+      - Dolores
+      réponse: Narcissa
+      anecdote: Los Malfoy y los Black están relacionados por el matrimonio entre Narcissa y Lucius, donde el joven Draco es el único heredero.
+    - id: 27
+      question: En Hogwarts, ¿en qué piso está ubicada la Sala On Demand ?
+      propositions:
+      - Vigésimo piso
+      - Segundo piso
+      - Séptimo piso
+      - Undécimo piso
+      réponse: Séptimo piso
+      anecdote: Una gran cantidad de pasillos ocultos, escaleras y retratos de pinturas en movimiento hacen que el establecimiento sea bastante misterioso.
+    - id: 28
+      question: ¿Cuál es el primer regalo de Navidad que Hagrid le ofrece a Harry Potter ?
+      propositions:
+      - Llave
+      - Flauta
+      - Búho
+      - Baguette
+      réponse: Flauta
+      anecdote: Hagrid, miembro de la Orden del Fénix, fue criado en Hogwarts en la Casa Gryffindor, donde llegó en 1940.
+    - id: 29
+      question: ¿Cuál es el signo zodiacal del joven Harry Potter, nacido en 1980 ?
+      propositions:
+      - León
+      - Libra
+      - Tauro
+      - Virgo
+      réponse: León
+      anecdote: Harry James Potter nació el 31 de julio de 1980 y, por tanto, tiene el mismo cumpleaños que J. K. Rowling.
+    - id: 30
+      question: ¿En qué se transforma Peter Pettigrew en « Harry Potter » ?
+      propositions:
+      - En rata
+      - En serpiente
+      - En pescado
+      - En el chat
+      réponse: En rata
+      anecdote: Peter Pettigrew es un mago nacido en 1960, responsable de la muerte de Lily y James Potter.
+  it:
+  - débutant:
+    - id: 1
+      question: Che posizione occupa Harry Potter nella sua squadra di Quidditch ?
+      propositions:
+      - Chaser
+      - Launcher
+      - Batterista
+      - Cercatore
+      réponse: Cercatore
+      anecdote: Ogni squadra di Quidditch ha sette giocatori in sella a scope volanti.
+    - id: 2
+      question: In quale scuola di stregoneria Harry Potter ha seguito i suoi insegnamenti ?
+      propositions:
+      - Cambridge
+      - West Point
+      - Oxford
+      - Hogwarts
+      réponse: Hogwarts
+      anecdote: Il regista insegna ai suoi studenti il valore del coraggio, dell'amicizia, della giustizia e della verità attraverso il suo atteggiamento e i suoi discorsi.
+    - id: 3
+      question: Dove vive la famiglia Dursley nella saga di « Harry Potter » ?
+      propositions:
+      - 4 Privet Drive
+      - 4 Privet Square
+      - 4 Privet Road
+      - 4 Privet Avenue
+      réponse: 4 Privet Drive
+      anecdote: Il cugino di Harry Potter, Dursley, è un ragazzo ribelle, violento e arrabbiato.
+    - id: 4
+      question: Chi è succeduto ad Armando Dippet come capo di Hogwarts in « Harry Potter » ?
+      propositions:
+      - Lord Voldemort
+      - Albus Silente
+      - Severus Snape
+      - Ron Weasley
+      réponse: Albus Silente
+      anecdote: Albus Silente, promosso nuovo preside, entrò a Hogwarts nel 1892, nella casa dei Grifondoro.
+    - id: 5
+      question: Qual è il cognome di Hermione nella saga di « Harry Potter » ?
+      propositions:
+      - Grindelwald
+      - Granger
+      - Greengrass
+      - Gaunt
+      réponse: Granger
+      anecdote: Hermione è la migliore amica di Harry Potter e Ron Weasley e risiede, durante i suoi anni scolastici, a Hogwarts, a casa dei Grifondoro.
+    - id: 6
+      question: Nella saga di « Harry Potter », un Babbano è qualcuno nato in una famiglia...
+      propositions:
+      - Senza figli
+      - Senza magia
+      - Senza segreti
+      - Senza soldi
+      réponse: Senza magia
+      anecdote: Negli esseri umani, i poteri magici vengono ereditati, trasmessi da alleli dominanti o recessivi.
+    - id: 7
+      question: Qual è il nome del migliore amico del giovane Harry Potter ?
+      propositions:
+      - Sirius
+      - Draco
+      - Hagrid
+      - Ron
+      réponse: Ron
+      anecdote: Ron, che ha incontrato Harry a King's Cross, fa parte della famiglia Weasley, una famiglia purosangue, che risiede nella Tana.
+    - id: 8
+      question: Quale attrice interpreta Hermione Granger nella saga di « Harry Potter » ?
+      propositions:
+      - Emma Watson
+      - Maggie Smith
+      - Danielle Taylor
+      - Zoë Wanamaker
+      réponse: Emma Watson
+      anecdote: Emma Watson è l'attrice di maggior incasso del decennio, grazie in gran parte alla saga di « Harry Potter ».
+    - id: 9
+      question: In « Harry Potter », quale titolo ha deciso di indossare Voldemort ?
+      propositions:
+      - Barone
+      - Duke
+      - Conte
+      - Signore
+      réponse: Signore
+      anecdote: Lord Voldemort è anche indicato come The Dark Lord o The Must-Not-Speak-The-Name.
+    - id: 10
+      question: Chi sta a guardia di Azkaban, la prigione dei maghi della saga di « Harry Potter » ?
+      propositions:
+      - Il Cerbero
+      - Gli spaventapasseri
+      - Ghouls
+      - I Dissennatori
+      réponse: I Dissennatori
+      anecdote: I Dissennatori sono considerati alcune delle creature più odiose di tutto ciò che esistono.
+  - confirmé:
+    - id: 11
+      question: Che forma assume lo spaventapasseri di Ron nella saga di « Harry Potter » ?
+      propositions:
+      - Un drago
+      - Un lupo
+      - Un ragno
+      - Uno scorpione
+      réponse: Un ragno
+      anecdote: Diciannove anni dopo la caduta di Voldemort, Ron e Hermione hanno due figli: Rose e suo fratello minore Hugo.
+    - id: 12
+      question: Quali sono i nomi dei genitori del giovane Harry Potter ?
+      propositions:
+      - Hermione e Ron
+      - Olivia e Tom
+      - James e Lily
+      - Laurena e Victor
+      réponse: James e Lily
+      anecdote: La famiglia Potter è anche un discendente di Ignotus Peverell, il proprietario originale dell'ambito Mantello dell'Invisibilità.
+    - id: 13
+      question: Quale attore interpreta Draco Malfoy in « Harry Potter » ?
+      propositions:
+      - Rupert Grint
+      - Tom Felton
+      - Robbie Coltrane
+      - Jeff Rawle
+      réponse: Tom Felton
+      anecdote: Tom Felton ha iniziato una carriera musicale all'inizio del 2007 sotto lo pseudonimo di Feltbeats, guadagnando 3 milioni di fan su Instagram.
+    - id: 14
+      question: Che marca di scopa da corsa usa Harry Potter ?
+      propositions:
+      - Stella cadente
+      - Brossdur 5
+      - Nimbus 2000
+      - Comet 260
+      réponse: Nimbus 2000
+      anecdote: Nell'universo di « Harry Potter », le scope vengono utilizzate per il trasporto di maghi e per il Quidditch.
+    - id: 15
+      question: Qual è il nome del drago appartenente a Hagrid nella saga di « Harry Potter » ?
+      propositions:
+      - Errol
+      - Norbert
+      - Crockdur
+      - Aragog
+      réponse: Norbert
+      anecdote: Hagrid, nato da un umano e un gigante, è stato uno dei primi personaggi creati da J. K. Rowling.
+    - id: 16
+      question: Chi è il ministro della Magia nella saga di « Harry Potter » ?
+      propositions:
+      - Lucius Malfoy
+      - Ludovic Verpey
+      - Albus Silente
+      - Cornelius Fudge
+      réponse: Cornelius Fudge
+      anecdote: Cornelius Fudge è anche chiamato Cornelius Lafadaise nella prima edizione di « Harry Potter e la pietra filosofale ».
+    - id: 17
+      question: Quale materia insegna il professor Snape nella saga di « Harry Potter » ?
+      propositions:
+      - Difesa
+      - Pozioni
+      - Incantesimo
+      - Metamorfosi
+      réponse: Pozioni
+      anecdote: Un personaggio oscuro, orgoglioso, amareggiato e amareggiato, Snape ha una personalità complessa, ambigua e in qualche modo indecifrabile.
+    - id: 18
+      question: Qual è il primo nome di Hagrid, il mezzo gigante della saga di « Harry Potter » ?
+      propositions:
+      - Remus
+      - Severus
+      - Rubeus
+      - Albus
+      réponse: Rubeus
+      anecdote: Hagrid è un guardiacaccia e insegna Cura delle creature magiche dal volume 3 della saga.
+    - id: 19
+      question: Chi è la saga di « Harry Potter » della cura delle creature magiche ?
+      propositions:
+      - Albus Silente
+      - Hagrid
+      - Signora Sprout
+      - Severus Snape
+      réponse: Hagrid
+      anecdote: Rubeus Hagrid, membro dell'Ordine della Fenice sin dalle sue origini, è interpretato al cinema da Robbie Coltrane.
+    - id: 20
+      question: Chi ha dato a Harry Potter il Nimbus 2000 ad alte prestazioni ?
+      propositions:
+      - D. Malefoy
+      - M. McGonagall
+      - S. Rogue
+      - A. Dumbledore
+      réponse: M. McGonagall
+      anecdote: Minerva McGonagall è a capo di Hogwarts e anche un'insegnante di Trasfigurazione.
+  - expert:
+    - id: 21
+      question: Qual è la formula per la maledizione mortale nella saga di « Harry Potter » ?
+      propositions:
+      - Avada Kedavra
+      - Machina Fino
+      - Post Mortem
+      - Mortibus Rem
+      réponse: Avada Kedavra
+      anecdote: Avada Kedavra provoca la morte istantanea, in un lampo di luce verde e un rumore simile a una folata di vento.
+    - id: 22
+      question: Quali nomi indossano i gemelli Weasley in « Harry Potter » ?
+      propositions:
+      - Fred e George
+      - Lou e Cédric
+      - Bill e George
+      - Charlie e Bill
+      réponse: Fred e George
+      anecdote: L'ambizione dei gemelli è sempre stata quella di aprire un negozio di scherzi e trucchi per vendere alcune delle loro invenzioni.
+    - id: 23
+      question: Nella saga di « Harry Potter », chi è il principe mezzosangue ?
+      propositions:
+      - Voldemort
+      - Draco Malfoy
+      - Severus Snape
+      - Silente
+      réponse: Severus Snape
+      anecdote: Il ruolo di Severus Snape nella trama è difficile da interpretare per il lettore che è spesso attratto da false piste.
+    - id: 24
+      question: A chi Harry Potter deve la sua cicatrice da una maledizione della morte ?
+      propositions:
+      - Voldemort
+      - Ron
+      - James Potter
+      - Professor Lupin
+      réponse: Voldemort
+      anecdote: Harry Potter indossa occhiali rotondi con montatura nera e una sottile cicatrice di un fulmine sulla fronte.
+    - id: 25
+      question: Quale bevanda viene servita principalmente alle « Tre scope » in « Harry Potter » ?
+      propositions:
+      - Spinaci al latte
+      - Sodalament
+      - Il vinausucre
+      - Burrobirra
+      réponse: Burrobirra
+      anecdote: La Burrobirra, servita fresca da Les Trois Broomsticks, è la bevanda più famosa del mondo magico.
+    - id: 26
+      question: Qual è il nome della madre di Draco Malfoy in « Harry Potter » ?
+      propositions:
+      - Dolores
+      - Bellatrix
+      - Lily
+      - Narcissa
+      réponse: Narcissa
+      anecdote: I Malfoy e i Neri sono legati dal matrimonio tra Narcissa e Lucius, dove il giovane Draco è l'unico erede.
+    - id: 27
+      question: A Hogwarts, a che piano si trova la sala on demand ?
+      propositions:
+      - Ventesimo piano
+      - Undicesimo piano
+      - Secondo piano
+      - Settimo piano
+      réponse: Settimo piano
+      anecdote: Un gran numero di passaggi nascosti, scale e ritratti di pittura in movimento rendono l'edificio piuttosto misterioso.
+    - id: 28
+      question: Qual è il primo regalo di Natale che Hagrid offre a Harry Potter ?
+      propositions:
+      - Chiave
+      - Flauto
+      - Gufo
+      - Baguette
+      réponse: Flauto
+      anecdote: Hagrid, membro dell'Ordine della Fenice, fu cresciuto a Hogwarts nella Casa dei Grifondoro, dove arrivò nel 1940.
+    - id: 29
+      question: Qual è il segno zodiacale del giovane Harry Potter, nato nel 1980 ?
+      propositions:
+      - Leone
+      - Toro
+      - Bilancia
+      - Vergine
+      réponse: Leone
+      anecdote: Harry James Potter è nato il 31 luglio 1980 e quindi ha lo stesso compleanno di J. K. Rowling.
+    - id: 30
+      question: In che cosa si trasforma Peter Minus in « Harry Potter » ?
+      propositions:
+      - In chat
+      - Nel ratto
+      - Nel pesce
+      - In serpente
+      réponse: Nel ratto
+      anecdote: Peter Pettigrew è un mago nato nel 1960, responsabile della morte di Lily e James Potter.
+  nl:
+  - débutant:
+    - id: 1
+      question: Welke positie heeft Harry Potter in zijn Zwerkbalteam ?
+      propositions:
+      - Jager
+      - Drummer
+      - Zoeker
+      - Launcher
+      réponse: Zoeker
+      anecdote: Elk Quidditch-team heeft zeven spelers die op vliegende bezems rijden.
+    - id: 2
+      question: Op welke hekserijschool volgde Harry Potter zijn leringen ?
+      propositions:
+      - Westpunt
+      - Zweinstein
+      - Cambridge
+      - Oxford
+      réponse: Zweinstein
+      anecdote: De directeur leert zijn studenten de waarde van moed, vriendschap, gerechtigheid en waarheid door zijn houding en zijn toespraken.
+    - id: 3
+      question: Waar woont de familie Duffeling in het verhaal van « Harry Potter » ?
+      propositions:
+      - 4 Privet Road
+      - 4 Privet Square
+      - 4 Privet Avenue
+      - 4 Privet Drive
+      réponse: 4 Privet Drive
+      anecdote: Harry Potter's neef Duffeling is een weerbarstige, gewelddadige en boze jongen.
+    - id: 4
+      question: Wie volgde Armando Dippet op als Hoofd van Zweinstein in « Harry Potter » ?
+      propositions:
+      - Heer Voldemort
+      - Albus Perkamentus
+      - Ron Wemel
+      - Severus Sneep
+      réponse: Albus Perkamentus
+      anecdote: Albus Perkamentus, gepromoveerd tot nieuwe rector, ging in 1892 naar Zweinstein, in het Griffoendorhuis.
+    - id: 5
+      question: Wat is de achternaam van Hermelien in de « Harry Potter » serie ?
+      propositions:
+      - Griffel
+      - Grindelwald
+      - Gaunt
+      - Greengrass
+      réponse: Griffel
+      anecdote: Hermelien is de beste vriend van Harry Potter en Ron Wemel, en verblijft tijdens haar schooljaren op Zweinstein, in het Griffoendor huis.
+    - id: 6
+      question: In de saga van « Harry Potter » is een Dreuzel iemand die in een gezin wordt geboren...
+      propositions:
+      - Zonder kinderen
+      - Zonder geheimen
+      - Zonder geld
+      - Zonder magie
+      réponse: Zonder magie
+      anecdote: Bij mensen worden magische krachten geërfd, overgedragen door dominante of recessieve allelen.
+    - id: 7
+      question: Wat is de voornaam van de beste vriend van de jonge Harry Potter ?
+      propositions:
+      - Sirius
+      - Ron
+      - Draco
+      - Hagrid
+      réponse: Ron
+      anecdote: Ron, die Harry ontmoette bij King's Cross, maakt deel uit van de Weasley-familie, een raszuivere familie, die in The Burrow woont.
+    - id: 8
+      question: Welke actrice speelt Hermione Granger in de saga van « Harry Potter » ?
+      propositions:
+      - Zoë Wanamaker
+      - Maggie Smith
+      - Danielle Taylor
+      - Emma Watson
+      réponse: Emma Watson
+      anecdote: Emma Watson is de meest verdienende actrice van het decennium, grotendeels dankzij de « Harry Potter » saga.
+    - id: 9
+      question: Welke titel besloot Voldemort in « Harry Potter » te dragen ?
+      propositions:
+      - Tellen
+      - Hertog
+      - Baron
+      - Heer
+      réponse: Heer
+      anecdote: Lord Voldemort wordt ook wel The Dark Lord of The Must-Not-Speak-The-Name genoemd.
+    - id: 10
+      question: Wie bewaakt Azkaban, de tovenaarsgevangenis in de « Harry Potter » saga ?
+      propositions:
+      - De vogelverschrikkers
+      - De Dementors
+      - De Cerberus
+      - Geesten
+      réponse: De Dementors
+      anecdote: Dementors worden beschouwd als enkele van de meest walgelijke wezens die er bestaan.
+  - confirmé:
+    - id: 11
+      question: Welke vorm neemt de vogelverschrikker van Ron aan in de « Harry Potter » saga ?
+      propositions:
+      - Een draak
+      - Een schorpioen
+      - Een wolf
+      - Een spin
+      réponse: Een spin
+      anecdote: Negentien jaar na de val van Voldemort hebben Ron en Hermelien twee kinderen: Rose en haar jongere broer Hugo.
+    - id: 12
+      question: Wat zijn de namen van de ouders van de jonge Harry Potter ?
+      propositions:
+      - Laurena en Victor
+      - Olivia en Tom
+      - James en Lily
+      - Hermione en Ron
+      réponse: James en Lily
+      anecdote: De Potter-familie is ook een afstammeling van Ignotus Peverell, de oorspronkelijke eigenaar van de felbegeerde Onzichtbaarheidsmantel.
+    - id: 13
+      question: Welke acteur speelt Draco Malfidus in « Harry Potter » ?
+      propositions:
+      - Jeff Rawle
+      - Rupert Grint
+      - Tom Felton
+      - Robbie Coltrane
+      réponse: Tom Felton
+      anecdote: Tom Felton begon begin 2007 een muzikale carrière onder het pseudoniem Feltbeats en kreeg 3 miljoen fans op Instagram.
+    - id: 14
+      question: Welk merk racebezem gebruikt Harry Potter ?
+      propositions:
+      - Brossdur 5
+      - Nimbus 2000
+      - Komeet 260
+      - Vallende ster
+      réponse: Nimbus 2000
+      anecdote: In het « Harry Potter » universum worden bezems gebruikt voor het vervoeren van tovenaars en voor Zwerkbal.
+    - id: 15
+      question: Hoe heet de draak die aan Hagrid toebehoort in de « Harry Potter » saga ?
+      propositions:
+      - Aragog
+      - Crockdur
+      - Errol
+      - Norbert
+      réponse: Norbert
+      anecdote: Hagrid, geboren uit een mens en een reus, was een van de eerste personages gemaakt door J. K. Rowling.
+    - id: 16
+      question: Wie is de Minister van Toverkunst in de « Harry Potter » saga ?
+      propositions:
+      - Lucius Malfidus
+      - Cornelius Fudge
+      - Albus Perkamentus
+      - Ludovic Verpey
+      réponse: Cornelius Fudge
+      anecdote: Cornelius Droebel wordt ook Cornelius Lafadaise genoemd in de eerste editie van « Harry Potter en de Steen der Wijzen ».
+    - id: 17
+      question: Welk onderwerp geeft professor Sneep les in de « Harry Potter » saga ?
+      propositions:
+      - Betovering
+      - Verdediging
+      - Metamorfose
+      - Drankjes
+      réponse: Drankjes
+      anecdote: Een duister, trots, verbitterd en bitter karakter, Sneep heeft een complexe, dubbelzinnige en enigszins onleesbare persoonlijkheid.
+    - id: 18
+      question: Wat is de voornaam van Hagrid, de halve reus van de « Harry Potter » saga ?
+      propositions:
+      - Remus
+      - Severus
+      - Rubeus
+      - Albus
+      réponse: Rubeus
+      anecdote: Hagrid is een jachtopziener en geeft les in Care of Magical Creatures sinds deel 3 van de saga.
+    - id: 19
+      question: Wie is de « Harry Potter » Saga of the Care of Magical Creatures ?
+      propositions:
+      - Albus Perkamentus
+      - Mevrouw Sprout
+      - Severus Sneep
+      - Hagrid
+      réponse: Hagrid
+      anecdote: Rubeus Hagrid, sinds zijn ontstaan \u200b\u200blid van de Orde van de Feniks, wordt in de bioscoop gespeeld door Robbie Coltrane.
+    - id: 20
+      question: Wie heeft Harry Potter de goed presterende Nimbus 2000 gegeven ?
+      propositions:
+      - S. Rogue
+      - D. Malefoy
+      - M. McGonagall
+      - A. Dumbledore
+      réponse: M. McGonagall
+      anecdote: Minerva Anderling is Hoofd van Zweinstein en tevens leraar Transfiguratie.
+  - expert:
+    - id: 21
+      question: Wat is de formule voor de moordvloek in de saga van « Harry Potter » ?
+      propositions:
+      - Mortibus Rem
+      - Machina Fino
+      - Post Mortem
+      - Avada Kedavra
+      réponse: Avada Kedavra
+      anecdote: Avada Kedavra veroorzaakt onmiddellijke dood, in een flits van groen licht en een geluid dat lijkt op een windvlaag.
+    - id: 22
+      question: Welke namen dragen de Weasley-tweeling in « Harry Potter » ?
+      propositions:
+      - Lou en Cédric
+      - Fred en George
+      - Charlie en Bill
+      - Bill en George
+      réponse: Fred en George
+      anecdote: De ambitie van de tweeling is altijd geweest om een grap en trucwinkel te openen om een aantal van hun uitvindingen te verkopen.
+    - id: 23
+      question: Wie is de halfbloedprins in de saga van « Harry Potter » ?
+      propositions:
+      - Draco Malfidus
+      - Voldemort
+      - Perkamentus
+      - Severus Sneep
+      réponse: Severus Sneep
+      anecdote: De rol van Severus Sneep in de plot is moeilijk voor de lezer die vaak wordt aangetrokken door valse aanwijzingen.
+    - id: 24
+      question: Aan wie heeft Harry Potter zijn litteken van een Death Curse te danken ?
+      propositions:
+      - Ron
+      - James Potter
+      - Professor Lupin
+      - Voldemort
+      réponse: Voldemort
+      anecdote: Harry Potter draagt een ronde bril met een zwart montuur en een dun litteken van de bliksemschicht op zijn voorhoofd.
+    - id: 25
+      question: Welke drank wordt er voornamelijk geserveerd aan de « Three Brooms » in « Harry Potter » ?
+      propositions:
+      - Boterbier
+      - Sodalament
+      - Melk spinazie
+      - De vinausucre
+      réponse: Boterbier
+      anecdote: Boterbier, gekoeld geserveerd bij Les Trois Broomsticks, is het beroemdste drankje in de tovenaarswereld.
+    - id: 26
+      question: Hoe heet de moeder van Draco Malfidus in « Harry Potter » ?
+      propositions:
+      - Dolores
+      - Lelie
+      - Bellatrix
+      - Narcissa
+      réponse: Narcissa
+      anecdote: De Malfidussen en de Zwarten zijn verwant door een huwelijk tussen Narcissa en Lucius, waar de jonge Draco de enige erfgenaam is.
+    - id: 27
+      question: Op Zweinstein, op welke verdieping bevindt de On Demand Room zich ?
+      propositions:
+      - Elfde verdieping
+      - Zevende verdieping
+      - Twentieth Floor
+      - Tweede verdieping
+      réponse: Zevende verdieping
+      anecdote: Een groot aantal verborgen gangen, trappen en bewegende schilderijportretten maken het etablissement behoorlijk mysterieus.
+    - id: 28
+      question: Wat is het eerste kerstcadeau dat Hagrid aanbiedt aan Harry Potter ?
+      propositions:
+      - Baguette
+      - Fluit
+      - Sleutel
+      - Owl
+      réponse: Fluit
+      anecdote: Hagrid, een lid van de Orde van de Feniks, is opgegroeid op Hogwarts in het Gryffindor House, waar hij in 1940 aankwam.
+    - id: 29
+      question: Wat is het sterrenbeeld van de jonge Harry Potter, geboren in 1980 ?
+      propositions:
+      - Stier
+      - Maagd
+      - Leeuw
+      - Weegschaal
+      réponse: Leeuw
+      anecdote: Harry James Potter is geboren op 31 juli 1980 en heeft dus dezelfde verjaardag als J. K. Rowling.
+    - id: 30
+      question: Waar verandert Peter Pippeling in in « Harry Potter » ?
+      propositions:
+      - Bij rat
+      - In de chat
+      - In slang
+      - In vis
+      réponse: Bij rat
+      anecdote: Peter Pettigrew is een tovenaar geboren in 1960, verantwoordelijk voor de dood van Lily en James Potter.

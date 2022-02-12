@@ -1,0 +1,1650 @@
+---
+fournisseur: OpenQuizzDB - Fournisseur de contenu libre (https://www.openquizzdb.org)
+rédacteur: Philippe Bresoux
+thème: Chocolat (Bon pour le moral, moins pour le foie)
+difficulté: 3 / 5
+quizz:
+  fr:
+  - débutant:
+    - id: 1
+      question: À partir de la fève de quel arbre le chocolat est-il produit ?
+      propositions:
+      - Cotonnier
+      - Pacanier
+      - Cacaoyer
+      - Palmier
+      réponse: Cacaoyer
+      anecdote: Les fèves de cacao sont extraites des baies, que l'on ouvre à la récolte et que l'on met à sécher.
+    - id: 2
+      question: Quel beurre est extrait de la pâte de cacao liquide servant à la création du chocolat ?
+      propositions:
+      - Beurre gras
+      - Beurre de cacao
+      - Beurre salé
+      - Saindoux
+      réponse: Beurre de cacao
+      anecdote: Le beurre de cacao est une des graisses les plus stables connues, contenant des antioxydants naturels.
+    - id: 3
+      question: Que fait-on quand on torréfie les fèves de cacao pour la préparation du chocolat ?
+      propositions:
+      - On les tord
+      - On les grille
+      - On les épluche
+      - On les écrase
+      réponse: On les grille
+      anecdote: La torréfaction, c'est-à-dire un chauffage de 140 à 160°C pendant 20 à 30 minutes, permet le développement des arômes du cacao.
+    - id: 4
+      question: Quel chocolat, parfois mélangé avec des épices, contient le moins de sucre ?
+      propositions:
+      - Au lait
+      - Noir
+      - Praliné
+      - Blanc
+      réponse: Noir
+      anecdote: La qualité du chocolat noir dépend des ingrédients utilisés et de son pourcentage en cacao.
+    - id: 5
+      question: En 1825, quel Suisse a créé une désormais célèbre fabrique de chocolat ?
+      propositions:
+      - Tobler
+      - Suchard
+      - Jacobs
+      - Lindt
+      réponse: Suchard
+      anecdote: Philippe Suchard débuta dans la confiserie en 1825 à Neuchâtel et se lança dans le chocolat à Serrières en 1826.
+    - id: 6
+      question: Que provoque la consommation de chocolat chez la plupart des animaux de compagnie ?
+      propositions:
+      - Paralysie
+      - Diabète
+      - Cécité
+      - Mort
+      réponse: Mort
+      anecdote: Le chocolat contient de la théobromine, un produit semblable à la caféine que leur métabolisme ne permet pas d'éliminer.
+    - id: 7
+      question: Quel chocolat, riche en acides gras saturés, est le plus amer ?
+      propositions:
+      - Noir
+      - Au lait
+      - Praliné
+      - Blanc
+      réponse: Noir
+      anecdote: Le chocolat noir, qui contient peu de cholestérol et très peu de sodium, est une bonne source de magnésium.
+    - id: 8
+      question: Qui incarne la chocolatière dans le film adapté du roman « Le chocolat » de Joanne Harris ? 
+      propositions:
+      - Karin Viard
+      - Juliette Binoche
+      - Isabelle Adjani
+      - Judith Godrèche
+      réponse: Juliette Binoche
+      anecdote: En 1959, durant le carême, une jeune femme et sa fille reprennent la vieille pâtisserie pour ouvrir une chocolaterie.
+    - id: 9
+      question: Comment appelle-t-on le fruit du cacaoyer, se présentant sous la forme d'une baie ?
+      propositions:
+      - Cabosse
+      - Caboche
+      - Ciboulot
+      - Carabosse
+      réponse: Cabosse
+      anecdote: Les cabosses se trouvent sur le tronc et les grosses branches, et non pas sur les rameaux jeunes.
+    - id: 10
+      question: Quel chocolat, généralement préféré par les puristes, ne contient pas de lait ?
+      propositions:
+      - Noir
+      - Blanc
+      - Praliné
+      - Au lait
+      réponse: Noir
+      anecdote: Réglementairement, le chocolat noir doit contenir au moins 35 % de cacao, sans limite supérieure pour la concentration de cacao.
+  - confirmé:
+    - id: 11
+      question: De quel peuple le chocolat serait-il originaire, l'associant à leur dieu de la fertilité ?
+      propositions:
+      - Otomis
+      - Toltèques
+      - Incas
+      - Mayas
+      réponse: Mayas
+      anecdote: Les Aztèques associaient le chocolat avec Xochiquetzal (qui a donné son nom au chocolat), la déesse de la fertilité.
+    - id: 12
+      question: Combien trouve-t-on environ de fèves de cacao dans une cabosse ?
+      propositions:
+      - Un millier
+      - Une dizaine
+      - Une quarantaine
+      - Une centaine
+      réponse: Une quarantaine
+      anecdote: La cabosse a une forme allongée et ressemble un peu à un concombre assez rebondi.
+    - id: 13
+      question: Quel est le premier pays producteur de cacao, loin devant le Ghana et l'Indonésie ?
+      propositions:
+      - Cameroun
+      - Mexique
+      - Brésil
+      - Côte d'Ivoire
+      réponse: Côte d'Ivoire
+      anecdote: La production de cacao était en 2006 de quatre millions de tonnes, en hausse constante depuis 2003.
+    - id: 14
+      question: Quel élément différencie le chocolat blanc des autres chocolats ?
+      propositions:
+      - Le sucre
+      - La pâte de cacao
+      - Le beurre
+      - Le lait
+      réponse: La pâte de cacao
+      anecdote: Le chocolat blanc a d'abord été distribué en Amérique en 1948 avec l'introduction des barres de chocolat « blanc alpin » de Nestlé.
+    - id: 15
+      question: Dans quel pays a été fabriquée la première tablette de chocolat ?
+      propositions:
+      - Mexique
+      - Suisse
+      - Angleterre
+      - Brésil
+      réponse: Angleterre
+      anecdote: Les premières plaques de chocolat proposées au public ont été baptisées « Chocolat délicieux à manger ».
+    - id: 16
+      question: Combien peut-on faire de récoltes par an sur un cacaoyer en bonne santé ?
+      propositions:
+      - Six
+      - Deux
+      - Quatre
+      - Huit
+      réponse: Deux
+      anecdote: La maturation des fruits du cacaoyer dure, selon les génotypes, de cinq à sept mois.
+    - id: 17
+      question: Quel pays européen est à ce jour le plus grand consommateur de chocolat ?
+      propositions:
+      - France
+      - Suisse
+      - Belgique
+      - Portugal
+      réponse: Suisse
+      anecdote: Les variantes au lait et fondant ont été créées respectivement par Daniel Peter en 1875 et Rudolf Lindt en 1879.
+    - id: 18
+      question: De quel pays le cacaoyer, domestiqué il y a environ 3 000 ans, est-il originaire ?
+      propositions:
+      - Madagascar
+      - Bolivie
+      - Mexique
+      - Mozambique
+      réponse: Mexique
+      anecdote: Le cacaoyer fut très probablement domestiqué au départ pour la confection d'une boisson fermentée, donc alcoolisée.
+    - id: 19
+      question: Quel chocolat, devant contenir au minimum 20 % de beurre de cacao, est le plus sucré ?
+      propositions:
+      - Noir
+      - Praliné
+      - Blanc
+      - Au lait
+      réponse: Blanc
+      anecdote: Le chocolat blanc a été produit pour la première fois par Nestlé en Suisse dans les années 1930.
+    - id: 20
+      question: Combien de cabosses un cacaoyer peut-il produire en moyenne durant son existence ?
+      propositions:
+      - 20 000
+      - 20
+      - 200
+      - 2 000
+      réponse: 20
+      anecdote: Chaque cabosse, ressemblant à un petit ballon de football américain, peut peser jusqu'à 400 g pour 15 à 20 cm de long.
+  - expert:
+    - id: 21
+      question: Pour les préliminaires de quel événement les Mayas se servent-ils du chocolat ?
+      propositions:
+      - Sacrifice
+      - Décès
+      - Naissance
+      - Mariage
+      réponse: Mariage
+      anecdote: Le cacao purifie aussi les enfants mayas lors de cérémonies ou accompagne le défunt pour son voyage vers l'au-delà.
+    - id: 22
+      question: Quelle civilisation précolombienne a la première cultivé le cacao ?
+      propositions:
+      - Aztèques
+      - Berbères
+      - Africains
+      - Olmèques
+      réponse: Olmèques
+      anecdote: À ce jour, la culture olmèque demeure inconnue jusqu'à la deuxième moitié du XIXe siècle.
+    - id: 23
+      question: Dans quel pays d'Europe a-t-on commencé à consommer du chocolat ?
+      propositions:
+      - Belgique
+      - Espagne
+      - Italie
+      - France
+      réponse: Espagne
+      anecdote: Ce n'est qu'à partir de la conquête des Aztèques par les Espagnols que le chocolat fut importé en Europe.
+    - id: 24
+      question: Combien de fleurs un cacaoyer peut-il produire annuellement ?
+      propositions:
+      - 10 000
+      - 100 000
+      - 100
+      - 1 000
+      réponse: 100 000
+      anecdote: Les fleurs apparaissent toute l'année sur des renflements du bois de l'arbre, appelés « coussinets floraux ».
+    - id: 25
+      question: Quel explorateur a rapporté le cacao en Europe en 1528 ?
+      propositions:
+      - Foucauld
+      - Cortés
+      - Christophe Colomb
+      - Charcot
+      réponse: Cortés
+      anecdote: Hernan Cortés s'est emparé de l'Empire aztèque pour le compte de Charles Quint, roi de Castille et empereur romain germanique.
+    - id: 26
+      question: Quel chocolat noir est issu de cacao d'une seule plantation ?
+      propositions:
+      - Premier choix
+      - Origine
+      - Label rouge
+      - Grand cru
+      réponse: Grand cru
+      anecdote: En France, c'est l'Institut national de l'origine et de la qualité qui classifie la qualité des chocolats.
+    - id: 27
+      question: Quelle substance est obtenue après broyage des fèves du cacaoyer ?
+      propositions:
+      - Tasse
+      - Nasse
+      - Masse
+      - Crasse
+      réponse: Masse
+      anecdote: Les fèves de cacao contiennent environ 50 % de matière grasse appelée beurre de cacao.
+    - id: 28
+      question: Une fois la masse de cacao pressée, quel produit permet de faire du cacao en poudre ?
+      propositions:
+      - Crabe
+      - Crevette
+      - Homard
+      - Tourteau
+      réponse: Tourteau
+      anecdote: Deux procédés de trituration sont possibles : la pression discontinue à froid et la pression continue à chaud.
+    - id: 29
+      question: Laura Esquivel, écrivaine mexicaine contemporaine, a publié un livre intitulé...
+      propositions:
+      - Chocolat blanc
+      - Chocolat amer
+      - Chocolat noir
+      - Chocolat au lait
+      réponse: Chocolat amer
+      anecdote: Laura Esquivel est un auteur qui cherche constamment de nouveaux et originaux chemins dans ses oeuvres.
+    - id: 30
+      question: Dans quel rayon BD peut-on trouver l'album « Fraise et chocolat » ?
+      propositions:
+      - Jeunesse
+      - Humour
+      - Aventure
+      - Érotique
+      réponse: Érotique
+      anecdote: Aurélia Aurita est une auteure de bande dessinée française d'origine chinoise et khmère.
+  en:
+  - débutant:
+    - id: 1
+      question: From which bean is chocolate produced ?
+      propositions:
+      - Cocoa tree
+      - Cotton plant
+      - Palm tree
+      - Pecan tree
+      réponse: Cocoa tree
+      anecdote: Cocoa beans are extracted from the berries, which are opened for harvest and left to dry.
+    - id: 2
+      question: What butter is extracted from the liquid cocoa mass used to create chocolate ?
+      propositions:
+      - Salted butter
+      - Fat butter
+      - Lard
+      - Cocoa butter
+      réponse: Cocoa butter
+      anecdote: Cocoa butter is one of the most stable fats known, containing natural antioxidants.
+    - id: 3
+      question: What do you do when you roast cocoa beans for making chocolate ?
+      propositions:
+      - We grill them
+      - We peel them
+      - We crush them
+      - We twist them
+      réponse: We grill them
+      anecdote: Roasting, that is to say heating from 140 to 160 ° C for 20 to 30 minutes, allows the development of cocoa aromas.
+    - id: 4
+      question: Which chocolate, sometimes mixed with spices, has the least sugar ?
+      propositions:
+      - Milk
+      - White
+      - Praline
+      - Black
+      réponse: Black
+      anecdote: The quality of dark chocolate depends on the ingredients used and its percentage of cocoa.
+    - id: 5
+      question: In 1825, which Swiss created a now famous chocolate factory ?
+      propositions:
+      - Lindt
+      - Jacobs
+      - Tobler
+      - Suchard
+      réponse: Suchard
+      anecdote: Philippe Suchard began in the confectionery industry in 1825 in Neuchâtel and launched into chocolate in Serrières in 1826.
+    - id: 6
+      question: What Causes Chocolate Consumption in Most Pets ?
+      propositions:
+      - Paralysis
+      - Death
+      - Diabetes
+      - Blindness
+      réponse: Death
+      anecdote: Chocolate contains theobromine, a caffeine-like product that their metabolism cannot eliminate.
+    - id: 7
+      question: Which chocolate, rich in saturated fatty acids, is the most bitter ?
+      propositions:
+      - Black
+      - White
+      - Praline
+      - Milk
+      réponse: Black
+      anecdote: Dark chocolate, which contains little cholesterol and very little sodium, is a good source of magnesium.
+    - id: 8
+      question: Who plays the chocolate maker in the film adapted from the novel « Le chocolat » by Joanne Harris ?
+      propositions:
+      - Isabelle Adjani
+      - Juliette Binoche
+      - Judith Godrèche
+      - Karin Viard
+      réponse: Juliette Binoche
+      anecdote: In 1959, during Lent, a young woman and her daughter took over the old pastry shop to open a chocolate factory.
+    - id: 9
+      question: What do you call the fruit of the cocoa tree, in the form of a berry ?
+      propositions:
+      - Carabosse
+      - Ciboulot
+      - Caboche
+      - Cocoa pod
+      réponse: Cocoa pod
+      anecdote: The pods are found on the trunk and large branches, not on young twigs.
+    - id: 10
+      question: Which chocolate, generally preferred by purists, does not contain milk ?
+      propositions:
+      - Milk
+      - Black
+      - Praline
+      - White
+      réponse: Black
+      anecdote: By law, dark chocolate must contain at least 35 % cocoa, with no upper limit for the cocoa concentration.
+  - confirmé:
+    - id: 11
+      question: What people would chocolate come from, associating it with their god of fertility ?
+      propositions:
+      - Mayas
+      - Incas
+      - Otomis
+      - Toltecs
+      réponse: Mayas
+      anecdote: The Aztecs associated chocolate with Xochiquetzal (which gave chocolate its name), the goddess of fertility.
+    - id: 12
+      question: Approximately how many cocoa beans are there in a pod ?
+      propositions:
+      - A thousand
+      - Forty
+      - One hundred
+      - About ten
+      réponse: Forty
+      anecdote: The pod has an elongated shape and looks a bit like a fairly plump cucumber.
+    - id: 13
+      question: Which is the first cocoa producing country, far ahead of Ghana and Indonesia ?
+      propositions:
+      - Ivory Coast
+      - Mexico
+      - Brazil
+      - Cameroon
+      réponse: Ivory Coast
+      anecdote: Cocoa production in 2006 was four million tonnes, rising steadily since 2003.
+    - id: 14
+      question: What is the difference between white chocolate and other chocolates ?
+      propositions:
+      - Cocoa paste
+      - The milk
+      - Sugar
+      - Butter
+      réponse: Cocoa paste
+      anecdote: White chocolate was first distributed in America in 1948 with the introduction of Nestlé Alpine White Chocolate Bars.
+    - id: 15
+      question: In which country was the first chocolate bar made ?
+      propositions:
+      - Mexico
+      - Switzerland
+      - Brazil
+      - England
+      réponse: England
+      anecdote: The first chocolate bars offered to the public were called delicious chocolate to eat.
+    - id: 16
+      question: How many harvests can you make per year on a healthy cocoa tree ?
+      propositions:
+      - Eight
+      - Six
+      - Four
+      - Two
+      réponse: Two
+      anecdote: The ripening of cocoa tree fruits lasts, depending on the genotypes, from five to seven months.
+    - id: 17
+      question: Which European country is the largest consumer of chocolate to date ?
+      propositions:
+      - Portugal
+      - Switzerland
+      - France
+      - Belgium
+      réponse: Switzerland
+      anecdote: The milk and fondant variants were created by Daniel Peter in 1875 and Rudolf Lindt in 1879 respectively.
+    - id: 18
+      question: What country does the cocoa tree, domesticated about 3,000 years ago, come from ?
+      propositions:
+      - Mexico
+      - Mozambique
+      - Bolivia
+      - Madagascar
+      réponse: Mexico
+      anecdote: The cocoa tree was very probably domesticated initially for the preparation of a fermented drink, therefore alcoholic.
+    - id: 19
+      question: Which chocolate, which must contain at least 20% cocoa butter, is the sweetest ?
+      propositions:
+      - Praline
+      - Milk
+      - Black
+      - White
+      réponse: White
+      anecdote: White chocolate was first produced by Nestlé in Switzerland in the 1930s.
+    - id: 20
+      question: How many pods can a cocoa tree produce on average during its lifetime ?
+      propositions:
+      - 20,000
+      - 200
+      - 2,000
+      - 20
+      réponse: 20
+      anecdote: Each pod, resembling a small American football ball, can weigh up to 400g and 15-20cm long.
+  - expert:
+    - id: 21
+      question: For the preliminaries of which event do the Mayans use chocolate ?
+      propositions:
+      - Sacrifice
+      - Birth
+      - Death
+      - Wedding
+      réponse: Wedding
+      anecdote: Cocoa also purifies Mayan children during ceremonies or accompanies the deceased on his journey to the afterlife.
+    - id: 22
+      question: Which pre-Columbian civilization was the first to cultivate cocoa ?
+      propositions:
+      - Africans
+      - Aztecs
+      - Olmecs
+      - Berbers
+      réponse: Olmecs
+      anecdote: To this day, Olmec culture remains unknown until the second half of the 19th century.
+    - id: 23
+      question: In which European country did people start consuming chocolate ?
+      propositions:
+      - Spain
+      - Italy
+      - Belgium
+      - France
+      réponse: Spain
+      anecdote: It was not until the conquest of the Aztecs by the Spaniards that chocolate was imported into Europe.
+    - id: 24
+      question: How many flowers can a cocoa tree produce annually ?
+      propositions:
+      - 100
+      - 10,000
+      - 100,000
+      - 1,000
+      réponse: 100,000
+      anecdote: Flowers appear year round on swellings in the wood of the tree, called flower pads.
+    - id: 25
+      question: Which explorer brought cocoa to Europe in 1528 ?
+      propositions:
+      - Cortés
+      - Charcot
+      - Foucauld
+      - Christopher Columbus
+      réponse: Cortés
+      anecdote: Hernan Cortés seized the Aztec Empire on behalf of Charles V, King of Castile and Holy Roman Emperor.
+    - id: 26
+      question: Which dark chocolate is made from cocoa from a single plantation ?
+      propositions:
+      - First choice
+      - Grand cru
+      - Origin
+      - Red Label
+      réponse: Grand cru
+      anecdote: In France, it is the National Institute of Origin and Quality which classifies the quality of chocolates.
+    - id: 27
+      question: What substance is obtained after grinding the beans of the cocoa tree ?
+      propositions:
+      - Mass
+      - Trap
+      - Grime
+      - Mug
+      réponse: Mass
+      anecdote: Cocoa beans contain around 50% fat called cocoa butter.
+    - id: 28
+      question: Once the cocoa mass is pressed, which product is used to make cocoa powder ?
+      propositions:
+      - Crab
+      - Cake
+      - Shrimp
+      - Lobster
+      réponse: Cake
+      anecdote: Two trituration processes are possible : cold batch pressure and hot continuous pressure.
+    - id: 29
+      question: Laura Esquivel, contemporary Mexican writer, has published a book entitled...
+      propositions:
+      - Milk chocolate
+      - White chocolate
+      - Bitter chocolate
+      - Dark chocolate
+      réponse: Bitter chocolate
+      anecdote: Laura Esquivel is an author who constantly seeks new and original paths in his works.
+    - id: 30
+      question: In which comic book section can you find the « Strawberry and Chocolate » album ?
+      propositions:
+      - Adventure
+      - Youth
+      - Erotic
+      - Humor
+      réponse: Erotic
+      anecdote: Aurélia Aurita is a French comic book author of Chinese and Khmer origin.
+  de:
+  - débutant:
+    - id: 1
+      question: Aus welcher Bohne wird Schokolade hergestellt ?
+      propositions:
+      - Baumwollpflanze
+      - Kakaobaum
+      - Palme
+      - Pekannussbaum
+      réponse: Kakaobaum
+      anecdote: Aus den Beeren werden Kakaobohnen gewonnen, die zur Ernte geöffnet und trocknen gelassen werden.
+    - id: 2
+      question: Welche Butter wird aus der flüssigen Kakaomasse gewonnen, aus der Schokolade hergestellt wird ?
+      propositions:
+      - Schmalz
+      - Gesalzene Butter
+      - Kakaobutter
+      - Fette Butter
+      réponse: Kakaobutter
+      anecdote: Kakaobutter ist eines der stabilsten bekannten Fette und enthält natürliche Antioxidantien.
+    - id: 3
+      question: Was machst du, wenn du Kakaobohnen für die Herstellung von Schokolade röstest ?
+      propositions:
+      - Wir schälen sie
+      - Wir zerquetschen sie
+      - Wir drehen sie
+      - Wir grillen sie
+      réponse: Wir grillen sie
+      anecdote: Durch Rösten, dh 20 bis 30 Minuten Erhitzen von 140 auf 160 ° C, können Kakaoaromen entstehen.
+    - id: 4
+      question: Welche Schokolade, manchmal mit Gewürzen gemischt, hat den geringsten Zucker ?
+      propositions:
+      - Milch
+      - Praline
+      - Weiß
+      - Schwarz
+      réponse: Schwarz
+      anecdote: Die Qualität von dunkler Schokolade hängt von den verwendeten Zutaten und ihrem Kakaoprozentsatz ab.
+    - id: 5
+      question: Welcher Schweizer gründete 1825 eine berühmte Schokoladenfabrik ?
+      propositions:
+      - Suchard
+      - Lindt
+      - Tobler
+      - Jacobs
+      réponse: Suchard
+      anecdote: Philippe Suchard begann 1825 in Neuenburg in der Süßwarenindustrie und begann 1826 in Serrières mit Schokolade.
+    - id: 6
+      question: Was verursacht den Schokoladenkonsum bei den meisten Haustieren ?
+      propositions:
+      - Diabetes
+      - Tod
+      - Blindheit
+      - Lähmung
+      réponse: Tod
+      anecdote: Schokolade enthält Theobromin, ein koffeinähnliches Produkt, das der Stoffwechsel nicht eliminieren kann.
+    - id: 7
+      question: Welche Schokolade, reich an gesättigten Fettsäuren, ist die bitterste ?
+      propositions:
+      - Weiß
+      - Praline
+      - Schwarz
+      - Milch
+      réponse: Schwarz
+      anecdote: Dunkle Schokolade, die wenig Cholesterin und sehr wenig Natrium enthält, ist eine gute Magnesiumquelle.
+    - id: 8
+      question: Wer spielt den Schokoladenhersteller in dem Film, der aus dem Roman « Le chocolat » von Joanne Harris adaptiert wurde ?
+      propositions:
+      - Karin Viard
+      - Juliette Binoche
+      - Judith Godrèche
+      - Isabelle Adjani
+      réponse: Juliette Binoche
+      anecdote: Während der Fastenzeit 1959 übernahmen eine junge Frau und ihre Tochter die alte Konditorei, um eine Schokoladenfabrik zu eröffnen.
+    - id: 9
+      question: Wie nennt man die Frucht des Kakaobaums in Form einer Beere ?
+      propositions:
+      - Caboche
+      - Kakaofrucht
+      - Carabosse
+      - Ciboulot
+      réponse: Kakaofrucht
+      anecdote: Die Schoten befinden sich am Stamm und an großen Ästen, nicht an jungen Zweigen.
+    - id: 10
+      question: Welche Schokolade, die von Puristen allgemein bevorzugt wird, enthält keine Milch ?
+      propositions:
+      - Schwarz
+      - Milch
+      - Praline
+      - Weiß
+      réponse: Schwarz
+      anecdote: Laut Gesetz muss dunkle Schokolade mindestens 35 % Kakao enthalten, ohne Obergrenze für die Kakaokonzentration.
+  - confirmé:
+    - id: 11
+      question: Von welchen Menschen würde Schokolade kommen und sie mit ihrem Fruchtbarkeitsgott in Verbindung bringen ?
+      propositions:
+      - Inkas
+      - Tolteken
+      - Mayas
+      - Otomis
+      réponse: Mayas
+      anecdote: Die Azteken assoziierten Schokolade mit Xochiquetzal (das der Schokolade ihren Namen gab), der Göttin der Fruchtbarkeit.
+    - id: 12
+      question: Wie viele Kakaobohnen enthält ungefähr eine Schote ?
+      propositions:
+      - Über zehn
+      - Tausend
+      - Einhundert
+      - Vierzig
+      réponse: Vierzig
+      anecdote: Die Schote hat eine längliche Form und sieht ein bisschen aus wie eine ziemlich pralle Gurke.
+    - id: 13
+      question: Welches ist das erste Kakaoproduktionsland weit vor Ghana und Indonesien ?
+      propositions:
+      - Mexiko
+      - Kamerun
+      - Elfenbeinküste
+      - Brasilien
+      réponse: Elfenbeinküste
+      anecdote: Die Kakaoproduktion betrug 2006 vier Millionen Tonnen und stieg seit 2003 stetig an.
+    - id: 14
+      question: Was ist der Unterschied zwischen weißer Schokolade und anderen Pralinen ?
+      propositions:
+      - Zucker
+      - Butter
+      - Kakaopaste
+      - Die Milch
+      réponse: Kakaopaste
+      anecdote: Weiße Schokolade wurde erstmals 1948 in Amerika mit der Einführung von Nestlé Alpine White Chocolate Bars vertrieben.
+    - id: 15
+      question: In welchem Land wurde die erste Tafel Schokolade hergestellt ?
+      propositions:
+      - Schweiz
+      - Mexiko
+      - England
+      - Brasilien
+      réponse: England
+      anecdote: Die ersten Schokoriegel, die der Öffentlichkeit angeboten wurden, wurden als köstliche Schokolade bezeichnet.
+    - id: 16
+      question: Wie viele Ernten können Sie pro Jahr an einem gesunden Kakaobaum erzielen ?
+      propositions:
+      - Zwei
+      - Sechs
+      - Acht
+      - Vier
+      réponse: Zwei
+      anecdote: Die Reifung der Kakaobäume dauert je nach Genotyp fünf bis sieben Monate.
+    - id: 17
+      question: Welches europäische Land ist der bislang größte Schokoladenkonsument ?
+      propositions:
+      - Portugal
+      - Belgien
+      - Schweiz
+      - Frankreich
+      réponse: Schweiz
+      anecdote: Die Milch- und Fondantvarianten wurden 1875 von Daniel Peter und 1879 von Rudolf Lindt kreiert.
+    - id: 18
+      question: Aus welchem Land stammt der vor etwa 3.000 Jahren domestizierte Kakaobaum ?
+      propositions:
+      - Mexiko
+      - Mosambik
+      - Bolivien
+      - Madagaskar
+      réponse: Mexiko
+      anecdote: Der Kakaobaum wurde höchstwahrscheinlich ursprünglich für die Zubereitung eines fermentierten Getränks domestiziert, daher alkoholisch.
+    - id: 19
+      question: Welche Schokolade, die mindestens 20% Kakaobutter enthalten muss, ist die süßeste ?
+      propositions:
+      - Praline
+      - Schwarz
+      - Weiß
+      - Milch
+      réponse: Weiß
+      anecdote: Weiße Schokolade wurde erstmals in den 1930er Jahren von Nestlé in der Schweiz hergestellt.
+    - id: 20
+      question: Wie viele Schoten kann ein Kakaobaum während seiner Lebensdauer durchschnittlich produzieren ?
+      propositions:
+      - 2.000
+      - 20
+      - 20.000
+      - 200
+      réponse: 20
+      anecdote: Jeder Pod, der einem kleinen American-Football-Ball ähnelt, kann bis zu 400 g wiegen und 15 bis 20 cm lang sein.
+  - expert:
+    - id: 21
+      question: Für die Vorbereitungen zu welchem Ereignis verwenden die Mayas Schokolade ?
+      propositions:
+      - Geburt
+      - Opfer
+      - Tod
+      - Hochzeit
+      réponse: Hochzeit
+      anecdote: Kakao reinigt auch Maya-Kinder während Zeremonien oder begleitet den Verstorbenen auf seiner Reise ins Jenseits.
+    - id: 22
+      question: Welche präkolumbianische Zivilisation hat als erste Kakao angebaut ?
+      propositions:
+      - Berber
+      - Olmeken
+      - Azteken
+      - Afrikaner
+      réponse: Olmeken
+      anecdote: Bis heute ist die olmekische Kultur bis zur zweiten Hälfte des 19. Jahrhunderts unbekannt.
+    - id: 23
+      question: In welchem europäischen Land haben die Menschen angefangen, Schokolade zu konsumieren ?
+      propositions:
+      - Italien
+      - Spanien
+      - Belgien
+      - Frankreich
+      réponse: Spanien
+      anecdote: Erst nach der Eroberung der Azteken durch die Spanier wurde Schokolade nach Europa importiert.
+    - id: 24
+      question: Wie viele Blumen kann ein Kakaobaum jährlich produzieren ?
+      propositions:
+      - 1.000
+      - 100
+      - 100.000
+      - 10.000
+      réponse: 100.000
+      anecdote: Blumen erscheinen das ganze Jahr über auf Schwellungen im Holz des Baumes, die als Blumenpads bezeichnet werden.
+    - id: 25
+      question: Welcher Entdecker brachte 1528 Kakao nach Europa ?
+      propositions:
+      - Cortés
+      - Foucauld
+      - Christoph Kolumbus
+      - Charcot
+      réponse: Cortés
+      anecdote: Hernan Cortés eroberte das Aztekenreich im Auftrag von Karl V.
+    - id: 26
+      question: Welche dunkle Schokolade wird aus Kakao einer einzelnen Plantage hergestellt ?
+      propositions:
+      - Herkunft
+      - Grand Cru
+      - Erste Wahl
+      - Red Label
+      réponse: Grand Cru
+      anecdote: In Frankreich ist es das Nationale Institut für Herkunft und Qualität, das die Qualität von Pralinen klassifiziert.
+    - id: 27
+      question: Welche Substanz wird nach dem Mahlen der Bohnen des Kakaobaums erhalten ?
+      propositions:
+      - Masse
+      - Falle
+      - Becher
+      - Schmutz
+      réponse: Masse
+      anecdote: Kakaobohnen enthalten etwa 50% Fett, sogenannte Kakaobutter.
+    - id: 28
+      question: Aus welchem Produkt wird nach dem Pressen der Kakaomasse Kakaopulver hergestellt ?
+      propositions:
+      - Krabbe
+      - Garnelen
+      - Kuchen
+      - Hummer
+      réponse: Kuchen
+      anecdote: Es sind zwei Verreibungsverfahren möglich : kalter Chargendruck und heißer kontinuierlicher Druck.
+    - id: 29
+      question: Laura Esquivel, zeitgenössische mexikanische Schriftstellerin, hat ein Buch mit dem Titel... veröffentlicht
+      propositions:
+      - Dunkle Schokolade
+      - Milchschokolade
+      - Weiße Schokolade
+      - Bitterschokolade
+      réponse: Bitterschokolade
+      anecdote: Laura Esquivel ist eine Autorin, die in ihren Werken ständig nach neuen und originellen Wegen sucht.
+    - id: 30
+      question: In welcher Comic-Sektion finden Sie das Album « Strawberry and Chocolate » ?
+      propositions:
+      - Erotik
+      - Abenteuer
+      - Jugend
+      - Humor
+      réponse: Erotik
+      anecdote: Aurélia Aurita ist eine französische Comicautorin chinesischer und khmerischer Herkunft.
+  es:
+  - débutant:
+    - id: 1
+      question: ¿De qué frijol se produce el chocolate ?
+      propositions:
+      - Árbol de pacana
+      - Árbol de cacao
+      - Planta de algodón
+      - Palmera
+      réponse: Árbol de cacao
+      anecdote: Los granos de cacao se extraen de las bayas, que se abren para la cosecha y se dejan secar.
+    - id: 2
+      question: ¿Qué mantequilla se extrae de la masa de cacao líquido que se utiliza para crear chocolate ?
+      propositions:
+      - Mantequilla salada
+      - Manteca de cerdo
+      - Manteca de cacao
+      - Mantequilla grasa
+      réponse: Manteca de cacao
+      anecdote: La manteca de cacao es una de las grasas más estables conocidas y contiene antioxidantes naturales.
+    - id: 3
+      question: ¿Qué haces cuando tuesta los granos de cacao para hacer chocolate ?
+      propositions:
+      - Los aplastamos
+      - Los torcemos
+      - Los pelamos
+      - Los asamos
+      réponse: Los asamos
+      anecdote: El tostado, es decir el calentamiento de 140 a 160 ° C durante 20 a 30 minutos, permite el desarrollo de aromas de cacao.
+    - id: 4
+      question: ¿Qué chocolate, a veces mezclado con especias, tiene menos azúcar ?
+      propositions:
+      - Leche
+      - Praliné
+      - Negro
+      - Blanco
+      réponse: Negro
+      anecdote: La calidad del chocolate negro depende de los ingredientes utilizados y su porcentaje de cacao.
+    - id: 5
+      question: En 1825, ¿qué suizo creó una fábrica de chocolate ahora famosa ?
+      propositions:
+      - Lindt
+      - Suchard
+      - Tobler
+      - Jacobs
+      réponse: Suchard
+      anecdote: Philippe Suchard se inició en la industria de la confitería en 1825 en Neuchâtel y se lanzó al chocolate en Serrières en 1826.
+    - id: 6
+      question: ¿Qué causa el consumo de chocolate en la mayoría de las mascotas ?
+      propositions:
+      - Diabetes
+      - Muerte
+      - Parálisis
+      - Ceguera
+      réponse: Muerte
+      anecdote: El chocolate contiene teobromina, un producto similar a la cafeína que su metabolismo no puede eliminar.
+    - id: 7
+      question: ¿Qué chocolate, rico en ácidos grasos saturados, es el más amargo ?
+      propositions:
+      - Leche
+      - Praliné
+      - Blanco
+      - Negro
+      réponse: Negro
+      anecdote: El chocolate negro, que contiene poco colesterol y muy poco sodio, es una buena fuente de magnesio.
+    - id: 8
+      question: ¿Quién interpreta al chocolatero en la película adaptada de la novela « Le chocolat » de Joanne Harris ?
+      propositions:
+      - Juliette Binoche
+      - Isabelle Adjani
+      - Judith Godrèche
+      - Karin Viard
+      réponse: Juliette Binoche
+      anecdote: En 1959, durante la Cuaresma, una joven y su hija se hacen cargo de la antigua pastelería para abrir una fábrica de chocolate.
+    - id: 9
+      question: ¿Cómo llamas al fruto del árbol del cacao, en forma de baya ?
+      propositions:
+      - Carabosse
+      - Caboche
+      - Vaina de cacao
+      - Ciboulot
+      réponse: Vaina de cacao
+      anecdote: Las vainas se encuentran en el tronco y ramas grandes, no en ramitas jóvenes.
+    - id: 10
+      question: ¿Qué chocolate, generalmente preferido por los puristas, no contiene leche ?
+      propositions:
+      - Negro
+      - Blanco
+      - Leche
+      - Praliné
+      réponse: Negro
+      anecdote: Por ley, el chocolate amargo debe contener al menos un 35 % de cacao, sin límite superior para la concentración de cacao.
+  - confirmé:
+    - id: 11
+      question: ¿De qué gente vendría el chocolate, asociándolo con su dios de la fertilidad ?
+      propositions:
+      - Otomis
+      - Mayas
+      - Incas
+      - Toltecas
+      réponse: Mayas
+      anecdote: Los aztecas asociaron el chocolate con Xochiquetzal (que le dio su nombre al chocolate), la diosa de la fertilidad.
+    - id: 12
+      question: Aproximadamente, ¿cuántos granos de cacao hay en una mazorca ?
+      propositions:
+      - Mil
+      - Cuarenta
+      - Aproximadamente diez
+      - Cien
+      réponse: Cuarenta
+      anecdote: La vaina tiene una forma alargada y se parece un poco a un pepino bastante gordo.
+    - id: 13
+      question: ¿Cuál es el primer país productor de cacao, muy por delante de Ghana e Indonesia ?
+      propositions:
+      - México
+      - Camerún
+      - Brasil
+      - Costa de Marfil
+      réponse: Costa de Marfil
+      anecdote: La producción de cacao en 2006 fue de cuatro millones de toneladas, aumentando constantemente desde 2003.
+    - id: 14
+      question: ¿Cuál es la diferencia entre el chocolate blanco y otros chocolates ?
+      propositions:
+      - La leche
+      - Pasta de cacao
+      - Azúcar
+      - Mantequilla
+      réponse: Pasta de cacao
+      anecdote: El chocolate blanco se distribuyó por primera vez en Estados Unidos en 1948 con la introducción de las barras de chocolate blanco Nestlé Alpine.
+    - id: 15
+      question: ¿En qué país se fabricó la primera barra de chocolate ?
+      propositions:
+      - Suiza
+      - México
+      - Brasil
+      - Inglaterra
+      réponse: Inglaterra
+      anecdote: Las primeras barras de chocolate ofrecidas al público se denominaron chocolate delicioso para comer.
+    - id: 16
+      question: ¿Cuántas cosechas puedes hacer al año en un árbol de cacao saludable ?
+      propositions:
+      - Dos
+      - Seis
+      - Ocho
+      - Cuatro
+      réponse: Dos
+      anecdote: La maduración de los frutos del árbol del cacao dura, dependiendo de los genotipos, de cinco a siete meses.
+    - id: 17
+      question: ¿Qué país europeo es el mayor consumidor de chocolate hasta la fecha ?
+      propositions:
+      - Suiza
+      - Francia
+      - Portugal
+      - Bélgica
+      réponse: Suiza
+      anecdote: Las variantes de leche y fondant fueron creadas por Daniel Peter en 1875 y Rudolf Lindt en 1879 respectivamente.
+    - id: 18
+      question: ¿De qué país proviene el árbol del cacao, domesticado hace unos 3.000 años ?
+      propositions:
+      - Mozambique
+      - Bolivia
+      - México
+      - Madagascar
+      réponse: México
+      anecdote: Es muy probable que el árbol del cacao se domesticara inicialmente para la preparación de una bebida fermentada, por tanto alcohólica.
+    - id: 19
+      question: ¿Qué chocolate, que debe contener al menos un 20% de manteca de cacao, es el más dulce ?
+      propositions:
+      - Blanco
+      - Negro
+      - Leche
+      - Praliné
+      réponse: Blanco
+      anecdote: El chocolate blanco fue producido por primera vez por Nestlé en Suiza en la década de 1930.
+    - id: 20
+      question: ¿Cuántas mazorcas puede producir un árbol de cacao en promedio durante su vida ?
+      propositions:
+      - 20
+      - 2,000
+      - 20.000
+      - 200
+      réponse: 20
+      anecdote: Cada cápsula, que se asemeja a una pequeña pelota de fútbol americano, puede pesar hasta 400 gy 15-20 cm de largo.
+  - expert:
+    - id: 21
+      question: ¿Para los preliminares de qué evento usan los mayas el chocolate ?
+      propositions:
+      - Muerte
+      - Nacimiento
+      - Boda
+      - Sacrificio
+      réponse: Boda
+      anecdote: Cocoa también purifica a los niños mayas durante las ceremonias o acompaña al difunto en su viaje al más allá.
+    - id: 22
+      question: ¿Qué civilización precolombina fue la primera en cultivar cacao ?
+      propositions:
+      - Aztecas
+      - Africanos
+      - Bereberes
+      - Olmecas
+      réponse: Olmecas
+      anecdote: Hasta el día de hoy, la cultura olmeca permanece desconocida hasta la segunda mitad del siglo XIX.
+    - id: 23
+      question: ¿En qué país europeo empezó la gente a consumir chocolate ?
+      propositions:
+      - España
+      - Francia
+      - Bélgica
+      - Italia
+      réponse: España
+      anecdote: No fue hasta la conquista de los aztecas por parte de los españoles que se importó chocolate a Europa.
+    - id: 24
+      question: ¿Cuántas flores puede producir un árbol de cacao al año ?
+      propositions:
+      - 100,000
+      - 1,000
+      - 100
+      - 10,000
+      réponse: 100,000
+      anecdote: Las flores aparecen durante todo el año en hinchazones en la madera del árbol, llamadas almohadillas florales.
+    - id: 25
+      question: ¿Qué explorador trajo el cacao a Europa en 1528 ?
+      propositions:
+      - Cristóbal Colón
+      - Cortés
+      - Foucauld
+      - Charcot
+      réponse: Cortés
+      anecdote: Hernán Cortés se apoderó del Imperio Azteca en nombre de Carlos V, rey de Castilla y emperador del Sacro Imperio Romano Germánico.
+    - id: 26
+      question: ¿Qué chocolate negro se elabora con cacao de una sola plantación ?
+      propositions:
+      - Etiqueta roja
+      - Origen
+      - Grand cru
+      - Primera elección
+      réponse: Grand cru
+      anecdote: En Francia, es el Instituto Nacional de Origen y Calidad el que clasifica la calidad de los chocolates.
+    - id: 27
+      question: ¿Qué sustancia se obtiene después de moler los granos del árbol del cacao ?
+      propositions:
+      - Grime
+      - Misa
+      - Trampa
+      - Taza
+      réponse: Misa
+      anecdote: Los granos de cacao contienen alrededor del 50% de grasa llamada manteca de cacao.
+    - id: 28
+      question: Una vez que se prensa la masa de cacao, ¿qué producto se utiliza para hacer cacao en polvo ?
+      propositions:
+      - Cangrejo
+      - Langosta
+      - Camarones
+      - Pastel
+      réponse: Pastel
+      anecdote: Son posibles dos procesos de trituración : presión de lote en frío y presión continua en caliente.
+    - id: 29
+      question: Laura Esquivel, escritora mexicana contemporánea, ha publicado un libro titulado...
+      propositions:
+      - Chocolate blanco
+      - Chocolate negro
+      - Chocolate con leche
+      - Chocolate amargo
+      réponse: Chocolate amargo
+      anecdote: Laura Esquivel es una autora que busca constantemente caminos nuevos y originales en sus obras.
+    - id: 30
+      question: ¿En qué sección de cómics puedes encontrar el álbum « Fresa y chocolate » ?
+      propositions:
+      - Juventud
+      - Humor
+      - Erótico
+      - Aventura
+      réponse: Erótico
+      anecdote: Aurélia Aurita es una autora francesa de cómics de origen chino y jemer.
+  it:
+  - débutant:
+    - id: 1
+      question: Da quale chicco viene prodotto il cioccolato ?
+      propositions:
+      - Albero di noci pecan
+      - Palma
+      - Albero del cacao
+      - Pianta di cotone
+      réponse: Albero del cacao
+      anecdote: Le fave di cacao vengono estratte dalle bacche, che vengono aperte per la raccolta e lasciate essiccare.
+    - id: 2
+      question: Quale burro si estrae dalla massa di cacao liquido utilizzata per creare il cioccolato ?
+      propositions:
+      - Burro salato
+      - Burro grasso
+      - Lardo
+      - Burro di cacao
+      réponse: Burro di cacao
+      anecdote: Il burro di cacao è uno dei grassi più stabili conosciuti, contenente antiossidanti naturali.
+    - id: 3
+      question: Cosa fai quando arrostisci le fave di cacao per fare il cioccolato ?
+      propositions:
+      - Li schiacciamo
+      - Li grigliamo
+      - Li sbucciamo
+      - Li torciamo
+      réponse: Li grigliamo
+      anecdote: La tostatura, ovvero il riscaldamento da 140 a 160 ° C per 20-30 minuti, consente lo sviluppo degli aromi di cacao.
+    - id: 4
+      question: Quale cioccolato, a volte mescolato a spezie, ha meno zucchero ?
+      propositions:
+      - Praline
+      - Bianco
+      - Nero
+      - Latte
+      réponse: Nero
+      anecdote: La qualità del cioccolato fondente dipende dagli ingredienti utilizzati e dalla sua percentuale di cacao.
+    - id: 5
+      question: Nel 1825 quale svizzero creò un'ormai famosa fabbrica di cioccolato ?
+      propositions:
+      - Jacobs
+      - Lindt
+      - Tobler
+      - Suchard
+      réponse: Suchard
+      anecdote: Philippe Suchard iniziò nell'industria dolciaria nel 1825 a Neuchâtel e si lanciò nel cioccolato a Serrières nel 1826.
+    - id: 6
+      question: Che cosa causa il consumo di cioccolato nella maggior parte degli animali domestici ?
+      propositions:
+      - Morte
+      - Cecità
+      - Diabete
+      - Paralisi
+      réponse: Morte
+      anecdote: Il cioccolato contiene teobromina, un prodotto simile alla caffeina che il loro metabolismo non può eliminare.
+    - id: 7
+      question: Quale cioccolato, ricco di acidi grassi saturi, è il più amaro ?
+      propositions:
+      - Latte
+      - Bianco
+      - Praline
+      - Nero
+      réponse: Nero
+      anecdote: Il cioccolato fondente, che contiene poco colesterolo e pochissimo sodio, è una buona fonte di magnesio.
+    - id: 8
+      question: Chi interpreta il produttore di cioccolato nel film adattato dal romanzo « Le chocolat » di Joanne Harris ?
+      propositions:
+      - Isabelle Adjani
+      - Karin Viard
+      - Judith Godrèche
+      - Juliette Binoche
+      réponse: Juliette Binoche
+      anecdote: Nel 1959, durante la Quaresima, una giovane donna e sua figlia rilevano la vecchia pasticceria per aprire una fabbrica di cioccolato.
+    - id: 9
+      question: Come chiami il frutto dell'albero del cacao, a forma di bacca ?
+      propositions:
+      - Caboche
+      - Ciboulot
+      - Carabosse
+      - Baccello di cacao
+      réponse: Baccello di cacao
+      anecdote: I baccelli si trovano sul tronco e sui grandi rami, non sui giovani ramoscelli.
+    - id: 10
+      question: Quale cioccolato, generalmente preferito dai puristi, non contiene latte ?
+      propositions:
+      - Bianco
+      - Latte
+      - Praline
+      - Nero
+      réponse: Nero
+      anecdote: Per legge, il cioccolato fondente deve contenere almeno il 35 % di cacao, senza limite massimo per la concentrazione di cacao.
+  - confirmé:
+    - id: 11
+      question: Da quali persone verrebbe il cioccolato, associandolo al loro dio della fertilità ?
+      propositions:
+      - Maya
+      - Otomis
+      - Toltechi
+      - Incas
+      réponse: Maya
+      anecdote: Gli Aztechi associavano il cioccolato a Xochiquetzal (che diede il nome al cioccolato), la dea della fertilità.
+    - id: 12
+      question: Quante fave di cacao ci sono approssimativamente in un baccello ?
+      propositions:
+      - Circa dieci
+      - Quaranta
+      - Cento
+      - Mille
+      réponse: Quaranta
+      anecdote: Il baccello ha una forma allungata e assomiglia un po 'a un cetriolo abbastanza paffuto.
+    - id: 13
+      question: Qual è il primo paese produttore di cacao, molto più avanti di Ghana e Indonesia ?
+      propositions:
+      - Brasile
+      - Camerun
+      - Messico
+      - Costa d'Avorio
+      réponse: Costa d'Avorio
+      anecdote: La produzione di cacao nel 2006 è stata di quattro milioni di tonnellate, in costante aumento dal 2003.
+    - id: 14
+      question: Qual è la differenza tra cioccolato bianco e altri cioccolatini ?
+      propositions:
+      - Burro
+      - Zucchero
+      - Il latte
+      - Pasta di cacao
+      réponse: Pasta di cacao
+      anecdote: Il cioccolato bianco fu distribuito per la prima volta in America nel 1948 con l'introduzione delle Nestlé Alpine White Chocolate Bars.
+    - id: 15
+      question: In quale paese è stata prodotta la prima barretta di cioccolato ?
+      propositions:
+      - Brasile
+      - Messico
+      - Svizzera
+      - Inghilterra
+      réponse: Inghilterra
+      anecdote: Le prime tavolette di cioccolato offerte al pubblico si chiamavano cioccolata deliziosa da mangiare.
+    - id: 16
+      question: Quanti raccolti puoi fare all'anno su un albero di cacao sano ?
+      propositions:
+      - Due
+      - Quattro
+      - Otto
+      - Sei
+      réponse: Due
+      anecdote: La maturazione dei frutti della pianta del cacao dura, a seconda dei genotipi, dai cinque ai sette mesi.
+    - id: 17
+      question: Quale paese europeo è il maggior consumatore di cioccolato fino ad oggi ?
+      propositions:
+      - Portogallo
+      - Belgio
+      - Francia
+      - Svizzera
+      réponse: Svizzera
+      anecdote: Le varianti latte e fondente furono create rispettivamente da Daniel Peter nel 1875 e Rudolf Lindt nel 1879.
+    - id: 18
+      question: Da quale paese proviene l'albero del cacao, addomesticato circa 3.000 anni fa ?
+      propositions:
+      - Bolivia
+      - Mozambico
+      - Madagascar
+      - Messico
+      réponse: Messico
+      anecdote: La pianta del cacao fu molto probabilmente addomesticata inizialmente per la preparazione di una bevanda fermentata, quindi alcolica.
+    - id: 19
+      question: Quale cioccolato, che deve contenere almeno il 20% di burro di cacao, è il più dolce ?
+      propositions:
+      - Latte
+      - Praline
+      - Bianco
+      - Nero
+      réponse: Bianco
+      anecdote: Il cioccolato bianco è stato prodotto per la prima volta da Nestlé in Svizzera negli anni '30.
+    - id: 20
+      question: Quanti baccelli può produrre in media una pianta del cacao durante la sua vita ?
+      propositions:
+      - 200
+      - 20.000
+      - 20
+      - 2.000
+      réponse: 20
+      anecdote: Ogni baccello, simile a una piccola palla da football americano, può pesare fino a 400 ge 15-20 cm di lunghezza.
+  - expert:
+    - id: 21
+      question: Per i preliminari di quale evento i Maya usano il cioccolato ?
+      propositions:
+      - Morte
+      - Sacrificio
+      - Nascita
+      - Matrimonio
+      réponse: Matrimonio
+      anecdote: Il cacao purifica anche i bambini Maya durante le cerimonie o accompagna il defunto nel suo viaggio nell'aldilà.
+    - id: 22
+      question: Quale civiltà precolombiana fu la prima a coltivare il cacao ?
+      propositions:
+      - Aztechi
+      - Olmecs
+      - Africani
+      - Berberi
+      réponse: Olmecs
+      anecdote: Fino ad oggi, la cultura olmeca rimane sconosciuta fino alla seconda metà del XIX secolo.
+    - id: 23
+      question: In quale paese europeo le persone hanno iniziato a consumare cioccolato ?
+      propositions:
+      - Spagna
+      - Belgio
+      - Italia
+      - Francia
+      réponse: Spagna
+      anecdote: Fu solo con la conquista degli Aztechi da parte degli spagnoli che il cioccolato fu importato in Europa.
+    - id: 24
+      question: Quanti fiori può produrre un albero di cacao ogni anno ?
+      propositions:
+      - 10.000
+      - 100.000
+      - 1.000
+      - 100
+      réponse: 100.000
+      anecdote: I fiori compaiono tutto l'anno sui rigonfiamenti nel legno dell'albero, chiamati fioriere.
+    - id: 25
+      question: Quale esploratore portò il cacao in Europa nel 1528 ?
+      propositions:
+      - Cortés
+      - Foucauld
+      - Charcot
+      - Cristoforo Colombo
+      réponse: Cortés
+      anecdote: Hernan Cortés conquistò l'impero azteco per conto di Carlo V, re di Castiglia e imperatore del Sacro Romano Impero.
+    - id: 26
+      question: Quale cioccolato fondente è prodotto dal cacao di una singola piantagione ?
+      propositions:
+      - Grand cru
+      - Etichetta rossa
+      - Origine
+      - Prima scelta
+      réponse: Grand cru
+      anecdote: In Francia, è l'Istituto nazionale di origine e qualità che classifica la qualità dei cioccolatini.
+    - id: 27
+      question: Quale sostanza si ottiene dopo aver macinato le fave dell'albero del cacao ?
+      propositions:
+      - Messa
+      - Grime
+      - Trap
+      - Tazza
+      réponse: Messa
+      anecdote: Le fave di cacao contengono circa il 50% di grassi chiamati burro di cacao.
+    - id: 28
+      question: Una volta pressata la massa di cacao, quale prodotto viene utilizzato per fare il cacao in polvere ?
+      propositions:
+      - Torta
+      - Gamberetti
+      - Aragosta
+      - Granchio
+      réponse: Torta
+      anecdote: Sono possibili due processi di triturazione : pressione batch fredda e pressione continua calda.
+    - id: 29
+      question: Laura Esquivel, scrittrice messicana contemporanea, ha pubblicato un libro dal titolo...
+      propositions:
+      - Cioccolato al latte
+      - Cioccolato bianco
+      - Cioccolato amaro
+      - Cioccolato fondente
+      réponse: Cioccolato amaro
+      anecdote: Laura Esquivel è un'autrice che cerca costantemente nelle sue opere strade nuove e originali.
+    - id: 30
+      question: In quale sezione dei fumetti puoi trovare l'album « Fragola e cioccolato » ?
+      propositions:
+      - Gioventù
+      - Erotico
+      - Avventura
+      - Umorismo
+      réponse: Erotico
+      anecdote: Aurélia Aurita è un'autrice di fumetti francese di origine cinese e khmer.
+  nl:
+  - débutant:
+    - id: 1
+      question: Van welke boon wordt chocolade gemaakt ?
+      propositions:
+      - Cacaoboom
+      - Pecannotenboom
+      - Katoenplant
+      - Palmboom
+      réponse: Cacaoboom
+      anecdote: Cacaobonen worden gewonnen uit de bessen, die worden geopend voor de oogst en laten drogen.
+    - id: 2
+      question: Welke boter wordt gewonnen uit de vloeibare cacaomassa die wordt gebruikt om chocolade te maken ?
+      propositions:
+      - Gezouten boter
+      - Cacaoboter
+      - Reuzel
+      - Vet boter
+      réponse: Cacaoboter
+      anecdote: Cacaoboter is een van de meest stabiele vetten die we kennen en bevat natuurlijke antioxidanten.
+    - id: 3
+      question: Wat doe je als je cacaobonen roostert voor het maken van chocolade ?
+      propositions:
+      - We schillen ze
+      - We grillen ze
+      - We verpletteren ze
+      - We verdraaien ze
+      réponse: We grillen ze
+      anecdote: Roosteren, dat wil zeggen verhitten van 140 tot 160 ° C gedurende 20 tot 30 minuten, laat de ontwikkeling van cacao-aroma's toe.
+    - id: 4
+      question: Welke chocolade, soms vermengd met kruiden, heeft de minste suiker ?
+      propositions:
+      - Zwart
+      - Melk
+      - Wit
+      - Praline
+      réponse: Zwart
+      anecdote: De kwaliteit van pure chocolade hangt af van de gebruikte ingrediënten en het percentage cacao.
+    - id: 5
+      question: Welke Zwitser richtte in 1825 een nu beroemde chocoladefabriek op ?
+      propositions:
+      - Jacobs
+      - Tobler
+      - Lindt
+      - Suchard
+      réponse: Suchard
+      anecdote: Philippe Suchard begon in 1825 in de zoetwarenindustrie in Neuchâtel en begon in 1826 met chocolade in Serrières.
+    - id: 6
+      question: Wat veroorzaakt chocoladeverbruik bij de meeste huisdieren ?
+      propositions:
+      - Verlamming
+      - Blindheid
+      - Dood
+      - Diabetes
+      réponse: Dood
+      anecdote: Chocolade bevat theobromine, een product dat lijkt op cafeïne en dat niet door hun metabolisme kan worden uitgeschakeld.
+    - id: 7
+      question: Welke chocolade, rijk aan verzadigde vetzuren, is het meest bitter ?
+      propositions:
+      - Zwart
+      - Melk
+      - Wit
+      - Praline
+      réponse: Zwart
+      anecdote: Pure chocolade, die weinig cholesterol en heel weinig natrium bevat, is een goede bron van magnesium.
+    - id: 8
+      question: Wie speelt de chocolatier in de film, aangepast naar de roman « Le chocolat » van Joanne Harris ?
+      propositions:
+      - Karin Viard
+      - Isabelle Adjani
+      - Judith Godrèche
+      - Juliette Binoche
+      réponse: Juliette Binoche
+      anecdote: In 1959, tijdens de vastentijd, namen een jonge vrouw en haar dochter de oude banketbakkerij over om een chocoladefabriek te openen.
+    - id: 9
+      question: Hoe noem je de vrucht van de cacaoboom, in de vorm van een bes ?
+      propositions:
+      - Cacaovrucht
+      - Ciboulot
+      - Caboche
+      - Carabosse
+      réponse: Cacaovrucht
+      anecdote: De peulen zijn te vinden op de stam en grote takken, niet op jonge twijgen.
+    - id: 10
+      question: Welke chocolade, waar puristen doorgaans de voorkeur aan geven, bevat geen melk ?
+      propositions:
+      - Zwart
+      - Wit
+      - Melk
+      - Praline
+      réponse: Zwart
+      anecdote: Volgens de wet moet pure chocolade minstens 35 % cacao bevatten, zonder bovengrens voor de cacaoconcentratie.
+  - confirmé:
+    - id: 11
+      question: Van welke mensen zou chocolade komen als ze het associëren met hun god van de vruchtbaarheid ?
+      propositions:
+      - Maya's
+      - Inca's
+      - Tolteken
+      - Otomis
+      réponse: Maya's
+      anecdote: De Azteken associeerden chocolade met Xochiquetzal (die chocolade zijn naam gaf), de godin van de vruchtbaarheid.
+    - id: 12
+      question: Hoeveel cacaobonen zitten er ongeveer in een peul ?
+      propositions:
+      - Ongeveer tien
+      - Veertig
+      - Honderd
+      - Duizend
+      réponse: Veertig
+      anecdote: De peul heeft een langwerpige vorm en lijkt een beetje op een vrij dikke komkommer.
+    - id: 13
+      question: Wat is het eerste cacaoproducerende land, ver voor Ghana en Indonesië ?
+      propositions:
+      - Ivoorkust
+      - Kameroen
+      - Mexico
+      - Brazilië
+      réponse: Ivoorkust
+      anecdote: De cacaoproductie bedroeg in 2006 vier miljoen ton en stijgt sinds 2003 gestaag.
+    - id: 14
+      question: Wat is het verschil tussen witte chocolade en andere chocolaatjes ?
+      propositions:
+      - Suiker
+      - Cacaopasta
+      - Boter
+      - De melk
+      réponse: Cacaopasta
+      anecdote: Witte chocolade werd voor het eerst gedistribueerd in Amerika in 1948 met de introductie van Nestlé Alpine White Chocolate Bars.
+    - id: 15
+      question: In welk land werd de eerste chocoladereep gemaakt ?
+      propositions:
+      - Engeland
+      - Mexico
+      - Brazilië
+      - Zwitserland
+      réponse: Engeland
+      anecdote: De eerste chocoladerepen die aan het publiek werden aangeboden, werden heerlijke chocolade om te eten genoemd.
+    - id: 16
+      question: Hoeveel oogsten kun je per jaar behalen aan een gezonde cacaoboom ?
+      propositions:
+      - Acht
+      - Vier
+      - Zes
+      - Twee
+      réponse: Twee
+      anecdote: De rijping van cacaoboomvruchten duurt, afhankelijk van de genotypen, van vijf tot zeven maanden.
+    - id: 17
+      question: Welk Europees land is tot nu toe de grootste chocoladeconsument ?
+      propositions:
+      - Zwitserland
+      - Frankrijk
+      - Portugal
+      - België
+      réponse: Zwitserland
+      anecdote: De melk- en fondantvarianten zijn gemaakt door Daniel Peter in 1875 en Rudolf Lindt in 1879.
+    - id: 18
+      question: Uit welk land komt de cacaoboom, die zo'n 3000 jaar geleden gedomesticeerd werd, vandaan ?
+      propositions:
+      - Madagaskar
+      - Mozambique
+      - Bolivia
+      - Mexico
+      réponse: Mexico
+      anecdote: De cacaoboom werd aanvankelijk zeer waarschijnlijk gedomesticeerd voor de bereiding van een gefermenteerde drank, dus alcoholisch.
+    - id: 19
+      question: Welke chocolade, die minstens 20% cacaoboter moet bevatten, is het zoetst ?
+      propositions:
+      - Praline
+      - Wit
+      - Zwart
+      - Melk
+      réponse: Wit
+      anecdote: Witte chocolade werd voor het eerst geproduceerd door Nestlé in Zwitserland in de jaren dertig van de vorige eeuw.
+    - id: 20
+      question: Hoeveel peulen kan een cacaoboom tijdens zijn leven gemiddeld produceren ?
+      propositions:
+      - 200
+      - 2000
+      - 20
+      - 20.000
+      réponse: 20
+      anecdote: Elke pod, die lijkt op een kleine American football-bal, kan tot 400 g wegen en 15-20 cm lang zijn.
+  - expert:
+    - id: 21
+      question: Voor de voorrondes van welk evenement gebruiken de Maya's chocolade ?
+      propositions:
+      - Dood
+      - Offer
+      - Bruiloft
+      - Geboorte
+      réponse: Bruiloft
+      anecdote: Cacao zuivert ook Maya-kinderen tijdens ceremonies of vergezelt de overledene op zijn reis naar het hiernamaals.
+    - id: 22
+      question: Welke precolumbiaanse beschaving was de eerste die cacao verbouwde ?
+      propositions:
+      - Berbers
+      - Afrikanen
+      - Azteken
+      - Olmeken
+      réponse: Olmeken
+      anecdote: Tot op de dag van vandaag is de Olmec-cultuur onbekend tot de tweede helft van de 19e eeuw.
+    - id: 23
+      question: In welk Europees land begonnen mensen chocolade te consumeren ?
+      propositions:
+      - Spanje
+      - België
+      - Frankrijk
+      - Italië
+      réponse: Spanje
+      anecdote: Pas bij de verovering van de Azteken door de Spanjaarden werd chocolade in Europa geïmporteerd.
+    - id: 24
+      question: Hoeveel bloemen kan een cacaoboom jaarlijks produceren ?
+      propositions:
+      - 10.000
+      - 100
+      - 1.000
+      - 100.000
+      réponse: 100.000
+      anecdote: Bloemen verschijnen het hele jaar door op zwellingen in het hout van de boom, bloemkussens genoemd.
+    - id: 25
+      question: Welke ontdekkingsreiziger bracht in 1528 cacao naar Europa ?
+      propositions:
+      - Foucauld
+      - Charcot
+      - Cortés
+      - Christoffel Columbus
+      réponse: Cortés
+      anecdote: Hernan Cortés nam het Azteekse rijk in beslag namens Karel V, koning van Castilië en keizer van het Heilige Roomse Rijk.
+    - id: 26
+      question: Welke donkere chocolade wordt gemaakt van cacao van één plantage ?
+      propositions:
+      - Herkomst
+      - Eerste keuze
+      - Rood label
+      - Grand cru
+      réponse: Grand cru
+      anecdote: In Frankrijk is het het Nationaal Instituut voor Oorsprong en Kwaliteit dat de kwaliteit van chocolaatjes classificeert.
+    - id: 27
+      question: Welke substantie wordt verkregen na het malen van de bonen van de cacaoboom ?
+      propositions:
+      - Vuil
+      - Trap
+      - Mok
+      - Mis
+      réponse: Mis
+      anecdote: Cacaobonen bevatten ongeveer 50% vet, cacaoboter genaamd.
+    - id: 28
+      question: Als de cacaomassa eenmaal is geperst, welk product wordt dan gebruikt om cacaopoeder te maken ?
+      propositions:
+      - Krab
+      - Taart
+      - Garnalen
+      - Kreeft
+      réponse: Taart
+      anecdote: Er zijn twee trituratieprocessen mogelijk : koude batchdruk en hete continue druk.
+    - id: 29
+      question: Laura Esquivel, hedendaagse Mexicaanse schrijfster, heeft een boek gepubliceerd met de titel...
+      propositions:
+      - Bittere chocolade
+      - Melkchocolade
+      - Witte chocolade
+      - Pure chocolade
+      réponse: Bittere chocolade
+      anecdote: Laura Esquivel is een auteur die in zijn werken voortdurend nieuwe en originele wegen zoekt.
+    - id: 30
+      question: In welke striprubriek vind je het album « Strawberry and Chocolate » ?
+      propositions:
+      - Erotisch
+      - Avontuur
+      - Jeugd
+      - Humor
+      réponse: Erotisch
+      anecdote: Aurélia Aurita is een Franse stripboekauteur van Chinese en Khmer-afkomst.

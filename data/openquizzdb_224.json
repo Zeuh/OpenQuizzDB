@@ -1,0 +1,2216 @@
+{                                     
+  "fournisseur": "OpenQuizzDB - Fournisseur de contenu libre (https://www.openquizzdb.org)",
+  "rédacteur": "Philippe Bresoux",
+  "thème": "Cactus (Le monde entier est un cactus)",         
+  "difficulté": "4 / 5",
+  "quizz": {
+    "fr": {
+      "débutant": [
+      {
+        "id": 1,
+        "question": "Que stockent les cactus dans leurs tissus pour faire plus efficacement face à la sécheresse ?",
+        "propositions": [
+          "Épines",
+          "Terre",
+          "Suc",
+          "Sel"
+        ],
+        "réponse": "Suc",
+        "anecdote": "Ce sont presque toutes des plantes grasses ou succulentes, c'est-à-dire des plantes xérophytes qui stockent des réserves de suc."
+      },
+      {
+        "id": 2,
+        "question": "Combien d'espèces environ comprend la famille des Cactaceae ?",
+        "propositions": [
+          "1 500",
+          "4 500",
+          "2 500",
+          "3 500"
+        ],
+        "réponse": "2 500",
+        "anecdote": "Dans le langage courant, le mot cactus désigne souvent le figuier de Barbarie, plante commune sur les bords de la Méditerranée."
+      },
+      {
+        "id": 3,
+        "question": "Quelle forme de cactus est souvent appréciée des collectionneurs ?",
+        "propositions": [
+          "Arbustive",
+          "Globulaire",
+          "Monstrueuse",
+          "Grimpante"
+        ],
+        "réponse": "Monstrueuse",
+        "anecdote": "L'origine du phénomène est inconnue, probablement due à des mutations réparties en deux catégories : fasciation et cristation."
+      },
+      {
+        "id": 4,
+        "question": "Avec ses raquettes, de quel pays est originaire le figuier de Barbarie ?",
+        "propositions": [
+          "Mexique",
+          "Espagne",
+          "Grèce",
+          "Australie"
+        ],
+        "réponse": "Mexique",
+        "anecdote": "L'espèce est en effet originaire du Mexique, où elle est appelée nopal, et figure de plus dans les armoiries du drapeau mexicain."
+      },
+      {
+        "id": 5,
+        "question": "À quel moment de la journée les cactus absorbent-ils le dioxyde de carbone ?",
+        "propositions": [
+          "Le jour",
+          "La nuit",
+          "Jamais",
+          "Jour et nuit"
+        ],
+        "réponse": "La nuit",
+        "anecdote": "Contrairement à la plupart des plantes, les cactus ont un métabolisme acide crassulacéen permettant de fixer le carbone."
+      },
+      {
+        "id": 6,
+        "question": "Qui a ramené les premiers cactus en Europe (des Melocactus) ?",
+        "propositions": [
+          "Christophe Colomb",
+          "Pedro de Sintra",
+          "Diogo Gomes",
+          "Afonso de Paiva"
+        ],
+        "réponse": "Christophe Colomb",
+        "anecdote": "Cactus en forme de melon (d'où leur nom), ils sont originaires des Caraïbes, des Antilles et du nord de l'Amérique du Sud."
+      },
+      {
+        "id": 7,
+        "question": "Idéalement, à quelle fréquence est-il nécessaire de rempoter un cactus ?",
+        "propositions": [
+          "Tous les 16 ans",
+          "Tous les 4 ans",
+          "Tous les 8 ans",
+          "Tous les 12 ans"
+        ],
+        "réponse": "Tous les 4 ans",
+        "anecdote": "Les cactées n'aimant pas l'excès de nourriture, le cactus se développera si le volume du pot ne dépasse pas celui de la plante."
+      },
+      {
+        "id": 8,
+        "question": "Quelle est la température la plus adéquate pour le repos hivernal du cactus ?",
+        "propositions": [
+          "22° C",
+          "17° C",
+          "12° C",
+          "7° C"
+        ],
+        "réponse": "7° C",
+        "anecdote": "Durant l'été, un bon arrosage une fois par semaine suffit, bien que les cactus puissent aisément se passer d'eau fort longtemps."
+      },
+      {
+        "id": 9,
+        "question": "De quelle quantité de lumière un cactus a-t-il besoin pour s'épanouir ?",
+        "propositions": [
+          "Le maximum",
+          "Aucune",
+          "Un peu",
+          "Beaucoup"
+        ],
+        "réponse": "Le maximum",
+        "anecdote": "Cependant, après l'hivernage, n'exposez pas directement vos cactus en plein soleil mais privilégiez un retour progressif à la lumière."
+      },
+      {
+        "id": 10,
+        "question": "Dans quelles régions du globe les cactus poussent-ils le mieux ?",
+        "propositions": [
+          "Montagnes",
+          "Prairies",
+          "Déserts",
+          "Plaines"
+        ],
+        "réponse": "Déserts",
+        "anecdote": "On retrouve principalement les cactus au Mexique, aux États-Unis, sur le pourtour méditerranéen ainsi qu'au Sahara et en Australie."
+      }
+    ],
+    "confirmé": [
+      {
+        "id": 11,
+        "question": "Combien de loges comporte la baie du fruit du cactus ?",
+        "propositions": [
+          "Deux",
+          "Une seule",
+          "Quatre",
+          "Trois"
+        ],
+        "réponse": "Une seule",
+        "anecdote": "Le fruit du cactus doit être une baie à une seule loge car il n'existe de cloisons internes séparant les graines ou les groupes de graines."
+      },
+      {
+        "id": 12,
+        "question": "Quel cactus était autrefois utilisé à des fins rituelles par les Amérindiens ?",
+        "propositions": [
+          "Peyotl",
+          "Cereus",
+          "San Pedro",
+          "Hylocereus"
+        ],
+        "réponse": "Peyotl",
+        "anecdote": "Ce cactus contient plusieurs alcaloïdes dont la mescaline, utilisée pour ses propriétés enthéogènes, psychotropes et hallucinogènes."
+      },
+      {
+        "id": 13,
+        "question": "Que signifie le mot grec ancien kaktos, d'où provient le nom cactus ?",
+        "propositions": [
+          "Résine",
+          "Épine",
+          "Chardon",
+          "Soleil"
+        ],
+        "réponse": "Chardon",
+        "anecdote": "Il a été utilisé comme le nom du premier genre de ces plantes par Carl von Linné, avant que d'autres en soient séparés."
+      },
+      {
+        "id": 14,
+        "question": "En combien de genres sont réparties les 2 500 espèces de cactus connues ?",
+        "propositions": [
+          "70",
+          "50",
+          "30",
+          "90"
+        ],
+        "réponse": "90",
+        "anecdote": "En systématique, le genre est un rang taxinomique qui regroupe un ensemble d'espèces ayant en commun des caractères similaires."
+      },
+      {
+        "id": 15,
+        "question": "Quels cactus ont gardé l'aspect d'arbustes classiques ainsi que leurs vraies feuilles ?",
+        "propositions": [
+          "Colonnaires",
+          "Épiphytes",
+          "Globuleux",
+          "Primitifs"
+        ],
+        "réponse": "Primitifs",
+        "anecdote": "Pereskia est un genre de cactus des zones tropicales d'Amérique qui a la particularité rare de porter des feuilles apparentes."
+      },
+      {
+        "id": 16,
+        "question": "En combien de types morphologiques peuvent être regroupés les cactus ?",
+        "propositions": [
+          "Six",
+          "Sept",
+          "Quatre",
+          "Cinq"
+        ],
+        "réponse": "Cinq",
+        "anecdote": "Cactus primitifs, oponces, cactus colonnaires, cactus globuleux et cactus épiphytes à tiges aplaties sont les cinq types morphologiques."
+      },
+      {
+        "id": 17,
+        "question": "Dans quel pays le fait de ramasser des cactus est-il puni de prison ?",
+        "propositions": [
+          "Argentine",
+          "Inde",
+          "Mexique",
+          "Algérie"
+        ],
+        "réponse": "Mexique",
+        "anecdote": "Certains pays ont une attitude contradictoire pour la protection des espèces, mais les extensions urbaines détruisent des sites de cactus."
+      },
+      {
+        "id": 18,
+        "question": "Pour quel élevage l'Opuntia a-t-il été importé en Australie ?",
+        "propositions": [
+          "Coccinelles",
+          "Coléoptères",
+          "Cloportes",
+          "Cochenilles"
+        ],
+        "réponse": "Cochenilles",
+        "anecdote": "Philip Miller a attribué le nom d'Opuntia à une plante appelée figuier d'Inde par référence à la ville grecque ancienne d'Oponte."
+      },
+      {
+        "id": 19,
+        "question": "Quelle technique permet facilement la multiplication des cactus ?",
+        "propositions": [
+          "Marcottage",
+          "Tuteurage",
+          "Cernage",
+          "Bouturage"
+        ],
+        "réponse": "Bouturage",
+        "anecdote": "Le bouturage consiste à donner naissance à un nouvel individu à partir d'un organe ou d'un fragment d'organe isolé."
+      },
+      {
+        "id": 20,
+        "question": "Quelle marque de voiture française propose un modèle baptisé cactus ?",
+        "propositions": [
+          "Audi Q2",
+          "Citroën C4",
+          "Peugeot P4",
+          "Nissan Juke"
+        ],
+        "réponse": "Citroën C4",
+        "anecdote": "La C4 Cactus est une berline compacte, initialement typée crossover, présentée le 5 février 2014, date anniversaire d'André Citroën."
+      }
+    ],
+    "expert": [
+      {
+        "id": 21,
+        "question": "Quel naturaliste a regroupé en 1753 les 22 espèces connues de cactus ?",
+        "propositions": [
+          "Carl von Linné",
+          "Daniel Rolander",
+          "Olof Celsius",
+          "Erik Acharius"
+        ],
+        "réponse": "Carl von Linné",
+        "anecdote": "Ce naturaliste suédois, qui a consacré sa vie aux êtres vivants, a fondé les bases du système moderne de la nomenclature binominale."
+      },
+      {
+        "id": 22,
+        "question": "Combien d'espèces de cactus ont aujourd'hui un usage médicinal et/ou vétérinaire ?",
+        "propositions": [
+          "4",
+          "64",
+          "34",
+          "94"
+        ],
+        "réponse": "64",
+        "anecdote": "64 % des cactus menacés sont utilisés par l'homme sous l'une de ces formes et 57 % (236 espèces) en l'horticulture."
+      },
+      {
+        "id": 23,
+        "question": "En botanique, quel signe distinctif différencie les Cactaceae des autres familles ?",
+        "propositions": [
+          "Chalaze",
+          "Aréole",
+          "Lenticelle",
+          "Radicule"
+        ],
+        "réponse": "Aréole",
+        "anecdote": "Les aréoles sont des petites excroissances de la plante à partir desquelles partent en faisceau les épines, les poils et les fleurs."
+      },
+      {
+        "id": 24,
+        "question": "Quelle est la plus haute espèce de cactus connue à ce jour ?",
+        "propositions": [
+          "Pachycereus pringlei",
+          "Harrisia fragrans",
+          "Rhipsalis russellii",
+          "Opuntia rufida"
+        ],
+        "réponse": "Pachycereus pringlei",
+        "anecdote": "Avec un tronc d'un mètre de diamètre, ses fleurs blanches en forme d'entonnoir de 8 cm de long n'apparaissent que chez les adultes."
+      },
+      {
+        "id": 25,
+        "question": "Comment appelle-t-on une croissance anormale du sommet d'une tige de cactus ?",
+        "propositions": [
+          "Résupination",
+          "Cristation",
+          "Sérotinie",
+          "Ostiole"
+        ],
+        "réponse": "Cristation",
+        "anecdote": "La cristation désigne une forme de tératologie végétale qui consiste en la croissance anormale du sommet d'une tige."
+      },
+      {
+        "id": 26,
+        "question": "Quel cactus colonnaire est connu pour contenir de la mescaline ?",
+        "propositions": [
+          "Ferocactus",
+          "Parodia",
+          "Oroya",
+          "San Pedro"
+        ],
+        "réponse": "San Pedro",
+        "anecdote": "Ce cactus colonnaire à croissance rapide, originaire des Andes péruviennes, pousse entre 2 000 et 3 000 m d'altitude."
+      },
+      {
+        "id": 27,
+        "question": "Quelle vallée est l'un des plus riches sites de cactus dans le monde ?",
+        "propositions": [
+          "Vallée de Joux",
+          "Vallée de Baïgorry",
+          "Vallée des Usines",
+          "Vallée de Tehuacan"
+        ],
+        "réponse": "Vallée de Tehuacan",
+        "anecdote": "D'autres cactus (notamment les Opuntias) se sont acclimatés sur les autres continents après avoir été introduits par l'homme."
+      },
+      {
+        "id": 28,
+        "question": "Quel cactus produit le pitaya, également appelé le fruit du dragon ?",
+        "propositions": [
+          "Peyotl",
+          "Cereus",
+          "Hylocereus",
+          "San Pedro"
+        ],
+        "réponse": "Hylocereus",
+        "anecdote": "La chair du pitaya est comestible et ressemble par sa texture et la présence de petits pépins noirs à celle du kiwi, au goût plus doux."
+      },
+      {
+        "id": 29,
+        "question": "Quelle est la plus petite espèce de cactus connue à ce jour ?",
+        "propositions": [
+          "Cereus jamacaru",
+          "Aztekium ritteri",
+          "Blossfeldia liliputiana",
+          "Echinopsis oxygona"
+        ],
+        "réponse": "Blossfeldia liliputiana",
+        "anecdote": "Cette espèce de cactus porte le nom du pays légendaire de Liliput, l'appellation liliputana étant parfois utilisée mais non validée."
+      },
+      {
+        "id": 30,
+        "question": "Quelle série de BD humoristique est dessinée par Philippe Bercovici ?",
+        "propositions": [
+          "Circus Cactus",
+          "Cactus Club",
+          "Cactus Man",
+          "Red Cactus"
+        ],
+        "réponse": "Cactus Club",
+        "anecdote": "Dans un club de vacances, l'animateur Phil, G.O. en chef, est chargé de s'occuper de tous les caprices de ses clients."
+      }
+    ]
+    },
+    "en": {
+      "débutant": [
+      {
+        "id": 1,
+        "question": "What do cacti store in their tissues to deal more effectively with drought ?",
+        "propositions": [
+          "Thorns",
+          "Suc",
+          "Earth",
+          "Salt"
+        ],
+        "réponse": "Suc",
+        "anecdote": "They are almost all succulent or succulent plants, that is to say xenophytes plants that store reserves of juice."
+      },
+      {
+        "id": 2,
+        "question": "How many species does the Cactaceae family include ?",
+        "propositions": [
+          "3,500",
+          "1,500",
+          "2,500",
+          "4,500"
+        ],
+        "réponse": "2,500",
+        "anecdote": "In common parlance, the word cacti often refers to the prickly pear, a common plant on the Mediterranean coast."
+      },
+      {
+        "id": 3,
+        "question": "What form of cactus is often appreciated by collectors ?",
+        "propositions": [
+          "Shrub",
+          "Climbing",
+          "Globular",
+          "Monstrous"
+        ],
+        "réponse": "Monstrous",
+        "anecdote": "The origin of the phenomenon is unknown, probably due to mutations divided into two categories : fasciation and cristation."
+      },
+      {
+        "id": 4,
+        "question": "With his snowshoes, which country is the prickly pear tree from ?",
+        "propositions": [
+          "Spain",
+          "Mexico",
+          "Greece",
+          "Australia"
+        ],
+        "réponse": "Mexico",
+        "anecdote": "The species is indeed native to Mexico, where it is called nopal, and is included in the coat of arms of the Mexican flag."
+      },
+      {
+        "id": 5,
+        "question": "At what time of the day do cacti absorb carbon dioxide ?",
+        "propositions": [
+          "Never",
+          "Day and night",
+          "The day",
+          "The night"
+        ],
+        "réponse": "The night",
+        "anecdote": "Unlike most plants, cacti have a crassulacenic acid metabolism (CAM) to fix carbon."
+      },
+      {
+        "id": 6,
+        "question": "Who brought back the first cactus in Europe (Melocactus) ?",
+        "propositions": [
+          "Christopher Columbus",
+          "Afonso de Paiva",
+          "Diogo Gomes",
+          "Pedro de Sintra"
+        ],
+        "réponse": "Christopher Columbus",
+        "anecdote": "Cactus shaped melon (hence their name), they are native to the Caribbean, the Caribbean and northern South America."
+      },
+      {
+        "id": 7,
+        "question": "Ideally, how often is it necessary to repot a cactus ?",
+        "propositions": [
+          "Every 4 years",
+          "Every 12 years",
+          "Every 16 years",
+          "Every 8 years"
+        ],
+        "réponse": "Every 4 years",
+        "anecdote": "The cactuses do not like the excess of food, the cactus will grow if the volume of the pot does not exceed that of the plant."
+      },
+      {
+        "id": 8,
+        "question": "What is the most appropriate temperature for the winter break of the cactus ?",
+        "propositions": [
+          "22° C",
+          "17° C",
+          "7° C",
+          "12° C"
+        ],
+        "réponse": "7° C",
+        "anecdote": "During the summer, a good watering once a week is enough, although cacti can easily do without water for a long time."
+      },
+      {
+        "id": 9,
+        "question": "How much light does a cactus need to flourish ?",
+        "propositions": [
+          "Many",
+          "None",
+          "The maximum",
+          "A little"
+        ],
+        "réponse": "The maximum",
+        "anecdote": "However, after wintering, do not expose your cacti directly in direct sunlight but prefer a gradual return to light."
+      },
+      {
+        "id": 10,
+        "question": "In which regions of the world do cacti grow best ?",
+        "propositions": [
+          "Prairies",
+          "Plains",
+          "Mountains",
+          "Deserts"
+        ],
+        "réponse": "Deserts",
+        "anecdote": "Cacti are found mainly in Mexico, the United States, the Mediterranean Rim, the Sahara and Australia."
+      }
+    ],
+    "confirmé": [
+      {
+        "id": 11,
+        "question": "How many lodges does the cactus fruit berry contain ?",
+        "propositions": [
+          "Two",
+          "Four",
+          "Only one",
+          "Three"
+        ],
+        "réponse": "Only one",
+        "anecdote": "The fruit of the cactus must be a single bay because there are no internal partitions separating seeds or groups of seeds."
+      },
+      {
+        "id": 12,
+        "question": "Which cactus was formerly used for ritual purposes by Amerindians ?",
+        "propositions": [
+          "Peyotl",
+          "Hylocereus",
+          "Cereus",
+          "San Pedro"
+        ],
+        "réponse": "Peyotl",
+        "anecdote": "This cactus contains several alkaloids including mescaline, used for its enthesogenic, psychotropic and hallucinogenic properties."
+      },
+      {
+        "id": 13,
+        "question": "What does the ancient Greek word kaktos mean, where does the name cactus come from ?",
+        "propositions": [
+          "Thistle",
+          "Spiked",
+          "Resin",
+          "Sun"
+        ],
+        "réponse": "Thistle",
+        "anecdote": "It was used as the name of the first genus of these plants by Carl von Linné, before others were separated."
+      },
+      {
+        "id": 14,
+        "question": "In how many genera are distributed the 2 500 known cacti species ?",
+        "propositions": [
+          "50",
+          "30",
+          "70",
+          "90"
+        ],
+        "réponse": "90",
+        "anecdote": "Systematically, genus is a taxonomic rank that groups together a set of species that share similar characteristics."
+      },
+      {
+        "id": 15,
+        "question": "Which cacti have the appearance of classic shrubs and their true leaves ?",
+        "propositions": [
+          "Epiphytes",
+          "Globular",
+          "Columns",
+          "Primitives"
+        ],
+        "réponse": "Primitives",
+        "anecdote": "Pereskia is a kind of cactus from the tropical areas of America that has the rare characteristic of wearing visible leaves."
+      },
+      {
+        "id": 16,
+        "question": "In how many morphological types can cactus be grouped ?",
+        "propositions": [
+          "Four",
+          "Seven",
+          "Six",
+          "Five"
+        ],
+        "réponse": "Five",
+        "anecdote": "Primitive cactus, opunum, columnar cactus, globular cactus and epiphytic cactus with flattened stems are the five morphological types."
+      },
+      {
+        "id": 17,
+        "question": "In which country is collecting cactus punished by prison ?",
+        "propositions": [
+          "Argentina",
+          "India",
+          "Algiers",
+          "Mexico"
+        ],
+        "réponse": "Mexico",
+        "anecdote": "Some countries have a contradictory attitude towards the protection of species, but urban extensions destroy cacti sites."
+      },
+      {
+        "id": 18,
+        "question": "For which farm was Opuntia imported to Australia ?",
+        "propositions": [
+          "Woodlice",
+          "Ladybugs",
+          "Colopites",
+          "Mealybugs"
+        ],
+        "réponse": "Mealybugs",
+        "anecdote": "Philip Miller attributed the name Opuntia to a plant called Indian fig tree in reference to the ancient Greek city of Oponte."
+      },
+      {
+        "id": 19,
+        "question": "Which technique easily allows the multiplication of cacti ?",
+        "propositions": [
+          "Staking",
+          "Marcottage",
+          "Cernage",
+          "Cutting"
+        ],
+        "réponse": "Cutting",
+        "anecdote": "Cutting consists of giving birth to a new individual from an isolated organ or organ fragment."
+      },
+      {
+        "id": 20,
+        "question": "Which French car brand offers a model called Cactus ?",
+        "propositions": [
+          "Nissan Juke",
+          "Peugeot P4",
+          "Audi Q2",
+          "Citroen C4"
+        ],
+        "réponse": "Citroen C4",
+        "anecdote": "The C4 Cactus is a compact sedan, initially typed crossover, presented on February 5, 2014, the birthday of André Citroën."
+      }
+    ],
+    "expert": [
+      {
+        "id": 21,
+        "question": "In 1753, which naturalist grouped the 22 known species of cactus ?",
+        "propositions": [
+          "Daniel Rolander",
+          "Erik Acharius",
+          "Olof Celsius",
+          "Carl von Linné"
+        ],
+        "réponse": "Carl von Linné",
+        "anecdote": "This Swedish naturalist, who devoted his life to living beings, laid the foundations of the modern system of binomial nomenclature."
+      },
+      {
+        "id": 22,
+        "question": "How many cactus species today have medicinal and / or veterinary use ?",
+        "propositions": [
+          "94",
+          "4",
+          "64",
+          "34"
+        ],
+        "réponse": "64",
+        "anecdote": "64 % of threatened cacti are used by humans in one of these forms and 57 % (236 species) in horticulture."
+      },
+      {
+        "id": 23,
+        "question": "In botany, what distinctive sign differentiates Cactaceae from other families ?",
+        "propositions": [
+          "Radicle",
+          "Lenticelle",
+          "Chalaze",
+          "Areola"
+        ],
+        "réponse": "Areola",
+        "anecdote": "Areolas are small growths of the plant from which thorns, hairs and flowers leave in a bundle."
+      },
+      {
+        "id": 24,
+        "question": "What is the highest species of cactus known today ?",
+        "propositions": [
+          "Harrisia fragrans",
+          "Pachycereus pringlei",
+          "Rhipsalis russellii",
+          "Opuntia rufida"
+        ],
+        "réponse": "Pachycereus pringlei",
+        "anecdote": "With a trunk a meter in diameter, its funnel-shaped white flowers 8 cm long appear only in adults."
+      },
+      {
+        "id": 25,
+        "question": "What is the name of an abnormal growth of the top of a cactus stem ?",
+        "propositions": [
+          "Cristation",
+          "Resupination",
+          "Serotiny",
+          "Ostiole"
+        ],
+        "réponse": "Cristation",
+        "anecdote": "Crucation is a form of plant tematology that consists of the abnormal growth of the top of a stem."
+      },
+      {
+        "id": 26,
+        "question": "Which columnar cacti is known to contain mescaline ?",
+        "propositions": [
+          "Ferocactus",
+          "Parodia",
+          "San Pedro",
+          "Oroya"
+        ],
+        "réponse": "San Pedro",
+        "anecdote": "This fast-growing columnar cactus, native to the Peruvian Andes, grows between 2 000 and 3 000 m altitude."
+      },
+      {
+        "id": 27,
+        "question": "Which valley is one of the richest cactus sites in the world ?",
+        "propositions": [
+          "Valley of Usines",
+          "Valley of Joux",
+          "Valley of Tehuacan",
+          "Valley of Baïgorry"
+        ],
+        "réponse": "Valley of Tehuacan",
+        "anecdote": "Other cacti (especially Opuntias) have become acclimatized on other continents after being introduced by humans."
+      },
+      {
+        "id": 28,
+        "question": "Which cactus produces the pitaya, also called the dragon fruit ?",
+        "propositions": [
+          "Hylocereus",
+          "Cereus",
+          "Peyotl",
+          "San Pedro"
+        ],
+        "réponse": "Hylocereus",
+        "anecdote": "The flesh of the pitaya is edible and resembles by its texture and the presence of small black peepers to that of the kiwi, with a softer taste."
+      },
+      {
+        "id": 29,
+        "question": "What is the smallest cactus species known to date ?",
+        "propositions": [
+          "Echinopsis oxygona",
+          "Blossfeldia liliputiana",
+          "Aztekium ritteri",
+          "Cereus jamacaru"
+        ],
+        "réponse": "Blossfeldia liliputiana",
+        "anecdote": "This species of cacti bears the name of the legendary country of Liliput, the name liliputana being sometimes used but not validated."
+      },
+      {
+        "id": 30,
+        "question": "What series of humorous comics is drawn by Philippe Bercovici ?",
+        "propositions": [
+          "Cactus Club",
+          "Circus Cactus",
+          "Cactus Man",
+          "Red Cactus"
+        ],
+        "réponse": "Cactus Club",
+        "anecdote": "In a holiday club, the host Phil, G.O. Chief, is responsible for dealing with all the whims of his customers."
+      }
+    ]
+    },
+    "de": {
+      "débutant": [
+      {
+        "id": 1,
+        "question": "Was speichern Kakteen in ihren Geweben, um besser mit Dürre fertig zu werden ?",
+        "propositions": [
+          "Erde",
+          "Salz",
+          "Dornen",
+          "Suc"
+        ],
+        "réponse": "Suc",
+        "anecdote": "Es sind fast alle sukkulenten oder sukkulenten Pflanzen, dh Xenophytenpflanzen, die Saftreserven speichern."
+      },
+      {
+        "id": 2,
+        "question": "Wie viele Arten umfasst die Familie der Cactaceae ?",
+        "propositions": [
+          "4,500",
+          "3,500",
+          "2,500",
+          "1,500"
+        ],
+        "réponse": "2,500",
+        "anecdote": "Im Volksmund bezieht sich das Wort Kakteen oft auf die Kaktusfeige, eine häufige Pflanze an der Mittelmeerküste."
+      },
+      {
+        "id": 3,
+        "question": "Welche Art von Kakteen wird von Sammlern oft geschätzt ?",
+        "propositions": [
+          "Monströs",
+          "Klettern",
+          "Kugel",
+          "Strauch"
+        ],
+        "réponse": "Monströs",
+        "anecdote": "Der Ursprung des Phänomens ist unbekannt, wahrscheinlich aufgrund von Mutationen, die in zwei Kategorien unterteilt sind : Faszination und Kristallisation."
+      },
+      {
+        "id": 4,
+        "question": "Aus welchem Land stammt der Kaktusfeigenbaum mit seinen Schneeschuhen ?",
+        "propositions": [
+          "Spanien",
+          "Griechenland",
+          "Mexiko",
+          "Australien"
+        ],
+        "réponse": "Mexiko",
+        "anecdote": "Die Art ist in der Tat in Mexiko beheimatet, wo sie als Nopal bezeichnet wird und im Wappen der mexikanischen Flagge enthalten ist."
+      },
+      {
+        "id": 5,
+        "question": "Zu welcher Tageszeit nehmen Kakteen Kohlendioxid auf ?",
+        "propositions": [
+          "Die nacht",
+          "Der tag",
+          "Niemals",
+          "Tag und Nacht"
+        ],
+        "réponse": "Die nacht",
+        "anecdote": "Im Gegensatz zu den meisten Pflanzen haben Kakteen einen Crassulacensäurestoffwechsel (CAM), um Kohlenstoff zu binden."
+      },
+      {
+        "id": 6,
+        "question": "Wer brachte den ersten Kaktus in Europa mit (Melocactus) ?",
+        "propositions": [
+          "Christoph Kolumbus",
+          "Afonso de Paiva",
+          "Diogo Gomes",
+          "Pedro de Sintra"
+        ],
+        "réponse": "Christoph Kolumbus",
+        "anecdote": "Kaktusförmige Melone (daher ihr Name), sie sind in der Karibik, der Karibik und im Norden Südamerikas beheimatet."
+      },
+      {
+        "id": 7,
+        "question": "Wie oft muss im Idealfall ein Kaktus umgetopft werden ?",
+        "propositions": [
+          "Alle 12 Jahre",
+          "Alle 16 Jahre",
+          "Alle 8 Jahre",
+          "Alle 4 Jahre"
+        ],
+        "réponse": "Alle 4 Jahre",
+        "anecdote": "Die Kakteen mögen keinen Futterüberschuss, der Kaktus wächst, wenn das Topfvolumen das der Pflanze nicht überschreitet."
+      },
+      {
+        "id": 8,
+        "question": "Was ist die am besten geeignete Temperatur für die Winterpause des Kaktus ?",
+        "propositions": [
+          "17° C",
+          "12° C",
+          "7° C",
+          "22° C"
+        ],
+        "réponse": "7° C",
+        "anecdote": "Während des Sommers reicht eine gute Bewässerung einmal pro Woche aus, obwohl Kakteen leicht lange auf Wasser verzichten können."
+      },
+      {
+        "id": 9,
+        "question": "Wie viel Licht braucht ein Kaktus, um zu gedeihen ?",
+        "propositions": [
+          "Viele",
+          "Das Maximum",
+          "Keine",
+          "Ein wenig"
+        ],
+        "réponse": "Das Maximum",
+        "anecdote": "Setzen Sie Ihre Kakteen nach dem Überwintern jedoch nicht direkter Sonneneinstrahlung aus, sondern ziehen Sie eine allmähliche Rückkehr zum Licht vor."
+      },
+      {
+        "id": 10,
+        "question": "In welchen Regionen der Welt wachsen Kakteen am besten ?",
+        "propositions": [
+          "Wüsten",
+          "Ebenen",
+          "Prärien",
+          "Berge"
+        ],
+        "réponse": "Wüsten",
+        "anecdote": "Kakteen kommen hauptsächlich in Mexiko, den USA, am Mittelmeer, in der Sahara und in Australien vor."
+      }
+    ],
+    "confirmé": [
+      {
+        "id": 11,
+        "question": "Wie viele Hütten enthält die Kaktusfruchtbeere ?",
+        "propositions": [
+          "Nur eine",
+          "Zwei",
+          "Vier",
+          "Drei"
+        ],
+        "réponse": "Nur eine",
+        "anecdote": "Die Frucht des Kaktus muss eine einzelne Bucht sein, da es keine inneren Trennwände gibt, die Samen oder Gruppen von Samen trennen."
+      },
+      {
+        "id": 12,
+        "question": "Welcher Kaktus wurde früher von Indianern zu rituellen Zwecken verwendet ?",
+        "propositions": [
+          "Hylocereus",
+          "San Pedro",
+          "Peyotl",
+          "Cereus"
+        ],
+        "réponse": "Peyotl",
+        "anecdote": "Dieser Kaktus enthält mehrere Alkaloide, darunter Meskalin, das aufgrund seiner enthesogenen, psychotropen und halluzinogenen Eigenschaften verwendet wird."
+      },
+      {
+        "id": 13,
+        "question": "Was bedeutet das altgriechische Wort Kaktos, woher kommt der Name Kaktus ?",
+        "propositions": [
+          "Sonne",
+          "Distel",
+          "Dorn",
+          "Harz"
+        ],
+        "réponse": "Distel",
+        "anecdote": "Es wurde von Carl von Linné als Name der ersten Gattung dieser Pflanzen verwendet, bevor andere getrennt wurden."
+      },
+      {
+        "id": 14,
+        "question": "In wie vielen Gattungen sind die 2 500 bekannten Kakteenarten verbreitet ?",
+        "propositions": [
+          "70",
+          "90",
+          "50",
+          "30"
+        ],
+        "réponse": "90",
+        "anecdote": "Systematisch ist Gattung ein taxonomischer Rang, der eine Reihe von Arten zusammenfasst, die ähnliche Merkmale aufweisen."
+      },
+      {
+        "id": 15,
+        "question": "Welche Kakteen haben das Aussehen klassischer Sträucher und ihrer wahren Blätter ?",
+        "propositions": [
+          "Epiphyten",
+          "Primitive",
+          "Spalten",
+          "Kugel"
+        ],
+        "réponse": "Primitive",
+        "anecdote": "Pereskia ist eine Art Kaktus aus den tropischen Gebieten Amerikas, der die seltene Eigenschaft hat, sichtbare Blätter zu tragen."
+      },
+      {
+        "id": 16,
+        "question": "In wie viele morphologische Typen können Kakteen eingeteilt werden ?",
+        "propositions": [
+          "Sieben",
+          "Fünf",
+          "Sechs",
+          "Vier"
+        ],
+        "réponse": "Fünf",
+        "anecdote": "Primitiver Kaktus, Opunum, Säulenkaktus, Kugelkaktus und epiphytischer Kaktus mit abgeflachten Stielen sind die fünf morphologischen Typen."
+      },
+      {
+        "id": 17,
+        "question": "In welchem Land sammelt man Kakteen, die vom Gefängnis bestraft werden ?",
+        "propositions": [
+          "Algier",
+          "Indien",
+          "Argentinien",
+          "Mexiko"
+        ],
+        "réponse": "Mexiko",
+        "anecdote": "Einige Länder haben eine widersprüchliche Haltung zum Artenschutz, aber Stadterweiterungen zerstören Kakteenstandorte."
+      },
+      {
+        "id": 18,
+        "question": "Für welche Farm wurde Opuntia nach Australien importiert ?",
+        "propositions": [
+          "Mealybugs",
+          "Woodlice",
+          "Kolopiten",
+          "Marienkäfer"
+        ],
+        "réponse": "Mealybugs",
+        "anecdote": "Philip Miller schrieb den Namen Opuntia einer Pflanze zu, die in Anlehnung an die antike griechische Stadt Oponte als indischer Feigenbaum bezeichnet wurde."
+      },
+      {
+        "id": 19,
+        "question": "Mit welcher Technik lassen sich Kakteen leicht vermehren ?",
+        "propositions": [
+          "Marcottage",
+          "Abstecken",
+          "Cernage",
+          "Schneiden"
+        ],
+        "réponse": "Schneiden",
+        "anecdote": "Das Schneiden besteht darin, aus einem isolierten Organ oder Organfragment ein neues Individuum zu gebären."
+      },
+      {
+        "id": 20,
+        "question": "Welche französische Automarke bietet ein Modell namens Cactus an ?",
+        "propositions": [
+          "Citroen C4",
+          "Nissan Juke",
+          "Peugeot P4",
+          "Audi Q2"
+        ],
+        "réponse": "Citroen C4",
+        "anecdote": "Der C4 Cactus ist eine kompakte Limousine mit ursprünglich typisierter Frequenzweiche, die am 5. Februar 2014, dem Geburtstag von André Citroën, vorgestellt wurde."
+      }
+    ],
+    "expert": [
+      {
+        "id": 21,
+        "question": "Welcher Naturforscher gruppierte 1753 die 22 bekannten Kakteenarten ?",
+        "propositions": [
+          "Carl von Linné",
+          "Erik Acharius",
+          "Daniel Rolander",
+          "Olof Celsius"
+        ],
+        "réponse": "Carl von Linné",
+        "anecdote": "Der schwedische Naturforscher, der sein Leben den Lebewesen widmete, legte den Grundstein für das moderne System der Binomialnomenklatur."
+      },
+      {
+        "id": 22,
+        "question": "Wie viele Kakteenarten werden heute medizinisch und / oder veterinärmedizinisch genutzt ?",
+        "propositions": [
+          "4",
+          "34",
+          "94",
+          "64"
+        ],
+        "réponse": "64",
+        "anecdote": "64 % der bedrohten Kakteen werden vom Menschen in einer dieser Formen und 57 % (236 Arten) im Gartenbau verwendet."
+      },
+      {
+        "id": 23,
+        "question": "Welches Unterscheidungsmerkmal unterscheidet Cactaceae in der Botanik von anderen Familien ?",
+        "propositions": [
+          "Chalaze",
+          "Radicle",
+          "Lenticelle",
+          "Warzenhof"
+        ],
+        "réponse": "Warzenhof",
+        "anecdote": "Areolas sind kleine Gewächse der Pflanze, aus denen Dornen, Haare und Blüten in einem Bündel hervorgehen."
+      },
+      {
+        "id": 24,
+        "question": "Was ist die höchste heute bekannte Kaktusart ?",
+        "propositions": [
+          "Rhipsalis russellii",
+          "Harrisia fragrans",
+          "Pachycereus pringlei",
+          "Opuntia rufida"
+        ],
+        "réponse": "Pachycereus pringlei",
+        "anecdote": "Mit einem Stamm von einem Meter Durchmesser erscheinen seine trichterförmigen weißen Blüten, die 8 cm lang sind, nur bei Erwachsenen."
+      },
+      {
+        "id": 25,
+        "question": "Wie heißt ein abnormales Wachstum der Spitze eines Kakteenstamms ?",
+        "propositions": [
+          "Resupination",
+          "Cristation",
+          "Serotiny",
+          "Ostiole"
+        ],
+        "réponse": "Cristation",
+        "anecdote": "Kreuzigung ist eine Form der Pflanzentematologie, die aus dem abnormalen Wachstum der Spitze eines Stängels besteht."
+      },
+      {
+        "id": 26,
+        "question": "Von welchen Säulenkakteen ist bekannt, dass sie Meskalin enthalten ?",
+        "propositions": [
+          "Ferocactus",
+          "Oroya",
+          "San Pedro",
+          "Parodia"
+        ],
+        "réponse": "San Pedro",
+        "anecdote": "Dieser schnell wachsende Säulenkaktus stammt aus den peruanischen Anden und wächst zwischen 2 000 und 3 000 m Höhe."
+      },
+      {
+        "id": 27,
+        "question": "Welches Tal ist eines der reichsten Kakteengebiete der Welt ?",
+        "propositions": [
+          "Tal von Baïgorry",
+          "Tal von Usines",
+          "Tal von Tehuacan",
+          "Tal von Joux"
+        ],
+        "réponse": "Tal von Tehuacan",
+        "anecdote": "Andere Kakteen (insbesondere Opuntien) haben sich auf anderen Kontinenten akklimatisiert, nachdem sie von Menschen eingeschleppt wurden."
+      },
+      {
+        "id": 28,
+        "question": "Welcher Kaktus produziert die Pitaya, auch Drachenfrucht genannt ?",
+        "propositions": [
+          "Peyotl",
+          "Hylocereus",
+          "San Pedro",
+          "Cereus"
+        ],
+        "réponse": "Hylocereus",
+        "anecdote": "Das Fleisch der Pitaya ist essbar und ähnelt durch seine Textur und das Vorhandensein kleiner schwarzer Peeper dem der Kiwi mit einem weicheren Geschmack."
+      },
+      {
+        "id": 29,
+        "question": "Was ist die kleinste bisher bekannte Kakteenart ?",
+        "propositions": [
+          "Blossfeldia liliputiana",
+          "Aztekium ritteri",
+          "Cereus jamacaru",
+          "Echinopsis oxygona"
+        ],
+        "réponse": "Blossfeldia liliputiana",
+        "anecdote": "Diese Kakteenart trägt den Namen des legendären Landes Liliput, wobei der Name Liliputana manchmal verwendet, aber nicht bestätigt wird."
+      },
+      {
+        "id": 30,
+        "question": "Welche Reihe humorvoller Comics zeichnet Philippe Bercovici ?",
+        "propositions": [
+          "Zirkus Kaktus",
+          "Roter Kaktus",
+          "Cactus Club",
+          "Cactus Man"
+        ],
+        "réponse": "Cactus Club",
+        "anecdote": "In einem Ferienclub hat der Gastgeber Phil, G.O. Chef, ist verantwortlich für den Umgang mit allen Launen seiner Kunden."
+      }
+    ]
+    },
+    "es": {
+      "débutant": [
+      {
+        "id": 1,
+        "question": "¿Qué almacenan los cactus en sus tejidos para lidiar más efectivamente con la sequía ?",
+        "propositions": [
+          "Espinas",
+          "Suc",
+          "Sal",
+          "Tierra"
+        ],
+        "réponse": "Suc",
+        "anecdote": "Casi todas son plantas suculentas o suculentas, es decir, plantas xenófitas que almacenan reservas de jugo."
+      },
+      {
+        "id": 2,
+        "question": "¿Cuántas especies incluye la familia Cactaceae ?",
+        "propositions": [
+          "2,500",
+          "3,500",
+          "1,500",
+          "4,500"
+        ],
+        "réponse": "2,500",
+        "anecdote": "En el lenguaje común, la palabra cactus a menudo se refiere a la tuna, una planta común en la costa mediterránea."
+      },
+      {
+        "id": 3,
+        "question": "¿Qué forma de cactus suelen apreciar los coleccionistas ?",
+        "propositions": [
+          "Monstruoso",
+          "Arbusto",
+          "Globular",
+          "Escalada"
+        ],
+        "réponse": "Monstruoso",
+        "anecdote": "Se desconoce el origen del fenómeno, probablemente debido a mutaciones divididas en dos categorías : fasciación y cristalización."
+      },
+      {
+        "id": 4,
+        "question": "Con sus raquetas de nieve, ¿de qué país es el nopal ?",
+        "propositions": [
+          "Australia",
+          "Grecia",
+          "Mexico",
+          "España"
+        ],
+        "réponse": "Mexico",
+        "anecdote": "La especie es nativa de México, donde se llama nopal y está incluida en el escudo de armas de la bandera mexicana."
+      },
+      {
+        "id": 5,
+        "question": "¿A qué hora del día los cactus absorben dióxido de carbono ?",
+        "propositions": [
+          "Nunca",
+          "El dia",
+          "La noche",
+          "Día y noche"
+        ],
+        "réponse": "La noche",
+        "anecdote": "A diferencia de la mayoría de las plantas, los cactus tienen un metabolismo del ácido crasulacénico (CAM) para fijar el carbono."
+      },
+      {
+        "id": 6,
+        "question": "¿Quién trajo el primer cactus en Europa (Melocactus) ?",
+        "propositions": [
+          "Diogo Gomes",
+          "Afonso de Paiva",
+          "Pedro de Sintra",
+          "Cristóbal Colón"
+        ],
+        "réponse": "Cristóbal Colón",
+        "anecdote": "Melón en forma de cactus (de ahí su nombre), son nativos del Caribe, el Caribe y el norte de América del Sur."
+      },
+      {
+        "id": 7,
+        "question": "Idealmente, ¿con qué frecuencia es necesario trasplantar un cactus ?",
+        "propositions": [
+          "Cada 16 años",
+          "Cada 4 años",
+          "Cada 12 años",
+          "Cada 8 años"
+        ],
+        "réponse": "Cada 4 años",
+        "anecdote": "A los cactus no les gusta el exceso de comida, el cactus crecerá si el volumen de la maceta no excede el de la planta."
+      },
+      {
+        "id": 8,
+        "question": "¿Cuál es la temperatura más apropiada para las vacaciones de invierno del cactus ?",
+        "propositions": [
+          "7° C",
+          "22° C",
+          "12° C",
+          "17° C"
+        ],
+        "réponse": "7° C",
+        "anecdote": "Durante el verano, un buen riego una vez por semana es suficiente, aunque los cactus pueden prescindir fácilmente del agua durante mucho tiempo."
+      },
+      {
+        "id": 9,
+        "question": "¿Cuánta luz necesita un cactus para florecer ?",
+        "propositions": [
+          "El máximo",
+          "Ninguno",
+          "Muchos",
+          "Un poco"
+        ],
+        "réponse": "El máximo",
+        "anecdote": "Sin embargo, después de pasar el invierno, no exponga sus cactus directamente a la luz solar directa, sino que prefiera un retorno gradual a la luz."
+      },
+      {
+        "id": 10,
+        "question": "¿En qué regiones del mundo crecen mejor los cactus ?",
+        "propositions": [
+          "Montañas",
+          "Praderas",
+          "Desiertos",
+          "Llanuras"
+        ],
+        "réponse": "Desiertos",
+        "anecdote": "Los cactus se encuentran principalmente en México, Estados Unidos, el borde mediterráneo, el Sahara y Australia."
+      }
+    ],
+    "confirmé": [
+      {
+        "id": 11,
+        "question": "¿Cuántas logias contiene la baya de fruta de cactus ?",
+        "propositions": [
+          "Solo uno",
+          "Cuatro",
+          "Dos",
+          "Tres"
+        ],
+        "réponse": "Solo uno",
+        "anecdote": "El fruto del cactus debe ser una sola bahía porque no hay particiones internas que separen las semillas o grupos de semillas."
+      },
+      {
+        "id": 12,
+        "question": "¿Qué cactus fue utilizado anteriormente con fines rituales por los amerindios ?",
+        "propositions": [
+          "Hylocereus",
+          "San Pedro",
+          "Peyotl",
+          "Cereus"
+        ],
+        "réponse": "Peyotl",
+        "anecdote": "Este cactus contiene varios alcaloides, incluida la mescalina, utilizada por sus propiedades enteogénicas, psicotrópicas y alucinógenas."
+      },
+      {
+        "id": 13,
+        "question": "¿Qué significa la antigua palabra griega kaktos, de dónde viene el nombre cactus ?",
+        "propositions": [
+          "Resina",
+          "Espina",
+          "Sol",
+          "Cardo"
+        ],
+        "réponse": "Cardo",
+        "anecdote": "Fue usado como el nombre del primer género de estas plantas por Carl von Linné, antes de que otros fueran separados."
+      },
+      {
+        "id": 14,
+        "question": "¿En cuántos géneros se distribuyen las 2 500 especies de cactus conocidas ?",
+        "propositions": [
+          "50",
+          "30",
+          "70",
+          "90"
+        ],
+        "réponse": "90",
+        "anecdote": "Sistemáticamente, el género es un rango taxonómico que agrupa un conjunto de especies que comparten características similares."
+      },
+      {
+        "id": 15,
+        "question": "¿Qué cactus tienen la apariencia de arbustos clásicos y sus hojas verdaderas ?",
+        "propositions": [
+          "Epifitas",
+          "Primitivas",
+          "Globular",
+          "Columnas"
+        ],
+        "réponse": "Primitivas",
+        "anecdote": "Pereskia es un tipo de cactus de las áreas tropicales de América que tiene la rara característica de usar hojas visibles."
+      },
+      {
+        "id": 16,
+        "question": "¿En cuántos tipos morfológicos se pueden agrupar los cactus ?",
+        "propositions": [
+          "Seis",
+          "Cuatro",
+          "Siete",
+          "Cinco"
+        ],
+        "réponse": "Cinco",
+        "anecdote": "Los cinco tipos morfológicos son los cactus primitivos, el opunum, el cactus columnar, el cactus globular y el cactus epífito con tallos aplanados."
+      },
+      {
+        "id": 17,
+        "question": "¿En qué país se recolecta cactus castigado con prisión ?",
+        "propositions": [
+          "Argel",
+          "Argentina",
+          "India",
+          "Mexico"
+        ],
+        "réponse": "Mexico",
+        "anecdote": "Algunos países tienen una actitud contradictoria hacia la protección de las especies, pero las extensiones urbanas destruyen los cactus."
+      },
+      {
+        "id": 18,
+        "question": "¿Para qué granja se importó Opuntia a Australia ?",
+        "propositions": [
+          "Mariquitas",
+          "Woodlice",
+          "Colopitas",
+          "Cochinillas"
+        ],
+        "réponse": "Cochinillas",
+        "anecdote": "Philip Miller atribuyó el nombre de Opuntia a una planta llamada higuera india en referencia a la antigua ciudad griega de Oponte."
+      },
+      {
+        "id": 19,
+        "question": "¿Qué técnica permite fácilmente la multiplicación de cactus ?",
+        "propositions": [
+          "Marcottage",
+          "Replanteo",
+          "Cernage",
+          "Corte"
+        ],
+        "réponse": "Corte",
+        "anecdote": "El corte consiste en dar a luz a un nuevo individuo a partir de un órgano o fragmento de órgano aislado."
+      },
+      {
+        "id": 20,
+        "question": "¿Qué marca de automóviles francesa ofrece un modelo llamado Cactus ?",
+        "propositions": [
+          "Nissan Juke",
+          "Audi Q2",
+          "Citroen C4",
+          "Peugeot P4"
+        ],
+        "réponse": "Citroen C4",
+        "anecdote": "El C4 Cactus es un sedán compacto, inicialmente cruzado, presentado el 5 de febrero de 2014, el cumpleaños de André Citroën."
+      }
+    ],
+    "expert": [
+      {
+        "id": 21,
+        "question": "En 1753, ¿qué naturalista agrupó las 22 especies conocidas de cactus ?",
+        "propositions": [
+          "Erik Acharius",
+          "Olof Celsius",
+          "Daniel Rolander",
+          "Carl von Linné"
+        ],
+        "réponse": "Carl von Linné",
+        "anecdote": "Este naturalista sueco, que dedicó su vida a los seres vivos, sentó las bases del sistema moderno de nomenclatura binomial."
+      },
+      {
+        "id": 22,
+        "question": "¿Cuántas especies de cactus tienen actualmente uso medicinal y / o veterinario ?",
+        "propositions": [
+          "4",
+          "64",
+          "94",
+          "34"
+        ],
+        "réponse": "64",
+        "anecdote": "El 64 % de los cactus amenazados son utilizados por humanos en una de estas formas y el 57 % (236 especies) en horticultura."
+      },
+      {
+        "id": 23,
+        "question": "En botánica, ¿qué signo distintivo diferencia a las Cactaceae de otras familias ?",
+        "propositions": [
+          "Areola",
+          "Chalaze",
+          "Lenticelle",
+          "Radicle"
+        ],
+        "réponse": "Areola",
+        "anecdote": "Las areolas son pequeños crecimientos de la planta a partir de los cuales las espinas, pelos y flores comienzan en un bulto."
+      },
+      {
+        "id": 24,
+        "question": "¿Cuál es la especie de cactus más alta que se conoce hoy en día ?",
+        "propositions": [
+          "Harrisia fragrans",
+          "Pachycereus pringlei",
+          "Opuntia rufida",
+          "Rhipsalis russellii"
+        ],
+        "réponse": "Pachycereus pringlei",
+        "anecdote": "Con un tronco de un metro de diámetro, sus flores blancas en forma de embudo de 8 cm de largo solo aparecen en adultos."
+      },
+      {
+        "id": 25,
+        "question": "¿Cuál es el nombre de un crecimiento anormal de la parte superior de un tallo de cactus ?",
+        "propositions": [
+          "Resupinación",
+          "Serotinia",
+          "Ostiole",
+          "Cristation"
+        ],
+        "réponse": "Cristation",
+        "anecdote": "La crucificación es una forma de tematología vegetal que consiste en el crecimiento anormal de la parte superior de un tallo."
+      },
+      {
+        "id": 26,
+        "question": "¿Qué cactus columnar se sabe que contiene mescalina ?",
+        "propositions": [
+          "Ferocactus",
+          "Oroya",
+          "San Pedro",
+          "Parodia"
+        ],
+        "réponse": "San Pedro",
+        "anecdote": "Este cactus columnar de rápido crecimiento, nativo de los Andes peruanos, crece entre 2 000 y 3 000 m de altitud."
+      },
+      {
+        "id": 27,
+        "question": "¿Qué valle es uno de los sitios de cactus más ricos del mundo ?",
+        "propositions": [
+          "Valle de Usines",
+          "Valle de Baïgorry",
+          "Valle de Tehuacan",
+          "Valle de Joux"
+        ],
+        "réponse": "Valle de Tehuacan",
+        "anecdote": "Otros cactus (especialmente Opuntias) se han aclimatado en otros continentes después de ser introducidos por humanos."
+      },
+      {
+        "id": 28,
+        "question": "¿Qué cactus produce la pitaya, también llamada fruta del dragón ?",
+        "propositions": [
+          "Hylocereus",
+          "San Pedro",
+          "Peyotl",
+          "Cereus"
+        ],
+        "réponse": "Hylocereus",
+        "anecdote": "La carne de la pitaya es comestible y se asemeja por su textura y la presencia de pequeños ojos negros a la del kiwi, con un sabor más suave."
+      },
+      {
+        "id": 29,
+        "question": "¿Cuál es la especie de cactus más pequeña conocida hasta la fecha ?",
+        "propositions": [
+          "Cereus jamacaru",
+          "Blossfeldia liliputiana",
+          "Aztekium ritteri",
+          "Echinopsis oxygona"
+        ],
+        "réponse": "Blossfeldia liliputiana",
+        "anecdote": "Esta especie de cactus lleva el nombre del legendario país de Liliput, el nombre liliputana se usa a veces pero no se valida."
+      },
+      {
+        "id": 30,
+        "question": "¿Qué serie de cómics humorísticos dibuja Philippe Bercovici ?",
+        "propositions": [
+          "Cactus Man",
+          "Cactus Club",
+          "Cactus rojo",
+          "Cactus de circo"
+        ],
+        "réponse": "Cactus Club",
+        "anecdote": "En un club de vacaciones, el anfitrión Phil, G.O. Jefe, es responsable de tratar con todos los caprichos de sus clientes."
+      }
+    ]
+    },
+    "it": {
+      "débutant": [
+      {
+        "id": 1,
+        "question": "Cosa immagazzinano i cactus nei loro tessuti per affrontare meglio la siccità ?",
+        "propositions": [
+          "Spine",
+          "Sale",
+          "Terra",
+          "Suc"
+        ],
+        "réponse": "Suc",
+        "anecdote": "Sono quasi tutte piante succulente o succulente, vale a dire piante xenofite che immagazzinano riserve di succo."
+      },
+      {
+        "id": 2,
+        "question": "Quante specie include la famiglia delle Cactaceae ?",
+        "propositions": [
+          "1.500",
+          "3.500",
+          "2.500",
+          "4.500"
+        ],
+        "réponse": "2.500",
+        "anecdote": "Nel linguaggio comune, la parola cactus si riferisce spesso al fico d'India, una pianta comune sulla costa mediterranea."
+      },
+      {
+        "id": 3,
+        "question": "Quale forma di cactus è spesso apprezzata dai collezionisti ?",
+        "propositions": [
+          "Arbusto",
+          "Arrampicata",
+          "Globale",
+          "Mostruoso"
+        ],
+        "réponse": "Mostruoso",
+        "anecdote": "L'origine del fenomeno è sconosciuta, probabilmente a causa di mutazioni divise in due categorie : fascia e cristallizzazione."
+      },
+      {
+        "id": 4,
+        "question": "Con le sue racchette da neve, da quale paese proviene il fico d'india ?",
+        "propositions": [
+          "Spagna",
+          "Australia",
+          "Grecia",
+          "Messico"
+        ],
+        "réponse": "Messico",
+        "anecdote": "La specie è infatti originaria del Messico, dove si chiama nopal, ed è inclusa nello stemma della bandiera messicana."
+      },
+      {
+        "id": 5,
+        "question": "A che ora del giorno i cactus assorbono l'anidride carbonica ?",
+        "propositions": [
+          "Giorno e notte",
+          "Mai",
+          "La notte",
+          "Il giorno"
+        ],
+        "réponse": "La notte",
+        "anecdote": "A differenza della maggior parte delle piante, i cactus hanno un metabolismo dell'acido crassulacenico (CAM) per fissare il carbonio."
+      },
+      {
+        "id": 6,
+        "question": "Chi ha riportato il primo cactus in Europa (Melocactus) ?",
+        "propositions": [
+          "Afonso de Paiva",
+          "Cristoforo Colombo",
+          "Diogo Gomes",
+          "Pedro de Sintra"
+        ],
+        "réponse": "Cristoforo Colombo",
+        "anecdote": "Melone a forma di cactus (da cui il loro nome), sono originari dei Caraibi, dei Caraibi e del Nord America meridionale."
+      },
+      {
+        "id": 7,
+        "question": "Idealmente, quanto spesso è necessario rinvasare un cactus ?",
+        "propositions": [
+          "Ogni 8 anni",
+          "Ogni 4 anni",
+          "Ogni 16 anni",
+          "Ogni 12 anni"
+        ],
+        "réponse": "Ogni 4 anni",
+        "anecdote": "I cactus non amano l'eccesso di cibo, il cactus crescerà se il volume della pentola non supera quello della pianta."
+      },
+      {
+        "id": 8,
+        "question": "Qual è la temperatura più appropriata per la pausa invernale del cactus ?",
+        "propositions": [
+          "7° C",
+          "22° C",
+          "17° C",
+          "12° C"
+        ],
+        "réponse": "7° C",
+        "anecdote": "Durante l'estate, una buona irrigazione una volta alla settimana è sufficiente, anche se i cactus possono facilmente fare a meno dell'acqua per molto tempo."
+      },
+      {
+        "id": 9,
+        "question": "Di quanta luce ha bisogno un cactus per prosperare ?",
+        "propositions": [
+          "Un po",
+          "Il massimo",
+          "Molti",
+          "Nessuno"
+        ],
+        "réponse": "Il massimo",
+        "anecdote": "Tuttavia, dopo lo svernamento, non esporre i cactus direttamente alla luce solare diretta ma preferire un ritorno graduale alla luce."
+      },
+      {
+        "id": 10,
+        "question": "In quali regioni del mondo crescono meglio i cactus ?",
+        "propositions": [
+          "Praterie",
+          "Pianure",
+          "Montagne",
+          "Deserti"
+        ],
+        "réponse": "Deserti",
+        "anecdote": "I cactus si trovano principalmente in Messico, negli Stati Uniti, nel Mar Mediterraneo, nel Sahara e in Australia."
+      }
+    ],
+    "confirmé": [
+      {
+        "id": 11,
+        "question": "Quante casette contiene la bacca del frutto del cactus ?",
+        "propositions": [
+          "Quattro",
+          "Tre",
+          "Solo uno",
+          "Due"
+        ],
+        "réponse": "Solo uno",
+        "anecdote": "Il frutto del cactus deve essere una singola baia perché non ci sono partizioni interne che separano semi o gruppi di semi."
+      },
+      {
+        "id": 12,
+        "question": "Quale cactus era precedentemente usato per scopi rituali dagli amerindi ?",
+        "propositions": [
+          "San Pedro",
+          "Peyotl",
+          "Cereus",
+          "Hylocereus"
+        ],
+        "réponse": "Peyotl",
+        "anecdote": "Questo cactus contiene diversi alcaloidi tra cui la mescalina, utilizzata per le sue proprietà entesogeniche, psicotrope e allucinogene."
+      },
+      {
+        "id": 13,
+        "question": "Cosa significa l'antica parola greca kaktos, da dove deriva il nome cactus ?",
+        "propositions": [
+          "Sole",
+          "Spina",
+          "Cardo",
+          "Resina"
+        ],
+        "réponse": "Cardo",
+        "anecdote": "Fu usato come nome del primo genere di queste piante da Carl von Linné, prima che altri fossero separati."
+      },
+      {
+        "id": 14,
+        "question": "In quanti generi sono distribuite le 2 500 specie di cactus conosciute ?",
+        "propositions": [
+          "50",
+          "70",
+          "30",
+          "90"
+        ],
+        "réponse": "90",
+        "anecdote": "Sistematicamente, il genere è un rango tassonomico che raggruppa un insieme di specie che condividono caratteristiche simili."
+      },
+      {
+        "id": 15,
+        "question": "Quali cactus hanno l'aspetto di arbusti classici e le loro vere foglie ?",
+        "propositions": [
+          "Primitivi",
+          "Globale",
+          "Colonne",
+          "Epifite"
+        ],
+        "réponse": "Primitivi",
+        "anecdote": "La pereskia è una specie di cactus proveniente dalle aree tropicali dell'America che ha la rara caratteristica di indossare foglie visibili."
+      },
+      {
+        "id": 16,
+        "question": "In quanti tipi morfologici è possibile raggruppare i cactus ?",
+        "propositions": [
+          "Cinque",
+          "Quattro",
+          "Sei",
+          "Sette"
+        ],
+        "réponse": "Cinque",
+        "anecdote": "I cinque tipi morfologici sono cactus primitivo, opunum, cactus colonnare, cactus globulare e cactus epifita con steli appiattiti."
+      },
+      {
+        "id": 17,
+        "question": "In quale paese sta raccogliendo cactus puniti con la prigione ?",
+        "propositions": [
+          "Argentina",
+          "Algeri",
+          "India",
+          "Messico"
+        ],
+        "réponse": "Messico",
+        "anecdote": "Alcuni paesi hanno un atteggiamento contraddittorio nei confronti della protezione delle specie, ma le estensioni urbane distruggono i siti di cactus."
+      },
+      {
+        "id": 18,
+        "question": "Per quale fattoria è stata importata Opuntia in Australia ?",
+        "propositions": [
+          "Woodlice",
+          "Mealybugs",
+          "Colopiti",
+          "Coccinelle"
+        ],
+        "réponse": "Mealybugs",
+        "anecdote": "Philip Miller ha attribuito il nome Opuntia a una pianta chiamata fico indiano in riferimento all'antica città greca di Oponte."
+      },
+      {
+        "id": 19,
+        "question": "Quale tecnica consente facilmente la moltiplicazione dei cactus ?",
+        "propositions": [
+          "Marcottage",
+          "Cernage",
+          "Picchettamento",
+          "Taglio"
+        ],
+        "réponse": "Taglio",
+        "anecdote": "Il taglio consiste nel dare alla luce un nuovo individuo da un organo isolato o frammento di organo."
+      },
+      {
+        "id": 20,
+        "question": "Quale marchio automobilistico francese offre un modello chiamato Cactus ?",
+        "propositions": [
+          "Peugeot P4",
+          "Audi Q2",
+          "Nissan Juke",
+          "Citroen C4"
+        ],
+        "réponse": "Citroen C4",
+        "anecdote": "La C4 Cactus è una berlina compatta, inizialmente crossover tipizzata, presentata il 5 febbraio 2014, il compleanno di André Citroën."
+      }
+    ],
+    "expert": [
+      {
+        "id": 21,
+        "question": "Nel 1753, quale naturalista raggruppò le 22 specie conosciute di cactus ?",
+        "propositions": [
+          "Daniel Rolander",
+          "Olof Celsius",
+          "Carl von Linné",
+          "Erik Acharius"
+        ],
+        "réponse": "Carl von Linné",
+        "anecdote": "Questo naturalista svedese, che ha dedicato la sua vita agli esseri viventi, ha gettato le basi del moderno sistema di nomenclatura binomiale."
+      },
+      {
+        "id": 22,
+        "question": "Quante specie di cactus oggi hanno un uso medicinale e / o veterinario ?",
+        "propositions": [
+          "64",
+          "94",
+          "34",
+          "4"
+        ],
+        "réponse": "64",
+        "anecdote": "Il 64 % dei cactus minacciati viene utilizzato dall'uomo in una di queste forme e il 57 % (236 specie) nell'orticoltura."
+      },
+      {
+        "id": 23,
+        "question": "In botanica, quale segno distintivo differenzia le Cactaceae dalle altre famiglie ?",
+        "propositions": [
+          "Areola",
+          "Radicola",
+          "Chalaze",
+          "Lenticelle"
+        ],
+        "réponse": "Areola",
+        "anecdote": "Le areole sono piccole crescite della pianta da cui iniziano spine, peli e fiori in un fascio."
+      },
+      {
+        "id": 24,
+        "question": "Qual è la più alta specie di cactus conosciuta oggi ?",
+        "propositions": [
+          "Harrisia fragrans",
+          "Rhipsalis russellii",
+          "Opuntia rufida",
+          "Pachycereus pringlei"
+        ],
+        "réponse": "Pachycereus pringlei",
+        "anecdote": "Con un tronco di un metro di diametro, i suoi fiori bianchi a forma di imbuto lunghi 8 cm appaiono solo negli adulti."
+      },
+      {
+        "id": 25,
+        "question": "Qual è il nome di una crescita anormale della cima di uno stelo di cactus ?",
+        "propositions": [
+          "Resupination",
+          "Cristation",
+          "serotinia",
+          "Ostiole"
+        ],
+        "réponse": "Cristation",
+        "anecdote": "La crocifissione è una forma di tematologia vegetale che consiste nella crescita anormale della cima di uno stelo."
+      },
+      {
+        "id": 26,
+        "question": "Quali cactus colonnari sono noti per contenere mescalina ?",
+        "propositions": [
+          "Parodia",
+          "San Pedro",
+          "Oroya",
+          "Ferocactus"
+        ],
+        "réponse": "San Pedro",
+        "anecdote": "Questo cactus colonnare a crescita rapida, originario delle Ande peruviane, cresce tra i 2 000 e i 3 000 m di altitudine."
+      },
+      {
+        "id": 27,
+        "question": "Quale valle è uno dei siti di cactus più ricchi del mondo ?",
+        "propositions": [
+          "Valle di Tehuacan",
+          "Valle di Baïgorry",
+          "Valle di Usines",
+          "Valle di Joux"
+        ],
+        "réponse": "Valle di Tehuacan",
+        "anecdote": "Altri cactus (in particolare Opuntias) si sono acclimatati in altri continenti dopo essere stati introdotti dagli umani."
+      },
+      {
+        "id": 28,
+        "question": "Quale cactus produce il pitaya, chiamato anche frutto del drago ?",
+        "propositions": [
+          "San Pedro",
+          "Peyotl",
+          "Hylocereus",
+          "Cereus"
+        ],
+        "réponse": "Hylocereus",
+        "anecdote": "La polpa del pitaya è commestibile e ricorda la sua consistenza e la presenza di piccoli pigoli neri a quella del kiwi, con un gusto più morbido."
+      },
+      {
+        "id": 29,
+        "question": "Qual è la specie di cactus più piccola conosciuta fino ad oggi ?",
+        "propositions": [
+          "Cereus jamacaru",
+          "Aztekium ritteri",
+          "Echinopsis oxygona",
+          "Blossfeldia liliputiana"
+        ],
+        "réponse": "Blossfeldia liliputiana",
+        "anecdote": "Questa specie di cactus prende il nome dal leggendario paese di Liliput, con il nome liliputana a volte usato ma non convalidato."
+      },
+      {
+        "id": 30,
+        "question": "Quale serie di fumetti umoristici è disegnata da Philippe Bercovici ?",
+        "propositions": [
+          "Cactus Club",
+          "Cactus Man",
+          "Circo Cactus",
+          "Cactus rosso"
+        ],
+        "réponse": "Cactus Club",
+        "anecdote": "In un club vacanze, l'host Phil, G.O. Capo, è responsabile della gestione di tutti i capricci dei suoi clienti."
+      }
+    ]
+    },
+    "nl": {
+      "débutant": [
+      {
+        "id": 1,
+        "question": "Wat slaan cactussen in hun weefsels op om effectiever met droogte om te gaan ?",
+        "propositions": [
+          "Zout",
+          "Aarde",
+          "Suc",
+          "Doornen"
+        ],
+        "réponse": "Suc",
+        "anecdote": "Het zijn bijna allemaal succulente of succulente planten, dat wil zeggen xenophytenplanten die sapreserves opslaan."
+      },
+      {
+        "id": 2,
+        "question": "Hoeveel soorten bevat de familie Cactaceae ?",
+        "propositions": [
+          "3.500",
+          "4.500",
+          "2.500",
+          "1.500"
+        ],
+        "réponse": "2.500",
+        "anecdote": "In het gewone taalgebruik verwijst het woord cactussen vaak naar de stekelige peer, een veel voorkomende plant aan de Middellandse Zeekust."
+      },
+      {
+        "id": 3,
+        "question": "Welke vorm van cactus wordt vaak door verzamelaars gewaardeerd ?",
+        "propositions": [
+          "Klimmen",
+          "Bolvormig",
+          "Struik",
+          "Monsterlijk"
+        ],
+        "réponse": "Monsterlijk",
+        "anecdote": "De oorsprong van het fenomeen is onbekend, waarschijnlijk vanwege mutaties die in twee categorieën zijn verdeeld : fascinatie en cristatie."
+      },
+      {
+        "id": 4,
+        "question": "Uit welk land komt de stekelige perenboom met zijn sneeuwschoenen ?",
+        "propositions": [
+          "Spanje",
+          "Griekenland",
+          "Australië",
+          "Mexico"
+        ],
+        "réponse": "Mexico",
+        "anecdote": "De soort is inderdaad inheems in Mexico, waar het nopal wordt genoemd, en is opgenomen in het wapen van de Mexicaanse vlag."
+      },
+      {
+        "id": 5,
+        "question": "Op welk tijdstip van de dag absorberen cactussen koolstofdioxide ?",
+        "propositions": [
+          "Dag en nacht",
+          "Nooit",
+          "De dag",
+          "De nacht"
+        ],
+        "réponse": "De nacht",
+        "anecdote": "In tegenstelling tot de meeste planten hebben cactussen een crassulaceenzuurmetabolisme (CAM) om koolstof te fixeren."
+      },
+      {
+        "id": 6,
+        "question": "Wie bracht de eerste cactus in Europa terug (Melocactus) ?",
+        "propositions": [
+          "Diogo Gomes",
+          "Pedro de Sintra",
+          "Christopher Columbus",
+          "Afonso de Paiva"
+        ],
+        "réponse": "Christopher Columbus",
+        "anecdote": "Cactusvormige meloen (vandaar hun naam), ze zijn inheems in het Caribisch gebied, het Caribisch gebied en Noord-Zuid-Amerika."
+      },
+      {
+        "id": 7,
+        "question": "In het ideale geval, hoe vaak is het nodig om een cactus te verpotten ?",
+        "propositions": [
+          "Om de 16 jaar",
+          "Om de 12 jaar",
+          "Om de 8 jaar",
+          "Om de 4 jaar"
+        ],
+        "réponse": "Om de 4 jaar",
+        "anecdote": "De cactussen houden niet van het teveel aan voedsel, de cactus zal groeien als het volume van de pot dat van de plant niet overschrijdt."
+      },
+      {
+        "id": 8,
+        "question": "Wat is de meest geschikte temperatuur voor de winterstop van de cactus ?",
+        "propositions": [
+          "7° C",
+          "17° C",
+          "12° C",
+          "22° C"
+        ],
+        "réponse": "7° C",
+        "anecdote": "In de zomer is een keer per week goed water geven voldoende, hoewel cactussen het gemakkelijk lang zonder water kunnen doen."
+      },
+      {
+        "id": 9,
+        "question": "Hoeveel licht heeft een cactus nodig om te bloeien ?",
+        "propositions": [
+          "Een beetje",
+          "Het maximum",
+          "Veel",
+          "Geen"
+        ],
+        "réponse": "Het maximum",
+        "anecdote": "Stel uw cactussen na het overwinteren echter niet rechtstreeks in direct zonlicht bloot, maar geef de voorkeur aan een geleidelijke terugkeer naar het licht."
+      },
+      {
+        "id": 10,
+        "question": "In welke regio's van de wereld groeien cactussen het beste ?",
+        "propositions": [
+          "Bergen",
+          "Vlaktes",
+          "Woestijnen",
+          "Prairies"
+        ],
+        "réponse": "Woestijnen",
+        "anecdote": "Cactussen komen vooral voor in Mexico, de Verenigde Staten, de Middellandse Zee, de Sahara en Australië."
+      }
+    ],
+    "confirmé": [
+      {
+        "id": 11,
+        "question": "Hoeveel lodges bevat de cactusfruitbes ?",
+        "propositions": [
+          "Vier",
+          "Twee",
+          "Drie",
+          "Slechts één"
+        ],
+        "réponse": "Slechts één",
+        "anecdote": "De vrucht van de cactus moet een enkele baai zijn, omdat er geen interne partities zijn die zaden of groepen zaden scheiden."
+      },
+      {
+        "id": 12,
+        "question": "Welke cactus werd vroeger gebruikt voor rituele doeleinden door indianen ?",
+        "propositions": [
+          "Cereus",
+          "Hylocereus",
+          "San Pedro",
+          "Peyotl"
+        ],
+        "réponse": "Peyotl",
+        "anecdote": "Deze cactussen bevatten verschillende alkaloïden waaronder mescaline, gebruikt voor zijn enthesogene, psychotrope en hallucinogene eigenschappen."
+      },
+      {
+        "id": 13,
+        "question": "Wat betekent het oude Griekse woord kaktos, waar komt de naam cactus vandaan ?",
+        "propositions": [
+          "Distel",
+          "Zon",
+          "Doorn",
+          "Hars"
+        ],
+        "réponse": "Distel",
+        "anecdote": "Het werd gebruikt als de naam van het eerste geslacht van deze planten door Carl von Linné, voordat anderen werden gescheiden."
+      },
+      {
+        "id": 14,
+        "question": "In hoeveel geslachten worden de 2 500 bekende cactussoorten verspreid ?",
+        "propositions": [
+          "50",
+          "90",
+          "30",
+          "70"
+        ],
+        "réponse": "90",
+        "anecdote": "Systematisch is het geslacht een taxonomische rangorde die een reeks soorten met vergelijkbare kenmerken groepeert."
+      },
+      {
+        "id": 15,
+        "question": "Welke cactussen hebben het uiterlijk van klassieke struiken en hun echte bladeren ?",
+        "propositions": [
+          "Primitieven",
+          "Kolommen",
+          "Epifyten",
+          "Bolvormig"
+        ],
+        "réponse": "Primitieven",
+        "anecdote": "Pereskia is een soort cactus uit de tropische gebieden van Amerika die het zeldzame kenmerk heeft dat hij zichtbare bladeren draagt."
+      },
+      {
+        "id": 16,
+        "question": "In hoeveel morfologische typen kunnen cactussen worden gegroepeerd ?",
+        "propositions": [
+          "Vijf",
+          "Zeven",
+          "Vier",
+          "Zes"
+        ],
+        "réponse": "Vijf",
+        "anecdote": "Primitieve cactus, opunum, zuilvormige cactus, bolvormige cactus en epifytische cactus met afgeplatte stengels zijn de vijf morfologische typen."
+      },
+      {
+        "id": 17,
+        "question": "In welk land wordt het verzamelen van cactus gestraft met een gevangenisstraf ?",
+        "propositions": [
+          "Argentinië",
+          "Mexico",
+          "Algiers",
+          "India"
+        ],
+        "réponse": "Mexico",
+        "anecdote": "Sommige landen hebben een tegenstrijdige houding tegenover de bescherming van soorten, maar stedelijke uitbreidingen vernietigen cactussen."
+      },
+      {
+        "id": 18,
+        "question": "Voor welke boerderij werd Opuntia geïmporteerd naar Australië ?",
+        "propositions": [
+          "Woodlice",
+          "Colopites",
+          "Lieveheersbeestjes",
+          "Wolluis"
+        ],
+        "réponse": "Wolluis",
+        "anecdote": "Philip Miller schreef de naam Opuntia toe aan een plant genaamd Indische vijgenboom in verwijzing naar de oude Griekse stad Oponte."
+      },
+      {
+        "id": 19,
+        "question": "Met welke techniek kan cactussen gemakkelijk worden vermenigvuldigd ?",
+        "propositions": [
+          "Staking",
+          "Marcottage",
+          "Cernage",
+          "Snijden"
+        ],
+        "réponse": "Snijden",
+        "anecdote": "Snijden bestaat uit het baren van een nieuw individu uit een geïsoleerd orgel of orgelfragment."
+      },
+      {
+        "id": 20,
+        "question": "Welk Frans automerk biedt een model aan met de naam Cactus ?",
+        "propositions": [
+          "Audi Q2",
+          "Peugeot P4",
+          "Nissan Juke",
+          "Citroen C4"
+        ],
+        "réponse": "Citroen C4",
+        "anecdote": "De C4 Cactus is een compacte sedan, aanvankelijk getypt crossover, gepresenteerd op 5 februari 2014, de verjaardag van André Citroën."
+      }
+    ],
+    "expert": [
+      {
+        "id": 21,
+        "question": "In 1753, welke natuuronderzoeker groepeerde de 22 bekende cactussoorten ?",
+        "propositions": [
+          "Olof Celsius",
+          "Daniel Rolander",
+          "Carl von Linné",
+          "Erik Acharius"
+        ],
+        "réponse": "Carl von Linné",
+        "anecdote": "Deze Zweedse natuuronderzoeker, die zijn leven wijdde aan levende wezens, legde de basis voor het moderne systeem van binomiale nomenclatuur."
+      },
+      {
+        "id": 22,
+        "question": "Hoeveel cactussoorten hebben tegenwoordig medicinaal en / of veterinair gebruik ?",
+        "propositions": [
+          "4",
+          "94",
+          "64",
+          "34"
+        ],
+        "réponse": "64",
+        "anecdote": "64 % van de bedreigde cactussen wordt door mensen in een van deze vormen gebruikt en 57 % (236 soorten) in de tuinbouw."
+      },
+      {
+        "id": 23,
+        "question": "Welk onderscheidend teken onderscheidt Cactaceae in de plantkunde van andere families ?",
+        "propositions": [
+          "Lenticelle",
+          "Radicle",
+          "Tepelhof",
+          "Chalaze"
+        ],
+        "réponse": "Tepelhof",
+        "anecdote": "Areolas zijn kleine gezwellen van de plant waaruit doornen, haren en bloemen in een bundel achterblijven."
+      },
+      {
+        "id": 24,
+        "question": "Wat is de hoogste cactussoort die tegenwoordig bekend is ?",
+        "propositions": [
+          "Rhipsalis russellii",
+          "Opuntia rufida",
+          "Harrisia fragrans",
+          "Pachycereus pringlei"
+        ],
+        "réponse": "Pachycereus pringlei",
+        "anecdote": "Met een stam van een meter in diameter, verschijnen de trechtervormige witte bloemen van 8 cm lang alleen bij volwassenen."
+      },
+      {
+        "id": 25,
+        "question": "Wat is de naam van een abnormale groei van de bovenkant van een cactusstam ?",
+        "propositions": [
+          "Ostiole",
+          "Resupinatie",
+          "Serotiny",
+          "Cristation"
+        ],
+        "réponse": "Cristation",
+        "anecdote": "Kruisiging is een vorm van plantentemologie die bestaat uit de abnormale groei van de bovenkant van een stengel."
+      },
+      {
+        "id": 26,
+        "question": "Van welke zuilvormige cactussen is bekend dat ze mescaline bevatten ?",
+        "propositions": [
+          "Oroya",
+          "San Pedro",
+          "Parodia",
+          "Ferocactus"
+        ],
+        "réponse": "San Pedro",
+        "anecdote": "Deze snelgroeiende zuilvormige cactus, afkomstig uit de Peruaanse Andes, groeit tussen 2 000 en 3 000 m hoogte."
+      },
+      {
+        "id": 27,
+        "question": "Welke vallei is een van de rijkste cactussen ter wereld ?",
+        "propositions": [
+          "Vallei van Tehuacan",
+          "Vallei van Joux",
+          "Vallei van Baïgorry",
+          "Vallei van Usines"
+        ],
+        "réponse": "Vallei van Tehuacan",
+        "anecdote": "Andere cactussen (vooral Opuntias) zijn op andere continenten geacclimatiseerd nadat ze door mensen zijn geïntroduceerd."
+      },
+      {
+        "id": 28,
+        "question": "Welke cactus produceert de pitaya, ook wel de drakenvrucht genoemd ?",
+        "propositions": [
+          "Peyotl",
+          "Cereus",
+          "San Pedro",
+          "Hylocereus"
+        ],
+        "réponse": "Hylocereus",
+        "anecdote": "Het vlees van de pitaya is eetbaar en lijkt op zijn textuur en de aanwezigheid van kleine zwarte peepers op die van de kiwi, met een zachtere smaak."
+      },
+      {
+        "id": 29,
+        "question": "Wat is de kleinste cactussoort die tot nu toe bekend is ?",
+        "propositions": [
+          "Blossfeldia liliputiana",
+          "Aztekium ritteri",
+          "Cereus jamacaru",
+          "Echinopsis oxygona"
+        ],
+        "réponse": "Blossfeldia liliputiana",
+        "anecdote": "Deze soort cactussen draagt de naam van het legendarische land Liliput, de naam liliputana wordt soms gebruikt maar niet gevalideerd."
+      },
+      {
+        "id": 30,
+        "question": "Welke serie humoristische strips wordt getekend door Philippe Bercovici ?",
+        "propositions": [
+          "Cactus Man",
+          "Circus Cactus",
+          "Rode Cactus",
+          "Cactus Club"
+        ],
+        "réponse": "Cactus Club",
+        "anecdote": "In een vakantieclub, de gastheer Phil, G.O. Chief, is verantwoordelijk voor het omgaan met alle grillen van zijn klanten."
+      }
+    ]
+    }
+  }
+}

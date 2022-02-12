@@ -1,0 +1,376 @@
+{                                     
+  "fournisseur": "OpenQuizzDB - Fournisseur de contenu libre (https://www.openquizzdb.org)",
+  "rédacteur": "Philippe Bresoux",
+  "thème": "FC Barcelone (Club européen le plus titré)",         
+  "difficulté": "3 / 5",
+  "quizz": {
+    "fr": {
+      "débutant": [
+      {
+        "id": 1,
+        "question": "Le logo de quelle organisation le FC Barcelone a-t-il porté sur leurs maillots de 2011 à 2013 ?",
+        "propositions": [
+          "UNESCO",
+          "Fondation du Qatar",
+          "ONU",
+          "UNICEF"
+        ],
+        "réponse": "Fondation du Qatar",
+        "anecdote": "Le 10 décembre 2010, le FC Barcelone a annoncé avoir été racheté par la Fondation du Qatar."
+      },
+      {
+        "id": 2,
+        "question": "Quel club le FC Barcelone a-t-il battu en finale de la Copa del Rey 2012 ?",
+        "propositions": [
+          "Athletic Bilbao",
+          "Osasuna",
+          "Villareal",
+          "Atletico Madrid"
+        ],
+        "réponse": "Athletic Bilbao",
+        "anecdote": "Comme en Angleterre, en Écosse ou en France, cette épreuve a vu le jour avant la mise en place du championnat national."
+      },
+      {
+        "id": 3,
+        "question": "Quel entraîneur portugais a obtenu le premier Prix d'entraîneur de l'année FIFA 2010 ?",
+        "propositions": [
+          "José Mourinho",
+          "Frank Rijkaard",
+          "Tito Vilanova",
+          "Pep Guardiola"
+        ],
+        "réponse": "José Mourinho",
+        "anecdote": "José Mourinho parle couramment le portugais, l'espagnol, l'italien, le français et l'anglais."
+      },
+      {
+        "id": 4,
+        "question": "Quel jeune joueur le FCB a-t-il recruté en 1982 pour un montant record ?",
+        "propositions": [
+          "Diego Maradona",
+          "Mario Kempes",
+          "Nery Pumpido",
+          "Gabriel Batistuta"
+        ],
+        "réponse": "Diego Maradona",
+        "anecdote": "Surnommé « Le gamin en or », Maradona est considéré comme l'un des plus grands joueurs de l'histoire du football."
+      },
+      {
+        "id": 5,
+        "question": "Combien de fois le Barça a-t-il pu conserver le trophée de la Liga ?",
+        "propositions": [
+          "4",
+          "3",
+          "2",
+          "1"
+        ],
+        "réponse": "1",
+        "anecdote": "Le Barça, fondé en 1899, est le club de football européen le plus titré du XXIe siècle."
+      },
+      {
+        "id": 6,
+        "question": "Qui détient le record du club pour le nombre de buts inscrits dans la Liga ?",
+        "propositions": [
+          "Samuel Eto'o",
+          "Messi",
+          "Cruyff",
+          "Alcantara"
+        ],
+        "réponse": "Messi",
+        "anecdote": "Lionel Messi est le seul à avoir remporté le Ballon d'or à quatre reprises : en 2009, 2010, 2011 et 2012."
+      },
+      {
+        "id": 7,
+        "question": "Dans quel stade le FC Barcelone joue-t-il ses matchs à domicile ?",
+        "propositions": [
+          "Wembley",
+          "Camp Nou",
+          "Maracana",
+          "Bernableu"
+        ],
+        "réponse": "Camp Nou",
+        "anecdote": "Avec une capacité de 99 354 places, le Camp Nou, qui signifie « terrain nouveau », est le plus grand stade d'Europe."
+      },
+      {
+        "id": 8,
+        "question": "Quelles étaient les couleurs extérieures des maillots du Barça pour la saison 2012-2013 ?",
+        "propositions": [
+          "Rouge et blanc",
+          "Jaune et orange",
+          "Vert et rouge",
+          "Noir"
+        ],
+        "réponse": "Jaune et orange",
+        "anecdote": "Le FC Barcelone dispose d'un maillot alternatif depuis 1913 : un maillot blanc avec des shorts bleus."
+      },
+      {
+        "id": 9,
+        "question": "À quel club Zlatan Ibrahimovic a-t-il été acheté par le Barça en 2009 ?",
+        "propositions": [
+          "Bayern Munich",
+          "Göteborg",
+          "Inter Milan",
+          "Leeds United"
+        ],
+        "réponse": "Inter Milan",
+        "anecdote": "Zlatan Ibrahimovic est considéré comme l'un des avants-centres les plus complets au monde."
+      },
+      {
+        "id": 10,
+        "question": "Quel joueur barcelonais a gagné le plus de compétitions avec le club ?",
+        "propositions": [
+          "Xavi",
+          "Messi",
+          "Puyol",
+          "Guardiola"
+        ],
+        "réponse": "Xavi",
+        "anecdote": "Xavi a été désigné meilleur passeur du Championnat d'Espagne deux années de suite en 2009 et 2010."
+      }
+    ],
+    "confirmé": [
+      {
+        "id": 11,
+        "question": "Quel nom porte depuis 1979 le célèbre centre de formation du FC Barcelone ?",
+        "propositions": [
+          "Les Cortes",
+          "Camp Nou",
+          "La Masia",
+          "Barcelino"
+        ],
+        "réponse": "La Masia",
+        "anecdote": "Le bâtiment, un mas traditionnel catalan situé près du Camp Nou, date de 1702."
+      },
+      {
+        "id": 12,
+        "question": "Quel logo les joueurs du FC Barcelone ont-ils porté sur leurs maillots de 2006 à 2011 ?",
+        "propositions": [
+          "UNESCO",
+          "OMS",
+          "ONU",
+          "UNICEF"
+        ],
+        "réponse": "UNICEF",
+        "anecdote": "L'Unicef, créée le 11 décembre 1946, a reçu le prix Nobel de la paix le 12 janvier 1965."
+      },
+      {
+        "id": 13,
+        "question": "En quelle année Ibrahimovic a-t-il quitté le Barça pour l'Italie ?",
+        "propositions": [
+          "2011",
+          "2009",
+          "2007",
+          "2013"
+        ],
+        "réponse": "2011",
+        "anecdote": "Par son charisme et ses provocations médiatiques, Zlatan Ibrahimovic est une icône qui dépasse le cadre du sport."
+      },
+      {
+        "id": 14,
+        "question": "Combien de fois le FC Barcelone a-t-il gagné la Ligue des Champions ?",
+        "propositions": [
+          "2",
+          "5",
+          "9",
+          "4"
+        ],
+        "réponse": "5",
+        "anecdote": "En 2015, le FC Barcelone a battu la Juventus de Turin au Stade olympique de Berlin avec 3 buts à 1."
+      },
+      {
+        "id": 15,
+        "question": "Qui a succédé à Pep Guardiola en 2008 en tant qu'entraîneur de l'équipe B de Barcelone ?",
+        "propositions": [
+          "Andoni Zubizarreta",
+          "Patrick Kluivert",
+          "Luis Figo",
+          "Luis Enrique"
+        ],
+        "réponse": "Luis Enrique",
+        "anecdote": "C'est la première victoire d'une équipe qui n'aurait pas été qualifiée selon les anciennes règles."
+      },
+      {
+        "id": 16,
+        "question": "Quel brésilien a remporté le trophée de meilleur footballeur européen en 2005 ?",
+        "propositions": [
+          "Ronaldo",
+          "Rivaldo",
+          "Romario",
+          "Ronaldinho"
+        ],
+        "réponse": "Ronaldinho",
+        "anecdote": "Ronaldinho s'est réellement imposé en Europe en tant qu'ailier gauche, avec ses dribbles fulgurants."
+      },
+      {
+        "id": 17,
+        "question": "Quelle croix apparaît sur l'emblème du FC Barcelone ?",
+        "propositions": [
+          "St Simon",
+          "St George",
+          "St Andrew",
+          "St Patrick"
+        ],
+        "réponse": "St George",
+        "anecdote": "La croix de saint Georges est utilisée comme drapeau de l'Angleterre, dont le saint est également le patron."
+      },
+      {
+        "id": 18,
+        "question": "Combien de titres de la Liga Deco a-t-il remporté avec le FC Barcelone ?",
+        "propositions": [
+          "4",
+          "2",
+          "3",
+          "1"
+        ],
+        "réponse": "2",
+        "anecdote": "Deco est reconnu pour ses passes précises, son intelligence de jeu et la qualité technique de sa frappe."
+      },
+      {
+        "id": 19,
+        "question": "Quel club a remporté le premier duel El Clasico en 1929 ?",
+        "propositions": [
+          "Real Madrid",
+          "Athletic Bilbao",
+          "Barcelone",
+          "Valence"
+        ],
+        "réponse": "Real Madrid",
+        "anecdote": "La rivalité entre le FC Barcelone et le Real Madrid est la plus élevée du football espagnol."
+      },
+      {
+        "id": 20,
+        "question": "Quel nom est donné à l'équipe de réserve du FC Barcelone ?",
+        "propositions": [
+          "FC Barcelone II",
+          "Jeunes du Barça",
+          "FC Barcelone B",
+          "Barcelone Athletico"
+        ],
+        "réponse": "FC Barcelone B",
+        "anecdote": "L'équipe évolue au Mini Estadi, une enceinte de 15 276 places située à proximité du Camp Nou à Barcelone."
+      }
+    ],
+    "expert": [
+      {
+        "id": 21,
+        "question": "Combien de victoires en Champions Ligue Guardiola a-t-il remporté avec Barcelone ?",
+        "propositions": [
+          "4",
+          "2",
+          "1",
+          "3"
+        ],
+        "réponse": "2",
+        "anecdote": "Pep Guardiola a réussi en 2009 en tant qu'entraîneur un sextuplé inédit dans l'histoire du football."
+      },
+      {
+        "id": 22,
+        "question": "En 2011, contre qui le Barça a-t-il remporté la Supercoupe d'Espagne ?",
+        "propositions": [
+          "Valence",
+          "Real Madrid",
+          "Majorque",
+          "La Corogne"
+        ],
+        "réponse": "Real Madrid",
+        "anecdote": "L'Argentin Lionel Messi est, avec onze buts, le meilleur buteur de l'histoire de cette compétition."
+      },
+      {
+        "id": 23,
+        "question": "En quelle année la finale de la Ligue des Champions a-t-elle eu lieu au Camp Nou ?",
+        "propositions": [
+          "1999",
+          "1987",
+          "2006",
+          "1978"
+        ],
+        "réponse": "1999",
+        "anecdote": "C'est la première victoire d'une équipe qui n'aurait pas été qualifiée selon les anciennes règles."
+      },
+      {
+        "id": 24,
+        "question": "Durant quelle saison Ronaldo a-t-il remporté le Soulier d'or de l'UEFA ?",
+        "propositions": [
+          "2002-03",
+          "2000-01",
+          "1996-97",
+          "1998-99"
+        ],
+        "réponse": "1996-97",
+        "anecdote": "Nommé au FIFA 100 par Pelé et la FIFA, il a remporté deux fois le Ballon d'or France Football en 1997 et 2002."
+      },
+      {
+        "id": 25,
+        "question": "Lequel de ces joueurs n'a pas remporté le Trophée Zamora en jouant pour Barcelone ?",
+        "propositions": [
+          "José Pesuo",
+          "Pedro Artoia",
+          "Javier Urruticoechea",
+          "Pepe Reina"
+        ],
+        "réponse": "Pepe Reina",
+        "anecdote": "Ce Trophée tient son nom du légendaire gardien des années 1920 Ricardo Zamora."
+      },
+      {
+        "id": 26,
+        "question": "De quel club Gerardo Martino a-t-il renoncé à son poste d'entraîneur pour le Barça en 2013 ?",
+        "propositions": [
+          "Santos",
+          "AC Milan",
+          "Newell's Old Boys",
+          "Villareal"
+        ],
+        "réponse": "Newell's Old Boys",
+        "anecdote": "Il démissionnera un an plus tard, le 17 mai 2014, après le match nul (1-1) face à l'Atletico Madrid."
+      },
+      {
+        "id": 27,
+        "question": "De quel club du championnat Dani Alves a-t-il rejoint Barcelone en 2008 ?",
+        "propositions": [
+          "Osasuna",
+          "Séville",
+          "Real Sociedad",
+          "Valence"
+        ],
+        "réponse": "Séville",
+        "anecdote": "Nommé au Ballon d'or 2010 et 2011, Alves est considéré comme l'un des meilleurs défenseurs de la planète."
+      },
+      {
+        "id": 28,
+        "question": "Qui a marqué un but sensationnel en finale de Coupe européenne à Wembley en 1992 ?",
+        "propositions": [
+          "Hristo Stoichkov",
+          "José Maria Bakzero",
+          "Ronald Koeman",
+          "Albert Ferrer"
+        ],
+        "réponse": "Ronald Koeman",
+        "anecdote": "Fils du footballeur Martin Koeman, son frère Erwin fut également footballeur professionnel et international."
+      },
+      {
+        "id": 29,
+        "question": "Quel est à ce jour le meilleur score final en faveur du Barça durant un match de la Liga ?",
+        "propositions": [
+          "8-0",
+          "9-3",
+          "10-1",
+          "7-3"
+        ],
+        "réponse": "10-1",
+        "anecdote": "Le terme de « Liga » est souvent utilisé, bien que liga signifie simplement « ligue » en espagnol."
+      },
+      {
+        "id": 30,
+        "question": "Quel joueur du Barça a été suspendu deux mois pour avoir écrasé le pied d'un arbitre ?",
+        "propositions": [
+          "Hristo Stoichkov",
+          "Romario",
+          "Albert Ferrer",
+          "Michael Laudrup"
+        ],
+        "réponse": "Hristo Stoichkov",
+        "anecdote": "En juin 2013, il a été recruté par le CSKA Sofia, club où il a commencé sa carrière de joueur professionnel."
+      }
+    ]
+    }
+  }
+}

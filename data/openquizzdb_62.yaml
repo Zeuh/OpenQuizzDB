@@ -1,0 +1,280 @@
+---
+fournisseur: OpenQuizzDB - Fournisseur de contenu libre (https://www.openquizzdb.org)
+rédacteur: Philippe Bresoux
+thème: Jean-Michel Jarre (Parrain de la french touch)
+difficulté: 5 / 5
+quizz:
+  fr:
+  - débutant:
+    - id: 1
+      question: De quel compositeur de musiques de films Jean-Michel Jarre est-il le fils ?
+      propositions:
+      - André Jarre
+      - Jean-Luc Jarre
+      - Maurice Jarre
+      - Raymond Jarre
+      réponse: Maurice Jarre
+      anecdote: Maurice Jarre fait partie des très rares artistes français à avoir été honorés par une étoile au Hollywood Walk of Fame à Los Angeles.
+    - id: 2
+      question: Dans quelle ville Jean-Michel Jarre a-t-il donné son méga-concert « Rendez-Vous » ?
+      propositions:
+      - Miami
+      - Los Angeles
+      - Houston
+      - Chicago
+      réponse: Houston
+      anecdote: Le concert a été mis en scène par Christian Bourret, qui réalisera par la suite la plupart des concerts de Jean-Michel Jarre.
+    - id: 3
+      question: Quelle actrice française Jean-Michel Jarre a-t-il épousé en 2005 ?
+      propositions:
+      - Isabelle Adjani
+      - Juliette Binoche
+      - Karin Viard
+      - Anne Parillaud
+      réponse: Anne Parillaud
+      anecdote: Elle collaborera pour le DVD « AERO » puis en 2007 où sa voix fut utilisée dans le titre « Beautiful Agony » de l'album « Téo et Téa ».
+    - id: 4
+      question: Dans quelle ville Jean-Michel Jarre a-t-il donné le son concert « Destination Docklands » ?
+      propositions:
+      - Houston
+      - Paris
+      - Londres
+      - Lyon
+      réponse: Londres
+      anecdote: C'est en 1988 que Jean-Michel Jarre a donné ce concert dans des conditions météorologiques désastreuses.
+    - id: 5
+      question: Le texte de quel immense tube de Christophe a été écrit par Jean-Michel Jarre ?
+      propositions:
+      - Les Mots Bleus
+      - Aline
+      - Succès Fou
+      - La Dolce Vita
+      réponse: Les Mots Bleus
+      anecdote: Jean-Michel Jarre a participé aux textes des albums <i>Les Paradis perdus</i> (1973) et <i>Les Mots bleus</i> (1974) pour Christophe.
+    - id: 6
+      question: Pour qui Jean Michel Jarre est-il parolier et producteur du hit « Où sont les femmes ? » ?
+      propositions:
+      - Patrick Juvet
+      - Éric Charden
+      - Julio Iglesias
+      - Claude François
+      réponse: Patrick Juvet
+      anecdote: Le titre aux sonorités disco connaîtra un grand succès en France où il est considéré comme le premier tube disco français chanté.
+    - id: 7
+      question: Quel album de Jean-Michel Jarre a envahi les premières places des ventes en 1976 ?
+      propositions:
+      - Equinoxe
+      - Rendez-vous
+      - Chronologie
+      - Oxygène
+      réponse: Oxygène
+      anecdote: Vendu à environ 18 millions d'exemplaires, il s'agit d'un des plus gros succès de l'histoire de la discographie française.
+    - id: 8
+      question: Dans quelle ville de France Jean-Michel Jarre a-t-il donné son méga-concert « Rendez-Vous » ?
+      propositions:
+      - Toulouse
+      - Lyon
+      - Paris
+      - Marseille
+      réponse: Lyon
+      anecdote: Le concert pour le pape, donné en l'honneur de la venue de Jean-Paul II, s'est déroulé sur la colline de Fourvière.
+    - id: 9
+      question: Quelle actrice britannique Jean Michel Jarre a-t-il épousé en 1978 ?
+      propositions:
+      - Charlotte Rampling
+      - Julie Cox
+      - Kate Beckinsale
+      - Jane Birkin
+      réponse: Charlotte Rampling
+      anecdote: Charlotte Rampling aura un enfant avec lui, prénommé David, et se séparera de Jean Michel Jarre en 1997.
+    - id: 10
+      question: Dans quelle ville Jean-Michel Jarre a-t-il organisé son premier concert en extérieur gratuit ?
+      propositions:
+      - Londres
+      - Houston
+      - Lyon
+      - Paris
+      réponse: Paris
+      anecdote: Le concert place de la Concorde, intitulé <i>Paris Bleu Blanc Rouge</i>, a attiré un million de spectateurs, sans compter les téléspectateurs.
+  - confirmé:
+    - id: 11
+      question: De quel artiste Jean-Michel Jarre a-t-il mis en scène le spectacle en 1975 ?
+      propositions:
+      - Claude Nougaro
+      - Christophe
+      - Julien Clerc
+      - Michel Berger
+      réponse: Christophe
+      anecdote: On pouvait y voir un piano voler. C'est à ce moment qu'il rencontre Francis Dreyfus, son futur éditeur.
+    - id: 12
+      question: À combien d'exemplaires l'album « Musique pour supermarché » de Jean Michel Jarre est-il sorti ?
+      propositions:
+      - 100
+      - 10 000 000
+      - Un seul
+      - 1 000
+      réponse: Un seul
+      anecdote: Cet album unique a été vendu aux enchères le 6 juillet 1983 à l'hôtel Drouot pour la somme de 69 000 francs (10 519 eteuro;).
+    - id: 13
+      question: Quel album ethnique de Jean Michel Jarre rappelle fortement « Zoolook » ?
+      propositions:
+      - Metamorphoses
+      - Chronologie
+      - Révolutions
+      - Aero
+      réponse: Révolutions
+      anecdote: Réédité et remastérisé en 1994, l'album <i>Révolutions</i> devait initialement s'appeler <i>Destinations</i>.
+    - id: 14
+      question: Avec quel leader des Shadows Jean-Michel Jarre a-t-il joué « London Kid » en 1989 ?
+      propositions:
+      - Brian Bennett
+      - Bruce Welch
+      - Ken Pavey
+      - Hank Marvin
+      réponse: Hank Marvin
+      anecdote: Hank Marvin a inspiré des musiciens comme Eric Clapton, Mike Oldfield, Brian May, George Harrison et Mark Knopfler.
+    - id: 15
+      question: Qui Jean-Michel Jarre attend-il en musique avant ses concerts ?
+      propositions:
+      - Lucky Luke
+      - Cousteau
+      - Batman
+      - Aznavour
+      réponse: Cousteau
+      anecdote: Il a aussi réalisé la musique d'un reportage de l'Odyssée du Commandant Cousteau sur les Philippines.
+    - id: 16
+      question: Quelle est la particularité de l'album « Odyssey Through O2 » de Jean Michel Jarre ?
+      propositions:
+      - Il contient 1 titre
+      - Il dure 9 minutes
+      - C'est un CD-ROM
+      - Il ne s'écoute pas
+      réponse: C'est un CD-ROM
+      anecdote: La partie audio est constituée de remixes de différentes parties d'Oxygène, alors que la partie multimédia est très travaillée.
+    - id: 17
+      question: Quel album de Jean Michel Jarre est (inhabituellement) accompagné de paroles ?
+      propositions:
+      - Metamorphoses
+      - Geometry of Love
+      - Chronologie
+      - Aero
+      réponse: Metamorphoses
+      anecdote: Cet album, joué lors du concert au Caire, comporte entre autres les voix de Natacha Atlas ou de Laurie Anderson.
+    - id: 18
+      question: Dans quelle ville est né le compositeur français de musique électronique Jean-Michel Jarre ?
+      propositions:
+      - Nice
+      - Lyon
+      - Toulouse
+      - Marseille
+      réponse: Lyon
+      anecdote: Issu d'une famille de musiciens, Jean-Michel Jarre est né en 1948 dans le quartier de la Croix Rousse, à Lyon.
+    - id: 19
+      question: Quel album de Jean Michel Jarre est un hommage au vent ?
+      propositions:
+      - Aero
+      - Chronologie
+      - Téo et Téa
+      - Geometry of Love
+      réponse: Aero
+      anecdote: <i>AERO</i> est présenté par Jean Michel Jarre comme étant le premier album entièrement conçu en son 5.1.
+    - id: 20
+      question: Quel label a acheté en 1977 les droits de distribution des oeuvres de Jean Michel Jarre ?
+      propositions:
+      - Mute Records
+      - Parlophone
+      - Phonogram
+      - Polydor
+      réponse: Polydor
+      anecdote: La même année, Jean Michel Jarre est nommé « Personnalité de l'année » par le magazine américain <i>People</i>.
+  - expert:
+    - id: 21
+      question: Combien de spectateurs ont assisté à « La Défense en concert » de Jean Michel Jarre ?
+      propositions:
+      - 1 500 000
+      - 2 000 000
+      - 2 500 000
+      - 1 000 000
+      réponse: 2 500 000
+      anecdote: Un livre souvenir de ce concert est publié aux Éditions du Moniteur, onze ans après son premier méga-concert.
+    - id: 22
+      question: Quel album de Jean-Michel Jarre a marqué le retour des synthés analogiques ?
+      propositions:
+      - Metamorphoses
+      - Chronologie
+      - Aero
+      - Geometry of Love
+      réponse: Chronologie
+      anecdote: À noter également sur cet album la collaboration avec le guitariste de metal instrumental Patrick Rondat.
+    - id: 23
+      question: Avec quel groupe Jean-Michel Jarre a-t-il remporté le prix du tremplin à Paris ?
+      propositions:
+      - Secrets V
+      - Souvenirs III
+      - Bizarro IV
+      - Mystères IV
+      réponse: Mystères IV
+      anecdote: Dans les années 1960, Jean-Michel Jarre a joué dans plusieurs groupes de rock et de jazz, dont les Mystères IV.
+    - id: 24
+      question: De quelle émission Jean-Michel Jarre a-t-il composé le générique en 1972 ?
+      propositions:
+      - La Preuve par 4
+      - Sport en fête
+      - Champs-Élysées
+      - Stars 90
+      réponse: Sport en fête
+      anecdote: Travaillant à l'époque de façon indépendante, il a composé le générique de cette émission présentée par Michel Drucker.
+    - id: 25
+      question: De quel film avec Alain Delon Jean Michel Jarre a-t-il signé la bande originale ?
+      propositions:
+      - Les Granges brûlées
+      - Zorro
+      - Borsalino and Co
+      - Scorpio
+      réponse: Les Granges brûlées
+      anecdote: L'intrigue du film « Les Granges brûlées » de Jean Chapot n'est pas sans rappeler celle de <i>L'Affaire Dominici</i> sorti la même année.
+    - id: 26
+      question: Quel album très expérimental de Jean Michel Jarre a été composé à l'orgue Farfisa ?
+      propositions:
+      - Deserted Palace
+      - Oxygène
+      - Equinoxe
+      - Rendez-vous
+      réponse: Deserted Palace
+      anecdote: L'album fut distribué comme compilation de musiques d'ambiance créées pour la société américaine Underground Muzaks.
+    - id: 27
+      question: Sous quel pseudonyme Jean Michel Jarre a-t-il sorti sa propre version de « Pop-corn » ?
+      propositions:
+      - Paul Hardcastle
+      - Damian Rafferty
+      - Jimmy Paxton
+      - Jamie Jefferson
+      réponse: Jamie Jefferson
+      anecdote: En face B, <i>Black bird</i> propose une version différente de <i>Bridge of promises</i> que l'on trouve originellement sur l'album <i>Deserted Palace</i>.
+    - id: 28
+      question: Quel album de Jean-Michel Jarre marque le début de sa collaboration avec Michel Geiss ?
+      propositions:
+      - Rendez-vous
+      - Oxygène
+      - Equinoxe
+      - Révolutions
+      réponse: Equinoxe
+      anecdote: Deuxième gros succès après <i>Oxygène</i>, <i>Equinoxe</i> a été vendu à environ 10 millions d'exemplaires dans le monde.
+    - id: 29
+      question: Dans quel album Jean-Michel Jarre a-t-il utilisé pour la première fois le Fairlight CMI ?
+      propositions:
+      - Rendez-vous
+      - Equinoxe
+      - Oxygène
+      - Chants Magnétiques
+      réponse: Chants Magnétiques
+      anecdote: « Les Chants Magnétiques » est l'un des premiers albums à utiliser massivement la technique de l'échantillonnage.
+    - id: 30
+      question: Qui a distribué à Jean Michel Jarre une Victoire de la musique dans les années 1980 ?
+      propositions:
+      - Alain Souchon
+      - Daniel Balavoine
+      - Michel Berger
+      - Charles Aznavour
+      réponse: Daniel Balavoine
+      anecdote: Quelques morceaux de <i>Zoolook</i> sont utilisés comme génériques d'émissions (<i>Zénith</i> sur Canal+ et <i>Histoires courtes</i> sur Antenne 2).

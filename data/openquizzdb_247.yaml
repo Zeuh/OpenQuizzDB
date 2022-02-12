@@ -1,0 +1,1650 @@
+---
+fournisseur: OpenQuizzDB - Fournisseur de contenu libre (https://www.openquizzdb.org)
+rédacteur: Philippe Bresoux
+thème: Central Park (Le poumon de Big Apple)
+difficulté: 4 / 5
+quizz:
+  fr:
+  - débutant:
+    - id: 1
+      question: Quelle est la superficie de Central Park, situé dans l'arrondissement de Manhattan ?
+      propositions:
+      - 198 ha
+      - 443 ha
+      - 341 ha
+      - 234 ha
+      réponse: 341 ha
+      anecdote: Le parc est géré par la Central Park Conservancy qui dispose d'un budget annuel d'environ 200 millions de dollars.
+    - id: 2
+      question: Quel quartier résidentiel encadre Central Park sur la partie est du parc ?
+      propositions:
+      - Ward's Island
+      - SoHo
+      - Upper East Side
+      - Yorkville
+      réponse: Upper East Side
+      anecdote: Le quartier est habité par une population très aisée, le prix de l'immobilier se situant parmi les plus élevés des États-Unis.
+    - id: 3
+      question: Dans quel luxueux immeuble en bordure de Central Park a habité John McEnroe ?
+      propositions:
+      - Beresford
+      - One57
+      - Ansonia
+      - Eldorado
+      réponse: Beresford
+      anecdote: Le Beresford, comme d'ailleurs les San Remo Apartments, abrite également un couple de résidents inattendus : des faucons.
+    - id: 4
+      question: Combien de visiteurs environ parcourent Central Park chaque année ?
+      propositions:
+      - 25 millions
+      - 37 millions
+      - 59 millions
+      - 42 millions
+      réponse: 37 millions
+      anecdote: Central Park représente une oasis de verdure au milieu de la forêt de gratte-ciel de Manhattan, même s'il est situé au nord de l'île.
+    - id: 5
+      question: Quel rocher est connu pour être le point le plus élevé de Central Park ?
+      propositions:
+      - Vista Rock
+      - Summit Rock
+      - Rat Rock
+      - Line Rock
+      réponse: Summit Rock
+      anecdote: Situé dans l'ouest du parc, à hauteur de la 83e rue, Summit Rock atteint l'altitude de 137,5 pieds, soit près de 42 mètres de hauteur.
+    - id: 6
+      question: À qui est dédié le mémorial Strawberry Fields dans Central Park, conçu par Bruce Kelly ?
+      propositions:
+      - Elvis Presley
+      - Michael Jackson
+      - John Lenon
+      - Jimi Hendrix
+      réponse: John Lenon
+      anecdote: Strawberry Fields fut inauguré le jour du 45e anniversaire de John Lennon, le 9 octobre 1985, en présence de sa veuve Yoko Ono.
+    - id: 7
+      question: En quelle année fut célébré en grande pompe le 150e anniversaire de Central Park ?
+      propositions:
+      - 1983
+      - 1993
+      - 2003
+      - 2013
+      réponse: 2003
+      anecdote: Il a fallu y détruire 300 000 mètres cubes de rochers, drainer le terrain marécageux et apporter une énorme quantité de terre.
+    - id: 8
+      question: Comment est généralement appelé le plus vaste plan d'eau de Central Park ?
+      propositions:
+      - Lac Placid
+      - Réservoir
+      - Broken Bow
+      - Lake Flower
+      réponse: Réservoir
+      anecdote: Comme son nom l'indique, il servait à recueillir l'eau en provenance de l'aqueduc de Croton, avant d'être distribuée dans Manhattan.
+    - id: 9
+      question: Pour quelle activité le Reservoir de Central Park est-il surtout connu des New-Yorkais ?
+      propositions:
+      - Pêche
+      - Ski nautique
+      - Jogging
+      - Plongée
+      réponse: Jogging
+      anecdote: La piste de jogging de 2,54 km qui entoure ce grand plan d'eau accueille chaque jour des milliers de sportifs qui en font le tour.
+    - id: 10
+      question: De combien de ponts Central Park est-il pourvu dans sa globalité ?
+      propositions:
+      - 48
+      - 24
+      - 36
+      - 12
+      réponse: 36
+      anecdote: Les 36 ponts construits par Vaux sont tous uniques dans leur architecture et construits avec du granit, du schiste ou du métal.
+  - confirmé:
+    - id: 11
+      question: Quel musée est situé du côté de Central Park, sur la Cinquième avenue ?
+      propositions:
+      - Metropolitan
+      - Queens
+      - Skyscraper
+      - Folk Art
+      réponse: Metropolitan
+      anecdote: Le Metropolitan Museum of Art de New York est l'un des plus grands musées d'art au monde, ouvert au public depuis le 20 février 1872.
+    - id: 12
+      question: Comment fut baptisé Central Park après la crise économique de 1929 ?
+      propositions:
+      - Township
+      - Trenchtown
+      - Hooverville
+      - Kibera
+      réponse: Hooverville
+      anecdote: Une série de bidonvilles apparurent aux États-Unis au cours de la Grande Dépression, de 1929 jusque dans les années 1940.
+    - id: 13
+      question: Sur quel rocher de Central Park le Belvedere Castle est-il construit ?
+      propositions:
+      - Vista Rock
+      - Body Rock
+      - Rat Rock
+      - Summit Rock
+      réponse: Vista Rock
+      anecdote: Fait de schiste, il est avec Summit Rock l'une des formations naturelles les plus élevées du parc, culminant à environ 40 mètres.
+    - id: 14
+      question: Quel lac de Central Park est situé entre Vista Rock et la Great Lawn ?
+      propositions:
+      - Chippewa Lake
+      - Rose Lake
+      - Hocking Hills
+      - Turtle Pond
+      réponse: Turtle Pond
+      anecdote: Comme son nom l'indique, Turtle Pond est peuplé par des tortues mais aussi des libellules, grenouilles et diverses espèces d'oiseaux.
+    - id: 15
+      question: Quel espace de Central Park a été utilisé comme pâturage jusqu'en 1934 ?
+      propositions:
+      - Bowling Green
+      - High Line
+      - Pelham Bay
+      - Sheep Meadow
+      réponse: Sheep Meadow
+      anecdote: Actuellement, il s'agit d'une pelouse se prêtant très bien au farniente et aux bains de soleil, les New-Yorkais l'utilisant comme une plage.
+    - id: 16
+      question: À Manhattan, quel bâtiment possède deux adresses : 145 et 146 Central Park West ?
+      propositions:
+      - Eldorado
+      - Beresford
+      - The San Remo
+      - Dakota Building
+      réponse: The San Remo
+      anecdote: Chacune des deux tours de dix étages s'achève par un luxueux appartement d'inspiration baroque de style John Vanbrugh.
+    - id: 17
+      question: Sur quel rocher quasiment circulaire pratique-t-on l'escalade de bloc à Central Park ?
+      propositions:
+      - Summit Rock
+      - Rat Rock
+      - Vista Rock
+      - Green Rock
+      réponse: Rat Rock
+      anecdote: Ce rocher de schiste, également connu sous le nom d'Umpire Rock, doit son nom aux rats qui y prolifèrent la nuit.
+    - id: 18
+      question: Quelle patinoire à ciel ouvert est située sur un ancien étang asséché de Central Park ?
+      propositions:
+      - Cyber Glace
+      - Patinoire Bocquaine
+      - Patinoire Wollman
+      - Patinoire Illberg
+      réponse: Patinoire Wollman
+      anecdote: Ouverte en 1949, la patinoire a été construite sur fonds privés, par un don de 600 000 dollars issu de l'héritage de William Wollman.
+    - id: 19
+      question: À Central Park, quel jardin à la française tire son nom d'une ancienne serre de 1898 ?
+      propositions:
+      - Beresford
+      - Pale Male
+      - Conservatory G.
+      - Greensward Plan
+      réponse: Conservatory G.
+      anecdote: L'ancien jardinier en chef de Central Park utilisait ces serres afin de conserver le bois issu de la taille des arbres du parc.
+    - id: 20
+      question: De combien de terrains de sport Central Park est-il pourvu à ce jour ?
+      propositions:
+      - 41
+      - 21
+      - 31
+      - 11
+      réponse: 21
+      anecdote: Central Park propose de très nombreuses activités aux enfants, parmi lesquelles un théâtre de marionnettes à Swedish Cottage.
+  - expert:
+    - id: 21
+      question: Quel projet fut retenu en 1857 lors du concours de dessin des plans de Central Park ?
+      propositions:
+      - Greensward Plan
+      - Cedar Plan
+      - Hauser Plan
+      - Milford Plan
+      réponse: Greensward Plan
+      anecdote: Le projet du « Greensward Plan » de l'écrivain Frederick Law Olmsted et de l'architecte britannique Calvert Vaux fut retenu.
+    - id: 22
+      question: Combien d'arbres furent plantés lors de l'aménagement de Central Park ?
+      propositions:
+      - 500 000
+      - 400 000
+      - 200 000
+      - 300 000
+      réponse: 500 000
+      anecdote: 1 500 ouvriers travaillèrent chaque jour afin de planter ces 500 000 arbres. Terminé en 1869, le chantier coûta la vie à cinq travailleurs.
+    - id: 23
+      question: Quel parc spécialisé a vu le jour en 1864 au sein même de Central Park ?
+      propositions:
+      - Un camping
+      - Un cirque
+      - Un zoo
+      - Une réserve
+      réponse: Un zoo
+      anecdote: Le zoo possède des ours polaires et des espèces animales en danger telles que le tamarin, le crapaud du Wyoming ou le petit panda.
+    - id: 24
+      question: À qui Fiorello LaGuardia confia-t-il le soin de réhabiliter Central Park ?
+      propositions:
+      - Kevin Lynch
+      - Paul Davidoff
+      - Daniel Burnham
+      - Robert Moses
+      réponse: Robert Moses
+      anecdote: Le « maître de la construction » est l'architecte de New York, de Long Island, du comté de Rockland et du comté de Westchester.
+    - id: 25
+      question: Quel espace de Central Park était autrefois recouvert par le Lower Reservoir ?
+      propositions:
+      - Great Lawn
+      - Turtle Pond
+      - Rat Rock
+      - Pale Male
+      réponse: Great Lawn
+      anecdote: Ce réservoir, dont la construction datait de 1842, faisait partie des plans originels du parc imaginés par Olmsted et Vaux.
+    - id: 26
+      question: En combien de parties Olmsted voulait-il séparer ce qui deviendra Central Park ?
+      propositions:
+      - Six
+      - Quatre
+      - Trois
+      - Cinq
+      réponse: Trois
+      anecdote: Une partie pastorale, une partie pittoresque et une partie formelle accueillant une fontaine et un plan d'eau.
+    - id: 27
+      question: Quelle buse à queue rousse réside au 927 de la cinquième avenue à Central Park ?
+      propositions:
+      - Petra
+      - Nils Olav
+      - Pale Male
+      - King of Rome
+      réponse: Pale Male
+      anecdote: En décembre 2004, le propriétaire de l'immeuble sur lequel la buse avait fait son nid dû renoncer à l'enlever après protestations.
+    - id: 28
+      question: Quelle fontaine de Central Park a été dessinée par Emma Stebbins en 1868 ?
+      propositions:
+      - Vaillancourt
+      - Brewer
+      - McMillan
+      - Bethesda
+      réponse: Bethesda
+      anecdote: Les quatre chérubins de la fontaine inaugurée en 1873 représentent les vertus : la tempérance, la pureté, la prospérité et la paix.
+    - id: 29
+      question: Quel théâtre accueille chaque été le New York Shakespeare Festival ?
+      propositions:
+      - Théâtre Shubert
+      - Delacorte Theater
+      - Park Theatre
+      - Squat Theatre
+      réponse: Delacorte Theater
+      anecdote: Chaque été, l'association du Joseph Papp Public Theater présente une série de pièces dont une oeuvre de William Shakespeare.
+    - id: 30
+      question: Quel monument représente la sculpture la plus impressionnante de Central Park ?
+      propositions:
+      - King Jagiello
+      - Great Lawn
+      - Turtle Pond
+      - Rat Rock
+      réponse: King Jagiello
+      anecdote: Nommée à la mémoire de l'ancien roi de Pologne, Ladislas II Jagellon, cette sculpture est située à proximité du Turtle Pond.
+  en:
+  - débutant:
+    - id: 1
+      question: How big is Central Park in the borough of Manhattan ?
+      propositions:
+      - 234 ha
+      - 443 ha
+      - 198 ha
+      - 341 ha
+      réponse: 341 ha
+      anecdote: The park is managed by the Central Park Conservancy which has an annual budget of $ 200 million.
+    - id: 2
+      question: Which residential neighborhood borders Central Park on the east side of the park ?
+      propositions:
+      - Upper East Side
+      - Yorkville
+      - Ward's Island
+      - SoHo
+      réponse: Upper East Side
+      anecdote: The neighborhood is inhabited by a very wealthy population, with real estate prices among the highest in the United States.
+    - id: 3
+      question: In which luxury building on the edge of Central Park has John McEnroe used to be ?
+      propositions:
+      - Eldorado
+      - One57
+      - Beresford
+      - Ansonia
+      réponse: Beresford
+      anecdote: The Beresford, like the San Remo Apartments, is also home to a couple of unexpected residents : hawks.
+    - id: 4
+      question: Approximately how many visitors travel to Central Park each year ?
+      propositions:
+      - 37 million
+      - 42 million
+      - 59 million
+      - 25 million
+      réponse: 37 million
+      anecdote: Central Park represents a green oasis in the middle of Manhattan's skyscraper forest, even though it is located in the north of the island.
+    - id: 5
+      question: Which rock is also the highest point in Central Park ?
+      propositions:
+      - Rat Rock
+      - Vista Rock
+      - Summit Rock
+      - Line Rock
+      réponse: Summit Rock
+      anecdote: Located in the west of the park at 83rd Street, Summit Rock reaches the elevation of 137.5 feet, or nearly 42 meters in height.
+    - id: 6
+      question: To whom is the Strawberry Fields Memorial, designed by Bruce Kelly dedicated ?
+      propositions:
+      - Michael Jackson
+      - John Lenon
+      - Elvis Presley
+      - Jimi Hendrix
+      réponse: John Lenon
+      anecdote: Strawberry Fields was inaugurated on John Lennon's 45th birthday, October 9, 1985, in the presence of his widow Yoko Ono.
+    - id: 7
+      question: In which year was the 150th anniversary of the park celebrated with great pomp ?
+      propositions:
+      - 2013
+      - 2003
+      - 1993
+      - 1983
+      réponse: 2003
+      anecdote: It was necessary to destroy 300,000 cubic meters of rocks there, to drain the marshy ground and to bring an enormous quantity of earth.
+    - id: 8
+      question: What is Central Park's largest body of water generally called ?
+      propositions:
+      - Broken Bow
+      - Lake Flower
+      - Lake Placid
+      - Reservoir
+      réponse: Reservoir
+      anecdote: As its name suggests, it was used to collect water from the Croton aqueduct, before being distributed in Manhattan.
+    - id: 9
+      question: For what activity is the Reservoir best known to New Yorkers ?
+      propositions:
+      - Fishing
+      - Diving
+      - Water skiing
+      - Jogging
+      réponse: Jogging
+      anecdote: The 2.54 km jogging track that surrounds this large body of water welcomes thousands of sportsmen and women who circle it every day.
+    - id: 10
+      question: How many bridges does Central Park have overall ?
+      propositions:
+      - 24
+      - 48
+      - 12
+      - 36
+      réponse: 36
+      anecdote: The 36 bridges built by Vaux are all unique in their architecture and built with granite, shale or metal.
+  - confirmé:
+    - id: 11
+      question: Which museum is located on the Central Park side of Fifth Avenue ?
+      propositions:
+      - Metropolitan Museum
+      - Skyscraper Museum
+      - Folk Art Museum
+      - Queens Museum
+      réponse: Metropolitan Museum
+      anecdote: The Metropolitan Museum of Art in New York is one of the largest art museums in the world, open to the public since February 20, 1872.
+    - id: 12
+      question: What was Central Park called after the economic crisis of 1929 ?
+      propositions:
+      - Township
+      - Trenchtown
+      - Kibera
+      - Hooverville
+      réponse: Hooverville
+      anecdote: A series of slums arose in the United States during the Great Depression, from 1929 until the 1940s.
+    - id: 13
+      question: Which rock in Central Park is Belvedere Castle built on ?
+      propositions:
+      - Vista Rock
+      - Summit Rock
+      - Rat Rock
+      - Body Rock
+      réponse: Vista Rock
+      anecdote: Made of shale, it is with Summit Rock one of the highest natural formations in the park, culminating at about 40 meters.
+    - id: 14
+      question: Which lake in Central Park is located between Vista Rock and the Great Lawn ?
+      propositions:
+      - Hocking Hills
+      - Chippewa Lake
+      - Rose Lake
+      - Turtle Pond
+      réponse: Turtle Pond
+      anecdote: As its name suggests, Turtle Pond is populated by turtles but also dragonflies, frogs and various species of birds.
+    - id: 15
+      question: What area of Central Park was used as pasture until 1934 ?
+      propositions:
+      - Bowling Green
+      - Sheep Meadow
+      - High Line
+      - Pelham Bay
+      réponse: Sheep Meadow
+      anecdote: Currently, it is a lawn very suitable for lazing around and sunbathing, with New Yorkers using it as a beach.
+    - id: 16
+      question: Which building has two addresses: 145 and 146 Central Park West ?
+      propositions:
+      - Eldorado
+      - Beresford
+      - Dakota Building
+      - The San Remo
+      réponse: The San Remo
+      anecdote: Each of the two ten-story towers ends with a luxurious Baroque-inspired John Vanbrugh-style apartment.
+    - id: 17
+      question: On which almost circular rock do you practice bouldering ?
+      propositions:
+      - Rat Rock
+      - Green Rock
+      - Vista Rock
+      - Summit Rock
+      réponse: Rat Rock
+      anecdote: This shale rock, also known as Umpire Rock, owes its name to the rats that proliferate there at night.
+    - id: 18
+      question: What famous open-air ice rink is located on a former dried-up pond ?
+      propositions:
+      - Bocquaine ice rink
+      - Cyber Glace
+      - Wollman Ice Rink
+      - Illberg ice rink
+      réponse: Wollman Ice Rink
+      anecdote: Opened in 1949, the ice rink was built on private funds, with a donation of $ 600,000 from William Wollman's legacy.
+    - id: 19
+      question: Which French garden takes its name from an old greenhouse from 1898 ?
+      propositions:
+      - Greensward Map
+      - Beresford
+      - Conservatory Garden
+      - Pale Male
+      réponse: Conservatory Garden
+      anecdote: The former head gardener of Central Park used these greenhouses to store wood from pruning trees in the park.
+    - id: 20
+      question: How many sports fields does Central Park have to date ?
+      propositions:
+      - 21
+      - 41
+      - 11
+      - 31
+      réponse: 21
+      anecdote: Central Park has plenty of activities for kids, including a puppet theater at Swedish Cottage.
+  - expert:
+    - id: 21
+      question: What project was selected in 1857 during the drawing competition for park plans ?
+      propositions:
+      - Cedar Map
+      - Hauser Map
+      - Greensward Map
+      - Milford Map
+      réponse: Greensward Map
+      anecdote: The « Greensward Plan » by the writer Frederick Law Olmsted and the British architect Calvert Vaux was selected.
+    - id: 22
+      question: How many trees were planted during the development of the park ?
+      propositions:
+      - 400,000
+      - 300,000
+      - 500,000
+      - 200,000
+      réponse: 500,000
+      anecdote: 1,500 workers worked every day to plant these 500,000 trees. Completed in 1869, the site claimed the lives of five workers.
+    - id: 23
+      question: What specialized park was created in 1864 within Central Park itself ?
+      propositions:
+      - A reserve
+      - A circus
+      - A campsite
+      - A zoo
+      réponse: A zoo
+      anecdote: The zoo has polar bears and endangered animal species such as the tamarind, the Wyoming toad or the lesser panda.
+    - id: 24
+      question: To whom did Fiorello LaGuardia entrust the task of rehabilitating Central Park ?
+      propositions:
+      - Paul Davidoff
+      - Robert Moses
+      - Daniel Burnham
+      - Kevin Lynch
+      réponse: Robert Moses
+      anecdote: The master builder is the architect of New York, Long Island, Rockland County and Westchester County.
+    - id: 25
+      question: What area of Central Park was once covered by the Lower Reservoir ?
+      propositions:
+      - Rat Rock
+      - Turtle Pond
+      - Great Lawn
+      - Pale Male
+      réponse: Great Lawn
+      anecdote: This reservoir, the construction of which dated back to 1842, was part of the original plans for the park imagined by Olmsted and Vaux.
+    - id: 26
+      question: How many parts did Olmsted want to separate his future park into ?
+      propositions:
+      - Five
+      - Three
+      - Four
+      - Six
+      réponse: Three
+      anecdote: A pastoral part, a picturesque part and a formal part welcoming a fountain and a body of water.
+    - id: 27
+      question: Which red-tailed hawk resides at 927 Fifth Avenue in Central Park ?
+      propositions:
+      - Petra
+      - Pale Male
+      - Nils Olav
+      - King of Rome
+      réponse: Pale Male
+      anecdote: In December 2004, the owner of the building on which the buzzard had made its nest had to give up removing it after protests.
+    - id: 28
+      question: Which Central Park fountain was designed by Emma Stebbins in 1868 ?
+      propositions:
+      - Brewer
+      - Vaillancourt
+      - Bethesda
+      - McMillan
+      réponse: Bethesda
+      anecdote: The four cherubim of the fountain inaugurated in 1873 represent the virtues : temperance, purity, prosperity and peace.
+    - id: 29
+      question: Which theater hosts the New York Shakespeare Festival each summer ?
+      propositions:
+      - Delacorte Theater
+      - Squat Theater
+      - Park Theater
+      - Shubert Theater
+      réponse: Delacorte Theater
+      anecdote: Each summer, the Joseph Papp Public Theater association presents a series of plays including a work by William Shakespeare.
+    - id: 30
+      question: Which monument represents the most impressive sculpture in the park ?
+      propositions:
+      - Turtle Pond
+      - King Jagiello
+      - Great Lawn
+      - Rat Rock
+      réponse: King Jagiello
+      anecdote: Named in memory of the former King of Poland, Ladislaus II Jagiello, this sculpture is located near the Turtle Pond.
+  de:
+  - débutant:
+    - id: 1
+      question: Wie groß ist der Central Park im Stadtteil Manhattan ?
+      propositions:
+      - 198 ha
+      - 234 ha
+      - 341 ha
+      - 443 ha
+      réponse: 341 ha
+      anecdote: Der Park wird von der Central Park Conservancy verwaltet, die über ein Jahresbudget von 200 Millionen US-Dollar verfügt.
+    - id: 2
+      question: Welche Wohngegend grenzt an den Central Park auf der Ostseite des Parks ?
+      propositions:
+      - Upper East Side
+      - SoHo
+      - Yorkville
+      - Ward's Island
+      réponse: Upper East Side
+      anecdote: Die Nachbarschaft wird von einer sehr wohlhabenden Bevölkerung bewohnt, wobei die Immobilienpreise zu den höchsten in den Vereinigten Staaten gehören.
+    - id: 3
+      question: In welchem Luxusgebäude am Rande des Central Park war John McEnroe früher ?
+      propositions:
+      - Eldorado
+      - Ansonia
+      - Beresford
+      - One57
+      réponse: Beresford
+      anecdote: Das Beresford beherbergt wie die San Remo Apartments auch einige unerwartete Bewohner : Falken.
+    - id: 4
+      question: Wie viele Besucher reisen ungefähr pro Jahr in den Central Park ?
+      propositions:
+      - 37 Millionen
+      - 25 Millionen
+      - 59 Millionen
+      - 42 Millionen
+      réponse: 37 Millionen
+      anecdote: Der Central Park ist eine grüne Oase inmitten des Wolkenkratzerwaldes von Manhattan, obwohl er sich im Norden der Insel befindet.
+    - id: 5
+      question: Welcher Felsen ist auch der höchste Punkt im Central Park ?
+      propositions:
+      - Summit Rock
+      - Rattenfelsen
+      - Vista Rock
+      - Line Rock
+      réponse: Summit Rock
+      anecdote: Summit Rock befindet sich im Westen des Parks in der 83. Straße und erreicht eine Höhe von 137,5 Fuß oder fast 42 Metern Höhe.
+    - id: 6
+      question: Wem ist das von Bruce Kelly entworfene Strawberry Fields Memorial gewidmet ?
+      propositions:
+      - Elvis Presley
+      - John Lenon
+      - Michael Jackson
+      - Jimi Hendrix
+      réponse: John Lenon
+      anecdote: Strawberry Fields wurde an John Lennons 45. Geburtstag, dem 9. Oktober 1985, in Anwesenheit seiner Witwe Yoko Ono eingeweiht.
+    - id: 7
+      question: In welchem Jahr wurde das 150-jährige Bestehen des Parks mit großem Pomp gefeiert ?
+      propositions:
+      - 1983
+      - 2013
+      - 2003
+      - 1993
+      réponse: 2003
+      anecdote: Dort mussten 300.000 Kubikmeter Steine  ? ?zerstört, der sumpfige Boden entwässert und eine enorme Menge Erde gebracht werden.
+    - id: 8
+      question: Wie heißt das größte Gewässer des Central Park ?
+      propositions:
+      - Lake Placid
+      - Reservoir
+      - See Blume
+      - Gebrochener Bogen
+      réponse: Reservoir
+      anecdote: Wie der Name schon sagt, wurde es verwendet, um Wasser aus dem Croton-Aquädukt zu sammeln, bevor es in Manhattan verteilt wurde.
+    - id: 9
+      question: Für welche Aktivität ist der Stausee den New Yorkern am bekanntesten ?
+      propositions:
+      - Joggen
+      - Wasserski
+      - Tauchen
+      - Angeln
+      réponse: Joggen
+      anecdote: Die 2,54 km lange Joggingstrecke, die dieses große Gewässer umgibt, heißt jeden Tag Tausende von Sportlern willkommen, die es umrunden.
+    - id: 10
+      question: Wie viele Brücken hat der Central Park insgesamt ?
+      propositions:
+      - 48
+      - 12
+      - 36
+      - 24
+      réponse: 36
+      anecdote: Die 36 von Vaux gebauten Brücken sind alle in ihrer Architektur einzigartig und aus Granit, Schiefer oder Metall gebaut.
+  - confirmé:
+    - id: 11
+      question: Welches Museum befindet sich auf der Central Park-Seite der Fifth Avenue ?
+      propositions:
+      - Wolkenkratzermuseum
+      - Queens Museum
+      - Metropolitan Museum
+      - Volkskunstmuseum
+      réponse: Metropolitan Museum
+      anecdote: Das Metropolitan Museum of Art in New York ist eines der größten Kunstmuseen der Welt und seit dem 20.
+    - id: 12
+      question: Wie hieß der Central Park nach der Wirtschaftskrise von 1929 ?
+      propositions:
+      - Gemeinde
+      - Hooverville
+      - Trenchtown
+      - Kibera
+      réponse: Hooverville
+      anecdote: In den Vereinigten Staaten entstand während der Weltwirtschaftskrise von 1929 bis in die 1940er Jahre eine Reihe von Slums.
+    - id: 13
+      question: Auf welchem Felsen im Central Park ist das Schloss Belvedere gebaut ?
+      propositions:
+      - Vista Rock
+      - Summit Rock
+      - Body Rock
+      - Rattenfelsen
+      réponse: Vista Rock
+      anecdote: Es besteht aus Schiefer und ist mit Summit Rock eine der höchsten natürlichen Formationen im Park, die auf etwa 40 Metern gipfelt.
+    - id: 14
+      question: Welcher Central Park See liegt zwischen Vista Rock und dem Great Lawn ?
+      propositions:
+      - Rosensee
+      - Turtle Pond
+      - Hocking Hills
+      - Chippewa See
+      réponse: Turtle Pond
+      anecdote: Wie der Name schon sagt, gibt es im Turtle Pond Schildkröten, aber auch Libellen, Frösche und verschiedene Vogelarten.
+    - id: 15
+      question: Welches Gebiet des Central Park wurde bis 1934 als Weide genutzt ?
+      propositions:
+      - Hohe Linie
+      - Pelham Bay
+      - Bowling Green
+      - Schafwiese
+      réponse: Schafwiese
+      anecdote: Derzeit ist es ein Rasen, der sich sehr gut zum Faulenzen und Sonnenbaden eignet. Die New Yorker nutzen ihn als Strand.
+    - id: 16
+      question: Welches Gebäude hat zwei Adressen: 145 und 146 Central Park West ?
+      propositions:
+      - Eldorado
+      - Beresford
+      - Dakota Gebäude
+      - Das San Remo
+      réponse: Das San Remo
+      anecdote: Jeder der beiden zehnstöckigen Türme endet mit einem luxuriösen, im Barock inspirierten Apartment im John Vanbrugh-Stil.
+    - id: 17
+      question: Auf welchem fast kreisförmigen Felsen üben Sie Bouldern ?
+      propositions:
+      - Vista Rock
+      - Grüner Felsen
+      - Rattenfelsen
+      - Summit Rock
+      réponse: Rattenfelsen
+      anecdote: Dieser Schieferfelsen, auch als Umpire Rock bekannt, verdankt seinen Namen den Ratten, die sich dort nachts vermehren.
+    - id: 18
+      question: Welche berühmte Open-Air-Eisbahn befindet sich auf einem ehemaligen ausgetrockneten Teich ?
+      propositions:
+      - Wollman Eisbahn
+      - Cyber Glace
+      - Illberg Eisbahn
+      - Bocquaine Eisbahn
+      réponse: Wollman Eisbahn
+      anecdote: Die 1949 eröffnete Eisbahn wurde aus privaten Mitteln mit einer Spende von 600.000 US-Dollar aus dem Erbe von William Wollman gebaut.
+    - id: 19
+      question: Welcher französische Garten hat seinen Namen von einem alten Gewächshaus aus dem Jahr 1898 ?
+      propositions:
+      - Blasser Mann
+      - Greensward Map
+      - Wintergarten
+      - Beresford
+      réponse: Wintergarten
+      anecdote: Der ehemalige Gärtner des Central Park nutzte diese Gewächshäuser, um Holz von beschnittenen Bäumen im Park zu lagern.
+    - id: 20
+      question: Wie viele Sportplätze hat der Central Park bisher ?
+      propositions:
+      - 31
+      - 21
+      - 41
+      - 11
+      réponse: 21
+      anecdote: Im Central Park gibt es viele Aktivitäten für Kinder, darunter ein Puppentheater im Swedish Cottage.
+  - expert:
+    - id: 21
+      question: Welches Projekt wurde 1857 während des Malwettbewerbs für Parkpläne ausgewählt ?
+      propositions:
+      - Milford Karte
+      - Greensward Map
+      - Hauser Karte
+      - Zedernkarte
+      réponse: Greensward Map
+      anecdote: Der « Greensward Plan » des Schriftstellers Frederick Law Olmsted und des britischen Architekten Calvert Vaux wurde ausgewählt.
+    - id: 22
+      question: Wie viele Bäume wurden während der Entwicklung des Parks gepflanzt ?
+      propositions:
+      - 200.000
+      - 400.000
+      - 300.000
+      - 500.000
+      réponse: 500.000
+      anecdote: Täglich arbeiteten 1.500 Arbeiter, um diese 500.000 Bäume zu pflanzen. Der 1869 fertiggestellte Standort forderte das Leben von fünf Arbeitern.
+    - id: 23
+      question: Welcher Spezialpark wurde 1864 im Central Park selbst angelegt ?
+      propositions:
+      - Ein Zirkus
+      - Ein Campingplatz
+      - Ein Zoo
+      - Eine Reserve
+      réponse: Ein Zoo
+      anecdote: Der Zoo hat Eisbären und gefährdete Tierarten wie die Tamarinde, die Wyoming-Kröte oder den kleinen Panda.
+    - id: 24
+      question: Wem hat Fiorello LaGuardia die Aufgabe übertragen, den Central Park zu sanieren ?
+      propositions:
+      - Paul Davidoff
+      - Kevin Lynch
+      - Daniel Burnham
+      - Robert Moses
+      réponse: Robert Moses
+      anecdote: Der Baumeister ist der Architekt von New York, Long Island, Rockland County und Westchester County.
+    - id: 25
+      question: Welcher Bereich des Central Park war einst vom unteren Stausee bedeckt ?
+      propositions:
+      - Großer Rasen
+      - Rattenfelsen
+      - Turtle Pond
+      - Blasser Mann
+      réponse: Großer Rasen
+      anecdote: Dieser Stausee, dessen Bau bis ins Jahr 1842 zurückreicht, war Teil der ursprünglichen Pläne für den Park, die Olmsted und Vaux vorstellten.
+    - id: 26
+      question: In wie viele Teile wollte Olmsted seinen zukünftigen Park aufteilen ?
+      propositions:
+      - Fünf
+      - Vier
+      - Drei
+      - Sechs
+      réponse: Drei
+      anecdote: Ein pastoraler Teil, ein malerischer Teil und ein formaler Teil, der einen Brunnen und ein Gewässer begrüßt.
+    - id: 27
+      question: Welcher Rotschwanzbussard lebt in der 927 Fifth Avenue im Central Park ?
+      propositions:
+      - Blasser Mann
+      - Petra
+      - König von Rom
+      - Nils Olav
+      réponse: Blasser Mann
+      anecdote: Im Dezember 2004 musste der Eigentümer des Gebäudes, auf dem der Bussard sein Nest gebaut hatte, nach Protesten aufgeben, es zu entfernen.
+    - id: 28
+      question: Welcher Central Park Brunnen wurde 1868 von Emma Stebbins entworfen ?
+      propositions:
+      - Vaillancourt
+      - Bethesda
+      - Brauer
+      - McMillan
+      réponse: Bethesda
+      anecdote: Die vier Cherubim des 1873 eingeweihten Brunnens repräsentieren die Tugenden : Mäßigkeit, Reinheit, Wohlstand und Frieden.
+    - id: 29
+      question: In welchem Theater findet jeden Sommer das New York Shakespeare Festival statt ?
+      propositions:
+      - Squat Theater
+      - Shubert Theater
+      - Park Theater
+      - Delacorte Theater
+      réponse: Delacorte Theater
+      anecdote: Jeden Sommer präsentiert der Joseph Papp Public Theatre Association eine Reihe von Stücken, darunter ein Werk von William Shakespeare.
+    - id: 30
+      question: Welches Denkmal repräsentiert die beeindruckendste Skulptur im Park ?
+      propositions:
+      - Großer Rasen
+      - Rattenfelsen
+      - Turtle Pond
+      - König Jagiello
+      réponse: König Jagiello
+      anecdote: Diese Skulptur wurde in Erinnerung an den ehemaligen polnischen König Ladislaus II Jagiello benannt und befindet sich in der Nähe des Turtle Pond.
+  es:
+  - débutant:
+    - id: 1
+      question: ¿Qué tan grande es Central Park en el distrito de Manhattan ?
+      propositions:
+      - 341 ha
+      - 198 ha
+      - 443 ha
+      - 234 ha
+      réponse: 341 ha
+      anecdote: El parque es administrado por Central Park Conservancy, que tiene un presupuesto anual de $ 200 millones.
+    - id: 2
+      question: ¿Qué vecindario residencial limita con Central Park en el lado este del parque ?
+      propositions:
+      - Isla de Ward
+      - Upper East Side
+      - SoHo
+      - Yorkville
+      réponse: Upper East Side
+      anecdote: El barrio está habitado por una población muy rica, con precios inmobiliarios entre los más altos de Estados Unidos.
+    - id: 3
+      question: ¿En qué edificio de lujo en las afueras de Central Park solía estar John McEnroe ?
+      propositions:
+      - Eldorado
+      - One57
+      - Beresford
+      - Ansonia
+      réponse: Beresford
+      anecdote: Beresford, al igual que los apartamentos San Remo, también alberga a un par de residentes inesperados : halcones.
+    - id: 4
+      question: ¿Aproximadamente cuántos visitantes viajan a Central Park cada año ?
+      propositions:
+      - 42 millones
+      - 59 millones
+      - 25 millones
+      - 37 millones
+      réponse: 37 millones
+      anecdote: Central Park representa un oasis verde en medio del bosque de rascacielos de Manhattan, aunque se encuentra en el norte de la isla.
+    - id: 5
+      question: ¿Qué roca es también el punto más alto de Central Park ?
+      propositions:
+      - Vista Rock
+      - Line Rock
+      - Summit Rock
+      - Rat Rock
+      réponse: Summit Rock
+      anecdote: Situado en el oeste del parque en 83rd Street, Summit Rock alcanza una altura de 137,5 pies, o casi 42 metros de altura.
+    - id: 6
+      question: ¿A quién está dedicado el Strawberry Fields Memorial, diseñado por Bruce Kelly ?
+      propositions:
+      - Jimi Hendrix
+      - Michael Jackson
+      - Elvis Presley
+      - John Lenon
+      réponse: John Lenon
+      anecdote: Strawberry Fields fue inaugurado en el cumpleaños número 45 de John Lennon, el 9 de octubre de 1985, en presencia de su viuda Yoko Ono.
+    - id: 7
+      question: ¿En qué año se celebró con gran pompa el 150 aniversario del parque ?
+      propositions:
+      - 1993
+      - 1983
+      - 2003
+      - 2013
+      réponse: 2003
+      anecdote: Tuvimos que destruir 300.000 metros cúbicos de rocas, drenar el terreno pantanoso y traer una enorme cantidad de tierra.
+    - id: 8
+      question: ¿Cómo se llama generalmente la masa de agua más grande de Central Park ?
+      propositions:
+      - Arco roto
+      - Embalse
+      - Lake Placid
+      - Flor del lago
+      réponse: Embalse
+      anecdote: Como su nombre indica, se utilizó para recolectar agua del acueducto de Croton, antes de distribuirse en Manhattan.
+    - id: 9
+      question: ¿Por qué actividad es más conocido el embalse por los neoyorquinos ?
+      propositions:
+      - Jogging
+      - Pesca
+      - Esquí acuático
+      - Buceo
+      réponse: Jogging
+      anecdote: La pista de jogging de 2,54 km que rodea esta gran masa de agua recibe cada día a miles de deportistas que la rodean.
+    - id: 10
+      question: ¿Cuántos puentes tiene Central Park en total ?
+      propositions:
+      - 36
+      - 24
+      - 48
+      - 12
+      réponse: 36
+      anecdote: Los 36 puentes construidos por Vaux son únicos en su arquitectura y están construidos con granito, pizarra o metal.
+  - confirmé:
+    - id: 11
+      question: ¿Qué museo está ubicado en el lado de Central Park de la Quinta Avenida ?
+      propositions:
+      - Museo de los rascacielos
+      - Museo de Arte Popular
+      - Museo Metropolitano
+      - Museo de Queens
+      réponse: Museo Metropolitano
+      anecdote: El Museo Metropolitano de Arte de Nueva York es uno de los museos de arte más grandes del mundo, abierto al público desde el 20 de febrero de 1872.
+    - id: 12
+      question: ¿Cómo se llamó Central Park después de la crisis económica de 1929 ?
+      propositions:
+      - Kibera
+      - Hooverville
+      - Trenchtown
+      - Municipio
+      réponse: Hooverville
+      anecdote: Una serie de barrios marginales surgió en los Estados Unidos durante la Gran Depresión, desde 1929 hasta la década de 1940.
+    - id: 13
+      question: ¿Sobre qué roca de Central Park está construido el castillo de Belvedere ?
+      propositions:
+      - Body Rock
+      - Summit Rock
+      - Rat Rock
+      - Vista Rock
+      réponse: Vista Rock
+      anecdote: Hecho de pizarra, es con Summit Rock una de las formaciones naturales más altas del parque, que culmina a unos 40 metros.
+    - id: 14
+      question: ¿Qué lago de Central Park se encuentra entre Vista Rock y Great Lawn ?
+      propositions:
+      - Estanque de tortugas
+      - Hocking Hills
+      - Rose Lake
+      - Lago Chippewa
+      réponse: Estanque de tortugas
+      anecdote: Como su nombre indica, Turtle Pond está poblado por tortugas pero también libélulas, ranas y varias especies de aves.
+    - id: 15
+      question: ¿Qué área de Central Park se usó como pastizal hasta 1934 ?
+      propositions:
+      - Prado de ovejas
+      - High Line
+      - Pelham Bay
+      - Bowling Green
+      réponse: Prado de ovejas
+      anecdote: Actualmente, es un césped muy adecuado para holgazanear y tomar el sol, y los neoyorquinos lo utilizan como playa.
+    - id: 16
+      question: ¿Qué edificio tiene dos direcciones: 145 y 146 Central Park West ?
+      propositions:
+      - Eldorado
+      - Edificio Dakota
+      - El San Remo
+      - Beresford
+      réponse: El San Remo
+      anecdote: Cada una de las dos torres de diez pisos termina con un lujoso apartamento estilo John Vanbrugh de inspiración barroca.
+    - id: 17
+      question: ¿En qué roca casi circular practicas boulder ?
+      propositions:
+      - Green Rock
+      - Rat Rock
+      - Vista Rock
+      - Summit Rock
+      réponse: Rat Rock
+      anecdote: Esta roca de pizarra, también conocida como Umpire Rock, debe su nombre a las ratas que allí proliferan por la noche.
+    - id: 18
+      question: ¿Qué famosa pista de patinaje al aire libre se encuentra en un antiguo estanque seco ?
+      propositions:
+      - Pista de hielo de Wollman
+      - Pista de hielo Illberg
+      - Pista de hielo de Bocquaine
+      - Cyber Glace
+      réponse: Pista de hielo de Wollman
+      anecdote: Inaugurada en 1949, la pista de hielo se construyó con fondos privados, con una donación de 600.000 dólares del legado de William Wollman.
+    - id: 19
+      question: ¿Qué jardín francés toma su nombre de un antiguo invernadero de 1898 ?
+      propositions:
+      - Beresford
+      - Mapa de Greensward
+      - Hombre pálido
+      - Jardín del invernadero
+      réponse: Jardín del invernadero
+      anecdote: El ex jardinero jefe de Central Park usó estos invernaderos para almacenar madera de poda de árboles en el parque.
+    - id: 20
+      question: ¿Cuántos campos deportivos tiene Central Park hasta la fecha ?
+      propositions:
+      - 11
+      - 41
+      - 31
+      - 21
+      réponse: 21
+      anecdote: Central Park tiene muchas actividades para niños, incluido un teatro de marionetas en Swedish Cottage.
+  - expert:
+    - id: 21
+      question: ¿Qué proyecto fue seleccionado en 1857 durante el concurso de dibujo de planos de parques ?
+      propositions:
+      - Mapa de Hauser
+      - Mapa de Greensward
+      - Mapa de Cedar
+      - Mapa de Milford
+      réponse: Mapa de Greensward
+      anecdote: Se seleccionó el « Greensward Plan » del escritor Frederick Law Olmsted y el arquitecto británico Calvert Vaux.
+    - id: 22
+      question: ¿Cuántos árboles se plantaron durante el desarrollo del parque ?
+      propositions:
+      - 300,000
+      - 200,000
+      - 400,000
+      - 500,000
+      réponse: 500,000
+      anecdote: 1.500 trabajadores trabajaron todos los días para plantar estos 500.000 árboles. Terminado en 1869, el sitio se cobró la vida de cinco trabajadores.
+    - id: 23
+      question: ¿Qué parque especializado se creó en 1864 dentro del propio Central Park ?
+      propositions:
+      - Un zoológico
+      - Una reserva
+      - Un camping
+      - Un circo
+      réponse: Un zoológico
+      anecdote: El zoológico cuenta con osos polares y especies animales en peligro de extinción como el tamarindo, el sapo de Wyoming o el panda menor.
+    - id: 24
+      question: ¿A quién confió Fiorello LaGuardia la tarea de rehabilitar Central Park ?
+      propositions:
+      - Daniel Burnham
+      - Paul Davidoff
+      - Robert Moses
+      - Kevin Lynch
+      réponse: Robert Moses
+      anecdote: El maestro de obras es el arquitecto de Nueva York, Long Island, el condado de Rockland y el condado de Westchester.
+    - id: 25
+      question: ¿Qué área de Central Park estuvo alguna vez cubierta por el Embalse Inferior ?
+      propositions:
+      - Hombre pálido
+      - Gran césped
+      - Rat Rock
+      - Estanque de tortugas
+      réponse: Gran césped
+      anecdote: Este embalse, cuya construcción se remonta a 1842, formaba parte de los planos originales del parque imaginado por Olmsted y Vaux.
+    - id: 26
+      question: ¿En cuántas partes Olmsted quería separar su futuro parque ?
+      propositions:
+      - Cuatro
+      - Cinco
+      - Tres
+      - Seis
+      réponse: Tres
+      anecdote: Una parte pastoral, una parte pintoresca y una parte formal que da la bienvenida a una fuente y un cuerpo de agua.
+    - id: 27
+      question: ¿Qué halcón de cola roja reside en 927 Fifth Avenue en Central Park ?
+      propositions:
+      - Rey de Roma
+      - Hombre pálido
+      - Nils Olav
+      - Petra
+      réponse: Hombre pálido
+      anecdote: En diciembre de 2004, el propietario del edificio en el que había hecho su nido el buitre tuvo que renunciar a retirarlo tras las protestas.
+    - id: 28
+      question: ¿Qué fuente de Central Park fue diseñada por Emma Stebbins en 1868 ?
+      propositions:
+      - Bethesda
+      - Vaillancourt
+      - McMillan
+      - Cervecero
+      réponse: Bethesda
+      anecdote: Los cuatro querubines de la fuente inaugurada en 1873 representan las virtudes : templanza, pureza, prosperidad y paz.
+    - id: 29
+      question: ¿Qué teatro acoge el Festival Shakespeare de Nueva York cada verano ?
+      propositions:
+      - Teatro en cuclillas
+      - Teatro Delacorte
+      - Teatro Shubert
+      - Teatro del parque
+      réponse: Teatro Delacorte
+      anecdote: Cada verano, la asociación Joseph Papp Public Theatre presenta una serie de obras que incluyen una obra de William Shakespeare.
+    - id: 30
+      question: ¿Qué monumento representa la escultura más impresionante del parque ?
+      propositions:
+      - Gran césped
+      - King Jagiello
+      - Estanque de tortugas
+      - Rat Rock
+      réponse: King Jagiello
+      anecdote: Nombrada en memoria del ex rey de Polonia, Ladislaus II Jagiello, esta escultura se encuentra cerca de Turtle Pond.
+  it:
+  - débutant:
+    - id: 1
+      question: Quanto è grande Central Park nel quartiere di Manhattan ?
+      propositions:
+      - 198 ha
+      - 341 ha
+      - 234 ha
+      - 443 ha
+      réponse: 341 ha
+      anecdote: Il parco è gestito dalla Central Park Conservancy che ha un budget annuale di $ 200 milioni.
+    - id: 2
+      question: Quale quartiere residenziale confina con Central Park sul lato est del parco ?
+      propositions:
+      - Yorkville
+      - Upper East Side
+      - SoHo
+      - Isola di Ward
+      réponse: Upper East Side
+      anecdote: Il quartiere è abitato da una popolazione molto ricca, con prezzi degli immobili tra i più alti degli Stati Uniti.
+    - id: 3
+      question: In quale edificio di lusso ai margini di Central Park si trovava John McEnroe ?
+      propositions:
+      - Beresford
+      - Eldorado
+      - One57
+      - Ansonia
+      réponse: Beresford
+      anecdote: Il Beresford, come i San Remo Apartments, ospita anche una coppia di residenti inaspettati : i falchi.
+    - id: 4
+      question: Quanti visitatori si recano a Central Park approssimativamente ogni anno ?
+      propositions:
+      - 37 milioni
+      - 59 milioni
+      - 42 milioni
+      - 25 milioni
+      réponse: 37 milioni
+      anecdote: Central Park rappresenta un'oasi verde nel mezzo della foresta dei grattacieli di Manhattan, anche se si trova nel nord dell'isola.
+    - id: 5
+      question: Quale roccia è anche il punto più alto di Central Park ?
+      propositions:
+      - Summit Rock
+      - Line Rock
+      - Rat Rock
+      - Vista Rock
+      réponse: Summit Rock
+      anecdote: Situato nella parte occidentale del parco, all'83a strada, Summit Rock raggiunge l'elevazione di 137,5 piedi, quasi 42 metri di altezza.
+    - id: 6
+      question: A chi è dedicato lo Strawberry Fields Memorial, progettato da Bruce Kelly ?
+      propositions:
+      - Jimi Hendrix
+      - Elvis Presley
+      - Michael Jackson
+      - John Lenon
+      réponse: John Lenon
+      anecdote: Strawberry Fields è stato inaugurato il 45 ° compleanno di John Lennon, il 9 ottobre 1985, alla presenza della sua vedova Yoko Ono.
+    - id: 7
+      question: In quale anno è stato celebrato con grande sfarzo il 150 ° anniversario del parco ?
+      propositions:
+      - 2013
+      - 2003
+      - 1983
+      - 1993
+      réponse: 2003
+      anecdote: Fu necessario distruggere lì 300.000 metri cubi di rocce, prosciugare il terreno paludoso e portare un'enorme quantità di terra.
+    - id: 8
+      question: Qual è generalmente chiamato il più grande specchio d'acqua di Central Park ?
+      propositions:
+      - Serbatoio
+      - Lake Placid
+      - Lake Flower
+      - Arco spezzato
+      réponse: Serbatoio
+      anecdote: Come suggerisce il nome, veniva utilizzato per raccogliere l'acqua dall'acquedotto di Croton, prima di essere distribuito a Manhattan.
+    - id: 9
+      question: Per quale attività il Reservoir è meglio conosciuto dai newyorkesi ?
+      propositions:
+      - Jogging
+      - Pesca
+      - Immersioni
+      - Sci nautico
+      réponse: Jogging
+      anecdote: La pista da jogging di 2,54 km che circonda questo grande specchio d'acqua accoglie migliaia di sportivi che lo percorrono ogni giorno.
+    - id: 10
+      question: Quanti ponti ha Central Park nel complesso ?
+      propositions:
+      - 12
+      - 36
+      - 24
+      - 48
+      réponse: 36
+      anecdote: I 36 ponti costruiti da Vaux sono tutti unici nella loro architettura e costruiti con granito, scisto o metallo.
+  - confirmé:
+    - id: 11
+      question: Quale museo si trova sul lato di Central Park della Fifth Avenue ?
+      propositions:
+      - Metropolitan Museum
+      - Museo di arte popolare
+      - Museo del grattacielo
+      - Queens Museum
+      réponse: Metropolitan Museum
+      anecdote: Il Metropolitan Museum of Art di New York è uno dei più grandi musei d'arte del mondo, aperto al pubblico dal 20 febbraio 1872.
+    - id: 12
+      question: Come si chiamava Central Park dopo la crisi economica del 1929 ?
+      propositions:
+      - Kibera
+      - Hooverville
+      - Township
+      - Trenchtown
+      réponse: Hooverville
+      anecdote: Una serie di baraccopoli sorse negli Stati Uniti durante la Grande Depressione, dal 1929 fino agli anni '40.
+    - id: 13
+      question: Su quale roccia di Central Park è costruito il Castello del Belvedere ?
+      propositions:
+      - Summit Rock
+      - Vista Rock
+      - Body Rock
+      - Rat Rock
+      réponse: Vista Rock
+      anecdote: Realizzato in scisto, è con Summit Rock una delle formazioni naturali più alte del parco, che culmina a circa 40 metri.
+    - id: 14
+      question: Quale lago a Central Park si trova tra Vista Rock e Great Lawn ?
+      propositions:
+      - Hocking Hills
+      - Stagno delle tartarughe
+      - Lago Chippewa
+      - Rose Lake
+      réponse: Stagno delle tartarughe
+      anecdote: Come suggerisce il nome, Turtle Pond è popolato da tartarughe ma anche libellule, rane e varie specie di uccelli.
+    - id: 15
+      question: Quale area di Central Park è stata utilizzata come pascolo fino al 1934 ?
+      propositions:
+      - Sheep Meadow
+      - Bowling Green
+      - Pelham Bay
+      - High Line
+      réponse: Sheep Meadow
+      anecdote: Attualmente è un prato molto adatto per oziare e prendere il sole, con i newyorkesi che lo usano come spiaggia.
+    - id: 16
+      question: Quale edificio ha due indirizzi: 145 e 146 Central Park West ?
+      propositions:
+      - Eldorado
+      - Beresford
+      - Dakota Building
+      - Il San Remo
+      réponse: Il San Remo
+      anecdote: Ciascuna delle due torri di dieci piani termina con un lussuoso appartamento in stile John Vanbrugh di ispirazione barocca.
+    - id: 17
+      question: Su quale roccia quasi circolare pratichi il bouldering ?
+      propositions:
+      - Rat Rock
+      - Summit Rock
+      - Green Rock
+      - Vista Rock
+      réponse: Rat Rock
+      anecdote: Questa roccia di scisto, nota anche come roccia degli arbitri, deve il suo nome ai ratti che vi proliferano di notte.
+    - id: 18
+      question: Quale famosa pista di pattinaggio all'aperto si trova su un antico stagno prosciugato ?
+      propositions:
+      - Pista di pattinaggio di Bocquaine
+      - Cyber Glace
+      - Pista di pattinaggio Illberg
+      - Pista di pattinaggio sul ghiaccio di Wol
+      réponse: Pista di pattinaggio sul ghiaccio di Wol
+      anecdote: Inaugurata nel 1949, la pista di pattinaggio sul ghiaccio è stata costruita su fondi privati, con una donazione di $ 600.000 dall'eredità di William Wollman.
+    - id: 19
+      question: Quale giardino francese prende il nome da una vecchia serra del 1898 ?
+      propositions:
+      - Beresford
+      - Giardino d'inverno
+      - Pale Male
+      - Mappa di Greensward
+      réponse: Giardino d'inverno
+      anecdote: L'ex capo giardiniere di Central Park usava queste serre per immagazzinare il legno proveniente dalla potatura degli alberi nel parco.
+    - id: 20
+      question: Quanti campi sportivi ha Central Park fino ad oggi ?
+      propositions:
+      - 31
+      - 41
+      - 21
+      - 11
+      réponse: 21
+      anecdote: Central Park offre molte attività per bambini, tra cui un teatro delle marionette allo Swedish Cottage.
+  - expert:
+    - id: 21
+      question: Quale progetto fu selezionato nel 1857 durante il concorso di disegno per le piante del parco ?
+      propositions:
+      - Mappa di Hauser
+      - Mappa di Milford
+      - Mappa di Greensward
+      - Mappa di cedro
+      réponse: Mappa di Greensward
+      anecdote: È stato selezionato il « Piano Greensward » dello scrittore Frederick Law Olmsted e dell'architetto britannico Calvert Vaux.
+    - id: 22
+      question: Quanti alberi sono stati piantati durante lo sviluppo del parco ?
+      propositions:
+      - 400.000
+      - 300.000
+      - 200.000
+      - 500.000
+      réponse: 500.000
+      anecdote: 1.500 operai hanno lavorato ogni giorno per piantare questi 500.000 alberi. Completato nel 1869, il sito ha causato la morte di cinque lavoratori.
+    - id: 23
+      question: Quale parco specializzato è stato creato nel 1864 all'interno dello stesso Central Park ?
+      propositions:
+      - Un circo
+      - Uno zoo
+      - Un campeggio
+      - Una riserva
+      réponse: Uno zoo
+      anecdote: Lo zoo ospita orsi polari e specie animali in via di estinzione come il tamarindo, il rospo del Wyoming o il panda minore.
+    - id: 24
+      question: A chi Fiorello LaGuardia ha affidato il compito di riabilitare Central Park ?
+      propositions:
+      - Daniel Burnham
+      - Kevin Lynch
+      - Robert Moses
+      - Paul Davidoff
+      réponse: Robert Moses
+      anecdote: Il capomastro è l'architetto di New York, Long Island, Rockland County e Westchester County.
+    - id: 25
+      question: Quale area di Central Park era una volta coperta dal Lower Reservoir ?
+      propositions:
+      - Grande prato
+      - Pale Male
+      - Rat Rock
+      - Stagno delle tartarughe
+      réponse: Grande prato
+      anecdote: Questo serbatoio, la cui costruzione risale al 1842, faceva parte del progetto originale del parco immaginato da Olmsted e Vaux.
+    - id: 26
+      question: In quante parti Olmsted voleva separare il suo futuro parco ?
+      propositions:
+      - Sei
+      - Tre
+      - Cinque
+      - Quattro
+      réponse: Tre
+      anecdote: Una parte pastorale, una pittoresca e una parte formale che accolgono una fontana e uno specchio d'acqua.
+    - id: 27
+      question: Quale falco dalla coda rossa risiede al 927 della Fifth Avenue a Central Park ?
+      propositions:
+      - Petra
+      - Pale Male
+      - Re di Roma
+      - Nils Olav
+      réponse: Pale Male
+      anecdote: Nel dicembre 2004, il proprietario dell'edificio su cui la poiana aveva fatto il nido ha dovuto rinunciare a rimuoverlo dopo le proteste.
+    - id: 28
+      question: Quale fontana di Central Park fu progettata da Emma Stebbins nel 1868 ?
+      propositions:
+      - Bethesda
+      - Birraio
+      - Vaillancourt
+      - McMillan
+      réponse: Bethesda
+      anecdote: I quattro cherubini della fontana inaugurata nel 1873 rappresentano le virtù : temperanza, purezza, prosperità e pace.
+    - id: 29
+      question: Quale teatro ospita ogni estate il New York Shakespeare Festival ?
+      propositions:
+      - Park Theatre
+      - Teatro squat
+      - Teatro Delacorte
+      - Teatro Shubert
+      réponse: Teatro Delacorte
+      anecdote: Ogni estate, l'associazione Joseph Papp Public Theatre presenta una serie di spettacoli tra cui un'opera di William Shakespeare.
+    - id: 30
+      question: Quale monumento rappresenta la scultura più imponente del parco ?
+      propositions:
+      - Re Jagiello
+      - Stagno delle tartarughe
+      - Grande prato
+      - Rat Rock
+      réponse: Re Jagiello
+      anecdote: Chiamata in memoria dell'ex re di Polonia, Ladislao II Jagiello, questa scultura si trova vicino allo stagno delle tartarughe.
+  nl:
+  - débutant:
+    - id: 1
+      question: Hoe groot is Central Park in de wijk Manhattan ?
+      propositions:
+      - 443 ha
+      - 198 ha
+      - 341 ha
+      - 234 ha
+      réponse: 341 ha
+      anecdote: Het park wordt beheerd door de Central Park Conservancy met een jaarlijks budget van $ 200 miljoen.
+    - id: 2
+      question: Welke woonwijk grenst aan Central Park aan de oostzijde van het park ?
+      propositions:
+      - SoHo
+      - Upper East Side
+      - Ward's Island
+      - Yorkville
+      réponse: Upper East Side
+      anecdote: De buurt wordt bewoond door een zeer rijke bevolking, met vastgoedprijzen die tot de hoogste in de Verenigde Staten behoren.
+    - id: 3
+      question: In welk luxe pand aan de rand van Central Park heeft John McEnroe gezeten ?
+      propositions:
+      - Eldorado
+      - Beresford
+      - Ansonia
+      - One57
+      réponse: Beresford
+      anecdote: De Beresford is, net als de San Remo Apartments, ook de thuisbasis van een paar onverwachte bewoners : haviken.
+    - id: 4
+      question: Hoeveel bezoekers reizen er jaarlijks ongeveer naar Central Park ?
+      propositions:
+      - 42 miljoen
+      - 59 miljoen
+      - 25 miljoen
+      - 37 miljoen
+      réponse: 37 miljoen
+      anecdote: Central Park is een groene oase midden in het wolkenkrabberbos van Manhattan, ook al ligt het in het noorden van het eiland.
+    - id: 5
+      question: Welke rots is ook het hoogste punt in Central Park ?
+      propositions:
+      - Summit Rock
+      - Vista Rock
+      - Line Rock
+      - Rat Rock
+      réponse: Summit Rock
+      anecdote: Gelegen in het westen van het park, op 83rd Street, bereikt Summit Rock de hoogte van 137,5 voet, 's avonds bijna 42 meter hoog.
+    - id: 6
+      question: Aan wie is het Strawberry Fields Memorial, ontworpen door Bruce Kelly, opgedragen ?
+      propositions:
+      - Jimi Hendrix
+      - Michael Jackson
+      - Elvis Presley
+      - John Lenon
+      réponse: John Lenon
+      anecdote: Strawberry Fields werd ingehuldigd op de 45e verjaardag van John Lennon, 9 oktober 1985, in aanwezigheid van zijn weduwe Yoko Ono.
+    - id: 7
+      question: In welk jaar werd het 150-jarig bestaan van het park met veel pracht en praal gevierd ?
+      propositions:
+      - 1983
+      - 1993
+      - 2013
+      - 2003
+      réponse: 2003
+      anecdote: Het was nodig om daar 300.000 kubieke meter rotsen te vernietigen, de drassige grond droog te leggen en een enorme hoeveelheid aarde aan te voeren.
+    - id: 8
+      question: Hoe wordt de grootste watermassa van Central Park in het algemeen genoemd ?
+      propositions:
+      - Lake Placid
+      - Reservoir
+      - Gebroken boog
+      - Bloem van het meer
+      réponse: Reservoir
+      anecdote: Zoals de naam al doet vermoeden, werd het gebruikt om water op te vangen uit het Croton-aquaduct, voordat het in Manhattan werd gedistribueerd.
+    - id: 9
+      question: Voor welke activiteit is het Reservoir het meest bekend bij New Yorkers ?
+      propositions:
+      - Waterskiën
+      - Duiken
+      - Joggen
+      - Vissen
+      réponse: Joggen
+      anecdote: De 2,54 km lange trimbaan die dit grote water omgeeft, verwelkomt duizenden sportmannen en -vrouwen die er elke dag omheen gaan.
+    - id: 10
+      question: Hoeveel bruggen heeft Central Park in totaal ?
+      propositions:
+      - 24
+      - 36
+      - 48
+      - 12
+      réponse: 36
+      anecdote: De 36 bruggen gebouwd door Vaux zijn allemaal uniek in hun architectuur en gebouwd met graniet, leisteen of metaal.
+  - confirmé:
+    - id: 11
+      question: Welk museum bevindt zich aan de Central Park-kant van Fifth Avenue ?
+      propositions:
+      - Volkskunstmuseum
+      - Metropolitan Museum
+      - Queens Museum
+      - Wolkenkrabbermuseum
+      réponse: Metropolitan Museum
+      anecdote: Het Metropolitan Museum of Art in New York is een van de grootste kunstmusea ter wereld, sinds 20 februari 1872 open voor het publiek.
+    - id: 12
+      question: Hoe heette Central Park na de economische crisis van 1929 ?
+      propositions:
+      - Township
+      - Trenchtown
+      - Hooverville
+      - Kibera
+      réponse: Hooverville
+      anecdote: Tijdens de Grote Depressie, van 1929 tot de jaren veertig, ontstond er in de Verenigde Staten een reeks sloppenwijken.
+    - id: 13
+      question: Op welke rots in Central Park is het kasteel van Belvedere gebouwd ?
+      propositions:
+      - Vista Rock
+      - Rat Rock
+      - Body Rock
+      - Summit Rock
+      réponse: Vista Rock
+      anecdote: Gemaakt van schalie, het is met Summit Rock een van de hoogste natuurlijke formaties in het park, met als hoogtepunt ongeveer 40 meter.
+    - id: 14
+      question: Welk meer in Central Park ligt tussen Vista Rock en de Great Lawn ?
+      propositions:
+      - Rose Lake
+      - Hocking Hills
+      - Schildpadvijver
+      - Chippewa-meer
+      réponse: Schildpadvijver
+      anecdote: Zoals de naam al doet vermoeden, wordt Turtle Pond bevolkt door schildpadden, maar ook door libellen, kikkers en verschillende soorten vogels.
+    - id: 15
+      question: Welk deel van Central Park werd tot 1934 als weiland gebruikt ?
+      propositions:
+      - Schapenweide
+      - Bowling Green
+      - Hoge lijn
+      - Pelham Bay
+      réponse: Schapenweide
+      anecdote: Momenteel is het een gazon dat zeer geschikt is om te luieren en te zonnebaden, waarbij New Yorkers het als strand gebruiken.
+    - id: 16
+      question: Welk gebouw heeft twee adressen: 145 en 146 Central Park West ?
+      propositions:
+      - Beresford
+      - De San Remo
+      - Dakota-gebouw
+      - Eldorado
+      réponse: De San Remo
+      anecdote: Elk van de twee torens van tien verdiepingen eindigt met een luxueus, op barok geïnspireerd appartement in de stijl van John Vanbrugh.
+    - id: 17
+      question: Op welke bijna cirkelvormige rots oefen je boulderen ?
+      propositions:
+      - Rat Rock
+      - Green Rock
+      - Vista Rock
+      - Summit Rock
+      réponse: Rat Rock
+      anecdote: Deze leisteen, ook wel Umpire Rock genoemd, dankt zijn naam aan de ratten die zich daar 's nachts verspreiden.
+    - id: 18
+      question: Welke beroemde openluchtijsbaan bevindt zich op een voormalige opgedroogde vijver ?
+      propositions:
+      - Cyber Glace
+      - Illberg ijsbaan
+      - Wollman-ijsbaan
+      - Bocquaine ijsbaan
+      réponse: Wollman-ijsbaan
+      anecdote: De ijsbaan werd geopend in 1949 en werd gebouwd met privéfondsen, met een donatie van $ 600.000 uit de erfenis van William Wollman.
+    - id: 19
+      question: Welke Franse tuin dankt zijn naam aan een oude kas uit 1898 ?
+      propositions:
+      - Beresford
+      - Serre Garden
+      - Bleke man
+      - Greensward-kaart
+      réponse: Serre Garden
+      anecdote: De voormalige hoofdtuinier van Central Park gebruikte deze kassen om hout op te slaan van snoeibomen in het park.
+    - id: 20
+      question: Hoeveel sportvelden heeft Central Park tot nu toe ?
+      propositions:
+      - 41
+      - 31
+      - 21
+      - 11
+      réponse: 21
+      anecdote: Central Park heeft tal van activiteiten voor kinderen, waaronder een poppentheater in Swedish Cottage.
+  - expert:
+    - id: 21
+      question: Welk project werd in 1857 geselecteerd tijdens de tekenwedstrijd voor parktekeningen ?
+      propositions:
+      - Greensward-kaart
+      - Milford kaart
+      - Hauser kaart
+      - Cedar Kaart
+      réponse: Greensward-kaart
+      anecdote: Het « Greensward Plan » van de schrijver Frederick Law Olmsted en de Britse architect Calvert Vaux werd gekozen.
+    - id: 22
+      question: Hoeveel bomen zijn er geplant tijdens de ontwikkeling van het park ?
+      propositions:
+      - 300.000
+      - 400.000
+      - 200.000
+      - 500.000
+      réponse: 500.000
+      anecdote: Elke dag werkten 1.500 arbeiders om deze 500.000 bomen te planten. De site, voltooid in 1869, eiste het leven van vijf arbeiders.
+    - id: 23
+      question: Welk gespecialiseerde park werd in 1864 gecreëerd in Central Park zelf ?
+      propositions:
+      - Een dierentuin
+      - Een circus
+      - Een reserve
+      - Een camping
+      réponse: Een dierentuin
+      anecdote: De dierentuin heeft ijsberen en bedreigde diersoorten zoals de tamarinde, de Wyoming-pad of de kleine panda.
+    - id: 24
+      question: Aan wie heeft Fiorello LaGuardia de taak toevertrouwd om Central Park te rehabiliteren ?
+      propositions:
+      - Robert Moses
+      - Paul Davidoff
+      - Kevin Lynch
+      - Daniel Burnham
+      réponse: Robert Moses
+      anecdote: De bouwmeester is de architect van New York, Long Island, Rockland County en Westchester County.
+    - id: 25
+      question: Welk gebied van Central Park was ooit bedekt door het Lower Reservoir ?
+      propositions:
+      - Schildpadvijver
+      - Geweldig gazon
+      - Rat Rock
+      - Bleke man
+      réponse: Geweldig gazon
+      anecdote: Dit reservoir, waarvan de constructie dateert uit 1842, maakte deel uit van de oorspronkelijke plannen voor het park, bedacht door Olmsted en Vaux.
+    - id: 26
+      question: In hoeveel delen wilde Olmsted zijn toekomstige park scheiden ?
+      propositions:
+      - Zes
+      - Vijf
+      - Vier
+      - Drie
+      réponse: Drie
+      anecdote: Een pastoraal deel, een schilderachtig deel en een formeel deel met een fontein en een watermassa.
+    - id: 27
+      question: Welke roodstaartbuizerd woont op 927 Fifth Avenue in Central Park ?
+      propositions:
+      - Bleke man
+      - Koning van Rome
+      - Petra
+      - Nils Olav
+      réponse: Bleke man
+      anecdote: In december 2004 moest de eigenaar van het gebouw waarop de buizerd zijn nest had gemaakt, na protesten het verwijderen ervan opgeven.
+    - id: 28
+      question: Welke fontein in Central Park is in 1868 ontworpen door Emma Stebbins ?
+      propositions:
+      - Brouwer
+      - McMillan
+      - Bethesda
+      - Vaillancourt
+      réponse: Bethesda
+      anecdote: De vier cherubijnen van de fontein die in 1873 werd ingehuldigd, vertegenwoordigen de deugden : matigheid, zuiverheid, welvaart en vrede.
+    - id: 29
+      question: In welk theater wordt elke zomer het New York Shakespeare Festival gehouden ?
+      propositions:
+      - Park Theater
+      - Squat Theater
+      - Shubert Theater
+      - Delacorte Theater
+      réponse: Delacorte Theater
+      anecdote: Elke zomer presenteert de Joseph Papp Public Theatre-vereniging een reeks toneelstukken, waaronder een werk van William Shakespeare.
+    - id: 30
+      question: Welk monument vertegenwoordigt de meest indrukwekkende sculptuur in het park ?
+      propositions:
+      - Schildpadvijver
+      - Rat Rock
+      - Geweldig gazon
+      - Koning Jagiello
+      réponse: Koning Jagiello
+      anecdote: Dit beeld, genoemd ter nagedachtenis aan de voormalige koning van Polen, Ladislaus II Jagiello, bevindt zich in de buurt van de Turtle Pond.

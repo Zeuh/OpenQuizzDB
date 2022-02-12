@@ -1,0 +1,280 @@
+---
+fournisseur: OpenQuizzDB - Fournisseur de contenu libre (https://www.openquizzdb.org)
+rédacteur: Philippe Bresoux
+thème: Les mamans (Rien ne vaut une douce maman)
+difficulté: 2 / 5
+quizz:
+  fr:
+  - débutant:
+    - id: 1
+      question: Dans une célèbre comptine française, qui a perdu son chat ?
+      propositions:
+      - La mère Sylvie
+      - La mère Claude
+      - La mère Michel
+      - La mère Claire
+      réponse: La mère Michel
+      anecdote: Les paroles changent parfois selon les différentes versions de la chanson, mais le thème reste toujours le même.
+    - id: 2
+      question: Dans « Les Misérables » de Victor Hugo, qui est la fille de Fantine ?
+      propositions:
+      - Azelma
+      - Eponine
+      - Enjolras
+      - Cosette
+      réponse: Cosette
+      anecdote: Les Thénardier vont utiliser les moyens les plus sordides pour soutirer toujours plus d'argent à Fantine.
+    - id: 3
+      question: De qui Lily-Rose Depp, actrice et mannequin franco-américaine, est-elle la fille ?
+      propositions:
+      - Kate Moss
+      - Winona Ryder
+      - Amber Heard
+      - Vanessa Paradis
+      réponse: Vanessa Paradis
+      anecdote: Lily-Rose Depp a commencé sa carrière d'actrice en 2014,avec une apparition dans le film « Tusk ».
+    - id: 4
+      question: Lequel de ces personnages n'est pas un des enfants de Marge Simpson ?
+      propositions:
+      - Maggie
+      - Lisa
+      - Abe
+      - Bart
+      réponse: Abe
+      anecdote: Marge est la force moralisatrice de sa famille et essaie souvent de maintenir l'ordre dans la maison des Simpson.
+    - id: 5
+      question: En 2015, quelle artiste a sorti dans son album « Chambre 12 » un single titré « Maman » ?
+      propositions:
+      - Mylène Farmer
+      - Jenifer
+      - Lio
+      - Louane
+      réponse: Louane
+      anecdote: Le 19 mai 2016, la maison de disque annonce que l'album a dépassé le million de ventes.
+    - id: 6
+      question: Comment se prénomme la mère de la Famille Addams dans la série télé américaine ?
+      propositions:
+      - Eva
+      - Morticia
+      - Aurora
+      - Pétunia
+      réponse: Morticia
+      anecdote: Cette série est directement inspirée des personnages que dessinait Charles Addams à la fin des années trente.
+    - id: 7
+      question: De quel héros de fiction Lily, tuée par Lord Voldemort, est-elle la mère ?
+      propositions:
+      - Luke Skywalker
+      - Harry Potter
+      - Mowgli
+      - Frodon Sacquet
+      réponse: Harry Potter
+      anecdote: Lily Evans est née de parents moldus le 30 janvier 1960 et a une soeur, Pétunia Dursley.
+    - id: 8
+      question: Comment appelle-t-on une femme qui enfante pour une autre personne ou un couple ?
+      propositions:
+      - Mère-donneuse
+      - Mère-porteuse
+      - Enfanteresse
+      - Fille-mère
+      réponse: Mère-porteuse
+      anecdote: La gestation pour autrui (GPA) est une méthode de procréation qui se pratique généralement en cas d'infertilité féminine.
+    - id: 9
+      question: Quelle actrice est la mère d'Albert II mais aussi de Caroline et Stéphanie de Monaco ?
+      propositions:
+      - Grace Kelly
+      - Ingrid Bergman
+      - Audrey Hepburn
+      - Bette Davis
+      réponse: Grace Kelly
+      anecdote: Grace Kelly est morte en 1982, des suites d'un accident de voiture, sur la route de la Turbie.
+    - id: 10
+      question: Lequel de ces pays met les mamans à l'honneur durant le mois de mai ?
+      propositions:
+      - Luxembourg
+      - France
+      - Argentine
+      - Russie
+      réponse: France
+      anecdote: La date est fixée au dernier dimanche de mai, sauf si elle coïncide avec celle de la Pentecôte.
+  - confirmé:
+    - id: 11
+      question: Quelle actrice joue la mère de Lola dans la comédie française à succès « LOL » ?
+      propositions:
+      - Monica Belucci
+      - Vanessa Paradis
+      - Valeria Golino
+      - Sophie Marceau
+      réponse: Sophie Marceau
+      anecdote: Pour l'anecdote, on entend la musique de « La Boum » lorsque Charlotte fait ses courses au supermarché.
+    - id: 12
+      question: Qui a chanté : « Dans les yeux de ma mère, il y a toujours une lumière » ?
+      propositions:
+      - Alain Chamfort
+      - Benjamin Biolay
+      - Christophe
+      - Arno
+      réponse: Arno
+      anecdote: Arno est souvent surnommé « le Higelin belge » ou encore « le Tom Waits belge ».
+    - id: 13
+      question: Dans « Kill Bill », quel personnage joué par Uma Thurman devient mère durant son coma ?
+      propositions:
+      - Beatrix Kiddo
+      - Jackie Brown
+      - Shosanna Dreyfus
+      - Daisy Domergue
+      réponse: Beatrix Kiddo
+      anecdote: Le premier volume de la saga est un hommage avoué au chanbara, les films de sabre japonais.
+    - id: 14
+      question: Quelle actrice, ex petite amie de Brad Pitt, est la fille de l'actrice Blythe Danner ?
+      propositions:
+      - Keira Knightley
+      - Juliane Moore
+      - Cate Blanchett
+      - Gwyneth Paltrow
+      réponse: Gwyneth Paltrow
+      anecdote: Blythe Danner est la veuve du producteur Bruce Paltrow, qui s'est éteint à la suite d'une maladie en 2002.
+    - id: 15
+      question: Quel film de Jane Campion présente une mère muette qui joue de la musique ?
+      propositions:
+      - In the cut
+      - Bright Star
+      - La leçon de piano
+      - Sweetie
+      réponse: La leçon de piano
+      anecdote: Le film a remporté la Palme d'or du Festival de Cannes 1993, la première attribuée à une réalisatrice.
+    - id: 16
+      question: Quel terme spécifique désigne le fait de tuer sa mère, acte très sévèrement jugé ?
+      propositions:
+      - Matricide
+      - Parricide
+      - Inceste
+      - Cannibalisme
+      réponse: Matricide
+      anecdote: À Rome, le meurtre de parents proches, ascendants, frères, soeurs, ou patron était le pire des crimes.
+    - id: 17
+      question: Dans la Rome Antique, durant quel mois célébrait-on un fête en l'honneur des mères ?
+      propositions:
+      - Janvier
+      - Juillet
+      - Novembre
+      - Mars
+      réponse: Mars
+      anecdote: Les Matronalia célébraient la naissance de Rome, le Printemps, les enfants et les mères.
+    - id: 18
+      question: En latin et en grec, que signifie le mot mamma, dont le mot maman est dérivé ?
+      propositions:
+      - Lait
+      - Sein
+      - Vie
+      - Naissance
+      réponse: Sein
+      anecdote: Pour les organismes non sexués, « mère » est parfois utilisé pour dire « parent ».
+    - id: 19
+      question: Quelle actrice incarne une mère qu tente de retrouver son fils kidnappé dans « L'échange » ?
+      propositions:
+      - Nicole Kidman
+      - Angélina Jolie
+      - Julia Roberts
+      - Gwyneth Paltrow
+      réponse: Angélina Jolie
+      anecdote: Après plus de trente réalisations, il s'agit seulement de la septième dans laquelle Clint Eastwood n'apparaît pas.
+    - id: 20
+      question: Dans quel roman de Jules Renard le héros doit-il faire face à la haine que lui vous sa mère ?
+      propositions:
+      - Poil de Carotte
+      - La Maîtresse
+      - L'Écornifleur
+      - Bucoliques
+      réponse: Poil de Carotte
+      anecdote: François Lepic est surnommé Poil de carotte à cause de ses cheveux roux et ses taches de rousseur.
+  - expert:
+    - id: 21
+      question: À quel âge Mère Teresa, de son vrai nom Agnès Gonxha Bojaxhiu, est-elle décédée en 1997 ?
+      propositions:
+      - 77 ans
+      - 87 ans
+      - 107 ans
+      - 97 ans
+      réponse: 87 ans
+      anecdote: Mère Teresa a été béatifiée le 19 octobre 2003, à Rome, par le pape Jean-Paul II.
+    - id: 22
+      question: Dans « Breaking Bad », quel est le prénom de la mère de la famille White ?
+      propositions:
+      - Skyler
+      - Angela
+      - Jayne
+      - Rhona
+      réponse: Skyler
+      anecdote: Skyler est très amoureuse de Walter, au point de prendre toutes les décisions importantes dans sa vie.
+    - id: 23
+      question: Lequel de ces groupes de musique a dans son acronyme le mot « mère » ?
+      propositions:
+      - IAM
+      - NTM
+      - MIG
+      - CMC
+      réponse: NTM
+      anecdote: Malgré sa popularité en France, le groupe NTM a été très critiqué pour la virulence de ses paroles.
+    - id: 24
+      question: Dans « Game of Thrones », qui est la mère d'Arya, Bran, Rickon, Sansa et Robb Stark ?
+      propositions:
+      - Catelyn
+      - Mélissandre
+      - Daenerys
+      - Brienne
+      réponse: Catelyn
+      anecdote: Catelyn était initialement promise au jeune Brandon Stark, héritier de Winterfell et frère d'Eddard.
+    - id: 25
+      question: Qui a peint le tableau « La Madone à la prairie » représentant Jésus et sa mère, Marie ?
+      propositions:
+      - Rembrandt
+      - Michel-Ange
+      - Auguste Renoir
+      - Raphaël
+      réponse: Raphaël
+      anecdote: Le tableau est l'une des oeuvres qui ouvrent la série des Madones de l'artiste lors de son séjour florentin.
+    - id: 26
+      question: Dans la mythologie grecque, qui est la mère d'Héraclès, un des fils de Zeus ?
+      propositions:
+      - Déméter
+      - Dioné
+      - Alcmène
+      - Léto
+      réponse: Alcmène
+      anecdote: Alcmène fut séduite en l'absence de son mari, par Zeus qui avait pris son apparence.
+    - id: 27
+      question: Quelle célèbre photographie en noir et blanc a été prise en 1936 par Dorothée Lange ?
+      propositions:
+      - Mère migrante
+      - Douleur de mère
+      - Mère et enfants
+      - Mère maternelle
+      réponse: Mère migrante
+      anecdote: Cette célèbre photographie est devenue le symbole de la Grande Dépression aux États-Unis.
+    - id: 28
+      question: Quelle ville russe accueille la statue de la Mère-Patrie qui fut l'enjeu de combats acharnés ?
+      propositions:
+      - Perm
+      - Volgograd
+      - Kazan
+      - Samara
+      réponse: Volgograd
+      anecdote: Avec son épée pointant vers le ciel, la statue défie tous ceux qui oseraient s'attaquer à ses enfants.
+    - id: 29
+      question: En quelle année Marcel Pagnol a-t-il publié « Le Château de ma mère » ?
+      propositions:
+      - 1957
+      - 1977
+      - 1937
+      - 1917
+      réponse: 1957
+      anecdote: « Le Château de ma mère » est précédé par « La Gloire de mon père » et suivi par « Le Temps des secrets ».
+    - id: 30
+      question: Quel rappeur français au succès grandissant chante le tube « maman j'ai mal » ?
+      propositions:
+      - Kaaris
+      - MHD
+      - Nekfeu
+      - Booba
+      réponse: MHD
+      anecdote: MHD est le précurseur de l'« afro trap », un mélange de musiques aux sonorités africaines et de trap.

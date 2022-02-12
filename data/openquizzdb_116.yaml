@@ -1,0 +1,280 @@
+---
+fournisseur: OpenQuizzDB - Fournisseur de contenu libre (https://www.openquizzdb.org)
+rédacteur: Philippe Bresoux
+thème: Animaux célèbres (Tantôt effrayants, tantôt drôles)
+difficulté: 2 / 5
+quizz:
+  fr:
+  - débutant:
+    - id: 1
+      question: Dans le film d'animation « L'Âge de glace », qu'est-ce qui échappe à l'écureuil Scrat ?
+      propositions:
+      - Une pierre
+      - Un os
+      - Un gland
+      - Une bille
+      réponse: Un gland
+      anecdote: À l'occasion de la sortie de « L'Âge de glace 4 », Scrat a eu son double de cire au Musée Grévin le 20 juin 2012.
+    - id: 2
+      question: Comment se nomme l'orque à sauver dans une saga cinématographique populaire ?
+      propositions:
+      - Monica
+      - Jennifer
+      - Tom
+      - Willy
+      réponse: Willy
+      anecdote: Si les deuxième et troisième films sont des suites du premier, le 4e n'a aucun lien avec le reste et est en quelque sorte un reboot.
+    - id: 3
+      question: Dans le film « Les Dents de la mer », quel animal provoque la terreur sur l'île d'Amity ?
+      propositions:
+      - Un requin
+      - Une orque
+      - Un piranha
+      - Un kraken
+      réponse: Un requin
+      anecdote: « Les Dents de la mer » est un film charnière qui a rétrospectivement été considéré comme le premier des blockbusters américains.
+    - id: 4
+      question: Quel personnage de Disney, ami de Mickey et de Pluto, est un chien très maladroit ?
+      propositions:
+      - Félix
+      - Donald
+      - Dingo
+      - Mortimer
+      réponse: Dingo
+      anecdote: À partir des années 1990, Dingo est devenu papa dans une série télévisée dans laquelle son fils se prénomme Max.
+    - id: 5
+      question: Dans un film d'animation de Disney, quel renardeau est l'ami d'un chien de chasse ?
+      propositions:
+      - Z
+      - Simba
+      - Rox
+      - Alex
+      réponse: Rox
+      anecdote: Rox et Rouky est le dernier dessin animé de Disney commençant par un générique complet et finissant par « The End ».
+    - id: 6
+      question: Quel est le nom du chien de Mickey, apparenté à la race des Saint-Hubert ?
+      propositions:
+      - Taz
+      - Hector
+      - Sylvestre
+      - Pluto
+      réponse: Pluto
+      anecdote: Dessiné par Norman Ferguson, Pluto est considéré comme l'un des premiers personnages Disney à sortir du modèle standard.
+    - id: 7
+      question: Dans le célèbre dessin animé, qui le chat prénommé Tom poursuit-il sans cesse ?
+      propositions:
+      - Titi
+      - Grosminet
+      - Manny
+      - Jerry
+      réponse: Jerry
+      anecdote: Malgré sa popularité très acclamée, les courts-métrages Tom et Jerry ont fait l'objet de nombreuses controverses.
+    - id: 8
+      question: Quel chien peureux a pour compagnons Samy, Daphné, Véra et Fred ?
+      propositions:
+      - Beethoven
+      - Pluto
+      - Scooby-Doo
+      - Droopy
+      réponse: Scooby-Doo
+      anecdote: Une gamme Lego est sortie en 2015 avec six produits inspirés de différents épisodes et films de « Scooby-Do ».
+    - id: 9
+      question: Parmi ces personnages des Looney Tunes, lequel est un canard ?
+      propositions:
+      - Elmer Fudd
+      - Daffy Duck
+      - Titi
+      - Bugs Bunny
+      réponse: Daffy Duck
+      anecdote: Daffy Ducka « sévi » dans 126 dessins animés jusqu'en 1968 au cinéma avant d'en disparaître totalement.
+    - id: 10
+      question: Dans les deux films « Babe », quel animal campe le personnage principal ?
+      propositions:
+      - Un cochon
+      - Un mouton
+      - Un chien
+      - Une chèvre
+      réponse: Un cochon
+      anecdote: Babe eut l'idée tout à fait farfelue de devenir chien de berger, ou plutôt « cochon de berger ».
+  - confirmé:
+    - id: 11
+      question: Dans le film « Le Roi Lion », quel animal est Timon, le grand ami de Pumbaa ?
+      propositions:
+      - Écureuil
+      - Suricate
+      - Tatou
+      - Castor
+      réponse: Suricate
+      anecdote: Le suricate est toujours là quand on a besoin de lui, mais il est très souvent ailleurs quand on est avec lui.
+    - id: 12
+      question: Quel nom de compositeur classique désigne aussi un saint-bernard héros de films ?
+      propositions:
+      - Brahms
+      - Mozart
+      - Chopin
+      - Beethoven
+      réponse: Beethoven
+      anecdote: Le chien fut baptisé Beethoven parce qu'il a aboyé à la symphonie n°5 de Ludwig van Beethoven.
+    - id: 13
+      question: Des spécimens de quelle race de chiens intéressent fortement Cruella d'Enfer ?
+      propositions:
+      - Jack Russel
+      - Fox-terrier
+      - Berger allemand
+      - Dalmatien
+      réponse: Dalmatien
+      anecdote: Le personnage de Cruella d'Enfer fut en partie inspiré par Tallulah Bankhead, dont certaines excentricités furent reprises dans le film.
+    - id: 14
+      question: Dans un film d'animation de Disney, quel gros animal est moqué pour ses grandes oreilles ?
+      propositions:
+      - Éléphant
+      - Chien
+      - Girafe
+      - Cerf
+      réponse: Éléphant
+      anecdote: Un message d'espoir est délivré par l'histoire : « quand on fait de son mieux, on en retire quelque chose de bien à la fin ».
+    - id: 15
+      question: Quel cheval de selle Napoléon Bonaparte a-t-il emporté avec lui sur l'île d'Elbe ?
+      propositions:
+      - L'Ingénu
+      - L'Affranchi
+      - L'Iconoclaste
+      - Le malin
+      réponse: L'Ingénu
+      anecdote: Également surnommé Wagram en l'honneur de la bataille du même nom, Napoléon l'appréciait énormément.
+    - id: 16
+      question: Quelle marque est représentée par un chat blanc généralement habillé de couleur rose ?
+      propositions:
+      - Hello Kitty
+      - Hola Ginola
+      - Bravo Sammy
+      - Santa Maria
+      réponse: Hello Kitty
+      anecdote: Selon le profil officiel de Hello Kitty, cette dernière se nomme Kitty White et est née à Londres, en Angleterre.
+    - id: 17
+      question: Dans les films d'animation en pâte à modeler, qui est le partenaire canin de Wallace ?
+      propositions:
+      - Gromit
+      - Rouky
+      - Kaa
+      - Coyote
+      réponse: Gromit
+      anecdote: Tous les personnages sont en plasticine et les scènes sont animées image par image (stop motion).
+    - id: 18
+      question: Comment s'appelle le chat noir et blanc, héros d'une pub pour de la nourriture pour chats ?
+      propositions:
+      - André
+      - Figaro
+      - José
+      - Félix
+      réponse: Félix
+      anecdote: Felix ne prend pas d'accent, principalement en raison de l'internationalisation des marques.
+    - id: 19
+      question: Dans le film d'animation de Pixar « 1001 Pattes », quel insecte est Tilt, le personnage principal ?
+      propositions:
+      - Araignée
+      - Fourmi
+      - Mille-pattes
+      - Libellule
+      réponse: Fourmi
+      anecdote: Woody le cow-boy héros du film d'animation « Toy Story » est apparu dans le bêtisier du générique de fin.
+    - id: 20
+      question: Auprès de quel héros de BD le chien inefficace Rantanplan s'est-il illustré ?
+      propositions:
+      - Gaston Lagaffe
+      - Astérix
+      - Lucky Luke
+      - Tintin
+      réponse: Lucky Luke
+      anecdote: Rantanplan appartient à l'administration pénitentiaire, et a pour maître, le gardien Pavlov (en référence au fameux réflexe).
+  - expert:
+    - id: 21
+      question: Dans le film d'animation « Robin des Bois », quel animal est Robin des Bois ?
+      propositions:
+      - Tigre
+      - Ours
+      - Renard
+      - Lion
+      réponse: Renard
+      anecdote: La réalisation de « Robin des Bois » sera marquée par la réutilisation d'éléments d'animation des précédentes productions Disney.
+    - id: 22
+      question: De quel animal prénommé Roger veut-on « la peau » dans un film d'animation ?
+      propositions:
+      - Un kangourou
+      - Un renard
+      - Un lapin
+      - Un chien
+      réponse: Un lapin
+      anecdote: Zemeckis dira de Roger qu'il a « un corps de chez Disney, une tête de chez Warner et une attitude à la Tex Avery ».
+    - id: 23
+      question: Dans le roman de Cécile Aubry, quelle chienne Sébastien recueille-t-il dans son village ?
+      propositions:
+      - Daisy
+      - Belle
+      - Aurore
+      - Simba
+      réponse: Belle
+      anecdote: « Belle et Sébastien » a fait l'objet d'une adaptation en feuilleton télévisé, d'une série d'animation japonaise et de deux films.
+    - id: 24
+      question: Quelle tortue sait « compter deux par deux et lacer ses chaussures » ?
+      propositions:
+      - Donatello
+      - Gamera
+      - Franklin
+      - Caroline
+      réponse: Franklin
+      anecdote: Dans chaque épisode, Franklin a un dilemme qu'il résout toujours à la fin, permettant aux enfants de s'identifier au personnage.
+    - id: 25
+      question: Quel chien de la famille Clinton est devenu le rival de leur chat Socks ?
+      propositions:
+      - Snoopy
+      - Scooby
+      - Buddy
+      - Oscar
+      réponse: Buddy
+      anecdote: Les parents Clinton ont adopté un labrador nommé Buddy en hommage à l'oncle de Bill qui vient de décéder.
+    - id: 26
+      question: Dans « Peter Pan », comment se nomme la chienne de Wendy, John et Michael ?
+      propositions:
+      - Belle
+      - Nana
+      - Dolly
+      - Jasmine
+      réponse: Nana
+      anecdote: Peter Pan est un personnage créé par l'auteur écossais J. M. Barrie, apparu pour la première fois en 1902.
+    - id: 27
+      question: Quel célèbre chat a une langue qui pend en permanence suite à une malformation ?
+      propositions:
+      - Simon
+      - Lil Bub
+      - Choupette
+      - Bébert
+      réponse: Lil Bub
+      anecdote: La célèbre chatte est apparue dans un spot de l'ONG Greenpeace à l'occasion de la Journée internationale des tigres.
+    - id: 28
+      question: Dans le dessin animé « Dora l'exploratrice », comment s'appelle le renard voleur ?
+      propositions:
+      - Chipeur
+      - Sylvester
+      - Denver
+      - Silver
+      réponse: Chipeur
+      anecdote: Par ce biais de ce méchant renard voleur, la série tente de faire distinguer aux enfants le bien du mal.
+    - id: 29
+      question: Quel cochon Martin Veyron et Jean-Marc Rochette ont-ils inventé pour une BD ?
+      propositions:
+      - Babe
+      - Jonathan
+      - Grégoire
+      - Edmond
+      réponse: Edmond
+      anecdote: Le style de cette série à l'humour cru et hilarant se situe entre l'underground américain et la tradition animalière française.
+    - id: 30
+      question: Dans l'aquarium de quelle ville allemande Paul le poulpe a-t-il eu son heure de gloire ?
+      propositions:
+      - Oberhausen
+      - Karlsruhe
+      - Mannheim
+      - Brunswick
+      réponse: Oberhausen
+      anecdote: Paul était renommé pour le spectacle de ses prédictions du résultat des matchs de l'équipe d'Allemagne de football.

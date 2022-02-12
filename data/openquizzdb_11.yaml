@@ -1,0 +1,1650 @@
+---
+fournisseur: OpenQuizzDB - Fournisseur de contenu libre (https://www.openquizzdb.org)
+rédacteur: Philippe Bresoux
+thème: Desserts gourmands (Aussi bon que chez le pâtissier)
+difficulté: 3 / 5
+quizz:
+  fr:
+  - débutant:
+    - id: 1
+      question: Quel fromage italien rentre dans la composition du tiramisu ?
+      propositions:
+      - Ricotta
+      - Grana padano
+      - Gorgonzola
+      - Mascarpone
+      réponse: Mascarpone
+      anecdote: Les ingrédients sont préparés séparément et superposés en couches indépendantes.
+    - id: 2
+      question: De quel fruit est composée la tarte Tatin, inventée de manière accidentelle ?
+      propositions:
+      - Pommes
+      - Prunes
+      - Cerises
+      - Poires
+      réponse: Pommes
+      anecdote: Les pommes sont caramélisées au sucre et au beurre avant la cuisson de la tarte.
+    - id: 3
+      question: Quel gâteau décore-t-on traditionnellement de sapins et de petits personnages ?
+      propositions:
+      - Palet de dame
+      - Bûche de Noël
+      - Forêt noire
+      - Galette des Rois
+      réponse: Bûche de Noël
+      anecdote: Cette coutume répandue dans toute l'Europe est attestée depuis le Moyen Âge et héritée de divers rites païens.
+    - id: 4
+      question: Dans quel pays mange-t-on de manière régulière du « plum pudding » ?
+      propositions:
+      - Portugal
+      - Grèce
+      - Angleterre
+      - Chine
+      réponse: Angleterre
+      anecdote: Le plum pudding est un pudding lourd, cuit à la vapeur avec des fruits secs.
+    - id: 5
+      question: Quel synonyme de dessert glacé à base de crème fraîche et d'oeufs est « excellent » ?
+      propositions:
+      - Parfait
+      - Extra
+      - Génial
+      - Super
+      réponse: Parfait
+      anecdote: Un parfait est un dessert glacé sans cuisson à base de crème fraîche et d'oeufs.
+    - id: 6
+      question: Pour réaliser quel gâteau faut-il mélanger oeufs, beurre, farine et sucre en quantités égales ?
+      propositions:
+      - Vacherin
+      - Muffin
+      - Brownie
+      - Quatre-quarts
+      réponse: Quatre-quarts
+      anecdote: Chaque ingrédient du quatre-quarts représente donc un quart du gâteau, d'où son nom.
+    - id: 7
+      question: Quel entremets de génoise, fourré de crème au beurre, est parfumé au café ?
+      propositions:
+      - Bavarois
+      - Diplomate
+      - Moka
+      - Religieuse
+      réponse: Moka
+      anecdote: La génoise, inventée vers le début du XVIIIe siècle, est un biscuit à pâte battue qui entre dans la composition de nombreux entremets.
+    - id: 8
+      question: Quel dessert découpe-t-on traditionnellement à la fin du repas de mariage ?
+      propositions:
+      - Financier
+      - Diplomate
+      - Pièce montée
+      - Ambassadeur
+      réponse: Pièce montée
+      anecdote: Une figurine représentant deux mariés est généralement placée au sommet du dessert.
+    - id: 9
+      question: Quels petits fruits rouges entrent dans la préparation du clafoutis ?
+      propositions:
+      - Cerises
+      - Fraises
+      - Groseilles
+      - Framboises
+      réponse: Cerises
+      anecdote: Les ingrédients principaux sont, outre les cerises, le sucre, la farine, le lait et les oeufs.
+    - id: 10
+      question: Traditionnellement, quel alcool utilise-t-on pour fabriquer un baba ?
+      propositions:
+      - Rhum
+      - Whisky
+      - Cognac
+      - Vodka
+      réponse: Rhum
+      anecdote: Le baba au rhum est un gâteau préparé pour les principales fêtes religieuses (Noël ou Pâques), depuis des temps immémoriaux.
+  - confirmé:
+    - id: 11
+      question: Quel parfum vient compléter la vanille et le chocolat dans le banana split traditionnel ?
+      propositions:
+      - Café
+      - Pistache
+      - Fraise
+      - Praliné
+      réponse: Fraise
+      anecdote: En Belgique, le banana split traditionnel est composé de trois boules vanille.
+    - id: 12
+      question: Quel dessert italien porte un nom qui peut être traduit par « crème cuite » ?
+      propositions:
+      - Tiramisu
+      - Panna cotta
+      - Amatriciana
+      - Panforte
+      réponse: Panna cotta
+      anecdote: La panna cotta est fabriquée à partir de crème, de lait et de sucre auxquels on ajoute de la gélatine.
+    - id: 13
+      question: Quel alcool ajoute-t-on à un sorbet au citron pour en faire un « colonel » ?
+      propositions:
+      - Rhum
+      - Cognac
+      - Whisky
+      - Vodka
+      réponse: Vodka
+      anecdote: Dans vos coupes, déposez deux boules de sorbet au citron, arrosez de vodka puis  dégustez.
+    - id: 14
+      question: Quel plat de présentation permet de proposer des gâteaux sur un ou plusieurs étages ?
+      propositions:
+      - Valet
+      - Majordome
+      - Dévoué
+      - Serviteur
+      réponse: Serviteur
+      anecdote: La taille d'un plat conditionne la bonne répartition de la nourriture qui s'y trouve.
+    - id: 15
+      question: Quelle viennoiserie légère à pâte levée désigne familièrement un ventre rebondi ?
+      propositions:
+      - Brioche
+      - Bavarois
+      - Baba
+      - Beignet
+      réponse: Brioche
+      anecdote: Cette viennoiserie à pâte levée et assez aérée contient du beurre et des oeufs.
+    - id: 16
+      question: Quelle crème est traditionnellement utilisée pour préparer une île flottante ?
+      propositions:
+      - Crème fouettée
+      - Crème anglaise
+      - Crème de marrons
+      - Crème fraîche
+      réponse: Crème anglaise
+      anecdote: Les oeufs à la neige sont quant à eux composés de blancs d'oeufs sucrés, fouettés, pochés ou cuits au bain-marie.
+    - id: 17
+      question: Quelle crème pâtissière garnit communément la galette des Rois ?
+      propositions:
+      - Frangipane
+      - Gélatine
+      - Meringue
+      - Crème fouettée
+      réponse: Frangipane
+      anecdote: L'emploi de la fève dans la galette des Rois remonte aux Grecs, qui se servaient de fèves pour l'élection de leurs magistrats.
+    - id: 18
+      question: Quel fruit compose la garniture la plus classique du Strudel autrichien ?
+      propositions:
+      - Pomme
+      - Banane
+      - Pêche
+      - Poire
+      réponse: Pomme
+      anecdote: Les contrées francophones le connaissent également sous le nom de « chausson » ou parfois de « roulés ».
+    - id: 19
+      question: Quel célèbre gâteau breton est né dans la région de Douarnenez ?
+      propositions:
+      - Tortillon
+      - Kouign-amann
+      - Pogne
+      - Diplomate
+      réponse: Kouign-amann
+      anecdote: Sa préparation est réputée délicate, comme en témoigne ce dicton : « Le fait qui veut, le réussit qui peut ».
+    - id: 20
+      question: Quelle pâtisserie alsacienne en forme de huit est saupoudrée de sel et de cumin ?
+      propositions:
+      - Tourte
+      - Mille-feuille
+      - Clafoutis
+      - Bretzel
+      réponse: Bretzel
+      anecdote: Le bretzel est une sorte de brioche ou de pain poché dans une solution de bicarbonate de soude.
+  - expert:
+    - id: 21
+      question: Dans quelle région de France mange-t-on encore aujourd'hui les treize desserts de Noël ?
+      propositions:
+      - Alsace
+      - Provence
+      - Bretagne
+      - Auvergne
+      réponse: Provence
+      anecdote: Les desserts peuvent être bus avec du vin cuit ou du vin muscat, tandis qu'à la fin apparaissent toutes les liqueurs maisons.
+    - id: 22
+      question: En pâtisserie, quelle « noix » entre dans la préparation du congolais ?
+      propositions:
+      - Noix de muscade
+      - Noix de pécan
+      - Noix de coco
+      - Noix de cajou
+      réponse: Noix de coco
+      anecdote: Le congolais est un petit gâteau granuleux et moelleux à la forme arrondie.
+    - id: 23
+      question: Qui a dit : « Un dessert sans fromage est une belle à qui il manque un oeil » ?
+      propositions:
+      - Montaigne
+      - Brillat-Savarin
+      - La Bruyère
+      - La Rochefoucauld
+      réponse: Brillat-Savarin
+      anecdote: Brillat-Savarin est un hédoniste et un épicurien, au sens proprement philosophique du terme.
+    - id: 24
+      question: Quelle pâtisserie attribue-t-on au confiseur italien Gasparini ?
+      propositions:
+      - Meringue
+      - Sacristain
+      - Madeleine
+      - Macaron
+      réponse: Meringue
+      anecdote: Des variantes existent en changeant les quantités et le type de sucre, mais surtout dans la façon de l'incorporer à la masse.
+    - id: 25
+      question: En pâtisserie, quel éclair voit son dessus glacé au fondant ou au caramel ?
+      propositions:
+      - Petite duchesse
+      - Chou allongé
+      - Concorde
+      - Bâton de Jacob
+      réponse: Bâton de Jacob
+      anecdote: Le plus commun est composé de pâte à choux enveloppant une crème pâtissière.
+    - id: 26
+      question: Quelle ville de Lorraine est célèbre pour ses madeleines ?
+      propositions:
+      - Commercy
+      - Metz
+      - Épinal
+      - Verdun
+      réponse: Commercy
+      anecdote: Symbole de convivialité, les madeleines y sont fabriquées depuis le XVIIIe siècle.
+    - id: 27
+      question: Quelle tarte élaborée à partir de petites prunes jaunes est une spécialité lorraine ?
+      propositions:
+      - Sabayon
+      - Diplomate
+      - Aux mirabelles
+      - Forêt noire
+      réponse: Aux mirabelles
+      anecdote: La tarte aux mirabelles se prépare aussi bien avec une pâte brisée que feuilletée, des fruits frais ou congelés.
+    - id: 28
+      question: Quel beignet soufflé évoque une religieuse plutôt flatulente ?
+      propositions:
+      - Feu de dieu
+      - Vent de messe
+      - Gaz de mère
+      - Pet de nonne
+      réponse: Pet de nonne
+      anecdote: Les pets de nonnes, saupoudrés de sucre et de cannelle, sont notamment une spécialité de Franche-Comté.
+    - id: 29
+      question: Quel dessert doit son nom à une opérette de Jacques Offenbach ?
+      propositions:
+      - Tarte de Vic
+      - Fraise Melba
+      - Poire Belle-Hélène
+      - Crème Chiboust
+      réponse: Poire Belle-Hélène
+      anecdote: Ce dessert à base de poires pochées dans un sirop est nappé de chocolat chaud accompagné d'une glace à la vanille.
+    - id: 30
+      question: De quelle ville de France proviennent les cannelés en forme de petits cylindres striés ?
+      propositions:
+      - Strasbourg
+      - Rennes
+      - Bordeaux
+      - Nancy
+      réponse: Bordeaux
+      anecdote: La légende veut que les cannelés soient nés lors du débarquement des bateaux de farine sur les quais de Bordeaux.
+  en:
+  - débutant:
+    - id: 1
+      question: Which Italian cheese is used in tiramisu ?
+      propositions:
+      - Gorgonzola
+      - Ricotta
+      - Grana padano
+      - Mascarpone
+      réponse: Mascarpone
+      anecdote: The ingredients are prepared separately and superimposed in independent layers.
+    - id: 2
+      question: What fruit is the Tatin Tart, invented accidentally ?
+      propositions:
+      - Cherries
+      - Plums
+      - Pears
+      - Apples
+      réponse: Apples
+      anecdote: The apples are caramelized with sugar and butter before cooking the pie.
+    - id: 3
+      question: What cake do we traditionally have with fir trees and small characters ?
+      propositions:
+      - Black Forest
+      - Galette des Rois
+      - Christmas bachelor
+      - Lady puck
+      réponse: Christmas bachelor
+      anecdote: This custom spread throughout Europe is attested since the Middle Ages and inherited from various pagan rites.
+    - id: 4
+      question: In which country do we eat plum pudding on a regular basis ?
+      propositions:
+      - China
+      - Portugal
+      - Greece
+      - England
+      réponse: England
+      anecdote: Plum pudding is a heavy pudding, steamed with dried fruits.
+    - id: 5
+      question: Which synonym for frozen dessert made with crème fraîche and eggs is excellent ?
+      propositions:
+      - Super
+      - Extra
+      - Perfect
+      - General
+      réponse: Perfect
+      anecdote: A perfect is a frozen dessert without cooking made from fresh cream and eggs.
+    - id: 6
+      question: To realize which cake should be mixed eggs, butter, flour and sugar in equal quantities ?
+      propositions:
+      - Muffin
+      - Brownie
+      - Four quarters
+      - Vacherin
+      réponse: Four quarters
+      anecdote: Each ingredient in the pound represents a quarter of the cake, hence its name.
+    - id: 7
+      question: What creamy pudding, buttered cream fillet, is scented in coffee ?
+      propositions:
+      - Moka
+      - Bavarian
+      - Diplomate
+      - Religious
+      réponse: Moka
+      anecdote: The geant, invented towards the beginning of the eighteenth century, is a biscuit batter that enters the composition of many entremets.
+    - id: 8
+      question: Which dessert is traditionally cut at the end of the wedding meal ?
+      propositions:
+      - Ambassador
+      - Mounted Piece
+      - Financial
+      - Diplomate
+      réponse: Mounted Piece
+      anecdote: A figurine depicting two brides is usually placed at the top of the dessert.
+    - id: 9
+      question: Which small red berries are used in the preparation of clafoutis ?
+      propositions:
+      - Currants
+      - Raspberries
+      - Strawberries
+      - Cherries
+      réponse: Cherries
+      anecdote: The main ingredients are, besides cherries, sugar, flour, milk and eggs.
+    - id: 10
+      question: Traditionally, what alcohol is used to make a baba ?
+      propositions:
+      - Cognac
+      - Vodka
+      - Rum
+      - Whiskey
+      réponse: Rum
+      anecdote: The rum baba is a cake prepared for the main religious festivals (Christmas or Easter) since time immemorial.
+  - confirmé:
+    - id: 11
+      question: What perfume will complement vanilla and chocolate in the traditional banana split ?
+      propositions:
+      - Praline
+      - Pistachio
+      - Strawberry
+      - Cafe
+      réponse: Strawberry
+      anecdote: In Belgium, the traditional banana split is composed of three vanilla balls.
+    - id: 12
+      question: Which Italian dessert has a name that can be translated as cooked cream ?
+      propositions:
+      - Tiramisu
+      - Panna cotta
+      - Amatriciana
+      - Panforte
+      réponse: Panna cotta
+      anecdote: The panna cotta is made from cream, milk and sugar, to which is added some Latin.
+    - id: 13
+      question: What alcohol do you add to a lemon sorbet to make a colonel ?
+      propositions:
+      - Rum
+      - Cognac
+      - Vodka
+      - Whiskey
+      réponse: Vodka
+      anecdote: In your cups place two scoops of lemon sherbet, sprinkle with vodka then enjoy.
+    - id: 14
+      question: Which dish can offer cakes on one or more floors ?
+      propositions:
+      - Butler
+      - Dedicated
+      - Valet
+      - Servant
+      réponse: Servant
+      anecdote: The size of a dish conditions the good distribution of the food that is there.
+    - id: 15
+      question: What light pastry comes to light familiarly with a bouncy belly ?
+      propositions:
+      - Donut
+      - Bavarian
+      - Baba
+      - Brioche
+      réponse: Brioche
+      anecdote: This sweet pastry is fairly sweet and has butter and eggs.
+    - id: 16
+      question: What cream is traditionally used to prepare a floating island ?
+      propositions:
+      - Cream of chestnuts
+      - Whipped cream
+      - Crème anglaise
+      - Creme fraiche
+      réponse: Crème anglaise
+      anecdote: Eggs with snow are made of sweetened egg whites, whipped, poached or cooked in a bain-marie.
+    - id: 17
+      question: What cream pamperies commonly garnishes the galette des Rois ?
+      propositions:
+      - Whipped cream
+      - Meringue
+      - Latin
+      - Frangipane
+      réponse: Frangipane
+      anecdote: The use of the feast in the slab of Kings goes back to the Greeks, who used beasts for the election of their magistrates.
+    - id: 18
+      question: Which fruit is the most classic garnish of the Austrian Strudel ?
+      propositions:
+      - Pear
+      - Apple
+      - Fishing
+      - Banana
+      réponse: Apple
+      anecdote: French-speaking countries also know it as 'slipper' or sometimes 'rolled'.
+    - id: 19
+      question: What famous Breton cake was born in the region of Douarnenez ?
+      propositions:
+      - Pogne
+      - Diplomate
+      - Tortillon
+      - Kouign-amann
+      réponse: Kouign-amann
+      anecdote: His preparation is reputed delicate, as the saying goes: 'The fact that wants, the success that can'.
+    - id: 20
+      question: Which Alsatian pastry shop in the shape of eight is sprinkled with salt and cumin ?
+      propositions:
+      - Pie
+      - Clafoutis
+      - Pretzel
+      - Millefeuille
+      réponse: Pretzel
+      anecdote: The pretzel is a kind of bread or brioche poached in a solution of baking soda.
+  - expert:
+    - id: 21
+      question: In which region of France do you eat the thirteen desserts of Christmas ?
+      propositions:
+      - Provence
+      - Brittany
+      - Auvergne
+      - Alsace
+      réponse: Provence
+      anecdote: Desserts can be brewed with cooked wine or muscat wine, while in the end all the liqueurs appear.
+    - id: 22
+      question: In pastry, which nut goes into the preparation of Congolese ?
+      propositions:
+      - Nutmeg
+      - Cashew nuts
+      - Peach Nuts
+      - Coconut
+      réponse: Coconut
+      anecdote: The Congolese is a small grainy and fluffy cake with a rounded shape.
+    - id: 23
+      question: Who said : « A dessert without cheese is a beauty that lacks an eye » ?
+      propositions:
+      - Montaigne
+      - Brillat-Savarin
+      - La Rochefoucauld
+      - La Bruyère
+      réponse: Brillat-Savarin
+      anecdote: Brillat-Savarin is a Heist and Epicurean, in the proper philosophical sense of the term.
+    - id: 24
+      question: Which pastry shop is attributed to the Italian confectioner Gasparini ?
+      propositions:
+      - Meringue
+      - Madeleine
+      - Macaron
+      - Sacristan
+      réponse: Meringue
+      anecdote: Variations exist by changing the amounts and type of sugar, but especially in the way of incorporating it into the mass.
+    - id: 25
+      question: In the pastry shop, what is clear on the ice-cream or fondant ?
+      propositions:
+      - Concorde
+      - Little duchess
+      - Jacob's Staff
+      - Long Cabbage
+      réponse: Jacob's Staff
+      anecdote: The most common is composed of choux pastry wrapping a pastry cream.
+    - id: 26
+      question: Which city of Lorraine is famous for its madeleines ?
+      propositions:
+      - Commercy
+      - Metz
+      - Epinal
+      - Verdun
+      réponse: Commercy
+      anecdote: A symbol of conviviality, madeleines have been made there since the 18th century.
+    - id: 27
+      question: Which pie made from small yellow plums is a specialty in Lorraine ?
+      propositions:
+      - Sabayon
+      - Diplomate
+      - Black Forest
+      - Mirabelle plum pie
+      réponse: Mirabelle plum pie
+      anecdote: The Mirabelle plum pie can be prepared with a broken or flaky dough, fresh or frozen fruit.
+    - id: 28
+      question: What puffed donut evokes a rather flatulent nun ?
+      propositions:
+      - Nun's pet
+      - Fire of God
+      - Mother's gas
+      - Wind of Mass
+      réponse: Nun's pet
+      anecdote: The nuns farts, sprinkled with sugar and cinnamon, are especially a specialty of Franche-Comté.
+    - id: 29
+      question: Which dessert owes its name to an operetta by Jacques Offenbach ?
+      propositions:
+      - Pear Belle-Hélène
+      - Cream Chiboust
+      - Melba Strawberry
+      - Vic's pie
+      réponse: Pear Belle-Hélène
+      anecdote: This dessert made with pears poached in a syrup is topped with hot chocolate accompanied by a vanilla ice cream.
+    - id: 30
+      question: From which city of France come the grooves in the form of small cylinders striated ?
+      propositions:
+      - Strasbourg
+      - Rennes
+      - Nancy
+      - Bordeaux
+      réponse: Bordeaux
+      anecdote: Legend has it that the canelés are born during the unloading of the flour boats on the Bordeaux docks.
+  de:
+  - débutant:
+    - id: 1
+      question: Welcher italienische Käse wird in Tiramisu verwendet ?
+      propositions:
+      - Mascarpone
+      - Grana padano
+      - Ricotta
+      - Gorgonzola
+      réponse: Mascarpone
+      anecdote: Die Zutaten werden separat zubereitet und in unabhängigen Schichten übereinander gelegt.
+    - id: 2
+      question: Welche Frucht ist das Tatin-Törtchen, zufällig erfunden ?
+      propositions:
+      - Pflaumen
+      - Birnen
+      - Kirschen
+      - Äpfel
+      réponse: Äpfel
+      anecdote: Die Äpfel werden vor dem Backen mit Zucker und Butter karamellisiert.
+    - id: 3
+      question: Welchen Kuchen haben wir traditionell mit Tannen und kleinen Figuren ?
+      propositions:
+      - Schwarzwald
+      - Galette des Rois
+      - Weihnachtslog
+      - Lady Puck
+      réponse: Weihnachtslog
+      anecdote: Diese in ganz Europa verbreitete Sitte ist seit dem Mittelalter bezeugt und von verschiedenen heidnischen Riten geerbt.
+    - id: 4
+      question: In welchem Land essen wir regelmäßig Pflaumenpudding ?
+      propositions:
+      - Griechenland
+      - Portugal
+      - China
+      - England
+      réponse: England
+      anecdote: Plumpudding ist ein schwerer Pudding, gedünstet mit getrockneten Früchten.
+    - id: 5
+      question: Welches Synonym für gefrorenes Dessert aus Crème Fraîche und Eiern ist ausgezeichnet ?
+      propositions:
+      - Super
+      - Allgemein
+      - Perfekt
+      - Extra
+      réponse: Perfekt
+      anecdote: Perfekt ist ein Tiefkühldessert ohne Kochen aus frischer Sahne und Eiern.
+    - id: 6
+      question: Um zu erkennen, welcher Kuchen sollte Eier, Butter, Mehl und Zucker in gleichen Mengen gemischt werden ?
+      propositions:
+      - Muffin
+      - Vacherin
+      - Vier Viertel
+      - Brownie
+      réponse: Vier Viertel
+      anecdote: Jede Zutat im Pfund stellt ein Viertel des Kuchens dar, daher der Name.
+    - id: 7
+      question: Welcher cremige Pudding, Buttercreme-Filet, ist in Kaffee duftend ?
+      propositions:
+      - Religiös
+      - Bayerisch
+      - Moka
+      - Diplomat
+      réponse: Moka
+      anecdote: Der zu Beginn des 18. Jahrhunderts erfundene Biskuitkuchen ist ein zerschlagener Keks, der für die Zubereitung vieler Desserts verwendet wird.
+    - id: 8
+      question: Welches Dessert wird traditionell am Ende der Hochzeitsmahlzeit geschnitten ?
+      propositions:
+      - Botschafter
+      - Finanziell
+      - Diplomat
+      - Montiertes Stück
+      réponse: Montiertes Stück
+      anecdote: Eine Figur, die zwei Bräute darstellt, wird normalerweise oben auf dem Dessert platziert.
+    - id: 9
+      question: Welche kleinen roten Beeren werden bei der Zubereitung von Clafoutis verwendet ?
+      propositions:
+      - Johannisbeeren
+      - Kirschen
+      - Himbeeren
+      - Erdbeeren
+      réponse: Kirschen
+      anecdote: Die Hauptzutaten sind neben Kirschen Zucker, Mehl, Milch und Eier.
+    - id: 10
+      question: Traditionell, aus welchem Alkohol wird ein Baba gemacht ?
+      propositions:
+      - Cognac
+      - Wodka
+      - Rum
+      - Whisky
+      réponse: Rum
+      anecdote: Der Rum Baba ist ein Kuchen, der seit jeher für die wichtigsten religiösen Feste (Weihnachten oder Ostern) zubereitet wird.
+  - confirmé:
+    - id: 11
+      question: Welches Parfüm wird Vanille und Schokolade im traditionellen Bananensplit ergänzen ?
+      propositions:
+      - Pistazie
+      - Erdbeere
+      - Praline
+      - Café
+      réponse: Erdbeere
+      anecdote: In Belgien besteht der traditionelle Bananensplit aus drei Vanillescheiben.
+    - id: 12
+      question: Welches italienische Dessert hat einen Namen, der als gekochte Sahne übersetzt werden kann ?
+      propositions:
+      - Panna Cotta
+      - Amatriciana
+      - Tiramisu
+      - Panforte
+      réponse: Panna Cotta
+      anecdote: Die Panna Cotta besteht aus Sahne, Milch und Zucker, zu denen etwas Latein hinzukommt.
+    - id: 13
+      question: Welchen Alkohol fügen Sie einem Zitronensorbet hinzu, um einen Oberst zu machen ?
+      propositions:
+      - Rum
+      - Cognac
+      - Whisky
+      - Wodka
+      réponse: Wodka
+      anecdote: In die Tassen zwei Kugeln Zitronen-Sorbet geben, mit Wodka bestreuen und genießen.
+    - id: 14
+      question: Welches Gericht kann Kuchen auf einer oder mehreren Etagen anbieten ?
+      propositions:
+      - Diener
+      - Diener
+      - Gewidmet
+      - Butler
+      réponse: Diener
+      anecdote: Die Größe eines Gerichts bedingt die gute Verteilung des Essens.
+    - id: 15
+      question: Welches leichte Gebäck kommt vertraut mit einem hüpfenden Bauch zum Vorschein ?
+      propositions:
+      - Baba
+      - Bayerisch
+      - Donut
+      - Brioche
+      réponse: Brioche
+      anecdote: Dieses süße Gebäck ist ziemlich süß und hat Butter und Eier.
+    - id: 16
+      question: Mit welcher Creme wird traditionell eine schwimmende Insel zubereitet ?
+      propositions:
+      - Creme Fraiche
+      - Crème anglaise
+      - Kastaniencreme
+      - Schlagsahne
+      réponse: Crème anglaise
+      anecdote: Eier mit Schnee werden aus gesüßtem Eiweiß hergestellt, geschlagen, pochiert oder in einem Wasserbad gekocht.
+    - id: 17
+      question: Welche Creme-Verwöhnmomente garniert die Galette des Rois ?
+      propositions:
+      - Schlagsahne
+      - Latein
+      - Frangipane
+      - Baiser
+      réponse: Frangipane
+      anecdote: Der Gebrauch des Festes in der Platte der Könige geht auf die Griechen zurück, die Bestien für die Wahl ihrer Magistrate benutzten.
+    - id: 18
+      question: Welche Frucht ist die klassische Beilage des österreichischen Strudels ?
+      propositions:
+      - Banane
+      - Apfel
+      - Birne
+      - Fischen
+      réponse: Apfel
+      anecdote: Französischsprachige Länder kennen es auch als 'Pantoffel' oder manchmal 'gerollt'.
+    - id: 19
+      question: Welcher berühmte bretonische Kuchen wurde in der Region Douarnenez geboren ?
+      propositions:
+      - Diplomat
+      - Kouign-Amann
+      - Tortillon
+      - Pogne
+      réponse: Kouign-Amann
+      anecdote: Seine Vorbereitung gilt als heikel, wie das Sprichwort sagt: 'Die Tatsache, die will, der Erfolg, der kann'.
+    - id: 20
+      question: Welche elsässische Konditorei in Form von acht ist mit Salz und Kreuzkümmel bestreut ?
+      propositions:
+      - Brezel
+      - Millefeuille
+      - Kuchen
+      - Clafoutis
+      réponse: Brezel
+      anecdote: Die Brezel ist eine Art Brot oder Brioche in einer Lösung von Backpulver pochiert.
+  - expert:
+    - id: 21
+      question: In welcher Region Frankreichs essen Sie die dreizehn Weihnachtsdesserts ?
+      propositions:
+      - Bretagne
+      - Auvergne
+      - Provence
+      - Elsass
+      réponse: Provence
+      anecdote: Desserts können mit gekochtem Wein oder Muskatwein gebraut werden, während am Ende alle Liköre erscheinen.
+    - id: 22
+      question: Welche Nuss wird im Gebäck für die Zubereitung von Kongolese verwendet ?
+      propositions:
+      - Pfirsich Nüsse
+      - Kokosnuss
+      - Cashewnüsse
+      - Muskatnuss
+      réponse: Kokosnuss
+      anecdote: Der Kongolese ist ein kleiner körniger und flaumiger Kuchen mit einer runden Form.
+    - id: 23
+      question: Wer hat gesagt : « Ein Dessert ohne Käse ist eine Schönheit, die kein Auge hat » ?
+      propositions:
+      - Brillat-Savarin
+      - Montaigne
+      - La Bruyère
+      - La Rochefoucauld
+      réponse: Brillat-Savarin
+      anecdote: Brillat-Savarin ist ein Heist und Epikuräer, im eigentlichen philosophischen Sinne des Wortes.
+    - id: 24
+      question: Welche Konditorei wird dem italienischen Konditor Gasparini zugeschrieben ?
+      propositions:
+      - Macaron
+      - Madeleine
+      - Baiser
+      - Sakristan
+      réponse: Baiser
+      anecdote: Variationen bestehen durch Änderung der Menge und der Art des Zuckers, insbesondere aber durch die Art und Weise, wie er in die Masse eingearbeitet wird.
+    - id: 25
+      question: In der Konditorei, was ist klar auf dem Eis oder Fondant ?
+      propositions:
+      - Langkohl
+      - Jakobs Stab
+      - Concorde
+      - Kleine Herzogin
+      réponse: Jakobs Stab
+      anecdote: Am gebräuchlichsten ist die Kohlpaste, die einen Creme Pémier umhüllt.
+    - id: 26
+      question: Welche Stadt von Lothringen ist berühmt für seine Madeleines ?
+      propositions:
+      - Verdun
+      - Commercy
+      - Metz
+      - Epinal
+      réponse: Commercy
+      anecdote: Als Symbol der Geselligkeit werden dort seit dem 18. Jahrhundert Madeleines hergestellt.
+    - id: 27
+      question: Welche Pastete aus kleinen gelben Pflaumen ist eine Spezialität in Lothringen ?
+      propositions:
+      - Diplomat
+      - Sabayon
+      - Mirabellenpastete
+      - Schwarzwald
+      réponse: Mirabellenpastete
+      anecdote: Die Mirabelle Pflaumenkuchen kann mit einem gebrochenen oder flockigen Teig, frische oder gefrorene Früchte zubereitet werden.
+    - id: 28
+      question: Welcher aufgeblasene Donut erinnert an eine eher blödsinnige Nonne ?
+      propositions:
+      - Muttergas
+      - Nuns Haustier
+      - Wind der Masse
+      - Feuer Gottes
+      réponse: Nuns Haustier
+      anecdote: Die Nonnenfurz, mit Zucker und Zimt bestreut, sind besonders eine Spezialität der Franche-Comté.
+    - id: 29
+      question: Welches Dessert verdankt seinen Namen einer Operette von Jacques Offenbach ?
+      propositions:
+      - Vic's Kuchen
+      - Sahne Chiboust
+      - Melba Erdbeere
+      - Birne Belle-Hélène
+      réponse: Birne Belle-Hélène
+      anecdote: Dieses Dessert aus in Sirup pochierten Birnen wird mit heißer Schokolade und Vanilleeis gekrönt.
+    - id: 30
+      question: Aus welcher Stadt Frankreichs stammen die Rillen in Form von kleinen Zylindern ?
+      propositions:
+      - Nancy
+      - Rennes
+      - Bordeaux
+      - Straßburg
+      réponse: Bordeaux
+      anecdote: Die Legende besagt, dass die Canelés während des Ausladens der Mehlkähne an den Bordeaux Docks geboren werden.
+  es:
+  - débutant:
+    - id: 1
+      question: ¿Qué queso italiano se usa en el tiramisú ?
+      propositions:
+      - Gorgonzola
+      - Grana padano
+      - Ricotta
+      - Mascarpone
+      réponse: Mascarpone
+      anecdote: Los ingredientes se preparan por separado y se superponen en capas independientes.
+    - id: 2
+      question: ¿Qué fruto es la tarta de tatin, inventada accidentalmente ?
+      propositions:
+      - Ciruelas
+      - Cerezas
+      - Manzanas
+      - Peras
+      réponse: Manzanas
+      anecdote: Las manzanas se caramelizan con azúcar y mantequilla antes de cocinar el pastel.
+    - id: 3
+      question: ¿Qué pastel tenemos tradicionalmente con abetos y personajes pequeños ?
+      propositions:
+      - Soltero de navidad
+      - Galette des Rois
+      - Lady puck
+      - Selva Negra
+      réponse: Soltero de navidad
+      anecdote: Esta costumbre difundida en toda Europa se atestigua desde la Edad Media y se hereda de varios ritos paganos.
+    - id: 4
+      question: ¿En qué país comemos budín de ciruelas con regularidad ?
+      propositions:
+      - Grecia
+      - Inglaterra
+      - Portugal
+      - China
+      réponse: Inglaterra
+      anecdote: El pudín de ciruela es un pudín pesado, al vapor con frutas secas.
+    - id: 5
+      question: ¿Qué sinónimo de postre helado elaborado con crème fraîche y huevos es excelente ?
+      propositions:
+      - General
+      - Super
+      - Extra
+      - Perfecto
+      réponse: Perfecto
+      anecdote: Un perfecto es un postre helado sin cocinar elaborado con crema fresca y huevos.
+    - id: 6
+      question: ¿Para darse cuenta de qué pastel se debe mezclar los huevos, la mantequilla, la harina y el azúcar en cantidades iguales ?
+      propositions:
+      - Vacherin
+      - Brownie
+      - Cuatro cuartos
+      - Muffin
+      réponse: Cuatro cuartos
+      anecdote: Cada ingrediente en la libra representa un cuarto de la torta, de ahí su nombre.
+    - id: 7
+      question: ¿Qué pudín cremoso, filete de crema con mantequilla, está perfumado en el café ?
+      propositions:
+      - Moka
+      - Bávaro
+      - Diplomado
+      - Religiosa
+      réponse: Moka
+      anecdote: El geant, inventado a principios del siglo XVIII, es un batido de galletas que entra en la composición de muchos entremets.
+    - id: 8
+      question: ¿Qué postre se corta tradicionalmente al final de la comida de la boda ?
+      propositions:
+      - Embajador
+      - Diplomado
+      - Pieza montada
+      - Financiero
+      réponse: Pieza montada
+      anecdote: Una figura que representa a dos novias se coloca generalmente en la parte superior del postre.
+    - id: 9
+      question: ¿Qué bayas rojas pequeñas se utilizan en la preparación de clafoutis ?
+      propositions:
+      - Fresas
+      - Frambuesas
+      - Cerezas
+      - Grosellas
+      réponse: Cerezas
+      anecdote: Los ingredientes principales son, además de cerezas, azúcar, harina, leche y huevos.
+    - id: 10
+      question: Tradicionalmente, ¿qué alcohol se usa para hacer un baba ?
+      propositions:
+      - Ron
+      - Vodka
+      - Cognac
+      - Whisky
+      réponse: Ron
+      anecdote: El ron baba es un pastel preparado para los principales festivales religiosos (Navidad o Semana Santa) desde tiempos inmemoriales.
+  - confirmé:
+    - id: 11
+      question: ¿Qué perfume complementará la vainilla y el chocolate en el tradicional split de plátano ?
+      propositions:
+      - Pistacho
+      - Fresa
+      - Cafe
+      - Praline
+      réponse: Fresa
+      anecdote: En Bélgica, el tradicional split de plátanos está compuesto por tres bolas de vainilla.
+    - id: 12
+      question: ¿Qué postre italiano tiene un nombre que se puede traducir como crema cocida ?
+      propositions:
+      - Tiramisu
+      - Panna cotta
+      - Panforte
+      - Amatriciana
+      réponse: Panna cotta
+      anecdote: La panna cotta está hecha de crema, leche y azúcar, a la que se le agrega algo de latín.
+    - id: 13
+      question: ¿Qué alcohol le agregas a un sorbete de limón para hacer un coronel ?
+      propositions:
+      - Cognac
+      - Whisky
+      - Vodka
+      - Ron
+      réponse: Vodka
+      anecdote: En sus tazas coloque dos bolas de sorbete de limón, espolvoree con vodka y luego disfrute.
+    - id: 14
+      question: ¿Qué plato puede ofrecer pasteles en uno o más pisos ?
+      propositions:
+      - Mayordomo
+      - Sirviente
+      - Dedicado
+      - Valet
+      réponse: Sirviente
+      anecdote: El tamaño de un plato condiciona la buena distribución de los alimentos que hay allí.
+    - id: 15
+      question: ¿Qué pastelería liviana sale a la luz familiarmente con una barriga hinchable ?
+      propositions:
+      - Buñuelo
+      - Brioche
+      - Baba
+      - Bávaro
+      réponse: Brioche
+      anecdote: Esta masa dulce es bastante dulce y tiene mantequilla y huevos.
+    - id: 16
+      question: ¿Qué crema se usa tradicionalmente para preparar una isla flotante ?
+      propositions:
+      - Crema De Castañas
+      - Crema batida
+      - Crème anglaise
+      - Creme Fraiche
+      réponse: Crème anglaise
+      anecdote: Los huevos con nieve están hechos de claras de huevo azucaradas, batidas, escalfadas o cocidas en un baño María.
+    - id: 17
+      question: ¿Qué crema pamperies adorna comúnmente la galette des Rois ?
+      propositions:
+      - Frangipane
+      - Merengue
+      - Latín
+      - Crema batida
+      réponse: Frangipane
+      anecdote: El uso de la fiesta en la losa de los Reyes se remonta a los griegos, que utilizaron bestias para la elección de sus magistrados.
+    - id: 18
+      question: ¿Qué fruta es la guarnición más clásica del strudel austriaco ?
+      propositions:
+      - La pesca
+      - Pera
+      - Manzana
+      - Plátano
+      réponse: Manzana
+      anecdote: Los países de habla francesa también lo conocen como 'zapatillas' o, a veces, 'enrolladas'.
+    - id: 19
+      question: ¿Qué famoso pastel bretón nació en la región de Douarnenez ?
+      propositions:
+      - Pogne
+      - Kouign-amann
+      - Diplomado
+      - Tortillon
+      réponse: Kouign-amann
+      anecdote: Su preparación tiene fama de delicada, como dice el dicho: 'El hecho de que quiere, el éxito que puede'.
+    - id: 20
+      question: ¿Qué pastelería alsaciana en forma de ocho está rociada con sal y comino ?
+      propositions:
+      - Clafoutis
+      - Millefeuille
+      - Pie
+      - Pretzel
+      réponse: Pretzel
+      anecdote: El pretzel es un tipo de pan o brioche escalfado en una solución de bicarbonato de sodio.
+  - expert:
+    - id: 21
+      question: ¿En qué región de Francia comes los trece postres de navidad ?
+      propositions:
+      - Provence
+      - Auvernia
+      - Alsacia
+      - Bretaña
+      réponse: Provence
+      anecdote: Los postres pueden elaborarse con vino cocido o moscatel, mientras que al final aparecen todos los licores.
+    - id: 22
+      question: En repostería, ¿qué nuez se destina a la preparación de los congoleños ?
+      propositions:
+      - Nuez moscada
+      - Coco
+      - Anacardos
+      - Nueces de durazno
+      réponse: Coco
+      anecdote: El congoleño es una pequeña torta granulada y esponjosa con una forma redondeada.
+    - id: 23
+      question: ¿Quién dijo : « Un postre sin queso es una belleza a la que le falta ojo » ?
+      propositions:
+      - Montaigne
+      - Brillat-Savarin
+      - La Rochefoucauld
+      - La Bruyère
+      réponse: Brillat-Savarin
+      anecdote: Brillat-Savarin es un Heist y un Epicúreo, en el sentido filosófico apropiado del término.
+    - id: 24
+      question: ¿Qué pastelería se atribuye a la repostería italiana Gasparini ?
+      propositions:
+      - Merengue
+      - Macaron
+      - Sacristán
+      - Madeleine
+      réponse: Merengue
+      anecdote: Las variaciones existen al cambiar las cantidades y el tipo de azúcar, pero especialmente en la forma de incorporarlo a la masa.
+    - id: 25
+      question: En la pastelería, ¿qué queda claro en el helado o el fondant ?
+      propositions:
+      - El bastón de jacob
+      - Col larga
+      - Pequeña duquesa
+      - Concorde
+      réponse: El bastón de jacob
+      anecdote: La más común es la pasta de repollo que envuelve una crema de pálimero.
+    - id: 26
+      question: ¿Qué ciudad de Lorena es famosa por sus madeleines ?
+      propositions:
+      - Commercy
+      - Epinal
+      - Metz
+      - Verdun
+      réponse: Commercy
+      anecdote: Un símbolo de la convivencia, madeleines se han hecho allí desde el siglo XVIII.
+    - id: 27
+      question: ¿Qué pastel hecho de ciruelas amarillas pequeñas es una especialidad en Lorena ?
+      propositions:
+      - Sabayon
+      - Selva Negra
+      - Diplomado
+      - Pastel de ciruela Mirabelle
+      réponse: Pastel de ciruela Mirabelle
+      anecdote: El pastel de ciruela Mirabelle se puede preparar con una masa quebrada o escamosa, fruta fresca o congelada.
+    - id: 28
+      question: ¿Qué dona hinchada evoca a una monja bastante flatulenta ?
+      propositions:
+      - Gas de la madre
+      - Mascota de la monja
+      - Viento de masa
+      - Fuego de dios
+      réponse: Mascota de la monja
+      anecdote: Los monjes de las monjas, espolvoreados con azúcar y canela, son especialmente una especialidad de Franche-Comté.
+    - id: 29
+      question: ¿Qué postre debe su nombre a una opereta de Jacques Offenbach ?
+      propositions:
+      - Pera Belle-Hélène
+      - Pastel de vic
+      - Crema De Chiboust
+      - Melba Strawberry
+      réponse: Pera Belle-Hélène
+      anecdote: Este postre hecho con peras escalfadas en un jarabe está cubierto con chocolate caliente acompañado de un helado de vainilla.
+    - id: 30
+      question: ¿De qué ciudad de Francia provienen los surcos en forma de pequeños cilindros estriados ?
+      propositions:
+      - Nancy
+      - Burdeos
+      - Estrasburgo
+      - Rennes
+      réponse: Burdeos
+      anecdote: La leyenda dice que los canelés nacen durante la descarga de los barcos de harina en los muelles de Burdeos.
+  it:
+  - débutant:
+    - id: 1
+      question: Quale formaggio italiano è usato nel tiramisù ?
+      propositions:
+      - Mascarpone
+      - Grana padano
+      - Gorgonzola
+      - Ricotta
+      réponse: Mascarpone
+      anecdote: Gli ingredienti sono preparati separatamente e sovrapposti in strati indipendenti.
+    - id: 2
+      question: Quale frutto è la torta Tatin, inventata per caso ?
+      propositions:
+      - Prugne
+      - Mele
+      - Ciliegie
+      - Pere
+      réponse: Mele
+      anecdote: Le mele vengono caramellate con zucchero e burro prima di cuocere la torta.
+    - id: 3
+      question: Che torta abbiamo tradizionalmente con abeti e piccoli personaggi ?
+      propositions:
+      - Galette des Rois
+      - Disco da donna
+      - Scapolo di Natale
+      - Foresta Nera
+      réponse: Scapolo di Natale
+      anecdote: Questa usanza diffusa in tutta Europa è attestata sin dal Medioevo e ereditata da vari riti pagani.
+    - id: 4
+      question: In quale paese mangiamo regolarmente il budino di prugne ?
+      propositions:
+      - Grecia
+      - Portogallo
+      - Cina
+      - Inghilterra
+      réponse: Inghilterra
+      anecdote: Il budino di prugne è un budino pesante, cotto a vapore con frutta secca.
+    - id: 5
+      question: Quale sinonimo di dessert congelato a base di crème fraîche e uova è ottimo ?
+      propositions:
+      - Generale
+      - Extra
+      - Super
+      - Perfetto
+      réponse: Perfetto
+      anecdote: Un perfetto è un dessert surgelato senza cottura a base di panna e uova fresche.
+    - id: 6
+      question: Per capire quale torta dovrebbe essere mescolata uova, burro, farina e zucchero in quantità uguali ?
+      propositions:
+      - Brownie
+      - Vacherin
+      - Quattro quarti
+      - Muffin
+      réponse: Quattro quarti
+      anecdote: Ogni ingrediente della sterlina rappresenta un quarto della torta, da cui il suo nome.
+    - id: 7
+      question: Quale budino cremoso, filetto di crema al burro, è profumato nel caffè ?
+      propositions:
+      - Bavarese
+      - Moka
+      - Religioso
+      - Diplomatico
+      réponse: Moka
+      anecdote: Il geant, inventato all'inizio del XVIII secolo, è una pastella di biscotti che entra nella composizione di molti entremets.
+    - id: 8
+      question: Quale dolce è tradizionalmente tagliato alla fine del pranzo di nozze ?
+      propositions:
+      - Finanziario
+      - Ambasciatore
+      - Diplomatico
+      - Pezzo montato
+      réponse: Pezzo montato
+      anecdote: Una figurina raffigurante due spose è di solito collocata nella parte superiore del dessert.
+    - id: 9
+      question: Quali piccoli frutti rossi sono usati nella preparazione dei clafoutis ?
+      propositions:
+      - Ciliegie
+      - Lamponi
+      - Fragole
+      - Ribes
+      réponse: Ciliegie
+      anecdote: Gli ingredienti principali sono, oltre alle ciliegie, zucchero, farina, latte e uova.
+    - id: 10
+      question: Tradizionalmente, quale alcol viene usato per fare un babà ?
+      propositions:
+      - Cognac
+      - Vodka
+      - Whisky
+      - Rum
+      réponse: Rum
+      anecdote: Il rum baba è un dolce preparato per le principali feste religiose (Natale o Pasqua) da tempo immemorabile.
+  - confirmé:
+    - id: 11
+      question: Quale profumo completerà la vaniglia e il cioccolato nella tradizionale spaccatura delle banane ?
+      propositions:
+      - Pralina
+      - Fragola
+      - Pistacchio
+      - Cafe
+      réponse: Fragola
+      anecdote: In Belgio, la tradizionale banana split è composta da tre palline di vaniglia.
+    - id: 12
+      question: Quale dolce italiano ha un nome che si può tradurre come panna cotta ?
+      propositions:
+      - Panforte
+      - Panna cotta
+      - Amatriciana
+      - Tiramisù
+      réponse: Panna cotta
+      anecdote: La panna cotta è fatta di panna, latte e zucchero, a cui si aggiunge del latino.
+    - id: 13
+      question: Che alcol aggiungi a un sorbetto al limone per fare un colonnello ?
+      propositions:
+      - Whisky
+      - Vodka
+      - Rum
+      - Cognac
+      réponse: Vodka
+      anecdote: Nelle tazze mettere due cucchiai di sorbetto al limone, cospargere con la vodka e poi goderne.
+    - id: 14
+      question: Quale piatto può offrire torte su uno o più piani ?
+      propositions:
+      - Dedicato
+      - Valet
+      - Butler
+      - Servo
+      réponse: Servo
+      anecdote: La dimensione di un piatto condiziona la buona distribuzione del cibo che c'è.
+    - id: 15
+      question: Che pasta leggera viene alla luce familiarmente con una pancia gonfiabile ?
+      propositions:
+      - Ciambella
+      - Baba
+      - Bavarese
+      - Brioche
+      réponse: Brioche
+      anecdote: Questa pasticceria dolce è abbastanza dolce e ha burro e uova.
+    - id: 16
+      question: Quale crema viene tradizionalmente utilizzata per preparare un'isola galleggiante ?
+      propositions:
+      - Crema di castagne
+      - Crème anglaise
+      - Creme fraiche
+      - Panna montata
+      réponse: Crème anglaise
+      anecdote: Le uova con la neve sono fatte di albumi d'uovo zuccherati, montati, in camicia o cotti a bagnomaria.
+    - id: 17
+      question: Quali pasticcini alla crema guarniscono comunemente la galette des Rois ?
+      propositions:
+      - Frangipane
+      - Meringa
+      - Latino
+      - Panna montata
+      réponse: Frangipane
+      anecdote: L'uso della festa nella lastra dei re risale ai Greci, che usavano le bestie per l'elezione dei loro magistrati.
+    - id: 18
+      question: Quale frutto è il contorno più classico dello strudel austriaco ?
+      propositions:
+      - Pesca
+      - Pera
+      - Banana
+      - Apple
+      réponse: Apple
+      anecdote: Anche i paesi francofoni lo conoscono come 'pantofolaio' o talvolta 'laminati'.
+    - id: 19
+      question: Quale famosa torta bretone è nata nella regione di Douarnenez ?
+      propositions:
+      - Kouign-amann
+      - Diplomatico
+      - Tortillon
+      - Pogne
+      réponse: Kouign-amann
+      anecdote: La sua preparazione è reputata delicata, come dice il proverbio: 'Il fatto che vuole, il successo che può'.
+    - id: 20
+      question: Quale pasticceria alsaziana a forma di otto è cosparsa di sale e cumino ?
+      propositions:
+      - Clafoutis
+      - Millefeuille
+      - Torta
+      - Pretzel
+      réponse: Pretzel
+      anecdote: Il pretzel è una sorta di pane o brioche cotti in una soluzione di bicarbonato di sodio.
+  - expert:
+    - id: 21
+      question: In quale regione della Francia mangi i tredici dessert di Natale ?
+      propositions:
+      - Bretagna
+      - Alsazia
+      - Provenza
+      - Alvernia
+      réponse: Provenza
+      anecdote: I dolci possono essere preparati con vino cotto o vino moscato, mentre alla fine appaiono tutti i liquori.
+    - id: 22
+      question: In pasticceria, quale noce va nella preparazione del congolese ?
+      propositions:
+      - Noci di pesca
+      - Anacardi
+      - Noce moscata
+      - Cocco
+      réponse: Cocco
+      anecdote: Il congolese è una piccola torta granulosa e soffice con una forma arrotondata.
+    - id: 23
+      question: Chi ha detto : « Un dolce senza formaggio è una bellezza che manca di occhio » ?
+      propositions:
+      - Montaigne
+      - Brillat-Savarin
+      - La Rochefoucauld
+      - La Bruyère
+      réponse: Brillat-Savarin
+      anecdote: Brillat-Savarin è un Heist ed Epicureo, nel senso proprio del termine filosofico.
+    - id: 24
+      question: Quale pasticceria è attribuita al pasticcere italiano Gasparini ?
+      propositions:
+      - Macaron
+      - Meringa
+      - Sacristan
+      - Madeleine
+      réponse: Meringa
+      anecdote: Le variazioni esistono cambiando le quantità e il tipo di zucchero, ma soprattutto nel modo di incorporarlo nella massa.
+    - id: 25
+      question: Nella pasticceria, cosa è chiaro sul gelato o sul fondente ?
+      propositions:
+      - Concorde
+      - Piccola duchessa
+      - Cavolo lungo
+      - Il bastone di Jacob
+      réponse: Il bastone di Jacob
+      anecdote: Il più comune è la pasta di cavolo che avvolge una crema pasticcera.
+    - id: 26
+      question: Quale città della Lorena è famosa per le sue madeleines ?
+      propositions:
+      - Metz
+      - Commercy
+      - Verdun
+      - Epinal
+      réponse: Commercy
+      anecdote: Un simbolo di convivialità, madeleines sono state fatte lì dal 18 ° secolo.
+    - id: 27
+      question: Quale torta fatta con piccole prugne gialle è una specialità in Lorena ?
+      propositions:
+      - Sabayon
+      - Torta di prugne Mirabelle
+      - Foresta Nera
+      - Diplomatico
+      réponse: Torta di prugne Mirabelle
+      anecdote: La torta di prugne Mirabelle può essere preparata con una pasta rotta o traballante, frutta fresca o congelata.
+    - id: 28
+      question: Quale ciambella soffiata evoca una suora piuttosto flatulenta ?
+      propositions:
+      - Vento di massa
+      - Animale domestico di Nun
+      - Il gas della madre
+      - Fuoco di Dio
+      réponse: Animale domestico di Nun
+      anecdote: Le monache scoregge, cosparse di zucchero e cannella, sono soprattutto una specialità della Franca Contea.
+    - id: 29
+      question: Quale dolce deve il suo nome a un'operetta di Jacques Offenbach ?
+      propositions:
+      - Pera Belle-Hélène
+      - Melba Fragola
+      - La torta di Vic
+      - Cream Chiboust
+      réponse: Pera Belle-Hélène
+      anecdote: Questo dolce fatto con le pere affogate in uno sciroppo è sormontato da cioccolata calda accompagnata da un gelato alla vaniglia.
+    - id: 30
+      question: Da quale città della Francia provengono i solchi sotto forma di piccoli cilindri striati ?
+      propositions:
+      - Rennes
+      - Nancy
+      - Strasburgo
+      - Bordeaux
+      réponse: Bordeaux
+      anecdote: La leggenda narra che i canelés siano nati durante lo sbarco delle barche di farina sulle banchine di Bordeaux.
+  nl:
+  - débutant:
+    - id: 1
+      question: Welke Italiaanse kaas wordt gebruikt in tiramisu ?
+      propositions:
+      - Ricotta
+      - Mascarpone
+      - Grana padano
+      - Gorgonzola
+      réponse: Mascarpone
+      anecdote: De ingrediënten worden afzonderlijk bereid en op elkaar gelegd in onafhankelijke lagen.
+    - id: 2
+      question: Welke vrucht is de Tatin Tart, per ongeluk uitgevonden ?
+      propositions:
+      - Peren
+      - Appels
+      - Pruimen
+      - Kersen
+      réponse: Appels
+      anecdote: De appels worden gekarameliseerd met suiker en boter voor het bakken van de taart.
+    - id: 3
+      question: Welke cake hebben we traditioneel met sparren en kleine karakters ?
+      propositions:
+      - Lady puck
+      - Zwarte Woud
+      - Kerstmis bachelor
+      - Galette des Rois
+      réponse: Kerstmis bachelor
+      anecdote: Deze gewoonte verspreid over heel Europa wordt sinds de middeleeuwen bevestigd en geërfd van verschillende heidense riten.
+    - id: 4
+      question: In welk land eten we regelmatig pruimenpudding ?
+      propositions:
+      - Engeland
+      - Portugal
+      - China
+      - Griekenland
+      réponse: Engeland
+      anecdote: Plum pudding is een zware pudding, gestoomd met gedroogde vruchten.
+    - id: 5
+      question: Welk synoniem voor bevroren dessert gemaakt met crème fraîche en eieren is uitstekend ?
+      propositions:
+      - Perfect
+      - Super
+      - Extra
+      - Algemeen
+      réponse: Perfect
+      anecdote: Een perfect is een bevroren dessert zonder te koken gemaakt van verse room en eieren.
+    - id: 6
+      question: Om te realiseren welke cake moet gemengde eieren, boter, meel en suiker in gelijke hoeveelheden zijn ?
+      propositions:
+      - Brownie
+      - Vacherin
+      - Vier kwart
+      - Muffin
+      réponse: Vier kwart
+      anecdote: Elk ingrediënt in het pond vertegenwoordigt een kwart van de cake, vandaar de naam.
+    - id: 7
+      question: Welke romige pudding, beboterde roomfilet, is geurende koffie ?
+      propositions:
+      - Diplomate
+      - Moka
+      - Beiers
+      - Religieus
+      réponse: Moka
+      anecdote: De geant, uitgevonden tegen het begin van de achttiende eeuw, is een koekbeslag dat de samenstelling van veel entremets ingaat.
+    - id: 8
+      question: Welk dessert wordt traditioneel gesneden aan het einde van de bruiloftsmaal ?
+      propositions:
+      - Financieel
+      - Ambassador
+      - Diplomate
+      - Gemonteerd stuk
+      réponse: Gemonteerd stuk
+      anecdote: Een beeldje met twee bruiden wordt meestal bovenaan het dessert geplaatst.
+    - id: 9
+      question: Welke kleine rode bessen worden gebruikt bij de bereiding van clafoutis ?
+      propositions:
+      - Krenten
+      - Aardbeien
+      - Frambozen
+      - Kersen
+      réponse: Kersen
+      anecdote: De hoofdingrediënten zijn, naast kersen, suiker, meel, melk en eieren.
+    - id: 10
+      question: Traditioneel, welke alcohol wordt gebruikt om een baba te maken ?
+      propositions:
+      - Wodka
+      - Rum
+      - Cognac
+      - Whisky
+      réponse: Rum
+      anecdote: De rum Baba is een taart die sinds mensenheugenis wordt gemaakt voor de belangrijkste religieuze feesten (Kerstmis of Pasen).
+  - confirmé:
+    - id: 11
+      question: Welke parfum zal vanille en chocolade aanvullen in de traditionele bananensplit ?
+      propositions:
+      - Cafe
+      - Pistache
+      - Praline
+      - Aardbei
+      réponse: Aardbei
+      anecdote: In België bestaat de traditionele bananensplit uit drie vanilleballen.
+    - id: 12
+      question: Welk Italiaans dessert heeft een naam die kan worden vertaald als gekookte room ?
+      propositions:
+      - Panna cotta
+      - Panforte
+      - Amatriciana
+      - Tiramisu
+      réponse: Panna cotta
+      anecdote: De panna cotta is gemaakt van room, melk en suiker, waaraan wat Latijn is toegevoegd.
+    - id: 13
+      question: Welke alcohol voeg je toe aan een citroensorbet om een kolonel te maken ?
+      propositions:
+      - Whisky
+      - Rum
+      - Wodka
+      - Cognac
+      réponse: Wodka
+      anecdote: Plaats twee schepjes citroenzuur in je koppen, besprenkel met wodka en geniet.
+    - id: 14
+      question: Welk gerecht kan taarten aanbieden op een of meerdere verdiepingen ?
+      propositions:
+      - Valet
+      - Servant
+      - Butler
+      - Dedicated
+      réponse: Servant
+      anecdote: De grootte van een gerecht zorgt voor een goede verdeling van het voedsel dat er is.
+    - id: 15
+      question: Welk licht gebak komt vertrouwd aan het licht met een springerige buik ?
+      propositions:
+      - Brioche
+      - Donut
+      - Beiers
+      - Baba
+      réponse: Brioche
+      anecdote: Dit zoete gebakje is vrij zoet en heeft boter en eieren.
+    - id: 16
+      question: Welke creme wordt traditioneel gebruikt om een drijvend eiland voor te bereiden ?
+      propositions:
+      - Crème anglaise
+      - Room van kastanjes
+      - Creme fraiche
+      - Slagroom
+      réponse: Crème anglaise
+      anecdote: Eieren met sneeuw zijn gemaakt van gezoete eiwitten, geklopt, gepocheerd of gekookt in een bain-marie.
+    - id: 17
+      question: Welke cremeregenstellingen versieren gewoonlijk de galette des Rois ?
+      propositions:
+      - Frangipane
+      - Slagroom
+      - Meringue
+      - Latijn
+      réponse: Frangipane
+      anecdote: Het gebruik van het feest in de plak van koningen gaat terug naar de Grieken, die beesten gebruikten voor de verkiezing van hun magistraten.
+    - id: 18
+      question: Welke vrucht is de meest klassieke garnering van de Oostenrijkse strudel ?
+      propositions:
+      - Banana
+      - Vissen
+      - Peer
+      - Apple
+      réponse: Apple
+      anecdote: Franstalige landen kennen het ook als 'pantoffel' of soms 'gerold'.
+    - id: 19
+      question: Welke beroemde Bretonse cake werd geboren in de regio Douarnenez ?
+      propositions:
+      - Kouign-amann
+      - Diplomate
+      - Tortillon
+      - Pogne
+      réponse: Kouign-amann
+      anecdote: Zijn voorbereiding is bekend delicaat, zoals het gezegde luidt: 'Het feit dat wil, het succes dat kan'.
+    - id: 20
+      question: Welke banketbakkerij in de Elzas, in de vorm van acht, is bestrooid met zout en komijn ?
+      propositions:
+      - Millefeuille
+      - Pretzel
+      - Clafoutis
+      - Pie
+      réponse: Pretzel
+      anecdote: De krakeling is een soort brood of brioche gepocheerd in een oplossing van zuiveringszout.
+  - expert:
+    - id: 21
+      question: In welke regio van Frankrijk eet u de dertien desserts van Kerstmis ?
+      propositions:
+      - Provence
+      - Auvergne
+      - Bretagne
+      - Elzas
+      réponse: Provence
+      anecdote: Desserts kunnen worden gebrouwen met gekookte wijn of muscat-wijn, terwijl op het einde alle likeuren verschijnen.
+    - id: 22
+      question: Welke noot past er in gebak bij de bereiding van Congolezen ?
+      propositions:
+      - Nootmuskaat
+      - Cashewnoten
+      - Peach Nuts
+      - Coconut
+      réponse: Coconut
+      anecdote: Congolees is een kleine korrelige en donzige cake met een afgeronde vorm.
+    - id: 23
+      question: Wie zei : « Een toetje zonder kaas is een schoonheid die geen oog heeft » ?
+      propositions:
+      - Montaigne
+      - La Bruyère
+      - Brillat-Savarin
+      - La Rochefoucauld
+      réponse: Brillat-Savarin
+      anecdote: Brillat-Savarin is een Heist en Epicurean, in de juiste filosofische betekenis van het woord.
+    - id: 24
+      question: Welke banketbakkerij wordt toegeschreven aan de Italiaanse banketbakker Gasparini ?
+      propositions:
+      - Sacristan
+      - Madeleine
+      - Macaron
+      - Meringue
+      réponse: Meringue
+      anecdote: Variaties bestaan  ? ?door het veranderen van de hoeveelheden en het type suiker, maar vooral door de manier om het in de massa op te nemen.
+    - id: 25
+      question: In de patisserie, wat is duidelijk op het ijs of fondant ?
+      propositions:
+      - Lange kool
+      - Concorde
+      - Jacob's staf
+      - Kleine hertogin
+      réponse: Jacob's staf
+      anecdote: De meest voorkomende is koolpasta die een crème périeur omhult.
+    - id: 26
+      question: Welke stad Lorraine is beroemd om zijn madeleines ?
+      propositions:
+      - Metz
+      - Verdun
+      - Epinal
+      - Commercy
+      réponse: Commercy
+      anecdote: Symbolen van gezelligheid, madeleines zijn er gemaakt sinds de 18e eeuw.
+    - id: 27
+      question: Welke taart gemaakt van kleine gele pruimen is een specialiteit in Lorraine ?
+      propositions:
+      - Zwarte Woud
+      - Diplomate
+      - Sabayon
+      - Mirabelle pruimentaart
+      réponse: Mirabelle pruimentaart
+      anecdote: De Mirabelle-pruimentaart kan worden bereid met een gebroken of schilferachtig deeg, vers of bevroren fruit.
+    - id: 28
+      question: Welke gepofte donut roept een nogal winderige non op ?
+      propositions:
+      - Nun's huisdier
+      - Wind van de massa
+      - Moeder's gas
+      - Vuur van God
+      réponse: Nun's huisdier
+      anecdote: De scheten van de nonnen, bestrooid met suiker en kaneel, is vooral een specialiteit van Franche-Comté.
+    - id: 29
+      question: Welk dessert dankt zijn naam aan een operette van Jacques Offenbach ?
+      propositions:
+      - Melba Strawberry
+      - Pear Belle-Hélène
+      - Vic's pie
+      - Cream Chiboust
+      réponse: Pear Belle-Hélène
+      anecdote: Dit dessert gemaakt met peren gepocheerd in een siroop is bekroond met warme chocolademelk vergezeld van een vanille-ijs.
+    - id: 30
+      question: Uit welke stad van Frankrijk komen de groeven in de vorm van kleine cilinders gegroefd ?
+      propositions:
+      - Straatsburg
+      - Rennes
+      - Nancy
+      - Bordeaux
+      réponse: Bordeaux
+      anecdote: Volgens de legende worden de canelés geboren tijdens het lossen van de meelboten op de dokken van Bordeaux.

@@ -1,0 +1,280 @@
+---
+fournisseur: OpenQuizzDB - Fournisseur de contenu libre (https://www.openquizzdb.org)
+rédacteur: Philippe Bresoux
+thème: Basket européen (Les stars sont sur le parquet)
+difficulté: 3 / 5
+quizz:
+  fr:
+  - débutant:
+    - id: 1
+      question: De combien de joueurs est composée une équipe de basket-ball sur le terrain ?
+      propositions:
+      - Six
+      - Cinq
+      - Sept
+      - Onze
+      réponse: Cinq
+      anecdote: Le basket-ball fut inventé en 1891 par James Naismith, professeur d'éducation physique.
+    - id: 2
+      question: Combien y a-t-il de joueurs sur le terrain durant un match de basket-ball ?
+      propositions:
+      - 11
+      - 15
+      - 10
+      - 5
+      réponse: 10
+      anecdote: Basket-ball signifie littéralement en anglais « ballon panier », expression encore utilisée au Canada.
+    - id: 3
+      question: Comment est dénommé le championnat de France de basket-ball depuis 1993 ?
+      propositions:
+      - Pro A
+      - Super G
+      - B Pro
+      - CFA
+      réponse: Pro A
+      anecdote: 31 équipes ont remporté au moins un titre de champion de France depuis la première édition du championnat en 1921.
+    - id: 4
+      question: Quelle association regroupe les équipes professionnelles de basket-ball en France ?
+      propositions:
+      - Pro A
+      - Super G
+      - B Pro
+      - LNB
+      réponse: LNB
+      anecdote: La LNB est créée en 1987 bien que le premier championnat de France ait lieu en 1921.
+    - id: 5
+      question: Quel est le nombre maximum de points que peut réaliser un joueur en un tir en basket-ball ?
+      propositions:
+      - Trois
+      - Cinq
+      - Six
+      - Quatre
+      réponse: Trois
+      anecdote: Ce sport est baptisé basket-ball, ce qui signifie littéralement « ballon panier ».
+    - id: 6
+      question: Au basket-ball, comment appelle-t-on un « but » marqué avec le ballon ?
+      propositions:
+      - Un sac
+      - Un caddie
+      - Une boîte
+      - Un panier
+      réponse: Un panier
+      anecdote: Un filet ouvert vers le bas, de 45 cm de diamètre, est attaché en-dessous du panier.
+    - id: 7
+      question: Combien de temps a-t-on pour viser avant de lancer un panier au basket-ball ?
+      propositions:
+      - 30 secondes
+      - 45 secondes
+      - 10 secondes
+      - 20 secondes
+      réponse: 30 secondes
+      anecdote: Le basket-ball se pratique exclusivement à la main, et les joueurs ne peuvent se déplacer balle en main qu'en la dribblant au sol.
+    - id: 8
+      question: Comment appelle-t-on un arrêt de jeu au basket-ball ?
+      propositions:
+      - Un temps mort
+      - Une zone press
+      - Un entre-deux
+      - Un dribble
+      réponse: Un temps mort
+      anecdote: Le basket-ball a été inventé en 1891 par James Naismith, un pasteur canadien.
+    - id: 9
+      question: Combien de points vaut un panier normal au basket-ball ?
+      propositions:
+      - Deux
+      - Trois
+      - Un
+      - Quatre
+      réponse: Deux
+      anecdote: En 2010, on compte plus de 500 millions de pratiquants à travers le monde.
+    - id: 10
+      question: Combien vaut un lancer franc au basket-ball, accordé à un joueur victime d'une faute ?
+      propositions:
+      - Cinq points
+      - Un point
+      - Sept points
+      - Trois points
+      réponse: Un point
+      anecdote: En cas de faute flagrante, les lancers francs accordés le sont sans joueur au rebond, car la balle est redonné à l'équipe du tireur.
+  - confirmé:
+    - id: 11
+      question: Après 2000, quel pays est devenu le premier fournisseur de joueurs NBA non-américains ?
+      propositions:
+      - France
+      - Portugal
+      - Suisse
+      - Belgique
+      réponse: France
+      anecdote: Douze français possédaient ainsi un contrat au début de la saison NBA 2010-2011, un record.
+    - id: 12
+      question: À quelle distance du panier se trouve la ligne des lancers à 3 points en basket-ball ?
+      propositions:
+      - 6m15
+      - 6m20
+      - 6m25
+      - 6m30
+      réponse: 6m25
+      anecdote: Un lancer franc est une pénalité accordée à un joueur victime d'une faute.
+    - id: 13
+      question: En basket-ball, une accumulation de deux statistiques à deux chiffres est un...
+      propositions:
+      - Quadruple-double
+      - Quintuple-double
+      - Double-double
+      - Triple-double
+      réponse: Double-double
+      anecdote: Les cinq catégories concernées sont : points,rebonds, passes décisives, interceptions et contres.
+    - id: 14
+      question: Quelle joueuse de basket-ball française est singulièrement appelée « Beko » ?
+      propositions:
+      - Isabelle Yacoubou
+      - Céline Dumerc
+      - Sarah Michel
+      - Clémence Beikes
+      réponse: Clémence Beikes
+      anecdote: Clémence Beikes a été faites Chevalier de l'ordre national du Mérite en 2013.
+    - id: 15
+      question: Dans quel dessin animé les fans de Tony Parker peuvent-ils le retrouver ?
+      propositions:
+      - Turbo
+      - Capital
+      - Sport 6
+      - Baskup
+      réponse: Baskup
+      anecdote: « Baskup - Tony Parker » est une série télévisée d'animation française diffusée sur M6 depuis le 21 septembre 2011.
+    - id: 16
+      question: Quel joueur de basket-ball français a reçu le surnom de « 3D » ?
+      propositions:
+      - Michael Mokongo
+      - Nicolas Batum
+      - Ian Mahinmi
+      - Boris Diaw
+      réponse: Boris Diaw
+      anecdote: Boris Diaw est capable d'évoluer à chacun des cinq postes du basket-ball, fait rare dans le basket-ball professionnel.
+    - id: 17
+      question: Quel a été le premier mensuel spécialiste du basket-ball en France ?
+      propositions:
+      - Basket Hebdo
+      - Basket Time
+      - Maxi-Basket
+      - Basket News
+      réponse: Maxi-Basket
+      anecdote: « Maxi-Basket » était plutôt axé sur le basket-ball français mais ne se limitait pas à ce terrain d'expression.
+    - id: 18
+      question: En France, combien de clubs professionnels se disputent chaque année le Pro A ?
+      propositions:
+      - 28
+      - 20
+      - 24
+      - 16
+      réponse: 16
+      anecdote: Pour la saison 2014-15, le budget moyen d'un club de Pro A s'établit à 4,65 millions d'euros.
+    - id: 19
+      question: Quelle formation détient un titre de championne du monde 2006 de basket-ball ?
+      propositions:
+      - Espagne
+      - France
+      - Portugal
+      - Suisse
+      réponse: Espagne
+      anecdote: Le basket-ball est géré en Espagne par la Fédération espagnole de basket-ball (FEB) fondée en 1923.
+    - id: 20
+      question: Qui est depuis 2009 sélectionneur de l'équipe de France masculine de basket-ball ?
+      propositions:
+      - Didier Dobbels
+      - Jean Perniceni
+      - Vincent Collet
+      - Didier Gadou
+      réponse: Vincent Collet
+      anecdote: C'est au club de l'AL Montivilliers, où son père occupe un poste d'homme à tout faire, que Vincent Collet a découvert le basket-ball.
+  - expert:
+    - id: 21
+      question: En basket-ball, quelle médaille les Bleus ont-ils décroché aux J.O. De 1948 ?
+      propositions:
+      - Argent
+      - Or
+      - Aucune
+      - Bronze
+      réponse: Argent
+      anecdote: Il s'agit de sa deuxième participation après les Jeux Olympiques de Berlin en 1936.
+    - id: 22
+      question: Quelle fédération défend les intérêts moraux et matériels du basket-ball belge ?
+      propositions:
+      - FLBB
+      - FBBL
+      - MLB
+      - LNB
+      réponse: FLBB
+      anecdote: Elle représente le basket-ball auprès des pouvoirs publics ainsi qu'auprès des organismes sportifs nationaux et internationaux.
+    - id: 23
+      question: En février 2008, quel entraîneur a retrouvé les joueurs de basket-ball français ?
+      propositions:
+      - Michel Leray
+      - Alain Gilles
+      - Michel Gomez
+      - Yvan Mainini
+      réponse: Michel Gomez
+      anecdote: En 2009, un nouveau sélectionneur sera toutefois nommé en la personne de Vincent Collet.
+    - id: 24
+      question: En mai 2007, quelle ville est redevenue championne de France de basket-ball ?
+      propositions:
+      - Tours
+      - Villeurbanne
+      - Roanne
+      - Le Mans
+      réponse: Roanne
+      anecdote: Ce titre a permis à la ville de Roanne d'obtenir un précieux billet pour l'Euroligue.
+    - id: 25
+      question: Quel docteur et professeur en médecine est connu pour avoir inventé le basket-ball ?
+      propositions:
+      - Martin Roy
+      - Gordon Herbert
+      - James Naismith
+      - Jacques Dextraze
+      réponse: James Naismith
+      anecdote: Durant sa jeunesse, James Naismith était un gymnaste et un joueur de football canadien de haut niveau à l'université McGill.
+    - id: 26
+      question: Quel rappeur français est le frère aîné du joueur de basket-ball Mamoutou Diarra ?
+      propositions:
+      - Fabe
+      - Joe Dalton
+      - Oxmo Puccino
+      - Busta Flex
+      réponse: Oxmo Puccino
+      anecdote: L'écriture d'Oxmo Puccino est basée sur les métaphores et les phrases chocs.
+    - id: 27
+      question: En basket-ball, quel club a raflé en 2012 sa deuxième Euroligue face au CSKA Moscou ?
+      propositions:
+      - Olympiakos
+      - Badalone
+      - KK Split
+      - Galatasaray
+      réponse: Olympiakos
+      anecdote: Il s'agit d'une section du club omnisports de l'Olympiakos, basé dans la ville du Pirée.
+    - id: 28
+      question: Quel basketteur a le plus progressé en Pro A lors de la saison 2009-2010 ?
+      propositions:
+      - Evan Fournier
+      - Rodrigue Beaubois
+      - Kevin Séraphin
+      - Edwin Jackson
+      réponse: Kevin Séraphin
+      anecdote: Kevin Séraphin comptabilise 10 double-double au terme de la saison 2014/2015.
+    - id: 29
+      question: Qui détient le record de sélections en équipe de France de basket-ball ?
+      propositions:
+      - Michel Bonnevie
+      - Hervé Dubuisson
+      - Bernard Mayeur
+      - Antoine Diot
+      réponse: Hervé Dubuisson
+      anecdote: Homme de tous les records, Hervé Dubuisson est considéré comme l'un des meilleurs joueurs de l'histoire du basket français.
+    - id: 30
+      question: Combien de championnats du monde l'équipe de Suisse de basket-ball a-t-elle disputé ?
+      propositions:
+      - Trois
+      - Aucun
+      - Un seul
+      - Deux
+      réponse: Aucun
+      anecdote: Le basket-ball en Suisse est un sport marginal dans le pays avec un peu plus de 15 000 licenciés.

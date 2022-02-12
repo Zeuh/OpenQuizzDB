@@ -1,0 +1,1650 @@
+---
+fournisseur: OpenQuizzDB - Fournisseur de contenu libre (https://www.openquizzdb.org)
+rédacteur: Philippe Bresoux
+thème: Séries américaines (Ça se bouscule au pays des séries US)
+difficulté: 3 / 5
+quizz:
+  fr:
+  - débutant:
+    - id: 1
+      question: Quelle est la couleur du maillot des sauveteurs de la série « Alerte à Malibu » ?
+      propositions:
+      - Verte
+      - Rouge
+      - Jaune
+      - Bleue
+      réponse: Rouge
+      anecdote: « Alerte à Malibu » reste à ce jour une des séries télévisées les plus regardées au monde.
+    - id: 2
+      question: Dans quelle ville peut-on retrouver sur les écrans le lieutenant Horatio Caine ?
+      propositions:
+      - Los Angeles
+      - Las Vegas
+      - Miami
+      - New York
+      réponse: Miami
+      anecdote: Dans la série télévisée, sa mère lui aurait donné son prénom en hommage à l'écrivain Horatio Alger.
+    - id: 3
+      question: Pour qui travaillent les « Drôles de dames », diffusées entre 1976 et 1981 sur ABC ?
+      propositions:
+      - Tatoo
+      - Bosley
+      - Michael
+      - Charlie
+      réponse: Charlie
+      anecdote: Charlie Townsend n'apparaîtra presque jamais à l'écran, sauf lorsqu'il sera enlevé.
+    - id: 4
+      question: Qui est le plus costaud des héros télévisés de la célèbre « Agence tous risques » ?
+      propositions:
+      - Hannibal
+      - Barracuda
+      - Looping
+      - Futé
+      réponse: Barracuda
+      anecdote: La série « Agence tous risques » s'est brutalement arrêtée parce qu'elle devenait de plus en plus chère à produire.
+    - id: 5
+      question: Qui détient le rôle principal dans la série télévisée américaine « Dr House » ?
+      propositions:
+      - Thomas Sarbacher
+      - Hugh Laurie
+      - Matthew Fox
+      - Kiefer Sutherland
+      réponse: Hugh Laurie
+      anecdote: Grégory House, héros de la série, fait souvent référence à des groupes, des films et séries télévisées.
+    - id: 6
+      question: Quelle héroïne de la série télévisée « Ma sorcière bien aimée » est mariée à Jean-Pierre ?
+      propositions:
+      - Samantha
+      - Endora
+      - Esmeralda
+      - Tabatha
+      réponse: Samantha
+      anecdote: Ce couple modèle à l'américaine a également deux enfants prénommés Tabatha et Adam.
+    - id: 7
+      question: Dans quelle série télévisée Wentworth Miller incarne-t-il Michael Scofield ?
+      propositions:
+      - Dr House
+      - Friends
+      - Lost
+      - Prison Break
+      réponse: Prison Break
+      anecdote: Dans la série, Michael Scofield élabore pour son frère un plan d'évasion d'une complexité stupéfiante.
+    - id: 8
+      question: Quel médecin Georges Clooney incarne-t-il dans la série télévisée « Urgences » ?
+      propositions:
+      - John Carter
+      - Dylan Creed
+      - Douglas Ross
+      - Mark Green
+      réponse: Douglas Ross
+      anecdote: Le pilote de la série a été filmé dans un vieil hôpital abandonné, par manque de temps.
+    - id: 9
+      question: Quel village la famille Ingalls habite-t-elle dans « La Petite Maison dans la prairie » ?
+      propositions:
+      - Dakota Springs
+      - Walnut Grove
+      - Sailor Fields
+      - Ingalls Valley
+      réponse: Walnut Grove
+      anecdote: Les lieux les plus importants de la série « La Petite Maison dans la prairie » sont Walnut-Grove, Sleepy Eye et Winoka.
+    - id: 10
+      question: Lequel de ces personnages ne fait pas partie de la bande de copains de « Friends » ?
+      propositions:
+      - Chandler
+      - Matt
+      - Joey
+      - Ross
+      réponse: Matt
+      anecdote: La série « Friends » raconte dix années de la vie de six amis vivant ensemble à New York.
+  - confirmé:
+    - id: 11
+      question: Quel est le nom de la célèbre voiture que David Hasselhoff pilotait dans « K2000 » ?
+      propositions:
+      - Kate
+      - Kytie
+      - Kitt
+      - Katy
+      réponse: Kitt
+      anecdote: Cette voiture est capable de réfléchir et de parler comme un être humain.
+    - id: 12
+      question: Qui joua le rôle de Donna Martin dans la série télévisée « Beverly Hills 90210 » ?
+      propositions:
+      - Tori Spelling
+      - Hillary Swank
+      - Carol Potter
+      - Jenny Garth
+      réponse: Tori Spelling
+      anecdote: « Beverly Hills 90210 » est un feuilleton télévisé américain qui compte 294 épisodes de 44 minutes.
+    - id: 13
+      question: Dans quelle série Aaron Hotchner perce-t-il les pensées des tueurs en série ?
+      propositions:
+      - Person of Interest
+      - Esprits criminels
+      - The Walking Dead
+      - Mentalist
+      réponse: Esprits criminels
+      anecdote: Aaron Hotchner est interprété par Thomas Gibson et doublé par Julien Kramer en version française.
+    - id: 14
+      question: Qui est la soeur aînée des héroïnes de la série télévisée américaine « Charmed » ?
+      propositions:
+      - Buffy
+      - Prue
+      - Paige
+      - Piper
+      réponse: Prue
+      anecdote: La série « Charmed » raconte l'histoire de 3 soeurs qui sont les plus puissantes sorcières du monde.
+    - id: 15
+      question: Dans laquelle de ces séries télévisées trouve-t-on un super-héros ?
+      propositions:
+      - Le Caméléon
+      - Stargate
+      - Smallville
+      - Profiler
+      réponse: Smallville
+      anecdote: Cette série télévisée de science-fiction américaine en 218 épisodes de 42 minutes raconte la jeunesse du futur Superman.
+    - id: 16
+      question: Quelle est la couleur des cheveux de Miranda dans la série « Sex and the City » ?
+      propositions:
+      - Rousse
+      - Brune
+      - Blonde
+      - Noire
+      réponse: Rousse
+      anecdote: Miranda est avocate et sa carrière tient la place la plus importante dans sa vie.
+    - id: 17
+      question: Combien de saisons compte la série télé « Lost, les disparus » créée par J.J. Abrams ?
+      propositions:
+      - Deux
+      - Huit
+      - Six
+      - Quatre
+      réponse: Six
+      anecdote: Bien que d'abord hésitant, J.J. Abrams était enthousiasmé par le concept de la série, à condition que celle-ci ait un angle surnaturel.
+    - id: 18
+      question: Qui est le meilleur ami de Dawson dans la série télévisée du même nom ?
+      propositions:
+      - Jack
+      - Pacey
+      - Joey
+      - Dan
+      réponse: Pacey
+      anecdote: La série « Dawson » a été créée par Kevin Williamson, l'auteur de la trilogie des « Scream ».
+    - id: 19
+      question: Dans quelle série télévisée Angela Lansbury interprète-t-elle le rôle de Jessica Fletcher ?
+      propositions:
+      - Urgences
+      - Friends
+      - Arabesque
+      - Médicopter
+      réponse: Arabesque
+      anecdote: Le rôle de Jessica Fletcher a été créé en se référant à l'univers d'Agatha Christie.
+    - id: 20
+      question: Dans quelle ville se déroulent les aventures des « Desperate Housewives » ?
+      propositions:
+      - Fairview
+      - Wisteria
+      - Los Angeles
+      - Chicago
+      réponse: Fairview
+      anecdote: Des rumeurs ont longtemps couru sur l'arrivée dans la série de Courteney Cox et de Kim Cattrall.
+  - expert:
+    - id: 21
+      question: Quelle est la race du chien de Columbo, l'inspecteur obstiné et perspicace de la télé ?
+      propositions:
+      - Barbet
+      - Beagle
+      - Bichon
+      - Basset
+      réponse: Basset
+      anecdote: Interrompue en 1978, la série télévisée « Columbo » a été ressuscitée en 1989, toujours avec Peter Falk dans le rôle principal.
+    - id: 22
+      question: Qui joue le rôle du Président Bartlet dans la série télévisée « À la Maison Blanche » ?
+      propositions:
+      - John Spencer
+      - Gary Cole
+      - Martin Sheen
+      - Rob Lowe
+      réponse: Martin Sheen
+      anecdote: La série « À la Maison Blanche » met en scène la vie quotidienne d'un Président démocrate des États-Unis.
+    - id: 23
+      question: Qui incarne Isabel Evans dans la série télévisée américaine « Roswell » ?
+      propositions:
+      - Shiri Appleby
+      - Poppy Montgomery
+      - Majandra Delfino
+      - Katherine Heigl
+      réponse: Katherine Heigl
+      anecdote: Le romantisme et le mystère de la première saison de « Roswell » ont assuré le succès de cette série.
+    - id: 24
+      question: Dans la série « X-Files », quel est le prénom de la soeur de Fox Mulder ?
+      propositions:
+      - Ann
+      - Catherine
+      - Samantha
+      - Sarah
+      réponse: Samantha
+      anecdote: C'est à la suite d'une hypnose régressive que Fox Mulder se souviendra de ce qui s'est réellement passé.
+    - id: 25
+      question: Pour quelle civilisation a-t-on créé une langue artificielle dans le monde de « Star Trek » ?
+      propositions:
+      - Les Romuliens
+      - Les Klingons
+      - Les Sylvidres
+      - Les Vulcains
+      réponse: Les Klingons
+      anecdote: Les Klingons sont des humanoïdes généralement plus grands et plus forts que les Humains.
+    - id: 26
+      question: La première image du générique de la série « MacGyver » présente une main avec quel objet ?
+      propositions:
+      - Un briquet
+      - Un passeport
+      - Un couteau suisse
+      - Un gant de cuir
+      réponse: Un passeport
+      anecdote: L'écolo-bricolo est vite devenu le modèle de toute une génération de téléspectateurs.
+    - id: 27
+      question: Qui est le créateur de la série télévisée américaine à succès « Alias » ?
+      propositions:
+      - J.J. Lionel
+      - J.J. Morgan
+      - J.J. Abrams
+      - J.J. Williams
+      réponse: J.J. Abrams
+      anecdote: J.J. Abrams est un acteur de cinéma, scénariste, réalisateur et producteur de renommée internationale.
+    - id: 28
+      question: Qui interprète le rôle de Ling dans la série télévisée américaine « Ally McBeal » ?
+      propositions:
+      - Lucy Liu
+      - Linda Fiorentino
+      - Calista Flockhart
+      - Debra Messing
+      réponse: Lucy Liu
+      anecdote: Dans la série, Ling Woo, la meilleure amie de Nelle, deviendra cliente, avocate puis juge.
+    - id: 29
+      question: Quel sport est pratiqué par Lukas dans la série télé « Les Frères Scott » ?
+      propositions:
+      - Le basket-ball
+      - Le baseball
+      - Le football
+      - Le hockey
+      réponse: Le basket-ball
+      anecdote: À la base, la série devait s'appeler « Ravens », du nom de l'équipe de basket-ball du lycée de Tree Hill.
+    - id: 30
+      question: Quel est le nom de la famille de Buffy dans la série « Buffy contre les vampires » ?
+      propositions:
+      - Summers
+      - Bouwers
+      - Rogers
+      - Sanders
+      réponse: Summers
+      anecdote: Buffy Summers est une tueuse de vampires issue d'une longue lignée d'Élues luttant contre les forces du mal.
+  en:
+  - débutant:
+    - id: 1
+      question: What is the color of the « Baywatch » series lifeguards jersey ?
+      propositions:
+      - Blue
+      - Yellow
+      - Green
+      - Red
+      réponse: Red
+      anecdote: « Baywatch » remains to this day one of the most watched television series in the world.
+    - id: 2
+      question: In which city can we find Lieutenant Horatio Caine on the screens ?
+      propositions:
+      - New York
+      - Las Vegas
+      - Los Angeles
+      - Miami
+      réponse: Miami
+      anecdote: In the television series, his mother would have given him his first name in homage to the writer Horatio Alger.
+    - id: 3
+      question: For whom do the « Drôles de dames » work, which aired between 1976 and 1981 on ABC ?
+      propositions:
+      - Bosley
+      - Tatoo
+      - Charlie
+      - Michael
+      réponse: Charlie
+      anecdote: Charlie Townsend will hardly ever appear onscreen except when he's kidnapped.
+    - id: 4
+      question: Who is the strongest of the televised heroes of the famous « All Risks Agency » ?
+      propositions:
+      - Smart
+      - Barracuda
+      - Hannibal
+      - Looping
+      réponse: Barracuda
+      anecdote: The « All Risks Agency » series came to an abrupt end because it was becoming more and more expensive to produce.
+    - id: 5
+      question: Who has the lead role in the American television series « Dr House » ?
+      propositions:
+      - Thomas Sarbacher
+      - Kiefer Sutherland
+      - Hugh Laurie
+      - Matthew Fox
+      réponse: Hugh Laurie
+      anecdote: Grégory House, hero of the series, often refers to groups, films and television series.
+    - id: 6
+      question: Which heroine of the television series « My beloved witch » is married to Jean-Pierre ?
+      propositions:
+      - Samantha
+      - Endora
+      - Tabatha
+      - Esmeralda
+      réponse: Samantha
+      anecdote: This model American couple also has two children named Tabatha and Adam.
+    - id: 7
+      question: In which television series does Wentworth Miller play Michael Scofield ?
+      propositions:
+      - Prison Break
+      - Lost
+      - Dr House
+      - Friends
+      réponse: Prison Break
+      anecdote: In the series, Michael Scofield hatches a staggeringly complex escape plan for his brother.
+    - id: 8
+      question: Which doctor does Georges Clooney play in the « ER » television series ?
+      propositions:
+      - Douglas Ross
+      - John Carter
+      - Mark Green
+      - Dylan Creed
+      réponse: Douglas Ross
+      anecdote: The pilot of the series was filmed in an old abandoned hospital for lack of time.
+    - id: 9
+      question: What village does the Ingalls family live in « La Petite Maison dans la prairie » ?
+      propositions:
+      - Sailor Fields
+      - Dakota Springs
+      - Walnut Grove
+      - Ingalls Valley
+      réponse: Walnut Grove
+      anecdote: The most important locations in the « Little House on the Prairie » series are Walnut-Grove, Sleepy Eye and Winoka.
+    - id: 10
+      question: Which of these characters is not from the « Friends » band of friends ?
+      propositions:
+      - Joey
+      - Matt
+      - Ross
+      - Chandler
+      réponse: Matt
+      anecdote: The series « Friends » tells the story of ten years in the life of six friends living together in New York.
+  - confirmé:
+    - id: 11
+      question: What is the name of the famous car that David Hasselhoff drove in « K2000 » ?
+      propositions:
+      - Kitt
+      - Kate
+      - Kytie
+      - Katy
+      réponse: Kitt
+      anecdote: This car is able to think and speak like a human being.
+    - id: 12
+      question: Who played the role of Donna Martin in the television series « Beverly Hills 90210 » ?
+      propositions:
+      - Carol Potter
+      - Jenny Garth
+      - Hillary Swank
+      - Tori Spelling
+      réponse: Tori Spelling
+      anecdote: « Beverly Hills 90210 » is an American television soap opera that has 294 44-minute episodes.
+    - id: 13
+      question: In which series does Aaron Hotchner pierce the thoughts of serial killers ?
+      propositions:
+      - Criminal minds
+      - The Walking Dead
+      - Person of Interest
+      - Mentalist
+      réponse: Criminal minds
+      anecdote: Aaron Hotchner is interpreted by Thomas Gibson and voiced by Julien Kramer in French version.
+    - id: 14
+      question: Who is the older sister of the heroines of the American television series « Charmed » ?
+      propositions:
+      - Piper
+      - Paige
+      - Prue
+      - Buffy
+      réponse: Prue
+      anecdote: The « Charmed » series tells the story of 3 sisters who are the most powerful witches in the world.
+    - id: 15
+      question: In which of these television series do we find a superhero ?
+      propositions:
+      - Le Caméléon
+      - Smallville
+      - Profiler
+      - Stargate
+      réponse: Smallville
+      anecdote: This American science fiction television series in 218 42-minute episodes tells the story of the youth of the future Superman.
+    - id: 16
+      question: What is the color of Miranda's hair in « Sex and the City » ?
+      propositions:
+      - Brunette
+      - Black
+      - Blonde
+      - Redhead
+      réponse: Redhead
+      anecdote: Miranda is a lawyer and her career holds the most important place in her life.
+    - id: 17
+      question: How many seasons does the television series « Lost, the disappeared » created by J.J. Abrams have ?
+      propositions:
+      - Six
+      - Four
+      - Eight
+      - Two
+      réponse: Six
+      anecdote: Although hesitant at first, J.
+    - id: 18
+      question: Who is Dawson's best friend in the TV series of the same name ?
+      propositions:
+      - Pacey
+      - Dan
+      - Joey
+      - Jack
+      réponse: Pacey
+      anecdote: The « Dawson » series was created by Kevin Williamson, the author of the « Scream » trilogy.
+    - id: 19
+      question: In which television series does Angela Lansbury play the role of Jessica Fletcher ?
+      propositions:
+      - Friends
+      - ER
+      - Arabesque
+      - Medicopter
+      réponse: Arabesque
+      anecdote: The role of Jessica Fletcher was created with reference to the universe of Agatha Christie.
+    - id: 20
+      question: In which city do the adventures of the « Desperate Housewives » take place ?
+      propositions:
+      - Chicago
+      - Los Angeles
+      - Wisteria
+      - Fairview
+      réponse: Fairview
+      anecdote: Rumors have long circulated about the arrival in the series of Courteney Cox and Kim Cattrall.
+  - expert:
+    - id: 21
+      question: What is the breed of Columbo's dog, the very obstinate and perceptive inspector of television ?
+      propositions:
+      - Bichon
+      - Barbet
+      - Beagle
+      - Basset
+      réponse: Basset
+      anecdote: Interrupted in 1978, the television series « Columbo » was revived in 1989, still with Peter Falk in the main role.
+    - id: 22
+      question: Who is playing the role of President Bartlet in the television series « At the White House » ?
+      propositions:
+      - John Spencer
+      - Martin Sheen
+      - Rob Lowe
+      - Gary Cole
+      réponse: Martin Sheen
+      anecdote: The series « At the White House » features the daily life of a Democratic President of the United States.
+    - id: 23
+      question: Who plays Isabel Evans in the American television series « Roswell » ?
+      propositions:
+      - Poppy Montgomery
+      - Shiri Appleby
+      - Katherine Heigl
+      - Majandra Delfino
+      réponse: Katherine Heigl
+      anecdote: The romance and mystery of the first season of « Roswell » ensured the success of this series.
+    - id: 24
+      question: In the « X-Files » series, what is the first name of Fox Mulder's sister ?
+      propositions:
+      - Samantha
+      - Catherine
+      - Ann
+      - Sarah
+      réponse: Samantha
+      anecdote: It is after regressive hypnosis that Fox Mulder will remember what really happened.
+    - id: 25
+      question: For which civilization was an artificial language created in the world of « Star Trek » ?
+      propositions:
+      - The Klingons
+      - Les Sylvidres
+      - The Vulcans
+      - The Romulans
+      réponse: The Klingons
+      anecdote: Klingons are generally larger and stronger humanoids than humans.
+    - id: 26
+      question: The first image of the credits of the « MacGyver » series shows a hand with which object ?
+      propositions:
+      - A lighter
+      - A passport
+      - A leather glove
+      - A Swiss Army Knife
+      réponse: A passport
+      anecdote: The eco-DIY quickly became the model for a whole generation of television viewers.
+    - id: 27
+      question: Who is the creator of the hit American television series « Alias » ?
+      propositions:
+      - J.J. Williams
+      - J.J. Abrams
+      - J.J. Lionel
+      - J.J. Morgan
+      réponse: J.J. Abrams
+      anecdote: J.J. Abrams is an internationally renowned film actor, screenwriter, director and producer.
+    - id: 28
+      question: Who plays the role of Ling in the American television series « Ally McBeal » ?
+      propositions:
+      - Debra Messing
+      - Linda Fiorentino
+      - Calista Flockhart
+      - Lucy Liu
+      réponse: Lucy Liu
+      anecdote: In the series, Ling Woo, Nelle's best friend, will become a client, lawyer and then judge.
+    - id: 29
+      question: What sport does Lukas play in the « The Scottish Brothers » TV series ?
+      propositions:
+      - Football
+      - Baseball
+      - Hockey
+      - Basketball
+      réponse: Basketball
+      anecdote: Originally, the series was to be called « Ravens », named after the Tree Hill High School basketball team.
+    - id: 30
+      question: What is the name of Buffy's family in the « Buffy the Vampire Slayer » series ?
+      propositions:
+      - Rogers
+      - Sanders
+      - Bouwers
+      - Summers
+      réponse: Summers
+      anecdote: Buffy Summers is a vampire slayer from a long line of Chosen Fighting against the forces of evil.
+  de:
+  - débutant:
+    - id: 1
+      question: Welche Farbe hat das Rettungsschwimmertrikot der « Baywatch » Serie ?
+      propositions:
+      - Rot
+      - Blau
+      - Grün
+      - Gelb
+      réponse: Rot
+      anecdote: « Baywatch » ist bis heute eine der meistgesehenen Fernsehserien der Welt.
+    - id: 2
+      question: In welcher Stadt können wir Leutnant Horatio Caine auf den Bildschirmen finden ?
+      propositions:
+      - New York
+      - Las Vegas
+      - Los Angeles
+      - Miami
+      réponse: Miami
+      anecdote: In der Fernsehserie hätte ihm seine Mutter als Hommage an den Schriftsteller Horatio Alger seinen Vornamen gegeben.
+    - id: 3
+      question: Für wen arbeiten die « Drôles de dames », die zwischen 1976 und 1981 auf ABC ausgestrahlt wurden ?
+      propositions:
+      - Michael
+      - Charlie
+      - Tatoo
+      - Bosley
+      réponse: Charlie
+      anecdote: Charlie Townsend wird kaum auf dem Bildschirm erscheinen, außer wenn er entführt wird.
+    - id: 4
+      question: Wer ist der stärkste der im Fernsehen übertragenen Helden der berühmten « All Risks Agency » ?
+      propositions:
+      - Hannibal
+      - Barrakuda
+      - Smart
+      - Schleifen
+      réponse: Barrakuda
+      anecdote: Die Serie « All Risks Agency » endete abrupt, weil ihre Herstellung immer teurer wurde.
+    - id: 5
+      question: Wer hat die Hauptrolle in der amerikanischen Fernsehserie « Dr. House » ?
+      propositions:
+      - Kiefer Sutherland
+      - Hugh Laurie
+      - Thomas Sarbacher
+      - Matthew Fox
+      réponse: Hugh Laurie
+      anecdote: Grégory House, Held der Serie, bezieht sich oft auf Gruppen, Filme und Fernsehserien.
+    - id: 6
+      question: Welche Heldin der Fernsehserie « Meine geliebte Hexe » ist mit Jean-Pierre verheiratet ?
+      propositions:
+      - Samantha
+      - Esmeralda
+      - Tabatha
+      - Endora
+      réponse: Samantha
+      anecdote: Dieses vorbildliche amerikanische Paar hat auch zwei Kinder namens Tabatha und Adam.
+    - id: 7
+      question: In welcher Fernsehserie spielt Wentworth Miller Michael Scofield ?
+      propositions:
+      - Lost
+      - Prison Break
+      - Dr House
+      - Friends
+      réponse: Prison Break
+      anecdote: In der Serie schlüpft Michael Scofield in einen erstaunlich komplexen Fluchtplan für seinen Bruder.
+    - id: 8
+      question: Welchen Arzt spielt Georges Clooney in der Fernsehserie « ER » ?
+      propositions:
+      - Douglas Ross
+      - Mark Green
+      - John Carter
+      - Dylan Creed
+      réponse: Douglas Ross
+      anecdote: Der Pilot der Serie wurde aus Zeitmangel in einem alten verlassenen Krankenhaus gefilmt.
+    - id: 9
+      question: In welchem \u200b\u200bDorf lebt die Familie Ingalls in « La Petite Maison dans la Prairie » ?
+      propositions:
+      - Walnusshain
+      - Dakota Springs
+      - Seemannsfelder
+      - Ingalls Valley
+      réponse: Walnusshain
+      anecdote: Die wichtigsten Standorte in der Serie « Little House on the Prairie » sind Walnut-Grove, Sleepy Eye und Winoka.
+    - id: 10
+      question: Welcher dieser Charaktere gehört nicht zur Gruppe der « Freunde » Freunde ?
+      propositions:
+      - Joey
+      - Ross
+      - Matt
+      - Chandler
+      réponse: Matt
+      anecdote: Die Serie « Friends » erzählt die Geschichte von zehn Jahren im Leben von sechs Freunden, die zusammen in New York leben.
+  - confirmé:
+    - id: 11
+      question: Wie heißt das berühmte Auto, das David Hasselhoff in « K2000 » gefahren ist ?
+      propositions:
+      - Kate
+      - Katy
+      - Kitt
+      - Kytie
+      réponse: Kitt
+      anecdote: Dieses Auto kann wie ein Mensch denken und sprechen.
+    - id: 12
+      question: Wer spielte die Rolle von Donna Martin in der Fernsehserie « Beverly Hills 90210 » ?
+      propositions:
+      - Carol Potter
+      - Hillary Swank
+      - Tori Spelling
+      - Jenny Garth
+      réponse: Tori Spelling
+      anecdote: « Beverly Hills 90210 » ist eine amerikanische Fernsehseifenoper mit 294 44-minütigen Folgen.
+    - id: 13
+      question: In welcher Serie durchdringt Aaron Hotchner die Gedanken von Serienmördern ?
+      propositions:
+      - Kriminelle Köpfe
+      - The Walking Dead
+      - Person von Interesse
+      - Mentalist
+      réponse: Kriminelle Köpfe
+      anecdote: Aaron Hotchner wird von Thomas Gibson interpretiert und von Julien Kramer in französischer Fassung geäußert.
+    - id: 14
+      question: Wer ist die ältere Schwester der Heldinnen der amerikanischen Fernsehserie « Charmed » ?
+      propositions:
+      - Paige
+      - Buffy
+      - Piper
+      - Prue
+      réponse: Prue
+      anecdote: Die Serie « Charmed » erzählt die Geschichte von drei Schwestern, die die mächtigsten Hexen der Welt sind.
+    - id: 15
+      question: In welcher dieser Fernsehserien finden wir einen Superhelden ?
+      propositions:
+      - Stargate
+      - Profiler
+      - Smallville
+      - Le Caméléon
+      réponse: Smallville
+      anecdote: Diese amerikanische Science-Fiction-Fernsehserie in 218 42-minütigen Folgen erzählt die Geschichte der Jugend des zukünftigen Superman.
+    - id: 16
+      question: Welche Haarfarbe hat Miranda in « Sex and the City » ?
+      propositions:
+      - Blond
+      - Rotschopf
+      - Schwarz
+      - Brünette
+      réponse: Rotschopf
+      anecdote: Miranda ist Anwältin und ihre Karriere nimmt den wichtigsten Platz in ihrem Leben ein.
+    - id: 17
+      question: Wie viele Staffeln hat die von J.J. Abrams geschaffene Fernsehserie « Lost, the verschwunden » ?
+      propositions:
+      - Zwei
+      - Vier
+      - Acht
+      - Sechs
+      réponse: Sechs
+      anecdote: Obwohl J.
+    - id: 18
+      question: Wer ist Dawsons bester Freund in der gleichnamigen TV-Serie ?
+      propositions:
+      - Jack
+      - Pacey
+      - Dan
+      - Joey
+      réponse: Pacey
+      anecdote: Die « Dawson » Serie wurde von Kevin Williamson, dem Autor der « Scream » Trilogie, erstellt.
+    - id: 19
+      question: In welcher Fernsehserie spielt Angela Lansbury die Rolle von Jessica Fletcher ?
+      propositions:
+      - Freunde
+      - ER
+      - Medicopter
+      - Arabesque
+      réponse: Arabesque
+      anecdote: Die Rolle von Jessica Fletcher wurde in Bezug auf das Universum von Agatha Christie geschaffen.
+    - id: 20
+      question: In welcher Stadt finden die Abenteuer der « Desperate Housewives » statt ?
+      propositions:
+      - Glyzinien
+      - Chicago
+      - Fairview
+      - Los Angeles
+      réponse: Fairview
+      anecdote: Gerüchte über die Ankunft in der Serie von Courteney Cox und Kim Cattrall kursieren seit langem.
+  - expert:
+    - id: 21
+      question: Was ist die Rasse von Columbos Hund, dem sehr hartnäckigen und einfühlsamen Inspektor des Fernsehens ?
+      propositions:
+      - Barbet
+      - Basset
+      - Bichon
+      - Beagle
+      réponse: Basset
+      anecdote: 1978 unterbrochen, wurde die Fernsehserie « Columbo » 1989 wiederbelebt, immer noch mit Peter Falk in der Hauptrolle.
+    - id: 22
+      question: Wer spielt die Rolle von Präsident Bartlet in der Fernsehserie « Im Weißen Haus » ?
+      propositions:
+      - Gary Cole
+      - Rob Lowe
+      - Martin Sheen
+      - John Spencer
+      réponse: Martin Sheen
+      anecdote: Die Serie « Im Weißen Haus » zeigt das tägliche Leben eines demokratischen Präsidenten der Vereinigten Staaten.
+    - id: 23
+      question: Wer spielt Isabel Evans in der amerikanischen Fernsehserie « Roswell » ?
+      propositions:
+      - Shiri Appleby
+      - Katherine Heigl
+      - Mohn Montgomery
+      - Majandra Delfino
+      réponse: Katherine Heigl
+      anecdote: Die Romantik und das Geheimnis der ersten Staffel von « Roswell » sorgten für den Erfolg dieser Serie.
+    - id: 24
+      question: Wie lautet der Vorname von Fox Mulders Schwester in der Serie « X-Files » ?
+      propositions:
+      - Samantha
+      - Sarah
+      - Catherine
+      - Ann
+      réponse: Samantha
+      anecdote: Nach regressiver Hypnose wird sich Fox Mulder daran erinnern, was wirklich passiert ist.
+    - id: 25
+      question: Für welche Zivilisation wurde eine künstliche Sprache in der Welt von « Star Trek » geschaffen ?
+      propositions:
+      - Die Vulkanier
+      - Les Sylvidres
+      - Die Klingonen
+      - Die Romulaner
+      réponse: Die Klingonen
+      anecdote: Klingonen sind im Allgemeinen größere und stärkere Humanoide als Menschen.
+    - id: 26
+      question: Das erste Bild der Credits der « MacGyver » Serie zeigt eine Hand mit welchem Objekt ?
+      propositions:
+      - Ein Reisepass
+      - Ein Lederhandschuh
+      - Ein Feuerzeug
+      - Ein Schweizer Taschenmesser
+      réponse: Ein Reisepass
+      anecdote: Das Öko-Heimwerken wurde schnell zum Vorbild für eine ganze Generation von Fernsehzuschauern.
+    - id: 27
+      question: Wer ist der Schöpfer der erfolgreichen amerikanischen Fernsehserie « Alias » ?
+      propositions:
+      - J. J. Lionel
+      - J. J. Abrams
+      - J. J. Williams
+      - J. J. Morgan
+      réponse: J. J. Abrams
+      anecdote: J.J. Abrams ist ein international bekannter Filmschauspieler, Drehbuchautor, Regisseur und Produzent.
+    - id: 28
+      question: Wer interpretiert die Rolle von Ling in der amerikanischen Fernsehserie « Ally McBeal » ?
+      propositions:
+      - Debra Messing
+      - Linda Fiorentino
+      - Calista Flockhart
+      - Lucy Liu
+      réponse: Lucy Liu
+      anecdote: In der Serie wird Ling Woo, Nelles bester Freund, Mandant, Anwalt und dann Richter.
+    - id: 29
+      question: Welchen Sport spielt Lukas in der Fernsehserie « The Scottish Brothers » ?
+      propositions:
+      - Basketball
+      - Hockey
+      - Fußball
+      - Baseball
+      réponse: Basketball
+      anecdote: Ursprünglich sollte die Serie « Ravens » heißen, benannt nach dem Basketballteam der Tree Hill High School.
+    - id: 30
+      question: Wie heißt Buffys Familie in der Serie « Buffy the Vampire Slayer » ?
+      propositions:
+      - Sanders
+      - Bouwers
+      - Sommer
+      - Rogers
+      réponse: Sommer
+      anecdote: Buffy Summers ist eine Vampirjägerin aus einer langen Reihe von Auserwählten, die gegen die Mächte des Bösen kämpfen.
+  es:
+  - débutant:
+    - id: 1
+      question: ¿De qué color es la camiseta de salvavidas de la serie « Baywatch » ?
+      propositions:
+      - Rojo
+      - Amarillo
+      - Verde
+      - Azul
+      réponse: Rojo
+      anecdote: « Baywatch » sigue siendo hasta el día de hoy una de las series de televisión más vistas del mundo.
+    - id: 2
+      question: ¿En qué ciudad podemos encontrar al teniente Horatio Caine en las pantallas ?
+      propositions:
+      - Nueva York
+      - Las Vegas
+      - Miami
+      - Los Ángeles
+      réponse: Miami
+      anecdote: En la serie de televisión, su madre le habría dado su primer nombre en homenaje al escritor Horatio Alger.
+    - id: 3
+      question: ¿Para quién funcionan los « Drôles de dames », que se emitieron entre 1976 y 1981 en ABC ?
+      propositions:
+      - Charlie
+      - Bosley
+      - Tatoo
+      - Michael
+      réponse: Charlie
+      anecdote: Charlie Townsend casi nunca aparecerá en la pantalla, excepto cuando es secuestrado.
+    - id: 4
+      question: ¿Quién es el más fuerte de los héroes televisados de la famosa « Agencia All Risks » ?
+      propositions:
+      - Barracuda
+      - Bucle
+      - Hannibal
+      - Inteligente
+      réponse: Barracuda
+      anecdote: La serie « All Risks Agency » tuvo un final abrupto porque su producción se estaba volviendo cada vez más cara.
+    - id: 5
+      question: ¿Quién tiene el papel principal en la serie de televisión estadounidense « Dr House » ?
+      propositions:
+      - Kiefer Sutherland
+      - Hugh Laurie
+      - Matthew Fox
+      - Thomas Sarbacher
+      réponse: Hugh Laurie
+      anecdote: Grégory House, héroe de la serie, suele referirse a grupos, películas y series de televisión.
+    - id: 6
+      question: ¿Qué heroína de la serie de televisión « Mi amada bruja » está casada con Jean-Pierre ?
+      propositions:
+      - Tabatha
+      - Esmeralda
+      - Samantha
+      - Endora
+      réponse: Samantha
+      anecdote: Esta pareja estadounidense modelo también tiene dos hijos llamados Tabatha y Adam.
+    - id: 7
+      question: ¿En qué serie de televisión Wentworth Miller interpreta a Michael Scofield ?
+      propositions:
+      - Prison Break
+      - Dr House
+      - Lost
+      - Friends
+      réponse: Prison Break
+      anecdote: En la serie, Michael Scofield trama un plan de escape asombrosamente complejo para su hermano.
+    - id: 8
+      question: ¿Qué médico interpreta Georges Clooney en la serie de televisión « ER » ?
+      propositions:
+      - Dylan Creed
+      - Mark Green
+      - John Carter
+      - Douglas Ross
+      réponse: Douglas Ross
+      anecdote: El piloto de la serie fue filmado en un antiguo hospital abandonado por falta de tiempo.
+    - id: 9
+      question: ¿En qué pueblo vive la familia Ingalls en « La Petite Maison dans la prairie » ?
+      propositions:
+      - Dakota Springs
+      - Sailor Fields
+      - Walnut Grove
+      - Valle de Ingalls
+      réponse: Walnut Grove
+      anecdote: Los lugares más importantes de la serie « Little House on the Prairie » son Walnut-Grove, Sleepy Eye y Winoka.
+    - id: 10
+      question: ¿Cuál de estos personajes no es de la banda de amigos « Friends » ?
+      propositions:
+      - Chandler
+      - Ross
+      - Joey
+      - Matt
+      réponse: Matt
+      anecdote: La serie « Friends » cuenta la historia de diez años en la vida de seis amigos que viven juntos en Nueva York.
+  - confirmé:
+    - id: 11
+      question: ¿Cómo se llama el famoso coche que conducía David Hasselhoff en el « K2000 » ?
+      propositions:
+      - Katy
+      - Kytie
+      - Kate
+      - Kitt
+      réponse: Kitt
+      anecdote: Este coche puede pensar y hablar como un ser humano.
+    - id: 12
+      question: ¿Quién interpretó el papel de Donna Martin en la serie de televisión « Beverly Hills 90210 » ?
+      propositions:
+      - Hillary Swank
+      - Tori Spelling
+      - Jenny Garth
+      - Carol Potter
+      réponse: Tori Spelling
+      anecdote: « Beverly Hills 90210 » es una telenovela de televisión estadounidense que tiene 294 episodios de 44 minutos.
+    - id: 13
+      question: ¿En qué serie Aaron Hotchner atraviesa los pensamientos de los asesinos en serie ?
+      propositions:
+      - Mentes criminales
+      - Persona de interés
+      - Mentalista
+      - The Walking Dead
+      réponse: Mentes criminales
+      anecdote: Aaron Hotchner es interpretado por Thomas Gibson y expresado por Julien Kramer en versión francesa.
+    - id: 14
+      question: ¿Quién es la hermana mayor de las heroínas de la serie de televisión estadounidense « Charmed » ?
+      propositions:
+      - Buffy
+      - Prue
+      - Piper
+      - Paige
+      réponse: Prue
+      anecdote: La serie « Charmed » cuenta la historia de 3 hermanas que son las brujas más poderosas del mundo.
+    - id: 15
+      question: ¿En cuál de estas series de televisión encontramos un superhéroe ?
+      propositions:
+      - Le Caméléon
+      - Profiler
+      - Smallville
+      - Stargate
+      réponse: Smallville
+      anecdote: Esta serie de televisión de ciencia ficción estadounidense en 218 episodios de 42 minutos cuenta la historia de la juventud del futuro Superman.
+    - id: 16
+      question: ¿Cuál es el color del cabello de Miranda en « Sex and the City » ?
+      propositions:
+      - Rubia
+      - Negro
+      - Morena
+      - Pelirroja
+      réponse: Pelirroja
+      anecdote: Miranda es abogada y su carrera ocupa el lugar más importante de su vida.
+    - id: 17
+      question: ¿Cuántas temporadas tiene la serie de televisión « Perdidos, los desaparecidos » creada por J.J. Abrams ?
+      propositions:
+      - Cuatro
+      - Seis
+      - Ocho
+      - Dos
+      réponse: Seis
+      anecdote: Aunque dudó al principio, J.
+    - id: 18
+      question: ¿Quién es el mejor amigo de Dawson en la serie de televisión del mismo nombre ?
+      propositions:
+      - Dan
+      - Pacey
+      - Joey
+      - Jack
+      réponse: Pacey
+      anecdote: La serie « Dawson » fue creada por Kevin Williamson, el autor de la trilogía « Scream ».
+    - id: 19
+      question: ¿En qué serie de televisión Angela Lansbury interpreta el papel de Jessica Fletcher ?
+      propositions:
+      - ER
+      - Medicopter
+      - Arabesco
+      - Amigos
+      réponse: Arabesco
+      anecdote: El papel de Jessica Fletcher se creó con referencia al universo de Agatha Christie.
+    - id: 20
+      question: ¿En qué ciudad tienen lugar las aventuras de las « Desperate Housewives » ?
+      propositions:
+      - Chicago
+      - Fairview
+      - Wisteria
+      - Los Ángeles
+      réponse: Fairview
+      anecdote: Hace tiempo que circulan rumores sobre la llegada a la serie de Courteney Cox y Kim Cattrall.
+  - expert:
+    - id: 21
+      question: ¿Cuál es la raza del perro de Columbo, el muy obstinado y perceptivo inspector de televisión ?
+      propositions:
+      - Bichon
+      - Barbet
+      - Beagle
+      - Basset
+      réponse: Basset
+      anecdote: Interrumpida en 1978, la serie de televisión « Columbo » fue revivida en 1989, aún con Peter Falk en el papel principal.
+    - id: 22
+      question: ¿Quién interpreta el papel del presidente Bartlet en la serie de televisión « En la Casa Blanca » ?
+      propositions:
+      - John Spencer
+      - Rob Lowe
+      - Gary Cole
+      - Martin Sheen
+      réponse: Martin Sheen
+      anecdote: La serie « En la Casa Blanca » presenta la vida diaria de un presidente demócrata de Estados Unidos.
+    - id: 23
+      question: ¿Quién interpreta a Isabel Evans en la serie de televisión estadounidense « Roswell » ?
+      propositions:
+      - Majandra Delfino
+      - Shiri Appleby
+      - Poppy Montgomery
+      - Katherine Heigl
+      réponse: Katherine Heigl
+      anecdote: El romance y el misterio de la primera temporada de « Roswell » aseguraron el éxito de esta serie.
+    - id: 24
+      question: En la serie « Expediente X », ¿cuál es el nombre de pila de la hermana de Fox Mulder ?
+      propositions:
+      - Sarah
+      - Ann
+      - Catherine
+      - Samantha
+      réponse: Samantha
+      anecdote: Es después de la hipnosis regresiva que Fox Mulder recordará lo que realmente sucedió.
+    - id: 25
+      question: ¿Para qué civilización se creó un lenguaje artificial en el mundo de « Star Trek » ?
+      propositions:
+      - Les Sylvidres
+      - Los klingon
+      - Los vulcanos
+      - Los romulanos
+      réponse: Los klingon
+      anecdote: Los klingon son generalmente humanoides más grandes y más fuertes que los humanos.
+    - id: 26
+      question: ¿La primera imagen de los créditos de la serie « MacGyver » muestra una mano con qué objeto ?
+      propositions:
+      - Una navaja suiza
+      - Un guante de cuero
+      - Un pasaporte
+      - Un encendedor
+      réponse: Un pasaporte
+      anecdote: El eco-bricolaje se convirtió rápidamente en modelo para toda una generación de televidentes.
+    - id: 27
+      question: ¿Quién es el creador de la exitosa serie de televisión estadounidense « Alias » ?
+      propositions:
+      - J.J. Lionel
+      - J.J. Abrams
+      - J.J. Morgan
+      - J.J. Williams
+      réponse: J.J. Abrams
+      anecdote: J.J. Abrams es un actor, guionista, director y productor de cine de renombre internacional.
+    - id: 28
+      question: ¿Quién interpreta el papel de Ling en la serie de televisión estadounidense « Ally McBeal » ?
+      propositions:
+      - Calista Flockhart
+      - Debra Messing
+      - Linda Fiorentino
+      - Lucy Liu
+      réponse: Lucy Liu
+      anecdote: En la serie, Ling Woo, el mejor amigo de Nelle, se convertirá en cliente, abogado y luego juez.
+    - id: 29
+      question: ¿Qué deporte juega Lukas en la serie de televisión « The Scottish Brothers » ?
+      propositions:
+      - Fútbol ","Le football
+      - Béisbol ","Le baseball
+      - Hockey
+      - Baloncesto
+      réponse: Baloncesto
+      anecdote: Originalmente, la serie se llamaría « Ravens », en honor al equipo de baloncesto de Tree Hill High School.
+    - id: 30
+      question: ¿Cuál es el nombre de la familia de Buffy en la serie « Buffy the Vampire Slayer » ?
+      propositions:
+      - Bouwers
+      - Veranos
+      - Rogers
+      - Sanders
+      réponse: Veranos
+      anecdote: Buffy Summers es una cazavampiros de una larga línea de Chosen Fighting contra las fuerzas del mal.
+  it:
+  - débutant:
+    - id: 1
+      question: Qual è il colore della maglia dei bagnini della serie « Baywatch » ?
+      propositions:
+      - Rosso
+      - Giallo
+      - Verde
+      - Blu
+      réponse: Rosso
+      anecdote: « Baywatch » rimane fino ad oggi una delle serie televisive più viste al mondo.
+    - id: 2
+      question: In quale città possiamo trovare il tenente Horatio Caine sugli schermi ?
+      propositions:
+      - New York
+      - Los Angeles
+      - Las Vegas
+      - Miami
+      réponse: Miami
+      anecdote: Nella serie televisiva, sua madre gli avrebbe dato il suo nome in omaggio allo scrittore Horatio Alger.
+    - id: 3
+      question: Per chi lavora le « Drôles de dames », trasmesse tra il 1976 e il 1981 sulla ABC ?
+      propositions:
+      - Bosley
+      - Charlie
+      - Michael
+      - Tatoo
+      réponse: Charlie
+      anecdote: Charlie Townsend non apparirà quasi mai sullo schermo, tranne quando viene rapito.
+    - id: 4
+      question: Chi è il più forte degli eroi televisivi della famosa « All Risks Agency » ?
+      propositions:
+      - Annibale
+      - Barracuda
+      - Looping
+      - Intelligente
+      réponse: Barracuda
+      anecdote: La serie « All Risks Agency » terminò bruscamente perché la sua produzione stava diventando sempre più costosa.
+    - id: 5
+      question: Chi ha il ruolo principale nella serie televisiva americana « Dr House » ?
+      propositions:
+      - Matthew Fox
+      - Hugh Laurie
+      - Thomas Sarbacher
+      - Kiefer Sutherland
+      réponse: Hugh Laurie
+      anecdote: Grégory House, eroe della serie, fa spesso riferimento a gruppi, film e serie televisive.
+    - id: 6
+      question: Quale eroina della serie televisiva « La mia amata strega » è sposata con Jean-Pierre ?
+      propositions:
+      - Esmeralda
+      - Samantha
+      - Tabatha
+      - Endora
+      réponse: Samantha
+      anecdote: Questa coppia americana modello ha anche due figli di nome Tabatha e Adam.
+    - id: 7
+      question: In quale serie televisiva Wentworth Miller interpreta Michael Scofield ?
+      propositions:
+      - Lost
+      - Friends
+      - Dr House
+      - Prison Break
+      réponse: Prison Break
+      anecdote: Nella serie, Michael Scofield escogita un piano di fuga incredibilmente complesso per suo fratello.
+    - id: 8
+      question: Quale medico interpreta Georges Clooney nella serie televisiva « ER » ?
+      propositions:
+      - Douglas Ross
+      - John Carter
+      - Dylan Creed
+      - Mark Green
+      réponse: Douglas Ross
+      anecdote: Il pilot della serie è stato girato in un vecchio ospedale abbandonato per mancanza di tempo.
+    - id: 9
+      question: In quale villaggio vive la famiglia Ingalls « La Petite Maison dans la prairie » ?
+      propositions:
+      - Walnut Grove
+      - Sailor Fields
+      - Valle di Ingalls
+      - Dakota Springs
+      réponse: Walnut Grove
+      anecdote: I luoghi più importanti della serie « Little House on the Prairie » sono Walnut-Grove, Sleepy Eye e Winoka.
+    - id: 10
+      question: Quale di questi personaggi non appartiene alla banda di amici di « Friends » ?
+      propositions:
+      - Chandler
+      - Joey
+      - Ross
+      - Matt
+      réponse: Matt
+      anecdote: La serie « Friends » racconta la storia di dieci anni nella vita di sei amici che vivono insieme a New York.
+  - confirmé:
+    - id: 11
+      question: Qual è il nome della famosa macchina che David Hasselhoff guidava nel « K2000 » ?
+      propositions:
+      - Kitt
+      - Kate
+      - Katy
+      - Kytie
+      réponse: Kitt
+      anecdote: Questa macchina è in grado di pensare e parlare come un essere umano.
+    - id: 12
+      question: Chi ha interpretato il ruolo di Donna Martin nella serie televisiva « Beverly Hills 90210 » ?
+      propositions:
+      - Tori Spelling
+      - Carol Potter
+      - Hillary Swank
+      - Jenny Garth
+      réponse: Tori Spelling
+      anecdote: « Beverly Hills 90210 » è una soap opera televisiva americana che ha 294 episodi di 44 minuti.
+    - id: 13
+      question: In quale serie Aaron Hotchner trafigge i pensieri dei serial killer ?
+      propositions:
+      - Menti criminali
+      - The Walking Dead
+      - Mentalista
+      - Persona di interesse
+      réponse: Menti criminali
+      anecdote: Aaron Hotchner è interpretato da Thomas Gibson e doppiato da Julien Kramer in versione francese.
+    - id: 14
+      question: Chi è la sorella maggiore delle eroine della serie televisiva americana « Charmed » ?
+      propositions:
+      - Paige
+      - Piper
+      - Prue
+      - Buffy
+      réponse: Prue
+      anecdote: La serie « Charmed » racconta la storia di 3 sorelle che sono le streghe più potenti del mondo.
+    - id: 15
+      question: In quale di queste serie televisive troviamo un supereroe ?
+      propositions:
+      - Profiler
+      - Le Caméléon
+      - Stargate
+      - Smallville
+      réponse: Smallville
+      anecdote: Questa serie televisiva di fantascienza americana in 218 episodi di 42 minuti racconta la storia dei giovani del futuro Superman.
+    - id: 16
+      question: Qual è il colore dei capelli di Miranda in « Sex and the City » ?
+      propositions:
+      - Rossa
+      - Bionda
+      - Nero
+      - Bruna
+      réponse: Rossa
+      anecdote: Miranda è un avvocato e la sua carriera occupa il posto più importante della sua vita.
+    - id: 17
+      question: Quante stagioni ha la serie televisiva « Lost, lo scomparso » creata da J.J. Abrams ?
+      propositions:
+      - Otto
+      - Sei
+      - Quattro
+      - Due
+      réponse: Sei
+      anecdote: Sebbene all'inizio esitante, J.
+    - id: 18
+      question: Chi è il migliore amico di Dawson nella serie TV con lo stesso nome ?
+      propositions:
+      - Jack
+      - Joey
+      - Dan
+      - Pacey
+      réponse: Pacey
+      anecdote: La serie « Dawson » è stata creata da Kevin Williamson, l'autore della trilogia « Scream ».
+    - id: 19
+      question: In quale serie televisiva Angela Lansbury interpreta il ruolo di Jessica Fletcher ?
+      propositions:
+      - Arabesco
+      - Medicopter
+      - Amici
+      - ER
+      réponse: Arabesco
+      anecdote: Il ruolo di Jessica Fletcher è stato creato con riferimento all'universo di Agatha Christie.
+    - id: 20
+      question: In quale città si svolgono le avventure delle « Desperate Housewives » ?
+      propositions:
+      - Wisteria
+      - Fairview
+      - Chicago
+      - Los Angeles
+      réponse: Fairview
+      anecdote: Da tempo circolano voci sull'arrivo nella serie di Courteney Cox e Kim Cattrall.
+  - expert:
+    - id: 21
+      question: Qual è la razza del cane di Columbo, l'ispettore molto ostinato e percettivo della televisione ?
+      propositions:
+      - Bichon
+      - Beagle
+      - Basset
+      - Barbet
+      réponse: Basset
+      anecdote: Interrotta nel 1978, la serie televisiva « Columbo » fu ripresa nel 1989, sempre con Peter Falk nel ruolo principale.
+    - id: 22
+      question: Chi interpreta il presidente Bartlet nella serie televisiva « Alla Casa Bianca » ?
+      propositions:
+      - Martin Sheen
+      - Gary Cole
+      - Rob Lowe
+      - John Spencer
+      réponse: Martin Sheen
+      anecdote: La serie « Alla Casa Bianca » presenta la vita quotidiana di un presidente democratico degli Stati Uniti.
+    - id: 23
+      question: Chi interpreta Isabel Evans nella serie televisiva americana « Roswell » ?
+      propositions:
+      - Poppy Montgomery
+      - Katherine Heigl
+      - Majandra Delfino
+      - Shiri Appleby
+      réponse: Katherine Heigl
+      anecdote: Il romanticismo e il mistero della prima stagione di « Roswell » hanno assicurato il successo di questa serie.
+    - id: 24
+      question: Nella serie « X-Files », qual è il primo nome della sorella di Fox Mulder ?
+      propositions:
+      - Samantha
+      - Ann
+      - Sarah
+      - Catherine
+      réponse: Samantha
+      anecdote: È dopo l'ipnosi regressiva che Fox Mulder ricorderà cosa è realmente accaduto.
+    - id: 25
+      question: Per quale civiltà è stato creato un linguaggio artificiale nel mondo di « Star Trek » ?
+      propositions:
+      - I Klingon
+      - I Vulcaniani
+      - Les Sylvidres
+      - I Romulani
+      réponse: I Klingon
+      anecdote: I Klingon sono generalmente umanoidi più grandi e più forti degli umani.
+    - id: 26
+      question: La prima immagine dei crediti della serie « MacGyver » mostra una mano con quale oggetto ?
+      propositions:
+      - Un guanto di pelle
+      - Un coltellino svizzero
+      - Un passaporto
+      - Un accendino
+      réponse: Un passaporto
+      anecdote: L'eco-fai-da-te è diventato rapidamente il modello per un'intera generazione di telespettatori.
+    - id: 27
+      question: Chi è il creatore della serie televisiva americana di successo « Alias » ?
+      propositions:
+      - J.J. Lionel
+      - J.J. Williams
+      - J.J. Morgan
+      - J.J. Abrams
+      réponse: J.J. Abrams
+      anecdote: J.J. Abrams è un attore, sceneggiatore, regista e produttore di fama internazionale.
+    - id: 28
+      question: Chi interpreta il ruolo di Ling nella serie televisiva americana « Ally McBeal » ?
+      propositions:
+      - Calista Flockhart
+      - Debra Messing
+      - Lucy Liu
+      - Linda Fiorentino
+      réponse: Lucy Liu
+      anecdote: Nella serie, Ling Woo, la migliore amica di Nelle, diventerà cliente, avvocato e poi giudice.
+    - id: 29
+      question: Che sport pratica Lukas nella serie TV « The Scottish Brothers » ?
+      propositions:
+      - Hockey
+      - Calcio
+      - Basket
+      - Baseball
+      réponse: Basket
+      anecdote: In origine, la serie doveva chiamarsi « Ravens », dal nome della squadra di basket della Tree Hill High School.
+    - id: 30
+      question: Qual è il nome della famiglia di Buffy nella serie « Buffy the Vampire Slayer » ?
+      propositions:
+      - Summers
+      - Rogers
+      - Sanders
+      - Bouwers
+      réponse: Summers
+      anecdote: Buffy Summers è un'uccisore di vampiri da una lunga serie di Chosen Fighting contro le forze del male.
+  nl:
+  - débutant:
+    - id: 1
+      question: Wat is de kleur van de strandwachten uit de serie « Baywatch » ?
+      propositions:
+      - Geel
+      - Blauw
+      - Groen
+      - Rood
+      réponse: Rood
+      anecdote: « Baywatch » blijft tot op de dag van vandaag een van de meest bekeken televisieseries ter wereld.
+    - id: 2
+      question: In welke stad kunnen we luitenant Horatio Caine op de schermen vinden ?
+      propositions:
+      - New York
+      - Las Vegas
+      - Miami
+      - Los Angeles
+      réponse: Miami
+      anecdote: In de televisieserie zou zijn moeder hem zijn voornaam hebben gegeven als eerbetoon aan de schrijver Horatio Alger.
+    - id: 3
+      question: Voor wie werken de « Drôles de dames », die tussen 1976 en 1981 op ABC werd uitgezonden ?
+      propositions:
+      - Tatoo
+      - Charlie
+      - Bosley
+      - Michael
+      réponse: Charlie
+      anecdote: Charlie Townsend zal bijna nooit op het scherm verschijnen, behalve wanneer hij wordt ontvoerd.
+    - id: 4
+      question: Wie is de sterkste van de helden op televisie van het beroemde « All Risks Agency » ?
+      propositions:
+      - Looping
+      - Slim
+      - Hannibal
+      - Barracuda
+      réponse: Barracuda
+      anecdote: De serie « All Risks Agency » kwam abrupt tot een einde omdat de productie ervan steeds duurder werd.
+    - id: 5
+      question: Wie heeft de hoofdrol in de Amerikaanse televisieserie « Dr House » ?
+      propositions:
+      - Thomas Sarbacher
+      - Hugh Laurie
+      - Matthew Fox
+      - Kiefer Sutherland
+      réponse: Hugh Laurie
+      anecdote: Grégory House, held van de serie, verwijst vaak naar groepen, films en televisieseries.
+    - id: 6
+      question: Welke heldin uit de televisieserie « Mijn geliefde heks » is getrouwd met Jean-Pierre ?
+      propositions:
+      - Endora
+      - Esmeralda
+      - Samantha
+      - Tabatha
+      réponse: Samantha
+      anecdote: Dit Amerikaanse model echtpaar heeft ook twee kinderen genaamd Tabatha en Adam.
+    - id: 7
+      question: In welke televisieserie speelt Wentworth Miller Michael Scofield ?
+      propositions:
+      - Dr House
+      - Lost
+      - Friends
+      - Prison Break
+      réponse: Prison Break
+      anecdote: In de serie bedenkt Michael Scofield een verbluffend complex ontsnappingsplan voor zijn broer.
+    - id: 8
+      question: Welke dokter speelt Georges Clooney in de televisieserie « ER » ?
+      propositions:
+      - John Carter
+      - Douglas Ross
+      - Dylan Creed
+      - Mark Green
+      réponse: Douglas Ross
+      anecdote: De pilot van de serie werd bij gebrek aan tijd gefilmd in een oud verlaten ziekenhuis.
+    - id: 9
+      question: In welk dorp woont de familie Ingalls in « La Petite Maison dans la prairie » ?
+      propositions:
+      - Dakota Springs
+      - Walnut Grove
+      - Sailor Fields
+      - Ingalls Valley
+      réponse: Walnut Grove
+      anecdote: De belangrijkste locaties in de serie « Little House on the Prairie » zijn Walnut-Grove, Sleepy Eye en Winoka.
+    - id: 10
+      question: Welke van deze personages komt niet uit de vriendengroep « Friends » ?
+      propositions:
+      - Matt
+      - Chandler
+      - Ross
+      - Joey
+      réponse: Matt
+      anecdote: De serie « Friends » vertelt het verhaal van tien jaar uit het leven van zes vrienden die samenwonen in New York.
+  - confirmé:
+    - id: 11
+      question: Wat is de naam van de beroemde auto waarin David Hasselhoff reed in « K2000 » ?
+      propositions:
+      - Katy
+      - Kate
+      - Kytie
+      - Kitt
+      réponse: Kitt
+      anecdote: Deze auto kan denken en spreken als een mens.
+    - id: 12
+      question: Wie speelde de rol van Donna Martin in de televisieserie « Beverly Hills 90210 » ?
+      propositions:
+      - Tori Spelling
+      - Hillary Swank
+      - Jenny Garth
+      - Carol Potter
+      réponse: Tori Spelling
+      anecdote: « Beverly Hills 90210 » is een Amerikaanse televisiesoap met 294 afleveringen van 44 minuten.
+    - id: 13
+      question: In welke serie doordringt Aaron Hotchner de gedachten van seriemoordenaars ?
+      propositions:
+      - Persoon van belang
+      - Mentalist
+      - The Walking Dead
+      - Criminal minds
+      réponse: Criminal minds
+      anecdote: Aaron Hotchner wordt vertolkt door Thomas Gibson en ingesproken door Julien Kramer in de Franse versie.
+    - id: 14
+      question: Wie is de oudere zus van de heldinnen van de Amerikaanse televisieserie « Charmed » ?
+      propositions:
+      - Buffy
+      - Paige
+      - Prue
+      - Piper
+      réponse: Prue
+      anecdote: De serie « Charmed » vertelt het verhaal van 3 zussen die de machtigste heksen ter wereld zijn.
+    - id: 15
+      question: In welke van deze televisieseries vinden we een superheld ?
+      propositions:
+      - Profiler
+      - Le Caméléon
+      - Smallville
+      - Stargate
+      réponse: Smallville
+      anecdote: Deze Amerikaanse sciencefiction-televisieserie in 218 afleveringen van 42 minuten vertelt het verhaal van de jeugd van de toekomstige Superman.
+    - id: 16
+      question: Wat is de kleur van Miranda's haar in « Sex and the City » ?
+      propositions:
+      - Zwart
+      - Blond
+      - Brunette
+      - Roodharige
+      réponse: Roodharige
+      anecdote: Miranda is advocaat en haar carrière neemt de belangrijkste plaats in haar leven in.
+    - id: 17
+      question: Hoeveel seizoenen heeft de televisieserie « Lost, the verdwenen » gemaakt door J.J. Abrams ?
+      propositions:
+      - Zes
+      - Twee
+      - Vier
+      - Acht
+      réponse: Zes
+      anecdote: Hoewel hij aanvankelijk aarzelend was, was J.
+    - id: 18
+      question: Wie is de beste vriend van Dawson in de tv-serie met dezelfde naam ?
+      propositions:
+      - Dan
+      - Jack
+      - Pacey
+      - Joey
+      réponse: Pacey
+      anecdote: De « Dawson » serie is gemaakt door Kevin Williamson, de auteur van de « Scream » trilogie.
+    - id: 19
+      question: In welke televisieserie speelt Angela Lansbury de rol van Jessica Fletcher ?
+      propositions:
+      - Vrienden
+      - Arabesque
+      - ER
+      - Medicopter
+      réponse: Arabesque
+      anecdote: De rol van Jessica Fletcher is gemaakt met verwijzing naar het universum van Agatha Christie.
+    - id: 20
+      question: In welke stad vinden de avonturen van de « Desperate Housewives » plaats ?
+      propositions:
+      - Los Angeles
+      - Blauweregen
+      - Fairview
+      - Chicago
+      réponse: Fairview
+      anecdote: Geruchten doen de ronde over de komst in de serie Courteney Cox en Kim Cattrall.
+  - expert:
+    - id: 21
+      question: Wat is het ras van Columbo's hond, de zeer koppige en opmerkzame inspecteur van televisie ?
+      propositions:
+      - Beagle
+      - Bichon
+      - Basset
+      - Barbet
+      réponse: Basset
+      anecdote: Onderbroken in 1978, werd de televisieserie « Columbo » nieuw leven ingeblazen in 1989, nog steeds met Peter Falk in de hoofdrol.
+    - id: 22
+      question: Wie speelt president Bartlet in de televisieserie « At the White House » ?
+      propositions:
+      - John Spencer
+      - Gary Cole
+      - Martin Sheen
+      - Rob Lowe
+      réponse: Martin Sheen
+      anecdote: De serie « At the White House » gaat over het dagelijkse leven van een democratische president van de Verenigde Staten.
+    - id: 23
+      question: Wie speelt Isabel Evans in de Amerikaanse televisieserie « Roswell » ?
+      propositions:
+      - Majandra Delfino
+      - Klaproos Montgomery
+      - Shiri Appleby
+      - Katherine Heigl
+      réponse: Katherine Heigl
+      anecdote: De romantiek en het mysterie van het eerste seizoen van « Roswell » zorgden voor het succes van deze serie.
+    - id: 24
+      question: Wat is de voornaam van de zus van Fox Mulder in de serie « X-Files » ?
+      propositions:
+      - Catherine
+      - Samantha
+      - Ann
+      - Sarah
+      réponse: Samantha
+      anecdote: Het is na regressieve hypnose dat Fox Mulder zich zal herinneren wat er werkelijk is gebeurd.
+    - id: 25
+      question: Voor welke beschaving is een kunstmatige taal gecreëerd in de wereld van « Star Trek » ?
+      propositions:
+      - De Romulans
+      - Les Sylvidres
+      - De Vulcans
+      - De Klingons
+      réponse: De Klingons
+      anecdote: Klingons zijn over het algemeen grotere en sterkere mensachtigen dan mensen.
+    - id: 26
+      question: De eerste afbeelding van de aftiteling van de « MacGyver » serie toont een hand met welk object ?
+      propositions:
+      - Een aansteker
+      - Een paspoort
+      - Een leren handschoen
+      - Een Zwitsers zakmes
+      réponse: Een paspoort
+      anecdote: De eco-DIY werd al snel het model voor een hele generatie televisiekijkers.
+    - id: 27
+      question: Wie is de maker van de populaire Amerikaanse televisieserie « Alias » ?
+      propositions:
+      - J.J. Morgan
+      - J.J. Williams
+      - J.J. Abrams
+      - J.J. Lionel
+      réponse: J.J. Abrams
+      anecdote: J.J. Abrams is een internationaal bekende filmacteur, scenarioschrijver, regisseur en producent.
+    - id: 28
+      question: Wie speelt de rol van Ling in de Amerikaanse televisieserie « Ally McBeal » ?
+      propositions:
+      - Lucy Liu
+      - Debra Messing
+      - Calista Flockhart
+      - Linda Fiorentino
+      réponse: Lucy Liu
+      anecdote: In de serie wordt Ling Woo, de beste vriend van Nelle, cliënt, advocaat en vervolgens rechter.
+    - id: 29
+      question: Welke sport speelt Lukas in de tv-serie « The Scottish Brothers » ?
+      propositions:
+      - Voetbal
+      - Honkbal
+      - Basketbal
+      - IJshockey
+      réponse: Basketbal
+      anecdote: Oorspronkelijk zou de serie « Ravens » heten, genoemd naar het basketbalteam van Tree Hill High School.
+    - id: 30
+      question: Hoe heet de familie van Buffy in de serie « Buffy the Vampire Slayer » ?
+      propositions:
+      - Zomers
+      - Rogers
+      - Bouwers
+      - Sanders
+      réponse: Zomers
+      anecdote: Buffy Summers is een vampiermoordenaar uit een lange reeks uitverkoren gevechten tegen de krachten van het kwaad.

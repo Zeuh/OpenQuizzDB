@@ -1,0 +1,1650 @@
+---
+fournisseur: OpenQuizzDB - Fournisseur de contenu libre (https://www.openquizzdb.org)
+rédacteur: Philippe Bresoux
+thème: Maquillage (Pinceaux, gloss et mascara)
+difficulté: 2 / 5
+quizz:
+  fr:
+  - débutant:
+    - id: 1
+      question: Quel autre nom plus branché donne-t-on aujourd'hui au brillant à lèvres ?
+      propositions:
+      - Blush
+      - Fard
+      - Gloss
+      - Correcteur
+      réponse: Gloss
+      anecdote: Le gloss existe en versions colorées ou non, irisées ou non. Teinté, il peut éventuellement remplacer le rouge à lèvres.
+    - id: 2
+      question: Laquelle de ces crèmes est jugée indispensable avant tout produit appliqué sur la peau ?
+      propositions:
+      - Chantilly
+      - Hydratante
+      - Solaire
+      - Brûlée
+      réponse: Hydratante
+      anecdote: La crème hydratante permet d'éviter les taches disgracieuses de fond de teint aux endroits où la peau est la plus sèche.
+    - id: 3
+      question: Quel produit sert à unifier le teint et à couvrir les défauts minimes de la peau ?
+      propositions:
+      - Correcteur
+      - Khôl
+      - Baume
+      - Fond de teint
+      réponse: Fond de teint
+      anecdote: La couleur du fond de teint doit être la plus proche de la couleur naturelle de la peau pour éviter le risque de démarcations.
+    - id: 4
+      question: Quelle base peut être utile si la peau a tendance à briller au cours de la journée ?
+      propositions:
+      - Stagnante
+      - Collante
+      - Matifiante
+      - Luisante
+      réponse: Matifiante
+      anecdote: D'autre part, des papiers matifiants permettent d'absorber le sébum excédentaire avant, par exemple, une retouche.
+    - id: 5
+      question: Lequel de ces produits de maquillage sert à souligner le regard ?
+      propositions:
+      - Lisseur
+      - Protecteur
+      - Eye-liner
+      - Correcteur
+      réponse: Eye-liner
+      anecdote: L'utilisation de l'eye-liner diffère un peu selon la texture : on tire un trait continu du coin interne de l'oeil jusqu'au coin externe.
+    - id: 6
+      question: Avec quoi ouvre-t-on le regard en recourbant et en allongeant les cils ?
+      propositions:
+      - Fard
+      - Blush
+      - Mascara
+      - Gloss
+      réponse: Mascara
+      anecdote: Le mascara se pose en regardant vers le bas, en plaçant la brosse à la base des cils et en remontant le long des cils.
+    - id: 7
+      question: Quel objet utilise-t-on pour redessiner la courbe du sourcil ?
+      propositions:
+      - Crayon
+      - Stylo
+      - Gomme
+      - Ciseaux
+      réponse: Crayon
+      anecdote: Pour combler d'éventuels trous dans le sourcil, il convient de dessiner au moyen d'un crayon de petits traits en imitant les poils.
+    - id: 8
+      question: Quel nom de marque était autrefois utilisé dans le langage usuel pour parler de mascara ?
+      propositions:
+      - Rimmel
+      - Clarins
+      - Bourjois
+      - Sephora
+      réponse: Rimmel
+      anecdote: Le Rimmel est un produit cosmétique créé en 1880 par Eugène Rimmel et permettant de surligner les yeux.
+    - id: 9
+      question: Quel objet de maquillage empêche efficacement le rouge à lèvres de filer ?
+      propositions:
+      - Crayon à lèvres
+      - Eye-liner
+      - Vernis
+      - Brillant à lèvres
+      réponse: Crayon à lèvres
+      anecdote: Il faut choisir un crayon à lèvres neutre et plus clair que le rouge à lèvres, car idéalement, il doit être invisible.
+    - id: 10
+      question: Quel nom est généralement donné à la peinture corporelle, parfois assimilée au maquillage ?
+      propositions:
+      - Land art
+      - Khôl
+      - Body-painting
+      - Natural art
+      réponse: Body-painting
+      anecdote: Plusieurs festivals sont consacrés au body-painting, dont celui de Seeboden en Autriche et celui de Bruxelles en Belgique.
+  - confirmé:
+    - id: 11
+      question: En maquillage, comment appelle-t-on aussi le fard à joues ?
+      propositions:
+      - Gloss
+      - Fluide
+      - Rimmel
+      - Blush
+      réponse: Blush
+      anecdote: La pose la plus courante et la plus simple du fard à joues consiste à sourire exagérément et de poser le fard sur les pommettes.
+    - id: 12
+      question: Quel produit constitue théoriquement la touche finale du maquillage ?
+      propositions:
+      - Rouge à lèvres
+      - Fard à joue
+      - Fond de teint
+      - Mascara
+      réponse: Rouge à lèvres
+      anecdote: Si les yeux sont déjà fort maquillés, mieux vaut choisir des teintes de rouge à lèvres neutres, naturelles et discrètes.
+    - id: 13
+      question: Depuis quelle période de notre histoire le maquillage rituel a-t-il été utilisé ?
+      propositions:
+      - Renaissance
+      - Préhistoire
+      - Antiquité
+      - Moyen Âge
+      réponse: Préhistoire
+      anecdote: Le maquillage était probablement utilisé pour pratiquer des rites chamaniques, des cultes funéraires ou de la fertilité.
+    - id: 14
+      question: Quel crayon est spécifiquement conçu pour maquiller l'intérieur de l'oeil ?
+      propositions:
+      - Mascara
+      - Rimmel
+      - Gloss
+      - Khôl
+      réponse: Khôl
+      anecdote: Des intoxications graves par le plomb sont encore constatées à la suite de l'usage de khôl au sulfure de plomb.
+    - id: 15
+      question: Laquelle de ces propositions ne désigne pas une forme de fond de teint ?
+      propositions:
+      - Biche
+      - Fluide
+      - Mousse
+      - Stick
+      réponse: Biche
+      anecdote: En aucun cas, le fond de teint (qui permet d'unifier le teint de la peau) ne sert à avoir l'air bronzé.
+    - id: 16
+      question: Lequel de ces produits permet l'hydratation, la protection et la tonification de la peau ?
+      propositions:
+      - Poudre
+      - Gloss
+      - Eye-liner
+      - BB crème
+      réponse: BB crème
+      anecdote: La BB Crème, alias Blemish Baume, est un produit originaire d'Allemagne initialement utilisé par les dermatologues.
+    - id: 17
+      question: En maquillage, quel autre nom donne-t-on aussi à l'anti-cernes ?
+      propositions:
+      - Eye-liner
+      - Correcteur
+      - Corrigeur
+      - Cerneur
+      réponse: Correcteur
+      anecdote: Le vert est supposé camoufler les rougeurs diffuses du visage, et l'orange le bleu des hématomes ou des veines faciales.
+    - id: 18
+      question: Quel produit est principalement utilisé pour hydrater et surtout protéger les lèvres ?
+      propositions:
+      - Gel
+      - Beurre
+      - Baume
+      - Savon
+      réponse: Baume
+      anecdote: Le substantif féminin pommade vient du fait que les anciennes pommades étaient aromatisées à la pomme d'api.
+    - id: 19
+      question: Comment qualifie-t-on un maquillage réalisé par tatouage ?
+      propositions:
+      - Grandissant
+      - Permanent
+      - Décevant
+      - Indécent
+      réponse: Permanent
+      anecdote: Cette pigmentation de la peau a la particularité d'être pérenne : elle se maintient plusieurs années.
+    - id: 20
+      question: Produit encore assez récent, de quel pays vient le gloss ou brillant à lèvres ?
+      propositions:
+      - Japon
+      - Espagne
+      - France
+      - États-Unis
+      réponse: États-Unis
+      anecdote: Plus liquide que le rouge à lèvres, le gloss est généralement présenté sous forme de gel en tube ou sous forme de baume.
+  - expert:
+    - id: 21
+      question: Quel produit de maquillage a pour effet d'imiter le bronzage et de donner meilleure mine ?
+      propositions:
+      - Eau italienne
+      - Baume anglais
+      - Sel irlandais
+      - Terre indienne
+      réponse: Terre indienne
+      anecdote: L'erreur la plus courante est de mettre la terre indienne sur tout le visage, l'idéal étant d'en appliquer sur les endroits où le soleil tape.
+    - id: 22
+      question: Quel était en 2019 le premier site de vente en ligne cosmétique en France ?
+      propositions:
+      - Clinique
+      - Clarins
+      - L'Oréal
+      - Yves Rocher
+      réponse: Yves Rocher
+      anecdote: Yves Rocher est une entreprise propriété du groupe Yves Rocher et compte 1 700 boutiques dont 650 en France.
+    - id: 23
+      question: En quelle année James Bruce Mason a-t-il fait breveter le rouge à lèvres pivotant ?
+      propositions:
+      - 1938
+      - 1952
+      - 1947
+      - 1923
+      réponse: 1923
+      anecdote: Avant cette date, en 1915, Maurice Lévy, un inventeur américain, a déposé le brevet du tube à système coulissant.
+    - id: 24
+      question: Dans l'Égypte ancienne, que pouvaient invoquer les fards à paupières verts ?
+      propositions:
+      - Méditation
+      - Protection
+      - Domination
+      - Destruction
+      réponse: Protection
+      anecdote: Les fards à paupières verts (wadju) pouvaient invoquer la protection d'Hathor, la déesse des festivités et de l'amour.
+    - id: 25
+      question: Quelle marque a développé les premiers vernis à ongles colorés opaques longue tenue ?
+      propositions:
+      - Maybelline
+      - Revlon
+      - Benefit
+      - Kiko
+      réponse: Revlon
+      anecdote: En 1950, les couleurs des vernis créés en 1932 seront cette fois assorties aux collections de mode américaines.
+    - id: 26
+      question: Dans l'Antiquité, quelle vertu accordait-on au fard à paupières noir ?
+      propositions:
+      - Désinfection
+      - Éruption
+      - Illumination
+      - Transpiration
+      réponse: Désinfection
+      anecdote: Grâce au sulfure de plomb et au chlore qu'il contenait, le fard à paupières noir, appelé mesdemet, servait aussi de désinfectant.
+    - id: 27
+      question: Quel faux grain de beauté était employé pour faire ressortir la blancheur du teint ?
+      propositions:
+      - Abeille
+      - Guêpe
+      - Frelon
+      - Mouche
+      réponse: Mouche
+      anecdote: Les romains et les égyptiens utilisaient déjà de leurs temps les mouches pour camoufler de petits boutons.
+    - id: 28
+      question: Quel maquillage du dessus de l'oeil a pour but d'agrandir le regard ?
+      propositions:
+      - Oeil de boeuf
+      - Oeil de verre
+      - Oeil de lynx
+      - Oeil de biche
+      réponse: Oeil de biche
+      anecdote: L'oeil de biche utilise la poudre libre, le crayon pour les yeux, les fards à paupières, le ligneur et le mascara.
+    - id: 29
+      question: Quelle marque se veut être la fabrique de fards pour théâtre et pour la ville ?
+      propositions:
+      - Bourjois
+      - Estée Lauder
+      - Revlon
+      - NYX
+      réponse: Bourjois
+      anecdote: Longtemps société soeur de Chanel, la marque Bourjois commercialise parfums, maquillage et cosmétiques.
+    - id: 30
+      question: La marque Maybelline résulte de la contraction de Maybel et de quel mot ?
+      propositions:
+      - Dioxine
+      - Fluorine
+      - Grenadine
+      - Vaseline
+      réponse: Vaseline
+      anecdote: C'est le chimiste Tom Lyle Williams qui créera le premier mascara moderne sur base de la formule de sa soeur, Mabel.
+  en:
+  - débutant:
+    - id: 1
+      question: What other trendier name do we give to lip gloss today ?
+      propositions:
+      - Eyeshadow
+      - Corrector
+      - Gloss
+      - Blush
+      réponse: Gloss
+      anecdote: The gloss exists in colored or not versions, iridescent or not. Tinted, it can possibly replace lipstick.
+    - id: 2
+      question: Which of these creams is considered essential before any product applied to the skin ?
+      propositions:
+      - Solar
+      - Chantilly
+      - Moisturizing
+      - Brulee
+      réponse: Moisturizing
+      anecdote: The moisturizer helps prevent unsightly foundation stains in places where the skin is the driest.
+    - id: 3
+      question: What product is used to even out the complexion and to cover minor skin defects ?
+      propositions:
+      - Balm
+      - Foundation
+      - Corrector
+      - Khôl
+      réponse: Foundation
+      anecdote: The color of the foundation should be closest to the natural color of the skin to avoid the risk of demarcation.
+    - id: 4
+      question: What base can be useful if the skin tends to shine during the day ?
+      propositions:
+      - Sticky
+      - Mattifying
+      - Shiny
+      - Stagnant
+      réponse: Mattifying
+      anecdote: On the other hand, matifying papers make it possible to absorb the excess sebum before, for example, a retouching.
+    - id: 5
+      question: Which of these makeup products is used to highlight the look ?
+      propositions:
+      - Protector
+      - Straightener
+      - Corrector
+      - Eyeliner
+      réponse: Eyeliner
+      anecdote: The use of eyeliner differs slightly depending on the texture: you draw a continuous line from the inner corner of the eye to the outer corner.
+    - id: 6
+      question: With what do you open your eyes by curling and lengthening the lashes ?
+      propositions:
+      - Eyeshadow
+      - Mascara
+      - Gloss
+      - Blush
+      réponse: Mascara
+      anecdote: The mascara is posed by looking downwards, placing the brush at the base of the lashes and going up along the lashes.
+    - id: 7
+      question: What object is used to redraw the curve of the eyebrow ?
+      propositions:
+      - Eraser
+      - Pen
+      - Scissors
+      - Pencil
+      réponse: Pencil
+      anecdote: To fill in any holes in the eyebrow, draw small lines with a pencil, imitating the hairs.
+    - id: 8
+      question: What brand name was once used in everyday language to speak of mascara ?
+      propositions:
+      - Sephora
+      - Rimmel
+      - Bourjois
+      - Clarins
+      réponse: Rimmel
+      anecdote: Rimmel is a cosmetic product created in 1880 by Eugène Rimmel and used to highlight the eyes.
+    - id: 9
+      question: What make-up object effectively prevents lipstick from spinning ?
+      propositions:
+      - Varnish
+      - Lip liner
+      - Eyeliner
+      - Lip gloss
+      réponse: Lip liner
+      anecdote: Choose a neutral lip liner that is lighter than lipstick, because ideally, it should be invisible.
+    - id: 10
+      question: What name is generally given to body paint, sometimes assimilated to makeup ?
+      propositions:
+      - Natural art
+      - Khôl
+      - Land art
+      - Body-painting
+      réponse: Body-painting
+      anecdote: Several festivals are devoted to body painting, including that of Seeboden in Austria and that of Brussels in Belgium.
+  - confirmé:
+    - id: 11
+      question: In make-up, what do you also call blush ?
+      propositions:
+      - Fluid
+      - Gloss
+      - Blush
+      - Rimmel
+      réponse: Blush
+      anecdote: The most common and easiest to apply blush is to smile overly and put the blush on the cheekbones.
+    - id: 12
+      question: Which product theoretically constitutes the final touch of makeup ?
+      propositions:
+      - Mascara
+      - Foundation
+      - Lipstick
+      - Blush
+      réponse: Lipstick
+      anecdote: If the eyes are already heavily made up, it is better to choose neutral, natural and discreet shades of lipstick.
+    - id: 13
+      question: For what period of our history has ritual makeup been used ?
+      propositions:
+      - Renaissance
+      - Prehistory
+      - Antiquity
+      - Middle Ages
+      réponse: Prehistory
+      anecdote: Makeup was probably used to practice shamanic rites, funeral cults or fertility.
+    - id: 14
+      question: Which pencil is specifically designed to make up the inside of the eye ?
+      propositions:
+      - Mascara
+      - Gloss
+      - Kohl
+      - Rimmel
+      réponse: Kohl
+      anecdote: Severe lead poisoning is still observed following the use of kohl with lead sulfide.
+    - id: 15
+      question: Which of these proposals does not designate a form of foundation ?
+      propositions:
+      - Foam
+      - Doe
+      - Stick
+      - Fluid
+      réponse: Doe
+      anecdote: In any case, the foundation (which helps to unify the skin tone) is only used to look tanned.
+    - id: 16
+      question: Which of these products provides hydration, protection and toning of the skin ?
+      propositions:
+      - Eyeliner
+      - BB cream
+      - Powder
+      - Gloss
+      réponse: BB cream
+      anecdote: BB Cream, aka Blemish Baume, is a product originating in Germany originally used by dermatologists.
+    - id: 17
+      question: In make-up, what other name do we also give to concealer ?
+      propositions:
+      - Eyeliner
+      - Corrector
+      - Corrector
+      - Enchaneur
+      réponse: Corrector
+      anecdote: Green is supposed to camouflage the diffuse redness of the face, and orange the blue of the haematomas or of the facial veins.
+    - id: 18
+      question: What product is mainly used to moisturize and especially protect the lips ?
+      propositions:
+      - Balm
+      - Soap
+      - Gel
+      - Butter
+      réponse: Balm
+      anecdote: The feminine ointment comes from the fact that the old ointments were flavored with API apple.
+    - id: 19
+      question: How do you qualify makeup done by tattooing ?
+      propositions:
+      - Disappointing
+      - Growing up
+      - Permanent
+      - Indecent
+      réponse: Permanent
+      anecdote: This pigmentation of the skin has the particularity of being lasting: it is maintained for several years.
+    - id: 20
+      question: Still a fairly recent product, what country does the lip gloss come from ?
+      propositions:
+      - Japan
+      - United States
+      - France
+      - Spain
+      réponse: United States
+      anecdote: More liquid than lipstick, the gloss is generally presented in the form of a gel in a tube or in the form of a balm.
+  - expert:
+    - id: 21
+      question: What makeup product has the effect of imitating a tan and giving a better glow ?
+      propositions:
+      - Irish salt
+      - English balm
+      - Italian water
+      - Indian land
+      réponse: Indian land
+      anecdote: The most common mistake is to put the Indian soil all over the face, the ideal being to apply it on the places where the sun beats.
+    - id: 22
+      question: What was the first cosmetic online sales site in France in 2019 ?
+      propositions:
+      - L'Oréal
+      - Yves Rocher
+      - Clarins
+      - Clinique
+      réponse: Yves Rocher
+      anecdote: Yves Rocher is a company owned by the Yves Rocher group and has 1,700 stores, including 650 in France.
+    - id: 23
+      question: In what year did James Bruce Mason patent the swivel lipstick ?
+      propositions:
+      - 1952
+      - 1947
+      - 1923
+      - 1938
+      réponse: 1923
+      anecdote: Before this date, in 1915, Maurice Lévy, an American inventor, registered the patent for the sliding system tube.
+    - id: 24
+      question: In ancient Egypt, what could green eyeshadows invoke ?
+      propositions:
+      - Meditation
+      - Domination
+      - Protection
+      - Destruction
+      réponse: Protection
+      anecdote: The green eyeshadows (wadju) could invoke the protection of Hathor, the goddess of festivities and love.
+    - id: 25
+      question: Which brand developed the first long-lasting opaque colored nail polishes ?
+      propositions:
+      - Revlon
+      - Benefit
+      - Kiko
+      - Maybelline
+      réponse: Revlon
+      anecdote: In 1950, the colors of the varnishes created in 1932 will this time be matched with the American fashion collections.
+    - id: 26
+      question: In Antiquity, what virtue was granted to black eyeshadow ?
+      propositions:
+      - Sweating
+      - Illumination
+      - Disinfection
+      - Eruption
+      réponse: Disinfection
+      anecdote: Thanks to lead sulfide and the chlorine it contained, black eyeshadow, called mesdemet, also served as a disinfectant.
+    - id: 27
+      question: What false mole was once used to bring out the whiteness of the complexion ?
+      propositions:
+      - Wasp
+      - Bee
+      - Hornet
+      - Fly
+      réponse: Fly
+      anecdote: The Romans and the Egyptians already used flies to camouflage small buttons.
+    - id: 28
+      question: What makeup on the top of the eye is intended to enlarge the look ?
+      propositions:
+      - Beef eye
+      - Lynx eye
+      - Glass eye
+      - Doe eye
+      réponse: Doe eye
+      anecdote: Doe eye uses loose powder, eye pencil, eyeshadows, liner and mascara.
+    - id: 29
+      question: What brand wants to be the make-up for theater and for the city ?
+      propositions:
+      - Estée Lauder
+      - NYX
+      - Revlon
+      - Bourjois
+      réponse: Bourjois
+      anecdote: A long-standing company of Chanel, the Bourjois brand markets perfumes, make-up and cosmetics.
+    - id: 30
+      question: The Maybelline brand results from the contraction of Maybel and from what word ?
+      propositions:
+      - Vaseline
+      - Dioxin
+      - Grenadine
+      - Fluorite
+      réponse: Vaseline
+      anecdote: It is the chemist Tom Lyle Williams who will create the first modern mascara based on the formula of his sister, Mabel.
+  de:
+  - débutant:
+    - id: 1
+      question: Welchen anderen trendigeren Namen geben wir Lipgloss heute ?
+      propositions:
+      - Korrektor
+      - Glanz
+      - Lidschatten
+      - Erröten
+      réponse: Glanz
+      anecdote: Der Glanz existiert in farbigen oder nicht farbigen Versionen, schillernd oder nicht. Getönt kann es möglicherweise Lippenstift ersetzen.
+    - id: 2
+      question: Welche dieser Cremes wird als essentiell angesehen, bevor ein Produkt auf die Haut aufgetragen wird ?
+      propositions:
+      - Solar
+      - Chantilly
+      - Brûlée
+      - Feuchtigkeitsspendend
+      réponse: Feuchtigkeitsspendend
+      anecdote: Die Feuchtigkeitscreme beugt unschönen Grundierungsflecken an Stellen vor, an denen die Haut am trockensten ist.
+    - id: 3
+      question: Welches Produkt wird verwendet, um den Teint auszugleichen und kleinere Hautfehler abzudecken ?
+      propositions:
+      - Stiftung
+      - Khôl
+      - Balsam
+      - Korrektor
+      réponse: Stiftung
+      anecdote: Die Farbe der Grundierung sollte der natürlichen Hautfarbe am nächsten kommen, um das Risiko einer Abgrenzung zu vermeiden.
+    - id: 4
+      question: Welche Basis kann nützlich sein, wenn die Haut tagsüber zum Leuchten neigt ?
+      propositions:
+      - Glänzend
+      - Mattierung
+      - Stagnierend
+      - Klebrig
+      réponse: Mattierung
+      anecdote: Auf der anderen Seite ermöglichen es Matifizierungspapiere, das überschüssige Talg beispielsweise vor einer Retusche aufzunehmen.
+    - id: 5
+      question: Welches dieser Make-up-Produkte wird verwendet, um den Look hervorzuheben ?
+      propositions:
+      - Glätteisen
+      - Eyeliner
+      - Korrektor
+      - Beschützer
+      réponse: Eyeliner
+      anecdote: Die Verwendung des Eyeliner unterscheidet sich je nach Textur geringfügig: Sie zeichnen eine durchgehende Linie vom inneren Augenwinkel zum äußeren Augenwinkel.
+    - id: 6
+      question: Womit öffnen Sie Ihre Augen, indem Sie die Wimpern kräuseln und verlängern ?
+      propositions:
+      - Glanz
+      - Lidschatten
+      - Wimperntusche
+      - Erröten
+      réponse: Wimperntusche
+      anecdote: Die Wimperntusche wird gestellt, indem man nach unten schaut, die Bürste an der Basis der Wimpern platziert und entlang der Wimpern nach oben geht.
+    - id: 7
+      question: Mit welchem Objekt wird die Krümmung der Augenbraue neu gezeichnet ?
+      propositions:
+      - Radiergummi
+      - Schere
+      - Bleistift
+      - Stift
+      réponse: Bleistift
+      anecdote: Um Löcher in die Augenbrauen zu füllen, zeichnen Sie mit einem Bleistift kleine Linien und imitieren Sie die Haare.
+    - id: 8
+      question: Welcher Markenname wurde früher in der Alltagssprache verwendet, um von Mascara zu sprechen ?
+      propositions:
+      - Clarins
+      - Bourjois
+      - Sephora
+      - Rimmel
+      réponse: Rimmel
+      anecdote: Rimmel ist ein Kosmetikprodukt, das 1880 von Eugène Rimmel entwickelt wurde und zur Hervorhebung der Augen verwendet wird.
+    - id: 9
+      question: Welches Make-up-Objekt verhindert effektiv das Drehen des Lippenstifts ?
+      propositions:
+      - Lipgloss
+      - Lack
+      - Eyeliner
+      - Lippenstift
+      réponse: Lippenstift
+      anecdote: Wählen Sie einen neutralen Lippenstift, der leichter als Lippenstift ist, da er im Idealfall unsichtbar sein sollte.
+    - id: 10
+      question: Welchen Namen hat Körperfarbe im Allgemeinen, manchmal auch Make-up ?
+      propositions:
+      - Naturkunst
+      - Khôl
+      - Körperbemalung
+      - Land Art
+      réponse: Körperbemalung
+      anecdote: Mehrere Festivals widmen sich der Körperbemalung, darunter das von Seeboden in Österreich und das von Brüssel in Belgien.
+  - confirmé:
+    - id: 11
+      question: Wie nennt man beim Schminken auch Erröten ?
+      propositions:
+      - Erröten
+      - Rimmel
+      - Glanz
+      - Flüssigkeit
+      réponse: Erröten
+      anecdote: Das häufigste und am einfachsten anzuwendende Rouge ist, übermäßig zu lächeln und das Rouge auf die Wangenknochen aufzutragen.
+    - id: 12
+      question: Welches Produkt bildet theoretisch den letzten Schliff für Make-up ?
+      propositions:
+      - Erröten
+      - Stiftung
+      - Wimperntusche
+      - Lippenstift
+      réponse: Lippenstift
+      anecdote: Wenn die Augen bereits stark geschminkt sind, ist es besser, neutrale, natürliche und diskrete Lippenstifttöne zu wählen.
+    - id: 13
+      question: Für welchen Zeitraum unserer Geschichte wurde rituelles Make-up verwendet ?
+      propositions:
+      - Antike
+      - Mittelalter
+      - Vorgeschichte
+      - Renaissance
+      réponse: Vorgeschichte
+      anecdote: Make-up wurde wahrscheinlich verwendet, um schamanische Riten, Bestattungskulte oder Fruchtbarkeit zu üben.
+    - id: 14
+      question: Welcher Stift wurde speziell für die Innenseite des Auges entwickelt ?
+      propositions:
+      - Glanz
+      - Kajal
+      - Wimperntusche
+      - Rimmel
+      réponse: Kajal
+      anecdote: Nach der Verwendung von Kajal mit Bleisulfid wird immer noch eine schwere Bleivergiftung beobachtet.
+    - id: 15
+      question: Welcher dieser Vorschläge bezeichnet keine Form der Gründung ?
+      propositions:
+      - Doe
+      - Schaum
+      - Flüssigkeit
+      - Stick
+      réponse: Doe
+      anecdote: In jedem Fall wird die Grundierung (die zur Vereinheitlichung des Hautfarbtons beiträgt) nur verwendet, um gebräunt auszusehen.
+    - id: 16
+      question: Welches dieser Produkte spendet Feuchtigkeit, schützt und strafft die Haut ?
+      propositions:
+      - BB Sahne
+      - Pulver
+      - Glanz
+      - Eyeliner
+      réponse: BB Sahne
+      anecdote: BB Cream, auch bekannt als Blemish Baume, ist ein Produkt aus Deutschland, das ursprünglich von Dermatologen verwendet wurde.
+    - id: 17
+      question: Welchen anderen Namen geben wir Concealer im Make-up ?
+      propositions:
+      - Korrektor
+      - Korrektor
+      - Eyeliner
+      - Enchaneur
+      réponse: Korrektor
+      anecdote: Grün soll die diffuse Rötung des Gesichts tarnen und Orange das Blau der Hämatome oder der Gesichtsvenen.
+    - id: 18
+      question: Welches Produkt wird hauptsächlich verwendet, um die Lippen zu befeuchten und besonders zu schützen ?
+      propositions:
+      - Butter
+      - Balsam
+      - Seife
+      - Gel
+      réponse: Balsam
+      anecdote: Die weibliche Salbe kommt von der Tatsache, dass die alten Salben mit API-Apfel aromatisiert wurden.
+    - id: 19
+      question: Wie qualifizieren Sie Make-up durch Tätowieren ?
+      propositions:
+      - Dauerhaft
+      - Unanständig
+      - Aufwachsen
+      - Enttäuschend
+      réponse: Dauerhaft
+      anecdote: Diese Pigmentierung der Haut hat die Besonderheit, dauerhaft zu bleiben: Sie bleibt mehrere Jahre erhalten.
+    - id: 20
+      question: Aus welchem Land stammt der Lipgloss noch ?
+      propositions:
+      - Frankreich
+      - Japan
+      - Vereinigte Staaten
+      - Spanien
+      réponse: Vereinigte Staaten
+      anecdote: Der Glanz ist flüssiger als der Lippenstift und wird im Allgemeinen in Form eines Gels in einer Tube oder in Form eines Balsams präsentiert.
+  - expert:
+    - id: 21
+      question: Welches Make-up-Produkt ahmt eine Bräune nach und verleiht einen besseren Glanz ?
+      propositions:
+      - Indisches Land
+      - Irisches Salz
+      - Englischer Balsam
+      - Italienisches Wasser
+      réponse: Indisches Land
+      anecdote: Der häufigste Fehler besteht darin, den indischen Boden über das ganze Gesicht zu verteilen.
+    - id: 22
+      question: Was war die erste Online-Verkaufsseite für Kosmetik in Frankreich im Jahr 2019 ?
+      propositions:
+      - Clinique
+      - Clarins
+      - L'Oréal
+      - Yves Rocher
+      réponse: Yves Rocher
+      anecdote: Yves Rocher ist ein Unternehmen der Yves Rocher-Gruppe und verfügt über 1.700 Geschäfte, davon 650 in Frankreich.
+    - id: 23
+      question: In welchem Jahr patentierte James Bruce Mason den drehbaren Lippenstift ?
+      propositions:
+      - 1938
+      - 1947
+      - 1923
+      - 1952
+      réponse: 1923
+      anecdote: Vor diesem Datum, 1915, meldete der amerikanische Erfinder Maurice Lévy das Patent für das Rohr des Schiebesystems an.
+    - id: 24
+      question: Was könnten grüne Lidschatten im alten Ägypten hervorrufen ?
+      propositions:
+      - Schutz
+      - Meditation
+      - Herrschaft
+      - Zerstörung
+      réponse: Schutz
+      anecdote: Die grünen Lidschatten (Wadju) könnten den Schutz von Hathor, der Göttin der Feste und der Liebe, hervorrufen.
+    - id: 25
+      question: Welche Marke hat die ersten langlebigen undurchsichtigen Nagellacke entwickelt ?
+      propositions:
+      - Kiko
+      - Revlon
+      - Benefit
+      - Maybelline
+      réponse: Revlon
+      anecdote: 1950 werden die Farben der 1932 entstandenen Lacke diesmal mit den amerikanischen Modekollektionen abgestimmt.
+    - id: 26
+      question: Welche Tugend wurde in der Antike dem schwarzen Lidschatten gewährt ?
+      propositions:
+      - Beleuchtung
+      - Schwitzen
+      - Eruption
+      - Desinfektion
+      réponse: Desinfektion
+      anecdote: Dank Bleisulfid und dem darin enthaltenen Chlor diente der schwarze Lidschatten, Mesdemet genannt, auch als Desinfektionsmittel.
+    - id: 27
+      question: Welcher falsche Maulwurf wurde einmal verwendet, um das Weiß des Teints hervorzuheben ?
+      propositions:
+      - Wespe
+      - Hornisse
+      - Fliege
+      - Biene
+      réponse: Fliege
+      anecdote: Die Römer und Ägypter benutzten bereits Fliegen, um kleine Knöpfe zu tarnen.
+    - id: 28
+      question: Welches Make-up auf der Oberseite des Auges soll den Look vergrößern ?
+      propositions:
+      - Glasauge
+      - Doe Auge
+      - Luchsauge
+      - Rindfleischauge
+      réponse: Doe Auge
+      anecdote: Doe Eye verwendet loses Puder, Augenstift, Lidschatten, Liner und Mascara.
+    - id: 29
+      question: Welche Marke will das Theater und die Stadt schminken ?
+      propositions:
+      - NYX
+      - Revlon
+      - Bourjois
+      - Estée Lauder
+      réponse: Bourjois
+      anecdote: Die Marke Bourjois ist ein langjähriges Unternehmen von Chanel und vermarktet Parfums, Make-up und Kosmetika.
+    - id: 30
+      question: Die Marke Maybelline resultiert aus der Kontraktion von Maybel und aus welchem Wort ?
+      propositions:
+      - Grenadine
+      - Vaseline
+      - Fluorit
+      - Dioxin
+      réponse: Vaseline
+      anecdote: Es ist der Chemiker Tom Lyle Williams, der die erste moderne Wimperntusche nach der Formel seiner Schwester Mabel herstellen wird.
+  es:
+  - débutant:
+    - id: 1
+      question: ¿Qué otro nombre más moderno le damos al brillo de labios hoy ?
+      propositions:
+      - Gloss
+      - Sonrojo
+      - Rubor
+      - Corrector
+      réponse: Gloss
+      anecdote: El brillo existe en versiones coloreadas o no, iridiscentes o no. Teñido, posiblemente puede reemplazar el lápiz labial.
+    - id: 2
+      question: ¿Cuál de estas cremas se considera esencial antes de aplicar cualquier producto a la piel ?
+      propositions:
+      - Chantilly
+      - Hidratante
+      - Catalana
+      - Chantilly
+      réponse: Hidratante
+      anecdote: La crema hidratante ayuda a evitar manchas de base antiestéticas en lugares donde la piel es la más seca.
+    - id: 3
+      question: ¿Qué producto se usa para nivelar el cutis y cubrir defectos menores de la piel ?
+      propositions:
+      - Khôl
+      - Bálsamo
+      - Corrector
+      - El
+      réponse: El
+      anecdote: El color de la base debe ser más cercano al color natural de la piel para evitar el riesgo de demarcación.
+    - id: 4
+      question: ¿Qué base puede ser útil si la piel tiende a brillar durante el día ?
+      propositions:
+      - Pegajoso
+      - Brillante
+      - Estancado
+      - Matificante
+      réponse: Matificante
+      anecdote: Por otro lado, los papeles de matificación permiten absorber el exceso de sebo antes, por ejemplo, de un retoque.
+    - id: 5
+      question: ¿Cuál de estos productos de maquillaje se usa para resaltar el aspecto ?
+      propositions:
+      - Protector
+      - Delineador de ojos
+      - Corrector
+      - Plancha
+      réponse: Delineador de ojos
+      anecdote: El uso del delineador difiere un poco según la textura : dibujamos una línea continua desde la esquina interna del ojo hasta la esquina externa.
+    - id: 6
+      question: ¿Con qué abres los ojos rizando y alargando las pestañas ?
+      propositions:
+      - Brillo
+      - Rubor
+      - Blush
+      - Rimel
+      réponse: Rimel
+      anecdote: La máscara se coloca mirando hacia abajo, colocando el cepillo en la base de las pestañas y subiendo a lo largo de las pestañas.
+    - id: 7
+      question: ¿Qué objeto se usa para volver a dibujar la curva de la ceja ?
+      propositions:
+      - Tijeras
+      - Borrador
+      - Lápiz
+      - Pluma
+      réponse: Lápiz
+      anecdote: Para rellenar cualquier agujero en la ceja, debes dibujar con un lápiz pequeñas líneas, imitando los pelos.
+    - id: 8
+      question: ¿Qué marca alguna vez se usó en el lenguaje cotidiano para hablar de rímel ?
+      propositions:
+      - Bourjois
+      - Clarins
+      - Rimmel
+      - Sephora
+      réponse: Rimmel
+      anecdote: Rimmel es un producto cosmético creado en 1880 por Eugène Rimmel y utilizado para resaltar los ojos.
+    - id: 9
+      question: ¿Qué objeto de maquillaje impide efectivamente que el lápiz labial gire ?
+      propositions:
+      - Barniz
+      - Delineador de labios
+      - Delineador de ojos
+      - Brillo de labios
+      réponse: Delineador de labios
+      anecdote: Elija un lápiz labial neutro que sea más claro que el lápiz labial, porque idealmente debería ser invisible.
+    - id: 10
+      question: ¿Qué nombre se le da generalmente a la pintura corporal, a veces asimilada al maquillaje ?
+      propositions:
+      - Pintura corporal
+      - Khôl
+      - Arte natural
+      - Land art
+      réponse: Pintura corporal
+      anecdote: Varios festivales se dedican a la pintura corporal, incluido el de Seeboden en Austria y el de Bruselas en Bélgica.
+  - confirmé:
+    - id: 11
+      question: En maquillaje, ¿a qué también llamas rubor ?
+      propositions:
+      - Brillo
+      - Rubor
+      - Fluido
+      - Rimmel
+      réponse: Rubor
+      anecdote: La aplicación más común y más simple de rubor es sonreír exageradamente y colocar el rubor en los pómulos.
+    - id: 12
+      question: ¿Qué producto teóricamente constituye el toque final de maquillaje ?
+      propositions:
+      - Pintalabios
+      - Rubor
+      - Rimel
+      - Fundación
+      réponse: Pintalabios
+      anecdote: Si los ojos ya están muy maquillados, es mejor elegir tonos de lápiz labial neutros, naturales y discretos.
+    - id: 13
+      question: ¿Para qué período de nuestra historia se ha utilizado el maquillaje ritual ?
+      propositions:
+      - Antigüedad
+      - Prehistoria
+      - Renacimiento
+      - Edad media
+      réponse: Prehistoria
+      anecdote: El maquillaje probablemente se usó para practicar ritos chamánicos, cultos funerarios o fertilidad.
+    - id: 14
+      question: ¿Qué lápiz está diseñado específicamente para formar el interior del ojo ?
+      propositions:
+      - Brillo
+      - Rimmel
+      - Kohl
+      - Mascara
+      réponse: Kohl
+      anecdote: Todavía se observan graves intoxicaciones por plomo después del uso de kohl con sulfuro de plomo.
+    - id: 15
+      question: ¿Cuál de estas propuestas no designa una forma de fundación ?
+      propositions:
+      - Stick
+      - Fluido
+      - Doe
+      - Espuma
+      réponse: Doe
+      anecdote: En cualquier caso, la base (que ayuda a unificar el tono de la piel) solo se usa para lucir bronceada.
+    - id: 16
+      question: ¿Cuál de estos productos proporciona hidratación, protección y tonificación de la piel ?
+      propositions:
+      - Delineador de ojos
+      - Polvo
+      - Crema BB
+      - Brillo
+      réponse: Crema BB
+      anecdote: BB Cream, también conocido como Blemish Baume, es un producto originario de Alemania utilizado originalmente por dermatólogos.
+    - id: 17
+      question: En maquillaje, ¿qué otro nombre le damos al corrector ?
+      propositions:
+      - Delineador de ojos
+      - Corrector
+      - Cerneur
+      - Corrector
+      réponse: Corrector
+      anecdote: Se supone que el verde camufla el enrojecimiento difuso de la cara y el naranja el azul de los hematomas o las venas faciales.
+    - id: 18
+      question: ¿Qué producto se usa principalmente para hidratar y proteger especialmente los labios ?
+      propositions:
+      - Mantequilla
+      - Bálsamo
+      - Gel
+      - Jabón
+      réponse: Bálsamo
+      anecdote: El nombre del ungüento femenino proviene del hecho de que los ungüentos antiguos estaban aromatizados con API apple.
+    - id: 19
+      question: ¿Cómo calificas el maquillaje hecho por el tatuaje ?
+      propositions:
+      - Creciendo
+      - Indecente
+      - Permanente
+      - Decepcionante
+      réponse: Permanente
+      anecdote: Esta pigmentación de la piel tiene la particularidad de ser perenne : dura varios años.
+    - id: 20
+      question: Todavía es un producto bastante reciente, ¿de qué país proviene el brillo labial ?
+      propositions:
+      - Estados Unidos
+      - Japón
+      - Francia
+      - España
+      réponse: Estados Unidos
+      anecdote: Más líquido que el lápiz labial, el brillo generalmente se presenta en forma de gel en un tubo o en forma de bálsamo.
+  - expert:
+    - id: 21
+      question: ¿Qué producto de maquillaje tiene el efecto de imitar un bronceado y dar un mejor brillo ?
+      propositions:
+      - Sal irlandesa
+      - Tierra india
+      - Bálsamo inglés
+      - Agua italiana
+      réponse: Tierra india
+      anecdote: El error más común es poner tierra india en toda su cara, idealmente aplicándola a lugares donde brilla el sol.
+    - id: 22
+      question: ¿Cuál fue el primer sitio de ventas en línea de cosméticos en Francia en 2019 ?
+      propositions:
+      - Clinique
+      - Yves Rocher
+      - Clarins
+      - L'Oréal
+      réponse: Yves Rocher
+      anecdote: Yves Rocher es una empresa del grupo Yves Rocher y tiene 1.700 tiendas, incluidas 650 en Francia.
+    - id: 23
+      question: ¿En qué año patentó James Bruce Mason el lápiz labial giratorio ?
+      propositions:
+      - 1938
+      - 1923
+      - 1952
+      - 1947
+      réponse: 1923
+      anecdote: Antes de esta fecha, en 1915, Maurice Lévy, un inventor estadounidense, presentó la patente para el tubo del sistema deslizante.
+    - id: 24
+      question: En el antiguo Egipto, ¿qué podrían invocar las sombras de ojos verdes ?
+      propositions:
+      - Dominación
+      - Meditación
+      - Destrucción
+      - Protección
+      réponse: Protección
+      anecdote: Las sombras de ojos verdes (wadju) podrían invocar la protección de Hathor, la diosa de las festividades y el amor.
+    - id: 25
+      question: ¿Qué marca desarrolló los primeros esmaltes de uñas opacos de larga duración ?
+      propositions:
+      - Kiko
+      - Benefit
+      - Revlon
+      - Maybelline
+      réponse: Revlon
+      anecdote: En 1950, los colores de los barnices creados en 1932 se combinarán esta vez con las colecciones de moda estadounidenses.
+    - id: 26
+      question: En la antigüedad, ¿qué virtud se le otorgaba a la sombra de ojos negra ?
+      propositions:
+      - Sudoración
+      - Iluminación
+      - Erupción
+      - Desinfección
+      réponse: Desinfección
+      anecdote: Gracias al sulfuro de plomo y al cloro que contenía, la sombra de ojos negra, llamada mesdemet, también sirvió como desinfectante.
+    - id: 27
+      question: ¿Qué falso lunar se usó alguna vez para resaltar la blancura de la tez ?
+      propositions:
+      - Avispón
+      - Avispa
+      - Abeja
+      - Volar
+      réponse: Volar
+      anecdote: Los romanos y los egipcios ya usaban moscas en su tiempo para camuflar pequeños botones.
+    - id: 28
+      question: ¿Qué maquillaje en la parte superior del ojo está destinado a agrandar el aspecto ?
+      propositions:
+      - Ojo de cristal
+      - Doe eye
+      - il de boeuf
+      - Ojo de lince
+      réponse: Doe eye
+      anecdote: El Doe Eye utiliza polvos sueltos, lápices de ojos, sombras de ojos, delineadores y rímel.
+    - id: 29
+      question: ¿Qué marca quiere ser el maquillaje para el teatro y para la ciudad ?
+      propositions:
+      - Estée Lauder
+      - NYX
+      - Bourjois
+      - Revlon
+      réponse: Bourjois
+      anecdote: Una empresa de larga data de Chanel, la marca Bourjois comercializa perfumes, maquillaje y cosméticos.
+    - id: 30
+      question: ¿La marca Maybelline resulta de la contracción de Maybel y de qué palabra ?
+      propositions:
+      - Vaselina
+      - Dioxina
+      - Fluorita
+      - Granadina
+      réponse: Vaselina
+      anecdote: Es el químico Tom Lyle Williams quien creará la primera máscara moderna basada en la fórmula de su hermana, Mabel.
+  it:
+  - débutant:
+    - id: 1
+      question: Quale altro nome più trendy diamo oggi al lucidalabbra ?
+      propositions:
+      - Ombretto
+      - Gloss
+      - Correttore
+      - Arrossire
+      réponse: Gloss
+      anecdote: Il gloss esiste in versioni colorate o no, iridescente o no. Colorato, può eventualmente sostituire il rossetto.
+    - id: 2
+      question: Quale di queste creme è considerata essenziale prima di qualsiasi prodotto applicato sulla pelle ?
+      propositions:
+      - Brûlée
+      - Solare
+      - Chantilly
+      - Idratante
+      réponse: Idratante
+      anecdote: La crema idratante aiuta a prevenire le sgradevoli macchie di fondotinta nei luoghi in cui la pelle è più secca.
+    - id: 3
+      question: Quale prodotto viene utilizzato per uniformare la carnagione e coprire piccoli difetti della pelle ?
+      propositions:
+      - Balsamo
+      - Correttore
+      - Khôl
+      - Fondazione
+      réponse: Fondazione
+      anecdote: Il colore della fondazione dovrebbe essere il più vicino al colore naturale della pelle per evitare il rischio di demarcazione.
+    - id: 4
+      question: Quale base può essere utile se la pelle tende a brillare durante il giorno ?
+      propositions:
+      - Appiccicoso
+      - Stagnante
+      - Lucente
+      - Opacizzante
+      réponse: Opacizzante
+      anecdote: D'altra parte, le carte opacizzanti consentono di assorbire l'eccesso di sebo prima, ad esempio, di un ritocco.
+    - id: 5
+      question: Quale di questi prodotti per il trucco viene utilizzato per evidenziare l'aspetto ?
+      propositions:
+      - Eyeliner
+      - Protector
+      - Piastra per capelli
+      - Correttore
+      réponse: Eyeliner
+      anecdote: L'uso dell'eyeliner differisce leggermente a seconda della trama: si disegna una linea continua dall'angolo interno dell'occhio all'angolo esterno.
+    - id: 6
+      question: Con cosa apri gli occhi arricciando e allungando le ciglia ?
+      propositions:
+      - Mascara
+      - Ombretto
+      - Arrossire
+      - Gloss
+      réponse: Mascara
+      anecdote: Il mascara si posa guardando verso il basso, posizionando il pennello alla base delle ciglia e risalendo lungo le ciglia.
+    - id: 7
+      question: Quale oggetto viene utilizzato per ridisegnare la curva del sopracciglio ?
+      propositions:
+      - Penna
+      - Forbici
+      - Gomma
+      - Matita
+      réponse: Matita
+      anecdote: Per riempire eventuali buchi nel sopracciglio, disegna piccole linee con una matita, imitando i peli.
+    - id: 8
+      question: Quale marchio un tempo veniva usato nel linguaggio quotidiano per parlare di mascara ?
+      propositions:
+      - Sephora
+      - Rimmel
+      - Bourjois
+      - Clarins
+      réponse: Rimmel
+      anecdote: Rimmel è un prodotto cosmetico creato nel 1880 da Eugène Rimmel e utilizzato per evidenziare gli occhi.
+    - id: 9
+      question: Quale oggetto trucco impedisce efficacemente alla rotazione del rossetto ?
+      propositions:
+      - Fodera per labbra
+      - Eyeliner
+      - Lucidalabbra
+      - Vernice
+      réponse: Fodera per labbra
+      anecdote: Scegli una matita labbra neutra più leggera del rossetto, perché idealmente dovrebbe essere invisibile.
+    - id: 10
+      question: Quale nome viene generalmente dato alla vernice del corpo, a volte assimilata al trucco ?
+      propositions:
+      - Arte naturale
+      - Pittura del corpo
+      - Land art
+      - Khôl
+      réponse: Pittura del corpo
+      anecdote: Numerosi festival sono dedicati al body painting, tra cui quello di Seeboden in Austria e quello di Bruxelles in Belgio.
+  - confirmé:
+    - id: 11
+      question: Nel trucco, come si chiama anche arrossire ?
+      propositions:
+      - Gloss
+      - Arrossire
+      - Fluido
+      - Rimmel
+      réponse: Arrossire
+      anecdote: Il rossore più comune e più facile da applicare è sorridere eccessivamente e mettere il rossore sugli zigomi.
+    - id: 12
+      question: Quale prodotto costituisce teoricamente il tocco finale del trucco ?
+      propositions:
+      - Mascara
+      - Rossetto
+      - Fondazione
+      - Arrossire
+      réponse: Rossetto
+      anecdote: Se gli occhi sono già fortemente truccati, è meglio scegliere tonalità di rossetto neutre, naturali e discrete.
+    - id: 13
+      question: Per quale periodo della nostra storia è stato usato il trucco rituale ?
+      propositions:
+      - Rinascimento
+      - Preistoria
+      - antichità
+      - Medioevo
+      réponse: Preistoria
+      anecdote: Il trucco era probabilmente usato per praticare riti sciamanici, culti funebri o fertilità.
+    - id: 14
+      question: Quale matita è specificamente progettata per truccare l'interno dell'occhio ?
+      propositions:
+      - Mascara
+      - Kajal
+      - Rimmel
+      - Gloss
+      réponse: Kajal
+      anecdote: Dopo l'uso di kajal con solfuro di piombo si osserva ancora un avvelenamento da piombo.
+    - id: 15
+      question: Quale di queste proposte non designa una forma di fondazione ?
+      propositions:
+      - Doe
+      - Fluido
+      - Stick
+      - Schiuma
+      réponse: Doe
+      anecdote: In ogni caso, la base (che aiuta a unificare il tono della pelle) viene utilizzata solo per sembrare abbronzata.
+    - id: 16
+      question: Quale di questi prodotti fornisce idratazione, protezione e tonificazione della pelle ?
+      propositions:
+      - Gloss
+      - Polvere
+      - Eyeliner
+      - Crema BB
+      réponse: Crema BB
+      anecdote: BB Cream, alias Blemish Baume, è un prodotto originario della Germania originariamente utilizzato dai dermatologi.
+    - id: 17
+      question: Nel trucco, quale altro nome diamo anche al correttore ?
+      propositions:
+      - Correttore
+      - Eyeliner
+      - Enchaneur
+      - Correttore
+      réponse: Correttore
+      anecdote: Si suppone che il verde mimetizzi il diffuso rossore del viso e arancione il blu degli ematomi o delle vene facciali.
+    - id: 18
+      question: Quale prodotto viene utilizzato principalmente per idratare e soprattutto proteggere le labbra ?
+      propositions:
+      - Balsamo
+      - Sapone
+      - Burro
+      - Gel
+      réponse: Balsamo
+      anecdote: L'unguento femminile deriva dal fatto che i vecchi unguenti erano aromatizzati con mela API.
+    - id: 19
+      question: Come si qualifica il trucco fatto con il tatuaggio ?
+      propositions:
+      - Crescere
+      - Indecente
+      - Permanente
+      - Deludente
+      réponse: Permanente
+      anecdote: Questa pigmentazione della pelle ha la particolarità di essere duratura: viene mantenuta per diversi anni.
+    - id: 20
+      question: Ancora un prodotto abbastanza recente, da quale paese proviene il lucidalabbra ?
+      propositions:
+      - Francia
+      - Spagna
+      - Giappone
+      - Stati Uniti
+      réponse: Stati Uniti
+      anecdote: Più liquido del rossetto, il lucido è generalmente presentato sotto forma di gel in un tubo o sotto forma di balsamo.
+  - expert:
+    - id: 21
+      question: Quale prodotto di trucco ha l'effetto di imitare l'abbronzatura e dare una luminosità migliore ?
+      propositions:
+      - Terra indiana
+      - Balsamo inglese
+      - Sale irlandese
+      - Acqua italiana
+      réponse: Terra indiana
+      anecdote: L'errore più comune è quello di mettere il suolo indiano su tutto il viso, l'ideale è applicarlo sui luoghi in cui il sole batte.
+    - id: 22
+      question: Qual è stato il primo sito di vendita online di cosmetici in Francia nel 2019 ?
+      propositions:
+      - Clarins
+      - L'Oréal
+      - Yves Rocher
+      - Clinique
+      réponse: Yves Rocher
+      anecdote: Yves Rocher è una società di proprietà del gruppo Yves Rocher e conta 1.700 negozi, di cui 650 in Francia.
+    - id: 23
+      question: In quale anno James Bruce Mason brevettò il rossetto orientabile ?
+      propositions:
+      - 1938
+      - 1923
+      - 1947
+      - 1952
+      réponse: 1923
+      anecdote: Prima di questa data, nel 1915, Maurice Lévy, un inventore americano, registrò il brevetto per il tubo del sistema scorrevole.
+    - id: 24
+      question: Nell'antico Egitto, cosa potevano invocare gli ombretti verdi ?
+      propositions:
+      - Meditazione
+      - Dominazione
+      - Protezione
+      - Distruzione
+      réponse: Protezione
+      anecdote: Gli ombretti verdi (wadju) potrebbero invocare la protezione di Hathor, la dea delle festività e dell'amore.
+    - id: 25
+      question: Quale marchio ha sviluppato i primi smalti colorati opachi di lunga durata ?
+      propositions:
+      - Maybelline
+      - Revlon
+      - Kiko
+      - Benefit
+      réponse: Revlon
+      anecdote: Nel 1950, i colori delle vernici create nel 1932 verranno abbinati questa volta alle collezioni di moda americane.
+    - id: 26
+      question: Nell'antichità, quale virtù veniva concessa all'ombretto nero ?
+      propositions:
+      - Disinfezione
+      - Sudorazione
+      - Eruzione
+      - Illuminazione
+      réponse: Disinfezione
+      anecdote: Grazie al solfuro di piombo e al cloro in esso contenuto, l'ombretto nero, chiamato mesdemet, fungeva anche da disinfettante.
+    - id: 27
+      question: Quale falsa talpa veniva usata una volta per mettere in risalto il candore della carnagione ?
+      propositions:
+      - Calabrone
+      - Vola
+      - Vespa
+      - Ape
+      réponse: Vola
+      anecdote: I romani e gli egiziani usavano già le mosche per camuffare piccoli bottoni.
+    - id: 28
+      question: Quale trucco sulla parte superiore dell'occhio ha lo scopo di ingrandire l'aspetto ?
+      propositions:
+      - Doe eye
+      - Occhio di lince
+      - Occhio di vetro
+      - Occhio di manzo
+      réponse: Doe eye
+      anecdote: Doe Eye usa polvere sciolta, matita per gli occhi, ombretti, fodera e mascara.
+    - id: 29
+      question: Quale marchio vuole essere il trucco per il teatro e per la città ?
+      propositions:
+      - Bourjois
+      - NYX
+      - Estée Lauder
+      - Revlon
+      réponse: Bourjois
+      anecdote: Azienda di lunga data di Chanel, il marchio Bourjois commercializza profumi, trucco e cosmetici.
+    - id: 30
+      question: Il marchio Maybelline deriva dalla contrazione di Maybel e da quale parola ?
+      propositions:
+      - Granatina
+      - Vaselina
+      - Diossina
+      - Fluorite
+      réponse: Vaselina
+      anecdote: È il chimico Tom Lyle Williams che creerà il primo mascara moderno basato sulla formula di sua sorella, Michael.
+  nl:
+  - débutant:
+    - id: 1
+      question: Welke andere meer trendy naam geven we vandaag aan lipgloss ?
+      propositions:
+      - Blush
+      - Corrector
+      - Glans
+      - Oogschaduw
+      réponse: Glans
+      anecdote: De glans bestaat in gekleurde of niet-versies, iriserend of niet. Getint, het kan eventueel lippenstift vervangen.
+    - id: 2
+      question: Welke van deze crèmes wordt als essentieel beschouwd voordat een product op de huid wordt aangebracht ?
+      propositions:
+      - Hydraterende
+      - Brûlée
+      - Chantilly
+      - Zonne
+      réponse: Hydraterende
+      anecdote: De vochtinbrengende crème helpt lelijke foundationvlekken te voorkomen op plaatsen waar de huid het droogst is.
+    - id: 3
+      question: Welk product wordt gebruikt om de teint te egaliseren en kleine huiddefecten te bedekken ?
+      propositions:
+      - Stichting
+      - Balsem
+      - Corrector
+      - Khôl
+      réponse: Stichting
+      anecdote: De kleur van de foundation moet het dichtst bij de natuurlijke kleur van de huid liggen om het risico van afbakening te voorkomen.
+    - id: 4
+      question: Welke basis kan nuttig zijn als de huid overdag glimt ?
+      propositions:
+      - Kleverig
+      - Glanzend
+      - Stilstaand
+      - Matterend
+      réponse: Matterend
+      anecdote: Anderzijds maken matmakende papiersoorten het mogelijk om het overtollige talg op te nemen voor bijvoorbeeld een retouchering.
+    - id: 5
+      question: Welke van deze make-upproducten wordt gebruikt om de look te benadrukken ?
+      propositions:
+      - Stijltang
+      - Beschermer
+      - Corrector
+      - Eyeliner
+      réponse: Eyeliner
+      anecdote: Het gebruik van eyeliner verschilt enigszins, afhankelijk van de textuur: je trekt een doorlopende lijn van de binnenste ooghoek naar de buitenste hoek.
+    - id: 6
+      question: Waarmee open je je ogen door de wimpers te krullen en te verlengen ?
+      propositions:
+      - Glans
+      - Oogschaduw
+      - Mascara
+      - Blush
+      réponse: Mascara
+      anecdote: De mascara wordt gevormd door naar beneden te kijken, de borstel aan de basis van de wimpers te plaatsen en langs de wimpers omhoog te gaan.
+    - id: 7
+      question: Welk object wordt gebruikt om de ronding van de wenkbrauw opnieuw te tekenen ?
+      propositions:
+      - Gum
+      - Schaar
+      - Potlood
+      - Pen
+      réponse: Potlood
+      anecdote: Om eventuele gaten in de wenkbrauw op te vullen, tekent u met een potlood kleine lijntjes om de haren na te bootsen.
+    - id: 8
+      question: Welke merknaam werd ooit in alledaagse taal gebruikt om over mascara te spreken ?
+      propositions:
+      - Bourjois
+      - Rimmel
+      - Clarins
+      - Sephora
+      réponse: Rimmel
+      anecdote: Rimmel is een cosmetisch product gemaakt in 1880 door Eugène Rimmel en gebruikt om de ogen te markeren.
+    - id: 9
+      question: Welk make-upobject voorkomt effectief dat lippenstift ronddraait ?
+      propositions:
+      - Vernis
+      - Eyeliner
+      - Lipgloss
+      - Lip voering
+      réponse: Lip voering
+      anecdote: Kies een neutrale lipliner die lichter is dan lippenstift, omdat deze idealiter onzichtbaar moet zijn.
+    - id: 10
+      question: Welke naam wordt gewoonlijk gegeven aan bodypaint, soms gelijkgesteld met make-up ?
+      propositions:
+      - Natuurlijke kunst
+      - Khôl
+      - Land kunst
+      - Lichaam schilderen
+      réponse: Lichaam schilderen
+      anecdote: Verschillende festivals zijn gewijd aan bodypainting, waaronder die van Seeboden in Oostenrijk en die van Brussel in België.
+  - confirmé:
+    - id: 11
+      question: Wat noem je in make-up ook blush ?
+      propositions:
+      - Glans
+      - Vloeistof
+      - Rimmel
+      - Blush
+      réponse: Blush
+      anecdote: De meest voorkomende en gemakkelijkst aan te brengen blos is om overdreven te glimlachen en de blos op de jukbeenderen te doen.
+    - id: 12
+      question: Welk product vormt theoretisch de laatste hand van make-up ?
+      propositions:
+      - Lippenstift
+      - Stichting
+      - Blush
+      - Mascara
+      réponse: Lippenstift
+      anecdote: Als de ogen al zwaar opgemaakt zijn, is het beter om neutrale, natuurlijke en discrete lippenstiftkleuren te kiezen.
+    - id: 13
+      question: In welke periode van onze geschiedenis is rituele make-up gebruikt ?
+      propositions:
+      - Middeleeuwen
+      - Prehistorie
+      - Renaissance
+      - Oudheid
+      réponse: Prehistorie
+      anecdote: Make-up werd waarschijnlijk gebruikt om sjamanistische riten, begrafeniscultussen of vruchtbaarheid te beoefenen.
+    - id: 14
+      question: Welk potlood is speciaal ontworpen om de binnenkant van het oog te vormen ?
+      propositions:
+      - Rimmel
+      - Khôl
+      - Mascara
+      - Glans
+      réponse: Khôl
+      anecdote: Ernstige loodvergiftiging wordt nog steeds waargenomen na het gebruik van kohl met loodsulfide.
+    - id: 15
+      question: Welke van deze voorstellen duidt geen vorm van stichting aan ?
+      propositions:
+      - Schuim
+      - Stick
+      - Doe
+      - Vloeistof
+      réponse: Doe
+      anecdote: In ieder geval wordt de foundation (die helpt om de huidskleur te verenigen) alleen gebruikt om er gebruind uit te zien.
+    - id: 16
+      question: Welke van deze producten biedt hydratatie, bescherming en versteviging van de huid ?
+      propositions:
+      - Glans
+      - Eyeliner
+      - Poeder
+      - BB crème
+      réponse: BB crème
+      anecdote: BB Cream, ook bekend als Blemish Baume, is een product van oorsprong uit Duitsland dat oorspronkelijk door dermatologen werd gebruikt.
+    - id: 17
+      question: In make-up, welke andere naam geven we ook aan concealer ?
+      propositions:
+      - Corrector
+      - Eyeliner
+      - Enchaneur
+      - Corrector
+      réponse: Corrector
+      anecdote: Groen zou de diffuse roodheid van het gezicht camoufleren, en oranje het blauw van de hematomen of van de gezichtsaderen.
+    - id: 18
+      question: Welk product wordt voornamelijk gebruikt om de lippen te hydrateren en vooral te beschermen ?
+      propositions:
+      - Balsem
+      - Boter
+      - Gel
+      - Zeep
+      réponse: Balsem
+      anecdote: De vrouwelijke zalf komt doordat de oude zalven op smaak zijn gebracht met API appel.
+    - id: 19
+      question: Hoe kwalificeer je make-up door te tatoeëren ?
+      propositions:
+      - Opgroeien
+      - Teleurstellend
+      - Onfatsoenlijk
+      - Permanent
+      réponse: Permanent
+      anecdote: Deze huidpigmentatie heeft als bijzonder kenmerk dat ze blijvend is: ze wordt jarenlang behouden.
+    - id: 20
+      question: Nog steeds een vrij recent product, uit welk land komt de lipgloss ?
+      propositions:
+      - Spanje
+      - Verenigde Staten
+      - Frankrijk
+      - Japan
+      réponse: Verenigde Staten
+      anecdote: Vloeibaarder dan lippenstift, wordt de glans over het algemeen aangeboden in de vorm van een gel in een tube of in de vorm van een balsem.
+  - expert:
+    - id: 21
+      question: Welk make-upproduct heeft het effect een kleurtje te imiteren en een betere glans te geven ?
+      propositions:
+      - Italiaans water
+      - Engelse balsem
+      - Iers zout
+      - Indisch land
+      réponse: Indisch land
+      anecdote: De meest voorkomende fout is om de Indiase grond over het hele gezicht te leggen, het ideaal is om het toe te passen op de plaatsen waar de zon schijnt.
+    - id: 22
+      question: Wat was de eerste cosmetische online verkoopsite in Frankrijk in 2019 ?
+      propositions:
+      - L'Oréal
+      - Clinique
+      - Yves Rocher
+      - Clarins
+      réponse: Yves Rocher
+      anecdote: Yves Rocher is een bedrijf dat eigendom is van de Yves Rocher-groep en heeft 1.700 winkels, waaronder 650 in Frankrijk.
+    - id: 23
+      question: In welk jaar patenteerde James Bruce Mason de swivel lipstick ?
+      propositions:
+      - 1952
+      - 1923
+      - 1947
+      - 1938
+      réponse: 1923
+      anecdote: Vóór deze datum, in 1915, registreerde Maurice Lévy, een Amerikaanse uitvinder, het patent voor de schuifsysteembuis.
+    - id: 24
+      question: Wat zouden groene oogschaduws in het oude Egypte kunnen oproepen ?
+      propositions:
+      - Bescherming
+      - Vernietiging
+      - Overheersing
+      - Meditatie
+      réponse: Bescherming
+      anecdote: De groene oogschaduw (wadju) zou de bescherming kunnen inroepen van Hathor, de godin van festiviteiten en liefde.
+    - id: 25
+      question: Welk merk ontwikkelde de eerste langdurige dekkende gekleurde nagellakken ?
+      propositions:
+      - Benefit
+      - Maybelline
+      - Kiko
+      - Revlon
+      réponse: Revlon
+      anecdote: In 1950 worden de kleuren van de in 1932 gecreëerde vernissen dit keer gecombineerd met de Amerikaanse modecollecties.
+    - id: 26
+      question: Welke deugd werd in de oudheid verleend aan zwarte oogschaduw ?
+      propositions:
+      - Verlichting
+      - Desinfectie
+      - Zweten
+      - Uitbarsting
+      réponse: Desinfectie
+      anecdote: Dankzij loodsulfide en het chloor dat erin zat, diende zwarte oogschaduw, mesdemet genaamd, ook als desinfectiemiddel.
+    - id: 27
+      question: Welke valse mol werd ooit gebruikt om de witheid van de teint naar voren te brengen ?
+      propositions:
+      - Bij
+      - Vlieg
+      - Wesp
+      - Horzel
+      réponse: Vlieg
+      anecdote: De Romeinen en de Egyptenaren gebruikten al vliegen om kleine knoopjes te camoufleren.
+    - id: 28
+      question: Welke make-up op de bovenkant van het oog is bedoeld om de look te vergroten ?
+      propositions:
+      - Glazen oog
+      - Oog voor rundvlees
+      - Doe oog
+      - Lynx oog
+      réponse: Doe oog
+      anecdote: Het doe-oog gebruikt los poeder, oogpotlood, oogschaduw, voering en mascara.
+    - id: 29
+      question: Welk merk wil de make-up zijn voor theater en voor de stad ?
+      propositions:
+      - Estée Lauder
+      - NYX
+      - Revlon
+      - Bourjois
+      réponse: Bourjois
+      anecdote: Een lang bestaand bedrijf van Chanel, het merk Bourjois brengt parfums, make-up en cosmetica op de markt.
+    - id: 30
+      question: Het merk Maybelline komt voort uit de samentrekking van Maybel en van welk woord ?
+      propositions:
+      - Fluoriet
+      - Dioxine
+      - Vaseline
+      - Grenadine
+      réponse: Vaseline
+      anecdote: Het is de chemicus Tom Lyle Williams die de eerste moderne mascara gaat maken op basis van de formule van zijn zus, Mabel.

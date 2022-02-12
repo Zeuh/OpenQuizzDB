@@ -1,0 +1,280 @@
+---
+fournisseur: OpenQuizzDB - Fournisseur de contenu libre (https://www.openquizzdb.org)
+rédacteur: Philippe Bresoux
+thème: Histoire politique (Les dirigeants à travers l'Histoire)
+difficulté: 3 / 5
+quizz:
+  fr:
+  - débutant:
+    - id: 1
+      question: Qui fut nommé pour la troisième fois président du Conseil italien le 8 mai 2008 ?
+      propositions:
+      - Silvio Berlusconi
+      - Giuliano Amato
+      - Romano Prodi
+      - Lamberto Dini
+      réponse: Silvio Berlusconi
+      anecdote: Homme d'affaires et propriétaire du club de football de l'AC Milan, il a été pour la première fois Président de 1994 à 1995.
+    - id: 2
+      question: Quelle prisonnière des Farc a été libérée le 2 juillet 2008 après six ans de captivité ?
+      propositions:
+      - Clara Rojas
+      - Gloria Polanco
+      - Gina Parody
+      - Ingrid Betancourt
+      réponse: Ingrid Betancourt
+      anecdote: Après de longs mois de détention, cette femme politique colombo-française fut délivrée par l'armée national colombienne.
+    - id: 3
+      question: De quel État Barrack Obama était-il le sénateur avant d'être élu président des États-Unis ?
+      propositions:
+      - Iowa
+      - Idaho
+      - Illinois
+      - Indiana
+      réponse: Illinois
+      anecdote: Les États-Unis élisent pour la première fois de leur histoire un président Afro-Américain à la tête du pays.
+    - id: 4
+      question: Quel acteur célèbre est devenu gouverneur de l'État de Californie le 7 octobre 2003 ?
+      propositions:
+      - B. Willis
+      - S. Stallone
+      - V. Diesel
+      - A. Schwarzenegger
+      réponse: A. Schwarzenegger
+      anecdote: Donné favori, bien que républicain, Schwarzy a dépassé les prévisions les plus optimistes avec 48 % des voix.
+    - id: 5
+      question: Qui était l'adversaire démocrate de George W. Bush pour la présidentielle de 2004 ?
+      propositions:
+      - James Baker
+      - Colin Powell
+      - Joe Biden
+      - John Kerry
+      réponse: John Kerry
+      anecdote: Le sénateur du Massachusetts l'avait emporté dans neuf États sur dix lors du supermardi des primaires démocrates.
+    - id: 6
+      question: Qui fut la première first Lady à être élue sénateur de New York le 8 novembre 2000 ?
+      propositions:
+      - Barbara Bush
+      - Hilary Clinton
+      - Michelle Obama
+      - Melania Trump
+      réponse: Hilary Clinton
+      anecdote: Nombreux sont ceux dans son camp démocrate ou chez les Républicains à lui prêter une plus haute ambition.
+    - id: 7
+      question: Sous quel nom le prince Albert a-t-il accédé au trône de Monaco ?
+      propositions:
+      - Louis II
+      - Honoré V
+      - Albert II
+      - Rainier III
+      réponse: Albert II
+      anecdote: Le nouveau souverain entend rompre avec l'autocratisme de son père et promet une gestion du pays « ouverte au dialogue ».
+    - id: 8
+      question: Quel ancien président américain a achevé une visite historique à Cuba le 17 mai 2002 ?
+      propositions:
+      - Jimmy Carter
+      - Ronald Reagan
+      - Gerald Ford
+      - Bill Clinton
+      réponse: Jimmy Carter
+      anecdote: Venu à titre privé, mais non sans arrière-pensées, Jimmy Carter était un farouche défenseur des droits de l'homme.
+    - id: 9
+      question: Quel homme d'État américain a reçu le prix Nobel de la paix le 9 octobre 2009 ?
+      propositions:
+      - Jimmy Carter
+      - Al Gore
+      - Donald Trump
+      - Barack Obama
+      réponse: Barack Obama
+      anecdote: Barack Obama a reçu ce prix pour ses efforts extraordinaires en faveur du renforcement de la diplomatie internationale.
+    - id: 10
+      question: Quel ancien premier ministre mort en 2007 fut surnommé « meilleur économiste de France » ?
+      propositions:
+      - Pierre Mauroy
+      - Laurent Fabius
+      - Jacques Chirac
+      - Raymond Barre
+      réponse: Raymond Barre
+      anecdote: Cet universitaire avait été le Premier ministre de Valéry Giscard d'Estaing de 1976 à 1981 et maire de Lyon de 1995 à 2001.
+  - confirmé:
+    - id: 11
+      question: Quelle personnalité, décédée le 27 août 2003, a donné son nom au poujadisme ?
+      propositions:
+      - Jean Poujade
+      - Pierre Poujade
+      - Marc Poujade
+      - André Poujade
+      réponse: Pierre Poujade
+      anecdote: Son nom est resté le symbole des « petits » écrasés par les « gros ». Il fonda l'Union de défense des commerçants et artisans.
+    - id: 12
+      question: Quel ancien président serbe, accusé de crimes de guerre, a terminé sa cavale en 2008 ?
+      propositions:
+      - Radovan Karadzic
+      - Sava Mikic
+      - Sandor Pall
+      - Bajram Omeragic
+      réponse: Radovan Karadzic
+      anecdote: Karadzic sera inculpé de génocide, crimes de guerre et crimes contre l'humanité pour sa responsabilité dans le siège de Sarajevo.
+    - id: 13
+      question: Quel président a jeté l'éponge à Haïti le 29 février 2004 à la suite d'un coup d'État ?
+      propositions:
+      - René Préval
+      - Marc Bazin
+      - Émile Jonassaint
+      - J.-B. Aristide
+      réponse: J.-B. Aristide
+      anecdote: L'ancien prêtre a donné sa démission et quitté le pays dans un avion américain pour une destination secrète.
+    - id: 14
+      question: Comment s'appelait le quarantième président des États-Unis ?
+      propositions:
+      - George H. W. Bush
+      - John Kerry
+      - Jimmy Carter
+      - Ronald Reagan
+      réponse: Ronald Reagan
+      anecdote: L'ancien acteur d'Hollywood exercera deux mandats successifs à la Maison Blanche (1981-1989).
+    - id: 15
+      question: Quel ancien président de l'Autorité palestinienne a perdu la vie à Paris en 2004 ?
+      propositions:
+      - Rami Hamdallah
+      - Nabil Shaath
+      - Mahmoud Abbas
+      - Yasser Arafat
+      réponse: Yasser Arafat
+      anecdote: Le raïs avait été élu à la présidence de l'autorité palestinienne en janvier 1996, deux ans après avoir reçu le prix Nobel de la Paix.
+    - id: 16
+      question: Qui a succédé à Yasser Arafat à la tête de l'Autorité palestinienne le 9 janvier 2005 ?
+      propositions:
+      - Mahmoud Abbas
+      - Nabil Shaath
+      - Ahmed Qoreï
+      - Salam Fayyad
+      réponse: Mahmoud Abbas
+      anecdote: Partisan d'une négociation avec Israël visant à la création d'un État palestinien, Mahmoud Abbas a recueilli 62 % des suffrages.
+    - id: 17
+      question: Quel dirigeant syndical a été élu président de la Bolivie le 21 décembre 2005 ?
+      propositions:
+      - Evo Morales
+      - Sebastian Agreda
+      - Simon Bolivar
+      - Carlos Mesa
+      réponse: Evo Morales
+      anecdote: Le programme d'Evo Morales repose sur deux piliers : la révision plus équitable des contrats du pays et la défense des agriculteurs.
+    - id: 18
+      question: Qui a été élu maire de New York le 6 novembre 2001, remplacé ensuite par Bill de Blasio ?
+      propositions:
+      - Michael Bloomberg
+      - Rudolph Giuliani
+      - Edward Koch
+      - John Hopkins
+      réponse: Michael Bloomberg
+      anecdote: Le milliardaire qui commence son premier mandat à la tête de la ville avait le soutien du maire sortant Rudolph Giulani.
+    - id: 19
+      question: Quelle jeune étudiante Française fut arrêtée en Iran le 1er juillet 2009 pour espionnage ?
+      propositions:
+      - Noémie Saglio
+      - Clotilde Reiss
+      - Barbara Pompili
+      - Johanna Rolland
+      réponse: Clotilde Reiss
+      anecdote: Lectrice de français à l'université d'Ispahan, elle aurait pris des photos lors des troubles liés aux élections présidentielles iraniennes.
+    - id: 20
+      question: Quel ministre a été jugé pour « injure raciale » le 4 juin 2010 ?
+      propositions:
+      - Xavier Bertrand
+      - Brice Hortefeux
+      - Luc Chatel
+      - Éric Woerth
+      réponse: Brice Hortefeux
+      anecdote: Il avait dit : « Y'en a beaucoup qui posent des problèmes » à propos d'un militant UMP.
+  - expert:
+    - id: 21
+      question: Qui était surnommé le « père de l'indépendance » tunisienne ?
+      propositions:
+      - Moncef Marzouki
+      - Habib Bourguiba
+      - Fouad Mebazaa
+      - Habib Essid
+      réponse: Habib Bourguiba
+      anecdote: Il fut d'abord un précurseur, supprimant la polygamie dès son accession au pouvoir et accordant le droit de vote aux femmes.
+    - id: 22
+      question: Quel homme politique autrichien s'est tué dans un accident de voiture le 11 octobre 2008 ?
+      propositions:
+      - Peter Turrini
+      - Franz Blei
+      - Alfred Polgar
+      - Jörg Haider
+      réponse: Jörg Haider
+      anecdote: Gouverneur de la Carinthie, ses idées nationalistes et populistes avaient beaucoup inquiété l'Union européenne.
+    - id: 23
+      question: De quel homme d'affaires a-t-on pu assister sur Internet à la décapitation le 11 mai 2004 ?
+      propositions:
+      - Nicholas Berg
+      - Alan Johnston
+      - David Haines
+      - Tom Fox
+      réponse: Nicholas Berg
+      anecdote: Son assassinat était accompagné d'une déclaration le présentant comme une réponse aux tortures infligées à Abou Ghraib.
+    - id: 24
+      question: Qui a prêté serment en tant que Premier ministre de l'Irak le 28 juin 2004 ?
+      propositions:
+      - Ahmed Chalabi
+      - Massoud Barzani
+      - Jalal Talabani
+      - Iyad Allaou
+      réponse: Iyad Allaou
+      anecdote: Selon la résolution 1546 du Conseil de Sécurité, l'Irak recouvre une souveraineté pleine et entière.
+    - id: 25
+      question: Qui a succédé à Pierre Gadonneix à la tête d'EDF le 25 novembre 2009 ?
+      propositions:
+      - Henri Proglio
+      - François Roussely
+      - Gilles Ménage
+      - Edmond Alphandéry
+      réponse: Henri Proglio
+      anecdote: C'est une consécration pour celui qui, depuis 10 ans, dirige Veolia Environnement, où il a fait l'essentiel de sa carrière.
+    - id: 26
+      question: Comment s'appelle l'ancien roi afghan, destitué en 1973 ?
+      propositions:
+      - M. Daoud Khan
+      - M. Zaher Shah
+      - M. Sedi Khan
+      - M. Nadir Shah
+      réponse: M. Zaher Shah
+      anecdote: En exil en Italie depuis sa destitution, il lance le 21 septembre 2001 un appel pour une assemblée des chefs de tribus dans son pays.
+    - id: 27
+      question: Quel français a été inculpé dans les attentats du 11 septembre ?
+      propositions:
+      - Nigel Hamer
+      - Djamel Beghal
+      - Ahmed Ressam
+      - Zacarias Moussaoui
+      réponse: Zacarias Moussaoui
+      anecdote: L'homme âgé de 33 ans a été arrêté le 17 août 2001 pour séjour irrégulier dans le Minnesota où il suivait des cours de pilotage.
+    - id: 28
+      question: Qui fut élu à la tête de la Banque mondiale le 31 mars 2005 ?
+      propositions:
+      - Paul Wolfowitz
+      - Robert Zoellick
+      - Jim Yong Kim
+      - James Wolfensohn
+      réponse: Paul Wolfowitz
+      anecdote: N°2 du Pentagone, il est élu à l'unanimité, malgré les nombreuses réserves émises en Europe et dans les pays du tiers-monde.
+    - id: 29
+      question: Quel militaire et président syrien est décédé le 10 juin 2000 à Damas ?
+      propositions:
+      - Bachar el-Assad
+      - Hafez El-Assad
+      - Nazem Koudsi
+      - Ahmed Khatib
+      réponse: Hafez El-Assad
+      anecdote: Hafez el-Assad eut pour principale préoccupation l'unité du monde arabe dont il se voulait le leader.
+    - id: 30
+      question: Qu'a déclenché Ariel Sharon en se rendant sur l'esplanade des Mosquées le 28 août 2000 ?
+      propositions:
+      - Première Intifada
+      - Seconde Intifada
+      - Guerre de Gaza
+      - Guerre du Kippour
+      réponse: Seconde Intifada
+      anecdote: Ariel Sharon, alors chef du Likoud, voulait ainsi affirmer les droits imprescriptibles d'Israël sur ce lieu.

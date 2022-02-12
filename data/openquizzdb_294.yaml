@@ -1,0 +1,1650 @@
+---
+fournisseur: OpenQuizzDB - Fournisseur de contenu libre (https://www.openquizzdb.org)
+rédacteur: Philippe Bresoux
+thème: Fête de Saint-Nicolas (Distribution de cadeaux et friandises)
+difficulté: 4 / 5
+quizz:
+  fr:
+  - débutant:
+    - id: 1
+      question: Quel évêque est mis en scène durant la fête de Saint-Nicolas ?
+      propositions:
+      - Martin de Tours
+      - Alexis de Rome
+      - Nicolas de Myre
+      - Benoît de Nursie
+      réponse: Nicolas de Myre
+      anecdote: Évêque de Myre en Lycie, il a probablement participé au premier Concile de Nicée au cours duquel il combat l'arianisme.
+    - id: 2
+      question: Quel jour fête-t-on Saint-Nicolas pour l'Église catholique ?
+      propositions:
+      - 19 décembre
+      - 6 décembre
+      - 24 décembre
+      - 11 décembre
+      réponse: 6 décembre
+      anecdote: La fête de Saint-Nicolas est une tradition vivace dans plusieurs pays européens ainsi que dans le nord et l'est de la France.
+    - id: 3
+      question: Dans certaines régions d'Europe, de qui Saint Nicolas est-il accompagné ?
+      propositions:
+      - Père Fouettard
+      - Jack Frost
+      - Julbock
+      - Casse-noisette
+      réponse: Père Fouettard
+      anecdote: Vêtu d'un grand manteau noir avec un grand capuchon et de grosses bottes, le Père Fouettard porte parfois un fouet et un sac.
+    - id: 4
+      question: Outre le blanc, quelle couleur est souvent associée à Saint Nicolas ?
+      propositions:
+      - Bleu
+      - Noir
+      - Rouge
+      - Jaune
+      réponse: Rouge
+      anecdote: Il était en mauve et blanc, avec une crosse, dorée à l'origine, puis en rouge et blanc, ce qui le rapproche du Père Noël actuel.
+    - id: 5
+      question: Sur quoi Saint Nicolas se déplace-t-il en Belgique francophone ?
+      propositions:
+      - Rêne volant
+      - Cheval blanc
+      - Âne magique
+      - Éléphant royal
+      réponse: Âne magique
+      anecdote: Au nord comme au sud du pays, Saint Nicolas se déplace la nuit du 5 au 6 décembre pour déposer cadeaux et friandises.
+    - id: 6
+      question: Que retrouve-t-on dans les souliers des enfants belges à la Saint Nicolas ?
+      propositions:
+      - Cougnou
+      - Tarte au sucre
+      - Faluche
+      - Spéculoos
+      réponse: Spéculoos
+      anecdote: Traditionnellement, le spéculoos est le plus souvent consommé lors de l'avent et plus particulièrement lors de la fête de saint Nicolas.
+    - id: 7
+      question: Dans quel pays a lieu la soirée des paquets-surprises, la veille de la Saint-Nicolas ?
+      propositions:
+      - Luxembourg
+      - Pologne
+      - Pays-Bas
+      - Suisse
+      réponse: Pays-Bas
+      anecdote: Les paquets-surprises, donnés par Sinterklaas par la cheminée ou sur le pallier, sont souvent accompagnés de poèmes.
+    - id: 8
+      question: Comment se nomme l'acolyte de Saint-Nicolas dans le folklore alsacien ?
+      propositions:
+      - Guifred Estruch
+      - Bos de Bénac
+      - Hans Trapp
+      - Hermann Gessler
+      réponse: Hans Trapp
+      anecdote: À l'origine de ce personnage, il y aurait le maréchal Jean de Dratt (Hans von Trotha), brute sanguinaire qui terrorisait la population.
+    - id: 9
+      question: Dans quelle ville du sud de Nancy une grande basilique est-elle dédiée à Saint Nicolas ?
+      propositions:
+      - Mont-Saint-Martin
+      - Val de Briey
+      - Saint-Nicolas-de-Port
+      - Villerupt
+      réponse: Saint-Nicolas-de-Port
+      anecdote: En 1193, une seconde église y sera construite. C'est d'ailleurs dans celle-ci que viendra prier Jeanne d'Arc en 1429.
+    - id: 10
+      question: De quel dieu scandinave une partie des attributs de Saint Nicolas serait-elle inspirée ?
+      propositions:
+      - Odin
+      - Loki
+      - Thor
+      - Vali
+      réponse: Odin
+      anecdote: En effet, Odin est toujours accompagné de ses deux corbeaux qui voient tout et de son fidèle cheval Sleipnir.
+  - confirmé:
+    - id: 11
+      question: Aux Pays-Bas, de quel engin Saint Nicolas débarque-t-il venu d'Espagne ?
+      propositions:
+      - Planeur
+      - Avion
+      - Bateau
+      - Montgolfière
+      réponse: Bateau
+      anecdote: Il arrive depuis l'Espagne sur un bateau à vapeur (stoomboot) que l'on appelle Pakjesboot 12 (Bateau des petits paquets 12).
+    - id: 12
+      question: De quelle région de France Saint Nicolas est-il le saint patron depuis 1477 ?
+      propositions:
+      - Lorraine
+      - Limousin
+      - Lyonnais
+      - Languedoc
+      réponse: Lorraine
+      anecdote: En effet, alors que la Lorraine était occupée par la Bourgogne, le duc René II demanda la victoire (qu'il reçut) à saint Nicolas.
+    - id: 13
+      question: À Nancy, sur combien de semaines sont étalées les fêtes de Saint-Nicolas ?
+      propositions:
+      - Une semaine
+      - Deux semaines
+      - Trois semaines
+      - Quatre semaines
+      réponse: Deux semaines
+      anecdote: Dans toute la ville on trouve des courses, des spectacles de rue, un marché fermier ou encore « le village de la marmaille ».
+    - id: 14
+      question: Combien de personnes sont venues écouter saint Nicolas à Fribourg en 2015 ?
+      propositions:
+      - 25 000
+      - 35 000
+      - 15 000
+      - 5 000
+      réponse: 25 000
+      anecdote: Traditionnellement, il y tient un discours qui contient des passages satiriques sur les événements de la ville de l'année écoulée.
+    - id: 15
+      question: En Hongrie, que dépose Saint Nicolas dans les bottes des méchants enfants ?
+      propositions:
+      - Marteau
+      - Faux rat
+      - Bâton
+      - Banane
+      réponse: Bâton
+      anecdote: Saint Nicolas est souvent accompagné par le Krampusz, l'effrayant assistant qui est chargé d'enlever les méchants enfants.
+    - id: 16
+      question: Quelle profession exerçait Pierre Lenoir, qui deviendra par la suite le Père Fouettard ?
+      propositions:
+      - Boucher
+      - Maçon
+      - Charpentier
+      - Serrurier
+      réponse: Boucher
+      anecdote: Il coupa trois enfants en petits morceaux pour finalement les mettre dans son saloir afin d'en faire du petit salé.
+    - id: 17
+      question: Quel jour fête-t-on Saint-Nicolas pour l'Église orthodoxe ?
+      propositions:
+      - 24 décembre
+      - 11 décembre
+      - 2 janvier
+      - 19 décembre
+      réponse: 19 décembre
+      anecdote: L'Église orthodoxe utilise encore le calendrier julien qui était est un calendrier solaire utilisé dans la Rome antique.
+    - id: 18
+      question: Outre les enfants, de qui Saint Nicolas est-il également le patron ?
+      propositions:
+      - Informaticiens
+      - Charpentiers
+      - Avocats
+      - Secrétaires
+      réponse: Avocats
+      anecdote: Il est aujourd'hui le patron de nombreuses corporations comme les prisonniers, les avocats, les ergothérapeutes, ou les célibataires.
+    - id: 19
+      question: En Autriche, quels personnages entourant Saint Nicolas font peur à la foule ?
+      propositions:
+      - Krampus
+      - Lagahoo
+      - Curupira
+      - Kolobox
+      réponse: Krampus
+      anecdote: Portant un masque de diable cornu et de grosses fourrures, ils agitent des chaînes, poursuivant les gens avec des bâtons.
+    - id: 20
+      question: Que représente la relique de saint Nicolas conservée à Saint-Nicolas-de-Port ?
+      propositions:
+      - Occipital
+      - Cubitus
+      - Humérus
+      - Phalange
+      réponse: Phalange
+      anecdote: La basilique a été restaurée à partir de 1983 grâce au legs considérable de Mme Camille Croué-Friedman, originaire de la ville.
+  - expert:
+    - id: 21
+      question: Quel est le point de passage incontournable du défilé de Saint-Nicolas à Metz ?
+      propositions:
+      - Fort de Queuleu
+      - Les Trinitaires
+      - Place d'Armes
+      - Fort Moselle
+      réponse: Place d'Armes
+      anecdote: À Metz, de nombreuses festivités ont lieu comme le défilé du Saint-Nicolas, des spectacles et aussi un feu d'artifice.
+    - id: 22
+      question: Dans quelle région de France le Père Fouettard est-il représenté comme mi-fée mi-sorcière ?
+      propositions:
+      - Franche-Comté
+      - Gascogne
+      - Anjou
+      - Touraine
+      réponse: Franche-Comté
+      anecdote: La Franche-Comté possède aussi ses brioches de la Saint-Nicolas, comme le Männele alsacien, aussi appelé Jean Bonhomme.
+    - id: 23
+      question: Au Luxembourg, que distribue le père Fouettard aux vilains enfants ?
+      propositions:
+      - Ronces
+      - Brindilles
+      - Orties
+      - Chardons
+      réponse: Brindilles
+      anecdote: Au Luxembourg, le père Fouettard est un petit homme dont le visage n'est pas visible car il est caché par une énorme capuche.
+    - id: 24
+      question: Dans quel pays les Iffelträger défilent-ils en portant d'énormes mitres éclairées ?
+      propositions:
+      - Suisse
+      - Hongrie
+      - Belgique
+      - Pologne
+      réponse: Suisse
+      anecdote: Ils sont accompagnés de centaines de personnes qui agitent de grosses cloches et des grelots.
+    - id: 25
+      question: Qui a peint « La Saint-Nicolas », tableau visible au Rijksmuseum d'Amsterdam ?
+      propositions:
+      - Andries Stock
+      - Jan Steen
+      - Cornelis Vroom
+      - Jacobus Vrel
+      réponse: Jan Steen
+      anecdote: Représentant du baroque, Jan Steen figure parmi les peintres de genre néerlandais les plus importants de son époque.
+    - id: 26
+      question: Qui a sorti en 2004 la BD « Le saint patron », dans la collection Ciboulette ?
+      propositions:
+      - Paul Gillon
+      - Alain Goutal
+      - Jean Graton
+      - Jochen Gerner
+      réponse: Jochen Gerner
+      anecdote: Né à Nancy en 1970, Jochen Gerner est diplômé de l'École nationale supérieure d'art de Nancy où il étudia de 1988 à 1993.
+    - id: 27
+      question: Que distribue Saint Nicolas aux enfants de Romont, dans le canton de Fribourg ?
+      propositions:
+      - Bricelets
+      - Biscômes
+      - Cuchaules
+      - Caracs
+      réponse: Biscômes
+      anecdote: Consommé dans le nord de la Suisse, le biscôme est une sorte de pain d'épice plat, de couleur brune et au goût épicé.
+    - id: 28
+      question: Qui a relancé la tradition de la Saint-Nicolas à Bulle, capitale du district de la Gruyère ?
+      propositions:
+      - Joseph Bertrand
+      - Henri Gremaud
+      - Ernest Bonnardel
+      - Nicolas Marchal
+      réponse: Henri Gremaud
+      anecdote: Aujourd'hui, l'organisation et l'animation de la fête est aux mains de la troupe de théâtre des Trétaux de Chalamala.
+    - id: 29
+      question: De quel chef-lieu du district de la Sarine Saint Nicolas est-il le patron ?
+      propositions:
+      - Corserey
+      - Avry
+      - Ponthaux
+      - Fribourg
+      réponse: Fribourg
+      anecdote: La ville Suisse se place sous le patronage de saint Nicolas de Myre, de sainte Barbe et de sainte Catherine d'Alexandrie.
+    - id: 30
+      question: Dans quel pays d'Europe la Saint-Nicolas est-elle appelée Mikolajki ?
+      propositions:
+      - Pays-Bas
+      - Suisse
+      - Pologne
+      - Luxembourg
+      réponse: Pologne
+      anecdote: À l'école, chacun offre un petit cadeau symbolique à un collègue dont le nom est tiré au sort quelques jours avant.
+  en:
+  - débutant:
+    - id: 1
+      question: Which bishop is staged during the feast of Saint Nicholas ?
+      propositions:
+      - Martin from Tours
+      - Nicolas de Myre
+      - Alexis of Rome
+      - Benedict of Nursia
+      réponse: Nicolas de Myre
+      anecdote: Bishop of Myra in Lycia, he probably participated in the First Council of Nicaea during which he fought Arianism.
+    - id: 2
+      question: What day do we celebrate Saint Nicholas for the Catholic Church ?
+      propositions:
+      - December 24
+      - December 11
+      - December 19
+      - December 6
+      réponse: December 6
+      anecdote: The feast of Saint Nicholas is a long-lived tradition in several European countries as well as in the north and east of France.
+    - id: 3
+      question: In certain regions of Europe, with whom is Saint Nicholas accompanied ?
+      propositions:
+      - Father Fouettard
+      - Jack Frost
+      - Julbock
+      - Nutcracker
+      réponse: Father Fouettard
+      anecdote: Dressed in a large black coat with a large hood and thick boots, Father Fouettard sometimes carries a whip and a bag.
+    - id: 4
+      question: Besides white, what color is often associated with Saint Nicholas ?
+      propositions:
+      - Black
+      - Yellow
+      - Blue
+      - Red
+      réponse: Red
+      anecdote: He was in mauve and white, with a butt, originally gold, then in red and white, which brings him closer to today's Santa Claus.
+    - id: 5
+      question: What does Saint Nicolas travel to in French-speaking Belgium ?
+      propositions:
+      - Flying Reindeer
+      - Royal elephant
+      - White horse
+      - Magic donkey
+      réponse: Magic donkey
+      anecdote: In the north as in the south of the country, Saint Nicolas comes on the night of December 5 to 6 to drop off gifts and sweets.
+    - id: 6
+      question: What do we find in the shoes of Belgian children on Saint Nicholas Day ?
+      propositions:
+      - Sugar pie
+      - Faluche
+      - Cougnou
+      - Speculoos
+      réponse: Speculoos
+      anecdote: Traditionally, it is most often consumed during Advent and more particularly during the feast of Saint Nicholas.
+    - id: 7
+      question: In which country does the evening of surprise packages take place on the eve of Saint-Nicolas ?
+      propositions:
+      - Poland
+      - Switzerland
+      - Netherlands
+      - Luxembourg
+      réponse: Netherlands
+      anecdote: The surprise packages, given by Sinterklaas by the fireplace or on the landing, are often accompanied by poems.
+    - id: 8
+      question: What is the name of Saint-Nicolas's acolyte in Alsatian folklore ?
+      propositions:
+      - Guifred Estruch
+      - Hans Trapp
+      - Hermann Gessler
+      - Bos de Bénac
+      réponse: Hans Trapp
+      anecdote: At the origin of this character, there would be Marshal Jean de Dratt (Hans von Trotha), a bloodthirsty brute who terrorized the population.
+    - id: 9
+      question: In which city in the south of Nancy is a large basilica dedicated to the Saint ?
+      propositions:
+      - Villerupt
+      - Mont-Saint-Martin
+      - Val de Briey
+      - Saint-Nicolas-de-Port
+      réponse: Saint-Nicolas-de-Port
+      anecdote: In 1193, a second church will be built there. It is in this one that will come to pray Joan of Arc in 1429.
+    - id: 10
+      question: From which Scandinavian god would some of the attributes of Saint Nicholas be inspired ?
+      propositions:
+      - Thor
+      - Loki
+      - Vali
+      - Odin
+      réponse: Odin
+      anecdote: Indeed, Odin is always accompanied by his two crows who see everything and his faithful horse Sleipnir.
+  - confirmé:
+    - id: 11
+      question: In the Netherlands, which vehicle did Saint Nicolas land from Spain ?
+      propositions:
+      - Glider
+      - Hot air balloon
+      - Plane
+      - Boat
+      réponse: Boat
+      anecdote: It arrives from Spain on a stoomboot called Pakjesboot 12 (Small packet boat 12).
+    - id: 12
+      question: From which region of France has Saint Nicolas been the patron saint since 1477 ?
+      propositions:
+      - Limousin
+      - Lyonnais
+      - Languedoc
+      - Lorraine
+      réponse: Lorraine
+      anecdote: Indeed, while Lorraine was occupied by Burgundy, Duke René II demanded the victory (which he received) from Saint Nicolas.
+    - id: 13
+      question: In Nancy, over how many weeks are the feasts of Saint-Nicolas spread out ?
+      propositions:
+      - Three weeks
+      - Four weeks
+      - One week
+      - Two weeks
+      réponse: Two weeks
+      anecdote: Throughout the city there are races, street shows, a farmer's market and even the village of La Marmaille.
+    - id: 14
+      question: How many people came to listen to Saint Nicholas in Friborg in 2015 ?
+      propositions:
+      - 35,000
+      - 5,000
+      - 15,000
+      - 25,000
+      réponse: 25,000
+      anecdote: Traditionally, he gives a speech there which contains satirical passages on the events of the city of the past year.
+    - id: 15
+      question: In Hungary, what does Saint Nicholas put in the boots of wicked children ?
+      propositions:
+      - A hammer
+      - A stick
+      - A false rat
+      - A banana
+      réponse: A stick
+      anecdote: Saint Nicholas is often accompanied by the Krampusz, the frightening helper who is in charge of kidnapping the wicked children.
+    - id: 16
+      question: What profession did Pierre Lenoir exercise, who would become Father Fouettard ?
+      propositions:
+      - Butcher
+      - Carpenter
+      - Locksmith
+      - Mason
+      réponse: Butcher
+      anecdote: He cut three children into small pieces to finally put them in his salting tub to make a little salt.
+    - id: 17
+      question: What day do we celebrate Saint Nicholas for the Orthodox Church ?
+      propositions:
+      - December 19
+      - December 24
+      - December 11
+      - January 2
+      réponse: December 19
+      anecdote: The Orthodox Church still uses the Julian calendar which was is a solar calendar used in ancient Rome.
+    - id: 18
+      question: Besides the children, of whom is Saint Nicholas also the patron ?
+      propositions:
+      - IT specialists
+      - Secretaries
+      - Lawyers
+      - Carpenters
+      réponse: Lawyers
+      anecdote: Today he is the patron of many corporations such as prisoners, lawyers, occupational therapists, and bachelors.
+    - id: 19
+      question: In Austria, which characters surrounding Saint Nicholas scare the crowd ?
+      propositions:
+      - Kolobox
+      - Curupira
+      - Krampus
+      - Lagahoo
+      réponse: Krampus
+      anecdote: Wearing a horned devil mask and thick furs, they wave chains, chasing people with sticks.
+    - id: 20
+      question: What does the relic of Saint Nicolas represent in Saint-Nicolas-de-Port ?
+      propositions:
+      - Phalanx
+      - Humerus
+      - Occipital
+      - Cubitus
+      réponse: Phalanx
+      anecdote: The basilica was restored from 1983 thanks to the considerable bequest of Mrs. Camille Croué-Friedman, originally from the city.
+  - expert:
+    - id: 21
+      question: What is the essential point of passage of the parade of Saint-Nicolas in Metz ?
+      propositions:
+      - Fort de Queuleu
+      - Fort Moselle
+      - The Trinitarians
+      - Place d'Armes
+      réponse: Place d'Armes
+      anecdote: In Metz, many festivities take place such as the Saint-Nicolas parade, shows and also fireworks.
+    - id: 22
+      question: In which region of France is Père Fouettard a woman, half fairy, half witch ?
+      propositions:
+      - Franche-Comté
+      - Anjou
+      - Gascony
+      - Touraine
+      réponse: Franche-Comté
+      anecdote: Franche-Comté also has its Saint-Nicolas brioches, such as the Alsatian Männele, also called Jean Bonhomme.
+    - id: 23
+      question: In Luxembourg, what does Father Fouettard distribute to naughty children ?
+      propositions:
+      - Thistles
+      - Twigs
+      - Nettles
+      - Brambles
+      réponse: Twigs
+      anecdote: In Luxembourg, Father Fouettard is a small man whose face is not visible because it is hidden by a huge hood.
+    - id: 24
+      question: In which country do the Iffelträger march wearing huge lighted miters ?
+      propositions:
+      - Poland
+      - Belgium
+      - Hungary
+      - Switzerland
+      réponse: Switzerland
+      anecdote: They are accompanied by hundreds of people who wave big bells and bells.
+    - id: 25
+      question: Who painted « La Saint-Nicolas », visible at the Rijksmuseum in Amsterdam ?
+      propositions:
+      - Jacobus Vrel
+      - Cornelis Vroom
+      - Andries Stock
+      - Jan Steen
+      réponse: Jan Steen
+      anecdote: Representative of the Baroque, Jan Steen is one of the most important Dutch genre painters of his time.
+    - id: 26
+      question: In 2004, who released the « The patron saint » comic in the Ciboulette collection ?
+      propositions:
+      - Alain Goutal
+      - Jochen Gerner
+      - Jean Graton
+      - Paul Gillon
+      réponse: Jochen Gerner
+      anecdote: Born in Nancy in 1970, Jochen Gerner graduated from the École nationale supérieure d'art de Nancy, where he studied from 1988 to 1993.
+    - id: 27
+      question: What does Saint Nicolas distribute to the children of Romont, in the canton of Friborg ?
+      propositions:
+      - Caracs
+      - Biscomes
+      - Bricelets
+      - Cuchaules
+      réponse: Biscomes
+      anecdote: Consumed in northern Switzerland, biscôme is a kind of flat gingerbread, brown in color and with a spicy taste.
+    - id: 28
+      question: Who revived the tradition of Saint-Nicolas in Bulle, capital of the district of Gruyère ?
+      propositions:
+      - Henri Gremaud
+      - Nicolas Marchal
+      - Ernest Bonnardel
+      - Joseph Bertrand
+      réponse: Henri Gremaud
+      anecdote: Today, the organization and animation of the festival is in the hands of the Trétaux de Chalamala theater troupe.
+    - id: 29
+      question: From which capital of the district of Sarine Saint Nicolas is he the patron of the city ?
+      propositions:
+      - Corserey
+      - Freiburg
+      - Ponthaux
+      - Avry
+      réponse: Freiburg
+      anecdote: The Swiss city is placed under the patronage of Saint Nicholas of Myra, Saint Barbara and Saint Catherine of Alexandria.
+    - id: 30
+      question: In which European country is Saint Nicholas called Mikolajki ?
+      propositions:
+      - Switzerland
+      - Netherlands
+      - Poland
+      - Luxembourg
+      réponse: Poland
+      anecdote: At school, everyone gives a small symbolic gift to a colleague whose name is drawn a few days before.
+  de:
+  - débutant:
+    - id: 1
+      question: Welcher Bischof wird beim Nikolausfest inszeniert ?
+      propositions:
+      - Nicolas de Myre
+      - Alexis von Rom
+      - Martin aus Tours
+      - Benedikt von Nursia
+      réponse: Nicolas de Myre
+      anecdote: Er war Bischof von Myra in Lykien und nahm wahrscheinlich am Ersten Konzil von Nicäa teil, bei dem er gegen den Arianismus kämpfte.
+    - id: 2
+      question: An welchem Tag feiern wir den Heiligen Nikolaus für die katholische Kirche ?
+      propositions:
+      - 11. Dezember
+      - 19. Dezember
+      - 6. Dezember
+      - 24. Dezember
+      réponse: 6. Dezember
+      anecdote: Das Fest des Heiligen Nikolaus hat in mehreren europäischen Ländern sowie im Norden und Osten Frankreichs eine lange Tradition.
+    - id: 3
+      question: Mit wem wird der Nikolaus in bestimmten Regionen Europas begleitet ?
+      propositions:
+      - Jack Frost
+      - Julbock
+      - Pater Fouettard
+      - Nussknacker
+      réponse: Pater Fouettard
+      anecdote: In einem großen schwarzen Mantel mit großer Kapuze und dicken Stiefeln trägt Pater Fouettard manchmal eine Peitsche und eine Tasche.
+    - id: 4
+      question: Welche Farbe wird neben Weiß oft mit dem Heiligen Nikolaus in Verbindung gebracht ?
+      propositions:
+      - Schwarz
+      - Blau
+      - Rot
+      - Gelb
+      réponse: Rot
+      anecdote: Er war in Mauve und Weiß, mit einem Kolben, ursprünglich gold, dann in Rot und Weiß, was ihn dem heutigen Weihnachtsmann näher bringt.
+    - id: 5
+      question: Wohin reist Saint Nicolas im französischsprachigen Belgien ?
+      propositions:
+      - Magischer Esel
+      - Weißes Pferd
+      - Fliegendes Rentier
+      - Königlicher Elefant
+      réponse: Magischer Esel
+      anecdote: Im Norden wie im Süden des Landes reist Saint Nicolas in der Nacht vom 5. auf den 6. Dezember, um Geschenke und Süßigkeiten abzugeben.
+    - id: 6
+      question: Was finden wir am Nikolaustag in den Schuhen belgischer Kinder ?
+      propositions:
+      - Spekulatius
+      - Cougnou
+      - Faluche
+      - Zuckerkuchen
+      réponse: Spekulatius
+      anecdote: Traditionell wird es am häufigsten in der Adventszeit und insbesondere während des Nikolausfestes konsumiert.
+    - id: 7
+      question: In welchem Land findet der Abend der Überraschungspakete am Vorabend von Saint-Nicolas statt ?
+      propositions:
+      - Luxemburg
+      - Polen
+      - Schweiz
+      - Niederlande
+      réponse: Niederlande
+      anecdote: Die Überraschungspakete, die Sinterklaas am Kamin oder auf dem Treppenabsatz überreicht, werden oft von Gedichten begleitet.
+    - id: 8
+      question: Wie heißt der Akolyth von Saint-Nicolas in der elsässischen Folklore ?
+      propositions:
+      - Bos de Benac
+      - Guifred Estruch
+      - Hans Trapp
+      - Hermann Gessler
+      réponse: Hans Trapp
+      anecdote: Am Ursprung dieser Figur sollte Marschall Jean de Dratt (Hans von Trotha) stehen, ein blutrünstiges Tier, das die Bevölkerung terrorisierte.
+    - id: 9
+      question: In welcher Stadt im Süden von Nancy ist dem Heiligen eine große Basilika geweiht ?
+      propositions:
+      - Val de Briey
+      - Villerupt
+      - Mont-Saint-Martin
+      - Saint-Nicolas-de-Port
+      réponse: Saint-Nicolas-de-Port
+      anecdote: 1193 wird dort eine zweite Kirche gebaut. In diesem wird auch Jeanne d'Arc 1429 beten.
+    - id: 10
+      question: Von welchem skandinavischen Gott wären einige der Attribute des Heiligen Nikolaus inspiriert ?
+      propositions:
+      - Thor
+      - Vali
+      - Loki
+      - Odin
+      réponse: Odin
+      anecdote: Tatsächlich wird Odin immer von seinen beiden Krähen, die alles sehen, und seinem treuen Pferd Sleipnir begleitet.
+  - confirmé:
+    - id: 11
+      question: Welches Fahrzeug landet in den Niederlanden von Saint Nicolas aus Spanien ?
+      propositions:
+      - Boot
+      - Flugzeug
+      - Segelflugzeug
+      - Heißluftballon
+      réponse: Boot
+      anecdote: Es kommt aus Spanien auf einem Stoomboot namens Pakjesboot 12 (Small Packet Boat 12).
+    - id: 12
+      question: Aus welcher Region Frankreichs ist Saint Nicolas seit 1477 der Schutzpatron ?
+      propositions:
+      - Lothringen
+      - Lyon
+      - Limousine
+      - Languedoc
+      réponse: Lothringen
+      anecdote: Während Lothringen von Burgund besetzt war, forderte Herzog René II. den Sieg (den er erhielt) von Saint Nicolas.
+    - id: 13
+      question: Auf wie viele Wochen erstrecken sich die Feste von Saint-Nicolas in Nancy ?
+      propositions:
+      - Vier Wochen
+      - Drei Wochen
+      - Zwei Wochen
+      - Eine Woche
+      réponse: Zwei Wochen
+      anecdote: In der ganzen Stadt gibt es Rennen, Straßenshows, einen Bauernmarkt und sogar das Dorf La Marmaille.
+    - id: 14
+      question: Wie viele Menschen kamen 2015 nach Freiburg, um Sankt Nikolaus zu hören ?
+      propositions:
+      - 15.000
+      - 35.000
+      - 25.000
+      - 5.000
+      réponse: 25.000
+      anecdote: Dort hält er traditionell eine Rede, die satirische Passagen zu den Ereignissen der Stadt des vergangenen Jahres enthält.
+    - id: 15
+      question: Was steckt Sankt Nikolaus in Ungarn in die Stiefel der bösen Kinder ?
+      propositions:
+      - Ein Stock
+      - Eine Banane
+      - Ein Hammer
+      - Eine falsche Ratte
+      réponse: Ein Stock
+      anecdote: Der heilige Nikolaus wird oft von den Krampusz begleitet, dem furchterregenden Helfer, der für die Entführung der bösen Kinder verantwortlich ist.
+    - id: 16
+      question: Welchen Beruf übte Pierre Lenoir aus, wer wurde Pater Fouettard ?
+      propositions:
+      - Metzger
+      - Schlosser
+      - Zimmermann
+      - Maurer
+      réponse: Metzger
+      anecdote: Er schnitt drei Kinder in kleine Stücke, um sie schließlich in seine Salzwanne zu legen, um ein wenig Salz herzustellen.
+    - id: 17
+      question: An welchem Tag feiern wir den Heiligen Nikolaus für die orthodoxe Kirche ?
+      propositions:
+      - 2. Januar
+      - 24. Dezember
+      - 11. Dezember
+      - 19. Dezember
+      réponse: 19. Dezember
+      anecdote: Die orthodoxe Kirche verwendet immer noch den Julianischen Kalender, der im alten Rom ein Sonnenkalender war.
+    - id: 18
+      question: Neben den Kindern, von wem ist der Heilige Nikolaus auch der Schutzpatron ?
+      propositions:
+      - Sekretäre
+      - IT-Spezialisten
+      - Rechtsanwälte
+      - Tischler
+      réponse: Rechtsanwälte
+      anecdote: Heute ist er der Schirmherr vieler Unternehmen wie Häftlinge, Anwälte, Ergotherapeuten und Junggesellen.
+    - id: 19
+      question: Welche Charaktere rund um den Nikolaus erschrecken in Österreich die Menge ?
+      propositions:
+      - Lagahoo
+      - Curupira
+      - Krampus
+      - Kolobox
+      réponse: Krampus
+      anecdote: Sie tragen eine gehörnte Teufelsmaske und dicke Felle, schwingen Ketten und jagen Menschen mit Stöcken.
+    - id: 20
+      question: Was stellt die Reliquie von Saint Nicolas in Saint-Nicolas-de-Port dar ?
+      propositions:
+      - Phalanx
+      - Humerus
+      - Hinterhauptbein
+      - Kubitus
+      réponse: Phalanx
+      anecdote: Die Basilika wurde 1983 dank des beträchtlichen Vermächtnisses der aus der Stadt stammenden Frau Camille Croué-Friedman restauriert.
+  - expert:
+    - id: 21
+      question: Was ist der wesentliche Durchgangspunkt der Parade von Saint-Nicolas in Metz ?
+      propositions:
+      - Fort de Queuleu
+      - Die Trinitarier
+      - Place d'Armes
+      - Festung Mosel
+      réponse: Place d'Armes
+      anecdote: In Metz finden viele Feste wie der Saint-Nicolas-Umzug, Shows und auch Feuerwerke statt.
+    - id: 22
+      question: In welcher Region Frankreichs ist Père Fouettard eine Frau, halb Fee, halb Hexe ?
+      propositions:
+      - Gascogne
+      - Franche-Comté
+      - Anjou
+      - Touraine
+      réponse: Franche-Comté
+      anecdote: In der Franche-Comté gibt es auch Saint-Nicolas-Brioches wie die elsässische Männele, auch Jean Bonhomme genannt.
+    - id: 23
+      question: Was verteilt Pater Fouettard in Luxemburg an ungezogene Kinder ?
+      propositions:
+      - Disteln
+      - Brombeeren
+      - Zweige
+      - Brennnesseln
+      réponse: Zweige
+      anecdote: In Luxemburg ist Pater Fouettard ein kleiner Mann, dessen Gesicht nicht sichtbar ist, weil es von einer riesigen Kapuze verdeckt wird.
+    - id: 24
+      question: In welchem Land marschieren die Iffelträger mit riesigen beleuchteten Mitra ?
+      propositions:
+      - Belgien
+      - Schweiz
+      - Polen
+      - Ungarn
+      réponse: Schweiz
+      anecdote: Sie werden von Hunderten von Menschen begleitet, die große Glocken und Glocken schwenken.
+    - id: 25
+      question: Wer hat « La Saint-Nicolas » gemalt, die im Rijksmuseum in Amsterdam zu sehen ist ?
+      propositions:
+      - Jacobus Vrel
+      - Andries Lager
+      - Cornelis Vroom
+      - Jan Steen
+      réponse: Jan Steen
+      anecdote: Als Vertreter des Barock ist Jan Steen einer der bedeutendsten niederländischen Genremaler seiner Zeit.
+    - id: 26
+      question: Wer hat 2004 den Comic « Der Schutzpatron » in der Sammlung Ciboulette veröffentlicht ?
+      propositions:
+      - Jochen Gerner
+      - Jean Graton
+      - Paul Gillon
+      - Alain Goutal
+      réponse: Jochen Gerner
+      anecdote: 1970 in Nancy geboren, absolvierte Jochen Gerner die École nationale supérieure d'art de Nancy, wo er von 1988 bis 1993 studierte.
+    - id: 27
+      question: Was verteilt Saint Nicolas an die Kinder von Romont im Kanton Freiburg ?
+      propositions:
+      - Caracs
+      - Biscome
+      - Cuchaules
+      - Bricelets
+      réponse: Biscome
+      anecdote: Biscôme wird in der Nordschweiz konsumiert und ist eine Art flacher Lebkuchen, braun in der Farbe und mit einem würzigen Geschmack.
+    - id: 28
+      question: Wer hat die Tradition von Saint-Nicolas in Bulle, der Hauptstadt des Bezirks Greyerz, wiederbelebt ?
+      propositions:
+      - Henri Gremaud
+      - Nicolas Marchal
+      - Ernest Bonnardel
+      - Joseph Bertrand
+      réponse: Henri Gremaud
+      anecdote: Heute liegt die Organisation und Animation des Festivals in den Händen der Theatertruppe Trétaux de Chalamala.
+    - id: 29
+      question: Aus welcher Hauptstadt des Bezirks Sarine Saint Nicolas ist er der Schutzpatron der Stadt ?
+      propositions:
+      - Avry
+      - Korserey
+      - Ponthaux
+      - Freiburg
+      réponse: Freiburg
+      anecdote: Die Schweizer Stadt steht unter dem Patronat des Heiligen Nikolaus von Myra, der Heiligen Barbara und der Heiligen Katharina von Alexandria.
+    - id: 30
+      question: In welchem europäischen Land heißt der heilige Nikolaus Mikolajki ?
+      propositions:
+      - Niederlande
+      - Luxemburg
+      - Schweiz
+      - Polen
+      réponse: Polen
+      anecdote: In der Schule überreicht jeder ein kleines symbolisches Geschenk an einen Kollegen, dessen Name einige Tage zuvor gezeichnet wurde.
+  es:
+  - débutant:
+    - id: 1
+      question: ¿Qué obispo se representa durante la fiesta de San Nicolás ?
+      propositions:
+      - Benito de Nursia
+      - Alexis de Roma
+      - Nicolas de Myre
+      - Martin de Tours
+      réponse: Nicolas de Myre
+      anecdote: Obispo de Myra en Licia, probablemente participó en el Primer Concilio de Nicea durante el cual luchó contra el arrianismo.
+    - id: 2
+      question: ¿Qué día celebramos a San Nicolás para la Iglesia Católica ?
+      propositions:
+      - 11 de diciembre
+      - 6 de diciembre
+      - 24 de diciembre
+      - 19 de diciembre
+      réponse: 6 de diciembre
+      anecdote: La fiesta de San Nicolás es una tradición de larga data en varios países europeos, así como en el norte y este de Francia.
+    - id: 3
+      question: En determinadas regiones de Europa, ¿con quién va acompañado San Nicolás ?
+      propositions:
+      - Julbock
+      - Padre Fouettard
+      - Jack Frost
+      - Cascanueces
+      réponse: Padre Fouettard
+      anecdote: Vestido con un gran abrigo negro con una gran capucha y botas gruesas, el padre Fouettard a veces lleva un látigo y una bolsa.
+    - id: 4
+      question: Además del blanco, ¿qué color se asocia a menudo con San Nicolás ?
+      propositions:
+      - Negro
+      - Azul
+      - Amarillo
+      - Rojo
+      réponse: Rojo
+      anecdote: Estaba en malva y blanco, con un trasero, originalmente dorado, luego en rojo y blanco, lo que lo acerca al Papá Noel de hoy.
+    - id: 5
+      question: ¿A qué viaja San Nicolás en la Bélgica francófona ?
+      propositions:
+      - Elefante real
+      - Caballo blanco
+      - Burro mágico
+      - Reno volador
+      réponse: Burro mágico
+      anecdote: En el norte como en el sur del país, San Nicolás llega la noche del 5 al 6 de diciembre para dejar regalos y dulces.
+    - id: 6
+      question: ¿Qué encontramos en la piel de los niños belgas el día de San Nicolás ?
+      propositions:
+      - Cougnou
+      - Speculoos
+      - Pastel de azúcar
+      - Faluche
+      réponse: Speculoos
+      anecdote: Tradicionalmente, se consume con mayor frecuencia durante el Adviento y más particularmente durante la fiesta de San Nicolás.
+    - id: 7
+      question: ¿En qué país tiene lugar la noche de los paquetes sorpresa en vísperas de Saint-Nicolas ?
+      propositions:
+      - Holanda
+      - Luxemburgo
+      - Polonia
+      - Suiza
+      réponse: Holanda
+      anecdote: Los paquetes sorpresa, entregados por Sinterklaas junto a la chimenea o en el rellano, suelen ir acompañados de poemas.
+    - id: 8
+      question: ¿Cuál es el nombre del acólito de Saint-Nicolas en el folclore alsaciano ?
+      propositions:
+      - Hermann Gessler
+      - Guifred Estruch
+      - Hans Trapp
+      - Bos de Bénac
+      réponse: Hans Trapp
+      anecdote: En el origen de este personaje, estaría el mariscal Jean de Dratt (Hans von Trotha), un bruto sanguinario que aterrorizaba a la población.
+    - id: 9
+      question: ¿En qué ciudad del sur de Nancy hay una gran basílica dedicada al Santo ?
+      propositions:
+      - Mont-Saint-Martin
+      - Villerupt
+      - Saint-Nicolas-de-Port
+      - Val de Briey
+      réponse: Saint-Nicolas-de-Port
+      anecdote: En 1193 se construirá allí una segunda iglesia. También en este vendrá a rezar Juana de Arco en 1429.
+    - id: 10
+      question: ¿De qué dios escandinavo se inspirarían algunos de los atributos de San Nicolás ?
+      propositions:
+      - Loki
+      - Thor
+      - Vali
+      - Odin
+      réponse: Odin
+      anecdote: De hecho, Odin siempre está acompañado por sus dos cuervos que lo ven todo y su fiel caballo Sleipnir.
+  - confirmé:
+    - id: 11
+      question: En Holanda, ¿qué vehículo aterriza Saint Nicolas desde España ?
+      propositions:
+      - Planeador
+      - Globo de aire caliente
+      - Barco
+      - Avión
+      réponse: Barco
+      anecdote: Llega desde España en un stoomboot llamado Pakjesboot 12 (Small Packet Boat 12).
+    - id: 12
+      question: ¿De qué región de Francia ha sido San Nicolás el santo patrón desde 1477 ?
+      propositions:
+      - Lyonnais
+      - Lorena
+      - Lemosín
+      - Languedoc
+      réponse: Lorena
+      anecdote: De hecho, mientras Lorena estaba ocupada por Borgoña, el duque René II exigió la victoria (que recibió) de San Nicolás.
+    - id: 13
+      question: En Nancy, ¿en cuántas semanas se extienden las fiestas de San Nicolás ?
+      propositions:
+      - Tres semanas
+      - Una semana
+      - Dos semanas
+      - Cuatro semanas
+      réponse: Dos semanas
+      anecdote: En toda la ciudad hay carreras, espectáculos callejeros, un mercado de agricultores e incluso el pueblo de La Marmaille.
+    - id: 14
+      question: ¿Cuántas personas vinieron a escuchar a San Nicolás en Friburgo en 2015 ?
+      propositions:
+      - 5,000
+      - 15.000
+      - 35,000
+      - 25,000
+      réponse: 25,000
+      anecdote: Tradicionalmente, allí da un discurso que contiene pasajes satíricos sobre los acontecimientos de la ciudad del año pasado.
+    - id: 15
+      question: En Hungría, ¿qué pone San Nicolás en las botas de los niños malvados ?
+      propositions:
+      - Un palo
+      - Un martillo
+      - Una rata falsa
+      - Un plátano
+      réponse: Un palo
+      anecdote: San Nicolás suele ir acompañado del Krampusz, el espantoso ayudante que se encarga de secuestrar a los niños malvados.
+    - id: 16
+      question: ¿Qué profesión ejercía Pierre Lenoir, que se convertiría en el padre Fouettard ?
+      propositions:
+      - Mason
+      - Carpintero
+      - Cerrajero
+      - Carnicero
+      réponse: Carnicero
+      anecdote: Cortó a tres niños en trozos pequeños para finalmente ponerlos en su tina de salazón para hacer un poco de sal.
+    - id: 17
+      question: ¿Qué día celebramos a San Nicolás para la Iglesia Ortodoxa ?
+      propositions:
+      - 24 de diciembre
+      - 2 de enero
+      - 11 de diciembre
+      - 19 de diciembre
+      réponse: 19 de diciembre
+      anecdote: La Iglesia Ortodoxa todavía usa el calendario juliano, que era un calendario solar usado en la antigua Roma.
+    - id: 18
+      question: Además de los niños, ¿de quién es también patrón San Nicolás ?
+      propositions:
+      - Carpinteros
+      - Especialistas en informática
+      - Abogados
+      - Secretarios
+      réponse: Abogados
+      anecdote: Hoy es el patrón de muchas corporaciones como prisioneros, abogados, terapeutas ocupacionales y solteros.
+    - id: 19
+      question: En Austria, ¿qué personajes que rodean a San Nicolás asustan a la multitud ?
+      propositions:
+      - Curupira
+      - Lagahoo
+      - Kolobox
+      - Krampus
+      réponse: Krampus
+      anecdote: Con una máscara de demonio con cuernos y pieles gruesas, agitan cadenas, persiguiendo a la gente con palos.
+    - id: 20
+      question: ¿Qué representa la reliquia de San Nicolás en Saint-Nicolas-de-Port ?
+      propositions:
+      - Occipital
+      - Phalanx
+      - Cubitus
+      - Húmero
+      réponse: Phalanx
+      anecdote: La basílica fue restaurada a partir de 1983 gracias al considerable legado de la Sra. Camille Croué-Friedman, originaria de la ciudad.
+  - expert:
+    - id: 21
+      question: ¿Cuál es el punto de paso esencial del desfile de San Nicolás en Metz ?
+      propositions:
+      - Los trinitarios
+      - Place d'Armes
+      - Fort Moselle
+      - Fuerte de Queuleu
+      réponse: Place d'Armes
+      anecdote: En Metz, se llevan a cabo muchas festividades como el desfile de Saint-Nicolas, espectáculos y también fuegos artificiales.
+    - id: 22
+      question: ¿En qué región de Francia es Père Fouettard una mujer, mitad hada, mitad bruja ?
+      propositions:
+      - Anjou
+      - Gascuña
+      - Touraine
+      - Franco Condado
+      réponse: Franco Condado
+      anecdote: Franche-Comté también tiene sus brioches de Saint-Nicolas, como el alsaciano Männele, también llamado Jean Bonhomme.
+    - id: 23
+      question: En Luxemburgo, ¿qué distribuye el padre Fouettard a los niños traviesos ?
+      propositions:
+      - Ortigas
+      - Ramitas
+      - Zarzas
+      - Cardos
+      réponse: Ramitas
+      anecdote: En Luxemburgo, el padre Fouettard es un hombre pequeño cuyo rostro no se ve porque está oculto por una gran capucha.
+    - id: 24
+      question: ¿En qué país marchan los Iffelträger con enormes mitras iluminadas ?
+      propositions:
+      - Bélgica
+      - Suiza
+      - Hungría
+      - Polonia
+      réponse: Suiza
+      anecdote: Los acompañan cientos de personas que agitan grandes campanas y campanas.
+    - id: 25
+      question: ¿Quién pintó « La Saint-Nicolas », visible en el Rijksmuseum de Amsterdam ?
+      propositions:
+      - Acciones de Andries
+      - Jacobus Vrel
+      - Jan Steen
+      - Cornelis Vroom
+      réponse: Jan Steen
+      anecdote: Representante del Barroco, Jan Steen es uno de los pintores de género holandeses más importantes de su tiempo.
+    - id: 26
+      question: En 2004, ¿quién lanzó el cómic « El santo patrón » de la colección Ciboulette ?
+      propositions:
+      - Jean Graton
+      - Alain Goutal
+      - Jochen Gerner
+      - Paul Gillon
+      réponse: Jochen Gerner
+      anecdote: Nacido en Nancy en 1970, Jochen Gerner se graduó en la École nationale supérieure d'art de Nancy, donde estudió de 1988 a 1993.
+    - id: 27
+      question: ¿Qué distribuye San Nicolás a los niños de Romont, en el cantón de Friburgo ?
+      propositions:
+      - Caracs
+      - Cuchaules
+      - Bricelets
+      - Biscomes
+      réponse: Biscomes
+      anecdote: Consumido en el norte de Suiza, el biscôme es una especie de pan de jengibre plano, de color marrón y con un sabor picante.
+    - id: 28
+      question: ¿Quién revivió la tradición de Saint-Nicolas en Bulle, capital del distrito de Gruyère ?
+      propositions:
+      - Joseph Bertrand
+      - Nicolas Marchal
+      - Ernest Bonnardel
+      - Henri Gremaud
+      réponse: Henri Gremaud
+      anecdote: Hoy, la organización y animación del festival está en manos de la compañía de teatro Trétaux de Chalamala.
+    - id: 29
+      question: ¿De qué capital del distrito de Sarine Saint Nicolas es el patrón de la ciudad ?
+      propositions:
+      - Avry
+      - Ponthaux
+      - Corserey
+      - Friburgo
+      réponse: Friburgo
+      anecdote: La ciudad suiza está bajo el patrocinio de San Nicolás de Myra, Santa Bárbara y Santa Catalina de Alejandría.
+    - id: 30
+      question: ¿En qué país europeo se llama San Nicolás Mikolajki ?
+      propositions:
+      - Holanda
+      - Suiza
+      - Luxemburgo
+      - Polonia
+      réponse: Polonia
+      anecdote: En la escuela, todos hacen un pequeño obsequio simbólico a un colega cuyo nombre se dibujó unos días antes.
+  it:
+  - débutant:
+    - id: 1
+      question: Quale vescovo va in scena durante la festa di San Nicola ?
+      propositions:
+      - Nicolas de Myre
+      - Benedetto da Norcia
+      - Martin di Tours
+      - Alessio di Roma
+      réponse: Nicolas de Myre
+      anecdote: Vescovo di Mira in Licia, partecipò probabilmente al Primo Concilio di Nicea durante il quale combatté l'arianesimo.
+    - id: 2
+      question: In che giorno si festeggia San Nicola per la Chiesa Cattolica ?
+      propositions:
+      - 11 dicembre
+      - 19 dicembre
+      - 24 dicembre
+      - 6 dicembre
+      réponse: 6 dicembre
+      anecdote: La festa di San Nicola è una tradizione longeva in diversi paesi europei così come nel nord e nell'est della Francia.
+    - id: 3
+      question: In certe regioni d'Europa, con chi è accompagnato San Nicola ?
+      propositions:
+      - Jack Frost
+      - Schiaccianoci
+      - Julbock
+      - Padre Fouetterd
+      réponse: Padre Fouetterd
+      anecdote: Vestito con un ampio cappotto nero con un grande cappuccio e stivali spessi, padre Fouettard a volte porta una frusta e una borsa.
+    - id: 4
+      question: Oltre al bianco, quale colore è spesso associato a San Nicola ?
+      propositions:
+      - Nero
+      - Blu
+      - Giallo
+      - Rosso
+      réponse: Rosso
+      anecdote: Era in color malva e bianco, con un calcio, originariamente dorato, poi rosso e bianco, che lo avvicina al Babbo Natale di oggi.
+    - id: 5
+      question: In cosa si reca Saint Nicolas nel Belgio francofono ?
+      propositions:
+      - Cavallo bianco
+      - Asino magico
+      - Elefante reale
+      - Renna volante
+      réponse: Asino magico
+      anecdote: Nel nord come nel sud del paese, Saint Nicolas viene la notte dal 5 al 6 dicembre per consegnare regali e dolci.
+    - id: 6
+      question: Cosa troviamo nei panni dei bambini belgi nel giorno di San Nicola ?
+      propositions:
+      - Cougnou
+      - Falche
+      - Torta di zucchero
+      - Speculoos
+      réponse: Speculoos
+      anecdote: Tradizionalmente, viene consumato più spesso durante l'Avvento e più in particolare durante la festa di San Nicola.
+    - id: 7
+      question: In quale paese si svolge la serata dei pacchi sorpresa alla vigilia di Saint-Nicolas ?
+      propositions:
+      - Lussemburgo
+      - Svizzera
+      - Polonia
+      - Paesi Bassi
+      réponse: Paesi Bassi
+      anecdote: I pacchi sorpresa, regalati da Sinterklaas davanti al caminetto o sul pianerottolo, sono spesso accompagnati da poesie.
+    - id: 8
+      question: Qual è il nome dell'accolito di Saint-Nicolas nel folklore alsaziano ?
+      propositions:
+      - Bos de Benac
+      - Hermann Gessler
+      - Hans Trapp
+      - Guifred Estruch
+      réponse: Hans Trapp
+      anecdote: All'origine di questo personaggio ci sarebbe il maresciallo Jean de Dratt (Hans von Trotha), un bruto assetato di sangue che terrorizzava la popolazione.
+    - id: 9
+      question: In quale città a sud di Nancy si trova una grande basilica dedicata al Santo ?
+      propositions:
+      - Val de Briey
+      - Mont-Saint-Martin
+      - Villerupt
+      - Saint-Nicolas-de-Port
+      réponse: Saint-Nicolas-de-Port
+      anecdote: Nel 1193 vi verrà costruita una seconda chiesa. È anche in questo che Giovanna d'Arco verrà a pregare nel 1429.
+    - id: 10
+      question: Da quale dio scandinavo si sarebbero ispirati alcuni degli attributi di San Nicola ?
+      propositions:
+      - Vali
+      - Odino
+      - Loki
+      - Thor
+      réponse: Odino
+      anecdote: Odino, infatti, è sempre accompagnato dai suoi due corvi che vedono tutto e dal suo fedele cavallo Sleipnir.
+  - confirmé:
+    - id: 11
+      question: Nei Paesi Bassi, quale veicolo atterra Saint Nicolas dalla Spagna ?
+      propositions:
+      - Aliante
+      - Mongolfiera
+      - Barca
+      - Aereo
+      réponse: Barca
+      anecdote: Arriva dalla Spagna su uno stoomboot chiamato Pakjesboot 12 (Small Packet Boat 12).
+    - id: 12
+      question: Da quale regione della Francia San Nicola è il patrono dal 1477 ?
+      propositions:
+      - Lione
+      - Linguadoca
+      - Lorena
+      - Limosino
+      réponse: Lorena
+      anecdote: Infatti, mentre la Lorena era occupata dalla Borgogna, il duca Renato II chiese la vittoria (che ricevette) da San Nicola.
+    - id: 13
+      question: A Nancy, per quante settimane si diffondono le feste di Saint-Nicolas ?
+      propositions:
+      - Una settimana
+      - Tre settimane
+      - Due settimane
+      - Quattro settimane
+      réponse: Due settimane
+      anecdote: In tutta la città ci sono gare, spettacoli di strada, un mercato contadino e persino il villaggio di La Marmaille.
+    - id: 14
+      question: Quante persone sono venute ad ascoltare San Nicola a Friburgo nel 2015 ?
+      propositions:
+      - 5.000
+      - 15.000
+      - 35.000
+      - 25.000
+      réponse: 25.000
+      anecdote: Tradizionalmente, tiene un discorso lì che contiene passaggi satirici sugli eventi della città dell'anno passato.
+    - id: 15
+      question: In Ungheria, cosa mette San Nicola negli stivali dei bambini malvagi ?
+      propositions:
+      - Un martello
+      - Un falso ratto
+      - Una banana
+      - Un bastone
+      réponse: Un bastone
+      anecdote: San Nicola è spesso accompagnato dai Krampusz, lo spaventoso aiutante che si occupa di rapire i bambini malvagi.
+    - id: 16
+      question: Quale professione esercitò Pierre Lenoir, che sarebbe diventato padre Fouettard ?
+      propositions:
+      - Macellaio
+      - massone
+      - Fabbro
+      - Falegname
+      réponse: Macellaio
+      anecdote: Ha tagliato tre bambini in piccoli pezzi per metterli finalmente nella sua vasca di salatura per fare un po' di sale.
+    - id: 17
+      question: In che giorno si festeggia San Nicola per la Chiesa Ortodossa ?
+      propositions:
+      - 19 dicembre
+      - 24 dicembre
+      - 11 dicembre
+      - 2 gennaio
+      réponse: 19 dicembre
+      anecdote: La Chiesa ortodossa usa ancora il calendario giuliano, che era un calendario solare usato nell'antica Roma.
+    - id: 18
+      question: Oltre ai bambini, di chi è anche il patrono San Nicola ?
+      propositions:
+      - Segretari
+      - Specialisti IT
+      - Avvocati
+      - Falegnami
+      réponse: Avvocati
+      anecdote: Oggi è il patrono di molte aziende come detenuti, avvocati, terapisti occupazionali e scapoli.
+    - id: 19
+      question: In Austria, quali personaggi che circondano San Nicola spaventano la folla ?
+      propositions:
+      - Curupira
+      - Lagahoo
+      - Krampus
+      - Kolobox
+      réponse: Krampus
+      anecdote: Indossando una maschera da diavolo cornuto e pellicce spesse, agitano le catene, inseguendo le persone con i bastoni.
+    - id: 20
+      question: Cosa rappresenta la reliquia di San Nicola a Saint-Nicolas-de-Port ?
+      propositions:
+      - Cubito
+      - Falange
+      - Occipitale
+      - Omero
+      réponse: Falange
+      anecdote: La basilica è stata restaurata a partire dal 1983 grazie al notevole lascito della signora Camille Croué-Friedman, originaria della città.
+  - expert:
+    - id: 21
+      question: Qual è il punto di passaggio essenziale della sfilata di Saint-Nicolas a Metz ?
+      propositions:
+      - I Trinitari
+      - Fort de Queuleu
+      - Place d'Armes
+      - Forte Mosella
+      réponse: Place d'Armes
+      anecdote: A Metz si svolgono molte feste come la sfilata di Saint-Nicolas, spettacoli e anche fuochi d'artificio.
+    - id: 22
+      question: In quale regione della Francia Père Fouettard è una donna, metà fata e metà strega ?
+      propositions:
+      - Touraine
+      - Angiò
+      - Guascogna
+      - Franca Contea
+      réponse: Franca Contea
+      anecdote: La Franca Contea ha anche le sue brioches Saint-Nicolas, come l'alsaziana Männele, chiamata anche Jean Bonhomme.
+    - id: 23
+      question: In Lussemburgo, cosa distribuisce padre Fouettard ai bambini cattivi ?
+      propositions:
+      - Ortiche
+      - Rovi
+      - Cardi
+      - ramoscelli
+      réponse: ramoscelli
+      anecdote: In Lussemburgo, padre Fouettard è un uomo piccolo il cui volto non è visibile perché nascosto da un enorme cappuccio.
+    - id: 24
+      question: In quale paese la marcia Iffelträger indossa enormi mitra illuminate ?
+      propositions:
+      - Svizzera
+      - Polonia
+      - Belgio
+      - Ungheria
+      réponse: Svizzera
+      anecdote: Sono accompagnati da centinaia di persone che agitano grandi campane e campanelli.
+    - id: 25
+      question: Chi ha dipinto « La Saint-Nicolas », visibile al Rijksmuseum di Amsterdam ?
+      propositions:
+      - Andries Stock
+      - Jacobus Vrel
+      - Cornelis Vroom
+      - Jan Steen
+      réponse: Jan Steen
+      anecdote: Rappresentante del barocco, Jan Steen è uno dei più importanti pittori di genere olandesi del suo tempo.
+    - id: 26
+      question: Chi ha pubblicato nel 2004 il fumetto « Il santo patrono » nella collezione Ciboulette ?
+      propositions:
+      - Alain Goutal
+      - Paul Gillon
+      - Jochen Gerner
+      - Jean Graton
+      réponse: Jochen Gerner
+      anecdote: Nato a Nancy nel 1970, Jochen Gerner si è laureato all'École nationale supérieure d'art de Nancy, dove ha studiato dal 1988 al 1993.
+    - id: 27
+      question: Cosa distribuisce Saint Nicolas ai bambini di Romont, nel cantone di Friburgo ?
+      propositions:
+      - Cuchaules
+      - Biscotti
+      - Caracs
+      - Bricchetti
+      réponse: Biscotti
+      anecdote: Consumato nel nord della Svizzera, il biscôme è una specie di panpepato piatto, di colore marrone e dal sapore piccante.
+    - id: 28
+      question: Chi ha fatto rivivere la tradizione di Saint-Nicolas a Bulle, capoluogo del distretto della Gruyère ?
+      propositions:
+      - Ernest Bonnardel
+      - Joseph Bertrand
+      - Henri Gremaud
+      - Nicolas Marchal
+      réponse: Henri Gremaud
+      anecdote: Oggi l'organizzazione e l'animazione del festival sono nelle mani della compagnia teatrale Trétaux de Chalamala.
+    - id: 29
+      question: Da quale capoluogo del distretto di Sarine Saint Nicolas è il patrono della città ?
+      propositions:
+      - Friburgo
+      - Ponthaux
+      - corsetto
+      - Avry
+      réponse: Friburgo
+      anecdote: La città svizzera è posta sotto il patronato di San Nicola di Mira, Santa Barbara e Santa Caterina d'Alessandria.
+    - id: 30
+      question: In quale paese europeo si chiama San Nicola Mikolajki ?
+      propositions:
+      - Svizzera
+      - Paesi Bassi
+      - Lussemburgo
+      - Polonia
+      réponse: Polonia
+      anecdote: A scuola tutti fanno un piccolo regalo simbolico a un collega il cui nome viene estratto qualche giorno prima.
+  nl:
+  - débutant:
+    - id: 1
+      question: Welke bisschop wordt opgevoerd tijdens het feest van Sinterklaas ?
+      propositions:
+      - Alexis van Rome
+      - Benedictus van Nursia
+      - Martin van Tours
+      - Nicolas de Myre
+      réponse: Nicolas de Myre
+      anecdote: Bisschop van Myra in Lycia, nam hij waarschijnlijk deel aan het Eerste Concilie van Nicea waarin hij het Arianisme bestreed.
+    - id: 2
+      question: Welke dag vieren we Sinterklaas voor de katholieke kerk ?
+      propositions:
+      - 11 december
+      - 24 december
+      - 6 december
+      - 19 december
+      réponse: 6 december
+      anecdote: Het feest van Sinterklaas is een langlevende traditie in verschillende Europese landen, maar ook in het noorden en oosten van Frankrijk.
+    - id: 3
+      question: Met wie wordt Sinterklaas in bepaalde regio's van Europa vergezeld ?
+      propositions:
+      - Vader Fouettard
+      - Julbock
+      - Jack Frost
+      - Notenkraker
+      réponse: Vader Fouettard
+      anecdote: Gekleed in een grote zwarte jas met een grote capuchon en dikke laarzen, draagt pater Fouettard soms een zweep en een tas.
+    - id: 4
+      question: Welke kleur wordt naast wit vaak geassocieerd met Sinterklaas ?
+      propositions:
+      - Zwart
+      - Blauw
+      - Rood
+      - Geel
+      réponse: Rood
+      anecdote: Hij was in mauve en wit, met een kont, oorspronkelijk goud, dan in rood en wit, wat hem dichter bij de huidige kerstman brengt.
+    - id: 5
+      question: Waarheen reist Sinterklaas in Franstalig België ?
+      propositions:
+      - Koninklijke olifant
+      - Wit paard
+      - Magische ezel
+      - Vliegend rendier
+      réponse: Magische ezel
+      anecdote: Zowel in het noorden als in het zuiden van het land reist Sinterklaas de nacht van 5 op 6 december af om cadeautjes en snoepjes af te geven.
+    - id: 6
+      question: Wat vinden we op Sinterklaas in de schoenen van Belgische kinderen ?
+      propositions:
+      - Speculoos
+      - Faluche
+      - Suikertaart
+      - Cougnou
+      réponse: Speculoos
+      anecdote: Traditioneel wordt het meestal geconsumeerd tijdens de advent en meer in het bijzonder tijdens het feest van Sinterklaas.
+    - id: 7
+      question: In welk land vindt de avond van de verrassingspakketten plaats aan de vooravond van Sint-Niklaas ?
+      propositions:
+      - Nederland
+      - Zwitserland
+      - Luxemburg
+      - Polen
+      réponse: Nederland
+      anecdote: De verrassingspakketten, die Sinterklaas geeft bij de open haard of op de overloop, gaan vaak vergezeld van gedichten.
+    - id: 8
+      question: Hoe heet de acoliet van Sint-Niklaas in de Elzasser folklore ?
+      propositions:
+      - Guifred Estruch
+      - Hermann Gessler
+      - Hans Trapp
+      - Bos de Benac
+      réponse: Hans Trapp
+      anecdote: Aan de oorsprong van dit personage zou maarschalk Jean de Dratt (Hans von Trotha) staan, een bloeddorstige bruut die de bevolking terroriseerde.
+    - id: 9
+      question: In welke stad in het zuiden van Nancy staat een grote basiliek gewijd aan de heilige ?
+      propositions:
+      - Val de Briey
+      - Villerupt
+      - Mont-Saint-Martin
+      - Saint-Nicolas-de-Port
+      réponse: Saint-Nicolas-de-Port
+      anecdote: In 1193 wordt daar een tweede kerk gebouwd. Het is ook in deze dat Jeanne d'Arc in 1429 zal komen bidden.
+    - id: 10
+      question: Van welke Scandinavische god zouden sommige attributen van Sinterklaas zijn geïnspireerd ?
+      propositions:
+      - Loki
+      - Odin
+      - Vali
+      - Thor
+      réponse: Odin
+      anecdote: Inderdaad, Odin wordt altijd vergezeld door zijn twee kraaien die alles zien en zijn trouwe paard Sleipnir.
+  - confirmé:
+    - id: 11
+      question: Met welk voertuig landt Sinterklaas in Nederland vanuit Spanje ?
+      propositions:
+      - Heteluchtballon
+      - Vliegtuig
+      - Zweefvliegtuig
+      - Boot
+      réponse: Boot
+      anecdote: Het komt uit Spanje op een stoomboot genaamd Pakjesboot 12 (Small Packet Boat 12).
+    - id: 12
+      question: Uit welke regio van Frankrijk is Sint-Nicolaas sinds 1477 de patroonheilige ?
+      propositions:
+      - Lotharingen
+      - Lyonnais
+      - Limousin
+      - Languedoc
+      réponse: Lotharingen
+      anecdote: Inderdaad, terwijl Lorraine door Bourgondië werd bezet, eiste hertog René II de overwinning (die hij ontving) van Sint-Nicolaas.
+    - id: 13
+      question: In Nancy, over hoeveel weken zijn de feesten van Sint-Nicolaas verdeeld ?
+      propositions:
+      - Een week
+      - Twee weken
+      - Drie weken
+      - Vier weken
+      réponse: Twee weken
+      anecdote: Door de hele stad zijn er races, straatshows, een boerenmarkt en zelfs het dorp La Marmaille.
+    - id: 14
+      question: Hoeveel mensen kwamen er in 2015 naar Sinterklaas luisteren in Fribourg ?
+      propositions:
+      - 15.000
+      - 25.000
+      - 35.000
+      - 5.000
+      réponse: 25.000
+      anecdote: Traditioneel houdt hij daar een toespraak die satirische passages bevat over de gebeurtenissen in de stad van het afgelopen jaar.
+    - id: 15
+      question: Wat stopt Sinterklaas in Hongarije in de laarzen van slechte kinderen ?
+      propositions:
+      - Een banaan
+      - Een hamer
+      - Een stok
+      - Een valse rat
+      réponse: Een stok
+      anecdote: Sinterklaas wordt vaak vergezeld door de Krampusz, de angstaanjagende helper die de leiding heeft over de ontvoering van de slechte kinderen.
+    - id: 16
+      question: Welk beroep oefende Pierre Lenoir uit, die pater Fouettard zou worden ?
+      propositions:
+      - Slotenmaker
+      - Slager
+      - Timmerman
+      - Metselaar
+      réponse: Slager
+      anecdote: Hij sneed drie kinderen in kleine stukjes om ze uiteindelijk in zijn zoutkuip te doen om een beetje zout te maken.
+    - id: 17
+      question: Op welke dag vieren we Sinterklaas voor de Orthodoxe Kerk ?
+      propositions:
+      - 24 december
+      - 19 december
+      - 11 december
+      - 2 januari
+      réponse: 19 december
+      anecdote: De orthodoxe kerk gebruikt nog steeds de Juliaanse kalender, een zonnekalender die in het oude Rome werd gebruikt.
+    - id: 18
+      question: Van wie is naast de kinderen Sinterklaas ook de beschermheilige ?
+      propositions:
+      - IT-specialisten
+      - secretaresses
+      - Timmerlieden
+      - Advocaten
+      réponse: Advocaten
+      anecdote: Tegenwoordig is hij de beschermheer van vele bedrijven, zoals gevangenen, advocaten, ergotherapeuten en vrijgezellen.
+    - id: 19
+      question: Welke personages rond Sinterklaas schrikken in Oostenrijk de menigte af ?
+      propositions:
+      - Krampus
+      - Curupira
+      - Kolobox
+      - Lagahoo
+      réponse: Krampus
+      anecdote: Met een gehoornd duivelsmasker en dikke vachten zwaaien ze met kettingen en jagen ze mensen op met stokken.
+    - id: 20
+      question: Wat vertegenwoordigt de relikwie van Sint-Nicolaas in Saint-Nicolas-de-Port ?
+      propositions:
+      - Opperarmbeen
+      - Cubitus
+      - occipitaal
+      - Falanx
+      réponse: Falanx
+      anecdote: De basiliek werd vanaf 1983 gerestaureerd dankzij het aanzienlijke legaat van mevrouw Camille Croué-Friedman, oorspronkelijk afkomstig uit de stad.
+  - expert:
+    - id: 21
+      question: Wat is het essentiële doorgangspunt van de parade van Sint-Niklaas in Metz ?
+      propositions:
+      - Fort Moezel
+      - De Trinitariërs
+      - Place d'Armes
+      - Fort de Queuleu
+      réponse: Place d'Armes
+      anecdote: In Metz vinden veel festiviteiten plaats, zoals de Sint-Niklaasparade, shows en ook vuurwerk.
+    - id: 22
+      question: In welke regio van Frankrijk is Père Fouettard een vrouw, half fee, half heks ?
+      propositions:
+      - Gascogne
+      - Touraine
+      - Anjou
+      - Franche-Comté
+      réponse: Franche-Comté
+      anecdote: Franche-Comté heeft ook zijn Saint-Nicolas brioches, zoals de Elzasser Männele, ook wel Jean Bonhomme genoemd.
+    - id: 23
+      question: Wat deelt pater Fouettard in Luxemburg uit aan stoute kinderen ?
+      propositions:
+      - Distels
+      - Bramen
+      - Brandnetels
+      - Takjes
+      réponse: Takjes
+      anecdote: In Luxemburg is pater Fouettard een kleine man wiens gezicht niet zichtbaar is omdat het wordt verborgen door een enorme kap.
+    - id: 24
+      question: In welk land marcheren de Iffelträger met enorme verlichte mijters ?
+      propositions:
+      - Hongarije
+      - Zwitserland
+      - Polen
+      - België
+      réponse: Zwitserland
+      anecdote: Ze worden vergezeld door honderden mensen die met grote klokken zwaaien.
+    - id: 25
+      question: Wie schilderde « La Saint-Nicolas », te zien in het Rijksmuseum in Amsterdam ?
+      propositions:
+      - Andries Voorraad
+      - Jan Steen
+      - Jacobus Vrel
+      - Cornelis Vroom
+      réponse: Jan Steen
+      anecdote: Vertegenwoordiger van de barok, Jan Steen is een van de belangrijkste Nederlandse genreschilders van zijn tijd.
+    - id: 26
+      question: Wie bracht in 2004 de strip « De patroonheilige » uit in de Ciboulette-collectie ?
+      propositions:
+      - Paul Gillon
+      - Jean Graton
+      - Alain Goutal
+      - Jochen Gerner
+      réponse: Jochen Gerner
+      anecdote: Jochen Gerner, geboren in 1970 in Nancy, studeerde af aan de École nationale supérieure d'art de Nancy, waar hij van 1988 tot 1993 studeerde.
+    - id: 27
+      question: Wat deelt Sint-Nicolaas uit aan de kinderen van Romont, in het kanton Fribourg ?
+      propositions:
+      - Cuchaules
+      - Caracs
+      - Brikeletten
+      - Biscoms
+      réponse: Biscoms
+      anecdote: Biscôme, geconsumeerd in Noord-Zwitserland, is een soort platte peperkoek, bruin van kleur en met een pittige smaak.
+    - id: 28
+      question: Wie heeft de traditie van Sint-Niklaas nieuw leven ingeblazen in Bulle, de hoofdstad van het district Gruyère ?
+      propositions:
+      - Ernest Bonnardel
+      - Nicolas Marchal
+      - Joseph Bertrand
+      - Henri Gremaud
+      réponse: Henri Gremaud
+      anecdote: Vandaag de dag is de organisatie en animatie van het festival in handen van de theatergroep Trétaux de Chalamala.
+    - id: 29
+      question: Van welke hoofdstad van het district Sarine Saint Nicolas is hij de beschermheilige van de stad ?
+      propositions:
+      - Freiburg
+      - Ponthaus
+      - Avry
+      - Corserey
+      réponse: Freiburg
+      anecdote: De Zwitserse stad staat onder het beschermheerschap van Sint Nicolaas van Myra, Sint Barbara en Sint Catharina van Alexandrië.
+    - id: 30
+      question: In welk Europees land heet Sinterklaas Mikolajki ?
+      propositions:
+      - Polen
+      - Luxemburg
+      - Nederland
+      - Zwitserland
+      réponse: Polen
+      anecdote: Op school geeft iedereen een klein symbolisch cadeau aan een collega wiens naam een paar dagen eerder is getrokken.

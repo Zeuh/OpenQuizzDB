@@ -1,0 +1,2216 @@
+{                                     
+  "fournisseur": "OpenQuizzDB - Fournisseur de contenu libre (https://www.openquizzdb.org)",
+  "rédacteur": "Philippe Bresoux",
+  "thème": "Expressions connues (La culture, moins on en a, plus on l'étale)",         
+  "difficulté": "4 / 5",
+  "quizz": {
+    "fr": {
+      "débutant": [
+      {
+        "id": 1,
+        "question": "Quel sport de combat a vu naître l'expression « jeter l'éponge » ?",
+        "propositions": [
+          "Judo",
+          "Boxe",
+          "Lutte",
+          "Catch"
+        ],
+        "réponse": "Boxe",
+        "anecdote": "Quand le coach n'arrivait plus à reconnaître son poulain tellement il avait pris de bourre-pif, il jetait l'éponge à terre."
+      },
+      {
+        "id": 2,
+        "question": "De quelle section militaire provient l'expression « être mis à pied » ?",
+        "propositions": [
+          "Infanterie",
+          "Radio",
+          "Logistique",
+          "Cavalerie"
+        ],
+        "réponse": "Cavalerie",
+        "anecdote": "Lorsque les cavaliers étaient sanctionnés par leurs supérieurs, on leur retirait leurs armes, leurs chevaux, et même parfois leurs slips."
+      },
+      {
+        "id": 3,
+        "question": "De quel écrit provient l'expression « vieux comme Mathusalem » ?",
+        "propositions": [
+          "Quid",
+          "Guide Michelin",
+          "Bible",
+          "Petit Larousse"
+        ],
+        "réponse": "Bible",
+        "anecdote": "Mathusalem, qui serait mort à l'âge de 969 ans, est célèbre pour être la personne la plus âgée mentionnée dans l'Ancien Testament."
+      },
+      {
+        "id": 4,
+        "question": "Quelle expression signifie que vous possédez un modèle récent de tablette ?",
+        "propositions": [
+          "Dernier cri",
+          "Nouveau son",
+          "Première onde",
+          "Haute voix"
+        ],
+        "réponse": "Dernier cri",
+        "anecdote": "Bien avant l'invention de la télévision et la lecture de journaux par la population, les informations étaient criées sur la place publique."
+      },
+      {
+        "id": 5,
+        "question": "Quel animal se cache en réalité derrière l'expression « fier comme un pou » ?",
+        "propositions": [
+          "Coq",
+          "Ours",
+          "Cheval",
+          "Lion"
+        ],
+        "réponse": "Coq",
+        "anecdote": "En réalité, le pou désignait autrefois le coq, associé dans la symbolique occidentale à la vigueur, au courage et à la fierté."
+      },
+      {
+        "id": 6,
+        "question": "À quel document se rapporte l'expression « en voiture Simone », reprise par Guy Lux ?",
+        "propositions": [
+          "Permis de conduire",
+          "Billet d'avion",
+          "Ticket de train",
+          "CV"
+        ],
+        "réponse": "Permis de conduire",
+        "anecdote": "Mademoiselle Simone Louise de Pinet de Borde des Forest fut une des premières Françaises à obtenir son permis de conduire, en 1929."
+      },
+      {
+        "id": 7,
+        "question": "Au début du XXe siècle, dans quel endroit était-il fréquent de « faire un tabac » ?",
+        "propositions": [
+          "Théâtre",
+          "Cirque",
+          "Hôpital",
+          "Tribunal"
+        ],
+        "réponse": "Théâtre",
+        "anecdote": "Au début du XXe siècle, pour un comédien de théâtre, l'expression « avoir le gros tabac » signifiait en fait « être très applaudi »."
+      },
+      {
+        "id": 8,
+        "question": "Comment partez-vous si vous le faites « sans tambour ni trompette » ?",
+        "propositions": [
+          "Sans argent",
+          "Sans bruit",
+          "Sans vêtement",
+          "Sans famille"
+        ],
+        "réponse": "Sans bruit",
+        "anecdote": "Venue du monde militaire en 1650, cette expression s'est généralisée à toute action effectuée discrètement ou secrètement."
+      },
+      {
+        "id": 9,
+        "question": "Comment faut-il « nager » pour manoeuvrer sans se compromettre ?",
+        "propositions": [
+          "Entre deux eaux",
+          "À contre courant",
+          "Sur le dos",
+          "Avec des palmes"
+        ],
+        "réponse": "Entre deux eaux",
+        "anecdote": "Cette expression apparue au XIVe siècle vient en réalité de la marine, où « nager » voulait alors dire « conduire un bateau »."
+      },
+      {
+        "id": 10,
+        "question": "Quelle expression est évoquée chez les hommes de la quarantaine ?",
+        "propositions": [
+          "Démon de midi",
+          "Faire le baron",
+          "Plein aux as",
+          "Tourner la page"
+        ],
+        "réponse": "Démon de midi",
+        "anecdote": "Ce démon-là serait d'abord né d'une erreur de traduction de la Bible de l'hébreu vers le grec par les Septante."
+      }
+    ],
+    "confirmé": [
+      {
+        "id": 11,
+        "question": "Que devez-vous être si on vous demande de « ne pas tirer sur le pianiste » ?",
+        "propositions": [
+          "Indulgent",
+          "Rapide",
+          "Franc",
+          "Craintif"
+        ],
+        "réponse": "Indulgent",
+        "anecdote": "Ce message était écrit à l'entrée des saloons car lorsqu'une bagarre démarrait, le pianiste était souvent la première cible."
+      },
+      {
+        "id": 12,
+        "question": "Dans quelle position vous retrouvez-vous si vous êtes « sur la sellette » ?",
+        "propositions": [
+          "Assis",
+          "Pendu",
+          "Debout",
+          "Couché"
+        ],
+        "réponse": "Assis",
+        "anecdote": "Au XIIIe siècle, la sellette était dans les tribunaux un siège bas afin que les juges puissent dominer et dégrader l'accusé."
+      },
+      {
+        "id": 13,
+        "question": "Comment voyait-on un ourson pour qu'il devienne un « ours mal léché » ?",
+        "propositions": [
+          "Malade",
+          "Rasé",
+          "Enragé",
+          "Difforme"
+        ],
+        "réponse": "Difforme",
+        "anecdote": "Au XVIIe siècle, on croyait que les oursons naissaient difformes et que c'était les mères qui les façonnaient en les léchant longuement."
+      },
+      {
+        "id": 14,
+        "question": "De que type de gaz provient l'expression « il y a de l'eau dans le gaz » ?",
+        "propositions": [
+          "Gaz de chasse",
+          "Gaz naturel",
+          "Gaz de houille",
+          "Gaz de schiste"
+        ],
+        "réponse": "Gaz de houille",
+        "anecdote": "Autrefois, la flamme du réchaud pouvait s'éteindre avec le gaz de houille chargé de vapeur d'eau, provoquant retard et disputes."
+      },
+      {
+        "id": 15,
+        "question": "À quel type de combat remonte l'expression « au pied du mur » ?",
+        "propositions": [
+          "Épée",
+          "Hache",
+          "Lance",
+          "Main nue"
+        ],
+        "réponse": "Épée",
+        "anecdote": "Lorsque l'adversaire reculait, il arrivait un moment où il se trouvait au pied du mur, ceci l'obligeant à se défendre ou à s'avouer vaincu."
+      },
+      {
+        "id": 16,
+        "question": "De quelle époque date l'expression « une autre paire de manches » ?",
+        "propositions": [
+          "Renaissance",
+          "Antiquité",
+          "Préhistoire",
+          "Moyen Âge"
+        ],
+        "réponse": "Moyen Âge",
+        "anecdote": "Les manches étaient une partie détachable du reste de l'habit : en journée, on changeait ses manches au gré de ses activités."
+      },
+      {
+        "id": 17,
+        "question": "Au XVIIIe siècle, quelle profession a généré « la fin des haricots » ?",
+        "propositions": [
+          "Avocat",
+          "Pompier",
+          "Huissier",
+          "Marin"
+        ],
+        "réponse": "Marin",
+        "anecdote": "Il convenait de manger a bord les animaux vivants et produits frais, puis les biscuits secs, les produits fumés et enfin les jambons."
+      },
+      {
+        "id": 18,
+        "question": "Originellement, de qui disait-on qu'il s'était fait la malle ?",
+        "propositions": [
+          "Pilote",
+          "Explorateur",
+          "Banquier",
+          "Prisonnier"
+        ],
+        "réponse": "Prisonnier",
+        "anecdote": "Cette expression semble en effet être apparue vers 1935 dans les milieux carcéraux pour signifier s'évader ou se faire la belle."
+      },
+      {
+        "id": 19,
+        "question": "Laquelle de ces expressions, synonyme de réprimander, pourriez-vous utiliser ?",
+        "propositions": [
+          "Avoir les foies",
+          "Bourrer le mou",
+          "Passer un savon",
+          "Fendre la bise"
+        ],
+        "réponse": "Passer un savon",
+        "anecdote": "Autrefois, les femmes faisaient la lessive à l'aide de savon et d'une palette en y échangeant informations, potins et médisances."
+      },
+      {
+        "id": 20,
+        "question": "Au XVIe siècle, que coupait-on réellement pour « couper le sifflet » à quelqu'un ?",
+        "propositions": [
+          "Main",
+          "Gorge",
+          "Pieds",
+          "Sexe"
+        ],
+        "réponse": "Gorge",
+        "anecdote": "En effet, à cette époque, le sifflet, au figuré, désignait le gosier, cet endroit où passe la trachée-artère par laquelle nous respirons."
+      }
+    ],
+    "expert": [
+      {
+        "id": 21,
+        "question": "Quel lieu a engendré l'expression mentir comme un arracheur de dents ?",
+        "propositions": [
+          "Champs",
+          "Musées",
+          "Hôpitaux",
+          "Rue"
+        ],
+        "réponse": "Rue",
+        "anecdote": "Au XIXe siècle, les dentistes exerçaient dans la rue et engageaient des musiciens pour ne pas dissuader d'éventuels nouveaux patients."
+      },
+      {
+        "id": 22,
+        "question": "Quel objet est à l'origine de l'expression « voir midi à sa porte » ?",
+        "propositions": [
+          "Cadran solaire",
+          "Sismographe",
+          "Girouette",
+          "Calendrier"
+        ],
+        "réponse": "Cadran solaire",
+        "anecdote": "Dans les campagnes, il était fréquent que soit installé un tel cadran sur la façade de la maison orientée au sud, à proximité de l'entrée."
+      },
+      {
+        "id": 23,
+        "question": "De quelle monde provient la célèbre expression « veiller au grain » ?",
+        "propositions": [
+          "Universitaire",
+          "Maritime",
+          "Agricole",
+          "Des affaires"
+        ],
+        "réponse": "Maritime",
+        "anecdote": "Le grain est en mer une tempête de vent soudaine que les marins redoutent et surveillent donc avec beaucoup d'attention."
+      },
+      {
+        "id": 24,
+        "question": "L'expression « être une tête de turc » provient de quel endroit particulier ?",
+        "propositions": [
+          "Théâtre",
+          "Fête foraine",
+          "Opéra",
+          "Cirque"
+        ],
+        "réponse": "Fête foraine",
+        "anecdote": "La partie sur laquelle on frappait pour mesurer sa force musculaire représentait au XIXe siècle une tête de Turc, particulièrement fort."
+      },
+      {
+        "id": 25,
+        "question": "À qui était directement destinée l'expression « sentir le roussi » ?",
+        "propositions": [
+          "Fidèles",
+          "Hérétiques",
+          "Prêtres",
+          "Prophètes"
+        ],
+        "réponse": "Hérétiques",
+        "anecdote": "L'expression fait référence aux hérétiques, victimes potentielles des foudres de l'Inquisition et souvent condamnées à finir au bûcher."
+      },
+      {
+        "id": 26,
+        "question": "Quelle peuplade est à l'origine de l'envoi du « bouc émissaire » ?",
+        "propositions": [
+          "Hébreux",
+          "Celtes",
+          "Étrusques",
+          "Phéniciens"
+        ],
+        "réponse": "Hébreux",
+        "anecdote": "À la fête des expiations, le Grand Prêtre envoyait vers le désert un pauvre bouc chargé de tous les péchés et malédictions d'Israël."
+      },
+      {
+        "id": 27,
+        "question": "Autour de quel jeu pouvait-on autrefois « épater la galerie » ?",
+        "propositions": [
+          "Polo",
+          "Tir à la corde",
+          "Jeu de paume",
+          "Baseball"
+        ],
+        "réponse": "Jeu de paume",
+        "anecdote": "Les galeries sont les espaces couverts ceinturant le jeu de paume où se tenaient les spectateurs chez qui susciter l'admiration."
+      },
+      {
+        "id": 28,
+        "question": "Dans quel lieu public pouvait-on jadis entendre un « minute papillon » ?",
+        "propositions": [
+          "Musée",
+          "Université",
+          "Café",
+          "Théâtre"
+        ],
+        "réponse": "Café",
+        "anecdote": "Papillon était le patronyme d'un serveur du café du Cadran à Paris : le « Minute Papillon » lui indiquait qu'il pouvait prendre son temps."
+      },
+      {
+        "id": 29,
+        "question": "Quel rapport lexical est à l'origine de l'expression « être dans les choux » ?",
+        "propositions": [
+          "Paronymie",
+          "Apocope",
+          "Paraphrase",
+          "Anastrophe"
+        ],
+        "réponse": "Paronymie",
+        "anecdote": "C'est la paronymie entre les choux et échouer qui est le tout premier sens de cette expression datant du milieu du XIXe siècle."
+      },
+      {
+        "id": 30,
+        "question": "Dans le langage de quelles courses arrivait-on « les doigts dans le nez » ?",
+        "propositions": [
+          "Automobiles",
+          "Cyclistes",
+          "De fond",
+          "Hippiques"
+        ],
+        "réponse": "Hippiques",
+        "anecdote": "C'est une image amusante qui montre la facilité qu'a eu le jockey à gagner, avec en plus les doigts dans le nez."
+      }
+    ]
+    },
+    "en": {
+      "débutant": [
+      {
+        "id": 1,
+        "question": "Which fighting sport has given birth to the expression « throw in the towel » ?",
+        "propositions": [
+          "Boxing",
+          "Wrestling",
+          "Catch",
+          "Judo"
+        ],
+        "réponse": "Boxing",
+        "anecdote": "When the coach could not recognize his foal so much he had taken a wad, he threw the sponge to the ground."
+      },
+      {
+        "id": 2,
+        "question": "Which military section does the expression « to be laid off » come from ?",
+        "propositions": [
+          "Infantry",
+          "Logistics",
+          "Radio",
+          "Cavalry"
+        ],
+        "réponse": "Cavalry",
+        "anecdote": "When the riders were sanctioned by their superiors, their weapons, their horses, and sometimes their underpants were removed."
+      },
+      {
+        "id": 3,
+        "question": "From what writing comes the expression « old as Methuselah » ?",
+        "propositions": [
+          "Petit Larousse",
+          "Michelin Guide",
+          "Bible",
+          "Quid"
+        ],
+        "réponse": "Bible",
+        "anecdote": "Methuselah, who died at the age of 969, is famous for being the eldest person mentioned in the Old Testament."
+      },
+      {
+        "id": 4,
+        "question": "What expression means you have a recent tablet model ?",
+        "propositions": [
+          "High voice",
+          "Trendy",
+          "New sound",
+          "First wave"
+        ],
+        "réponse": "Trendy",
+        "anecdote": "Long before the invention of television and the reading of newspapers by the population, information was shouted in the public square."
+      },
+      {
+        "id": 5,
+        "question": "What animal is actually hiding behind the expression « proud as a louse » ?",
+        "propositions": [
+          "Bear",
+          "Lion",
+          "Horse",
+          "Cock"
+        ],
+        "réponse": "Cock",
+        "anecdote": "In fact, the louse was once the cock, associated in Western symbolism with vigor, courage and pride."
+      },
+      {
+        "id": 6,
+        "question": "Which document refers to the expression « by car Simone », often taken up by Guy Lux ?",
+        "propositions": [
+          "Train ticket",
+          "Driving license",
+          "Air ticket",
+          "CV"
+        ],
+        "réponse": "Driving license",
+        "anecdote": "Mademoiselle Simone Louise de Pinet of Borde des Forest was one of the first French women to obtain her driving license in 1929."
+      },
+      {
+        "id": 7,
+        "question": "At the beginning of the twentieth century, in what place was it common to « make a cigarette » ?",
+        "propositions": [
+          "Hospital",
+          "Court",
+          "Circus",
+          "Theater"
+        ],
+        "réponse": "Theater",
+        "anecdote": "At the beginning of the 20th century, for a theater actor, the expression « to have the big tobacco » meant in fact « to be very applauded »."
+      },
+      {
+        "id": 8,
+        "question": "How do you go if you do it « without fanfare » ?",
+        "propositions": [
+          "Without clothes",
+          "Without noise",
+          "Without money",
+          "Without family"
+        ],
+        "réponse": "Without noise",
+        "anecdote": "Coming from the military world in 1650, this expression is generalized to all actions carried out discreetly or secretly."
+      },
+      {
+        "id": 9,
+        "question": "How is it necessary to maneuver without compromising ?",
+        "propositions": [
+          "Between two waters",
+          "With fins",
+          "Against a current",
+          "On the back"
+        ],
+        "réponse": "Between two waters",
+        "anecdote": "This expression, which appeared in the 14th century, actually comes from the Navy, where « swimming » then meant « driving a boat »."
+      },
+      {
+        "id": 10,
+        "question": "What expression is evoked in men in their forties ?",
+        "propositions": [
+          "Midday demon",
+          "Full of Ace",
+          "To make the baron",
+          "Turn the page"
+        ],
+        "réponse": "Midday demon",
+        "anecdote": "This demon would first be born of an error in the translation of the Bible from Hebrew to Greek by the Septuagint."
+      }
+    ],
+    "confirmé": [
+      {
+        "id": 11,
+        "question": "What should you be if you are asked to « do not shoot the pianist » ?",
+        "propositions": [
+          "Indulgent",
+          "Fearful",
+          "Franc",
+          "Fast"
+        ],
+        "réponse": "Indulgent",
+        "anecdote": "This message was written at the entrance of the saloons because when a fight started, the pianist was often the first target."
+      },
+      {
+        "id": 12,
+        "question": "In which position do you find yourself if you are « in the hot seat » ?",
+        "propositions": [
+          "Sitting",
+          "Hung",
+          "Layer",
+          "Standing"
+        ],
+        "réponse": "Sitting",
+        "anecdote": "In the thirteenth century, the hot seat was in the courts a low seat so that judges can dominate and degrade the accused."
+      },
+      {
+        "id": 13,
+        "question": "How did you see a cub to become a « badly licked bear » ?",
+        "propositions": [
+          "Difform",
+          "Mad",
+          "Shaven",
+          "Sick"
+        ],
+        "réponse": "Difform",
+        "anecdote": "In the seventeenth century, it was believed that cubs were born deformed and that it was the mothers who made them by licking them at length."
+      },
+      {
+        "id": 14,
+        "question": "What type of gas comes from the phrase « there is water in the gas » ?",
+        "propositions": [
+          "Coal gas",
+          "Natural gas",
+          "Hunting gas",
+          "Shale gas"
+        ],
+        "réponse": "Coal gas",
+        "anecdote": "In the past, the flame of the reheat could be extinguished with coal gas charged with water vapor, causing delay and disputes."
+      },
+      {
+        "id": 15,
+        "question": "What type of fight is the expression « at the foot of the wall » ?",
+        "propositions": [
+          "Ax",
+          "Sword",
+          "Lance",
+          "Bare hand"
+        ],
+        "réponse": "Sword",
+        "anecdote": "When the opponent recoiled, a moment came when he was at the foot of the wall, forcing him to defend himself or to confess defeat."
+      },
+      {
+        "id": 16,
+        "question": "What is the date of the expression « another pair of sleeves » ?",
+        "propositions": [
+          "Ancient history",
+          "Renaissance",
+          "Middle Age",
+          "Prehistory"
+        ],
+        "réponse": "Middle Age",
+        "anecdote": "The sleeves were a detachable part of the rest of the habit: in the day, one's sleeves were changed with the help of his activities."
+      },
+      {
+        "id": 17,
+        "question": "In the eighteenth century, what profession gave rise to the end of beans ?",
+        "propositions": [
+          "Marin",
+          "Bailiff",
+          "Firefighter",
+          "Lawyer"
+        ],
+        "réponse": "Marin",
+        "anecdote": "It was advisable to eat live animals and fresh products on board, then biscuits, smoked products and finally hams."
+      },
+      {
+        "id": 18,
+        "question": "Originally, who was said to have « made the trunk » ?",
+        "propositions": [
+          "Driver",
+          "Explorer",
+          "Prisoner",
+          "Banker"
+        ],
+        "réponse": "Prisoner",
+        "anecdote": "This expression seems indeed to have appeared around 1935 in the prison environment to mean « to escape » or « to make oneself beautiful »."
+      },
+      {
+        "id": 19,
+        "question": "Which of these expressions, synonymous with reprimand, could you use ?",
+        "propositions": [
+          "To pass a soap",
+          "Have the livers",
+          "Stuff the slack",
+          "Splitting the kiss"
+        ],
+        "réponse": "To pass a soap",
+        "anecdote": "In the past, women did laundry using soap and a palette, exchanging information, gossip and mediocrity."
+      },
+      {
+        "id": 20,
+        "question": "In the sixteenth century, what was really cut to « cut the whistle » to someone ?",
+        "propositions": [
+          "Feet",
+          "Hand",
+          "Throat",
+          "Sex"
+        ],
+        "réponse": "Throat",
+        "anecdote": "In fact, at that time, the whistle, figuratively, indicated the throat, the place where the trachea-artery through which we breathe passes."
+      }
+    ],
+    "expert": [
+      {
+        "id": 21,
+        "question": "Which place gave birth to the expression « lying like a tooth-puller » ?",
+        "propositions": [
+          "Museums",
+          "Fields",
+          "Hospitals",
+          "Street"
+        ],
+        "réponse": "Street",
+        "anecdote": "In the nineteenth century, dentists exercised in the street and hired musicians not to deter possible new patients."
+      },
+      {
+        "id": 22,
+        "question": "What is the purpose of the phrase « see noon at the door » ?",
+        "propositions": [
+          "Calendar",
+          "Seismograph",
+          "Weathervane",
+          "Sundial"
+        ],
+        "réponse": "Sundial",
+        "anecdote": "In the countryside, it was common for such a dial to be placed on the front of the house facing south, near the entrance."
+      },
+      {
+        "id": 23,
+        "question": "From which world does the famous phrase « watch the grain » come from ?",
+        "propositions": [
+          "Maritime",
+          "University",
+          "Agricultural",
+          "Business"
+        ],
+        "réponse": "Maritime",
+        "anecdote": "The grain is at sea a sudden windy weather that sailors dread and therefore watch with great attention."
+      },
+      {
+        "id": 24,
+        "question": "The expression « being a Turkish head » comes from which particular place ?",
+        "propositions": [
+          "Circus",
+          "Fun fair",
+          "Theater",
+          "Opéra"
+        ],
+        "réponse": "Fun fair",
+        "anecdote": "The part on which one struck to measure one's muscular force represented in the XIXe century a head of Turkish, particularly strong."
+      },
+      {
+        "id": 25,
+        "question": "Who was the phrase « smell of singed » meant for ?",
+        "propositions": [
+          "Prophets",
+          "Priests",
+          "Servants",
+          "Heretics"
+        ],
+        "réponse": "Heretics",
+        "anecdote": "The term refers to heretics, potential victims of the Inquisition's thunderstorms and often condemned to end the beaker."
+      },
+      {
+        "id": 26,
+        "question": "Which people are behind the sending of the « scapegoat » ?",
+        "propositions": [
+          "Etruscans",
+          "Celts",
+          "Hebrews",
+          "Phenicians"
+        ],
+        "réponse": "Hebrews",
+        "anecdote": "At the feast of atonement, the Great Preacher sent to the desert a poor goat with all the sin and malice of Israel."
+      },
+      {
+        "id": 27,
+        "question": "What kind of game was once used to « spoil the gallery » ?",
+        "propositions": [
+          "Play of palm",
+          "Baseball",
+          "Rope shooting",
+          "Polo"
+        ],
+        "réponse": "Play of palm",
+        "anecdote": "The galleries are the covered spaces surrounding the game of palm where the spectators were held in which to arouse the admiration."
+      },
+      {
+        "id": 28,
+        "question": "In what public place could we once hear a « butterfly minute » ?",
+        "propositions": [
+          "Museum",
+          "University",
+          "Theater",
+          "Coffeehouse"
+        ],
+        "réponse": "Coffeehouse",
+        "anecdote": "Papillon was the name of a café waiter at Le Cadran in Paris: the « Minute Papillonn » told him that he could take his time."
+      },
+      {
+        "id": 29,
+        "question": "What lexical relationship is the origin of the expression « be in cabbage » ?",
+        "propositions": [
+          "Paronymy",
+          "Apocope",
+          "Anastrophe",
+          "Paraphrase"
+        ],
+        "réponse": "Paronymy",
+        "anecdote": "It is the paronymy between cabbages and failure that is the very first meaning of this expression dating from the mid-nineteenth century."
+      },
+      {
+        "id": 30,
+        "question": "In the language of what races did one come « fingers in the nose » ?",
+        "propositions": [
+          "Background",
+          "Cyclists",
+          "Automobiles",
+          "Equine"
+        ],
+        "réponse": "Equine",
+        "anecdote": "It's a funny picture that shows how easy it was for the jockey to win, with more fingers in his nose."
+      }
+    ]
+    },
+    "de": {
+      "débutant": [
+      {
+        "id": 1,
+        "question": "Welcher Kampfsport hat den Ausdruck « Wurf im Handtuch » hervorgebracht ?",
+        "propositions": [
+          "Wrestling",
+          "Boxen",
+          "Judo",
+          "Fang"
+        ],
+        "réponse": "Boxen",
+        "anecdote": "Als der Trainer sein Fohlen nicht so gut erkennen konnte, warf er den Schwamm zu Boden."
+      },
+      {
+        "id": 2,
+        "question": "Aus welcher militärischen Abteilung stammt der Ausdruck « entlassen werden » ?",
+        "propositions": [
+          "Kavallerie",
+          "Radio",
+          "Infanterie",
+          "Logistik"
+        ],
+        "réponse": "Kavallerie",
+        "anecdote": "Als die Reiter von ihren Vorgesetzten sanktioniert wurden, wurden ihre Waffen, ihre Pferde und manchmal ihre Unterhosen entfernt."
+      },
+      {
+        "id": 3,
+        "question": "Aus welcher Schrift stammt der Ausdruck « alt wie Methusalem » ?",
+        "propositions": [
+          "Guide Michelin",
+          "Quid",
+          "Bibel",
+          "Petit Larousse"
+        ],
+        "réponse": "Bibel",
+        "anecdote": "Methusalah, der im Alter von 969 Jahren starb, ist berühmt dafür, die älteste im Alten Testament erwähnte Person zu sein."
+      },
+      {
+        "id": 4,
+        "question": "Welcher Ausdruck bedeutet, dass Sie ein neues Tablet-Modell haben ?",
+        "propositions": [
+          "Neuer Sound",
+          "Trendy",
+          "Hohe Stimme",
+          "Erste Welle"
+        ],
+        "réponse": "Trendy",
+        "anecdote": "Lange vor der Erfindung des Fernsehens und dem Lesen von Zeitungen durch die Bevölkerung wurden auf dem öffentlichen Platz Informationen gerufen."
+      },
+      {
+        "id": 5,
+        "question": "Welches Tier verbirgt sich eigentlich hinter dem Ausdruck « stolz wie eine Laus » ?",
+        "propositions": [
+          "Löwe",
+          "Pferd",
+          "Bär",
+          "Hahn"
+        ],
+        "réponse": "Hahn",
+        "anecdote": "Tatsächlich war die Laus einst der Hahn, verbunden in der westlichen Symbolik mit Kraft, Mut und Stolz."
+      },
+      {
+        "id": 6,
+        "question": "Welches Dokument bezieht sich auf den Ausdruck « mit dem Auto Simone », der oft von Guy Lux aufgegriffen wird ?",
+        "propositions": [
+          "Zugfahrkarte",
+          "Flugticket",
+          "Führerschein",
+          "Lebenslauf"
+        ],
+        "réponse": "Führerschein",
+        "anecdote": "Frau Simone Louise de Pinet von Borde des Forest war eine der ersten Französinnen, die 1929 ihren Führerschein erwarb."
+      },
+      {
+        "id": 7,
+        "question": "An welchem Ort war es zu Beginn des 20. Jahrhunderts üblich, « eine Zigarette zu machen » ?",
+        "propositions": [
+          "Theater",
+          "Krankenhaus",
+          "Zirkus",
+          "Gericht"
+        ],
+        "réponse": "Theater",
+        "anecdote": "Zu Beginn des 20. Jahrhunderts bedeutete der Ausdruck « den großen Tabak haben » für einen Theaterschauspieler in der Tat « sehr zu begrüßen »."
+      },
+      {
+        "id": 8,
+        "question": "Wie geht es dir, wenn du es « ohne Fanfare » machst ?",
+        "propositions": [
+          "Ohne kleidung",
+          "Ohne Lärm",
+          "Ohne geld",
+          "Ohne Familie"
+        ],
+        "réponse": "Ohne Lärm",
+        "anecdote": "Aus der Militärwelt im Jahr 1650 stammend, wird dieser Ausdruck auf alle diskret oder heimlich durchgeführten Handlungen verallgemeinert."
+      },
+      {
+        "id": 9,
+        "question": "Wie ist es notwendig zu manövrieren, ohne Kompromisse einzugehen ?",
+        "propositions": [
+          "Gegenstrom",
+          "Auf der Rückseite",
+          "Zwischen zwei Gewässern",
+          "Mit Flossen"
+        ],
+        "réponse": "Zwischen zwei Gewässern",
+        "anecdote": "Dieser Ausdruck, der im 14. Jahrhundert erschien, stammt eigentlich von der Marine, wo « Schwimmen » dann « Boot fahren » bedeutete."
+      },
+      {
+        "id": 10,
+        "question": "Welcher Ausdruck wird bei Männern in den Vierzigern hervorgerufen ?",
+        "propositions": [
+          "Mittags",
+          "Voller Ass",
+          "Seite umblättern",
+          "Den Baron machen ","Faire le baron"
+        ],
+        "réponse": "Mittags",
+        "anecdote": "Dieser Dämon würde zuerst aus einem Fehler in der Übersetzung der Bibel von Hebräisch nach Griechisch durch die Septuaginta geboren."
+      }
+    ],
+    "confirmé": [
+      {
+        "id": 11,
+        "question": "Was sollten Sie sein, wenn Sie gefragt werden, ob Sie den Pianisten nicht erschießen wollen ?",
+        "propositions": [
+          "Ängstlich",
+          "Franc",
+          "Schnell",
+          "Nachsichtig"
+        ],
+        "réponse": "Nachsichtig",
+        "anecdote": "Diese Nachricht wurde am Eingang der Saloons geschrieben, da der Pianist zu Beginn eines Kampfes oft das erste Ziel war."
+      },
+      {
+        "id": 12,
+        "question": "In welcher Position befinden Sie sich, wenn Sie « auf dem heißen Stuhl » sitzen ?",
+        "propositions": [
+          "Hinlegen",
+          "Hung",
+          "Stehend",
+          "Sitzen"
+        ],
+        "réponse": "Sitzen",
+        "anecdote": "Im dreizehnten Jahrhundert war der heiße Sitz in den Gerichten ein niedriger Sitz, damit Richter den Angeklagten dominieren und degradieren können."
+      },
+      {
+        "id": 13,
+        "question": "Wie haben Sie gesehen, wie aus einem Jungen ein « schlecht geleckter Bär » wurde ?",
+        "propositions": [
+          "Difform",
+          "Rasiert",
+          "Krank",
+          "Verrückt"
+        ],
+        "réponse": "Difform",
+        "anecdote": "Im siebzehnten Jahrhundert glaubte man, dass Jungen deformiert geboren wurden und dass es die Mütter waren, die sie herstellten, indem sie sie ausführlich leckten."
+      },
+      {
+        "id": 14,
+        "question": "Welche Art von Gas kommt von der Phrase « da ist Wasser im Gas » ?",
+        "propositions": [
+          "Kohlengas",
+          "Schiefergas",
+          "Jagdgas",
+          "Erdgas"
+        ],
+        "réponse": "Kohlengas",
+        "anecdote": "In der Vergangenheit konnte die Flamme der Wiedererwärmung mit mit Wasserdampf beladenem Kohlegas gelöscht werden, was zu Verzögerungen und Streitigkeiten führte."
+      },
+      {
+        "id": 15,
+        "question": "Welche Art von Kampf ist der Ausdruck « am Fuße der Mauer » ?",
+        "propositions": [
+          "Nackte hand",
+          "Axt",
+          "Lance",
+          "Schwert"
+        ],
+        "réponse": "Schwert",
+        "anecdote": "Als sich der Gegner zurückzog, kam ein Moment, als er am Fuße der Mauer war und ihn zwang, sich zu verteidigen oder eine Niederlage zu gestehen."
+      },
+      {
+        "id": 16,
+        "question": "Was ist das Datum des Ausdrucks « ein weiteres Paar Ärmel » ?",
+        "propositions": [
+          "Vorgeschichte",
+          "Renaissance",
+          "Altertum",
+          "Mittelalter"
+        ],
+        "réponse": "Mittelalter",
+        "anecdote": "Die Ärmel waren ein abnehmbarer Teil der übrigen Gewohnheit: Im Laufe des Tages wurden die Ärmel mit Hilfe seiner Aktivitäten gewechselt."
+      },
+      {
+        "id": 17,
+        "question": "Welcher Beruf führte im 18. Jahrhundert zum Ende der Bohnen ?",
+        "propositions": [
+          "Feuerwehrmann",
+          "Anwalt",
+          "Gerichtsvollzieher",
+          "Marin"
+        ],
+        "réponse": "Marin",
+        "anecdote": "Es war ratsam, lebende Tiere und frische Produkte an Bord zu essen, dann Kekse, geräucherte Produkte und schließlich Schinken."
+      },
+      {
+        "id": 18,
+        "question": "Wer soll ursprünglich « den Kofferraum gemacht » haben ?",
+        "propositions": [
+          "Banker",
+          "Fahrer",
+          "Gefangener",
+          "Explorer"
+        ],
+        "réponse": "Gefangener",
+        "anecdote": "Dieser Ausdruck scheint tatsächlich um 1935 im Gefängnisumfeld erschienen zu sein und bedeutet « entkommen » oder « sich schön machen »."
+      },
+      {
+        "id": 19,
+        "question": "Welchen dieser Ausdrücke, synonym mit Verweis, könnten Sie verwenden ?",
+        "propositions": [
+          "Haben die Lebern",
+          "Den Kuss aufteilen",
+          "Die Hose stopfen",
+          "Eine Seife geben"
+        ],
+        "réponse": "Eine Seife geben",
+        "anecdote": "In der Vergangenheit wuschen Frauen mit Seife und einer Palette, tauschten Informationen, Klatsch und Mittelmäßigkeit aus."
+      },
+      {
+        "id": 20,
+        "question": "Was wurde im 16. Jahrhundert wirklich geschnitten, um jemandem « die Pfeife zu schneiden » ?",
+        "propositions": [
+          "Füße",
+          "Hals",
+          "Hand",
+          "Sex"
+        ],
+        "réponse": "Hals",
+        "anecdote": "Tatsächlich zeigte zu dieser Zeit die Pfeife im übertragenen Sinne den Hals an, den Ort, an dem die Luftröhrenarterie, durch die wir atmen, verläuft."
+      }
+    ],
+    "expert": [
+      {
+        "id": 21,
+        "question": "An welchem Ort ist der Ausdruck « Lügen wie ein Zahnputzer » entstanden ?",
+        "propositions": [
+          "Museen",
+          "Straße",
+          "Krankenhäuser",
+          "Felder"
+        ],
+        "réponse": "Straße",
+        "anecdote": "Im neunzehnten Jahrhundert übten Zahnärzte auf der Straße und engagierten Musiker, um mögliche neue Patienten nicht abzuschrecken."
+      },
+      {
+        "id": 22,
+        "question": "Was ist der Zweck der Phrase « Mittag an der Tür sehen » ?",
+        "propositions": [
+          "Wetterfahne",
+          "Kalender",
+          "Seismograph",
+          "Sonnenuhr"
+        ],
+        "réponse": "Sonnenuhr",
+        "anecdote": "Auf dem Land war es üblich, dass ein solches Zifferblatt an der nach Süden ausgerichteten Vorderseite des Hauses in der Nähe des Eingangs angebracht wurde."
+      },
+      {
+        "id": 23,
+        "question": "Aus welcher Welt stammt der berühmte Satz « watch the grain » ?",
+        "propositions": [
+          "Maritime",
+          "Landwirtschaft",
+          "Geschäft",
+          "Universität"
+        ],
+        "réponse": "Maritime",
+        "anecdote": "Das Getreide ist auf See ein plötzliches windiges Wetter, das Seeleute fürchten und daher mit großer Aufmerksamkeit beobachten."
+      },
+      {
+        "id": 24,
+        "question": "Der Ausdruck « ein türkischer Kopf sein » kommt von welchem bestimmten Ort ?",
+        "propositions": [
+          "Zirkus",
+          "Jahrmarkt",
+          "Oper",
+          "Theater"
+        ],
+        "réponse": "Jahrmarkt",
+        "anecdote": "Der Teil, auf den man traf, um seine Muskelkraft zu messen, stellte im 19. Jahrhundert einen Türken dar, der besonders stark war."
+      },
+      {
+        "id": 25,
+        "question": "Für wen war der Ausdruck « Geruch nach versengt » gedacht ?",
+        "propositions": [
+          "Priester",
+          "Ketzer",
+          "Diener",
+          "Propheten"
+        ],
+        "réponse": "Ketzer",
+        "anecdote": "Der Begriff bezieht sich auf Ketzer, potenzielle Opfer der Gewitter der Inquisition und oft dazu verurteilt, den Becher zu beenden."
+      },
+      {
+        "id": 26,
+        "question": "Welche Menschen stehen hinter der Entsendung des « Sündenbocks » ?",
+        "propositions": [
+          "Etrusker",
+          "Hebräer",
+          "Phönizier",
+          "Kelten"
+        ],
+        "réponse": "Hebräer",
+        "anecdote": "Am Versöhnungsfest sandte der Große Prediger eine arme Ziege mit all der Sünde und Bosheit Israels in die Wüste."
+      },
+      {
+        "id": 27,
+        "question": "Um welches Spiel könnte man die Galerie jemals « verwöhnen » ?",
+        "propositions": [
+          "Polo",
+          "Seilschießen",
+          "Baseball",
+          "Palmenspiel"
+        ],
+        "réponse": "Palmenspiel",
+        "anecdote": "Die Galerien sind die überdachten Räume rund um das Palmenspiel, in denen sich die Zuschauer befanden, um die Bewunderung zu wecken."
+      },
+      {
+        "id": 28,
+        "question": "An welchem öffentlichen Ort konnten wir einmal eine « Schmetterlingsminute » hören ?",
+        "propositions": [
+          "Museum",
+          "Café",
+          "Universität",
+          "Theater"
+        ],
+        "réponse": "Café",
+        "anecdote": "Papillon hieß ein Kellnercafé im Le Cadran in Paris: Die « Minute Papillon » sagte ihm, er könne sich Zeit lassen."
+      },
+      {
+        "id": 29,
+        "question": "In welcher lexikalischen Beziehung befindet sich der Ursprung des Ausdrucks « in Kohl » ?",
+        "propositions": [
+          "Anastrophe",
+          "Apocope",
+          "Paraphrase",
+          "Paronymie"
+        ],
+        "réponse": "Paronymie",
+        "anecdote": "Es ist die Paronymie zwischen Kohl und Versagen, die die allererste Bedeutung dieses Ausdrucks aus der Mitte des neunzehnten Jahrhunderts darstellt."
+      },
+      {
+        "id": 30,
+        "question": "In der Sprache welcher Rassen kam man « Finger in die Nase » ?",
+        "propositions": [
+          "Automobile",
+          "Pferde",
+          "Hintergrund",
+          "Radfahrer"
+        ],
+        "réponse": "Pferde",
+        "anecdote": "Es ist ein lustiges Bild, das zeigt, wie einfach es für den Jockey war, mit mehr Fingern in der Nase zu gewinnen."
+      }
+    ]
+    },
+    "es": {
+      "débutant": [
+      {
+        "id": 1,
+        "question": "¿Qué deporte de lucha ha dado origen a la expresión « tirar la toalla » ?",
+        "propositions": [
+          "Captura",
+          "Boxeo",
+          "Lucha libre",
+          "Judo"
+        ],
+        "réponse": "Boxeo",
+        "anecdote": "Cuando el entrenador no pudo reconocer tanto a su potro que había tomado un taco, tiró la esponja al suelo."
+      },
+      {
+        "id": 2,
+        "question": "¿De qué sección militar proviene la expresión « ser despedido » ?",
+        "propositions": [
+          "Infantería",
+          "Caballería",
+          "Logística",
+          "Radio"
+        ],
+        "réponse": "Caballería",
+        "anecdote": "Cuando los jinetes fueron sancionados por sus superiores, se retiraron sus armas, sus caballos y, a veces, sus calzoncillos."
+      },
+      {
+        "id": 3,
+        "question": "¿De qué escritura proviene la expresión « viejo como Matusalén » ?",
+        "propositions": [
+          "Guía Michelin",
+          "Biblia",
+          "Quid",
+          "Petit Larousse"
+        ],
+        "réponse": "Biblia",
+        "anecdote": "Matusalén, quien murió a la edad de 969, es famoso por ser la persona mayor mencionada en el Antiguo Testamento."
+      },
+      {
+        "id": 4,
+        "question": "¿Qué expresión significa que tienes un modelo de tableta reciente ?",
+        "propositions": [
+          "De moda",
+          "Voz alta",
+          "Primera ola",
+          "Nuevo sonido"
+        ],
+        "réponse": "De moda",
+        "anecdote": "Mucho antes de la invención de la televisión y la lectura de periódicos por parte de la población, la información se gritaba en la plaza pública."
+      },
+      {
+        "id": 5,
+        "question": "¿Qué animal se esconde detrás de la expresión « orgulloso como un piojo » ?",
+        "propositions": [
+          "Oso",
+          "Gallo",
+          "Caballo",
+          "León"
+        ],
+        "réponse": "Gallo",
+        "anecdote": "De hecho, el piojo fue una vez el gallo, asociado en el simbolismo occidental con vigor, coraje y orgullo."
+      },
+      {
+        "id": 6,
+        "question": "¿Qué documento se refiere a la expresión « en auto Simone », a menudo tomada por Guy Lux ?",
+        "propositions": [
+          "Boleto aéreo",
+          "CV",
+          "Billete de tren",
+          "Permiso de conducir"
+        ],
+        "réponse": "Permiso de conducir",
+        "anecdote": "Mademoiselle Simone Louise de Pinet de Borde des Forest fue una de las primeras mujeres francesas en obtener su licencia de conducir en 1929."
+      },
+      {
+        "id": 7,
+        "question": "A principios del siglo XX, ¿en qué lugar era común « hacer un cigarrillo » ?",
+        "propositions": [
+          "Hospital",
+          "Teatro",
+          "Corte",
+          "Circo"
+        ],
+        "réponse": "Teatro",
+        "anecdote": "A principios del siglo XX, para un actor de teatro, la expresión « tener el gran tabaco » significaba, de hecho, « ser muy aplaudido »."
+      },
+      {
+        "id": 8,
+        "question": "¿Cómo vas si lo haces « sin fanfarria » ?",
+        "propositions": [
+          "Sin ruido",
+          "Sin ropa",
+          "Sin familia",
+          "Sin dinero"
+        ],
+        "réponse": "Sin ruido",
+        "anecdote": "Procedente del mundo militar en 1650, esta expresión se generaliza a todas las acciones llevadas a cabo de forma discreta o secreta."
+      },
+      {
+        "id": 9,
+        "question": "¿Cómo es necesario maniobrar sin comprometer ?",
+        "propositions": [
+          "A contra corriente",
+          "Con aletas",
+          "En la parte de atrás",
+          "Entre dos aguas"
+        ],
+        "réponse": "Entre dos aguas",
+        "anecdote": "Esta expresión, que apareció en el siglo XIV, en realidad proviene de la Armada, donde « nadar » significaba « conducir un bote »."
+      },
+      {
+        "id": 10,
+        "question": "¿Qué expresión se evoca en los hombres de cuarenta y tantos años ?",
+        "propositions": [
+          "Dón del mediodía",
+          "Da vuelta la página",
+          "Para hacer que el barón",
+          "Lleno de as"
+        ],
+        "réponse": "Dón del mediodía",
+        "anecdote": "Este demonio nacería primero de un error en la traducción de la Biblia del hebreo al griego por la Septuaginta."
+      }
+    ],
+    "confirmé": [
+      {
+        "id": 11,
+        "question": "¿Qué deberías ser si te piden que « no le dispares al pianista » ?",
+        "propositions": [
+          "Rápido",
+          "Temeroso",
+          "Indulgente",
+          "Franco"
+        ],
+        "réponse": "Indulgente",
+        "anecdote": "Este mensaje fue escrito en la entrada de los salones porque cuando comenzaba una pelea, el pianista era a menudo el primer objetivo."
+      },
+      {
+        "id": 12,
+        "question": "¿En qué posición te encuentras si estás en « el asiento caliente » ?",
+        "propositions": [
+          "Colgado",
+          "Acostado",
+          "De pie",
+          "Sentado"
+        ],
+        "réponse": "Sentado",
+        "anecdote": "En el siglo XIII, el asiento caliente era en los tribunales un asiento bajo para que los jueces puedan dominar y degradar al acusado."
+      },
+      {
+        "id": 13,
+        "question": "¿Cómo viste a un cachorro para convertirse en un « oso mal lamido » ?",
+        "propositions": [
+          "Afeitado",
+          "Difform",
+          "Enfermo",
+          "Loco"
+        ],
+        "réponse": "Difform",
+        "anecdote": "En el siglo XVII, se creía que los cachorros nacieron deformados y que fueron las madres quienes los hicieron lamiéndolos por completo."
+      },
+      {
+        "id": 14,
+        "question": "¿Qué tipo de gas proviene de la frase « hay agua en el gas » ?",
+        "propositions": [
+          "Gas de caza",
+          "Gas de esquisto",
+          "Gas de carbón",
+          "Gas natural"
+        ],
+        "réponse": "Gas de carbón",
+        "anecdote": "En el pasado, la llama del recalentamiento podía extinguirse con gas de carbón cargado con vapor de agua, lo que causaba demoras y disputas."
+      },
+      {
+        "id": 15,
+        "question": "¿Qué tipo de pelea es la expresión « al pie del muro » ?",
+        "propositions": [
+          "Mano desnuda",
+          "Lanza",
+          "Hacha",
+          "Espada"
+        ],
+        "réponse": "Espada",
+        "anecdote": "Cuando el oponente retrocedió, llegó un momento en que estaba al pie del muro, obligándolo a defenderse o confesar su derrota."
+      },
+      {
+        "id": 16,
+        "question": "¿Cuál es la fecha de la expresión « otro par de mangas » ?",
+        "propositions": [
+          "Renacimiento",
+          "Edad Antigua",
+          "Edad media",
+          "Prehistoria"
+        ],
+        "réponse": "Edad media",
+        "anecdote": "Las mangas eran una parte desmontable del resto del hábito: en el día, las mangas de uno se cambiaban con la ayuda de sus actividades."
+      },
+      {
+        "id": 17,
+        "question": "En el siglo XVIII, ¿qué profesión dio origen al fin de los frijoles ?",
+        "propositions": [
+          "Abogado",
+          "Alguacil",
+          "Bombero",
+          "Marin"
+        ],
+        "réponse": "Marin",
+        "anecdote": "Se aconsejaba comer animales vivos y productos frescos a bordo, luego galletas, productos ahumados y finalmente jamones."
+      },
+      {
+        "id": 18,
+        "question": "Originalmente, ¿quién se decía que había « hecho el baúl » ?",
+        "propositions": [
+          "Banquero",
+          "Conductor",
+          "Prisionero",
+          "Explorador"
+        ],
+        "réponse": "Prisionero",
+        "anecdote": "Esta expresión parece haber aparecido alrededor de 1935 en el ambiente de la prisión que significa « escapar » o « hacerse bello »."
+      },
+      {
+        "id": 19,
+        "question": "¿Cuál de estas expresiones, sinónimo de reprimenda, podrías usar ?",
+        "propositions": [
+          "Para pasar un jabón",
+          "Rellenar la holgura",
+          "Tener los hígados",
+          "Partiendo el beso"
+        ],
+        "réponse": "Para pasar un jabón",
+        "anecdote": "En el pasado, las mujeres lavaban la ropa con jabón y una paleta, intercambiando información, chismes y mediocridad."
+      },
+      {
+        "id": 20,
+        "question": "En el siglo XVI, ¿qué se cortó realmente para « cortar el silbato » a alguien ?",
+        "propositions": [
+          "Pies",
+          "Sexo",
+          "Garganta",
+          "Mano"
+        ],
+        "réponse": "Garganta",
+        "anecdote": "De hecho, en ese momento, el silbido, en sentido figurado, indicaba la garganta, el lugar por donde pasa la tráquea a través de la cual respiramos."
+      }
+    ],
+    "expert": [
+      {
+        "id": 21,
+        "question": "¿Qué lugar dio origen a la expresión « acostado como un extractor de dientes » ?",
+        "propositions": [
+          "Campos",
+          "Museos",
+          "Calle",
+          "Hospitales"
+        ],
+        "réponse": "Calle",
+        "anecdote": "En el siglo XIX, los dentistas se ejercitaban en la calle y contrataban músicos para no disuadir a posibles nuevos pacientes."
+      },
+      {
+        "id": 22,
+        "question": "¿Cuál es el propósito de la frase « ver mediodía en la puerta » ?",
+        "propositions": [
+          "Sismógrafo",
+          "Calendario",
+          "Veleta",
+          "Reloj de sol"
+        ],
+        "réponse": "Reloj de sol",
+        "anecdote": "En el campo, era común que tal esfera se colocara en el frente de la casa hacia el sur, cerca de la entrada."
+      },
+      {
+        "id": 23,
+        "question": "¿De qué mundo proviene la famosa frase « ver el grano » ?",
+        "propositions": [
+          "Agrícola",
+          "Marítimo",
+          "Universidad",
+          "Negocios"
+        ],
+        "réponse": "Marítimo",
+        "anecdote": "El grano es en el mar un clima ventoso repentino que los marineros temen y, por lo tanto, observan con gran atención."
+      },
+      {
+        "id": 24,
+        "question": "¿De qué lugar en particular proviene la expresión « ser cabeza turca » ?",
+        "propositions": [
+          "Feria de diversión",
+          "Circo",
+          "Opéra",
+          "Teatro"
+        ],
+        "réponse": "Feria de diversión",
+        "anecdote": "La parte en la que se golpeaba para medir la fuerza muscular de uno representaba en el siglo XIX una cabeza de turco, particularmente fuerte."
+      },
+      {
+        "id": 25,
+        "question": "¿Para quién era la frase « olor a chamuscado » ?",
+        "propositions": [
+          "Herejes",
+          "Profetas",
+          "Fieles",
+          "Sacerdotes"
+        ],
+        "réponse": "Herejes",
+        "anecdote": "El término se refiere a herejes, víctimas potenciales de las tormentas eléctricas de la Inquisición y, a menudo, condenados a poner fin al vaso de precipitados."
+      },
+      {
+        "id": 26,
+        "question": "¿Qué personas están detrás del envío del « chivo expiatorio » ?",
+        "propositions": [
+          "Celtas",
+          "Hebreos",
+          "Etruscos",
+          "Fenicios"
+        ],
+        "réponse": "Hebreos",
+        "anecdote": "En la fiesta de la expiación, el Gran Predicador envió al desierto una cabra pobre con todo el pecado y la malicia de Israel."
+      },
+      {
+        "id": 27,
+        "question": "¿Qué tipo de juego alguna vez se usó para « estropear la galería » ?",
+        "propositions": [
+          "Polo",
+          "Beisbol",
+          "Tiro de cuerda",
+          "Juego de palma"
+        ],
+        "réponse": "Juego de palma",
+        "anecdote": "Las galerías son los espacios cubiertos que rodean el juego de la palma donde se celebraron los espectadores para despertar la admiración."
+      },
+      {
+        "id": 28,
+        "question": "¿En qué lugar público podríamos escuchar un « minuto de mariposa » ?",
+        "propositions": [
+          "Museo",
+          "Universidad",
+          "Teatro",
+          "Cafetería"
+        ],
+        "réponse": "Cafetería",
+        "anecdote": "Papillon era el nombre de un camarero de un café en Le Cadran en París: el « Minuto Papillon » le dijo que podía tomarse su tiempo."
+      },
+      {
+        "id": 29,
+        "question": "¿Qué relación léxica es el origen de la expresión « estar en la col » ?",
+        "propositions": [
+          "Apocope",
+          "Paráfrasis",
+          "Anastrophe",
+          "Paronimia"
+        ],
+        "réponse": "Paronimia",
+        "anecdote": "Es la paronimia entre las coles y el fracaso el primer significado de esta expresión que data de mediados del siglo XIX."
+      },
+      {
+        "id": 30,
+        "question": "¿En el lenguaje de qué razas aparecieron « dedos en la nariz » ?",
+        "propositions": [
+          "Equino",
+          "Antecedentes",
+          "Automóviles",
+          "Ciclistas"
+        ],
+        "réponse": "Equino",
+        "anecdote": "Es una imagen divertida que muestra lo fácil que fue para el jinete ganar, con más dedos en la nariz."
+      }
+    ]
+    },
+    "it": {
+      "débutant": [
+      {
+        "id": 1,
+        "question": "Quale sport di combattimento ha dato vita all'espressione « gettare la spugna » ?",
+        "propositions": [
+          "Wrestling",
+          "Judo",
+          "Pugilato",
+          "Cattura"
+        ],
+        "réponse": "Pugilato",
+        "anecdote": "Quando l'allenatore non riuscì a riconoscere il suo puledro così tanto da aver preso una mazzetta, gettò la spugna a terra."
+      },
+      {
+        "id": 2,
+        "question": "Da quale sezione militare deriva l'espressione « essere licenziato » ?",
+        "propositions": [
+          "Fanteria",
+          "Radio",
+          "Logistica",
+          "Cavalleria"
+        ],
+        "réponse": "Cavalleria",
+        "anecdote": "Quando i cavalieri venivano sanzionati dai loro superiori, le loro armi, i loro cavalli e talvolta le loro mutande venivano rimosse."
+      },
+      {
+        "id": 3,
+        "question": "Da quale scrittura deriva l'espressione « vecchio come Methuselah » ?",
+        "propositions": [
+          "Guida Michelin",
+          "Bibbia",
+          "Quid",
+          "Petit Larousse"
+        ],
+        "réponse": "Bibbia",
+        "anecdote": "Methuselah, morto all'età di 969 anni, è famoso per essere la persona più anziana menzionata nell'Antico Testamento."
+      },
+      {
+        "id": 4,
+        "question": "Quale espressione significa che hai un modello di tablet recente ?",
+        "propositions": [
+          "Prima ondata",
+          "Nuovo suono",
+          "Voce alta",
+          "Alla moda"
+        ],
+        "réponse": "Alla moda",
+        "anecdote": "Molto prima dell'invenzione della televisione e della lettura dei giornali da parte della popolazione, le informazioni venivano gridate in piazza."
+      },
+      {
+        "id": 5,
+        "question": "Quale animale si nasconde dietro l'espressione « orgoglioso come un pidocchio » ?",
+        "propositions": [
+          "Lion",
+          "Cazzo",
+          "Cavallo",
+          "Orso"
+        ],
+        "réponse": "Cazzo",
+        "anecdote": "In effetti, il pidocchio era un tempo il gallo, associato al simbolismo occidentale con vigore, coraggio e orgoglio."
+      },
+      {
+        "id": 6,
+        "question": "Quale documento fa riferimento all'espressione « in macchina Simone », spesso ripresa da Guy Lux ?",
+        "propositions": [
+          "CV",
+          "Patente di guida",
+          "Biglietto del treno",
+          "Biglietto aereo"
+        ],
+        "réponse": "Patente di guida",
+        "anecdote": "La signora Simone Louise de Pinet di Borde des Forest è stata una delle prime donne francesi ad ottenere la patente nel 1929."
+      },
+      {
+        "id": 7,
+        "question": "All'inizio del XX secolo, in quale luogo era comune « fare una sigaretta » ?",
+        "propositions": [
+          "Circo",
+          "Teatro",
+          "Ospedale",
+          "Corte"
+        ],
+        "réponse": "Teatro",
+        "anecdote": "All'inizio del XX secolo, per un attore teatrale, l'espressione « avere il grande tabacco » significava in realtà « essere molto applaudito »."
+      },
+      {
+        "id": 8,
+        "question": "Come vai se lo fai « senza fanfara » ?",
+        "propositions": [
+          "Senza rumore",
+          "Senza famiglia",
+          "Senza soldi",
+          "Senza vestiti"
+        ],
+        "réponse": "Senza rumore",
+        "anecdote": "Proveniente dal mondo militare nel 1650, questa espressione è generalizzata a tutte le azioni compiute in modo discreto o segreto."
+      },
+      {
+        "id": 9,
+        "question": "Come è necessario manovrare senza scendere a compromessi ?",
+        "propositions": [
+          "Con pinne",
+          "Andando contro corrente",
+          "Tra due acque",
+          "Sul retro"
+        ],
+        "réponse": "Tra due acque",
+        "anecdote": "Questa espressione, apparsa nel XIV secolo, proviene in realtà dalla Marina, dove « nuotare » significava « guidare una barca »."
+      },
+      {
+        "id": 10,
+        "question": "Quale espressione viene evocata negli uomini sulla quarantina ?",
+        "propositions": [
+          "Gira la pagina",
+          "Pieno di asso",
+          "Per fare il barone",
+          "Domani a mezzogiorno"
+        ],
+        "réponse": "Domani a mezzogiorno",
+        "anecdote": "Questo demone sarebbe nato da un errore nella traduzione della Bibbia dall'ebraico al greco da parte dei Settanta."
+      }
+    ],
+    "confirmé": [
+      {
+        "id": 11,
+        "question": "Cosa dovresti fare se ti viene chiesto di « non sparare al pianista » ?",
+        "propositions": [
+          "Indulgente",
+          "Veloce",
+          "Pauroso",
+          "Franco"
+        ],
+        "réponse": "Indulgente",
+        "anecdote": "Questo messaggio è stato scritto all'ingresso dei saloni perché quando è iniziata una rissa, il pianista è stato spesso il primo obiettivo."
+      },
+      {
+        "id": 12,
+        "question": "In quale posizione ti trovi se sei « nella sedia calda » ?",
+        "propositions": [
+          "Seduto",
+          "Hung",
+          "Sdraiati",
+          "In piedi"
+        ],
+        "réponse": "Seduto",
+        "anecdote": "Nel XIII secolo, la sede principale era nei tribunali una sede bassa in modo che i giudici potessero dominare e degradare gli accusati."
+      },
+      {
+        "id": 13,
+        "question": "Come hai visto un cucciolo diventare un « orso leccato male » ?",
+        "propositions": [
+          "Difform",
+          "Rasato",
+          "Pazzo",
+          "Malato"
+        ],
+        "réponse": "Difform",
+        "anecdote": "Nel diciassettesimo secolo, si credeva che i cuccioli fossero nati deformi e che fossero le madri a farli leccandoli a lungo."
+      },
+      {
+        "id": 14,
+        "question": "Che tipo di gas deriva dalla frase « c'è acqua nel gas » ?",
+        "propositions": [
+          "Gas da caccia",
+          "Gas di scisto",
+          "Gas naturale",
+          "Gas di carbone"
+        ],
+        "réponse": "Gas di carbone",
+        "anecdote": "In passato, la fiamma del riscaldamento poteva estinguersi con gas carbone caricato con vapore acqueo, causando ritardi e controversie."
+      },
+      {
+        "id": 15,
+        "question": "Che tipo di lotta è l'espressione « ai piedi del muro » ?",
+        "propositions": [
+          "Spada",
+          "Ax",
+          "Mano nuda",
+          "Lancia"
+        ],
+        "réponse": "Spada",
+        "anecdote": "Quando l'avversario indietreggiò, arrivò un momento in cui era ai piedi del muro, costringendolo a difendersi o a confessare la sconfitta."
+      },
+      {
+        "id": 16,
+        "question": "Qual è la data dell'espressione « un altro paio di maniche » ?",
+        "propositions": [
+          "Preistoria",
+          "Rinascimento",
+          "Medioevo",
+          "Storia antica"
+        ],
+        "réponse": "Medioevo",
+        "anecdote": "Le maniche erano una parte staccabile del resto dell'abitudine: durante il giorno, le maniche venivano cambiate con l'aiuto delle sue attività."
+      },
+      {
+        "id": 17,
+        "question": "Nel diciottesimo secolo, quale professione ha dato origine alla fine dei fagioli ?",
+        "propositions": [
+          "Pompiere",
+          "Ufficiale giudiziario",
+          "Avvocato",
+          "Marin"
+        ],
+        "réponse": "Marin",
+        "anecdote": "Si consigliava di mangiare animali vivi e prodotti freschi a bordo, quindi biscotti, prodotti affumicati e infine prosciutti."
+      },
+      {
+        "id": 18,
+        "question": "In origine, chi si diceva avesse « insaccato » ?",
+        "propositions": [
+          "Explorer",
+          "Prigioniero",
+          "Banchiere",
+          "Driver"
+        ],
+        "réponse": "Prigioniero",
+        "anecdote": "Questa espressione sembra essere apparsa intorno al 1935 nell'ambiente carcerario per significare « fuggire » o « rendersi bella »."
+      },
+      {
+        "id": 19,
+        "question": "Quale di queste espressioni, sinonimo di rimprovero, potresti usare ?",
+        "propositions": [
+          "Dividere il bacio",
+          "I fegati",
+          "Farcire il gioco",
+          "Passare un sapone"
+        ],
+        "réponse": "Passare un sapone",
+        "anecdote": "In passato, le donne facevano il bucato usando sapone e una tavolozza, scambiando informazioni, pettegolezzi e mediocrità."
+      },
+      {
+        "id": 20,
+        "question": "Nel sedicesimo secolo, cosa fu davvero tagliato per « tagliare il fischio » a qualcuno ?",
+        "propositions": [
+          "Mano",
+          "Sesso",
+          "Gola",
+          "Piedi"
+        ],
+        "réponse": "Gola",
+        "anecdote": "Infatti, a quel tempo, il fischio, in senso figurato, indicava la gola, il punto in cui passa l'arteria trachea attraverso la quale respiriamo."
+      }
+    ],
+    "expert": [
+      {
+        "id": 21,
+        "question": "Quale luogo ha dato vita all'espressione « mentire come un estrattore di denti » ?",
+        "propositions": [
+          "Campi",
+          "Via",
+          "Ospedali",
+          "Musei"
+        ],
+        "réponse": "Via",
+        "anecdote": "Nel diciannovesimo secolo, i dentisti si esercitavano in strada e assumevano musicisti per non scoraggiare possibili nuovi pazienti."
+      },
+      {
+        "id": 22,
+        "question": "Qual è lo scopo della frase « vedi mezzogiorno alla porta » ?",
+        "propositions": [
+          "Calendario",
+          "Sismografo",
+          "Banderuola",
+          "Meridiana"
+        ],
+        "réponse": "Meridiana",
+        "anecdote": "In campagna, era comune che un simile quadrante fosse posizionato nella parte anteriore della casa esposta a sud, vicino all'ingresso."
+      },
+      {
+        "id": 23,
+        "question": "Da quale mondo viene la famosa frase « guarda il grano » ?",
+        "propositions": [
+          "Marittimo",
+          "Affari",
+          "Agricolo",
+          "Università"
+        ],
+        "réponse": "Marittimo",
+        "anecdote": "Il grano è in mare un improvviso tempo ventoso che i marinai temono e quindi guardano con grande attenzione."
+      },
+      {
+        "id": 24,
+        "question": "L'espressione « essere una testa turca » viene da quale luogo particolare ?",
+        "propositions": [
+          "Fiera del divertimento",
+          "Teatro",
+          "Opéra",
+          "Circo"
+        ],
+        "réponse": "Fiera del divertimento",
+        "anecdote": "La parte su cui si colpiva per misurare la propria forza muscolare rappresentava nel XIX secolo una testa di turco, particolarmente forte."
+      },
+      {
+        "id": 25,
+        "question": "Per chi era la frase « odore di cantato » ?",
+        "propositions": [
+          "Fedeli",
+          "Profeti",
+          "Eretici",
+          "Sacerdoti"
+        ],
+        "réponse": "Eretici",
+        "anecdote": "Il termine si riferisce agli eretici, potenziali vittime dei temporali dell'Inquisizione e spesso condannati a porre fine al becher."
+      },
+      {
+        "id": 26,
+        "question": "Quali sono le persone dietro l'invio del « capro espiatorio » ?",
+        "propositions": [
+          "Fenici",
+          "Celti",
+          "Hebreo",
+          "Etruschi"
+        ],
+        "réponse": "Hebreo",
+        "anecdote": "Alla festa dell'espiazione, il Grande Predicatore mandò nel deserto una povera capra con tutto il peccato e la malizia di Israele."
+      },
+      {
+        "id": 27,
+        "question": "Che tipo di gioco veniva usato una volta per « rovinare la galleria » ?",
+        "propositions": [
+          "Baseball",
+          "Polo",
+          "Tiro con la corda",
+          "Gioco del palmo"
+        ],
+        "réponse": "Gioco del palmo",
+        "anecdote": "Le gallerie sono gli spazi coperti che circondano il gioco della palma in cui si sono tenuti gli spettatori in cui suscitare l'ammirazione."
+      },
+      {
+        "id": 28,
+        "question": "In quale luogo pubblico potremmo sentire una volta un « minuto farfalla » ?",
+        "propositions": [
+          "Caffetteria",
+          "Museo",
+          "Università",
+          "Teatro"
+        ],
+        "réponse": "Caffetteria",
+        "anecdote": "Papillon era il nome di un server di caffè a Cadran - Parigi: il \"Miinute Papillon\" gli disse che poteva prendersi il suo tempo."
+      },
+      {
+        "id": 29,
+        "question": "Quale relazione lessicale è l'origine dell'espressione « essere in cavolo » ?",
+        "propositions": [
+          "Paronimia",
+          "Apocope",
+          "Parafrasi",
+          "Anastrophe"
+        ],
+        "réponse": "Paronimia",
+        "anecdote": "È la paronimia tra cavoli e insuccessi che è il primo significato di questa espressione risalente alla metà del diciannovesimo secolo."
+      },
+      {
+        "id": 30,
+        "question": "Nel linguaggio di quali razze sono arrivate le « dita nel naso » ?",
+        "propositions": [
+          "Equino",
+          "Contesto",
+          "Automobili",
+          "Ciclisti"
+        ],
+        "réponse": "Equino",
+        "anecdote": "È una foto divertente che mostra quanto sia stato facile per il fantino vincere, con più dita nel naso."
+      }
+    ]
+    },
+    "nl": {
+      "débutant": [
+      {
+        "id": 1,
+        "question": "Uit welke vechtsport is de uitdrukking « gooi in the towel » ontstaan ?",
+        "propositions": [
+          "Worstelen",
+          "Boksen",
+          "Vangst",
+          "Judo"
+        ],
+        "réponse": "Boksen",
+        "anecdote": "Toen de coach zijn veulen niet zoveel kon herkennen dat hij een prop had genomen, gooide hij de spons op de grond."
+      },
+      {
+        "id": 2,
+        "question": "Uit welk militair gedeelte komt de uitdrukking « af te leggen » ?",
+        "propositions": [
+          "Cavalerie",
+          "Infanterie",
+          "Logistiek",
+          "Radio"
+        ],
+        "réponse": "Cavalerie",
+        "anecdote": "Toen de renners werden gesanctioneerd door hun superieuren, werden hun wapens, hun paarden en soms hun onderbroek verwijderd."
+      },
+      {
+        "id": 3,
+        "question": "Uit welk schrift komt de uitdrukking « oud als Methuselah » ?",
+        "propositions": [
+          "Michelin gids",
+          "Bijbel",
+          "Petit Larousse",
+          "Quid"
+        ],
+        "réponse": "Bijbel",
+        "anecdote": "Methuselah, die stierf op de leeftijd van 969, staat bekend als de oudste persoon die in het Oude Testament wordt genoemd."
+      },
+      {
+        "id": 4,
+        "question": "Welke uitdrukking betekent dat u een recent tabletmodel heeft ?",
+        "propositions": [
+          "Trendy",
+          "Nieuw geluid",
+          "Eerste golf",
+          "Hoge stem"
+        ],
+        "réponse": "Trendy",
+        "anecdote": "Lang voor de uitvinding van televisie en het lezen van kranten door de bevolking werd informatie op het openbare plein geschreeuwd."
+      },
+      {
+        "id": 5,
+        "question": "Welk dier verstopt zich eigenlijk achter de uitdrukking « trots als een luis » ?",
+        "propositions": [
+          "Paard",
+          "Beer",
+          "Cock",
+          "Leeuw"
+        ],
+        "réponse": "Cock",
+        "anecdote": "In feite was de luis ooit de haan, in Westerse symboliek geassocieerd met kracht, moed en trots."
+      },
+      {
+        "id": 6,
+        "question": "Welk document verwijst naar de uitdrukking « met de auto Simone », vaak overgenomen door Guy Lux ?",
+        "propositions": [
+          "CV",
+          "Treinkaartje",
+          "Vliegticket",
+          "Rijbewijs"
+        ],
+        "réponse": "Rijbewijs",
+        "anecdote": "Mademoiselle Simone Louise de Pinet van Borde des Forest was een van de eerste Franse vrouwen die haar rijbewijs behaalde in 1929."
+      },
+      {
+        "id": 7,
+        "question": "Aan het begin van de twintigste eeuw, op welke plaats was het gebruikelijk om « een sigaret te maken » ?",
+        "propositions": [
+          "Rechtbank",
+          "Theater",
+          "Ziekenhuis",
+          "Circus"
+        ],
+        "réponse": "Theater",
+        "anecdote": "Aan het begin van de 20e eeuw betekende de uitdrukking « de grote tabak hebben » voor een theateracteur in feite « zeer applaus »."
+      },
+      {
+        "id": 8,
+        "question": "Hoe ga je als je het doet « zonder fanfare » ?",
+        "propositions": [
+          "Zonder geld",
+          "Zonder familie",
+          "Zonder lawaai",
+          "Zonder kleding"
+        ],
+        "réponse": "Zonder lawaai",
+        "anecdote": "Afkomstig uit de militaire wereld in 1650, wordt deze uitdrukking gegeneraliseerd naar alle acties die discreet of in het geheim worden uitgevoerd."
+      },
+      {
+        "id": 9,
+        "question": "Hoe is het nodig om te manoeuvreren zonder concessies te doen ?",
+        "propositions": [
+          "Going tegen de huidige",
+          "Met vinnen",
+          "Op de achterkant",
+          "Tussen twee wateren"
+        ],
+        "réponse": "Tussen twee wateren",
+        "anecdote": "Deze uitdrukking, die in de 14e eeuw verscheen, komt eigenlijk van de marine, waar « zwemmen » vervolgens « een boot besturen » betekende."
+      },
+      {
+        "id": 10,
+        "question": "Welke uitdrukking wordt bij mannen van in de veertig opgeroepen ?",
+        "propositions": [
+          "Demon van het middaguur",
+          "Draai de pagina om",
+          "Om de baron te maken",
+          "Vol met aas"
+        ],
+        "réponse": "Demon van het middaguur",
+        "anecdote": "Deze demon zou eerst worden geboren uit een fout in de vertaling van de Bijbel van het Hebreeuws naar het Grieks door de Septuagint."
+      }
+    ],
+    "confirmé": [
+      {
+        "id": 11,
+        "question": "Wat moet je zijn als je wordt gevraagd « niet op de pianist te schieten » ?",
+        "propositions": [
+          "Snel",
+          "Franc",
+          "Indulgent",
+          "Angstig"
+        ],
+        "réponse": "Indulgent",
+        "anecdote": "Deze boodschap werd geschreven bij de ingang van de saloons omdat toen een gevecht begon, de pianist vaak het eerste doelwit was."
+      },
+      {
+        "id": 12,
+        "question": "In welke positie bevind je je als je « op de hete stoel » zit ?",
+        "propositions": [
+          "Zittend",
+          "Hung",
+          "Liggen",
+          "Staand"
+        ],
+        "réponse": "Zittend",
+        "anecdote": "In de dertiende eeuw was de warme stoel in de rechtbank een lage stoel zodat rechters de beschuldigde kunnen domineren en degraderen."
+      },
+      {
+        "id": 13,
+        "question": "Hoe zag je een welp een « slecht likte beer » worden ?",
+        "propositions": [
+          "Difform",
+          "Ziek",
+          "Geschoren",
+          "Gek"
+        ],
+        "réponse": "Difform",
+        "anecdote": "In de zeventiende eeuw geloofde men dat welpen misvormd werden geboren en dat het de moeders waren die ze maakten door ze uitvoerig te likken."
+      },
+      {
+        "id": 14,
+        "question": "Welk type gas komt van de uitdrukking « er zit water in het gas » ?",
+        "propositions": [
+          "Jachtgas",
+          "Steenkoolgas",
+          "Aardgas",
+          "Schaliegas"
+        ],
+        "réponse": "Steenkoolgas",
+        "anecdote": "In het verleden kon de vlam van de herverwarming worden geblust met kolengas gevuld met waterdamp, wat vertraging en geschillen veroorzaakte."
+      },
+      {
+        "id": 15,
+        "question": "Wat voor soort gevecht is de uitdrukking « aan de voet van de muur » ?",
+        "propositions": [
+          "Blote hand",
+          "Zwaard",
+          "Lance",
+          "Bijl"
+        ],
+        "réponse": "Zwaard",
+        "anecdote": "Toen de tegenstander terugdeinsde, kwam er een moment dat hij aan de voet van de muur was en hem dwong zichzelf te verdedigen of de nederlaag te bekennen."
+      },
+      {
+        "id": 16,
+        "question": "Wat is de datum van de uitdrukking « nog een paar mouwen » ?",
+        "propositions": [
+          "Prehistorie",
+          "Middeleeuwen",
+          "Renaissance",
+          "Oudheid"
+        ],
+        "réponse": "Middeleeuwen",
+        "anecdote": "De mouwen waren een afneembaar onderdeel van de rest van de gewoonte: overdag werden iemands mouwen verwisseld met behulp van zijn activiteiten."
+      },
+      {
+        "id": 17,
+        "question": "Welk beroep leidde in de achttiende eeuw tot het einde van bonen ?",
+        "propositions": [
+          "Brandweerman",
+          "Advocaat",
+          "Marin",
+          "Gerechtsdeurwaarder"
+        ],
+        "réponse": "Marin",
+        "anecdote": "Het was raadzaam om levende dieren en verse producten aan boord te eten, vervolgens koekjes, gerookte producten en uiteindelijk ham."
+      },
+      {
+        "id": 18,
+        "question": "Oorspronkelijk, wie werd gezegd « de kofferbak te hebben gemaakt » ?",
+        "propositions": [
+          "Bankier",
+          "Explorer",
+          "Stuurprogramma",
+          "Gevangene"
+        ],
+        "réponse": "Gevangene",
+        "anecdote": "Deze uitdrukking lijkt inderdaad rond 1935 in de gevangenisomgeving te zijn verschenen en betekent « ontsnappen » of « zichzelf mooi maken »."
+      },
+      {
+        "id": 19,
+        "question": "Welke van deze uitdrukkingen, synoniem met berisping, zou je kunnen gebruiken ?",
+        "propositions": [
+          "Vul de speling",
+          "Zeep doorgeven",
+          "De kus splitsen",
+          "Heb de levers"
+        ],
+        "réponse": "Zeep doorgeven",
+        "anecdote": "In het verleden wasten vrouwen met zeep en een palet, wisselden ze informatie, roddel en middelmatigheid uit."
+      },
+      {
+        "id": 20,
+        "question": "Wat werd er in de zestiende eeuw echt aan gedaan om iemand te « fluiten » ?",
+        "propositions": [
+          "Voeten",
+          "Hand",
+          "Keel",
+          "Geslacht"
+        ],
+        "réponse": "Keel",
+        "anecdote": "In feite duidde het fluitje toen figuurlijk de keel aan, de plaats waar de luchtpijp waardoor we ademen, passeert."
+      }
+    ],
+    "expert": [
+      {
+        "id": 21,
+        "question": "Op welke plaats is de uitdrukking « liegen als een tandentrekker » ontstaan ?",
+        "propositions": [
+          "Ziekenhuizen",
+          "Velden",
+          "Musea",
+          "Straat"
+        ],
+        "réponse": "Straat",
+        "anecdote": "In de negentiende eeuw oefenden tandartsen op straat en huurden musici in om mogelijke nieuwe patiënten niet af te schrikken."
+      },
+      {
+        "id": 22,
+        "question": "Wat is het doel van de uitdrukking « zie middag aan de deur » ?",
+        "propositions": [
+          "Kalender",
+          "Weathervane",
+          "Seismograaf",
+          "Zonnewijzer"
+        ],
+        "réponse": "Zonnewijzer",
+        "anecdote": "Op het platteland was het gebruikelijk dat een dergelijke wijzerplaat op de voorkant van het huis op het zuiden werd geplaatst, vlakbij de ingang."
+      },
+      {
+        "id": 23,
+        "question": "Uit welke wereld komt de beroemde zin « let op het graan » ?",
+        "propositions": [
+          "Agrarisch",
+          "Maritiem",
+          "Zakelijk",
+          "Universiteit"
+        ],
+        "réponse": "Maritiem",
+        "anecdote": "Het graan is op zee een plotseling winderig weer dat zeilers vrezen en daarom met grote aandacht in de gaten houden."
+      },
+      {
+        "id": 24,
+        "question": "De uitdrukking « Turks hoofd zijn » komt van welke plaats ?",
+        "propositions": [
+          "Opera",
+          "Kermis",
+          "Theater",
+          "Circus"
+        ],
+        "réponse": "Kermis",
+        "anecdote": "Het deel waarop iemand sloeg om zijn spierkracht te meten, vertegenwoordigde in de XIXe eeuw een Turk's hoofd, bijzonder sterk."
+      },
+      {
+        "id": 25,
+        "question": "Voor wie was de uitdrukking « geur van gezongen » bedoeld ?",
+        "propositions": [
+          "Ketters",
+          "Profeten",
+          "Dienaren",
+          "Priesters"
+        ],
+        "réponse": "Ketters",
+        "anecdote": "De term verwijst naar ketters, potentiële slachtoffers van de onweersbuien van de Inquisitie en vaak veroordeeld om de beker te beëindigen."
+      },
+      {
+        "id": 26,
+        "question": "Welke mensen zitten achter het sturen van de « zondebok » ?",
+        "propositions": [
+          "Hebreeën",
+          "Etrusken",
+          "Kelten",
+          "Feniciërs"
+        ],
+        "réponse": "Hebreeën",
+        "anecdote": "Op het verzoeningsfeest zond de Grote Prediker een arme geit met alle zonde en kwaadaardigheid van Israël naar de woestijn."
+      },
+      {
+        "id": 27,
+        "question": "Rond welk spel zou je ooit « de galerij kunnen bederven » ?",
+        "propositions": [
+          "Spel van palm",
+          "Polo",
+          "Honkbal",
+          "Touw schieten"
+        ],
+        "réponse": "Spel van palm",
+        "anecdote": "De galerijen zijn de overdekte ruimtes rondom het palmspel waar de toeschouwers werden gehouden om bewondering op te wekken."
+      },
+      {
+        "id": 28,
+        "question": "Op welke openbare plaats konden we ooit een « vlinderminuut » horen ?",
+        "propositions": [
+          "Museum",
+          "Universiteit",
+          "Theater",
+          "Koffiehuis"
+        ],
+        "réponse": "Koffiehuis",
+        "anecdote": "Papillon was de naam van een café-ober in Le Cadran in Parijs: de « Minute Papillon » vertelde hem dat hij zijn tijd kon nemen."
+      },
+      {
+        "id": 29,
+        "question": "Welke lexicale relatie is de oorsprong van de uitdrukking « in kool » ?",
+        "propositions": [
+          "Paronymie",
+          "Apocope",
+          "Parafrase",
+          "Anastrophe"
+        ],
+        "réponse": "Paronymie",
+        "anecdote": "Het is de paronymie tussen kool en mislukking die de eerste betekenis is van deze uitdrukking uit het midden van de negentiende eeuw."
+      },
+      {
+        "id": 30,
+        "question": "In de taal van welke rassen kwam men « vingers in de neus » ?",
+        "propositions": [
+          "Auto's",
+          "Paarden",
+          "Achtergrond",
+          "Fietsers"
+        ],
+        "réponse": "Paarden",
+        "anecdote": "Het is een grappige foto die laat zien hoe gemakkelijk het was voor de jockey om te winnen, met meer vingers in zijn neus."
+      }
+    ]
+    }
+  }
+}

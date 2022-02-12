@@ -1,0 +1,345 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes" ?>
+<quizz fournisseur="OpenQuizzDB : Fournisseur de contenu libre"
+       url="https://www.openquizzdb.org"
+       rédacteur="Philippe Bresoux"
+       thème="Vins d'ailleurs (Promenade au détour des vignobles)"
+       difficulté="5 / 5">
+  <fr>
+  <débutant>
+    <contenu id="1">
+      <question>Preignac, Barsac et Bommes sont des communes de quelle région viticole française ?</question>
+      <propositions>
+        <proposition id="1-1">Libournais</proposition>
+        <proposition id="1-2">Médoc</proposition>
+        <proposition id="1-3">Sauternais</proposition>
+        <proposition id="1-4">Graves</proposition>
+      </propositions>
+      <réponse proposition="1-3">Sauternais</réponse>
+      <anecdote>Toutes situées sur la rive gauche de la Garonne, ces communes font partie des cinq privilégiés ayant droit à l'appellation Sauternes.</anecdote>
+    </contenu>
+    <contenu id="2">
+      <question>Quelle île de Grèce produit un muscat bien connu des amateurs de vins ?</question>
+      <propositions>
+        <proposition id="2-1">Ikaria</proposition>
+        <proposition id="2-2">Lesbos</proposition>
+        <proposition id="2-3">Samos</proposition>
+        <proposition id="2-4">Fourni</proposition>
+      </propositions>
+      <réponse proposition="2-3">Samos</réponse>
+      <anecdote>Les vendanges commencent à la mi-août, au niveau de la mer, et se poursuivent fin octobre dans les régions montagneuses.</anecdote>
+    </contenu>
+    <contenu id="3">
+      <question>Dans quelle région naturelle française est situé le Château Latour Premier Cru ?</question>
+      <propositions>
+        <proposition id="3-1">Graves</proposition>
+        <proposition id="3-2">Médoc</proposition>
+        <proposition id="3-3">Fronsac</proposition>
+        <proposition id="3-4">Libournais</proposition>
+      </propositions>
+      <réponse proposition="3-2">Médoc</réponse>
+      <anecdote>Château Latour est devenu en 1993 la copropriété de la holding Artémis de François Pinault, qui détient 149 parts sur 155.</anecdote>
+    </contenu>
+    <contenu id="4">
+      <question>Dans quelle région est produit le Monbazillac, vin blanc liquoreux sous AOC ?</question>
+      <propositions>
+        <proposition id="4-1">Tarn</proposition>
+        <proposition id="4-2">Champagne</proposition>
+        <proposition id="4-3">Béarn</proposition>
+        <proposition id="4-4">Bergerac</proposition>
+      </propositions>
+      <réponse proposition="4-4">Bergerac</réponse>
+      <anecdote>De couleur paille, liquoreux ou moelleux, riches en glycérol et autres corps sucrés, les monbazillacs sont puissants et corsés.</anecdote>
+    </contenu>
+    <contenu id="5">
+      <question>De quel pays assez riche en soleil provient le muscat de Patras ?</question>
+      <propositions>
+        <proposition id="5-1">Chypre</proposition>
+        <proposition id="5-2">Grèce</proposition>
+        <proposition id="5-3">Turquie</proposition>
+        <proposition id="5-4">Espagne</proposition>
+      </propositions>
+      <réponse proposition="5-2">Grèce</réponse>
+      <anecdote>Les premiers vins grecs ont été datés de 6 500 ans, leur élaboration correspondant aux besoins de familles ou communautés.</anecdote>
+    </contenu>
+    <contenu id="6">
+      <question>Lequel des ces pays d'Amérique latine est à ce jour le seul producteur de vins ?</question>
+      <propositions>
+        <proposition id="6-1">Équateur</proposition>
+        <proposition id="6-2">Pérou</proposition>
+        <proposition id="6-3">Guyane française</proposition>
+        <proposition id="6-4">Paraguay</proposition>
+      </propositions>
+      <réponse proposition="6-2">Pérou</réponse>
+      <anecdote>Le Pérou est en pleine transition viticole, avec la cohabitation d'une production artisanale irrégulière qui réserve des surprises.</anecdote>
+    </contenu>
+    <contenu id="7">
+      <question>Les vignobles de la Clairette de Die s'étendent le long de quelle rivière ?</question>
+      <propositions>
+        <proposition id="7-1">Drôme</proposition>
+        <proposition id="7-2">Ardèche</proposition>
+        <proposition id="7-3">Isère</proposition>
+        <proposition id="7-4">Vienne</proposition>
+      </propositions>
+      <réponse proposition="7-1">Drôme</réponse>
+      <anecdote>Le sol argilo-crayeux a la particularité de conserver les eaux de pluie pour maintenir un approvisionnement hydrique constant.</anecdote>
+    </contenu>
+    <contenu id="8">
+      <question>Lequel de ces vins fait sans conteste partie des Côtes du Rhône ?</question>
+      <propositions>
+        <proposition id="8-1">Fitou</proposition>
+        <proposition id="8-2">Saint Chinian</proposition>
+        <proposition id="8-3">Faugères</proposition>
+        <proposition id="8-4">Vacqueyras</proposition>
+      </propositions>
+      <réponse proposition="8-4">Vacqueyras</réponse>
+      <anecdote>Le vacqueyras rouge est recommandé dans l'accompagnement des viandes rouges, du gibier et des fromages de caractère.</anecdote>
+    </contenu>
+    <contenu id="9">
+      <question>Le Valpolicella est un vin sec de quelle région du nord-est de l'Italie ?</question>
+      <propositions>
+        <proposition id="9-1">Campanie</proposition>
+        <proposition id="9-2">Toscane</proposition>
+        <proposition id="9-3">Piémont</proposition>
+        <proposition id="9-4">Vénétie</proposition>
+      </propositions>
+      <réponse proposition="9-4">Vénétie</réponse>
+      <anecdote>Similaire au Bardolino, les caractéristiques essentielles du Valpolicella sont un taux d'alcool modéré et une acidité moyenne.</anecdote>
+    </contenu>
+    <contenu id="10">
+      <question>Le Mercurey est un Bourgogne viticole de quelle région ?</question>
+      <propositions>
+        <proposition id="10-1">Mâcon</proposition>
+        <proposition id="10-2">Montceau</proposition>
+        <proposition id="10-3">Chalon</proposition>
+        <proposition id="10-4">Châblis</proposition>
+      </propositions>
+      <réponse proposition="10-3">Chalon</réponse>
+      <anecdote>La superficie de production comprend 650 hectares de vignes, avec 580 hectares de vins rouges et 75 hectares de vins blancs.</anecdote>
+    </contenu>
+  </débutant>
+  <confirmé>
+    <contenu id="11">
+      <question>Le Palette est un vin d'appellation d'origine contrôlée en provenance de quel pays ?</question>
+      <propositions>
+        <proposition id="11-1">Portugal</proposition>
+        <proposition id="11-2">France</proposition>
+        <proposition id="11-3">Italie</proposition>
+        <proposition id="11-4">Allemagne</proposition>
+      </propositions>
+      <réponse proposition="11-2">France</réponse>
+      <anecdote>Le rouge, qui possède une grande aptitude au vieillissement, est traditionnellement conseillé sur du gibier et de la venaison.</anecdote>
+    </contenu>
+    <contenu id="12">
+      <question>Dans quelle ville se situe la Cité du Vin inaugurée en France en 2016 ?</question>
+      <propositions>
+        <proposition id="12-1">Paris</proposition>
+        <proposition id="12-2">Calais</proposition>
+        <proposition id="12-3">Bordeaux</proposition>
+        <proposition id="12-4">Reims</proposition>
+      </propositions>
+      <réponse proposition="12-3">Bordeaux</réponse>
+      <anecdote>La Cité du Vin est accessible par le tramway, par la rocade, par le pont Chaban-Delmas et par les lignes 7 et 32 du réseau TBM.</anecdote>
+    </contenu>
+    <contenu id="13">
+      <question>Le Vignoble de Franconie, qui s'étend sur plus de 6000 ha, est associé à quel pays ?</question>
+      <propositions>
+        <proposition id="13-1">Allemagne</proposition>
+        <proposition id="13-2">Italie</proposition>
+        <proposition id="13-3">Afrique du Sud</proposition>
+        <proposition id="13-4">Suisse</proposition>
+      </propositions>
+      <réponse proposition="13-1">Allemagne</réponse>
+      <anecdote>Avec plus 6 000 hectares recensés en 2008, le Vignoble de Franconie fait partie des vignobles de taille moyenne en Allemagne.</anecdote>
+    </contenu>
+    <contenu id="14">
+      <question>Le Soave est un vin blanc de couleur jaune paille clair qui possède quelle nationalité ?</question>
+      <propositions>
+        <proposition id="14-1">Yougoslave</proposition>
+        <proposition id="14-2">Grecque</proposition>
+        <proposition id="14-3">Italienne</proposition>
+        <proposition id="14-4">Suisse</proposition>
+      </propositions>
+      <réponse proposition="14-3">Italienne</réponse>
+      <anecdote>Dotée d'une appellation DOC depuis 1968, la zone de production se situe au nord de l'autoroute qui relie Vérone et Venise.</anecdote>
+    </contenu>
+    <contenu id="15">
+      <question>Quel est le principal cépage qui produit les vins de Cahors ?</question>
+      <propositions>
+        <proposition id="15-1">Merlot</proposition>
+        <proposition id="15-2">Cabernet</proposition>
+        <proposition id="15-3">Riesling</proposition>
+        <proposition id="15-4">Malbec</proposition>
+      </propositions>
+      <réponse proposition="15-4">Malbec</réponse>
+      <anecdote>Depuis 2007, le marché du malbec vise à se développer dans le reste du monde grâce au concept Cahors Malbec.</anecdote>
+    </contenu>
+    <contenu id="16">
+      <question>La Saône est une rivière qui arrose les vignobles de quelle région ?</question>
+      <propositions>
+        <proposition id="16-1">Bourgogne</proposition>
+        <proposition id="16-2">Beaujolais</proposition>
+        <proposition id="16-3">Provence</proposition>
+        <proposition id="16-4">Châblis</proposition>
+      </propositions>
+      <réponse proposition="16-2">Beaujolais</réponse>
+      <anecdote>Les vins de l'appellation beaujolais peuvent être produits par toutes les communes du vignoble du Beaujolais.</anecdote>
+    </contenu>
+    <contenu id="17">
+      <question>Quel pays du continent européen produit l'excellent vin blanc baptisé Aphrodite ?</question>
+      <propositions>
+        <proposition id="17-1">Espagne</proposition>
+        <proposition id="17-2">Grèce</proposition>
+        <proposition id="17-3">Chypre</proposition>
+        <proposition id="17-4">France</proposition>
+      </propositions>
+      <réponse proposition="17-3">Chypre</réponse>
+      <anecdote>Le vin produit sur l'île entra très tôt dans la mythologie grâce à Aphrodite, native de Chypre, et à Dionysos, dieu du vin.</anecdote>
+    </contenu>
+    <contenu id="18">
+      <question>Sur les collines de quelle région de France produit-on le pacherenc-du-vic-bilh ?</question>
+      <propositions>
+        <proposition id="18-1">Alsace</proposition>
+        <proposition id="18-2">Bretagne</proposition>
+        <proposition id="18-3">Pyrénées</proposition>
+        <proposition id="18-4">Auvergne</proposition>
+      </propositions>
+      <réponse proposition="18-3">Pyrénées</réponse>
+      <anecdote>Le nom très ancien de l'appellation vient du gascon vin de vigne en échalas de la région gasconne du Vic-Bilh.</anecdote>
+    </contenu>
+    <contenu id="19">
+      <question>Le Vaduzer est un vin rouge léger produit depuis l'époque romaine...</question>
+      <propositions>
+        <proposition id="19-1">En Bohême</proposition>
+        <proposition id="19-2">Dans le Jura</proposition>
+        <proposition id="19-3">En Autriche</proposition>
+        <proposition id="19-4">Au Liechtenstein</proposition>
+      </propositions>
+      <réponse proposition="19-4">Au Liechtenstein</réponse>
+      <anecdote>Au Liechtenstein, qui est la plus petite région viticole au monde, on peut déguster d'excellents vins, parmi lesquels le Vaduzer.</anecdote>
+    </contenu>
+    <contenu id="20">
+      <question>Le Marignan, sans lien apparent avec la bataille, est un cru de quelle région de France ?</question>
+      <propositions>
+        <proposition id="20-1">Jura</proposition>
+        <proposition id="20-2">Béarn</proposition>
+        <proposition id="20-3">Savoie</proposition>
+        <proposition id="20-4">Tarn</proposition>
+      </propositions>
+      <réponse proposition="20-3">Savoie</réponse>
+      <anecdote>Situé au pied des pentes du mont de Boisy, le vignoble remonte à la création de l'abbaye de Filly fondée en 930.</anecdote>
+    </contenu>
+  </confirmé>
+  <expert>
+    <contenu id="21">
+      <question>La liqueur Izarra est originaire de quelle région d'Europe ?</question>
+      <propositions>
+        <proposition id="21-1">Pays Basque</proposition>
+        <proposition id="21-2">Eurasie</proposition>
+        <proposition id="21-3">Balkans</proposition>
+        <proposition id="21-4">Caucase</proposition>
+      </propositions>
+      <réponse proposition="21-1">Pays Basque</réponse>
+      <anecdote>L'Izarra, qui signifie l'étoile en basque, est une marque de liqueur créée en 1906 à Hendaye par le botaniste Joseph Grattau.</anecdote>
+    </contenu>
+    <contenu id="22">
+      <question>Le rosé des Riceys est un vin AOC en provenance de quel vignoble ?</question>
+      <propositions>
+        <proposition id="22-1">Bordeaux</proposition>
+        <proposition id="22-2">Alsace</proposition>
+        <proposition id="22-3">Loire</proposition>
+        <proposition id="22-4">Champagne</proposition>
+      </propositions>
+      <réponse proposition="22-4">Champagne</réponse>
+      <anecdote>Le seul cépage autorisé pour le rosé est le pinot noir, les deux autres cépages entrant dans l'élaboration du champagne.</anecdote>
+    </contenu>
+    <contenu id="23">
+      <question>Quel est le cépage de cuve blanc le plus répandu en Allemagne ?</question>
+      <propositions>
+        <proposition id="23-1">Mauzac</proposition>
+        <proposition id="23-2">Riesling</proposition>
+        <proposition id="23-3">Sylvaner</proposition>
+        <proposition id="23-4">Müller-thurgau</proposition>
+      </propositions>
+      <réponse proposition="23-4">Müller-thurgau</réponse>
+      <anecdote>Avec 24 % de la superficie totale, le müller-thurgau a longtemps été considéré comme un croisement des cépages riesling et sylvaner.</anecdote>
+    </contenu>
+    <contenu id="24">
+      <question>Lequel de ces pays ne produit pas de Gewürztraminer ?</question>
+      <propositions>
+        <proposition id="24-1">Grèce</proposition>
+        <proposition id="24-2">Italie</proposition>
+        <proposition id="24-3">Australie</proposition>
+        <proposition id="24-4">Nouvelle-Zélande</proposition>
+      </propositions>
+      <réponse proposition="24-1">Grèce</réponse>
+      <anecdote>Sensible à la chlorose et au dessèchement de la rafle, le Gewürztraminer résiste assez bien au froid hivernal.</anecdote>
+    </contenu>
+    <contenu id="25">
+      <question>Quel cépage est le plus fréquent dans la Moselle et le Rheingau allemands ?</question>
+      <propositions>
+        <proposition id="25-1">Ruländer</proposition>
+        <proposition id="25-2">Riesling</proposition>
+        <proposition id="25-3">Traminer</proposition>
+        <proposition id="25-4">Sylvaner</proposition>
+      </propositions>
+      <réponse proposition="25-2">Riesling</réponse>
+      <anecdote>Le riesling est un cépage en expansion qui doit sa faveur croissante auprès du public à un éventail de vins large et de qualité.</anecdote>
+    </contenu>
+    <contenu id="26">
+      <question>Quel est le cépage blanc italien le plus utilisé en Charente ?</question>
+      <propositions>
+        <proposition id="26-1">Ugni blanc</proposition>
+        <proposition id="26-2">Colombard</proposition>
+        <proposition id="26-3">Folle-blanche</proposition>
+        <proposition id="26-4">Savagnin</proposition>
+      </propositions>
+      <réponse proposition="26-1">Ugni blanc</réponse>
+      <anecdote>Il est cultivé dans la zone méditerranéenne, donnant la trame des vins de table blancs, en assemblage avec un vin plus aromatique.</anecdote>
+    </contenu>
+    <contenu id="27">
+      <question>Quel village viticole de Bourgogne est aussi connu pour son eau que pour son vin ?</question>
+      <propositions>
+        <proposition id="27-1">Saint-Aubin</proposition>
+        <proposition id="27-2">Volnay</proposition>
+        <proposition id="27-3">Monthélie</proposition>
+        <proposition id="27-4">Santenay</proposition>
+      </propositions>
+      <réponse proposition="27-4">Santenay</réponse>
+      <anecdote>On soigne presque tout à Santenay : le diabète, la goutte ou l'arthrose, et ce principalement grâce aux eaux thermales.</anecdote>
+    </contenu>
+    <contenu id="28">
+      <question>Le Crépy est un vin blanc sec de quelle région de France ?</question>
+      <propositions>
+        <proposition id="28-1">Alsace</proposition>
+        <proposition id="28-2">Roussillon</proposition>
+        <proposition id="28-3">Savoie</proposition>
+        <proposition id="28-4">Vendée</proposition>
+      </propositions>
+      <réponse proposition="28-3">Savoie</réponse>
+      <anecdote>Sur ce vignoble qui couvre 35 hectares et produit 825 hectolitres, le rendement est très bas puisqu'il plafonne à 23,6 hl/ha.</anecdote>
+    </contenu>
+    <contenu id="29">
+      <question>Un des cépages cultivés dans l'Orégon porte le nom de quel Maréchal de France ?</question>
+      <propositions>
+        <proposition id="29-1">Foch</proposition>
+        <proposition id="29-2">Joffre</proposition>
+        <proposition id="29-3">Fayolle</proposition>
+        <proposition id="29-4">Pétain</proposition>
+      </propositions>
+      <réponse proposition="29-1">Foch</réponse>
+      <anecdote>Des plantations sont connues au Canada (Québec) et aux États-Unis (Orégon), alors qu'en France, il en reste très peu.</anecdote>
+    </contenu>
+    <contenu id="30">
+      <question>Dans quel pays fut découverte l'une des plus anciennes traces de vinification ?</question>
+      <propositions>
+        <proposition id="30-1">Géorgie</proposition>
+        <proposition id="30-2">Syrie</proposition>
+        <proposition id="30-3">Irak</proposition>
+        <proposition id="30-4">Yémen</proposition>
+      </propositions>
+      <réponse proposition="30-1">Géorgie</réponse>
+      <anecdote>C'est sur le site néolithique de Shulaveri que des ceps et des grains desséchés datés des environs de -6000 ont été retrouvés.</anecdote>
+    </contenu>
+  </expert>
+  </fr>
+</quizz>

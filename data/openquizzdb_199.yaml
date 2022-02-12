@@ -1,0 +1,1650 @@
+---
+fournisseur: OpenQuizzDB - Fournisseur de contenu libre (https://www.openquizzdb.org)
+rédacteur: Philippe Bresoux
+thème: Volcans en activité (Prêts à rugir, ils ne dorment qu'à moitié)
+difficulté: 4 / 5
+quizz:
+  fr:
+  - débutant:
+    - id: 1
+      question: Quel volcan faisant partie des îles Éoliennes est situé au nord de la Sicile ?
+      propositions:
+      - Stromboli
+      - Villarrica
+      - Pinatubo
+      - Vésuve
+      réponse: Stromboli
+      anecdote: La partie actuellement active du volcan s'est formée il y a moins de cinq mille ans et est en éruption quasi continue.
+    - id: 2
+      question: Quel volcan actif est le plus haut d'Europe avec 3 330 mètres d'altitude ?
+      propositions:
+      - Olca
+      - Ebeko
+      - Etna
+      - Mont Fuji
+      réponse: Etna
+      anecdote: Ses pentes relativement raides sont interrompues par plusieurs bouches éruptives, notamment sur ses flancs sud et ouest.
+    - id: 3
+      question: Quel volcan est respectueusement nommé Don Gregorio par les locaux ?
+      propositions:
+      - Dempo
+      - Aracar
+      - Popocatepetl
+      - Goreli
+      réponse: Popocatepetl
+      anecdote: Selon la tradition locale, le Popocatepetl serait né un 12 mars, date qui fut jadis le jour de la fête de saint Grégoire.
+    - id: 4
+      question: Quel volcan possède vingt-cinq cônes pointant sur ses flancs ?
+      propositions:
+      - Sundoro
+      - Pinatubo
+      - Villarrica
+      - Mahawu
+      réponse: Villarrica
+      anecdote: Sa dernière grande éruption, en 1971, ouvrit une fissure de 4 km de large d'où jaillirent 30 millions de mètres cubes de lave.
+    - id: 5
+      question: Quel volcan sous-marin possède le même nom qu'un célèbre port de France ?
+      propositions:
+      - Marseille
+      - Brest
+      - Le Havre
+      - Dunkerque
+      réponse: Le Havre
+      anecdote: Lors de son éruption de la mi-juillet 2012, Le Havre a produit d'importantes quantités de ponce qui ont formé des radeaux.
+    - id: 6
+      question: Quel volcan bien connu des touristes est également le point culminant du Japon ?
+      propositions:
+      - Mont Longonot
+      - Mont Fuji
+      - Mont Spurr
+      - Mont Ontake
+      réponse: Mont Fuji
+      anecdote: La montagne est un stratovolcan toujours considéré comme actif, sa dernière éruption s'étant produite fin 1707.
+    - id: 7
+      question: L'éruption de quel volcan a provoqué sur terre un refroidissement général de 0.6°C ?
+      propositions:
+      - Rasshua
+      - Misti
+      - Pinatubo
+      - Kurub
+      réponse: Pinatubo
+      anecdote: Le bilan humain, qui s'élève à moins de 1 000 morts, fut relativement limité grâce à l'évacuation efficace des populations.
+    - id: 8
+      question: Quel volcan italien d'une altitude de 1 281 mètres borde la baie de Naples ?
+      propositions:
+      - Vésuve
+      - Villarrica
+      - Pinatubo
+      - Stromboli
+      réponse: Vésuve
+      anecdote: Le Vésuve est à l'origine de la destruction des villes de Pompéi, Herculanum, Oplontis et Stabies, ensevelies le 24 août 79.
+    - id: 9
+      question: Quel volcan à trois sommets est très proche du Novarupta ?
+      propositions:
+      - Trident
+      - Tenorio
+      - Tanaga
+      - Tecapa
+      réponse: Trident
+      anecdote: Le Trident nommé par R. F. Griggs est situé dans le parc national et réserve de Katmai, entre le mont Katmai et le mont Mageik.
+    - id: 10
+      question: Lequel de ces volcans du globe est situé sur une île en Alaska ?
+      propositions:
+      - Cleveland
+      - Kambalny
+      - Poas
+      - Pinatubo
+      réponse: Cleveland
+      anecdote: Depuis que la région est parcourue par les Occidentaux à la fin du XIXe siècle, le mont Cleveland a connu 19 éruptions.
+  - confirmé:
+    - id: 11
+      question: Quel volcan pourrait à nouveau recouvrir de cendres la ville de Quito ?
+      propositions:
+      - Cotopaxi
+      - Ambae
+      - Epi
+      - Reventador
+      réponse: Reventador
+      anecdote: L'histoire du Reventador est un mélange de phases d'édification et de destruction d'un cône, par effondrement latéral.
+    - id: 12
+      question: Quel volcan russe s'est réveillé après 250 ans de sommeil profond ?
+      propositions:
+      - Kurub
+      - Ketoï
+      - Kolumbo
+      - Kambalny
+      réponse: Kambalny
+      anecdote: Une éruption mineure du volcan Kambalny a eu lieu en 1767 mais la dernière éruption majeure remonte à environ 600 ans.
+    - id: 13
+      question: Quel volcan de Sumatra a entraîné l'évacuation de milliers de personnes ?
+      propositions:
+      - Krafla
+      - Ruang
+      - Sinabung
+      - Lawu
+      réponse: Sinabung
+      anecdote: Une longue éruption a montré une intensité inégale, ses pluies de cendre brûlante ayant toutefois touché en 2013 les villages alentours.
+    - id: 14
+      question: Quel volcan du Costa Rica a connu 39 épisodes éruptifs entre 1828 et 2018 ?
+      propositions:
+      - Poas
+      - Sirung
+      - Pago
+      - Olca
+      réponse: Poas
+      anecdote: Le cratère principal du stratovolcan héberge aujourd'hui un lac acide qui dégage régulièrement des vapeurs sulfurées toxiques.
+    - id: 15
+      question: Quel volcan est visible dans presque toute la région de Seattle ?
+      propositions:
+      - Mont Rittman
+      - Surtsey
+      - Mont Rainier
+      - Sangay
+      réponse: Mont Rainier
+      anecdote: Les jours de temps clair, on peut apercevoir le mont Rainier depuis les villes de Portland dans l'État de l'Oregon et de Victoria au Canada.
+    - id: 16
+      question: Quelle éruption de 1912 a provoqué un affaiblissement de la mousson en Asie ?
+      propositions:
+      - Mauna Iki
+      - Hekla
+      - Sumaco
+      - Novarupta
+      réponse: Novarupta
+      anecdote: Au cours de cette éruption d'indice d'explosivité volcanique de 6, une surge volcanique s'est formée vers le nord-ouest.
+    - id: 17
+      question: Quel volcan des États-Unis est le plus haut volcan du monde ?
+      propositions:
+      - Mauna Loa
+      - Vanua Lava
+      - Tecapa
+      - Marapi
+      réponse: Mauna Loa
+      anecdote: Le Mauna Loa s'élève en effet à 17 kilomètres au-dessus de sa base qui s'enfonce dans le plancher océanique.
+    - id: 18
+      question: Quel volcan actif de Sulawesi ne présente toutefois pas de cratère ?
+      propositions:
+      - Ulawun
+      - Tongkoko
+      - Lokon
+      - Yucamane
+      réponse: Lokon
+      anecdote: Les volcans jumeaux du Lokon et de l'Empung s'élèvent à environ 800 mètres au-dessus de la plaine de Tondano.
+    - id: 19
+      question: Quel volcan est situé à cheval sur la frontière entre la Bolivie et le Chili ?
+      propositions:
+      - Olca
+      - Mat Ala
+      - Pago
+      - Surtla
+      réponse: Olca
+      anecdote: Il est constitué de plusieurs bouches éruptives alignées ayant émis des coulées de lave jusqu'à cinq kilomètres de longueur.
+    - id: 20
+      question: Pour les Hawaïens, quel volcan est la demeure de la déesse hawaïenne Pélé ?
+      propositions:
+      - Calbuco
+      - Yasur
+      - Popocatepetl
+      - Kilauea
+      réponse: Kilauea
+      anecdote: Le volcan fait l'objet d'une surveillance et d'études depuis la création de l'observatoire volcanologique d'Hawaï en 1912.
+  - expert:
+    - id: 21
+      question: Quel volcan de Russie figure encore à ce jour parmi les plus actifs des îles Kouriles ?
+      propositions:
+      - Ebeko
+      - Mont Pavlof
+      - Antisana
+      - Isluga
+      réponse: Ebeko
+      anecdote: C'est l'un des volcans les plus actifs des îles Kouriles qui voit Severo-Kourilsk à ses pieds, la plus grande ville de Paramouchir.
+    - id: 22
+      question: Quel volcan est situé dans le massif volcanique de Big Ben ?
+      propositions:
+      - Mont Gharat
+      - Cône Nazko
+      - Baratang
+      - Pic Mawson
+      réponse: Pic Mawson
+      anecdote: Le pic Mawson se présente sous la forme d'un stratovolcan s'élevant au coeur de la caldeira, en Australie.
+    - id: 23
+      question: Quel volcan du Vanuatu possède une faible altitude de 361 mètres ?
+      propositions:
+      - Yasur
+      - Alayta
+      - Colo
+      - Guallatiri
+      réponse: Yasur
+      anecdote: Il est possible pour de nombreux touristes de monter au sommet du volcan et d'observer les éruptions permanentes.
+    - id: 24
+      question: Quel volcan des Andes péruviennes se traduit par langue de feu en quechua ?
+      propositions:
+      - Sarigan
+      - Lopevi
+      - Sabancaya
+      - Nabukelevu
+      réponse: Sabancaya
+      anecdote: Le volcan Sabancaya est situé dans la région d'Arequipa, au sud du Pérou, dans la zone volcanique centrale des Andes.
+    - id: 25
+      question: Quel volcan bouclier actif, culminant à près de 1 476 mètres, se dresse aux Galapagos ?
+      propositions:
+      - Pular
+      - La Cumbre
+      - Osorno
+      - Taftan
+      réponse: La Cumbre
+      anecdote: Culminant à une altitude de 1 476 mètres, la dernière éruption du volcan La Cumbre s'est déroulée du 10 au 28 avril 2009.
+    - id: 26
+      question: Quel volcan fait partie de la réserve nationale Llanquihue, au Chili ?
+      propositions:
+      - Calbuco
+      - Nissiros
+      - Salak
+      - Lewotolo
+      réponse: Calbuco
+      anecdote: La première ascension a été réalisée en 1859 par Jean Renous qui fut également le premier à accéder au sommet du volcan Osorno.
+    - id: 27
+      question: Quel stratovolcan porte le nom d'un explorateur de l'USGS, aux États-Unis ?
+      propositions:
+      - Mont Spurr
+      - San Pedro
+      - Mont Rocard
+      - Pic Lassen
+      réponse: Mont Spurr
+      anecdote: Le mont Spurr est un stratovolcan dans l'arc volcanique des Aléoutiennes, en Alaska, faisant partie des montagnes Tordrillo.
+    - id: 28
+      question: Quel volcan gris se situe à la frontière sino-coréenne ?
+      propositions:
+      - Mont Tongariro
+      - Mont Taranaki
+      - Mont Wrangell
+      - Mont Paektu
+      réponse: Mont Paektu
+      anecdote: Son sommet est occupé par une vaste caldeira de 5 km de diamètre et profonde de 850 m, partiellement remplie par le lac du Paradis.
+    - id: 29
+      question: Quel volcan est situé dans l'extrême est de l'île de Java ?
+      propositions:
+      - Teide
+      - Mont Unzen
+      - Raung
+      - Wolf
+      réponse: Raung
+      anecdote: Durant la Préhistoire, le Gadung a été à l'origine d'un effondrement majeur du flanc ouest du Raung qui a atteint l'océan Indien.
+    - id: 30
+      question: Quel volcan de Papouasie-Nouvelle-Guinée est aussi appelé The Father (Le Père) ?
+      propositions:
+      - Teahitia
+      - Mont Usu
+      - Ulawun
+      - Visoke
+      réponse: Ulawun
+      anecdote: Le volcan Ulawun est soumis à un climat équatorial qui permet l'établissement d'une forêt tropicale humide.
+  en:
+  - débutant:
+    - id: 1
+      question: Which volcano belonging to the Aeolian Islands is located in the north of Sicily ?
+      propositions:
+      - Stromboli
+      - Vésuve
+      - Pinatubo
+      - Villarrica
+      réponse: Stromboli
+      anecdote: The currently active part of the volcano was formed less than five thousand years ago and is in almost continuous eruption.
+    - id: 2
+      question: Which active volcano is the highest in Europe with 3 330 meters of altitude ?
+      propositions:
+      - Ebeko
+      - Mount Fuji
+      - Etna
+      - Olca
+      réponse: Etna
+      anecdote: Its relatively steep slopes are interrupted by several eruptions, especially on its southern and western flanks.
+    - id: 3
+      question: Which volcano is respectfully named Don Gregorio by locals ?
+      propositions:
+      - Aracar
+      - Popocatepetl
+      - Goreli
+      - Dempo
+      réponse: Popocatepetl
+      anecdote: According to local tradition, the Popocatepetl would be born on March 12th, a date that reached Vatican Council II on the feast day of Saint Gregory.
+    - id: 4
+      question: Which volcano has twenty-five cines pointing on its flanks ?
+      propositions:
+      - Pinatubo
+      - Villarrica
+      - Sundoro
+      - Mahawu
+      réponse: Villarrica
+      anecdote: Its last major eruption, in 1971, opened a fissure 4 km wide, from which 30 million cubic meters of lava flowed.
+    - id: 5
+      question: Which submarine volcano has the same name as a famous port of France ?
+      propositions:
+      - Marseille
+      - Brest
+      - Le Havre
+      - Dunkerque
+      réponse: Le Havre
+      anecdote: When it erupted in mid-July 2012, Le Havre produced large quantities of pumice that formed rafts.
+    - id: 6
+      question: Which volcano well known to tourists is also the culmination of Japan ?
+      propositions:
+      - Mont Longonot
+      - Mount Fuji
+      - Mount Spurr
+      - Ontake Mountain
+      réponse: Mount Fuji
+      anecdote: The mountain is a stratovolcano always considered active, its last eruption having occurred at the end of 1707.
+    - id: 7
+      question: The eruption of what volcano caused on Earth a general cooling of 0.6°C ?
+      propositions:
+      - Pinatubo
+      - Rasshua
+      - Kurub
+      - Misti
+      réponse: Pinatubo
+      anecdote: The human toll, which amounts to less than 1 000 deaths, was relatively limited thanks to the effective evacuation of the populations.
+    - id: 8
+      question: Which Italian volcano at an altitude of 1,281 meters borders the Bay of Naples ?
+      propositions:
+      - Pinatubo
+      - Villarrica
+      - Stromboli
+      - Vesuvius
+      réponse: Vesuvius
+      anecdote: Vesuvius is at the origin of the destruction of the cities of Pompeii, Herculaneum, Oplontis and Stabies, buried on August 24, 79.
+    - id: 9
+      question: Which volcano with three peaks is very close to Novarupta ?
+      propositions:
+      - Tenorio
+      - Tecapa
+      - Trident
+      - Tanaga
+      réponse: Trident
+      anecdote: R. F. Griggs named Trident is located in Katmai National Park and Reserve, between Mount Katmai and Mount Mageik.
+    - id: 10
+      question: Which of these volcanoes is located on an island in Alaska ?
+      propositions:
+      - Poas
+      - Pinatubo
+      - Kambalny
+      - Cleveland
+      réponse: Cleveland
+      anecdote: Since the region was traversed by the West at the end of the nineteenth century, Mount Cleveland has experienced 19 eruptions.
+  - confirmé:
+    - id: 11
+      question: What volcano could again cover the city of Quito with ashes ?
+      propositions:
+      - Ambae
+      - Epi
+      - Cotopaxi
+      - Reventador
+      réponse: Reventador
+      anecdote: The story of the Reventador is a mixture of phases of building and destruction of a cone, by lateral collapse.
+    - id: 12
+      question: Which Russian volcano woke up after 250 years of deep sleep ?
+      propositions:
+      - Kolumbo
+      - Ketoï
+      - Kambalny
+      - Kurub
+      réponse: Kambalny
+      anecdote: A minor eruption of the Kambalny volcano took place in 1767 but the last major eruption was around 600 years ago.
+    - id: 13
+      question: What volcano in Sumatra has resulted in the evacuation of thousands of people ?
+      propositions:
+      - Ruang
+      - Sinabung
+      - Lawu
+      - Krafia
+      réponse: Sinabung
+      anecdote: A long eruption showed uneven intensity, but its rains of burning ash hit the surrounding villages in 2013.
+    - id: 14
+      question: Which volcano in Costa Rica experienced 39 rash episodes between 1828 and 2018 ?
+      propositions:
+      - Poas
+      - Sirung
+      - Olca
+      - Pago
+      réponse: Poas
+      anecdote: The main crater of the stratovolcano today hosts an acidic lake that regularly emits toxic sulphurous fumes.
+    - id: 15
+      question: Which volcano is visible in most of Seattle ?
+      propositions:
+      - Mount Rainier
+      - Surtsey
+      - Sangay
+      - Mount Rittman
+      réponse: Mount Rainier
+      anecdote: On clear days, Mount Rainier can be seen from the cities of Portland, Oregon, and Victoria, Canada.
+    - id: 16
+      question: What eruption of 1912 caused a weakening of the monsoon in Asia ?
+      propositions:
+      - Novarupta
+      - Mauna Iki
+      - Hekla
+      - Sumaco
+      réponse: Novarupta
+      anecdote: During this volcanic explosion index eruption of 6, a volcanic surge was formed to the northwest.
+    - id: 17
+      question: Which volcano of the United States is the highest volcano in the world ?
+      propositions:
+      - Marapi
+      - Vanua Lava
+      - Mauna Loa
+      - Tecapa
+      réponse: Mauna Loa
+      anecdote: The Mauna Loa is 17 kilometers above its base, which sinks into the ocean floor.
+    - id: 18
+      question: Which active volcano in Sulawesi does not have a crater ?
+      propositions:
+      - Ulawun
+      - Yucamane
+      - Tongkoko
+      - Lokon
+      réponse: Lokon
+      anecdote: The twin volcanoes of Lokon and Empung rise about 800 meters above the plain of Tondano.
+    - id: 19
+      question: Which volcano is located astride the border between Bolivia and Chile ?
+      propositions:
+      - Mat Ala
+      - Pago
+      - Olca
+      - Surtla
+      réponse: Olca
+      anecdote: It consists of several aligned eruptive vents with lava flows up to five kilometers in length.
+    - id: 20
+      question: For the Hawaiians, which volcano is the home of Pélé ?
+      propositions:
+      - Popocatepetl
+      - Calbuco
+      - Kilauea
+      - Yasur
+      réponse: Kilauea
+      anecdote: The volcano has been monitored and studied since the creation of the Volcanological Observatory of Hawaï in 1912.
+  - expert:
+    - id: 21
+      question: Which Russian volcano is still among the most active of the Kuril Islands ?
+      propositions:
+      - Antisana
+      - Isluga
+      - Mount Pavlof
+      - Ebeko
+      réponse: Ebeko
+      anecdote: It is one of the most active volcanoes of the Kuril Islands that sees Severo-Kurilsk at his feet, the largest city of Paramouchir.
+    - id: 22
+      question: Which volcano is located in the Big Ben volcanic massif ?
+      propositions:
+      - Nazko Cone
+      - Mount Gharat
+      - Mawson Peak
+      - Baratang
+      réponse: Mawson Peak
+      anecdote: The Mawson Peak is in the form of a stratovolcano rising in the heart of the caldera, Australia.
+    - id: 23
+      question: Which Vanuatu volcano has a low altitude of 361 meters ?
+      propositions:
+      - Yasur
+      - Alayta
+      - Colo
+      - Guallatiri
+      réponse: Yasur
+      anecdote: It is possible for many tourists to climb to the top of the volcano and observe the permanent eruptions.
+    - id: 24
+      question: What volcano of the Peruvian Andes translates as fire tongue in Quechua ?
+      propositions:
+      - Nabukelevu
+      - Lopevi
+      - Sarigan
+      - Sabancaya
+      réponse: Sabancaya
+      anecdote: The Sabancaya volcano is located in the Arequipa region, south of Peru, in the Central Andes volcanic zone.
+    - id: 25
+      question: Which active shield volcano, culminating at 1,476 meters, stands at the Galapagos ?
+      propositions:
+      - Pular
+      - Cumbre
+      - Taftan
+      - Osorno
+      réponse: Cumbre
+      anecdote: Culminating at an altitude of 1 476 meters, the last eruption of La Cumbre volcano took place from 10 to 28 April 2009.
+    - id: 26
+      question: Which volcano is part of the Llanquihue national reserve in Chile ?
+      propositions:
+      - Calbuco
+      - Salak
+      - Nissiros
+      - Lewotolo
+      réponse: Calbuco
+      anecdote: The first ascent was made in 1859 by Jean Renous, who was also the first to reach the summit of the Osorno volcano.
+    - id: 27
+      question: What stratovolcano is named after a USGS explorer in the United States ?
+      propositions:
+      - Mont Rocard
+      - San Pedro
+      - Mount Spurr
+      - Pic Lassen
+      réponse: Mount Spurr
+      anecdote: Mount Spurr is a stratovolcano in the Aleutianean volcanic arc in Alaska, part of the Tordrillo Mountains.
+    - id: 28
+      question: What gray volcano is on the Sino-Korean border ?
+      propositions:
+      - Wrangell Mountain
+      - Mount Paektu
+      - Mount Tongariro
+      - Mount Taranaki
+      réponse: Mount Paektu
+      anecdote: Its summit is occupied by a vast caldera 5 km in diameter and 850 m deep, partially filled by the lake of Paradise.
+    - id: 29
+      question: Which volcano is located in the extreme east of the island of Java ?
+      propositions:
+      - Teide
+      - Raung
+      - Mount Unzen
+      - Wolf
+      réponse: Raung
+      anecdote: During the pre-history, the Gadung was responsible for a major collapse of the western flank of the Raung which reached the Indian Ocean.
+    - id: 30
+      question: Which volcano in Papua New Guinea is also called The Father ?
+      propositions:
+      - Teahitia
+      - Ulawun
+      - Visoke
+      - Mount Usu
+      réponse: Ulawun
+      anecdote: The Ulawun volcano is subject to an equatorial climate that allows the establishment of a humid tropical forest.
+  de:
+  - débutant:
+    - id: 1
+      question: Welcher Vulkan liegt im Norden von Sizilien ?
+      propositions:
+      - Stromboli
+      - Villarrica
+      - Pinatubo
+      - Vésuve
+      réponse: Stromboli
+      anecdote: Der derzeit aktive Teil des Vulkans wurde vor weniger als fünftausend Jahren gebildet und bricht fast ununterbrochen aus.
+    - id: 2
+      question: Welcher aktive Vulkan ist mit 3 330 Höhenmetern der höchste in Europa ?
+      propositions:
+      - Der Fujisan
+      - Olca
+      - Ebeko
+      - Ätna
+      réponse: Ätna
+      anecdote: Die relativ steilen Hänge werden von mehreren Eruptionen unterbrochen, insbesondere an den südlichen und westlichen Flanken.
+    - id: 3
+      question: Welcher Vulkan wird von den Einheimischen mit Respekt Don Gregorio genannt ?
+      propositions:
+      - Goreli
+      - Aracar
+      - Dempo
+      - Popocatepetl
+      réponse: Popocatepetl
+      anecdote: Nach lokaler Tradition wäre der Popocatepetl am 12. März geboren worden, ein Datum, das bis zum II. Vatikanischen Konzil am Festtag des hl. Gregorius lag.
+    - id: 4
+      question: Welcher Vulkan weist fünfundzwanzig Cines auf seinen Flanken auf ?
+      propositions:
+      - Pinatubo
+      - Mahawu
+      - Sundoro
+      - Villarrica
+      réponse: Villarrica
+      anecdote: Bei seinem letzten großen Ausbruch im Jahr 1971 wurde ein 4 km breiter Spalt geöffnet, aus dem 30 Millionen Kubikmeter Lava flossen.
+    - id: 5
+      question: Welcher U-Boot-Vulkan hat den gleichen Namen wie ein berühmter Hafen in Frankreich ?
+      propositions:
+      - Dunkerque
+      - Brest
+      - Le Havre
+      - Marseille
+      réponse: Le Havre
+      anecdote: Bei seinem Ausbruch Mitte Juli 2012 produzierte Le Havre große Mengen Bimsstein, der Flöße bildete.
+    - id: 6
+      question: Welcher den Touristen bekannte Vulkan ist auch der Höhepunkt Japans ?
+      propositions:
+      - Der Fujisan
+      - Mont Longonot
+      - Mount Spurr
+      - Auf den Berg
+      réponse: Der Fujisan
+      anecdote: Der Berg ist ein Stratovulkan, der seit jeher als aktiv gilt. Sein letzter Ausbruch fand Ende 1707 statt.
+    - id: 7
+      question: Der Ausbruch welcher Vulkane verursachte auf der Erde eine allgemeine Abkühlung von 0,6°C ?
+      propositions:
+      - Misti
+      - Kurub
+      - Pinatubo
+      - Rasshua
+      réponse: Pinatubo
+      anecdote: Die Zahl der Todesopfer durch Menschen, die weniger als 1 000 beträgt, war dank der effektiven Evakuierung der Bevölkerung relativ gering.
+    - id: 8
+      question: Welcher italienische Vulkan in 1.281 Metern Höhe grenzt an die Bucht von Neapel ?
+      propositions:
+      - Villarrica
+      - Vesuv
+      - Stromboli
+      - Pinatubo
+      réponse: Vesuv
+      anecdote: Der Vesuv ist der Ursprung der Zerstörung der Städte Pompeji, Herculaneum, Oplontis und Stabies, die am 24. August 79 begraben wurden.
+    - id: 9
+      question: Welcher Vulkan mit seinen drei Gipfeln liegt ganz in der Nähe von Novarupta ?
+      propositions:
+      - Tecapa
+      - Dreizack
+      - Tenorio
+      - Tanaga
+      réponse: Dreizack
+      anecdote: R. F. Griggs mit dem Namen Trident befindet sich im Katmai-Nationalpark und -Reservat zwischen Mount Katmai und Mount Mageik.
+    - id: 10
+      question: Welcher dieser Vulkane befindet sich auf einer Insel in Alaska ?
+      propositions:
+      - Poas
+      - Kambalny
+      - Pinatubo
+      - Cleveland
+      réponse: Cleveland
+      anecdote: Seitdem die Region im späten 19. Jahrhundert von Westlern durchquert wurde, hat Mount Cleveland 19 Ausbrüche erlebt.
+  - confirmé:
+    - id: 11
+      question: Welcher Vulkan könnte die Stadt Quito wieder mit Asche bedecken ?
+      propositions:
+      - Epi
+      - Reventador
+      - Cotopaxi
+      - Ambae
+      réponse: Reventador
+      anecdote: Die Geschichte des Reventador ist eine Mischung aus Phasen des Aufbaus und der Zerstörung eines Kegels durch seitlichen Zusammenbruch.
+    - id: 12
+      question: Welcher russische Vulkan ist nach 250 Jahren Tiefschlaf aufgewacht ?
+      propositions:
+      - Kambalny
+      - Kolumbo
+      - Kurub
+      - Ketoï
+      réponse: Kambalny
+      anecdote: Ein kleiner Ausbruch des Vulkans Kambalny ereignete sich im Jahr 1767, der letzte größere Ausbruch erfolgte jedoch vor etwa 600 Jahren.
+    - id: 13
+      question: Welcher Vulkan in Sumatra hat zur Evakuierung von Tausenden von Menschen geführt ?
+      propositions:
+      - Sinabung
+      - Ruang
+      - Lawu
+      - Krafia
+      réponse: Sinabung
+      anecdote: Eine lange Eruption zeigte eine ungleichmäßige Intensität, wobei die Regenfälle 2013 die umliegenden Dörfer berührt hatten.
+    - id: 14
+      question: Welcher Vulkan in Costa Rica erlebte zwischen 1828 und 2018 39 Ausschläge ?
+      propositions:
+      - Olca
+      - Poas
+      - Pago
+      - Sirung
+      réponse: Poas
+      anecdote: Der Hauptkrater des Stratovulkans beherbergt heute einen sauren See, der regelmäßig giftige schwefelhaltige Dämpfe abgibt.
+    - id: 15
+      question: Welcher Vulkan ist in den meisten Gegenden von Seattle zu sehen ?
+      propositions:
+      - Sangay
+      - Mount Rainier
+      - Surtsey
+      - Mount Rittman
+      réponse: Mount Rainier
+      anecdote: An klaren Tagen kann Mount Rainier von den Städten Portland im Bundesstaat Oregon und Victoria in Kanada aus gesehen werden.
+    - id: 16
+      question: Welcher Ausbruch von 1912 verursachte eine Abschwächung des Monsuns in Asien ?
+      propositions:
+      - Hekla
+      - Sumaco
+      - Novarupta
+      - Mauna Iki
+      réponse: Novarupta
+      anecdote: Während dieses Vulkanexplosionsindexausbruchs von 6 bildet sich im Nordwesten ein Vulkanschwall.
+    - id: 17
+      question: Welcher Vulkan der Vereinigten Staaten ist der höchste Vulkan der Welt ?
+      propositions:
+      - Tecapa
+      - Mauna Loa
+      - Marapi
+      - Vanua Lava
+      réponse: Mauna Loa
+      anecdote: Der Mauna Loa erhebt sich 17 Kilometer über seiner Basis, die im Meeresboden versinkt.
+    - id: 18
+      question: Welcher aktive Vulkan in Sulawesi hat keinen Krater ?
+      propositions:
+      - Yucamane
+      - Ulawun
+      - Lokon
+      - Tongkoko
+      réponse: Lokon
+      anecdote: Die Zwillingsvulkane Lokon und Empung liegen etwa 800 Meter über der Tondano-Ebene.
+    - id: 19
+      question: Welcher Vulkan ist rittlings auf der Grenze zwischen Bolivien und Chile ?
+      propositions:
+      - Mat Ala
+      - Pago
+      - Olca
+      - Surtla
+      réponse: Olca
+      anecdote: Es besteht aus mehreren Mündern ausgerichtet ruptives Lava Kutten bis in der Länge bis zu fünf Kilometern setzen hat.
+    - id: 20
+      question: Welcher Vulkan ist für die Hawaiianer die Heimat von Pélé ?
+      propositions:
+      - Yasur
+      - Kilauea
+      - Popocatepetl
+      - Calbuco
+      réponse: Kilauea
+      anecdote: Der Vulkan wurde seit der Gründung des Volcanological Observatory of Hawaii im Jahr 1912 überwacht und untersucht.
+  - expert:
+    - id: 21
+      question: Welcher russische Vulkan gehört noch zu den aktivsten der Kurilen ?
+      propositions:
+      - Ebeko
+      - Berg Pavlof
+      - Antisana
+      - Isluga
+      réponse: Ebeko
+      anecdote: Es ist einer der aktivsten Vulkane der Kurilen, der Severo-Kurilsk zu seinen Füßen sieht, die größte Stadt von Paramouchir.
+    - id: 22
+      question: Welcher Vulkan befindet sich im Big Ben-Vulkanmassiv ?
+      propositions:
+      - Baratang
+      - Mawson Peak
+      - Berg Gharat
+      - Nazko Kegel
+      réponse: Mawson Peak
+      anecdote: Der Mawson Peak hat die Form eines Stratovulkans im Herzen der Caldera in Australien.
+    - id: 23
+      question: Welcher Vanuatu-Vulkan hat eine geringe Höhe von 361 Metern ?
+      propositions:
+      - Alayta
+      - Guallatiri
+      - Yasur
+      - Colo
+      réponse: Yasur
+      anecdote: Viele Touristen können auf den Vulkan klettern und die ständigen Ausbrüche beobachten.
+    - id: 24
+      question: Welcher Vulkan der peruanischen Anden bedeutet in Quechua Feuerzunge ?
+      propositions:
+      - Sarigan
+      - Sabancaya
+      - Lopevi
+      - Nabukelevu
+      réponse: Sabancaya
+      anecdote: Der Sabancaya-Vulkan befindet sich in der Region Arequipa im Süden Perus in der Vulkanzone der Zentralanden.
+    - id: 25
+      question: Welcher aktive Schildvulkan mit einer Höhe von 1.476 Metern steht auf den Galapagos-Inseln ?
+      propositions:
+      - Taftan
+      - Pular
+      - Cumbre
+      - Osorno
+      réponse: Cumbre
+      anecdote: Der letzte Ausbruch des Vulkans La Cumbre fand vom 10. bis 28. April 2009 auf 1.476 Metern Höhe statt.
+    - id: 26
+      question: Welcher Vulkan gehört zum Naturschutzgebiet Llanquihue in Chile ?
+      propositions:
+      - Lewotolo
+      - Nissiros
+      - Salak
+      - Calbuco
+      réponse: Calbuco
+      anecdote: Die Erstbesteigung erfolgte 1859 durch Jean Renous, der auch als erster den Gipfel des Vulkans Osorno erreichte.
+    - id: 27
+      question: Welcher Stratovulkan ist nach einem USGS-Forscher in den USA benannt ?
+      propositions:
+      - Pic Lassen
+      - San Pedro
+      - Mont Rocard
+      - Mount Spurr
+      réponse: Mount Spurr
+      anecdote: Mount Spurr ist ein Stratovulkan im Aleuten-Vulkanbogen in Alaska, einem Teil des Tordrillo-Gebirges.
+    - id: 28
+      question: Welcher graue Vulkan liegt an der chinesisch-koreanischen Grenze ?
+      propositions:
+      - Wrangell Berg
+      - Mount Taranaki
+      - Berg Tongariro
+      - Berg Paektu
+      réponse: Berg Paektu
+      anecdote: Auf dem Gipfel befindet sich eine riesige Caldera mit einem Durchmesser von 5 km und einer Tiefe von 850 m, die teilweise vom Paradiessee ausgefüllt ist.
+    - id: 29
+      question: Welcher Vulkan liegt im äußersten Osten der Insel Java ?
+      propositions:
+      - Raung
+      - Wolf
+      - Teide
+      - Mount Unzen
+      réponse: Raung
+      anecdote: In der Vorgeschichte war die Gadung für einen großen Zusammenbruch der westlichen Flanke der Raung verantwortlich, die den Indischen Ozean erreichte.
+    - id: 30
+      question: Welcher Vulkan in Papua-Neuguinea heißt auch Der Vater ?
+      propositions:
+      - Mount Usu
+      - Teahitia
+      - Ulawun
+      - Visoke
+      réponse: Ulawun
+      anecdote: Der Vulkan Ulawun unterliegt einem äquatorialen Klima, das die Errichtung eines feuchten Tropenwaldes ermöglicht.
+  es:
+  - débutant:
+    - id: 1
+      question: ¿Qué volcán se encuentra en el norte de Sicilia ?
+      propositions:
+      - Villarrica
+      - Stromboli
+      - Pinatubo
+      - Vésuve
+      réponse: Stromboli
+      anecdote: La parte actualmente activa del volcán se formó hace menos de cinco mil años y está en erupción casi continua.
+    - id: 2
+      question: ¿Qué volcán activo es el más alto de Europa con 3 330 metros de altitud ?
+      propositions:
+      - Ebeko
+      - Monte fuji
+      - Olca
+      - Etna
+      réponse: Etna
+      anecdote: Sus pendientes relativamente pronunciadas se ven interrumpidas por varias erupciones, especialmente en sus flancos sur y oeste.
+    - id: 3
+      question: ¿Qué volcán es respetuosamente llamado Don Gregorio por los lugareños ?
+      propositions:
+      - Popocatepetl
+      - Goreli
+      - Dempo
+      - Aracar
+      réponse: Popocatepetl
+      anecdote: Según la tradición local, el Popocatepetl nacería el 12 de marzo, fecha que llegó al Concilio Vaticano II en la fiesta de San Gregorio.
+    - id: 4
+      question: ¿Qué volcán tiene veinticinco cines apuntando a sus flancos ?
+      propositions:
+      - Sundoro
+      - Mahawu
+      - Villarrica
+      - Pinatubo
+      réponse: Villarrica
+      anecdote: Su última gran erupción, en 1971, abrió una fisura de 4 km de ancho, de la cual fluyeron 30 millones de metros cúbicos de lava.
+    - id: 5
+      question: ¿Qué volcán submarino tiene el mismo nombre que un famoso puerto de Francia ?
+      propositions:
+      - Marsella
+      - Brest
+      - Dunkerque
+      - Le Havre
+      réponse: Le Havre
+      anecdote: Cuando estalló a mediados de julio de 2012, Le Havre produjo grandes cantidades de piedra pómez que formaban balsas.
+    - id: 6
+      question: ¿Qué volcán bien conocido por los turistas es también la culminación de Japón ?
+      propositions:
+      - Mont Longonot
+      - Monte fuji
+      - Monte Spurr
+      - Montaña de captación
+      réponse: Monte fuji
+      anecdote: La montaña es un estratovolcán siempre considerado activo, ya que su última erupción ocurrió a fines de 1707.
+    - id: 7
+      question: ¿La erupción de qué volcán causó en la Tierra un enfriamiento general de 0,6°C ?
+      propositions:
+      - Kurub
+      - Rasshua
+      - Pinatubo
+      - Misti
+      réponse: Pinatubo
+      anecdote: El número de víctimas humanas, que representa menos de 1 000 muertes, fue relativamente limitado gracias a la evacuación efectiva de las poblaciones.
+    - id: 8
+      question: ¿Qué volcán italiano a una altitud de 1,281 metros bordea la Bahía de Nápoles ?
+      propositions:
+      - Stromboli
+      - Villarrica
+      - Vesubio
+      - Pinatubo
+      réponse: Vesubio
+      anecdote: El Vesubio se encuentra en el origen de la destrucción de las ciudades de Pompeya, Herculano, Oplontis y Stabies, enterradas el 24 de agosto del 79.
+    - id: 9
+      question: ¿Qué volcán con tres picos está muy cerca de Novarupta ?
+      propositions:
+      - Tanaga
+      - Tenorio
+      - Tecapa
+      - Tridente
+      réponse: Tridente
+      anecdote: R. F. Griggs llamado Trident se encuentra en el Parque Nacional y Reserva Katmai, entre el Monte Katmai y el Monte Mageik.
+    - id: 10
+      question: ¿Cuál de estos volcanes se encuentra en una isla en Alaska ?
+      propositions:
+      - Kambalny
+      - Poas
+      - Cleveland
+      - Pinatubo
+      réponse: Cleveland
+      anecdote: Desde que la región fue atravesada por occidentales a finales del siglo XIX, el Monte Cleveland ha experimentado 19 erupciones.
+  - confirmé:
+    - id: 11
+      question: ¿Qué volcán podría cubrir nuevamente la ciudad de Quito con cenizas ?
+      propositions:
+      - Ambae
+      - Epi
+      - Cotopaxi
+      - Reventador
+      réponse: Reventador
+      anecdote: La historia del Reventador es una mezcla de fases de construcción y destrucción de un cono, por colapso lateral.
+    - id: 12
+      question: ¿Qué volcán ruso despertó después de 250 años de sueño profundo ?
+      propositions:
+      - Kambalny
+      - Ketoï
+      - Kurub
+      - Kolumbo
+      réponse: Kambalny
+      anecdote: Un volcán Kambalny entró en erupción en 1767, pero la última erupción importante fue hace unos 600 años.
+    - id: 13
+      question: ¿Qué volcán de Sumatra ha llevado a la evacuación de miles de personas ?
+      propositions:
+      - Ruang
+      - Krafia
+      - Sinabung
+      - Lawu
+      réponse: Sinabung
+      anecdote: Una larga erupción mostró una intensidad desigual, pero sus lluvias de cenizas quemaron las aldeas circundantes en 2013.
+    - id: 14
+      question: ¿Qué volcán costarricense experimentó 39 episodios de isodesrupción entre 1828 y 2018 ?
+      propositions:
+      - Olca
+      - Poas
+      - Sirung
+      - Pago
+      réponse: Poas
+      anecdote: La estructura principal del estratovolcano en la actualidad alberga un ácido ácido que emite regularmente vapores sulfúricos y tóxicos.
+    - id: 15
+      question: ¿Qué volcán es visible en la mayor parte del área de Seattle ?
+      propositions:
+      - Monte Rittman
+      - Monte Rainier
+      - Surtsey
+      - Sangay
+      réponse: Monte Rainier
+      anecdote: En días despejados, se puede ver el Monte Rainier desde las ciudades de Portland en el estado de Oregón y Victoria en Canadá.
+    - id: 16
+      question: ¿Qué erupción de 1912 causó un debilitamiento del monzón en Asia ?
+      propositions:
+      - Sumaco
+      - Novarupta
+      - Hekla
+      - Mauna Iki
+      réponse: Novarupta
+      anecdote: Durante esta erupción del índice de explosivo volcánico de 6, se forma una oleada volcánica hacia el noroeste.
+    - id: 17
+      question: ¿Qué volcán de los Estados Unidos es el volcán más alto del mundo ?
+      propositions:
+      - Marapi
+      - Vanua Lava
+      - Tecapa
+      - Mauna Loa
+      réponse: Mauna Loa
+      anecdote: El Mauna Loa está a 17 kilómetros sobre su base, que se hunde en el fondo del océano.
+    - id: 18
+      question: ¿Qué volcán activo en Sulawesi no tiene un cráter ?
+      propositions:
+      - Yucamane
+      - Tongkoko
+      - Lokon
+      - Ulawun
+      réponse: Lokon
+      anecdote: Los volcanes gemelos de Lokon y Empung se encuentran a unos 800 metros sobre la llanura de Tondano.
+    - id: 19
+      question: ¿Qué volcán está ubicado a lo largo de la frontera entre Bolivia y Chile ?
+      propositions:
+      - Mat Ala
+      - Pago
+      - Surtla
+      - Olca
+      réponse: Olca
+      anecdote: Se compone de varios conductos de erupción alineados con flujos de lava de hasta cinco kilómetros de longitud.
+    - id: 20
+      question: Para los hawaianos, ¿cuál volcán es el hogar de Pélé ?
+      propositions:
+      - Yasur
+      - Kilauea
+      - Popocatepetl
+      - Calbuco
+      réponse: Kilauea
+      anecdote: El volcán ha sido monitoreado y estudiado desde la creación del Observatorio Volcanológico de Hawaï en 1912.
+  - expert:
+    - id: 21
+      question: ¿Qué volcán ruso se encuentra todavía entre los más activos de las Islas Kuriles ?
+      propositions:
+      - Antisana
+      - Isluga
+      - Monte Pavlof
+      - Ebeko
+      réponse: Ebeko
+      anecdote: Es uno de los volcanes más activos de las islas Kuriles que ve a Severo-Kurilsk a sus pies, la ciudad más grande de Paramouchir.
+    - id: 22
+      question: ¿Qué volcán se encuentra en el macizo volcánico del Big Ben ?
+      propositions:
+      - Monte Gharat
+      - Cono Nazko
+      - Baratang
+      - Pico Mawson
+      réponse: Pico Mawson
+      anecdote: El Pico Mawson tiene la forma de un estratovolcán que se levanta en el corazón de la caldera, Australia.
+    - id: 23
+      question: ¿Qué volcán Vanuatu tiene una altitud baja de 361 metros ?
+      propositions:
+      - Guallatiri
+      - Alayta
+      - Colo
+      - Yasur
+      réponse: Yasur
+      anecdote: Es posible que muchos turistas suban a la cima del volcán y observen las erupciones permanentes.
+    - id: 24
+      question: ¿Qué volcán de los Andes peruanos se traduce como lengua de fuego en quechua ?
+      propositions:
+      - Nabukelevu
+      - Sabancaya
+      - Lopevi
+      - Sarigan
+      réponse: Sabancaya
+      anecdote: El volcán Sabancaya se encuentra en la región de Arequipa, al sur de Perú, en la zona volcánica de los Andes centrales.
+    - id: 25
+      question: ¿Qué volcán de escudo activo, que culmina a 1,476 metros, se encuentra en las Galápagos ?
+      propositions:
+      - Pular
+      - Taftan
+      - Cumbre
+      - Osorno
+      réponse: Cumbre
+      anecdote: Culminando a una altitud de 1 476 metros, la última erupción del volcán La Cumbre tuvo lugar del 10 al 28 de abril de 2009.
+    - id: 26
+      question: ¿Qué volcán es parte de la reserva nacional de Llanquihue en Chile ?
+      propositions:
+      - Lewotolo
+      - Nissiros
+      - Salak
+      - Calbuco
+      réponse: Calbuco
+      anecdote: El primer ascenso fue en 1859 por Jean Renous, quien también fue el primero en alcanzar la cima del volcán Osorno.
+    - id: 27
+      question: ¿Qué stratovolcano lleva el nombre de un explorador de USGS en los Estados Unidos ?
+      propositions:
+      - San pedro
+      - Mont Rocard
+      - Pic Lassen
+      - Monte Spurr
+      réponse: Monte Spurr
+      anecdote: El monte Spurr es un estratovolcán en el arco volcánico de las Islas Aleutianas en Alaska, que forma parte de las montañas de Tordrillo.
+    - id: 28
+      question: ¿Qué volcán gris está en la frontera chino-coreana ?
+      propositions:
+      - Monte Paektu
+      - Monte Tongariro
+      - Montaña Wrangell
+      - Monte Taranaki
+      réponse: Monte Paektu
+      anecdote: Su cumbre está ocupada por una gran caldera de 5 km de diámetro y una profundidad de 850 m, parcialmente llena por el lago del Paraíso.
+    - id: 29
+      question: ¿Qué volcán se encuentra en el extremo este de la isla de Java ?
+      propositions:
+      - Raung
+      - Teide
+      - Monte Unzen
+      - Lobo
+      réponse: Raung
+      anecdote: Durante la prehistoria, el Gadung fue responsable de un colapso importante del flanco occidental del Raung que llegó al Océano Índico.
+    - id: 30
+      question: ¿Qué volcán en Papúa Nueva Guinea también se llama El Padre ?
+      propositions:
+      - Visoke
+      - Ulawun
+      - Teahitia
+      - Monte usu
+      réponse: Ulawun
+      anecdote: El volcán Ulawun está sujeto a un clima ecuatorial que permite el establecimiento de un bosque tropical húmedo.
+  it:
+  - débutant:
+    - id: 1
+      question: Quale vulcano si trova nel nord della Sicilia ?
+      propositions:
+      - Pinatubo
+      - Vésuve
+      - Villarrica
+      - Stromboli
+      réponse: Stromboli
+      anecdote: La parte attualmente attiva del vulcano era formata meno di cinquemila anni fa ed è in eruzione quasi continua.
+    - id: 2
+      question: Quale vulcano attivo è il più alto d'Europa con 3 330 metri di altitudine ?
+      propositions:
+      - Olca
+      - Monte Fuji
+      - Etna
+      - Ebeko
+      réponse: Etna
+      anecdote: I suoi pendii relativamente ripidi sono interrotti da diverse eruzioni, in particolare sui suoi fianchi meridionali e occidentali.
+    - id: 3
+      question: Quale vulcano è rispettosamente chiamato Don Gregorio dalla gente del posto ?
+      propositions:
+      - Popocatepetl
+      - Goreli
+      - Dempo
+      - Aracar
+      réponse: Popocatepetl
+      anecdote: Secondo la tradizione locale, il Popocatepetl sarebbe nato il 12 marzo, una data che raggiunse il Concilio Vaticano II nel giorno della festa di San Gregorio.
+    - id: 4
+      question: Quale vulcano ha venticinque cines che puntano sui suoi fianchi ?
+      propositions:
+      - Mahawu
+      - Villarrica
+      - Pinatubo
+      - Sundoro
+      réponse: Villarrica
+      anecdote: La sua ultima grande eruzione, nel 1971, ha aperto una fessura di 4 km di larghezza, dalla quale scorrevano 30 milioni di metri cubi di lava.
+    - id: 5
+      question: Quale vulcano sottomarino ha lo stesso nome di un famoso porto della Francia ?
+      propositions:
+      - Dunkerque
+      - Le Havre
+      - Brest
+      - Marsiglia
+      réponse: Le Havre
+      anecdote: Quando scoppiò a metà luglio 2012, Le Havre produsse grandi quantità di pomice che formavano zattere.
+    - id: 6
+      question: Quale vulcano ben noto ai turisti è anche il culmine del Giappone ?
+      propositions:
+      - Monte Fuji
+      - Ontake Mountain
+      - Monte Spurr
+      - Mont Longonot
+      réponse: Monte Fuji
+      anecdote: La montagna è uno stratovulcano sempre considerato attivo, la sua ultima eruzione si è verificata alla fine del 1707.
+    - id: 7
+      question: L'eruzione di quello che il vulcano ha causato sulla Terra un raffreddamento generale di 0,6°C ?
+      propositions:
+      - Pinatubo
+      - Misti
+      - Rasshua
+      - Kurub
+      réponse: Pinatubo
+      anecdote: Il pedaggio umano, che ammonta a meno di 1 000 morti, è stato relativamente limitato grazie all'evacuazione efficace delle popolazioni.
+    - id: 8
+      question: Quale vulcano italiano ad un'altitudine di 1.281 metri confina con il Golfo di Napoli ?
+      propositions:
+      - Pinatubo
+      - Stromboli
+      - Villarrica
+      - Vesuvio
+      réponse: Vesuvio
+      anecdote: Il Vesuvio è all'origine della distruzione delle città di Pompei, Ercolano, Oplonti e Stabies, sepolto il 24 agosto 79.
+    - id: 9
+      question: Quale vulcano con tre cime è molto vicino a Novarupta ?
+      propositions:
+      - Tanaga
+      - Tenorio
+      - Tridente
+      - Tecapa
+      réponse: Tridente
+      anecdote: R. F. Griggs di nome Trident si trova nel Katmai National Park e Reserve, tra il Monte Katmai e il Monte Mageik.
+    - id: 10
+      question: Quale di questi vulcani si trova su un'isola dell'Alaska ?
+      propositions:
+      - Cleveland
+      - Kambalny
+      - Pinatubo
+      - Poas
+      réponse: Cleveland
+      anecdote: Poiché la regione fu attraversata dall'Occidente alla fine del diciannovesimo secolo, Mount Cleveland ha vissuto 19 eruzioni.
+  - confirmé:
+    - id: 11
+      question: Quale vulcano potrebbe coprire nuovamente la città di Quito con le ceneri ?
+      propositions:
+      - Ambae
+      - Cotopaxi
+      - Reventador
+      - Epi
+      réponse: Reventador
+      anecdote: La storia del Reventador è una miscela di fasi di costruzione e distruzione di un cono, per collasso laterale.
+    - id: 12
+      question: Quale vulcano russo si è svegliato dopo 250 anni di sonno profondo ?
+      propositions:
+      - Kolumbo
+      - Ketoï
+      - Kambalny
+      - Kurub
+      réponse: Kambalny
+      anecdote: Una piccola eruzione del vulcano Kambalny ebbe luogo nel 1767, ma l'ultima grande eruzione avvenne circa 600 anni fa.
+    - id: 13
+      question: Quale vulcano di Sumatra ha provocato l'evacuazione di migliaia di persone ?
+      propositions:
+      - Lawu
+      - Sinabung
+      - Ruang
+      - Krafia
+      réponse: Sinabung
+      anecdote: Una lunga eruzione ha mostrato un'intensità irregolare, ma le sue piogge di ceneri bruciate hanno colpito i villaggi circostanti nel 2013.
+    - id: 14
+      question: Quale vulcano in Costa Rica ha avuto 39 episodi di eruzione tra il 1828 e il 2018 ?
+      propositions:
+      - Sirung
+      - Pago
+      - Olca
+      - Poas
+      réponse: Poas
+      anecdote: Il cratere principale dello stratovulcano oggi ospita un lago acido che emette regolarmente fumi sulfurei tossici.
+    - id: 15
+      question: Quale vulcano è visibile nella maggior parte dell'area di Seattle ?
+      propositions:
+      - Surtsey
+      - Mount Rittman
+      - Sangay
+      - Mount Rainier
+      réponse: Mount Rainier
+      anecdote: Nelle giornate limpide, Mount Rainier può essere visto dalle città di Portland nello stato dell'Oregon e Victoria in Canada.
+    - id: 16
+      question: Quale eruzione del 1912 causò un indebolimento del monsone in Asia ?
+      propositions:
+      - Hekla
+      - Mauna Iki
+      - Novarupta
+      - Sumaco
+      réponse: Novarupta
+      anecdote: Durante questa eruzione vulcanica di indice esplosivo di 6, un picco vulcanico si forma a nord-ovest.
+    - id: 17
+      question: Quale vulcano degli Stati Uniti è il vulcano più alto del mondo ?
+      propositions:
+      - Marapi
+      - Vanua Lava
+      - Tecapa
+      - Mauna Loa
+      réponse: Mauna Loa
+      anecdote: Il Mauna Loa sorge a 17 chilometri sopra la sua base, che sprofonda nel fondo dell'oceano.
+    - id: 18
+      question: Quale vulcano attivo a Sulawesi non ha un cratere ?
+      propositions:
+      - Ulawun
+      - Yucamane
+      - Lokon
+      - Tongkoko
+      réponse: Lokon
+      anecdote: I due vulcani di Lokon e Empung sorgono a circa 800 metri sopra la piana di Tondano.
+    - id: 19
+      question: Quale vulcano si trova a cavallo del confine tra Bolivia e Cile ?
+      propositions:
+      - Olca
+      - Surtla
+      - Mat Ala
+      - Pago
+      réponse: Olca
+      anecdote: Consiste di diverse bocche eruttive allineate con flussi di lava lunghi fino a cinque chilometri.
+    - id: 20
+      question: Per gli hawaiani, quale vulcano è la casa di Pélé ?
+      propositions:
+      - Kilauea
+      - Calbuco
+      - Popocatepetl
+      - Yasur
+      réponse: Kilauea
+      anecdote: Il vulcano è stato monitorato e studiato dalla creazione dell'Osservatorio Vulcanologico delle Hawaii nel 1912.
+  - expert:
+    - id: 21
+      question: Quale vulcano russo è ancora tra i più attivi delle isole Curili ?
+      propositions:
+      - Ebeko
+      - Isluga
+      - Antisana
+      - Monte Pavlof
+      réponse: Ebeko
+      anecdote: È uno dei vulcani più attivi delle isole Curili che vede Severo-Kurilk ai suoi piedi, la città più grande di Paramouchir.
+    - id: 22
+      question: Quale vulcano si trova nel massiccio vulcanico del Big Ben ?
+      propositions:
+      - Baratang
+      - Monte Gharat
+      - Nazko Cono
+      - Mawson Peak
+      réponse: Mawson Peak
+      anecdote: Il Mawson Peak si presenta sotto forma di uno stratovulcano che sorge nel cuore della caldera, in Australia.
+    - id: 23
+      question: Quale vulcano Vanuatu ha una bassa quota di 361 metri ?
+      propositions:
+      - Guallatiri
+      - Yasur
+      - Colo
+      - Alayta
+      réponse: Yasur
+      anecdote: Per molti turisti è possibile salire sulla cima del vulcano e osservare le eruzioni permanenti.
+    - id: 24
+      question: Quale vulcano delle Ande peruviane si traduce come lingua di fuoco in quechua ?
+      propositions:
+      - Sabancaya
+      - Sarigan
+      - Nabukelevu
+      - Lopevi
+      réponse: Sabancaya
+      anecdote: Il vulcano Sabancaya si trova nella regione di Arequipa, a sud del Perù, nella zona vulcanica centrale delle Ande.
+    - id: 25
+      question: Quale vulcano a scudo attivo, che culmina a 1.476 metri, si trova alle Galapagos ?
+      propositions:
+      - Taftan
+      - Pular
+      - Osorno
+      - Cumbre
+      réponse: Cumbre
+      anecdote: Culminante ad un'altitudine di 1 476 metri, l'ultima eruzione del vulcano La Cumbre si è svolta dal 10 al 28 aprile 2009.
+    - id: 26
+      question: Quale vulcano fa parte della riserva nazionale di Llanquihue in Cile ?
+      propositions:
+      - Calbuco
+      - Lewotolo
+      - Nissiros
+      - Salak
+      réponse: Calbuco
+      anecdote: La prima salita fu fatta nel 1859 da Jean Renous, che fu anche il primo a raggiungere la vetta del vulcano Osorno.
+    - id: 27
+      question: Quale stratovulcano prende il nome da un esploratore USGS negli Stati Uniti ?
+      propositions:
+      - Monte Spurr
+      - Mont Rocard
+      - San Pedro
+      - Pic Lassen
+      réponse: Monte Spurr
+      anecdote: Mount Spurr è uno stratovulcano nell'arco vulcanico di Aleutine in Alaska, parte dei Monti Tordrillo.
+    - id: 28
+      question: Quale vulcano grigio è sul confine sino-coreano ?
+      propositions:
+      - Monte Paektu
+      - Monte Taranaki
+      - Monte Tongariro
+      - Wrangell Mountain
+      réponse: Monte Paektu
+      anecdote: La sua cima è occupata da una vasta caldera di 5 km di diametro e 850 m di profondità, parzialmente riempita dal lago del Paradiso.
+    - id: 29
+      question: Quale vulcano si trova nell'estremo est dell'isola di Java ?
+      propositions:
+      - Lupo
+      - Monte Unzen
+      - Teide
+      - Raung
+      réponse: Raung
+      anecdote: Durante la preistoria, il Gadung fu responsabile di un grave collasso del fianco occidentale del Raung che raggiunse l'Oceano Indiano.
+    - id: 30
+      question: Quale vulcano in Papua Nuova Guinea è anche chiamato Il Padre ?
+      propositions:
+      - Teahitia
+      - Visoke
+      - Ulawun
+      - Monte Usu
+      réponse: Ulawun
+      anecdote: Il vulcano Ulawun è soggetto a un clima equatoriale che consente la creazione di una foresta tropicale umida.
+  nl:
+  - débutant:
+    - id: 1
+      question: Welke vulkaan van de Eolische eilanden ligt in het noorden van Sicilië ?
+      propositions:
+      - Pinatubo
+      - Stromboli
+      - Villarrica
+      - Vésuve
+      réponse: Stromboli
+      anecdote: Het momenteel actieve deel van de vulkaan werd minder dan vijfduizend jaar geleden gevormd en verkeert in bijna ononderbroken uitbarsting.
+    - id: 2
+      question: Welke actieve vulkaan is de hoogste van Europa met 3 330 meter hoogte ?
+      propositions:
+      - Mount Fuji
+      - Ebeko
+      - Olca
+      - Etna
+      réponse: Etna
+      anecdote: De relatief steile hellingen worden onderbroken door verschillende uitbarstingen, vooral aan de zuidelijke en westelijke flanken.
+    - id: 3
+      question: Welke vulkaan wordt door de lokale bevolking met respect Don Gregorio genoemd ?
+      propositions:
+      - Aracar
+      - Goreli
+      - Popocatepetl
+      - Dempo
+      réponse: Popocatepetl
+      anecdote: Volgens de lokale traditie zou de Popocatepetl zijn geboren op 12 maart, een datum die tot aan Vaticanum II was op de feestdag van St. Gregory.
+    - id: 4
+      question: Welke vulkaan heeft vijfentwintig cines die op de flanken wijzen ?
+      propositions:
+      - Sundoro
+      - Villarrica
+      - Pinatubo
+      - Mahawu
+      réponse: Villarrica
+      anecdote: De laatste grote uitbarsting, in 1971, opende een kloof van 4 km breed, waarvan 30 miljoen kubieke meter lava stroomde.
+    - id: 5
+      question: Welke onderzeese vulkaan heeft dezelfde naam als een beroemde haven van Frankrijk ?
+      propositions:
+      - Marseille
+      - Brest
+      - Dunkerque
+      - Le Havre
+      réponse: Le Havre
+      anecdote: Toen het midden juli 2012 uitbrak, produceerde Le Havre grote hoeveelheden puimsteen die vlotten vormden.
+    - id: 6
+      question: Welke vulkaan die bekend is bij toeristen, is ook het hoogtepunt van Japan ?
+      propositions:
+      - Mount Fuji
+      - Ontake Mountain
+      - Mont Longonot
+      - Mount Spurr
+      réponse: Mount Fuji
+      anecdote: De berg is een stratovulkaan die altijd als actief wordt beschouwd, de laatste uitbarsting vond plaats aan het einde van 1707.
+    - id: 7
+      question: De uitbarsting van wat vulkaan veroorzaakte op aarde een algemene afkoeling van 0,6°C ?
+      propositions:
+      - Pinatubo
+      - Kurub
+      - Rasshua
+      - Misti
+      réponse: Pinatubo
+      anecdote: De menselijke tol, die minder dan 1 000 doden bedraagt, was relatief beperkt dankzij de effectieve evacuatie van de bevolking.
+    - id: 8
+      question: Welke Italiaanse vulkaan op een hoogte van 1.281 meter grenst aan de baai van Napels ?
+      propositions:
+      - Pinatubo
+      - Villarrica
+      - Stromboli
+      - Vesuvius
+      réponse: Vesuvius
+      anecdote: De Vesuvius is de oorsprong van de verwoesting van de steden Pompeii, Herculaneum, Oplontis en Stabies, begraven op 24 augustus 79.
+    - id: 9
+      question: Welke vulkaan met drie pieken ligt heel dicht bij Novarupta ?
+      propositions:
+      - Trident
+      - Tecapa
+      - Tenorio
+      - Tanaga
+      réponse: Trident
+      anecdote: R. F. Griggs genaamd Trident is gevestigd in het Katmai National Park and Reserve, tussen de berg Katmai en de berg Mageik.
+    - id: 10
+      question: Welke van deze vulkanen bevindt zich op een eiland in Alaska ?
+      propositions:
+      - Cleveland
+      - Poas
+      - Pinatubo
+      - Kambalny
+      réponse: Cleveland
+      anecdote: Omdat de regio aan het eind van de negentiende eeuw door het Westen werd doorkruist, heeft Mount Cleveland 19 uitbarstingen meegemaakt.
+  - confirmé:
+    - id: 11
+      question: Welke vulkaan zou de stad Quito opnieuw met as kunnen bedekken ?
+      propositions:
+      - Reventador
+      - Epi
+      - Ambae
+      - Cotopaxi
+      réponse: Reventador
+      anecdote: Het verhaal van de Reventador is een mengeling van fasen van uitroeiing en vernietiging van een kegel, door zijdelingse ineenstorting.
+    - id: 12
+      question: Welke Russische vulkaan werd wakker na 250 jaar diepe slaap ?
+      propositions:
+      - Kolumbo
+      - Kambalny
+      - Kurub
+      - Ketoï
+      réponse: Kambalny
+      anecdote: Een vulkaan uit Kambalny werd in 1767 uitbarsting, maar de laatste grote uitbarsting was ongeveer 600 jaar geleden.
+    - id: 13
+      question: Welke vulkaan op Sumatra heeft geresulteerd in de evacuatie van duizenden mensen ?
+      propositions:
+      - Ruang
+      - Lawu
+      - Krafia
+      - Sinabung
+      réponse: Sinabung
+      anecdote: Een lange uitbarsting vertoonde ongelijke intensiteit, maar de regen van verbrandende as trof de omliggende dorpen in 2013.
+    - id: 14
+      question: Welke Costa Rica-vulkaan heeft tussen 1828 en 2018 39 isodesruptive-episodes doorgemaakt ?
+      propositions:
+      - Pago
+      - Sirung
+      - Poas
+      - Olca
+      réponse: Poas
+      anecdote: De hoofdstructuur van de stratovulkaan herbergt tegenwoordig een zuurzuur dat regelmatig zwavelhoudende en giftige dampen afgeeft.
+    - id: 15
+      question: Welke vulkaan is zichtbaar in het grootste deel van Seattle ?
+      propositions:
+      - Mount Rainier
+      - Surtsey
+      - Mount Rittman
+      - Sangay
+      réponse: Mount Rainier
+      anecdote: Op heldere dagen kan Mount Rainier worden gezien vanuit de steden Portland, Oregon en Victoria, Canada.
+    - id: 16
+      question: Welke uitbarsting van 1912 veroorzaakte een verzwakking van de moesson in Azië ?
+      propositions:
+      - Sumaco
+      - Hekla
+      - Novarupta
+      - Mauna Iki
+      réponse: Novarupta
+      anecdote: Tijdens deze vulkanische explosieve indexuitbarsting van 6, wordt een vulkanische golf gevormd naar het noordwesten.
+    - id: 17
+      question: Welke vulkaan van de Verenigde Staten is de hoogste vulkaan ter wereld ?
+      propositions:
+      - Marapi
+      - Mauna Loa
+      - Vanua Lava
+      - Tecapa
+      réponse: Mauna Loa
+      anecdote: De Mauna Loa ligt 17 kilometer boven de basis, die zakt in de oceaanbodem.
+    - id: 18
+      question: Welke actieve vulkaan in Sulawesi heeft geen krater ?
+      propositions:
+      - Lokon
+      - Tongkoko
+      - Ulawun
+      - Yucamane
+      réponse: Lokon
+      anecdote: De twee vulkanen van Lokon en Empung stijgen ongeveer 800 meter boven de vlakte van Tondano.
+    - id: 19
+      question: Welke vulkaan ligt op de grens tussen Bolivia en Chili ?
+      propositions:
+      - Olca
+      - Pago
+      - Surtla
+      - Mat Ala
+      réponse: Olca
+      anecdote: Het bestaat uit verschillende uitgelijnde ventilatieopeningen met lavastromen van maximaal vijf kilometer lengte.
+    - id: 20
+      question: Voor de Hawaiianen, welke vulkaan is de thuisbasis van Pélé ?
+      propositions:
+      - Kilauea
+      - Calbuco
+      - Yasur
+      - Popocatepetl
+      réponse: Kilauea
+      anecdote: De vulkaan is gevolgd en bestudeerd sinds de oprichting van het vulkanologisch observatorium van Hawaï in 1912.
+  - expert:
+    - id: 21
+      question: Welke Russische vulkaan is nog steeds een van de meest actieve van de Koerilen-eilanden ?
+      propositions:
+      - Isluga
+      - Antisana
+      - Ebeko
+      - Mount Pavlof
+      réponse: Ebeko
+      anecdote: Het is een van de meest actieve vulkanen van de Koerilen-eilanden, die Severo-Koerilsk aan zijn voeten ziet, de grootste stad van Paramouchir.
+    - id: 22
+      question: Welke vulkaan ligt in het vulkanische massief van de Big Ben ?
+      propositions:
+      - Mawson Peak
+      - Mount Gharat
+      - Baratang
+      - Nazko Cone
+      réponse: Mawson Peak
+      anecdote: De Mawson Peak heeft de vorm van een stratovulkaan die oprijst in het hart van de caldera, Australië.
+    - id: 23
+      question: Welke Vanuatu-vulkaan heeft een lage hoogte van 361 meter ?
+      propositions:
+      - Alayta
+      - Colo
+      - Guallatiri
+      - Yasur
+      réponse: Yasur
+      anecdote: Het is mogelijk voor veel toeristen om naar de top van de vulkaan te klimmen en de permanente uitbarstingen te observeren.
+    - id: 24
+      question: Welke vulkaan van de Peruviaanse Andes vertaalt zich als vuurtong in Quechua ?
+      propositions:
+      - Sabancaya
+      - Nabukelevu
+      - Lopevi
+      - Sarigan
+      réponse: Sabancaya
+      anecdote: De Sabancaya-vulkaan ligt in de regio Arequipa, ten zuiden van Peru, in de vulkaanzone van het midden van de Andes.
+    - id: 25
+      question: Welke actieve schildvulkaan, met zijn 1476 meter, staat op de Galapagos ?
+      propositions:
+      - Pular
+      - Osorno
+      - Cumbre
+      - Taftan
+      réponse: Cumbre
+      anecdote: De laatste uitbarsting van de vulkaan La Cumbre op 1476 meter hoogte vond plaats van 10 tot 28 april 2009.
+    - id: 26
+      question: Welke vulkaan maakt deel uit van het nationale reservaat Llanquihue in Chili ?
+      propositions:
+      - Nissiros
+      - Calbuco
+      - Salak
+      - Lewotolo
+      réponse: Calbuco
+      anecdote: De eerste beklimming werd gemaakt in 1859 door Jean Renous, die ook de eerste was die de top van de Osorno-vulkaan bereikte.
+    - id: 27
+      question: Welke stratovulkaan is genoemd naar een USGS-ontdekkingsreiziger in de Verenigde Staten ?
+      propositions:
+      - San Pedro
+      - Mont Rocard
+      - Pic Lassen
+      - Mount Spurr
+      réponse: Mount Spurr
+      anecdote: Mount Spurr is een stratovulkaan in de vulkaan Aleutianea in Alaska, onderdeel van het Tordrillo-gebergte.
+    - id: 28
+      question: Welke grijze vulkaan ligt aan de Chinees-Koreaanse grens ?
+      propositions:
+      - Mount Paektu
+      - Mount Taranaki
+      - Mount Tongariro
+      - Wrangell Mountain
+      réponse: Mount Paektu
+      anecdote: De top wordt bezet door een enorme caldera van 5 km diameter en diepte van 850 m, gedeeltelijk gevuld door het meer van het paradijs.
+    - id: 29
+      question: Welke vulkaan ligt in het uiterste oosten van het eiland Java ?
+      propositions:
+      - Wolf
+      - Raung
+      - Teide
+      - Mount Unzen
+      réponse: Raung
+      anecdote: Tijdens de prehistorie was de Gadung verantwoordelijk voor een grote ineenstorting van de westelijke flank van de Raung die de Indische Oceaan bereikte.
+    - id: 30
+      question: Welke vulkaan in Papoea-Nieuw-Guinea wordt ook wel de vader genoemd ?
+      propositions:
+      - Visoke
+      - Mount Usu
+      - Teahitia
+      - Ulawun
+      réponse: Ulawun
+      anecdote: De Ulawun-vulkaan is onderhevig aan een equatoriaal klimaat dat de vestiging van een vochtig tropisch bos mogelijk maakt.

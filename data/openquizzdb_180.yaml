@@ -1,0 +1,1650 @@
+---
+fournisseur: OpenQuizzDB - Fournisseur de contenu libre (https://www.openquizzdb.org)
+rédacteur: Philippe Bresoux
+thème: Joyeux Noël (Avant de découvrir les cadeaux)
+difficulté: 2 / 5
+quizz:
+  fr:
+  - débutant:
+    - id: 1
+      question: Pour un chrétien, pratiquant ou non, de qui fête-t-on la naissance le jour de Noël ?
+      propositions:
+      - Marie
+      - Joseph
+      - Judas
+      - Jésus
+      réponse: Jésus
+      anecdote: Avant la christianisation de l'Occident, Noël correspondait au jour de naissance de Sol Invictus.
+    - id: 2
+      question: Que mange-t-on la plupart du temps à Noël depuis une coutume instaurée par Charles VII ?
+      propositions:
+      - Bouillabaisse
+      - Dinde
+      - Paupiettes
+      - Coq au vin
+      réponse: Dinde
+      anecdote: En France, en Belgique et au Royaume-Uni, la dinde de Noël est traditionnellement farcie aux marrons.
+    - id: 3
+      question: À quelle date les rois mages sont-ils sensés apparaître dans la crèche de Noël ?
+      propositions:
+      - 25 décembre
+      - 6 janvier
+      - 24 décembre
+      - 1er janvier
+      réponse: 6 janvier
+      anecdote: L'Occident médiéval vénère les rois mages comme saints, l'Église catholique leur reconnaissant des reliques conservées à Cologne.
+    - id: 4
+      question: En 1931, pour quelle firme Haddon Sundblom a-t-il dessiné le père Noël en rouge ?
+      propositions:
+      - IBM
+      - Walt Disney
+      - McDonald's
+      - Coca-Cola
+      réponse: Coca-Cola
+      anecdote: Cet illustrateur américain est surtout connu pour ses pin-ups et ses publicités du père Noël réalisées pour The Coca-Cola Company.
+    - id: 5
+      question: Traditionnellement, à quel saint chrétien le père Noël est-il associé ?
+      propositions:
+      - Saint Vincent
+      - Saint Augustin
+      - Saint Julien
+      - Saint Nicolas
+      réponse: Saint Nicolas
+      anecdote: L'idée que le père Noël soit américain est partiellement vraie car son histoire pourrait être liée à des migrants new-yorkais.
+    - id: 6
+      question: Avec qui Gaspard et Balthazar sont-ils venus dans une étable rendre hommage à Jésus ?
+      propositions:
+      - Athos
+      - Hérode
+      - Michée
+      - Melchior
+      réponse: Melchior
+      anecdote: Les mages sont uniquement évoqués par l'Évangile selon Matthieu, les trois autres évangiles canoniques ignorant cet épisode.
+    - id: 7
+      question: Comment appelle-t-on la scène représentée par la crèche de Noël ?
+      propositions:
+      - Santon
+      - Arlésienne
+      - Jourdan
+      - Nativité
+      réponse: Nativité
+      anecdote: En art religieux, une Nativité est une représentation de cette naissance sous forme de peintures, sculptures ou vitraux.
+    - id: 8
+      question: Si l'on vous dit « Buon Natale », dans quel pays vous souhaite-t-on « Joyeux Noël » ?
+      propositions:
+      - Portugal
+      - Espagne
+      - Italie
+      - Grèce
+      réponse: Italie
+      anecdote: En France, les trois-quarts des Français considèrent que Noël est avant tout une fête familiale ou commerciale.
+    - id: 9
+      question: Aux États-Unis, quel nom est donné au père Noël qui livre ses cadeaux ?
+      propositions:
+      - Santa Monica
+      - Santa Fe
+      - Santa Claus
+      - Santa Barbara
+      réponse: Santa Claus
+      anecdote: La fête de Santa Claus (Saint Nicolas) est fixée au 6 décembre, soit 19 jours avant la fête de Noël en France.
+    - id: 10
+      question: Complétez cette expression de nos anciens : « Noël au balcon, ... »
+      propositions:
+      - Soufflez les ballons
+      - Bonnet et pompon
+      - Pâques au tison
+      - L'hiver sera long
+      réponse: Pâques au tison
+      anecdote: Un Noël trop doux annonce un début de printemps frais : « si on peut passer Noël dehors, on restera à Pâques au coin du feu ».
+  - confirmé:
+    - id: 11
+      question: Les rois mages, au nombre de trois, ont apporté de l'or, de l'encens et quoi d'autre ?
+      propositions:
+      - Ambre
+      - Coriandre
+      - Musc
+      - Myrrhe
+      réponse: Myrrhe
+      anecdote: Le parfum de la myrrhe est parfois associé à l'érotisme et est mentionné sept fois dans le « Cantique des cantiques ».
+    - id: 12
+      question: Combien de doigts possède le gant tricoté par Thérèse dans « Le père Noël est une ordure » ?
+      propositions:
+      - Trois
+      - Six
+      - Cinq
+      - Quatre
+      réponse: Trois
+      anecdote: « Le père Noël est une ordure » est à l'origine (1979) une pièce de théâtre interprétée par la troupe du Splendid.
+    - id: 13
+      question: Au cours de quelle saison fête-t-on Noël sur le continent austral ?
+      propositions:
+      - Automne
+      - Été
+      - Hiver
+      - Printemps
+      réponse: Été
+      anecdote: Noël est une fête chrétienne, appelée Nativité, célébrant chaque année la naissance de Jésus de Nazareth.
+    - id: 14
+      question: Par combien de rennes le traîneau du père Noël est-il tiré la plupart du temps ?
+      propositions:
+      - Huit
+      - Six
+      - Dix
+      - Douze
+      réponse: Huit
+      anecdote: Les rennes du père Noël sont ceux qui, traditionnellement, tirent le traîneau du père Noël lorsque celui-ci distribue les cadeaux.
+    - id: 15
+      question: De quelle région de France provient la tradition du sapin de Noël ?
+      propositions:
+      - Bretagne
+      - Alsace
+      - Provence
+      - Bourgogne
+      réponse: Alsace
+      anecdote: Les sapins de Noël peuvent être vendus coupés ou en pot, ce qui permet de les replanter à la fin des festivités.
+    - id: 16
+      question: Dans quel film Billy Bob Thornton interprète-t-il un père Noël qui jure et court le jupon ?
+      propositions:
+      - Love Actually
+      - Alamo
+      - Bad Santa
+      - Le Salut
+      réponse: Bad Santa
+      anecdote: Billy Bob Thornton, acteur et musicien américain, a été le conjoint de l'actrice Angelina Jolie de mai 2000 à mai 2003.
+    - id: 17
+      question: Quelle fête est considérée comme la dernière des fêtes de Noël ?
+      propositions:
+      - Chandeleur
+      - Carnaval
+      - Saint-Valentin
+      - Mardi gras
+      réponse: Chandeleur
+      anecdote: La Chandeleur est fêtée dans les églises le 2 février, même si l'on connaît surtout cette fête en tant que jour des crêpes.
+    - id: 18
+      question: Quel est le premier cadeau de Noël que Hagrid a offert à Harry Potter ?
+      propositions:
+      - Clé
+      - Baguette
+      - Flûte
+      - Chouette
+      réponse: Flûte
+      anecdote: Hagrid, membre de l'ordre du Phénix, fut élève à Poudlard, dans la maison Gryffondor, où il arriva en 1940.
+    - id: 19
+      question: Quelle ville de France est aujourd'hui réputée pour son marché de Noël ?
+      propositions:
+      - Rennes
+      - Strasbourg
+      - Arras
+      - Lyon
+      réponse: Strasbourg
+      anecdote: Le marché de Noël de Strasbourg, suivi par la plupart des commerçants de la ville, date de 1570.
+    - id: 20
+      question: Quel chapeau melon sans bottes de cuir nous a quitté un 25 décembre ?
+      propositions:
+      - Buster Keaton
+      - Charlie Chaplin
+      - Harold Lloyd
+      - James Dean
+      réponse: Charlie Chaplin
+      anecdote: Perfectionniste, l'indépendance financière de Charlie Chaplin lui permit de consacrer des années au développement de ses oeuvres.
+  - expert:
+    - id: 21
+      question: Dans quelle commune de France est installé depuis 1962 le secrétariat du père Noël ?
+      propositions:
+      - Rochefort
+      - Libourne
+      - Courbevoie
+      - Pontoise
+      réponse: Libourne
+      anecdote: Une soixantaine de lutins postiers sont à l'oeuvre pour répondre aux lettres et e-mails des enfants désireux de lui écrire.
+    - id: 22
+      question: Combien distingue-t-on environ d'espèces de sapin dans le monde ?
+      propositions:
+      - 6
+      - 460
+      - 4 600
+      - 46
+      réponse: 46
+      anecdote: Les sapins, proches parents des cèdres, font partie de la famille des Pinaceae et de la sous-famille des Abietoideae.
+    - id: 23
+      question: À quel réalisateur français doit-on le film à succès « Le père Noël est une ordure » ?
+      propositions:
+      - Alain Terzian
+      - Jean-Marie Poiré
+      - Patrice Ledoux
+      - Claude Zidi
+      réponse: Jean-Marie Poiré
+      anecdote: À sa sortie en salles, le film fut boycotté par la RATP qui refusa de louer des panneaux publicitaires suite au titre jugé trop provocant.
+    - id: 24
+      question: Quelle était la couleur du costume du père Noël avant qu'il ne devienne rouge ?
+      propositions:
+      - Orange
+      - Jaune
+      - Verte
+      - Grise
+      réponse: Verte
+      anecdote: L'imagerie française le montre vers 1870-1890 en vieil homme habillé d'un manteau principalement vert et parfois bleu.
+    - id: 25
+      question: Dans quelle région de France mange-t-on encore aujourd'hui les treize desserts de Noël ?
+      propositions:
+      - Alsace
+      - Bretagne
+      - Provence
+      - Auvergne
+      réponse: Provence
+      anecdote: Les desserts peuvent être bus avec du vin cuit ou du vin muscat, tandis qu'à la fin apparaissent toutes les liqueurs maisons.
+    - id: 26
+      question: En quelle année Tino Rossi a-t-il chanté pour la première fois « Petit papa Noël » ?
+      propositions:
+      - 1934
+      - 1946
+      - 1950
+      - 1962
+      réponse: 1946
+      anecdote: Écrite par Raymond Vincy, cette chanson a été interprétée pour la première fois en 1946 dans le film « Destins ».
+    - id: 27
+      question: En Irlande, que laisse-t-on sur la table avant de partir pour la messe de Noël ?
+      propositions:
+      - Whisky et carottes
+      - Pain et sel
+      - Gin et oranges
+      - Pommes et citrons
+      réponse: Whisky et carottes
+      anecdote: Le symbole officiel de l'Irlande est la harpe celtique, mais le trèfle irlandais est souvent utilisé comme autre symbole (rugby).
+    - id: 28
+      question: Dans quelle ville française le premier arbre de Noël a-t-il été décoré en 1521 ?
+      propositions:
+      - Mulhouse
+      - Colmar
+      - Cernay
+      - Sélestat
+      réponse: Sélestat
+      anecdote: Le jardin du Dahlia, qui devient en hiver le jardin du Sapin, rend ainsi hommage au corso fleuri de la ville.
+    - id: 29
+      question: Quel pape aurait institué la fête de la Nativité à Rome le 25 décembre 354 ?
+      propositions:
+      - Pontien
+      - Marcellin
+      - Eusèbe
+      - Libère
+      réponse: Libère
+      anecdote: Évêque de Rome succédant à Jules 1er, le pape Libère sera le premier à désigner Rome comme le siège apostolique.
+    - id: 30
+      question: Comment appelle-t-on un livre imprimé en Europe avant Noël 1500 ?
+      propositions:
+      - Taille-douce
+      - Eau-forte
+      - Estampe
+      - Incunable
+      réponse: Incunable
+      anecdote: Le mot « incunable » provient du nom pluriel latin « incunabula », qui signifie littéralement les langes d'un nouveau-né.
+  en:
+  - débutant:
+    - id: 1
+      question: For a Christian, whose birthday is Christmas on Christmas Day ?
+      propositions:
+      - Marie
+      - Joseph
+      - Judas
+      - Jesus
+      réponse: Jesus
+      anecdote: Before the Christianization of the West, Noel corresponded to the birth day of Sol Invictus.
+    - id: 2
+      question: What do you eat most of the time at Christmas since a custom introduced by Charles VII ?
+      propositions:
+      - Bouillabaisse
+      - Paupiettes
+      - Turkey
+      - Coq au vin
+      réponse: Turkey
+      anecdote: In France, in Belgium and the United Kingdom, Christmas turkey is traditionally stuffed with chestnuts.
+    - id: 3
+      question: At what date do the wise men appear to be appearing in the Christmas crèche ?
+      propositions:
+      - January 6
+      - December 24
+      - December 25
+      - January 1st
+      réponse: January 6
+      anecdote: The medieval West sees the wise men as saints, and the Catholic Church recognizes them as relics preserved in Cologne.
+    - id: 4
+      question: In 1931, for which firm Haddon Sundblom did he draw Father Christmas in red ?
+      propositions:
+      - Coca-Cola
+      - McDonald's
+      - IBM
+      - Walt Disney
+      réponse: Coca-Cola
+      anecdote: This American illustrator is best known for his pin-ups and Christmas Santa's commercials for The Coca-Cola Company.
+    - id: 5
+      question: Traditionally, which Christian saint is Santa Claus associated with ?
+      propositions:
+      - Saint Julien
+      - Saint Vincent
+      - Saint Augustine
+      - Saint Nicolas
+      réponse: Saint Nicolas
+      anecdote: The idea that Santa Claus is American is partly true because his story could be linked to New York migrants.
+    - id: 6
+      question: With whom did Gaspard and Balthazar come to pay homage to Jesus ?
+      propositions:
+      - Herod
+      - Athos
+      - Michée
+      - Melchior
+      réponse: Melchior
+      anecdote: The Magi are only evoked by the Gospel according to Matthew, the three other canonical gospels ignoring this episode.
+    - id: 7
+      question: What is the name of the scene represented by Christmas crêpe ?
+      propositions:
+      - Arlésienne
+      - Jourdan
+      - Santon
+      - Nativity
+      réponse: Nativity
+      anecdote: In religious art, a Nativity is a representation of this birth in the form of paintings, sculptures or stained glass.
+    - id: 8
+      question: If you hear « Buon Natale », in which country do you wish « Happy Christmas » ?
+      propositions:
+      - Italy
+      - Greece
+      - Spain
+      - Portugal
+      réponse: Italy
+      anecdote: In France, three-quarters of French people consider that Christmas is first and foremost a family or commercial celebration.
+    - id: 9
+      question: In the United States, what name is given to Father Christmas who delivers his gifts ?
+      propositions:
+      - Santa Claus
+      - Santa Monica
+      - Santa Barbara
+      - Santa Fe
+      réponse: Santa Claus
+      anecdote: The feast of Santa Claus (Saint Nicolas in English) is fixed on December 6th, 19 days before the Christmas party in France.
+    - id: 10
+      question: Complete this expression of our elders: « Christmas on the balcony, ... »
+      propositions:
+      - Blow the balloons
+      - Easter with firebrand
+      - Bonnet and tassel
+      - Winter will be long
+      réponse: Easter with firebrand
+      anecdote: A Christmas too sweet announces a fresh start of spring: « if we can spend Christmas outside, we will stay at Easter by the fireside ».
+  - confirmé:
+    - id: 11
+      question: The three wise men brought gold, incense and what else ?
+      propositions:
+      - Amber
+      - Musk
+      - Myrrh
+      - Coriander
+      réponse: Myrrh
+      anecdote: The scent of myrrh is sometimes associated with erythema and is mentioned seven times in the « Song of Songs ».
+    - id: 12
+      question: How many fingers does the Thérèse knitted glove hold in « The Santa Claus is a junk ? »
+      propositions:
+      - Three
+      - Five
+      - Six
+      - Four
+      réponse: Three
+      anecdote: « The Christmas Father is a junk » is the origin (1979) a piece of theater interpreted by the troupe of Splendid.
+    - id: 13
+      question: Which Christmas season is Christmas on the austral continent ?
+      propositions:
+      - Summer
+      - Autumn
+      - Spring
+      - Winter
+      réponse: Summer
+      anecdote: Christmas is a Christian feast celebrating the birth of Jesus of Nazareth, called Nativity, each year.
+    - id: 14
+      question: By how many reindeers is the Santa Claus's sled pulled out most of the time ?
+      propositions:
+      - Twelve
+      - Eight
+      - Ten
+      - Six
+      réponse: Eight
+      anecdote: The reindeer of Santa Claus are the ones who, traditionally, draw the knight of Santa Claus when he distributes the gifts.
+    - id: 15
+      question: Which region of France comes from the tradition of the Christmas tree ?
+      propositions:
+      - Provence
+      - Alsace
+      - Burgundy
+      - Brittany
+      réponse: Alsace
+      anecdote: Christmas trees can be sold cut or potted, allowing replanting at the end of the festivities.
+    - id: 16
+      question: In which film does Billy Bob Thornton play a Christmas father who swears and runs the petticoat ?
+      propositions:
+      - Love Actually
+      - Bad Santa
+      - Alamo
+      - Salvation
+      réponse: Bad Santa
+      anecdote: Billy Bob Thornton, American actor and musician, was the spouse of actress Angelina Jolie from May 2000 to May 2003.
+    - id: 17
+      question: Which celebration is considered the last of the Christmas festivities ?
+      propositions:
+      - Candlemas
+      - Mardi gras
+      - Carnival
+      - Valentine's day
+      réponse: Candlemas
+      anecdote: The Candlemas is celebrated in the churches on February 2, even if we mostly know this holiday as a day of pancakes.
+    - id: 18
+      question: What is the first Christmas gift that Hagrid offers to Harry Potter ?
+      propositions:
+      - Flute
+      - Owl
+      - Key
+      - Baguette
+      réponse: Flute
+      anecdote: Hagrid, a member of the Order of the Phoenix, was raised at Hogwarts in the Gryffindor House, where he arrived in 1940.
+    - id: 19
+      question: Which city in France is now famous for its Christmas market ?
+      propositions:
+      - Lyon
+      - Rennes
+      - Arras
+      - Strasbourg
+      réponse: Strasbourg
+      anecdote: The Christmas market in Strasbourg, followed by most of the city's traders, dates from 1570.
+    - id: 20
+      question: Which bowler hat without leather boots left us on December 25th ?
+      propositions:
+      - Buster Keaton
+      - Charlie Chaplin
+      - Harold Loyd
+      - James Dean
+      réponse: Charlie Chaplin
+      anecdote: Perfectionist, Charlie Chaplin's financial independence allowed him to devote years to the development of his works.
+  - expert:
+    - id: 21
+      question: In which commune of France is installed since 1962 the official secretariat of Santa Claus ?
+      propositions:
+      - Pontoise
+      - Courbevoie
+      - Rochefort
+      - Libourne
+      réponse: Libourne
+      anecdote: About sixty postman leprechauns are at work to answer the letters and e-mails of children eager to write to him.
+    - id: 22
+      question: How much do we distinguish about fir species in the world ?
+      propositions:
+      - 46
+      - 4,600
+      - 6
+      - 460
+      réponse: 46
+      anecdote: The fir trees, close relatives of the cedars, belong to the family Pinaceae and the subfamily Abietoideae.
+    - id: 23
+      question: Which director should the hit movie « Santa Claus be a junk » ?
+      propositions:
+      - Alain Terzian
+      - Claude Zidi
+      - Jean-Marie Poiré
+      - Patrice Ledoux
+      réponse: Jean-Marie Poiré
+      anecdote: When it was released in cinemas, the film was boycotted by the RATP, which refused to rent billboards following the title deemed too provocative.
+    - id: 24
+      question: What was the color of Father Christmas before it became red ?
+      propositions:
+      - Green
+      - Yellow
+      - Orange
+      - Gray
+      réponse: Green
+      anecdote: The French imagery shows it around 1870-1890 as an old man dressed in a mainly green and sometimes blue coat.
+    - id: 25
+      question: In which region of France do you eat the thirteen desserts of Christmas ?
+      propositions:
+      - Alsace
+      - Brittany
+      - Auvergne
+      - Provence
+      réponse: Provence
+      anecdote: Desserts can be brewed with cooked wine or muscat wine, while in the end all the liqueurs appear.
+    - id: 26
+      question: In which year did Tino Rossi sing for the first time « Little Papa Christmas » ?
+      propositions:
+      - 1934
+      - 1962
+      - 1946
+      - 1950
+      réponse: 1946
+      anecdote: Written by Raymond Vincy, this song was performed for the first time in 1946 in the film « Destins ».
+    - id: 27
+      question: In Ireland, what is left on the table before leaving for Christmas Mass ?
+      propositions:
+      - Apples and lemons
+      - Whiskey and carrots
+      - Gin and oranges
+      - Bread and salt
+      réponse: Whiskey and carrots
+      anecdote: The official symbol of Ireland is the Celtic harp, but the Irish clover is often used as another symbol (rugby).
+    - id: 28
+      question: In which French city was the first Christmas tree decorated in 1521 ?
+      propositions:
+      - Colmar
+      - Cernay
+      - Sélatat
+      - Mulhouse
+      réponse: Sélatat
+      anecdote: The garden of the Dahlia, which in winter becomes the Garden of the Fir, pays tribute to the flowery corso of the city.
+    - id: 29
+      question: Which pope would have instituted the festival of Nativity in Rome on December 25, 354 ?
+      propositions:
+      - Liberty
+      - Eusebius
+      - Pontian
+      - Marcellin
+      réponse: Liberty
+      anecdote: Bishop of Rome succeeding Julius I, Pope Libero will be the first to designate Rome as the Apostolic See.
+    - id: 30
+      question: What is a printed book called in Europe before Christmas 1500 ?
+      propositions:
+      - Intaglio
+      - Etching
+      - Incunable
+      - Print
+      réponse: Incunable
+      anecdote: The word « incunable » comes from the Latin plural name « incunabula », which literally means 'the nappies of a newborn baby'.
+  de:
+  - débutant:
+    - id: 1
+      question: Für einen Christen, dessen Geburtstag Weihnachten am Weihnachtstag ist ?
+      propositions:
+      - Jesus
+      - Judas
+      - Marie
+      - Joseph
+      réponse: Jesus
+      anecdote: Vor der Christianisierung des Westens entsprach Noel dem Geburtsdatum von Sol Invictus.
+    - id: 2
+      question: Was isst du zu Weihnachten die meiste Zeit seit einem Brauch, den Charles VII eingeführt hat ?
+      propositions:
+      - Bouillabaisse
+      - Paupiettes
+      - Türkei
+      - Coq au vin
+      réponse: Türkei
+      anecdote: In Frankreich, Belgien und Großbritannien wird der Weihnachtstruthahn traditionell mit Kastanien gefüllt.
+    - id: 3
+      question: Zu welchem Zeitpunkt erscheinen die Weisen in der Weihnachtskrippe ?
+      propositions:
+      - 25. Dezember
+      - 6. Januar
+      - 1. Januar
+      - 24. Dezember
+      réponse: 6. Januar
+      anecdote: Der mittelalterliche Westen sieht die Weisen als Heilige, und die katholische Kirche erkennt sie als in Köln erhaltene Relikte an.
+    - id: 4
+      question: Für die Firma Haddon Sundblom hat er 1931 den Weihnachtsmann in Rot gezeichnet ?
+      propositions:
+      - Coca-Cola
+      - Walt Disney
+      - IBM
+      - McDonald's
+      réponse: Coca-Cola
+      anecdote: Dieser US-amerikanische Illustrator ist vor allem für seine Pin-Ups und die Werbefilme von Santa Santa für The Coca-Cola Company bekannt.
+    - id: 5
+      question: Mit welchem christlichen Heiligen ist der Weihnachtsmann traditionell verbunden ?
+      propositions:
+      - St. Vincent
+      - Heiliger Augustinus
+      - Saint Julien
+      - Saint Nicolas
+      réponse: Saint Nicolas
+      anecdote: Die Idee, dass der Weihnachtsmann Amerikaner ist, ist zum Teil wahr, weil seine Geschichte mit New Yorker Migranten in Verbindung gebracht werden könnte.
+    - id: 6
+      question: Mit wem kamen Gaspard und Balthazar, um Jesus zu huldigen ?
+      propositions:
+      - Athos
+      - Herodes
+      - Michée
+      - Melchior
+      réponse: Melchior
+      anecdote: Die Weisen werden nur durch das Evangelium nach Matthäus beschworen, die drei anderen kanonischen Evangelien ignorieren diese Episode.
+    - id: 7
+      question: Wie heißt die Szene, die der Weihnachtskrepp repräsentiert ?
+      propositions:
+      - Santon
+      - Geburt Christi
+      - Arlésienne
+      - Jourdan
+      réponse: Geburt Christi
+      anecdote: In der religiösen Kunst ist eine Geburt eine Darstellung dieser Geburt in Form von Gemälden, Skulpturen oder Glasmalereien.
+    - id: 8
+      question: Wenn Sie « Buon Natale » hören, in welchem Land wünschen Sie « frohe Weihnachten » ?
+      propositions:
+      - Griechenland
+      - Portugal
+      - Spanien
+      - Italien
+      réponse: Italien
+      anecdote: In Frankreich sind drei Viertel der Franzosen der Ansicht, dass Weihnachten in erster Linie eine Familien- oder Geschäftsfeier ist.
+    - id: 9
+      question: Welchen Namen hat der Weihnachtsmann in den Vereinigten Staaten, der seine Geschenke übergibt ?
+      propositions:
+      - Santa Fe
+      - Weihnachtsmann
+      - Santa Barbara
+      - Santa Monica
+      réponse: Weihnachtsmann
+      anecdote: Der Weihnachtsmann (Saint Nicolas in English) wird am 6. Dezember 19 Tage vor Weihnachten in Frankreich abgehalten.
+    - id: 10
+      question: Vervollständigen Sie diesen Ausdruck unserer Ältesten: « Weihnachten auf dem Balkon, ... »
+      propositions:
+      - Der Winter wird lang sein
+      - Ostern mit Feuerbrand
+      - Blasen Sie die Ballons
+      - Mütze und Quaste
+      réponse: Ostern mit Feuerbrand
+      anecdote: Ein zu süßes Weihnachtsfest kündigt einen neuen Frühlingsbeginn an: « Wenn wir Weihnachten draußen verbringen können, bleiben wir zu Ostern am Kamin ».
+  - confirmé:
+    - id: 11
+      question: Die drei Weisen brachten Gold, Weihrauch und was noch ?
+      propositions:
+      - Amber
+      - Koriander
+      - Myrrhe
+      - Musk
+      réponse: Myrrhe
+      anecdote: Der Duft von Myrrhe ist manchmal mit Erythem assoziiert und wird im « Song of Songs » sieben Mal erwähnt.
+    - id: 12
+      question: Wie viele Finger hält der Strickhandschuh von Thérèse in « Der Weihnachtsmann ist ein Müll ? »
+      propositions:
+      - Drei
+      - Sechs
+      - Vier
+      - Fünf
+      réponse: Drei
+      anecdote: « Der Weihnachtsvater ist ein Trödel » ist der Ursprung (1979) ein Theaterstück, das von der Splendid-Truppe interpretiert wird.
+    - id: 13
+      question: Welche Weihnachtszeit ist Weihnachten auf dem australischen Kontinent ?
+      propositions:
+      - Frühling
+      - Sommer
+      - Herbst
+      - Winter
+      réponse: Sommer
+      anecdote: Weihnachten ist ein christliches Fest, das jedes Jahr die Geburt von Jesus von Nazareth feiert, die Geburt Christi genannt wird.
+    - id: 14
+      question: Bei wie vielen Rentieren wird der Weihnachtsmann-Schlitten meistens herausgezogen ?
+      propositions:
+      - Acht
+      - Zehn
+      - Sechs
+      - Zwölf
+      réponse: Acht
+      anecdote: Die Rentiere des Weihnachtsmanns sind diejenigen, die traditionell den Ritter des Weihnachtsmanns ziehen, wenn er die Geschenke verteilt.
+    - id: 15
+      question: Welche Region Frankreichs stammt aus der Tradition des Weihnachtsbaumes ?
+      propositions:
+      - Provence
+      - Alsace
+      - Burgund
+      - Bretagne
+      réponse: Alsace
+      anecdote: Weihnachtsbäume können verkauft oder geschnitten verkauft werden, so dass am Ende der Feierlichkeiten neue Pflanzungen möglich sind.
+    - id: 16
+      question: In welchem Film spielt Billy Bob Thornton einen Weihnachtsvater, der schwört und den Petticoat leitet ?
+      propositions:
+      - Erlösung
+      - Bad Santa
+      - Alamo
+      - Liebe eigentlich
+      réponse: Bad Santa
+      anecdote: Billy Bob Thornton, US-amerikanischer Schauspieler und Musiker, war von Mai 2000 bis Mai 2003 die Ehefrau der Schauspielerin Angelina Jolie.
+    - id: 17
+      question: Welche Feier gilt als die letzte der Weihnachtsfeiern ?
+      propositions:
+      - Candlemas
+      - Karneval
+      - Karneval
+      - Valentinstag
+      réponse: Candlemas
+      anecdote: Die Candlemas werden am 2. Februar in den Kirchen gefeiert, auch wenn wir diesen Feiertag hauptsächlich als Pfannkuchentag kennen.
+    - id: 18
+      question: Was ist das erste Weihnachtsgeschenk, das Hagrid Harry Potter bietet ?
+      propositions:
+      - Flöte
+      - Schlüssel
+      - Eule
+      - Baguette
+      réponse: Flöte
+      anecdote: Hagrid, ein Mitglied des Ordens des Phönix, wurde in Hogwarts im Gryffindor House aufgewachsen, wo er 1940 ankam.
+    - id: 19
+      question: Welche Stadt in Frankreich ist jetzt berühmt für ihren Weihnachtsmarkt ?
+      propositions:
+      - Straßburg
+      - Lyon
+      - Arras
+      - Rennes
+      réponse: Straßburg
+      anecdote: Der Weihnachtsmarkt in Straßburg, gefolgt von den meisten Händlern der Stadt, stammt aus dem Jahr 1570.
+    - id: 20
+      question: Welche Melone ohne Lederstiefel hat uns am 25. Dezember verlassen ?
+      propositions:
+      - Buster Keaton
+      - Harold Loyd
+      - James Dean
+      - Charlie Chaplin
+      réponse: Charlie Chaplin
+      anecdote: Der Perfektionist Charlie Chaplins finanzielle Unabhängigkeit ermöglichte es ihm, Jahre der Entwicklung seiner Werke zu widmen.
+  - expert:
+    - id: 21
+      question: In welcher Gemeinde Frankreichs ist seit 1962 das offizielle Sekretariat des Weihnachtsmanns eingerichtet ?
+      propositions:
+      - Pontoise
+      - Courbevoie
+      - Rochefort
+      - Libourne
+      réponse: Libourne
+      anecdote: Etwa sechzig Postbote-Kobolde sind am Werk, um die Briefe und E-Mails von Kindern zu beantworten, die ihm gerne schreiben.
+    - id: 22
+      question: Wie viel unterscheiden wir über Tannenarten in der Welt ?
+      propositions:
+      - 46
+      - 6
+      - 460
+      - 4.600
+      réponse: 46
+      anecdote: Die Tannen, nahe Verwandte der Zedern, gehören zur Familie der Pinaceae und der Unterfamilie Abietoideae.
+    - id: 23
+      question: Welcher Regisseur sollte der Film « Santa Claus ein Junk sein » ?
+      propositions:
+      - Jean-Marie Poiré
+      - Claude Zidi
+      - Alain Terzian
+      - Patrice Ledoux
+      réponse: Jean-Marie Poiré
+      anecdote: Als der Film in den Kinos erschien, wurde er von der RATP boykottiert, die sich nach dem zu provokanten Titel weigerte, Plakatwände zu mieten.
+    - id: 24
+      question: Welche Farbe hatte der Weihnachtsmann, bevor er rot wurde ?
+      propositions:
+      - Orange
+      - Grau
+      - Grün
+      - Gelb
+      réponse: Grün
+      anecdote: Die französischen Bilder zeigen es zwischen 1870 und 1890 als alter Mann in einem überwiegend grünen und manchmal blauen Mantel.
+    - id: 25
+      question: In welcher Region Frankreichs essen Sie die dreizehn Weihnachtsdesserts ?
+      propositions:
+      - Bretagne
+      - Auvergne
+      - Elsass
+      - Provence
+      réponse: Provence
+      anecdote: Desserts können mit gekochtem Wein oder Muskatwein gebraut werden, während am Ende alle Liköre erscheinen.
+    - id: 26
+      question: In welchem Jahr sang Tino Rossi zum ersten Mal « Little Papa Christmas » ?
+      propositions:
+      - 1962
+      - 1950
+      - 1934
+      - 1946
+      réponse: 1946
+      anecdote: Dieses von Raymond Vincy geschriebene Lied wurde 1946 zum ersten Mal in dem Film « Destins » aufgeführt.
+    - id: 27
+      question: Was bleibt in Irland noch übrig, bevor es zur Weihnachtsmesse geht ?
+      propositions:
+      - Äpfel und Zitronen
+      - Brot und Salz
+      - Gin und Orangen
+      - Whiskey und Karotten
+      réponse: Whiskey und Karotten
+      anecdote: Das offizielle Symbol von Irland ist die keltische Harfe, aber der irische Klee wird oft als ein anderes Symbol (Rugby) verwendet.
+    - id: 28
+      question: In welcher französischen Stadt wurde 1521 der erste Weihnachtsbaum geschmückt ?
+      propositions:
+      - Colmar
+      - Cernay
+      - Mulhouse
+      - Sélatat
+      réponse: Sélatat
+      anecdote: Der Garten der Dahlie, der im Winter zum Garten der Tanne wird, ist eine Hommage an den blumigen Corso der Stadt.
+    - id: 29
+      question: Welcher Papst hätte am 25. Dezember 354 das Krippenfest in Rom ins Leben gerufen ?
+      propositions:
+      - Eusebius
+      - Marcellin
+      - Freiheit
+      - Pontian
+      réponse: Freiheit
+      anecdote: Als Nachfolger von Julius I., Bischof von Rom, wird Papst Liberius Rom zum ersten Apostolischen Stuhl ernennen.
+    - id: 30
+      question: Wie heißt ein gedrucktes Buch in Europa vor Weihnachten 1500 ?
+      propositions:
+      - Radierung
+      - Intaglio
+      - Inkunabel
+      - Drucken
+      réponse: Inkunabel
+      anecdote: Das Wort « incunable » stammt vom lateinischen Pluralnamen « incunabula », was wörtlich 'Windeln eines Neugeborenen' bedeutet.
+  es:
+  - débutant:
+    - id: 1
+      question: ¿Para un cristiano cuyo cumpleaños es Navidad el día de Navidad ?
+      propositions:
+      - Judas
+      - Jesus
+      - Marie
+      - Jose
+      réponse: Jesus
+      anecdote: Antes de la cristianización de Occidente, Noel correspondía al día de nacimiento de Sol Invictus.
+    - id: 2
+      question: ¿Qué comes la mayor parte del tiempo en Navidad desde una costumbre introducida por Carlos VII ?
+      propositions:
+      - Bouillabaisse
+      - Paupiettes
+      - Pavo
+      - Coq au vin
+      réponse: Pavo
+      anecdote: En Francia, en Bélgica y en el Reino Unido, el pavo de Navidad se rellena tradicionalmente con castañas.
+    - id: 3
+      question: ¿En qué fecha aparecen los magos en la guardería de Navidad ?
+      propositions:
+      - 25 de diciembre
+      - 6 de enero
+      - 1 de enero
+      - 24 de diciembre
+      réponse: 6 de enero
+      anecdote: El Occidente medieval ve a los sabios como santos, y la Iglesia Católica los reconoce como reliquias conservadas en Colonia.
+    - id: 4
+      question: En 1931, ¿para qué empresa de Haddon Sundblom dibujó Papá Noel en rojo ?
+      propositions:
+      - McDonald's
+      - IBM
+      - Walt Disney
+      - Coca-Cola
+      réponse: Coca-Cola
+      anecdote: Este ilustrador estadounidense es mejor conocido por sus pin-ups y los comerciales de Christmas Santa para The Coca-Cola Company.
+    - id: 5
+      question: Tradicionalmente, ¿con qué santo cristiano está asociado Santa Claus ?
+      propositions:
+      - San vicente
+      - Saint Julien
+      - San agustín
+      - San nicolas
+      réponse: San nicolas
+      anecdote: La idea de que Santa Claus es estadounidense es en parte cierta porque su historia podría estar relacionada con los migrantes de Nueva York.
+    - id: 6
+      question: ¿Con quién fueron Gaspard y Balthazar para rendir homenaje a Jesús ?
+      propositions:
+      - Melchior
+      - Herodes
+      - Athos
+      - Michée
+      réponse: Melchior
+      anecdote: Los magos solo son evocados por el evangelio según Mateo, los otros tres evangelios canónicos que ignoran este episodio.
+    - id: 7
+      question: ¿Cuál es el nombre de la escena representada por la Navidad crepe ?
+      propositions:
+      - Natividad
+      - Jourdan
+      - Santon
+      - Arlésienne
+      réponse: Natividad
+      anecdote: En el arte religioso, una Natividad es una representación de este nacimiento en forma de pinturas, esculturas o vitrales.
+    - id: 8
+      question: Si escucha « Buon Natale », ¿en qué país desea « Feliz Navidad » ?
+      propositions:
+      - Italia
+      - España
+      - Grecia
+      - Portugal
+      réponse: Italia
+      anecdote: En Francia, las tres cuartas partes de los franceses consideran que la Navidad es, ante todo, una celebración familiar o comercial.
+    - id: 9
+      question: En los Estados Unidos, ¿qué nombre se le da a Papá Noel que entrega sus regalos ?
+      propositions:
+      - Santa fe
+      - Santa claus
+      - Santa monica
+      - Santa Barbara
+      réponse: Santa claus
+      anecdote: La fiesta de Santa Claus (San Nicolás en inglés) se fija el 6 de diciembre, 19 días antes de la fiesta de Navidad en Francia.
+    - id: 10
+      question: Completa esta expresión de nuestros mayores: « Navidad en el balcón, ... »
+      propositions:
+      - Sopla los globos
+      - Bonete y borla
+      - El invierno sera largo
+      - Pascua con firebrand
+      réponse: Pascua con firebrand
+      anecdote: Una Navidad demasiado dulce anuncia un nuevo comienzo de la primavera: « si podemos pasar la Navidad afuera, nos quedaremos en Pascua junto a la chimenea ».
+  - confirmé:
+    - id: 11
+      question: Los tres sabios trajeron oro, incienso y ¿qué más ?
+      propositions:
+      - Almizcle
+      - Cilantro
+      - Ámbar
+      - Mirra
+      réponse: Mirra
+      anecdote: El olor de la mirra a veces se asocia con eritema y se menciona siete veces en el « Song of Songs ».
+    - id: 12
+      question: ¿Cuántos dedos tiene el guante de punto de Thérèse en « El Papá Noel es una chatarra ? »
+      propositions:
+      - Tres
+      - Cinco
+      - Seis
+      - Cuatro
+      réponse: Tres
+      anecdote: « El padre de Navidad es una basura » es el origen (1979) de una obra de teatro interpretada por la compañía de Splendid.
+    - id: 13
+      question: ¿Qué temporada navideña es la navidad en el continente austral ?
+      propositions:
+      - Verano
+      - Otoño
+      - Invierno
+      - Primavera
+      réponse: Verano
+      anecdote: La Navidad es una fiesta cristiana que celebra el nacimiento de Jesús de Nazaret, llamada Natividad, cada año.
+    - id: 14
+      question: ¿Cuántos renos es sacado el trineo de Papá Noel la mayor parte del tiempo ?
+      propositions:
+      - Ocho
+      - Seis
+      - Doce
+      - Diez
+      réponse: Ocho
+      anecdote: Los renos de Papá Noel son los que, tradicionalmente, atraen al caballero de Papá Noel cuando distribuye los regalos.
+    - id: 15
+      question: ¿Qué región de Francia proviene de la tradición del árbol de navidad ?
+      propositions:
+      - Provence
+      - Borgoña
+      - Alsacia
+      - Bretaña
+      réponse: Alsacia
+      anecdote: Los árboles de Navidad se pueden vender cortados o en macetas, lo que permite replantarlos al final de las festividades.
+    - id: 16
+      question: ¿En qué película interpreta Billy Bob Thornton a un padre navideño que jura y dirige la enagua ?
+      propositions:
+      - Alamo
+      - Love Actually
+      - Bad Santa
+      - Salvación
+      réponse: Bad Santa
+      anecdote: Billy Bob Thornton, actor y músico estadounidense, fue la esposa de la actriz Angelina Jolie desde mayo de 2000 hasta mayo de 2003.
+    - id: 17
+      question: ¿Qué celebración se considera la última de las festividades navideñas ?
+      propositions:
+      - Dia de san valentin
+      - Carnaval
+      - Mardi gras
+      - Candelaria
+      réponse: Candelaria
+      anecdote: La Candelaria se celebra en las iglesias el 2 de febrero, incluso si en su mayor parte conocemos este día festivo como un día de panqueques.
+    - id: 18
+      question: ¿Cuál es el primer regalo de Navidad que Hagrid le ofrece a Harry Potter ?
+      propositions:
+      - Búho
+      - Baguette
+      - Flauta
+      - Llave
+      réponse: Flauta
+      anecdote: Hagrid, miembro de la Orden del Fénix, fue criado en Hogwarts en la Casa Gryffindor, donde llegó en 1940.
+    - id: 19
+      question: ¿Qué ciudad de Francia es ahora famosa por su mercado navideño ?
+      propositions:
+      - Lyon
+      - Estrasburgo
+      - Arras
+      - Rennes
+      réponse: Estrasburgo
+      anecdote: El mercado de Navidad en Estrasburgo, seguido por la mayoría de los comerciantes de la ciudad, data de 1570.
+    - id: 20
+      question: ¿Qué hongo sin botas de cuero nos dejó el 25 de diciembre ?
+      propositions:
+      - Harold Loyd
+      - Buster Keaton
+      - James Dean
+      - Charlie Chaplin
+      réponse: Charlie Chaplin
+      anecdote: Perfeccionista, la independencia financiera de Charlie Chaplin le permitió dedicar años al desarrollo de sus obras.
+  - expert:
+    - id: 21
+      question: ¿En qué comuna de Francia está instalada desde 1962 la secretaría oficial de Papá Noel ?
+      propositions:
+      - Courbevoie
+      - Rochefort
+      - Libourne
+      - Pontoise
+      réponse: Libourne
+      anecdote: Unos sesenta duendes de cartero están en el trabajo para responder las cartas y correos electrónicos de niños ansiosos por escribirle.
+    - id: 22
+      question: ¿Cuánto distinguimos acerca de las especies de abetos en el mundo ?
+      propositions:
+      - 460
+      - 4,600
+      - 6
+      - 46
+      réponse: 46
+      anecdote: Los abetos, parientes cercanos de los cedros, pertenecen a la familia Pinaceae y a la subfamilia Abietoideae.
+    - id: 23
+      question: ¿A qué director debe otorgarse la película ? « El Papá Noel es una basura » ?
+      propositions:
+      - Claude Zidi
+      - Patrice Ledoux
+      - Jean-Marie Poiré
+      - Alain Terzian
+      réponse: Jean-Marie Poiré
+      anecdote: Cuando se estrenó en los cines, la película fue boicoteada por la RATP, que se negó a alquilar carteles después de que el título se considerara demasiado provocativo.
+    - id: 24
+      question: ¿De qué color era Papá Noel antes de que se volviera rojo ?
+      propositions:
+      - Verde
+      - Gris
+      - Amarillo
+      - Naranja
+      réponse: Verde
+      anecdote: Las imágenes francesas lo muestran alrededor de 1870-1890 como un anciano vestido con un abrigo principalmente verde y, a veces, azul.
+    - id: 25
+      question: ¿En qué región de Francia comes los trece postres de navidad ?
+      propositions:
+      - Auvernia
+      - Alsacia
+      - Bretaña
+      - Provence
+      réponse: Provence
+      anecdote: Los postres pueden elaborarse con vino cocido o moscatel, mientras que al final aparecen todos los licores.
+    - id: 26
+      question: ¿En qué año cantó Tino Rossi por primera vez « Little Papa Christmas » ?
+      propositions:
+      - 1934
+      - 1946
+      - 1950
+      - 1962
+      réponse: 1946
+      anecdote: Escrita por Raymond Vincy, esta canción se interpretó por primera vez en 1946 en la película « Destins ».
+    - id: 27
+      question: En Irlanda, ¿qué queda en la mesa antes de ir a la misa de Navidad ?
+      propositions:
+      - Whisky y zanahorias
+      - Pan y sal
+      - Ginebra y naranjas
+      - Manzanas y limones
+      réponse: Whisky y zanahorias
+      anecdote: El símbolo oficial de Irlanda es el arpa celta, pero el trébol irlandés se usa a menudo como otro símbolo (rugby).
+    - id: 28
+      question: ¿En qué ciudad francesa se decoró el primer árbol de Navidad en 1521 ?
+      propositions:
+      - Cernay
+      - Mulhouse
+      - Colmar
+      - Sélatat
+      réponse: Sélatat
+      anecdote: El jardín de la Dalia, que en invierno se convierte en el Jardín del Abeto, rinde homenaje al corso florido de la ciudad.
+    - id: 29
+      question: ¿Qué Papa habría instituido el festival de la Natividad en Roma el 25 de diciembre de 354 ?
+      propositions:
+      - La libertad
+      - Eusebio
+      - Marcelino
+      - Pontiano
+      réponse: La libertad
+      anecdote: Obispo de Roma, que sucederá a Julio I, el Papa Líbero será el primero en designar a Roma como la Sede apostólica.
+    - id: 30
+      question: ¿Cómo se llama un libro impreso en Europa antes de Navidad 1500 ?
+      propositions:
+      - Grabado
+      - Incunable
+      - Imprimir
+      - Intaglio
+      réponse: Incunable
+      anecdote: La palabra « incunable » proviene del nombre en plural latino « incunabula », que significa literalmente 'los pañales de un bebé recién nacido'.
+  it:
+  - débutant:
+    - id: 1
+      question: Per un cristiano, il cui compleanno è Natale il giorno di Natale ?
+      propositions:
+      - Marie
+      - Joseph
+      - Gesù
+      - Giuda
+      réponse: Gesù
+      anecdote: Prima della cristianizzazione dell'Occidente, Noel corrispondeva al giorno di nascita di Sol Invictus.
+    - id: 2
+      question: Cosa mangi la maggior parte del tempo a Natale da un'usanza introdotta da Carlo VII ?
+      propositions:
+      - Coq au vin
+      - Paupiettes
+      - Turchia
+      - Bouillabaisse
+      réponse: Turchia
+      anecdote: In Francia, in Belgio e nel Regno Unito, il tacchino di Natale è tradizionalmente farcito con le castagne.
+    - id: 3
+      question: A che data sembra che i saggi appaiano nell'asilo natalizio ?
+      propositions:
+      - 25 dicembre
+      - 1 gennaio
+      - 6 gennaio
+      - 24 dicembre
+      réponse: 6 gennaio
+      anecdote: L'Occidente medievale vede i saggi come santi e la Chiesa cattolica li riconosce come reliquie conservate a Colonia.
+    - id: 4
+      question: Nel 1931, per quale ditta Haddon Sundblom disegnò Babbo Natale in rosso ?
+      propositions:
+      - Coca-Cola
+      - McDonald's
+      - Walt Disney
+      - IBM
+      réponse: Coca-Cola
+      anecdote: Questo illustratore americano è meglio conosciuto per le sue pin-up e gli spot natalizi di Babbo Natale per The Coca-Cola Company.
+    - id: 5
+      question: Tradizionalmente, quale santo cristiano è associato a Babbo Natale ?
+      propositions:
+      - Saint Vincent
+      - Sant'Agostino
+      - Saint Julien
+      - Saint Nicolas
+      réponse: Saint Nicolas
+      anecdote: L'idea che Babbo Natale sia americano è in parte vera perché la sua storia potrebbe essere legata ai migranti di New York.
+    - id: 6
+      question: Con chi Gaspard e Balthazar sono venuti per rendere omaggio a Gesù ?
+      propositions:
+      - Michée
+      - Erode
+      - Athos
+      - Melchior
+      réponse: Melchior
+      anecdote: I Magi sono solo evocati dal Vangelo secondo Matteo, gli altri tre vangeli canonici che ignorano questo episodio.
+    - id: 7
+      question: Qual è il nome della scena rappresentata dal crêpe di Natale ?
+      propositions:
+      - Santon
+      - Jourdan
+      - Arlésienne
+      - Natività
+      réponse: Natività
+      anecdote: Nell'arte religiosa, una Natività è una rappresentazione di questa nascita sotto forma di dipinti, sculture o vetrate.
+    - id: 8
+      question: Se senti « Buon Natale », in quale paese desideri « Buon Natale » ?
+      propositions:
+      - Spagna
+      - Italia
+      - Portogallo
+      - Grecia
+      réponse: Italia
+      anecdote: In Francia, tre quarti dei francesi ritengono che il Natale sia prima di tutto una festa di famiglia o commerciale.
+    - id: 9
+      question: Negli Stati Uniti, che nome viene dato a Babbo Natale che consegna i suoi doni ?
+      propositions:
+      - Babbo Natale
+      - Santa Fe
+      - Santa Barbara
+      - Santa Monica
+      réponse: Babbo Natale
+      anecdote: La festa di Babbo Natale (San Nicola in inglese) è fissata il 6 dicembre, 19 giorni prima della festa di Natale in Francia.
+    - id: 10
+      question: Completa questa espressione dei nostri anziani: « Natale sul balcone, ... »
+      propositions:
+      - Colpisci i palloncini
+      - Pasqua con il tizzone
+      - L'inverno sarà lungo
+      - Bonnet e nappa
+      réponse: Pasqua con il tizzone
+      anecdote: Un Natale troppo dolce annuncia un nuovo inizio di primavera: « se possiamo trascorrere il Natale all'aperto, resteremo a Pasqua vicino al caminetto ».
+  - confirmé:
+    - id: 11
+      question: I tre saggi portarono oro, incenso e cos'altro ?
+      propositions:
+      - Coriandolo
+      - Mirra
+      - Muschio
+      - Ambra
+      réponse: Mirra
+      anecdote: Il profumo di mirra a volte è associato con l'eritema ed è menzionato sette volte nella « canzone delle canzoni ».
+    - id: 12
+      question: Quante dita ha il guanto di maglia di Thérèse in « Babbo Natale è una cianfrusaglia » ?
+      propositions:
+      - Cinque
+      - Tre
+      - Quattro
+      - Sei
+      réponse: Tre
+      anecdote: « Babbo Natale è una schifezza » è originariamente (1979) un'opera teatrale eseguita dalla troupe di Splendid.
+    - id: 13
+      question: Quale stagione natalizia è il Natale nel continente australiano ?
+      propositions:
+      - Primavera
+      - Estate
+      - Inverno
+      - Autunno
+      réponse: Estate
+      anecdote: Il Natale è una festa cristiana che celebra la nascita di Gesù di Nazareth, chiamata Natività, ogni anno.
+    - id: 14
+      question: Da quante renne è la slitta di Babbo Natale tirata fuori la maggior parte del tempo ?
+      propositions:
+      - Dodici
+      - Sei
+      - Otto
+      - Dieci
+      réponse: Otto
+      anecdote: Le renne di Babbo Natale sono quelle che, tradizionalmente, disegnano il cavaliere di Babbo Natale quando distribuisce i doni.
+    - id: 15
+      question: Quale regione della Francia deriva dalla tradizione dell'albero di Natale ?
+      propositions:
+      - Bretagna
+      - Borgogna
+      - Alsazia
+      - Provenza
+      réponse: Alsazia
+      anecdote: Gli alberi di Natale possono essere venduti tagliati o in vaso, permettendo il reimpianto alla fine dei festeggiamenti.
+    - id: 16
+      question: In quale film Billy Bob Thornton interpreta un padre di Natale che impreca e corre la sottoveste ?
+      propositions:
+      - Love Actually
+      - Salvezza
+      - Bad Santa
+      - Alamo
+      réponse: Bad Santa
+      anecdote: Billy Bob Thornton, attore e musicista americano, era la moglie dell'attrice Angelina Jolie dal maggio 2000 al maggio 2003.
+    - id: 17
+      question: Quale celebrazione è considerata l'ultima delle festività natalizie ?
+      propositions:
+      - Candelora
+      - Carnevale
+      - San Valentino
+      - Mardi gras
+      réponse: Candelora
+      anecdote: La Candelora viene celebrata nelle chiese il 2 febbraio, anche se per lo più conosciamo questa festa come una giornata di frittelle.
+    - id: 18
+      question: Qual è il primo regalo di Natale che Hagrid offre a Harry Potter ?
+      propositions:
+      - Gufo
+      - Baguette
+      - Flauto
+      - Chiave
+      réponse: Flauto
+      anecdote: Hagrid, membro dell'Ordine della Fenice, fu cresciuto a Hogwarts nella Casa dei Grifondoro, dove arrivò nel 1940.
+    - id: 19
+      question: Quale città in Francia è ora famosa per il suo mercatino di Natale ?
+      propositions:
+      - Lione
+      - Rennes
+      - Arras
+      - Strasburgo
+      réponse: Strasburgo
+      anecdote: Il mercatino di Natale di Strasburgo, seguito dalla maggior parte dei commercianti della città, risale al 1570.
+    - id: 20
+      question: Quale bombetta senza stivali di pelle ci ha lasciato il 25 dicembre ?
+      propositions:
+      - James Dean
+      - Charlie Chaplin
+      - Buster Keaton
+      - Harold Loyd
+      réponse: Charlie Chaplin
+      anecdote: Perfezionista, l'indipendenza finanziaria di Charlie Chaplin gli ha permesso di dedicare anni allo sviluppo delle sue opere.
+  - expert:
+    - id: 21
+      question: In quale comune della Francia è installata dal 1962 la segreteria ufficiale di Babbo Natale ?
+      propositions:
+      - Pontoise
+      - Courbevoie
+      - Rochefort
+      - Libourne
+      réponse: Libourne
+      anecdote: Circa sessanta folletti postini sono al lavoro per rispondere alle lettere e alle e-mail di bambini desiderosi di scrivergli.
+    - id: 22
+      question: Quanto distinguiamo tra le specie di abete nel mondo ?
+      propositions:
+      - 4.600
+      - 6
+      - 46
+      - 460
+      réponse: 46
+      anecdote: Gli abeti, parenti stretti dei cedri, appartengono alla famiglia delle Pinacee e alla sottofamiglia Abietoideae.
+    - id: 23
+      question: A quale regista dovrebbe essere assegnato il film « The Santa Claus is a junk » ?
+      propositions:
+      - Patrice Ledoux
+      - Claude Zidi
+      - Alain Terzian
+      - Jean-Marie Poiré
+      réponse: Jean-Marie Poiré
+      anecdote: Quando è uscito nelle sale cinematografiche, il film è stato boicottato dal RATP, che ha rifiutato di noleggiare cartelloni pubblicitari in seguito al titolo ritenuto troppo provocatorio.
+    - id: 24
+      question: Qual era il colore di Babbo Natale prima che diventasse rosso ?
+      propositions:
+      - Verde
+      - Arancione
+      - Grigio
+      - Giallo
+      réponse: Verde
+      anecdote: L'immaginario francese lo mostra intorno al 1870-1890 come un vecchio vestito con un cappotto prevalentemente verde e talvolta blu.
+    - id: 25
+      question: In quale regione della Francia mangi i tredici dessert di Natale ?
+      propositions:
+      - Provenza
+      - Alvernia
+      - Bretagna
+      - Alsazia
+      réponse: Provenza
+      anecdote: I dolci possono essere preparati con vino cotto o vino moscato, mentre alla fine appaiono tutti i liquori.
+    - id: 26
+      question: In quale anno Tino Rossi ha cantato per la prima volta « Little Papa Christmas » ?
+      propositions:
+      - 1934
+      - 1946
+      - 1950
+      - 1962
+      réponse: 1946
+      anecdote: Scritto da Raymond Vincy, questa canzone è stata eseguita per la prima volta nel 1946 nel film « Destins ».
+    - id: 27
+      question: In Irlanda, cosa rimane sul tavolo prima di partire per la messa di Natale ?
+      propositions:
+      - Whisky e carote
+      - Mele e limoni
+      - Gin e arance
+      - Pane e sale
+      réponse: Whisky e carote
+      anecdote: Il simbolo ufficiale dell'Irlanda è l'arpa celtica, ma il trifoglio irlandese è spesso usato come un altro simbolo (rugby).
+    - id: 28
+      question: In quale città francese fu il primo albero di Natale decorato nel 1521 ?
+      propositions:
+      - Sélatat
+      - Cernay
+      - Mulhouse
+      - Colmar
+      réponse: Sélatat
+      anecdote: Il giardino della Dalia, che d'inverno diventa il Giardino dell'Abete, rende omaggio al corso fiorito della città.
+    - id: 29
+      question: Quale papa avrebbe istituito la festa della Natività a Roma il 25 dicembre 354 ?
+      propositions:
+      - Pontiano
+      - Marcellin
+      - Eusebio
+      - Libertà
+      réponse: Libertà
+      anecdote: Vescovo di Roma subentrato a Giulio I, Papa Liberio sarà il primo a designare Roma come Sede Apostolica.
+    - id: 30
+      question: Che cos'è un libro stampato chiamato in Europa prima del Natale del 1500 ?
+      propositions:
+      - Stampa
+      - Incunable
+      - Incisione
+      - Intaglio
+      réponse: Incunable
+      anecdote: La parola « incunaboli » deriva dal nome plurale latino « incunabula », che letteralmente significa 'i pannolini di un neonato'.
+  nl:
+  - débutant:
+    - id: 1
+      question: Voor een christen, wiens verjaardag Kerstmis is op eerste kerstdag ?
+      propositions:
+      - Jezus
+      - Joseph
+      - Marie
+      - Judas
+      réponse: Jezus
+      anecdote: Voor de kerstening van het Westen kwam Noel overeen met de geboortedag van Sol Invictus.
+    - id: 2
+      question: Wat eet je het grootste deel van de tijd met kerstmis sinds een aangepaste versie van Charles VII ?
+      propositions:
+      - Coq au vin
+      - Bouillabaisse
+      - Turkije
+      - Paupiettes
+      réponse: Turkije
+      anecdote: In Frankrijk, in België en het Verenigd Koninkrijk, wordt Kerstmiskalkoen traditioneel gevuld met kastanjes.
+    - id: 3
+      question: Op welke datum lijken de wijze mannen in de kerststal te verschijnen ?
+      propositions:
+      - 1 januari
+      - 24 december
+      - 6 januari
+      - 25 december
+      réponse: 6 januari
+      anecdote: Het middeleeuwse Westen ziet de wijze mannen als heiligen, en de katholieke kerk erkent ze als relikwieën bewaard in Keulen.
+    - id: 4
+      question: In 1931, voor welke firma Haddon Sundblom tekende hij Father Christmas in rood ?
+      propositions:
+      - Walt Disney
+      - IBM
+      - McDonald's
+      - Coca-Cola
+      réponse: Coca-Cola
+      anecdote: Deze Amerikaanse illustrator is vooral bekend om zijn pin-ups en Christmas Santa's commercials voor The Coca-Cola Company.
+    - id: 5
+      question: Traditioneel, met welke christelijke heilige wordt Santa Claus geassocieerd ?
+      propositions:
+      - Saint Julien
+      - Sint-Augustinus
+      - Saint Nicolas
+      - Saint Vincent
+      réponse: Saint Nicolas
+      anecdote: Het idee dat de kerstman Amerikaans is, is deels waar, omdat zijn verhaal gelinkt kan worden aan New Yorkse migranten.
+    - id: 6
+      question: Met wie zijn Gaspard en Balthazar gekomen om hulde te brengen aan Jezus ?
+      propositions:
+      - Michée
+      - Athos
+      - Melchior
+      - Herodes
+      réponse: Melchior
+      anecdote: De magiërs worden alleen door het evangelie opgeroepen volgens Mattheüs, de drie andere canonieke evangeliën die deze aflevering negeren.
+    - id: 7
+      question: Wat is de naam van de scène vertegenwoordigd door de kerststal ?
+      propositions:
+      - Geboorte van Christus
+      - Santon
+      - Arlésienne
+      - Jourdan
+      réponse: Geboorte van Christus
+      anecdote: In religieuze kunst is een Geboorte van Christus een vertegenwoordiging van deze geboorte in de vorm van schilderijen, sculpturen of glas-in-lood.
+    - id: 8
+      question: Als u « Buon Natale » hoort, in welk land wenst u « Happy Christmas » ?
+      propositions:
+      - Portugal
+      - Italië
+      - Griekenland
+      - Spanje
+      réponse: Italië
+      anecdote: In Frankrijk vindt driekwart van de Fransen dat Kerstmis in de eerste plaats een familie- of handelsfeest is.
+    - id: 9
+      question: Welke naam wordt in de Verenigde Staten gegeven aan Father Christmas die zijn geschenken levert ?
+      propositions:
+      - Santa Barbara
+      - Santa Monica
+      - Santa Fe
+      - Santa Claus
+      réponse: Santa Claus
+      anecdote: Het feest van de kerstman (Saint Nicolas in het Engels) wordt vastgesteld op 6 december, 19 dagen vóór het kerstfeest in Frankrijk.
+    - id: 10
+      question: Voltooi deze uitdrukking van onze ouderlingen: « Kerst op het balkon, ... »
+      propositions:
+      - Bonnet en kwastje
+      - Blaas de ballonnen
+      - Pasen met vuursteen
+      - De winter zal lang zijn
+      réponse: Pasen met vuursteen
+      anecdote: Een te zoete kerst kondigt een frisse start aan van de lente: « als we de kerst buiten kunnen doorbrengen, zullen we met Pasen bij de open haard verblijven ».
+  - confirmé:
+    - id: 11
+      question: De drie wijzen brachten goud, wierook en wat nog meer ?
+      propositions:
+      - Koriander
+      - Musk
+      - Amber
+      - Mirre
+      réponse: Mirre
+      anecdote: De geur van mirre wordt soms geassocieerd met erytheem en wordt zeven keer genoemd in het « Song of Songs ».
+    - id: 12
+      question: Hoeveel vingers houdt de Thérèse-gebreide handschoen vast in « De Kerstman is een rotzooi ? »
+      propositions:
+      - Vier
+      - Drie
+      - Zes
+      - Vijf
+      réponse: Drie
+      anecdote: « De kerstvader is een rommel » is de oorsprong (1979) van een theaterstuk dat wordt geïnterpreteerd door de groep van Splendid.
+    - id: 13
+      question: Welk kerstseizoen is Kerstmis op het Australische continent ?
+      propositions:
+      - Zomer
+      - Winter
+      - Herfst
+      - Lente
+      réponse: Zomer
+      anecdote: Kerstmis is een christelijk feest dat elk jaar de geboorte van Jezus van Nazareth, de Geboorte van Christus, viert.
+    - id: 14
+      question: Bij hoeveel rendieren wordt de slede van de Kerstman meestal uitgetrokken ?
+      propositions:
+      - Twaalf
+      - Acht
+      - Tien
+      - Zes
+      réponse: Acht
+      anecdote: De rendieren van de Kerstman zijn degenen die traditioneel de ridder van de Kerstman tekenen wanneer hij de geschenken verdeelt.
+    - id: 15
+      question: Welke regio van Frankrijk komt uit de traditie van de kerstboom ?
+      propositions:
+      - Bretagne
+      - Provence
+      - Bourgondië
+      - Elzas
+      réponse: Elzas
+      anecdote: Kerstbomen kunnen worden verkocht of ingemaakt, waardoor herplanting aan het einde van de festiviteiten mogelijk is.
+    - id: 16
+      question: Welke film Billy Bob Thornton doet vloeken een performer vader Christmas en korte petticoat ?
+      propositions:
+      - Bad Santa
+      - Redding
+      - Alamo
+      - Liefde eigenlijk
+      réponse: Bad Santa
+      anecdote: Billy Bob Thornton, Amerikaans acteur en muzikant, was de echtgenoot van actrice Angelina Jolie van mei 2000 tot mei 2003.
+    - id: 17
+      question: Welke viering wordt beschouwd als de laatste van de kerstfestiviteiten ?
+      propositions:
+      - Mardi gras
+      - Valentijnsdag
+      - Carnaval
+      - Maria Lichtmis
+      réponse: Maria Lichtmis
+      anecdote: De lichtmis wordt gevierd in de kerken op 2 februari, ook al kennen we deze vakantie meestal als een dag vol pannenkoeken.
+    - id: 18
+      question: Wat is het eerste kerstcadeau dat Hagrid aanbiedt aan Harry Potter ?
+      propositions:
+      - Owl
+      - Baguette
+      - Fluit
+      - Sleutel
+      réponse: Fluit
+      anecdote: Hagrid, een lid van de Orde van de Feniks, is opgegroeid op Hogwarts in het Gryffindor House, waar hij in 1940 aankwam.
+    - id: 19
+      question: Welke stad in Frankrijk staat nu bekend om zijn kerstmarkt ?
+      propositions:
+      - Lyon
+      - Arras
+      - Rennes
+      - Straatsburg
+      réponse: Straatsburg
+      anecdote: De kerstmarkt in Straatsburg, gevolgd door de meeste handelaren van de stad, dateert uit 1570.
+    - id: 20
+      question: Welke bolhoed zonder leren laarzen verliet ons op 25 december ?
+      propositions:
+      - Buster Keaton
+      - Harold Loyd
+      - James Dean
+      - Charlie Chaplin
+      réponse: Charlie Chaplin
+      anecdote: Perfectionist, de financiële onafhankelijkheid van Charlie Chaplin stelde hem in staat jaren te wijden aan de ontwikkeling van zijn werken.
+  - expert:
+    - id: 21
+      question: In welke stad van Frankrijk is sinds 1962 het officiële secretariaat van de kerstman geïnstalleerd ?
+      propositions:
+      - Pontoise
+      - Courbevoie
+      - Libourne
+      - Rochefort
+      réponse: Libourne
+      anecdote: Ongeveer zestig postbode-kabouters zijn aan het werk om de brieven en e-mails van kinderen te beantwoorden die hem graag willen schrijven.
+    - id: 22
+      question: Hoeveel onderscheiden we over dennen in de wereld ?
+      propositions:
+      - 6
+      - 4.600
+      - 460
+      - 46
+      réponse: 46
+      anecdote: De dennen, naaste verwanten van de ceders, behoren tot de familie Pinaceae en de onderfamilie Abietoideae.
+    - id: 23
+      question: Aan welke regisseur moet de film worden toegekend « De kerstman is een rotzooi » ?
+      propositions:
+      - Jean-Marie Poiré
+      - Alain Terzian
+      - Patrice Ledoux
+      - Claude Zidi
+      réponse: Jean-Marie Poiré
+      anecdote: Toen het in bioscopen werd uitgebracht, werd de film geboycot door de RATP, die weigerde om billboards te huren na de titel die te provocerend werd geacht.
+    - id: 24
+      question: Wat was de kleur van Father Christmas voordat het rood werd ?
+      propositions:
+      - Grijs
+      - Oranje
+      - Geel
+      - Groen
+      réponse: Groen
+      anecdote: De Franse beeldspraak toont het rond 1870-1890 als een oude man gekleed in een voornamelijk groene en soms blauwe jas.
+    - id: 25
+      question: In welke regio van Frankrijk eet u de dertien desserts van Kerstmis ?
+      propositions:
+      - Elzas
+      - Bretagne
+      - Provence
+      - Auvergne
+      réponse: Provence
+      anecdote: Desserts kunnen worden gebrouwen met gekookte wijn of muscat-wijn, terwijl op het einde alle likeuren verschijnen.
+    - id: 26
+      question: In welk jaar zong Tino Rossi voor het eerst « Little Papa Christmas » ?
+      propositions:
+      - 1962
+      - 1934
+      - 1950
+      - 1946
+      réponse: 1946
+      anecdote: Geschreven door Raymond Vincy, werd dit lied voor het eerst uitgevoerd in 1946 in de film « Destins ».
+    - id: 27
+      question: Wat blijft er in Ierland achter voordat je naar de kerstmis gaat ?
+      propositions:
+      - Whisky en worteltjes
+      - Appelen en citroenen
+      - Brood en zout
+      - Gin en sinaasappelen
+      réponse: Whisky en worteltjes
+      anecdote: Het officiële symbool van Ierland is de Keltische harp, maar de Ierse klaver wordt vaak gebruikt als een ander symbool (rugby).
+    - id: 28
+      question: In welke Franse stad was de eerste kerstboom versierd in 1521 ?
+      propositions:
+      - Sélatat
+      - Colmar
+      - Cernay
+      - Mulhouse
+      réponse: Sélatat
+      anecdote: De tuin van de Dahlia, die in de winter de Tuin van de Spar wordt, brengt hulde aan de bloemrijke corso van de stad.
+    - id: 29
+      question: Welke paus zou op 25 december 354 het feest van de geboorte van Christus in Rome hebben ingesteld ?
+      propositions:
+      - Pontian
+      - Liberty
+      - Marcellin
+      - Eusebius
+      réponse: Liberty
+      anecdote: Bisschop van Rome, opvolger van Julius I, zal Pope Libero de eerste zijn die Rome aanduidt als de Apostolische Stoel.
+    - id: 30
+      question: Wat is een gedrukt boek dat vóór Kerstmis 1500 in Europa is gebeld ?
+      propositions:
+      - Intaglio
+      - Ets
+      - Afdrukken
+      - Incunable
+      réponse: Incunable
+      anecdote: Het woord « incunable » komt van het Latijnse woord « incunabula », wat letterlijk betekent 'de luiers van een pasgeboren baby'.

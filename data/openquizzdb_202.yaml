@@ -1,0 +1,1650 @@
+---
+fournisseur: OpenQuizzDB - Fournisseur de contenu libre (https://www.openquizzdb.org)
+rédacteur: Catherine De Smeytere
+thème: Céramique et poterie (Savoir-faire transmis depuis des millénaires)
+difficulté: 4 / 5
+quizz:
+  fr:
+  - débutant:
+    - id: 1
+      question: Le terme céramique provient du grec ancien « kéramos » qui signifie...
+      propositions:
+      - Terre à potier
+      - Moulage
+      - Tesson
+      - Empreinte
+      réponse: Terre à potier
+      anecdote: Le mot n'apparaît dans son sens moderne qu'à la moitié du XIXe siècle où l'archéologie commence à s'intéresser à la céramique.
+    - id: 2
+      question: De quel type de céramique la faïence et la terre cuite font-elles partie ?
+      propositions:
+      - Fine
+      - Poreuse
+      - Vitrifiée
+      - Stannifère
+      réponse: Poreuse
+      anecdote: La faïence, du nom de la ville italienne de Faenza où elle fut inventée, est une poterie émaillée ou vernissée à fond blanc.
+    - id: 3
+      question: En céramique, l'étanchéité de quel matériau le destine au stockage des liquides ?
+      propositions:
+      - Céruse
+      - Céladon
+      - Plâtre
+      - Grès
+      réponse: Grès
+      anecdote: Le grès, plus noble que la terre cuite, occupe la deuxième place dans la production de céramique de haute température.
+    - id: 4
+      question: Quelle machine génère des céramiques régulières en quantité ?
+      propositions:
+      - Tour de potier
+      - Brame
+      - Patère
+      - Pyromètre
+      réponse: Tour de potier
+      anecdote: Entre 3500 et 3450 av. J.-C., la poterie a subi une véritable révolution avec l'introduction du tour de potier au Proche-Orient.
+    - id: 5
+      question: Quelle matière à base de silicates est fortement utilisée en céramique ?
+      propositions:
+      - Sable
+      - Limon
+      - Céruse
+      - Argile
+      réponse: Argile
+      anecdote: L'argile hydratée est malléable, peut être mise en forme, devient solide après séchage et le reste de manière permanente.
+    - id: 6
+      question: Quel enduit vitrifiable est posé à la surface d'une céramique afin de la durcir ?
+      propositions:
+      - Biscuit
+      - Émail
+      - Pige
+      - Ajour
+      réponse: Émail
+      anecdote: L'oxyde de fer produit les tons verts, rouges, jaunes, noirs ou marrons, l'oxyde de cobalt les bleus et l'oxyde de chrome les verts.
+    - id: 7
+      question: La céramique de quelle civilisation est universellement connue pour la porcelaine ?
+      propositions:
+      - Chinoise
+      - Grecque
+      - Égyptienne
+      - Péruvienne
+      réponse: Chinoise
+      anecdote: Les grands vases bleu et blanc, qui sont apparus sous la dynastie mongole des Yuan, se développeront pleinement sous les Ming.
+    - id: 8
+      question: Par définition, quelle forme un potier va-t-il façonner le plus ?
+      propositions:
+      - Pot
+      - Boîte
+      - Pyramide
+      - Ballon
+      réponse: Pot
+      anecdote: Pour la cuisson, les différentes pièces obtenues sont disposées dans un four à une température de 1 000° C pendant environ huit heures.
+    - id: 9
+      question: Comment appelle-t-on l'outil principal du potier pour façonner ses vases ?
+      propositions:
+      - Meuble de potier
+      - Tour de potier
+      - Mandrin de potier
+      - Cercle de potier
+      réponse: Tour de potier
+      anecdote: Un tour de potier est, dans le domaine de la poterie, une machine utilisée dans la création de céramiques arrondies. 
+    - id: 10
+      question: Lequel de ces termes est directement opposé à celui de terre cuite ?
+      propositions:
+      - Terre chimique
+      - Terre crue
+      - Terre ancienne
+      - Terre glaise
+      réponse: Terre crue
+      anecdote: Préalablement à la terre cuite, on retrouve dans toutes les civilisations une poterie et des briques réalisées en terre crue.
+  - confirmé:
+    - id: 11
+      question: De quelle civilisation pré-incaïque connaît-on le mieux les céramiques ?
+      propositions:
+      - Pipils
+      - Patayan
+      - Nazca
+      - Valdivia
+      réponse: Nazca
+      anecdote: Peu colorées durant la période initiale, elles sont d'une grande richesse polychrome par la suite, entre Nazca moyen et tardif.
+    - id: 12
+      question: Quel type de pâte donne l'argile silico-argileuse avec laquelle est fabriqué le grès ?
+      propositions:
+      - Poreuse
+      - Fine
+      - Vitrifiée
+      - Stannifère
+      réponse: Vitrifiée
+      anecdote: Le grès est un matériau céramique caractérisé par une très grande dureté et une excellente résistance aux agressions chimiques.
+    - id: 13
+      question: Outre le grès, quel matériau de céramique est cuit à plus de 1 200° C ?
+      propositions:
+      - Faïence
+      - Patine
+      - Colombin
+      - Porcelaine
+      réponse: Porcelaine
+      anecdote: Le grès est apparu en Chine sous la dynastie Shang et la dynastie Han, atteignant sa perfection avec les céladons des Song.
+    - id: 14
+      question: Quel musée propose une magnifique collection de 340 000 pièces de céramiques ?
+      propositions:
+      - Vatican
+      - Cité interdite
+      - Louvre
+      - Tate Museum
+      réponse: Cité interdite
+      anecdote: Le musée du Palais à la cité interdite de Pékin est muni des collections impériales chinoises dès les dynasties Tang et Song.
+    - id: 15
+      question: Quelle couleur d'émaillage obtient-on avec l'oxyde de cobalt ?
+      propositions:
+      - Bleu
+      - Jaune
+      - Rouge
+      - Vert
+      réponse: Bleu
+      anecdote: Le cobalt le plus pur venait à grand frais du Moyen-Orient via l'Espagne, celui d'Europe centrale donnant des bleus moins profonds.
+    - id: 16
+      question: Quelle technique de poterie superpose de longs boudins d'argile ?
+      propositions:
+      - Réserve
+      - Mirette
+      - Colombin
+      - Galetage
+      réponse: Colombin
+      anecdote: Le potier solidarise les colombins en les pressant les uns contre les autres puis lisse la surface au fur et à mesure que s'élève la pièce.
+    - id: 17
+      question: Quelle ville du nord de la France possède un musée consacré à la céramique ?
+      propositions:
+      - Rouen
+      - Caen
+      - Le Havre
+      - Dieppe
+      réponse: Rouen
+      anecdote: Ce musée, créé en 1864 et possédant le label Musée de France, est situé dans l'hôtel d'Hocqueville, proche du square Verdrel à Rouen.
+    - id: 18
+      question: Quelle discipline s'attache à étudier les objets en céramique ?
+      propositions:
+      - Céramologie
+      - Tracéologie
+      - Carroyage
+      - Palynologie
+      réponse: Céramologie
+      anecdote: La céramologie comprend l'étude des techniques de fabrication (façonnage, cuisson), de leurs formes, et celle des motifs décoratifs.
+    - id: 19
+      question: Comment qualifie-t-on une céramique qui contient du texte dans son décor ?
+      propositions:
+      - Alandiée
+      - Crue
+      - Parlante
+      - Extrudée
+      réponse: Parlante
+      anecdote: L'assiette participait à l'effort d'union nationale en exprimant des accents guerriers, humoristiques ou satiriques.
+    - id: 20
+      question: Quelle technique permet de coller des éléments façonnés séparément ?
+      propositions:
+      - Barbotine
+      - Réduction
+      - Champlevé
+      - Calibration
+      réponse: Barbotine
+      anecdote: Les anses d'un vase sont par exemple modelées à part puis assemblées à la barbotine sur le corps du vase tourné.
+  - expert:
+    - id: 21
+      question: Comment appelle-t-on un objet façonné à la sortie du four du potier ?
+      propositions:
+      - Biscuit
+      - Gâteau
+      - Biscotte
+      - Pain
+      réponse: Biscuit
+      anecdote: Le biscuit de porcelaine est quant à lui utilisé pour réaliser des statuettes, des surtouts de table et des réductions de statues.
+    - id: 22
+      question: Quel revêtement à base d'argile peut rendre une céramique plus lisse ?
+      propositions:
+      - Lustre
+      - Chamotte
+      - Engobe
+      - Estèque
+      réponse: Engobe
+      anecdote: Comme l'engobe contient de l'argile délayée, s'il était posé sur la céramique sèche, il se fendillerait rapidement.
+    - id: 23
+      question: Quel émail vert olive est caractéristique des céramiques chinoises antiques ?
+      propositions:
+      - Coquemar
+      - Céladon
+      - Pernette
+      - Mullite
+      réponse: Céladon
+      anecdote: Le céladon (littéralement porcelaine verte) désigne un coloris et aussi un type de céramique propre à la Chine et à l'Extrême-Orient.
+    - id: 24
+      question: Quelle céramique fine et translucide est produite à partir du kaolin ?
+      propositions:
+      - Neriage
+      - Estampage
+      - Albarelle
+      - Porcelaine
+      réponse: Porcelaine
+      anecdote: Les kaolins sont des argiles blanches, friables et réfractaires, composées de kaolinite, soit des silicates d'aluminium.
+    - id: 25
+      question: Quel émail japonais noir tacheté de brun est parfois appelé peau de chamois ?
+      propositions:
+      - Tenmoku
+      - Nintoku
+      - Daibutsu
+      - Dotaku
+      réponse: Tenmoku
+      anecdote: Cet émail est obtenu en mélangeant feldspath, craie, ball clay, silice, bentonite et oxyde de fer rouge (hématite).
+    - id: 26
+      question: En céramique, comment appelle-t-on la pâte d'argile délayée dans de l'eau ?
+      propositions:
+      - Mandrin
+      - Grattage
+      - Fritte
+      - Barbotine
+      réponse: Barbotine
+      anecdote: Le décor à la barbotine consiste à ajouter des reliefs en barbotine sur une poterie : on appelle ainsi barbotines les poteries décorées.
+    - id: 27
+      question: Combien d'années de mariage symbolisent les noces de faïence ?
+      propositions:
+      - 29 ans
+      - 19 ans
+      - 9 ans
+      - 39 ans
+      réponse: 9 ans
+      anecdote: Le folklore français englobe les fables, les croyances populaires, les contes de fées et légendes de tous les peuples vivant en France.
+    - id: 28
+      question: Comment est appelé le plateau rotatif de la tour du potier ?
+      propositions:
+      - Rondeau
+      - Girelle
+      - Engobe
+      - Cône
+      réponse: Girelle
+      anecdote: Après avoir disposé une motte d'argile au centre du plateau, le potier centre sa terre puis la façonne pendant sa rotation.
+    - id: 29
+      question: Depuis quelle année le savoir-faire de la céramique d'art est-il reconnu en France ?
+      propositions:
+      - 1989
+      - 1979
+      - 2009
+      - 1999
+      réponse: 2009
+      anecdote: Chaque État-partie doit prendre les mesures nécessaires pour assurer la sauvegarde de son patrimoine culturel immatériel.
+    - id: 30
+      question: Quel architecte est connu pour son vitrage architectural en terre cuite ?
+      propositions:
+      - Jean Welz
+      - Tony Garnier
+      - Victor Bourgeois
+      - Louis Sullivan
+      réponse: Louis Sullivan
+      anecdote: À cette époque, les dessins de l'architecte américain né en 1856 à Boston auraient été impossibles à exécuter sur tout autre support.
+  en:
+  - débutant:
+    - id: 1
+      question: The term ceramic comes from the ancient Greek « keramos » which means...
+      propositions:
+      - Pottery Earth
+      - Tesson
+      - Footprint
+      - Molding
+      réponse: Pottery Earth
+      anecdote: The word appears in its modern sense only in the half of the nineteenth century when archeology begins to take an interest in ceramics.
+    - id: 2
+      question: What kind of ceramics are faience and terracotta part of ?
+      propositions:
+      - Vitrified
+      - Porous
+      - Stannifer
+      - Fine
+      réponse: Porous
+      anecdote: Faenza, from the name of the Italian city of Faenza, where it was invented, is an enamelled or varnished pottery with a white background.
+    - id: 3
+      question: In ceramics, what kind of material does it use for storing liquids ?
+      propositions:
+      - Grès
+      - Curse
+      - Plaster
+      - Céladon
+      réponse: Grès
+      anecdote: Grape, nobler than terra cotta, ranks second in the production of high temperature ceramics.
+    - id: 4
+      question: Which machine generates regular ceramics in quantity ?
+      propositions:
+      - Potter's wheel
+      - Patcher
+      - Pyrometer
+      - Brame
+      réponse: Potter's wheel
+      anecdote: Between 3500 and 3450 BC BC, the pottery underwent a real revolution with the introduction of the potter's wheel in the Middle East.
+    - id: 5
+      question: Which silicate material is heavily used in ceramics ?
+      propositions:
+      - Curse
+      - Clay
+      - Limon
+      - Sand
+      réponse: Clay
+      anecdote: The hydrated clay is malleable, can be shaped, becomes solid after drying and the rest permanently.
+    - id: 6
+      question: What vitrifiable coating is placed on the surface of a ceramic to harden it ?
+      propositions:
+      - E-mail
+      - Ajour
+      - Biscuit
+      - Freelance
+      réponse: E-mail
+      anecdote: Iron oxide produces green, red, yellow, black or brown tones, cobalt oxide blue and chromium oxide green.
+    - id: 7
+      question: The ceramics of which civilization is universally known for porcelain ?
+      propositions:
+      - Chinese
+      - Peruvian
+      - French
+      - Greek
+      réponse: Chinese
+      anecdote: The large blue and white vases, which appeared during the Yuan Mongol dynasty, will develop fully under the Ming.
+    - id: 8
+      question: In pottery, what technique of formatting uses only the fingers ?
+      propositions:
+      - Pouring
+      - Modeling
+      - Shooting
+      - Trying
+      réponse: Modeling
+      anecdote: For cooking, the different pieces obtained are placed in a oven at a temperature of 1,000 ° C for about eight hours.
+    - id: 9
+      question: What object is used to cover floors, walls and showers ?
+      propositions:
+      - Tile
+      - Friesland
+      - Lintel
+      - Bunker
+      réponse: Tile
+      anecdote: Tiles are used to form the wall of wall paintings and floor coverings, from simple squares to complex mosaics.
+    - id: 10
+      question: Which of these terms is directly opposed to that of terracotta ?
+      propositions:
+      - Clay
+      - Raw earth
+      - Old Earth
+      - Chemical Earth
+      réponse: Raw earth
+      anecdote: Previously to the terracotta, we find in all civilizations a pottery and bricks made of mud.
+  - confirmé:
+    - id: 11
+      question: Which pre-Inca civilization is best known for ceramics ?
+      propositions:
+      - Valdivia
+      - Pipils
+      - Patayan
+      - Nazca
+      réponse: Nazca
+      anecdote: Little colorful during the initial period, they are of great polychrome richness later, between medium and late Nazca.
+    - id: 12
+      question: What kind of ceramics are part of the grapes and porcelain ?
+      propositions:
+      - Porous
+      - Fine
+      - Stannifer
+      - Vitrified
+      réponse: Vitrified
+      anecdote: Le grés is a ceramic material characterized by a very great hardness and excellent resistance to chemical attack.
+    - id: 13
+      question: Which ceramic material is baked at a temperature above 1200 ° C ?
+      propositions:
+      - Grès
+      - Colombin
+      - Porcelain
+      - Patina
+      réponse: Grès
+      anecdote: The grape appeared in China during the Shang Dynasty and the Han Dynasty, reaching its perfection with Song's sausages.
+    - id: 14
+      question: Which museum offers a magnificent collection of 340,000 pieces of ceramics ?
+      propositions:
+      - Tate Museum
+      - Vatican
+      - Louvre
+      - Forbidden City
+      réponse: Forbidden City
+      anecdote: The Palace Museum at the Forbidden City of Beijing features Chinese imperial collections from the Tang and Song dynasties.
+    - id: 15
+      question: What color do we get with cobalt oxide ?
+      propositions:
+      - Blue
+      - Green
+      - Red
+      - Yellow
+      réponse: Blue
+      anecdote: The purest cobalt came at great expense from the Middle East via Spain, that of Central Europe giving less deep blues.
+    - id: 16
+      question: Which pottery technique superimposes long puddles of clay ?
+      propositions:
+      - Rolling
+      - Reserve
+      - Colombin
+      - Mirette
+      réponse: Colombin
+      anecdote: The potter secures the pigeons by pressing them against each other and smooths the surface as the coin rises.
+    - id: 17
+      question: Which city in the north of France has a museum devoted to the practice of ceramics ?
+      propositions:
+      - Rouen
+      - Le Havre
+      - Caen
+      - Dieppe
+      réponse: Rouen
+      anecdote: This museum, created in 1864 and having the label museum of France, is located in the Hocqueville hotel, near Verdrel square in Rouen.
+    - id: 18
+      question: What discipline is devoted to studying objects in ceramics ?
+      propositions:
+      - Grid
+      - Ceramology
+      - Traceability
+      - Palynology
+      réponse: Ceramology
+      anecdote: Ceramology includes the study of manufacturing techniques (making, baking), their forms, and that of decorative motifs.
+    - id: 19
+      question: How does one describe a ceramic that uses text in its decor ?
+      propositions:
+      - Crude
+      - Alandié
+      - Extruded
+      - Speaking
+      réponse: Speaking
+      anecdote: The plate participated in the national union effort by expressing warlike, humorous or satirical accents.
+    - id: 20
+      question: Which technique allows you to paste differently shaped elements ?
+      propositions:
+      - Barbotine
+      - Champlevé
+      - Reduction
+      - Calibration
+      réponse: Barbotine
+      anecdote: The handles of a vase are for example modeled apart and then assembled to the slip on the body of the turned vase.
+  - expert:
+    - id: 21
+      question: What is the fillet without cooking between 980° C and 1040° C ?
+      propositions:
+      - Biscotte
+      - Biscuit
+      - Bread
+      - Cake
+      réponse: Biscuit
+      anecdote: The porcelain biscuit is used to make statuettes, table top and statue reductions.
+    - id: 22
+      question: Which clay-based coating can make a ceramic smoother ?
+      propositions:
+      - Chandelier
+      - Engobe
+      - Chamotte
+      - Estèque
+      réponse: Engobe
+      anecdote: As the engobe contains loose clay, if it were laid on the dry ceramics, it would crack quickly.
+    - id: 23
+      question: What olive green flavor is characteristic of ancient Chinese ceramics ?
+      propositions:
+      - Coquemar
+      - Pernette
+      - Celadon
+      - Mullite
+      réponse: Celadon
+      anecdote: Celadon (literally green porcelain) refers to a color and also a type of ceramics peculiar to China and the Far East.
+    - id: 24
+      question: What fine, translucent ceramic is produced from kaolin ?
+      propositions:
+      - Neriage
+      - Porcelain
+      - Albarelle
+      - Stamping
+      réponse: Porcelain
+      anecdote: Kaolins are white, friable and refractory clays, composed of kaolinite, or aluminum silicates.
+    - id: 25
+      question: What dark brown Japanese e-mail is sometimes called chamois ?
+      propositions:
+      - Tenmoku
+      - Daibutsu
+      - Dotaku
+      - Nintoku
+      réponse: Tenmoku
+      anecdote: This e-mail is obtained by mixing feldspar, chalk, ball clay, silica, bentonite and red iron oxide (hematite).
+    - id: 26
+      question: In ceramics, what is the name of the clay pellet disintegrated in water ?
+      propositions:
+      - Fritte
+      - Barbotine
+      - Mandrin
+      - Scraping
+      réponse: Barbotine
+      anecdote: The decor with the slip consists of adding reliefs slip on a pottery : so called slip decorated pottery.
+    - id: 27
+      question: How many years of marriage symbolize the wedding of faience ?
+      propositions:
+      - 29 years old
+      - 9 years old
+      - 39 years old
+      - 19 years old
+      réponse: 9 years old
+      anecdote: French folklore encompasses the fables, popular beliefs, fairy tales and legends of all peoples living in France.
+    - id: 28
+      question: What is called the turntable of the potter's tower ?
+      propositions:
+      - Cne
+      - Rondeau
+      - Engobe
+      - Girelle
+      réponse: Girelle
+      anecdote: After arranging a clod of clay in the center of the tray, the potter centers his ground and then shakes it during his rotation.
+    - id: 29
+      question: Since what year is the know-how of ceramics of art recognized in France ?
+      propositions:
+      - 1999
+      - 1989
+      - 1979
+      - 2009
+      réponse: 2009
+      anecdote: Each state party must take the necessary steps to ensure the safeguarding of its intangible cultural heritage.
+    - id: 30
+      question: Which architect is known for its glazed architectural glazing ?
+      propositions:
+      - Tony Garnier
+      - Victor Bourgeois
+      - Jean Welz
+      - Louis Sullivan
+      réponse: Louis Sullivan
+      anecdote: At that time, the drawings of the American architect born in 1856 in Boston would have been impossible to execute in any other medium.
+  de:
+  - débutant:
+    - id: 1
+      question: Der Begriff Keramik stammt aus dem Altgriechischen « keramos » und bedeutet...
+      propositions:
+      - Keramik Erde
+      - Fußabdruck
+      - Formen
+      - Tesson
+      réponse: Keramik Erde
+      anecdote: Das Wort erscheint in seiner modernen Bedeutung erst in der Hälfte des neunzehnten Jahrhunderts, als die Archäologie beginnt, sich für Keramik zu interessieren.
+    - id: 2
+      question: Zu welcher Keramik gehören Fayence und Terrakotta ?
+      propositions:
+      - Fein
+      - Verglast
+      - Stannifer
+      - Porös
+      réponse: Porös
+      anecdote: Faenza, aus dem Namen der italienischen Stadt Faenza, in der es erfunden wurde, ist eine emaillierte oder lackierte Keramik mit weißem Hintergrund.
+    - id: 3
+      question: Welches Material wird in der Keramik zur Lagerung von Flüssigkeiten verwendet ?
+      propositions:
+      - Grès
+      - Fluch
+      - Céladon
+      - Gips
+      réponse: Grès
+      anecdote: Trauben, die edler als Terrakotta sind, stehen bei der Herstellung von Hochtemperaturkeramik an zweiter Stelle.
+    - id: 4
+      question: Welche Maschine erzeugt regelmäßig Keramik in Stückzahlen ?
+      propositions:
+      - Pyrometer
+      - Patcher
+      - Brame
+      - Töpferscheibe
+      réponse: Töpferscheibe
+      anecdote: Zwischen 3500 und 3450 v Mit der Einführung der Töpferscheibe im Nahen Osten erlebte die Töpferei vor Christus eine echte Revolution.
+    - id: 5
+      question: Welches Silikatmaterial wird in der Keramik häufig verwendet ?
+      propositions:
+      - Ton
+      - Fluch
+      - Sand
+      - Limon
+      réponse: Ton
+      anecdote: Der hydratisierte Ton ist formbar, lässt sich formen, wird nach dem Trocknen fest und der Rest dauerhaft.
+    - id: 6
+      question: Welche glasartige Beschichtung wird auf die Oberfläche einer Keramik aufgebracht, um sie zu härten ?
+      propositions:
+      - Ajour
+      - Keks
+      - E-Mail
+      - Freiberuflich
+      réponse: E-Mail
+      anecdote: Eisenoxid erzeugt grüne, rote, gelbe, schwarze oder braune Töne, Kobaltoxidblau und Chromoxidgrün.
+    - id: 7
+      question: Die Keramik, deren Zivilisation allgemein für Porzellan bekannt ist ?
+      propositions:
+      - Chinesisch
+      - Peruanisch
+      - Griechisch
+      - Französisch
+      réponse: Chinesisch
+      anecdote: Die großen blau-weißen Vasen, die während der Yuan-Mongolendynastie auftauchten, werden sich unter den Ming voll entfalten.
+    - id: 8
+      question: Bei welcher Formatierungstechnik werden in der Töpferei nur die Finger verwendet ?
+      propositions:
+      - Gießen
+      - Versuchen
+      - Schießen
+      - Modellierung
+      réponse: Modellierung
+      anecdote: Zum Kochen werden die verschiedenen erhaltenen Stücke etwa acht Stunden lang bei einer Temperatur von 1000ºC in einen Ofen gegeben.
+    - id: 9
+      question: Mit welchem Objekt werden Böden, Wände und Duschen abgedeckt ?
+      propositions:
+      - Fliese
+      - Sturz
+      - Bunker
+      - Friesland
+      réponse: Fliese
+      anecdote: Fliesen bilden die Wand von Wandgemälden und Bodenbelägen, von einfachen Quadraten bis hin zu komplexen Mosaiken.
+    - id: 10
+      question: Welcher dieser Begriffe steht in direktem Gegensatz zu Terrakotta ?
+      propositions:
+      - Alte Erde
+      - Rohe Erde
+      - Chemische Erde
+      - Ton
+      réponse: Rohe Erde
+      anecdote: Vor der Terrakotta finden wir in allen Zivilisationen eine Keramik und Ziegel aus Schlamm.
+  - confirmé:
+    - id: 11
+      question: Welche Prä-Inka-Zivilisation ist am besten für Keramik bekannt ?
+      propositions:
+      - Pipils
+      - Nazca
+      - Valdivia
+      - Patayan
+      réponse: Nazca
+      anecdote: In der Anfangszeit wenig farbenfroh, sind sie später zwischen dem mittleren und dem späten Nazca von großem polychromen Reichtum.
+    - id: 12
+      question: Welche Art von Keramik ist Teil der Trauben und des Porzellans ?
+      propositions:
+      - Stannifer
+      - Verglast
+      - Porös
+      - Fein
+      réponse: Verglast
+      anecdote: Le grés ist ein keramischer Werkstoff, der sich durch eine sehr große Härte und eine hervorragende chemische Beständigkeit auszeichnet.
+    - id: 13
+      question: Welches Keramikmaterial wird bei einer Temperatur über 1200 ° C eingebrannt ?
+      propositions:
+      - Porzellan
+      - Grès
+      - Colombin
+      - Patina
+      réponse: Grès
+      anecdote: Die Traube erschien in China während der Shang-Dynastie und der Han-Dynastie und erreichte mit Songs Würstchen ihre Vollendung.
+    - id: 14
+      question: Welches Museum bietet eine prächtige Sammlung von 340.000 Keramiken ?
+      propositions:
+      - Louvre
+      - Vatikan
+      - Tate Museum
+      - Verbotene Stadt
+      réponse: Verbotene Stadt
+      anecdote: Das Palastmuseum in der Verbotenen Stadt Peking zeigt chinesische kaiserliche Sammlungen aus der Tang- und der Song-Dynastie.
+    - id: 15
+      question: Welche Farbe bekommen wir mit Kobaltoxid ?
+      propositions:
+      - Blau
+      - Grün
+      - Gelb
+      - Rot
+      réponse: Blau
+      anecdote: Das reinste Kobalt kam mit großem Aufwand aus dem Nahen Osten über Spanien, das mitteleuropäische mit weniger tiefem Blues.
+    - id: 16
+      question: Welche Töpfertechnik überlagert lange Lehmpfützen ?
+      propositions:
+      - Rollen
+      - Mirette
+      - Reserve
+      - Colombin
+      réponse: Colombin
+      anecdote: Der Töpfer sichert die Tauben, indem er sie gegeneinander drückt, und glättet die Oberfläche, wenn die Münze steigt.
+    - id: 17
+      question: In welcher nordfranzösischen Stadt gibt es ein Museum, das sich der Keramikpraxis widmet ?
+      propositions:
+      - Le Havre
+      - Rouen
+      - Dieppe
+      - Caen
+      réponse: Rouen
+      anecdote: Dieses Museum, das 1864 gegründet wurde und das Label-Museum Frankreichs besitzt, befindet sich im Hotel Hocqueville in der Nähe des Verdrel-Platzes in Rouen.
+    - id: 18
+      question: Welche Disziplin widmet sich dem Studium von Objekten in Keramik ?
+      propositions:
+      - Keramologie
+      - Palynologie
+      - Gitter
+      - Rückverfolgbarkeit
+      réponse: Keramologie
+      anecdote: Die Keramik umfasst das Studium der Herstellungstechniken (Herstellen, Backen), ihrer Formen und der dekorativen Motive.
+    - id: 19
+      question: Wie beschreibt man eine Keramik, deren Dekor aus Text besteht ?
+      propositions:
+      - Rohöl
+      - Sprechen
+      - Extrudiert
+      - Alandié
+      réponse: Sprechen
+      anecdote: Die Platte beteiligte sich an den Bemühungen der nationalen Gewerkschaft, indem sie kriegerische, humorvolle oder satirische Akzente setzte.
+    - id: 20
+      question: Mit welcher Technik können Sie unterschiedlich geformte Elemente einfügen ?
+      propositions:
+      - Champlevé
+      - Reduzierung
+      - Kalibrierung
+      - Barbotine
+      réponse: Barbotine
+      anecdote: Die Griffe einer Vase werden zum Beispiel auseinander modelliert und dann zu dem Schlupf auf dem Körper der gedrehten Vase zusammengesetzt.
+  - expert:
+    - id: 21
+      question: Was ist das Filet ohne zwischen 980° C und 1040° C zu kochen ?
+      propositions:
+      - Biscotte
+      - Kuchen
+      - Keks
+      - Brot
+      réponse: Keks
+      anecdote: Aus dem Porzellankeks werden Statuetten, Tischplatten und Statuenreduktionen hergestellt.
+    - id: 22
+      question: Welche Tonbeschichtung kann eine Keramik glatter machen ?
+      propositions:
+      - Engobe
+      - Estèque
+      - Kronleuchter
+      - Schamotte
+      réponse: Engobe
+      anecdote: Da die Engobe losen Lehm enthält, würde sie schnell reißen, wenn sie auf die trockene Keramik gelegt würde.
+    - id: 23
+      question: Welches olivgrüne Aroma kennzeichnet die alte chinesische Keramik ?
+      propositions:
+      - Mullit
+      - Seladon
+      - Pernette
+      - Coquemar
+      réponse: Seladon
+      anecdote: Celadon (buchstäblich grünes Porzellan) bezieht sich auf eine Farbe und auch eine Art Keramik, die für China und den Fernen Osten typisch ist.
+    - id: 24
+      question: Welche feine, durchscheinende Keramik wird aus Kaolin hergestellt ?
+      propositions:
+      - Stempeln
+      - Albarelle
+      - Neriage
+      - Porzellan
+      réponse: Porzellan
+      anecdote: Kaoline sind weiße, bröckelige und feuerfeste Tone aus Kaolinit oder Aluminiumsilikaten.
+    - id: 25
+      question: Welche dunkelbraune japanische E-Mail wird manchmal Gämse genannt ?
+      propositions:
+      - Nintoku
+      - Daibutsu
+      - Tenmoku
+      - Dotaku
+      réponse: Tenmoku
+      anecdote: Diese E-Mail erhalten Sie durch Mischen von Feldspat, Kreide, Kugelton, Kieselsäure, Bentonit und rotem Eisenoxid (Hämatit).
+    - id: 26
+      question: Wie heißt das in Wasser zerfallene Tonpellet in der Keramik ?
+      propositions:
+      - Mandrin
+      - Schaben
+      - Fritte
+      - Barbotine
+      réponse: Barbotine
+      anecdote: Das Dekor mit dem Slip besteht aus dem Hinzufügen von Reliefs auf eine Keramik : sogenannte Slip-dekorierte Keramik.
+    - id: 27
+      question: Wie viele Jahre Ehe symbolisieren die Hochzeit der Fayence ?
+      propositions:
+      - 29 Jahre alt
+      - 39 Jahre alt
+      - 19 Jahre alt
+      - 9 Jahre alt
+      réponse: 9 Jahre alt
+      anecdote: Die französische Folklore umfasst Fabeln, Volksglauben, Märchen und Legenden aller in Frankreich lebenden Völker.
+    - id: 28
+      question: Wie heißt der Plattenteller des Töpferturms ?
+      propositions:
+      - Engobe
+      - Girelle
+      - Cne
+      - Rondeau
+      réponse: Girelle
+      anecdote: Nachdem der Töpfer eine Tonscholle in der Mitte des Tabletts angeordnet hat, zentriert er seinen Boden und schüttelt ihn dann während seiner Drehung.
+    - id: 29
+      question: Seit welchem Jahr ist das Know-how der Keramikkunst in Frankreich anerkannt ?
+      propositions:
+      - 1979
+      - 1989
+      - 1999
+      - 2009
+      réponse: 2009
+      anecdote: Jeder Vertragsstaat muss die notwendigen Schritte unternehmen, um den Schutz seines immateriellen Kulturerbes zu gewährleisten.
+    - id: 30
+      question: Welcher Architekt ist für seine glasierte Architekturverglasung bekannt ?
+      propositions:
+      - Jean Welz
+      - Louis Sullivan
+      - Tony Garnier
+      - Victor Bourgeois
+      réponse: Louis Sullivan
+      anecdote: Zu diesem Zeitpunkt waren die Zeichnungen des 1856 in Boston geborenen amerikanischen Architekten auf keinem anderen Medium zu realisieren.
+  es:
+  - débutant:
+    - id: 1
+      question: El término cerámica proviene del griego antiguo « keramos », que significa...
+      propositions:
+      - Huella
+      - Moldeo
+      - Tesson
+      - Tierra de cerámica
+      réponse: Tierra de cerámica
+      anecdote: La palabra aparece en su sentido moderno solo en la mitad del siglo XIX cuando la arqueología comienza a interesarse por la cerámica.
+    - id: 2
+      question: ¿De qué tipo de cerámica forman parte la loza y la terracota ?
+      propositions:
+      - Vitrificado
+      - Stannifer
+      - Bien
+      - Poroso
+      réponse: Poroso
+      anecdote: Faenza, del nombre de la ciudad italiana de Faenza, donde se inventó, es una cerámica esmaltada o barnizada con un fondo blanco.
+    - id: 3
+      question: En cerámica, ¿qué tipo de material utiliza para almacenar líquidos ?
+      propositions:
+      - Grès
+      - Yeso
+      - Céladon
+      - Maldición
+      réponse: Grès
+      anecdote: La uva, más noble que la terracota, ocupa el segundo lugar en la producción de cerámica de alta temperatura.
+    - id: 4
+      question: ¿Qué máquina genera cerámica regular en cantidad ?
+      propositions:
+      - Brame
+      - Pirómetro
+      - Patcher
+      - Rueda de alfarero
+      réponse: Rueda de alfarero
+      anecdote: Entre 3500 y 3450 a. C. BC, la cerámica experimentó una verdadera revolución con la introducción de la rueda de alfarero en el Medio Oriente.
+    - id: 5
+      question: ¿Qué material de silicato se usa mucho en cerámica ?
+      propositions:
+      - Arena
+      - Maldición
+      - Arcilla
+      - Limon
+      réponse: Arcilla
+      anecdote: La arcilla hidratada es maleable, se puede moldear, se solidifica después del secado y el resto permanentemente.
+    - id: 6
+      question: ¿Qué revestimiento vitrificable se coloca en la superficie de una cerámica para endurecerla ?
+      propositions:
+      - Freelance
+      - Galleta
+      - Correo electrónico
+      - Ajour
+      réponse: Correo electrónico
+      anecdote: El óxido de hierro produce tonos verdes, rojos, amarillos, negros o marrones, azul de óxido de cobalto y verde de óxido de cromo.
+    - id: 7
+      question: ¿La cerámica de qué civilización es universalmente conocida por la porcelana ?
+      propositions:
+      - Francés
+      - Griego
+      - Peruano
+      - Chino
+      réponse: Chino
+      anecdote: Los grandes jarrones azules y blancos, que aparecieron durante la dinastía Yuan Mongol, se desarrollarán completamente bajo el Ming.
+    - id: 8
+      question: En cerámica, ¿qué técnica de formateo usa solo los dedos ?
+      propositions:
+      - Tratando
+      - Modelado
+      - Tiro
+      - Vertiendo
+      réponse: Modelado
+      anecdote: Para cocinar, las diferentes piezas obtenidas se colocan en un horno a una temperatura de 1,000 ° C durante aproximadamente ocho horas.
+    - id: 9
+      question: ¿Qué objeto se usa para cubrir pisos, paredes y duchas ?
+      propositions:
+      - Azulejo
+      - Búnker
+      - Dintel
+      - Frisia
+      réponse: Azulejo
+      anecdote: Los azulejos se utilizan para formar la pared de pinturas murales y revestimientos de pisos, desde cuadrados simples hasta mosaicos complejos.
+    - id: 10
+      question: ¿Cuál de estos términos se opone directamente al de terracota ?
+      propositions:
+      - Tierra química
+      - Tierra vieja
+      - Tierra cruda
+      - Arcilla
+      réponse: Tierra cruda
+      anecdote: Anteriormente a la terracota, encontramos en todas las civilizaciones una cerámica y ladrillos hechos de barro.
+  - confirmé:
+    - id: 11
+      question: ¿Qué civilización preincaica es mejor conocida por la cerámica ?
+      propositions:
+      - Patayan
+      - Pipiles
+      - Nazca
+      - Valdivia
+      réponse: Nazca
+      anecdote: Poco coloridos durante el período inicial, son de gran riqueza policromada más tarde, entre Nazca medio y tardío.
+    - id: 12
+      question: ¿Qué tipo de cerámica forman parte de la uva y la porcelana ?
+      propositions:
+      - Poroso
+      - Stannifer
+      - Bien
+      - Vitrificado
+      réponse: Vitrificado
+      anecdote: Le grés es un material cerámico caracterizado por una gran dureza y excelente resistencia al ataque químico.
+    - id: 13
+      question: ¿Qué material cerámico se hornea a una temperatura superior a 1200 ° C ?
+      propositions:
+      - Porcelana
+      - Pátina
+      - Grès
+      - Colombin
+      réponse: Grès
+      anecdote: La uva apareció en China durante la dinastía Shang y la dinastía Han, alcanzando su perfección con las salchichas de Song.
+    - id: 14
+      question: ¿Qué museo ofrece una magnífica colección de 340,000 piezas de cerámica ?
+      propositions:
+      - Ciudad prohibida
+      - Vaticano
+      - Louvre
+      - Museo Tate
+      réponse: Ciudad prohibida
+      anecdote: El Museo del Palacio de la Ciudad Prohibida de Beijing presenta colecciones imperiales chinas de las dinastías Tang y Song.
+    - id: 15
+      question: ¿De qué color obtenemos con óxido de cobalto ?
+      propositions:
+      - Amarillo
+      - Rojo
+      - Verde
+      - Azul
+      réponse: Azul
+      anecdote: El cobalto más puro vino a gran costo del Medio Oriente a través de España, el de Europa Central con un azul menos profundo.
+    - id: 16
+      question: ¿Qué técnica de cerámica superpone largos charcos de arcilla ?
+      propositions:
+      - Rodando
+      - Mirette
+      - Colombin
+      - Reserva
+      réponse: Colombin
+      anecdote: El alfarero asegura las palomas presionándolas una contra la otra y alisa la superficie a medida que la moneda sube.
+    - id: 17
+      question: ¿Qué ciudad del norte de Francia tiene un museo dedicado a la práctica de la cerámica ?
+      propositions:
+      - Ruan
+      - Le Havre
+      - Caen
+      - Dieppe
+      réponse: Ruan
+      anecdote: Este museo, creado en 1864 y con el sello de museo de Francia, se encuentra en el hotel Hocqueville, cerca de la plaza Verdrel en Rouen.
+    - id: 18
+      question: ¿Qué disciplina se dedica al estudio de objetos en cerámica ?
+      propositions:
+      - Palinología
+      - Rejilla
+      - Ceramologia
+      - Trazabilidad
+      réponse: Ceramologia
+      anecdote: La cerámica incluye el estudio de las técnicas de fabricación (fabricación, horneado), sus formas y la de los motivos decorativos.
+    - id: 19
+      question: ¿Cómo se describe una cerámica que usa texto en su decoración ?
+      propositions:
+      - Extruido
+      - Hablando
+      - Alandié
+      - Crudo
+      réponse: Hablando
+      anecdote: La placa participó en el esfuerzo sindical nacional expresando acentos bélicos, humorísticos o satíricos.
+    - id: 20
+      question: ¿Qué técnica te permite pegar elementos de formas diferentes ?
+      propositions:
+      - Reducción
+      - Champlevé
+      - Barbotina
+      - Calibracion
+      réponse: Barbotina
+      anecdote: Los mangos de un florero, por ejemplo, se modelan y luego se ensamblan al deslizamiento en el cuerpo del florero girado.
+  - expert:
+    - id: 21
+      question: ¿Cuál es el filete sin cocinar entre 980° C y 1040° C ?
+      propositions:
+      - Pan
+      - Biscotte
+      - Pastel
+      - Galleta
+      réponse: Galleta
+      anecdote: El bizcocho de porcelana se usa para hacer estatuillas, mesas y reducciones de estatuas.
+    - id: 22
+      question: ¿Qué revestimiento a base de arcilla puede hacer que una cerámica sea más suave ?
+      propositions:
+      - Chamotte
+      - Araña de luces
+      - Engobe
+      - Estèque
+      réponse: Engobe
+      anecdote: Como el engobe contiene arcilla suelta, si se deposita sobre la cerámica seca, se rompería rápidamente.
+    - id: 23
+      question: ¿Qué sabor verde oliva es característico de la cerámica china antigua ?
+      propositions:
+      - Celadón
+      - Pernette
+      - Coquemar
+      - Mullita
+      réponse: Celadón
+      anecdote: Celadon (literalmente porcelana verde) se refiere a un color y también a un tipo de cerámica peculiar de China y el Lejano Oriente.
+    - id: 24
+      question: ¿Qué cerámica fina translúcida se produce a partir del caolín ?
+      propositions:
+      - Neriage
+      - Porcelana
+      - Albarelle
+      - Estampado
+      réponse: Porcelana
+      anecdote: Las caolinas son arcillas blancas, friables y refractarias, compuestas de caolinita o silicatos de aluminio.
+    - id: 25
+      question: ¿Qué correo electrónico japonés marrón oscuro a veces se llama gamuza ?
+      propositions:
+      - Dotaku
+      - Tenmoku
+      - Nintoku
+      - Daibutsu
+      réponse: Tenmoku
+      anecdote: Este correo electrónico se obtiene mezclando feldespato, tiza, arcilla, sílice, bentonita y óxido de hierro rojo (hematita).
+    - id: 26
+      question: En cerámica, ¿cómo se llama el gránulo de arcilla desintegrado en agua ?
+      propositions:
+      - Barbotina
+      - Mandrin
+      - Fritte
+      - Raspado
+      réponse: Barbotina
+      anecdote: La decoración con el deslizamiento consiste en agregar relieves de deslizamiento en una cerámica : la llamada cerámica decorada con deslizamiento.
+    - id: 27
+      question: ¿Cuántos años de matrimonio simbolizan la boda de loza ?
+      propositions:
+      - 29 años
+      - 39 años
+      - 19 años
+      - 9 años
+      réponse: 9 años
+      anecdote: El folklore francés abarca las fábulas, las creencias populares, los cuentos de hadas y las leyendas de todos los pueblos que viven en Francia.
+    - id: 28
+      question: ¿Qué se llama el plato giratorio de la torre del alfarero ?
+      propositions:
+      - Rondeau
+      - Engobe
+      - Cne
+      - Girelle
+      réponse: Girelle
+      anecdote: Después de colocar un terrón de arcilla en el centro de la bandeja, el alfarero centra su suelo y luego lo sacude durante su rotación.
+    - id: 29
+      question: ¿Desde cuándo se ha reconocido en Francia el know-how de la cerámica del arte ?
+      propositions:
+      - 1999
+      - 2009
+      - 1979
+      - 1989
+      réponse: 2009
+      anecdote: Cada Estado Parte tomará las medidas necesarias para salvaguardar su patrimonio cultural inmaterial.
+    - id: 30
+      question: ¿Qué arquitecto es conocido por su acristalamiento arquitectónico acristalado ?
+      propositions:
+      - Jean Welz
+      - Tony Garnier
+      - Victor Bourgeois
+      - Louis Sullivan
+      réponse: Louis Sullivan
+      anecdote: En ese momento, los dibujos del arquitecto estadounidense nacido en 1856 en Boston habrían sido imposibles de ejecutar en cualquier otro medio.
+  it:
+  - débutant:
+    - id: 1
+      question: Il termine ceramica deriva dall'antico greco « keramos » che significa...
+      propositions:
+      - Tesson
+      - Terra di ceramica
+      - Impronta
+      - Stampaggio
+      réponse: Terra di ceramica
+      anecdote: La parola appare nel suo senso moderno solo nella metà del diciannovesimo secolo quando l'archeologia inizia a interessarsi alla ceramica.
+    - id: 2
+      question: Di che tipo di ceramica fanno parte la maiolica e la terracotta ?
+      propositions:
+      - Bene
+      - Vetrificato
+      - Stannifer
+      - Poroso
+      réponse: Poroso
+      anecdote: Faenza, dal nome della città italiana di Faenza, dove è stata inventata, è una ceramica smaltata o verniciata con uno sfondo bianco.
+    - id: 3
+      question: In ceramica, che tipo di materiale utilizza per conservare i liquidi ?
+      propositions:
+      - Grès
+      - Céladon
+      - Intonaco
+      - Maledizione
+      réponse: Grès
+      anecdote: L'uva, più nobile della terracotta, è al secondo posto nella produzione di ceramiche ad alta temperatura.
+    - id: 4
+      question: Quale macchina genera ceramiche regolari in quantità ?
+      propositions:
+      - Pirometro
+      - Potter's wheel
+      - Patcher
+      - Brame
+      réponse: Potter's wheel
+      anecdote: Tra il 3500 e il 3450 a.C. AC, la ceramica ha subito una vera rivoluzione con l'introduzione della ruota del vasaio in Medio Oriente.
+    - id: 5
+      question: Quale materiale ai silicati è molto usato in ceramica ?
+      propositions:
+      - Maledizione
+      - Sabbia
+      - Limon
+      - Argilla
+      réponse: Argilla
+      anecdote: L'argilla idratata è malleabile, può essere modellata, diventa solida dopo l'essiccazione e il resto in modo permanente.
+    - id: 6
+      question: Quale rivestimento vetrificabile è posto sulla superficie di una ceramica per indurirla ?
+      propositions:
+      - Libero professionista
+      - Biscotto
+      - E-mail
+      - Ajour
+      réponse: E-mail
+      anecdote: L'ossido di ferro produce toni di verde, rosso, giallo, nero o marrone, blu di ossido di cobalto e verde di ossido di cromo.
+    - id: 7
+      question: La ceramica di quale civiltà è universalmente nota per la porcellana ?
+      propositions:
+      - Greco
+      - Francese
+      - Peruviano
+      - Cinese
+      réponse: Cinese
+      anecdote: I grandi vasi blu e bianchi, che apparvero durante la dinastia mongola Yuan, si svilupperanno completamente sotto il Ming.
+    - id: 8
+      question: In ceramica, quale tecnica di formattazione utilizza solo le dita ?
+      propositions:
+      - Versare
+      - Prova
+      - Scatto
+      - Modellazione
+      réponse: Modellazione
+      anecdote: Per la cottura, i diversi pezzi ottenuti vengono messi in forno a una temperatura di 1.
+    - id: 9
+      question: Quale oggetto viene utilizzato per coprire pavimenti, pareti e docce ?
+      propositions:
+      - Architrave
+      - Frisia
+      - Piastrella
+      - Bunker
+      réponse: Piastrella
+      anecdote: Le piastrelle sono utilizzate per formare il muro di dipinti murali e rivestimenti per pavimenti, da semplici quadrati a complessi mosaici.
+    - id: 10
+      question: Quale di questi termini è direttamente contrario a quello della terracotta ?
+      propositions:
+      - Terra chimica
+      - Vecchia Terra
+      - Terra cruda
+      - Argilla
+      réponse: Terra cruda
+      anecdote: Precedentemente alla terracotta, troviamo in tutte le civiltà una ceramica e mattoni fatti di fango.
+  - confirmé:
+    - id: 11
+      question: Quale civiltà pre-inca è meglio conosciuta per la ceramica ?
+      propositions:
+      - Patayan
+      - Nazca
+      - Pipils
+      - Valdivia
+      réponse: Nazca
+      anecdote: Poco colorati durante il periodo iniziale, sono di grande ricchezza policroma in seguito, tra il medio e il tardo Nazca.
+    - id: 12
+      question: Che tipo di ceramica fa parte dell'uva e della porcellana ?
+      propositions:
+      - Bene
+      - Vetrificato
+      - Stannifer
+      - Poroso
+      réponse: Vetrificato
+      anecdote: Le grés è un materiale ceramico caratterizzato da una grandissima durezza e un'eccellente resistenza agli attacchi chimici.
+    - id: 13
+      question: Quale materiale ceramico viene cotto ad una temperatura superiore a 1200 ° C ?
+      propositions:
+      - Porcellana
+      - Patina
+      - Colombin
+      - Grès
+      réponse: Grès
+      anecdote: L'uva è apparsa in Cina durante la dinastia Shang e la dinastia Han, raggiungendo la sua perfezione con le salsicce di Song.
+    - id: 14
+      question: Quale museo offre una magnifica collezione di 340.000 pezzi di ceramica ?
+      propositions:
+      - Città Proibita
+      - Museo della Tate
+      - Louvre
+      - Vaticano
+      réponse: Città Proibita
+      anecdote: Il Museo del Palazzo nella Città Proibita di Pechino ospita collezioni imperiali cinesi delle dinastie Tang e Song.
+    - id: 15
+      question: Di che colore abbiamo con l'ossido di cobalto ?
+      propositions:
+      - Rosso
+      - Giallo
+      - Verde
+      - Blu
+      réponse: Blu
+      anecdote: Il cobalto più puro è venuto a spese del Medio Oriente attraverso la Spagna, quella dell'Europa centrale che ha dato blues meno profondi.
+    - id: 16
+      question: Quale tecnica della ceramica sovrappone lunghe pozzanghere di argilla ?
+      propositions:
+      - Rotolamento
+      - Prenota
+      - Colombin
+      - Mirette
+      réponse: Colombin
+      anecdote: Il vasaio protegge i piccioni premendoli l'uno contro l'altro e leviga la superficie mentre la moneta sale.
+    - id: 17
+      question: Quale città del nord della Francia ha un museo dedicato alla pratica della ceramica ?
+      propositions:
+      - Le Havre
+      - Caen
+      - Dieppe
+      - Rouen
+      réponse: Rouen
+      anecdote: Questo museo, creato nel 1864 e con l'etichetta museo della Francia, si trova nell'hotel Hocqueville, vicino a piazza Verdrel a Rouen.
+    - id: 18
+      question: Quale disciplina è dedicata allo studio degli oggetti in ceramica ?
+      propositions:
+      - Palinologia
+      - Ceramologia
+      - Griglia
+      - Tracciabilità
+      réponse: Ceramologia
+      anecdote: La ceramologia comprende lo studio delle tecniche di fabbricazione (fabbricazione, cottura), le loro forme e quella dei motivi decorativi.
+    - id: 19
+      question: Come si descrive una ceramica che usa il testo nel suo arredamento ?
+      propositions:
+      - Greggio
+      - Parlare
+      - Alandié
+      - Estruso
+      réponse: Parlare
+      anecdote: La placca ha partecipato allo sforzo dell'Unione Europea esprimendo accenti bellicosi, umoristici o satirici.
+    - id: 20
+      question: Quale tecnica ti consente di incollare elementi di forma diversa ?
+      propositions:
+      - Calibrazione
+      - Champlevé
+      - Barbotina
+      - Riduzione
+      réponse: Barbotina
+      anecdote: Le maniglie di un vaso sono ad esempio modellate a parte e quindi assemblate allo slip sul corpo del vaso tornito.
+  - expert:
+    - id: 21
+      question: Cos'è il filetto senza cottura tra 980° C e 1040° C ?
+      propositions:
+      - Biscotte
+      - Pane
+      - Biscotto
+      - Torta
+      réponse: Biscotto
+      anecdote: Il biscotto di porcellana viene utilizzato per realizzare statuette, piani d'appoggio e riduzioni di statue.
+    - id: 22
+      question: Quale rivestimento a base di argilla può rendere più liscia una ceramica ?
+      propositions:
+      - Chamotte
+      - Lampadario
+      - Estèque
+      - Engobe
+      réponse: Engobe
+      anecdote: Poiché l'embobe contiene argilla sciolta, se fosse posata sulla ceramica asciutta, si spezzerebbe rapidamente.
+    - id: 23
+      question: Quale sapore verde oliva è caratteristico delle antiche ceramiche cinesi ?
+      propositions:
+      - Coquemar
+      - Mullite
+      - Pernette
+      - Celadon
+      réponse: Celadon
+      anecdote: Celadon (letteralmente porcellana verde) si riferisce a un colore e anche a un tipo di ceramica peculiare della Cina e dell'Estremo Oriente.
+    - id: 24
+      question: Quale ceramica fine e traslucida viene prodotta dal caolino ?
+      propositions:
+      - Neriage
+      - Porcellana
+      - Timbratura
+      - Albarelle
+      réponse: Porcellana
+      anecdote: I caolini sono argille bianche, friabili e refrattarie, composte da caolinite o silicati di alluminio.
+    - id: 25
+      question: Quale e-mail giapponese marrone scuro viene talvolta chiamata camoscio ?
+      propositions:
+      - Dotaku
+      - Tenmoku
+      - Daibutsu
+      - Nintoku
+      réponse: Tenmoku
+      anecdote: Questa e-mail è ottenuta mescolando feldspato, gesso, argilla sferica, silice, bentonite e ossido di ferro rosso (ematite).
+    - id: 26
+      question: In ceramica, come si chiama il pellet di argilla disintegrato in acqua ?
+      propositions:
+      - Raschiando
+      - Mandrin
+      - Fritte
+      - Barbotina
+      réponse: Barbotina
+      anecdote: L'arredamento con lo slip consiste nell'aggiungere degli slip in rilievo su una ceramica : la cosiddetta ceramica decorata con slip.
+    - id: 27
+      question: Quanti anni di matrimonio simboleggiano il matrimonio di maiolica ?
+      propositions:
+      - 39 anni
+      - 19 anni
+      - 9 anni
+      - 29 anni
+      réponse: 9 anni
+      anecdote: Il folklore francese comprende le favole, le credenze popolari, le fiabe e le leggende di tutti i popoli che vivono in Francia.
+    - id: 28
+      question: Cosa si chiama il giradischi della torre del vasaio ?
+      propositions:
+      - Girelle
+      - Cne
+      - Engobe
+      - Rondeau
+      réponse: Girelle
+      anecdote: Dopo aver sistemato una zolla di argilla al centro del vassoio, il vasaio centra la sua terra e poi la scuote durante la sua rotazione.
+    - id: 29
+      question: Da quale anno il know-how della ceramica d'arte è riconosciuto in Francia ?
+      propositions:
+      - 2009
+      - 1999
+      - 1979
+      - 1989
+      réponse: 2009
+      anecdote: Ogni stato parte deve adottare le misure necessarie per salvaguardare il proprio patrimonio culturale immateriale.
+    - id: 30
+      question: Quale architetto è noto per i suoi vetri architettonici vetrati ?
+      propositions:
+      - Tony Garnier
+      - Jean Welz
+      - Victor Bourgeois
+      - Louis Sullivan
+      réponse: Louis Sullivan
+      anecdote: A quel tempo, i disegni dell'architetto americano nato nel 1856 a Boston sarebbero stati impossibili da eseguire su qualsiasi altro mezzo.
+  nl:
+  - débutant:
+    - id: 1
+      question: De term keramiek komt van de oude Griekse « keramos » wat betekent...
+      propositions:
+      - Tesson
+      - Voetafdruk
+      - Aardewerk Aarde
+      - Vormen
+      réponse: Aardewerk Aarde
+      anecdote: Het woord verschijnt pas in de moderne betekenis van het woord in de helft van de negentiende eeuw, wanneer de archeologie belangstelling begint te krijgen voor keramiek.
+    - id: 2
+      question: Van wat voor soort keramiek zijn faience en terracotta onderdeel ?
+      propositions:
+      - Verglaasd
+      - Fijn
+      - Poreus
+      - Stannifer
+      réponse: Poreus
+      anecdote: Faenza, van de naam van de Italiaanse stad Faenza, waar het werd uitgevonden, is een geëmailleerd of gelakt aardewerk met een witte achtergrond.
+    - id: 3
+      question: Wat voor materiaal gebruikt keramiek voor het bewaren van vloeistoffen ?
+      propositions:
+      - Céladon
+      - Grès
+      - Gips
+      - Vloek
+      réponse: Grès
+      anecdote: Druif, edeler dan terracotta, staat op de tweede plaats bij de productie van keramiek op hoge temperatuur.
+    - id: 4
+      question: Welke machine genereert regelmatig keramiek in hoeveelheid ?
+      propositions:
+      - Potter's wheel
+      - Brame
+      - Pyrometer
+      - Patcher
+      réponse: Potter's wheel
+      anecdote: Tussen 3500 en 3450 v.Chr BC, het aardewerk onderging een echte revolutie met de introductie van het pottenbakkerswiel in het Midden-Oosten.
+    - id: 5
+      question: Welk silicaatmateriaal wordt veel in keramiek gebruikt ?
+      propositions:
+      - Vloek
+      - Limon
+      - Clay
+      - Zand
+      réponse: Clay
+      anecdote: De gehydrateerde klei is kneedbaar, kan worden gevormd, wordt vast na drogen en de rest permanent.
+    - id: 6
+      question: Welke vitrificerende coating wordt op het oppervlak van een keramiek geplaatst om het te harden ?
+      propositions:
+      - Ajour
+      - Freelance
+      - Biscuit
+      - E-mail
+      réponse: E-mail
+      anecdote: IJzeroxide produceert groene, rode, gele, zwarte of bruine tinten, kobaltoxide blauw en chroomoxide groen.
+    - id: 7
+      question: De keramiek waarvan de beschaving universeel bekend staat om porselein ?
+      propositions:
+      - Chinees
+      - Peruaans
+      - Frans
+      - Grieks
+      réponse: Chinees
+      anecdote: De grote blauwe en witte vazen, die verschenen tijdens de Yuan Mongoolse dynastie, zullen zich volledig ontwikkelen onder de Ming.
+    - id: 8
+      question: In aardewerk, welke opmaaktechniek gebruikt alleen de vingers ?
+      propositions:
+      - Schieten
+      - Gieten
+      - Modelleren
+      - Bezig met proberen
+      réponse: Modelleren
+      anecdote: Voor het koken worden de verschillende verkregen stukken gedurende ongeveer acht uur in een oven geplaatst bij een temperatuur van 1.
+    - id: 9
+      question: Welk object wordt gebruikt om vloeren, muren en douches te bedekken ?
+      propositions:
+      - Tegel
+      - Bunker
+      - Lintel
+      - Friesland
+      réponse: Tegel
+      anecdote: Tegels worden gebruikt om de muur van muurschilderingen en vloerbedekkingen te vormen, van eenvoudige vierkanten tot complexe mozaïeken.
+    - id: 10
+      question: Welke van deze termen is direct tegengesteld aan die van terracotta ?
+      propositions:
+      - Clay
+      - Ruwe aarde
+      - Chemische aarde
+      - Oude aarde
+      réponse: Ruwe aarde
+      anecdote: Voorafgaand aan het terracotta vinden we in alle beschavingen aardewerk en bakstenen van modder.
+  - confirmé:
+    - id: 11
+      question: Welke pre-Inca-beschaving is het best bekend voor keramiek ?
+      propositions:
+      - Nazca
+      - Valdivia
+      - Patayan
+      - Pipils
+      réponse: Nazca
+      anecdote: Ze zijn in de beginperiode weinig kleurrijk en hebben later een grote polychrome rijkdom, tussen medium en late Nazca.
+    - id: 12
+      question: Wat voor soort keramiek hoort bij de druiven en het porselein ?
+      propositions:
+      - Verglaasd
+      - Fijn
+      - Poreus
+      - Stannifer
+      réponse: Verglaasd
+      anecdote: Le grés is een keramisch materiaal dat wordt gekenmerkt door een zeer grote hardheid en uitstekende weerstand tegen chemische aantasting.
+    - id: 13
+      question: Welk keramisch materiaal wordt gebakken bij een temperatuur boven 1200 ° C ?
+      propositions:
+      - Patina
+      - Colombin
+      - Grès
+      - Porselein
+      réponse: Grès
+      anecdote: De druif verscheen in China tijdens de Shang-dynastie en de Han-dynastie en bereikte zijn perfectie met de worsten van Song.
+    - id: 14
+      question: Welk museum biedt een prachtige verzameling van 340.000 stukken keramiek ?
+      propositions:
+      - Vaticaan
+      - Louvre
+      - Tate Museum
+      - Verboden Stad
+      réponse: Verboden Stad
+      anecdote: Het Paleismuseum in de Verboden Stad van Beijing heeft Chinese keizerlijke collecties uit de Tang- en Song-dynastieën.
+    - id: 15
+      question: Welke kleur krijgen we met kobaltoxide ?
+      propositions:
+      - Blauw
+      - Rood
+      - Geel
+      - Groen
+      réponse: Blauw
+      anecdote: Het zuiverste kobalt kwam via Spanje uit het Midden-Oosten voor grote kosten, dat van Midden-Europa met minder diepe blues.
+    - id: 16
+      question: Welke aardewerktechniek legt lange plassen klei op ?
+      propositions:
+      - Reserveren
+      - Mirette
+      - Rollen
+      - Colombin
+      réponse: Colombin
+      anecdote: De pottenbakker zet de duiven vast door ze tegen elkaar te drukken en maakt het oppervlak glad als de munt stijgt.
+    - id: 17
+      question: Welke stad in het noorden van Frankrijk heeft een museum gewijd aan het beoefenen van keramiek ?
+      propositions:
+      - Dieppe
+      - Caen
+      - Rouen
+      - Le Havre
+      réponse: Rouen
+      anecdote: Dit museum, opgericht in 1864 en met het label museum van Frankrijk, bevindt zich in het hotel Hocqueville, in de buurt van Verdrel Square in Rouen.
+    - id: 18
+      question: Welke discipline is gewijd aan het bestuderen van objecten in keramiek ?
+      propositions:
+      - Palynologie
+      - Traceerbaarheid
+      - Grid
+      - Ceramologie
+      réponse: Ceramologie
+      anecdote: Ceramologie omvat de studie van productietechnieken (maken, bakken), hun vormen en die van decoratieve motieven.
+    - id: 19
+      question: Hoe beschrijft men een keramiek die tekst in zijn decor gebruikt ?
+      propositions:
+      - Alandié
+      - Ruw
+      - Spreken
+      - Geëxtrudeerd
+      réponse: Spreken
+      anecdote: De plaat nam deel aan de inspanningen van de nationale vakbond door oorlogsachtige, humoristische of satirische accenten uit te drukken.
+    - id: 20
+      question: Met welke techniek kunt u elementen met verschillende vormen plakken ?
+      propositions:
+      - Barbotine
+      - Champlevé
+      - Kalibratie
+      - Vermindering
+      réponse: Barbotine
+      anecdote: De handgrepen van een vaas worden bijvoorbeeld uit elkaar gemodelleerd en vervolgens gemonteerd op de slip op het lichaam van de gedraaide vaas.
+  - expert:
+    - id: 21
+      question: Wat is de filet zonder te koken tussen 980° C en 1040° C ?
+      propositions:
+      - Cake
+      - Biscuit
+      - Biscotte
+      - Brood
+      réponse: Biscuit
+      anecdote: Het porseleinen koekje wordt gebruikt om beeldjes, tafelbladen en beeldverlagingen te maken.
+    - id: 22
+      question: Welke op klei gebaseerde coating kan een keramische soepeler maken ?
+      propositions:
+      - Estèque
+      - Chamotte
+      - Kroonluchter
+      - Engobe
+      réponse: Engobe
+      anecdote: Omdat de engobe losse klei bevat, zou het snel barsten als het op het droge keramiek zou worden gelegd.
+    - id: 23
+      question: Welke olijfgroene smaak is kenmerkend voor oud Chinees keramiek ?
+      propositions:
+      - Mullite
+      - Pernette
+      - Coquemar
+      - Celadon
+      réponse: Celadon
+      anecdote: Celadon (letterlijk groen porselein) verwijst naar een kleur en ook naar een soort keramiek eigen aan China en het Verre Oosten.
+    - id: 24
+      question: Welke fijne, doorschijnende keramiek wordt geproduceerd uit kaolien ?
+      propositions:
+      - Neriage
+      - Albarelle
+      - Porselein
+      - Stempelen
+      réponse: Porselein
+      anecdote: Kaolines zijn witte, brokkelige en vuurvaste kleisoorten, samengesteld uit kaoliniet of aluminiumsilicaten.
+    - id: 25
+      question: Welke donkerbruine Japanse e-mail wordt soms gems genoemd ?
+      propositions:
+      - Daibutsu
+      - Dotaku
+      - Nintoku
+      - Tenmoku
+      réponse: Tenmoku
+      anecdote: Deze e-mail wordt verkregen door veldspaat, krijt, ball clay, silica, bentoniet en rood ijzeroxide (hematiet) te mengen.
+    - id: 26
+      question: In keramiek, wat is de naam van de kleikorrel die in water uiteenvalt ?
+      propositions:
+      - Mandrin
+      - Schrapen
+      - Fritte
+      - Barbotine
+      réponse: Barbotine
+      anecdote: Het decor met de slip bestaat uit het toevoegen van reliëfs op een aardewerk : zogenaamd slipversierd aardewerk.
+    - id: 27
+      question: Hoeveel jaar huwelijk symboliseert het huwelijk van faience ?
+      propositions:
+      - 9 jaar oud
+      - 29 jaar oud
+      - 19 jaar oud
+      - 39 jaar oud
+      réponse: 9 jaar oud
+      anecdote: Franse folklore omvat de fabels, populaire overtuigingen, sprookjes en legendes van alle volkeren die in Frankrijk wonen.
+    - id: 28
+      question: Wat wordt de draaitafel van de toren van de pottenbakker genoemd ?
+      propositions:
+      - Rondeau
+      - Girelle
+      - Engobe
+      - Cne
+      réponse: Girelle
+      anecdote: Nadat hij een kluit klei in het midden van de bak heeft gerangschikt, centreert de pottenbakker zijn grond en schudt deze vervolgens tijdens zijn rotatie.
+    - id: 29
+      question: Sinds welk jaar wordt de knowhow van keramiek van kunst erkend in Frankrijk ?
+      propositions:
+      - 1989
+      - 1979
+      - 2009
+      - 1999
+      réponse: 2009
+      anecdote: Elke staatspartij moet de nodige stappen ondernemen om het immaterieel cultureel erfgoed te beschermen.
+    - id: 30
+      question: Welke architect staat bekend om zijn architecturale beglazing met beglazing ?
+      propositions:
+      - Louis Sullivan
+      - Jean Welz
+      - Victor Bourgeois
+      - Tony Garnier
+      réponse: Louis Sullivan
+      anecdote: Op dat moment zouden de tekeningen van de Amerikaanse architect, geboren in 1856 in Boston, onmogelijk op een ander medium kunnen worden uitgevoerd.

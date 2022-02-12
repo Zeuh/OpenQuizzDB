@@ -1,0 +1,2216 @@
+{                                     
+  "fournisseur": "OpenQuizzDB - Fournisseur de contenu libre (https://www.openquizzdb.org)",
+  "rédacteur": "Philippe Bresoux",
+  "thème": "Culture jeune (Penser à nos jeunes têtes blondes)",         
+  "difficulté": "1 / 5",
+  "quizz": {
+    "fr": {
+      "débutant": [
+      {
+        "id": 1,
+        "question": "Dans quel livre, souvent épais, trouve-t-on principalement des cartes de géographie ?",
+        "propositions": [
+          "Atlas",
+          "Dictionnaire",
+          "Agenda",
+          "Roman"
+        ],
+        "réponse": "Atlas",
+        "anecdote": "Les atlas mieux que les cartes fournissent une représentation des conceptions politiques d'une société ou d'une culture donnée."
+      },
+      {
+        "id": 2,
+        "question": "De quelle matière très dure est principalement constituée la banquise ?",
+        "propositions": [
+          "Métal",
+          "Terre",
+          "Roche",
+          "Glace"
+        ],
+        "réponse": "Glace",
+        "anecdote": "La banquise est la couche de glace qui se forme à la surface d'une étendue d'eau par solidification des premières couches d'eau."
+      },
+      {
+        "id": 3,
+        "question": "Dans quel endroit intérieur ou extérieur faut-il mettre un bonnet pour raison d'hygiène ?",
+        "propositions": [
+          "Piscine",
+          "Cinéma",
+          "Théâtre",
+          "Stade"
+        ],
+        "réponse": "Piscine",
+        "anecdote": "Les piscines publiques comportent en général un bassin de 25 mètres de longueur pour une largeur de 10 et 20 mètres."
+      },
+      {
+        "id": 4,
+        "question": "Quelle opération arithmétique permet de calculer le produit de deux nombres ?",
+        "propositions": [
+          "Simplification",
+          "Multiplication",
+          "Soustraction",
+          "Division"
+        ],
+        "réponse": "Multiplication",
+        "anecdote": "Cette opération est souvent notée avec la croix de multiplication, mais peut aussi être notée par d'autres symboles."
+      },
+      {
+        "id": 5,
+        "question": "Quel sport consiste à faire du ski sur l'eau, tracté par un bateau rapide ?",
+        "propositions": [
+          "Ski acrobatique",
+          "Ski de fond",
+          "Ski nautique",
+          "Ski alpin"
+        ],
+        "réponse": "Ski nautique",
+        "anecdote": "Ce sport consistant à se faire tracter par un bateau à moteur comporte 4 disciplines : le slalom, les figures, le saut et le combiné."
+      },
+      {
+        "id": 6,
+        "question": "Duquel de nos cinq sens les personnes aveugles sont-elles hélas privées ?",
+        "propositions": [
+          "Toucher",
+          "Ouïe",
+          "Odorat",
+          "Vue"
+        ],
+        "réponse": "Vue",
+        "anecdote": "La vie sociale est compliquée par le handicap : la santé et le sommeil sont affectés par une perturbation de la production de la mélatonine."
+      },
+      {
+        "id": 7,
+        "question": "Dans quel dessin animé peux-tu entendre la célèbre phrase « Hakuna matata » ?",
+        "propositions": [
+          "Dinosaure",
+          "Toy Story",
+          "Cars",
+          "Le Roi lion"
+        ],
+        "réponse": "Le Roi lion",
+        "anecdote": "Sorti en 1994, le film est inspiré de l'oeuvre d'Osamu Tezuka « Le Roi Léo » (1951) et d'« Hamlet » de William Shakespeare."
+      },
+      {
+        "id": 8,
+        "question": "Quel sport consiste à envoyer une petite balle blanche dans un trou ?",
+        "propositions": [
+          "Chistera",
+          "Croquet",
+          "Cricket",
+          "Golf"
+        ],
+        "réponse": "Golf",
+        "anecdote": "En 2009, Le Comité international olympique a réintégré le golf parmi la liste des sports présents aux Jeux olympiques d'été."
+      },
+      {
+        "id": 9,
+        "question": "Que porte sur la tête le capitaine Haddock, meilleur ami de Tintin ?",
+        "propositions": [
+          "Casquette",
+          "Casque",
+          "Chapeau",
+          "Turban"
+        ],
+        "réponse": "Casquette",
+        "anecdote": "En 1996, il a été désigné comme le personnage principal préféré de la série avec 37,5 % des suffrages devant Milou et Tintin."
+      },
+      {
+        "id": 10,
+        "question": "De quelle montagne peuvent parfois sortir des matières brûlantes ?",
+        "propositions": [
+          "Rocher",
+          "Volcan",
+          "Dune",
+          "Talus"
+        ],
+        "réponse": "Volcan",
+        "anecdote": "Les laves refroidies peuvent atteindre des milliers de mètres d'épaisseur, formant parfois des montagnes ou des îles."
+      }
+    ],
+    "confirmé": [
+      {
+        "id": 11,
+        "question": "Laquelle de ces propositions désigne ce qui apparaît en premier sur un arbre ?",
+        "propositions": [
+          "Fleur",
+          "Fruit",
+          "Bourgeon",
+          "Pépin"
+        ],
+        "réponse": "Bourgeon",
+        "anecdote": "Le bourgeon donne naissance aux branches, aux feuilles, aux fleurs (le bourgeon est alors nommé bouton) et aux fruits."
+      },
+      {
+        "id": 12,
+        "question": "Dans la coquille de quel animal marin peut-on parfois trouver une perle ?",
+        "propositions": [
+          "Huître",
+          "Tortue",
+          "Moule",
+          "Escargot"
+        ],
+        "réponse": "Huître",
+        "anecdote": "Les huîtres sont des mollusques qui ne vivent que dans l'eau salée ou saumâtre et se trouvent dans toutes les mers."
+      },
+      {
+        "id": 13,
+        "question": "Quel nom donne-t-on aux grandes collines de sable situées au bord de la mer ?",
+        "propositions": [
+          "Falaises",
+          "Dunes",
+          "Banquises",
+          "Monts"
+        ],
+        "réponse": "Dunes",
+        "anecdote": "Les dunes étant composées de sable, on ne parle pas de dune de sable, sauf pour préciser la qualité du sable qui la compose."
+      },
+      {
+        "id": 14,
+        "question": "Au cours de quelle saison la plupart des arbres fleurissent-ils en Europe ?",
+        "propositions": [
+          "Automne",
+          "Été",
+          "Hiver",
+          "Printemps"
+        ],
+        "réponse": "Printemps",
+        "anecdote": "Sur les arbres, le bourgeon hiverne et au printemps, lorsque les racines reprennent le pompage de la sève brute, celui-ci éclate."
+      },
+      {
+        "id": 15,
+        "question": "Comment appelle-t-on un jeune mouton mâle âgé de moins d'un an ?",
+        "propositions": [
+          "Bouc",
+          "Agneau",
+          "Biquette",
+          "Bélier"
+        ],
+        "réponse": "Agneau",
+        "anecdote": "L'agneau est principalement élevé pour sa viande, mais également pour sa peau (articles de mode) et son poil (feutre des chapeliers)."
+      },
+      {
+        "id": 16,
+        "question": "Quelle médaille obtient un sportif arrivé deuxième d'une épreuve aux JO ?",
+        "propositions": [
+          "Argent",
+          "Bronze",
+          "Or",
+          "Cuivre"
+        ],
+        "réponse": "Argent",
+        "anecdote": "Lors des JO de 1896, la médaille d'argent était remise au gagnant : ce n'est qu'en 1904 que l'ordre or/argent/bronze devint un standard."
+      },
+      {
+        "id": 17,
+        "question": "Quel appareil permet de rebondir sur une toile tendue et de faire des sauts et des figures ?",
+        "propositions": [
+          "Javelot",
+          "Perche",
+          "Espalier",
+          "Trampoline"
+        ],
+        "réponse": "Trampoline",
+        "anecdote": "Conjuguant l'aspect acrobatique à l'adrénaline des sensations verticales, le trampoline est considéré comme sport et attraction."
+      },
+      {
+        "id": 18,
+        "question": "Quel genre de chaussures porte-t-on pour pratiquer le judo en toute sécurité ?",
+        "propositions": [
+          "Aucune",
+          "Bottes",
+          "Baskets",
+          "Sabots"
+        ],
+        "réponse": "Aucune",
+        "anecdote": "Le lieu où l'on pratique le judo s'appelle le dojo, les pratiquants les judokas, la tenue en coton renforcée le judogi ou kimono."
+      },
+      {
+        "id": 19,
+        "question": "Combien un trèfle du jardin possède-t-il le plus souvent de feuilles ?",
+        "propositions": [
+          "Cinq",
+          "Quatre",
+          "Trois",
+          "Deux"
+        ],
+        "réponse": "Trois",
+        "anecdote": "C'est une plante très basse à tige rampante, reconnaissable à ses inflorescences blanches, parfois rosées, au parfum assez agréable."
+      },
+      {
+        "id": 20,
+        "question": "Dans un jeu de cartes classique, de quelle couleur sont les carreaux ?",
+        "propositions": [
+          "Bleu",
+          "Vert",
+          "Rouge",
+          "Noir"
+        ],
+        "réponse": "Rouge",
+        "anecdote": "Un jeu français comprend 52 cartes à jouer, réparties suivant treize valeurs sur quatre enseignes : pique, coeur, carreau et trèfle."
+      }
+    ],
+    "expert": [
+      {
+        "id": 21,
+        "question": "Comment appelle-t-on la ligne imaginaire qui sépare deux pays ?",
+        "propositions": [
+          "Tangente",
+          "Médiane",
+          "Frontière",
+          "Section"
+        ],
+        "réponse": "Frontière",
+        "anecdote": "Le sens attribué au mot frontière a évolué tout au long de l'histoire, et il n'a pas été le même d'une époque à l'autre."
+      },
+      {
+        "id": 22,
+        "question": "Quel est le nombre total de points sur un dé à six faces de jeu de société ?",
+        "propositions": [
+          "21",
+          "18",
+          "15",
+          "30"
+        ],
+        "réponse": "21",
+        "anecdote": "Les dés les plus courants sont des petits cubes de 1 à 2 cm de côté (souvent 16 mm), possédant donc 6 faces numérotées de 1 à 6."
+      },
+      {
+        "id": 23,
+        "question": "Quelle catégorie d'animaux nourrissent leurs petits avec leur lait ?",
+        "propositions": [
+          "Carnivores",
+          "Primates",
+          "Mammifères",
+          "Rongeurs"
+        ],
+        "réponse": "Mammifères",
+        "anecdote": "Les nouveau-nés nécessitent systématiquement des soins parentaux du fait de leur appareil digestif immature à la naissance."
+      },
+      {
+        "id": 24,
+        "question": "Dans nos jardins, quelle partie de la plante peut s'enfoncer profondément dans la terre ?",
+        "propositions": [
+          "Tige",
+          "Épine",
+          "Racine",
+          "Pétale"
+        ],
+        "réponse": "Racine",
+        "anecdote": "La racine est un organe vital de la plante, qui se forme très tôt lors du développement de la plante, dès le début de la germination."
+      },
+      {
+        "id": 25,
+        "question": "En quelle matière sont fabriqués les pneus des voitures ?",
+        "propositions": [
+          "Caoutchouc",
+          "Liège",
+          "Carbone",
+          "Plastique"
+        ],
+        "réponse": "Caoutchouc",
+        "anecdote": "Un pneu est conçu pour être monté sur la jante d'une roue et gonflé avec un gaz sous pression, habituellement de l'air ou de l'azote."
+      },
+      {
+        "id": 26,
+        "question": "Comment appelle-t-on une maison construite en bois en pleine montagne ?",
+        "propositions": [
+          "Gîte",
+          "Chalet",
+          "Caravane",
+          "Auberge"
+        ],
+        "réponse": "Chalet",
+        "anecdote": "En Suisse romande, le terme chalet désigne également l'édifice où l'on fait le fromage en été dans les hauts alpages."
+      },
+      {
+        "id": 27,
+        "question": "Laquelle de ces nages représente le type de nage le plus rapide ?",
+        "propositions": [
+          "Crawl",
+          "Papillon",
+          "Basse",
+          "Dos"
+        ],
+        "réponse": "Crawl",
+        "anecdote": "En crawl, la position du corps est horizontale et se caractérise par un battement des jambes et d'une rotation des bras en dehors de l'eau."
+      },
+      {
+        "id": 28,
+        "question": "En compétition, que met-on sur le dos de certains sportifs pour les reconnaître ?",
+        "propositions": [
+          "Mouchoir",
+          "Maillot",
+          "Drapeau",
+          "Dossard"
+        ],
+        "réponse": "Dossard",
+        "anecdote": "En dehors du sport hippique, l'athlétisme et le cyclisme furent les premières disciplines à adopter le système de dossard."
+      },
+      {
+        "id": 29,
+        "question": "Quelle source d'énergie permet de faire avancer une planche à voile ?",
+        "propositions": [
+          "Éolienne",
+          "Solaire",
+          "Marine",
+          "Hydraulique"
+        ],
+        "réponse": "Éolienne",
+        "anecdote": "En 2015 l'éolien fournissait 3,4 % de la production mondiale d'électricité. En 2017, cette part a été portée à 4 % avec 539 GW."
+      },
+      {
+        "id": 30,
+        "question": "Quelle course cycliste de France est aussi appelée la Grande Boucle ?",
+        "propositions": [
+          "Paris-Nice",
+          "Milan-San Remo",
+          "Tour de France",
+          "Critérium"
+        ],
+        "réponse": "Tour de France",
+        "anecdote": "Cette compétition cycliste par étapes masculine a lieu principalement en France, tout en traversant occasionnellement les pays voisins."
+      }
+    ]
+    },
+    "en": {
+      "débutant": [
+      {
+        "id": 1,
+        "question": "In what book often do we find mainly maps of geography ?",
+        "propositions": [
+          "Agenda",
+          "Atlas",
+          "Roman",
+          "Dictionary"
+        ],
+        "réponse": "Atlas",
+        "anecdote": "Atlases better than maps provide a representation of the political conceptions of a given society or culture."
+      },
+      {
+        "id": 2,
+        "question": "What very hard matter is mainly ice pack ?",
+        "propositions": [
+          "Ice cream",
+          "Roche",
+          "Metal",
+          "Earth"
+        ],
+        "réponse": "Ice cream",
+        "anecdote": "Pack ice is the layer of ice that forms on the surface of a body of water by solidification of the first layers of water."
+      },
+      {
+        "id": 3,
+        "question": "In which place inside or outside should a hat be put for reasons of hygiene ?",
+        "propositions": [
+          "Cinema",
+          "Stadium",
+          "Theater",
+          "Pool"
+        ],
+        "réponse": "Pool",
+        "anecdote": "Public swimming pools usually have a 25-meter-long pool with a width of 10 and 20 meters."
+      },
+      {
+        "id": 4,
+        "question": "Which arithmetic operation makes it possible to calculate the product of two numbers ?",
+        "propositions": [
+          "Division",
+          "Multiplication",
+          "Simplification",
+          "Subtraction"
+        ],
+        "réponse": "Multiplication",
+        "anecdote": "This operation is often noted with the multiplication cross, but can also be noted by other symbols."
+      },
+      {
+        "id": 5,
+        "question": "What sport is skiing on the water, pulled by a fast boat ?",
+        "propositions": [
+          "Freestyle Skiing",
+          "Cross-country skiing",
+          "Alpine skiing",
+          "Water skiing"
+        ],
+        "réponse": "Water skiing",
+        "anecdote": "This sport of being towed by a motor boat has four disciplines : slalom, tricks, jumping and combining."
+      },
+      {
+        "id": 6,
+        "question": "Which of our five senses are blind people hitherto deprived of ?",
+        "propositions": [
+          "Hearing",
+          "View",
+          "Smell",
+          "Touch"
+        ],
+        "réponse": "View",
+        "anecdote": "Social life is complicated by disability: health and sleep are affected by a disruption in the production of melatonin."
+      },
+      {
+        "id": 7,
+        "question": "In which cartoon can you hear the famous phrase « Hakuna matata » ?",
+        "propositions": [
+          "The Lion King",
+          "Toy Story",
+          "Cars",
+          "Dinosaur"
+        ],
+        "réponse": "The Lion King",
+        "anecdote": "Released in 1994, the film is inspired by the work of Osamu Tezuka « King Leo » (1951) and « Hamlet » by William Shakespeare."
+      },
+      {
+        "id": 8,
+        "question": "What sport is sending a small white ball into a hole ?",
+        "propositions": [
+          "Cricket",
+          "Chistera",
+          "Croquet",
+          "Golf"
+        ],
+        "réponse": "Golf",
+        "anecdote": "In 2009, the International Olympic Committee reinstated golf among the list of sports present at the Summer Olympics."
+      },
+      {
+        "id": 9,
+        "question": "What does Captain Haddock, Tintin's best friend, wear on his head ?",
+        "propositions": [
+          "Cap",
+          "Hat",
+          "Turban",
+          "Helmet"
+        ],
+        "réponse": "Cap",
+        "anecdote": "In 1996, he was named as the favorite main character in the series with 37.5 % of the vote before Snowy and Tintin."
+      },
+      {
+        "id": 10,
+        "question": "Which mountain can sometimes come out of hot materials ?",
+        "propositions": [
+          "Dune",
+          "Rock",
+          "Volcano",
+          "Talus"
+        ],
+        "réponse": "Volcano",
+        "anecdote": "The cooled lavas can be thousands of meters thick, sometimes forming mountains or islands."
+      }
+    ],
+    "confirmé": [
+      {
+        "id": 11,
+        "question": "Which of these propositions means what appears first on a tree ?",
+        "propositions": [
+          "Bud",
+          "Fruit",
+          "Flower",
+          "Seed"
+        ],
+        "réponse": "Bud",
+        "anecdote": "The bud gives birth to branches, leaves, flowers (the bud is then called a bud) and fruit."
+      },
+      {
+        "id": 12,
+        "question": "In the shell of what marine animal can we sometimes find a pearl ?",
+        "propositions": [
+          "Snail",
+          "Mold",
+          "Oyster",
+          "Turtle"
+        ],
+        "réponse": "Oyster",
+        "anecdote": "Oysters are molluscs that live only in salty or brackish water and are found in all seas."
+      },
+      {
+        "id": 13,
+        "question": "What name do we give to the great sand hills on the seashore ?",
+        "propositions": [
+          "Cliffs",
+          "Monts",
+          "Dunes",
+          "Ice floes"
+        ],
+        "réponse": "Dunes",
+        "anecdote": "Sand dunes are not sand dune, except to specify the quality of the sand that makes it up."
+      },
+      {
+        "id": 14,
+        "question": "During which season do most trees bloom in Europe ?",
+        "propositions": [
+          "Spring",
+          "Winter",
+          "Autumn",
+          "Summer"
+        ],
+        "réponse": "Spring",
+        "anecdote": "On the trees, the bud overwinters and in the spring, when the roots resume the pumping of the raw sap, it explodes."
+      },
+      {
+        "id": 15,
+        "question": "What is a young male sheep less than a year old called ?",
+        "propositions": [
+          "Aries",
+          "Lamb",
+          "Biquette",
+          "Bouc"
+        ],
+        "réponse": "Lamb",
+        "anecdote": "The lamb is mainly eaten for its meat, but also for its skin (fashion items) and its hair (hatters' hat)."
+      },
+      {
+        "id": 16,
+        "question": "What medal gets a sportsman who arrives second in a test at the Olympics ?",
+        "propositions": [
+          "Silver",
+          "Gold",
+          "Bronze",
+          "Copper"
+        ],
+        "réponse": "Silver",
+        "anecdote": "At the 1896 Olympics, the silver medal was awarded to the winner : it was not until 1904 that the gold / silver / bronze order became standard."
+      },
+      {
+        "id": 17,
+        "question": "What device makes it possible to bounce on a stretched canvas and to make jumps and tricks ?",
+        "propositions": [
+          "Javelot",
+          "Espalier",
+          "Trampoline",
+          "Perch"
+        ],
+        "réponse": "Trampoline",
+        "anecdote": "Combining the acrobatic and adrenaline side of vertical sensations, the trampoline is considered a sport and attraction."
+      },
+      {
+        "id": 18,
+        "question": "What kind of shoes do you wear to practice judo safely ?",
+        "propositions": [
+          "Sneakers",
+          "Boots",
+          "None",
+          "Clogs"
+        ],
+        "réponse": "None",
+        "anecdote": "The place where one practices the judo is called the dojo, the practitioners the judokas, the dress in reinforced cotton the judogi or kimono."
+      },
+      {
+        "id": 19,
+        "question": "How often does a clover in the garden have leaves ?",
+        "propositions": [
+          "Three",
+          "Two",
+          "Four",
+          "Five"
+        ],
+        "réponse": "Three",
+        "anecdote": "It is a very low plant with a creeping stalk, recognizable by its white, sometimes pink, inflorescences with a rather pleasant perfume."
+      },
+      {
+        "id": 20,
+        "question": "In a classic card game, what color are the tiles ?",
+        "propositions": [
+          "Red",
+          "Black",
+          "Blue",
+          "Green"
+        ],
+        "réponse": "Red",
+        "anecdote": "A French game includes 52 playing cards, distributed according to thirteen values four signs : spades, hearts, diamonds and clubs."
+      }
+    ],
+    "expert": [
+      {
+        "id": 21,
+        "question": "What is the name of the imaginary line separating two countries ?",
+        "propositions": [
+          "Section",
+          "Border",
+          "Tangente",
+          "Median"
+        ],
+        "réponse": "Border",
+        "anecdote": "The meaning attributed to the word frontier has evolved throughout history, and it has not been the same from one era to the next."
+      },
+      {
+        "id": 22,
+        "question": "What is the total number of points on a six-sided board game ?",
+        "propositions": [
+          "18",
+          "30",
+          "21",
+          "15"
+        ],
+        "réponse": "21",
+        "anecdote": "The most common dice are small cubes 1 to 2 cm in side (often 16 mm), thus having 6 faces numbered from 1 to 6."
+      },
+      {
+        "id": 23,
+        "question": "What class of animals feed their young with their milk ?",
+        "propositions": [
+          "Primates",
+          "Mammals",
+          "Rodents",
+          "Carnivores"
+        ],
+        "réponse": "Mammals",
+        "anecdote": "Newborns systematically require parental care because of their immature digestive systems at birth."
+      },
+      {
+        "id": 24,
+        "question": "In our gardens, what part of the plant sometimes sinks deep into the ground ?",
+        "propositions": [
+          "Petal",
+          " ?pine",
+          "Rod",
+          "Root"
+        ],
+        "réponse": "Root",
+        "anecdote": "The root is a vital organ of the plant, which is formed very early during the development of the plant, from the beginning of germination."
+      },
+      {
+        "id": 25,
+        "question": "What are the car tires made of ?",
+        "propositions": [
+          "Liège",
+          "Plastic",
+          "Carbon",
+          "Rubber"
+        ],
+        "réponse": "Rubber",
+        "anecdote": "A tire is designed to be mounted on the wheel rim and inflated with pressurized gas, usually air or nitrogen."
+      },
+      {
+        "id": 26,
+        "question": "What is a wooden house called in the middle of the mountain ?",
+        "propositions": [
+          "Chalet",
+          "Cottage",
+          "Hostel",
+          "Caravan"
+        ],
+        "réponse": "Chalet",
+        "anecdote": "In French-speaking Switzerland, the term chalet also designates the building where cheese is made in summer in the high mountain pastures."
+      },
+      {
+        "id": 27,
+        "question": "Which of these swims represents the fastest type of swimming ?",
+        "propositions": [
+          "Back",
+          "Butterfly",
+          "Low",
+          "Crawl"
+        ],
+        "réponse": "Crawl",
+        "anecdote": "In crawl, the position of the body is horizontal and is characterized by a beating of the legs and a rotation of the arms out of the water."
+      },
+      {
+        "id": 28,
+        "question": "In competition, what do we put on the back of certain athletes to recognize them ?",
+        "propositions": [
+          "Jersey",
+          "Flag",
+          "Bib",
+          "Handkerchief"
+        ],
+        "réponse": "Bib",
+        "anecdote": "Apart from the sport of horsemanship, athletics and cycling were the first disciplines to adopt the bib system."
+      },
+      {
+        "id": 29,
+        "question": "What source of energy is used to advance a windsurfing board ?",
+        "propositions": [
+          "Hydraulic",
+          "Wind turbine",
+          "Navy",
+          "Solar"
+        ],
+        "réponse": "Wind turbine",
+        "anecdote": "In 2015 wind power supplied 3.4 % of the world's electricity production. In 2017, this share was increased to 4 % with 539 GW."
+      },
+      {
+        "id": 30,
+        "question": "Which cycling race in France is also called the Great Loop ?",
+        "propositions": [
+          "Tour de France",
+          "Milan-San Remo",
+          "Criterium",
+          "Paris-Nice"
+        ],
+        "réponse": "Tour de France",
+        "anecdote": "This cycling competition by male stages takes place mainly in France, while occasionally crossing neighboring countries."
+      }
+    ]
+    },
+    "de": {
+      "débutant": [
+      {
+        "id": 1,
+        "question": "In welchem Buch finden wir oft hauptsächlich Landkarten der Geographie ?",
+        "propositions": [
+          "Agenda",
+          "Atlas",
+          "Wörterbuch",
+          "Roman"
+        ],
+        "réponse": "Atlas",
+        "anecdote": "Atlanten sind besser als Karten und repräsentieren die politischen Vorstellungen einer bestimmten Gesellschaft oder Kultur."
+      },
+      {
+        "id": 2,
+        "question": "Welche sehr harte Materie ist hauptsächlich Eisbeutel ?",
+        "propositions": [
+          "Erde",
+          "Roche",
+          "Eis",
+          "Metall"
+        ],
+        "réponse": "Eis",
+        "anecdote": "Packeis ist die Eisschicht, die sich auf der Oberfläche eines Gewässers durch Erstarren der ersten Wasserschichten bildet."
+      },
+      {
+        "id": 3,
+        "question": "An welcher Stelle drinnen oder draußen sollte aus hygienischen Gründen ein Hut angebracht werden ?",
+        "propositions": [
+          "Pool",
+          "Kino",
+          "Theater",
+          "Stadion"
+        ],
+        "réponse": "Pool",
+        "anecdote": "Öffentliche Schwimmbäder haben normalerweise ein 25 Meter langes Becken mit einer Breite von 10 width und 20 Metern."
+      },
+      {
+        "id": 4,
+        "question": "Welche arithmetische Operation ermöglicht es, das Produkt zweier Zahlen zu berechnen ?",
+        "propositions": [
+          "Multiplikation",
+          "Vereinfachung",
+          "Abteilung",
+          "Subtraktion"
+        ],
+        "réponse": "Multiplikation",
+        "anecdote": "Diese Operation wird oft mit dem Multiplikationskreuz vermerkt, kann aber auch durch andere Symbole vermerkt werden."
+      },
+      {
+        "id": 5,
+        "question": "Was für ein Sport ist Skifahren auf dem Wasser, gezogen von einem schnellen Boot ?",
+        "propositions": [
+          "Langlauf",
+          "Freestyle-Skifahren",
+          "Ski alpin",
+          "Wasserski"
+        ],
+        "réponse": "Wasserski",
+        "anecdote": "Dieser Sport, von einem Motorboot gezogen zu werden, hat vier Disziplinen : Slalom, Tricks, Springen und Kombinieren."
+      },
+      {
+        "id": 6,
+        "question": "Welche unserer fünf Sinne sind bisher blinde Menschen ?",
+        "propositions": [
+          "Berühren Sie",
+          "Geruch",
+          "Anhörung",
+          "Ansicht"
+        ],
+        "réponse": "Ansicht",
+        "anecdote": "Das soziale Leben wird durch Behinderungen erschwert: Gesundheit und Schlaf sind von einer Störung der Melatoninproduktion betroffen."
+      },
+      {
+        "id": 7,
+        "question": "In welchem Cartoon kannst du den berühmten Satz « Hakuna matata » ?",
+        "propositions": [
+          "Dinosaurier",
+          "Autos",
+          "Toy Story",
+          "Der König der Löwen"
+        ],
+        "réponse": "Der König der Löwen",
+        "anecdote": "Der 1994 erschienene Film ist von der Arbeit von Osamu Tezuka « King Leo » (1951) und « Hamlet » von William Shakespeare inspiriert."
+      },
+      {
+        "id": 8,
+        "question": "Welcher Sport schickt einen kleinen weißen Ball in ein Loch ?",
+        "propositions": [
+          "Cricket",
+          "Chistera",
+          "Krocket",
+          "Golf"
+        ],
+        "réponse": "Golf",
+        "anecdote": "2009 hat das Internationale Olympische Komitee den Golfsport wieder in die Liste der bei den Olympischen Sommerspielen vertretenen Sportarten aufgenommen."
+      },
+      {
+        "id": 9,
+        "question": "Was trägt Captain Haddock, Tims bester Freund, auf dem Kopf ?",
+        "propositions": [
+          "Helm",
+          "Turban",
+          "Cap",
+          "Hut"
+        ],
+        "réponse": "Cap",
+        "anecdote": "1996 wurde er mit 37,5 % der Stimmen vor Snowy und Tim zum beliebtesten Hauptcharakter der Serie gekürt."
+      },
+      {
+        "id": 10,
+        "question": "Welcher Berg kann manchmal aus heißen Materialien kommen ?",
+        "propositions": [
+          "Talus",
+          "Rock",
+          "Vulkan",
+          "Düne"
+        ],
+        "réponse": "Vulkan",
+        "anecdote": "Die abgekühlten Laven können Tausende von Metern dick sein und manchmal Berge oder Inseln bilden."
+      }
+    ],
+    "confirmé": [
+      {
+        "id": 11,
+        "question": "Welche dieser Aussagen bedeutet, was zuerst auf einem Baum erscheint ?",
+        "propositions": [
+          "Pip",
+          "Bud",
+          "Obst",
+          "Blume"
+        ],
+        "réponse": "Bud",
+        "anecdote": "Die Knospe bringt Zweige, Blätter, Blüten (die Knospe heißt dann Knospe) und Früchte hervor."
+      },
+      {
+        "id": 12,
+        "question": "In der Schale von welchem Meerestier finden wir manchmal eine Perle ?",
+        "propositions": [
+          "Schimmel",
+          "Auster",
+          "Schildkröte",
+          "Schnecke"
+        ],
+        "réponse": "Auster",
+        "anecdote": "Austern sind Weichtiere, die nur in Salz- oder Brackwasser leben und in allen Meeren vorkommen."
+      },
+      {
+        "id": 13,
+        "question": "Welchen Namen geben wir den großen Sandhügeln an der Küste ?",
+        "propositions": [
+          "Eisschollen",
+          "Klippen",
+          "Dünen",
+          "Monts"
+        ],
+        "réponse": "Dünen",
+        "anecdote": "Sanddünen sind keine Sanddünen, außer um die Qualität des Sandes anzugeben, aus dem sie bestehen."
+      },
+      {
+        "id": 14,
+        "question": "In welcher Jahreszeit blühen die meisten Bäume in Europa ?",
+        "propositions": [
+          "Sommer",
+          "Frühling",
+          "Herbst",
+          "Winter"
+        ],
+        "réponse": "Frühling",
+        "anecdote": "An den Bäumen überwintert die Knospe, und im Frühjahr explodiert sie, wenn die Wurzeln das Pumpen des rohen Safts wieder aufnehmen."
+      },
+      {
+        "id": 15,
+        "question": "Wie heißt ein junges männliches Schaf unter einem Jahr ?",
+        "propositions": [
+          "Lamm",
+          "Widder",
+          "Bouc",
+          "Biquette"
+        ],
+        "réponse": "Lamm",
+        "anecdote": "Das Lamm wird hauptsächlich für sein Fleisch, aber auch für seine Haut (Modeartikel) und seine Haare (Hutmacherhut) gegessen."
+      },
+      {
+        "id": 16,
+        "question": "Welche Medaille erhält ein Sportler, der bei einem Test bei den Olympischen Spielen Zweiter wird ?",
+        "propositions": [
+          "Kupfer",
+          "Gold",
+          "Silber",
+          "Bronze"
+        ],
+        "réponse": "Silber",
+        "anecdote": "Bei den Olympischen Spielen 1896 wurde dem Sieger die Silbermedaille verliehen : Erst 1904 wurde der Gold- / Silber- / Bronze-Auftrag zum Standard."
+      },
+      {
+        "id": 17,
+        "question": "Welches Gerät ermöglicht es, auf einer gespannten Leinwand zu hüpfen und Sprünge und Tricks zu machen ?",
+        "propositions": [
+          "Barsch",
+          "Spalier",
+          "Trampolin",
+          "Javelot"
+        ],
+        "réponse": "Trampolin",
+        "anecdote": "Das Trampolin kombiniert die akrobatische und adrenaline Seite vertikaler Empfindungen und gilt als Sport und Attraktion."
+      },
+      {
+        "id": 18,
+        "question": "Welche Art von Schuhen trägst du, um Judo sicher zu üben ?",
+        "propositions": [
+          "Turnschuhe",
+          "Stiefel",
+          "Keine",
+          "Clogs"
+        ],
+        "réponse": "Keine",
+        "anecdote": "Der Ort, an dem man Judo praktiziert, heißt Dojo, die Praktizierenden Judokas, das Kleid aus verstärkter Baumwolle Judogi oder Kimono."
+      },
+      {
+        "id": 19,
+        "question": "Wie oft hat ein Klee im Garten Blätter ?",
+        "propositions": [
+          "Drei",
+          "Vier",
+          "Zwei",
+          "Fünf"
+        ],
+        "réponse": "Drei",
+        "anecdote": "Es ist eine sehr niedrige Pflanze mit einem kriechenden Stiel, erkennbar an ihren weißen, manchmal rosa Blütenständen mit einem recht angenehmen Duft."
+      },
+      {
+        "id": 20,
+        "question": "Welche Farbe haben die Kacheln in einem klassischen Kartenspiel ?",
+        "propositions": [
+          "Schwarz",
+          "Rot",
+          "Grün",
+          "Blau"
+        ],
+        "réponse": "Rot",
+        "anecdote": "In einem französischen Spiel gibt es 52 Karten, die aus vier Zeichen in dreizehn Werte unterteilt sind : Pik, Herz, Karo und Kreuz."
+      }
+    ],
+    "expert": [
+      {
+        "id": 21,
+        "question": "Wie heißt die imaginäre Linie, die zwei Länder trennt ?",
+        "propositions": [
+          "Median",
+          "Abschnitt",
+          "Grenze",
+          "Tangente"
+        ],
+        "réponse": "Grenze",
+        "anecdote": "Die Bedeutung, die dem Wort Grenze zugeschrieben wird, hat sich im Laufe der Geschichte weiterentwickelt und war von einer Ära zur nächsten nicht dieselbe."
+      },
+      {
+        "id": 22,
+        "question": "Wie viele Punkte hat ein sechsseitiges Brettspiel insgesamt ?",
+        "propositions": [
+          "18",
+          "21",
+          "30",
+          "15"
+        ],
+        "réponse": "21",
+        "anecdote": "Die am häufigsten verwendeten Würfel sind kleine Würfel mit einer Seitenlänge von 1 bis 2 cm (häufig 16 mm) und 6 Flächen von 1 bis 6."
+      },
+      {
+        "id": 23,
+        "question": "Welche Tierkategorie füttert ihre Jungen mit Milch ?",
+        "propositions": [
+          "Fleischfresser",
+          "Primaten",
+          "Säugetiere",
+          "Nagetiere"
+        ],
+        "réponse": "Säugetiere",
+        "anecdote": "Neugeborene benötigen aufgrund ihres unreifen Verdauungssystems bei der Geburt systematisch elterliche Fürsorge."
+      },
+      {
+        "id": 24,
+        "question": "Welcher Teil der Pflanze versinkt in unseren Gärten manchmal tief in der Erde ?",
+        "propositions": [
+          "Vorbau",
+          "Blütenblatt",
+          "Dorn",
+          "Wurzel"
+        ],
+        "réponse": "Wurzel",
+        "anecdote": "Die Wurzel ist ein lebenswichtiges Organ der Pflanze, das sehr früh zu Beginn der Keimung während der Entwicklung der Pflanze gebildet wird."
+      },
+      {
+        "id": 25,
+        "question": "Woraus bestehen die Reifen für Autos ?",
+        "propositions": [
+          "Kohlenstoff",
+          "Gummi",
+          "Kunststoff",
+          "Kork"
+        ],
+        "réponse": "Gummi",
+        "anecdote": "Ein Reifen wird auf die Felge montiert und mit Druckgas, normalerweise Luft oder Stickstoff, aufgepumpt."
+      },
+      {
+        "id": 26,
+        "question": "Wie heißt ein Haus aus Holz in der Mitte des Berges ?",
+        "propositions": [
+          "Hostel",
+          "Chalet",
+          "Häuschen",
+          "Wohnwagen"
+        ],
+        "réponse": "Chalet",
+        "anecdote": "In der Westschweiz bezeichnet der Begriff Chalet auch das Gebäude, in dem im Sommer auf den Hochalmen Käse hergestellt wird."
+      },
+      {
+        "id": 27,
+        "question": "Welches dieser Schwimmarten ist die schnellste Art zu schwimmen ?",
+        "propositions": [
+          "Dos",
+          "Schmetterling",
+          "Niedrig",
+          "Crawl"
+        ],
+        "réponse": "Crawl",
+        "anecdote": "Beim Kriechen ist die Position des Körpers horizontal und ist durch ein Schlagen der Beine und eine Drehung der Arme aus dem Wasser gekennzeichnet."
+      },
+      {
+        "id": 28,
+        "question": "Was setzen wir im Wettkampf bestimmten Athleten auf den Rücken, um sie wiederzuerkennen ?",
+        "propositions": [
+          "Flagge",
+          "Jersey",
+          "Taschentuch",
+          "Lätzchen"
+        ],
+        "réponse": "Lätzchen",
+        "anecdote": "Neben dem Pferdesport waren Leichtathletik und Radfahren die ersten Disziplinen, die das Bib-System einführten."
+      },
+      {
+        "id": 29,
+        "question": "Welche Energiequelle kann ein Windsurfboard vorantreiben ?",
+        "propositions": [
+          "Solar",
+          "Eolian",
+          "Hydraulik",
+          "Marine"
+        ],
+        "réponse": "Eolian",
+        "anecdote": "Im Jahr 2015 lieferte Windkraft 3,4 % der weltweiten Stromerzeugung. 2017 wurde dieser Anteil mit 539 GW auf 4 % erhöht."
+      },
+      {
+        "id": 30,
+        "question": "Welches Radrennen in Frankreich wird auch als Great Loop bezeichnet ?",
+        "propositions": [
+          "Paris-Nizza",
+          "Tour de France",
+          "Kriterium",
+          "Mailand-San Remo"
+        ],
+        "réponse": "Tour de France",
+        "anecdote": "Dieser Radrennenwettbewerb der Männer findet hauptsächlich in Frankreich statt, wobei gelegentlich Nachbarländer überquert werden."
+      }
+    ]
+    },
+    "es": {
+      "débutant": [
+      {
+        "id": 1,
+        "question": "¿En qué libro a menudo encontramos principalmente mapas de geografía ?",
+        "propositions": [
+          "Diccionario",
+          "Romana",
+          "Atlas",
+          "Agenda"
+        ],
+        "réponse": "Atlas",
+        "anecdote": "Los atlas mejor que los mapas proporcionan una representación de las concepciones políticas de una sociedad o cultura dada."
+      },
+      {
+        "id": 2,
+        "question": "¿Qué materia muy difícil es principalmente la bolsa de hielo ?",
+        "propositions": [
+          "Tierra",
+          "Helados",
+          "Roche",
+          "Metal"
+        ],
+        "réponse": "Helados",
+        "anecdote": "El paquete de hielo es la capa de hielo que se forma en la superficie de un cuerpo de agua por solidificación de las primeras capas de agua."
+      },
+      {
+        "id": 3,
+        "question": "¿En qué lugar adentro o afuera se debe poner un sombrero por razones de higiene ?",
+        "propositions": [
+          "Estadio",
+          "Cine",
+          "Piscina",
+          "Teatro"
+        ],
+        "réponse": "Piscina",
+        "anecdote": "Las piscinas públicas generalmente tienen una piscina de 25 metros de largo con un ancho de 10 y 20 metros."
+      },
+      {
+        "id": 4,
+        "question": "¿Qué operación aritmética hace posible calcular el producto de dos números ?",
+        "propositions": [
+          "Simplificación",
+          "Resta",
+          "División",
+          "Multiplicación"
+        ],
+        "réponse": "Multiplicación",
+        "anecdote": "Esta operación a menudo se observa con la cruz de multiplicación, pero también se puede observar con otros símbolos."
+      },
+      {
+        "id": 5,
+        "question": "¿Qué deporte es esquiar en el agua, tirado por un bote rápido ?",
+        "propositions": [
+          "Esquí alpino",
+          "Esquí de estilo libre",
+          "Esquí de fondo",
+          "Esquí acuático"
+        ],
+        "réponse": "Esquí acuático",
+        "anecdote": "Este deporte de ser remolcado por un bote a motor tiene cuatro disciplinas : slalom, trucos, saltos y combinación."
+      },
+      {
+        "id": 6,
+        "question": "¿De cuáles de nuestros cinco sentidos están las personas ciegas privadas hasta ahora ?",
+        "propositions": [
+          "Toque",
+          "Audiencia",
+          "Ver",
+          "Olor"
+        ],
+        "réponse": "Ver",
+        "anecdote": "La vida social se complica por la discapacidad: la salud y el sueño se ven afectados por una interrupción en la producción de melatonina."
+      },
+      {
+        "id": 7,
+        "question": "¿En qué caricatura puedes escuchar la famosa frase « Hakuna matata » ?",
+        "propositions": [
+          "Toy Story",
+          "Dinosaurio",
+          "El Rey León",
+          "Autos"
+        ],
+        "réponse": "El Rey León",
+        "anecdote": "Lanzada en 1994, la película está inspirada en el trabajo de Osamu Tezuka « King Leo » (1951) y « Hamlet » de William Shakespeare."
+      },
+      {
+        "id": 8,
+        "question": "¿Qué deporte está enviando una pequeña bola blanca a un hoyo ?",
+        "propositions": [
+          "Croquet",
+          "Grillo",
+          "Golf",
+          "Chistera"
+        ],
+        "réponse": "Golf",
+        "anecdote": "En 2009, el Comité Olímpico Internacional restableció el golf entre la lista de deportes presentes en los Juegos Olímpicos de Verano."
+      },
+      {
+        "id": 9,
+        "question": "¿Qué lleva puesto el capitán Haddock, el mejor amigo de Tintín, en la cabeza ?",
+        "propositions": [
+          "Casco",
+          "Gorra",
+          "Turbante",
+          "Sombrero"
+        ],
+        "réponse": "Gorra",
+        "anecdote": "En 1996, fue nombrado como el personaje principal favorito de la serie con el 37,5 % de los votos ante Snowy y Tintin."
+      },
+      {
+        "id": 10,
+        "question": "¿Qué montaña a veces puede salir de materiales calientes ?",
+        "propositions": [
+          "Roca",
+          "Volcan",
+          "Duna",
+          "Talus"
+        ],
+        "réponse": "Volcan",
+        "anecdote": "Las lavas enfriadas pueden tener miles de metros de espesor, a veces formando montañas o islas."
+      }
+    ],
+    "confirmé": [
+      {
+        "id": 11,
+        "question": "¿Cuál de estas proposiciones significa lo que aparece primero en un árbol ?",
+        "propositions": [
+          "Pepita",
+          "Bud",
+          "Flor",
+          "Fruta"
+        ],
+        "réponse": "Bud",
+        "anecdote": "El brote da a luz ramas, hojas, flores (el brote se llama brote) y frutos."
+      },
+      {
+        "id": 12,
+        "question": "¿En el caparazón de qué animal marino a veces podemos encontrar una perla ?",
+        "propositions": [
+          "Caracol",
+          "Molde",
+          "Ostra",
+          "Tortuga"
+        ],
+        "réponse": "Ostra",
+        "anecdote": "Las ostras son moluscos que viven solo en agua salada o salobre y se encuentran en todos los mares."
+      },
+      {
+        "id": 13,
+        "question": "¿Qué nombre le damos a las grandes colinas de arena a la orilla del mar ?",
+        "propositions": [
+          "Témpanos de hielo",
+          "Monts",
+          "Acantilados",
+          "Dunas"
+        ],
+        "réponse": "Dunas",
+        "anecdote": "Las dunas de arena no son dunas de arena, excepto para especificar la calidad de la arena que la compone."
+      },
+      {
+        "id": 14,
+        "question": "¿Durante qué estación florecen la mayoría de los árboles en Europa ?",
+        "propositions": [
+          "Verano",
+          "Invierno",
+          "Primavera",
+          "Otoño"
+        ],
+        "réponse": "Primavera",
+        "anecdote": "En los árboles, el brote pasa el invierno y en la primavera, cuando las raíces reanudan el bombeo de la savia cruda, explota."
+      },
+      {
+        "id": 15,
+        "question": "¿Cómo se llama una oveja macho joven menor de uno ?",
+        "propositions": [
+          "Bouc",
+          "Biqueta",
+          "Aries",
+          "Cordero"
+        ],
+        "réponse": "Cordero",
+        "anecdote": "El cordero se come principalmente por su carne, pero también por su piel (artículos de moda) y su cabello (sombrero de sombrerero)."
+      },
+      {
+        "id": 16,
+        "question": "¿Qué medalla consigue un deportista que llega segundo en una prueba en los Juegos Olímpicos ?",
+        "propositions": [
+          "Oro",
+          "Plata",
+          "Bronce",
+          "Cobre"
+        ],
+        "réponse": "Plata",
+        "anecdote": "En los Juegos Olímpicos de 1896, la medalla de plata fue otorgada al ganador : no fue hasta 1904 que el orden de oro / plata / bronce se convirtió en estándar."
+      },
+      {
+        "id": 17,
+        "question": "¿Qué dispositivo hace posible rebotar en un lienzo estirado y hacer saltos y trucos ?",
+        "propositions": [
+          "Trampolín",
+          "Javelot",
+          "Espalier",
+          "Perca"
+        ],
+        "réponse": "Trampolín",
+        "anecdote": "Combinando el lado acrobático y la adrenalina de las sensaciones verticales, el trampolín se considera un deporte y una atracción."
+      },
+      {
+        "id": 18,
+        "question": "¿Qué tipo de zapatos usas para practicar judo de manera segura ?",
+        "propositions": [
+          "Zapatillas de deporte",
+          "Botas",
+          "Ninguno",
+          "Zuecos"
+        ],
+        "réponse": "Ninguno",
+        "anecdote": "El lugar donde uno practica el judo se llama dojo, los practicantes los judokas, el vestido de algodón reforzado, el judogi o kimono."
+      },
+      {
+        "id": 19,
+        "question": "¿Con qué frecuencia un trébol en el jardín tiene hojas ?",
+        "propositions": [
+          "Tres",
+          "Cinco",
+          "Cuatro",
+          "Dos"
+        ],
+        "réponse": "Tres",
+        "anecdote": "Es una planta muy baja con un tallo rastrero, reconocible por sus inflorescencias blancas, a veces rosas, con un perfume bastante agradable."
+      },
+      {
+        "id": 20,
+        "question": "En un juego de cartas clásico, ¿de qué color son las fichas ?",
+        "propositions": [
+          "Azul",
+          "Rojo",
+          "Negro",
+          "Verde"
+        ],
+        "réponse": "Rojo",
+        "anecdote": "Un juego francés tiene 52 cartas para jugar, divididas en trece valores de cuatro signos : picas, corazones, diamantes y tréboles."
+      }
+    ],
+    "expert": [
+      {
+        "id": 21,
+        "question": "¿Cómo se llama la línea imaginaria que separa dos países ?",
+        "propositions": [
+          "Frontera",
+          "Tangente",
+          "Sección",
+          "Mediana"
+        ],
+        "réponse": "Frontera",
+        "anecdote": "El significado atribuido a la palabra frontera ha evolucionado a lo largo de la historia, y no ha sido el mismo de una época a otra."
+      },
+      {
+        "id": 22,
+        "question": "¿Cuál es el número total de puntos en un juego de mesa de seis lados ?",
+        "propositions": [
+          "18",
+          "21",
+          "15",
+          "30"
+        ],
+        "réponse": "21",
+        "anecdote": "Los dados más comunes son cubos pequeños de 1 a 2 cm de lado (a menudo 16 mm), con 6 caras numeradas del 1 al 6."
+      },
+      {
+        "id": 23,
+        "question": "¿Qué categoría de animales alimenta a sus crías con su leche ?",
+        "propositions": [
+          "Carnívoros",
+          "Primates",
+          "Mamíferos",
+          "Roedores"
+        ],
+        "réponse": "Mamíferos",
+        "anecdote": "Los recién nacidos requieren sistemáticamente el cuidado de los padres debido a su sistema digestivo inmaduro al nacer."
+      },
+      {
+        "id": 24,
+        "question": "En nuestros jardines, ¿qué parte de la planta a veces se hunde profundamente en la tierra ?",
+        "propositions": [
+          "Raíz",
+          "Espina",
+          "Pétalo",
+          "Varilla"
+        ],
+        "réponse": "Raíz",
+        "anecdote": "La raíz es un órgano vital de la planta, que se forma muy temprano en el desarrollo de la planta, desde el comienzo de la germinación."
+      },
+      {
+        "id": 25,
+        "question": "¿De qué están hechos los neumáticos del automóvil ?",
+        "propositions": [
+          "Corcho",
+          "Caucho",
+          "Carbono",
+          "Plastico"
+        ],
+        "réponse": "Caucho",
+        "anecdote": "Un neumático está diseñado para montarse en la llanta de la rueda e inflarse con gas a presión, generalmente aire o nitrógeno."
+      },
+      {
+        "id": 26,
+        "question": "¿Cómo se llama una casa de madera en medio de la montaña ?",
+        "propositions": [
+          "Cabaña",
+          "Chalet",
+          "Caravana",
+          "Albergue"
+        ],
+        "réponse": "Chalet",
+        "anecdote": "En la Suiza francófona, el término chalet también designa el edificio donde se hace queso en verano en los pastos de alta montaña."
+      },
+      {
+        "id": 27,
+        "question": "¿Cuál de estas nadadas representa el tipo más rápido de natación ?",
+        "propositions": [
+          "Volver",
+          "Mariposa",
+          "Bajo",
+          "Rastreo"
+        ],
+        "réponse": "Rastreo",
+        "anecdote": "Al gatear, la posición del cuerpo es horizontal y se caracteriza por una paliza en las piernas y una rotación de los brazos fuera del agua."
+      },
+      {
+        "id": 28,
+        "question": "En competencia, ¿qué ponemos en la espalda de ciertos atletas para reconocerlos ?",
+        "propositions": [
+          "Bandera",
+          "Jersey",
+          "Babero",
+          "Pañuelo"
+        ],
+        "réponse": "Babero",
+        "anecdote": "Además del deporte de la equitación, el atletismo y el ciclismo fueron las primeras disciplinas en adoptar el sistema de peto."
+      },
+      {
+        "id": 29,
+        "question": "¿Qué fuente de energía se utiliza para avanzar una tabla de windsurf ?",
+        "propositions": [
+          "Aerogenerador",
+          "Marina de guerra",
+          "Hidráulica",
+          "Solar"
+        ],
+        "réponse": "Aerogenerador",
+        "anecdote": "En 2015, la energía eólica suministró el 3,4 % de la producción mundial de electricidad. En 2017, esta participación se incrementó al 4 % con 539 GW."
+      },
+      {
+        "id": 30,
+        "question": "¿Qué carrera ciclista en Francia también se llama Great Loop ?",
+        "propositions": [
+          "Milan-San Remo",
+          "Criterio",
+          "Paris-Nice",
+          "Tour de Francia"
+        ],
+        "réponse": "Tour de Francia",
+        "anecdote": "Esta competición de ciclismo por etapas masculinas tiene lugar principalmente en Francia, mientras que ocasionalmente cruza países vecinos."
+      }
+    ]
+    },
+    "it": {
+      "débutant": [
+      {
+        "id": 1,
+        "question": "In quale libro troviamo spesso principalmente mappe geografiche ?",
+        "propositions": [
+          "Atlante",
+          "Dizionario",
+          "Ordine del giorno",
+          "Romano"
+        ],
+        "réponse": "Atlante",
+        "anecdote": "Gli atlanti migliori delle mappe forniscono una rappresentazione delle concezioni politiche di una data società o cultura."
+      },
+      {
+        "id": 2,
+        "question": "Quale materia molto difficile è principalmente il ghiaccio ?",
+        "propositions": [
+          "Gelato",
+          "Metallo",
+          "Terra",
+          "Roche"
+        ],
+        "réponse": "Gelato",
+        "anecdote": "Pack ice è lo strato di ghiaccio che si forma sulla superficie di un corpo idrico mediante la solidificazione dei primi strati di acqua."
+      },
+      {
+        "id": 3,
+        "question": "In quale luogo dentro o fuori dovrebbe essere messo un cappello per motivi di igiene ?",
+        "propositions": [
+          "Teatro",
+          "Stadio",
+          "Piscina",
+          "Cinema"
+        ],
+        "réponse": "Piscina",
+        "anecdote": "Le piscine pubbliche di solito hanno una piscina lunga 25 metri con una larghezza di 10 e 20 metri."
+      },
+      {
+        "id": 4,
+        "question": "Quale operazione aritmetica consente di calcolare il prodotto di due numeri ?",
+        "propositions": [
+          "Moltiplicazione",
+          "Sottrazione",
+          "Divisione",
+          "Semplificazione"
+        ],
+        "réponse": "Moltiplicazione",
+        "anecdote": "Questa operazione è spesso annotata con la croce di moltiplicazione, ma può anche essere notata da altri simboli."
+      },
+      {
+        "id": 5,
+        "question": "Che sport sta sciando in acqua, trainato da una barca veloce ?",
+        "propositions": [
+          "Sci alpino",
+          "Sci freestyle",
+          "Sci nautico",
+          "Sci di fondo"
+        ],
+        "réponse": "Sci nautico",
+        "anecdote": "Questo sport di essere trainato da una barca a motore ha quattro discipline : slalom, trucchi, salto e combinazione."
+      },
+      {
+        "id": 6,
+        "question": "Di quali dei nostri cinque sensi sono finora i ciechi privati ?",
+        "propositions": [
+          "Tocca",
+          "Odore",
+          "Visualizza",
+          "Udito"
+        ],
+        "réponse": "Visualizza",
+        "anecdote": "La vita sociale è complicata dalla disabilità: la salute e il sonno sono influenzati da un'interruzione della produzione di melatonina."
+      },
+      {
+        "id": 7,
+        "question": "In quale cartone puoi sentire la famosa frase « Hakuna matata » ?",
+        "propositions": [
+          "Dinosauro",
+          "Toy Story",
+          "Il re leone",
+          "Automobili"
+        ],
+        "réponse": "Il re leone",
+        "anecdote": "Rilasciato nel 1994, il film è ispirato all'opera di Osamu Tezuka « King Leo » (1951) e « Amleto » di William Shakespeare."
+      },
+      {
+        "id": 8,
+        "question": "Che sport sta mandando una pallina bianca in una buca ?",
+        "propositions": [
+          "Chistera",
+          "Cricket",
+          "Croquet",
+          "Golf"
+        ],
+        "réponse": "Golf",
+        "anecdote": "Nel 2009, il Comitato Olimpico Internazionale ha ripristinato il golf nell'elenco degli sport presenti alle Olimpiadi estive."
+      },
+      {
+        "id": 9,
+        "question": "Cosa indossa in testa il capitano Haddock, il migliore amico di Tintin ?",
+        "propositions": [
+          "Turbante",
+          "Cappello",
+          "Cap",
+          "Casco"
+        ],
+        "réponse": "Cap",
+        "anecdote": "Nel 1996, è stato nominato il personaggio principale preferito della serie con il 37,5 % dei voti prima di Snowy e Tintin."
+      },
+      {
+        "id": 10,
+        "question": "Quale montagna a volte può uscire da materiali caldi ?",
+        "propositions": [
+          "Rock",
+          "Talus",
+          "Vulcano",
+          "Dune"
+        ],
+        "réponse": "Vulcano",
+        "anecdote": "Le lave raffreddate possono avere uno spessore di migliaia di metri, talvolta formando montagne o isole."
+      }
+    ],
+    "confirmé": [
+      {
+        "id": 11,
+        "question": "Quale di queste proposizioni significa cosa appare per primo su un albero ?",
+        "propositions": [
+          "Bud",
+          "Seme",
+          "Frutta",
+          "Fiore"
+        ],
+        "réponse": "Bud",
+        "anecdote": "Il bocciolo dà vita a rami, foglie, fiori (il bocciolo viene quindi chiamato bocciolo) e frutti."
+      },
+      {
+        "id": 12,
+        "question": "Nel guscio di quale animale marino a volte possiamo trovare una perla ?",
+        "propositions": [
+          "Lumaca",
+          "Muffa",
+          "Tartaruga",
+          "Ostrica"
+        ],
+        "réponse": "Ostrica",
+        "anecdote": "Le ostriche sono molluschi che vivono solo in acque salate o salmastre e si trovano in tutti i mari."
+      },
+      {
+        "id": 13,
+        "question": "Che nome diamo alle grandi colline di sabbia in riva al mare ?",
+        "propositions": [
+          "Monts",
+          "Dune",
+          "Lastroni di ghiaccio",
+          "Scogliere"
+        ],
+        "réponse": "Dune",
+        "anecdote": "Le dune di sabbia non sono dune di sabbia, tranne per specificare la qualità della sabbia che la compone."
+      },
+      {
+        "id": 14,
+        "question": "In quale stagione fiorisce la maggior parte degli alberi in Europa ?",
+        "propositions": [
+          "Primavera",
+          "Era",
+          "Inverno",
+          "Autunno"
+        ],
+        "réponse": "Primavera",
+        "anecdote": "Sugli alberi, il bocciolo sverna e in primavera, quando le radici riprendono il pompaggio della linfa cruda, esplode."
+      },
+      {
+        "id": 15,
+        "question": "Come si chiama una giovane pecora maschio di età inferiore a una ?",
+        "propositions": [
+          "Bouc",
+          "Ariete",
+          "Biquette",
+          "Agnello"
+        ],
+        "réponse": "Agnello",
+        "anecdote": "L'agnello viene mangiato principalmente per la sua carne, ma anche per la sua pelle (articoli di moda) e per i suoi capelli (cappello da cappellaio)."
+      },
+      {
+        "id": 16,
+        "question": "Quale medaglia ottiene uno sportivo che arriva secondo in una prova alle Olimpiadi ?",
+        "propositions": [
+          "Argento",
+          "Oro",
+          "Bronzo",
+          "Rame"
+        ],
+        "réponse": "Argento",
+        "anecdote": "Alle Olimpiadi del 1896, la medaglia d'argento fu assegnata al vincitore : solo nel 1904 l'ordine d'oro / d'argento / bronzo divenne standard."
+      },
+      {
+        "id": 17,
+        "question": "Quale dispositivo consente di rimbalzare su una tela allungata e fare salti e acrobazie ?",
+        "propositions": [
+          "Javelot",
+          "Trampolino",
+          "Pesce persico",
+          "Spalliera"
+        ],
+        "réponse": "Trampolino",
+        "anecdote": "Combinando il lato acrobatico e l'adrenalina delle sensazioni verticali, il trampolino è considerato uno sport e un'attrazione."
+      },
+      {
+        "id": 18,
+        "question": "Che tipo di scarpe indossi per praticare il judo in sicurezza ?",
+        "propositions": [
+          "Nessuno",
+          "Stivali",
+          "Zoccoli",
+          "Scarpe da ginnastica"
+        ],
+        "réponse": "Nessuno",
+        "anecdote": "Il luogo in cui si pratica il judo si chiama dojo, i praticanti i judoka, l'abito in cotone rinforzato il judogi o il kimono."
+      },
+      {
+        "id": 19,
+        "question": "Quanto spesso un trifoglio nel giardino ha le foglie ?",
+        "propositions": [
+          "Tre",
+          "Quattro",
+          "Cinque",
+          "Due"
+        ],
+        "réponse": "Tre",
+        "anecdote": "È una pianta molto bassa con un gambo strisciante, riconoscibile per le sue infiorescenze bianche, a volte rosa, con una fragranza piuttosto piacevole."
+      },
+      {
+        "id": 20,
+        "question": "In un classico gioco di carte, di che colore sono le tessere ?",
+        "propositions": [
+          "Blu",
+          "Verde",
+          "Rosso",
+          "Nero"
+        ],
+        "réponse": "Rosso",
+        "anecdote": "Una partita francese ha 52 carte da giocare, divise in tredici valori su quattro segni : picche, cuori, quadri e fiori."
+      }
+    ],
+    "expert": [
+      {
+        "id": 21,
+        "question": "Qual è il nome della linea immaginaria che separa due paesi ?",
+        "propositions": [
+          "Sezione",
+          "Mediana",
+          "Frontier",
+          "Tangente"
+        ],
+        "réponse": "Frontier",
+        "anecdote": "Il significato attribuito alla parola frontiera si è evoluto nel corso della storia e non è stato lo stesso da un'era all'altra."
+      },
+      {
+        "id": 22,
+        "question": "Qual è il numero totale di punti in un gioco da tavolo a sei facce ?",
+        "propositions": [
+          "15",
+          "21",
+          "30",
+          "18"
+        ],
+        "réponse": "21",
+        "anecdote": "I dadi più comuni sono piccoli cubi da 1 a 2 cm di lato (spesso 16 mm), con 6 facce numerate da 1 a 6."
+      },
+      {
+        "id": 23,
+        "question": "Quale categoria di animali nutre i loro piccoli con il loro latte ?",
+        "propositions": [
+          "Roditori",
+          "Primati",
+          "Carnivori",
+          "Mammiferi"
+        ],
+        "réponse": "Mammiferi",
+        "anecdote": "I neonati richiedono sistematicamente la cura dei genitori a causa del loro sistema digestivo immaturo alla nascita."
+      },
+      {
+        "id": 24,
+        "question": "Nei nostri giardini, quale parte della pianta a volte affonda nel terreno ?",
+        "propositions": [
+          "Petalo",
+          "Stelo",
+          "Spina",
+          "Radice"
+        ],
+        "réponse": "Radice",
+        "anecdote": "La radice è un organo vitale della pianta, che si forma molto presto nello sviluppo della pianta, dall'inizio della germinazione."
+      },
+      {
+        "id": 25,
+        "question": "Di cosa sono fatte le gomme dell'auto ?",
+        "propositions": [
+          "Sughero",
+          "Plastica",
+          "Gomma",
+          "Carbonio"
+        ],
+        "réponse": "Gomma",
+        "anecdote": "Uno pneumatico è progettato per essere montato sul cerchione di una ruota e gonfiato con un gas pressurizzato, generalmente aria o azoto."
+      },
+      {
+        "id": 26,
+        "question": "Come si chiama una casa costruita in legno nel mezzo della montagna ?",
+        "propositions": [
+          "Chalet",
+          "Roulotte",
+          "Ostello",
+          "Cottage"
+        ],
+        "réponse": "Chalet",
+        "anecdote": "Nella Svizzera romanda, il termine chalet indica anche l'edificio in cui viene prodotto il formaggio in estate nei pascoli di alta montagna."
+      },
+      {
+        "id": 27,
+        "question": "Quale di queste nuotate rappresenta il tipo più veloce di nuoto ?",
+        "propositions": [
+          "Farfalla",
+          "Basso",
+          "Scansione",
+          "Indietro"
+        ],
+        "réponse": "Scansione",
+        "anecdote": "Nel gattonare, la posizione del corpo è orizzontale ed è caratterizzata da un battito delle gambe e una rotazione delle braccia fuori dall'acqua."
+      },
+      {
+        "id": 28,
+        "question": "In competizione, cosa mettiamo sul retro di alcuni atleti per riconoscerli ?",
+        "propositions": [
+          "Jersey",
+          "Bandiera",
+          "Bavaglino",
+          "Fazzoletto"
+        ],
+        "réponse": "Bavaglino",
+        "anecdote": "Oltre allo sport ippico, l'atletica e il ciclismo sono state le prime discipline ad adottare il sistema bib."
+      },
+      {
+        "id": 29,
+        "question": "Quale fonte di energia viene utilizzata per far avanzare una tavola da windsurf ?",
+        "propositions": [
+          "Eolian",
+          "Navy",
+          "Idraulico",
+          "Solare"
+        ],
+        "réponse": "Eolian",
+        "anecdote": "Nel 2015 l'energia eolica ha fornito il 3,4 % della produzione mondiale di elettricità. Nel 2017, questa quota è stata aumentata al 4 % con 539 GW."
+      },
+      {
+        "id": 30,
+        "question": "Quale gara ciclistica in Francia è anche chiamata Great Loop ?",
+        "propositions": [
+          "Parigi-Nizza",
+          "Criterium",
+          "Milano-Sanremo",
+          "Tour de France"
+        ],
+        "réponse": "Tour de France",
+        "anecdote": "Questa competizione ciclistica per palcoscenici maschili si svolge principalmente in Francia, mentre occasionalmente attraversa i paesi vicini."
+      }
+    ]
+    },
+    "nl": {
+      "débutant": [
+      {
+        "id": 1,
+        "question": "In welk boek vinden we vaak voornamelijk geografische kaarten ?",
+        "propositions": [
+          "Agenda",
+          "Roman",
+          "Atlas",
+          "Woordenboek"
+        ],
+        "réponse": "Atlas",
+        "anecdote": "Atlassen beter dan kaarten bieden een weergave van de politieke opvattingen van een bepaalde samenleving of cultuur."
+      },
+      {
+        "id": 2,
+        "question": "Wat heel moeilijk is voornamelijk een pak ijs ?",
+        "propositions": [
+          "IJs",
+          "Aarde",
+          "Metaal",
+          "Roche"
+        ],
+        "réponse": "IJs",
+        "anecdote": "Pakijs is de ijslaag die zich op het oppervlak van een waterlichaam vormt door stolling van de eerste lagen water."
+      },
+      {
+        "id": 3,
+        "question": "Op welke plaats binnen of buiten moet een hoed worden geplaatst om hygiënische redenen ?",
+        "propositions": [
+          "Stadion",
+          "Zwembad",
+          "Theater",
+          "Bioscoop"
+        ],
+        "réponse": "Zwembad",
+        "anecdote": "Openbare zwembaden hebben meestal een 25 meter lang zwembad met een breedte van 10 en 20 meter."
+      },
+      {
+        "id": 4,
+        "question": "Welke rekenkundige bewerking maakt het mogelijk om het product van twee getallen te berekenen ?",
+        "propositions": [
+          "Divisie",
+          "Vermenigvuldiging",
+          "Vereenvoudiging",
+          "Aftrekken"
+        ],
+        "réponse": "Vermenigvuldiging",
+        "anecdote": "Deze bewerking wordt vaak genoteerd met het vermenigvuldigingskruis, maar kan ook worden genoteerd door andere symbolen."
+      },
+      {
+        "id": 5,
+        "question": "Welke sport is skiën op het water, getrokken door een snelle boot ?",
+        "propositions": [
+          "Freestyle skiën",
+          "Waterskiën",
+          "Langlaufen",
+          "Alpine skiën"
+        ],
+        "réponse": "Waterskiën",
+        "anecdote": "Deze sport waarbij je wordt gesleept door een motorboot heeft vier disciplines : slalom, tricks, springen en combineren."
+      },
+      {
+        "id": 6,
+        "question": "Van welke van onze vijf zintuigen zijn blinde mensen tot nu toe beroofd ?",
+        "propositions": [
+          "Tik op",
+          "Gehoor",
+          "Bekijk",
+          "Ruiken"
+        ],
+        "réponse": "Bekijk",
+        "anecdote": "Het sociale leven wordt gecompliceerd door handicaps: gezondheid en slaap worden beïnvloed door een verstoring van de productie van melatonine."
+      },
+      {
+        "id": 7,
+        "question": "In welke cartoon kun je de beroemde zin « Hakuna matata » horen ?",
+        "propositions": [
+          "Toy Story",
+          "The Lion King",
+          "Auto's",
+          "Dinosaurus"
+        ],
+        "réponse": "The Lion King",
+        "anecdote": "De film werd uitgebracht in 1994 en is geïnspireerd op het werk van Osamu Tezuka « King Leo » (1951) en « Hamlet » van William Shakespeare."
+      },
+      {
+        "id": 8,
+        "question": "Welke sport stuurt een kleine witte bal in een hole ?",
+        "propositions": [
+          "Golf",
+          "Croquet",
+          "Cricket",
+          "Chistera"
+        ],
+        "réponse": "Golf",
+        "anecdote": "In 2009 heeft het Internationaal Olympisch Comité golf opnieuw opgenomen in de lijst van sporten die aanwezig zijn op de Olympische Zomerspelen."
+      },
+      {
+        "id": 9,
+        "question": "Wat draagt kapitein Haddock, de beste vriend van Kuifje, op zijn hoofd ?",
+        "propositions": [
+          "Hoed",
+          "Helm",
+          "Tulband",
+          "Cap"
+        ],
+        "réponse": "Cap",
+        "anecdote": "In 1996 werd hij genoemd als het favoriete hoofdpersonage in de serie met 37,5 % van de stemmen vóór Snowy en Kuifje."
+      },
+      {
+        "id": 10,
+        "question": "Welke berg kan soms uit hete materialen komen ?",
+        "propositions": [
+          "Talus",
+          "Duin",
+          "Vulkaan",
+          "Rock"
+        ],
+        "réponse": "Vulkaan",
+        "anecdote": "De gekoelde lava's kunnen duizenden meters dik zijn en vormen soms bergen of eilanden."
+      }
+    ],
+    "confirmé": [
+      {
+        "id": 11,
+        "question": "Welke van deze stellingen betekent wat eerst op een boom verschijnt ?",
+        "propositions": [
+          "Fruit",
+          "Bud",
+          "Bloem",
+          "Pit"
+        ],
+        "réponse": "Bud",
+        "anecdote": "De knop geeft geboorte aan takken, bladeren, bloemen (de knop wordt dan een knop genoemd) en fruit."
+      },
+      {
+        "id": 12,
+        "question": "In de schaal van welk zeedier kunnen we soms een parel vinden ?",
+        "propositions": [
+          "Schildpad",
+          "Schimmel",
+          "Slak",
+          "Oester"
+        ],
+        "réponse": "Oester",
+        "anecdote": "Oesters zijn weekdieren die alleen in zout of brak water leven en worden in alle zeeën gevonden."
+      },
+      {
+        "id": 13,
+        "question": "Welke naam geven we aan de grote zandheuvels aan de kust ?",
+        "propositions": [
+          "IJsschotsen",
+          "Monts",
+          "Duinen",
+          "Kliffen"
+        ],
+        "réponse": "Duinen",
+        "anecdote": "Zandduinen zijn geen zandduinen, behalve om de kwaliteit aan te geven van het zand waaruit het bestaat."
+      },
+      {
+        "id": 14,
+        "question": "In welk seizoen bloeien de meeste bomen in Europa ?",
+        "propositions": [
+          "Lente",
+          "Zomer",
+          "Herfst",
+          "Winter"
+        ],
+        "réponse": "Lente",
+        "anecdote": "Op de bomen overwintert de knop en in het voorjaar, wanneer de wortels het pompen van het ruwe sap hervatten, explodeert het."
+      },
+      {
+        "id": 15,
+        "question": "Hoe wordt een jong mannelijk schaap van minder dan een jaar oud genoemd ?",
+        "propositions": [
+          "Ram",
+          "Bouc",
+          "Biquette",
+          "Lam"
+        ],
+        "réponse": "Lam",
+        "anecdote": "Het lam wordt voornamelijk gegeten om zijn vlees, maar ook om zijn huid (modeartikelen) en haar (hoedenhoed)."
+      },
+      {
+        "id": 16,
+        "question": "Welke medaille krijgt een sportman die als tweede aankomt in een test op de Olympische Spelen ?",
+        "propositions": [
+          "Zilver",
+          "Koper",
+          "Brons",
+          "Goud"
+        ],
+        "réponse": "Zilver",
+        "anecdote": "Op de Olympische Spelen van 1896 werd de zilveren medaille toegekend aan de winnaar : het was pas in 1904 dat de goud / zilver / bronzen bestelling standaard werd."
+      },
+      {
+        "id": 17,
+        "question": "Welk apparaat maakt het mogelijk om op een uitgerekt canvas te stuiteren en sprongen en trucs te maken ?",
+        "propositions": [
+          "Espalier",
+          "Trampoline",
+          "Baars",
+          "Javelot"
+        ],
+        "réponse": "Trampoline",
+        "anecdote": "De trampoline combineert de acrobatische en adrenaline-kant van verticale sensaties als een sport en attractie."
+      },
+      {
+        "id": 18,
+        "question": "Wat voor soort schoenen draag je om veilig judo te oefenen ?",
+        "propositions": [
+          "Sneakers",
+          "Laarzen",
+          "Klompen",
+          "Geen"
+        ],
+        "réponse": "Geen",
+        "anecdote": "De plaats waar men het judo beoefent, wordt de dojo genoemd, de beoefenaars de judoka's, de jurk in versterkt katoen de judogi of kimono."
+      },
+      {
+        "id": 19,
+        "question": "Hoe vaak heeft een klaver in de tuin bladeren ?",
+        "propositions": [
+          "Drie",
+          "Twee",
+          "Vijf",
+          "Vier"
+        ],
+        "réponse": "Drie",
+        "anecdote": "Het is een zeer lage plant met een kruipende stengel, herkenbaar aan zijn witte, soms roze, bloeiwijzen met een vrij aangename parfum."
+      },
+      {
+        "id": 20,
+        "question": "Welke kleur hebben de tegels in een klassiek kaartspel ?",
+        "propositions": [
+          "Rood",
+          "Zwart",
+          "Blauw",
+          "Groen"
+        ],
+        "réponse": "Rood",
+        "anecdote": "Een Frans spel bevat 52 speelkaarten, verdeeld volgens dertien waarden op vier tekens : schoppen, harten, ruiten en klaveren."
+      }
+    ],
+    "expert": [
+      {
+        "id": 21,
+        "question": "Wat is de naam van de denkbeeldige lijn die twee landen scheidt ?",
+        "propositions": [
+          "Tangente",
+          "Grens",
+          "Mediane",
+          "Sectie"
+        ],
+        "réponse": "Grens",
+        "anecdote": "De betekenis die wordt toegeschreven aan de woordgrens is door de geschiedenis heen geëvolueerd en is niet van het ene tijdperk naar het andere hetzelfde geweest."
+      },
+      {
+        "id": 22,
+        "question": "Wat is het totale aantal punten op een zeszijdig bordspel ?",
+        "propositions": [
+          "21",
+          "18",
+          "15",
+          "30"
+        ],
+        "réponse": "21",
+        "anecdote": "De meest voorkomende dingen zijn kleine blokjes van 1 tot 2 cm zijde (vaak 16 mm), dus met 6 vlakken genummerd van 1 tot 6."
+      },
+      {
+        "id": 23,
+        "question": "Welke klasse dieren voeden hun jongen met hun melk ?",
+        "propositions": [
+          "Zoogdieren",
+          "Carnivoren",
+          "Primaten",
+          "Knaagdieren"
+        ],
+        "réponse": "Zoogdieren",
+        "anecdote": "Pasgeborenen hebben systematisch ouderzorg nodig vanwege hun onvolwassen spijsverteringsstelsel bij de geboorte."
+      },
+      {
+        "id": 24,
+        "question": "Welk deel van de plant zinkt in onze tuinen soms diep in de aarde ?",
+        "propositions": [
+          "Racine",
+          "Doorn",
+          "Bloemblaadje",
+          "Stam"
+        ],
+        "réponse": "Racine",
+        "anecdote": "De wortel is een vitaal orgaan van de plant, dat heel vroeg tijdens de ontwikkeling van de plant wordt gevormd, vanaf het begin van de kieming."
+      },
+      {
+        "id": 25,
+        "question": "Waar zijn de autobanden van gemaakt ?",
+        "propositions": [
+          "Kurk",
+          "Rubber",
+          "Kunststof",
+          "Koolstof"
+        ],
+        "réponse": "Rubber",
+        "anecdote": "Een band is ontworpen om op de velg te worden gemonteerd en opgepompt met gas onder druk, meestal lucht of stikstof."
+      },
+      {
+        "id": 26,
+        "question": "Hoe heet een houten huis midden op de berg ?",
+        "propositions": [
+          "Herberg",
+          "Cottage",
+          "Caravan",
+          "Chalet"
+        ],
+        "réponse": "Chalet",
+        "anecdote": "In Franstalig Zwitserland duidt de term chalet ook het gebouw aan waar in de zomer kaas wordt gemaakt in de hoge bergweiden."
+      },
+      {
+        "id": 27,
+        "question": "Welke van deze zwemt vertegenwoordigt het snelste type zwemmen ?",
+        "propositions": [
+          "Crawlen",
+          "Laag",
+          "Vlinder",
+          "Terug"
+        ],
+        "réponse": "Crawlen",
+        "anecdote": "Tijdens het kruipen is de positie van het lichaam horizontaal en wordt gekenmerkt door een slag van de benen en een rotatie van de armen uit het water."
+      },
+      {
+        "id": 28,
+        "question": "Wat zetten we in competitie op de rug van sommige atleten om ze te herkennen ?",
+        "propositions": [
+          "Jersey",
+          "Vlag",
+          "Zakdoek",
+          "Slabbetje"
+        ],
+        "réponse": "Slabbetje",
+        "anecdote": "Naast paardensport waren atletiek en wielrennen de eerste disciplines die het slabsysteem gebruikten."
+      },
+      {
+        "id": 29,
+        "question": "Welke energiebron wordt gebruikt om een windsurfplank vooruit te helpen ?",
+        "propositions": [
+          "Marine",
+          "Olian",
+          "Zonne-energie",
+          "Hydraulisch"
+        ],
+        "réponse": "Olian",
+        "anecdote": "In 2015 leverde windenergie 3,4 % van werelds elektriciteitsproductie. In 2017 werd dit aandeel verhoogd tot 4 % met 539 GW."
+      },
+      {
+        "id": 30,
+        "question": "Welke wielerwedstrijd in Frankrijk wordt ook de Great Loop genoemd ?",
+        "propositions": [
+          "Criterium",
+          "Parijs-Nice",
+          "Tour de France",
+          "Milaan-San Remo"
+        ],
+        "réponse": "Tour de France",
+        "anecdote": "Deze wielerwedstrijd voor heren vindt voornamelijk plaats in Frankrijk, terwijl af en toe buurlanden worden doorkruist."
+      }
+    ]
+    }
+  }
+}

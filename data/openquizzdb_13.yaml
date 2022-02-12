@@ -1,0 +1,1650 @@
+---
+fournisseur: OpenQuizzDB - Fournisseur de contenu libre (https://www.openquizzdb.org)
+rédacteur: Philippe Bresoux
+thème: Robots du cinéma (Nouveaux héros du grand écran)
+difficulté: 3 / 5
+quizz:
+  fr:
+  - débutant:
+    - id: 1
+      question: Quelle franchise du cinéma a commencé avec une ligne de jouets constituée de robots ?
+      propositions:
+      - Prometheus
+      - Short Circuit
+      - Alien
+      - Transformers
+      réponse: Transformers
+      anecdote: La franchise commença avec une ligne de jouets constituée de robots pouvant être transformés en véhicules.
+    - id: 2
+      question: Dans quel film avec Arnold Schwarzenegger des robots voyagent-ils dans le temps ?
+      propositions:
+      - Sucker Punch
+      - Terminator
+      - Real Steel
+      - Robots
+      réponse: Terminator
+      anecdote: « Terminator » traite du voyage dans le temps et de la menace que pourraient faire naître les robots intelligents.
+    - id: 3
+      question: Dans quel film culte des robots à l'apparence humaine sont-ils appelés « réplicants » ?
+      propositions:
+      - Transformers
+      - Le Choc des Titans
+      - Terminator
+      - Blade Runner
+      réponse: Blade Runner
+      anecdote: À sa sortie, « Blade Runner » fut un échec commercial aux États-Unis et fut accueilli assez durement par la critique.
+    - id: 4
+      question: Qui est sans conteste le plus connu des robots-policiers du futur ?
+      propositions:
+      - Ash
+      - Robocop
+      - Sonny
+      - C-3PO
+      réponse: Robocop
+      anecdote: Le film « Robocop » met en scène une réalité alternative du monde actuel dans une société corrompue et criminalisée.
+    - id: 5
+      question: Dans quel film un milliardaire a-t-il conçu une armure de robot indestructible ?
+      propositions:
+      - Pacific Rim
+      - Iron Man
+      - Alien
+      - Total Recall
+      réponse: Iron Man
+      anecdote: Ce film marque la résurrection cinématographique de Robert Downey Jr., qui connaît grâce à ce rôle un regain de popularité.
+    - id: 6
+      question: Qui a réalisé le film « A.I. Intelligence artificielle », avec Jude Law et William Hurt ?
+      propositions:
+      - Ron Howard
+      - Steven Spielberg
+      - James Cameron
+      - Ridley Scott
+      réponse: Steven Spielberg
+      anecdote: Le film « A.I. Intelligence artificielle » est adapté de la nouvelle de Brian Aldiss, « Les Supertoys durent tout l'été ».
+    - id: 7
+      question: Dans quel film rencontre-t-on un androïde scientifique prénommé Ash ?
+      propositions:
+      - Matrix
+      - Total Recall
+      - Robocop
+      - Alien
+      réponse: Alien
+      anecdote: Ian Holm, surtout connu pour des rôles de théâtre, a été choisi pour jouer le rôle de l'androïde Ash.
+    - id: 8
+      question: Dans quel film le jeune Rodney tente-t-il sa chance comme inventeur à Robot-Ville ?
+      propositions:
+      - Sucker Punch
+      - Robocop
+      - Robots
+      - Short Circuit
+      réponse: Robots
+      anecdote: Lorsque Rodney arrive à Robot-Ville, on peut entrevoir un robot très ressemblant à Sid, le paresseux.
+    - id: 9
+      question: Qui accompagne R2-D2, également appelé D2-R2, dans la saga « Star Wars » ?
+      propositions:
+      - Data
+      - C-3PO
+      - T-1000
+      - Daryl
+      réponse: C-3PO
+      anecdote: R2-D2 s'exprime par des sifflements et des bips électroniques caractéristiques qui traduisent ses émotions.
+    - id: 10
+      question: Dans quel film des Hurleurs sont-ils paramétrés pour attaquer toute forme de vie ?
+      propositions:
+      - Planète Hurlante
+      - Robots
+      - Elysium
+      - Real Steel
+      réponse: Planète Hurlante
+      anecdote: L'accroche française du film est « En 2078, le danger peut avoir tous les visages ».
+  - confirmé:
+    - id: 11
+      question: Quel film est inspiré de la nouvelle « Le Robot qui rêvait » écrite par Isaac Asimov ?
+      propositions:
+      - I, Robot
+      - Iron Man
+      - Blade Runner
+      - Pacific Rim
+      réponse: I, Robot
+      anecdote: « I, Robot » comporte de nombreuses références à certaines préoccupations contemporaines de l'intelligence artificielle.
+    - id: 12
+      question: Combien de robots tiennent les rôles principaux du film « Le Trou noir » de Disney ?
+      propositions:
+      - Trois
+      - Cinq
+      - Deux
+      - Quatre
+      réponse: Deux
+      anecdote: L'histoire du film « Le Trou noir » est inspirée du roman « Vingt mille lieues sous les mers » de Jules Verne.
+    - id: 13
+      question: Quel court-métrage est distribué en bonus du DVD et du Blu-Ray de « Wall-E » ?
+      propositions:
+      - Robots
+      - Short Circuit
+      - Hinokio
+      - Burn-E
+      réponse: Burn-E
+      anecdote: Le court-métrage est basé sur un personnage vu brièvement lorsque Wall-E et Eve flottent autour du vaisseau spatial Axiom.
+    - id: 14
+      question: Dans quel film muet en noir et blanc un monstre mécanique fait-il trembler la ville ?
+      propositions:
+      - Metropolis
+      - Pacific Rim
+      - Le Choc des Titans
+      - Planète Hurlante
+      réponse: Metropolis
+      anecdote: Le tournage du film a été une expérience très éprouvante pour les acteurs en raison des demandes formulées par Fritz Lang.
+    - id: 15
+      question: Dans quel film de science-fiction un robot a-t-il été baptisé Numéro 5 ?
+      propositions:
+      - Cyborg
+      - Short Circuit
+      - Robocop
+      - Blade Runner
+      réponse: Short Circuit
+      anecdote: La musique du film a été diffusée sous la forme d'un album tardif, sorti plus de 22 ans après le film lui-même.
+    - id: 16
+      question: Quelle saga cinématographique met en avant les Decepticons ?
+      propositions:
+      - Total Recall
+      - Blade Runner
+      - Transformers
+      - Real Steel
+      réponse: Transformers
+      anecdote: Dans « Transformers », Michael Bay a réutilisé des scènes d'un de ses films précédents, « Pearl Harbor ».
+    - id: 17
+      question: Dans quel film peut-on rencontrer des insectoïdes au sein d'une ville de machines ?
+      propositions:
+      - Star Wars
+      - Matrix Revolutions
+      - Clones
+      - H2G2
+      réponse: Matrix Revolutions
+      anecdote: Suite au décès de Gloria Foster, qui incarnait l'Oracle dans « Matrix » et « Matrix Reloaded », le rôle sera repris par Mary Alice.
+    - id: 18
+      question: Dans quelle comédie américaine le héros doit-il lutter contre des « femelles robots » ?
+      propositions:
+      - Critters
+      - Cocoon
+      - Austin Powers
+      - Men in Black
+      réponse: Austin Powers
+      anecdote: Dans la version québécoise du film, le Docteur Denfer s'appelle le Docteur Terreur.
+    - id: 19
+      question: Dans quel film des robots sont-ils utilisés sur la planète Mars pour conduire des taxis ?
+      propositions:
+      - Sucker Punch
+      - Total Recall
+      - Elysium
+      - Planète interdite
+      réponse: Total Recall
+      anecdote: Conformément à l'univers de Philip K. Dick, il n'est pas facile de trancher entre la réalité et le délire.
+    - id: 20
+      question: Dans quel péplum voit-on une chouette mécanique prénommée Bubo ?
+      propositions:
+      - Woody
+      - THX 1138
+      - Le Choc des Titans 
+      - Saturn 3
+      réponse: Le Choc des Titans 
+      anecdote: La chouette mécanique Bubo porte le nom du genre Bubo, qui regroupe des rapaces nocturnes comme le hibou grand-duc.
+  - expert:
+    - id: 21
+      question: Dans quel film Michael Fassbender interprète-t-il un androïde prénommé David ?
+      propositions:
+      - Cyborg
+      - Elysium
+      - Prometheus
+      - Shopping
+      réponse: Prometheus
+      anecdote: Ce film était prévu à l'origine en tant que préquelle directe d'« Alien », le deuxième long métrage de Ridley Scott.
+    - id: 22
+      question: Dans quel film les droïdes protègent-ils la minorité privilégiée ?
+      propositions:
+      - Hinokio
+      - Elysium
+      - Terminator
+      - Metropolis
+      réponse: Elysium
+      anecdote: Le tournage débuta à Vancouver au Canada, en juillet 2011, avant que l'équipe de la production ne s'envole pour le Mexique.
+    - id: 23
+      question: Dans quel film la boxe a-t-elle évolué pour devenir un sport high-tech ?
+      propositions:
+      - Transformers
+      - Real Steel
+      - Planète Hurlante
+      - Total Recall
+      réponse: Real Steel
+      anecdote: En avril 2011, DreamWorks a annoncé qu'une suite était en préparation. John Gatins a été chargé du scénario.
+    - id: 24
+      question: Dans quel film une jeune femme est-elle assistée de son robot prénommé Robby ?
+      propositions:
+      - Elysium
+      - Planète interdite
+      - Metropolis
+      - Transformers
+      réponse: Planète interdite
+      anecdote: « Planète interdite » est l'un des premiers films de science-fiction ayant bénéficié de la couleur et du format cinémascope.
+    - id: 25
+      question: Combien mesure le Géant de fer dans le film du même nom sorti en 1999 ?
+      propositions:
+      - 30 mètres
+      - 120 mètres
+      - 90 mètres
+      - 60 mètres
+      réponse: 30 mètres
+      anecdote: Le personnage du robot métallique géant se retrouve aussi dans plusieurs autres dessins animés célèbres.
+    - id: 26
+      question: Dans quel film une femme mi-humaine mi-robot doit-elle aller chercher un vaccin à Atlanta ?
+      propositions:
+      - Robots
+      - Cyborg
+      - Transformers
+      - Sucker Punch
+      réponse: Cyborg
+      anecdote: Le film avait à l'origine été préparé pour être une adaptation du personnage de Spider-Man.
+    - id: 27
+      question: Dans quel film des robots de combat sont-ils utilisés pour protéger un train ?
+      propositions:
+      - Sucker Punch
+      - Elysium
+      - Terminator
+      - Short Circuit
+      réponse: Sucker Punch
+      anecdote: L'intrigue du film se situe dans les années 1960, mais l'équipe du film a cherché à lui donner un côté intemporel.
+    - id: 28
+      question: Dans quel film des robots géants sont-ils pilotés par connexion neuronale ?
+      propositions:
+      - Iron Man
+      - Matrix Revolutions
+      - Burn-E
+      - Pacific Rim
+      réponse: Pacific Rim
+      anecdote: Tom Cruise devait tenir le rôle de Stacker Pentecost, qui fut finalement attribué à Idris Elba.
+    - id: 29
+      question: Dans quel film un enfant paralysé pilote-t-il à distance un robot qui vit sa vie ?
+      propositions:
+      - Hinokio
+      - Avengers
+      - Robot And Frank
+      - Real Steel
+      réponse: Hinokio
+      anecdote: Pour l'aider à sortir de son triste quotidien, son père décide de lui fabriquer Hinokio, un robot piloté à distance.
+    - id: 30
+      question: Dans quel film trois robots devenus incontrôlables agressent-ils des humains ?
+      propositions:
+      - Robots
+      - Real Steel
+      - Elysium
+      - Shopping
+      réponse: Shopping
+      anecdote: La version diffusée sur les chaînes câblées est plus longue que la version cinéma.
+  en:
+  - débutant:
+    - id: 1
+      question: Which movie franchise started with a toy line made up of robots ?
+      propositions:
+      - Transformers
+      - Prometheus
+      - Short Circuit
+      - Alien
+      réponse: Transformers
+      anecdote: The franchise began with a line of toys made up of robots that could be turned into vehicles.
+    - id: 2
+      question: In which movie with Arnold Schwarzenegger do robots time travel ?
+      propositions:
+      - Sucker Punch
+      - Robots
+      - Real Steel
+      - Terminator
+      réponse: Terminator
+      anecdote: « Terminator » deals with time travel and the threat that intelligent robots could pose.
+    - id: 3
+      question: In which cult movie are human-looking robots called replicants ?
+      propositions:
+      - Blade Runner
+      - Le Choc des Titans
+      - Transformers
+      - Terminator
+      réponse: Blade Runner
+      anecdote: Upon its release, « Blade Runner » was a commercial failure in the United States and was met with rather harsh criticism.
+    - id: 4
+      question: Who is undoubtedly the most famous robot police of the future ?
+      propositions:
+      - Robocop
+      - Sonny
+      - Ash
+      - C-3PO
+      réponse: Robocop
+      anecdote: The film « Robocop » presents an alternate reality of today's world in a corrupt and criminalized society.
+    - id: 5
+      question: What movie did a billionaire design indestructible robot armor in ?
+      propositions:
+      - Total Recall
+      - Pacific Rim
+      - Alien
+      - Iron Man
+      réponse: Iron Man
+      anecdote: This film marks the cinematographic resurrection of Robert Downey Jr., who thanks to this role knows a resurgence of popularity.
+    - id: 6
+      question: Who directed the movie « A.I. Artificial intelligence », with Jude Law and William Hurt ?
+      propositions:
+      - Ridley Scott
+      - James Cameron
+      - Ron Howard
+      - Steven Spielberg
+      réponse: Steven Spielberg
+      anecdote: The movie « A.I. Artificial Intelligence » is adapted from Brian Aldiss' short story, « Supertoys last all summer ».
+    - id: 7
+      question: In which movie do we meet a scientific android named Ash ?
+      propositions:
+      - Total Recall
+      - Robocop
+      - Matrix
+      - Alien
+      réponse: Alien
+      anecdote: Ian Holm, best known for theater roles, was cast to play the role of the android Ash.
+    - id: 8
+      question: In which film does young Rodney try his luck as an inventor in Robot-Ville ?
+      propositions:
+      - Short Circuit
+      - Sucker Punch
+      - Robots
+      - Robocop
+      réponse: Robots
+      anecdote: When Rodney arrives in Robot-Ville, we can catch a glimpse of a robot very similar to Sid, the sloth.
+    - id: 9
+      question: Who accompanies R2-D2, also called D2-R2, in the « Star Wars » saga ?
+      propositions:
+      - C-3PO
+      - T-1000
+      - Data
+      - Daryl
+      réponse: C-3PO
+      anecdote: R2-D2 expresses himself through characteristic whistles and electronic beeps that convey his emotions.
+    - id: 10
+      question: In which movie are the Howlers set to attack all life ?
+      propositions:
+      - Real Steel
+      - Robots
+      - Elysium
+      - Planète Hurlante
+      réponse: Planète Hurlante
+      anecdote: The French catchphrase of the film is In 2078, danger can have all faces.
+  - confirmé:
+    - id: 11
+      question: Which film is inspired by the short story « The Dreaming Robot » written by Isaac Asimov ?
+      propositions:
+      - Pacific Rim
+      - Blade Runner
+      - Iron Man
+      - I, Robot
+      réponse: I, Robot
+      anecdote: « I, Robot » contains many references to certain contemporary concerns of artificial intelligence.
+    - id: 12
+      question: How many robots are playing the lead roles in Disney's « The Black Hole » ?
+      propositions:
+      - Five
+      - Three
+      - Four
+      - Two
+      réponse: Two
+      anecdote: The story of the film « The Black Hole » is inspired by the novel « Twenty Thousand Leagues Under the Sea » by Jules Verne.
+    - id: 13
+      question: Which short film is distributed as a bonus on the DVD and Blu-Ray of « Wall-E » ?
+      propositions:
+      - Burn-E
+      - Robots
+      - Short Circuit
+      - Hinokio
+      réponse: Burn-E
+      anecdote: The short is based on a character seen briefly as Wall-E and Eve float around the Axiom spaceship.
+    - id: 14
+      question: In which black and white silent film does a mechanical monster make the city tremble ?
+      propositions:
+      - Clash of the Titans
+      - Pacific Rim
+      - Metropolis
+      - Planète Hurlante
+      réponse: Metropolis
+      anecdote: The shooting of the film was a very trying experience for the actors due to the requests made by Fritz Lang.
+    - id: 15
+      question: In which science fiction movie was a robot named Number 5 ?
+      propositions:
+      - Short Circuit
+      - Blade Runner
+      - Cyborg
+      - Robocop
+      réponse: Short Circuit
+      anecdote: The music for the film was released as a late album, released more than 22 years after the film itself.
+    - id: 16
+      question: Which cinematographic saga highlights the Decepticons ?
+      propositions:
+      - Total Recall
+      - Transformers
+      - Real Steel
+      - Blade Runner
+      réponse: Transformers
+      anecdote: In « Transformers », Michael Bay reused scenes from one of his previous films, « Pearl Harbor ».
+    - id: 17
+      question: In which film can we meet insectoids in a city of machines ?
+      propositions:
+      - Clones
+      - H2G2
+      - Star Wars
+      - Matrix Revolutions
+      réponse: Matrix Revolutions
+      anecdote: Following the death of Gloria Foster, who played the Oracle in « Matrix » and « Matrix Reloaded », the role will be taken over by Mary Alice.
+    - id: 18
+      question: In which American comedy does the hero have to fight against female robots ?
+      propositions:
+      - Critters
+      - Austin Powers
+      - Men in Black
+      - Cocoon
+      réponse: Austin Powers
+      anecdote: In the Quebec version of the film, Doctor Denfer is called Doctor Terror.
+    - id: 19
+      question: In which movie are robots used on the planet Mars to drive taxis ?
+      propositions:
+      - Sucker Punch
+      - Total Recall
+      - Elysium
+      - Planète interdite
+      réponse: Total Recall
+      anecdote: In accordance with the world of Philip K. Dick, it is not easy to decide between reality and delirium.
+    - id: 20
+      question: In which peplum do we see a mechanical owl named Bubo ?
+      propositions:
+      - Saturn 3
+      - Woody
+      - Le Choc des Titans 
+      - THX 1138
+      réponse: Le Choc des Titans 
+      anecdote: The mechanical owl Bubo is named after the genus Bubo, which groups together nocturnal raptors such as the eagle owl.
+  - expert:
+    - id: 21
+      question: In which movie does Michael Fassbender play an android named David ?
+      propositions:
+      - Elysium
+      - Cyborg
+      - Prometheus
+      - Shopping
+      réponse: Prometheus
+      anecdote: This film was originally planned as a direct prequel to « Alien », Ridley Scott's second feature film.
+    - id: 22
+      question: In which movie do the droids protect the privileged minority ?
+      propositions:
+      - Metropolis
+      - Terminator
+      - Elysium
+      - Hinokio
+      réponse: Elysium
+      anecdote: Filming began in Vancouver, Canada, in July 2011, before the production crew flew to Mexico.
+    - id: 23
+      question: In which film did boxing evolve into a high-tech sport ?
+      propositions:
+      - Total Recall
+      - Planète Hurlante
+      - Real Steel
+      - Transformers
+      réponse: Real Steel
+      anecdote: In April 2011, DreamWorks announced that a sequel was in the works. John Gatins was in charge of the script.
+    - id: 24
+      question: In which film is a young woman assisted by her robot named Robby ?
+      propositions:
+      - Elysium
+      - Transformers
+      - Metropolis
+      - Planète interdite
+      réponse: Planète interdite
+      anecdote: « Forbidden Planet » is one of the first science fiction films to benefit from color and the cinemascope format.
+    - id: 25
+      question: How tall is the Iron Giant in the 1999 movie of the same name ?
+      propositions:
+      - 30 meters
+      - 60 meters
+      - 90 meters
+      - 120 meters
+      réponse: 30 meters
+      anecdote: The character of the giant metallic robot is also found in several other famous cartoons.
+    - id: 26
+      question: In which film should a half-human, half-robot woman go get a vaccine in Atlanta ?
+      propositions:
+      - Robots
+      - Sucker Punch
+      - Cyborg
+      - Transformers
+      réponse: Cyborg
+      anecdote: The film was originally prepared to be an adaptation of the character of Spider-Man.
+    - id: 27
+      question: In which movie are combat robots used to protect a train ?
+      propositions:
+      - Sucker Punch
+      - Short Circuit
+      - Elysium
+      - Terminator
+      réponse: Sucker Punch
+      anecdote: The plot of the film is set in the 1960s, but the film crew sought to give it a timeless edge.
+    - id: 28
+      question: In which movie are giant robots driven by neural connection ?
+      propositions:
+      - Matrix Revolutions
+      - Iron Man
+      - Pacific Rim
+      - Burn-E
+      réponse: Pacific Rim
+      anecdote: Tom Cruise was to take on the role of Stacker Pentecost, which was ultimately assigned to Idris Elba.
+    - id: 29
+      question: In which film does a paralyzed child remotely pilot a robot that lives its life ?
+      propositions:
+      - Avengers
+      - Real Steel
+      - Robot And Frank
+      - Hinokio
+      réponse: Hinokio
+      anecdote: To help him get out of his sad daily life, his father decides to make Hinokio, a remotely piloted robot.
+    - id: 30
+      question: In which movie do three robots get out of control attacking humans ?
+      propositions:
+      - Real Steel
+      - Elysium
+      - Robots
+      - Shopping
+      réponse: Shopping
+      anecdote: The version broadcast on cable channels is longer than the cinema version.
+  de:
+  - débutant:
+    - id: 1
+      question: Welches Film-Franchise begann mit einer Spielzeuglinie aus Robotern ?
+      propositions:
+      - Kurzschluss
+      - Alien
+      - Prometheus
+      - Transformatoren
+      réponse: Transformatoren
+      anecdote: Das Franchise begann mit einer Reihe von Spielzeugen aus Robotern, die in Fahrzeuge verwandelt werden konnten.
+    - id: 2
+      question: In welchem Film mit Arnold Schwarzenegger reisen Roboter mit der Zeit ?
+      propositions:
+      - Real Steel
+      - Sucker Punch
+      - Robots
+      - Terminator
+      réponse: Terminator
+      anecdote: « Terminator » befasst sich mit Zeitreisen und der Bedrohung, die intelligente Roboter darstellen könnten.
+    - id: 3
+      question: In welchem Kultfilm werden menschlich aussehende Roboter Replikanten genannt ?
+      propositions:
+      - Blade Runner
+      - Transformers
+      - Terminator
+      - Le Choc des Titans
+      réponse: Blade Runner
+      anecdote: Bei seiner Veröffentlichung war « Blade Runner » ein kommerzieller Misserfolg in den Vereinigten Staaten und stieß auf ziemlich scharfe Kritik.
+    - id: 4
+      question: Wer ist zweifellos die berühmteste Roboterpolizei der Zukunft ?
+      propositions:
+      - Sonny
+      - C-3PO
+      - Asche
+      - Robocop
+      réponse: Robocop
+      anecdote: Der Film « Robocop » zeigt eine alternative Realität der heutigen Welt in einer korrupten und kriminalisierten Gesellschaft.
+    - id: 5
+      question: In welchem Film hat ein Milliardär unzerstörbare Roboterpanzer entworfen ?
+      propositions:
+      - Total Recall
+      - Iron Man
+      - Alien
+      - Pacific Rim
+      réponse: Iron Man
+      anecdote: Dieser Film markiert die kinematografische Auferstehung von Robert Downey Jr., der dank dieser Rolle eine Wiederbelebung der Popularität kennt.
+    - id: 6
+      question: Wer hat den Film gedreht ? « A.I. Künstliche Intelligenz » mit Jude Law und William Hurt ?
+      propositions:
+      - James Cameron
+      - Ridley Scott
+      - Ron Howard
+      - Steven Spielberg
+      réponse: Steven Spielberg
+      anecdote: Der Film « A.I. Künstliche Intelligenz » ist aus Brian Aldiss 'Kurzgeschichte « Supertoys den ganzen Sommer » adaptiert.
+    - id: 7
+      question: In welchem Film treffen wir einen wissenschaftlichen Android namens Ash ?
+      propositions:
+      - Matrix
+      - Robocop
+      - Total Recall
+      - Alien
+      réponse: Alien
+      anecdote: Ian Holm, bekannt für Bühnenrollen, wurde als Android Ash besetzt.
+    - id: 8
+      question: In welchem Film versucht der junge Rodney sein Glück als Erfinder in Robot-Ville ?
+      propositions:
+      - Robots
+      - Sucker Punch
+      - Robocop
+      - Short Circuit
+      réponse: Robots
+      anecdote: Als Rodney in Robot-Ville ankommt, können wir einen Blick auf einen Roboter erhaschen, der Sid, dem Faultier, sehr ähnlich ist.
+    - id: 9
+      question: Wer begleitet R2-D2, auch D2-R2 genannt, in der « Star Wars » -Saga ?
+      propositions:
+      - Daryl
+      - T-1000
+      - Daten
+      - C-3PO
+      réponse: C-3PO
+      anecdote: R2-D2 drückt sich durch charakteristische Pfeifen und elektronische Pieptöne aus, die seine Emotionen vermitteln.
+    - id: 10
+      question: In welchem Film sollen Howlers alles Leben angreifen ?
+      propositions:
+      - Elysium
+      - Robots
+      - Planète Hurlante
+      - Real Steel
+      réponse: Planète Hurlante
+      anecdote: Das französische Schlagwort des Films lautet: 2078 kann Gefahr alle Gesichter haben.
+  - confirmé:
+    - id: 11
+      question: Welcher Film ist inspiriert von der Kurzgeschichte « The Dreaming Robot » von Isaac Asimov ?
+      propositions:
+      - Iron Man
+      - I, Robot
+      - Pacific Rim
+      - Blade Runner
+      réponse: I, Robot
+      anecdote: « I, Robot » enthält viele Hinweise auf bestimmte zeitgenössische Anliegen der künstlichen Intelligenz.
+    - id: 12
+      question: Wie viele Roboter spielen die Hauptrollen in Disneys « The Black Hole » ?
+      propositions:
+      - Vier
+      - Zwei
+      - Drei
+      - Fünf
+      réponse: Zwei
+      anecdote: Die Geschichte des Films « The Black Hole » ist inspiriert von dem Roman « Twenty Thousand Leagues Under the Sea » von Jules Verne.
+    - id: 13
+      question: Welcher Kurzfilm wird als Bonus auf « Wall-E » DVD und Blu-Ray verteilt ?
+      propositions:
+      - Burn-E
+      - Robots
+      - Hinokio
+      - Short Circuit
+      réponse: Burn-E
+      anecdote: Der Kurzfilm basiert auf einer Figur, die kurz gesehen wird, als Wall-E und Eve um das Axiom-Raumschiff schweben.
+    - id: 14
+      question: In welchem Schwarz-Weiß-Stummfilm lässt ein mechanisches Monster die Stadt zittern ?
+      propositions:
+      - Pacific Rim
+      - Kampf der Titanen
+      - Planète Hurlante
+      - Metropolis
+      réponse: Metropolis
+      anecdote: Die Dreharbeiten zu dem Film waren aufgrund der Anfragen von Fritz Lang eine sehr anstrengende Erfahrung für die Schauspieler.
+    - id: 15
+      question: In welchem Science-Fiction-Film war ein Roboter namens Nummer 5 ?
+      propositions:
+      - Cyborg
+      - Short Circuit
+      - Blade Runner
+      - Robocop
+      réponse: Short Circuit
+      anecdote: Die Musik für den Film wurde als spätes Album veröffentlicht, das mehr als 22 Jahre nach dem Film selbst veröffentlicht wurde.
+    - id: 16
+      question: Welche kinematografische Saga hebt die Decepticons hervor ?
+      propositions:
+      - Real Steel
+      - Transformers
+      - Total Recall
+      - Blade Runner
+      réponse: Transformers
+      anecdote: In « Transformers » verwendete Michael Bay Szenen aus einem seiner vorherigen Filme, « Pearl Harbor ».
+    - id: 17
+      question: In welchem Film können wir Insektoiden in einer Stadt der Maschinen begegnen ?
+      propositions:
+      - Clones
+      - H2G2
+      - Matrix Revolutions
+      - Star Wars
+      réponse: Matrix Revolutions
+      anecdote: Nach dem Tod von Gloria Foster, die das Orakel in « Matrix » und « Matrix Reloaded » spielte, wird die Rolle von Mary Alice übernommen.
+    - id: 18
+      question: In welcher amerikanischen Komödie muss der Held gegen weibliche Roboter kämpfen ?
+      propositions:
+      - Cocoon
+      - Critters
+      - Austin Powers
+      - Men in Black
+      réponse: Austin Powers
+      anecdote: In der Quebec-Version des Films heißt Doctor Denfer Doctor Terror.
+    - id: 19
+      question: In welchem Film werden Roboter auf dem Planeten Mars eingesetzt, um Taxis zu fahren ?
+      propositions:
+      - Sucker Punch
+      - Planète interdite
+      - Elysium
+      - Total Recall
+      réponse: Total Recall
+      anecdote: In Übereinstimmung mit der Welt von Philip K. Dick ist es nicht einfach, sich zwischen Realität und Delirium zu entscheiden.
+    - id: 20
+      question: In welchem Schößchen sehen wir eine mechanische Eule namens Bubo ?
+      propositions:
+      - Saturn 3
+      - Woody
+      - THX 1138
+      - Le Choc des Titans 
+      réponse: Le Choc des Titans 
+      anecdote: Die mechanische Eule Bubo ist nach der Gattung Bubo benannt, die nachtaktive Raubvögel wie die Uhu zusammenfasst.
+  - expert:
+    - id: 21
+      question: In welchem Film spielt Michael Fassbender einen Android namens David ?
+      propositions:
+      - Elysium
+      - Cyborg
+      - Shopping
+      - Prometheus
+      réponse: Prometheus
+      anecdote: Dieser Film war ursprünglich als direkte Fortsetzung von « Alien », Ridley Scotts zweitem Spielfilm, geplant.
+    - id: 22
+      question: In welchem Film schützen die Droiden die privilegierte Minderheit ?
+      propositions:
+      - Hinokio
+      - Terminator
+      - Metropolis
+      - Elysium
+      réponse: Elysium
+      anecdote: Die Dreharbeiten begannen im Juli 2011 in Vancouver, Kanada, bevor das Produktionsteam nach Mexiko flog.
+    - id: 23
+      question: In welchem Film hat sich das Boxen zu einem Hightech-Sport entwickelt ?
+      propositions:
+      - Real Steel
+      - Total Recall
+      - Transformers
+      - Planète Hurlante
+      réponse: Real Steel
+      anecdote: Im April 2011 gab DreamWorks bekannt, dass eine Fortsetzung in Arbeit ist. John Gatins war für das Drehbuch verantwortlich.
+    - id: 24
+      question: In welchem Film wird eine junge Frau von ihrem Roboter namens Robby unterstützt ?
+      propositions:
+      - Transformers
+      - Planète interdite
+      - Metropolis
+      - Elysium
+      réponse: Planète interdite
+      anecdote: « Forbidden Planet » ist einer der ersten Science-Fiction-Filme, die von Farbe und dem Cinemascope-Format profitieren.
+    - id: 25
+      question: Wie groß ist der Eiserne Riese im gleichnamigen Film von 1999 ?
+      propositions:
+      - 60 Meter
+      - 120 Meter
+      - 90 Meter
+      - 30 Meter
+      réponse: 30 Meter
+      anecdote: Der Charakter des riesigen Metallroboters findet sich auch in mehreren anderen berühmten Cartoons.
+    - id: 26
+      question: In welchem Film sollte sich eine halb Mensch, halb Roboter Frau in Atlanta impfen lassen ?
+      propositions:
+      - Robots
+      - Transformers
+      - Sucker Punch
+      - Cyborg
+      réponse: Cyborg
+      anecdote: Der Film war ursprünglich als Adaption des Charakters von Spider-Man vorbereitet.
+    - id: 27
+      question: In welchem Film werden Kampfroboter eingesetzt, um einen Zug zu schützen ?
+      propositions:
+      - Sucker Punch
+      - Terminator
+      - Short Circuit
+      - Elysium
+      réponse: Sucker Punch
+      anecdote: Die Handlung des Films spielt in den 1960er Jahren, aber das Filmteam versuchte, ihm einen zeitlosen Vorteil zu verleihen.
+    - id: 28
+      question: In welchem Film werden Riesenroboter durch neuronale Verbindung angetrieben ?
+      propositions:
+      - Burn-E
+      - Matrix Revolutions
+      - Pacific Rim
+      - Iron Man
+      réponse: Pacific Rim
+      anecdote: Tom Cruise sollte die Rolle des Stacker Pentecost übernehmen, der letztendlich Idris Elba zugewiesen wurde.
+    - id: 29
+      question: In welchem Film steuert ein gelähmtes Kind einen Roboter aus der Ferne, der sein Leben lebt ?
+      propositions:
+      - Robot And Frank
+      - Avengers
+      - Hinokio
+      - Real Steel
+      réponse: Hinokio
+      anecdote: Um ihm zu helfen, aus seinem traurigen Alltag herauszukommen, beschließt sein Vater, Hinokio zu einem ferngesteuerten Roboter zu machen.
+    - id: 30
+      question: In welchem Film geraten drei Roboter außer Kontrolle, wenn sie Menschen angreifen ?
+      propositions:
+      - Robots
+      - Elysium
+      - Shopping
+      - Real Steel
+      réponse: Shopping
+      anecdote: Die auf Kabelkanälen ausgestrahlte Version ist länger als die Kinoversion.
+  es:
+  - débutant:
+    - id: 1
+      question: ¿Qué franquicia de películas comenzó con una línea de juguetes formada por robots ?
+      propositions:
+      - Prometheus
+      - Transformadores
+      - Cortocircuito
+      - Alien
+      réponse: Transformadores
+      anecdote: La franquicia comenzó con una línea de juguetes formada por robots que podían convertirse en vehículos.
+    - id: 2
+      question: ¿En qué película con Arnold Schwarzenegger los robots viajan en el tiempo ?
+      propositions:
+      - Real Steel
+      - Terminator
+      - Robots
+      - Sucker Punch
+      réponse: Terminator
+      anecdote: « Terminator » se ocupa de los viajes en el tiempo y la amenaza que podrían representar los robots inteligentes.
+    - id: 3
+      question: ¿En qué película de culto se llaman replicantes a los robots de aspecto humano ?
+      propositions:
+      - Transformers
+      - Terminator
+      - Le Choc des Titans
+      - Blade Runner
+      réponse: Blade Runner
+      anecdote: Tras su lanzamiento, « Blade Runner » fue un fracaso comercial en los Estados Unidos y recibió críticas bastante duras.
+    - id: 4
+      question: ¿Quién es sin duda el robot policía más famoso del futuro ?
+      propositions:
+      - Sonny
+      - C-3PO
+      - Ash
+      - Robocop
+      réponse: Robocop
+      anecdote: La película « Robocop » presenta una realidad alternativa del mundo actual en una sociedad corrupta y criminalizada.
+    - id: 5
+      question: ¿En qué película diseñó un multimillonario una armadura de robot indestructible ?
+      propositions:
+      - Iron Man
+      - Pacific Rim
+      - Alien
+      - Total Recall
+      réponse: Iron Man
+      anecdote: Esta película marca la resurrección cinematográfica de Robert Downey Jr., quien gracias a este papel conoce un resurgimiento de la popularidad.
+    - id: 6
+      question: Quién dirigió la película « A.I. Inteligencia artificial », ¿con Jude Law y William Hurt ?
+      propositions:
+      - Ridley Scott
+      - James Cameron
+      - Steven Spielberg
+      - Ron Howard
+      réponse: Steven Spielberg
+      anecdote: La película « A.I. La inteligencia artificial » está adaptada del cuento de Brian Aldiss, « Los superjuegos duran todo el verano ».
+    - id: 7
+      question: ¿En qué película conocemos a un androide científico llamado Ash ?
+      propositions:
+      - Alien
+      - Matrix
+      - Total Recall
+      - Robocop
+      réponse: Alien
+      anecdote: Ian Holm, mejor conocido por sus papeles en el escenario, fue elegido para interpretar el papel del androide Ash.
+    - id: 8
+      question: ¿En qué película prueba suerte el joven Rodney como inventor en Robot-Ville ?
+      propositions:
+      - Robocop
+      - Sucker Punch
+      - Robots
+      - Short Circuit
+      réponse: Robots
+      anecdote: Cuando Rodney llega a Robot-Ville, podemos vislumbrar un robot muy similar a Sid, el perezoso.
+    - id: 9
+      question: ¿Quién acompaña a R2-D2, también llamado D2-R2, en la saga « Star Wars » ?
+      propositions:
+      - Datos
+      - Daryl
+      - C-3PO
+      - T-1000
+      réponse: C-3PO
+      anecdote: R2-D2 se expresa a través de característicos silbidos y pitidos electrónicos que transmiten sus emociones.
+    - id: 10
+      question: ¿En qué película los Howlers atacarán a toda la vida ?
+      propositions:
+      - Robots
+      - Planète Hurlante
+      - Elysium
+      - Real Steel
+      réponse: Planète Hurlante
+      anecdote: El eslogan francés de la película es En 2078, el peligro puede tener todas las caras.
+  - confirmé:
+    - id: 11
+      question: ¿Qué película está inspirada en el cuento « The Dreaming Robot » escrito por Isaac Asimov ?
+      propositions:
+      - I, Robot
+      - Pacific Rim
+      - Blade Runner
+      - Iron Man
+      réponse: I, Robot
+      anecdote: « Yo, Robot » contiene muchas referencias a ciertas preocupaciones contemporáneas de la inteligencia artificial.
+    - id: 12
+      question: ¿Cuántos robots interpretan los papeles principales en « The Black Hole » de Disney ?
+      propositions:
+      - Cuatro
+      - Tres
+      - Dos
+      - Cinco
+      réponse: Dos
+      anecdote: La historia de la película « El agujero negro » está inspirada en la novela « Veinte mil leguas de viaje submarino » de Julio Verne.
+    - id: 13
+      question: ¿Qué cortometraje se distribuye como bonificación en DVD y Blu-Ray de « Wall-E » ?
+      propositions:
+      - Hinokio
+      - Robots
+      - Short Circuit
+      - Burn-E
+      réponse: Burn-E
+      anecdote: El corto se basa en un personaje visto brevemente mientras Wall-E y Eve flotan alrededor de la nave espacial Axiom.
+    - id: 14
+      question: ¿En qué película muda en blanco y negro un monstruo mecánico hace temblar la ciudad ?
+      propositions:
+      - Metropolis
+      - Pacific Rim
+      - Planète Hurlante
+      - Choque de titanes
+      réponse: Metropolis
+      anecdote: El rodaje de la película fue una experiencia muy difícil para los actores debido a las peticiones de Fritz Lang.
+    - id: 15
+      question: ¿En qué película de ciencia ficción apareció un robot llamado Número 5 ?
+      propositions:
+      - Robocop
+      - Cyborg
+      - Short Circuit
+      - Blade Runner
+      réponse: Short Circuit
+      anecdote: La música de la película se lanzó como un álbum tardío, lanzado más de 22 años después de la película.
+    - id: 16
+      question: ¿Qué saga cinematográfica destaca a los Decepticons ?
+      propositions:
+      - Real Steel
+      - Total Recall
+      - Transformers
+      - Blade Runner
+      réponse: Transformers
+      anecdote: En « Transformers », Michael Bay reutilizó escenas de una de sus películas anteriores, « Pearl Harbor ».
+    - id: 17
+      question: ¿En qué película podemos encontrarnos con los insectoides en una ciudad de máquinas ?
+      propositions:
+      - Star Wars
+      - Matrix Revolutions
+      - H2G2
+      - Clones
+      réponse: Matrix Revolutions
+      anecdote: Tras la muerte de Gloria Foster, quien interpretó al Oráculo en « Matrix » y « Matrix Reloaded », el papel será asumido por Mary Alice.
+    - id: 18
+      question: ¿En qué comedia estadounidense tiene que luchar el héroe contra robots femeninos ?
+      propositions:
+      - Men in Black
+      - Critters
+      - Cocoon
+      - Austin Powers
+      réponse: Austin Powers
+      anecdote: En la versión de Quebec de la película, el Doctor Denfer se llama Doctor Terror.
+    - id: 19
+      question: ¿En qué película se utilizan robots en el planeta Marte para conducir taxis ?
+      propositions:
+      - Total Recall
+      - Sucker Punch
+      - Planète interdite
+      - Elysium
+      réponse: Total Recall
+      anecdote: De acuerdo con el mundo de Philip K. Dick, no es fácil decidir entre la realidad y el delirio.
+    - id: 20
+      question: ¿En qué péplum vemos un búho mecánico llamado Bubo ?
+      propositions:
+      - THX 1138
+      - Saturn 3
+      - Woody
+      - Le Choc des Titans 
+      réponse: Le Choc des Titans 
+      anecdote: El búho mecánico Bubo lleva el nombre del género Bubo, que agrupa rapaces nocturnas como el búho real.
+  - expert:
+    - id: 21
+      question: ¿En qué película Michael Fassbender interpreta a un androide llamado David ?
+      propositions:
+      - Prometheus
+      - Elysium
+      - Cyborg
+      - Shopping
+      réponse: Prometheus
+      anecdote: Esta película se planeó originalmente como una precuela directa de « Alien », el segundo largometraje de Ridley Scott.
+    - id: 22
+      question: ¿En qué película protegen los droides a la minoría privilegiada ?
+      propositions:
+      - Elysium
+      - Metropolis
+      - Terminator
+      - Hinokio
+      réponse: Elysium
+      anecdote: El rodaje comenzó en Vancouver, Canadá, en julio de 2011, antes de que el equipo de producción volara a México.
+    - id: 23
+      question: ¿En qué película se convirtió el boxeo en un deporte de alta tecnología ?
+      propositions:
+      - Planète Hurlante
+      - Total Recall
+      - Transformers
+      - Real Steel
+      réponse: Real Steel
+      anecdote: En abril de 2011, DreamWorks anunció que se estaba preparando una secuela. John Gatins estuvo a cargo del guión.
+    - id: 24
+      question: ¿En qué película aparece una joven asistida por su robot llamado Robby ?
+      propositions:
+      - Elysium
+      - Metropolis
+      - Planète interdite
+      - Transformers
+      réponse: Planète interdite
+      anecdote: « Forbidden Planet » es una de las primeras películas de ciencia ficción en beneficiarse del color y el formato cinemascope.
+    - id: 25
+      question: ¿Cuánto mide el gigante de hierro en la película de 1999 del mismo nombre ?
+      propositions:
+      - 30 metros
+      - 120 metros
+      - 90 metros
+      - 60 metros
+      réponse: 30 metros
+      anecdote: El personaje del robot metálico gigante también se encuentra en varios otros dibujos animados famosos.
+    - id: 26
+      question: ¿En qué película debería una mujer mitad humana y mitad robot recibir una vacuna en Atlanta ?
+      propositions:
+      - Sucker Punch
+      - Robots
+      - Cyborg
+      - Transformers
+      réponse: Cyborg
+      anecdote: La película se preparó originalmente para ser una adaptación del personaje de Spider-Man.
+    - id: 27
+      question: ¿En qué película se utilizan robots de combate para proteger un tren ?
+      propositions:
+      - Short Circuit
+      - Terminator
+      - Elysium
+      - Sucker Punch
+      réponse: Sucker Punch
+      anecdote: La trama de la película está ambientada en la década de 1960, pero el equipo de filmación buscó darle un toque atemporal.
+    - id: 28
+      question: ¿En qué película están los robots gigantes impulsados por la conexión neuronal ?
+      propositions:
+      - Iron Man
+      - Burn-E
+      - Matrix Revolutions
+      - Pacific Rim
+      réponse: Pacific Rim
+      anecdote: Tom Cruise asumirá el papel de Stacker Pentecost, que finalmente fue asignado a Idris Elba.
+    - id: 29
+      question: ¿En qué película un niño paralítico pilota remotamente un robot que vive su vida ?
+      propositions:
+      - Real Steel
+      - Hinokio
+      - Avengers
+      - Robot And Frank
+      réponse: Hinokio
+      anecdote: Para ayudarlo a salir de su triste vida diaria, su padre decide hacer Hinokio, un robot pilotado de forma remota.
+    - id: 30
+      question: ¿En qué película tres robots se salen de control atacando a los humanos ?
+      propositions:
+      - Real Steel
+      - Robots
+      - Elysium
+      - Shopping
+      réponse: Shopping
+      anecdote: La versión que se emite en los canales de cable es más larga que la versión de cine.
+  it:
+  - débutant:
+    - id: 1
+      question: Quale franchise di film è iniziato con una linea di giocattoli composta da robot ?
+      propositions:
+      - Prometeo
+      - Alieno
+      - Trasformatori
+      - Cortocircuito
+      réponse: Trasformatori
+      anecdote: Il franchise è iniziato con una linea di giocattoli composta da robot che potevano essere trasformati in veicoli.
+    - id: 2
+      question: In quale film con Arnold Schwarzenegger i robot viaggiano nel tempo ?
+      propositions:
+      - Sucker Punch
+      - Real Steel
+      - Robots
+      - Terminator
+      réponse: Terminator
+      anecdote: « Terminator » si occupa dei viaggi nel tempo e della minaccia che i robot intelligenti potrebbero rappresentare.
+    - id: 3
+      question: In quale film cult i robot dall'aspetto umano sono chiamati replicanti ?
+      propositions:
+      - Blade Runner
+      - Transformers
+      - Terminator
+      - Le Choc des Titans
+      réponse: Blade Runner
+      anecdote: Al momento del suo rilascio, « Blade Runner » è stato un fallimento commerciale negli Stati Uniti ed è stato accolto con critiche piuttosto aspre.
+    - id: 4
+      question: Chi è senza dubbio la polizia robotica più famosa del futuro ?
+      propositions:
+      - Robocop
+      - Ash
+      - Sonny
+      - C-3PO
+      réponse: Robocop
+      anecdote: Il film « Robocop » presenta una realtà alternativa del mondo di oggi in una società corrotta e criminalizzata.
+    - id: 5
+      question: In quale film un miliardario ha progettato un'armatura robotica indistruttibile ?
+      propositions:
+      - Iron Man
+      - Pacific Rim
+      - Alien
+      - Total Recall
+      réponse: Iron Man
+      anecdote: Questo film segna la resurrezione cinematografica di Robert Downey Jr., che grazie a questo ruolo conosce una rinascita di popolarità.
+    - id: 6
+      question: Chi ha diretto il film « A.I. Intelligenza artificiale », con Jude Law e William Hurt ?
+      propositions:
+      - Steven Spielberg
+      - Ridley Scott
+      - Ron Howard
+      - James Cameron
+      réponse: Steven Spielberg
+      anecdote: Il film « A.I. L'intelligenza artificiale » è un adattamento del racconto di Brian Aldiss, « I super giocattoli durano tutta l'estate ».
+    - id: 7
+      question: In quale film incontriamo un androide scientifico di nome Ash ?
+      propositions:
+      - Matrix
+      - Total Recall
+      - Robocop
+      - Alien
+      réponse: Alien
+      anecdote: Ian Holm, meglio conosciuto per i ruoli teatrali, è stato scelto per interpretare il ruolo dell'androide Ash.
+    - id: 8
+      question: In quale film il giovane Rodney tenta la fortuna come inventore in Robot-Ville ?
+      propositions:
+      - Short Circuit
+      - Sucker Punch
+      - Robocop
+      - Robots
+      réponse: Robots
+      anecdote: Quando Rodney arriva a Robot-Ville, possiamo intravedere un robot molto simile a Sid, il bradipo.
+    - id: 9
+      question: Chi accompagna R2-D2, chiamato anche D2-R2, nella saga di « Star Wars » ?
+      propositions:
+      - Dati
+      - C-3PO
+      - T-1000
+      - Daryl
+      réponse: C-3PO
+      anecdote: R2-D2 si esprime attraverso caratteristici fischi e beep elettronici che trasmettono le sue emozioni.
+    - id: 10
+      question: In quale film gli Howlers attaccheranno tutta la vita ?
+      propositions:
+      - Robots
+      - Planète Hurlante
+      - Real Steel
+      - Elysium
+      réponse: Planète Hurlante
+      anecdote: Lo slogan francese del film è Nel 2078, il pericolo può avere tutte le facce.
+  - confirmé:
+    - id: 11
+      question: Quale film è ispirato al racconto « The Dreaming Robot » scritto da Isaac Asimov ?
+      propositions:
+      - Blade Runner
+      - Iron Man
+      - Pacific Rim
+      - I, Robot
+      réponse: I, Robot
+      anecdote: « I, Robot » contiene molti riferimenti a certe preoccupazioni contemporanee dell'intelligenza artificiale.
+    - id: 12
+      question: Quanti robot interpretano i ruoli principali in « The Black Hole » della Disney ?
+      propositions:
+      - Quattro
+      - Tre
+      - Due
+      - Cinque
+      réponse: Due
+      anecdote: La storia del film « Il buco nero » è ispirata al romanzo « Ventimila leghe sotto i mari » di Jules Verne.
+    - id: 13
+      question: Quale cortometraggio viene distribuito come bonus su « Wall-E » DVD e Blu-Ray ?
+      propositions:
+      - Short Circuit
+      - Robots
+      - Burn-E
+      - Hinokio
+      réponse: Burn-E
+      anecdote: Il corto è basato su un personaggio visto brevemente come Wall-E ed Eve fluttuano intorno all'astronave Axiom.
+    - id: 14
+      question: In quale film muto in bianco e nero un mostro meccanico fa tremare la città ?
+      propositions:
+      - Pacific Rim
+      - Planète Hurlante
+      - Metropolis
+      - Clash of the Titans
+      réponse: Metropolis
+      anecdote: Le riprese del film sono state un'esperienza molto difficile per gli attori a causa delle richieste di Fritz Lang.
+    - id: 15
+      question: In quale film di fantascienza c'era un robot di nome Numero 5 ?
+      propositions:
+      - Short Circuit
+      - Cyborg
+      - Robocop
+      - Blade Runner
+      réponse: Short Circuit
+      anecdote: La musica per il film è stata rilasciata come un album in ritardo, pubblicato più di 22 anni dopo il film stesso.
+    - id: 16
+      question: Quale saga cinematografica mette in risalto i Decepticons ?
+      propositions:
+      - Blade Runner
+      - Real Steel
+      - Total Recall
+      - Transformers
+      réponse: Transformers
+      anecdote: In « Transformers », Michael Bay ha riutilizzato scene di uno dei suoi film precedenti, « Pearl Harbor ».
+    - id: 17
+      question: In quale film possiamo incontrare gli insettoidi in una città di macchine ?
+      propositions:
+      - Matrix Revolutions
+      - Clones
+      - Star Wars
+      - H2G2
+      réponse: Matrix Revolutions
+      anecdote: Dopo la morte di Gloria Foster, che interpretava l'Oracolo in « Matrix » e « Matrix Reloaded », il ruolo sarà assunto da Mary Alice.
+    - id: 18
+      question: In quale commedia americana l'eroe deve combattere contro i robot femminili ?
+      propositions:
+      - Critters
+      - Men in Black
+      - Austin Powers
+      - Cocoon
+      réponse: Austin Powers
+      anecdote: Nella versione del film in Quebec, il dottor Denfer si chiama Doctor Terror.
+    - id: 19
+      question: In quale film vengono usati robot sul pianeta Marte per guidare i taxi ?
+      propositions:
+      - Total Recall
+      - Sucker Punch
+      - Elysium
+      - Planète interdite
+      réponse: Total Recall
+      anecdote: Secondo il mondo di Philip K. Dick, non è facile decidere tra realtà e delirio.
+    - id: 20
+      question: In quale peplo vediamo un gufo meccanico di nome Bubo ?
+      propositions:
+      - THX 1138
+      - Le Choc des Titans 
+      - Woody
+      - Saturn 3
+      réponse: Le Choc des Titans 
+      anecdote: Il gufo meccanico Bubo prende il nome dal genere Bubo, che raggruppa rapaci notturni come il gufo reale.
+  - expert:
+    - id: 21
+      question: In quale film Michael Fassbender interpreta un androide di nome David ?
+      propositions:
+      - Prometheus
+      - Cyborg
+      - Shopping
+      - Elysium
+      réponse: Prometheus
+      anecdote: Questo film era originariamente progettato come prequel diretto di « Alien », il secondo lungometraggio di Ridley Scott.
+    - id: 22
+      question: In quale film i droidi proteggono la minoranza privilegiata ?
+      propositions:
+      - Terminator
+      - Metropolis
+      - Hinokio
+      - Elysium
+      réponse: Elysium
+      anecdote: Le riprese sono iniziate a Vancouver, in Canada, nel luglio 2011, prima che la troupe di produzione volasse in Messico.
+    - id: 23
+      question: In quale film la boxe si è evoluta in uno sport high-tech ?
+      propositions:
+      - Total Recall
+      - Planète Hurlante
+      - Transformers
+      - Real Steel
+      réponse: Real Steel
+      anecdote: Nell'aprile 2011, DreamWorks ha annunciato che un sequel era in lavorazione. John Gatins era responsabile della sceneggiatura.
+    - id: 24
+      question: In quale film una giovane donna è assistita dal suo robot di nome Robby ?
+      propositions:
+      - Elysium
+      - Transformers
+      - Planète interdite
+      - Metropolis
+      réponse: Planète interdite
+      anecdote: « Forbidden Planet » è uno dei primi film di fantascienza a beneficiare del colore e del formato cinemascope.
+    - id: 25
+      question: Quanto è alto il gigante di ferro nel film del 1999 con lo stesso nome ?
+      propositions:
+      - 30 metri
+      - 120 metri
+      - 90 metri
+      - 60 metri
+      réponse: 30 metri
+      anecdote: Il personaggio del gigantesco robot metallico si ritrova anche in molti altri famosi cartoni animati.
+    - id: 26
+      question: In quale film una donna metà umana e metà robot dovrebbe farsi vaccinare ad Atlanta ?
+      propositions:
+      - Robots
+      - Sucker Punch
+      - Transformers
+      - Cyborg
+      réponse: Cyborg
+      anecdote: Il film era originariamente preparato per essere un adattamento del personaggio di Spider-Man.
+    - id: 27
+      question: In quale film vengono usati i robot da combattimento per proteggere un treno ?
+      propositions:
+      - Elysium
+      - Terminator
+      - Short Circuit
+      - Sucker Punch
+      réponse: Sucker Punch
+      anecdote: La trama del film è ambientata negli anni '60, ma la troupe ha cercato di dargli un tocco senza tempo.
+    - id: 28
+      question: In quale film i robot giganti sono guidati dalla connessione neurale ?
+      propositions:
+      - Pacific Rim
+      - Iron Man
+      - Matrix Revolutions
+      - Burn-E
+      réponse: Pacific Rim
+      anecdote: Tom Cruise doveva assumere il ruolo di Stacker Pentecost, che alla fine fu assegnato a Idris Elba.
+    - id: 29
+      question: In quale film un bambino paralizzato pilota a distanza un robot che vive la sua vita ?
+      propositions:
+      - Real Steel
+      - Robot And Frank
+      - Hinokio
+      - Avengers
+      réponse: Hinokio
+      anecdote: Per aiutarlo a uscire dalla sua triste vita quotidiana, suo padre decide di creare Hinokio, un robot pilotato a distanza.
+    - id: 30
+      question: In quale film tre robot sfuggono al controllo attaccando gli umani ?
+      propositions:
+      - Robots
+      - Elysium
+      - Shopping
+      - Real Steel
+      réponse: Shopping
+      anecdote: La versione trasmessa sui canali via cavo è più lunga della versione cinematografica.
+  nl:
+  - débutant:
+    - id: 1
+      question: Welke filmfranchise begon met een speelgoedlijn die uit robots bestond ?
+      propositions:
+      - Prometheus
+      - Kortsluiting
+      - Transformers
+      - Alien
+      réponse: Transformers
+      anecdote: De franchise begon met een reeks speelgoed bestaande uit robots die in voertuigen konden worden veranderd.
+    - id: 2
+      question: In welke film met Arnold Schwarzenegger reizen robots door de tijd ?
+      propositions:
+      - Sucker Punch
+      - Real Steel
+      - Terminator
+      - Robots
+      réponse: Terminator
+      anecdote: « Terminator » houdt zich bezig met tijdreizen en de dreiging die intelligente robots kunnen vormen.
+    - id: 3
+      question: In welke cultfilm worden mensachtige robots replicanten genoemd ?
+      propositions:
+      - Terminator
+      - Transformers
+      - Le Choc des Titans
+      - Blade Runner
+      réponse: Blade Runner
+      anecdote: Bij de release was « Blade Runner » een commerciële mislukking in de Verenigde Staten en kreeg het nogal harde kritiek.
+    - id: 4
+      question: Wie is ongetwijfeld de beroemdste robotpolitie van de toekomst ?
+      propositions:
+      - Sonny
+      - C-3PO
+      - Ash
+      - Robocop
+      réponse: Robocop
+      anecdote: De film « Robocop » presenteert een alternatieve realiteit van de wereld van vandaag in een corrupte en gecriminaliseerde samenleving.
+    - id: 5
+      question: In welke film ontwierp een miljardair onverwoestbare robotpantser ?
+      propositions:
+      - Pacific Rim
+      - Total Recall
+      - Iron Man
+      - Alien
+      réponse: Iron Man
+      anecdote: Deze film markeert de cinematografische wederopstanding van Robert Downey Jr., die dankzij deze rol een heropleving van populariteit kent.
+    - id: 6
+      question: Wie regisseerde de film « A.I. Kunstmatige intelligentie », met Jude Law en William Hurt ?
+      propositions:
+      - Ridley Scott
+      - Steven Spielberg
+      - Ron Howard
+      - James Cameron
+      réponse: Steven Spielberg
+      anecdote: De film « A.I. Artificial Intelligence » is een bewerking van Brian Aldiss 'korte verhaal, « Supertoys duren de hele zomer ».
+    - id: 7
+      question: In welke film ontmoeten we een wetenschappelijke android genaamd Ash ?
+      propositions:
+      - Alien
+      - Matrix
+      - Robocop
+      - Total Recall
+      réponse: Alien
+      anecdote: Ian Holm, vooral bekend van theaterrollen, werd gecast om de rol van de androïde Ash te spelen.
+    - id: 8
+      question: In welke film beproeft de jonge Rodney zijn geluk als uitvinder in Robot-Ville ?
+      propositions:
+      - Short Circuit
+      - Robocop
+      - Sucker Punch
+      - Robots
+      réponse: Robots
+      anecdote: Als Rodney in Robot-Ville aankomt, kunnen we een glimp opvangen van een robot die erg op Sid lijkt, de luiaard.
+    - id: 9
+      question: Wie begeleidt R2-D2, ook wel D2-R2 genoemd, in de « Star Wars » -saga ?
+      propositions:
+      - C-3PO
+      - T-1000
+      - Gegevens
+      - Daryl
+      réponse: C-3PO
+      anecdote: R2-D2 drukt zichzelf uit door middel van karakteristieke fluittonen en elektronische pieptonen die zijn emoties overbrengen.
+    - id: 10
+      question: In welke film vallen Howlers al het leven aan ?
+      propositions:
+      - Real Steel
+      - Robots
+      - Elysium
+      - Planète Hurlante
+      réponse: Planète Hurlante
+      anecdote: De Franse slogan van de film is: In 2078 kan gevaar alle gezichten hebben.
+  - confirmé:
+    - id: 11
+      question: Welke film is geïnspireerd op het korte verhaal « The Dreaming Robot » geschreven door Isaac Asimov ?
+      propositions:
+      - Blade Runner
+      - Iron Man
+      - Pacific Rim
+      - I, Robot
+      réponse: I, Robot
+      anecdote: « I, Robot » bevat veel verwijzingen naar bepaalde hedendaagse zorgen over kunstmatige intelligentie.
+    - id: 12
+      question: Hoeveel robots spelen de hoofdrollen in Disney's « The Black Hole » ?
+      propositions:
+      - Vier
+      - Vijf
+      - Drie
+      - Twee
+      réponse: Twee
+      anecdote: Het verhaal van de film « The Black Hole » is geïnspireerd op de roman « Twenty Thousand Leagues Under the Sea » van Jules Verne.
+    - id: 13
+      question: Welke korte film wordt als bonus gedistribueerd op « Wall-E » dvd en Blu-Ray ?
+      propositions:
+      - Burn-E
+      - Robots
+      - Short Circuit
+      - Hinokio
+      réponse: Burn-E
+      anecdote: De korte film is gebaseerd op een personage dat kort te zien is terwijl Wall-E en Eve rond het Axiom-ruimteschip zweven.
+    - id: 14
+      question: In welke zwart-wit stomme film laat een mechanisch monster de stad beven ?
+      propositions:
+      - Metropolis
+      - Planète Hurlante
+      - Clash of the Titans
+      - Pacific Rim
+      réponse: Metropolis
+      anecdote: De opnames van de film waren een zeer moeilijke ervaring voor de acteurs vanwege de verzoeken van Fritz Lang.
+    - id: 15
+      question: In welke sciencefictionfilm was een robot met de naam nummer 5 ?
+      propositions:
+      - Cyborg
+      - Blade Runner
+      - Robocop
+      - Short Circuit
+      réponse: Short Circuit
+      anecdote: De muziek voor de film werd uitgebracht als een laat album, meer dan 22 jaar na de film zelf.
+    - id: 16
+      question: Welke cinematografische saga belicht de Decepticons ?
+      propositions:
+      - Real Steel
+      - Total Recall
+      - Transformers
+      - Blade Runner
+      réponse: Transformers
+      anecdote: In « Transformers » hergebruikt Michael Bay scènes uit een van zijn vorige films, « Pearl Harbor ».
+    - id: 17
+      question: In welke film kunnen we insectoïden ontmoeten in een stad vol machines ?
+      propositions:
+      - Matrix Revolutions
+      - Clones
+      - H2G2
+      - Star Wars
+      réponse: Matrix Revolutions
+      anecdote: Na het overlijden van Gloria Foster, die het Orakel speelde in « Matrix » en « Matrix Reloaded », wordt de rol overgenomen door Mary Alice.
+    - id: 18
+      question: In welke Amerikaanse komedie moet de held vechten tegen vrouwelijke robots ?
+      propositions:
+      - Men in Black
+      - Cocoon
+      - Austin Powers
+      - Critters
+      réponse: Austin Powers
+      anecdote: In de Quebec-versie van de film wordt Doctor Denfer Doctor Terror genoemd.
+    - id: 19
+      question: In welke film worden robots op de planeet Mars gebruikt om taxi's te besturen ?
+      propositions:
+      - Sucker Punch
+      - Elysium
+      - Planète interdite
+      - Total Recall
+      réponse: Total Recall
+      anecdote: In overeenstemming met de wereld van Philip K. Dick is het niet gemakkelijk om te kiezen tussen realiteit en delirium.
+    - id: 20
+      question: In welke peplum zien we een mechanische uil genaamd Bubo ?
+      propositions:
+      - Saturn 3
+      - THX 1138
+      - Woody
+      - Le Choc des Titans 
+      réponse: Le Choc des Titans 
+      anecdote: De mechanische uil Bubo is vernoemd naar het geslacht Bubo, dat nachtelijke roofvogels zoals de oehoe groepeert.
+  - expert:
+    - id: 21
+      question: In welke film speelt Michael Fassbender een androïde genaamd David ?
+      propositions:
+      - Shopping
+      - Cyborg
+      - Elysium
+      - Prometheus
+      réponse: Prometheus
+      anecdote: Deze film was oorspronkelijk gepland als een directe prequel van « Alien », de tweede speelfilm van Ridley Scott.
+    - id: 22
+      question: In welke film beschermen de droids de geprivilegieerde minderheid ?
+      propositions:
+      - Terminator
+      - Metropolis
+      - Elysium
+      - Hinokio
+      réponse: Elysium
+      anecdote: Het filmen begon in juli 2011 in Vancouver, Canada, voordat de productieploeg naar Mexico vloog.
+    - id: 23
+      question: In welke film evolueerde boksen tot een hightech sport ?
+      propositions:
+      - Planète Hurlante
+      - Transformers
+      - Real Steel
+      - Total Recall
+      réponse: Real Steel
+      anecdote: In april 2011 kondigde DreamWorks aan dat er een vervolg in de maak was. John Gatins had de leiding over het script.
+    - id: 24
+      question: In welke film wordt een jonge vrouw bijgestaan door haar robot genaamd Robby ?
+      propositions:
+      - Metropolis
+      - Planète interdite
+      - Transformers
+      - Elysium
+      réponse: Planète interdite
+      anecdote: « Forbidden Planet » is een van de eerste sciencefictionfilms die profiteert van kleur en het cinemascope-formaat.
+    - id: 25
+      question: Hoe groot is de Iron Giant in de film met dezelfde naam uit 1999 ?
+      propositions:
+      - 60 meter
+      - 90 meter
+      - 120 meter
+      - 30 meter
+      réponse: 30 meter
+      anecdote: Het karakter van de gigantische metalen robot is ook te vinden in verschillende andere beroemde tekenfilms.
+    - id: 26
+      question: In welke film moet een half mens, half robot vrouw een vaccin krijgen in Atlanta ?
+      propositions:
+      - Transformers
+      - Cyborg
+      - Robots
+      - Sucker Punch
+      réponse: Cyborg
+      anecdote: De film was oorspronkelijk voorbereid als een bewerking van het personage van Spider-Man.
+    - id: 27
+      question: In welke film worden gevechtsrobots gebruikt om een trein te beschermen ?
+      propositions:
+      - Short Circuit
+      - Elysium
+      - Terminator
+      - Sucker Punch
+      réponse: Sucker Punch
+      anecdote: De plot van de film speelt zich af in de jaren zestig, maar de filmploeg probeerde er een tijdloos randje aan te geven.
+    - id: 28
+      question: In welke film worden gigantische robots aangedreven door neurale verbindingen ?
+      propositions:
+      - Pacific Rim
+      - Matrix Revolutions
+      - Iron Man
+      - Burn-E
+      réponse: Pacific Rim
+      anecdote: Tom Cruise zou de rol van Stacker Pentecost op zich nemen, die uiteindelijk werd toegewezen aan Idris Elba.
+    - id: 29
+      question: In welke film bestuurt een verlamd kind op afstand een robot die zijn leven leidt ?
+      propositions:
+      - Robot And Frank
+      - Avengers
+      - Real Steel
+      - Hinokio
+      réponse: Hinokio
+      anecdote: Om hem te helpen uit zijn trieste dagelijkse leven te komen, besluit zijn vader Hinokio te maken, een op afstand bestuurde robot.
+    - id: 30
+      question: In welke film lopen drie robots de controle over het aanvallen van mensen ?
+      propositions:
+      - Real Steel
+      - Elysium
+      - Robots
+      - Shopping
+      réponse: Shopping
+      anecdote: De versie die op kabelkanalen wordt uitgezonden is langer dan de bioscoopversie.

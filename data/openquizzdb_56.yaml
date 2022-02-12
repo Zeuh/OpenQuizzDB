@@ -1,0 +1,280 @@
+---
+fournisseur: OpenQuizzDB - Fournisseur de contenu libre (https://www.openquizzdb.org)
+rédacteur: Philippe Bresoux
+thème: Reggae (Rastas et Jamaïque)
+difficulté: 4 / 5
+quizz:
+  fr:
+  - débutant:
+    - id: 1
+      question: À quel mouvement culturel et religieux le reggae est-il souvent historiquement lié ?
+      propositions:
+      - Rastafari
+      - Bohème
+      - Hippie
+      - Punk
+      réponse: Rastafari
+      anecdote: Le nom du mouvement vient de ras Tafari Mekonnen, couronné en 1930 « negus d'Éthiopie », roi des rois.
+    - id: 2
+      question: À la fin de quelle décennie le reggae a-t-il véritablement émergé ?
+      propositions:
+      - 1980
+      - 1960
+      - 1970
+      - 1990
+      réponse: 1960
+      anecdote: Le reggae est devenu, à la faveur de son succès international, un style musical internationalement très apprécié.
+    - id: 3
+      question: Le reggae est un genre musical qui possède un rythme à combien de temps ?
+      propositions:
+      - Quatre
+      - Trois
+      - Cinq
+      - Deux
+      réponse: Quatre
+      anecdote: Une accentuation par la basse exécute de petits riffs d'une mesure souvent en figure de croche.
+    - id: 4
+      question: Quel chanteur français de reggae a pour véritable nom Pierre-Mathieu Vilmet ?
+      propositions:
+      - Popcaan
+      - Purpleman
+      - Pierpoljak
+      - Papa Dee
+      réponse: Pierpoljak
+      anecdote: C'est en 2000 que sort son quatrième album solo, « Je fais c'que j'veux », récompensé par un double disque d'or.
+    - id: 5
+      question: Quel chanteur de reggae a été découvert par son tube « Boombastic » ?
+      propositions:
+      - Ziggy Marley
+      - Bob Marley
+      - Alpha Blondy
+      - Shaggy
+      réponse: Shaggy
+      anecdote: Le tube d'Orville Richard Burrell, dit Shaggy, sera plus tard repris dans une publicité pour la marque Levi's.
+    - id: 6
+      question: Qui a fondé avec Bob Marley le groupe vocal jamaïcain The Wailers ?
+      propositions:
+      - Bim Sherman
+      - Freddie McGregor
+      - Clinton Fearon
+      - Peter Tosh
+      réponse: Peter Tosh
+      anecdote: Les compilations regroupant des morceaux des Wailers mais abusivement attribuées à Bob Marley ont donné lieu à des procès.
+    - id: 7
+      question: Qui reste à ce jour le musicien le plus connu et le plus vénéré du reggae ?
+      propositions:
+      - Dawn Penn
+      - Dobby Dobson
+      - King Sporty
+      - Bob Marley
+      réponse: Bob Marley
+      anecdote: Bob Marley a également permis à la musique jamaïcaine et au mouvement rastafari de connaître une audience planétaire.
+    - id: 8
+      question: À qui doit-on le célèbre titre « Reggae Night », sorti en 1983 ?
+      propositions:
+      - Maxi Priest
+      - Jimmy Cliff
+      - Bob Marley
+      - Alpha Blondy
+      réponse: Jimmy Cliff
+      anecdote: Jimmy Cliff est un des artistes reggae qui s'est le plus ouvert à d'autres formes de musique.
+    - id: 9
+      question: Que chanteur français de reggae est très connu pour son tube « Chacun sa route » ?
+      propositions:
+      - Tonton David
+      - Pierpoljak
+      - Purpleman
+      - Papa Dee
+      réponse: Tonton David
+      anecdote: Désormais installé en Moselle, Tonton David diffuse ses chansons sur les scènes partout en France.
+    - id: 10
+      question: Comment se prénomme le fils de Bob Marley, chanteur tout comme son père ?
+      propositions:
+      - Clinton
+      - Ziggy
+      - Alpha
+      - Bim
+      réponse: Ziggy
+      anecdote: Dès 1979, avec ses soeurs Cedella, Sharon et son frère Stephen, il créa le groupe Ziggy Marley et the Melody Makers.
+  - confirmé:
+    - id: 11
+      question: Lequel de ces styles, évolution du reggae, est apparu le premier ?
+      propositions:
+      - One-drop
+      - Early reggae
+      - Rockers
+      - Rub-a-dub
+      réponse: Early reggae
+      anecdote: Le early reggae propose un tempo rapide, dû aux influences du mento local encore très rythmé, prédominance de la basse.
+    - id: 12
+      question: Quelles sonos embarquées dans un camion faisaient jadis le tour de la Jamaïque ?
+      propositions:
+      - Sound system
+      - Fuzz
+      - Phaser
+      - Crossover
+      réponse: Sound system
+      anecdote: Par extension, le terme désigne également le groupe d'organisateurs de soirées mettant ce matériel à disposition.
+    - id: 13
+      question: Sous quelle forme le reggae se diffuse-t-il en Europe depuis les années 2000 ?
+      propositions:
+      - Breakbeat
+      - Dub
+      - House
+      - Synthpop
+      réponse: Dub
+      anecdote: Le dub est un remixage réalisé en temps réel à partir de bandes magnétiques par des ingénieurs du son.
+    - id: 14
+      question: Quelle chanteuse belge née à Louvain propose de fortes consonances reggae ?
+      propositions:
+      - Maurane
+      - Axelle Red
+      - Viktor Lazlo
+      - Selah Sue
+      réponse: Selah Sue
+      anecdote: À l'âge de 15 ans, Sanne Putseys apprend à jouer de la guitare acoustique et commence à écrire ses propres chansons.
+    - id: 15
+      question: Quel artiste ivoirien de reggae chante en français, en dioula et en anglais ?
+      propositions:
+      - Angelo Dogba
+      - Petit Denis
+      - Alpha Blondy
+      - Douk Saga
+      réponse: Alpha Blondy
+      anecdote: Alpha Blondy se positionne contre l'avortement et affirme que celui-ci est un crime dans sa chanson « Abortion is a crime ».
+    - id: 16
+      question: À quel groupe reggae doit-on le puissant instrumental « Warrior Charge » ?
+      propositions:
+      - Musical Youth
+      - Aswad
+      - Inner Circle
+      - UB40
+      réponse: Aswad
+      anecdote: Les membres du groupe Aswad jouent depuis le milieu des années 70 et ont sorti un total de 21 albums.
+    - id: 17
+      question: Qui est parfois appelé « le patron du reggae français » ?
+      propositions:
+      - Djamatik
+      - Nuttea
+      - Pierpoljak
+      - Tonton David
+      réponse: Nuttea
+      anecdote: Nuttea s'est entre autre fait remarquer en participant à la bande originale du film « Taxi 2 », formant le collectif One shot.
+    - id: 18
+      question: Quel groupe de reggae engagé français est originaire de Grenoble ?
+      propositions:
+      - Babylon Circus
+      - Sons of Gaïa
+      - Sinsemilia
+      - Digital Cut
+      réponse: Sinsemilia
+      anecdote: Le nom du groupe évoque les plants de cannabis « sensimilia », c'est-à-dire dont les femelles n'ont pas été fécondées par un mâle.
+    - id: 19
+      question: Combien de disques Bob Marley a-t-il vendu à travers le monde ?
+      propositions:
+      - 150 millions
+      - 50 millions
+      - 200 millions
+      - 100 millions
+      réponse: 200 millions
+      anecdote: Sa musique a touché tous les publics, transcendant les genres, comme en témoigne un large culte.
+    - id: 20
+      question: Quel artiste de reggae a un nom qui désigne également un célèbre opticien ?
+      propositions:
+      - Krys
+      - Solaris
+      - Guess
+      - Afflelou
+      réponse: Krys
+      anecdote: En 2004, Krys fut « Révélation de l'année » et « Meilleur Hit Dancehall de l'année » aux NRJ Music Awards des Antilles.
+  - expert:
+    - id: 21
+      question: Quel reggae doux, au rythme moins marqué, parle d'amour et de situations sentimentales ?
+      propositions:
+      - Lovers rock
+      - One-drop
+      - Rub-a-dub
+      - Early reggae
+      réponse: Lovers rock
+      anecdote: Les artistes lovers rock britanniques actuels sont Don Campbell, Peter Huningal, Nereus Joseph ou Peter Spence.
+    - id: 22
+      question: Comment appelle-t-on le contretemps propre au reggae, marqué par un accord plaqué ?
+      propositions:
+      - Diwali
+      - Riddim
+      - Skank
+      - Singjay
+      réponse: Skank
+      anecdote: Ces accords sont qualifiés à tort d'appui sur le contre-temps, puisqu'ils tombent bel et bien sur les 2ème et 4ème temps.
+    - id: 23
+      question: Quel DJ jamaïcain de reggae a le même nom de scène qu'un célèbre acteur américain ?
+      propositions:
+      - Bruce Willis
+      - Clint Eastwood
+      - Will Smith
+      - Brad Pitt
+      réponse: Clint Eastwood
+      anecdote: de son vrai nom Robert Brammer, Clint Eastwood est un deejay jamaïcain de reggae, frère du deejay Trinity.
+    - id: 24
+      question: Quel style de reggae propose un tempo plus rapide que les autres ?
+      propositions:
+      - One-drop
+      - Early reggae
+      - Rockers
+      - Rub-a-dub
+      réponse: Early reggae
+      anecdote: Ce reggae, très nerveux et mené par le jeu de l'organiste, connut beaucoup de succès en Angleterre auprès des skinheads anglais.
+    - id: 25
+      question: Quelle vague reggae a été amorcée par la mort du grand chanteur Garnett Silk ?
+      propositions:
+      - New-roots
+      - Rub-a-dub
+      - One-drop
+      - Early reggae
+      réponse: New-roots
+      anecdote: Surnommé « L'Archange », Garnett Silk a commencé sa carrière en tant que deejay sous le nom de Little Bimbo.
+    - id: 26
+      question: Quelle est la nationalité du chanteur de reggae Ruben David Morodo Ruiz, dit Morodo ?
+      propositions:
+      - Marocaine
+      - Portugaise
+      - Grecque
+      - Espagnole
+      réponse: Espagnole
+      anecdote: Né le 1er Décembre 1979, Morodo chante un style unique de reggae avec des influences très fortement hip-hop.
+    - id: 27
+      question: Quel groupe reggae a un nom qui fait référence à un formulaire de chômage ?
+      propositions:
+      - UB40
+      - Musical Youth
+      - Symarip
+      - Aswad
+      réponse: UB40
+      anecdote: UB40 a souvent dénoncé le racisme, le chômage, les années Thatcher et la politique étrangère de domination.
+    - id: 28
+      question: Quel chanteur de reggae tient son pseudonyme au fait qu'il est albinos ?
+      propositions:
+      - Demarco
+      - Yellowman
+      - Djamatik
+      - Capleton
+      réponse: Yellowman
+      anecdote: Probablement un des meilleurs DJs de sa génération. Yellowman est un incontournable de la scène DJ rub-a-dub jamaicaine.
+    - id: 29
+      question: Quel groupe de reggae jamaïcain a été formé par les frères Ian et Roger Lewis ?
+      propositions:
+      - Musical Youth
+      - UB40
+      - Inner Circle
+      - Aswad
+      réponse: Inner Circle
+      anecdote: Les chansons les plus connues du groupe Inner Circle sont « Bad Boys » et « Sweat » (A La La La La Long).
+    - id: 30
+      question: Quelle proposition désigne un des artistes les plus célèbres de la période rub-a-dub ?
+      propositions:
+      - Clinton Fearon
+      - Apple Gabriel
+      - Maxi Priest
+      - Josey Wales
+      réponse: Josey Wales
+      anecdote: Deejay conscient et non slackness, il entra dans les charts jamaïcains en 1981 avec « Leggo Mi Hand Gateman » (1981).

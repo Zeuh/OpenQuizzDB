@@ -1,0 +1,2216 @@
+{                                     
+  "fournisseur": "OpenQuizzDB - Fournisseur de contenu libre (https://www.openquizzdb.org)",
+  "rédacteur": "Philippe Bresoux",
+  "thème": "PlayStation 2 (Console de légende)",         
+  "difficulté": "2 / 5",
+  "quizz": {
+    "fr": {
+      "débutant": [
+      {
+        "id": 1,
+        "question": "Quelle société a commercialisé la console de jeux PlayStation 2 ?",
+        "propositions": [
+          "Microsoft",
+          "Nintendo",
+          "Sony",
+          "Sega"
+        ],
+        "réponse": "Sony",
+        "anecdote": "Sony Interactive Entertainment est une filiale de Sony spécialisée dans l'industrie vidéoludique, basée à San Mateo."
+      },
+      {
+        "id": 2,
+        "question": "En quelle année la console de jeux PlayStation 2 fut-elle commercialisée en France ?",
+        "propositions": [
+          "2002",
+          "2004",
+          "2006",
+          "2000"
+        ],
+        "réponse": "2000",
+        "anecdote": "La console était alors en concurrence directe avec la Dreamcast de Sega, la GameCube de Nintendo et la Xbox de Microsoft."
+      },
+      {
+        "id": 3,
+        "question": "Dans quelle génération de l'histoire des consoles de la marque Sony se situe la PS2 ?",
+        "propositions": [
+          "Quatrième",
+          "Sixième",
+          "Troisième",
+          "Cinquième"
+        ],
+        "réponse": "Sixième",
+        "anecdote": "Cette génération a commencé en 1998 et s'est terminée en janvier 2013 avec l'arrêt de la distribution de la PlayStation 2."
+      },
+      {
+        "id": 4,
+        "question": "À quelle autre console de Sony la PlayStation 2 a-t-elle succédé ?",
+        "propositions": [
+          "Mega Drive",
+          "Saturn",
+          "PlayStation",
+          "Neo-Geo"
+        ],
+        "réponse": "PlayStation",
+        "anecdote": "Le 18 mai 2004, soit près de dix ans après son lancement, Sony annonce avoir distribué 100 millions de PlayStation dans le monde."
+      },
+      {
+        "id": 5,
+        "question": "À sa sortie, quel média la PlayStation 2 pouvait-elle lire de manière innovante ?",
+        "propositions": [
+          "Blue-ray",
+          "Midi Disc",
+          "DVD",
+          "Optical disc"
+        ],
+        "réponse": "DVD",
+        "anecdote": "À cette époque, inclure de série la lecture des DVD (format alors tout récent) dans ce type d'appareil était une innovation importante."
+      },
+      {
+        "id": 6,
+        "question": "Quelle variante esthétique de la PlayStation 2 est sortie en 2004 ?",
+        "propositions": [
+          "PS2 Fat",
+          "PS2 Slim",
+          "PS2 Grid",
+          "PS2 Boy"
+        ],
+        "réponse": "PS2 Slim",
+        "anecdote": "Ce nouveau modèle à la silhouette affinée fut introduit le 1er novembre 2004 en Amérique du Nord et en Europe."
+      },
+      {
+        "id": 7,
+        "question": "Quelle saga fut la plus vendue parmi les jeux vidéos disponibles sur la PS2 ?",
+        "propositions": [
+          "Dragon Quest",
+          "God of War",
+          "Gran Theft Auto",
+          "Final Fantasy"
+        ],
+        "réponse": "Gran Theft Auto",
+        "anecdote": "En raison de son contenu violent et de la présence d'un mini-jeu sexuel, le jeu a été interdit aux moins de 18 ans."
+      },
+      {
+        "id": 8,
+        "question": "Comment était qualifiée la PS2, acceptant les jeux PlayStation ?",
+        "propositions": [
+          "Ascensionnelle",
+          "Rétrocompatible",
+          "Admissive",
+          "Autopilotée"
+        ],
+        "réponse": "Rétrocompatible",
+        "anecdote": "Les problèmes de compatibilité sont fréquents en informatique en raison de la rapidité de l'évolution du matériel et des logiciels."
+      },
+      {
+        "id": 9,
+        "question": "Quelle manette de jeu officielle reprenait l'apparence de la DualShock ?",
+        "propositions": [
+          "Wavebird",
+          "Kinect",
+          "DualShock 2",
+          "Bongo DK"
+        ],
+        "réponse": "DualShock 2",
+        "anecdote": "Les boutons sont devenus analogiques (sauf L3, R3 et Analog) et la manette produisait deux niveaux de vibrations supplémentaires."
+      },
+      {
+        "id": 10,
+        "question": "Quels micros pouvait-on connecter à la PS2 pour la transformer en dispositif de karaoké ?",
+        "propositions": [
+          "SingStar",
+          "KaraMic",
+          "Kinec",
+          "DualShock"
+        ],
+        "réponse": "SingStar",
+        "anecdote": "« SingStar » est une série de jeux vidéo de karaoké développée par SCE London Studio et éditée par Sony Computer Entertainment."
+      }
+    ],
+    "confirmé": [
+      {
+        "id": 11,
+        "question": "Avec quelle console de Sega la PlayStation 2 était-elle en concurrence directe ?",
+        "propositions": [
+          "Xbox",
+          "Saturn",
+          "GameCube",
+          "Dreamcast"
+        ],
+        "réponse": "Dreamcast",
+        "anecdote": "Successeur de la Saturn, la Dreamcast était la première console de sixième génération présente sur le marché, avant ses concurrents."
+      },
+      {
+        "id": 12,
+        "question": "Combien de PS2 furent vendues deux jours seulement après sa sortie au Japon ?",
+        "propositions": [
+          "360 000",
+          "980 000",
+          "790 000",
+          "560 000"
+        ],
+        "réponse": "980 000",
+        "anecdote": "La PlayStation 2, console de salon la plus vendue, atteint un total de 150 millions d'exemplaires expédiés en date du 31 janvier 2011."
+      },
+      {
+        "id": 13,
+        "question": "Combien existe-t-il de titres de jeux vidéos disponibles dans le catalogue de la PS2 ?",
+        "propositions": [
+          "6 742",
+          "8 627",
+          "4 996",
+          "10 828"
+        ],
+        "réponse": "10 828",
+        "anecdote": "Sony affirme que 1,52 milliard d'exemplaires de ces titres ont été vendus depuis le lancement de la console le 4 mars 2000."
+      },
+      {
+        "id": 14,
+        "question": "Quel était le prix de lancement de la PlayStation 2 en France ?",
+        "propositions": [
+          "620 ",
+          "740 ",
+          "560 ",
+          "450 "
+        ],
+        "réponse": "450 ",
+        "anecdote": "Le prix de la console fut ramené à 300 en 2001, à 249 en 2003, à 199 en 2004, à 149 en 2005, à 129 en 2006 et à 99 en 2009."
+      },
+      {
+        "id": 15,
+        "question": "Combien de jeux étaient disponibles à la sortie de la PS2 au Japon ?",
+        "propositions": [
+          "Trente",
+          "Dix",
+          "Vingt",
+          "Quarante"
+        ],
+        "réponse": "Dix",
+        "anecdote": "Parmi ces jeux, on note « Dead or Alive 2 », « Dynasty Warriors 2 », « FIFA 2001 », « Kessen », « Madden NFL 2001 », « Midnight Club » et « Ridge Racer V »."
+      },
+      {
+        "id": 16,
+        "question": "En quelle année la production de PS2 fut-elle arrêtée dans le monde ?",
+        "propositions": [
+          "2015",
+          "2016",
+          "2014",
+          "2013"
+        ],
+        "réponse": "2013",
+        "anecdote": "La production de la console fut arrêtée le 30 novembre 2012 et Sony annonça cesser toute distribution sur le territoire japonais dès 2013."
+      },
+      {
+        "id": 17,
+        "question": "Combien de processeurs principaux comprenait la PlayStation 2 ?",
+        "propositions": [
+          "Deux",
+          "Cinq",
+          "Trois",
+          "Quatre"
+        ],
+        "réponse": "Trois",
+        "anecdote": "La PlayStation 2 présentait de nombreux processeurs à utiliser en parallèle, ce qui en faisait une console plutôt difficile à programmer."
+      },
+      {
+        "id": 18,
+        "question": "Comment furent appelées les versions dites éditeur des jeux PS2 ?",
+        "propositions": [
+          "Spare Disc",
+          "Blue Disc",
+          "Ed Disc",
+          "Go Disc"
+        ],
+        "réponse": "Blue Disc",
+        "anecdote": "Ces versions particulières des jeux PS2 étaient réservées aux professionnels et notamment aux démonstrations en magasin."
+      },
+      {
+        "id": 19,
+        "question": "Quel système d'exploitation pouvait être installé sur la PS2 ?",
+        "propositions": [
+          "Windows",
+          "Android",
+          "Mac OS",
+          "Linux"
+        ],
+        "réponse": "Linux",
+        "anecdote": "Sony a lancé un kit comprenant un disque dur de 20 Go, une souris, un clavier, une carte ethernet, deux DVD et une distribution Linux."
+      },
+      {
+        "id": 20,
+        "question": "Quel était le poids allégé du modèle Slim de la PlayStation 2 ?",
+        "propositions": [
+          "1 500 g",
+          "600 g",
+          "1 200 g",
+          "900 g"
+        ],
+        "réponse": "900 g",
+        "anecdote": "Cette modification est associée à l'externalisation du boîtier d'alimentation et la suppression du bouton ON/OFF à l'arrière."
+      }
+    ],
+    "expert": [
+      {
+        "id": 21,
+        "question": "Quel fut le premier titre de « FIFA » à ne pas sortir sur PlayStation ?",
+        "propositions": [
+          "FIFA 08",
+          "FIFA 09",
+          "FIFA 07",
+          "FIFA 06"
+        ],
+        "réponse": "FIFA 06",
+        "anecdote": "Le jeu fut disponible sur PlayStation 2, Xbox, GameCube, Microsoft Windows, Game Boy Advance, Nintendo DS et PlayStation Portable."
+      },
+      {
+        "id": 22,
+        "question": "Quelle technologie intégrait la Memory Card de 8 MB destinée à la PS2 ?",
+        "propositions": [
+          "Denuvo",
+          "CGMS",
+          "Viaccess",
+          "MagicGate"
+        ],
+        "réponse": "MagicGate",
+        "anecdote": "MagicGate est un système de protection créé et introduit en 1999 par Sony dans ses cartes mémoires, en particulier ses Memory Stick."
+      },
+      {
+        "id": 23,
+        "question": "Quelle était la capacité de la mémoire interne de la PlayStation 2 ?",
+        "propositions": [
+          "8 Mo",
+          "4 Mo",
+          "32 Mo",
+          "16 Mo"
+        ],
+        "réponse": "32 Mo",
+        "anecdote": "La technologie avancée pour l'époque de la PlayStation 2 a permis à Sony de pouvoir écouler un peu moins de 2 milliards de jeux."
+      },
+      {
+        "id": 24,
+        "question": "Quel ingénieur japonais a mené à bien le développement de la PlayStation 2 ?",
+        "propositions": [
+          "Hiromu Naruse",
+          "Ken Kutaragi",
+          "Yamao Yozo",
+          "Hideo Shima"
+        ],
+        "réponse": "Ken Kutaragi",
+        "anecdote": "Il a ouvert le studio Cellius, filiale à 51 % de Namco Bandai et 49 % de Sony, dont les activités sont centrées autour du processeur Cell."
+      },
+      {
+        "id": 25,
+        "question": "Quel jeu de tir édité par Konami est sorti en 2000 sur PS2 ?",
+        "propositions": [
+          "Silent Scope",
+          "Frogger",
+          "Parodius",
+          "Castlevania"
+        ],
+        "réponse": "Silent Scope",
+        "anecdote": "Se jouant avec un fusil en arcade, les versions consoles étaient dépourvues d'un tel accessoire, ce qui en réduira l'intérêt."
+      },
+      {
+        "id": 26,
+        "question": "Quel nom portait le processeur central de la PlayStation 2 de Sony ?",
+        "propositions": [
+          "I/O Processor",
+          "Emotion Engine",
+          "Mach Device",
+          "Graphics Synthetizer"
+        ],
+        "réponse": "Emotion Engine",
+        "anecdote": "Il contient plusieurs sous-processeurs et circuits spécialisés qui sont reliés par un bus interne de 128 bits, cadencé à 150 Mhz."
+      },
+      {
+        "id": 27,
+        "question": "Combien de polygones nus la PS2 pouvait-elle calculer par seconde ?",
+        "propositions": [
+          "40 000",
+          "7 000",
+          "66 000 000",
+          "800"
+        ],
+        "réponse": "66 000 000",
+        "anecdote": "Le FPU et les unités de calcul vectoriel 128 bits VU0 et VU1 permettaient à la console d'atteindre 6,2 GFLOPS."
+      },
+      {
+        "id": 28,
+        "question": "Quelle station multimédia fut lancée par Sony au Japon en 2003 ?",
+        "propositions": [
+          "PSX",
+          "PSG",
+          "PSM",
+          "PSR"
+        ],
+        "réponse": "PSX",
+        "anecdote": "Elle faisait office de console de jeu PlayStation et PlayStation 2, de graveur DVD, de tuner Télé et de numériscope via son disque dur."
+      },
+      {
+        "id": 29,
+        "question": "Quelle petite caméra adaptable pour la PS2 fut développée par Sony ?",
+        "propositions": [
+          "EyeToy",
+          "SmallCam",
+          "FunPlay",
+          "Kinect"
+        ],
+        "réponse": "EyeToy",
+        "anecdote": "L'EyeToy était principalement fabriquée par Logitech, même si de nouvelles versions furent développées par la suite par Nam Tai."
+      },
+      {
+        "id": 30,
+        "question": "Dans quelle saga utilise-t-on un appareil photo aux pouvoirs mystiques ?",
+        "propositions": [
+          "Forbidden Siren",
+          "BioShock",
+          "Dead Rising",
+          "Project Zero"
+        ],
+        "réponse": "Project Zero",
+        "anecdote": "Un des meilleurs jeux d'horreur, ou le meilleur ? Quoi qu'il en soit, il est très effrayant, même si vous jouez à la lumière du jour."
+      }
+    ]
+    },
+    "en": {
+      "débutant": [
+      {
+        "id": 1,
+        "question": "Which company has commercialized the PlayStation 2 game console ?",
+        "propositions": [
+          "Microsoft",
+          "Nintendo",
+          "Sony",
+          "Sega"
+        ],
+        "réponse": "Sony",
+        "anecdote": "Sony Interactive Entertainment is a subsidiary of Sony specializing in the video industry, based in San Mateo."
+      },
+      {
+        "id": 2,
+        "question": "In which year was the PlayStation 2 game console marketed in France ?",
+        "propositions": [
+          "2004",
+          "2002",
+          "2000",
+          "2006"
+        ],
+        "réponse": "2000",
+        "anecdote": "The console was in direct competition with the Sega Dreamcast, the Nintendo GameCube and the Microsoft Xbox."
+      },
+      {
+        "id": 3,
+        "question": "In what generation of Sony brand consoles is the PS2 ?",
+        "propositions": [
+          "Sixth",
+          "Third",
+          "Fourth",
+          "Fifth"
+        ],
+        "réponse": "Sixth",
+        "anecdote": "This generation began in 1998 and ended in January 2013 with the discontinuation of the PlayStation 2 distribution."
+      },
+      {
+        "id": 4,
+        "question": "To which other console of Sony the PlayStation 2 she succeeded ?",
+        "propositions": [
+          "Saturn",
+          "Mega Drive",
+          "Neo-Geo",
+          "PlayStation"
+        ],
+        "réponse": "PlayStation",
+        "anecdote": "On May 18, 2004, almost ten years after its launch, Sony announces it has distributed 100 million PlayStation worldwide."
+      },
+      {
+        "id": 5,
+        "question": "When it came out, which media could the PlayStation 2 read in an innovative way ?",
+        "propositions": [
+          "Midi Disc",
+          "Optical disc",
+          "DVD",
+          "Blue-ray"
+        ],
+        "réponse": "DVD",
+        "anecdote": "At that time, including serial DVD playback (then all-new format) in this type of device was an important innovation."
+      },
+      {
+        "id": 6,
+        "question": "What aesthetic variant of the PlayStation 2 came out in 2004 ?",
+        "propositions": [
+          "PS2 Grid",
+          "PS2 Slim",
+          "PS2 Boy",
+          "PS2 Fat"
+        ],
+        "réponse": "PS2 Slim",
+        "anecdote": "This new slim silhouette model was introduced on November 1, 2004 in North America and Europe."
+      },
+      {
+        "id": 7,
+        "question": "Which saga was the most sold among the video games available on the PS2 ?",
+        "propositions": [
+          "Final Fantasy",
+          "Dragon Quest",
+          "Gran Theft Auto",
+          "God of War"
+        ],
+        "réponse": "Gran Theft Auto",
+        "anecdote": "Because of its violent content and the presence of a sexual minigame, the game has been banned under 18 years old."
+      },
+      {
+        "id": 8,
+        "question": "How was the PS2 qualified, accepting PlayStation games ?",
+        "propositions": [
+          "Autopiloted",
+          "Ascensional",
+          "Admissive",
+          "Refurbishable"
+        ],
+        "réponse": "Refurbishable",
+        "anecdote": "Compatibility issues are common in computer because of the rapid evolution of hardware and software."
+      },
+      {
+        "id": 9,
+        "question": "Which official gamepad took the appearance of the DualShock ?",
+        "propositions": [
+          "Bongo DK",
+          "DualShock 2",
+          "Kinect",
+          "Wavebird"
+        ],
+        "réponse": "DualShock 2",
+        "anecdote": "The buttons became analog (except L3, R3 and Analog) and the controller produced two levels of extra vibration."
+      },
+      {
+        "id": 10,
+        "question": "Which microphones could you connect to the PS2 to turn it into a karaoke device ?",
+        "propositions": [
+          "KaraMic",
+          "SingStar",
+          "DualShock",
+          "Kinec"
+        ],
+        "réponse": "SingStar",
+        "anecdote": "« SingStar » is a series of karaoke video games developed by SCE London Studio and published by Sony Computer Entertainment."
+      }
+    ],
+    "confirmé": [
+      {
+        "id": 11,
+        "question": "With which console of Sega the PlayStation 2 was in direct competition ?",
+        "propositions": [
+          "Dreamcast",
+          "Xbox",
+          "Saturn",
+          "GameCube"
+        ],
+        "réponse": "Dreamcast",
+        "anecdote": "Successor to the Saturn, the Dreamcast was the first six generation console on the market, ahead of its competitors."
+      },
+      {
+        "id": 12,
+        "question": "How many PS2 were sold just two days after it was released in Japan ?",
+        "propositions": [
+          "980 000",
+          "560 000",
+          "790 000",
+          "360,000"
+        ],
+        "réponse": "980 000",
+        "anecdote": "The PlayStation 2, the best-selling home console, has a total of 150 million copies shipped as of January 31, 2011."
+      },
+      {
+        "id": 13,
+        "question": "How many video game titles are available in the PS2 catalog ?",
+        "propositions": [
+          "10 828",
+          "4 996",
+          "6 742",
+          "8 627"
+        ],
+        "réponse": "10 828",
+        "anecdote": "Sony claims that 1.52 billion copies of these titles have been sold since the launch of the console on March 4, 2000."
+      },
+      {
+        "id": 14,
+        "question": "What was the launch price of the PlayStation 2 in France ?",
+        "propositions": [
+          "620 ",
+          "560 ",
+          "740 ",
+          "450 "
+        ],
+        "réponse": "450 ",
+        "anecdote": "The price of the console was reduced to 300 in 2001, 249 in 2003, 199 in 2004, 149 in 2005, 129 in 2006 and99 in 2009."
+      },
+      {
+        "id": 15,
+        "question": "How many games were available at the release of the PS2 in Japan ?",
+        "propositions": [
+          "Ten",
+          "Trento",
+          "Forty",
+          "Twenty"
+        ],
+        "réponse": "Ten",
+        "anecdote": "Among these games are « Dead or Alive 2 », « Dynasty Warriors 2 », « FIFA 2001 », « Kessen », « Madden NFL 2001 », « Midnight Club » and « Ridge Racer V »."
+      },
+      {
+        "id": 16,
+        "question": "In which year was the production of PS2 stopped in the world ?",
+        "propositions": [
+          "2016",
+          "2014",
+          "2015",
+          "2013"
+        ],
+        "réponse": "2013",
+        "anecdote": "The production of the console was stopped on November 30, 2012 and Sony announced cease all distribution on the Japanese territory since 2013."
+      },
+      {
+        "id": 17,
+        "question": "How many main processors included the PlayStation 2 ?",
+        "propositions": [
+          "Three",
+          "Five",
+          "Two",
+          "Four"
+        ],
+        "réponse": "Three",
+        "anecdote": "The PlayStation 2 had many processors to use in parallel, which made it a console rather difficult to program."
+      },
+      {
+        "id": 18,
+        "question": "What were the so-called PS2 games publisher versions called ?",
+        "propositions": [
+          "Go Disc",
+          "Spare Disc",
+          "Ed Disc",
+          "Blue Disc"
+        ],
+        "réponse": "Blue Disc",
+        "anecdote": "These special versions of PS2 games were reserved for professionals and especially for in-store demonstrations."
+      },
+      {
+        "id": 19,
+        "question": "Which operating system could be installed on the PS2 ?",
+        "propositions": [
+          "Android",
+          "Linux",
+          "Windows",
+          "Mac OS"
+        ],
+        "réponse": "Linux",
+        "anecdote": "Sony has launched a kit including a 20 GB hard drive, a mouse, a keyboard, an ethernet card, two DVDs and a Linux distribution."
+      },
+      {
+        "id": 20,
+        "question": "What was the weight of the slim model of the PlayStation 2 ?",
+        "propositions": [
+          "1200 g",
+          "900 g",
+          "600 g",
+          "1500 g"
+        ],
+        "réponse": "900 g",
+        "anecdote": "This change is associated with the externalization of the power box and the removal of the ON / OFF button at the back."
+      }
+    ],
+    "expert": [
+      {
+        "id": 21,
+        "question": "What was the first title of « FIFA » not to be released on PlayStation ?",
+        "propositions": [
+          "FIFA 06",
+          "FIFA 07",
+          "FIFA 09",
+          "FIFA 07"
+        ],
+        "réponse": "FIFA 06",
+        "anecdote": "The game was available on PlayStation 2, Xbox, GameCube, Microsoft Windows, Gameboy Advance, Nintendo DS and PlayStation Portable."
+      },
+      {
+        "id": 22,
+        "question": "What technology was the 8 MB memory card for the PS2 ?",
+        "propositions": [
+          "CGMS",
+          "Denuvo",
+          "Viaccess",
+          "MagicGate"
+        ],
+        "réponse": "MagicGate",
+        "anecdote": "MagicGate is a protection system created and introduced in 1999 by Sony in its memory cards, especially its Memory Stick."
+      },
+      {
+        "id": 23,
+        "question": "What was the capacity of the internal memory of the PlayStation 2 ?",
+        "propositions": [
+          "8 MB",
+          "32 MB",
+          "16 MB",
+          "4 MB"
+        ],
+        "réponse": "32 MB",
+        "anecdote": "Advanced technology for the era of PlayStation 2 has allowed Sony to run a little less than 2 billion games."
+      },
+      {
+        "id": 24,
+        "question": "Which Japanese engineer led the development of PlayStation 2 ?",
+        "propositions": [
+          "Hideo Shima",
+          "Ken Kutaragi",
+          "Yamao Yozo",
+          "Hiromu Naruse"
+        ],
+        "réponse": "Ken Kutaragi",
+        "anecdote": "He opened the studio Cellius, a 51 % subsidiary of Namco Bandai and 49 % of Sony, whose activities are centered around the Cell processor."
+      },
+      {
+        "id": 25,
+        "question": "Which shooter game was released by Konami in 2000 on PS2 ?",
+        "propositions": [
+          "Frogger",
+          "Parodius",
+          "Silent Scope",
+          "Castlevania"
+        ],
+        "réponse": "Silent Scope",
+        "anecdote": "Playing with an arcade rifle, the console versions were lacking such an accessory, which will reduce the interest."
+      },
+      {
+        "id": 26,
+        "question": "What name was the central processor of the Sony PlayStation 2 ?",
+        "propositions": [
+          "Mach Device",
+          "I / O Processor",
+          "Graphics Synthetiser",
+          "Emotion Engine"
+        ],
+        "réponse": "Emotion Engine",
+        "anecdote": "It contains several sub-processors and specialized circuits which are connected by a 128-bit internal bus, clocked at 150Mhz."
+      },
+      {
+        "id": 27,
+        "question": "How many polygons could PS2 calculate per second ?",
+        "propositions": [
+          "800",
+          "66,000,000",
+          "7,000",
+          "40,000"
+        ],
+        "réponse": "66,000,000",
+        "anecdote": "The FPU and the 128-bit VU0 and VU1 vector computing units allowed the console to reach 6.2 GFLOPS."
+      },
+      {
+        "id": 28,
+        "question": "Which multimedia station was launched by Sony in Japan in 2003 ?",
+        "propositions": [
+          "PSR",
+          "PSG",
+          "PSX",
+          "PSM"
+        ],
+        "réponse": "PSX",
+        "anecdote": "It served as a PlayStation and PlayStation 2 game console, DVD burner, TV tuner and digital player via its hard disk."
+      },
+      {
+        "id": 29,
+        "question": "What small adaptable camera for the PS2 was developed by Sony ?",
+        "propositions": [
+          "FunPlay",
+          "Kinect",
+          "SmallCam",
+          "EyeToy"
+        ],
+        "réponse": "EyeToy",
+        "anecdote": "The EyeToy was mainly manufactured by Logitech, although new versions were later developed by Nam Tai."
+      },
+      {
+        "id": 30,
+        "question": "In what saga do we use a camera with mystic powers ?",
+        "propositions": [
+          "Dead Rising",
+          "Project Zero",
+          "BioShock",
+          "Forbidden Siren"
+        ],
+        "réponse": "Project Zero",
+        "anecdote": "One of the best horror games, or the best ? Anyway, it is very scary even if you play in the light of day."
+      }
+    ]
+    },
+    "de": {
+      "débutant": [
+      {
+        "id": 1,
+        "question": "Welches Unternehmen hat die PlayStation 2-Spielekonsole vermarktet ?",
+        "propositions": [
+          "Sony",
+          "Microsoft",
+          "Nintendo",
+          "Sega"
+        ],
+        "réponse": "Sony",
+        "anecdote": "Sony Interactive Entertainment ist eine Tochtergesellschaft von Sony in der Videospielbranche mit Sitz in San Mateo."
+      },
+      {
+        "id": 2,
+        "question": "In welchem Jahr wurde die PlayStation 2-Spielekonsole in Frankreich vermarktet ?",
+        "propositions": [
+          "2006",
+          "2002",
+          "2000",
+          "2004"
+        ],
+        "réponse": "2000",
+        "anecdote": "Die Konsole stand in direkter Konkurrenz zu Sega Dreamcast, Nintendo GameCube und Microsoft Xbox."
+      },
+      {
+        "id": 3,
+        "question": "In welcher Generation von Sony-Markenkonsolen steckt die PS2 ?",
+        "propositions": [
+          "Fünfter",
+          "Viertens",
+          "Sechste",
+          "Drittens"
+        ],
+        "réponse": "Sechste",
+        "anecdote": "Diese Generation begann 1998 und endete im Januar 2013 mit der Einstellung der PlayStation 2-Distribution."
+      },
+      {
+        "id": 4,
+        "question": "Welcher anderen Konsole von Sony der PlayStation 2 ist sie gelungen ?",
+        "propositions": [
+          "Neo-Geo",
+          "Mega Drive",
+          "Saturn",
+          "PlayStation"
+        ],
+        "réponse": "PlayStation",
+        "anecdote": "Am 18. Mai 2004, fast ein Jahrzehnt nach dem Start, gab Sony bekannt, dass 100 Millionen PlayStations weltweit vertrieben wurden."
+      },
+      {
+        "id": 5,
+        "question": "Welche Medien konnte die PlayStation 2 beim Erscheinen auf innovative Weise lesen ?",
+        "propositions": [
+          "Blue-ray",
+          "DVD",
+          "Optische Platte",
+          "Midi Disc"
+        ],
+        "réponse": "DVD",
+        "anecdote": "Zu dieser Zeit war es wichtig, die DVD-Wiedergabe (damals ein sehr aktuelles Format) in diesen Gerätetyp aufzunehmen."
+      },
+      {
+        "id": 6,
+        "question": "Welche ästhetische Variante der PlayStation 2 ist 2004 herausgekommen ?",
+        "propositions": [
+          "PS2 Boy",
+          "PS2 Grid",
+          "PS2 Slim",
+          "PS2 Fett"
+        ],
+        "réponse": "PS2 Slim",
+        "anecdote": "Dieses neue schlanke Modell wurde am 1. November 2004 in Nordamerika und Europa eingeführt."
+      },
+      {
+        "id": 7,
+        "question": "Welche Saga wurde unter den auf der PS2 verfügbaren Videospielen am meisten verkauft ?",
+        "propositions": [
+          "Final Fantasy",
+          "Drachenquest",
+          "Gott des Krieges",
+          "Gran Theft Auto"
+        ],
+        "réponse": "Gran Theft Auto",
+        "anecdote": "Aufgrund seines gewalttätigen Inhalts und des Vorhandenseins eines sexuellen Minispiels ist das Spiel seit weniger als 18 Jahren verboten."
+      },
+      {
+        "id": 8,
+        "question": "Wie wurde die PS2 für PlayStation-Spiele qualifiziert ?",
+        "propositions": [
+          "Überholbar",
+          "Ascensional",
+          "Autopilot",
+          "Unterwürfig"
+        ],
+        "réponse": "Überholbar",
+        "anecdote": "Kompatibilitätsprobleme treten bei Computern häufig auf, da sich Hardware und Software rasant weiterentwickeln."
+      },
+      {
+        "id": 9,
+        "question": "Welches offizielle Gamepad hat das Erscheinungsbild des DualShock angenommen ?",
+        "propositions": [
+          "Wavebird",
+          "DualShock 2",
+          "Kinect",
+          "Bongo DK"
+        ],
+        "réponse": "DualShock 2",
+        "anecdote": "Die Tasten wurden analog (außer L3, R3 und Analog) und der Controller erzeugte zwei zusätzliche Vibrationsstufen."
+      },
+      {
+        "id": 10,
+        "question": "Welche Mikrofone könnten Sie an die PS2 anschließen, um daraus ein Karaoke-Gerät zu machen ?",
+        "propositions": [
+          "DualShock",
+          "Kinec",
+          "SingStar",
+          "KaraMic"
+        ],
+        "réponse": "SingStar",
+        "anecdote": "« SingStar » ist eine Reihe von Karaoke-Videospielen, die von SCE London Studio entwickelt und von Sony Computer Entertainment veröffentlicht wurden."
+      }
+    ],
+    "confirmé": [
+      {
+        "id": 11,
+        "question": "Mit welcher Konsole von Sega stand die PlayStation 2 in direkter Konkurrenz ?",
+        "propositions": [
+          "Xbox",
+          "Saturn",
+          "Dreamcast",
+          "GameCube"
+        ],
+        "réponse": "Dreamcast",
+        "anecdote": "Als Nachfolger des Saturn war der Dreamcast die erste Konsole der sechsten Generation auf dem Markt vor seinen Konkurrenten."
+      },
+      {
+        "id": 12,
+        "question": "Wie viele PS2 wurden nur zwei Tage nach der Veröffentlichung in Japan verkauft ?",
+        "propositions": [
+          "360.000",
+          "790 000",
+          "560 000",
+          "980 000"
+        ],
+        "réponse": "980 000",
+        "anecdote": "Mit der PlayStation 2, der meistverkauften Heimkonsole, wurden zum 31."
+      },
+      {
+        "id": 13,
+        "question": "Wie viele Videospieltitel sind im PS2-Katalog verfügbar ?",
+        "propositions": [
+          "4 996",
+          "8 627",
+          "6 742",
+          "10 828"
+        ],
+        "réponse": "10 828",
+        "anecdote": "Nach Angaben von Sony wurden seit dem Start der Konsole am 4. März 2000 1,52 Milliarden Exemplare dieser Titel verkauft."
+      },
+      {
+        "id": 14,
+        "question": "Was war der Einführungspreis der PlayStation 2 in Frankreich ?",
+        "propositions": [
+          "740 ",
+          "620 ",
+          "450 ",
+          "560 "
+        ],
+        "réponse": "450 ",
+        "anecdote": "Der Preis für die Konsole wurde 2001 auf 300 gesenkt, 2003 auf 249, 2004 auf 199, 2005 auf 149, 2006 auf 129 und 2009 auf 99."
+      },
+      {
+        "id": 15,
+        "question": "Wie viele Spiele waren bei der Veröffentlichung der PS2 in Japan verfügbar ?",
+        "propositions": [
+          "Vierzig",
+          "Zehn",
+          "Zwanzig",
+          "Trento"
+        ],
+        "réponse": "Zehn",
+        "anecdote": "Zu diesen Spielen gehören « Dead or Alive 2 », « Dynasty Warriors 2 », « FIFA 2001 » und « Kessen », « Madden NFL 2001 », « Midnight Club » und « Ridge Racer V »."
+      },
+      {
+        "id": 16,
+        "question": "Wann wurde die Produktion von PS2 weltweit eingestellt ?",
+        "propositions": [
+          "2014",
+          "2013",
+          "2015",
+          "2016"
+        ],
+        "réponse": "2013",
+        "anecdote": "Die Produktion der Konsole wurde am 30. November 2012 eingestellt und Sony kündigte an, den Vertrieb auf japanischem Gebiet ab 2013 einzustellen."
+      },
+      {
+        "id": 17,
+        "question": "Wie viele Hauptprozessoren hat die PlayStation 2 enthalten ?",
+        "propositions": [
+          "Zwei",
+          "Fünf",
+          "Drei",
+          "Vier"
+        ],
+        "réponse": "Drei",
+        "anecdote": "Die PlayStation 2 verfügte über viele Prozessoren, die parallel verwendet werden konnten, was die Programmierung einer Konsole erschwerte."
+      },
+      {
+        "id": 18,
+        "question": "Wie hießen die sogenannten Publisher-Versionen von PS2-Spielen ?",
+        "propositions": [
+          "Go Disc",
+          "Ed Disc",
+          "Ersatzscheibe",
+          "Blaue Scheibe"
+        ],
+        "réponse": "Blaue Scheibe",
+        "anecdote": "Diese speziellen Versionen von PS2-Spielen waren Profis vorbehalten, einschließlich Vorführungen im Geschäft."
+      },
+      {
+        "id": 19,
+        "question": "Welches Betriebssystem könnte auf der PS2 installiert sein ?",
+        "propositions": [
+          "Mac OS",
+          "Windows",
+          "Linux",
+          "Android"
+        ],
+        "réponse": "Linux",
+        "anecdote": "Sony hat ein Kit herausgebracht, das eine 20-GB-Festplatte, eine Maus, eine Tastatur, eine Ether-Karte, zwei DVDs und eine Linux-Distribution enthält."
+      },
+      {
+        "id": 20,
+        "question": "Wie schwer war das schlanke Modell der PlayStation 2 ?",
+        "propositions": [
+          "600 g",
+          "1200 g",
+          "1500 g",
+          "900 g"
+        ],
+        "réponse": "900 g",
+        "anecdote": "Diese Änderung ist mit der Externalisierung der Power Box und dem Entfernen des EIN / AUS-Tasters auf der Rückseite verbunden."
+      }
+    ],
+    "expert": [
+      {
+        "id": 21,
+        "question": "Was war der erste Titel von « FIFA », der nicht auf PlayStation veröffentlicht wurde ?",
+        "propositions": [
+          "FIFA 07",
+          "FIFA 06",
+          "FIFA 07",
+          "FIFA 09"
+        ],
+        "réponse": "FIFA 06",
+        "anecdote": "Das Spiel war für PlayStation 2, Xbox, GameCube, Microsoft Windows, Game Boy Advance, Nintendo DS und PlayStation Portable verfügbar."
+      },
+      {
+        "id": 22,
+        "question": "Welche Technologie integriert die 8 MB Speicherkarte für die PS2 ?",
+        "propositions": [
+          "MagicGate",
+          "Denuvo",
+          "Viaccess",
+          "CGMS"
+        ],
+        "réponse": "MagicGate",
+        "anecdote": "MagicGate ist ein Schutzsystem, das 1999 von Sony für seine Speicherkarten, insbesondere seinen Memory Stick, entwickelt und eingeführt wurde."
+      },
+      {
+        "id": 23,
+        "question": "Wie groß war der interne Speicher der PlayStation 2 ?",
+        "propositions": [
+          "4 MB",
+          "8 MB",
+          "16 MB",
+          "32 MB"
+        ],
+        "réponse": "32 MB",
+        "anecdote": "Dank fortschrittlicher Technologie für die Ära von PlayStation 2 konnte Sony etwas weniger als 2 Milliarden Spiele ausführen."
+      },
+      {
+        "id": 24,
+        "question": "Welcher japanische Ingenieur hat die Entwicklung von PlayStation 2 geleitet ?",
+        "propositions": [
+          "Hiromu Naruse",
+          "Hideo Shima",
+          "Ken Kutaragi",
+          "Yamao Yozo"
+        ],
+        "réponse": "Ken Kutaragi",
+        "anecdote": "Es eröffnete das Studio Cellius, eine Tochtergesellschaft von 51 % von Namco Bandai und 49 % von Sony, deren Aktivitäten sich um den Prozessor Cell drehen."
+      },
+      {
+        "id": 25,
+        "question": "Welches Shooter-Spiel ",
+        "propositions": [
+          "Castlevania",
+          "Parodius",
+          "Frogger",
+          "Silent Scope"
+        ],
+        "réponse": "Silent Scope",
+        "anecdote": "Bei den Konsolenversionen, die mit einem Arcade-Gewehr spielten, fehlte ein solches Zubehör, was das Interesse verringern würde."
+      },
+      {
+        "id": 26,
+        "question": "Wie hieß der Zentralprozessor der Sony PlayStation 2 ?",
+        "propositions": [
+          "E / A-Prozessor",
+          "Emotion Engine",
+          "Mach Device",
+          "Grafiksynthetisierer"
+        ],
+        "réponse": "Emotion Engine",
+        "anecdote": "Es enthält mehrere Subprozessoren und spezialisierte Schaltkreise, die über einen internen 128-Bit-Bus mit einer Taktfrequenz von 150 MHz verbunden sind."
+      },
+      {
+        "id": 27,
+        "question": "Wie viele Polygone nackt die PS2 könnte sie pro Sekunde berechnen ?",
+        "propositions": [
+          "800",
+          "7.000",
+          "66.000.000",
+          "40.000"
+        ],
+        "réponse": "66.000.000",
+        "anecdote": "Mit der FPU und den 128-Bit-VU0- und VU1-Vektorrecheneinheiten konnte die Konsole 6,2 GFLOPS erreichen."
+      },
+      {
+        "id": 28,
+        "question": "Welche Multimedia-Station wurde 2003 von Sony in Japan gestartet ?",
+        "propositions": [
+          "PSG",
+          "PSM",
+          "PSR",
+          "PSX"
+        ],
+        "réponse": "PSX",
+        "anecdote": "Es diente als PlayStation- und PlayStation 2-Spielekonsole, DVD-Brenner, TV-Tuner und digitaler Player über seine Festplatte."
+      },
+      {
+        "id": 29,
+        "question": "Welche kleine anpassungsfähige Kamera für die PS2 wurde von Sony entwickelt ?",
+        "propositions": [
+          "SmallCam",
+          "FunPlay",
+          "Kinect",
+          "EyeToy"
+        ],
+        "réponse": "EyeToy",
+        "anecdote": "Das EyeToy wurde hauptsächlich von Logitech hergestellt, neue Versionen wurden jedoch später von Nam Tai entwickelt."
+      },
+      {
+        "id": 30,
+        "question": "In welcher Saga benutzen wir eine Kamera mit mystischen Kräften ?",
+        "propositions": [
+          "BioShock",
+          "Dead Rising",
+          "Project Zero",
+          "Verbotene Sirene"
+        ],
+        "réponse": "Project Zero",
+        "anecdote": "Eines der besten Horrorspiele oder das beste ? Auf jeden Fall ist es sehr beängstigend, auch wenn Sie im Licht des Tages spielen."
+      }
+    ]
+    },
+    "es": {
+      "débutant": [
+      {
+        "id": 1,
+        "question": "¿Qué compañía ha comercializado la consola de juegos PlayStation 2 ?",
+        "propositions": [
+          "Sony",
+          "Microsoft",
+          "Sega",
+          "Nintendo"
+        ],
+        "réponse": "Sony",
+        "anecdote": "Sony Interactive Entertainment es una subsidiaria de Sony especializada en la industria del video, con sede en San Mateo."
+      },
+      {
+        "id": 2,
+        "question": "¿En qué año se comercializó la consola de juegos PlayStation 2 en Francia ?",
+        "propositions": [
+          "2006",
+          "2000",
+          "2002",
+          "2004"
+        ],
+        "réponse": "2000",
+        "anecdote": "La consola compitió directamente con Sega Dreamcast, Nintendo GameCube y Microsoft Xbox."
+      },
+      {
+        "id": 3,
+        "question": "¿En qué generación de consolas de la marca Sony es la PS2 ?",
+        "propositions": [
+          "Sexto",
+          "Tercero",
+          "Quinto",
+          "Cuarto"
+        ],
+        "réponse": "Sexto",
+        "anecdote": "Esta generación comenzó en 1998 y terminó en enero de 2013 con la interrupción de la distribución de PlayStation 2."
+      },
+      {
+        "id": 4,
+        "question": "¿A qué otra consola de Sony tuvo éxito la PlayStation 2 ?",
+        "propositions": [
+          "Neo-Geo",
+          "Mega Drive",
+          "Saturno",
+          "PlayStation"
+        ],
+        "réponse": "PlayStation",
+        "anecdote": "El 18 de mayo de 2004, casi diez años después de su lanzamiento, Sony anuncia que ha distribuido 100 millones de PlayStation en todo el mundo."
+      },
+      {
+        "id": 5,
+        "question": "Cuando salió, ¿qué medios podría leer PlayStation 2 de una manera innovadora ?",
+        "propositions": [
+          "DVD",
+          "Rayo azul",
+          "Midi Disc",
+          "Disco óptico"
+        ],
+        "réponse": "DVD",
+        "anecdote": "En ese momento, incluir la reproducción de DVD en serie (luego formato completamente nuevo) en este tipo de dispositivo fue una innovación importante."
+      },
+      {
+        "id": 6,
+        "question": "¿Qué variante estética de PlayStation 2 salió en 2004 ?",
+        "propositions": [
+          "PS2 Fat",
+          "PS2 Boy",
+          "PS2 Grid",
+          "PS2 Slim"
+        ],
+        "réponse": "PS2 Slim",
+        "anecdote": "Este nuevo modelo con una silueta refinada se presentó el 1 de noviembre de 2004 en América del Norte y Europa."
+      },
+      {
+        "id": 7,
+        "question": "¿Qué saga fue la más vendida entre los videojuegos disponibles en la PS2 ?",
+        "propositions": [
+          "Final Fantasy",
+          "Dios de la guerra",
+          "Gran Theft Auto",
+          "Dragon Quest"
+        ],
+        "réponse": "Gran Theft Auto",
+        "anecdote": "Debido a su contenido violento y la presencia de un minijuego sexual, el juego ha sido prohibido a menores de 18 años."
+      },
+      {
+        "id": 8,
+        "question": "¿Cómo calificó la PS2 al aceptar juegos de PlayStation ?",
+        "propositions": [
+          "Ascensional",
+          "Autopilotado",
+          "Restaurable",
+          "Admisivo"
+        ],
+        "réponse": "Restaurable",
+        "anecdote": "Los problemas de compatibilidad son comunes en la computadora debido a la rápida evolución del hardware y el software."
+      },
+      {
+        "id": 9,
+        "question": "¿Qué gamepad oficial apareció como DualShock ?",
+        "propositions": [
+          "DualShock 2",
+          "Wavebird",
+          "Bongo DK",
+          "Kinect"
+        ],
+        "réponse": "DualShock 2",
+        "anecdote": "Los botones se volvieron analógicos (excepto L3, R3 y Analog) y el controlador produjo dos niveles de vibración extra."
+      },
+      {
+        "id": 10,
+        "question": "¿Qué micrófonos podríamos conectar a la PS2 para convertirla en un dispositivo de karaoke ?",
+        "propositions": [
+          "Kinec",
+          "DualShock",
+          "SingStar",
+          "KaraMic"
+        ],
+        "réponse": "SingStar",
+        "anecdote": "« SingStar » es una serie de videojuegos de karaoke desarrollados por SCE London Studio y publicados por Sony Computer Entertainment."
+      }
+    ],
+    "confirmé": [
+      {
+        "id": 11,
+        "question": "¿Con qué consola de Sega la PlayStation 2 estaba en competencia directa ?",
+        "propositions": [
+          "GameCube",
+          "Saturno",
+          "Xbox",
+          "Dreamcast"
+        ],
+        "réponse": "Dreamcast",
+        "anecdote": "Sucesor de Saturno, Dreamcast fue la primera consola de seis generaciones en el mercado, por delante de sus competidores."
+      },
+      {
+        "id": 12,
+        "question": "¿Cuántas PS2 se vendieron solo dos días después de su lanzamiento en Japón ?",
+        "propositions": [
+          "560 000",
+          "980 000",
+          "790 000",
+          "360,000"
+        ],
+        "réponse": "980 000",
+        "anecdote": "La PlayStation 2, la consola doméstica más vendida, tiene un total de 150 millones de copias enviadas al 31 de enero de 2011."
+      },
+      {
+        "id": 13,
+        "question": "¿Cuántos títulos de videojuegos hay disponibles en el catálogo de PS2 ?",
+        "propositions": [
+          "8 627",
+          "4 996",
+          "6 742",
+          "10 828"
+        ],
+        "réponse": "10 828",
+        "anecdote": "Sony afirma que se han vendido 1,52 mil millones de copias de estos títulos desde el lanzamiento de la consola el 4 de marzo de 2000."
+      },
+      {
+        "id": 14,
+        "question": "¿Cuál fue el precio de lanzamiento de PlayStation 2 en Francia ?",
+        "propositions": [
+          "620 ",
+          "560 ",
+          "740 ",
+          "450 "
+        ],
+        "réponse": "450 ",
+        "anecdote": "El precio de la consola se redujo a 300 en 2001, 249 en 2003, 199 en 2004, 149 en 2005, 129 en 2006 y 99 en 2009."
+      },
+      {
+        "id": 15,
+        "question": "¿Cuántos juegos estaban disponibles a la salida de la PS2 en Japón ?",
+        "propositions": [
+          "Veinte",
+          "Trento",
+          "Cuarenta",
+          "Diez"
+        ],
+        "réponse": "Diez",
+        "anecdote": "En la nota « Dead or Alive 2 », « Dynasty Warriors 2 », « FIFA 2001 », « Kessen », « Madden NFL 2001 », « Midnight Club » y « Ridge Racer V »."
+      },
+      {
+        "id": 16,
+        "question": "¿En qué año se detuvo la producción de PS2 en el mundo ?",
+        "propositions": [
+          "2015",
+          "2014",
+          "2013",
+          "2016"
+        ],
+        "réponse": "2013",
+        "anecdote": "La producción de la consola se detuvo el 30 de noviembre de 2012 y Sony anunció que cesará toda distribución en el territorio japonés desde 2013."
+      },
+      {
+        "id": 17,
+        "question": "¿Cuántos procesadores principales incluyeron la PlayStation 2 ?",
+        "propositions": [
+          "Cinco",
+          "Cuatro",
+          "Dos",
+          "Tres"
+        ],
+        "réponse": "Tres",
+        "anecdote": "La PlayStation 2 tenía muchos procesadores para usar en paralelo, lo que la hacía una consola bastante difícil de programar."
+      },
+      {
+        "id": 18,
+        "question": "¿Cómo se llamaban las llamadas versiones de editor de juegos de PS2 ?",
+        "propositions": [
+          "Go Disc",
+          "Disco de repuesto",
+          "Disco azul",
+          "Ed Disc"
+        ],
+        "réponse": "Disco azul",
+        "anecdote": "Estas versiones especiales de los juegos de PS2 estaban reservadas para profesionales y especialmente para demostraciones en la tienda."
+      },
+      {
+        "id": 19,
+        "question": "¿Qué sistema operativo podría instalarse en la PS2 ?",
+        "propositions": [
+          "Ventanas",
+          "Android",
+          "Mac OS",
+          "Linux"
+        ],
+        "réponse": "Linux",
+        "anecdote": "Sony ha lanzado un kit que incluye un disco duro de 20GB, un mouse, teclado, tarjeta ether, dos DVD y una distribución de Linux."
+      },
+      {
+        "id": 20,
+        "question": "¿Cuál era el peso del modelo delgado de PlayStation 2 ?",
+        "propositions": [
+          "1200 g",
+          "900 g",
+          "600 g",
+          "1500 g"
+        ],
+        "réponse": "900 g",
+        "anecdote": "Este cambio está asociado con la subcontratación de la caja de alimentación y la eliminación del botón de ENCENDIDO / APAGADO en la parte posterior."
+      }
+    ],
+    "expert": [
+      {
+        "id": 21,
+        "question": "¿Cuál fue el primer título de « FIFA » que no se lanzó en PlayStation ?",
+        "propositions": [
+          "FIFA 07",
+          "FIFA 09",
+          "FIFA 07",
+          "FIFA 06"
+        ],
+        "réponse": "FIFA 06",
+        "anecdote": "El juego estaba disponible en PlayStation 2, Xbox, GameCube, Microsoft Windows, Game Boy Advance, Nintendo DS y PlayStation Portable."
+      },
+      {
+        "id": 22,
+        "question": "¿Qué tecnología integra la tarjeta de memoria de 8 MB para la PS2 ?",
+        "propositions": [
+          "Viaccess",
+          "CGMS",
+          "Denuvo",
+          "MagicGate"
+        ],
+        "réponse": "MagicGate",
+        "anecdote": "MagicGate es un sistema de protección creado e introducido en 1999 por Sony en sus tarjetas de memoria, especialmente en su Memory Stick."
+      },
+      {
+        "id": 23,
+        "question": "¿Cuál era la capacidad de la memoria interna de PlayStation 2 ?",
+        "propositions": [
+          "16 MB",
+          "32 MB",
+          "4 MB",
+          "8 MB"
+        ],
+        "réponse": "32 MB",
+        "anecdote": "La tecnología avanzada para la época de PlayStation 2 ha permitido a Sony poder ejecutar un poco menos de 2 mil millones de juegos."
+      },
+      {
+        "id": 24,
+        "question": "¿Qué ingeniero japonés dirigió el desarrollo de PlayStation 2 ?",
+        "propositions": [
+          "Yamao Yozo",
+          "Hideo Shima",
+          "Ken Kutaragi",
+          "Hiromu Naruse"
+        ],
+        "réponse": "Ken Kutaragi",
+        "anecdote": "Abrió el estudio Celius, filial, 51 % de Namco Bandai y 49 % de Sony, cuyas actividades se centran en el procesador Cel."
+      },
+      {
+        "id": 25,
+        "question": "¿Qué juego de disparos de Konami fue lanzado en 2000 en PS2 ?",
+        "propositions": [
+          "Frogger",
+          "Parodio",
+          "Alcance silencioso",
+          "Castlevania"
+        ],
+        "réponse": "Alcance silencioso",
+        "anecdote": "Jugando con un rifle arcade, las versiones de consola carecían de dicho accesorio, lo que reduciría el interés."
+      },
+      {
+        "id": 26,
+        "question": "¿Qué nombre era el procesador central de la PlayStation 2 de Sony ?",
+        "propositions": [
+          "Dispositivo Mach",
+          "Sintetizador de gráficos",
+          "Motor de la emoción",
+          "Procesador de E / S"
+        ],
+        "réponse": "Motor de la emoción",
+        "anecdote": "Contiene varios subprocesadores y circuitos especializados que están conectados por un bus interno de 128 bits, sincronizado a 150Mhz."
+      },
+      {
+        "id": 27,
+        "question": "¿Cuántos polígonos desnudos podría calcular la PS2 por segundo ?",
+        "propositions": [
+          "40,000",
+          "7,000",
+          "66,000,000",
+          "800"
+        ],
+        "réponse": "66,000,000",
+        "anecdote": "La FPU y las unidades de computación vectorial VU0 y VU1 de 128 bits permitieron que la consola alcanzara 6.2 GFLOPS."
+      },
+      {
+        "id": 28,
+        "question": "¿Qué estación multimedia fue lanzada por Sony en Japón en 2003 ?",
+        "propositions": [
+          "PSM",
+          "PSR",
+          "PSG",
+          "PSX"
+        ],
+        "réponse": "PSX",
+        "anecdote": "Sirvió como consola de juegos PlayStation y PlayStation 2, grabadora de DVD, sintonizador de TV y reproductor digital a través de su disco duro."
+      },
+      {
+        "id": 29,
+        "question": "¿Qué pequeña cámara adaptable para la PS2 fue desarrollada por Sony ?",
+        "propositions": [
+          "SmallCam",
+          "Kinect",
+          "FunPlay",
+          "EyeToy"
+        ],
+        "réponse": "EyeToy",
+        "anecdote": "El EyeToy fue fabricado principalmente por Logitech, aunque las nuevas versiones fueron desarrolladas posteriormente por Nam Tai."
+      },
+      {
+        "id": 30,
+        "question": "¿En qué saga usamos una cámara con poderes místicos ?",
+        "propositions": [
+          "Proyecto Cero",
+          "Sirena Prohibida",
+          "Dead Rising",
+          "BioShock"
+        ],
+        "réponse": "Proyecto Cero",
+        "anecdote": "¿Uno de los mejores juegos de terror o el mejor ? De todos modos, da mucho miedo incluso si juegas a la luz del día."
+      }
+    ]
+    },
+    "it": {
+      "débutant": [
+      {
+        "id": 1,
+        "question": "Quale azienda ha commercializzato la console di gioco per PlayStation 2 ?",
+        "propositions": [
+          "Sony",
+          "Microsoft",
+          "Nintendo",
+          "Sega"
+        ],
+        "réponse": "Sony",
+        "anecdote": "Sony Interactive Entertainment è una filiale di Sony specializzata nel settore video, con sede a San Mateo."
+      },
+      {
+        "id": 2,
+        "question": "In quale anno la console di gioco PlayStation 2 è stata commercializzata in Francia ?",
+        "propositions": [
+          "2006",
+          "2002",
+          "2004",
+          "2000"
+        ],
+        "réponse": "2000",
+        "anecdote": "La console era in diretta concorrenza con Sega Dreamcast, Nintendo GameCube e Microsoft Xbox."
+      },
+      {
+        "id": 3,
+        "question": "In quale generazione di console del marchio Sony si trova la PS2 ?",
+        "propositions": [
+          "Terzo",
+          "Quinto",
+          "Sesto",
+          "Quarto"
+        ],
+        "réponse": "Sesto",
+        "anecdote": "Questa generazione è iniziata nel 1998 e si è conclusa nel gennaio 2013 con la sospensione della distribuzione PlayStation 2."
+      },
+      {
+        "id": 4,
+        "question": "A quale altra console di Sony la PlayStation 2 è riuscita ?",
+        "propositions": [
+          "Mega Drive",
+          "Saturno",
+          "Neo-Geo",
+          "PlayStation"
+        ],
+        "réponse": "PlayStation",
+        "anecdote": "Il 18 maggio 2004, quasi dieci anni dopo il suo lancio, Sony annuncia di aver distribuito 100 milioni di PlayStation in tutto il mondo."
+      },
+      {
+        "id": 5,
+        "question": "Quando è uscito, quali media poteva leggere PlayStation 2 in modo innovativo ?",
+        "propositions": [
+          "Disco ottico",
+          "Raggio blu",
+          "DVD",
+          "Midi Disc"
+        ],
+        "réponse": "DVD",
+        "anecdote": "A quel tempo, inclusa la riproduzione seriale di DVD (allora tutto nuovo formato) in questo tipo di dispositivo era un'importante innovazione."
+      },
+      {
+        "id": 6,
+        "question": "Quale variante estetica di PlayStation 2 è uscita nel 2004 ?",
+        "propositions": [
+          "PS2 Grid",
+          "PS2 Fat",
+          "PS2 Boy",
+          "PS2 Slim"
+        ],
+        "réponse": "PS2 Slim",
+        "anecdote": "Questo nuovo modello di silhouette sottile è stato introdotto il 1 ° novembre 2004 in Nord America ed Europa."
+      },
+      {
+        "id": 7,
+        "question": "Quale saga è stata la più venduta tra i videogiochi disponibili su PS2 ?",
+        "propositions": [
+          "Dragon Quest",
+          "God of War",
+          "Gran Theft Auto",
+          "Final Fantasy"
+        ],
+        "réponse": "Gran Theft Auto",
+        "anecdote": "A causa del suo contenuto violento e della presenza di un minigioco sessuale, il gioco è stato bandito sotto i 18 anni."
+      },
+      {
+        "id": 8,
+        "question": "Come è stata qualificata la PS2, accettando i giochi PlayStation ?",
+        "propositions": [
+          "Ammissivo",
+          "Pilota automatico",
+          "Ascensionale",
+          "Rinnovabile"
+        ],
+        "réponse": "Rinnovabile",
+        "anecdote": "I problemi di compatibilità sono comuni nei computer a causa della rapida evoluzione di hardware e software."
+      },
+      {
+        "id": 9,
+        "question": "Quale gamepad ufficiale è apparso sul DualShock ?",
+        "propositions": [
+          "Wavebird",
+          "Kinect",
+          "DualShock 2",
+          "Bongo DK"
+        ],
+        "réponse": "DualShock 2",
+        "anecdote": "I pulsanti sono diventati analogici (tranne L3, R3 e Analog) e il controller ha prodotto due livelli di vibrazione extra."
+      },
+      {
+        "id": 10,
+        "question": "Quali microfoni potresti collegare alla PS2 per trasformarlo in un dispositivo karaoke ?",
+        "propositions": [
+          "Kinec",
+          "SingStar",
+          "KaraMic",
+          "DualShock"
+        ],
+        "réponse": "SingStar",
+        "anecdote": "« SingStar » è una serie di videogiochi di karaoke sviluppata da SCE London Studio e pubblicata da Sony Computer Entertainment."
+      }
+    ],
+    "confirmé": [
+      {
+        "id": 11,
+        "question": "Con quale console di Sega la PlayStation 2 era in competizione diretta ?",
+        "propositions": [
+          "Dreamcast",
+          "Saturno",
+          "GameCube",
+          "Xbox"
+        ],
+        "réponse": "Dreamcast",
+        "anecdote": "Successore di Saturno, Dreamcast è stata la prima console di sei generazioni sul mercato, davanti ai suoi concorrenti."
+      },
+      {
+        "id": 12,
+        "question": "Quante PS2 sono state vendute solo due giorni dopo il rilascio in Giappone ?",
+        "propositions": [
+          "360.000",
+          "980 000",
+          "560 000",
+          "790 000"
+        ],
+        "réponse": "980 000",
+        "anecdote": "La PlayStation 2, la console domestica più venduta, ha un totale di 150 milioni di copie spedite al 31 gennaio 2011."
+      },
+      {
+        "id": 13,
+        "question": "Quanti titoli di videogiochi sono disponibili nel catalogo PS2 ?",
+        "propositions": [
+          "10 828",
+          "6 742",
+          "8 627",
+          "4 996"
+        ],
+        "réponse": "10 828",
+        "anecdote": "La Sony sostiene che 1,52 miliardi di copie di questi titoli sono stati venduti dal lancio della console il 4 marzo 2000."
+      },
+      {
+        "id": 14,
+        "question": "Qual è stato il prezzo di lancio di PlayStation 2 in Francia ?",
+        "propositions": [
+          "450 ",
+          "620 ",
+          "740 ",
+          "560 "
+        ],
+        "réponse": "450 ",
+        "anecdote": "Il prezzo della console è stato ridotto a 300 nel 2001, 249 nel 2003, 199 nel 2004, 149 nel 2005, 129 nel 2006 e 99 nel 2009."
+      },
+      {
+        "id": 15,
+        "question": "Quanti giochi erano disponibili al rilascio di PS2 in Giappone ?",
+        "propositions": [
+          "Trento",
+          "Venti",
+          "Dieci",
+          "Quaranta"
+        ],
+        "réponse": "Dieci",
+        "anecdote": "Sulla nota « Dead or Alive 2 », « Dynasty Warriors 2 », « FIFA 2001 », « Kessen », « Madden NFL 2001 », « Midnight Club » e « Ridge Racer V »."
+      },
+      {
+        "id": 16,
+        "question": "Quando è stata interrotta la produzione di PS2 nel mondo ?",
+        "propositions": [
+          "2015",
+          "2014",
+          "2013",
+          "2016"
+        ],
+        "réponse": "2013",
+        "anecdote": "La produzione della console è stata interrotta il 30 novembre 2012 e la Sony ha annunciato la cessazione della distribuzione sul territorio giapponese nel 2013."
+      },
+      {
+        "id": 17,
+        "question": "Quanti processori principali includevano la PlayStation 2 ?",
+        "propositions": [
+          "Due",
+          "Quattro",
+          "Tre",
+          "Cinque"
+        ],
+        "réponse": "Tre",
+        "anecdote": "La PlayStation 2 aveva molti processori da utilizzare in parallelo, il che rendeva una console piuttosto difficile da programmare."
+      },
+      {
+        "id": 18,
+        "question": "Come venivano chiamate le cosiddette versioni degli editori di giochi PS2 ?",
+        "propositions": [
+          "Disco di ricambio",
+          "Vai a disco",
+          "Ed Disc",
+          "Blue Disc"
+        ],
+        "réponse": "Blue Disc",
+        "anecdote": "Queste versioni speciali dei giochi PS2 erano riservate ai professionisti e soprattutto alle dimostrazioni in negozio."
+      },
+      {
+        "id": 19,
+        "question": "Quale sistema operativo potrebbe essere installato su PS2 ?",
+        "propositions": [
+          "Linux",
+          "Windows",
+          "Android",
+          "Mac OS"
+        ],
+        "réponse": "Linux",
+        "anecdote": "Sony ha rilasciato un kit che include un disco rigido da 20 GB, un mouse, una tastiera, una scheda etere, due DVD e una distribuzione Linux."
+      },
+      {
+        "id": 20,
+        "question": "Qual era il peso del modello slim di PlayStation 2 ?",
+        "propositions": [
+          "600 g",
+          "1500 g",
+          "1200 g",
+          "900 g"
+        ],
+        "réponse": "900 g",
+        "anecdote": "Questa modifica è associata all'esternalizzazione dell'alimentatore e alla rimozione del pulsante ON / OFF sul retro."
+      }
+    ],
+    "expert": [
+      {
+        "id": 21,
+        "question": "Qual è stato il primo titolo di « FIFA » a non essere rilasciato su PlayStation ?",
+        "propositions": [
+          "FIFA 07",
+          "FIFA 07",
+          "FIFA 09",
+          "FIFA 06"
+        ],
+        "réponse": "FIFA 06",
+        "anecdote": "Il gioco era disponibile su PlayStation 2, Xbox, GameCube, Microsoft Windows, Gameboy Advance, Nintendo DS e PlayStation Portable."
+      },
+      {
+        "id": 22,
+        "question": "Quale tecnologia era la scheda di memoria da 8 MB per PS2 ?",
+        "propositions": [
+          "Denuvo",
+          "CGMS",
+          "MagicGate",
+          "Viaccess"
+        ],
+        "réponse": "MagicGate",
+        "anecdote": "MagicGate è un sistema di protezione creato e introdotto nel 1999 da Sony nelle sue schede di memoria, in particolare nella sua Memory Stick."
+      },
+      {
+        "id": 23,
+        "question": "Qual era la capacità della memoria interna di PlayStation 2 ?",
+        "propositions": [
+          "16 MB",
+          "8 MB",
+          "4 MB",
+          "32 MB"
+        ],
+        "réponse": "32 MB",
+        "anecdote": "La tecnologia avanzata per l'era di PlayStation 2 ha permesso a Sony di eseguire poco meno di 2 miliardi di giochi."
+      },
+      {
+        "id": 24,
+        "question": "Quale ingegnere giapponese ha guidato lo sviluppo di PlayStation 2 ?",
+        "propositions": [
+          "Ken Kutaragi",
+          "Hiromu Naruse",
+          "Hideo Shima",
+          "Yamao Yozo"
+        ],
+        "réponse": "Ken Kutaragi",
+        "anecdote": "Ha aperto lo studioCellius, filiale 51 % di Namco Bandai e 49 % di Sony, le cui attività sono incentrate sul processoreCell."
+      },
+      {
+        "id": 25,
+        "question": "Quale gioco sparatutto pubblicato da Konami è stato rilasciato nel 2000 su PS2 ?",
+        "propositions": [
+          "Ambito silenzioso",
+          "Frogger",
+          "Parodius",
+          "Castlevania"
+        ],
+        "réponse": "Ambito silenzioso",
+        "anecdote": "Giocando con un fucile arcade, le versioni console erano prive di tale accessorio, il che ridurrebbe l'interesse."
+      },
+      {
+        "id": 26,
+        "question": "Quale nome era il processore centrale della Sony PlayStation 2 ?",
+        "propositions": [
+          "Motore delle emozioni",
+          "Processore I / O",
+          "Dispositivo Mach",
+          "Sintetizzatore grafico"
+        ],
+        "réponse": "Motore delle emozioni",
+        "anecdote": "Contiene numerosi sub-processori e circuiti specializzati che sono collegati da un bus interno a 128 bit, con clock a 150Mhz."
+      },
+      {
+        "id": 27,
+        "question": "Quanti poligoni potrebbe calcolare PS2 al secondo ?",
+        "propositions": [
+          "800",
+          "7.000",
+          "40.000",
+          "66.000.000"
+        ],
+        "réponse": "66.000.000",
+        "anecdote": "La FPU e le unità di elaborazione vettoriale VU0 e VU1 a 128 bit hanno consentito alla console di raggiungere 6,2 GFLOPS."
+      },
+      {
+        "id": 28,
+        "question": "Quale stazione multimediale è stata lanciata da Sony in Giappone nel 2003 ?",
+        "propositions": [
+          "PSR",
+          "PSM",
+          "PSX",
+          "PSG"
+        ],
+        "réponse": "PSX",
+        "anecdote": "Ha funzionato come console di gioco per PlayStation e PlayStation 2, masterizzatore DVD, sintonizzatore TV e lettore digitale tramite il suo disco rigido."
+      },
+      {
+        "id": 29,
+        "question": "Quale piccola fotocamera adattabile per PS2 è stata sviluppata da Sony ?",
+        "propositions": [
+          "SmallCam",
+          "EyeToy",
+          "Kinect",
+          "FunPlay"
+        ],
+        "réponse": "EyeToy",
+        "anecdote": "EyeToy è stato prodotto principalmente da Logitech, sebbene le nuove versioni siano state successivamente sviluppate da Nam Tai."
+      },
+      {
+        "id": 30,
+        "question": "In quale saga usiamo una macchina fotografica con poteri mistici ?",
+        "propositions": [
+          "Sirena proibita",
+          "Dead Rising",
+          "Progetto Zero",
+          "BioShock"
+        ],
+        "réponse": "Progetto Zero",
+        "anecdote": "Uno dei migliori giochi horror o il migliore ? Ad ogni modo, è molto spaventoso anche se giochi alla luce del giorno."
+      }
+    ]
+    },
+    "nl": {
+      "débutant": [
+      {
+        "id": 1,
+        "question": "Welk bedrijf heeft de PlayStation 2-gameconsole op de markt gebracht ?",
+        "propositions": [
+          "Nintendo",
+          "Microsoft",
+          "Sony",
+          "Sega"
+        ],
+        "réponse": "Sony",
+        "anecdote": "Sony Interactive Entertainment is een dochteronderneming van Sony, gespecialiseerd in de video-industrie, gevestigd in San Mateo."
+      },
+      {
+        "id": 2,
+        "question": "In welk jaar werd de PlayStation 2-gameconsole op de markt gebracht in Frankrijk ?",
+        "propositions": [
+          "2002",
+          "2000",
+          "2004",
+          "2006"
+        ],
+        "réponse": "2000",
+        "anecdote": "De console concurreerde rechtstreeks met de Sega Dreamcast, de Nintendo GameCube en de Microsoft Xbox."
+      },
+      {
+        "id": 3,
+        "question": "In welke generatie consoles van Sony-merken bevindt de PS2 zich ?",
+        "propositions": [
+          "Vijfde",
+          "Zesde",
+          "Derde",
+          "Vierde"
+        ],
+        "réponse": "Zesde",
+        "anecdote": "Deze generatie begon in 1998 en eindigde in januari 2013 met de stopzetting van de PlayStation 2-distributie."
+      },
+      {
+        "id": 4,
+        "question": "Op welke andere console van Sony de PlayStation 2 is ze geslaagd ?",
+        "propositions": [
+          "PlayStation",
+          "Saturnus",
+          "Neo-Geo",
+          "Mega Drive"
+        ],
+        "réponse": "PlayStation",
+        "anecdote": "Op 18 mei 2004, bijna tien jaar na de lancering, kondigt Sony aan dat het wereldwijd 100 miljoen PlayStation heeft gedistribueerd."
+      },
+      {
+        "id": 5,
+        "question": "Toen het uitkwam, welke media kon de PlayStation 2 op een innovatieve manier lezen ?",
+        "propositions": [
+          "Optische schijf",
+          "Midi Disc",
+          "DVD",
+          "Blue-ray"
+        ],
+        "réponse": "DVD",
+        "anecdote": "In die tijd was het opnemen van seriële dvd's (toen geheel nieuw formaat) in dit type apparaat een belangrijke innovatie."
+      },
+      {
+        "id": 6,
+        "question": "Welke esthetische variant van de PlayStation 2 is er in 2004 uitgekomen ?",
+        "propositions": [
+          "PS2 Slim",
+          "PS2 Boy",
+          "PS2 Vet",
+          "PS2-raster"
+        ],
+        "réponse": "PS2 Slim",
+        "anecdote": "Dit nieuwe slanke silhouetmodel werd op 1 november 2004 geïntroduceerd in Noord-Amerika en Europa."
+      },
+      {
+        "id": 7,
+        "question": "Welke saga was het meest verkocht onder de videogames die beschikbaar zijn op de PS2 ?",
+        "propositions": [
+          "Gran Theft Auto",
+          "Dragon Quest",
+          "God of War",
+          "Laatste fantasie"
+        ],
+        "réponse": "Gran Theft Auto",
+        "anecdote": "Vanwege de gewelddadige inhoud en de aanwezigheid van een seksueel minigame is het spel verboden onder de 18 jaar oud."
+      },
+      {
+        "id": 8,
+        "question": "Hoe was de PS2 gekwalificeerd en aanvaardde PlayStation-games ?",
+        "propositions": [
+          "Automatische piloot",
+          "Ontvankelijk",
+          "Opknapbaar",
+          "Ascensionaal"
+        ],
+        "réponse": "Opknapbaar",
+        "anecdote": "Compatibiliteitsproblemen komen veel voor bij computers vanwege de snelle evolutie van hardware en software."
+      },
+      {
+        "id": 9,
+        "question": "Welke offici ?le gamepad zag eruit als de DualShock ?",
+        "propositions": [
+          "Wavebird",
+          "DualShock 2",
+          "Kinect",
+          "Bongo DK"
+        ],
+        "réponse": "DualShock 2",
+        "anecdote": "De knoppen werden analoog (behalve L3, R3 en Analoog) en de controller produceerde twee extra trillingsniveaus."
+      },
+      {
+        "id": 10,
+        "question": "Welke microfoons kun je op de PS2 aansluiten om er een karaoke-apparaat van te maken ?",
+        "propositions": [
+          "KaraMic",
+          "SingStar",
+          "Kinec",
+          "DualShock"
+        ],
+        "réponse": "SingStar",
+        "anecdote": "« SingStar » is een reeks videogames van karaoke ontwikkeld door SCE London Studio en uitgegeven door Sony Computer Entertainment."
+      }
+    ],
+    "confirmé": [
+      {
+        "id": 11,
+        "question": "Met welke console van Sega concurreerde de PlayStation 2 rechtstreeks ?",
+        "propositions": [
+          "Saturnus",
+          "Xbox",
+          "Dreamcast",
+          "GameCube"
+        ],
+        "réponse": "Dreamcast",
+        "anecdote": "Opvolger van de Saturnus, de Dreamcast was de eerste zes-generatie console op de markt, vóór zijn concurrenten."
+      },
+      {
+        "id": 12,
+        "question": "Hoeveel PS2 werden er slechts twee dagen na de release in Japan verkocht ?",
+        "propositions": [
+          "790 000",
+          "560 000",
+          "360.000",
+          "980 000"
+        ],
+        "réponse": "980 000",
+        "anecdote": "De PlayStation 2, de best verkochte thuisconsole, heeft per 31 januari 2011 in totaal 150 miljoen exemplaren verzonden."
+      },
+      {
+        "id": 13,
+        "question": "Hoeveel titels van videogames zijn er beschikbaar in de PS2-catalogus ?",
+        "propositions": [
+          "8 627",
+          "6 742",
+          "4 996",
+          "10 828"
+        ],
+        "réponse": "10 828",
+        "anecdote": "Sony beweert dat 1,52 miljard exemplaren van deze titels zijn verkocht sinds de lancering van de console op 4 maart 2000."
+      },
+      {
+        "id": 14,
+        "question": "Wat was de lanceringsprijs van de PlayStation 2 in Frankrijk ?",
+        "propositions": [
+          "560 ",
+          "450 ",
+          "740 ",
+          "620 "
+        ],
+        "réponse": "450 ",
+        "anecdote": "De prijs van de console werd verlaagd tot 300 in 2001, 249 in 2003, 199 in 2004, 149 in 2005, 129 in 2006 en99 in 2009."
+      },
+      {
+        "id": 15,
+        "question": "Hoeveel games waren er beschikbaar bij de release van de PS2 in Japan ?",
+        "propositions": [
+          "Veertig",
+          "Trento",
+          "Tien",
+          "Twintig"
+        ],
+        "réponse": "Tien",
+        "anecdote": "Op noot « Dead or Alive 2 », « Dynasty Warriors 2 », « FIFA 2001 », « Kessen », « Madden NFL 2001 », « Midnight Club » en « Ridge Racer V »."
+      },
+      {
+        "id": 16,
+        "question": "In welk jaar werd de productie van PS2 ter wereld stopgezet ?",
+        "propositions": [
+          "2016",
+          "2014",
+          "2013",
+          "2015"
+        ],
+        "réponse": "2013",
+        "anecdote": "De productie van de console werd gestopt op 30 november 2012 en Sony kondigde aan dat alle distributie op het Japanse grondgebied vanaf 2013 wordt stopgezet."
+      },
+      {
+        "id": 17,
+        "question": "Hoeveel hoofdprocessors bevatten de PlayStation 2 ?",
+        "propositions": [
+          "Vier",
+          "Twee",
+          "Vijf",
+          "Drie"
+        ],
+        "réponse": "Drie",
+        "anecdote": "De PlayStation 2 moest veel processors parallel gebruiken, waardoor het een console was die vrij moeilijk te programmeren was."
+      },
+      {
+        "id": 18,
+        "question": "Hoe werden de zogenaamde PS2-gamesuitgeversversies genoemd ?",
+        "propositions": [
+          "Reserve schijf",
+          "Ed Disc",
+          "Ga disc",
+          "Blauwe schijf"
+        ],
+        "réponse": "Blauwe schijf",
+        "anecdote": "Deze speciale versies van PS2-games waren gereserveerd voor professionals en vooral voor demonstraties in de winkel."
+      },
+      {
+        "id": 19,
+        "question": "Welk besturingssysteem kan op de PS2 worden geïnstalleerd ?",
+        "propositions": [
+          "Mac OS",
+          "Android",
+          "Linux",
+          "Windows"
+        ],
+        "réponse": "Linux",
+        "anecdote": "Sony heeft een kit uitgebracht met een harde schijf van 20 GB, een muis, toetsenbord, etherkaart, twee dvd's en een Linux-distributie."
+      },
+      {
+        "id": 20,
+        "question": "Wat was het gewicht van het slanke model van de PlayStation 2 ?",
+        "propositions": [
+          "1200 g",
+          "900 g",
+          "600 g",
+          "1500 g"
+        ],
+        "réponse": "900 g",
+        "anecdote": "Deze wijziging hangt samen met de externalisering van de powerbox en het verwijderen van de AAN / UIT-knop aan de achterkant."
+      }
+    ],
+    "expert": [
+      {
+        "id": 21,
+        "question": "Wat was de eerste titel van « FIFA » die niet op PlayStation werd uitgebracht ?",
+        "propositions": [
+          "FIFA 07",
+          "FIFA 07",
+          "FIFA 09",
+          "FIFA 06"
+        ],
+        "réponse": "FIFA 06",
+        "anecdote": "De game was beschikbaar op PlayStation 2, Xbox, GameCube, Microsoft Windows, Game Boy Advance, Nintendo DS en PlayStation Portable."
+      },
+      {
+        "id": 22,
+        "question": "Welke technologie integreert de 8 MB geheugenkaart voor de PS2 ?",
+        "propositions": [
+          "Denuvo",
+          "Viaccess",
+          "MagicGate",
+          "CGMS"
+        ],
+        "réponse": "MagicGate",
+        "anecdote": "MagicGate is een beveiligingssysteem gecreëerd en geïntroduceerd in 1999 door Sony in zijn geheugenkaarten, vooral zijn Memory Stick."
+      },
+      {
+        "id": 23,
+        "question": "Wat was de capaciteit van het interne geheugen van de PlayStation 2 ?",
+        "propositions": [
+          "32 MB",
+          "4 MB",
+          "16 MB",
+          "8 MB"
+        ],
+        "réponse": "32 MB",
+        "anecdote": "Dankzij geavanceerde technologie voor de tijd van de PlayStation 2 kon Sony iets minder dan 2 miljard games spelen."
+      },
+      {
+        "id": 24,
+        "question": "Welke Japanse ingenieur leidde de ontwikkeling van PlayStation 2 ?",
+        "propositions": [
+          "Yamao Yozo",
+          "Hideo Shima",
+          "Ken Kutaragi",
+          "Hiromu Naruse"
+        ],
+        "réponse": "Ken Kutaragi",
+        "anecdote": "Hij opende de studio Cellius, een 51 % dochteronderneming van Namco Bandai en 49 % van Sony, wiens activiteiten gericht zijn op de Cell-processor."
+      },
+      {
+        "id": 25,
+        "question": "Welk schietspel is in 2000 door PSAM op PS2 uitgebracht ?",
+        "propositions": [
+          "Silent Scope",
+          "Parodius",
+          "Castlevania",
+          "Frogger"
+        ],
+        "réponse": "Silent Scope",
+        "anecdote": "Bij het spelen met een arcade geweer ontbrak de console-versie zo'n accessoire, wat de interesse zal verminderen."
+      },
+      {
+        "id": 26,
+        "question": "Welke naam was de centrale processor van de Sony PlayStation 2 ?",
+        "propositions": [
+          "Grafische synthetiser",
+          "Mach apparaat",
+          "I / O-processor",
+          "Emotion Engine"
+        ],
+        "réponse": "Emotion Engine",
+        "anecdote": "Het bevat verschillende sub-processors en gespecialiseerde circuits die zijn verbonden door een 128-bit interne bus, geklokt op 150MHz."
+      },
+      {
+        "id": 27,
+        "question": "Hoeveel polygonen kan PS2 per seconde berekenen ?",
+        "propositions": [
+          "800",
+          "7.000",
+          "66.000.000",
+          "40.000"
+        ],
+        "réponse": "66.000.000",
+        "anecdote": "Dankzij de FPU en de 128-bit VU0 en VU1 vector computing-eenheden kon de console 6.2 GFLOPS bereiken."
+      },
+      {
+        "id": 28,
+        "question": "Welk multimediastation werd in 2003 door Sony in Japan gelanceerd ?",
+        "propositions": [
+          "PSR",
+          "PSX",
+          "PSG",
+          "PSM"
+        ],
+        "réponse": "PSX",
+        "anecdote": "Het diende als een PlayStation en PlayStation 2 gameconsole, dvd-brander, tv-tuner en digitale speler via de harde schijf."
+      },
+      {
+        "id": 29,
+        "question": "Welke kleine aanpasbare camera voor de PS2 is ontwikkeld door Sony ?",
+        "propositions": [
+          "EyeToy",
+          "SmallCam",
+          "Kinect",
+          "FunPlay"
+        ],
+        "réponse": "EyeToy",
+        "anecdote": "De EyeToy werd hoofdzakelijk vervaardigd door Logitech, hoewel nieuwe versies later werden ontwikkeld door Nam Tai."
+      },
+      {
+        "id": 30,
+        "question": "In welke sage gebruiken we een camera met mystieke krachten ?",
+        "propositions": [
+          "Verboden sirene",
+          "Project Zero",
+          "Dead Rising",
+          "BioShock"
+        ],
+        "réponse": "Project Zero",
+        "anecdote": "Een van de beste horrorspellen of de beste ? Hoe dan ook, het is heel eng, zelfs als je in het daglicht speelt."
+      }
+    ]
+    }
+  }
+}

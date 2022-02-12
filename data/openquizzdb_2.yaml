@@ -1,0 +1,1650 @@
+---
+fournisseur: OpenQuizzDB - Fournisseur de contenu libre (https://www.openquizzdb.org)
+rédacteur: Philippe Bresoux
+thème: Princesses Disney (Ces héroïnes de notre enfance)
+difficulté: 1 / 5
+quizz:
+  fr:
+  - débutant:
+    - id: 1
+      question: Quelle fleur représentant l'amour porte le mauvais sort dans « La Belle et la Bête » ?
+      propositions:
+      - Une jonquille
+      - Une tulipe
+      - Un oeillet
+      - Une rose
+      réponse: Une rose
+      anecdote: Bien que non mentionné dans le film, le jeune Prince, dont la devise est « Vainc qui se vainc », se prénomme Adam.
+    - id: 2
+      question: Passé minuit, en quoi le somptueux carrosse de Cendrillon se transforme-t-il ?
+      propositions:
+      - En pomme
+      - En souris
+      - En citrouille
+      - En gâteau
+      réponse: En citrouille
+      anecdote: Cendrillon est une jeune femme soumise à l'autorité de sa marâtre, Lady Trémaine, et à celle de ses deux demi-soeurs.
+    - id: 3
+      question: Quelle princesse de Disney peut-on entendre chanter « Siffler en travaillant » ? 
+      propositions:
+      - Tiana
+      - Pocahontas
+      - Blanche-Neige
+      - Merida
+      réponse: Blanche-Neige
+      anecdote: La version créée par les studios Disney diffère légèrement des autres adaptations du conte.
+    - id: 4
+      question: Combien de nains ont accueilli Blanche-Neige dans leur chaumière au fond des bois ?
+      propositions:
+      - Cinq
+      - Sept
+      - Quatre
+      - Six
+      réponse: Sept
+      anecdote: « Blanche-Neige et les Sept Nains » est le premier long-métrage d'animation Disney.
+    - id: 5
+      question: Qui chante « Un jour, mon prince viendra » dans un dessin animé Disney ?
+      propositions:
+      - Blanche-Neige
+      - Cendrillon
+      - Jasmine
+      - Alice
+      réponse: Blanche-Neige
+      anecdote: Le film « Blanche-Neige » est une adaptation du conte éponyme des frères Grimm paru en 1812.
+    - id: 6
+      question: De quelle manière le prince charmant réveille-t-il Blanche-Neige ?
+      propositions:
+      - Par un baiser
+      - Par une gifle
+      - Par un chant
+      - Par une morsure
+      réponse: Par un baiser
+      anecdote: La version la plus connue de « Blanche-Neige » est celle de Jacob et Wilhelm Grimm, parue en 1812.
+    - id: 7
+      question: Quelle célèbre princesse du grand écran est empoisonnée avec une pomme ?
+      propositions:
+      - Raiponce
+      - Cendrillon
+      - Ariel
+      - Blanche-Neige
+      réponse: Blanche-Neige
+      anecdote: Blanche-Neige est une princesse d'une très grande beauté, ce qui rend jalouse sa belle-mère, la Reine.
+    - id: 8
+      question: Quelle héroïne de Disney se voit refuser le droit de rester au bal après minuit ?
+      propositions:
+      - Cendrillon
+      - Alice
+      - Aurore
+      - Blanche-Neige
+      réponse: Cendrillon
+      anecdote: Certaines versions de Cendrillon peuvent être très différentes les unes des autres.
+    - id: 9
+      question: À quelle heure les vêtements de Cendrillon redeviennent-ils ses haillons habituels ?
+      propositions:
+      - Trois heures
+      - Midi
+      - Minuit
+      - Onze heures
+      réponse: Minuit
+      anecdote: L'Occident connaît surtout l'histoire de Cendrillon au travers des versions de Charles Perrault.
+    - id: 10
+      question: Qui a été placée dans un cercueil de verre par des nains puis réveillée par un prince ?
+      propositions:
+      - Fiona
+      - Cendrillon
+      - Blanche-Neige
+      - Esmeralda
+      réponse: Blanche-Neige
+      anecdote: Blanche-Neige montre qu'il ne faut pas s'attacher à des choses éphémères telles la beauté et la jeunesse.
+  - confirmé:
+    - id: 11
+      question: Quelle couleur est souvent associée à Aurore dans « La Belle au bois dormant » ?
+      propositions:
+      - Bleue
+      - Verte
+      - Rose
+      - Rouge
+      réponse: Rose
+      anecdote: Le célèbre château de la princesse Aurore est utilisé dans les parcs de Disneyland comme icône de la zone Fantasyland.
+    - id: 12
+      question: Quelles aventures de Disney se déroulent dans le nord de la Chine ?
+      propositions:
+      - Mulan
+      - Raiponce
+      - Rebelle
+      - Pocahontas
+      réponse: Mulan
+      anecdote: Le caractère du personnage de Mulan est différent des classiques Disney, notamment de celui des princesses.
+    - id: 13
+      question: Quelle princesse Disney est une sirène vivant auprès de son père, le roi Triton ?
+      propositions:
+      - Ariel
+      - Jasmine
+      - Tiana
+      - Merida
+      réponse: Ariel
+      anecdote: L'animateur Glen Keane aurait déclaré dans une conférence que l'apparence du personnage était fondée sur sa propre femme.
+    - id: 14
+      question: Dans le monde de Disney, quelle princesse chante « Ce rêve bleu » ?
+      propositions:
+      - Ariel
+      - Merida
+      - Jasmine
+      - Tiana
+      réponse: Jasmine
+      anecdote: Jasmine est un personnage de fiction qui est apparu pour la première fois en 1992 dans le long métrage d'animation « Aladdin ».
+    - id: 15
+      question: Quelle princesse de Disney est célèbre pour sa longue chevelure blonde ?
+      propositions:
+      - Merida
+      - Ariel
+      - Tiana
+      - Raiponce
+      réponse: Raiponce
+      anecdote: Si on coupe une mèche de cheveux de Raiponce, ceux-ci deviennent bruns et perdent leurs effets magiques.
+    - id: 16
+      question: Quel film de Disney a réuni sur les écrans un pauvre voleur et une belle princesse ?
+      propositions:
+      - Rebelle
+      - Aladdin
+      - Pocahontas
+      - Raiponce
+      réponse: Aladdin
+      anecdote: L'apparence de Jasmine fut inspirée de Jennifer Connelly mais également de la soeur de l'animateur du personnage.
+    - id: 17
+      question: Qui a fabriqué la première robe de bal qu'a portée Cendrillon ?
+      propositions:
+      - Des sorcières
+      - Des souris
+      - Des chouettes
+      - Des enfants
+      réponse: Des souris
+      anecdote: Cendrillon est appelée ainsi car elle se repose dans la cendre une fois le travail terminé.
+    - id: 18
+      question: Qui est Meeko dans « Pocahontas, une légende indienne » ?
+      propositions:
+      - Un sanglier
+      - Un oiseau
+      - Un raton-laveur
+      - Un ours
+      réponse: Un raton-laveur
+      anecdote: Disney a donné à Pocahontas les traits et la plastique du mannequin planétaire Naomi Campbell.
+    - id: 19
+      question: Quelle princesse Disney ne quitte pour ainsi dire jamais son arc et ses flèches ?
+      propositions:
+      - Tiana
+      - Jasmine
+      - Ariel
+      - Merida
+      réponse: Merida
+      anecdote: Merida est le personnage principal du long métrage d'animation « Rebelle », sorti en 2012.
+    - id: 20
+      question: Quelle première princesse afro-américaine a été mise en scène par Disney ?
+      propositions:
+      - Aurore
+      - Ariel
+      - Tiana
+      - Jasmine
+      réponse: Tiana
+      anecdote: Disney revient ici sur sa décision de ne pourtant plus réaliser des films en deux dimensions.
+  - expert:
+    - id: 21
+      question: Quelle princesse Disney est savamment entraînée aux arts martiaux ?
+      propositions:
+      - Mulan
+      - Merida
+      - Ariel
+      - Tiana
+      réponse: Mulan
+      anecdote: Le courage, la détermination et l'ingéniosité de Mulan l'aideront dans ses aventures à gagner le respect des autres.
+    - id: 22
+      question: Que recherchent les sept nains de Blanche-Neige dans leur mine ?
+      propositions:
+      - Du pétrole
+      - Du charbon
+      - Des diamants
+      - Du schiste
+      réponse: Des diamants
+      anecdote: Dans le parc d'attractions Efteling, les nains vivent dans le Bois des contes, jouxtant le château de sa belle-mère.
+    - id: 23
+      question: En 2037, quel âge aura le célèbre dessin animé « Blanche-Neige » des studios Disney ?
+      propositions:
+      - 50 ans
+      - 125 ans
+      - 100 ans
+      - 75 ans
+      réponse: 100 ans
+      anecdote: Le budget de production, 1.48 million de dollars, marque un record historique pour l'époque.
+    - id: 24
+      question: Quel est le prénom du chat de la belle-mère de Cendrillon ?
+      propositions:
+      - Belzébuth
+      - Lucifer
+      - Satan
+      - Diabolo
+      réponse: Lucifer
+      anecdote: Lucifer est le chat de Lady Trémaine : fourbe et paresseux, il représente une menace pour Jack.
+    - id: 25
+      question: Dans « Mulan », quel est le nom du dragon, le gardien de la famille ?
+      propositions:
+      - Shang
+      - Yao
+      - Mushu
+      - Général Li
+      réponse: Mushu
+      anecdote: C'est Eddie Murphy qui campe la voix originale de Mushu, tandis que la voix française est assurée par José Garcia.
+    - id: 26
+      question: Pour Disney, qui est Rajah, animal de compagnie de la princesse Jasmine ?
+      propositions:
+      - Un raton-laveur
+      - Un sanglier
+      - Un oiseau
+      - Un tigre
+      réponse: Un tigre
+      anecdote: Jasmine et Aladdin sont apparus en 2002 dans une bande-annonce du film « Lilo et Stitch ».
+    - id: 27
+      question: Dans « Cendrillon », quels animaux sont transformés en chevaux de trait ?
+      propositions:
+      - Lapins
+      - Moutons
+      - Oies
+      - Souris
+      réponse: Souris
+      anecdote: La composition des pantoufles de Cendrillon fait l'objet d'un débat récurrent en Europe.
+    - id: 28
+      question: La plastique de quelle mannequin a servi à créer les principaux traits de Pocahontas ?
+      propositions:
+      - Naomi Campbell
+      - Sienna Miller
+      - Katie Price
+      - Kelly Brook
+      réponse: Naomi Campbell
+      anecdote: Le personnage de Pocahontas s'inspire librement du personnage historique Matoaka (« Petite plume de neige »).
+    - id: 29
+      question: Quelle princesse Disney communique librement avec la nature et les animaux ?
+      propositions:
+      - Tiana
+      - Mulan
+      - Pocahontas
+      - Merida
+      réponse: Pocahontas
+      anecdote: Les scénaristes du film ont inventé une Pocahontas écologiste, volontaire et physiquement attirante.
+    - id: 30
+      question: Laquelle de ces princesses est très souvent représentée dans sa robe de bal jaune or ?
+      propositions:
+      - Mulan
+      - Tiana
+      - Merida
+      - Belle
+      réponse: Belle
+      anecdote: Depuis 2011, Belle est l'un des personnages principaux de la série télévisée « Once Upon a Time ».
+  en:
+  - débutant:
+    - id: 1
+      question: Which flower representing love is the bearer of bad luck in « Beauty and the Beast » ?
+      propositions:
+      - A rose
+      - A daffodil
+      - A carnation
+      - A tulip
+      réponse: A rose
+      anecdote: Although not mentioned in the film, the young Prince, whose motto is Vanquish who defeats himself, is named Adam.
+    - id: 2
+      question: After midnight, what does Cinderella's sumptuous carriage turn into ?
+      propositions:
+      - Apple
+      - In mouse
+      - In cake
+      - In pumpkin
+      réponse: In pumpkin
+      anecdote: Cinderella is a young woman subject to the authority of her stepmother, Lady Trémaine, and that of her two half-sisters.
+    - id: 3
+      question: Which Disney princess can you hear singing « Whistle while working » ?
+      propositions:
+      - Merida
+      - Snow White
+      - Tiana
+      - Pocahontas
+      réponse: Snow White
+      anecdote: The version created by Disney Studios differs slightly from other adaptations of the tale.
+    - id: 4
+      question: How many dwarves have welcomed Snow White to their cottage deep in the woods ?
+      propositions:
+      - Six
+      - Five
+      - Seven
+      - Four
+      réponse: Seven
+      anecdote: « Snow White and the Seven Dwarfs » is the first Disney animated feature film.
+    - id: 5
+      question: Who sings « One day my prince will come » in a Disney cartoon ?
+      propositions:
+      - Cinderella
+      - Snow White
+      - Alice
+      - Jasmine
+      réponse: Snow White
+      anecdote: The film « Blanche-Neige » is an adaptation of the eponymous tale of the Brothers Grimm published in 1812.
+    - id: 6
+      question: How does Prince Charming wake up Snow White ?
+      propositions:
+      - By a slap
+      - By a kiss
+      - By a bite
+      - By a song
+      réponse: By a kiss
+      anecdote: The best-known version of « Blanche-Neige » is that of Jacob and Wilhelm Grimm, published in 1812.
+    - id: 7
+      question: Which famous princess from the big screen is poisoned with an apple ?
+      propositions:
+      - Rapunzel
+      - Cinderella
+      - Ariel
+      - Snow White
+      réponse: Snow White
+      anecdote: Snow White is a very beautiful princess, which makes her stepmother, the Queen, jealous.
+    - id: 8
+      question: Which Disney heroine is denied the right to stay at the ball after midnight ?
+      propositions:
+      - Cinderella
+      - Snow White
+      - Alice
+      - Aurora
+      réponse: Cinderella
+      anecdote: Some versions of Cinderella can be very different from each other.
+    - id: 9
+      question: At what time do Cinderella's clothes revert to her usual rags ?
+      propositions:
+      - Noon
+      - Eleven o'clock
+      - Midnight
+      - Three hours
+      réponse: Midnight
+      anecdote: The West knows especially the story of Cinderella through the versions of Charles Perrault.
+    - id: 10
+      question: Who was placed in a glass coffin by dwarves and then awakened by a prince ?
+      propositions:
+      - Cinderella
+      - Fiona
+      - Snow White
+      - Esmeralda
+      réponse: Snow White
+      anecdote: Snow White shows that you shouldn't get attached to ephemeral things like beauty and youth.
+  - confirmé:
+    - id: 11
+      question: What color is often associated with Aurora in « Sleeping Beauty » ?
+      propositions:
+      - Green
+      - Rose
+      - Red
+      - Blue
+      réponse: Rose
+      anecdote: The famous Princess Aurora Castle is used in Disneyland parks as an icon of the Fantasyland area.
+    - id: 12
+      question: What Disney adventures take place in northern China ?
+      propositions:
+      - Pocahontas
+      - Mulan
+      - Rebelle
+      - Raiponce
+      réponse: Mulan
+      anecdote: The character of Mulan's character is different from the Disney classics, especially the princesses.
+    - id: 13
+      question: Which Disney princess is a mermaid living with her father, King Triton ?
+      propositions:
+      - Jasmine
+      - Ariel
+      - Tiana
+      - Merida
+      réponse: Ariel
+      anecdote: Host Glen Keane reportedly said in a talk that the character's appearance was based on his own wife.
+    - id: 14
+      question: In the world of Disney, which princess sings « This blue dream » ?
+      propositions:
+      - Merida
+      - Tiana
+      - Ariel
+      - Jasmine
+      réponse: Jasmine
+      anecdote: Jasmine is a fictional character who first appeared in 1992 in the animated feature « Aladdin ».
+    - id: 15
+      question: Which Disney princess is famous for her long blonde hair ?
+      propositions:
+      - Tiana
+      - Rapunzel
+      - Ariel
+      - Merida
+      réponse: Rapunzel
+      anecdote: If you cut a section of Rapunzel's hair, it turns brown and loses its magical effects.
+    - id: 16
+      question: Which Disney movie brought together a poor thief and a beautiful princess on the screens ?
+      propositions:
+      - Pocahontas
+      - Raiponce
+      - Aladdin
+      - Rebelle
+      réponse: Aladdin
+      anecdote: Jasmine's appearance was inspired by Jennifer Connelly but also the sister of the character's host.
+    - id: 17
+      question: Who made the first ball gown Cinderella wore ?
+      propositions:
+      - Owls
+      - Children
+      - Mice
+      - Witches
+      réponse: Mice
+      anecdote: Cinderella is so called because she rests in the ashes after the job is done.
+    - id: 18
+      question: Who is Meeko in « Pocahontas, an Indian legend » ?
+      propositions:
+      - A wild boar
+      - A bear
+      - A raccoon
+      - A bird
+      réponse: A raccoon
+      anecdote: Disney gave Pocahontas the features and looks of planetary model Naomi Campbell.
+    - id: 19
+      question: Which Disney princess hardly ever leaves her bow and arrows ?
+      propositions:
+      - Tiana
+      - Jasmine
+      - Merida
+      - Ariel
+      réponse: Merida
+      anecdote: Merida is the main character of the animated feature « Rebel », released in 2012.
+    - id: 20
+      question: Which first African American princess was staged by Disney ?
+      propositions:
+      - Aurora
+      - Jasmine
+      - Tiana
+      - Ariel
+      réponse: Tiana
+      anecdote: Disney is here reversing its decision to no longer make two-dimensional films.
+  - expert:
+    - id: 21
+      question: Which Disney princess is expertly trained in martial arts ?
+      propositions:
+      - Merida
+      - Mulan
+      - Tiana
+      - Ariel
+      réponse: Mulan
+      anecdote: Mulan's courage, determination and resourcefulness will help her on her adventures to earn the respect of others.
+    - id: 22
+      question: What are the seven dwarfs of Snow White looking for in their mine ?
+      propositions:
+      - Diamonds
+      - Oil
+      - From shale
+      - Coal
+      réponse: Diamonds
+      anecdote: In the amusement park Efteling, the dwarves live in the Fairytale Forest, next to his mother-in-law's castle.
+    - id: 23
+      question: In 2037, how old will the famous cartoon « Blanche-Neige » from Disney studios be ?
+      propositions:
+      - 125 years
+      - 50 years
+      - 75 years old
+      - 100 years
+      réponse: 100 years
+      anecdote: The production budget, $ 1.48 million, marks an all-time high for the time.
+    - id: 24
+      question: What is the name of Cinderella's mother-in-law's cat ?
+      propositions:
+      - Satan
+      - Lucifer
+      - Beelzebub
+      - Diabolo
+      réponse: Lucifer
+      anecdote: Lucifer is Lady Trémaine's cat: deceitful and lazy, he represents a threat to Jack.
+    - id: 25
+      question: In « Mulan », what is the name of the dragon, the keeper of the family ?
+      propositions:
+      - Mushu
+      - General Li
+      - Shang
+      - Yao
+      réponse: Mushu
+      anecdote: It is Eddie Murphy who plays the original voice of Mushu, while the French voice is provided by José Garcia.
+    - id: 26
+      question: For Disney, who is Rajah, pet of Princess Jasmine ?
+      propositions:
+      - A tiger
+      - A bird
+      - A raccoon
+      - A wild boar
+      réponse: A tiger
+      anecdote: Jasmine and Aladdin appeared in a 2002 trailer for the movie « Lilo and Stitch ».
+    - id: 27
+      question: In « Cinderella », which animals are transformed into work horses ?
+      propositions:
+      - Rabbits
+      - Mouse
+      - Geese
+      - Sheep
+      réponse: Mouse
+      anecdote: The composition of Cinderella's slippers is the subject of recurring debate in Europe.
+    - id: 28
+      question: The plastic of which mannequin was used to create the main features of Pocahontas ?
+      propositions:
+      - Katie Price
+      - Kelly Brook
+      - Naomi Campbell
+      - Sienna Miller
+      réponse: Naomi Campbell
+      anecdote: The character of Pocahontas is loosely inspired by the historical character Matoaka (Little snow feather).
+    - id: 29
+      question: Which Disney princess communicates freely with nature and animals ?
+      propositions:
+      - Pocahontas
+      - Tiana
+      - Mulan
+      - Merida
+      réponse: Pocahontas
+      anecdote: The writers of the film have invented an ecological, determined and physically attractive Pocahontas.
+    - id: 30
+      question: Which of these princesses is very often represented in her golden yellow ball gown ?
+      propositions:
+      - Merida
+      - Mulan
+      - Beautiful
+      - Tiana
+      réponse: Beautiful
+      anecdote: Since 2011, Belle has been one of the main characters in the television series « Once Upon a Time ».
+  de:
+  - débutant:
+    - id: 1
+      question: Welche Blume, die die Liebe darstellt, trägt das Unglück in « Die Schöne und das Biest » ?
+      propositions:
+      - Eine Rose
+      - Eine Tulpe
+      - Eine Nelke
+      - Eine Narzisse
+      réponse: Eine Rose
+      anecdote: Obwohl im Film nicht erwähnt, heißt der junge Prinz, dessen Motto Vainc qui se vaincre lautet, Adam.
+    - id: 2
+      question: Was wird aus Aschenputtels prächtiger Kutsche nach Mitternacht ?
+      propositions:
+      - Apple
+      - In der Maus
+      - In Kuchen
+      - In Kürbis
+      réponse: In Kürbis
+      anecdote: Cinderella ist eine junge Frau, die der Autorität ihrer Stiefmutter Lady Trémaine und der ihrer beiden Halbschwestern unterliegt.
+    - id: 3
+      question: Welche Disney-Prinzessin können Sie während der Arbeit « Pfeifen » singen hören ?
+      propositions:
+      - Schneewittchen
+      - Merida
+      - Tiana
+      - Pocahontas
+      réponse: Schneewittchen
+      anecdote: Die von Disney Studios erstellte Version unterscheidet sich geringfügig von anderen Anpassungen der Geschichte.
+    - id: 4
+      question: Wie viele Zwerge haben Schneewittchen in ihrem Haus tief im Wald willkommen geheißen ?
+      propositions:
+      - Sechs
+      - Vier
+      - Sieben
+      - Fünf
+      réponse: Sieben
+      anecdote: « Schneewittchen und die sieben Zwerge » ist der erste animierte Disney-Spielfilm.
+    - id: 5
+      question: Wer singt « Eines Tages wird mein Prinz » in einem Disney-Cartoon kommen ?
+      propositions:
+      - Alice
+      - Schneewittchen
+      - Aschenputtel
+      - Jasmin
+      réponse: Schneewittchen
+      anecdote: Der Film « Blanche-Neige » ist eine Adaption der 1812 veröffentlichten gleichnamigen Geschichte der Brüder Grimm.
+    - id: 6
+      question: Wie weckt Prince Charming Schneewittchen ?
+      propositions:
+      - Durch ein Lied
+      - Durch einen Schlag
+      - Durch einen Kuss
+      - Durch einen Bissen
+      réponse: Durch einen Kuss
+      anecdote: Die bekannteste Version von « Blanche-Neige » ist die von Jacob und Wilhelm Grimm, die 1812 veröffentlicht wurde.
+    - id: 7
+      question: Welche berühmte Prinzessin von der Leinwand ist mit einem Apfel vergiftet ?
+      propositions:
+      - Ariel
+      - Schneewittchen
+      - Rapunzel
+      - Aschenputtel
+      réponse: Schneewittchen
+      anecdote: Schneewittchen ist eine sehr schöne Prinzessin, was ihre Stiefmutter, die Königin, eifersüchtig macht.
+    - id: 8
+      question: Welcher Disney-Heldin wird das Recht verweigert, nach Mitternacht am Ball zu bleiben ?
+      propositions:
+      - Aurora
+      - Aschenputtel
+      - Alice
+      - Schneewittchen
+      réponse: Aschenputtel
+      anecdote: Einige Versionen von Cinderella können sehr unterschiedlich sein.
+    - id: 9
+      question: Zu welcher Zeit kehren Aschenputtels Kleider zu ihren üblichen Lumpen zurück ?
+      propositions:
+      - Elf Uhr
+      - Mittag
+      - Drei Stunden
+      - Mitternacht
+      réponse: Mitternacht
+      anecdote: Der Westen kennt besonders die Geschichte von Aschenputtel durch die Versionen von Charles Perrault.
+    - id: 10
+      question: Wer wurde von Zwergen in einen Glassarg gelegt und dann von einem Prinzen geweckt ?
+      propositions:
+      - Schneewittchen
+      - Aschenputtel
+      - Esmeralda
+      - Fiona
+      réponse: Schneewittchen
+      anecdote: Schneewittchen zeigt, dass Sie sich nicht an vergängliche Dinge wie Schönheit und Jugend binden sollten.
+  - confirmé:
+    - id: 11
+      question: Welche Farbe wird in « Dornröschen » häufig mit Aurora assoziiert ?
+      propositions:
+      - Rose
+      - Grün
+      - Blau
+      - Rot
+      réponse: Rose
+      anecdote: Das berühmte Schloss von Prinzessin Aurora wird in den Parks von Disneyland als Ikone des Fantasyland-Gebiets verwendet.
+    - id: 12
+      question: Welche Disney-Abenteuer finden in Nordchina statt ?
+      propositions:
+      - Rebelle
+      - Mulan
+      - Raiponce
+      - Pocahontas
+      réponse: Mulan
+      anecdote: Der Charakter von Mulans Charakter unterscheidet sich von den Disney-Klassikern, insbesondere von den Prinzessinnen.
+    - id: 13
+      question: Welche Disney-Prinzessin ist eine Meerjungfrau, die mit ihrem Vater, König Triton, lebt ?
+      propositions:
+      - Jasmin
+      - Ariel
+      - Merida
+      - Tiana
+      réponse: Ariel
+      anecdote: Gastgeber Glen Keane sagte Berichten zufolge in einem Gespräch, dass das Aussehen des Charakters auf seiner eigenen Frau beruhte.
+    - id: 14
+      question: Welche Prinzessin singt in der Welt von Disney « diesen blauen Traum » ?
+      propositions:
+      - Merida
+      - Tiana
+      - Ariel
+      - Jasmin
+      réponse: Jasmin
+      anecdote: Jasmine ist eine fiktive Figur, die 1992 erstmals in dem Zeichentrickfilm « Aladdin » auftrat.
+    - id: 15
+      question: Welche Disney-Prinzessin ist berühmt für ihre langen blonden Haare ?
+      propositions:
+      - Rapunzel
+      - Tiana
+      - Ariel
+      - Merida
+      réponse: Rapunzel
+      anecdote: Wenn Sie einen Teil von Rapunzels Haar schneiden, wird es braun und verliert seine magischen Effekte.
+    - id: 16
+      question: Welcher Disney-Film brachte einen armen Dieb und eine schöne Prinzessin auf den Bildschirmen zusammen ?
+      propositions:
+      - Aladdin
+      - Pocahontas
+      - Raiponce
+      - Rebelle
+      réponse: Aladdin
+      anecdote: Jasmines Auftritt wurde von Jennifer Connelly inspiriert, aber auch von der Schwester des Gastgebers des Charakters.
+    - id: 17
+      question: Wer hat das erste Ballkleid gemacht, das Aschenputtel trug ?
+      propositions:
+      - Kinder
+      - Hexen
+      - Mäuse
+      - Eulen
+      réponse: Mäuse
+      anecdote: Aschenputtel wird so genannt, weil sie nach getaner Arbeit in der Asche ruht.
+    - id: 18
+      question: Wer ist Meeko in « Pocahontas, einer indischen Legende » ?
+      propositions:
+      - Ein Wildschwein
+      - Ein Waschbär
+      - Ein Vogel
+      - Ein Bär
+      réponse: Ein Waschbär
+      anecdote: Disney gab Pocahontas die Merkmale und das Aussehen des Planetenmodells Naomi Campbell.
+    - id: 19
+      question: Welche Disney-Prinzessin verlässt Pfeil und Bogen kaum ?
+      propositions:
+      - Jasmin
+      - Ariel
+      - Merida
+      - Tiana
+      réponse: Merida
+      anecdote: Merida ist die Hauptfigur des 2012 veröffentlichten animierten Features « Rebel ».
+    - id: 20
+      question: Welche erste afroamerikanische Prinzessin wurde von Disney inszeniert ?
+      propositions:
+      - Aurora
+      - Tiana
+      - Ariel
+      - Jasmin
+      réponse: Tiana
+      anecdote: Disney kehrt hier seine Entscheidung um, keine zweidimensionalen Filme mehr zu machen.
+  - expert:
+    - id: 21
+      question: Welche Disney-Prinzessin ist fachmännisch in Kampfkunst ausgebildet ?
+      propositions:
+      - Mulan
+      - Merida
+      - Tiana
+      - Ariel
+      réponse: Mulan
+      anecdote: Mulans Mut, Entschlossenheit und Einfallsreichtum werden ihr auf ihren Abenteuern helfen, den Respekt anderer zu verdienen.
+    - id: 22
+      question: Was suchen die sieben Zwerge von Schneewittchen in ihrer Mine ?
+      propositions:
+      - Öl
+      - Kohle
+      - Diamanten
+      - Aus Schiefer
+      réponse: Diamanten
+      anecdote: Im Vergnügungspark Efteling leben die Zwerge im Märchenwald neben dem Schloss seiner Schwiegermutter.
+    - id: 23
+      question: Wie alt wird der berühmte Cartoon « Blanche-Neige » aus den Disney-Studios im Jahr 2037 sein ?
+      propositions:
+      - 125 Jahre
+      - 100 Jahre
+      - 75 Jahre alt
+      - 50 Jahre
+      réponse: 100 Jahre
+      anecdote: Das Produktionsbudget von 1,48 Millionen US-Dollar markiert ein Allzeithoch für diese Zeit.
+    - id: 24
+      question: Wie heißt Aschenputtels Schwiegermutterkatze ?
+      propositions:
+      - Luzifer
+      - Diabolo
+      - Beelzebub
+      - Satan
+      réponse: Luzifer
+      anecdote: Luzifer ist Lady Trémaines Katze: Betrügerisch und faul stellt er eine Bedrohung für Jack dar.
+    - id: 25
+      question: Wie heißt in « Mulan » der Drache, der Hüter der Familie ?
+      propositions:
+      - General Li
+      - Mushu
+      - Yao
+      - Shang
+      réponse: Mushu
+      anecdote: Es ist Eddie Murphy, der die Originalstimme von Mushu spielt, während die französische Stimme von José Garcia zur Verfügung gestellt wird.
+    - id: 26
+      question: Für Disney, wer ist Rajah, Haustier von Prinzessin Jasmine ?
+      propositions:
+      - Ein Vogel
+      - Ein Wildschwein
+      - Ein Tiger
+      - Ein Waschbär
+      réponse: Ein Tiger
+      anecdote: Jasmine und Aladdin erschienen 2002 in einem Trailer zum Film « Lilo und Stitch ».
+    - id: 27
+      question: Welche Tiere werden in « Aschenputtel » in Arbeitspferde verwandelt ?
+      propositions:
+      - Schafe
+      - Kaninchen
+      - Maus
+      - Gänse
+      réponse: Maus
+      anecdote: Die Zusammensetzung von Aschenputtels Hausschuhen ist Gegenstand einer wiederkehrenden Debatte in Europa.
+    - id: 28
+      question: Aus welchem Kunststoff wurde die Hauptmerkmale von Pocahontas hergestellt ?
+      propositions:
+      - Katie Price
+      - Naomi Campbell
+      - Kelly Brook
+      - Sienna Miller
+      réponse: Naomi Campbell
+      anecdote: Der Charakter von Pocahontas ist lose vom historischen Charakter Matoaka (kleine Schneefeder) inspiriert.
+    - id: 29
+      question: Welche Disney-Prinzessin kommuniziert frei mit Natur und Tieren ?
+      propositions:
+      - Tiana
+      - Mulan
+      - Merida
+      - Pocahontas
+      réponse: Pocahontas
+      anecdote: Die Autoren des Films haben einen ökologischen, entschlossenen und körperlich attraktiven Pocahontas erfunden.
+    - id: 30
+      question: Welche dieser Prinzessinnen ist sehr oft in ihrem goldgelben Ballkleid vertreten ?
+      propositions:
+      - Merida
+      - Schön
+      - Tiana
+      - Mulan
+      réponse: Schön
+      anecdote: Seit 2011 ist Belle eine der Hauptfiguren in der Fernsehserie « Es war einmal ».
+  es:
+  - débutant:
+    - id: 1
+      question: ¿Qué flor que representa el amor es portadora de mala suerte en « La bella y la bestia » ?
+      propositions:
+      - Un narciso
+      - Una rosa
+      - Un tulipán
+      - Un clavel
+      réponse: Una rosa
+      anecdote: Aunque no se menciona en la película, el joven príncipe, cuyo lema es Vainc qui se vaincre, se llama Adam.
+    - id: 2
+      question: Después de la medianoche, ¿en qué se convierte el suntuoso carruaje de Cenicienta ?
+      propositions:
+      - En ratón
+      - En calabaza
+      - Apple
+      - En pastel
+      réponse: En calabaza
+      anecdote: Cenicienta es una mujer joven sujeta a la autoridad de su madrastra, Lady Trémaine, y la de sus dos hermanastras.
+    - id: 3
+      question: ¿Qué princesa de Disney puedes oír cantar « Silbato mientras trabajas » ?
+      propositions:
+      - Pocahontas
+      - Tiana
+      - Mérida
+      - Blancanieves
+      réponse: Blancanieves
+      anecdote: La versión creada por Disney Studios difiere ligeramente de otras adaptaciones del cuento.
+    - id: 4
+      question: ¿Cuántos enanos han recibido a Blancanieves en su cabaña en lo profundo del bosque ?
+      propositions:
+      - Siete
+      - Seis
+      - Cuatro
+      - Cinco
+      réponse: Siete
+      anecdote: « Blancanieves y los siete enanitos » es el primer largometraje animado de Disney.
+    - id: 5
+      question: ¿Quién canta « Un día vendrá mi príncipe » en una caricatura de Disney ?
+      propositions:
+      - Alice
+      - Blancanieves
+      - Jasmine
+      - Cenicienta
+      réponse: Blancanieves
+      anecdote: La película « Blanche-Neige » es una adaptación del cuento homónimo de los hermanos Grimm publicado en 1812.
+    - id: 6
+      question: ¿Cómo despierta el príncipe azul a Blancanieves ?
+      propositions:
+      - Por una bofetada
+      - Por un beso
+      - Por un mordisco
+      - Por una canción
+      réponse: Por un beso
+      anecdote: La versión más conocida de « Blanche-Neige » es la de Jacob y Wilhelm Grimm, publicada en 1812.
+    - id: 7
+      question: ¿Qué princesa famosa de la pantalla grande es envenenada con una manzana ?
+      propositions:
+      - Cenicienta
+      - Rapunzel
+      - Ariel
+      - Blancanieves
+      réponse: Blancanieves
+      anecdote: Blancanieves es una princesa muy hermosa, lo que pone celosa a su madrastra, la Reina.
+    - id: 8
+      question: ¿A qué heroína de Disney se le niega el derecho a permanecer en el baile después de la medianoche ?
+      propositions:
+      - Aurora
+      - Alice
+      - Cenicienta
+      - Blancanieves
+      réponse: Cenicienta
+      anecdote: Algunas versiones de Cenicienta pueden ser muy diferentes entre sí.
+    - id: 9
+      question: ¿A qué hora la ropa de Cenicienta vuelve a sus harapos habituales ?
+      propositions:
+      - Tres horas
+      - Once en punto
+      - Mediodía
+      - Medianoche
+      réponse: Medianoche
+      anecdote: Occidente conoce especialmente la historia de Cenicienta a través de las versiones de Charles Perrault.
+    - id: 10
+      question: ¿Quién fue colocado en un ataúd de vidrio por los enanos y luego despertado por un príncipe ?
+      propositions:
+      - Blancanieves
+      - Cenicienta
+      - Fiona
+      - Esmeralda
+      réponse: Blancanieves
+      anecdote: Blancanieves demuestra que no debes apegarte a cosas efímeras como la belleza y la juventud.
+  - confirmé:
+    - id: 11
+      question: ¿Qué color se asocia a menudo con Aurora en « La bella durmiente » ?
+      propositions:
+      - Rojo
+      - Azul
+      - Verde
+      - Rose
+      réponse: Rose
+      anecdote: El famoso castillo de la Princesa Aurora se utiliza en los parques de Disneyland como un ícono del área de Fantasyland.
+    - id: 12
+      question: ¿Qué aventuras de Disney tienen lugar en el norte de China ?
+      propositions:
+      - Pocahontas
+      - Rebelle
+      - Raiponce
+      - Mulan
+      réponse: Mulan
+      anecdote: El personaje del personaje de Mulan es diferente a los clásicos de Disney, especialmente a las princesas.
+    - id: 13
+      question: ¿Qué princesa de Disney es una sirena que vive con su padre, el rey Tritón ?
+      propositions:
+      - Mérida
+      - Ariel
+      - Tiana
+      - Jasmine
+      réponse: Ariel
+      anecdote: Según los informes, el presentador Glen Keane dijo en una charla que la apariencia del personaje se basaba en su propia esposa.
+    - id: 14
+      question: En el mundo de Disney, ¿qué princesa canta « Este sueño azul » ?
+      propositions:
+      - Mérida
+      - Tiana
+      - Ariel
+      - Jasmine
+      réponse: Jasmine
+      anecdote: Jasmine es un personaje de ficción que apareció por primera vez en 1992 en la película animada « Aladdin ».
+    - id: 15
+      question: ¿Qué princesa de Disney es famosa por su largo cabello rubio ?
+      propositions:
+      - Rapunzel
+      - Mérida
+      - Tiana
+      - Ariel
+      réponse: Rapunzel
+      anecdote: Si cortas una sección del cabello de Rapunzel, se vuelve marrón y pierde sus efectos mágicos.
+    - id: 16
+      question: ¿Qué película de Disney reunió a un pobre ladrón y una hermosa princesa en las pantallas ?
+      propositions:
+      - Aladdin
+      - Pocahontas
+      - Rebelle
+      - Raiponce
+      réponse: Aladdin
+      anecdote: La apariencia de Jasmine se inspiró en Jennifer Connelly, pero también en la hermana del anfitrión del personaje.
+    - id: 17
+      question: ¿Quién hizo el primer vestido de baile que usó Cenicienta ?
+      propositions:
+      - Búhos
+      - Ratones
+      - Niños
+      - Brujas
+      réponse: Ratones
+      anecdote: Cenicienta se llama así porque descansa en las cenizas después de que el trabajo está terminado.
+    - id: 18
+      question: ¿Quién es Meeko en « Pocahontas, una leyenda india » ?
+      propositions:
+      - Un mapache
+      - Un pájaro
+      - Un jabalí
+      - Un oso
+      réponse: Un mapache
+      anecdote: Disney le dio a Pocahontas las características y el aspecto de la modelo planetaria Naomi Campbell.
+    - id: 19
+      question: ¿Qué princesa de Disney casi nunca deja su arco y flechas ?
+      propositions:
+      - Jasmine
+      - Ariel
+      - Tiana
+      - Mérida
+      réponse: Mérida
+      anecdote: Mérida es el personaje principal de la película animada « Rebel », lanzada en 2012.
+    - id: 20
+      question: ¿Qué primera princesa afroamericana fue puesta en escena por Disney ?
+      propositions:
+      - Tiana
+      - Aurora
+      - Ariel
+      - Jasmine
+      réponse: Tiana
+      anecdote: Disney está revirtiendo aquí su decisión de dejar de hacer películas bidimensionales.
+  - expert:
+    - id: 21
+      question: ¿Qué princesa de Disney está expertamente entrenada en artes marciales ?
+      propositions:
+      - Tiana
+      - Ariel
+      - Mulan
+      - Mérida
+      réponse: Mulan
+      anecdote: El valor, la determinación y el ingenio de Mulan la ayudarán en sus aventuras para ganarse el respeto de los demás.
+    - id: 22
+      question: ¿Qué buscan los siete enanos de Blancanieves en su mina ?
+      propositions:
+      - De pizarra
+      - Carbón
+      - Diamantes
+      - Petróleo ","Du pétrole
+      réponse: Diamantes
+      anecdote: En el parque de atracciones Efteling, los enanos viven en el bosque de cuento de hadas, junto al castillo de su suegra.
+    - id: 23
+      question: En 2037, ¿qué edad tendrá la famosa caricatura « Blanche-Neige » de los estudios Disney ?
+      propositions:
+      - 125 años
+      - 100 años
+      - 75 años
+      - 50 años
+      réponse: 100 años
+      anecdote: El presupuesto de producción, 1,48 millones de dólares, marca un récord histórico para la época.
+    - id: 24
+      question: ¿Cómo se llama el gato de la suegra de Cenicienta ?
+      propositions:
+      - Beelzebub
+      - Satanás
+      - Diabolo
+      - Lucifer
+      réponse: Lucifer
+      anecdote: Lucifer es el gato de Lady Trémaine: engañoso y perezoso, representa una amenaza para Jack.
+    - id: 25
+      question: En « Mulan », ¿cómo se llama el dragón, el guardián de la familia ?
+      propositions:
+      - Mushu
+      - Shang
+      - General Li
+      - Yao
+      réponse: Mushu
+      anecdote: Es Eddie Murphy quien interpreta la voz original de Mushu, mientras que la voz francesa corre a cargo de José García.
+    - id: 26
+      question: Para Disney, ¿quién es Rajah, la mascota de la princesa Jasmine ?
+      propositions:
+      - Un pájaro
+      - Un jabalí
+      - Un tigre
+      - Un mapache
+      réponse: Un tigre
+      anecdote: Jasmine y Aladdin aparecieron en un tráiler de 2002 de la película « Lilo e Stitch ».
+    - id: 27
+      question: En « Cenicienta », ¿qué animales se transforman en caballos de trabajo ?
+      propositions:
+      - Gansos
+      - Ovejas
+      - Conejos
+      - Ratón
+      réponse: Ratón
+      anecdote: La composición de las zapatillas de Cenicienta es objeto de un debate recurrente en Europa.
+    - id: 28
+      question: ¿El plástico de qué maniquí se utilizó para crear las principales características de Pocahontas ?
+      propositions:
+      - Precio de Katie
+      - Naomi Campbell
+      - Sienna Miller
+      - Kelly Brook
+      réponse: Naomi Campbell
+      anecdote: El personaje de Pocahontas está vagamente inspirado en el personaje histórico Matoaka (Pequeña pluma de nieve).
+    - id: 29
+      question: ¿Qué princesa de Disney se comunica libremente con la naturaleza y los animales ?
+      propositions:
+      - Pocahontas
+      - Mulan
+      - Mérida
+      - Tiana
+      réponse: Pocahontas
+      anecdote: Los guionistas de la película han inventado una Pocahontas ecológica, decidida y físicamente atractiva.
+    - id: 30
+      question: ¿Cuál de estas princesas se representa muy a menudo con su vestido de baile amarillo dorado ?
+      propositions:
+      - Hermosa
+      - Tiana
+      - Mulan
+      - Mérida
+      réponse: Hermosa
+      anecdote: Desde 2011, Belle ha sido uno de los personajes principales de la serie de televisión « Once Upon a Time ».
+  it:
+  - débutant:
+    - id: 1
+      question: Quale fiore che rappresenta l'amore è portatore di sfortuna in « La bella e la bestia » ?
+      propositions:
+      - Un garofano
+      - Un tulipano
+      - Una rosa
+      - Un narciso
+      réponse: Una rosa
+      anecdote: Sebbene non sia menzionato nel film, il giovane principe, il cui motto è Vainc qui se vaincre, si chiama Adam.
+    - id: 2
+      question: Dopo mezzanotte, in cosa si trasforma la sontuosa carrozza di Cenerentola ?
+      propositions:
+      - Nel mouse
+      - Nella torta
+      - Apple
+      - Nella zucca
+      réponse: Nella zucca
+      anecdote: Cenerentola è una giovane donna soggetta all'autorità della sua matrigna, Lady Trémaine, e a quella delle sue due sorellastre.
+    - id: 3
+      question: Quale principessa Disney puoi sentire cantare « Fischietto mentre lavori » ?
+      propositions:
+      - Tiana
+      - Biancaneve
+      - Pocahontas
+      - Merida
+      réponse: Biancaneve
+      anecdote: La versione creata da Disney Studios differisce leggermente dagli altri adattamenti del racconto.
+    - id: 4
+      question: Quanti nani hanno accolto Biancaneve nella loro casetta nel bosco ?
+      propositions:
+      - Seven
+      - Quattro
+      - Sei
+      - Cinque
+      réponse: Seven
+      anecdote: « Biancaneve e i sette nani » è il primo film d'animazione Disney.
+    - id: 5
+      question: Chi canta « Un giorno il mio principe verrà » in un cartone animato Disney ?
+      propositions:
+      - Jasmine
+      - Biancaneve
+      - Alice
+      - Cenerentola
+      réponse: Biancaneve
+      anecdote: Il film « Blanche-Neige » è un adattamento dell'omonimo racconto dei fratelli Grimm pubblicato nel 1812.
+    - id: 6
+      question: Come fa il principe azzurro a svegliare Biancaneve ?
+      propositions:
+      - Con uno schiaffo
+      - Per un morso
+      - Con un bacio
+      - Con una canzone
+      réponse: Con un bacio
+      anecdote: La versione più nota di « Blanche-Neige » è quella di Jacob e Wilhelm Grimm, pubblicata nel 1812.
+    - id: 7
+      question: Quale famosa principessa del grande schermo è avvelenata con una mela ?
+      propositions:
+      - Ariel
+      - Rapunzel
+      - Cenerentola
+      - Biancaneve
+      réponse: Biancaneve
+      anecdote: Biancaneve è una principessa molto bella, il che rende gelosa la sua matrigna, la regina.
+    - id: 8
+      question: A quale eroina Disney viene negato il diritto di restare al ballo dopo mezzanotte ?
+      propositions:
+      - Alice
+      - Aurora
+      - Biancaneve
+      - Cenerentola
+      réponse: Cenerentola
+      anecdote: Alcune versioni di Cenerentola possono essere molto diverse l'una dall'altra.
+    - id: 9
+      question: A che ora i vestiti di Cenerentola tornano ai suoi soliti stracci ?
+      propositions:
+      - Mezzanotte
+      - Tre ore
+      - Undici in punto
+      - Mezzogiorno
+      réponse: Mezzanotte
+      anecdote: L'Occidente conosce soprattutto la storia di Cenerentola attraverso le versioni di Charles Perrault.
+    - id: 10
+      question: Chi è stato messo in una bara di vetro dai nani e poi risvegliato da un principe ?
+      propositions:
+      - Fiona
+      - Esmeralda
+      - Cenerentola
+      - Biancaneve
+      réponse: Biancaneve
+      anecdote: Biancaneve mostra che non dovresti attaccarti a cose effimere come la bellezza e la giovinezza.
+  - confirmé:
+    - id: 11
+      question: Di che colore è spesso associato Aurora in « La bella addormentata » ?
+      propositions:
+      - Rose
+      - Rosso
+      - Verde
+      - Blu
+      réponse: Rose
+      anecdote: Il famoso castello della principessa Aurora viene utilizzato nei parchi Disneyland come icona dell'area di Fantasyland.
+    - id: 12
+      question: Quali avventure Disney si svolgono nel nord della Cina ?
+      propositions:
+      - Rebelle
+      - Mulan
+      - Pocahontas
+      - Raiponce
+      réponse: Mulan
+      anecdote: Il personaggio del personaggio di Mulan è diverso dai classici Disney, in particolare le principesse.
+    - id: 13
+      question: Quale principessa Disney è una sirena che vive con suo padre, il re Tritone ?
+      propositions:
+      - Merida
+      - Jasmine
+      - Ariel
+      - Tiana
+      réponse: Ariel
+      anecdote: Secondo quanto riferito, il conduttore Glen Keane ha detto in un discorso che l'aspetto del personaggio era basato su sua moglie.
+    - id: 14
+      question: Nel mondo Disney, quale principessa canta « Questo sogno blu » ?
+      propositions:
+      - Ariel
+      - Jasmine
+      - Merida
+      - Tiana
+      réponse: Jasmine
+      anecdote: Jasmine è un personaggio immaginario apparso per la prima volta nel 1992 nel film d'animazione « Aladdin ».
+    - id: 15
+      question: Quale principessa Disney è famosa per i suoi lunghi capelli biondi ?
+      propositions:
+      - Tiana
+      - Merida
+      - Rapunzel
+      - Ariel
+      réponse: Rapunzel
+      anecdote: Se tagli una sezione dei capelli di Rapunzel, diventa marrone e perde i suoi effetti magici.
+    - id: 16
+      question: Quale film Disney ha messo insieme un povero ladro e una bellissima principessa sugli schermi ?
+      propositions:
+      - Pocahontas
+      - Raiponce
+      - Rebelle
+      - Aladdin
+      réponse: Aladdin
+      anecdote: L'aspetto di Jasmine è stato ispirato da Jennifer Connelly ma anche dalla sorella dell'ospite del personaggio.
+    - id: 17
+      question: Chi ha realizzato il primo abito da ballo indossato da Cenerentola ?
+      propositions:
+      - Topi
+      - Gufi
+      - Streghe
+      - Bambini
+      réponse: Topi
+      anecdote: Cenerentola è così chiamata perché riposa tra le ceneri dopo che il lavoro è finito.
+    - id: 18
+      question: Chi è Meeko in « Pocahontas, una leggenda indiana » ?
+      propositions:
+      - Un cinghiale
+      - Un uccello
+      - Un procione
+      - Un orso
+      réponse: Un procione
+      anecdote: Disney ha dato a Pocahontas le caratteristiche e l'aspetto del modello planetario Naomi Campbell.
+    - id: 19
+      question: Quale principessa Disney lascia raramente il suo arco e le sue frecce ?
+      propositions:
+      - Jasmine
+      - Merida
+      - Tiana
+      - Ariel
+      réponse: Merida
+      anecdote: Merida è la protagonista del film d'animazione « Rebel », uscito nel 2012.
+    - id: 20
+      question: Quale prima principessa afroamericana è stata messa in scena dalla Disney ?
+      propositions:
+      - Tiana
+      - Ariel
+      - Jasmine
+      - Aurora
+      réponse: Tiana
+      anecdote: La Disney torna qui sulla sua decisione di non fare più film bidimensionali.
+  - expert:
+    - id: 21
+      question: Quale principessa Disney è esperta nelle arti marziali ?
+      propositions:
+      - Ariel
+      - Tiana
+      - Merida
+      - Mulan
+      réponse: Mulan
+      anecdote: Il coraggio, la determinazione e l'intraprendenza di Mulan la aiuteranno nelle sue avventure a guadagnarsi il rispetto degli altri.
+    - id: 22
+      question: Cosa cercano i sette nani di Biancaneve nella loro miniera ?
+      propositions:
+      - Diamanti
+      - Carbone
+      - Dallo scisto
+      - Olio
+      réponse: Diamanti
+      anecdote: Nel parco dei divertimenti Efteling, i nani vivono nella Foresta delle fiabe, vicino al castello di sua suocera.
+    - id: 23
+      question: Nel 2037, quanti anni avrà il famoso cartone animato « Blanche-Neige » degli studi Disney ?
+      propositions:
+      - 75 anni
+      - 50 anni
+      - 100 anni
+      - 125 anni
+      réponse: 100 anni
+      anecdote: Il budget di produzione, 1,48 milioni di dollari, segna il massimo storico per l'epoca.
+    - id: 24
+      question: Qual è il nome del gatto della suocera di Cenerentola ?
+      propositions:
+      - Lucifero
+      - Diabolo
+      - Belzebù
+      - Satana
+      réponse: Lucifero
+      anecdote: Lucifero è il gatto di Lady Trémaine: ingannevole e pigro, rappresenta una minaccia per Jack.
+    - id: 25
+      question: In « Mulan », qual è il nome del drago, il custode della famiglia ?
+      propositions:
+      - Mushu
+      - Yao
+      - Shang
+      - Generale Li
+      réponse: Mushu
+      anecdote: È Eddie Murphy che interpreta la voce originale di Mushu, mentre la voce francese è fornita da José Garcia.
+    - id: 26
+      question: Per la Disney, chi è Rajah, animale domestico della principessa Jasmine ?
+      propositions:
+      - Una tigre
+      - Un procione
+      - Un cinghiale
+      - Un uccello
+      réponse: Una tigre
+      anecdote: Jasmine e Aladdin sono apparsi nel trailer del 2002 del film « Lilo e Stitch ».
+    - id: 27
+      question: In « Cenerentola », quali animali si trasformano in cavalli da lavoro ?
+      propositions:
+      - Conigli
+      - Pecora
+      - Oche
+      - Mouse
+      réponse: Mouse
+      anecdote: La composizione delle pantofole di Cenerentola è oggetto di dibattito ricorrente in Europa.
+    - id: 28
+      question: La plastica di quale manichino è stata utilizzata per creare le caratteristiche principali di Pocahontas ?
+      propositions:
+      - Naomi Campbell
+      - Kelly Brook
+      - Sienna Miller
+      - Katie Price
+      réponse: Naomi Campbell
+      anecdote: Il personaggio di Pocahontas è vagamente ispirato al personaggio storico Matoaka (Piccola piuma di neve).
+    - id: 29
+      question: Quale principessa Disney comunica liberamente con la natura e gli animali ?
+      propositions:
+      - Merida
+      - Tiana
+      - Mulan
+      - Pocahontas
+      réponse: Pocahontas
+      anecdote: Gli autori del film hanno inventato una Pocahontas ecologica, determinata e fisicamente attraente.
+    - id: 30
+      question: Quale di queste principesse è molto spesso rappresentata nel suo abito da ballo giallo dorato ?
+      propositions:
+      - Merida
+      - Mulan
+      - Tiana
+      - Bello
+      réponse: Bello
+      anecdote: Dal 2011, Belle è stata uno dei personaggi principali della serie televisiva « C'era una volta ».
+  nl:
+  - débutant:
+    - id: 1
+      question: Welke bloem die liefde vertegenwoordigt, is de drager van pech in « Beauty and the Beast » ?
+      propositions:
+      - Een tulp
+      - Een narcis
+      - Een anjer
+      - Een roos
+      réponse: Een roos
+      anecdote: Hoewel niet vermeld in de film, wordt de jonge prins, wiens motto Vainc qui se vaincre is, Adam genoemd.
+    - id: 2
+      question: Wat verandert het weelderige rijtuig van Assepoester na middernacht in ?
+      propositions:
+      - In pompoen
+      - Appel
+      - In muis
+      - In cake
+      réponse: In pompoen
+      anecdote: Assepoester is een jonge vrouw die onder het gezag staat van haar stiefmoeder, Lady Trémaine, en dat van haar twee halfzussen.
+    - id: 3
+      question: Welke Disney-prinses kun je « Fluitje horen zingen tijdens het werken » ?
+      propositions:
+      - Sneeuwwitje
+      - Tiana
+      - Pocahontas
+      - Merida
+      réponse: Sneeuwwitje
+      anecdote: De versie gemaakt door Disney Studios verschilt enigszins van andere aanpassingen van het verhaal.
+    - id: 4
+      question: Hoeveel dwergen hebben Sneeuwwitje verwelkomd in hun huisje diep in het bos ?
+      propositions:
+      - Vijf
+      - Vier
+      - Zeven
+      - Zes
+      réponse: Zeven
+      anecdote: « Sneeuwwitje en de zeven dwergen » is de eerste animatiefilm van Disney.
+    - id: 5
+      question: Wie zingt « Op een dag komt mijn prins » in een Disney-tekenfilm ?
+      propositions:
+      - Alice
+      - Assepoester
+      - Jasmijn
+      - Sneeuwwitje
+      réponse: Sneeuwwitje
+      anecdote: De film « Blanche-Neige » is een bewerking van het gelijknamige verhaal van de gebroeders Grimm uit 1812.
+    - id: 6
+      question: Hoe maakt Prince Charming Sneeuwwitje wakker ?
+      propositions:
+      - Door een lied
+      - Door een klap
+      - Door een hapje
+      - Door een kus
+      réponse: Door een kus
+      anecdote: De bekendste versie van « Blanche-Neige » is die van Jacob en Wilhelm Grimm, gepubliceerd in 1812.
+    - id: 7
+      question: Welke beroemde prinses van het grote scherm is vergiftigd met een appel ?
+      propositions:
+      - Assepoester
+      - Sneeuwwitje
+      - Raponsje
+      - Ariel
+      réponse: Sneeuwwitje
+      anecdote: Sneeuwwitje is een heel mooie prinses, waar haar stiefmoeder, de koningin, jaloers op wordt.
+    - id: 8
+      question: Welke Disney-heldin krijgt het recht om na middernacht bij het bal te blijven ?
+      propositions:
+      - Aurora
+      - Assepoester
+      - Alice
+      - Sneeuwwitje
+      réponse: Assepoester
+      anecdote: Sommige versies van Assepoester kunnen erg van elkaar verschillen.
+    - id: 9
+      question: Hoe laat keren de kleren van Assepoester terug naar haar gebruikelijke vodden ?
+      propositions:
+      - Middernacht
+      - Elf uur
+      - Drie uur
+      - Middag
+      réponse: Middernacht
+      anecdote: Het Westen kent vooral het verhaal van Assepoester door de versies van Charles Perrault.
+    - id: 10
+      question: Wie werd er door dwergen in een glazen kist gelegd en vervolgens gewekt door een prins ?
+      propositions:
+      - Sneeuwwitje
+      - Assepoester
+      - Fiona
+      - Esmeralda
+      réponse: Sneeuwwitje
+      anecdote: Sneeuwwitje laat zien dat je niet gehecht moet raken aan kortstondige dingen als schoonheid en jeugd.
+  - confirmé:
+    - id: 11
+      question: Welke kleur wordt vaak geassocieerd met Aurora in « Doornroosje » ?
+      propositions:
+      - Roos
+      - Blauw
+      - Rood
+      - Groen
+      réponse: Roos
+      anecdote: Het beroemde Princess Aurora Castle wordt in de Disneyland-parken gebruikt als een icoon van het Fantasyland-gebied.
+    - id: 12
+      question: Welke Disney-avonturen vinden plaats in Noord-China ?
+      propositions:
+      - Pocahontas
+      - Raiponce
+      - Mulan
+      - Rebelle
+      réponse: Mulan
+      anecdote: Het karakter van Mulans personage verschilt van de Disney-klassiekers, vooral de prinsessen.
+    - id: 13
+      question: Welke Disney-prinses is een zeemeermin die bij haar vader, koning Triton, woont ?
+      propositions:
+      - Ariel
+      - Merida
+      - Jasmijn
+      - Tiana
+      réponse: Ariel
+      anecdote: Gastheer Glen Keane zei naar verluidt in een gesprek dat het uiterlijk van het personage was gebaseerd op zijn eigen vrouw.
+    - id: 14
+      question: Welke prinses zingt in de wereld van Disney « Deze blauwe droom » ?
+      propositions:
+      - Tiana
+      - Merida
+      - Jasmijn
+      - Ariel
+      réponse: Jasmijn
+      anecdote: Jasmine is een fictief personage dat voor het eerst verscheen in 1992 in de animatiefilm « Aladdin ».
+    - id: 15
+      question: Welke Disney-prinses staat bekend om haar lange blonde haar ?
+      propositions:
+      - Merida
+      - Tiana
+      - Ariel
+      - Raponsje
+      réponse: Raponsje
+      anecdote: Als je een deel van Raponsje's haar knipt, wordt het bruin en verliest het zijn magische effecten.
+    - id: 16
+      question: Welke Disney-film bracht een arme dief en een mooie prinses samen op de schermen ?
+      propositions:
+      - Rebelle
+      - Aladdin
+      - Pocahontas
+      - Raiponce
+      réponse: Aladdin
+      anecdote: Jasmine's uiterlijk werd geïnspireerd door Jennifer Connelly, maar ook door de zus van de gastheer van het personage.
+    - id: 17
+      question: Wie maakte de eerste baljurk die Assepoester droeg ?
+      propositions:
+      - Heksen
+      - Kinderen
+      - Muizen
+      - Uilen
+      réponse: Muizen
+      anecdote: Assepoester wordt zo genoemd omdat ze in de as rust nadat de klus is geklaard.
+    - id: 18
+      question: Wie is Meeko in « Pocahontas, een Indiase legende » ?
+      propositions:
+      - Een wasbeer
+      - Een beer
+      - Een wild zwijn
+      - Een vogel
+      réponse: Een wasbeer
+      anecdote: Disney gaf Pocahontas de kenmerken en het uiterlijk van planetair model Naomi Campbell.
+    - id: 19
+      question: Welke Disney-prinses verlaat haar pijl en boog bijna nooit ?
+      propositions:
+      - Tiana
+      - Ariel
+      - Merida
+      - Jasmijn
+      réponse: Merida
+      anecdote: Merida is de hoofdpersoon van de animatiefilm « Rebel », uitgebracht in 2012.
+    - id: 20
+      question: Welke eerste Afro-Amerikaanse prinses werd opgevoerd door Disney ?
+      propositions:
+      - Aurora
+      - Tiana
+      - Jasmijn
+      - Ariel
+      réponse: Tiana
+      anecdote: Disney draait hier zijn beslissing om geen tweedimensionale films meer te maken terug.
+  - expert:
+    - id: 21
+      question: Welke Disney-prinses is vakkundig getraind in vechtsporten ?
+      propositions:
+      - Merida
+      - Ariel
+      - Tiana
+      - Mulan
+      réponse: Mulan
+      anecdote: Mulans moed, vastberadenheid en vindingrijkheid zullen haar helpen bij haar avonturen om het respect van anderen te verdienen.
+    - id: 22
+      question: Waar zoeken de zeven dwergen van Sneeuwwitje naar in hun mijn ?
+      propositions:
+      - Diamanten
+      - Van schalie
+      - Steenkool
+      - Olie
+      réponse: Diamanten
+      anecdote: In attractiepark de Efteling wonen de dwergen in het Sprookjesbos, naast het kasteel van zijn schoonmoeder.
+    - id: 23
+      question: Hoe oud zal de beroemde tekenfilm « Blanche-Neige » uit de Disney-studio's in 2037 zijn ?
+      propositions:
+      - 50 jaar
+      - 100 jaar
+      - 75 jaar
+      - 125 jaar
+      réponse: 100 jaar
+      anecdote: Het productiebudget, $ 1,48 miljoen, markeert een recordhoogte voor die tijd.
+    - id: 24
+      question: Hoe heet de kat van Assepoester's schoonmoeder ?
+      propositions:
+      - Diabolo
+      - Lucifer
+      - Beëlzebub
+      - Satan
+      réponse: Lucifer
+      anecdote: Lucifer is de kat van Lady Trémaine: bedrieglijk en lui, hij vormt een bedreiging voor Jack.
+    - id: 25
+      question: In « Mulan », wat is de naam van de draak, de bewaker van de familie ?
+      propositions:
+      - Mushu
+      - Yao
+      - Shang
+      - Generaal Li
+      réponse: Mushu
+      anecdote: Het is Eddie Murphy die de originele stem van Mushu speelt, terwijl de Franse stem wordt verzorgd door José Garcia.
+    - id: 26
+      question: Voor Disney, wie is Rajah, het huisdier van prinses Jasmine ?
+      propositions:
+      - Een wasbeer
+      - Een vogel
+      - Een wild zwijn
+      - Een tijger
+      réponse: Een tijger
+      anecdote: Jasmine en Aladdin verschenen in een trailer uit 2002 voor de film « Lilo en Stitch ».
+    - id: 27
+      question: Welke dieren worden in « Assepoester » omgevormd tot werkpaarden ?
+      propositions:
+      - Konijnen
+      - Schaap
+      - Muis
+      - Ganzen
+      réponse: Muis
+      anecdote: De samenstelling van de pantoffels van Assepoester is een onderwerp van terugkerende discussie in Europa.
+    - id: 28
+      question: Van welk plastic is een paspop gebruikt om de belangrijkste kenmerken van Pocahontas te creëren ?
+      propositions:
+      - Kelly Brook
+      - Naomi Campbell
+      - Sienna Miller
+      - Katie Price
+      réponse: Naomi Campbell
+      anecdote: Het karakter van Pocahontas is losjes geïnspireerd op het historische karakter Matoaka (kleine sneeuwveer).
+    - id: 29
+      question: Welke Disney-prinses communiceert vrijuit met de natuur en dieren ?
+      propositions:
+      - Tiana
+      - Pocahontas
+      - Merida
+      - Mulan
+      réponse: Pocahontas
+      anecdote: De schrijvers van de film hebben een ecologische, vastberaden en fysiek aantrekkelijke Pocahontas uitgevonden.
+    - id: 30
+      question: Welke van deze prinsessen wordt heel vaak afgebeeld in haar goudgele baljurk ?
+      propositions:
+      - Tiana
+      - Mooi
+      - Mulan
+      - Merida
+      réponse: Mooi
+      anecdote: Sinds 2011 is Belle een van de hoofdpersonen in de televisieserie « Once Upon a Time ».

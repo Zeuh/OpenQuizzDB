@@ -1,0 +1,2035 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes" ?>
+<quizz fournisseur="OpenQuizzDB : Fournisseur de contenu libre"
+       url="https://www.openquizzdb.org"
+       rédacteur="Philippe Bresoux"
+       thème="World of Warcraft (Jeu de rôle en ligne massivement multijoueur)"
+       difficulté="3 / 5">
+  <fr>
+  <débutant>
+    <contenu id="1">
+      <question>Quelle société a développé le jeu vidéo « World of Warcraft » ?</question>
+      <propositions>
+        <proposition id="1-1">MicroProse</proposition>
+        <proposition id="1-2">Palace Software</proposition>
+        <proposition id="1-3">Accolade</proposition>
+        <proposition id="1-4">Blizzard Ent.</proposition>
+      </propositions>
+      <réponse proposition="1-4">Blizzard Ent.</réponse>
+      <anecdote>Blizzard Entertainment (anc. Silicon and Synapse) a été fondée en 1991 par Allen Adham, Michael Morhaime et Frank Pearce.</anecdote>
+    </contenu>
+    <contenu id="2">
+      <question>Pour quel anniversaire de la franchise « World of Warcraft » est-il sorti ?</question>
+      <propositions>
+        <proposition id="2-1">Les 5 ans</proposition>
+        <proposition id="2-2">Les 20 ans</proposition>
+        <proposition id="2-3">Les 10 ans</proposition>
+        <proposition id="2-4">Les 15 ans</proposition>
+      </propositions>
+      <réponse proposition="2-3">Les 10 ans</réponse>
+      <anecdote>« World of Warcraft » prend place en Azeroth, près de quatre ans après la fin du jeu précédent, « Warcraft III: The Frozen Throne ».</anecdote>
+    </contenu>
+    <contenu id="3">
+      <question>Dans quelle catégorie de jeux vidéo peut-on classer « World of Warcraft » ?</question>
+      <propositions>
+        <proposition id="3-1">Puzzle</proposition>
+        <proposition id="3-2">Survival horror</proposition>
+        <proposition id="3-3">MMORPG</proposition>
+        <proposition id="3-4">Arcade</proposition>
+      </propositions>
+      <réponse proposition="3-3">MMORPG</réponse>
+      <anecdote>Ces jeux en ligne massivement multijoueur permettent à un grand nombre d'interagir simultanément dans un monde virtuel.</anecdote>
+    </contenu>
+    <contenu id="4">
+      <question>En quelle année « World of Warcraft » est-il sorti en Amérique du Nord ?</question>
+      <propositions>
+        <proposition id="4-1">2004</proposition>
+        <proposition id="4-2">2010</proposition>
+        <proposition id="4-3">2007</proposition>
+        <proposition id="4-4">2013</proposition>
+      </propositions>
+      <réponse proposition="4-1">2004</réponse>
+      <anecdote>Depuis sa sortie, « World of Warcraft » est le plus populaire des MMORPG, possédant un Guinness World Record pour sa popularité.</anecdote>
+    </contenu>
+    <contenu id="5">
+      <question>Dans quel monde imaginaire le jeu « World of Warcraft » prend-il place ?</question>
+      <propositions>
+        <proposition id="5-1">Tyrie</proposition>
+        <proposition id="5-2">Koprulu</proposition>
+        <proposition id="5-3">Azeroth</proposition>
+        <proposition id="5-4">Celestia</proposition>
+      </propositions>
+      <réponse proposition="5-3">Azeroth</réponse>
+      <anecdote>Bien que d'autres planètes existent, la série « Warcraft » se déroule principalement sur Azeroth, qui est composée de cinq continents.</anecdote>
+    </contenu>
+    <contenu id="6">
+      <question>Quelles sont les deux factions de personnages du jeu « World of Warcraft » ?</question>
+      <propositions>
+        <proposition id="6-1">Elfes et Gobelins</proposition>
+        <proposition id="6-2">Alliance et Horde</proposition>
+        <proposition id="6-3">Titans et Centaures</proposition>
+        <proposition id="6-4">Orcs et Trolls</proposition>
+      </propositions>
+      <réponse proposition="6-2">Alliance et Horde</réponse>
+      <anecdote>Si l'Alliance permet d'incarner un Humain, un Nain, un Gnome ou un Elfe, côté Horde ce sera Orc, Troll, Tauren ou Mort-vivant.</anecdote>
+    </contenu>
+    <contenu id="7">
+      <question>Sur base de quoi est constitué le principe général de « World of Warcraft » ?</question>
+      <propositions>
+        <proposition id="7-1">Vitesse</proposition>
+        <proposition id="7-2">Cadeaux</proposition>
+        <proposition id="7-3">Trocs</proposition>
+        <proposition id="7-4">Quêtes</proposition>
+      </propositions>
+      <réponse proposition="7-4">Quêtes</réponse>
+      <anecdote>Au bout d'un nombre de points d'expérience gagnés au fil des quêtes, le joueur augmente ses caractéristiques et son niveau.</anecdote>
+    </contenu>
+    <contenu id="8">
+      <question>Quel terme désigne les serveurs sur lesquels on joue à « World of Warcraft » ?</question>
+      <propositions>
+        <proposition id="8-1">Entité</proposition>
+        <proposition id="8-2">Tour</proposition>
+        <proposition id="8-3">Royaume</proposition>
+        <proposition id="8-4">Plateau</proposition>
+      </propositions>
+      <réponse proposition="8-3">Royaume</réponse>
+      <anecdote>Blizzard permet parfois la migration de personnages d'un royaume vers un autre, afin de désengorger un royaume de la saturation.</anecdote>
+    </contenu>
+    <contenu id="9">
+      <question>Quelle est la couleur des personnages non-joueurs amicaux dans « World of Warcraft » ?</question>
+      <propositions>
+        <proposition id="9-1">Rouge</proposition>
+        <proposition id="9-2">Blanc</proposition>
+        <proposition id="9-3">Bleu</proposition>
+        <proposition id="9-4">Vert</proposition>
+      </propositions>
+      <réponse proposition="9-4">Vert</réponse>
+      <anecdote>Les PNJ sont les personnages qui peuvent seulement interagir avec les personnages joueurs grâce à l'intelligence artificielle (IA).</anecdote>
+    </contenu>
+    <contenu id="10">
+      <question>Dans quels endroits du jeu les joueurs de WoW peuvent-ils s'affronter entre eux ?</question>
+      <propositions>
+        <proposition id="10-1">Plaines</proposition>
+        <proposition id="10-2">Cimetières</proposition>
+        <proposition id="10-3">Arènes</proposition>
+        <proposition id="10-4">Donjons</proposition>
+      </propositions>
+      <réponse proposition="10-3">Arènes</réponse>
+      <anecdote>Dans cet aspect du mode Joueur Contre Joueur (JCJ), les joueurs peuvent former des équipes afin de jouer en 2-2, 3-3 ou 5-5.</anecdote>
+    </contenu>
+  </débutant>
+  <confirmé>
+    <contenu id="11">
+      <question>Quel est le nom de la sixième extension de « World of Warcraft », sortie en 2016 ?</question>
+      <propositions>
+        <proposition id="11-1">Legion</proposition>
+        <proposition id="11-2">Cataclysm</proposition>
+        <proposition id="11-3">Lich King</proposition>
+        <proposition id="11-4">Pandaria</proposition>
+      </propositions>
+      <réponse proposition="11-1">Legion</réponse>
+      <anecdote>Depuis sa sortie en 2004, sept extensions ont déjà été publiées, la septième extension, « Battle for Azeroth », étant sortie en 2018.</anecdote>
+    </contenu>
+    <contenu id="12">
+      <question>Quel personnage ne pourrez-vous pas incarner côté Horde dans WoW ?</question>
+      <propositions>
+        <proposition id="12-1">Gnome</proposition>
+        <proposition id="12-2">Mort-vivant</proposition>
+        <proposition id="12-3">Troll</proposition>
+        <proposition id="12-4">Orc</proposition>
+      </propositions>
+      <réponse proposition="12-1">Gnome</réponse>
+      <anecdote>Avec l'arrivée des extensions depuis 2007, chacune des factions de « World of Warcraft » se voit parfois dotée de nouvelles races.</anecdote>
+    </contenu>
+    <contenu id="13">
+      <question>Combien coûte dans WoW la migration d'un personnage d'un royaume à un autre ?</question>
+      <propositions>
+        <proposition id="13-1">15 euros</proposition>
+        <proposition id="13-2">35 euros</proposition>
+        <proposition id="13-3">25 euros</proposition>
+        <proposition id="13-4">45 euros</proposition>
+      </propositions>
+      <réponse proposition="13-3">25 euros</réponse>
+      <anecdote>Les utilisateurs peuvent créer jusqu'à 12 personnages par royaume et 50 personnages au total sur de multiples races et classes.</anecdote>
+    </contenu>
+    <contenu id="14">
+      <question>Quelle race est considérée comme « neutre » dans « World of Warcraft » ?</question>
+      <propositions>
+        <proposition id="14-1">Centaure</proposition>
+        <proposition id="14-2">Draconide</proposition>
+        <proposition id="14-3">Dryade</proposition>
+        <proposition id="14-4">Pandaren</proposition>
+      </propositions>
+      <réponse proposition="14-4">Pandaren</réponse>
+      <anecdote>« World of Warcraft : Mists of Pandaria » est la quatrième extension du MMORPG « World of Warcraft » de Blizzard Entertainment.</anecdote>
+    </contenu>
+    <contenu id="15">
+      <question>À la base, combien de classes sont disponibles dans « World of Warcraft » ?</question>
+      <propositions>
+        <proposition id="15-1">Neuf</proposition>
+        <proposition id="15-2">Sept</proposition>
+        <proposition id="15-3">Onze</proposition>
+        <proposition id="15-4">Treize</proposition>
+      </propositions>
+      <réponse proposition="15-1">Neuf</réponse>
+      <anecdote>Les neuf classes disponibles sont Chaman, Chasseur, Démoniste, Druide, Guerrier, Mage, Paladin, Prêtre et Voleur.</anecdote>
+    </contenu>
+    <contenu id="16">
+      <question>Comment est également appelée l'édition découverte de « World of Warcraft » ?</question>
+      <propositions>
+        <proposition id="16-1">K2P</proposition>
+        <proposition id="16-2">W2P</proposition>
+        <proposition id="16-3">F2P</proposition>
+        <proposition id="16-4">P2P</proposition>
+      </propositions>
+      <réponse proposition="16-3">F2P</réponse>
+      <anecdote>Ce modèle dit gratuit à jouer (free to play en anglais, aussi abrégé F2P), permet à quiconque de jouer à « World of Warcraft ».</anecdote>
+    </contenu>
+    <contenu id="17">
+      <question>Dans « World of Warcraft », quel objet permet de se propulser directement à un niveau ?</question>
+      <propositions>
+        <proposition id="17-1">Sésame</proposition>
+        <proposition id="17-2">Parapluie</proposition>
+        <proposition id="17-3">Clé verte</proposition>
+        <proposition id="17-4">Propulseur</proposition>
+      </propositions>
+      <réponse proposition="17-1">Sésame</réponse>
+      <anecdote>Objet aujourd'hui offert dans certains cas, le Sésame pouvait être acheté dans la boutique Blizzard pour la somme de 50 euros.</anecdote>
+    </contenu>
+    <contenu id="18">
+      <question>Jusqu'à combien de pièces d'équipement un personnage peut-il porter dans WoW ?</question>
+      <propositions>
+        <proposition id="18-1">Seize</proposition>
+        <proposition id="18-2">Quatre</proposition>
+        <proposition id="18-3">Huit</proposition>
+        <proposition id="18-4">Douze</proposition>
+      </propositions>
+      <réponse proposition="18-1">Seize</réponse>
+      <anecdote>La plupart des pièces d'équipement de haut niveau peuvent être améliorées par des parchemins ou des gemmes.</anecdote>
+    </contenu>
+    <contenu id="19">
+      <question>Quelle extension de « World of Warcraft » retrace le retour de la Légion Ardente ?</question>
+      <propositions>
+        <proposition id="19-1">Legion</proposition>
+        <proposition id="19-2">Pandaria</proposition>
+        <proposition id="19-3">Cataclysm</proposition>
+        <proposition id="19-4">Lich King</proposition>
+      </propositions>
+      <réponse proposition="19-1">Legion</réponse>
+      <anecdote>« World of Warcraft » est le quatrième jeu de l'univers médiéval-fantastique « Warcraft », introduit par « Warcraft : Orcs and Humans ».</anecdote>
+    </contenu>
+    <contenu id="20">
+      <question>Quelle somme est-il impossible de dépasser dans la version gratuite de WoW ?</question>
+      <propositions>
+        <proposition id="20-1">50 pièces d'or</proposition>
+        <proposition id="20-2">10 pièces d'or</proposition>
+        <proposition id="20-3">100 pièces d'or</proposition>
+        <proposition id="20-4">30 pièces d'or</proposition>
+      </propositions>
+      <réponse proposition="20-2">10 pièces d'or</réponse>
+      <anecdote>Les restrictions de l'édition découverte ont pour but d'inciter le joueur à prendre un abonnement si celui-ci se lasse.</anecdote>
+    </contenu>
+  </confirmé>
+  <expert>
+    <contenu id="21">
+      <question>Que représente la race des Worgens depuis l'extension « Cataclysm » de « World of Warcraft » ?</question>
+      <propositions>
+        <proposition id="21-1">Elfes</proposition>
+        <proposition id="21-2">Zombies</proposition>
+        <proposition id="21-3">Orcs</proposition>
+        <proposition id="21-4">Loups-garous</proposition>
+      </propositions>
+      <réponse proposition="21-4">Loups-garous</réponse>
+      <anecdote>Jouables depuis l'extension « Cataclysm », il s'agit d'humains contaminés ayant été transformés en monstres sauvages.</anecdote>
+    </contenu>
+    <contenu id="22">
+      <question>Quel jeune paladin est prince du royaume de Lordaeron dans « World of Warcraft » ?</question>
+      <propositions>
+        <proposition id="22-1">Thrall</proposition>
+        <proposition id="22-2">Sylvanas</proposition>
+        <proposition id="22-3">Arthas</proposition>
+        <proposition id="22-4">Anduin</proposition>
+      </propositions>
+      <réponse proposition="22-3">Arthas</réponse>
+      <anecdote>Arthas Menethil occupera le Trône de Glace jusqu'à ce que Tirion Fordring parvienne à le vaincre et que Fordragon prenne sa place.</anecdote>
+    </contenu>
+    <contenu id="23">
+      <question>Dans quelle série télé le docteur Weir parle-t-il de « World of Warcraft » ?</question>
+      <propositions>
+        <proposition id="23-1">Stargate Atlantis</proposition>
+        <proposition id="23-2">Dr House</proposition>
+        <proposition id="23-3">Grey's Anatomy</proposition>
+        <proposition id="23-4">Urgence</proposition>
+      </propositions>
+      <réponse proposition="23-1">Stargate Atlantis</réponse>
+      <anecdote>Le docteur Weir tente de distraire le docteur Lee en lui faisant croire qu'elle est une adepte. S'ensuit toute une conversation sur le jeu.</anecdote>
+    </contenu>
+    <contenu id="24">
+      <question>Quelle classe de WoW se spécialise sans les soins, les dégâts ou le tanking ?</question>
+      <propositions>
+        <proposition id="24-1">Botaniste</proposition>
+        <proposition id="24-2">Chirurgien</proposition>
+        <proposition id="24-3">Moine</proposition>
+        <proposition id="24-4">Charpentier</proposition>
+      </propositions>
+      <réponse proposition="24-3">Moine</réponse>
+      <anecdote>La classe est apparue avec la quatrième extension appelée « Mists of Pandaria », dont l'annonce a été faite lors de la BlizzCon 2011.</anecdote>
+    </contenu>
+    <contenu id="25">
+      <question>Quel métier offre la possibilité de trouver des reliques dans « World of Warcraft » ?</question>
+      <propositions>
+        <proposition id="25-1">Archéologie</proposition>
+        <proposition id="25-2">Minage</proposition>
+        <proposition id="25-3">Joaillerie</proposition>
+        <proposition id="25-4">Calligraphie</proposition>
+      </propositions>
+      <réponse proposition="25-1">Archéologie</réponse>
+      <anecdote>Ce métier est apparu avec la « Cataclysm », la troisième extension dont l'annonce a été faite à la session d'ouverture de la BlizzCon 2009.</anecdote>
+    </contenu>
+    <contenu id="26">
+      <question>Dans « World of Warcraft », quelle planète peut être atteinte via la Porte des Ténèbres ?</question>
+      <propositions>
+        <proposition id="26-1">Norfendre</proposition>
+        <proposition id="26-2">Kalimdor</proposition>
+        <proposition id="26-3">Darnassus</proposition>
+        <proposition id="26-4">Outreterre</proposition>
+      </propositions>
+      <réponse proposition="26-4">Outreterre</réponse>
+      <anecdote>La Porte des ténèbres a été ouverte par Medivh sous l'emprise de Sargeras, le fondateur de la Légion ardente.</anecdote>
+    </contenu>
+    <contenu id="27">
+      <question>Quels joueurs de « World of Warcraft » collectent tout ce qui est monnayable dans le jeu ?</question>
+      <propositions>
+        <proposition id="27-1">Runners</proposition>
+        <proposition id="27-2">Farmers</proposition>
+        <proposition id="27-3">Miners</proposition>
+        <proposition id="27-4">Killers</proposition>
+      </propositions>
+      <réponse proposition="27-2">Farmers</réponse>
+      <anecdote>Les farmers sont parfois aussi des pirates qui s'introduisent dans le compte d'autres joueurs et revendent ce qu'ils possèdent.</anecdote>
+    </contenu>
+    <contenu id="28">
+      <question>Quelle île d'Azeroth constitue la terre natale de la civilisation Trolle ?</question>
+      <propositions>
+        <proposition id="28-1">Pandaria</proposition>
+        <proposition id="28-2">Kezan</proposition>
+        <proposition id="28-3">Nordrassil</proposition>
+        <proposition id="28-4">Zandalar</proposition>
+      </propositions>
+      <réponse proposition="28-4">Zandalar</réponse>
+      <anecdote>Les cinq continents d'Azeroth sont séparés par La Grande Mer qui abrite en son centre un énorme vortex appelé Le Maelström.</anecdote>
+    </contenu>
+    <contenu id="29">
+      <question>En quelle année fut fondé l'empire humain d'Arathor de « World of Warcraft » ?</question>
+      <propositions>
+        <proposition id="29-1">1148</proposition>
+        <proposition id="29-2">55</proposition>
+        <proposition id="29-3">-2900</proposition>
+        <proposition id="29-4">3024</proposition>
+      </propositions>
+      <réponse proposition="29-3">-2900</réponse>
+      <anecdote>Azeroth est composé de cinq continents : Les Royaumes de l'Est, Kalimdor, Norfendre, Pandarie et les îles brisées au nord est.</anecdote>
+    </contenu>
+    <contenu id="30">
+      <question>Dans « World of Warcraft », quel chaman est notamment le mentor de Gul'dan ?</question>
+      <propositions>
+        <proposition id="30-1">Rohart</proposition>
+        <proposition id="30-2">Ner'zhul</proposition>
+        <proposition id="30-3">Kamagua</proposition>
+        <proposition id="30-4">Naaru</proposition>
+      </propositions>
+      <réponse proposition="30-2">Ner'zhul</réponse>
+      <anecdote>À la fin des évènements de la Deuxième Guerre, Ner'zhul sera vaincu par l'alliance des Humains, des Hauts-Elfes et des Nains.</anecdote>
+    </contenu>
+  </expert>
+  </fr>  
+  <en>
+  <débutant>
+    <contenu id="1">
+      <question>Which company developed the « World of Warcraft » video game ?</question>
+      <propositions>
+        <proposition id="1-1">Palace Software</proposition>
+        <proposition id="1-2">Blizzard Ent.</proposition>
+        <proposition id="1-3">Accolade</proposition>
+        <proposition id="1-4">MicroProse</proposition>
+      </propositions>
+      <réponse proposition="1-2">Blizzard Ent.</réponse>
+      <anecdote>Blizzard Entertainment (formerly Silicon and Synapse) was founded in 1991 by Allen Adham, Michael Morhaime and Frank Pearce.</anecdote>
+    </contenu>
+    <contenu id="2">
+      <question>For what anniversary of the « World of Warcraft » franchise is it released ?</question>
+      <propositions>
+        <proposition id="2-1">The 15 years old</proposition>
+        <proposition id="2-2">The 20 years</proposition>
+        <proposition id="2-3">The 5 years</proposition>
+        <proposition id="2-4">The 10 years</proposition>
+      </propositions>
+      <réponse proposition="2-4">The 10 years</réponse>
+      <anecdote>« World of Warcraft » takes place in Azeroth, almost four years after the end of the previous game, « Warcraft III: The Frozen Throne ».</anecdote>
+    </contenu>
+    <contenu id="3">
+      <question>In what category of video games can we classify « World of Warcraft » ?</question>
+      <propositions>
+        <proposition id="3-1">Arcade</proposition>
+        <proposition id="3-2">Puzzle</proposition>
+        <proposition id="3-3">MMORPG</proposition>
+        <proposition id="3-4">Survival horror</proposition>
+      </propositions>
+      <réponse proposition="3-3">MMORPG</réponse>
+      <anecdote>These massively multiplayer online games allow a large number of people to interact simultaneously in a virtual world.</anecdote>
+    </contenu>
+    <contenu id="4">
+      <question>What year was « World of Warcraft » released in North America ?</question>
+      <propositions>
+        <proposition id="4-1">2007</proposition>
+        <proposition id="4-2">2013</proposition>
+        <proposition id="4-3">2010</proposition>
+        <proposition id="4-4">2004</proposition>
+      </propositions>
+      <réponse proposition="4-4">2004</réponse>
+      <anecdote>Since its release, « World of Warcraft » has been the most popular MMORPG, holding a Guinness World Record for its popularity.</anecdote>
+    </contenu>
+    <contenu id="5">
+      <question>In what imaginary world does the game « World of Warcraft » take place ?</question>
+      <propositions>
+        <proposition id="5-1">Tyria</proposition>
+        <proposition id="5-2">Azeroth</proposition>
+        <proposition id="5-3">Koprulu</proposition>
+        <proposition id="5-4">Celestia</proposition>
+      </propositions>
+      <réponse proposition="5-2">Azeroth</réponse>
+      <anecdote>Although other planets exist, the « Warcraft » series takes place primarily on Azeroth, which is made up of five continents.</anecdote>
+    </contenu>
+    <contenu id="6">
+      <question>What are the two factions of characters in the « World of Warcraft » game ?</question>
+      <propositions>
+        <proposition id="6-1">Alliance and Horde</proposition>
+        <proposition id="6-2">Titans and Centaurs</proposition>
+        <proposition id="6-3">Orcs and Trolls</proposition>
+        <proposition id="6-4">Elves and Goblins</proposition>
+      </propositions>
+      <réponse proposition="6-1">Alliance and Horde</réponse>
+      <anecdote>If the Alliance allows the incarnation of a Human, a Dwarf, a Gnome or an Elf, on the Horde side it will be Orc, Troll, Tauren or Undead.</anecdote>
+    </contenu>
+    <contenu id="7">
+      <question>What is the general principle of « World of Warcraft » based on ?</question>
+      <propositions>
+        <proposition id="7-1">Speed</proposition>
+        <proposition id="7-2">Quests</proposition>
+        <proposition id="7-3">Gifts</proposition>
+        <proposition id="7-4">Barter</proposition>
+      </propositions>
+      <réponse proposition="7-2">Quests</réponse>
+      <anecdote>After a number of experience points gained during the quests, the player increases his characteristics and his level.</anecdote>
+    </contenu>
+    <contenu id="8">
+      <question>What term designates the servers on which we play « World of Warcraft » ?</question>
+      <propositions>
+        <proposition id="8-1">Kingdom</proposition>
+        <proposition id="8-2">Tray</proposition>
+        <proposition id="8-3">Entity</proposition>
+        <proposition id="8-4">Tour</proposition>
+      </propositions>
+      <réponse proposition="8-1">Kingdom</réponse>
+      <anecdote>Blizzard sometimes allows characters to migrate from one realm to another, in order to unclog a realm from saturation.</anecdote>
+    </contenu>
+    <contenu id="9">
+      <question>What color are the friendly non-player characters in « World of Warcraft » ?</question>
+      <propositions>
+        <proposition id="9-1">Green</proposition>
+        <proposition id="9-2">Red</proposition>
+        <proposition id="9-3">White</proposition>
+        <proposition id="9-4">Blue</proposition>
+      </propositions>
+      <réponse proposition="9-1">Green</réponse>
+      <anecdote>NPCs are characters who can only interact with player characters using artificial intelligence (AI).</anecdote>
+    </contenu>
+    <contenu id="10">
+      <question>Where in the game can WoW players compete against each other ?</question>
+      <propositions>
+        <proposition id="10-1">Cemeteries</proposition>
+        <proposition id="10-2">Arenas</proposition>
+        <proposition id="10-3">Dungeons</proposition>
+        <proposition id="10-4">Plains</proposition>
+      </propositions>
+      <réponse proposition="10-2">Arenas</réponse>
+      <anecdote>In this aspect of Player versus Player (PVP) mode, players can form teams to play 2-2, 3-3 or 5-5.</anecdote>
+    </contenu>
+  </débutant>
+  <confirmé>
+    <contenu id="11">
+      <question>What is the name of the sixth expansion for « World of Warcraft », released in 2016 ?</question>
+      <propositions>
+        <proposition id="11-1">Cataclysm</proposition>
+        <proposition id="11-2">Pandaria</proposition>
+        <proposition id="11-3">Legion</proposition>
+        <proposition id="11-4">Lich King</proposition>
+      </propositions>
+      <réponse proposition="11-3">Legion</réponse>
+      <anecdote>Since its release in 2004, seven expansions have already been released, with the seventh expansion, « Battle for Azeroth », being released in 2018.</anecdote>
+    </contenu>
+    <contenu id="12">
+      <question>Which character will you not be able to play on the Horde side in WoW ?</question>
+      <propositions>
+        <proposition id="12-1">Orc</proposition>
+        <proposition id="12-2">Troll</proposition>
+        <proposition id="12-3">Undead</proposition>
+        <proposition id="12-4">Gnome</proposition>
+      </propositions>
+      <réponse proposition="12-4">Gnome</réponse>
+      <anecdote>With the arrival of expansions since 2007, each of the « World of Warcraft » factions is sometimes given new races.</anecdote>
+    </contenu>
+    <contenu id="13">
+      <question>How much does it cost in WoW to migrate a character from one realm to another ?</question>
+      <propositions>
+        <proposition id="13-1">45 euros</proposition>
+        <proposition id="13-2">25 euros</proposition>
+        <proposition id="13-3">35 euros</proposition>
+        <proposition id="13-4">15 euros</proposition>
+      </propositions>
+      <réponse proposition="13-2">25 euros</réponse>
+      <anecdote>Users can create up to 12 characters per realm and 50 characters in total across multiple races and classes.</anecdote>
+    </contenu>
+    <contenu id="14">
+      <question>Which race is considered neutral in « World of Warcraft » ?</question>
+      <propositions>
+        <proposition id="14-1">Draconid</proposition>
+        <proposition id="14-2">Pandaren</proposition>
+        <proposition id="14-3">Dryad</proposition>
+        <proposition id="14-4">Centaur</proposition>
+      </propositions>
+      <réponse proposition="14-2">Pandaren</réponse>
+      <anecdote>« World of Warcraft : Mists of Pandaria » is the fourth expansion of the MMORPG « World of Warcraft » from Blizzard Entertainment.</anecdote>
+    </contenu>
+    <contenu id="15">
+      <question>Basically, how many classes are available in « World of Warcraft » ?</question>
+      <propositions>
+        <proposition id="15-1">Seven</proposition>
+        <proposition id="15-2">New</proposition>
+        <proposition id="15-3">Eleven</proposition>
+        <proposition id="15-4">Thirteen</proposition>
+      </propositions>
+      <réponse proposition="15-2">New</réponse>
+      <anecdote>The nine available classes are Shaman, Hunter, Warlock, Druid, Warrior, Mage, Paladin, Priest, and Thief.</anecdote>
+    </contenu>
+    <contenu id="16">
+      <question>What is the « World of Warcraft » Discovery Edition also called ?</question>
+      <propositions>
+        <proposition id="16-1">F2P</proposition>
+        <proposition id="16-2">W2P</proposition>
+        <proposition id="16-3">K2P</proposition>
+        <proposition id="16-4">P2P</proposition>
+      </propositions>
+      <réponse proposition="16-1">F2P</réponse>
+      <anecdote>This model says free to play (also abbreviated F2P), allows anyone to play « World of Warcraft ».</anecdote>
+    </contenu>
+    <contenu id="17">
+      <question>In « World of Warcraft », which item allows you to jump directly to a level ?</question>
+      <propositions>
+        <proposition id="17-1">Sesame</proposition>
+        <proposition id="17-2">Green key</proposition>
+        <proposition id="17-3">Thruster</proposition>
+        <proposition id="17-4">Umbrella</proposition>
+      </propositions>
+      <réponse proposition="17-1">Sesame</réponse>
+      <anecdote>Object now offered in certain cases, the Sesame could be purchased in the Blizzard store for the sum of 50 euros.</anecdote>
+    </contenu>
+    <contenu id="18">
+      <question>How many pieces of equipment can a character wear in WoW ?</question>
+      <propositions>
+        <proposition id="18-1">Four</proposition>
+        <proposition id="18-2">Eight</proposition>
+        <proposition id="18-3">Twelve</proposition>
+        <proposition id="18-4">Sixteen</proposition>
+      </propositions>
+      <réponse proposition="18-4">Sixteen</réponse>
+      <anecdote>Most high-level pieces of equipment can be upgraded with scrolls or gems.</anecdote>
+    </contenu>
+    <contenu id="19">
+      <question>Which « World of Warcraft » expansion traces the return of the Burning Legion ?</question>
+      <propositions>
+        <proposition id="19-1">Pandaria</proposition>
+        <proposition id="19-2">Cataclysm</proposition>
+        <proposition id="19-3">Legion</proposition>
+        <proposition id="19-4">Lich King</proposition>
+      </propositions>
+      <réponse proposition="19-3">Legion</réponse>
+      <anecdote>« World of Warcraft » is the fourth game in the medieval-fantasy « Warcraft » universe, introduced by « Warcraft : Orcs and Humans ».</anecdote>
+    </contenu>
+    <contenu id="20">
+      <question>How much can I exceed in the free version of WoW ?</question>
+      <propositions>
+        <proposition id="20-1">10 gold coins</proposition>
+        <proposition id="20-2">100 gold coins</proposition>
+        <proposition id="20-3">30 gold coins</proposition>
+        <proposition id="20-4">50 gold coins</proposition>
+      </propositions>
+      <réponse proposition="20-1">10 gold coins</réponse>
+      <anecdote>The purpose of the discovery edition restrictions is to encourage the player to take out a subscription if he gets bored.</anecdote>
+    </contenu>
+  </confirmé>
+  <expert>
+    <contenu id="21">
+      <question>What does the Worgen race represent from the « Cataclysm » expansion of the game « World of Warcraft » ?</question>
+      <propositions>
+        <proposition id="21-1">Werewolves</proposition>
+        <proposition id="21-2">Orcs</proposition>
+        <proposition id="21-3">Elves</proposition>
+        <proposition id="21-4">Zombies</proposition>
+      </propositions>
+      <réponse proposition="21-1">Werewolves</réponse>
+      <anecdote>Playable from the « Cataclysm » expansion, these are contaminated humans who have been transformed into wild monsters.</anecdote>
+    </contenu>
+    <contenu id="22">
+      <question>Which young paladin is prince of the kingdom of Lordaeron in « World of Warcraft » ?</question>
+      <propositions>
+        <proposition id="22-1">Thrall</proposition>
+        <proposition id="22-2">Arthas</proposition>
+        <proposition id="22-3">Anduin</proposition>
+        <proposition id="22-4">Sylvanas</proposition>
+      </propositions>
+      <réponse proposition="22-2">Arthas</réponse>
+      <anecdote>Arthas Menethil will occupy the Frozen Throne until Tirion Fordring manages to defeat him and Fordragon takes his place.</anecdote>
+    </contenu>
+    <contenu id="23">
+      <question>In which TV series does Dr. Weir speak about « World of Warcraft » ?</question>
+      <propositions>
+        <proposition id="23-1">Grey's Anatomy</proposition>
+        <proposition id="23-2">Dr House</proposition>
+        <proposition id="23-3">Stargate Atlantis</proposition>
+        <proposition id="23-4">Emergency</proposition>
+      </propositions>
+      <réponse proposition="23-3">Stargate Atlantis</réponse>
+      <anecdote>Doctor Weir tries to distract Doctor Lee by making him believe that she is a follower. A whole conversation about the game follows.</anecdote>
+    </contenu>
+    <contenu id="24">
+      <question>Which WoW class specializes without healing, damage, or tanking ?</question>
+      <propositions>
+        <proposition id="24-1">Monk</proposition>
+        <proposition id="24-2">Botanist</proposition>
+        <proposition id="24-3">Surgeon</proposition>
+        <proposition id="24-4">Carpenter</proposition>
+      </propositions>
+      <réponse proposition="24-1">Monk</réponse>
+      <anecdote>The class appeared with the fourth expansion called « Mists of Pandaria », which was announced at BlizzCon 2011.</anecdote>
+    </contenu>
+    <contenu id="25">
+      <question>What profession offers the possibility of finding Relics in « World of Warcraft » ?</question>
+      <propositions>
+        <proposition id="25-1">Archeology</proposition>
+        <proposition id="25-2">Jewelery</proposition>
+        <proposition id="25-3">Calligraphy</proposition>
+        <proposition id="25-4">Mining</proposition>
+      </propositions>
+      <réponse proposition="25-1">Archeology</réponse>
+      <anecdote>This profession first appeared with « Cataclysm », the third expansion announced at the opening session of BlizzCon 2009.</anecdote>
+    </contenu>
+    <contenu id="26">
+      <question>In « World of Warcraft », which planet can be reached via the Dark Portal ?</question>
+      <propositions>
+        <proposition id="26-1">Darnassus</proposition>
+        <proposition id="26-2">Outland</proposition>
+        <proposition id="26-3">Northrend</proposition>
+        <proposition id="26-4">Kalimdor</proposition>
+      </propositions>
+      <réponse proposition="26-2">Outland</réponse>
+      <anecdote>The Dark Portal was opened by Medivh under the sway of Sargeras, the founder of the Burning Legion.</anecdote>
+    </contenu>
+    <contenu id="27">
+      <question>Which « World of Warcraft » players collect anything redeemable in the game ?</question>
+      <propositions>
+        <proposition id="27-1">Miners</proposition>
+        <proposition id="27-2">Farmers</proposition>
+        <proposition id="27-3">Runners</proposition>
+        <proposition id="27-4">Killers</proposition>
+      </propositions>
+      <réponse proposition="27-2">Farmers</réponse>
+      <anecdote>Farmers are sometimes also pirates who break into other players' accounts and sell what they own.</anecdote>
+    </contenu>
+    <contenu id="28">
+      <question>Which island of Azeroth is the birthplace of the Troll civilization ?</question>
+      <propositions>
+        <proposition id="28-1">Kezan</proposition>
+        <proposition id="28-2">Nordrassil</proposition>
+        <proposition id="28-3">Pandaria</proposition>
+        <proposition id="28-4">Zandalar</proposition>
+      </propositions>
+      <réponse proposition="28-4">Zandalar</réponse>
+      <anecdote>The five continents of Azeroth are separated by The Great Sea which houses at its center a huge vortex called The Maelstrom.</anecdote>
+    </contenu>
+    <contenu id="29">
+      <question>In what year was the « World of Warcraft » Arathor Human Empire founded ?</question>
+      <propositions>
+        <proposition id="29-1">-2900</proposition>
+        <proposition id="29-2">55</proposition>
+        <proposition id="29-3">1148</proposition>
+        <proposition id="29-4">3024</proposition>
+      </propositions>
+      <réponse proposition="29-1">-2900</réponse>
+      <anecdote>Azeroth is made up of five continents: The Eastern Kingdoms, Kalimdor, Northrend, Pandaria, and the Shattered Isles to the northeast.</anecdote>
+    </contenu>
+    <contenu id="30">
+      <question>In « World of Warcraft », which particular shaman is Gul'dan's mentor ?</question>
+      <propositions>
+        <proposition id="30-1">Naaru</proposition>
+        <proposition id="30-2">Rohart</proposition>
+        <proposition id="30-3">Kamagua</proposition>
+        <proposition id="30-4">Ner'zhul</proposition>
+      </propositions>
+      <réponse proposition="30-4">Ner'zhul</réponse>
+      <anecdote>At the end of the events of the Second War, Ner'zhul will be defeated by the alliance of Humans, High Elves and Dwarves.</anecdote>
+    </contenu>
+  </expert>
+  </en>
+  <de>
+  <débutant>
+    <contenu id="1">
+      <question>Welches Unternehmen hat das Videospiel « World of Warcraft » entwickelt ?</question>
+      <propositions>
+        <proposition id="1-1">MicroProse</proposition>
+        <proposition id="1-2">Accolade</proposition>
+        <proposition id="1-3">Palace Software</proposition>
+        <proposition id="1-4">Blizzard Ent.</proposition>
+      </propositions>
+      <réponse proposition="1-4">Blizzard Ent.</réponse>
+      <anecdote>Blizzard Entertainment (ehemals Silicon and Synapse) wurde 1991 von Allen Adham, Michael Morhaime und Frank Pearce gegründet.</anecdote>
+    </contenu>
+    <contenu id="2">
+      <question>Zu welchem Jahrestag der « World of Warcraft » Franchise wird sie veröffentlicht ?</question>
+      <propositions>
+        <proposition id="2-1">Die 5 Jahre</proposition>
+        <proposition id="2-2">Die 20 Jahre</proposition>
+        <proposition id="2-3">Der 15-jährige</proposition>
+        <proposition id="2-4">Die 10 Jahre</proposition>
+      </propositions>
+      <réponse proposition="2-4">Die 10 Jahre</réponse>
+      <anecdote>« World of Warcraft » findet in Azeroth statt, fast vier Jahre nach dem Ende des vorherigen Spiels, « Warcraft III: Der gefrorene Thron ».</anecdote>
+    </contenu>
+    <contenu id="3">
+      <question>In welche Kategorie von Videospielen können wir « World of Warcraft » einordnen ?</question>
+      <propositions>
+        <proposition id="3-1">Überlebenshorror</proposition>
+        <proposition id="3-2">Puzzle</proposition>
+        <proposition id="3-3">Arcade</proposition>
+        <proposition id="3-4">MMORPG</proposition>
+      </propositions>
+      <réponse proposition="3-4">MMORPG</réponse>
+      <anecdote>Diese Massively Multiplayer Online-Spiele ermöglichen es einer großen Anzahl von Menschen, gleichzeitig in einer virtuellen Welt zu interagieren.</anecdote>
+    </contenu>
+    <contenu id="4">
+      <question>In welche Jahr wurde « World of Warcraft » in Nordamerika veröffentlicht ?</question>
+      <propositions>
+        <proposition id="4-1">2007</proposition>
+        <proposition id="4-2">2010</proposition>
+        <proposition id="4-3">2013</proposition>
+        <proposition id="4-4">2004</proposition>
+      </propositions>
+      <réponse proposition="4-4">2004</réponse>
+      <anecdote>Seit seiner Veröffentlichung ist « World of Warcraft » das beliebteste MMORPG und hält einen Guinness-Weltrekord für seine Popularität.</anecdote>
+    </contenu>
+    <contenu id="5">
+      <question>In welcher imaginären Welt findet das Spiel « World of Warcraft » statt ?</question>
+      <propositions>
+        <proposition id="5-1">Tyria</proposition>
+        <proposition id="5-2">Koprulu</proposition>
+        <proposition id="5-3">Celestia</proposition>
+        <proposition id="5-4">Azeroth</proposition>
+      </propositions>
+      <réponse proposition="5-4">Azeroth</réponse>
+      <anecdote>Obwohl andere Planeten existieren, findet die « Warcraft » Serie hauptsächlich auf Azeroth statt, das aus fünf Kontinenten besteht.</anecdote>
+    </contenu>
+    <contenu id="6">
+      <question>Was sind die beiden Fraktionen von Charakteren im Spiel « World of Warcraft » ?</question>
+      <propositions>
+        <proposition id="6-1">Elfen und Goblins</proposition>
+        <proposition id="6-2">Allianz und Horde</proposition>
+        <proposition id="6-3">Orks und Trolle</proposition>
+        <proposition id="6-4">Titanen und Zentauren</proposition>
+      </propositions>
+      <réponse proposition="6-2">Allianz und Horde</réponse>
+      <anecdote>Wenn die Allianz die Inkarnation eines Menschen, eines Zwergs, eines Gnomen oder eines Elfen erlaubt, sind es auf der Seite der Horde Orks, Trolle, Tauren oder Untote.</anecdote>
+    </contenu>
+    <contenu id="7">
+      <question>Worauf basiert das allgemeine Prinzip von « World of Warcraft » ?</question>
+      <propositions>
+        <proposition id="7-1">Geschwindigkeit</proposition>
+        <proposition id="7-2">Tauschhandel</proposition>
+        <proposition id="7-3">Geschenke</proposition>
+        <proposition id="7-4">Quests</proposition>
+      </propositions>
+      <réponse proposition="7-4">Quests</réponse>
+      <anecdote>Nach einer Reihe von Erfahrungspunkten, die durch die Quests gesammelt wurden, erhöht der Spieler seine Eigenschaften und sein Level.</anecdote>
+    </contenu>
+    <contenu id="8">
+      <question>Welcher Begriff bezeichnet die Server, auf denen wir « World of Warcraft » spielen ?</question>
+      <propositions>
+        <proposition id="8-1">Entität</proposition>
+        <proposition id="8-2">Fach</proposition>
+        <proposition id="8-3">Tour</proposition>
+        <proposition id="8-4">Königreich</proposition>
+      </propositions>
+      <réponse proposition="8-4">Königreich</réponse>
+      <anecdote>Mit Blizzard können Charaktere manchmal von einem Bereich in einen anderen migrieren, um einen Bereich von der Sättigung zu befreien.</anecdote>
+    </contenu>
+    <contenu id="9">
+      <question>Welche Farbe haben die freundlichen Nicht-Spieler-Charaktere in « World of Warcraft » ?</question>
+      <propositions>
+        <proposition id="9-1">Blau</proposition>
+        <proposition id="9-2">Grün</proposition>
+        <proposition id="9-3">Weiß</proposition>
+        <proposition id="9-4">Rot</proposition>
+      </propositions>
+      <réponse proposition="9-2">Grün</réponse>
+      <anecdote>NPCs sind Charaktere, die nur mit künstlicher Intelligenz (KI) mit Spielercharakteren interagieren können.</anecdote>
+    </contenu>
+    <contenu id="10">
+      <question>Wo im Spiel können WoW-Spieler gegeneinander antreten ?</question>
+      <propositions>
+        <proposition id="10-1">Arenen</proposition>
+        <proposition id="10-2">Dungeons</proposition>
+        <proposition id="10-3">Ebenen</proposition>
+        <proposition id="10-4">Friedhöfe</proposition>
+      </propositions>
+      <réponse proposition="10-1">Arenen</réponse>
+      <anecdote>In diesem Aspekt des PVP-Modus (Player versus Player) können Spieler Teams bilden, um 2-2, 3-3 oder 5-5 zu spielen.</anecdote>
+    </contenu>
+  </débutant>
+  <confirmé>
+    <contenu id="11">
+      <question>Wie heißt die sechste Erweiterung für « World of Warcraft », die 2016 veröffentlicht wurde ?</question>
+      <propositions>
+        <proposition id="11-1">Pandaria</proposition>
+        <proposition id="11-2">Lichkönig</proposition>
+        <proposition id="11-3">Katastrophe</proposition>
+        <proposition id="11-4">Legion</proposition>
+      </propositions>
+      <réponse proposition="11-4">Legion</réponse>
+      <anecdote>Seit seiner Veröffentlichung im Jahr 2004 wurden bereits sieben Erweiterungen veröffentlicht. Die siebte Erweiterung, « Battle for Azeroth », wurde 2018 veröffentlicht.</anecdote>
+    </contenu>
+    <contenu id="12">
+      <question>Welchen Charakter kannst du in WoW nicht auf der Seite der Horde spielen ?</question>
+      <propositions>
+        <proposition id="12-1">Gnom</proposition>
+        <proposition id="12-2">Ork</proposition>
+        <proposition id="12-3">Troll</proposition>
+        <proposition id="12-4">Untote</proposition>
+      </propositions>
+      <réponse proposition="12-1">Gnom</réponse>
+      <anecdote>Mit der Einführung von Erweiterungen seit 2007 erhält jede der « World of Warcraft » Fraktionen manchmal neue Rassen.</anecdote>
+    </contenu>
+    <contenu id="13">
+      <question>Wie viel kostet es in WoW, einen Charakter von einem Reich in ein anderes zu migrieren ?</question>
+      <propositions>
+        <proposition id="13-1">45 euro</proposition>
+        <proposition id="13-2">35 euro</proposition>
+        <proposition id="13-3">25 euro</proposition>
+        <proposition id="13-4">15 euro</proposition>
+      </propositions>
+      <réponse proposition="13-3">25 euro</réponse>
+      <anecdote>Benutzer können bis zu 12 Zeichen pro Realm und insgesamt 50 Zeichen in mehreren Rassen und Klassen erstellen.</anecdote>
+    </contenu>
+    <contenu id="14">
+      <question>Welche Rasse gilt in « World of Warcraft » als neutral ?</question>
+      <propositions>
+        <proposition id="14-1">Draconid</proposition>
+        <proposition id="14-2">Zentaur</proposition>
+        <proposition id="14-3">Pandaren</proposition>
+        <proposition id="14-4">Dryade</proposition>
+      </propositions>
+      <réponse proposition="14-3">Pandaren</réponse>
+      <anecdote>« World of Warcraft: Mists of Pandaria » ist die vierte Erweiterung des MMORPG « World of Warcraft » von Blizzard Entertainment.</anecdote>
+    </contenu>
+    <contenu id="15">
+      <question>Wie viele Klassen sind in « World of Warcraft » verfügbar ?</question>
+      <propositions>
+        <proposition id="15-1">Elf</proposition>
+        <proposition id="15-2">Sieben</proposition>
+        <proposition id="15-3">Neu</proposition>
+        <proposition id="15-4">Dreizehn</proposition>
+      </propositions>
+      <réponse proposition="15-3">Neu</réponse>
+      <anecdote>Die neun verfügbaren Klassen sind Schamane, Jäger, Hexenmeister, Druide, Krieger, Magier, Paladin, Priester und Dieb.</anecdote>
+    </contenu>
+    <contenu id="16">
+      <question>Wie heißt die « World of Warcraft » Discovery Edition auch ?</question>
+      <propositions>
+        <proposition id="16-1">P2P</proposition>
+        <proposition id="16-2">K2P</proposition>
+        <proposition id="16-3">F2P</proposition>
+        <proposition id="16-4">W2P</proposition>
+      </propositions>
+      <réponse proposition="16-3">F2P</réponse>
+      <anecdote>Dieses Modell sagt kostenlos spielen (auch abgekürzt F2P), ermöglicht es jedem, « World of Warcraft » zu spielen.</anecdote>
+    </contenu>
+    <contenu id="17">
+      <question>Mit welchem Gegenstand in « World of Warcraft » können Sie direkt zu einem Level springen ?</question>
+      <propositions>
+        <proposition id="17-1">Triebwerk</proposition>
+        <proposition id="17-2">Grüner Schlüssel</proposition>
+        <proposition id="17-3">Sesam</proposition>
+        <proposition id="17-4">Regenschirm</proposition>
+      </propositions>
+      <réponse proposition="17-3">Sesam</réponse>
+      <anecdote>In bestimmten Fällen jetzt angebotenes Objekt, der Sesam konnte im Blizzard Store für die Summe von 50 Euro gekauft werden.</anecdote>
+    </contenu>
+    <contenu id="18">
+      <question>Wie viele Ausrüstungsgegenstände kann ein Charakter in WoW tragen ?</question>
+      <propositions>
+        <proposition id="18-1">Acht</proposition>
+        <proposition id="18-2">Zwölf</proposition>
+        <proposition id="18-3">Sechzehn</proposition>
+        <proposition id="18-4">Vier</proposition>
+      </propositions>
+      <réponse proposition="18-3">Sechzehn</réponse>
+      <anecdote>Die meisten hochrangigen Ausrüstungsgegenstände können mit Schriftrollen oder Edelsteinen aufgerüstet werden.</anecdote>
+    </contenu>
+    <contenu id="19">
+      <question>Welche « World of Warcraft » Erweiterung zeichnet die Rückkehr der Brennenden Legion nach ?</question>
+      <propositions>
+        <proposition id="19-1">Lichkönig</proposition>
+        <proposition id="19-2">Legion</proposition>
+        <proposition id="19-3">Pandaria</proposition>
+        <proposition id="19-4">Katastrophe</proposition>
+      </propositions>
+      <réponse proposition="19-2">Legion</réponse>
+      <anecdote>« World of Warcraft » ist das vierte Spiel im mittelalterlichen Fantasy-Universum « Warcraft », das von « Warcraft : Orks und Menschen » eingeführt wurde.</anecdote>
+    </contenu>
+    <contenu id="20">
+      <question>Wie viel kann ich in der kostenlosen Version von WoW überschreiten ?</question>
+      <propositions>
+        <proposition id="20-1">50 Goldmünzen</proposition>
+        <proposition id="20-2">10 Goldmünzen</proposition>
+        <proposition id="20-3">30 Goldmünzen</proposition>
+        <proposition id="20-4">100 Goldmünzen</proposition>
+      </propositions>
+      <réponse proposition="20-2">10 Goldmünzen</réponse>
+      <anecdote>Der Zweck der Einschränkungen der Discovery Edition besteht darin, den Spieler zu ermutigen, ein Abonnement abzuschließen, wenn ihm langweilig wird.</anecdote>
+    </contenu>
+  </confirmé>
+  <expert>
+    <contenu id="21">
+      <question>Was bedeutet die Worgen-Rasse aus der « Cataclysm » Erweiterung des Spiels « World of Warcraft » ?</question>
+      <propositions>
+        <proposition id="21-1">Elfen</proposition>
+        <proposition id="21-2">Werwölfe</proposition>
+        <proposition id="21-3">Orks</proposition>
+        <proposition id="21-4">Zombies</proposition>
+      </propositions>
+      <réponse proposition="21-2">Werwölfe</réponse>
+      <anecdote>Mit der Erweiterung « Cataclysm » spielbar, sind dies kontaminierte Menschen, die sich in wilde Monster verwandelt haben.</anecdote>
+    </contenu>
+    <contenu id="22">
+      <question>Welcher junge Paladin ist Prinz des Königreichs Lordaeron in « World of Warcraft » ?</question>
+      <propositions>
+        <proposition id="22-1">Thrall</proposition>
+        <proposition id="22-2">Anduin</proposition>
+        <proposition id="22-3">Sylvanas</proposition>
+        <proposition id="22-4">Arthas</proposition>
+      </propositions>
+      <réponse proposition="22-4">Arthas</réponse>
+      <anecdote>Arthas Menethil wird den gefrorenen Thron besetzen, bis Tirion Fordring es schafft, ihn zu besiegen und Fordragon seinen Platz einnimmt.</anecdote>
+    </contenu>
+    <contenu id="23">
+      <question>In welcher Fernsehserie spricht Dr. Weir über « World of Warcraft » ?</question>
+      <propositions>
+        <proposition id="23-1">Dr. House</proposition>
+        <proposition id="23-2">Notfall</proposition>
+        <proposition id="23-3">Grey's Anatomy</proposition>
+        <proposition id="23-4">Stargate Atlantis</proposition>
+      </propositions>
+      <réponse proposition="23-4">Stargate Atlantis</réponse>
+      <anecdote>Doktor Weir versucht, Doktor Lee abzulenken, indem er ihn glauben lässt, dass sie eine Anhängerin ist. Es folgt ein ganzes Gespräch über das Spiel.</anecdote>
+    </contenu>
+    <contenu id="24">
+      <question>Welche WoW-Klasse ist spezialisiert ohne Heilung, Schaden oder Tanken ?</question>
+      <propositions>
+        <proposition id="24-1">Botaniker</proposition>
+        <proposition id="24-2">Zimmermann</proposition>
+        <proposition id="24-3">Mönch</proposition>
+        <proposition id="24-4">Chirurg</proposition>
+      </propositions>
+      <réponse proposition="24-3">Mönch</réponse>
+      <anecdote>Die Klasse erschien mit der vierten Erweiterung namens « Mists of Pandaria », die auf der BlizzCon 2011 angekündigt wurde.</anecdote>
+    </contenu>
+    <contenu id="25">
+      <question>Welcher Beruf bietet die Möglichkeit, Relikte in « World of Warcraft » zu finden ?</question>
+      <propositions>
+        <proposition id="25-1">Archäologie</proposition>
+        <proposition id="25-2">Kalligraphie</proposition>
+        <proposition id="25-3">Schmuck</proposition>
+        <proposition id="25-4">Bergbau</proposition>
+      </propositions>
+      <réponse proposition="25-1">Archäologie</réponse>
+      <anecdote>Dieser Beruf trat erstmals mit « Cataclysm » auf, der dritten Erweiterung, die auf der Eröffnungssitzung der BlizzCon 2009 angekündigt wurde.</anecdote>
+    </contenu>
+    <contenu id="26">
+      <question>Welcher Planet kann in « World of Warcraft » über das Dunkle Portal erreicht werden ?</question>
+      <propositions>
+        <proposition id="26-1">Scherbenwelt</proposition>
+        <proposition id="26-2">Nordend</proposition>
+        <proposition id="26-3">Darnassus</proposition>
+        <proposition id="26-4">Kalimdor</proposition>
+      </propositions>
+      <réponse proposition="26-1">Scherbenwelt</réponse>
+      <anecdote>Das Dunkle Portal wurde von Medivh unter der Herrschaft von Sargeras, dem Gründer der Brennenden Legion, eröffnet.</anecdote>
+    </contenu>
+    <contenu id="27">
+      <question>Welche « World of Warcraft » Spieler sammeln im Spiel einlösbare Gegenstände ?</question>
+      <propositions>
+        <proposition id="27-1">Bergleute</proposition>
+        <proposition id="27-2">Landwirte</proposition>
+        <proposition id="27-3">Läufer</proposition>
+        <proposition id="27-4">Mörder</proposition>
+      </propositions>
+      <réponse proposition="27-2">Landwirte</réponse>
+      <anecdote>Landwirte sind manchmal auch Piraten, die in die Konten anderer Spieler einbrechen und verkaufen, was sie besitzen.</anecdote>
+    </contenu>
+    <contenu id="28">
+      <question>Welche Insel Azeroth ist der Geburtsort der Troll-Zivilisation ?</question>
+      <propositions>
+        <proposition id="28-1">Nordrassil</proposition>
+        <proposition id="28-2">Pandaria</proposition>
+        <proposition id="28-3">Zandalar</proposition>
+        <proposition id="28-4">Kezan</proposition>
+      </propositions>
+      <réponse proposition="28-3">Zandalar</réponse>
+      <anecdote>Die fünf Kontinente von Azeroth sind durch das Große Meer getrennt, in dessen Zentrum sich ein riesiger Wirbel namens Der Mahlstrom befindet.</anecdote>
+    </contenu>
+    <contenu id="29">
+      <question>In welchem Jahr wurde das « World of Warcraft » Arathor Human Empire gegründet ?</question>
+      <propositions>
+        <proposition id="29-1">-2900</proposition>
+        <proposition id="29-2">1148</proposition>
+        <proposition id="29-3">55</proposition>
+        <proposition id="29-4">3024</proposition>
+      </propositions>
+      <réponse proposition="29-1">-2900</réponse>
+      <anecdote>Azeroth besteht aus fünf Kontinenten: den östlichen Königreichen, Kalimdor, Nordend, Pandaria und den zerschmetterten Inseln im Nordosten.</anecdote>
+    </contenu>
+    <contenu id="30">
+      <question>Welcher bestimmte Schamane ist in « World of Warcraft » Gul'dans Mentor ?</question>
+      <propositions>
+        <proposition id="30-1">Ner'zhul</proposition>
+        <proposition id="30-2">Naaru</proposition>
+        <proposition id="30-3">Rohart</proposition>
+        <proposition id="30-4">Kamagua</proposition>
+      </propositions>
+      <réponse proposition="30-1">Ner'zhul</réponse>
+      <anecdote>Am Ende der Ereignisse des Zweiten Krieges wird Ner'zhul von der Allianz der Menschen, Hochelfen und Zwerge besiegt.</anecdote>
+    </contenu>
+  </expert>
+  </de>
+  <es>
+  <débutant>
+    <contenu id="1">
+      <question>¿Qué empresa desarrolló el videojuego « World of Warcraft » ?</question>
+      <propositions>
+        <proposition id="1-1">Palace Software</proposition>
+        <proposition id="1-2">Blizzard Ent.</proposition>
+        <proposition id="1-3">Accolade</proposition>
+        <proposition id="1-4">MicroProse</proposition>
+      </propositions>
+      <réponse proposition="1-2">Blizzard Ent.</réponse>
+      <anecdote>Blizzard Entertainment (anteriormente Silicon and Synapse) fue fundada en 1991 por Allen Adham, Michael Morhaime y Frank Pearce.</anecdote>
+    </contenu>
+    <contenu id="2">
+      <question>¿Para qué aniversario de la franquicia de « World of Warcraft » se lanza ?</question>
+      <propositions>
+        <proposition id="2-1">Los 5 años</proposition>
+        <proposition id="2-2">Los 10 años</proposition>
+        <proposition id="2-3">Los 15 años</proposition>
+        <proposition id="2-4">Los 20 años</proposition>
+      </propositions>
+      <réponse proposition="2-2">Los 10 años</réponse>
+      <anecdote>« World of Warcraft » tiene lugar en Azeroth, casi cuatro años después del final del juego anterior, « Warcraft III: The Frozen Throne ».</anecdote>
+    </contenu>
+    <contenu id="3">
+      <question>¿En qué categoría de videojuegos podemos clasificar « World of Warcraft » ?</question>
+      <propositions>
+        <proposition id="3-1">Arcade</proposition>
+        <proposition id="3-2">MMORPG</proposition>
+        <proposition id="3-3">Horror de supervivencia</proposition>
+        <proposition id="3-4">Puzzle</proposition>
+      </propositions>
+      <réponse proposition="3-2">MMORPG</réponse>
+      <anecdote>Estos juegos en línea multijugador masivo permiten que una gran cantidad de personas interactúen simultáneamente en un mundo virtual.</anecdote>
+    </contenu>
+    <contenu id="4">
+      <question>¿En qué año se lanzó « World of Warcraft » en Norteamérica ?</question>
+      <propositions>
+        <proposition id="4-1">2007</proposition>
+        <proposition id="4-2">2010</proposition>
+        <proposition id="4-3">2013</proposition>
+        <proposition id="4-4">2004</proposition>
+      </propositions>
+      <réponse proposition="4-4">2004</réponse>
+      <anecdote>Desde su lanzamiento, « World of Warcraft » ha sido el MMORPG más popular, con un récord mundial Guinness por su popularidad.</anecdote>
+    </contenu>
+    <contenu id="5">
+      <question>¿En qué mundo imaginario tiene lugar el juego « World of Warcraft » ?</question>
+      <propositions>
+        <proposition id="5-1">Koprulu</proposition>
+        <proposition id="5-2">Azeroth</proposition>
+        <proposition id="5-3">Celestia</proposition>
+        <proposition id="5-4">Tyria</proposition>
+      </propositions>
+      <réponse proposition="5-2">Azeroth</réponse>
+      <anecdote>Aunque existen otros planetas, la serie « Warcraft » tiene lugar principalmente en Azeroth, que se compone de cinco continentes.</anecdote>
+    </contenu>
+    <contenu id="6">
+      <question>¿Cuáles son las dos facciones de personajes en el juego « World of Warcraft » ?</question>
+      <propositions>
+        <proposition id="6-1">Alianza y Horda</proposition>
+        <proposition id="6-2">Elfos y Goblins</proposition>
+        <proposition id="6-3">Titanes y centauros</proposition>
+        <proposition id="6-4">Orcos y Trolls</proposition>
+      </propositions>
+      <réponse proposition="6-1">Alianza y Horda</réponse>
+      <anecdote>Si la Alianza permite la encarnación de un Humano, un Enano, un Gnomo o un Elfo, en el lado de la Horda será Orco, Troll, Tauren o Undead.</anecdote>
+    </contenu>
+    <contenu id="7">
+      <question>¿En qué se basa el principio general de « World of Warcraft » ?</question>
+      <propositions>
+        <proposition id="7-1">Velocidad</proposition>
+        <proposition id="7-2">Misiones</proposition>
+        <proposition id="7-3">Regalos ","Cadeaux</proposition>
+        <proposition id="7-4">Trueque</proposition>
+      </propositions>
+      <réponse proposition="7-2">Misiones</réponse>
+      <anecdote>Después de una serie de puntos de experiencia obtenidos durante las misiones, el jugador aumenta sus características y su nivel.</anecdote>
+    </contenu>
+    <contenu id="8">
+      <question>¿Qué término designa los servidores en los que jugamos « World of Warcraft » ?</question>
+      <propositions>
+        <proposition id="8-1">Entidad</proposition>
+        <proposition id="8-2">Tour</proposition>
+        <proposition id="8-3">Reino</proposition>
+        <proposition id="8-4">Bandeja</proposition>
+      </propositions>
+      <réponse proposition="8-3">Reino</réponse>
+      <anecdote>Blizzard a veces permite que los personajes migren de un reino a otro, con el fin de desatascar un reino de la saturación.</anecdote>
+    </contenu>
+    <contenu id="9">
+      <question>¿De qué color son los personajes amistosos que no son jugadores en « World of Warcraft » ?</question>
+      <propositions>
+        <proposition id="9-1">Blanco</proposition>
+        <proposition id="9-2">Rojo</proposition>
+        <proposition id="9-3">Verde</proposition>
+        <proposition id="9-4">Azul</proposition>
+      </propositions>
+      <réponse proposition="9-3">Verde</réponse>
+      <anecdote>Los NPC son personajes que solo pueden interactuar con los personajes del jugador utilizando inteligencia artificial (IA).</anecdote>
+    </contenu>
+    <contenu id="10">
+      <question>¿En qué parte del juego pueden competir los jugadores de WoW entre sí ?</question>
+      <propositions>
+        <proposition id="10-1">Arenas</proposition>
+        <proposition id="10-2">Cementerios</proposition>
+        <proposition id="10-3">Mazmorras</proposition>
+        <proposition id="10-4">Llanuras</proposition>
+      </propositions>
+      <réponse proposition="10-1">Arenas</réponse>
+      <anecdote>En este aspecto del modo Jugador contra Jugador (PVP), los jugadores pueden formar equipos para jugar 2-2, 3-3 o 5-5.</anecdote>
+    </contenu>
+  </débutant>
+  <confirmé>
+    <contenu id="11">
+      <question>¿Cómo se llama la sexta expansión de « World of Warcraft », lanzada en 2016 ?</question>
+      <propositions>
+        <proposition id="11-1">Pandaria</proposition>
+        <proposition id="11-2">Cataclismo</proposition>
+        <proposition id="11-3">Rey Exánime</proposition>
+        <proposition id="11-4">Legión</proposition>
+      </propositions>
+      <réponse proposition="11-4">Legión</réponse>
+      <anecdote>Desde su lanzamiento en 2004, ya se han lanzado siete expansiones, y la séptima expansión, « Battle for Azeroth », se lanzó en 2018.</anecdote>
+    </contenu>
+    <contenu id="12">
+      <question>¿Qué personaje no podrás jugar en el bando de la Horda en WoW ?</question>
+      <propositions>
+        <proposition id="12-1">Gnome</proposition>
+        <proposition id="12-2">Orc</proposition>
+        <proposition id="12-3">Undead</proposition>
+        <proposition id="12-4">Troll</proposition>
+      </propositions>
+      <réponse proposition="12-1">Gnome</réponse>
+      <anecdote>Con la llegada de expansiones desde 2007, cada una de las facciones de « World of Warcraft » a veces recibe nuevas razas.</anecdote>
+    </contenu>
+    <contenu id="13">
+      <question>¿Cuánto cuesta en WoW migrar un personaje de un reino a otro ?</question>
+      <propositions>
+        <proposition id="13-1">25 euros</proposition>
+        <proposition id="13-2">15 euros</proposition>
+        <proposition id="13-3">45 euros</proposition>
+        <proposition id="13-4">35 euros</proposition>
+      </propositions>
+      <réponse proposition="13-1">25 euros</réponse>
+      <anecdote>Los usuarios pueden crear hasta 12 personajes por reino y 50 personajes en total en múltiples razas y clases.</anecdote>
+    </contenu>
+    <contenu id="14">
+      <question>¿Qué raza se considera neutral en « World of Warcraft » ?</question>
+      <propositions>
+        <proposition id="14-1">Pandaren</proposition>
+        <proposition id="14-2">Draconid</proposition>
+        <proposition id="14-3">Centaur</proposition>
+        <proposition id="14-4">Dryad</proposition>
+      </propositions>
+      <réponse proposition="14-1">Pandaren</réponse>
+      <anecdote>« World of Warcraft : Mists of Pandaria » es la cuarta expansión del MMORPG « World of Warcraft » de Blizzard Entertainment.</anecdote>
+    </contenu>
+    <contenu id="15">
+      <question>Básicamente, ¿cuántas clases hay disponibles en « World of Warcraft » ?</question>
+      <propositions>
+        <proposition id="15-1">Trece</proposition>
+        <proposition id="15-2">Once</proposition>
+        <proposition id="15-3">Siete</proposition>
+        <proposition id="15-4">Nuevo</proposition>
+      </propositions>
+      <réponse proposition="15-4">Nuevo</réponse>
+      <anecdote>Las nueve clases disponibles son Chamán, Cazador, Brujo, Druida, Guerrero, Mago, Paladín, Sacerdote y Ladrón.</anecdote>
+    </contenu>
+    <contenu id="16">
+      <question>¿Cómo se llama también « World of Warcraft » Discovery Edition ?</question>
+      <propositions>
+        <proposition id="16-1">K2P</proposition>
+        <proposition id="16-2">W2P</proposition>
+        <proposition id="16-3">F2P</proposition>
+        <proposition id="16-4">P2P</proposition>
+      </propositions>
+      <réponse proposition="16-3">F2P</réponse>
+      <anecdote>Este modelo dice free to play (también abreviado F2P), permite que cualquiera pueda jugar a « World of Warcraft ».</anecdote>
+    </contenu>
+    <contenu id="17">
+      <question>En « World of Warcraft », ¿qué elemento te permite saltar directamente a un nivel ?</question>
+      <propositions>
+        <proposition id="17-1">Paraguas</proposition>
+        <proposition id="17-2">Thruster</proposition>
+        <proposition id="17-3">Llave verde</proposition>
+        <proposition id="17-4">Sésamo</proposition>
+      </propositions>
+      <réponse proposition="17-4">Sésamo</réponse>
+      <anecdote>Objeto que ahora se ofrece en determinados casos, el Sésamo podría comprarse en la tienda de Blizzard por la suma de 50 euros.</anecdote>
+    </contenu>
+    <contenu id="18">
+      <question>¿Cuántas piezas de equipo puede llevar un personaje en WoW ?</question>
+      <propositions>
+        <proposition id="18-1">Doce</proposition>
+        <proposition id="18-2">Cuatro</proposition>
+        <proposition id="18-3">Ocho</proposition>
+        <proposition id="18-4">Dieciséis</proposition>
+      </propositions>
+      <réponse proposition="18-4">Dieciséis</réponse>
+      <anecdote>La mayoría de las piezas de equipo de alto nivel se pueden actualizar con pergaminos o gemas.</anecdote>
+    </contenu>
+    <contenu id="19">
+      <question>¿Qué expansión de « World of Warcraft » rastrea el regreso de la Legión Ardiente ?</question>
+      <propositions>
+        <proposition id="19-1">Rey Exánime</proposition>
+        <proposition id="19-2">Legión</proposition>
+        <proposition id="19-3">Cataclismo</proposition>
+        <proposition id="19-4">Pandaria</proposition>
+      </propositions>
+      <réponse proposition="19-2">Legión</réponse>
+      <anecdote>« World of Warcraft » es el cuarto juego del universo de fantasía medieval « Warcraft », presentado por « Warcraft : Orcs and Humans ».</anecdote>
+    </contenu>
+    <contenu id="20">
+      <question>¿Cuánto puedo superar en la versión gratuita de WoW ?</question>
+      <propositions>
+        <proposition id="20-1">100 monedas de oro</proposition>
+        <proposition id="20-2">50 monedas de oro</proposition>
+        <proposition id="20-3">30 monedas de oro</proposition>
+        <proposition id="20-4">10 monedas de oro</proposition>
+      </propositions>
+      <réponse proposition="20-4">10 monedas de oro</réponse>
+      <anecdote>El propósito de las restricciones de la edición de descubrimiento es animar al jugador a que se suscriba si se aburre.</anecdote>
+    </contenu>
+  </confirmé>
+  <expert>
+    <contenu id="21">
+      <question>¿Qué representa la raza huargen de la expansión « Cataclysm » del juego « World of Warcraft » ?</question>
+      <propositions>
+        <proposition id="21-1">Hombres lobo</proposition>
+        <proposition id="21-2">Orcos</proposition>
+        <proposition id="21-3">Elfos</proposition>
+        <proposition id="21-4">Zombies</proposition>
+      </propositions>
+      <réponse proposition="21-1">Hombres lobo</réponse>
+      <anecdote>Jugable desde la expansión « Cataclysm », estos son humanos contaminados que se han transformado en monstruos salvajes.</anecdote>
+    </contenu>
+    <contenu id="22">
+      <question>¿Qué joven paladín es el príncipe del reino de Lordaeron en « World of Warcraft » ?</question>
+      <propositions>
+        <proposition id="22-1">Thrall</proposition>
+        <proposition id="22-2">Sylvanas</proposition>
+        <proposition id="22-3">Arthas</proposition>
+        <proposition id="22-4">Anduin</proposition>
+      </propositions>
+      <réponse proposition="22-3">Arthas</réponse>
+      <anecdote>Arthas Menethil ocupará el Trono Helado hasta que Tirion Vadín logre derrotarlo y Fordragon tome su lugar.</anecdote>
+    </contenu>
+    <contenu id="23">
+      <question>¿En qué serie de televisión habla el Dr. Weir sobre « World of Warcraft » ?</question>
+      <propositions>
+        <proposition id="23-1">Dr. House</proposition>
+        <proposition id="23-2">Stargate Atlantis</proposition>
+        <proposition id="23-3">Grey's Anatomy</proposition>
+        <proposition id="23-4">Emergencia</proposition>
+      </propositions>
+      <réponse proposition="23-2">Stargate Atlantis</réponse>
+      <anecdote>El doctor Weir intenta distraer al doctor Lee haciéndole creer que ella es una seguidora. Sigue una conversación completa sobre el juego.</anecdote>
+    </contenu>
+    <contenu id="24">
+      <question>¿Qué clase de WoW se especializa sin curación, daño o tanque ?</question>
+      <propositions>
+        <proposition id="24-1">Botánico</proposition>
+        <proposition id="24-2">Carpintero</proposition>
+        <proposition id="24-3">Cirujano</proposition>
+        <proposition id="24-4">Monk</proposition>
+      </propositions>
+      <réponse proposition="24-4">Monk</réponse>
+      <anecdote>La clase apareció con la cuarta expansión llamada « Mists of Pandaria », que se anunció en BlizzCon 2011.</anecdote>
+    </contenu>
+    <contenu id="25">
+      <question>¿Qué profesión ofrece la posibilidad de encontrar reliquias en « World of Warcraft » ?</question>
+      <propositions>
+        <proposition id="25-1">Arqueología</proposition>
+        <proposition id="25-2">Joyería</proposition>
+        <proposition id="25-3">Caligrafía</proposition>
+        <proposition id="25-4">Minería</proposition>
+      </propositions>
+      <réponse proposition="25-1">Arqueología</réponse>
+      <anecdote>Esta profesión apareció por primera vez con « Cataclysm », la tercera expansión anunciada en la sesión de apertura de BlizzCon 2009.</anecdote>
+    </contenu>
+    <contenu id="26">
+      <question>En « World of Warcraft », ¿a qué planeta se puede acceder a través del Portal Oscuro ?</question>
+      <propositions>
+        <proposition id="26-1">Terrallende</proposition>
+        <proposition id="26-2">Kalimdor</proposition>
+        <proposition id="26-3">Darnassus</proposition>
+        <proposition id="26-4">Rasganorte</proposition>
+      </propositions>
+      <réponse proposition="26-1">Terrallende</réponse>
+      <anecdote>El Portal Oscuro fue abierto por Medivh bajo el dominio de Sargeras, el fundador de la Legión Ardiente.</anecdote>
+    </contenu>
+    <contenu id="27">
+      <question>¿Qué jugadores de « World of Warcraft » coleccionan algo canjeable en el juego ?</question>
+      <propositions>
+        <proposition id="27-1">Asesinos</proposition>
+        <proposition id="27-2">Agricultores</proposition>
+        <proposition id="27-3">Corredores ","Runners</proposition>
+        <proposition id="27-4">Mineros</proposition>
+      </propositions>
+      <réponse proposition="27-2">Agricultores</réponse>
+      <anecdote>Los agricultores a veces también son piratas que se infiltran en las cuentas de otros jugadores y venden lo que poseen.</anecdote>
+    </contenu>
+    <contenu id="28">
+      <question>¿Qué isla de Azeroth es el lugar de nacimiento de la civilización Troll ?</question>
+      <propositions>
+        <proposition id="28-1">Kezan</proposition>
+        <proposition id="28-2">Zandalar</proposition>
+        <proposition id="28-3">Nordrassil</proposition>
+        <proposition id="28-4">Pandaria</proposition>
+      </propositions>
+      <réponse proposition="28-2">Zandalar</réponse>
+      <anecdote>Los cinco continentes de Azeroth están separados por el Gran Mar, que alberga en su centro un enorme vórtice llamado The Maelstrom.</anecdote>
+    </contenu>
+    <contenu id="29">
+      <question>¿En qué año se fundó « World of Warcraft » Arathor Human Empire ?</question>
+      <propositions>
+        <proposition id="29-1">3024</proposition>
+        <proposition id="29-2">55</proposition>
+        <proposition id="29-3">-2900</proposition>
+        <proposition id="29-4">1148</proposition>
+      </propositions>
+      <réponse proposition="29-3">-2900</réponse>
+      <anecdote>Azeroth se compone de cinco continentes: los Reinos del Este, Kalimdor, Rasganorte, Pandaria y las Islas Destrozadas al noreste.</anecdote>
+    </contenu>
+    <contenu id="30">
+      <question>En « World of Warcraft », ¿qué chamán en particular es el mentor de Gul'dan ?</question>
+      <propositions>
+        <proposition id="30-1">Naaru</proposition>
+        <proposition id="30-2">Ner'zhul</proposition>
+        <proposition id="30-3">Kamagua</proposition>
+        <proposition id="30-4">Rohart</proposition>
+      </propositions>
+      <réponse proposition="30-2">Ner'zhul</réponse>
+      <anecdote>Al final de los eventos de la Segunda Guerra, Ner'zhul será derrotado por la alianza de Humanos, Altos Elfos y Enanos.</anecdote>
+    </contenu>
+  </expert>
+  </es>
+  <it>
+  <débutant>
+    <contenu id="1">
+      <question>Quale azienda ha sviluppato il videogioco « World of Warcraft » ?</question>
+      <propositions>
+        <proposition id="1-1">MicroProse</proposition>
+        <proposition id="1-2">Palace Software</proposition>
+        <proposition id="1-3">Blizzard Ent.</proposition>
+        <proposition id="1-4">Accolade</proposition>
+      </propositions>
+      <réponse proposition="1-3">Blizzard Ent.</réponse>
+      <anecdote>Blizzard Entertainment (precedentemente Silicon and Synapse) è stata fondata nel 1991 da Allen Adham, Michael Morhaime e Frank Pearce.</anecdote>
+    </contenu>
+    <contenu id="2">
+      <question>Per quale anniversario del franchise di « World of Warcraft » viene rilasciato ?</question>
+      <propositions>
+        <proposition id="2-1">I 15 anni</proposition>
+        <proposition id="2-2">I 5 anni</proposition>
+        <proposition id="2-3">I 20 anni</proposition>
+        <proposition id="2-4">I 10 anni</proposition>
+      </propositions>
+      <réponse proposition="2-4">I 10 anni</réponse>
+      <anecdote>« World of Warcraft » si svolge ad Azeroth, quasi quattro anni dopo la fine del gioco precedente, « Warcraft III: The Frozen Throne ».</anecdote>
+    </contenu>
+    <contenu id="3">
+      <question>In quale categoria di videogiochi possiamo classificare « World of Warcraft » ?</question>
+      <propositions>
+        <proposition id="3-1">Arcade</proposition>
+        <proposition id="3-2">MMORPG</proposition>
+        <proposition id="3-3">Puzzle</proposition>
+        <proposition id="3-4">Survival horror</proposition>
+      </propositions>
+      <réponse proposition="3-2">MMORPG</réponse>
+      <anecdote>Questi giochi online multiplayer di massa consentono a un gran numero di persone di interagire simultaneamente in un mondo virtuale.</anecdote>
+    </contenu>
+    <contenu id="4">
+      <question>In che anno è uscito « World of Warcraft » in Nord America ?</question>
+      <propositions>
+        <proposition id="4-1">2013</proposition>
+        <proposition id="4-2">2007</proposition>
+        <proposition id="4-3">2004</proposition>
+        <proposition id="4-4">2010</proposition>
+      </propositions>
+      <réponse proposition="4-3">2004</réponse>
+      <anecdote>Dalla sua uscita, « World of Warcraft » è stato il MMORPG più popolare, detentore del Guinness World Record per la sua popolarità.</anecdote>
+    </contenu>
+    <contenu id="5">
+      <question>In quale mondo immaginario si svolge il gioco « World of Warcraft » ?</question>
+      <propositions>
+        <proposition id="5-1">Koprulu</proposition>
+        <proposition id="5-2">Azeroth</proposition>
+        <proposition id="5-3">Celestia</proposition>
+        <proposition id="5-4">Tyria</proposition>
+      </propositions>
+      <réponse proposition="5-2">Azeroth</réponse>
+      <anecdote>Sebbene esistano altri pianeti, la serie « Warcraft » si svolge principalmente su Azeroth, che è composta da cinque continenti.</anecdote>
+    </contenu>
+    <contenu id="6">
+      <question>Quali sono le due fazioni di personaggi nel gioco « World of Warcraft » ?</question>
+      <propositions>
+        <proposition id="6-1">Elfi e Goblin</proposition>
+        <proposition id="6-2">Alleanza e Orda</proposition>
+        <proposition id="6-3">Titani e centauri</proposition>
+        <proposition id="6-4">Orchi e Troll</proposition>
+      </propositions>
+      <réponse proposition="6-2">Alleanza e Orda</réponse>
+      <anecdote>Se l'Alleanza consente l'incarnazione di un Umano, un Nano, uno Gnomo o un Elfo, dalla parte dell'Orda saranno Orchi, Troll, Tauren o Non Morti.</anecdote>
+    </contenu>
+    <contenu id="7">
+      <question>Su cosa si basa il principio generale di « World of Warcraft » ?</question>
+      <propositions>
+        <proposition id="7-1">Baratto</proposition>
+        <proposition id="7-2">Regali</proposition>
+        <proposition id="7-3">Missioni</proposition>
+        <proposition id="7-4">Velocità</proposition>
+      </propositions>
+      <réponse proposition="7-3">Missioni</réponse>
+      <anecdote>Dopo una serie di punti esperienza guadagnati durante le missioni, il giocatore aumenta le sue caratteristiche e il suo livello.</anecdote>
+    </contenu>
+    <contenu id="8">
+      <question>Quale termine designa i server su cui giochiamo « World of Warcraft » ?</question>
+      <propositions>
+        <proposition id="8-1">Tour</proposition>
+        <proposition id="8-2">Entità</proposition>
+        <proposition id="8-3">Vassoio</proposition>
+        <proposition id="8-4">Regno</proposition>
+      </propositions>
+      <réponse proposition="8-4">Regno</réponse>
+      <anecdote>Blizzard a volte consente ai personaggi di migrare da un reame all'altro, al fine di sbloccare un reame dalla saturazione.</anecdote>
+    </contenu>
+    <contenu id="9">
+      <question>Di che colore sono i personaggi amichevoli non giocanti in « World of Warcraft » ?</question>
+      <propositions>
+        <proposition id="9-1">Rosso</proposition>
+        <proposition id="9-2">Blu</proposition>
+        <proposition id="9-3">Bianco</proposition>
+        <proposition id="9-4">Verde</proposition>
+      </propositions>
+      <réponse proposition="9-4">Verde</réponse>
+      <anecdote>Gli NPC sono personaggi che possono interagire solo con i personaggi dei giocatori utilizzando l'intelligenza artificiale (AI).</anecdote>
+    </contenu>
+    <contenu id="10">
+      <question>In quale parte del gioco i giocatori di WoW possono competere l'uno contro l'altro ?</question>
+      <propositions>
+        <proposition id="10-1">Dungeons</proposition>
+        <proposition id="10-2">Pianure</proposition>
+        <proposition id="10-3">Arene</proposition>
+        <proposition id="10-4">Cimiteri</proposition>
+      </propositions>
+      <réponse proposition="10-3">Arene</réponse>
+      <anecdote>In questo aspetto della modalità Player versus Player (PVP), i giocatori possono formare squadre per giocare 2-2, 3-3 o 5-5.</anecdote>
+    </contenu>
+  </débutant>
+  <confirmé>
+    <contenu id="11">
+      <question>Qual è il nome della sesta espansione di « World of Warcraft », rilasciata nel 2016 ?</question>
+      <propositions>
+        <proposition id="11-1">Cataclisma</proposition>
+        <proposition id="11-2">Re dei Lich</proposition>
+        <proposition id="11-3">Pandaria</proposition>
+        <proposition id="11-4">Legione</proposition>
+      </propositions>
+      <réponse proposition="11-4">Legione</réponse>
+      <anecdote>Dalla sua uscita nel 2004, sono già state rilasciate sette espansioni, con la settima espansione, « Battle for Azeroth », in uscita nel 2018.</anecdote>
+    </contenu>
+    <contenu id="12">
+      <question>Quale personaggio non sarai in grado di interpretare dalla parte dell'Orda in WoW ?</question>
+      <propositions>
+        <proposition id="12-1">Gnome</proposition>
+        <proposition id="12-2">Troll</proposition>
+        <proposition id="12-3">Orco</proposition>
+        <proposition id="12-4">Non morti</proposition>
+      </propositions>
+      <réponse proposition="12-1">Gnome</réponse>
+      <anecdote>Con l'arrivo delle espansioni dal 2007, a ciascuna delle fazioni di « World of Warcraft » vengono talvolta assegnate nuove razze.</anecdote>
+    </contenu>
+    <contenu id="13">
+      <question>Quanto costa in WoW migrare un personaggio da un reame all'altro ?</question>
+      <propositions>
+        <proposition id="13-1">15 euro</proposition>
+        <proposition id="13-2">45 euro</proposition>
+        <proposition id="13-3">25 euro</proposition>
+        <proposition id="13-4">35 euro</proposition>
+      </propositions>
+      <réponse proposition="13-3">25 euro</réponse>
+      <anecdote>Gli utenti possono creare fino a 12 personaggi per reame e 50 personaggi in totale tra più razze e classi.</anecdote>
+    </contenu>
+    <contenu id="14">
+      <question>Quale razza è considerata neutrale in « World of Warcraft » ?</question>
+      <propositions>
+        <proposition id="14-1">Driade</proposition>
+        <proposition id="14-2">Draconid</proposition>
+        <proposition id="14-3">Centauro</proposition>
+        <proposition id="14-4">Pandaren</proposition>
+      </propositions>
+      <réponse proposition="14-4">Pandaren</réponse>
+      <anecdote>« World of Warcraft : Mists of Pandaria » è la quarta espansione del MMORPG « World of Warcraft » di Blizzard Entertainment.</anecdote>
+    </contenu>
+    <contenu id="15">
+      <question>Fondamentalmente, quante classi sono disponibili in « World of Warcraft » ?</question>
+      <propositions>
+        <proposition id="15-1">Nuovo</proposition>
+        <proposition id="15-2">Undici</proposition>
+        <proposition id="15-3">Seven</proposition>
+        <proposition id="15-4">Tredici</proposition>
+      </propositions>
+      <réponse proposition="15-1">Nuovo</réponse>
+      <anecdote>Le nove classi disponibili sono Shaman, Hunter, Warlock, Druid, Warrior, Mage, Paladin, Priest e Thief.</anecdote>
+    </contenu>
+    <contenu id="16">
+      <question>Come si chiama anche « World of Warcraft » Discovery Edition ?</question>
+      <propositions>
+        <proposition id="16-1">K2P</proposition>
+        <proposition id="16-2">F2P</proposition>
+        <proposition id="16-3">W2P</proposition>
+        <proposition id="16-4">P2P</proposition>
+      </propositions>
+      <réponse proposition="16-2">F2P</réponse>
+      <anecdote>Questo modello dice free to play (anche abbreviato F2P), consente a chiunque di giocare a « World of Warcraft ».</anecdote>
+    </contenu>
+    <contenu id="17">
+      <question>In « World of Warcraft », quale oggetto ti consente di passare direttamente a un livello ?</question>
+      <propositions>
+        <proposition id="17-1">Ombrello</proposition>
+        <proposition id="17-2">Sesamo</proposition>
+        <proposition id="17-3">Tasto verde</proposition>
+        <proposition id="17-4">Propulsore</proposition>
+      </propositions>
+      <réponse proposition="17-2">Sesamo</réponse>
+      <anecdote>Oggetto ora offerto in alcuni casi, il Sesamo potrebbe essere acquistato nel negozio Blizzard per la somma di 50 euro.</anecdote>
+    </contenu>
+    <contenu id="18">
+      <question>Quanti pezzi di equipaggiamento può indossare un personaggio in WoW ?</question>
+      <propositions>
+        <proposition id="18-1">Sedici</proposition>
+        <proposition id="18-2">Dodici</proposition>
+        <proposition id="18-3">Otto</proposition>
+        <proposition id="18-4">Quattro</proposition>
+      </propositions>
+      <réponse proposition="18-1">Sedici</réponse>
+      <anecdote>La maggior parte dei pezzi di equipaggiamento di alto livello può essere aggiornata con pergamene o gemme.</anecdote>
+    </contenu>
+    <contenu id="19">
+      <question>Quale espansione di « World of Warcraft » traccia il ritorno della Legione Infuocata ?</question>
+      <propositions>
+        <proposition id="19-1">Pandaria</proposition>
+        <proposition id="19-2">Re dei Lich</proposition>
+        <proposition id="19-3">Cataclisma</proposition>
+        <proposition id="19-4">Legione</proposition>
+      </propositions>
+      <réponse proposition="19-4">Legione</réponse>
+      <anecdote>« World of Warcraft » è il quarto gioco dell'universo « Warcraft » fantasy medievale, introdotto da « Warcraft : Orcs and Humans ».</anecdote>
+    </contenu>
+    <contenu id="20">
+      <question>Quanto posso superare nella versione gratuita di WoW ?</question>
+      <propositions>
+        <proposition id="20-1">30 monete d'oro</proposition>
+        <proposition id="20-2">10 monete d'oro</proposition>
+        <proposition id="20-3">100 monete d'oro</proposition>
+        <proposition id="20-4">50 monete d'oro</proposition>
+      </propositions>
+      <réponse proposition="20-2">10 monete d'oro</réponse>
+      <anecdote>Le restrizioni della discovery edition hanno lo scopo di incoraggiare il giocatore a sottoscrivere un abbonamento se si annoia.</anecdote>
+    </contenu>
+  </confirmé>
+  <expert>
+    <contenu id="21">
+      <question>Cosa rappresenta la razza Worgen dall'espansione « Cataclysm » del gioco « World of Warcraft » ?</question>
+      <propositions>
+        <proposition id="21-1">Lupi mannari</proposition>
+        <proposition id="21-2">Elfi</proposition>
+        <proposition id="21-3">Zombie</proposition>
+        <proposition id="21-4">Orchi</proposition>
+      </propositions>
+      <réponse proposition="21-1">Lupi mannari</réponse>
+      <anecdote>Giocabili dall'espansione « Cataclysm », questi sono umani contaminati che sono stati trasformati in mostri selvaggi.</anecdote>
+    </contenu>
+    <contenu id="22">
+      <question>Quale giovane paladino è il principe del regno di Lordaeron in « World of Warcraft » ?</question>
+      <propositions>
+        <proposition id="22-1">Thrall</proposition>
+        <proposition id="22-2">Arthas</proposition>
+        <proposition id="22-3">Sylvanas</proposition>
+        <proposition id="22-4">Anduin</proposition>
+      </propositions>
+      <réponse proposition="22-2">Arthas</réponse>
+      <anecdote>Arthas Menethil occuperà il Trono di Ghiaccio fino a quando Tirion Fordring non riuscirà a sconfiggerlo e Fordragon non prenderà il suo posto.</anecdote>
+    </contenu>
+    <contenu id="23">
+      <question>In quale serie TV il Dr. Weir parla di « World of Warcraft » ?</question>
+      <propositions>
+        <proposition id="23-1">Emergenza</proposition>
+        <proposition id="23-2">Stargate Atlantis</proposition>
+        <proposition id="23-3">Grey's Anatomy</proposition>
+        <proposition id="23-4">Dr House</proposition>
+      </propositions>
+      <réponse proposition="23-2">Stargate Atlantis</réponse>
+      <anecdote>Il dottor Weir cerca di distrarre il dottor Lee facendogli credere di essere una seguace. Segue un'intera conversazione sul gioco.</anecdote>
+    </contenu>
+    <contenu id="24">
+      <question>Quale classe WoW è specializzata senza cure, danni o tank ?</question>
+      <propositions>
+        <proposition id="24-1">Botanico</proposition>
+        <proposition id="24-2">Monaco</proposition>
+        <proposition id="24-3">Chirurgo</proposition>
+        <proposition id="24-4">Falegname</proposition>
+      </propositions>
+      <réponse proposition="24-2">Monaco</réponse>
+      <anecdote>La classe è apparsa con la quarta espansione chiamata « Mists of Pandaria », annunciata alla BlizzCon 2011.</anecdote>
+    </contenu>
+    <contenu id="25">
+      <question>Quale professione offre la possibilità di trovare reliquie in « World of Warcraft » ?</question>
+      <propositions>
+        <proposition id="25-1">Archeologia</proposition>
+        <proposition id="25-2">Gioielli</proposition>
+        <proposition id="25-3">Mineraria</proposition>
+        <proposition id="25-4">Calligrafia</proposition>
+      </propositions>
+      <réponse proposition="25-1">Archeologia</réponse>
+      <anecdote>Questa professione è apparsa per la prima volta con « Cataclysm », la terza espansione annunciata durante la sessione di apertura della BlizzCon 2009.</anecdote>
+    </contenu>
+    <contenu id="26">
+      <question>In « World of Warcraft », quale pianeta può essere raggiunto tramite il Portale Oscuro ?</question>
+      <propositions>
+        <proposition id="26-1">Kalimdor</proposition>
+        <proposition id="26-2">Outland</proposition>
+        <proposition id="26-3">Northrend</proposition>
+        <proposition id="26-4">Darnassus</proposition>
+      </propositions>
+      <réponse proposition="26-2">Outland</réponse>
+      <anecdote>Il Portale Oscuro è stato aperto da Medivh sotto l'influenza di Sargeras, il fondatore della Legione Infuocata.</anecdote>
+    </contenu>
+    <contenu id="27">
+      <question>Quali giocatori di « World of Warcraft » raccolgono qualcosa di riscattabile nel gioco ?</question>
+      <propositions>
+        <proposition id="27-1">Agricoltori</proposition>
+        <proposition id="27-2">Assassini</proposition>
+        <proposition id="27-3">Minatori</proposition>
+        <proposition id="27-4">Corridori</proposition>
+      </propositions>
+      <réponse proposition="27-1">Agricoltori</réponse>
+      <anecdote>Gli agricoltori a volte sono anche pirati che irrompono negli account di altri giocatori e vendono ciò che possiedono.</anecdote>
+    </contenu>
+    <contenu id="28">
+      <question>Quale isola di Azeroth è il luogo di nascita della civiltà dei Troll ?</question>
+      <propositions>
+        <proposition id="28-1">Nordrassil</proposition>
+        <proposition id="28-2">Pandaria</proposition>
+        <proposition id="28-3">Kezan</proposition>
+        <proposition id="28-4">Zandalar</proposition>
+      </propositions>
+      <réponse proposition="28-4">Zandalar</réponse>
+      <anecdote>I cinque continenti di Azeroth sono separati dal Grande Mare che ospita al suo centro un enorme vortice chiamato Il Maelstrom.</anecdote>
+    </contenu>
+    <contenu id="29">
+      <question>In che anno è stato fondato « World of Warcraft » Arathor Human Empire ?</question>
+      <propositions>
+        <proposition id="29-1">1148</proposition>
+        <proposition id="29-2">-2900</proposition>
+        <proposition id="29-3">55</proposition>
+        <proposition id="29-4">3024</proposition>
+      </propositions>
+      <réponse proposition="29-2">-2900</réponse>
+      <anecdote>Azeroth è composta da cinque continenti: i Regni Orientali, Kalimdor, Northrend, Pandaria e le Isole Frantumate a nord-est.</anecdote>
+    </contenu>
+    <contenu id="30">
+      <question>In « World of Warcraft », quale particolare sciamano è il mentore di Gul'dan ?</question>
+      <propositions>
+        <proposition id="30-1">Kamagua</proposition>
+        <proposition id="30-2">Naaru</proposition>
+        <proposition id="30-3">Ner'zhul</proposition>
+        <proposition id="30-4">Rohart</proposition>
+      </propositions>
+      <réponse proposition="30-3">Ner'zhul</réponse>
+      <anecdote>Alla fine degli eventi della Seconda Guerra, Ner'zhul sarà sconfitto dall'alleanza di Umani, Alti Elfi e Nani.</anecdote>
+    </contenu>
+  </expert>
+  </it>
+  <nl>
+  <débutant>
+    <contenu id="1">
+      <question>Welk bedrijf heeft de videogame « World of Warcraft » ontwikkeld ?</question>
+      <propositions>
+        <proposition id="1-1">Accolade</proposition>
+        <proposition id="1-2">Palace Software</proposition>
+        <proposition id="1-3">MicroProse</proposition>
+        <proposition id="1-4">Blizzard Ent.</proposition>
+      </propositions>
+      <réponse proposition="1-4">Blizzard Ent.</réponse>
+      <anecdote>Blizzard Entertainment (voorheen Silicon and Synapse) werd in 1991 opgericht door Allen Adham, Michael Morhaime en Frank Pearce.</anecdote>
+    </contenu>
+    <contenu id="2">
+      <question>Voor welke verjaardag van de « World of Warcraft » franchise wordt deze uitgebracht ?</question>
+      <propositions>
+        <proposition id="2-1">De 5 jaar</proposition>
+        <proposition id="2-2">De 10 jaar</proposition>
+        <proposition id="2-3">De 15-jarige</proposition>
+        <proposition id="2-4">De 20 jaar</proposition>
+      </propositions>
+      <réponse proposition="2-2">De 10 jaar</réponse>
+      <anecdote>« World of Warcraft » speelt zich af in Azeroth, bijna vier jaar na het einde van de vorige game, « Warcraft III: The Frozen Throne ».</anecdote>
+    </contenu>
+    <contenu id="3">
+      <question>In welke categorie videogames kunnen we « World of Warcraft » classificeren ?</question>
+      <propositions>
+        <proposition id="3-1">Overlevingshorror</proposition>
+        <proposition id="3-2">Arcade</proposition>
+        <proposition id="3-3">Puzzel</proposition>
+        <proposition id="3-4">MMORPG</proposition>
+      </propositions>
+      <réponse proposition="3-4">MMORPG</réponse>
+      <anecdote>Met deze massively multiplayer online games kan een groot aantal mensen tegelijkertijd communiceren in een virtuele wereld.</anecdote>
+    </contenu>
+    <contenu id="4">
+      <question>In welk jaar is « World of Warcraft » uitgebracht in Noord-Amerika ?</question>
+      <propositions>
+        <proposition id="4-1">2007</proposition>
+        <proposition id="4-2">2013</proposition>
+        <proposition id="4-3">2004</proposition>
+        <proposition id="4-4">2010</proposition>
+      </propositions>
+      <réponse proposition="4-3">2004</réponse>
+      <anecdote>Sinds de release is « World of Warcraft » de meest populaire MMORPG, met een Guinness World Record vanwege zijn populariteit.</anecdote>
+    </contenu>
+    <contenu id="5">
+      <question>In welke denkbeeldige wereld speelt het spel « World of Warcraft » zich af ?</question>
+      <propositions>
+        <proposition id="5-1">Azeroth</proposition>
+        <proposition id="5-2">Celestia</proposition>
+        <proposition id="5-3">Koprulu</proposition>
+        <proposition id="5-4">Tyria</proposition>
+      </propositions>
+      <réponse proposition="5-1">Azeroth</réponse>
+      <anecdote>Hoewel er andere planeten bestaan, vindt de serie « Warcraft » voornamelijk plaats op Azeroth, dat uit vijf continenten bestaat.</anecdote>
+    </contenu>
+    <contenu id="6">
+      <question>Wat zijn de twee facties van personages in het spel « World of Warcraft » ?</question>
+      <propositions>
+        <proposition id="6-1">Elfen en Goblins</proposition>
+        <proposition id="6-2">Titanen en centauren</proposition>
+        <proposition id="6-3">Orks en trollen</proposition>
+        <proposition id="6-4">Alliantie en Horde</proposition>
+      </propositions>
+      <réponse proposition="6-4">Alliantie en Horde</réponse>
+      <anecdote>Als de alliantie de incarnatie van een mens, een dwerg, een kabouter of een elf toestaat, zal het aan de kant van de horde Orc, Troll, Tauren of Undead zijn.</anecdote>
+    </contenu>
+    <contenu id="7">
+      <question>Waar is het algemene principe van « World of Warcraft » op gebaseerd ?</question>
+      <propositions>
+        <proposition id="7-1">Geschenken</proposition>
+        <proposition id="7-2">Quests</proposition>
+        <proposition id="7-3">Snelheid</proposition>
+        <proposition id="7-4">Ruilhandel</proposition>
+      </propositions>
+      <réponse proposition="7-2">Quests</réponse>
+      <anecdote>Na een aantal ervaringspunten opgedaan tijdens de speurtochten, verhoogt de speler zijn karakteristieken en zijn niveau.</anecdote>
+    </contenu>
+    <contenu id="8">
+      <question>Welke term duidt de servers aan waarop we « World of Warcraft » spelen ?</question>
+      <propositions>
+        <proposition id="8-1">Koninkrijk</proposition>
+        <proposition id="8-2">Entiteit</proposition>
+        <proposition id="8-3">Rondleiding</proposition>
+        <proposition id="8-4">Dienblad</proposition>
+      </propositions>
+      <réponse proposition="8-1">Koninkrijk</réponse>
+      <anecdote>Blizzard staat soms toe dat personages van het ene rijk naar het andere migreren om een rijk van verzadiging te ontdoen.</anecdote>
+    </contenu>
+    <contenu id="9">
+      <question>Welke kleur hebben de vriendelijke niet-speler-personages in « World of Warcraft » ?</question>
+      <propositions>
+        <proposition id="9-1">Blauw</proposition>
+        <proposition id="9-2">Groen</proposition>
+        <proposition id="9-3">Rood</proposition>
+        <proposition id="9-4">Wit</proposition>
+      </propositions>
+      <réponse proposition="9-2">Groen</réponse>
+      <anecdote>NPC's zijn personages die alleen kunnen communiceren met spelerspersonages met behulp van kunstmatige intelligentie (AI).</anecdote>
+    </contenu>
+    <contenu id="10">
+      <question>Waar in het spel kunnen WoW-spelers het tegen elkaar opnemen ?</question>
+      <propositions>
+        <proposition id="10-1">Arena's</proposition>
+        <proposition id="10-2">Vlaktes</proposition>
+        <proposition id="10-3">Begraafplaatsen</proposition>
+        <proposition id="10-4">Kerkers</proposition>
+      </propositions>
+      <réponse proposition="10-1">Arena's</réponse>
+      <anecdote>In dit aspect van Player versus Player (PVP) -modus kunnen spelers teams vormen om 2-2, 3-3 of 5-5 te spelen.</anecdote>
+    </contenu>
+  </débutant>
+  <confirmé>
+    <contenu id="11">
+      <question>Hoe heet de zesde uitbreiding voor « World of Warcraft », uitgebracht in 2016 ?</question>
+      <propositions>
+        <proposition id="11-1">Pandaria</proposition>
+        <proposition id="11-2">Legioen</proposition>
+        <proposition id="11-3">Lich King</proposition>
+        <proposition id="11-4">Cataclysm</proposition>
+      </propositions>
+      <réponse proposition="11-2">Legioen</réponse>
+      <anecdote>Sinds de release in 2004 zijn er al zeven uitbreidingen uitgebracht, met de zevende uitbreiding, « Battle for Azeroth », die in 2018 wordt uitgebracht.</anecdote>
+    </contenu>
+    <contenu id="12">
+      <question>Welk personage kun je niet spelen aan de Horde-kant in WoW ?</question>
+      <propositions>
+        <proposition id="12-1">Troll</proposition>
+        <proposition id="12-2">Kabouter</proposition>
+        <proposition id="12-3">Orc</proposition>
+        <proposition id="12-4">Undead</proposition>
+      </propositions>
+      <réponse proposition="12-2">Kabouter</réponse>
+      <anecdote>Met de komst van uitbreidingen sinds 2007, krijgt elk van de « World of Warcraft » fracties soms nieuwe races.</anecdote>
+    </contenu>
+    <contenu id="13">
+      <question>Hoeveel kost het in WoW om een personage van het ene rijk naar het andere te migreren ?</question>
+      <propositions>
+        <proposition id="13-1">15 euro</proposition>
+        <proposition id="13-2">25 euro</proposition>
+        <proposition id="13-3">35 euro</proposition>
+        <proposition id="13-4">45 euro</proposition>
+      </propositions>
+      <réponse proposition="13-2">25 euro</réponse>
+      <anecdote>Gebruikers kunnen maximaal 12 tekens per rijk maken en in totaal 50 tekens voor meerdere rassen en klassen.</anecdote>
+    </contenu>
+    <contenu id="14">
+      <question>Welk ras wordt als neutraal beschouwd in « World of Warcraft » ?</question>
+      <propositions>
+        <proposition id="14-1">Dryad</proposition>
+        <proposition id="14-2">Centaur</proposition>
+        <proposition id="14-3">Pandaren</proposition>
+        <proposition id="14-4">Draconid</proposition>
+      </propositions>
+      <réponse proposition="14-3">Pandaren</réponse>
+      <anecdote>« World of Warcraft : Mists of Pandaria » is de vierde uitbreiding van de MMORPG « World of Warcraft » van Blizzard Entertainment.</anecdote>
+    </contenu>
+    <contenu id="15">
+      <question>In feite, hoeveel klassen zijn er beschikbaar in « World of Warcraft » ?</question>
+      <propositions>
+        <proposition id="15-1">Dertien</proposition>
+        <proposition id="15-2">Nieuw</proposition>
+        <proposition id="15-3">Elf</proposition>
+        <proposition id="15-4">Zeven</proposition>
+      </propositions>
+      <réponse proposition="15-2">Nieuw</réponse>
+      <anecdote>De negen beschikbare klassen zijn Shaman, Hunter, Warlock, Druid, Warrior, Mage, Paladin, Priest en Thief.</anecdote>
+    </contenu>
+    <contenu id="16">
+      <question>Hoe wordt de « World of Warcraft » Discovery Edition ook wel genoemd ?</question>
+      <propositions>
+        <proposition id="16-1">F2P</proposition>
+        <proposition id="16-2">P2P</proposition>
+        <proposition id="16-3">W2P</proposition>
+        <proposition id="16-4">K2P</proposition>
+      </propositions>
+      <réponse proposition="16-1">F2P</réponse>
+      <anecdote>Dit model zegt gratis te spelen (ook afgekort als F2P), zodat iedereen « World of Warcraft » kan spelen.</anecdote>
+    </contenu>
+    <contenu id="17">
+      <question>In « World of Warcraft », met welk item kun je direct naar een niveau springen ?</question>
+      <propositions>
+        <proposition id="17-1">Boegschroef</proposition>
+        <proposition id="17-2">Sesam</proposition>
+        <proposition id="17-3">Paraplu</proposition>
+        <proposition id="17-4">Groene sleutel</proposition>
+      </propositions>
+      <réponse proposition="17-2">Sesam</réponse>
+      <anecdote>Object dat nu in bepaalde gevallen wordt aangeboden, de Sesam kon in de Blizzard-winkel worden gekocht voor een bedrag van 50 euro.</anecdote>
+    </contenu>
+    <contenu id="18">
+      <question>Hoeveel apparaten kan een personage dragen in WoW ?</question>
+      <propositions>
+        <proposition id="18-1">Zestien</proposition>
+        <proposition id="18-2">Twaalf</proposition>
+        <proposition id="18-3">Vier</proposition>
+        <proposition id="18-4">Acht</proposition>
+      </propositions>
+      <réponse proposition="18-1">Zestien</réponse>
+      <anecdote>De meeste apparaten van hoog niveau kunnen worden geüpgraded met scrolls of edelstenen.</anecdote>
+    </contenu>
+    <contenu id="19">
+      <question>Welke « World of Warcraft » itbreiding geeft de terugkeer van het Burning Legion weer ?</question>
+      <propositions>
+        <proposition id="19-1">Cataclysm</proposition>
+        <proposition id="19-2">Legioen</proposition>
+        <proposition id="19-3">Lich King</proposition>
+        <proposition id="19-4">Pandaria</proposition>
+      </propositions>
+      <réponse proposition="19-2">Legioen</réponse>
+      <anecdote>« World of Warcraft » is de vierde game in het middeleeuwse fantasy-universum « Warcraft », geïntroduceerd door « Warcraft : Orcs and Humans ».</anecdote>
+    </contenu>
+    <contenu id="20">
+      <question>Hoeveel kan ik overschrijden in de gratis versie van WoW ?</question>
+      <propositions>
+        <proposition id="20-1">30 gouden munten</proposition>
+        <proposition id="20-2">10 gouden munten</proposition>
+        <proposition id="20-3">100 gouden munten</proposition>
+        <proposition id="20-4">50 gouden munten</proposition>
+      </propositions>
+      <réponse proposition="20-2">10 gouden munten</réponse>
+      <anecdote>Het doel van de beperkingen van de ontdekkingseditie is om de speler aan te moedigen een abonnement af te sluiten als hij zich verveelt.</anecdote>
+    </contenu>
+  </confirmé>
+  <expert>
+    <contenu id="21">
+      <question>Wat vertegenwoordigt de Worgen-race van de « Cataclysm » uitbreiding van het spel « World of Warcraft » ?</question>
+      <propositions>
+        <proposition id="21-1">Weerwolven</proposition>
+        <proposition id="21-2">Orks</proposition>
+        <proposition id="21-3">Zombies</proposition>
+        <proposition id="21-4">Elfen</proposition>
+      </propositions>
+      <réponse proposition="21-1">Weerwolven</réponse>
+      <anecdote>Speelbaar vanuit de « Cataclysm » uitbreiding, dit zijn besmette mensen die zijn getransformeerd in wilde monsters.</anecdote>
+    </contenu>
+    <contenu id="22">
+      <question>Welke jonge paladijn is de prins van het koninkrijk Lordaeron in « World of Warcraft » ?</question>
+      <propositions>
+        <proposition id="22-1">Thrall</proposition>
+        <proposition id="22-2">Anduin</proposition>
+        <proposition id="22-3">Arthas</proposition>
+        <proposition id="22-4">Sylvanas</proposition>
+      </propositions>
+      <réponse proposition="22-3">Arthas</réponse>
+      <anecdote>Arthas Menethil zal de Frozen Throne bezetten totdat Tirion Fordring hem weet te verslaan en Fordragon zijn plaats inneemt.</anecdote>
+    </contenu>
+    <contenu id="23">
+      <question>In welke tv-serie spreekt Dr. Weir over « World of Warcraft » ?</question>
+      <propositions>
+        <proposition id="23-1">Noodgeval</proposition>
+        <proposition id="23-2">Dr House</proposition>
+        <proposition id="23-3">Stargate Atlantis</proposition>
+        <proposition id="23-4">Grey's Anatomy</proposition>
+      </propositions>
+      <réponse proposition="23-3">Stargate Atlantis</réponse>
+      <anecdote>Dokter Weir probeert dokter Lee af te leiden door hem te laten geloven dat ze een volgeling is. Een heel gesprek over het spel volgt.</anecdote>
+    </contenu>
+    <contenu id="24">
+      <question>Welke WoW-klasse is gespecialiseerd zonder genezing, schade of tanking ?</question>
+      <propositions>
+        <proposition id="24-1">Botanicus</proposition>
+        <proposition id="24-2">Timmerman</proposition>
+        <proposition id="24-3">Chirurg</proposition>
+        <proposition id="24-4">Monnik</proposition>
+      </propositions>
+      <réponse proposition="24-4">Monnik</réponse>
+      <anecdote>De klas verscheen met de vierde uitbreiding genaamd « Mists of Pandaria », die werd aangekondigd op BlizzCon 2011.</anecdote>
+    </contenu>
+    <contenu id="25">
+      <question>Welk beroep biedt de mogelijkheid om relikwieën te vinden in « World of Warcraft » ?</question>
+      <propositions>
+        <proposition id="25-1">Archeologie</proposition>
+        <proposition id="25-2">Kalligrafie</proposition>
+        <proposition id="25-3">Mijnbouw</proposition>
+        <proposition id="25-4">Sieraden</proposition>
+      </propositions>
+      <réponse proposition="25-1">Archeologie</réponse>
+      <anecdote>Dit beroep verscheen voor het eerst met « Cataclysm », de derde uitbreiding die werd aangekondigd tijdens de openingssessie van BlizzCon 2009.</anecdote>
+    </contenu>
+    <contenu id="26">
+      <question>Welke planeet kan in « World of Warcraft » worden bereikt via de Dark Portal ?</question>
+      <propositions>
+        <proposition id="26-1">Buitenland</proposition>
+        <proposition id="26-2">Kalimdor</proposition>
+        <proposition id="26-3">Darnassus</proposition>
+        <proposition id="26-4">Northrend</proposition>
+      </propositions>
+      <réponse proposition="26-1">Buitenland</réponse>
+      <anecdote>The Dark Portal werd geopend door Medivh onder de heerschappij van Sargeras, de oprichter van het Burning Legion.</anecdote>
+    </contenu>
+    <contenu id="27">
+      <question>Welke « World of Warcraft » spelers verzamelen iets inwisselbaars in het spel ?</question>
+      <propositions>
+        <proposition id="27-1">Lopers</proposition>
+        <proposition id="27-2">Mijnwerkers</proposition>
+        <proposition id="27-3">Boeren</proposition>
+        <proposition id="27-4">Moordenaars</proposition>
+      </propositions>
+      <réponse proposition="27-3">Boeren</réponse>
+      <anecdote>Boeren zijn soms ook piraten die inbreken op de accounts van andere spelers en verkopen wat ze bezitten.</anecdote>
+    </contenu>
+    <contenu id="28">
+      <question>Welk eiland Azeroth is de geboorteplaats van de Troll-beschaving ?</question>
+      <propositions>
+        <proposition id="28-1">Kezan</proposition>
+        <proposition id="28-2">Zandalar</proposition>
+        <proposition id="28-3">Nordrassil</proposition>
+        <proposition id="28-4">Pandaria</proposition>
+      </propositions>
+      <réponse proposition="28-2">Zandalar</réponse>
+      <anecdote>De vijf continenten van Azeroth worden gescheiden door de Grote Zee, die in het midden een enorme draaikolk herbergt, genaamd The Maelstrom.</anecdote>
+    </contenu>
+    <contenu id="29">
+      <question>In welk jaar werd de « World of Warcraft » Arathor Human Empire opgericht ?</question>
+      <propositions>
+        <proposition id="29-1">3024</proposition>
+        <proposition id="29-2">55</proposition>
+        <proposition id="29-3">-2900</proposition>
+        <proposition id="29-4">1148</proposition>
+      </propositions>
+      <réponse proposition="29-3">-2900</réponse>
+      <anecdote>Azeroth bestaat uit vijf continenten: de Eastern Kingdoms, Kalimdor, Northrend, Pandaria en de Shattered Isles in het noordoosten.</anecdote>
+    </contenu>
+    <contenu id="30">
+      <question>Welke specifieke sjamaan is in « World of Warcraft » de mentor van Gul'dan ?</question>
+      <propositions>
+        <proposition id="30-1">Rohart</proposition>
+        <proposition id="30-2">Kamagua</proposition>
+        <proposition id="30-3">Naaru</proposition>
+        <proposition id="30-4">Ner'zhul</proposition>
+      </propositions>
+      <réponse proposition="30-4">Ner'zhul</réponse>
+      <anecdote>Aan het einde van de gebeurtenissen in de Tweede Wereldoorlog zal Ner'zhul worden verslagen door de alliantie van mensen, hoge elven en dwergen.</anecdote>
+    </contenu>
+  </expert>
+  </nl>
+</quizz>

@@ -1,0 +1,1650 @@
+---
+fournisseur: OpenQuizzDB - Fournisseur de contenu libre (https://www.openquizzdb.org)
+rédacteur: Philippe Bresoux
+thème: Culture en vrac 5 (De la culture générale à tous les niveaux)
+difficulté: 3 / 5
+quizz:
+  fr:
+  - débutant:
+    - id: 1
+      question: Avec quel célèbre trader la Société générale est-elle en froid depuis 2010 ?
+      propositions:
+      - Georges Besse
+      - Jérôme Kerviel
+      - Serge Dassault
+      - Alain Cayzac
+      réponse: Jérôme Kerviel
+      anecdote: Jérôme Kerviel fut jugé responsable de la totalité des pertes enregistrées par la Société générale, soit 4,9 milliards d'euros.
+    - id: 2
+      question: Quel projet de lunettes à réalité augmentée fut conçu en 2012 par Google ?
+      propositions:
+      - Google Homido
+      - Google Glass
+      - Google Rift
+      - Google Cardboard
+      réponse: Google Glass
+      anecdote: La production fut suspendue en 2015, les Google Glass étant arrivées au point mort par leur manque d'applications et leur prix.
+    - id: 3
+      question: Quel est le nom du charismatique fondateur et propriétaire du site Megaupload ?
+      propositions:
+      - Robert Capa
+      - Michael Jary
+      - Nicolas Born
+      - Kim Dotcom
+      réponse: Kim Dotcom
+      anecdote: Le gouvernement américain a annoncé avoir récupéré 65 millions de dollars de la fortune détournée de Kim Schmitz, alias Kim Dotcom.
+    - id: 4
+      question: Qui a été choisi par TF1 comme successeur de Laurence Ferrari au journal de 20 heures ?
+      propositions:
+      - Gilles Bouleau
+      - Thomas Hugues
+      - Jacques Legros
+      - Julien Arnaud
+      réponse: Gilles Bouleau
+      anecdote: Discret et sobre, respecté en interne, son image tranche avec celle de ses prédécesseurs et porte ses fruits en termes d'audience.
+    - id: 5
+      question: Quel écureuil préhystérique est probablement le plus célèbre du cinéma ?
+      propositions:
+      - Scrat
+      - Alvin
+      - Eddy
+      - Spip
+      réponse: Scrat
+      anecdote: Scrat, l'écureuil à dents de sabre, est doublé par Chris Wedge dans toutes les versions étrangères, l'écureuil n'ayant aucun dialogue.
+    - id: 6
+      question: Quel groupe punk rock a chanté en public une chanson anti-Poutine à Moscou ?
+      propositions:
+      - Blonde Electra
+      - Nina Sky
+      - Zap Mama
+      - Pussy Riot
+      réponse: Pussy Riot
+      anecdote: Elles furent condamnées en 2012 à deux ans d'emprisonnement pour vandalisme et incitation à la haine religieuse.
+    - id: 7
+      question: Combien de temps a duré le mariage entre Johnny Depp et Vanessa Paradis ?
+      propositions:
+      - 14 ans
+      - 8 ans
+      - 10 ans
+      - 12 ans
+      réponse: 14 ans
+      anecdote: Vanessa Paradis et Johnny Depp ont vécu avec leurs enfants à Los Angeles ainsi que dans leur propriété française du Var.
+    - id: 8
+      question: Quel petit objet les automobilistes français doivent-ils posséder depuis juillet 2012 ?
+      propositions:
+      - Éthylotest
+      - GPS
+      - Triangle
+      - Sapin magique
+      réponse: Éthylotest
+      anecdote: Il existe deux types d'éthylotest : chimiques, composés d'un réactif et électroniques, qui comportent une sonde.
+    - id: 9
+      question: Quelle opposante à la dictature de son pays a reçu le prix Nobel de la paix en 1991 ?
+      propositions:
+      - Radhia Nasraoui
+      - Rosa Taikon
+      - Salima Ghezali
+      - Aung San Suu Kyi
+      réponse: Aung San Suu Kyi
+      anecdote: Bien que la Birmanie ait entamé une transition démocratique, le gouvernement doit composer avec une armée puissante.
+    - id: 10
+      question: Quel appareil a été débranché par France Telecom après 30 ans de service ?
+      propositions:
+      - Téléscripteur
+      - Diatonis
+      - Minitel
+      - Fax
+      réponse: Minitel
+      anecdote: Ce terminal informatique était destiné à la connexion au service français de Vidéotex baptisé Télétel, exploité entre 1980 et 2012.
+  - confirmé:
+    - id: 11
+      question: Comment le module « Titan » de Facebook fut-il surnommé par les internautes ?
+      propositions:
+      - Skype grabber
+      - Gmail killer
+      - Twitter eraser
+      - Messenger hunter
+      réponse: Gmail killer
+      anecdote: Aux USA, il apparaît que le leader du marché est clairement Yahoo, suivi par Hotmail et Google avec 15 % de part du marché.
+    - id: 12
+      question: Quel avion solaire André Borschberg a-t-il posé à Ouarzazate après un vol de 700 km ?
+      propositions:
+      - Sunseeker
+      - Helios
+      - Centurion
+      - Solar Impulse
+      réponse: Solar Impulse
+      anecdote: Le projet vise à faire voler de nuit comme de jour un avion monoplace à moteurs électriques alimentés par l'énergie solaire.
+    - id: 13
+      question: Quel titre du groupe Muse a été choisi comme hymne officiel pour les JO de Londres ?
+      propositions:
+      - Survival
+      - Uno
+      - Liquid State
+      - Dig Down
+      réponse: Survival
+      anecdote: Il sera interprété lors de la cérémonie d'ouverture des Jeux, de la remise des médailles et à chaque retransmission télévisuelle.
+    - id: 14
+      question: Quelle actrice a incarné le docteur Cuddy dans « Dr House » pendant sept saisons ?
+      propositions:
+      - Sela Ward
+      - Lisa Edelstein
+      - Olivia Wilde
+      - Jennifer Morrison
+      réponse: Lisa Edelstein
+      anecdote: En tant que végane, elle milite activement en faveur d'un mode de vie rejetant toute exploitation animale.
+    - id: 15
+      question: Quel était le nom initial de la tablette tactile fabriquée par Microsoft ?
+      propositions:
+      - Zune
+      - Lumia
+      - Kin
+      - Surface
+      réponse: Surface
+      anecdote: PixelSense est un système informatique utilisant la technologie surface computing basé sur Windows Vista SP1 sur un écran tactile.
+    - id: 16
+      question: Quelle chaîne de télévision francophone est sans conteste LA chaîne de la mode ?
+      propositions:
+      - Canal J
+      - Paris Première
+      - Numéro 23
+      - Gulli
+      réponse: Paris Première
+      anecdote: Paris Première est une chaîne de télévision généraliste nationale française de la TNT créée en 1986 qui appartient au Groupe M6.
+    - id: 17
+      question: Quelle actrice incarne une mère toxico dans le film « The Town » de Ben Affleck ?
+      propositions:
+      - Rebecca Hall
+      - Jennifer Garner
+      - Sharon Stone
+      - Blake Lively
+      réponse: Blake Lively
+      anecdote: Victor Garber, qui incarne l'un des otages du premier braquage, a présidé la cérémonie de mariage de Ben Affleck et Jennifer Garner.
+    - id: 18
+      question: Quelle société est à ce jour le leader mondial des producteurs audiovisuels ?
+      propositions:
+      - Endemol
+      - Momento
+      - RT Nederland
+      - Eyeworks
+      réponse: Endemol
+      anecdote: Endemol est une société néerlandaise spécialisée dans la production d'émissions de flux : télé-réalité, magazines et divertissements.
+    - id: 19
+      question: Quelle console de jeux vidéo portable de Sony a remplacé la PSP en 2012 ?
+      propositions:
+      - Vita
+      - Neo-Geo X
+      - N-Gage
+      - Game Gear
+      réponse: Vita
+      anecdote: La console, compatible Bluetooth, Wi-Fi, et 3G en option, comprend deux sticks analogiques et un écran tactile OLED capacitif.
+    - id: 20
+      question: Quel groupe britannique est considéré comme l'un des porte-drapeaux de la Britpop ?
+      propositions:
+      - Blur
+      - The Fall
+      - Elastica
+      - Milburn
+      réponse: Blur
+      anecdote: En 1997, Blur a rompu avec la Britpop en sortant un album homonyme qui atteindra la première place des charts.
+  - expert:
+    - id: 21
+      question: Combien de dollars aurait rapporté en cinq ans à la firme Apple son célèbre iPhone ?
+      propositions:
+      - 150 milliards
+      - 90 milliards
+      - 120 milliards
+      - 60 milliards
+      réponse: 150 milliards
+      anecdote: L'iPhone reste à ce jour l'appareil qui a transformé le marché des téléphones intelligents en en faisant des produits de masse.
+    - id: 22
+      question: Rachel Legrain-Trapani a été élue Miss France, mais de quelle année ?
+      propositions:
+      - 2013
+      - 2007
+      - 2011
+      - 2009
+      réponse: 2007
+      anecdote: Début 2008, elle intègre la bande du 6-9 avec Bruno Guillon, où elle tient une chronique dans « Faites entrer l'invité » sur la chaîne NRJ12.
+    - id: 23
+      question: Quel chien est avec Jean Dujardin une des stars du film « The Artist » ?
+      propositions:
+      - Blondi
+      - Balto
+      - Uggie
+      - Clément
+      réponse: Uggie
+      anecdote: Recueilli tout jeune par le dresseur colombien Omar von Muller, Uggie laissera ses empreintes sur le Walk of Fame.
+    - id: 24
+      question: Quelle année marqua le 300ème anniversaire de la naissance de Jean-Jacques Rousseaux ?
+      propositions:
+      - 2012
+      - 1992
+      - 2002
+      - 1982
+      réponse: 2012
+      anecdote: Une controverse opposera ceux qui estiment que Rousseau est en quelque sorte le père des totalitarismes et ceux qui l'en exonèrent.
+    - id: 25
+      question: Quel outil de microblogage pour entreprises a été racheté en 2012 par Microsoft ?
+      propositions:
+      - LinkedIn
+      - Yammer
+      - Myspace
+      - Viadeo
+      réponse: Yammer
+      anecdote: Selon TechCrunch en septembre 2010, le service était utilisé par un million d'utilisateurs au sein de 80 000 entreprises dans le monde.
+    - id: 26
+      question: Quel auteur des « Allumettes suédoises » est décédé le 28 juin 2012 à 88 ans ?
+      propositions:
+      - Lucien Gachon
+      - Robert Sabatier
+      - Georges Conchon
+      - Pierre Biron
+      réponse: Robert Sabatier
+      anecdote: Aussi connu comme Robert Vellerut, il fut membre du comité d'honneur de la Maison internationale des poètes de Saint-Malo.
+    - id: 27
+      question: À qui les Rolling Stones ont-ils confié leur logo pour leur 50e anniversaire ?
+      propositions:
+      - Anthony Clark
+      - Curtis Kulig
+      - Kenny Scharf
+      - Shephard Fairey
+      réponse: Shephard Fairey
+      anecdote: Issu de la scène du skateboard, Shephard Fairey s'est d'abord fait connaître par les autocollants « André the Giant Has a Posse ».
+    - id: 28
+      question: Quel anniversaire la célèbre marque de lunettes Ray-Ban a-t-elle fêté en 2012 ?
+      propositions:
+      - Ses 25 ans
+      - Ses 50 ans
+      - Ses 75 ans
+      - Ses 100 ans
+      réponse: Ses 75 ans
+      anecdote: L'US Air Force a commandé en 1933 un modèle pour ses pilotes de chasse qui pris le nom d'Aviator à sa commercialisation en 1936.
+    - id: 29
+      question: Qui est le manager de la chanteuse et actrice Jane Birkin ?
+      propositions:
+      - Steve Goncalves
+      - Olivier Gluzman
+      - Tim Smith
+      - Adam Alpert
+      réponse: Olivier Gluzman
+      anecdote: Presque totalement absente au cinéma dans les années 1990, Jane Birkin reviendra auréolée d'un statut d'icône dans ses films.
+    - id: 30
+      question: Quel est le titre de la comédie musicale des Spice Girls présentée en 2012 ?
+      propositions:
+      - Too Much
+      - Headlines
+      - Holler
+      - Viva Forever
+      réponse: Viva Forever
+      anecdote: Après une conférence de presse à l'hôtel Saint Pancras, « Viva Forever » fut à l'affiche en 2012 au Picadilly Theatre à Londres.
+  en:
+  - débutant:
+    - id: 1
+      question: With which famous trader has Societe Generale been cold since 2010 ?
+      propositions:
+      - Alain Cayzac
+      - Georges Besse
+      - Serge Dassault
+      - Jérôme Kerviel
+      réponse: Jérôme Kerviel
+      anecdote: Jérôme Kerviel was held responsible for all of the losses recorded by Société Générale, ie 4.9 billion euros.
+    - id: 2
+      question: What augmented reality glasses project was designed in 2012 by Google ?
+      propositions:
+      - Google Homido
+      - Google Cardboard
+      - Google Glass
+      - Google Rift
+      réponse: Google Glass
+      anecdote: Production was suspended in 2015, the Google Glass having come to a standstill due to their lack of applications and their price.
+    - id: 3
+      question: What is the name of the charismatic founder and owner of the Megaupload site ?
+      propositions:
+      - Michael Jary
+      - Nicolas Born
+      - Robert Capa
+      - Kim Dotcom
+      réponse: Kim Dotcom
+      anecdote: The US government has announced that it has recovered $ 65 million from the embezzled fortune of Kim Schmitz, aka Kim Dotcom.
+    - id: 4
+      question: Who was chosen by TF1 as Laurence Ferrari's successor at the 20 hours newspaper ?
+      propositions:
+      - Jacques Legros
+      - Gilles Bouleau
+      - Julien Arnaud
+      - Thomas Hugues
+      réponse: Gilles Bouleau
+      anecdote: Discreet and sober, respected internally, its image contrasts with that of its predecessors and bears fruit in terms of audience.
+    - id: 5
+      question: Which prehysterical squirrel is probably the most famous in cinema ?
+      propositions:
+      - Scrat
+      - Alvin
+      - Spip
+      - Eddy
+      réponse: Scrat
+      anecdote: Scrat, the saber-toothed squirrel, is voiced by Chris Wedge in all foreign versions, with the squirrel having no dialogue.
+    - id: 6
+      question: Which punk rock band performed an anti-Putin song in public in Moscow ?
+      propositions:
+      - Zap Mama
+      - Nina Sky
+      - Blonde Electra
+      - Pussy Riot
+      réponse: Pussy Riot
+      anecdote: They were sentenced in 2012 to two years' imprisonment for vandalism and incitement to religious hatred.
+    - id: 7
+      question: How long did the marriage between Johnny Depp and Vanessa Paradis last ?
+      propositions:
+      - 10 years
+      - 14 years old
+      - 8 years old
+      - 12 years old
+      réponse: 14 years old
+      anecdote: Vanessa Paradis and Johnny Depp lived with their children in Los Angeles as well as in their French property in Var.
+    - id: 8
+      question: What small object must French motorists have owned since July 2012 ?
+      propositions:
+      - Triangle
+      - Breathalyzer
+      - Magic tree
+      - GPS
+      réponse: Breathalyzer
+      anecdote: There are two types of breathalyzer : chemical, composed of a reagent, and electronic, which have a probe.
+    - id: 9
+      question: Which opponent of her country's dictatorship received the Nobel Peace Prize in 1991 ?
+      propositions:
+      - Radhia Nasraoui
+      - Rosa Taikon
+      - Salima Ghezali
+      - Aung San Suu Kyi
+      réponse: Aung San Suu Kyi
+      anecdote: Although Burma has entered a democratic transition, the government must contend with a powerful army.
+    - id: 10
+      question: Which device was disconnected by France Telecom after 30 years of service ?
+      propositions:
+      - Minitel
+      - Teleprinter
+      - Fax
+      - Diatonis
+      réponse: Minitel
+      anecdote: This computer terminal was intended for connection to the French Videotex service called Télétel, operated between 1980 and 2012.
+  - confirmé:
+    - id: 11
+      question: How was Facebook's « Titan » module nicknamed by Internet users ?
+      propositions:
+      - Gmail killer
+      - Messenger hunter
+      - Skype grabber
+      - Twitter eraser
+      réponse: Gmail killer
+      anecdote: In the USA, it appears that the market leader is clearly Yahoo, followed by Hotmail and Google with 15 % market share.
+    - id: 12
+      question: Which solar plane did André Borschberg land in Ouarzazate after a flight of 700 km ?
+      propositions:
+      - Solar Impulse
+      - Helios
+      - Sunseeker
+      - Centurion
+      réponse: Solar Impulse
+      anecdote: The project aims to fly a single-seater plane with electric motors powered by solar energy by night and by day.
+    - id: 13
+      question: What title of the Muse group was chosen as the official anthem for the London Olympics ?
+      propositions:
+      - Dig Down
+      - Survival
+      - Uno
+      - Liquid State
+      réponse: Survival
+      anecdote: It will be performed during the opening ceremony of the Games, the medal presentation and each television broadcast.
+    - id: 14
+      question: Which actress played Doctor Cuddy in « Dr House » for seven seasons ?
+      propositions:
+      - Lisa Edelstein
+      - Sela Ward
+      - Jennifer Morrison
+      - Olivia Wilde
+      réponse: Lisa Edelstein
+      anecdote: As a vegan, she actively campaigns for a lifestyle that rejects all animal exploitation.
+    - id: 15
+      question: What was the initial name of the touchscreen tablet made by Microsoft ?
+      propositions:
+      - Kin
+      - Zune
+      - Surface
+      - Lumia
+      réponse: Surface
+      anecdote: PixelSense is a computer system using surface computing technology based on Windows Vista SP1 on a touch screen.
+    - id: 16
+      question: Which French-speaking television channel is undoubtedly THE fashion channel ?
+      propositions:
+      - Gulli
+      - Issue 23
+      - Paris Premiere
+      - Channel J
+      réponse: Paris Premiere
+      anecdote: Paris Première is a French national general-interest TNT television channel created in 1986 which belongs to the M6 Group.
+    - id: 17
+      question: Which actress plays a drug addict mother in Ben Affleck's « The Town » ?
+      propositions:
+      - Sharon Stone
+      - Jennifer Garner
+      - Rebecca Hall
+      - Blake Lively
+      réponse: Blake Lively
+      anecdote: Victor Garber, who plays one of the hostages of the first robbery, presided over the wedding ceremony of Ben Affleck and Jennifer Garner.
+    - id: 18
+      question: Which company is currently the world leader in audiovisual producers ?
+      propositions:
+      - RT Nederland
+      - Momento
+      - Endemol
+      - Eyeworks
+      réponse: Endemol
+      anecdote: Endemol is a Dutch company specializing in the production of live broadcasts : reality TV, magazines and entertainment.
+    - id: 19
+      question: Which Sony portable video game console replaced the PSP in 2012 ?
+      propositions:
+      - Vita
+      - Game Gear
+      - Neo-Geo X
+      - N-Gage
+      réponse: Vita
+      anecdote: The console, compatible with Bluetooth, Wi-Fi, and optional 3G, includes two analog sticks and a capacitive OLED touchscreen.
+    - id: 20
+      question: Which British group is considered one of the Britpop flagship ?
+      propositions:
+      - Milburn
+      - Blur
+      - The Fall
+      - Elastica
+      réponse: Blur
+      anecdote: In 1997, Blur broke with Britpop by releasing a namesake album which reached number one on the charts.
+  - expert:
+    - id: 21
+      question: How many dollars would Apple have brought in its famous iPhone in five years ?
+      propositions:
+      - 150 billion
+      - 60 billion
+      - 120 billion
+      - 90 billion
+      réponse: 150 billion
+      anecdote: The iPhone remains to this day the device that transformed the market for smartphones into mass products.
+    - id: 22
+      question: Rachel Legrain-Trapani was elected Miss France, but which year ?
+      propositions:
+      - 2009
+      - 2013
+      - 2011
+      - 2007
+      réponse: 2007
+      anecdote: At the start of 2008, she joined the 6-9 band with Bruno Guillon, where she wrote a column in « Bring in the guest » on the NRJ12 channel.
+    - id: 23
+      question: Which dog is with Jean Dujardin one of the stars of the film « The Artist » ?
+      propositions:
+      - Uggie
+      - Clement
+      - Blondi
+      - Balto
+      réponse: Uggie
+      anecdote: Picked up at a young age by Colombian trainer Omar von Muller, Uggie left his mark on the Walk of Fame.
+    - id: 24
+      question: What year marked the 300th anniversary of the birth of Jean-Jacques Rousseaux ?
+      propositions:
+      - 1982
+      - 1992
+      - 2002
+      - 2012
+      réponse: 2012
+      anecdote: A controversy will oppose those who believe that Rousseau is in a way the father of totalitarianisms and those who exonerate him.
+    - id: 25
+      question: Which business microblogging tool was acquired by Microsoft in 2012 ?
+      propositions:
+      - LinkedIn
+      - Viadeo
+      - Yammer
+      - Myspace
+      réponse: Yammer
+      anecdote: According to TechCrunch in September 2010, the service was used by one million users in 80,000 companies around the world.
+    - id: 26
+      question: Which author of « Swedish Matches » died on June 28, 2012 at the age of 88 ?
+      propositions:
+      - Pierre Biron
+      - Robert Sabatier
+      - Lucien Gachon
+      - Georges Conchon
+      réponse: Robert Sabatier
+      anecdote: Also known as Robert Vellerut, he was a member of the honorary committee of the International House of Poets of Saint-Malo.
+    - id: 27
+      question: Who did the Rolling Stones entrust with their logo for their 50th anniversary ?
+      propositions:
+      - Shephard Fairey
+      - Kenny Scharf
+      - Curtis Kulig
+      - Anthony Clark
+      réponse: Shephard Fairey
+      anecdote: Coming from the skateboard scene, Shephard Fairey first became known with the « André the Giant Has a Posse » stickers.
+    - id: 28
+      question: What birthday did the famous brand of glasses Ray-Ban celebrate in 2012 ?
+      propositions:
+      - Its 25 years
+      - Its 50 years
+      - Its 100 years
+      - Its 75 years
+      réponse: Its 75 years
+      anecdote: The US Air Force ordered in 1933 a model for its fighter pilots which took the name Aviator when it was marketed in 1936.
+    - id: 29
+      question: Who is the manager of singer and actress Jane Birkin ?
+      propositions:
+      - Adam Alpert
+      - Steve Goncalves
+      - Olivier Gluzman
+      - Tim Smith
+      réponse: Olivier Gluzman
+      anecdote: Almost completely absent from the cinema in the 1990s, Jane Birkin will return with an iconic status in her films.
+    - id: 30
+      question: What is the title of the Spice Girls musical presented in 2012 ?
+      propositions:
+      - Too Much
+      - Viva Forever
+      - Holler
+      - Headlines
+      réponse: Viva Forever
+      anecdote: After a press conference at the Saint Pancras Hotel, « Viva Forever » premiered in 2012 at the Picadilly Theater in London.
+  de:
+  - débutant:
+    - id: 1
+      question: Mit welchem berühmten Händler ist die Societe Generale seit 2010 kalt ?
+      propositions:
+      - Serge Dassault
+      - Alain Cayzac
+      - Georges Besse
+      - Jérôme Kerviel
+      réponse: Jérôme Kerviel
+      anecdote: Jérôme Kerviel wurde für alle von der Société Générale verzeichneten Verluste verantwortlich gemacht, dh 4,9 Milliarden Euro.
+    - id: 2
+      question: Welches Augmented-Reality-Brillenprojekt wurde 2012 von Google entworfen ?
+      propositions:
+      - Google Homido
+      - Google Glass
+      - Google Cardboard
+      - Google Rift
+      réponse: Google Glass
+      anecdote: Die Produktion wurde 2015 eingestellt, da Google Glass aufgrund fehlender Anwendungen und des Preises zum Stillstand gekommen war.
+    - id: 3
+      question: Wie heißt der charismatische Gründer und Eigentümer der Megaupload-Site ?
+      propositions:
+      - Michael Jary
+      - Nicolas Geboren
+      - Robert Capa
+      - Kim Dotcom
+      réponse: Kim Dotcom
+      anecdote: Die US-Regierung hat angekündigt, 65 Millionen US-Dollar aus dem veruntreuten Vermögen von Kim Schmitz, auch bekannt als Kim Dotcom, zurückgefordert zu haben.
+    - id: 4
+      question: Wer wurde von TF1 als Nachfolger von Laurence Ferrari bei der 20-Stunden-Zeitung ausgewählt ?
+      propositions:
+      - Jacques Legros
+      - Thomas Hugues
+      - Julien Arnaud
+      - Gilles Bouleau
+      réponse: Gilles Bouleau
+      anecdote: Diskret und nüchtern, intern respektiert, kontrastiert sein Image mit dem seiner Vorgänger und trägt Früchte in Bezug auf das Publikum.
+    - id: 5
+      question: Welches prähysterische Eichhörnchen ist wahrscheinlich das berühmteste im Kino ?
+      propositions:
+      - Wirbel
+      - Scrat
+      - Alvin
+      - Spip
+      réponse: Scrat
+      anecdote: Scrat, das Säbelzahn-Eichhörnchen, wird von Chris Wedge in allen ausländischen Versionen geäußert, wobei das Eichhörnchen keinen Dialog hat.
+    - id: 6
+      question: Welche Punkrockband hat in Moskau öffentlich einen Anti-Putin-Song aufgeführt ?
+      propositions:
+      - Blonde Electra
+      - Pussy Riot
+      - Zap Mama
+      - Nina Sky
+      réponse: Pussy Riot
+      anecdote: Sie wurden 2012 wegen Vandalismus und Anstiftung zum religiösen Hass zu zwei Jahren Haft verurteilt.
+    - id: 7
+      question: Wie lange dauerte die Ehe zwischen Johnny Depp und Vanessa Paradis ?
+      propositions:
+      - 14 Jahre alt
+      - 8 Jahre alt
+      - 12 Jahre alt
+      - 10 Jahre
+      réponse: 14 Jahre alt
+      anecdote: Vanessa Paradis und Johnny Depp lebten mit ihren Kindern in Los Angeles sowie in ihrem französischen Anwesen in Var.
+    - id: 8
+      question: Welches kleine Objekt müssen französische Autofahrer seit Juli 2012 besitzen ?
+      propositions:
+      - Magischer Baum
+      - Alkoholtester
+      - GPS
+      - Dreieck
+      réponse: Alkoholtester
+      anecdote: Es gibt zwei Arten von Alkoholtestern : chemische, aus einem Reagenz bestehende und elektronische, die eine Sonde haben.
+    - id: 9
+      question: Welche Gegnerin der Diktatur ihres Landes erhielt 1991 den Friedensnobelpreis ?
+      propositions:
+      - Radhia Nasraoui
+      - Salima Ghezali
+      - Rosa Taikon
+      - Aung San Suu Kyi
+      réponse: Aung San Suu Kyi
+      anecdote: Obwohl Birma in einen demokratischen Übergang eingetreten ist, muss sich die Regierung mit einer mächtigen Armee auseinandersetzen.
+    - id: 10
+      question: Welches Gerät wurde nach 30-jähriger Betriebszugehörigkeit von France Telecom getrennt ?
+      propositions:
+      - Fax
+      - Fernschreiber
+      - Minitel
+      - Diatonis
+      réponse: Minitel
+      anecdote: Dieses Computerterminal war für den Anschluss an den französischen Videotex-Dienst Télétel vorgesehen, der zwischen 1980 und 2012 betrieben wurde.
+  - confirmé:
+    - id: 11
+      question: Wie wurde das « Titan » -Modul von Facebook von Internetnutzern mit einem Spitznamen versehen ?
+      propositions:
+      - Google Mail-Killer
+      - Twitter Radiergummi
+      - Botenjäger
+      - Skype Grabber
+      réponse: Google Mail-Killer
+      anecdote: In den USA scheint der Marktführer eindeutig Yahoo zu sein, gefolgt von Hotmail und Google mit einem Marktanteil von 15 %.
+    - id: 12
+      question: Welches Solarflugzeug landete André Borschberg nach einem Flug von 700 km in Ouarzazate ?
+      propositions:
+      - Sonnensucher
+      - Sonnenimpuls
+      - Zenturio
+      - Helios
+      réponse: Sonnenimpuls
+      anecdote: Das Projekt zielt darauf ab, ein einsitziges Flugzeug mit Elektromotoren zu fliegen, die Tag und Nacht mit Sonnenenergie betrieben werden.
+    - id: 13
+      question: Welcher Titel der Muse-Gruppe wurde als offizielle Hymne für die Olympischen Spiele in London ausgewählt ?
+      propositions:
+      - Survival
+      - Uno
+      - Dig Down
+      - Liquid State
+      réponse: Survival
+      anecdote: Es wird während der Eröffnungsfeier der Spiele, der Medaillenübergabe und in jeder Fernsehsendung aufgeführt.
+    - id: 14
+      question: Welche Schauspielerin spielte sieben Spielzeiten lang Doctor Cuddy in « Dr. House » ?
+      propositions:
+      - Jennifer Morrison
+      - Lisa Edelstein
+      - Olivia Wilde
+      - Sela Ward
+      réponse: Lisa Edelstein
+      anecdote: Als Veganerin setzt sie sich aktiv für einen Lebensstil ein, der jegliche Ausbeutung von Tieren ablehnt.
+    - id: 15
+      question: Wie hieß das Touchscreen-Tablet von Microsoft ursprünglich ?
+      propositions:
+      - Lumia
+      - Kin
+      - Zune
+      - Oberfläche
+      réponse: Oberfläche
+      anecdote: PixelSense ist ein Computersystem mit Oberflächencomputertechnologie, das auf Windows Vista SP1 auf einem Touchscreen basiert.
+    - id: 16
+      question: Welcher französischsprachige Fernsehsender ist zweifellos DER Modekanal ?
+      propositions:
+      - Gulli
+      - Kanal J
+      - Pariser Premiere
+      - Ausgabe 23
+      réponse: Pariser Premiere
+      anecdote: Paris Première ist ein 1986 gegründeter französischer TNT-Fernsehsender von allgemeinem Interesse, der zur M6-Gruppe gehört.
+    - id: 17
+      question: Welche Schauspielerin spielt eine drogenabhängige Mutter in Ben Afflecks « The Town » ?
+      propositions:
+      - Rebecca Hall
+      - Sharon Stone
+      - Blake Lively
+      - Jennifer Garner
+      réponse: Blake Lively
+      anecdote: Victor Garber, der eine der Geiseln des ersten Überfalls spielt, leitete die Hochzeitszeremonie von Ben Affleck und Jennifer Garner.
+    - id: 18
+      question: Welches Unternehmen ist derzeit weltweit führend bei audiovisuellen Herstellern ?
+      propositions:
+      - Augenarbeit
+      - RT Nederland
+      - Endemol
+      - Momento
+      réponse: Endemol
+      anecdote: Endemol ist ein niederländisches Unternehmen, das sich auf die Produktion von Live-Sendungen spezialisiert hat : Reality-TV, Magazine und Unterhaltung.
+    - id: 19
+      question: Welche tragbare Videospielkonsole von Sony hat 2012 die PSP ersetzt ?
+      propositions:
+      - N-Gage
+      - Vita
+      - Neo-Geo X
+      - Game Gear
+      réponse: Vita
+      anecdote: Die mit Bluetooth, Wi-Fi und optionalem 3G kompatible Konsole enthält zwei analoge Sticks und einen kapazitiven OLED-Touchscreen.
+    - id: 20
+      question: Welche britische Gruppe gilt als eines der Flaggschiffe von Britpop ?
+      propositions:
+      - The Fall
+      - Milburn
+      - Elastica
+      - Blur
+      réponse: Blur
+      anecdote: 1997 brach Blur mit Britpop ab, indem er ein gleichnamiges Album veröffentlichte, das die Nummer eins in den Charts erreichte.
+  - expert:
+    - id: 21
+      question: Wie viele Dollar hätte Apple in fünf Jahren in sein berühmtes iPhone gebracht ?
+      propositions:
+      - 60 Milliarden
+      - 90 Milliarden
+      - 150 Milliarden
+      - 120 Milliarden
+      réponse: 150 Milliarden
+      anecdote: Das iPhone ist bis heute das Gerät, das den Markt für Smartphones in Massenprodukte verwandelt hat.
+    - id: 22
+      question: Rachel Legrain-Trapani wurde zur Miss France gewählt, aber in welchem Jahr ?
+      propositions:
+      - 2009
+      - 2013
+      - 2011
+      - 2007
+      réponse: 2007
+      anecdote: Anfang 2008 trat sie mit Bruno Guillon der 6-9-Band bei, wo sie eine Kolumne in « Bring the guest » auf dem NRJ12-Kanal schrieb.
+    - id: 23
+      question: Welcher Hund ist mit Jean Dujardin einer der Stars des Films « The Artist » ?
+      propositions:
+      - Uggie
+      - Balto
+      - Blondi
+      - Clement
+      réponse: Uggie
+      anecdote: Uggie wurde in jungen Jahren vom kolumbianischen Trainer Omar von Muller aufgenommen und hinterließ seine Spuren auf dem Walk of Fame.
+    - id: 24
+      question: In welchem Jahr jährte sich zum 300. Mal die Geburt von Jean-Jacques Rousseaux ?
+      propositions:
+      - 1982
+      - 1992
+      - 2002
+      - 2012
+      réponse: 2012
+      anecdote: Eine Kontroverse wird sich denen widersetzen, die glauben, dass Rousseau in gewisser Weise der Vater des Totalitarismus ist, und denen, die ihn entlasten.
+    - id: 25
+      question: Welches Business-Microblogging-Tool wurde 2012 von Microsoft übernommen ?
+      propositions:
+      - Myspace
+      - Yammer
+      - Viadeo
+      - LinkedIn
+      réponse: Yammer
+      anecdote: Laut TechCrunch im September 2010 wurde der Dienst von einer Million Benutzern in 80.000 Unternehmen auf der ganzen Welt genutzt.
+    - id: 26
+      question: Welcher Autor von « Swedish Matches » ist am 28. Juni 2012 im Alter von 88 Jahren gestorben ?
+      propositions:
+      - Pierre Biron
+      - Lucien Gachon
+      - Robert Sabatier
+      - Georges Conchon
+      réponse: Robert Sabatier
+      anecdote: Er war auch als Robert Vellerut bekannt und Mitglied des Ehrenausschusses des Internationalen Hauses der Dichter von Saint-Malo.
+    - id: 27
+      question: Wem haben die Rolling Stones ihr Logo zum 50-jährigen Jubiläum anvertraut ?
+      propositions:
+      - Shephard Fairey
+      - Kenny Scharf
+      - Anthony Clark
+      - Curtis Kulig
+      réponse: Shephard Fairey
+      anecdote: Shephard Fairey kam aus der Skateboard-Szene und wurde erstmals durch die Aufkleber « André the Giant Has a Posse » bekannt.
+    - id: 28
+      question: Welchen Geburtstag feierte die berühmte Brillenmarke Ray-Ban 2012 ?
+      propositions:
+      - Seine 100 Jahre
+      - Seine 50 Jahre
+      - Seine 25 Jahre
+      - Seine 75 Jahre
+      réponse: Seine 75 Jahre
+      anecdote: Die US Air Force bestellte 1933 ein Modell für ihre Kampfpiloten, das bei der Vermarktung 1936 den Namen Aviator erhielt.
+    - id: 29
+      question: Wer ist der Manager der Sängerin und Schauspielerin Jane Birkin ?
+      propositions:
+      - Olivier Gluzman
+      - Adam Alpert
+      - Steve Goncalves
+      - Tim Smith
+      réponse: Olivier Gluzman
+      anecdote: Jane Birkin, die in den 1990er Jahren fast nicht im Kino war, wird mit einem Kultstatus in ihren Filmen zurückkehren.
+    - id: 30
+      question: Wie lautet der Titel des 2012 präsentierten Spice Girls-Musicals ?
+      propositions:
+      - Too Much
+      - Headlines
+      - Holler
+      - Viva Forever
+      réponse: Viva Forever
+      anecdote: Nach einer Pressekonferenz im Saint Pancras Hotel wurde « Viva Forever » 2012 im Picadilly Theatre in London uraufgeführt.
+  es:
+  - débutant:
+    - id: 1
+      question: ¿Con qué comerciante famoso ha sido frío Societe Generale desde 2010 ?
+      propositions:
+      - Georges Besse
+      - Alain Cayzac
+      - Jérôme Kerviel
+      - Serge Dassault
+      réponse: Jérôme Kerviel
+      anecdote: Jérôme Kerviel fue responsable de todas las pérdidas registradas por Société Générale, es decir, 4.900 millones de euros.
+    - id: 2
+      question: ¿Qué proyecto de gafas de realidad aumentada diseñó Google en 2012 ?
+      propositions:
+      - Google Cardboard
+      - Google Rift
+      - Google Glass
+      - Google Homido
+      réponse: Google Glass
+      anecdote: La producción se suspendió en 2015, las Google Glass se paralizaron por su falta de aplicaciones y su precio.
+    - id: 3
+      question: ¿Cuál es el nombre del carismático fundador y propietario del sitio Megaupload ?
+      propositions:
+      - Michael Jary
+      - Nicolas Born
+      - Robert Capa
+      - Kim Dotcom
+      réponse: Kim Dotcom
+      anecdote: El gobierno de Estados Unidos ha anunciado que ha recuperado 65 millones de dólares de la fortuna malversada de Kim Schmitz, también conocida como Kim Dotcom.
+    - id: 4
+      question: ¿Quién fue elegido por TF1 como sucesor de Laurence Ferrari en el periódico 20 horas ?
+      propositions:
+      - Julien Arnaud
+      - Thomas Hugues
+      - Jacques Legros
+      - Gilles Bouleau
+      réponse: Gilles Bouleau
+      anecdote: Discreta y sobria, respetada interiormente, su imagen contrasta con la de sus predecesores y da frutos en cuanto a audiencia.
+    - id: 5
+      question: ¿Qué ardilla prehistérica es probablemente la más famosa del cine ?
+      propositions:
+      - Eddy
+      - Scrat
+      - Alvin
+      - Spip
+      réponse: Scrat
+      anecdote: Scrat, la ardilla de dientes de sable, es interpretada por Chris Wedge en todas las versiones extranjeras, y la ardilla no tiene diálogo.
+    - id: 6
+      question: ¿Qué banda de punk rock interpretó una canción anti-Putin en público en Moscú ?
+      propositions:
+      - Zap Mama
+      - Pussy Riot
+      - Nina Sky
+      - Rubia Electra
+      réponse: Pussy Riot
+      anecdote: Fueron condenados en 2012 a dos años de cárcel por actos de vandalismo e incitación al odio religioso.
+    - id: 7
+      question: ¿Cuánto duró el matrimonio entre Johnny Depp y Vanessa Paradis ?
+      propositions:
+      - 8 años
+      - 12 años
+      - 10 años
+      - 14 años
+      réponse: 14 años
+      anecdote: Vanessa Paradis y Johnny Depp vivían con sus hijos en Los Ángeles y en su propiedad francesa en Var.
+    - id: 8
+      question: ¿Qué pequeño objeto deben haber tenido los automovilistas franceses desde julio de 2012 ?
+      propositions:
+      - Alcoholímetro
+      - Triángulo
+      - Árbol mágico
+      - GPS
+      réponse: Alcoholímetro
+      anecdote: Hay dos tipos de alcoholímetro : químico, compuesto por un reactivo, y electrónico, que tiene una sonda.
+    - id: 9
+      question: ¿Qué oponente de la dictadura de su país recibió el Premio Nobel de la Paz en 1991 ?
+      propositions:
+      - Salima Ghezali
+      - Rosa Taikon
+      - Radhia Nasraoui
+      - Aung San Suu Kyi
+      réponse: Aung San Suu Kyi
+      anecdote: Aunque Birmania ha entrado en una transición democrática, el gobierno debe lidiar con un ejército poderoso.
+    - id: 10
+      question: ¿Qué dispositivo fue desconectado por France Telecom después de 30 años de servicio ?
+      propositions:
+      - Diatonis
+      - Minitel
+      - Fax
+      - Teleimpresora
+      réponse: Minitel
+      anecdote: Este terminal informático estaba destinado a conectarse al servicio videotex francés denominado Télétel, operado entre 1980 y 2012.
+  - confirmé:
+    - id: 11
+      question: ¿Cómo se apodaron los usuarios de Internet al módulo « Titan » de Facebook ?
+      propositions:
+      - Borrador de Twitter
+      - Asesino de Gmail
+      - Capturador de Skype
+      - Cazador de mensajeros
+      réponse: Asesino de Gmail
+      anecdote: En EE.UU., parece que el líder del mercado es claramente Yahoo, seguido de Hotmail y Google con una cuota de mercado del 15 %.
+    - id: 12
+      question: ¿Qué avión solar aterrizó André Borschberg en Ouarzazate después de un vuelo de 700 km ?
+      propositions:
+      - Helios
+      - Centurion
+      - Sunseeker
+      - Impulso solar
+      réponse: Impulso solar
+      anecdote: El proyecto tiene como objetivo volar un avión monoplaza con motores eléctricos alimentados por energía solar de noche y de día.
+    - id: 13
+      question: ¿Qué título del grupo Muse se eligió como himno oficial de los Juegos Olímpicos de Londres ?
+      propositions:
+      - Uno
+      - Survival
+      - Liquid State
+      - Dig Down
+      réponse: Survival
+      anecdote: Se realizará durante la ceremonia de apertura de los Juegos, la entrega de medallas y cada transmisión televisiva.
+    - id: 14
+      question: ¿Qué actriz interpretó al Doctor Cuddy en « Dr House » durante siete temporadas ?
+      propositions:
+      - Olivia Wilde
+      - Lisa Edelstein
+      - Sela Ward
+      - Jennifer Morrison
+      réponse: Lisa Edelstein
+      anecdote: Como vegana, hace campaña activamente por un estilo de vida que rechaza toda explotación animal.
+    - id: 15
+      question: ¿Cuál era el nombre inicial de la tableta con pantalla táctil fabricada por Microsoft ?
+      propositions:
+      - Superficie
+      - Kin
+      - Zune
+      - Lumia
+      réponse: Superficie
+      anecdote: PixelSense es un sistema informático que utiliza tecnología de computación de superficie basada en Windows Vista SP1 en una pantalla táctil.
+    - id: 16
+      question: ¿Qué canal de televisión de habla francesa es sin duda EL canal de moda ?
+      propositions:
+      - Canal J
+      - Gulli
+      - Número 23
+      - Estreno de París
+      réponse: Estreno de París
+      anecdote: Paris Première es un canal de televisión TNT de interés general nacional francés creado en 1986 que pertenece al Grupo M6.
+    - id: 17
+      question: ¿Qué actriz interpreta a una madre drogadicta en « The Town » de Ben Affleck ?
+      propositions:
+      - Rebecca Hall
+      - Sharon Stone
+      - Jennifer Garner
+      - Blake Lively
+      réponse: Blake Lively
+      anecdote: Victor Garber, quien interpreta a uno de los rehenes del primer atraco, presidió la ceremonia de boda de Ben Affleck y Jennifer Garner.
+    - id: 18
+      question: ¿Qué empresa es actualmente líder mundial en productoras audiovisuales ?
+      propositions:
+      - Endemol
+      - Momento
+      - Eyeworks
+      - RT Nederland
+      réponse: Endemol
+      anecdote: Endemol es una empresa holandesa especializada en la producción de retransmisiones en directo : reality shows, revistas y entretenimiento.
+    - id: 19
+      question: ¿Qué consola de videojuegos portátil de Sony reemplazó a la PSP en 2012 ?
+      propositions:
+      - Vita
+      - Neo-Geo X
+      - Game Gear
+      - N-Gage
+      réponse: Vita
+      anecdote: La consola, compatible con Bluetooth, Wi-Fi y 3G opcional, incluye dos sticks analógicos y una pantalla táctil OLED capacitiva.
+    - id: 20
+      question: ¿Qué grupo británico se considera uno de los buques insignia del Britpop ?
+      propositions:
+      - The Fall
+      - Elastica
+      - Blur
+      - Milburn
+      réponse: Blur
+      anecdote: En 1997, Blur rompió con el Britpop al lanzar un álbum homónimo que alcanzó el número uno en las listas.
+  - expert:
+    - id: 21
+      question: ¿Cuántos dólares habría traído Apple en su famoso iPhone en cinco años ?
+      propositions:
+      - 60 mil millones
+      - 120 mil millones
+      - 150 mil millones
+      - 90 mil millones
+      réponse: 150 mil millones
+      anecdote: El iPhone sigue siendo hasta el día de hoy el dispositivo que transformó el mercado de los teléfonos inteligentes en productos masivos.
+    - id: 22
+      question: Rachel Legrain-Trapani fue elegida Miss Francia, pero ¿en qué año ?
+      propositions:
+      - 2009
+      - 2011
+      - 2013
+      - 2007
+      réponse: 2007
+      anecdote: A principios de 2008, se unió a la banda 6-9 con Bruno Guillon, donde escribió una columna en « Bring in the guest » en el canal NRJ12.
+    - id: 23
+      question: ¿Qué perro está con Jean Dujardin, una de las estrellas de la película « The Artist » ?
+      propositions:
+      - Uggie
+      - Clement
+      - Balto
+      - Blondi
+      réponse: Uggie
+      anecdote: Recogido a temprana edad por el entrenador colombiano Omar von Muller, Uggie dejó su huella en el Paseo de la Fama.
+    - id: 24
+      question: ¿Qué año marcó el 300 aniversario del nacimiento de Jean-Jacques Rousseaux ?
+      propositions:
+      - 2002
+      - 1992
+      - 2012
+      - 1982
+      réponse: 2012
+      anecdote: Una polémica se opondrá a quienes creen que Rousseau es en cierto modo el padre de los totalitarismos y a quienes lo exoneran.
+    - id: 25
+      question: ¿Qué herramienta de microblogueo empresarial adquirió Microsoft en 2012 ?
+      propositions:
+      - Viadeo
+      - LinkedIn
+      - Myspace
+      - Yammer
+      réponse: Yammer
+      anecdote: Según TechCrunch en septiembre de 2010, el servicio fue utilizado por un millón de usuarios en 80.000 empresas de todo el mundo.
+    - id: 26
+      question: ¿Qué autor de « Swedish Matches » murió el 28 de junio de 2012 a la edad de 88 años ?
+      propositions:
+      - Georges Conchon
+      - Lucien Gachon
+      - Robert Sabatier
+      - Pierre Biron
+      réponse: Robert Sabatier
+      anecdote: También conocido como Robert Vellerut, fue miembro del comité honorario de la Casa Internacional de Poetas de Saint-Malo.
+    - id: 27
+      question: ¿A quién confiaron los Rolling Stones su logo para su 50 aniversario ?
+      propositions:
+      - Shephard Fairey
+      - Anthony Clark
+      - Kenny Scharf
+      - Curtis Kulig
+      réponse: Shephard Fairey
+      anecdote: Viniendo de la escena del skate, Shephard Fairey se dio a conocer por primera vez con las pegatinas « André the Giant Has a Posse ».
+    - id: 28
+      question: ¿Qué cumpleaños celebró la famosa marca de gafas Ray-Ban en 2012 ?
+      propositions:
+      - Sus 75 años
+      - Sus 50 años
+      - Sus 100 años
+      - Sus 25 años
+      réponse: Sus 75 años
+      anecdote: La Fuerza Aérea de EE. UU. Encargó en 1933 un modelo para sus pilotos de combate que tomó el nombre de Aviator cuando se comercializó en 1936.
+    - id: 29
+      question: ¿Quién es el manager de la cantante y actriz Jane Birkin ?
+      propositions:
+      - Adam Alpert
+      - Steve Goncalves
+      - Olivier Gluzman
+      - Tim Smith
+      réponse: Olivier Gluzman
+      anecdote: Casi completamente ausente del cine en la década de 1990, Jane Birkin regresará con un estatus icónico en sus películas.
+    - id: 30
+      question: ¿Cuál es el título del musical de Spice Girls presentado en 2012 ?
+      propositions:
+      - Viva Forever
+      - Headlines
+      - Too Much
+      - Holler
+      réponse: Viva Forever
+      anecdote: Después de una conferencia de prensa en el Hotel Saint Pancras, « Viva Forever » se estrenó en 2012 en el Picadilly Theatre de Londres.
+  it:
+  - débutant:
+    - id: 1
+      question: Con quale famoso trader Société Générale ha avuto freddo dal 2010 ?
+      propositions:
+      - Alain Cayzac
+      - Serge Dassault
+      - Georges Besse
+      - Jérôme Kerviel
+      réponse: Jérôme Kerviel
+      anecdote: Jérôme Kerviel è stato ritenuto responsabile di tutte le perdite registrate da Société Générale, ovvero 4,9 miliardi di euro.
+    - id: 2
+      question: Quale progetto di occhiali a realtà aumentata è stato progettato nel 2012 da Google ?
+      propositions:
+      - Google Rift
+      - Google Homido
+      - Google Cardboard
+      - Google Glass
+      réponse: Google Glass
+      anecdote: La produzione è stata sospesa nel 2015, i Google Glass si sono fermati a causa della loro mancanza di applicazioni e del loro prezzo.
+    - id: 3
+      question: Qual è il nome del carismatico fondatore e proprietario del sito Megaupload ?
+      propositions:
+      - Nicolas Born
+      - Robert Capa
+      - Michael Jary
+      - Kim Dotcom
+      réponse: Kim Dotcom
+      anecdote: Il governo degli Stati Uniti ha annunciato di aver recuperato 65 milioni di dollari dalla fortuna sottratta di Kim Schmitz, alias Kim Dotcom.
+    - id: 4
+      question: Chi è stato scelto da TF1 come successore di Laurence Ferrari al giornale 20 ore ?
+      propositions:
+      - Julien Arnaud
+      - Jacques Legros
+      - Gilles Bouleau
+      - Thomas Hugues
+      réponse: Gilles Bouleau
+      anecdote: Discreto e sobrio, rispettato internamente, la sua immagine contrasta con quella dei suoi predecessori e porta frutti in termini di audience.
+    - id: 5
+      question: Quale scoiattolo preisterico è probabilmente il più famoso del cinema ?
+      propositions:
+      - Alvin
+      - Eddy
+      - Scrat
+      - Spip
+      réponse: Scrat
+      anecdote: Scrat, lo scoiattolo dai denti a sciabola, è doppiato da Chris Wedge in tutte le versioni straniere, con lo scoiattolo che non ha dialoghi.
+    - id: 6
+      question: Quale gruppo punk rock ha eseguito una canzone anti-Putin in pubblico a Mosca ?
+      propositions:
+      - Zap Mama
+      - Nina Sky
+      - Blonde Electra
+      - Pussy Riot
+      réponse: Pussy Riot
+      anecdote: Sono stati condannati nel 2012 a due anni di reclusione per atti di vandalismo e incitamento all'odio religioso.
+    - id: 7
+      question: Quanto è durato il matrimonio tra Johnny Depp e Vanessa Paradis ?
+      propositions:
+      - 10 anni
+      - 8 anni
+      - 12 anni
+      - 14 anni
+      réponse: 14 anni
+      anecdote: Vanessa Paradis e Johnny Depp vivevano con i loro figli a Los Angeles e nella loro proprietà francese nel Var.
+    - id: 8
+      question: Quale piccolo oggetto devono possedere gli automobilisti francesi dal luglio 2012 ?
+      propositions:
+      - Albero magico
+      - GPS
+      - Triangolo
+      - Etilometro
+      réponse: Etilometro
+      anecdote: Esistono due tipi di etilometro : chimico, composto da un reagente, ed elettronico, dotato di sonda.
+    - id: 9
+      question: Quale oppositore della dittatura del suo paese ha ricevuto il Premio Nobel per la Pace nel 1991 ?
+      propositions:
+      - Aung San Suu Kyi
+      - Salima Ghezali
+      - Rosa Taikon
+      - Radhia Nasraoui
+      réponse: Aung San Suu Kyi
+      anecdote: Sebbene la Birmania sia entrata in una transizione democratica, il governo deve lottare con un potente esercito.
+    - id: 10
+      question: Quale dispositivo è stato disconnesso da France Telecom dopo 30 anni di servizio ?
+      propositions:
+      - Diatonis
+      - Minitel
+      - Teleprinter
+      - Fax
+      réponse: Minitel
+      anecdote: Questo terminale di computer era destinato alla connessione al servizio francese Videotex chiamato Télétel, operato tra il 1980 e il 2012.
+  - confirmé:
+    - id: 11
+      question: Come è stato soprannominato il modulo « Titan » di Facebook dagli utenti di Internet ?
+      propositions:
+      - Gmail killer
+      - Skype grabber
+      - Cacciatore di messaggeri
+      - Gomma per Twitter
+      réponse: Gmail killer
+      anecdote: Negli Stati Uniti, sembra che il leader di mercato sia chiaramente Yahoo, seguito da Hotmail e Google con una quota di mercato del 15 %.
+    - id: 12
+      question: Quale aereo solare è atterrato André Borschberg a Ouarzazate dopo un volo di 700 km ?
+      propositions:
+      - Centurion
+      - Sunseeker
+      - Helios
+      - Solar Impulse
+      réponse: Solar Impulse
+      anecdote: Il progetto mira a pilotare un aereo monoposto con motori elettrici alimentati da energia solare di notte e di giorno.
+    - id: 13
+      question: Quale titolo del gruppo dei Muse è stato scelto come inno ufficiale per le Olimpiadi di Londra ?
+      propositions:
+      - Uno
+      - Dig Down
+      - Liquid State
+      - Survival
+      réponse: Survival
+      anecdote: Sarà eseguito durante la cerimonia di apertura dei Giochi, la presentazione delle medaglie e in ogni trasmissione televisiva.
+    - id: 14
+      question: Quale attrice ha interpretato il dottor Cuddy in « Dr House » per sette stagioni ?
+      propositions:
+      - Lisa Edelstein
+      - Jennifer Morrison
+      - Olivia Wilde
+      - Sela Ward
+      réponse: Lisa Edelstein
+      anecdote: In quanto vegana, si batte attivamente per uno stile di vita che rifiuti ogni sfruttamento degli animali.
+    - id: 15
+      question: Qual era il nome iniziale del tablet touchscreen realizzato da Microsoft ?
+      propositions:
+      - Superficie
+      - Zune
+      - Kin
+      - Lumia
+      réponse: Superficie
+      anecdote: PixelSense è un sistema informatico che utilizza la tecnologia di elaborazione di superficie basata su Windows Vista SP1 su un touch screen.
+    - id: 16
+      question: Quale canale televisivo francofono è senza dubbio IL canale della moda ?
+      propositions:
+      - Canale J
+      - Gulli
+      - Edizione 23
+      - Premiere di Parigi
+      réponse: Premiere di Parigi
+      anecdote: Paris Première è un canale televisivo nazionale francese TNT di interesse generale creato nel 1986 che appartiene al gruppo M6.
+    - id: 17
+      question: Quale attrice interpreta una madre tossicodipendente in « The Town » di Ben Affleck ?
+      propositions:
+      - Jennifer Garner
+      - Rebecca Hall
+      - Blake Lively
+      - Sharon Stone
+      réponse: Blake Lively
+      anecdote: Victor Garber, che interpreta uno degli ostaggi della prima rapina, ha presieduto la cerimonia nuziale di Ben Affleck e Jennifer Garner.
+    - id: 18
+      question: Quale azienda è attualmente leader mondiale nella produzione di audiovisivi ?
+      propositions:
+      - Momento
+      - Eyeworks
+      - Endemol
+      - RT Nederland
+      réponse: Endemol
+      anecdote: Endemol è una società olandese specializzata nella produzione di programmi in streaming : reality, riviste e intrattenimento.
+    - id: 19
+      question: Quale console per videogiochi portatile Sony ha sostituito la PSP nel 2012 ?
+      propositions:
+      - Vita
+      - N-Gage
+      - Game Gear
+      - Neo-Geo X
+      réponse: Vita
+      anecdote: La console, compatibile con Bluetooth, Wi-Fi e 3G opzionale, include due stick analogici e un touchscreen OLED capacitivo.
+    - id: 20
+      question: Quale gruppo britannico è considerato uno dei fiori all'occhiello del Britpop ?
+      propositions:
+      - The Fall
+      - Milburn
+      - Elastica
+      - Blur
+      réponse: Blur
+      anecdote: Nel 1997, i Blur hanno rotto con il Britpop pubblicando un album omonimo che ha raggiunto il numero uno delle classifiche.
+  - expert:
+    - id: 21
+      question: Quanti dollari avrebbe portato Apple nel suo famoso iPhone in cinque anni ?
+      propositions:
+      - 150 miliardi
+      - 60 miliardi
+      - 120 miliardi
+      - 90 miliardi
+      réponse: 150 miliardi
+      anecdote: L'iPhone rimane ancora oggi il dispositivo che ha trasformato il mercato degli smartphone in prodotti di massa.
+    - id: 22
+      question: Rachel Legrain-Trapani è stata eletta Miss Francia, ma in che anno ?
+      propositions:
+      - 2007
+      - 2013
+      - 2011
+      - 2009
+      réponse: 2007
+      anecdote: All'inizio del 2008 è entrata a far parte della band 6-9 con Bruno Guillon, dove ha scritto una colonna in « Bring in the guest » sul canale NRJ12.
+    - id: 23
+      question: Quale cane è con Jean Dujardin una delle star del film « The Artist » ?
+      propositions:
+      - Uggie
+      - Clemente
+      - Balto
+      - Blondi
+      réponse: Uggie
+      anecdote: Accolto in giovane età dall'allenatore colombiano Omar von Muller, Uggie ha lasciato il segno sulla Walk of Fame.
+    - id: 24
+      question: In che anno ha segnato il 300 ° anniversario della nascita di Jean-Jacques Rousseaux ?
+      propositions:
+      - 2012
+      - 1992
+      - 1982
+      - 2002
+      réponse: 2012
+      anecdote: Una polemica opporrà chi crede che Rousseau sia in qualche modo il padre dei totalitarismi e chi lo scagiona.
+    - id: 25
+      question: Quale strumento di microblogging aziendale è stato acquisito da Microsoft nel 2012 ?
+      propositions:
+      - Yammer
+      - LinkedIn
+      - Viadeo
+      - Myspace
+      réponse: Yammer
+      anecdote: Secondo TechCrunch nel settembre 2010, il servizio è stato utilizzato da un milione di utenti in 80.000 aziende in tutto il mondo.
+    - id: 26
+      question: Quale autore di « Partite svedesi » è morto il 28 giugno 2012 all'età di 88 anni ?
+      propositions:
+      - Robert Sabatier
+      - Georges Conchon
+      - Lucien Gachon
+      - Pierre Biron
+      réponse: Robert Sabatier
+      anecdote: Conosciuto anche come Robert Vellerut, è stato membro del comitato onorario della Casa Internazionale dei Poeti di Saint-Malo.
+    - id: 27
+      question: A chi hanno affidato i Rolling Stones per il loro 50 ° anniversario ?
+      propositions:
+      - Curtis Kulig
+      - Anthony Clark
+      - Kenny Scharf
+      - Shephard Fairey
+      réponse: Shephard Fairey
+      anecdote: Venendo dalla scena dello skateboard, Shephard Fairey è diventato famoso per la prima volta grazie agli adesivi di « André the Giant Has a Posse ».
+    - id: 28
+      question: Quale compleanno ha festeggiato la famosa marca di occhiali Ray-Ban nel 2012 ?
+      propositions:
+      - I suoi 50 anni
+      - I suoi 75 anni
+      - I suoi 100 anni
+      - I suoi 25 anni
+      réponse: I suoi 75 anni
+      anecdote: L'aeronautica militare americana ordinò nel 1933 un modello per i suoi piloti da combattimento che prese il nome di Aviator quando fu commercializzato nel 1936.
+    - id: 29
+      question: Chi è il manager della cantante e attrice Jane Birkin ?
+      propositions:
+      - Steve Goncalves
+      - Tim Smith
+      - Olivier Gluzman
+      - Adam Alpert
+      réponse: Olivier Gluzman
+      anecdote: Quasi completamente assente dal cinema negli anni '90, Jane Birkin tornerà con uno status iconico nei suoi film.
+    - id: 30
+      question: Qual è il titolo del musical delle Spice Girls presentato nel 2012 ?
+      propositions:
+      - Holler
+      - Too Much
+      - Headlines
+      - Viva Forever
+      réponse: Viva Forever
+      anecdote: Dopo una conferenza stampa al Saint Pancras Hotel, « Viva Forever » è stato presentato per la prima volta nel 2012 al Picadilly Theatre di Londra.
+  nl:
+  - débutant:
+    - id: 1
+      question: Bij welke beroemde handelaar heeft Societe Generale het sinds 2010 koud ?
+      propositions:
+      - Georges Besse
+      - Jérôme Kerviel
+      - Serge Dassault
+      - Alain Cayzac
+      réponse: Jérôme Kerviel
+      anecdote: Jérôme Kerviel werd verantwoordelijk gehouden voor alle verliezen van Société Générale, namelijk 4,9 miljard euro.
+    - id: 2
+      question: Welk augmented reality-brilproject is in 2012 door Google ontworpen ?
+      propositions:
+      - Google Rift
+      - Google Glass
+      - Google Cardboard
+      - Google Homido
+      réponse: Google Glass
+      anecdote: De productie werd in 2015 stopgezet, de Google Glass viel stil vanwege het gebrek aan applicaties en hun prijs.
+    - id: 3
+      question: Wat is de naam van de charismatische oprichter en eigenaar van de Megaupload-site ?
+      propositions:
+      - Nicolas Born
+      - Robert Capa
+      - Michael Jary
+      - Kim Dotcom
+      réponse: Kim Dotcom
+      anecdote: De Amerikaanse regering heeft aangekondigd dat het $ 65 miljoen heeft teruggevorderd van het verduisterde fortuin van Kim Schmitz, ook bekend als Kim Dotcom.
+    - id: 4
+      question: Wie werd door TF1 gekozen als de opvolger van Laurence Ferrari bij de 20-urenkrant ?
+      propositions:
+      - Thomas Hugues
+      - Jacques Legros
+      - Julien Arnaud
+      - Gilles Bouleau
+      réponse: Gilles Bouleau
+      anecdote: Discreet en nuchter, intern gerespecteerd, zijn imago contrasteert met dat van zijn voorgangers en werpt zijn vruchten af in termen van publiek.
+    - id: 5
+      question: Welke prehysterische eekhoorn is waarschijnlijk de bekendste in de bioscoop ?
+      propositions:
+      - Alvin
+      - Eddy
+      - Spip
+      - Scrat
+      réponse: Scrat
+      anecdote: Scrat, de sabeltandeekhoorn, wordt in alle buitenlandse versies door Chris Wedge geuit, waarbij de eekhoorn geen dialoog heeft.
+    - id: 6
+      question: Welke punkrockband bracht een anti-Poetinlied in het openbaar in Moskou ?
+      propositions:
+      - Pussy Riot
+      - Blonde Electra
+      - Zap Mama
+      - Nina Sky
+      réponse: Pussy Riot
+      anecdote: Ze werden in 2012 veroordeeld tot twee jaar gevangenisstraf wegens vandalisme en het aanzetten tot religieuze haat.
+    - id: 7
+      question: Hoe lang duurde het huwelijk tussen Johnny Depp en Vanessa Paradis ?
+      propositions:
+      - 12 jaar oud
+      - 8 jaar
+      - 10 jaar
+      - 14 jaar
+      réponse: 14 jaar
+      anecdote: Vanessa Paradis en Johnny Depp woonden met hun kinderen in Los Angeles en op hun Franse landgoed in Var.
+    - id: 8
+      question: Welk klein voorwerp moeten Franse automobilisten sinds juli 2012 in bezit hebben gehad ?
+      propositions:
+      - Driehoek
+      - Blaastest
+      - Magische boom
+      - Gps
+      réponse: Blaastest
+      anecdote: Er zijn twee soorten blaastest : chemisch, bestaande uit een reagens, en elektronisch, die een sonde hebben.
+    - id: 9
+      question: Welke tegenstander van de dictatuur van haar land ontving in 1991 de Nobelprijs voor de vrede ?
+      propositions:
+      - Rosa Taikon
+      - Radhia Nasraoui
+      - Aung San Suu Kyi
+      - Salima Ghezali
+      réponse: Aung San Suu Kyi
+      anecdote: Hoewel Birma een democratische transitie heeft doorgemaakt, heeft de regering te kampen met een machtig leger.
+    - id: 10
+      question: Welk apparaat is door France Telecom losgekoppeld na 30 jaar dienst ?
+      propositions:
+      - Teleprinter
+      - Diatonis
+      - Minitel
+      - Fax
+      réponse: Minitel
+      anecdote: Deze computerterminal was bedoeld voor verbinding met de Franse Videotex-dienst genaamd Télétel, die werd geëxploiteerd tussen 1980 en 2012.
+  - confirmé:
+    - id: 11
+      question: Hoe kreeg de « Titan » -module van Facebook de bijnaam van internetgebruikers ?
+      propositions:
+      - Skype-grabber
+      - Twitter gum
+      - Gmail-moordenaar
+      - Messenger jager
+      réponse: Gmail-moordenaar
+      anecdote: In de VS lijkt de marktleider duidelijk Yahoo te zijn, gevolgd door Hotmail en Google met een marktaandeel van 15 %.
+    - id: 12
+      question: Welk zonnevliegtuig landde André Borschberg in Ouarzazate na een vlucht van 700 km ?
+      propositions:
+      - Solar Impulse
+      - Helios
+      - Sunseeker
+      - Centurion
+      réponse: Solar Impulse
+      anecdote: Het project beoogt 's nachts en overdag te vliegen met een eenzitsvliegtuig met elektromotoren die worden aangedreven door zonne-energie.
+    - id: 13
+      question: Welke titel van de Muse-groep werd gekozen als het officiële volkslied voor de Olympische Spelen in Londen ?
+      propositions:
+      - Survival
+      - Dig Down
+      - Liquid State
+      - Uno
+      réponse: Survival
+      anecdote: Het wordt uitgevoerd tijdens de openingsceremonie van de Spelen, de medaille-uitreiking en bij elke televisie-uitzending.
+    - id: 14
+      question: Welke actrice speelde zeven seizoenen lang Doctor Cuddy in « Dr House » ?
+      propositions:
+      - Sela Ward
+      - Olivia Wilde
+      - Lisa Edelstein
+      - Jennifer Morrison
+      réponse: Lisa Edelstein
+      anecdote: Als veganist voert ze actief campagne voor een levensstijl die elke uitbuiting van dieren afwijst.
+    - id: 15
+      question: Wat was de oorspronkelijke naam van het door Microsoft gemaakte touchpad ?
+      propositions:
+      - Kin
+      - Zune
+      - Oppervlak
+      - Lumia
+      réponse: Oppervlak
+      anecdote: PixelSense is een computersysteem dat gebruikmaakt van oppervlakte-computertechnologie op basis van Windows Vista SP1 op een touchscreen.
+    - id: 16
+      question: Welke Franstalige televisiezender is ongetwijfeld DE modekanaal ?
+      propositions:
+      - Kanaal J
+      - Gulli
+      - Uitgave 23
+      - Première van Parijs
+      réponse: Première van Parijs
+      anecdote: Paris Première is een Frans nationaal TNT-televisiekanaal van algemeen belang dat in 1986 werd opgericht en deel uitmaakt van de M6 Group.
+    - id: 17
+      question: Welke actrice speelt een drugsverslaafde moeder in Ben Afflecks « The Town » ?
+      propositions:
+      - Rebecca Hall
+      - Blake Lively
+      - Jennifer Garner
+      - Sharon Stone
+      réponse: Blake Lively
+      anecdote: Victor Garber, die een van de gijzelaars van de eerste overval speelt, zat de huwelijksceremonie van Ben Affleck en Jennifer Garner voor.
+    - id: 18
+      question: Welk bedrijf is momenteel wereldleider in audiovisuele producenten ?
+      propositions:
+      - RT Nederland
+      - Endemol
+      - Eyeworks
+      - Momento
+      réponse: Endemol
+      anecdote: Endemol is een Nederlands bedrijf dat gespecialiseerd is in de productie van streamshows : reality-tv, tijdschriften en entertainment.
+    - id: 19
+      question: Welke draagbare videogameconsole van Sony heeft de PSP in 2012 vervangen ?
+      propositions:
+      - N-Gage
+      - Vita
+      - Game Gear
+      - Neo-Geo X
+      réponse: Vita
+      anecdote: De console, compatibel met Bluetooth, Wi-Fi en optioneel 3G, bevat twee analoge sticks en een capacitief OLED-touchscreen.
+    - id: 20
+      question: Welke Britse groep wordt beschouwd als een van de vlaggenschepen van Britpop ?
+      propositions:
+      - Blur
+      - Milburn
+      - The Fall
+      - Elastica
+      réponse: Blur
+      anecdote: In 1997 brak Blur met Britpop door een gelijknamig album uit te brengen dat nummer één in de hitlijsten bereikte.
+  - expert:
+    - id: 21
+      question: Hoeveel dollars zou Apple in vijf jaar tijd zijn beroemde iPhone hebben binnengehaald ?
+      propositions:
+      - 150 miljard
+      - 60 miljard
+      - 90 miljard
+      - 120 miljard
+      réponse: 150 miljard
+      anecdote: De iPhone blijft tot op de dag van vandaag het toestel dat de markt voor smartphones omvormde tot massaproducten.
+    - id: 22
+      question: Rachel Legrain-Trapani werd gekozen tot Miss Frankrijk, maar in welk jaar ?
+      propositions:
+      - 2009
+      - 2011
+      - 2007
+      - 2013
+      réponse: 2007
+      anecdote: Begin 2008 sloot ze zich aan bij de 6-9 band met Bruno Guillon, waar ze een column schreef in « Bring in the guest » op het NRJ12-kanaal.
+    - id: 23
+      question: Welke hond is met Jean Dujardin een van de sterren van de film « The Artist » ?
+      propositions:
+      - Clement
+      - Uggie
+      - Balto
+      - Blondi
+      réponse: Uggie
+      anecdote: Op jonge leeftijd opgepikt door de Colombiaanse trainer Omar von Muller, drukte Uggie zijn stempel op de Walk of Fame.
+    - id: 24
+      question: In welk jaar was het 300 jaar geleden dat Jean-Jacques Rousseaux werd geboren ?
+      propositions:
+      - 2002
+      - 1982
+      - 2012
+      - 1992
+      réponse: 2012
+      anecdote: Een controverse zal zich verzetten tegen degenen die geloven dat Rousseau in zekere zin de vader is van totalitarismen en degenen die hem vrijwaren.
+    - id: 25
+      question: Welke zakelijke microblogging-tool werd in 2012 door Microsoft overgenomen ?
+      propositions:
+      - Viadeo
+      - LinkedIn
+      - Yammer
+      - Myspace
+      réponse: Yammer
+      anecdote: Volgens TechCrunch werd de dienst in september 2010 gebruikt door een miljoen gebruikers in 80.000 bedrijven over de hele wereld.
+    - id: 26
+      question: Welke auteur van « Swedish Matches » stierf op 28 juni 2012 op 88-jarige leeftijd ?
+      propositions:
+      - Pierre Biron
+      - Lucien Gachon
+      - Robert Sabatier
+      - Georges Conchon
+      réponse: Robert Sabatier
+      anecdote: Ook bekend als Robert Vellerut, was hij lid van het ere-comité van het Internationale Huis van Dichters van Saint-Malo.
+    - id: 27
+      question: Aan wie vertrouwden de Rolling Stones hun logo toe voor hun 50-jarig jubileum ?
+      propositions:
+      - Curtis Kulig
+      - Kenny Scharf
+      - Shephard Fairey
+      - Anthony Clark
+      réponse: Shephard Fairey
+      anecdote: Afkomstig uit de skateboardscene, werd Shephard Fairey voor het eerst bekend met de « André the Giant Has a Posse » stickers.
+    - id: 28
+      question: Welke verjaardag vierde het beroemde zonnebrillenmerk Ray-Ban in 2012 ?
+      propositions:
+      - Zijn 25 jaar
+      - Zijn 50 jaar
+      - Zijn 100 jaar
+      - Zijn 75 jaar
+      réponse: Zijn 75 jaar
+      anecdote: De Amerikaanse luchtmacht bestelde in 1933 een model voor haar jachtpiloten dat de naam Aviator kreeg toen het in 1936 op de markt werd gebracht.
+    - id: 29
+      question: Wie is de manager van zangeres en actrice Jane Birkin ?
+      propositions:
+      - Tim Smith
+      - Adam Alpert
+      - Steve Goncalves
+      - Olivier Gluzman
+      réponse: Olivier Gluzman
+      anecdote: Bijna volledig afwezig in de bioscoop in de jaren negentig, keert Jane Birkin terug met een iconische status in haar films.
+    - id: 30
+      question: Wat is de titel van de musical Spice Girls die in 2012 wordt gepresenteerd ?
+      propositions:
+      - Headlines
+      - Viva Forever
+      - Holler
+      - Too Much
+      réponse: Viva Forever
+      anecdote: Na een persconferentie in het Saint Pancras Hotel ging « Viva Forever » in 2012 in première in het Picadilly Theatre in Londen.

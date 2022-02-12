@@ -1,0 +1,280 @@
+---
+fournisseur: OpenQuizzDB - Fournisseur de contenu libre (https://www.openquizzdb.org)
+rédacteur: Philippe Bresoux
+thème: Nice (Une ville qui bouge)
+difficulté: 4 / 5
+quizz:
+  fr:
+  - débutant:
+    - id: 1
+      question: Sur quelle baie la célèbre et touristique promenade des Anglais se trouve-t-elle ?
+      propositions:
+      - Baie des Anges
+      - Baie des Canards
+      - Baie des Dieux
+      - Baie des Requins
+      réponse: Baie des Anges
+      anecdote: Outre des manifestations nombreuses, la promenade était réputée pour ses « chaises bleues » et ses pergolas.
+    - id: 2
+      question: Avec quelle importante métropole brésilienne la ville de Nice est-elle jumelée ?
+      propositions:
+      - Rio de Janeiro
+      - Recife
+      - Belo Horizonte
+      - Salvador
+      réponse: Rio de Janeiro
+      anecdote: La ville de Nice a menée une politique de jumelage particulièrement active, en raison de l'importance du tourisme pour son économie.
+    - id: 3
+      question: Quel cinéaste a dirigé le film « La Nuit Américaine », tourné à Nice aux studios Riviera ?
+      propositions:
+      - Claude Chabrol
+      - François Truffaut
+      - Jacques Demy
+      - Jean-Luc Godard
+      réponse: François Truffaut
+      anecdote: Le film a été tourné aux Studios de la Victorine dans les décors de « La Folle de Chaillot » ainsi qu'à l'hôtel Atlantic de Nice.
+    - id: 4
+      question: Quelle est la couleur de la façade du Château de l'Anglais, construit à Nice de 1856 à 1858 ?
+      propositions:
+      - Jaune
+      - Bleue
+      - Rose
+      - Verte
+      réponse: Rose
+      anecdote: De par sa couleur et sa forme, il demeure comme l'un des témoignages forts des folies qui sont érigées sur la Riviera.
+    - id: 5
+      question: Comment se prénomme le héros surfeur incarné par Jean Dujardin en 2005 ?
+      propositions:
+      - Loris
+      - Joris
+      - Brice
+      - Mathis
+      réponse: Brice
+      anecdote: Apparu tout d'abord dans les sketches de Jean Dujardin, le personnage est ensuite devenu un héros de films.
+    - id: 6
+      question: Combien y a-t-il de lignes de tramway parcourant le centre et les alentours de Nice ?
+      propositions:
+      - 3
+      - 7
+      - 1
+      - 5
+      réponse: 1
+      anecdote: Dans les mois qui ont suivi le lancement du tramway, on comptabilisait entre 65 000 et 70 000 voyages quotidiens.
+    - id: 7
+      question: Quel café de Nice, construit au XIXe siècle, fut un lieu de rencontre des immigrés piémontais ?
+      propositions:
+      - Café de Naples
+      - Café de Turin
+      - Café de Milan
+      - Café de Florence
+      réponse: Café de Turin
+      anecdote: Le café de Turin, situé place Garibaldi, reste encore aujourd'hui l'un des cafés les plus connus de la ville de Nice.
+    - id: 8
+      question: Dans combien de casinos pourrez-vous tenter de faire fortune à Nice ?
+      propositions:
+      - Deux
+      - Six
+      - Huit
+      - Quatre
+      réponse: Deux
+      anecdote: Situés à une centaine de mètres l'un de l'autre, les casinos appartiennent aux deux plus grands groupes français.
+    - id: 9
+      question: Depuis 2001, à Nice, durant quel mois les musées sont-ils gratuits pour les jeunes ?
+      propositions:
+      - Juillet
+      - Mars
+      - Septembre
+      - Mai
+      réponse: Mars
+      anecdote: Nice possède de nombreux musées, consacrés à l'art, à l'histoire, ou à l'histoire et aux traditions locales.
+    - id: 10
+      question: Quel peintre, auteur du tableau « Le Déjeuner des canotiers », possédait un atelier à Nice ?
+      propositions:
+      - Auguste Renoir
+      - Antoine Watteau
+      - Claude Monet
+      - Pablo Picasso
+      réponse: Auguste Renoir
+      anecdote: Membre du groupe impressionniste, Renoir évolue dans les années 1880 vers un style plus réaliste sous l'influence de Raphaël.
+  - confirmé:
+    - id: 11
+      question: À base de quel poisson le plat niçois nommé « estocafic » est-il préparé ?
+      propositions:
+      - De crevette
+      - De sardine
+      - De thon
+      - De morue
+      réponse: De morue
+      anecdote: L'usage de cuisiner et de consommer de la morue séchée provient de Scandinavie et notamment de Norvège.
+    - id: 12
+      question: Laquelle de ces propositions ne désigne pas une gare ferroviaire de Nice ?
+      propositions:
+      - Nice-Arénas
+      - Nice-Ville
+      - Nice-CP
+      - Nice Saint-Augustin
+      réponse: Nice-Arénas
+      anecdote: Grâce à une urbanisation linéaire et continue, tous les habitants de l'aire urbaine de Nice peuvent accéder au réseau TER.
+    - id: 13
+      question: Quelle est environ la longueur du réseau de tramway de la ville de Nice ?
+      propositions:
+      - 29 km
+      - 19 km
+      - 9 km
+      - 39 km
+      réponse: 9 km
+      anecdote: Le tramway de Nice est actuellement composé d'une seule ligne et exploité par la Régie Ligne d'Azur.
+    - id: 14
+      question: Quelle église de l'Annonciation, située à Nice, a été complètement rénovée en 1685 ?
+      propositions:
+      - Sainte-Rita
+      - Sainte-Carmen
+      - Sainte-Cécile
+      - Sainte-Anne
+      réponse: Sainte-Rita
+      anecdote: Elle porte également les noms de chapelle Saint-Jaume, chapelle Saint-Giaume et chapelle Sainte-Rita.
+    - id: 15
+      question: À quel numéro de la promenade des Anglais se situe l'hôtel Negresco ?
+      propositions:
+      - Au 17
+      - Au 47
+      - Au 37
+      - Au 27
+      réponse: Au 37
+      anecdote: Avec sa cinquième étoile obtenue en août 2009, il est l'un des rares survivants de l'hôtellerie du début du XXe siècle.
+    - id: 16
+      question: Lequel de ces joueurs de football n'a jamais évolué sous les couleurs de l'OGC Nice ?
+      propositions:
+      - Hugo Lloris
+      - Sonny Andreson
+      - Francis Isnard
+      - Just Fontaine
+      réponse: Sonny Andreson
+      anecdote: Les terrains d'entraînement du groupe professionnel se situent au sein du parc des sports Charles-Ehrmann.
+    - id: 17
+      question: Laquelle de ces propositions ne désigne pas un château de Nice ?
+      propositions:
+      - Gourdon
+      - L'Anglais
+      - Gairaut
+      - Valrose
+      réponse: Gourdon
+      anecdote: Le château de Gourdon, dans les Alpes-Maritimes, est un château fortifié construit au Moyen Âge et remanié au VXIIe siècle.
+    - id: 18
+      question: La chapelle du Saint-Sépulcre de Nice est également appelée chapelle des pénitents...
+      propositions:
+      - Blancs
+      - Bleus
+      - Rouges
+      - Noirs
+      réponse: Bleus
+      anecdote: La façade est de style à la fois néoclassique et baroque tardif pour la partie supérieure. Le balcon a été rajouté en 1841.
+    - id: 19
+      question: Quel est le nom de la villa dans laquelle le musée Matisse s'est installé ?
+      propositions:
+      - Villa Florentine
+      - Villa des Arènes
+      - Villa Gillet
+      - Villa Marlioz
+      réponse: Villa des Arènes
+      anecdote: La collection permanente du musée s'est constituée grâce à diverses donations, d'abord celle de Matisse en personne.
+    - id: 20
+      question: Quel rappeur, auteur des tubes « On verra » et « Reuf », est né à Nice ?
+      propositions:
+      - Joey Starr
+      - Booba
+      - Kaaris
+      - Nekfeu
+      réponse: Nekfeu
+      anecdote: Son premier album solo, « Feu », bénéficie d'une couverture médiatique importante ainsi que de critiques très positives.
+  - expert:
+    - id: 21
+      question: Quand le palais de la Méditerranée, fermé pour cause financière, a-t-il rouvert ses portes ?
+      propositions:
+      - 1994
+      - 2004
+      - 2014
+      - 1984
+      réponse: 2004
+      anecdote: Ce luxueux complexe hôtelier est situé aux numéros 13 et 15 de la promenade des Anglais.
+    - id: 22
+      question: Quel écrivain niçois a donné son nom à une bibliothèque de la ville ouverte depuis 2002 ?
+      propositions:
+      - Jacques Barbéri
+      - Charles Calais
+      - Jean-Claude Lattès
+      - Louis Nucréa
+      réponse: Louis Nucréa
+      anecdote: La bibliothèque municipale à vocation régionale de Nice (BMVR) est détentrice de la majeure partie de ses manuscrits.
+    - id: 23
+      question: À quel écrivain et poète niçois doit-on l'hymne « Nissa la bella » ?
+      propositions:
+      - Jorgi Tasso
+      - Michel Grisolia
+      - Claude Ber
+      - Menica Rondelly
+      réponse: Menica Rondelly
+      anecdote: Menica Rondelly a écrit de nombreux textes et chansons en langue niçoise dont plusieurs pour le carnaval de Nice.
+    - id: 24
+      question: Quel fleuve long de plus de douze kilomètres traverse la ville de Nice ?
+      propositions:
+      - Le Magnan
+      - L'Arques
+      - Le Sée
+      - Le Golo
+      réponse: Le Magnan
+      anecdote: À sec entre 2006 et 2013, avec un régime d'oued, le Magnan coule à nouveau en continu toute l'année.
+    - id: 25
+      question: Lequel de ces fleuves côtiers se jette dans la baie des Anges, à Nice ?
+      propositions:
+      - Durdent
+      - Scie
+      - Paillon
+      - Nez
+      réponse: Paillon
+      anecdote: Malgré ses débordements, il est intimement lié à la vie quotidienne des Niçois car il représente sa principale source d'énergie.
+    - id: 26
+      question: Qui a donné son nom au musée international d'art naïf de Nice grâce à ses donations ?
+      propositions:
+      - Ferdinand Desnos
+      - Anatole Jakovsky
+      - Antonio Ligabue
+      - André Bauchant
+      réponse: Anatole Jakovsky
+      anecdote: Sa veuve a légué le reste de ses collections à la commune de Blainville-Crevon, non loin de Rouen.
+    - id: 27
+      question: Quelle cathédrale a inspiré la construction, à Nice, de la basilique Notre-Dame ?
+      propositions:
+      - Reims
+      - Tours
+      - Angers
+      - Lyon
+      réponse: Angers
+      anecdote: Sa construction s'inscrivait dans le cadre d'une volonté des autorités de franciser la ville après l'annexion du comté de Nice à la France.
+    - id: 28
+      question: Quelle grotte et site préhistorique se situe à Nice, aux pieds du mont Boron ?
+      propositions:
+      - Grotte de la Balme
+      - Grotte du Lazaret
+      - Grotte Chauvet
+      - Grotte de Clamouse
+      réponse: Grotte du Lazaret
+      anecdote: La grotte est connue depuis 1826 et a fait l'objet de fouilles à partir de 1950 sous la direction de François Charles Ernest Octobon.
+    - id: 29
+      question: Quel est le style architectural de l'ancien hôtel de Nice, connu sous le nom d'Alhambra ?
+      propositions:
+      - Gothique
+      - Romano-byzantin
+      - Constructiviste
+      - Néo-mauresque
+      réponse: Néo-mauresque
+      anecdote: L'hôtel ouvre en 1901. Il possède tout le confort pour attirer une clientèle fortunée pendant la saison qui se limite alors à l'hiver.
+    - id: 30
+      question: Comment s'appelle la structure habitable de la bibliothèque Louis-Nucréa de Nice ?
+      propositions:
+      - Dos Courbé
+      - Tête Carrée
+      - Main Plate
+      - Pied Rond
+      réponse: Tête Carrée
+      anecdote: Nice comprend une bibliothèque centrale, onze bibliothèques de quartier et une bibliothèque patrimoniale et d'étude.

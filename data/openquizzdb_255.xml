@@ -1,0 +1,2035 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes" ?>
+<quizz fournisseur="OpenQuizzDB : Fournisseur de contenu libre"
+       url="https://www.openquizzdb.org"
+       rédacteur="Philippe Bresoux"
+       thème="Mont Saint-Michel (Le rocher insulaire)"
+       difficulté="4 / 5">
+  <fr>
+  <débutant>
+    <contenu id="1">
+      <question>Le mont Saint-Michel est situé à l'est de l'embouchure de quel fleuve ?</question>
+      <propositions>
+        <proposition id="1-1">Rance</proposition>
+        <proposition id="1-2">Couesnon</proposition>
+        <proposition id="1-3">Vire</proposition>
+        <proposition id="1-4">Hérault</proposition>
+      </propositions>
+      <réponse proposition="1-2">Couesnon</réponse>
+      <anecdote>Le Couesnon est un petit fleuve côtier français qui coule dans les trois départements d'Ille-et-Vilaine, de la Manche et de la Mayenne.</anecdote>
+    </contenu>
+    <contenu id="2">
+      <question>À quelle créature abrahamique le mont Saint-Michel doit-il son nom ?</question>
+      <propositions>
+        <proposition id="2-1">Archange</proposition>
+        <proposition id="2-2">Séraphin</proposition>
+        <proposition id="2-3">Léviathan</proposition>
+        <proposition id="2-4">Gargouille</proposition>
+      </propositions>
+      <réponse proposition="2-1">Archange</réponse>
+      <anecdote>Michel est un des sept archanges majeurs (avec Gabriel et Raphaël) des religions abrahamiques (judaïsme, christianisme, et islam).</anecdote>
+    </contenu>
+    <contenu id="3">
+      <question>Quel bâtiment fait partie des premiers sites culturels visités en France ?</question>
+      <propositions>
+        <proposition id="3-1">Temple</proposition>
+        <proposition id="3-2">Abbaye</proposition>
+        <proposition id="3-3">Église</proposition>
+        <proposition id="3-4">Monastère</proposition>
+      </propositions>
+      <réponse proposition="3-2">Abbaye</réponse>
+      <anecdote>Au XIIe siècle, les bénédictins du Mont-Saint-Michel auraient eu une grande influence sur le développement intellectuel de l'Europe.</anecdote>
+    </contenu>
+    <contenu id="4">
+      <question>Quel personnage emblématique du mont Saint-Michel cuisine des omelettes ?</question>
+      <propositions>
+        <proposition id="4-1">Mère Michel</proposition>
+        <proposition id="4-2">Mère Denis</proposition>
+        <proposition id="4-3">Mère Maury</proposition>
+        <proposition id="4-4">Mère Poulard</proposition>
+      </propositions>
+      <réponse proposition="4-4">Mère Poulard</réponse>
+      <anecdote>Anne Boutiaut, surnommée la mère Poulard, était une cuisinière française née à Nevers et morte en 1931 au mont Saint-Michel.</anecdote>
+    </contenu>
+    <contenu id="5">
+      <question>Quel agneau est à déguster de préférence grillé au feu de bois ?</question>
+      <propositions>
+        <proposition id="5-1">Lincoln</proposition>
+        <proposition id="5-2">Romanov</proposition>
+        <proposition id="5-3">De pré salé</proposition>
+        <proposition id="5-4">Cheviot</proposition>
+      </propositions>
+      <réponse proposition="5-3">De pré salé</réponse>
+      <anecdote>La particularité de cette viande est d'être obtenue par l'exploitation herbagère de prés salés grâce à la conduite pastorale de troupeaux.</anecdote>
+    </contenu>
+    <contenu id="6">
+      <question>Quelle spécialité soufflée du mont Saint-Michel est cuite à feu vif ?</question>
+      <propositions>
+        <proposition id="6-1">Cacahuète</proposition>
+        <proposition id="6-2">Galinette</proposition>
+        <proposition id="6-3">Omelette</proposition>
+        <proposition id="6-4">Courgette</proposition>
+      </propositions>
+      <réponse proposition="6-3">Omelette</réponse>
+      <anecdote>La mère Poulard développa cette recette après avoir remarqué que les pèlerins arrivaient affamés au Mont Saint-Michel.</anecdote>
+    </contenu>
+    <contenu id="7">
+      <question>Combien de places de stationnement ont été aménagées dans le nouveau parking ?</question>
+      <propositions>
+        <proposition id="7-1">3 000</proposition>
+        <proposition id="7-2">2 000</proposition>
+        <proposition id="7-3">1 000</proposition>
+        <proposition id="7-4">4 000</proposition>
+      </propositions>
+      <réponse proposition="7-4">4 000</réponse>
+      <anecdote>Construit au sud du barrage de la Caserne sur le Couesnon, à 2 500 mètres du mont, le parking possède 45 000 arbres et arbustes.</anecdote>
+    </contenu>
+    <contenu id="8">
+      <question>Quel célèbre roman de Dan Brown fait référence au mont Saint-Michel ?</question>
+      <propositions>
+        <proposition id="8-1">Inferno</proposition>
+        <proposition id="8-2">Origine</proposition>
+        <proposition id="8-3">Anges et Démons</proposition>
+        <proposition id="8-4">Da Vinci Code</proposition>
+      </propositions>
+      <réponse proposition="8-4">Da Vinci Code</réponse>
+      <anecdote>Les thèses du roman sont largement inspirées par « L'Énigme sacrée », un essai publié en 1982 par trois journalistes britanniques.</anecdote>
+    </contenu>
+    <contenu id="9">
+      <question>Quel phénomène est dû au fait que la baie du mont soit pratiquement plate ?</question>
+      <propositions>
+        <proposition id="9-1">Tempête de sable</proposition>
+        <proposition id="9-2">Sol argileux</proposition>
+        <proposition id="9-3">Talus</proposition>
+        <proposition id="9-4">Sables mouvants</proposition>
+      </propositions>
+      <réponse proposition="9-4">Sables mouvants</réponse>
+      <anecdote>Contrairement à une idée répandue, un corps pris dans un sable mouvant n'est pas aspiré par le fond mais flotte deux fois mieux.</anecdote>
+    </contenu>
+    <contenu id="10">
+      <question>Quel coquillage du mont Saint-Michel représente un quart de la production française ?</question>
+      <propositions>
+        <proposition id="10-1">Moule de bouchot</proposition>
+        <proposition id="10-2">Saint-Jacques</proposition>
+        <proposition id="10-3">Palourde</proposition>
+        <proposition id="10-4">Praire</proposition>
+      </propositions>
+      <réponse proposition="10-1">Moule de bouchot</réponse>
+      <anecdote>Au total, la production annuelle de moules de bouchot et des huîtres du Mont-Saint-Michel s'élève à pas moins de 25 000 tonnes.</anecdote>
+    </contenu>
+  </débutant>
+  <confirmé>
+    <contenu id="11">
+      <question>Quelle est la circonférence approximative de l'îlot rocheux granitique ?</question>
+      <propositions>
+        <proposition id="11-1">660 mètres</proposition>
+        <proposition id="11-2">760 mètres</proposition>
+        <proposition id="11-3">960 mètres</proposition>
+        <proposition id="11-4">860 mètres</proposition>
+      </propositions>
+      <réponse proposition="11-3">960 mètres</réponse>
+      <anecdote>Le mont Saint-Michel est un îlot rocheux situé à l'est de l'embouchure du fleuve du Couesnon, dans la Manche.</anecdote>
+    </contenu>
+    <contenu id="12">
+      <question>À qui doit-on le thriller « Le Sang du temps » qui se déroule au mont Saint-Michel ?</question>
+      <propositions>
+        <proposition id="12-1">Maxime Chattam</proposition>
+        <proposition id="12-2">Bertrand Chéron</proposition>
+        <proposition id="12-3">Antoine Chainas</proposition>
+        <proposition id="12-4">René Charvin</proposition>
+      </propositions>
+      <réponse proposition="12-1">Maxime Chattam</réponse>
+      <anecdote>« Le Sang du temps » est un roman policier écrit par Maxime Chattam, publié en France aux éditions Michel Lafon en 2005.</anecdote>
+    </contenu>
+    <contenu id="13">
+      <question>Comment le mont Saint-Michel était-il connu avant l'année 709 ?</question>
+      <propositions>
+        <proposition id="13-1">Île Pelée</proposition>
+        <proposition id="13-2">Mont Tombe</proposition>
+        <proposition id="13-3">Tombelaine</proposition>
+        <proposition id="13-4">Île du Large</proposition>
+      </propositions>
+      <réponse proposition="13-2">Mont Tombe</réponse>
+      <anecdote>Le nouveau nom complet, choisi par Charlemagne pour protéger son empire au IXe siècle, était Mont-Saint-Michel-au-péril-de-la-Mer.</anecdote>
+    </contenu>
+    <contenu id="14">
+      <question>Quel pourcentage des touristes du mont Saint-Michel montent jusqu'à l'abbaye ?</question>
+      <propositions>
+        <proposition id="14-1">55 %</proposition>
+        <proposition id="14-2">33 %</proposition>
+        <proposition id="14-3">22 %</proposition>
+        <proposition id="14-4">44 %</proposition>
+      </propositions>
+      <réponse proposition="14-2">33 %</réponse>
+      <anecdote>Avec un temps de visite de 3 heures, c'est entre 11h et 16h que la densité de visiteurs sur le site est la plus forte.</anecdote>
+    </contenu>
+    <contenu id="15">
+      <question>Quel film de Michael Bay a été partiellement tourné au mont Saint-Michel ?</question>
+      <propositions>
+        <proposition id="15-1">No Pain No Gain</proposition>
+        <proposition id="15-2">Armageddon</proposition>
+        <proposition id="15-3">13 Hours</proposition>
+        <proposition id="15-4">Six Underground</proposition>
+      </propositions>
+      <réponse proposition="15-2">Armageddon</réponse>
+      <anecdote>La même année (1998) est sorti « Deep Impact », un autre film avec la même trame de scénario, axée sur le côté humain.</anecdote>
+    </contenu>
+    <contenu id="16">
+      <question>Quelle digue séparait la baie du mont Saint-Michel des marais de Dol ?</question>
+      <propositions>
+        <proposition id="16-1">Digue de Bretagne</proposition>
+        <proposition id="16-2">Digue de Wadrinau</proposition>
+        <proposition id="16-3">Digue aux Cygnes</proposition>
+        <proposition id="16-4">Digue de Richelieu</proposition>
+      </propositions>
+      <réponse proposition="16-1">Digue de Bretagne</réponse>
+      <anecdote>La digue s'étendait sur une trentaine de kilomètres de la pointe de Château-Richeux jusqu'au petit massif de Saint-Broladre à l'est.</anecdote>
+    </contenu>
+    <contenu id="17">
+      <question>Pendant combien de jours par an le mont Saint-Michel est-il entouré d'eau ?</question>
+      <propositions>
+        <proposition id="17-1">53 jours</proposition>
+        <proposition id="17-2">79 jours</proposition>
+        <proposition id="17-3">42 jours</proposition>
+        <proposition id="17-4">67 jours</proposition>
+      </propositions>
+      <réponse proposition="17-1">53 jours</réponse>
+      <anecdote>Spectacle impressionnant, le Mont-Saint-Michel n'est entouré d'eau et ne redevient une île qu'aux grandes marées d'équinoxe.</anecdote>
+    </contenu>
+    <contenu id="18">
+      <question>Quelle plante se trouve principalement sur les herbus qui entourent le mont ?</question>
+      <propositions>
+        <proposition id="18-1">Salicorne</proposition>
+        <proposition id="18-2">Sauge</proposition>
+        <proposition id="18-3">Santal</proposition>
+        <proposition id="18-4">Sagine</proposition>
+      </propositions>
+      <réponse proposition="18-1">Salicorne</réponse>
+      <anecdote>Les salicornes sont des plantes annuelles, basses, charnues, qui croissent sur des sols riches en sel marin (chlorure de sodium).</anecdote>
+    </contenu>
+    <contenu id="19">
+      <question>Quelle pêche consiste à tendre des filets sur les grèves et à les manoeuvrer ?</question>
+      <propositions>
+        <proposition id="19-1">Pêche au chalut</proposition>
+        <proposition id="19-2">Pêche à pied</proposition>
+        <proposition id="19-3">Pêche au carrelet</proposition>
+        <proposition id="19-4">Pêche profonde</proposition>
+      </propositions>
+      <réponse proposition="19-2">Pêche à pied</réponse>
+      <anecdote>Du fait des conditions de pêche, les grandes marées sont très favorables à cette activité, avec une forte population de crustacés.</anecdote>
+    </contenu>
+    <contenu id="20">
+      <question>À quelle hauteur culmine au-dessus du rivage la statue de saint Michel ?</question>
+      <propositions>
+        <proposition id="20-1">210 mètres</proposition>
+        <proposition id="20-2">180 mètres</proposition>
+        <proposition id="20-3">150 mètres</proposition>
+        <proposition id="20-4">120 mètres</proposition>
+      </propositions>
+      <réponse proposition="20-3">150 mètres</réponse>
+      <anecdote>Élément majeur, l'abbaye, ses dépendances et sa statue sont classés au titre des monuments historiques par la liste de 1862.</anecdote>
+    </contenu>
+  </confirmé>
+  <expert>
+    <contenu id="21">
+      <question>Qui a composé un album entièrement consacré aux légendes du mont Saint-Michel ?</question>
+      <propositions>
+        <proposition id="21-1">Manuel Dubigeon</proposition>
+        <proposition id="21-2">Jérôme Wolff</proposition>
+        <proposition id="21-3">Grégoire Vallette</proposition>
+        <proposition id="21-4">Patrick Broguière</proposition>
+      </propositions>
+      <réponse proposition="21-4">Patrick Broguière</réponse>
+      <anecdote>L'album « Mont Saint-Michel », inspiré par les contes et légendes du mont Saint-Michel, comprend un livret de 20 pages couleur.</anecdote>
+    </contenu>
+    <contenu id="22">
+      <question>Quel phénomène permet à une grande partie de la baie d'être découverte ?</question>
+      <propositions>
+        <proposition id="22-1">Tourbillon</proposition>
+        <proposition id="22-2">Halocline</proposition>
+        <proposition id="22-3">Altimétrie</proposition>
+        <proposition id="22-4">Marnage</proposition>
+      </propositions>
+      <réponse proposition="22-4">Marnage</réponse>
+      <anecdote>Le marnage est, pour un jour donné, la différence de hauteur d'eau entre le niveau de la pleine mer et celui de la basse mer.</anecdote>
+    </contenu>
+    <contenu id="23">
+      <question>Quelle voiture transportait autrefois les visiteurs du Mont Saint-Michel ?</question>
+      <propositions>
+        <proposition id="23-1">Vinaigrette</proposition>
+        <proposition id="23-2">Podoscaphe</proposition>
+        <proposition id="23-3">Gyrobus</proposition>
+        <proposition id="23-4">Maringotte</proposition>
+      </propositions>
+      <réponse proposition="23-4">Maringotte</réponse>
+      <anecdote>La maringotte est une voiture hippomobile à deux roues, suspendue sur des ressorts à pincettes, avec des bancs mobiles.</anecdote>
+    </contenu>
+    <contenu id="24">
+      <question>Quel architecte a créé les nouveaux ouvrages d'accès disponibles depuis 2014 ?</question>
+      <propositions>
+        <proposition id="24-1">Artur Berger</proposition>
+        <proposition id="24-2">Christopher Alexander</proposition>
+        <proposition id="24-3">Dietmar Feichtinger</proposition>
+        <proposition id="24-4">Richard Neutra</proposition>
+      </propositions>
+      <réponse proposition="24-3">Dietmar Feichtinger</réponse>
+      <anecdote>La passerelle sur pilotis, élaborée en 2002, est ouverte aux piétons depuis juillet 2014 et aux navettes depuis décembre 2014.</anecdote>
+    </contenu>
+    <contenu id="25">
+      <question>Combien de visiteurs se rendent en moyenne chaque jour au mont Saint-Michel ?</question>
+      <propositions>
+        <proposition id="25-1">12 000</proposition>
+        <proposition id="25-2">15 000</proposition>
+        <proposition id="25-3">9 000</proposition>
+        <proposition id="25-4">6 000</proposition>
+      </propositions>
+      <réponse proposition="25-1">12 000</réponse>
+      <anecdote>Des pics dépassent les 16 000 visiteurs par jour, avec un flux moins dense au fur et à mesure de l'ascension vers l'abbaye.</anecdote>
+    </contenu>
+    <contenu id="26">
+      <question>Quel grand bâtisseur et historien fut le seizième abbé du mont Saint-Michel ?</question>
+      <propositions>
+        <proposition id="26-1">Geoffroi Malaterra</proposition>
+        <proposition id="26-2">Gilbert de Mons</proposition>
+        <proposition id="26-3">Bernat Desclot</proposition>
+        <proposition id="26-4">Robert de Torigni</proposition>
+      </propositions>
+      <réponse proposition="26-4">Robert de Torigni</réponse>
+      <anecdote>Il y réalisera d'importants travaux en édifiant les deux tours occidentales et le bâtiment (hôtellerie et infirmerie).</anecdote>
+    </contenu>
+    <contenu id="27">
+      <question>Quel prisonnier du mont Saint-Michel fut surnommé « l'Enfermé » ?</question>
+      <propositions>
+        <proposition id="27-1">Auguste Blanqui</proposition>
+        <proposition id="27-2">Antoine Fombertaux</proposition>
+        <proposition id="27-3">Jules Senard</proposition>
+        <proposition id="27-4">Joseph Sobrier</proposition>
+      </propositions>
+      <réponse proposition="27-1">Auguste Blanqui</réponse>
+      <anecdote>En 1880, Auguste Blanqui a publié le journal « Ni Dieu ni maître » dont le titre est devenu une référence pour le mouvement anarchiste.</anecdote>
+    </contenu>
+    <contenu id="28">
+      <question>Dans quel album de Mike Oldfied un des titres est consacré au mont Saint-Michel ?</question>
+      <propositions>
+        <proposition id="28-1">Amarok</proposition>
+        <proposition id="28-2">Crises</proposition>
+        <proposition id="28-3">Voyager</proposition>
+        <proposition id="28-4">Discovery</proposition>
+      </propositions>
+      <réponse proposition="28-3">Voyager</réponse>
+      <anecdote>L'album contient cinq reprises de traditionnels celtiques, une reprise de galicien Luar na Lubre et quatre compositions originales.</anecdote>
+    </contenu>
+    <contenu id="29">
+      <question>En quelle année un timbre de trois francs français représentait-il le mont Saint-Michel ?</question>
+      <propositions>
+        <proposition id="29-1">1968</proposition>
+        <proposition id="29-2">1998</proposition>
+        <proposition id="29-3">1988</proposition>
+        <proposition id="29-4">1978</proposition>
+      </propositions>
+      <réponse proposition="29-2">1998</réponse>
+      <anecdote>En 1998, un nouveau timbre de 3 francs français, avec son aspect multicolore, sera élu à l'unanimité plus beau timbre de l'année.</anecdote>
+    </contenu>
+    <contenu id="30">
+      <question>Quel musée des manuscrits du Mont Saint-Michel est installé à Avranches ?</question>
+      <propositions>
+        <proposition id="30-1">Granit</proposition>
+        <proposition id="30-2">Maison de la Baie</proposition>
+        <proposition id="30-3">Scriptorial</proposition>
+        <proposition id="30-4">Richard-Anacréon</proposition>
+      </propositions>
+      <réponse proposition="30-3">Scriptorial</réponse>
+      <anecdote>Ouvert en 2006, son objectif est de faire découvrir l'exceptionnelle collection des manuscrits de l'ancienne abbaye du mont.</anecdote>
+    </contenu>
+  </expert>
+  </fr>  
+  <en>
+  <débutant>
+    <contenu id="1">
+      <question>Mont Saint-Michel is located east of the mouth of which river ?</question>
+      <propositions>
+        <proposition id="1-1">Herault</proposition>
+        <proposition id="1-2">Rance</proposition>
+        <proposition id="1-3">Vire</proposition>
+        <proposition id="1-4">Couesnon</proposition>
+      </propositions>
+      <réponse proposition="1-4">Couesnon</réponse>
+      <anecdote>The Couesnon is a small French coastal river that flows through the three departments of Ille-et-Vilaine, Manche and Mayenne.</anecdote>
+    </contenu>
+    <contenu id="2">
+      <question>To which Abrahamic creature does Mont Saint-Michel owe its name ?</question>
+      <propositions>
+        <proposition id="2-1">Gargoyle</proposition>
+        <proposition id="2-2">Leviathan</proposition>
+        <proposition id="2-3">Archangel</proposition>
+        <proposition id="2-4">Seraphim</proposition>
+      </propositions>
+      <réponse proposition="2-3">Archangel</réponse>
+      <anecdote>Michel is one of the seven major archangels (with Gabriel and Raphael) of the Abrahamic religions (Judaism, Christianity, and Islam).</anecdote>
+    </contenu>
+    <contenu id="3">
+      <question>Which building is one of the first cultural sites visited in France ?</question>
+      <propositions>
+        <proposition id="3-1">Abbey</proposition>
+        <proposition id="3-2">Temple</proposition>
+        <proposition id="3-3">Monastery</proposition>
+        <proposition id="3-4">Church</proposition>
+      </propositions>
+      <réponse proposition="3-1">Abbey</réponse>
+      <anecdote>In the 12th century, the Benedictines of Mont-Saint-Michel would have had a great influence on the intellectual development of Europe.</anecdote>
+    </contenu>
+    <contenu id="4">
+      <question>Which emblematic character of Mont Saint-Michel cooks omelets ?</question>
+      <propositions>
+        <proposition id="4-1">Mother Poulard</proposition>
+        <proposition id="4-2">Mother Maury</proposition>
+        <proposition id="4-3">Mother Denis</proposition>
+        <proposition id="4-4">Mother Michel</proposition>
+      </propositions>
+      <réponse proposition="4-1">Mother Poulard</réponse>
+      <anecdote>Anne Boutiaut, nicknamed Mère Poulard, was a French cook born in Nevers and died in 1931 at Mont Saint-Michel.</anecdote>
+    </contenu>
+    <contenu id="5">
+      <question>Which lamb is best to eat grilled over a wood fire ?</question>
+      <propositions>
+        <proposition id="5-1">Lincoln</proposition>
+        <proposition id="5-2">Romanov</proposition>
+        <proposition id="5-3">From salt meadow</proposition>
+        <proposition id="5-4">Cheviot</proposition>
+      </propositions>
+      <réponse proposition="5-3">From salt meadow</réponse>
+      <anecdote>The particularity of this meat is that it is obtained by the grassland exploitation of salt meadows thanks to the pastoral management of herds.</anecdote>
+    </contenu>
+    <contenu id="6">
+      <question>Which soufflée specialty from Mont Saint-Michel is cooked over high heat ?</question>
+      <propositions>
+        <proposition id="6-1">Peanut</proposition>
+        <proposition id="6-2">Courgette</proposition>
+        <proposition id="6-3">Galinette</proposition>
+        <proposition id="6-4">Omelet</proposition>
+      </propositions>
+      <réponse proposition="6-4">Omelet</réponse>
+      <anecdote>Mother Poulard developed this recipe after noticing that pilgrims arrived hungry at Mont Saint-Michel.</anecdote>
+    </contenu>
+    <contenu id="7">
+      <question>How many parking spaces have been provided in the new parking lot ?</question>
+      <propositions>
+        <proposition id="7-1">4000</proposition>
+        <proposition id="7-2">1,000</proposition>
+        <proposition id="7-3">2,000</proposition>
+        <proposition id="7-4">3,000</proposition>
+      </propositions>
+      <réponse proposition="7-1">4000</réponse>
+      <anecdote>Built to the south of the Caserne dam on the Couesnon, 2,500 meters from the mountain, the car park has 45,000 trees and shrubs.</anecdote>
+    </contenu>
+    <contenu id="8">
+      <question>Which famous Dan Brown novel refers to Mont Saint-Michel ?</question>
+      <propositions>
+        <proposition id="8-1">Origine</proposition>
+        <proposition id="8-2">Anges et Démons</proposition>
+        <proposition id="8-3">Inferno</proposition>
+        <proposition id="8-4">Da Vinci Code</proposition>
+      </propositions>
+      <réponse proposition="8-4">Da Vinci Code</réponse>
+      <anecdote>The novel's theses are largely inspired by « The Sacred Enigma », an essay published in 1982 by three British journalists.</anecdote>
+    </contenu>
+    <contenu id="9">
+      <question>What phenomenon is due to the fact that the bay of the mount is practically flat ?</question>
+      <propositions>
+        <proposition id="9-1">Clay soil</proposition>
+        <proposition id="9-2">Embankment</proposition>
+        <proposition id="9-3">Quicksand</proposition>
+        <proposition id="9-4">Sandstorm</proposition>
+      </propositions>
+      <réponse proposition="9-3">Quicksand</réponse>
+      <anecdote>Contrary to popular belief, a body caught in quicksand is not sucked into the bottom but floats twice as well.</anecdote>
+    </contenu>
+    <contenu id="10">
+      <question>Which shell from Mont Saint-Michel represents a quarter of French production ?</question>
+      <propositions>
+        <proposition id="10-1">Clam</proposition>
+        <proposition id="10-2">Praire</proposition>
+        <proposition id="10-3">Bouchot mussel</proposition>
+        <proposition id="10-4">Saint-Jacques</proposition>
+      </propositions>
+      <réponse proposition="10-3">Bouchot mussel</réponse>
+      <anecdote>In total, the annual production of bouchot mussels and Mont-Saint-Michel oysters amounts to no less than 25,000 tonnes.</anecdote>
+    </contenu>
+  </débutant>
+  <confirmé>
+    <contenu id="11">
+      <question>What is the approximate circumference of the granite rocky islet ?</question>
+      <propositions>
+        <proposition id="11-1">760 meters</proposition>
+        <proposition id="11-2">660 meters</proposition>
+        <proposition id="11-3">960 meters</proposition>
+        <proposition id="11-4">860 meters</proposition>
+      </propositions>
+      <réponse proposition="11-3">960 meters</réponse>
+      <anecdote>Mont Saint-Michel is a rocky islet located east of the mouth of the Couesnon river, in the English Channel.</anecdote>
+    </contenu>
+    <contenu id="12">
+      <question>To whom do we owe the thriller « Le Sang du temps » which takes place at Mont Saint-Michel ?</question>
+      <propositions>
+        <proposition id="12-1">René Charvin</proposition>
+        <proposition id="12-2">Maxime Chattam</proposition>
+        <proposition id="12-3">Antoine Chainas</proposition>
+        <proposition id="12-4">Bertrand Chéron</proposition>
+      </propositions>
+      <réponse proposition="12-2">Maxime Chattam</réponse>
+      <anecdote>« Le Sang du temps » is a detective novel written by Maxime Chattam, published in France by Michel Lafon editions in 2005.</anecdote>
+    </contenu>
+    <contenu id="13">
+      <question>How was Mont Saint-Michel known before the year 709 ?</question>
+      <propositions>
+        <proposition id="13-1">Large Island</proposition>
+        <proposition id="13-2">Tombelaine</proposition>
+        <proposition id="13-3">Mount Tombe</proposition>
+        <proposition id="13-4">Pelee Island</proposition>
+      </propositions>
+      <réponse proposition="13-3">Mount Tombe</réponse>
+      <anecdote>The new full name, chosen by Charlemagne to protect his empire in the 9th century, was Mont-Saint-Michel-au-Péril-de-la-Mer.</anecdote>
+    </contenu>
+    <contenu id="14">
+      <question>What percentage of tourists from Mont Saint-Michel go up to the abbey ?</question>
+      <propositions>
+        <proposition id="14-1">55%</proposition>
+        <proposition id="14-2">33%</proposition>
+        <proposition id="14-3">44%</proposition>
+        <proposition id="14-4">22%</proposition>
+      </propositions>
+      <réponse proposition="14-2">33%</réponse>
+      <anecdote>With a visit time of 3 hours, it is between 11 a.m. and 4 p.m. that the density of visitors to the site is highest.</anecdote>
+    </contenu>
+    <contenu id="15">
+      <question>Which Michael Bay film was partially shot at Mont Saint-Michel ?</question>
+      <propositions>
+        <proposition id="15-1">No Pain No Gain</proposition>
+        <proposition id="15-2">13 Hours</proposition>
+        <proposition id="15-3">Armageddon</proposition>
+        <proposition id="15-4">Six Underground</proposition>
+      </propositions>
+      <réponse proposition="15-3">Armageddon</réponse>
+      <anecdote>The same year (1998) was released « Deep Impact », another film with the same storyline, focused on the human side.</anecdote>
+    </contenu>
+    <contenu id="16">
+      <question>What dike separated the bay of Mont Saint-Michel from the marshes of Dol ?</question>
+      <propositions>
+        <proposition id="16-1">Brittany dike</proposition>
+        <proposition id="16-2">Wadrinau dike</proposition>
+        <proposition id="16-3">Richelieu dyke</proposition>
+        <proposition id="16-4">Digue aux Cygnes</proposition>
+      </propositions>
+      <réponse proposition="16-1">Brittany dike</réponse>
+      <anecdote>The dike stretched for about thirty kilometers from the tip of Château-Richeux to the small massif of Saint-Broladre to the east.</anecdote>
+    </contenu>
+    <contenu id="17">
+      <question>For how many days per year is Mont Saint-Michel surrounded by water ?</question>
+      <propositions>
+        <proposition id="17-1">53 days</proposition>
+        <proposition id="17-2">67 days</proposition>
+        <proposition id="17-3">79 days</proposition>
+        <proposition id="17-4">42 days</proposition>
+      </propositions>
+      <réponse proposition="17-1">53 days</réponse>
+      <anecdote>An impressive spectacle, Mont-Saint-Michel is not surrounded by water and becomes an island again only at high equinox tides.</anecdote>
+    </contenu>
+    <contenu id="18">
+      <question>Which plant is mainly found on the grasses that surround the mount ?</question>
+      <propositions>
+        <proposition id="18-1">Sagine</proposition>
+        <proposition id="18-2">Salicornia</proposition>
+        <proposition id="18-3">Sandalwood</proposition>
+        <proposition id="18-4">Sage</proposition>
+      </propositions>
+      <réponse proposition="18-2">Salicornia</réponse>
+      <anecdote>Salicornia are annuals, low, fleshy, which grow on soils rich in sea salt (sodium chloride).</anecdote>
+    </contenu>
+    <contenu id="19">
+      <question>What kind of fishing consists in setting nets on the shores and maneuvering them ?</question>
+      <propositions>
+        <proposition id="19-1">Trawl fishing</proposition>
+        <proposition id="19-2">Net fishing</proposition>
+        <proposition id="19-3">Shore fishing</proposition>
+        <proposition id="19-4">Deep fishing</proposition>
+      </propositions>
+      <réponse proposition="19-3">Shore fishing</réponse>
+      <anecdote>Due to the fishing conditions, high tides are very favorable to this activity, with a high population of crustaceans.</anecdote>
+    </contenu>
+    <contenu id="20">
+      <question>How high above the shore is the statue of Saint Michael ?</question>
+      <propositions>
+        <proposition id="20-1">120 meters</proposition>
+        <proposition id="20-2">180 meters</proposition>
+        <proposition id="20-3">210 meters</proposition>
+        <proposition id="20-4">150 meters</proposition>
+      </propositions>
+      <réponse proposition="20-4">150 meters</réponse>
+      <anecdote>Major element, the abbey, its outbuildings and its statue are classified as historical monuments by the list of 1862.</anecdote>
+    </contenu>
+  </confirmé>
+  <expert>
+    <contenu id="21">
+      <question>Who composed an album entirely devoted to the legends of Mont Saint-Michel ?</question>
+      <propositions>
+        <proposition id="21-1">Jérôme Wolff</proposition>
+        <proposition id="21-2">Patrick Broguière</proposition>
+        <proposition id="21-3">Grégoire Vallette</proposition>
+        <proposition id="21-4">Manuel Dubigeon</proposition>
+      </propositions>
+      <réponse proposition="21-2">Patrick Broguière</réponse>
+      <anecdote>The « Mont Saint-Michel » album, inspired by the tales and legends of Mont Saint-Michel, includes a booklet of 20 color pages.</anecdote>
+    </contenu>
+    <contenu id="22">
+      <question>What phenomenon allows a large part of the bay to be discovered ?</question>
+      <propositions>
+        <proposition id="22-1">Altimetry</proposition>
+        <proposition id="22-2">Tourbillon</proposition>
+        <proposition id="22-3">Marnage</proposition>
+        <proposition id="22-4">Halocline</proposition>
+      </propositions>
+      <réponse proposition="22-3">Marnage</réponse>
+      <anecdote>The tidal range is, for a given day, the difference in water height between the level of the high sea and that of the low tide.</anecdote>
+    </contenu>
+    <contenu id="23">
+      <question>What car once transported visitors to Mont Saint-Michel ?</question>
+      <propositions>
+        <proposition id="23-1">Podoscaphe</proposition>
+        <proposition id="23-2">Maringotte</proposition>
+        <proposition id="23-3">Dressing</proposition>
+        <proposition id="23-4">Gyrobus</proposition>
+      </propositions>
+      <réponse proposition="23-2">Maringotte</réponse>
+      <anecdote>The maringotte is a two-wheeled horse-drawn car, suspended on tweezer springs, with movable benches.</anecdote>
+    </contenu>
+    <contenu id="24">
+      <question>Which architect created the new access structures available since 2014 ?</question>
+      <propositions>
+        <proposition id="24-1">Richard Neutra</proposition>
+        <proposition id="24-2">Artur Berger</proposition>
+        <proposition id="24-3">Dietmar Feichtinger</proposition>
+        <proposition id="24-4">Christopher Alexander</proposition>
+      </propositions>
+      <réponse proposition="24-3">Dietmar Feichtinger</réponse>
+      <anecdote>The bridge on stilts, developed in 2002, has been open to pedestrians since July 2014 and to shuttles since December 2014.</anecdote>
+    </contenu>
+    <contenu id="25">
+      <question>How many visitors go to Mont Saint-Michel on average each day ?</question>
+      <propositions>
+        <proposition id="25-1">6,000</proposition>
+        <proposition id="25-2">12,000</proposition>
+        <proposition id="25-3">9,000</proposition>
+        <proposition id="25-4">15,000</proposition>
+      </propositions>
+      <réponse proposition="25-2">12,000</réponse>
+      <anecdote>Peaks exceed 16,000 visitors per day, with a less dense flow as the ascent towards the abbey.</anecdote>
+    </contenu>
+    <contenu id="26">
+      <question>What great builder and historian was the sixteenth abbot of Mont Saint-Michel ?</question>
+      <propositions>
+        <proposition id="26-1">Gilbert de Mons</proposition>
+        <proposition id="26-2">Bernat Desclot</proposition>
+        <proposition id="26-3">Geoffroi Malaterra</proposition>
+        <proposition id="26-4">Robert de Torigni</proposition>
+      </propositions>
+      <réponse proposition="26-4">Robert de Torigni</réponse>
+      <anecdote>He will carry out important works there by building the two western towers and the building (hotel and infirmary).</anecdote>
+    </contenu>
+    <contenu id="27">
+      <question>Which prisoner of Mont Saint-Michel was nicknamed the Locked Up ?</question>
+      <propositions>
+        <proposition id="27-1">Jules Senard</proposition>
+        <proposition id="27-2">Joseph Sobrier</proposition>
+        <proposition id="27-3">Auguste Blanqui</proposition>
+        <proposition id="27-4">Antoine Fombertaux</proposition>
+      </propositions>
+      <réponse proposition="27-3">Auguste Blanqui</réponse>
+      <anecdote>In 1880, Auguste Blanqui published the newspaper « Ni Dieu ni maître », the title of which has become a reference for the anarchist movement.</anecdote>
+    </contenu>
+    <contenu id="28">
+      <question>In which Mike Oldfied album is one of the tracks dedicated to Mont Saint-Michel ?</question>
+      <propositions>
+        <proposition id="28-1">Discovery</proposition>
+        <proposition id="28-2">Voyager</proposition>
+        <proposition id="28-3">Crises</proposition>
+        <proposition id="28-4">Amarok</proposition>
+      </propositions>
+      <réponse proposition="28-2">Voyager</réponse>
+      <anecdote>The album contains five covers of traditional Celtic, a cover of Galician Luar na Lubre and four original compositions.</anecdote>
+    </contenu>
+    <contenu id="29">
+      <question>In what year did a 3 French franc stamp represent Mont Saint-Michel ?</question>
+      <propositions>
+        <proposition id="29-1">1968</proposition>
+        <proposition id="29-2">1998</proposition>
+        <proposition id="29-3">1978</proposition>
+        <proposition id="29-4">1988</proposition>
+      </propositions>
+      <réponse proposition="29-2">1998</réponse>
+      <anecdote>In 1998, a new 3 French franc stamp, with its multicolored appearance, will be unanimously voted the most beautiful stamp of the year.</anecdote>
+    </contenu>
+    <contenu id="30">
+      <question>Which museum of Mont Saint-Michel manuscripts is located in Avranches ?</question>
+      <propositions>
+        <proposition id="30-1">Bay House</proposition>
+        <proposition id="30-2">Scriptorial</proposition>
+        <proposition id="30-3">Richard-Anacréon</proposition>
+        <proposition id="30-4">Granite</proposition>
+      </propositions>
+      <réponse proposition="30-2">Scriptorial</réponse>
+      <anecdote>Opened in 2006, its objective is to showcase the exceptional collection of manuscripts from the former abbey of Mt.</anecdote>
+    </contenu>
+  </expert>
+  </en>
+  <de>
+  <débutant>
+    <contenu id="1">
+      <question>Der Mont Saint-Michel liegt östlich der Mündung des Flusses ?</question>
+      <propositions>
+        <proposition id="1-1">Couesnon</proposition>
+        <proposition id="1-2">Rance</proposition>
+        <proposition id="1-3">Herault</proposition>
+        <proposition id="1-4">Vire</proposition>
+      </propositions>
+      <réponse proposition="1-1">Couesnon</réponse>
+      <anecdote>Der Couesnon ist ein kleiner französischer Küstenfluss, der durch die drei Departements Ille-et-Vilaine, Manche und Mayenne fließt.</anecdote>
+    </contenu>
+    <contenu id="2">
+      <question>Welcher abrahamitischen Kreatur verdankt der Mont Saint-Michel seinen Namen ?</question>
+      <propositions>
+        <proposition id="2-1">Seraphim</proposition>
+        <proposition id="2-2">Leviathan</proposition>
+        <proposition id="2-3">Erzengel</proposition>
+        <proposition id="2-4">Wasserspeier</proposition>
+      </propositions>
+      <réponse proposition="2-3">Erzengel</réponse>
+      <anecdote>Michael ist einer der sieben großen Erzengel (zusammen mit Gabriel und Raphael) der abrahamitischen Religionen (Judentum, Christentum und Islam).</anecdote>
+    </contenu>
+    <contenu id="3">
+      <question>Welches Gebäude ist eine der ersten Kulturstätten in Frankreich ?</question>
+      <propositions>
+        <proposition id="3-1">Abtei</proposition>
+        <proposition id="3-2">Kloster</proposition>
+        <proposition id="3-3">Kirche</proposition>
+        <proposition id="3-4">Tempel</proposition>
+      </propositions>
+      <réponse proposition="3-1">Abtei</réponse>
+      <anecdote>Im 12. Jahrhundert hätten die Benediktiner von Mont-Saint-Michel einen großen Einfluss auf die intellektuelle Entwicklung Europas gehabt.</anecdote>
+    </contenu>
+    <contenu id="4">
+      <question>Welcher emblematische Charakter des Mont Saint-Michel kocht Omeletts ?</question>
+      <propositions>
+        <proposition id="4-1">Mutter Poulard</proposition>
+        <proposition id="4-2">Mutter Michel</proposition>
+        <proposition id="4-3">Mutter Denis</proposition>
+        <proposition id="4-4">Mutter Maury</proposition>
+      </propositions>
+      <réponse proposition="4-1">Mutter Poulard</réponse>
+      <anecdote>Anne Boutiaut mit dem Spitznamen Mère Poulard war eine französische Köchin, die in Nevers geboren wurde und 1931 am Mont Saint-Michel starb.</anecdote>
+    </contenu>
+    <contenu id="5">
+      <question>Welches Lamm isst man am besten über einem Holzfeuer gegrillt ?</question>
+      <propositions>
+        <proposition id="5-1">Lincoln</proposition>
+        <proposition id="5-2">Cheviot</proposition>
+        <proposition id="5-3">Romanov</proposition>
+        <proposition id="5-4">Von der Salzwiese</proposition>
+      </propositions>
+      <réponse proposition="5-4">Von der Salzwiese</réponse>
+      <anecdote>Die Besonderheit dieses Fleisches besteht darin, dass es durch die Ausbeutung von Salzwiesen auf Grünland dank der pastoralen Bewirtschaftung der Herden gewonnen wird.</anecdote>
+    </contenu>
+    <contenu id="6">
+      <question>Welche Soufflée-Spezialität aus dem Mont Saint-Michel wird bei starker Hitze gekocht ?</question>
+      <propositions>
+        <proposition id="6-1">Zucchini</proposition>
+        <proposition id="6-2">Omelett</proposition>
+        <proposition id="6-3">Galinette</proposition>
+        <proposition id="6-4">Erdnuss</proposition>
+      </propositions>
+      <réponse proposition="6-2">Omelett</réponse>
+      <anecdote>Mutter Poulard entwickelte dieses Rezept, nachdem sie bemerkte, dass Pilger hungrig am Mont Saint-Michel ankamen.</anecdote>
+    </contenu>
+    <contenu id="7">
+      <question>Wie viele Parkplätze wurden auf dem neuen Parkplatz bereitgestellt ?</question>
+      <propositions>
+        <proposition id="7-1">3.000</proposition>
+        <proposition id="7-2">2.000</proposition>
+        <proposition id="7-3">1.000</proposition>
+        <proposition id="7-4">4000</proposition>
+      </propositions>
+      <réponse proposition="7-4">4000</réponse>
+      <anecdote>Der Parkplatz wurde südlich des Caserne-Staudamms am Couesnon, 2.500 Meter vom Berg entfernt, erbaut und verfügt über 45.000 Bäume und Sträucher.</anecdote>
+    </contenu>
+    <contenu id="8">
+      <question>Welcher berühmte Dan Brown-Roman bezieht sich auf den Mont Saint-Michel ?</question>
+      <propositions>
+        <proposition id="8-1">Da Vinci Code</proposition>
+        <proposition id="8-2">Origine</proposition>
+        <proposition id="8-3">Anges et Démons</proposition>
+        <proposition id="8-4">Inferno</proposition>
+      </propositions>
+      <réponse proposition="8-1">Da Vinci Code</réponse>
+      <anecdote>Die Thesen des Romans sind weitgehend von « The Sacred Enigma » inspiriert, einem Aufsatz, der 1982 von drei britischen Journalisten veröffentlicht wurde.</anecdote>
+    </contenu>
+    <contenu id="9">
+      <question>Welches Phänomen ist darauf zurückzuführen, dass die Bucht des Reittiers praktisch flach ist ?</question>
+      <propositions>
+        <proposition id="9-1">Treibsand</proposition>
+        <proposition id="9-2">Damm</proposition>
+        <proposition id="9-3">Lehmboden</proposition>
+        <proposition id="9-4">Sandsturm</proposition>
+      </propositions>
+      <réponse proposition="9-1">Treibsand</réponse>
+      <anecdote>Entgegen der landläufigen Meinung wird ein in Treibsand gefangener Körper nicht in den Boden gesaugt, sondern schwimmt doppelt so gut.</anecdote>
+    </contenu>
+    <contenu id="10">
+      <question>Welche Schale vom Mont Saint-Michel repräsentiert ein Viertel der französischen Produktion ?</question>
+      <propositions>
+        <proposition id="10-1">Bouchot Muschel</proposition>
+        <proposition id="10-2">Muschel</proposition>
+        <proposition id="10-3">Praire</proposition>
+        <proposition id="10-4">Saint-Jacques</proposition>
+      </propositions>
+      <réponse proposition="10-1">Bouchot Muschel</réponse>
+      <anecdote>Insgesamt beträgt die jährliche Produktion von Bouchot-Muscheln und Mont-Saint-Michel-Austern nicht weniger als 25.</anecdote>
+    </contenu>
+  </débutant>
+  <confirmé>
+    <contenu id="11">
+      <question>Was ist der ungefähre Umfang der Granitfelseninsel ?</question>
+      <propositions>
+        <proposition id="11-1">760 Meter</proposition>
+        <proposition id="11-2">660 Meter</proposition>
+        <proposition id="11-3">860 Meter</proposition>
+        <proposition id="11-4">960 Meter</proposition>
+      </propositions>
+      <réponse proposition="11-4">960 Meter</réponse>
+      <anecdote>Der Mont Saint-Michel ist eine felsige Insel östlich der Mündung des Couesnon im Ärmelkanal.</anecdote>
+    </contenu>
+    <contenu id="12">
+      <question>Wem verdanken wir den Thriller « Le Sang du temps », der am Mont Saint-Michel stattfindet ?</question>
+      <propositions>
+        <proposition id="12-1">René Charvin</proposition>
+        <proposition id="12-2">Antoine Chainas</proposition>
+        <proposition id="12-3">Bertrand Chéron</proposition>
+        <proposition id="12-4">Maxime Chattam</proposition>
+      </propositions>
+      <réponse proposition="12-4">Maxime Chattam</réponse>
+      <anecdote>« Le Sang du temps » ist ein Kriminalroman von Maxime Chattam, der 2005 in Frankreich von Michel Lafon herausgegeben wurde.</anecdote>
+    </contenu>
+    <contenu id="13">
+      <question>Wie war der Mont Saint-Michel vor dem Jahr 709 bekannt ?</question>
+      <propositions>
+        <proposition id="13-1">Tombelaine</proposition>
+        <proposition id="13-2">Pelee Island</proposition>
+        <proposition id="13-3">Große Insel</proposition>
+        <proposition id="13-4">Mount Tombe</proposition>
+      </propositions>
+      <réponse proposition="13-4">Mount Tombe</réponse>
+      <anecdote>Der neue vollständige Name, der von Karl dem Großen gewählt wurde, um sein Reich im 9. Jahrhundert zu schützen, war Mont-Saint-Michel-au-Péril-de-la-Mer.</anecdote>
+    </contenu>
+    <contenu id="14">
+      <question>Wie viel Prozent der Touristen vom Mont Saint-Michel gehen zur Abtei ?</question>
+      <propositions>
+        <proposition id="14-1">44%</proposition>
+        <proposition id="14-2">33%</proposition>
+        <proposition id="14-3">22%</proposition>
+        <proposition id="14-4">55%</proposition>
+      </propositions>
+      <réponse proposition="14-2">33%</réponse>
+      <anecdote>Mit einer Besuchszeit von 3 Stunden ist die Besucherdichte zwischen 11 und 16 Uhr am höchsten.</anecdote>
+    </contenu>
+    <contenu id="15">
+      <question>Welcher Michael Bay Film wurde teilweise am Mont Saint-Michel gedreht ?</question>
+      <propositions>
+        <proposition id="15-1">Armageddon</proposition>
+        <proposition id="15-2">13 Hours</proposition>
+        <proposition id="15-3">Six Underground</proposition>
+        <proposition id="15-4">No Pain No Gain</proposition>
+      </propositions>
+      <réponse proposition="15-1">Armageddon</réponse>
+      <anecdote>Im selben Jahr (1998) erschien « Deep Impact », ein weiterer Film mit derselben Handlung, der sich auf die menschliche Seite konzentriert.</anecdote>
+    </contenu>
+    <contenu id="16">
+      <question>Welcher Deich trennte die Bucht des Mont Saint-Michel von den Sümpfen des Dol ?</question>
+      <propositions>
+        <proposition id="16-1">Bretagne Damm</proposition>
+        <proposition id="16-2">Digue aux Cygnes</proposition>
+        <proposition id="16-3">Wadrinau Deich</proposition>
+        <proposition id="16-4">Richelieu Deich</proposition>
+      </propositions>
+      <réponse proposition="16-1">Bretagne Damm</réponse>
+      <anecdote>Der Deich erstreckte sich etwa dreißig Kilometer von der Spitze des Château-Richeux bis zum kleinen Massiv von Saint-Broladre im Osten.</anecdote>
+    </contenu>
+    <contenu id="17">
+      <question>Für wie viele Tage im Jahr ist der Mont Saint-Michel von Wasser umgeben ?</question>
+      <propositions>
+        <proposition id="17-1">42 Tage</proposition>
+        <proposition id="17-2">53 Tage</proposition>
+        <proposition id="17-3">67 Tage</proposition>
+        <proposition id="17-4">79 Tage</proposition>
+      </propositions>
+      <réponse proposition="17-2">53 Tage</réponse>
+      <anecdote>Mont-Saint-Michel ist ein beeindruckendes Spektakel, das nicht von Wasser umgeben ist und erst bei Ebbe und Flut wieder zu einer Insel wird.</anecdote>
+    </contenu>
+    <contenu id="18">
+      <question>Welche Pflanze kommt hauptsächlich auf den Gräsern vor, die den Berg umgeben ?</question>
+      <propositions>
+        <proposition id="18-1">Sagine</proposition>
+        <proposition id="18-2">Sandelholz</proposition>
+        <proposition id="18-3">Salbei</proposition>
+        <proposition id="18-4">Salicornia</proposition>
+      </propositions>
+      <réponse proposition="18-4">Salicornia</réponse>
+      <anecdote>Salicornia sind einjährige, niedrige, fleischige Pflanzen, die auf Böden wachsen, die reich an Meersalz (Natriumchlorid) sind.</anecdote>
+    </contenu>
+    <contenu id="19">
+      <question>Welche Art des Fischens besteht darin, Netze an den Ufern aufzustellen und zu manövrieren ?</question>
+      <propositions>
+        <proposition id="19-1">Tieffischen</proposition>
+        <proposition id="19-2">Schleppnetzfischen</proposition>
+        <proposition id="19-3">Netzfischen</proposition>
+        <proposition id="19-4">Küstenfischen</proposition>
+      </propositions>
+      <réponse proposition="19-4">Küstenfischen</réponse>
+      <anecdote>Aufgrund der Fischereibedingungen sind Hochwasser für diese Aktivität mit einer hohen Population von Krebstieren sehr günstig.</anecdote>
+    </contenu>
+    <contenu id="20">
+      <question>Wie hoch über dem Ufer steht die Statue des Heiligen Michael ?</question>
+      <propositions>
+        <proposition id="20-1">150 Meter</proposition>
+        <proposition id="20-2">120 Meter</proposition>
+        <proposition id="20-3">180 Meter</proposition>
+        <proposition id="20-4">210 Meter</proposition>
+      </propositions>
+      <réponse proposition="20-1">150 Meter</réponse>
+      <anecdote>Hauptelement, die Abtei, ihre Nebengebäude und ihre Statue werden nach der Liste von 1862 als historische Denkmäler eingestuft.</anecdote>
+    </contenu>
+  </confirmé>
+  <expert>
+    <contenu id="21">
+      <question>Wer hat ein Album komponiert, das ganz den Legenden des Mont Saint-Michel gewidmet ist ?</question>
+      <propositions>
+        <proposition id="21-1">Grégoire Vallette</proposition>
+        <proposition id="21-2">Patrick Broguière</proposition>
+        <proposition id="21-3">Jérôme Wolff</proposition>
+        <proposition id="21-4">Manuel Dubigeon</proposition>
+      </propositions>
+      <réponse proposition="21-2">Patrick Broguière</réponse>
+      <anecdote>Das Album « Mont Saint-Michel », inspiriert von den Geschichten und Legenden des Mont Saint-Michel, enthält eine Broschüre mit 20 Farbseiten.</anecdote>
+    </contenu>
+    <contenu id="22">
+      <question>Durch welches Phänomen kann ein großer Teil der Bucht entdeckt werden ?</question>
+      <propositions>
+        <proposition id="22-1">Halocline</proposition>
+        <proposition id="22-2">Tourbillon</proposition>
+        <proposition id="22-3">Marnage</proposition>
+        <proposition id="22-4">Altimetrie</proposition>
+      </propositions>
+      <réponse proposition="22-3">Marnage</réponse>
+      <anecdote>Der Gezeitenbereich ist für einen bestimmten Tag der Unterschied in der Wasserhöhe zwischen dem Niveau der Hochsee und dem der Ebbe.</anecdote>
+    </contenu>
+    <contenu id="23">
+      <question>Welches Auto brachte einst Besucher zum Mont Saint-Michel ?</question>
+      <propositions>
+        <proposition id="23-1">Dressing</proposition>
+        <proposition id="23-2">Podoscaphe</proposition>
+        <proposition id="23-3">Maringotte</proposition>
+        <proposition id="23-4">Gyrobus</proposition>
+      </propositions>
+      <réponse proposition="23-3">Maringotte</réponse>
+      <anecdote>Die Maringotte ist eine Pferdekutsche mit zwei Rädern, die an Pinzettenfedern aufgehängt sind und bewegliche Bänke haben.</anecdote>
+    </contenu>
+    <contenu id="24">
+      <question>Welcher Architekt hat die seit 2014 verfügbaren neuen Zugangsstrukturen geschaffen ?</question>
+      <propositions>
+        <proposition id="24-1">Christopher Alexander</proposition>
+        <proposition id="24-2">Dietmar Feichtinger</proposition>
+        <proposition id="24-3">Artur Berger</proposition>
+        <proposition id="24-4">Richard Neutra</proposition>
+      </propositions>
+      <réponse proposition="24-2">Dietmar Feichtinger</réponse>
+      <anecdote>Die 2002 entwickelte Stelzenbrücke ist seit Juli 2014 für Fußgänger und seit Dezember 2014 für Shuttles geöffnet.</anecdote>
+    </contenu>
+    <contenu id="25">
+      <question>Wie viele Besucher fahren durchschnittlich täglich zum Mont Saint-Michel ?</question>
+      <propositions>
+        <proposition id="25-1">12.000</proposition>
+        <proposition id="25-2">15.000</proposition>
+        <proposition id="25-3">9.000</proposition>
+        <proposition id="25-4">6.000</proposition>
+      </propositions>
+      <réponse proposition="25-1">12.000</réponse>
+      <anecdote>Die Gipfel überschreiten mehr als 16.000 Besucher pro Tag, wobei der Aufstieg zur Abtei weniger dicht ist.</anecdote>
+    </contenu>
+    <contenu id="26">
+      <question>Welcher große Baumeister und Historiker war der sechzehnte Abt des Mont Saint-Michel ?</question>
+      <propositions>
+        <proposition id="26-1">Geoffroi Malaterra</proposition>
+        <proposition id="26-2">Bernat Desclot</proposition>
+        <proposition id="26-3">Gilbert de Mons</proposition>
+        <proposition id="26-4">Robert de Torigni</proposition>
+      </propositions>
+      <réponse proposition="26-4">Robert de Torigni</réponse>
+      <anecdote>Er wird dort wichtige Arbeiten ausführen, indem er die beiden westlichen Türme und das Gebäude (Hotel und Krankenstation) baut.</anecdote>
+    </contenu>
+    <contenu id="27">
+      <question>Welcher Gefangene des Mont Saint-Michel wurde als eingesperrt bezeichnet ?</question>
+      <propositions>
+        <proposition id="27-1">Jules Senard</proposition>
+        <proposition id="27-2">Antoine Fombertaux</proposition>
+        <proposition id="27-3">Joseph Sobrier</proposition>
+        <proposition id="27-4">Auguste Blanqui</proposition>
+      </propositions>
+      <réponse proposition="27-4">Auguste Blanqui</réponse>
+      <anecdote>Im Jahr 1880 veröffentlichte Auguste Blanqui die Zeitung « Ni Dieu ni maître », deren Titel zu einer Referenz für die anarchistische Bewegung geworden ist.</anecdote>
+    </contenu>
+    <contenu id="28">
+      <question>In welchem Mike Oldfied-Album ist einer der Titel, die dem Mont Saint-Michel gewidmet sind ?</question>
+      <propositions>
+        <proposition id="28-1">Discovery</proposition>
+        <proposition id="28-2">Amarok</proposition>
+        <proposition id="28-3">Crises</proposition>
+        <proposition id="28-4">Voyager</proposition>
+      </propositions>
+      <réponse proposition="28-4">Voyager</réponse>
+      <anecdote>Das Album enthält fünf Cover der traditionellen keltischen Sprache, ein Cover des Galiziers Luar na Lubre und vier Originalkompositionen.</anecdote>
+    </contenu>
+    <contenu id="29">
+      <question>In welchem Jahr repräsentierte eine 3-Franken-Briefmarke den Mont Saint-Michel ?</question>
+      <propositions>
+        <proposition id="29-1">1968</proposition>
+        <proposition id="29-2">1988</proposition>
+        <proposition id="29-3">1998</proposition>
+        <proposition id="29-4">1978</proposition>
+      </propositions>
+      <réponse proposition="29-3">1998</réponse>
+      <anecdote>1998 wird eine neue 3-Franken-Briefmarke mit ihrem mehrfarbigen Erscheinungsbild einstimmig zur schönsten Briefmarke des Jahres gewählt.</anecdote>
+    </contenu>
+    <contenu id="30">
+      <question>Welches Museum für Mont Saint-Michel-Manuskripte befindet sich in Avranches ?</question>
+      <propositions>
+        <proposition id="30-1">Bay House</proposition>
+        <proposition id="30-2">Richard-Anacréon</proposition>
+        <proposition id="30-3">Granit</proposition>
+        <proposition id="30-4">Skriptorial</proposition>
+      </propositions>
+      <réponse proposition="30-4">Skriptorial</réponse>
+      <anecdote>Das 2006 eröffnete Ziel ist es, die außergewöhnliche Sammlung von Manuskripten aus der ehemaligen Abtei des Berges zu präsentieren.</anecdote>
+    </contenu>
+  </expert>
+  </de>
+  <es>
+  <débutant>
+    <contenu id="1">
+      <question>¿El Mont Saint-Michel se encuentra al este de la desembocadura de qué río ?</question>
+      <propositions>
+        <proposition id="1-1">Rance</proposition>
+        <proposition id="1-2">Vire</proposition>
+        <proposition id="1-3">Herault</proposition>
+        <proposition id="1-4">Couesnon</proposition>
+      </propositions>
+      <réponse proposition="1-4">Couesnon</réponse>
+      <anecdote>El Couesnon es un pequeño río costero francés que atraviesa los tres departamentos de Ille-et-Vilaine, Manche y Mayenne.</anecdote>
+    </contenu>
+    <contenu id="2">
+      <question>¿A qué criatura abrahámica debe su nombre el monte Saint-Michel ?</question>
+      <propositions>
+        <proposition id="2-1">Leviatán</proposition>
+        <proposition id="2-2">Arcángel</proposition>
+        <proposition id="2-3">Gárgola</proposition>
+        <proposition id="2-4">Seraphim</proposition>
+      </propositions>
+      <réponse proposition="2-2">Arcángel</réponse>
+      <anecdote>Michel es uno de los siete arcángeles principales (con Gabriel y Raphael) de las religiones abrahámicas (judaísmo, cristianismo e islam).</anecdote>
+    </contenu>
+    <contenu id="3">
+      <question>¿Qué edificio es uno de los primeros lugares culturales visitados en Francia ?</question>
+      <propositions>
+        <proposition id="3-1">Iglesia</proposition>
+        <proposition id="3-2">Abbey</proposition>
+        <proposition id="3-3">Templo</proposition>
+        <proposition id="3-4">Monasterio</proposition>
+      </propositions>
+      <réponse proposition="3-2">Abbey</réponse>
+      <anecdote>En el siglo XII, los benedictinos de Mont-Saint-Michel habrían tenido una gran influencia en el desarrollo intelectual de Europa.</anecdote>
+    </contenu>
+    <contenu id="4">
+      <question>¿Qué personaje emblemático del Mont Saint-Michel cocina tortillas ?</question>
+      <propositions>
+        <proposition id="4-1">Madre Denis</proposition>
+        <proposition id="4-2">Madre Michel</proposition>
+        <proposition id="4-3">Madre Poulard</proposition>
+        <proposition id="4-4">Madre Maury</proposition>
+      </propositions>
+      <réponse proposition="4-3">Madre Poulard</réponse>
+      <anecdote>Anne Boutiaut, apodada Mère Poulard, fue una cocinera francesa nacida en Nevers y fallecida en 1931 en el Mont Saint-Michel.</anecdote>
+    </contenu>
+    <contenu id="5">
+      <question>¿Qué cordero es mejor para comer a la parrilla sobre fuego de leña ?</question>
+      <propositions>
+        <proposition id="5-1">De la pradera de sal</proposition>
+        <proposition id="5-2">Cheviot</proposition>
+        <proposition id="5-3">Lincoln</proposition>
+        <proposition id="5-4">Romanov</proposition>
+      </propositions>
+      <réponse proposition="5-1">De la pradera de sal</réponse>
+      <anecdote>La particularidad de esta carne es que se obtiene mediante la explotación de praderas de praderas saladas gracias al manejo pastoral de los rebaños.</anecdote>
+    </contenu>
+    <contenu id="6">
+      <question>¿Qué especialidad de soufflée del Mont Saint-Michel se cocina a fuego alto ?</question>
+      <propositions>
+        <proposition id="6-1">Galinette</proposition>
+        <proposition id="6-2">Maní</proposition>
+        <proposition id="6-3">Omelet</proposition>
+        <proposition id="6-4">Calabacín</proposition>
+      </propositions>
+      <réponse proposition="6-3">Omelet</réponse>
+      <anecdote>Madre Poulard desarrolló esta receta después de notar que los peregrinos llegaban hambrientos al Mont Saint-Michel.</anecdote>
+    </contenu>
+    <contenu id="7">
+      <question>¿Cuántos espacios de estacionamiento se han proporcionado en el nuevo estacionamiento ?</question>
+      <propositions>
+        <proposition id="7-1">2,000</proposition>
+        <proposition id="7-2">3,000</proposition>
+        <proposition id="7-3">1,000</proposition>
+        <proposition id="7-4">4000</proposition>
+      </propositions>
+      <réponse proposition="7-4">4000</réponse>
+      <anecdote>Construido al sur de la presa de Caserne en Couesnon, a 2.500 metros de la montaña, el aparcamiento tiene 45.000 árboles y arbustos.</anecdote>
+    </contenu>
+    <contenu id="8">
+      <question>¿Qué famosa novela de Dan Brown se refiere al Mont Saint-Michel ?</question>
+      <propositions>
+        <proposition id="8-1">Da Vinci Code</proposition>
+        <proposition id="8-2">Origine</proposition>
+        <proposition id="8-3">Anges et Démons</proposition>
+        <proposition id="8-4">Inferno</proposition>
+      </propositions>
+      <réponse proposition="8-1">Da Vinci Code</réponse>
+      <anecdote>Las tesis de la novela se inspiran en gran medida en « The Sacred Enigma », un ensayo publicado en 1982 por tres periodistas británicos.</anecdote>
+    </contenu>
+    <contenu id="9">
+      <question>¿Qué fenómeno se debe a que la bahía del monte es prácticamente plana ?</question>
+      <propositions>
+        <proposition id="9-1">Tormenta de arena</proposition>
+        <proposition id="9-2">Terraplén</proposition>
+        <proposition id="9-3">Suelo arcilloso</proposition>
+        <proposition id="9-4">Arenas movedizas</proposition>
+      </propositions>
+      <réponse proposition="9-4">Arenas movedizas</réponse>
+      <anecdote>Contrariamente a la creencia popular, un cuerpo atrapado en arenas movedizas no es succionado hacia el fondo, sino que también flota dos veces.</anecdote>
+    </contenu>
+    <contenu id="10">
+      <question>¿Qué concha del Mont Saint-Michel representa una cuarta parte de la producción francesa ?</question>
+      <propositions>
+        <proposition id="10-1">Almeja</proposition>
+        <proposition id="10-2">Praire</proposition>
+        <proposition id="10-3">Mejillón Bouchot</proposition>
+        <proposition id="10-4">Saint-Jacques</proposition>
+      </propositions>
+      <réponse proposition="10-3">Mejillón Bouchot</réponse>
+      <anecdote>En total, la producción anual de mejillones bouchot y ostras del Mont-Saint-Michel asciende a no menos de 25.</anecdote>
+    </contenu>
+  </débutant>
+  <confirmé>
+    <contenu id="11">
+      <question>¿Cuál es la circunferencia aproximada del islote rocoso de granito ?</question>
+      <propositions>
+        <proposition id="11-1">760 metros</proposition>
+        <proposition id="11-2">960 metros</proposition>
+        <proposition id="11-3">660 metros</proposition>
+        <proposition id="11-4">860 metros</proposition>
+      </propositions>
+      <réponse proposition="11-2">960 metros</réponse>
+      <anecdote>Mont Saint-Michel es un islote rocoso ubicado al este de la desembocadura del río Couesnon, en el Canal de la Mancha.</anecdote>
+    </contenu>
+    <contenu id="12">
+      <question>¿A quién debemos el thriller « Le Sang du temps » que tiene lugar en el Mont Saint-Michel ?</question>
+      <propositions>
+        <proposition id="12-1">René Charvin</proposition>
+        <proposition id="12-2">Antoine Chainas</proposition>
+        <proposition id="12-3">Maxime Chattam</proposition>
+        <proposition id="12-4">Bertrand Chéron</proposition>
+      </propositions>
+      <réponse proposition="12-3">Maxime Chattam</réponse>
+      <anecdote>« Le Sang du temps » es una novela policial escrita por Maxime Chattam, publicada en Francia por Michel Lafon ediciones en 2005.</anecdote>
+    </contenu>
+    <contenu id="13">
+      <question>¿Cómo se conocía el Mont Saint-Michel antes del año 709 ?</question>
+      <propositions>
+        <proposition id="13-1">Isla grande</proposition>
+        <proposition id="13-2">Isla Pelee</proposition>
+        <proposition id="13-3">Tombelaine</proposition>
+        <proposition id="13-4">Mount Tombe</proposition>
+      </propositions>
+      <réponse proposition="13-4">Mount Tombe</réponse>
+      <anecdote>El nuevo nombre completo, elegido por Carlomagno para proteger su imperio en el siglo IX, fue Mont-Saint-Michel-au-Péril-de-la-Mer.</anecdote>
+    </contenu>
+    <contenu id="14">
+      <question>¿Qué porcentaje de turistas del Mont Saint-Michel sube a la abadía ?</question>
+      <propositions>
+        <proposition id="14-1">55%</proposition>
+        <proposition id="14-2">33%</proposition>
+        <proposition id="14-3">44%</proposition>
+        <proposition id="14-4">22%</proposition>
+      </propositions>
+      <réponse proposition="14-2">33%</réponse>
+      <anecdote>Con un tiempo de visita de 3 horas, es entre las 11 a.m. y las 4 p.m. cuando la densidad de visitantes al sitio es más alta.</anecdote>
+    </contenu>
+    <contenu id="15">
+      <question>¿Qué película de Michael Bay se rodó parcialmente en el Mont Saint-Michel ?</question>
+      <propositions>
+        <proposition id="15-1">Six Underground</proposition>
+        <proposition id="15-2">Armageddon</proposition>
+        <proposition id="15-3">No Pain No Gain</proposition>
+        <proposition id="15-4">13 Hours</proposition>
+      </propositions>
+      <réponse proposition="15-2">Armageddon</réponse>
+      <anecdote>El mismo año (1998) se estrenó « Deep Impact », otra película con la misma trama, centrada en el lado humano.</anecdote>
+    </contenu>
+    <contenu id="16">
+      <question>¿Qué dique separaba la bahía del Mont Saint-Michel de las marismas de Dol ?</question>
+      <propositions>
+        <proposition id="16-1">Dique de Wadrinau</proposition>
+        <proposition id="16-2">Dique de Bretaña</proposition>
+        <proposition id="16-3">Digue aux Cygnes</proposition>
+        <proposition id="16-4">Richelieu dyke</proposition>
+      </propositions>
+      <réponse proposition="16-2">Dique de Bretaña</réponse>
+      <anecdote>El dique se extendía a lo largo de unos treinta kilómetros desde la punta de Château-Richeux hasta el pequeño macizo de Saint-Broladre al este.</anecdote>
+    </contenu>
+    <contenu id="17">
+      <question>¿Cuántos días al año está rodeado de agua el Mont Saint-Michel ?</question>
+      <propositions>
+        <proposition id="17-1">67 días</proposition>
+        <proposition id="17-2">53 días</proposition>
+        <proposition id="17-3">79 días</proposition>
+        <proposition id="17-4">42 días</proposition>
+      </propositions>
+      <réponse proposition="17-2">53 días</réponse>
+      <anecdote>Un espectáculo impresionante, el Mont-Saint-Michel no está rodeado de agua y se convierte de nuevo en una isla solo en las mareas altas del equinoccio.</anecdote>
+    </contenu>
+    <contenu id="18">
+      <question>¿Qué planta se encuentra principalmente en los pastos que rodean el monte ?</question>
+      <propositions>
+        <proposition id="18-1">Sagine</proposition>
+        <proposition id="18-2">Sage</proposition>
+        <proposition id="18-3">Sándalo</proposition>
+        <proposition id="18-4">Salicornia</proposition>
+      </propositions>
+      <réponse proposition="18-4">Salicornia</réponse>
+      <anecdote>Las salicornias son anuales, bajas, carnosas, que crecen en suelos ricos en sal marina (cloruro de sodio).</anecdote>
+    </contenu>
+    <contenu id="19">
+      <question>¿Qué tipo de pesca consiste en poner redes en las orillas y maniobrarlas ?</question>
+      <propositions>
+        <proposition id="19-1">Pesca con red</proposition>
+        <proposition id="19-2">Pesca de altura</proposition>
+        <proposition id="19-3">Pesca de orilla</proposition>
+        <proposition id="19-4">Pesca de arrastre</proposition>
+      </propositions>
+      <réponse proposition="19-3">Pesca de orilla</réponse>
+      <anecdote>Debido a las condiciones de pesca, las mareas altas son muy favorables para esta actividad, con una alta población de crustáceos.</anecdote>
+    </contenu>
+    <contenu id="20">
+      <question>¿A qué altura de la orilla está la estatua de San Miguel ?</question>
+      <propositions>
+        <proposition id="20-1">120 metros</proposition>
+        <proposition id="20-2">210 metros</proposition>
+        <proposition id="20-3">150 metros</proposition>
+        <proposition id="20-4">180 metros</proposition>
+      </propositions>
+      <réponse proposition="20-3">150 metros</réponse>
+      <anecdote>Elemento principal, la abadía, sus dependencias y su estatua están clasificados como monumentos históricos por la lista de 1862.</anecdote>
+    </contenu>
+  </confirmé>
+  <expert>
+    <contenu id="21">
+      <question>¿Quién compuso un álbum completamente dedicado a las leyendas del Mont Saint-Michel ?</question>
+      <propositions>
+        <proposition id="21-1">Jérôme Wolff</proposition>
+        <proposition id="21-2">Manuel Dubigeon</proposition>
+        <proposition id="21-3">Grégoire Vallette</proposition>
+        <proposition id="21-4">Patrick Broguière</proposition>
+      </propositions>
+      <réponse proposition="21-4">Patrick Broguière</réponse>
+      <anecdote>El álbum « Mont Saint-Michel », inspirado en los cuentos y leyendas del Mont Saint-Michel, incluye un folleto de 20 páginas en color.</anecdote>
+    </contenu>
+    <contenu id="22">
+      <question>¿Qué fenómeno permite descubrir gran parte de la bahía ?</question>
+      <propositions>
+        <proposition id="22-1">Tourbillon</proposition>
+        <proposition id="22-2">Altimetría</proposition>
+        <proposition id="22-3">Marnage</proposition>
+        <proposition id="22-4">Halocline</proposition>
+      </propositions>
+      <réponse proposition="22-3">Marnage</réponse>
+      <anecdote>La amplitud de la marea es, para un día determinado, la diferencia en la altura del agua entre el nivel de la marea alta y el de la marea baja.</anecdote>
+    </contenu>
+    <contenu id="23">
+      <question>¿Qué coche transportó una vez a los visitantes al Mont Saint-Michel ?</question>
+      <propositions>
+        <proposition id="23-1">Vestirse</proposition>
+        <proposition id="23-2">Gyrobus</proposition>
+        <proposition id="23-3">Maringotte</proposition>
+        <proposition id="23-4">Podoscaphe</proposition>
+      </propositions>
+      <réponse proposition="23-3">Maringotte</réponse>
+      <anecdote>El maringotte es un carruaje tirado por caballos con dos ruedas, suspendido sobre resortes de pinzas, con bancos móviles.</anecdote>
+    </contenu>
+    <contenu id="24">
+      <question>¿Qué arquitecto creó las nuevas estructuras de acceso disponibles desde 2014 ?</question>
+      <propositions>
+        <proposition id="24-1">Dietmar Feichtinger</proposition>
+        <proposition id="24-2">Artur Berger</proposition>
+        <proposition id="24-3">Richard Neutra</proposition>
+        <proposition id="24-4">Christopher Alexander</proposition>
+      </propositions>
+      <réponse proposition="24-1">Dietmar Feichtinger</réponse>
+      <anecdote>El puente sobre pilotes, desarrollado en 2002, está abierto a los peatones desde julio de 2014 y a las lanzaderas desde diciembre de 2014.</anecdote>
+    </contenu>
+    <contenu id="25">
+      <question>¿Cuántos visitantes van de media al Mont Saint-Michel cada día ?</question>
+      <propositions>
+        <proposition id="25-1">9,000</proposition>
+        <proposition id="25-2">6,000</proposition>
+        <proposition id="25-3">15.000</proposition>
+        <proposition id="25-4">12,000</proposition>
+      </propositions>
+      <réponse proposition="25-4">12,000</réponse>
+      <anecdote>Los picos superan los 16.000 visitantes por día, con un caudal menos denso como el ascenso hacia la abadía.</anecdote>
+    </contenu>
+    <contenu id="26">
+      <question>¿Qué gran constructor e historiador fue el decimosexto abad del Mont Saint-Michel ?</question>
+      <propositions>
+        <proposition id="26-1">Robert de Torigni</proposition>
+        <proposition id="26-2">Bernat Desclot</proposition>
+        <proposition id="26-3">Gilbert de Mons</proposition>
+        <proposition id="26-4">Geoffroi Malaterra</proposition>
+      </propositions>
+      <réponse proposition="26-1">Robert de Torigni</réponse>
+      <anecdote>Allí realizará importantes obras mediante la construcción de las dos torres occidentales y el edificio (hotel y enfermería).</anecdote>
+    </contenu>
+    <contenu id="27">
+      <question>¿A qué prisionero del Mont Saint-Michel se le apodó el Encerrado ?</question>
+      <propositions>
+        <proposition id="27-1">Antoine Fombertaux</proposition>
+        <proposition id="27-2">Auguste Blanqui</proposition>
+        <proposition id="27-3">Joseph Sobrier</proposition>
+        <proposition id="27-4">Jules Senard</proposition>
+      </propositions>
+      <réponse proposition="27-2">Auguste Blanqui</réponse>
+      <anecdote>En 1880 Auguste Blanqui publicó el periódico « Ni Dieu ni maître », cuyo título se ha convertido en una referencia para el movimiento anarquista.</anecdote>
+    </contenu>
+    <contenu id="28">
+      <question>¿En qué álbum de Mike Oldfied es uno de los temas dedicados al Mont Saint-Michel ?</question>
+      <propositions>
+        <proposition id="28-1">Amarok</proposition>
+        <proposition id="28-2">Voyager</proposition>
+        <proposition id="28-3">Crises</proposition>
+        <proposition id="28-4">Discovery</proposition>
+      </propositions>
+      <réponse proposition="28-2">Voyager</réponse>
+      <anecdote>El álbum contiene cinco portadas de celta tradicional, una portada de Luar na Lubre gallego y cuatro composiciones originales.</anecdote>
+    </contenu>
+    <contenu id="29">
+      <question>¿En qué año representaba un sello de 3 francos franceses al Mont Saint-Michel ?</question>
+      <propositions>
+        <proposition id="29-1">1998</proposition>
+        <proposition id="29-2">1968</proposition>
+        <proposition id="29-3">1978</proposition>
+        <proposition id="29-4">1988</proposition>
+      </propositions>
+      <réponse proposition="29-1">1998</réponse>
+      <anecdote>En 1998, un nuevo sello de 3 francos franceses, con su apariencia multicolor, será votado por unanimidad como el sello más hermoso del año.</anecdote>
+    </contenu>
+    <contenu id="30">
+      <question>¿Qué museo de manuscritos del Mont Saint-Michel se encuentra en Avranches ?</question>
+      <propositions>
+        <proposition id="30-1">Granito</proposition>
+        <proposition id="30-2">Bay House</proposition>
+        <proposition id="30-3">Richard-Anacréon</proposition>
+        <proposition id="30-4">Scriptorial</proposition>
+      </propositions>
+      <réponse proposition="30-4">Scriptorial</réponse>
+      <anecdote>Inaugurado en 2006, su objetivo es mostrar la excepcional colección de manuscritos de la antigua abadía del monte.</anecdote>
+    </contenu>
+  </expert>
+  </es>
+  <it>
+  <débutant>
+    <contenu id="1">
+      <question>Mont Saint-Michel si trova a est della foce di quale fiume ?</question>
+      <propositions>
+        <proposition id="1-1">Rance</proposition>
+        <proposition id="1-2">Vire</proposition>
+        <proposition id="1-3">Herault</proposition>
+        <proposition id="1-4">Couesnon</proposition>
+      </propositions>
+      <réponse proposition="1-4">Couesnon</réponse>
+      <anecdote>Il Couesnon è un piccolo fiume costiero francese che scorre attraverso i tre dipartimenti di Ille-et-Vilaine, Manche e Mayenne.</anecdote>
+    </contenu>
+    <contenu id="2">
+      <question>A quale creatura abramitica Mont Saint-Michel deve il suo nome ?</question>
+      <propositions>
+        <proposition id="2-1">Arcangelo</proposition>
+        <proposition id="2-2">Gargoyle</proposition>
+        <proposition id="2-3">Leviatano</proposition>
+        <proposition id="2-4">Serafini</proposition>
+      </propositions>
+      <réponse proposition="2-1">Arcangelo</réponse>
+      <anecdote>Michel è uno dei sette arcangeli maggiori (con Gabriel e Raphael) delle religioni abramitiche (ebraismo, cristianesimo e islam).</anecdote>
+    </contenu>
+    <contenu id="3">
+      <question>Quale edificio è uno dei primi siti culturali visitati in Francia ?</question>
+      <propositions>
+        <proposition id="3-1">Abbey</proposition>
+        <proposition id="3-2">Tempio</proposition>
+        <proposition id="3-3">Monastero</proposition>
+        <proposition id="3-4">Chiesa</proposition>
+      </propositions>
+      <réponse proposition="3-1">Abbey</réponse>
+      <anecdote>Nel 12 ° secolo, i benedettini di Mont-Saint-Michel avrebbero avuto una grande influenza sullo sviluppo intellettuale dell'Europa.</anecdote>
+    </contenu>
+    <contenu id="4">
+      <question>Quale personaggio emblematico di Mont Saint-Michel cucina le omelette ?</question>
+      <propositions>
+        <proposition id="4-1">Madre Michel</proposition>
+        <proposition id="4-2">Madre Poulard</proposition>
+        <proposition id="4-3">Madre Denis</proposition>
+        <proposition id="4-4">Madre Maury</proposition>
+      </propositions>
+      <réponse proposition="4-2">Madre Poulard</réponse>
+      <anecdote>Anne Boutiaut, soprannominata Madre Poulard, era una cuoca francese nata a Nevers e morta nel 1931 a Mont Saint-Michel.</anecdote>
+    </contenu>
+    <contenu id="5">
+      <question>Qual è l'agnello migliore da mangiare grigliato sul fuoco di legna ?</question>
+      <propositions>
+        <proposition id="5-1">Romanov</proposition>
+        <proposition id="5-2">Dal prato salato</proposition>
+        <proposition id="5-3">Lincoln</proposition>
+        <proposition id="5-4">Cheviot</proposition>
+      </propositions>
+      <réponse proposition="5-2">Dal prato salato</réponse>
+      <anecdote>La particolarità di questa carne è che è ottenuta dallo sfruttamento dei pascoli di prati salati grazie alla gestione pastorale delle mandrie.</anecdote>
+    </contenu>
+    <contenu id="6">
+      <question>Quale specialità di soufflée di Mont Saint-Michel viene cucinata a fuoco vivo ?</question>
+      <propositions>
+        <proposition id="6-1">Arachidi</proposition>
+        <proposition id="6-2">Zucchine</proposition>
+        <proposition id="6-3">Omelette</proposition>
+        <proposition id="6-4">Galinette</proposition>
+      </propositions>
+      <réponse proposition="6-3">Omelette</réponse>
+      <anecdote>Madre Poulard ha sviluppato questa ricetta dopo aver notato che i pellegrini arrivavano affamati a Mont Saint-Michel.</anecdote>
+    </contenu>
+    <contenu id="7">
+      <question>Quanti posti auto sono stati previsti nel nuovo parcheggio ?</question>
+      <propositions>
+        <proposition id="7-1">4000</proposition>
+        <proposition id="7-2">1.000</proposition>
+        <proposition id="7-3">3.000</proposition>
+        <proposition id="7-4">2.000</proposition>
+      </propositions>
+      <réponse proposition="7-1">4000</réponse>
+      <anecdote>Costruito a sud della diga di Caserne sul Couesnon, a 2.500 metri dalla montagna, il parcheggio dispone di 45.000 alberi e arbusti.</anecdote>
+    </contenu>
+    <contenu id="8">
+      <question>Quale famoso romanzo di Dan Brown si riferisce a Mont Saint-Michel ?</question>
+      <propositions>
+        <proposition id="8-1">Origine</proposition>
+        <proposition id="8-2">Inferno</proposition>
+        <proposition id="8-3">Anges et Démons</proposition>
+        <proposition id="8-4">Da Vinci Code</proposition>
+      </propositions>
+      <réponse proposition="8-4">Da Vinci Code</réponse>
+      <anecdote>Le tesi del romanzo sono in gran parte ispirate a « The Sacred Enigma », un saggio pubblicato nel 1982 da tre giornalisti britannici.</anecdote>
+    </contenu>
+    <contenu id="9">
+      <question>Quale fenomeno è dovuto al fatto che la baia del monte è praticamente piatta ?</question>
+      <propositions>
+        <proposition id="9-1">Sabbie mobili</proposition>
+        <proposition id="9-2">Tempesta di sabbia</proposition>
+        <proposition id="9-3">Terreno argilloso</proposition>
+        <proposition id="9-4">Argine</proposition>
+      </propositions>
+      <réponse proposition="9-1">Sabbie mobili</réponse>
+      <anecdote>Contrariamente alla credenza popolare, un corpo catturato nelle sabbie mobili non viene risucchiato nel fondo ma galleggia anche due volte.</anecdote>
+    </contenu>
+    <contenu id="10">
+      <question>Quale conchiglia di Mont Saint-Michel rappresenta un quarto della produzione francese ?</question>
+      <propositions>
+        <proposition id="10-1">Saint-Jacques</proposition>
+        <proposition id="10-2">Clam</proposition>
+        <proposition id="10-3">Praire</proposition>
+        <proposition id="10-4">Cozza bouchot</proposition>
+      </propositions>
+      <réponse proposition="10-4">Cozza bouchot</réponse>
+      <anecdote>In totale, la produzione annuale di cozze bouchot e ostriche di Mont-Saint-Michel ammonta a non meno di 25.</anecdote>
+    </contenu>
+  </débutant>
+  <confirmé>
+    <contenu id="11">
+      <question>Qual è la circonferenza approssimativa dell'isola di roccia granitica ?</question>
+      <propositions>
+        <proposition id="11-1">860 metri</proposition>
+        <proposition id="11-2">960 metri</proposition>
+        <proposition id="11-3">760 metri</proposition>
+        <proposition id="11-4">660 metri</proposition>
+      </propositions>
+      <réponse proposition="11-2">960 metri</réponse>
+      <anecdote>Mont Saint-Michel è un isolotto roccioso situato a est della foce del fiume Couesnon, nel Canale della Manica.</anecdote>
+    </contenu>
+    <contenu id="12">
+      <question>A chi dobbiamo il thriller « Le Sang du temps » ambientato a Mont Saint-Michel ?</question>
+      <propositions>
+        <proposition id="12-1">Bertrand Chéron</proposition>
+        <proposition id="12-2">Antoine Chainas</proposition>
+        <proposition id="12-3">René Charvin</proposition>
+        <proposition id="12-4">Maxime Chattam</proposition>
+      </propositions>
+      <réponse proposition="12-4">Maxime Chattam</réponse>
+      <anecdote>« Le Sang du temps » è un romanzo poliziesco scritto da Maxime Chattam, pubblicato in Francia da Michel Lafon edizioni nel 2005.</anecdote>
+    </contenu>
+    <contenu id="13">
+      <question>Come si conosceva Mont Saint-Michel prima dell'anno 709 ?</question>
+      <propositions>
+        <proposition id="13-1">Monte Tombe</proposition>
+        <proposition id="13-2">Tombelaine</proposition>
+        <proposition id="13-3">Grande isola</proposition>
+        <proposition id="13-4">Isola di Pelée</proposition>
+      </propositions>
+      <réponse proposition="13-1">Monte Tombe</réponse>
+      <anecdote>Il nuovo nome completo, scelto da Carlo Magno per proteggere il suo impero nel IX secolo, era Mont-Saint-Michel-au-Péril-de-la-Mer.</anecdote>
+    </contenu>
+    <contenu id="14">
+      <question>Quale percentuale di turisti da Mont Saint-Michel sale all'abbazia ?</question>
+      <propositions>
+        <proposition id="14-1">44%</proposition>
+        <proposition id="14-2">33%</proposition>
+        <proposition id="14-3">55%</proposition>
+        <proposition id="14-4">22%</proposition>
+      </propositions>
+      <réponse proposition="14-2">33%</réponse>
+      <anecdote>Con un tempo di visita di 3 ore, è tra le 11:00 e le 16:00 che la densità di visitatori del sito è più alta.</anecdote>
+    </contenu>
+    <contenu id="15">
+      <question>Quale film di Michael Bay è stato girato parzialmente a Mont Saint-Michel ?</question>
+      <propositions>
+        <proposition id="15-1">No Pain No Gain</proposition>
+        <proposition id="15-2">Six Underground</proposition>
+        <proposition id="15-3">Armageddon</proposition>
+        <proposition id="15-4">13 Hours</proposition>
+      </propositions>
+      <réponse proposition="15-3">Armageddon</réponse>
+      <anecdote>Lo stesso anno (1998) è uscito « Deep Impact », un altro film con la stessa trama, incentrato sul lato umano.</anecdote>
+    </contenu>
+    <contenu id="16">
+      <question>Quale diga separava la baia di Mont Saint-Michel dalle paludi di Dol ?</question>
+      <propositions>
+        <proposition id="16-1">Digue aux Cygnes</proposition>
+        <proposition id="16-2">Richelieu dyke</proposition>
+        <proposition id="16-3">Diga Wadrinau</proposition>
+        <proposition id="16-4">Brittany diga</proposition>
+      </propositions>
+      <réponse proposition="16-4">Brittany diga</réponse>
+      <anecdote>La diga si estendeva per una trentina di chilometri dalla punta di Château-Richeux al piccolo massiccio di Saint-Broladre a est.</anecdote>
+    </contenu>
+    <contenu id="17">
+      <question>Per quanti giorni all'anno Mont Saint-Michel è circondato dall'acqua ?</question>
+      <propositions>
+        <proposition id="17-1">67 giorni</proposition>
+        <proposition id="17-2">79 giorni</proposition>
+        <proposition id="17-3">42 giorni</proposition>
+        <proposition id="17-4">53 giorni</proposition>
+      </propositions>
+      <réponse proposition="17-4">53 giorni</réponse>
+      <anecdote>Uno spettacolo impressionante, Mont-Saint-Michel è circondato dall'acqua e diventa un'isola solo con le alte maree dell'equinozio.</anecdote>
+    </contenu>
+    <contenu id="18">
+      <question>Quale pianta si trova principalmente sulle erbe che circondano il monte ?</question>
+      <propositions>
+        <proposition id="18-1">Sage</proposition>
+        <proposition id="18-2">Sagine</proposition>
+        <proposition id="18-3">Sandalo</proposition>
+        <proposition id="18-4">Salicornia</proposition>
+      </propositions>
+      <réponse proposition="18-4">Salicornia</réponse>
+      <anecdote>Le salicornie sono annuali, basse, carnose, che crescono su suoli ricchi di sale marino (cloruro di sodio).</anecdote>
+    </contenu>
+    <contenu id="19">
+      <question>Che tipo di pesca consiste nel posare le reti sulle rive e nel manovrarle ?</question>
+      <propositions>
+        <proposition id="19-1">Rete da pesca</proposition>
+        <proposition id="19-2">Pesca profonda</proposition>
+        <proposition id="19-3">Pesca da riva</proposition>
+        <proposition id="19-4">Pesca a strascico</proposition>
+      </propositions>
+      <réponse proposition="19-3">Pesca da riva</réponse>
+      <anecdote>A causa delle condizioni di pesca, le alte maree sono molto favorevoli a questa attività, con un'elevata popolazione di crostacei.</anecdote>
+    </contenu>
+    <contenu id="20">
+      <question>Quanto è alta sopra la riva la statua di San Michele ?</question>
+      <propositions>
+        <proposition id="20-1">210 metri</proposition>
+        <proposition id="20-2">150 metri</proposition>
+        <proposition id="20-3">120 metri</proposition>
+        <proposition id="20-4">180 metri</proposition>
+      </propositions>
+      <réponse proposition="20-2">150 metri</réponse>
+      <anecdote>Elemento principale, l'abbazia, i suoi annessi e la sua statua sono classificati come monumenti storici dalla lista del 1862.</anecdote>
+    </contenu>
+  </confirmé>
+  <expert>
+    <contenu id="21">
+      <question>Chi ha composto un album interamente dedicato alle leggende di Mont Saint-Michel ?</question>
+      <propositions>
+        <proposition id="21-1">Jérôme Wolff</proposition>
+        <proposition id="21-2">Manuel Dubigeon</proposition>
+        <proposition id="21-3">Patrick Broguière</proposition>
+        <proposition id="21-4">Grégoire Vallette</proposition>
+      </propositions>
+      <réponse proposition="21-3">Patrick Broguière</réponse>
+      <anecdote>L'album « Mont Saint-Michel », ispirato ai racconti e alle leggende di Mont Saint-Michel, include un libretto di 20 pagine a colori.</anecdote>
+    </contenu>
+    <contenu id="22">
+      <question>Quale fenomeno permette di scoprire gran parte della baia ?</question>
+      <propositions>
+        <proposition id="22-1">Marnage</proposition>
+        <proposition id="22-2">Altimetria</proposition>
+        <proposition id="22-3">Halocline</proposition>
+        <proposition id="22-4">Tourbillon</proposition>
+      </propositions>
+      <réponse proposition="22-1">Marnage</réponse>
+      <anecdote>L'escursione di marea è, per un dato giorno, la differenza di altezza dell'acqua tra il livello del mare alto e quello della bassa marea.</anecdote>
+    </contenu>
+    <contenu id="23">
+      <question>Quale macchina una volta trasportava i visitatori a Mont Saint-Michel ?</question>
+      <propositions>
+        <proposition id="23-1">Gyrobus</proposition>
+        <proposition id="23-2">Podoscaphe</proposition>
+        <proposition id="23-3">Maringotte</proposition>
+        <proposition id="23-4">Vestirsi</proposition>
+      </propositions>
+      <réponse proposition="23-3">Maringotte</réponse>
+      <anecdote>La maringotte è una carrozza trainata da cavalli a due ruote, sospesa su molle a pinzetta, con panche mobili.</anecdote>
+    </contenu>
+    <contenu id="24">
+      <question>Quale architetto ha realizzato le nuove strutture di accesso disponibili dal 2014 ?</question>
+      <propositions>
+        <proposition id="24-1">Christopher Alexander</proposition>
+        <proposition id="24-2">Artur Berger</proposition>
+        <proposition id="24-3">Richard Neutra</proposition>
+        <proposition id="24-4">Dietmar Feichtinger</proposition>
+      </propositions>
+      <réponse proposition="24-4">Dietmar Feichtinger</réponse>
+      <anecdote>Il ponte su palafitte, realizzato nel 2002, è aperto ai pedoni da luglio 2014 e alle navette da dicembre 2014.</anecdote>
+    </contenu>
+    <contenu id="25">
+      <question>Quanti visitatori si recano in media a Mont Saint-Michel ogni giorno ?</question>
+      <propositions>
+        <proposition id="25-1">6.000</proposition>
+        <proposition id="25-2">15.000</proposition>
+        <proposition id="25-3">12.000</proposition>
+        <proposition id="25-4">9.000</proposition>
+      </propositions>
+      <réponse proposition="25-3">12.000</réponse>
+      <anecdote>Le vette superano i 16.000 visitatori al giorno, con un flusso meno denso come la salita verso l'abbazia.</anecdote>
+    </contenu>
+    <contenu id="26">
+      <question>Quale grande costruttore e storico era il sedicesimo abate di Mont Saint-Michel ?</question>
+      <propositions>
+        <proposition id="26-1">Gilbert de Mons</proposition>
+        <proposition id="26-2">Bernat Desclot</proposition>
+        <proposition id="26-3">Geoffroi Malaterra</proposition>
+        <proposition id="26-4">Robert de Torigni</proposition>
+      </propositions>
+      <réponse proposition="26-4">Robert de Torigni</réponse>
+      <anecdote>Vi realizzerà importanti lavori costruendo le due torri occidentali e l'edificio (albergo e infermeria).</anecdote>
+    </contenu>
+    <contenu id="27">
+      <question>Quale prigioniero di Mont Saint-Michel è stato soprannominato il rinchiuso ?</question>
+      <propositions>
+        <proposition id="27-1">Joseph Sobrier</proposition>
+        <proposition id="27-2">Auguste Blanqui</proposition>
+        <proposition id="27-3">Jules Senard</proposition>
+        <proposition id="27-4">Antoine Fombertaux</proposition>
+      </propositions>
+      <réponse proposition="27-2">Auguste Blanqui</réponse>
+      <anecdote>Nel 1880 Auguste Blanqui pubblica il quotidiano « Ni Dieu ni maître », il cui titolo è diventato un riferimento per il movimento anarchico.</anecdote>
+    </contenu>
+    <contenu id="28">
+      <question>In quale album di Mike Oldfied si trova uno dei brani dedicati a Mont Saint-Michel ?</question>
+      <propositions>
+        <proposition id="28-1">Crises</proposition>
+        <proposition id="28-2">Voyager</proposition>
+        <proposition id="28-3">Discovery</proposition>
+        <proposition id="28-4">Amarok</proposition>
+      </propositions>
+      <réponse proposition="28-2">Voyager</réponse>
+      <anecdote>L'album contiene cinque cover della tradizione celtica, una cover del galiziano Luar na Lubre e quattro composizioni originali.</anecdote>
+    </contenu>
+    <contenu id="29">
+      <question>In che anno un francobollo da 3 franchi francesi rappresentava Mont Saint-Michel ?</question>
+      <propositions>
+        <proposition id="29-1">1988</proposition>
+        <proposition id="29-2">1998</proposition>
+        <proposition id="29-3">1978</proposition>
+        <proposition id="29-4">1968</proposition>
+      </propositions>
+      <réponse proposition="29-2">1998</réponse>
+      <anecdote>Nel 1998, un nuovo francobollo da 3 franchi francesi, dall'aspetto multicolore, sarà votato all'unanimità il francobollo più bello dell'anno.</anecdote>
+    </contenu>
+    <contenu id="30">
+      <question>Quale museo dei manoscritti di Mont Saint-Michel si trova ad Avranches ?</question>
+      <propositions>
+        <proposition id="30-1">Scriptorial</proposition>
+        <proposition id="30-2">Richard-Anacréon</proposition>
+        <proposition id="30-3">Bay House</proposition>
+        <proposition id="30-4">Granito</proposition>
+      </propositions>
+      <réponse proposition="30-1">Scriptorial</réponse>
+      <anecdote>Inaugurato nel 2006, il suo obiettivo è quello di mostrare l'eccezionale collezione di manoscritti dell'ex abbazia del Monte.</anecdote>
+    </contenu>
+  </expert>
+  </it>
+  <nl>
+  <débutant>
+    <contenu id="1">
+      <question>Mont Saint-Michel ligt ten oosten van de monding van welke rivier ?</question>
+      <propositions>
+        <proposition id="1-1">Herault</proposition>
+        <proposition id="1-2">Vire</proposition>
+        <proposition id="1-3">Rance</proposition>
+        <proposition id="1-4">Couesnon</proposition>
+      </propositions>
+      <réponse proposition="1-4">Couesnon</réponse>
+      <anecdote>De Couesnon is een kleine Franse kustrivier die door de drie departementen Ille-et-Vilaine, Manche en Mayenne stroomt.</anecdote>
+    </contenu>
+    <contenu id="2">
+      <question>Aan welk Abrahamitisch wezen dankt Mont Saint-Michel zijn naam ?</question>
+      <propositions>
+        <proposition id="2-1">Leviathan</proposition>
+        <proposition id="2-2">Serafijnen</proposition>
+        <proposition id="2-3">Aartsengel</proposition>
+        <proposition id="2-4">Waterspuwer</proposition>
+      </propositions>
+      <réponse proposition="2-3">Aartsengel</réponse>
+      <anecdote>Michel is een van de zeven belangrijkste aartsengelen (met Gabriël en Raphael) van de Abrahamitische religies (jodendom, christendom en islam).</anecdote>
+    </contenu>
+    <contenu id="3">
+      <question>Welk gebouw is een van de eerste culturele bezienswaardigheden die in Frankrijk wordt bezocht ?</question>
+      <propositions>
+        <proposition id="3-1">Klooster</proposition>
+        <proposition id="3-2">Kerk</proposition>
+        <proposition id="3-3">Tempel</proposition>
+        <proposition id="3-4">Abdij</proposition>
+      </propositions>
+      <réponse proposition="3-4">Abdij</réponse>
+      <anecdote>In de 12e eeuw zouden de benedictijnen van Mont-Saint-Michel een grote invloed hebben gehad op de intellectuele ontwikkeling van Europa.</anecdote>
+    </contenu>
+    <contenu id="4">
+      <question>Welk karakter van de Mont Saint-Michel kookt omeletten ?</question>
+      <propositions>
+        <proposition id="4-1">Moeder Denis</proposition>
+        <proposition id="4-2">Moeder Michel</proposition>
+        <proposition id="4-3">Moeder Maury</proposition>
+        <proposition id="4-4">Moeder Poulard</proposition>
+      </propositions>
+      <réponse proposition="4-4">Moeder Poulard</réponse>
+      <anecdote>Anne Boutiaut, bijgenaamd Mère Poulard, was een Franse kokkin geboren in Nevers en stierf in 1931 op Mont Saint-Michel.</anecdote>
+    </contenu>
+    <contenu id="5">
+      <question>Welk lam eet je het beste gegrild boven een houtvuur ?</question>
+      <propositions>
+        <proposition id="5-1">Lincoln</proposition>
+        <proposition id="5-2">Romanov</proposition>
+        <proposition id="5-3">Cheviot</proposition>
+        <proposition id="5-4">Van kwelder</proposition>
+      </propositions>
+      <réponse proposition="5-4">Van kwelder</réponse>
+      <anecdote>Het bijzondere van dit vlees is dat het wordt verkregen door de graslandexploitatie van gezouten weiden dankzij het pastorale beheer van kuddes.</anecdote>
+    </contenu>
+    <contenu id="6">
+      <question>Welke souffléspecialiteit van de Mont Saint-Michel wordt op hoog vuur bereid ?</question>
+      <propositions>
+        <proposition id="6-1">Omelet</proposition>
+        <proposition id="6-2">Courgette</proposition>
+        <proposition id="6-3">Pinda</proposition>
+        <proposition id="6-4">Galinette</proposition>
+      </propositions>
+      <réponse proposition="6-1">Omelet</réponse>
+      <anecdote>Moeder Poulard ontwikkelde dit recept nadat ze had opgemerkt dat pelgrims hongerig aankwamen op de Mont Saint-Michel.</anecdote>
+    </contenu>
+    <contenu id="7">
+      <question>Hoeveel parkeerplaatsen zijn er voorzien op de nieuwe parkeerplaats ?</question>
+      <propositions>
+        <proposition id="7-1">4000</proposition>
+        <proposition id="7-2">1.000</proposition>
+        <proposition id="7-3">3.000</proposition>
+        <proposition id="7-4">2000</proposition>
+      </propositions>
+      <réponse proposition="7-1">4000</réponse>
+      <anecdote>Gebouwd ten zuiden van de Caserne-dam op de Couesnon, 2.500 meter van de berg, heeft de parkeerplaats 45.000 bomen en struiken.</anecdote>
+    </contenu>
+    <contenu id="8">
+      <question>Welke beroemde roman van Dan Brown verwijst naar Mont Saint-Michel ?</question>
+      <propositions>
+        <proposition id="8-1">Inferno</proposition>
+        <proposition id="8-2">Anges et Démons</proposition>
+        <proposition id="8-3">Origine</proposition>
+        <proposition id="8-4">Da Vinci Code</proposition>
+      </propositions>
+      <réponse proposition="8-4">Da Vinci Code</réponse>
+      <anecdote>De scripties van de roman zijn grotendeels geïnspireerd op « The Sacred Enigma », een essay dat in 1982 werd gepubliceerd door drie Britse journalisten.</anecdote>
+    </contenu>
+    <contenu id="9">
+      <question>Welk fenomeen is te wijten aan het feit dat de baai van de houder praktisch vlak is ?</question>
+      <propositions>
+        <proposition id="9-1">Zandstorm</proposition>
+        <proposition id="9-2">Drijfzand</proposition>
+        <proposition id="9-3">Kleigrond</proposition>
+        <proposition id="9-4">Dijk</proposition>
+      </propositions>
+      <réponse proposition="9-2">Drijfzand</réponse>
+      <anecdote>In tegenstelling tot wat vaak wordt gedacht, wordt een lichaam dat in drijfzand wordt gevangen, niet naar de bodem gezogen, maar drijft het ook twee keer.</anecdote>
+    </contenu>
+    <contenu id="10">
+      <question>Welke schelp van Mont Saint-Michel vertegenwoordigt een kwart van de Franse productie ?</question>
+      <propositions>
+        <proposition id="10-1">Praire</proposition>
+        <proposition id="10-2">Clam</proposition>
+        <proposition id="10-3">Bouchot-mossel</proposition>
+        <proposition id="10-4">Saint-Jacques</proposition>
+      </propositions>
+      <réponse proposition="10-3">Bouchot-mossel</réponse>
+      <anecdote>In totaal bedraagt \u200b\u200bde jaarlijkse productie van bouchotmosselen en Mont-Saint-Michel oesters maar liefst 25.</anecdote>
+    </contenu>
+  </débutant>
+  <confirmé>
+    <contenu id="11">
+      <question>Wat is de geschatte omtrek van het granieten rotsachtige eilandje ?</question>
+      <propositions>
+        <proposition id="11-1">660 meter</proposition>
+        <proposition id="11-2">960 meter</proposition>
+        <proposition id="11-3">860 meter</proposition>
+        <proposition id="11-4">760 meter</proposition>
+      </propositions>
+      <réponse proposition="11-2">960 meter</réponse>
+      <anecdote>Mont Saint-Michel is een rotsachtig eilandje gelegen ten oosten van de monding van de rivier de Couesnon, in het Engelse Kanaal.</anecdote>
+    </contenu>
+    <contenu id="12">
+      <question>Aan wie hebben we de thriller « Le Sang du temps » te danken die plaatsvindt op de Mont Saint-Michel ?</question>
+      <propositions>
+        <proposition id="12-1">René Charvin</proposition>
+        <proposition id="12-2">Maxime Chattam</proposition>
+        <proposition id="12-3">Antoine Chainas</proposition>
+        <proposition id="12-4">Bertrand Chéron</proposition>
+      </propositions>
+      <réponse proposition="12-2">Maxime Chattam</réponse>
+      <anecdote>« Le Sang du temps » is een detectiveroman geschreven door Maxime Chattam, in Frankrijk uitgegeven door Michel Lafon edities in 2005.</anecdote>
+    </contenu>
+    <contenu id="13">
+      <question>Hoe was de Mont Saint-Michel bekend vóór het jaar 709 ?</question>
+      <propositions>
+        <proposition id="13-1">Groot eiland</proposition>
+        <proposition id="13-2">Tombelaine</proposition>
+        <proposition id="13-3">Pelee Island</proposition>
+        <proposition id="13-4">Mount Tombe</proposition>
+      </propositions>
+      <réponse proposition="13-4">Mount Tombe</réponse>
+      <anecdote>De nieuwe volledige naam, gekozen door Karel de Grote om zijn rijk in de 9e eeuw te beschermen, was Mont-Saint-Michel-au-Péril-de-la-Mer.</anecdote>
+    </contenu>
+    <contenu id="14">
+      <question>Welk percentage toeristen van Mont Saint-Michel gaat naar de abdij ?</question>
+      <propositions>
+        <proposition id="14-1">22%</proposition>
+        <proposition id="14-2">55%</proposition>
+        <proposition id="14-3">33%</proposition>
+        <proposition id="14-4">44%</proposition>
+      </propositions>
+      <réponse proposition="14-3">33%</réponse>
+      <anecdote>Met een bezoektijd van 3 uur is het tussen 11.00 en 16.00 uur dat de bezoekersdichtheid van de site het hoogst is.</anecdote>
+    </contenu>
+    <contenu id="15">
+      <question>Welke Michael Bay-film is gedeeltelijk opgenomen op de Mont Saint-Michel ?</question>
+      <propositions>
+        <proposition id="15-1">No Pain No Gain</proposition>
+        <proposition id="15-2">Six Underground</proposition>
+        <proposition id="15-3">Armageddon</proposition>
+        <proposition id="15-4">13 Hours</proposition>
+      </propositions>
+      <réponse proposition="15-3">Armageddon</réponse>
+      <anecdote>In hetzelfde jaar (1998) werd « Deep Impact » uitgebracht, een andere film met dezelfde verhaallijn, gericht op de menselijke kant.</anecdote>
+    </contenu>
+    <contenu id="16">
+      <question>Welke dijk scheidde de baai van Mont Saint-Michel van de moerassen van Dol ?</question>
+      <propositions>
+        <proposition id="16-1">Richelieu-dijk</proposition>
+        <proposition id="16-2">Wadrinau-dijk</proposition>
+        <proposition id="16-3">Digue aux Cygnes</proposition>
+        <proposition id="16-4">Bretonse dijk</proposition>
+      </propositions>
+      <réponse proposition="16-4">Bretonse dijk</réponse>
+      <anecdote>De dijk strekte zich ongeveer dertig kilometer uit van de punt van Château-Richeux tot het kleine massief van Saint-Broladre in het oosten.</anecdote>
+    </contenu>
+    <contenu id="17">
+      <question>Hoeveel dagen per jaar is de Mont Saint-Michel omgeven door water ?</question>
+      <propositions>
+        <proposition id="17-1">79 dagen</proposition>
+        <proposition id="17-2">42 dagen</proposition>
+        <proposition id="17-3">67 dagen</proposition>
+        <proposition id="17-4">53 dagen</proposition>
+      </propositions>
+      <réponse proposition="17-4">53 dagen</réponse>
+      <anecdote>Een indrukwekkend schouwspel, Mont-Saint-Michel is niet omgeven door water en wordt pas een eiland bij hoge equinoxgetijden.</anecdote>
+    </contenu>
+    <contenu id="18">
+      <question>Welke plant komt voornamelijk voor op de grassen die de berg omringen ?</question>
+      <propositions>
+        <proposition id="18-1">Salie</proposition>
+        <proposition id="18-2">Sagine</proposition>
+        <proposition id="18-3">Zeekraal</proposition>
+        <proposition id="18-4">Sandelhout</proposition>
+      </propositions>
+      <réponse proposition="18-3">Zeekraal</réponse>
+      <anecdote>Salicornia zijn eenjarige planten, laag, vlezig, die groeien op bodems die rijk zijn aan zeezout (natriumchloride).</anecdote>
+    </contenu>
+    <contenu id="19">
+      <question>Wat voor soort visserij bestaat uit het plaatsen van netten aan de oevers en het manoeuvreren ervan ?</question>
+      <propositions>
+        <proposition id="19-1">Kustvissen</proposition>
+        <proposition id="19-2">Netvissen</proposition>
+        <proposition id="19-3">Diep vissen</proposition>
+        <proposition id="19-4">Trawlvissen</proposition>
+      </propositions>
+      <réponse proposition="19-1">Kustvissen</réponse>
+      <anecdote>Vanwege de visomstandigheden is het hoogwater zeer gunstig voor deze activiteit, met een grote populatie schaaldieren.</anecdote>
+    </contenu>
+    <contenu id="20">
+      <question>Hoe hoog boven de kust staat het standbeeld van Sint-Michiel ?</question>
+      <propositions>
+        <proposition id="20-1">120 meter</proposition>
+        <proposition id="20-2">180 meter</proposition>
+        <proposition id="20-3">210 meter</proposition>
+        <proposition id="20-4">150 meter</proposition>
+      </propositions>
+      <réponse proposition="20-4">150 meter</réponse>
+      <anecdote>Belangrijkste element, de abdij, de bijgebouwen en het standbeeld zijn geclassificeerd als historische monumenten door de lijst van 1862.</anecdote>
+    </contenu>
+  </confirmé>
+  <expert>
+    <contenu id="21">
+      <question>Wie componeerde een album dat volledig gewijd was aan de legendes van Mont Saint-Michel ?</question>
+      <propositions>
+        <proposition id="21-1">Patrick Broguière</proposition>
+        <proposition id="21-2">Grégoire Vallette</proposition>
+        <proposition id="21-3">Jérôme Wolff</proposition>
+        <proposition id="21-4">Manuel Dubigeon</proposition>
+      </propositions>
+      <réponse proposition="21-1">Patrick Broguière</réponse>
+      <anecdote>Het album « Mont Saint-Michel », geïnspireerd door de verhalen en legendes van Mont Saint-Michel, bevat een boekje van 20 pagina's in kleur.</anecdote>
+    </contenu>
+    <contenu id="22">
+      <question>Door welk fenomeen kan een groot deel van de baai worden ontdekt ?</question>
+      <propositions>
+        <proposition id="22-1">Marnage</proposition>
+        <proposition id="22-2">Altimetrie</proposition>
+        <proposition id="22-3">Halocline</proposition>
+        <proposition id="22-4">Tourbillon</proposition>
+      </propositions>
+      <réponse proposition="22-1">Marnage</réponse>
+      <anecdote>Het getijverschil is voor een bepaalde dag het verschil in waterhoogte tussen het niveau van de volle zee en die van het laagwater.</anecdote>
+    </contenu>
+    <contenu id="23">
+      <question>Welke auto vervoerde ooit bezoekers naar de Mont Saint-Michel ?</question>
+      <propositions>
+        <proposition id="23-1">Dressing</proposition>
+        <proposition id="23-2">Podoscaphe</proposition>
+        <proposition id="23-3">Gyrobus</proposition>
+        <proposition id="23-4">Maringotte</proposition>
+      </propositions>
+      <réponse proposition="23-4">Maringotte</réponse>
+      <anecdote>De maringotte is een paardenkoets met twee wielen, opgehangen aan pincetveren, met beweegbare banken.</anecdote>
+    </contenu>
+    <contenu id="24">
+      <question>Welke architect creëerde de nieuwe toegangsstructuren die sinds 2014 beschikbaar zijn ?</question>
+      <propositions>
+        <proposition id="24-1">Artur Berger</proposition>
+        <proposition id="24-2">Christopher Alexander</proposition>
+        <proposition id="24-3">Dietmar Feichtinger</proposition>
+        <proposition id="24-4">Richard Neutra</proposition>
+      </propositions>
+      <réponse proposition="24-3">Dietmar Feichtinger</réponse>
+      <anecdote>De brug op palen, ontwikkeld in 2002, is sinds juli 2014 toegankelijk voor voetgangers en sinds december 2014 voor pendeldiensten.</anecdote>
+    </contenu>
+    <contenu id="25">
+      <question>Hoeveel bezoekers gaan er gemiddeld elke dag naar de Mont Saint-Michel ?</question>
+      <propositions>
+        <proposition id="25-1">12.000</proposition>
+        <proposition id="25-2">9.000</proposition>
+        <proposition id="25-3">6.000</proposition>
+        <proposition id="25-4">15.000</proposition>
+      </propositions>
+      <réponse proposition="25-1">12.000</réponse>
+      <anecdote>Pieken overschrijden 16.000 bezoekers per dag, met een minder dichte stroom als de klim naar de abdij.</anecdote>
+    </contenu>
+    <contenu id="26">
+      <question>Welke grote bouwer en historicus was de zestiende abt van Mont Saint-Michel ?</question>
+      <propositions>
+        <proposition id="26-1">Robert de Torigni</proposition>
+        <proposition id="26-2">Geoffroi Malaterra</proposition>
+        <proposition id="26-3">Gilbert de Mons</proposition>
+        <proposition id="26-4">Bernat Desclot</proposition>
+      </propositions>
+      <réponse proposition="26-1">Robert de Torigni</réponse>
+      <anecdote>Hij zal er belangrijke werken uitvoeren door de twee westelijke torens en het gebouw (hotel en ziekenboeg) te bouwen.</anecdote>
+    </contenu>
+    <contenu id="27">
+      <question>Welke gevangene van Mont Saint-Michel kreeg de bijnaam de Locked Up ?</question>
+      <propositions>
+        <proposition id="27-1">Auguste Blanqui</proposition>
+        <proposition id="27-2">Jules Senard</proposition>
+        <proposition id="27-3">Joseph Sobrier</proposition>
+        <proposition id="27-4">Antoine Fombertaux</proposition>
+      </propositions>
+      <réponse proposition="27-1">Auguste Blanqui</réponse>
+      <anecdote>In 1880 publiceerde Auguste Blanqui de krant « Ni Dieu ni maître », waarvan de titel een referentie is geworden voor de anarchistische beweging.</anecdote>
+    </contenu>
+    <contenu id="28">
+      <question>Op welk album van Mike Oldfied is een van de nummers gewijd aan Mont Saint-Michel ?</question>
+      <propositions>
+        <proposition id="28-1">Voyager</proposition>
+        <proposition id="28-2">Crises</proposition>
+        <proposition id="28-3">Amarok</proposition>
+        <proposition id="28-4">Discovery</proposition>
+      </propositions>
+      <réponse proposition="28-1">Voyager</réponse>
+      <anecdote>Het album bevat vijf covers van traditioneel Keltisch, een cover van Galicisch Luar na Lubre en vier originele composities.</anecdote>
+    </contenu>
+    <contenu id="29">
+      <question>In welk jaar stelde een postzegel van 3 Franse frank de Mont Saint-Michel voor ?</question>
+      <propositions>
+        <proposition id="29-1">1978</proposition>
+        <proposition id="29-2">1998</proposition>
+        <proposition id="29-3">1988</proposition>
+        <proposition id="29-4">1968</proposition>
+      </propositions>
+      <réponse proposition="29-2">1998</réponse>
+      <anecdote>In 1998 wordt een nieuwe postzegel van 3 Franse frank, met zijn veelkleurige uitstraling, unaniem verkozen tot mooiste postzegel van het jaar.</anecdote>
+    </contenu>
+    <contenu id="30">
+      <question>Welk museum van manuscripten van Mont Saint-Michel bevindt zich in Avranches ?</question>
+      <propositions>
+        <proposition id="30-1">Schriftuurlijk</proposition>
+        <proposition id="30-2">Graniet</proposition>
+        <proposition id="30-3">Bay House</proposition>
+        <proposition id="30-4">Richard-Anacréon</proposition>
+      </propositions>
+      <réponse proposition="30-1">Schriftuurlijk</réponse>
+      <anecdote>Het werd geopend in 2006 en heeft tot doel de uitzonderlijke collectie manuscripten uit de voormalige abdij van Mt.</anecdote>
+    </contenu>
+  </expert>
+  </nl>
+</quizz>

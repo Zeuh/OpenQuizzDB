@@ -1,0 +1,280 @@
+---
+fournisseur: OpenQuizzDB - Fournisseur de contenu libre (https://www.openquizzdb.org)
+rédacteur: Philippe Bresoux
+thème: Trouvez le nombre (Les nombres gouvernent le monde)
+difficulté: 2 / 5
+quizz:
+  fr:
+  - débutant:
+    - id: 1
+      question: Combien de personnes forment le groupe humoristique français Les Inconnus ?
+      propositions:
+      - 5
+      - 3
+      - 6
+      - 4
+      réponse: 3
+      anecdote: Ils étaient initialement cinq, avec Smaïn et Seymour Brussel qui quitteront le groupe après un an.
+    - id: 2
+      question: Au Scrabble, combien de points valent les lettres K, W, X, Y et Z ?
+      propositions:
+      - 12
+      - 8
+      - 6
+      - 10
+      réponse: 10
+      anecdote: Il existe trois championnats du monde de Scrabble : anglophone, francophone et hispanophone.
+    - id: 3
+      question: Complétez ce titre de roman écrit par Ray Bradbury : « Fahrenheit »...
+      propositions:
+      - 241
+      - 451
+      - 421
+      - 154
+      réponse: 451
+      anecdote: Le titre fait référence au point d'auto-inflammation, en degrés Fahrenheit, du papier.
+    - id: 4
+      question: Quel était le numéro de maillot que portait Platini et Zidane en équipe de France ?
+      propositions:
+      - 10
+      - 8
+      - 9
+      - 11
+      réponse: 10
+      anecdote: Lors de l'Euro 1984, Michel Platini a établi un record de neuf buts marqués durant ce seul tournoi.
+    - id: 5
+      question: Traditionnellement, combien y a-t-il de pieds à une table de cuisine ?
+      propositions:
+      - 5
+      - 3
+      - 4
+      - 6
+      réponse: 4
+      anecdote: Initialement destinées à l'usage domestique, les tables ont aujourd'hui pénétré le monde industriel.
+    - id: 6
+      question: Au théâtre, combien de coups sont frappés avec un bâton avant le lever du rideau ?
+      propositions:
+      - Six
+      - Cinq
+      - Quatre
+      - Trois
+      réponse: Trois
+      anecdote: Au théâtre, les trois coups sont frappés sur le plancher de la scène avec un bâton appelé brigadier.
+    - id: 7
+      question: Combien de Guerres mondiales eurent lieu au cours du 20e siècle ?
+      propositions:
+      - Une seule
+      - Deux
+      - Quatre
+      - Trois
+      réponse: Deux
+      anecdote: Avant la Seconde Guerre mondiale, la Première Guerre mondiale était appelée la « Grande Guerre ».
+    - id: 8
+      question: En Europe, de combien de chiffres se compose le code PIN d'une carte bancaire ?
+      propositions:
+      - 6
+      - 4
+      - 5
+      - 3
+      réponse: 4
+      anecdote: Le code PIN est par exemple utilisé sur un téléphone mobile ou un smartphone équipés d'une carte SIM.
+    - id: 9
+      question: Combien de personnes formaient autrefois le groupe de musique ABBA ?
+      propositions:
+      - Quatre
+      - Trois
+      - Cinq
+      - Six
+      réponse: Quatre
+      anecdote: En janvier 2010, une exposition temporaire, baptisée « ABBA World », a ouvert ses portes à Londres.
+    - id: 10
+      question: En 1998, combien de buts marqua la France en finale de la Coupe du monde de football ?
+      propositions:
+      - Trois
+      - Cinq
+      - Deux
+      - Quatre
+      réponse: Trois
+      anecdote: Le début de cette coupe du monde est endeuillé par la disparition du coprésident Fernand Sastre.
+  - confirmé:
+    - id: 11
+      question: Lors de la première saison, combien d'heures a duré l'aventure de l'agent Jack Bauer ?
+      propositions:
+      - 18
+      - 22
+      - 24
+      - 20
+      réponse: 24
+      anecdote: Les auteurs de « 24 » ont collaboré avec Sutherland pour créer une « partie » de Jack Bauer.
+    - id: 12
+      question: Combien de minutes réglementaires constituent un match de rugby à XV ?
+      propositions:
+      - 40
+      - 60
+      - 20
+      - 80
+      réponse: 80
+      anecdote: L'International Rugby Board (IRB), créé en 1886, gouverne ce sport et en publie les règles.
+    - id: 13
+      question: À quel âge Jim Morrison, célèbre chanteurs des Doors, a-t-il trouvé la mort ?
+      propositions:
+      - 57 ans
+      - 27 ans
+      - 37 ans
+      - 47 ans
+      réponse: 27 ans
+      anecdote: Jim Morrison était devenu une véritable idole de la musique rock, mais aussi un intellectuel engagé.
+    - id: 14
+      question: Quel est le numéro de maillot que Michael Jordan a porté avec les Chicago Bulls ?
+      propositions:
+      - 13
+      - 33
+      - 23
+      - 3
+      réponse: 23
+      anecdote: Michael Jordan possède aujourd'hui sa propre écurie de superbike ainsi que de nombreux restaurants.
+    - id: 15
+      question: Combien de films la saga « Retour vers le futur » comporte-t-elle ?
+      propositions:
+      - Quatre
+      - Cinq
+      - Trois
+      - Six
+      réponse: Trois
+      anecdote: Inspirée de l'oeuvre de René Barjavel, « le voyageur imprudent », la trilogie met en exergue deux paradoxes.
+    - id: 16
+      question: Lors de la saison 2014 de F1, sur 19 Grand Prix, combien Lewis Hamilton en a-t-il gagné ?
+      propositions:
+      - 13
+      - 9
+      - 11
+      - 7
+      réponse: 11
+      anecdote: Lewis Hamilton est l'un des plus proches amis de Rowan Atkinson, célèbre créateur et interprète du personnage de Mr. Bean.
+    - id: 17
+      question: Combien de fois Pamela Anderson est-elle apparu en couverture du « Playboy » américain ?
+      propositions:
+      - 11
+      - 7
+      - 9
+      - 13
+      réponse: 13
+      anecdote: Pamela Anderson milite également activement pour la défense animale, notamment aux côtés de l'association PETA.
+    - id: 18
+      question: Quel est le numéro de l'adresse qui abrite le Palais de l'Élysée, rue Faubourg Saint-Honoré ?
+      propositions:
+      - 77
+      - 55
+      - 99
+      - 33
+      réponse: 55
+      anecdote: Le palais de l'Élysée est un hôtel particulier parisien construit par l'architecte Armand-Claude Mollet en 1720.
+    - id: 19
+      question: Combien sont les frères Wachowski, devenus soeurs, réalisateurs de la trilogie « Matrix » ?
+      propositions:
+      - 4
+      - 2
+      - 3
+      - 5
+      réponse: 2
+      anecdote: Suite à leur changement d'identité de genre, Larry est devenu Lana et Andy est devenu Lilly.
+    - id: 20
+      question: Le 11 septembre 2001, combien d'avions ont percuté les deux tours du World Trade Center ?
+      propositions:
+      - 2
+      - 3
+      - 5
+      - 4
+      réponse: 2
+      anecdote: Les événements du 11 septembre ont été vécus presque en temps réel par des centaines de millions de téléspectateurs.
+  - expert:
+    - id: 21
+      question: Combien d'épisodes de la série télévisée « Friends » ont été tournés au total ?
+      propositions:
+      - 256
+      - 186
+      - 216
+      - 236
+      réponse: 236
+      anecdote: La popularité de « Friends » a attiré vers cette sitcom un nombre important d'apparitions d'acteurs de premier plan.
+    - id: 22
+      question: Combien de romans ont pour protagoniste Fantômas, héros à la silhouette encagoulée ?
+      propositions:
+      - 42
+      - 12
+      - 22
+      - 32
+      réponse: 32
+      anecdote: « Fantômas » demeure un des feuilletons les plus marquants de la littérature populaire en France.
+    - id: 23
+      question: Durant combien d'années John Fitzgerald Kennedy a-t-il été Président des États-Unis ?
+      propositions:
+      - Trois
+      - Quatre
+      - Deux
+      - Cinq
+      réponse: Deux
+      anecdote: John Fitzgerald Kennedy reste à ce jour le seul président américain de confession catholique.
+    - id: 24
+      question: Combien de pays sont frontaliers avec la République populaire de Chine ?
+      propositions:
+      - 12
+      - 16
+      - 10
+      - 14
+      réponse: 14
+      anecdote: Ce nombre en fait, à égalité avec la Russie, l'État avec le plus de voisins au monde.
+    - id: 25
+      question: De combien d 'épisodes est composée la série télévisée à succès « Breaking Bad » ?
+      propositions:
+      - 42
+      - 52
+      - 32
+      - 62
+      réponse: 62
+      anecdote: La série se concentre sur Walter « Walt » White, un professeur de chimie sur-qualifié et père de famille.
+    - id: 26
+      question: Combien de fois le pilote Ayrton Senna a-t-il été champion du monde de Formule 1 ?
+      propositions:
+      - 4
+      - 3
+      - 5
+      - 2
+      réponse: 3
+      anecdote: Ayrton Senna reste une véritable idole au Brésil où son statut a dépassé celui de simple champion sportif.
+    - id: 27
+      question: Véritable icône culturelle, en quelle année le boxeur Mohamed Ali est-il décédé ?
+      propositions:
+      - 2014
+      - 2010
+      - 2012
+      - 2016
+      réponse: 2016
+      anecdote: Mohamed Ali a été décoré en 2005 de la Médaille présidentielle de la Liberté.
+    - id: 28
+      question: Après combien de secondes la navette spatiale Challenger explosa-t-elle en vol en 1986 ?
+      propositions:
+      - 53
+      - 113
+      - 73
+      - 93
+      réponse: 73
+      anecdote: La navette porte le nom du bateau qui mesura le fond marin le plus profond du globe.
+    - id: 29
+      question: Combien d'oeuvres le corpus « La Comédie humaine » d'Honoré de Balzac comporte-t-il ?
+      propositions:
+      - 73
+      - 83
+      - 93
+      - 63
+      réponse: 93
+      anecdote: Doué du génie de l'observation, Balzac a créé des types humains saisissants de vérité.
+    - id: 30
+      question: Combien de sélections Zinédine Zidane a-t-il reçu en équipe de France de football ?
+      propositions:
+      - 128
+      - 118
+      - 98
+      - 108
+      réponse: 108
+      anecdote: Célèbre numéro 10 des « Bleus », Zidane met un terme à sa carrière à la suite de la Coupe du monde 2006.

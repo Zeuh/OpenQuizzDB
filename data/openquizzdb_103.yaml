@@ -1,0 +1,280 @@
+---
+fournisseur: OpenQuizzDB - Fournisseur de contenu libre (https://www.openquizzdb.org)
+rédacteur: Philippe Bresoux
+thème: Depeche Mode (Le groupe de Basildon)
+difficulté: 3 / 5
+quizz:
+  fr:
+  - débutant:
+    - id: 1
+      question: De combien de membres est actuellement composé le groupe Depeche Mode ?
+      propositions:
+      - 2
+      - 3
+      - 5
+      - 4
+      réponse: 3
+      anecdote: Vince Clarke (ayant créé Yazoo) et Alan Wilder (devenu Recoil) ont autrefois fait partie du groupe Depeche Mode.
+    - id: 2
+      question: Quel album mythique du groupe Depeche Mode propose une rose rouge sur sa pochette ?
+      propositions:
+      - Ultra
+      - A Broken Frame
+      - Exciter
+      - Violator
+      réponse: Violator
+      anecdote: « Violator » est considéré comme le meilleur album du groupe à ce jour pour ses qualités de production inventives et novatrices.
+    - id: 3
+      question: Qui a dirigé la plupart des clips vidéos du groupe Depeche Mode ?
+      propositions:
+      - Clive Richardson
+      - John Hillcoat
+      - Julien Temple
+      - Anton Corbijn
+      réponse: Anton Corbijn
+      anecdote: Ce photographe et réalisateur néerlandais collabore fréquemment avec Depeche Mode depuis 1986.
+    - id: 4
+      question: Avec quel label anglais le groupe Depeche Mode a-t-il signé sur l'entièreté de sa carrière ?
+      propositions:
+      - Mercury
+      - EMI
+      - Warner
+      - Mute
+      réponse: Mute
+      anecdote: Dans un premier temps, le but de Daniel Miller (créateur de Mute) était simplement d'y publier sa propre musique.
+    - id: 5
+      question: Dans quel État américain a été tourné le célèbre concert « 101 » de Depeche Mode ?
+      propositions:
+      - Texas
+      - Californie
+      - Arizona
+      - Missouri
+      réponse: Californie
+      anecdote: Premier album live du groupe, « 101 » a été enregistré lors du 101e et dernier concert de la tournée « Tour for the Masses ».
+    - id: 6
+      question: Laquelle de ces propositions désigne un titre du groupe musical Depeche Mode ?
+      propositions:
+      - Little 9
+      - Little 13
+      - Little 15
+      - Little 21
+      réponse: Little 15
+      anecdote: Le clip musical de « Little 15 » fut réalisé par Martyn Atkins, qui avait déjà travaillé pour le groupe en ce qui concerne le design.
+    - id: 7
+      question: Qui est le chanteur charismatique principal du groupe Depeche Mode, originaire de Basildon  ?
+      propositions:
+      - Dave Gahan
+      - Vince Clarke
+      - Andrew Fletcher
+      - Alan Wilder
+      réponse: Dave Gahan
+      anecdote: Ses prestations scéniques excentriques donnent au groupe un dynamisme que l'aspect figé des synthés ne permet pas.
+    - id: 8
+      question: Quel groupe Vince Clarke a-t-il rejoint avec Alison Moyet après avoir quitté Depeche Mode ?
+      propositions:
+      - The Assembly
+      - The Communards
+      - Erasure
+      - Yazoo
+      réponse: Yazoo
+      anecdote: Alison Moyet a mené une carrière solo plutôt réussie, mais sans parvenir à exporter sa musique hors du Royaume-Uni.
+    - id: 9
+      question: De quelle ville de l'Essex le groupe musical Depeche Mode est-il originaire ?
+      propositions:
+      - Billericay
+      - Brentwood
+      - Braintree
+      - Basildon
+      réponse: Basildon
+      anecdote: Basildon est une ville britannique nouvelle créée en 1949 par fusion de plusieurs petites localités.
+    - id: 10
+      question: En quelle année est sorti « Speak And Spell », premier album studio de Depeche Mode ?
+      propositions:
+      - 1981
+      - 1979
+      - 1982
+      - 1980
+      réponse: 1981
+      anecdote: Sur les onze chansons de l'album, neuf sont écrites par Vince Clarke et les deux restantes par Martin L. Gore.
+  - confirmé:
+    - id: 11
+      question: Stevo Pearce lança Depeche Mode, mais de quel autre groupe fut-il aussi le manager ?
+      propositions:
+      - Erasure
+      - Soft Cell
+      - Alphaville
+      - Yazoo
+      réponse: Soft Cell
+      anecdote: Soft Cell est un groupe de musique de new wave des années 1980 né de la complicité entre Marc Almond et Dave Ball.
+    - id: 12
+      question: De quel morceau de Depeche Mode le groupe Rammstein a-t-il sorti un cover en 1998 ?
+      propositions:
+      - Personal Jesus
+      - New Life
+      - I Feel You
+      - Stripped
+      réponse: Stripped
+      anecdote: Rammstein est le groupe germanophone le plus vendu dans le monde avec près de 20 millions d'albums vendus.
+    - id: 13
+      question: En quelle année Alan Wilder, membre fondateur de Depeche Mode, a-t-il quitté le groupe ?
+      propositions:
+      - 1999
+      - 1993
+      - 1995
+      - 1997
+      réponse: 1995
+      anecdote: Alan Wilder se consacre désormais à son propre projet expérimental baptisé « Recoil », fondé en 1986.
+    - id: 14
+      question: Quel morceau instrumental apparaît sur l'album « Sounds of the Universe » ?
+      propositions:
+      - Jazz Thieves
+      - Easy Tiger
+      - Spacewalker
+      - Introspectre
+      réponse: Spacewalker
+      anecdote: Si l'album contient treize titres, une édition « Deluxe » comporte des démos d'anciennes chansons et un DVD.
+    - id: 15
+      question: Quel est le titre du premier morceau écrit par Martin Gore pour Depeche Mode ?
+      propositions:
+      - New Life
+      - Shout
+      - Leave in Silence
+      - See You
+      réponse: See You
+      anecdote: Ce single a été l'occasion de lancer une tournée mondiale, avec le nouveau membre du groupe Alan Wilder.
+    - id: 16
+      question: Qui a écrit le célébrissime morceau « Just Can't Get Enough », de Depeche Mode ?
+      propositions:
+      - Dave Gahan
+      - Martin Gore
+      - Alan Wilder
+      - Vince Clarke
+      réponse: Vince Clarke
+      anecdote: « Just Can't Get Enough » est le dernier single composé par Vince Clarke avant son départ de Depeche Mode.
+    - id: 17
+      question: Que signifie le L. dans le nom de Martin L. Gore, membre du groupe Depeche Mode ?
+      propositions:
+      - Lionel
+      - Lancelot
+      - Lee
+      - Liam
+      réponse: Lee
+      anecdote: Bien que Dave Gahan soit l'interprète charismatique du groupe, Martin Gore intervient également comme chanteur.
+    - id: 18
+      question: Qui Alan Wilder a-t-il remplacé au sein du groupe de new wave Depeche Mode ?
+      propositions:
+      - Alison Moyet
+      - Personne
+      - Vince Clarke
+      - Martin Gore
+      réponse: Personne
+      anecdote: Alan Wilder apporta une contribution artistique importante aux albums du groupe par ses expérimentations sonores.
+    - id: 19
+      question: Quel titre a été choisi comme tout premier single studio du groupe Depeche Mode ?
+      propositions:
+      - Dreaming of Me
+      - New Life
+      - See You
+      - Shout
+      réponse: Dreaming of Me
+      anecdote: Deux remixes de la chanson ont été publiés, l'un avec un effet d'atténuation, et l'autre ayant une propre fin.
+    - id: 20
+      question: Quelle femme a inspiré Depeche Mode pour l'écriture de la chanson « Personal Jesus » ?
+      propositions:
+      - Jackie Kennedy
+      - Priscilla Presley 
+      - Janis Joplin
+      - Vanessa Paradis
+      réponse: Priscilla Presley 
+      anecdote: Dans le livre « Elvis and me », Priscilla Presley révèle qu'elle avait surnommé son mari son « Jésus personnel ».
+  - expert:
+    - id: 21
+      question: Quel est le dernier single du groupe Depeche Mode sorti dans les années 1980 ?
+      propositions:
+      - Enjoy the Silence
+      - Personal Jesus
+      - Eveything Counts
+      - Policy of Truth
+      réponse: Personal Jesus
+      anecdote: Le clip musical de « Personal Jesus » est réalisé par Anton Corbijn et est le premier qu'il fait en couleurs pour le groupe.
+    - id: 22
+      question: Qui a produit « Violator », probablement une des meilleures productions de Depeche Mode ?
+      propositions:
+      - Daniel Miller
+      - Flood
+      - Daryl Barmonte
+      - Gareth Jones
+      réponse: Flood
+      anecdote: L'image de la rose qui orne la pochette contraste avec ce titre provocateur de ce septième album studio de Depeche Mode.
+    - id: 23
+      question: De quel album de Depeche Mode le titre « Precious » est-il extrait ?
+      propositions:
+      - Delta Machine
+      - Playing the Angel
+      - Violator
+      - Exciter
+      réponse: Playing the Angel
+      anecdote: « Playing the Angel » est considéré comme l'album incarnant le retour du groupe sur le devant de la scène.
+    - id: 24
+      question: Dans quel pays Depeche Mode a-t-il enregistré « Songs of Faith and Devotion » ?
+      propositions:
+      - Italie
+      - Grèce
+      - Portugal
+      - Espagne
+      réponse: Espagne
+      anecdote: C'est durant l'enregistrement de cet album et de la tournée qui s'ensuivit que les premières failles sont apparues au sein du groupe.
+    - id: 25
+      question: Quel a été le nom du label (certes assez peu productif) créé par Andy Fletcher ?
+      propositions:
+      - Toast Hawaii
+      - Eggs Hawaii
+      - Bacon Hawaii
+      - Beans Hawaii
+      réponse: Toast Hawaii
+      anecdote: Le premier artiste signé par le label Toast Hawaii est le groupe anglais Client qui quitte le label en 2006.
+    - id: 26
+      question: Quel morceau a été choisi pour figurer en face B du titre « New Life » ?
+      propositions:
+      - Ice Machine
+      - Shout
+      - See You
+      - Any Second Now
+      réponse: Shout
+      anecdote: « New Life » est devenu le premier gros succès de Depeche Mode au Royaume-Uni, atteignant la onzième place du hit parade.
+    - id: 27
+      question: Où travaillait Martin L. Gore avant que le groupe Depeche Mode ne commence à percer ?
+      propositions:
+      - À la poste
+      - Dans une banque
+      - Dans une boucherie
+      - Dans un supermarché
+      réponse: Dans une banque
+      anecdote: Martin Gore n'a pas une écriture prolifique, son travail d'écriture et de composition se fait généralement sous la pression.
+    - id: 28
+      question: Combien de temps a duré la « mort clinique » de Dave Gahan, chanteur de Depeche Mode ?
+      propositions:
+      - 2 minutes
+      - 20 secondes
+      - 2 heures
+      - 20 minutes
+      réponse: 2 minutes
+      anecdote: Après avoir passé quelques heures à l'hôpital, il sera placé en garde à vue pendant 48 heures avant d'être libéré sous caution.
+    - id: 29
+      question: Quel est le nom du restaurant situé à Londres dont Andrew Fletecher est le propriétaire ?
+      propositions:
+      - Roland
+      - Basildon
+      - Fletch
+      - Gascogne
+      réponse: Gascogne
+      anecdote: Son sens du marketing et du management a fait qu'il occupe une place stratégique au sein du groupe Depeche Mode.
+    - id: 30
+      question: Pour le jeu « Les Sims 2 », Electronic Arts a inclus quel titre de Depeche Mode ?
+      propositions:
+      - Little 15
+      - See You
+      - Suffer Well
+      - Stripped
+      réponse: Suffer Well
+      anecdote: La bande originale du jeu a été composée par Mark Mothersbaugh, membre du groupe Rock DEVO.

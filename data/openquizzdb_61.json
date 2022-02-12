@@ -1,0 +1,376 @@
+{                                     
+  "fournisseur": "OpenQuizzDB - Fournisseur de contenu libre (https://www.openquizzdb.org)",
+  "rédacteur": "Philippe Bresoux",
+  "thème": "Sites touristiques (De Shalimar au Yucatan)",         
+  "difficulté": "3 / 5",
+  "quizz": {
+    "fr": {
+      "débutant": [
+      {
+        "id": 1,
+        "question": "Dans quelle ville peut-on admirer la Petite Sirène sur son rocher ?",
+        "propositions": [
+          "Amsterdam",
+          "Bucarest",
+          "Budapest",
+          "Copenhague"
+        ],
+        "réponse": "Copenhague",
+        "anecdote": "Située dans le parc Churchill, il s'agit d'une représentation en bronze du personnage du conte éponyme de Hans Christian Andersen."
+      },
+      {
+        "id": 2,
+        "question": "Dans quel État visiterez-vous le grand complexe de loisirs <i>Walt Disney World Resort</i> ?",
+        "propositions": [
+          "Californie",
+          "Floride",
+          "Montana",
+          "Virginie"
+        ],
+        "réponse": "Floride",
+        "anecdote": "C'est une vraie ville fondée sur le tourisme et façonnée par ce que Walt Disney puis l'entreprise Disney ont appelé la <i>magie Disney</i>."
+      },
+      {
+        "id": 3,
+        "question": "Quel célèbre mausolée de marbre blanc peut-on visiter à Agra, en Inde ?",
+        "propositions": [
+          "Bombay House",
+          "Taj Mahal",
+          "Raj Ghat",
+          "Yantra Mandir"
+        ],
+        "réponse": "Taj Mahal",
+        "anecdote": "La construction du mausolée a commencé en 1631 et s'est achevée, dans sa plus grande partie, en 1648."
+      },
+      {
+        "id": 4,
+        "question": "Dans quelle ville peut-on admirer des objets d'art au musée du Prado ?",
+        "propositions": [
+          "Cordoue",
+          "Tolède",
+          "Séville",
+          "Madrid"
+        ],
+        "réponse": "Madrid",
+        "anecdote": "Le musée présente principalement des peintures européennes du XIVe siècle au début du XIXe siècle."
+      },
+      {
+        "id": 5,
+        "question": "Quelle direction faut-il prendre pour aller bronzer sur le littoral de Rimini ?",
+        "propositions": [
+          "Grèce",
+          "Portugal",
+          "Italie",
+          "Espagne"
+        ],
+        "réponse": "Italie",
+        "anecdote": "Grâce à la plage très étendue et de sable fin, Rimini est une station balnéaire réputée, les touristes venant de toute l'Europe."
+      },
+      {
+        "id": 6,
+        "question": "Quel parc de 341 hectares prolonge la Cinquième Avenue de New York ?",
+        "propositions": [
+          "Forest Park",
+          "Central Park",
+          "City Park",
+          "Griffith Park"
+        ],
+        "réponse": "Central Park",
+        "anecdote": "Le parc est géré par la Central Park Conservancy qui dispose d'un budget annuel de 200 millions de dollars."
+      },
+      {
+        "id": 7,
+        "question": "De quel pays avez-vous envoyé votre carte postale en provenance de Koh Phi Phi Ley ?",
+        "propositions": [
+          "Japon",
+          "Thaïlande",
+          "Chine",
+          "Corée du Sud"
+        ],
+        "réponse": "Thaïlande",
+        "anecdote": "La baie paradisiaque de Maya a servi de décor pour de nombreuses scènes du film <i>La Plage</i> avec Leonardo DiCaprio."
+      },
+      {
+        "id": 8,
+        "question": "En Égypte, où se trouve le Sphinx qui se dresse devant les grandes pyramides ?",
+        "propositions": [
+          "Alexandrie",
+          "Suez",
+          "Le Caire",
+          "Gizeh"
+        ],
+        "réponse": "Gizeh",
+        "anecdote": "Sculpture monumentale monolithique la plus grande du monde (73,5 mètres de long), elle représente un sphinx couchant."
+      },
+      {
+        "id": 9,
+        "question": "De quel ancien empire peut-on voir les vestiges au Yucatan ?",
+        "propositions": [
+          "Pipils",
+          "Mosquitos",
+          "Lenca",
+          "Mayas"
+        ],
+        "réponse": "Mayas",
+        "anecdote": "Au milieu du XIXe siècle, le Yucatan déclara à deux reprises son indépendance et se constitua en République du Yucatan."
+      },
+      {
+        "id": 10,
+        "question": "Quel monument bruxellois a été construit à l'occasion de l'Exposition universelle de 1958 ?",
+        "propositions": [
+          "Fontaine Anspach",
+          "Tour Noire",
+          "Galerie du Roi",
+          "Atomium"
+        ],
+        "réponse": "Atomium",
+        "anecdote": "L'Atomium représente la maille conventionnelle du cristal de fer (structure cubique centrée) agrandie 165 milliards de fois."
+      }
+    ],
+    "confirmé": [
+      {
+        "id": 11,
+        "question": "Quel est le pays parfumé des jardins royaux de Shalimar disposés sur trois terrasses ?",
+        "propositions": [
+          "Afghanistan",
+          "Bhoutan",
+          "Bangladesh",
+          "Pakistan"
+        ],
+        "réponse": "Pakistan",
+        "anecdote": "L'origine du mot « Shalimar » reste inconnue, mais certains savants pensent que le mot viendrait du persan ou de l'arabe."
+      },
+      {
+        "id": 12,
+        "question": "Dans quelle ville turque irez-vous au musée du palais de Topkapi ?",
+        "propositions": [
+          "Antioche",
+          "Istambul",
+          "Ankara",
+          "Nazilli"
+        ],
+        "réponse": "Istambul",
+        "anecdote": "Le palais, résidence principale et officielle du sultan ottoman, est construit sur l'emplacement de l'acropole de l'antique Byzance."
+      },
+      {
+        "id": 13,
+        "question": "Au départ de Chongqing, à travers les gorges de quel fleuve pouvez-vous faire une croisière ?",
+        "propositions": [
+          "Fleuve Rouge",
+          "Amour",
+          "Yang-Tsé",
+          "Fleuve Jaune"
+        ],
+        "réponse": "Yang-Tsé",
+        "anecdote": "La municipalité de Chonqqing a été créée dans les années 1990 pour qu'elle devienne un pôle économique majeur de la Chine."
+      },
+      {
+        "id": 14,
+        "question": "Quelle est la plus folle et la plus grande station balnéaire de la côte pacifique du Mexique ?",
+        "propositions": [
+          "Acapulco",
+          "Boca del Rio",
+          "Manzanillo",
+          "Progreso"
+        ],
+        "réponse": "Acapulco",
+        "anecdote": "Acapulco est située à 400 km de Mexico, dans une baie profonde semi-circulaire presque fermée et surtout facile d'accès."
+      },
+      {
+        "id": 15,
+        "question": "Quelle île de l'archipel des Caraïbes se situe entre la Guadeloupe et la Martinique ?",
+        "propositions": [
+          "Bora-Bora",
+          "Papeete",
+          "Tahiti",
+          "La Dominique"
+        ],
+        "réponse": "La Dominique",
+        "anecdote": "L'île est composée d'une chaîne de hauts pitons depuis son extrémité septentrionale à sa pointe méridionale."
+      },
+      {
+        "id": 16,
+        "question": "Dans quelle ville espagnole pourrez-vous admirer les céramiques de l'Alhambra ?",
+        "propositions": [
+          "Grenade",
+          "Malaga",
+          "Séville",
+          "Bilbao"
+        ],
+        "réponse": "Grenade",
+        "anecdote": "L'Alhambra est composée de quatre parties : l'Acazaba, les palais nastrides, le generalife et ses jardins et le palais de Charles V."
+      },
+      {
+        "id": 17,
+        "question": "Où peut-on suivre la Via Dolorosa qui s'étend sur environ 500 mètres ?",
+        "propositions": [
+          "Ashkelon",
+          "Jérusalem",
+          "Tel-Aviv",
+          "Ramla"
+        ],
+        "réponse": "Jérusalem",
+        "anecdote": "Marqué par neuf des quatorze Stations du chemin de Croix, il s'agit d'un lieu de pèlerinage très important pour les chrétiens."
+      },
+      {
+        "id": 18,
+        "question": "Quel est le pays du Kilimandjaro, montagne composée de trois volcans éteints ?",
+        "propositions": [
+          "La Tanzanie",
+          "Le Népal",
+          "Le Japon",
+          "Le Tibet"
+        ],
+        "réponse": "La Tanzanie",
+        "anecdote": "Le Kilimandjaro est connu pour sa calotte glaciaire sommitale en phase de retrait accéléré depuis le début du XXe siècle."
+      },
+      {
+        "id": 19,
+        "question": "Dans quel pays visiterez-vous les ruines de Carthage, ancienne cité punique ?",
+        "propositions": [
+          "Égypte",
+          "Hongrie",
+          "Turquie",
+          "Tunisie"
+        ],
+        "réponse": "Tunisie",
+        "anecdote": "Carthage regroupe aujourd'hui de nombreuses résidences d'ambassadeurs ou de richissimes fortunes tunisiennes et expatriées."
+      },
+      {
+        "id": 20,
+        "question": "Quel site représente la principale attraction grecque du Mont Parnasse ?",
+        "propositions": [
+          "Delphes",
+          "Lindos",
+          "Amphipolis",
+          "Olympie"
+        ],
+        "réponse": "Delphes",
+        "anecdote": "Delphes était le centre du monde, aussi l'« omphalos » y était-il représenté par une pierre de forme conique."
+      }
+    ],
+    "expert": [
+      {
+        "id": 21,
+        "question": "Où en Russie visite-t-on le musée de l'Ermitage, au bord de la Neva ?",
+        "propositions": [
+          "Moscou",
+          "Saint-Pétersbourg",
+          "Sébastopol",
+          "Omsk"
+        ],
+        "réponse": "Saint-Pétersbourg",
+        "anecdote": "Avec plus de 60 000 pièces dans près de 1 000 salles, c'est le plus grand musée du monde en termes d'objets exposés."
+      },
+      {
+        "id": 22,
+        "question": "Où pouvez-vous arpenter la piazza della Signoria, place touristique de la ville ?",
+        "propositions": [
+          "Padoue",
+          "Rome",
+          "Vérone",
+          "Florence"
+        ],
+        "réponse": "Florence",
+        "anecdote": "Des fouilles archéologiques ont mis au jour d'importantes traces d'habitations néolithique, romaines et médiévales à cet endroit."
+      },
+      {
+        "id": 23,
+        "question": "Quelle île diabolique peut-on apercevoir de South Point en Australie ?",
+        "propositions": [
+          "Norfolk",
+          "Cocos",
+          "Christmas",
+          "Tasmanie"
+        ],
+        "réponse": "Tasmanie",
+        "anecdote": "Situé dans le parc national de la péninsule Wilsons, South Point est le point le plus au sud du «continent» australien."
+      },
+      {
+        "id": 24,
+        "question": "Sous quel nom l'île de Kerkyra est-elle plus connue des brochures touristiques ?",
+        "propositions": [
+          "Argos",
+          "Corinthe",
+          "Rhodes",
+          "Corfou"
+        ],
+        "réponse": "Corfou",
+        "anecdote": "La ville de Corfou possède un port qui permet de relier les villes de Brindisi (Italie), Patras et Igoumenitsa."
+      },
+      {
+        "id": 25,
+        "question": "Dans quelle ville peut-on admirer la cathédrale de l'Intercession-de-la-Vierge ?",
+        "propositions": [
+          "Paris",
+          "Berne",
+          "Madrid",
+          "Moscou"
+        ],
+        "réponse": "Moscou",
+        "anecdote": "Symbole de l'architecture traditionnelle russe, la cathédrale de l'Intercession-de-la-Vierge se trouve sur la place Rouge de Moscou."
+      },
+      {
+        "id": 26,
+        "question": "Étant en Italie, où espérez-vous passer en prenant le col du Brenner ?",
+        "propositions": [
+          "En Serbie",
+          "En Croatie",
+          "En Autriche",
+          "En France"
+        ],
+        "réponse": "En Autriche",
+        "anecdote": "Avec 1 372 m d'altitude, le col du Brenner est le passage le plus bas et le plus fréquenté entre le nord et le sud des Alpes."
+      },
+      {
+        "id": 27,
+        "question": "Où irez-vous en Asie du Sud-Est si vous voulez vous rendre dans la « ville du lion » ?",
+        "propositions": [
+          "Taïwan",
+          "Singapour",
+          "Hong Kong",
+          "Shanghai"
+        ],
+        "réponse": "Singapour",
+        "anecdote": "Malgré qu'elle soit très densément urbanisée, la végétation luxuriante de Singapour lui a valu le surnom de « Ville jardin »."
+      },
+      {
+        "id": 28,
+        "question": "Situé dans les Alpes, quel est le plus grand Parc Naturel de France ?",
+        "propositions": [
+          "Cévennes",
+          "Calanques",
+          "Mercantour",
+          "Écrins"
+        ],
+        "réponse": "Écrins",
+        "anecdote": "Le Parc possède un grand nombre de lacs spectaculaires, dont le lac du Lauvitel, le plus profond et le plus grand du Parc."
+      },
+      {
+        "id": 29,
+        "question": "Dans quel pays allez-vous pour trouver des ruines de la civilisation Scythe-Parthe ?",
+        "propositions": [
+          "Pérou",
+          "Cameroun",
+          "Pakistan",
+          "Grèce"
+        ],
+        "réponse": "Pakistan",
+        "anecdote": "Les Scythes étaient un ensemble de peuples nomades indo-européens d'Eurasie parlant des langues iraniennes."
+      },
+      {
+        "id": 30,
+        "question": "Quelle statue en bronze de cinquante cm est un point touristique de Bruxelles ?",
+        "propositions": [
+          "Manneken-Pis",
+          "Vaartkapoen",
+          "Atomium",
+          "Tour Noire"
+        ],
+        "réponse": "Manneken-Pis",
+        "anecdote": "La fontaine est située au coeur de Bruxelles, dans le quartier Saint-Jacques, à deux pas de la Grand-Place."
+      }
+    ]
+    }
+  }
+}

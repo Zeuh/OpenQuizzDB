@@ -1,0 +1,1650 @@
+---
+fournisseur: OpenQuizzDB - Fournisseur de contenu libre (https://www.openquizzdb.org)
+rédacteur: Philippe Bresoux
+thème: Bretagne (Entité culturelle à l'identité forte)
+difficulté: 4 / 5
+quizz:
+  fr:
+  - débutant:
+    - id: 1
+      question: Combien de départements compte la Bretagne, à l'extrémité ouest de la France ?
+      propositions:
+      - Deux
+      - Cinq
+      - Trois
+      - Quatre
+      réponse: Quatre
+      anecdote: La Bretagne est située entre la Manche au nord, la mer Celtique à l'ouest et le golfe de Gascogne au sud.
+    - id: 2
+      question: Comment dit-on Bretagne en breton, langue parlée par 200 000 personnes en Bretagne ?
+      propositions:
+      - Fenoz
+      - Breizh
+      - Gomz
+      - Kerne
+      réponse: Breizh
+      anecdote: La pratique traditionnelle du breton est majoritairement concentrée dans l'ouest de la péninsule.
+    - id: 3
+      question: Quelle ville bretonne est connue pour ses alignements de plusieurs milliers de menhirs ?
+      propositions:
+      - Rumengol
+      - Lorient
+      - Carnac
+      - Brest
+      réponse: Carnac
+      anecdote: Ce site mégalithique exceptionnel est constitué d'alignements de menhirs, de dolmens et d'allées couvertes.
+    - id: 4
+      question: Quelle ville bretonne a pour habitants les briochins et les briochines ?
+      propositions:
+      - Saint-Brieuc
+      - Betton
+      - Bruz
+      - Brest
+      réponse: Saint-Brieuc
+      anecdote: Préfecture des Côtes-d'Armor, Saint-Brieuc en est également la ville la plus peuplée.
+    - id: 5
+      question: Quel symbole celtique à trois branches est devenu très populaire en Bretagne ?
+      propositions:
+      - Flèche
+      - Chardon
+      - Triskèle
+      - Sablier
+      réponse: Triskèle
+      anecdote: Le triskèle est considéré comme une caractéristique importante de l'art celtique à l'époque de la Tène.
+    - id: 6
+      question: Quels genres de musique sont célébrés tous les ans à Lorient ?
+      propositions:
+      - Celtiques
+      - Religieuses
+      - Cubaines
+      - Classiques
+      réponse: Celtiques
+      anecdote: Le Festival interceltique de Lorient trouve son origine dans l'accueil en 1971 d'une compétition de bagadou.
+    - id: 7
+      question: Quelle course à la voile est très souvent associée au port de Saint-Malo ?
+      propositions:
+      - Vendée Globe
+      - Route du Rhum
+      - Spi Dauphine
+      - Transat anglaise
+      réponse: Route du Rhum
+      anecdote: Le record de la traversée est détenu depuis 2014 par Loïck Peyron sur le Maxi Solo BP VII.
+    - id: 8
+      question: Quelle est la préfecture du Finistère, département situé en région Bretagne ?
+      propositions:
+      - Vannes
+      - Nantes
+      - Brest
+      - Quimper
+      réponse: Quimper
+      anecdote: Le Finistère fut créé en 1790 à l'instar de la majorité des départements français.
+    - id: 9
+      question: Combien peut-on compter de bandes noires et blanches sur le drapeau breton ?
+      propositions:
+      - Cinq
+      - Sept
+      - Neuf
+      - Trois
+      réponse: Neuf
+      anecdote: Un canton supérieur (côté mât) de couleur blanche est quant à lui parsemé d'une multitude de mouchetures d'hermine.
+    - id: 10
+      question: À partir de quelle substance est réalisé le chouchen, proche de l'hydromel ?
+      propositions:
+      - Lait
+      - Sirop de menthe
+      - Foie gras
+      - Miel
+      réponse: Miel
+      anecdote: Le chouchen se fabriquait autrefois plus particulièrement à partir de miel de sarrasin, jadis très présent en Bretagne.
+  - confirmé:
+    - id: 11
+      question: En Haute-Bretagne, que désigne le gallo, faisant l'objet d'études universitaires ?
+      propositions:
+      - Un oiseau
+      - Un dessert
+      - Un symbole
+      - Une langue
+      réponse: Une langue
+      anecdote: Contrairement au breton, le gallo ne bénéficie pas d'une longue tradition de défense et de protection.
+    - id: 12
+      question: Quel festival a lieu tous les ans sur la commune de Carhaix-Plouguer, dans le Finistère ?
+      propositions:
+      - Europavox
+      - Musicalarue
+      - Rocklang
+      - Vieilles charrues
+      réponse: Vieilles charrues
+      anecdote: Ce festival annuel dure quatre jours et débute à la mi-juillet dans la commune de Carhaix-Plouguer.
+    - id: 13
+      question: Dans quel département français se dresse le phare de l'Île Vierge ?
+      propositions:
+      - Île et Vilaine
+      - Finistère
+      - Côtes-d'Armor
+      - Morbihan
+      réponse: Finistère
+      anecdote: Ce phare fait l'objet d'un classement au titre des monuments historiques depuis le 23 mai 2011.
+    - id: 14
+      question: Quelle ville est la capitale traditionnelle de la Cornouaille ?
+      propositions:
+      - Saint-Malo
+      - Morlaix
+      - Quimper
+      - Lorient
+      réponse: Quimper
+      anecdote: Selon une étude réalisée en 2005, Quimper se classait en 22ème position des villes françaises où il faisait bon vivre.
+    - id: 15
+      question: Dans quelle ville de Bretagne est situé le deuxième port militaire français ?
+      propositions:
+      - Quimper
+      - Brest
+      - Nantes
+      - Vannes
+      réponse: Brest
+      anecdote: L'arsenal de Brest est un ensemble d'installations militaires et navales situé dans la rivière Penfeld, à Brest, dans le Finistère.
+    - id: 16
+      question: Dans quelle ville de Bretagne peut-on admirer la cathédrale Saint-Pierre-et-Saint-Paul ?
+      propositions:
+      - Nantes
+      - Brest
+      - Saint-Brieuc
+      - Lorient
+      réponse: Nantes
+      anecdote: On peut y admirer le tombeau et les gisants du duc François II de Bretagne et de son épouse Marguerite de Foix.
+    - id: 17
+      question: Quel était l'ancien nom du département des Côtes-d'Armor ?
+      propositions:
+      - Côtes franches
+      - Côtes ciselées
+      - Côtes du Roi
+      - Côtes-du-Nord
+      réponse: Côtes-du-Nord
+      anecdote: Les Côtes-d'Armor sont limitrophes du Finistère à l'ouest, du Morbihan au sud et de l'Ille-et-Vilaine à l'est.
+    - id: 18
+      question: Quel célèbre navigateur et explorateur français est né à Saint-Malo en 1491 ?
+      propositions:
+      - Jean Dugain
+      - Albert Falco
+      - Charles Levasseur
+      - Jacques Cartier
+      réponse: Jacques Cartier
+      anecdote: Un boulevard et une station du métro de Rennes portent le nom de Jacques Cartier, ainsi qu'un lycée public de Saint-Malo.
+    - id: 19
+      question: Que mangerez-vous en achetant un petit-gris de Rennes sur un marché breton ?
+      propositions:
+      - Saucisson
+      - Bonbon
+      - Sandwich
+      - Melon
+      réponse: Melon
+      anecdote: Il est caractérisé par une petite taille de fruit, une robe gris-verte et un goût très sucré.
+    - id: 20
+      question: Quelle ville bretonne est surnommée La cité des peintres ?
+      propositions:
+      - Vannes
+      - Concarneau
+      - Pont-Aven
+      - Carnac
+      réponse: Pont-Aven
+      anecdote: Pont-Aven était autrefois un bourg très animé : en 1900, on y comptait 40 hôtels, auberges et cafés.
+  - expert:
+    - id: 21
+      question: Pour un breton, que représente le Gwenn ha Du, symbole de sa région ?
+      propositions:
+      - Château
+      - Gâteau
+      - Drapeau
+      - Bateau
+      réponse: Drapeau
+      anecdote: D'autres drapeaux sont encore utilisés aujourd'hui afin de représenter cette région.
+    - id: 22
+      question: En Bretagne, que pouvez-vous contempler en regardant la Table des Marchand ?
+      propositions:
+      - Statue
+      - Dolmen
+      - Tableau
+      - Château-fort
+      réponse: Dolmen
+      anecdote: Propriété de l'État, le dolmen fait l'objet d'un classement au titre des monuments historiques depuis 1889.
+    - id: 23
+      question: Dans quelle ville peut-on admirer le château des ducs de Bretagne ?
+      propositions:
+      - Nantes
+      - Morlaix
+      - Quimper
+      - Lorient
+      réponse: Nantes
+      anecdote: Devenu propriété de la ville de Nantes en 1915, le château est affecté à un usage touristique et muséal depuis 1924.
+    - id: 24
+      question: Quel écrivain a été enterré face à la mer sur le rocher du grand Bé, à Saint-Malo ?
+      propositions:
+      - Rousseau
+      - Montesquieu
+      - Chateaubriand
+      - Balzac
+      réponse: Chateaubriand
+      anecdote: Chateaubriand est considéré comme l'un des précurseurs du romantisme français.
+    - id: 25
+      question: Pour quelle culture la ville de Paimpol est-elle célèbre ?
+      propositions:
+      - Haricot sec
+      - Cerise jaune
+      - Raisin blanc
+      - Pomme
+      réponse: Haricot sec
+      anecdote: Construite autour de ses bassins, Paimpol est l'un des principaux ports de pêche et de plaisance donnant sur la Manche.
+    - id: 26
+      question: Dans quelle commune de France se trouve le monument mégalithique La Roche-aux-Fées ?
+      propositions:
+      - Retiers
+      - Essé
+      - Pont-Aven
+      - Sainte-Colombe
+      réponse: Essé
+      anecdote: Son nom vient d'une légende prétendant que les pierres auraient été apportées par des fées.
+    - id: 27
+      question: Quelle est la ville la plus importante et la plus touristique de Belle-Île-en-Mer ?
+      propositions:
+      - Sauzon
+      - Le Palais
+      - Bangor
+      - Essé
+      réponse: Le Palais
+      anecdote: Belle-Île est un plateau d'origine volcanique essentiellement constitué de schiste décomposé.
+    - id: 28
+      question: Pour quelle spécialité culinaire la ville de Guémené-sur-Scorff est-elle connue ?
+      propositions:
+      - Saucisse
+      - Haricot sec
+      - Boudin
+      - Andouille
+      réponse: Andouille
+      anecdote: L'andouille de Guémené est une charcuterie à base de chaudins de porc enfilés les uns sur les autres pour former une andouille.
+    - id: 29
+      question: Dans quelle ville de Bretagne se trouve la base de sous-marins de Keroman ?
+      propositions:
+      - Nantes
+      - Saint-Malo
+      - Landerneau
+      - Lorient
+      réponse: Lorient
+      anecdote: Depuis la fin des années 1990, le site est reconverti en un pôle nautique spécialisé dans la plaisance et la course au large.
+    - id: 30
+      question: Quel chef d'oeuvre architectural de la renaissance la ville de Pontivy abrite-t-elle ?
+      propositions:
+      - Église
+      - Moulin
+      - Ferme
+      - Château
+      réponse: Château
+      anecdote: Le château de Pontivy est le lieu de la « déclaration d'indépendance bretonne » de 1940.
+  en:
+  - débutant:
+    - id: 1
+      question: How many departments are there in Brittany, at the western end of France ?
+      propositions:
+      - Four
+      - Three
+      - Two
+      - Five
+      réponse: Four
+      anecdote: Brittany is located between the English Channel to the north, the Celtic Sea to the west and the Bay of Biscay to the south.
+    - id: 2
+      question: How do you say Brittany in Breton, a language spoken by 200,000 people in Brittany ?
+      propositions:
+      - Kerne
+      - Fenoz
+      - Breizh
+      - Gomz
+      réponse: Breizh
+      anecdote: The traditional practice of Breton is mainly concentrated in the west of the peninsula.
+    - id: 3
+      question: Which Breton town is known for its alignments of several thousand menhirs ?
+      propositions:
+      - Lorient
+      - Brest
+      - Carnac
+      - Rumengol
+      réponse: Carnac
+      anecdote: This exceptional megalithic site consists of rows of menhirs, dolmens and covered alleys.
+    - id: 4
+      question: Which Breton town has briochins and briochines as its inhabitants ?
+      propositions:
+      - Bruz
+      - Saint-Brieuc
+      - Betton
+      - Brest
+      réponse: Saint-Brieuc
+      anecdote: Prefecture of Côtes-d'Armor, Saint-Brieuc is also the most populous city.
+    - id: 5
+      question: Which three-pointed Celtic symbol has become very popular in Brittany ?
+      propositions:
+      - Hourglass
+      - Triskelion
+      - Thistle
+      - Arrow
+      réponse: Triskelion
+      anecdote: The triskelion is considered an important feature of Celtic art during the time of the Tene.
+    - id: 6
+      question: What kinds of music are celebrated in Lorient each year ?
+      propositions:
+      - Classics
+      - Cubans
+      - Religious
+      - Celtic
+      réponse: Celtic
+      anecdote: The Lorient Interceltic Festival has its origins in the hosting in 1971 of a bagadou competition.
+    - id: 7
+      question: What sailing race is very often associated with the port of Saint-Malo ?
+      propositions:
+      - English deckchair
+      - Route du Rhum
+      - Vendée Globe
+      - Spinnaker Dauphine
+      réponse: Route du Rhum
+      anecdote: The record for the crossing has been held since 2014 by Loïck Peyron on the Maxi Solo BP VII.
+    - id: 8
+      question: What is the prefecture of Finistère, a department located in the Brittany region ?
+      propositions:
+      - Nantes
+      - Quimper
+      - Valves
+      - Brest
+      réponse: Quimper
+      anecdote: Finistère was created in 1790 like most of the French departments.
+    - id: 9
+      question: How many black and white stripes can there be on the Breton flag ?
+      propositions:
+      - Seven
+      - New
+      - Five
+      - Three
+      réponse: New
+      anecdote: A white upper section (hoist side) is dotted with a multitude of ermine speckles.
+    - id: 10
+      question: From what substance is chouchen made, close to mead ?
+      propositions:
+      - Milk
+      - Foie gras
+      - Mint syrup
+      - Honey
+      réponse: Honey
+      anecdote: In the past, chouchen was made more particularly from buckwheat honey, once very present in Brittany.
+  - confirmé:
+    - id: 11
+      question: In Upper Brittany, what does gallo designate, which is the subject of university studies ?
+      propositions:
+      - A bird
+      - A dessert
+      - A language
+      - A symbol
+      réponse: A language
+      anecdote: Unlike Breton, Gallo does not have a long tradition of defense and protection.
+    - id: 12
+      question: What festival takes place every year in the town of Carhaix-Plouguer, in Finistère ?
+      propositions:
+      - Rocklang
+      - Old plows
+      - Musicalarue
+      - Europavox
+      réponse: Old plows
+      anecdote: This annual festival lasts four days and begins in mid-July in the town of Carhaix-Plouguer.
+    - id: 13
+      question: In which French department is the Île Vierge lighthouse ?
+      propositions:
+      - Côtes-d'Armor
+      - Finistère
+      - Île et Vilaine
+      - Morbihan
+      réponse: Finistère
+      anecdote: This lighthouse has been classified as a historical monument since May 23, 2011.
+    - id: 14
+      question: Which city is the traditional capital of Cornwall ?
+      propositions:
+      - Quimper
+      - Saint-Malo
+      - Morlaix
+      - Lorient
+      réponse: Quimper
+      anecdote: According to a study carried out in 2005, Quimper was ranked 22nd among French cities where life was good.
+    - id: 15
+      question: In which city of Brittany is the second French military port located ?
+      propositions:
+      - Nantes
+      - Quimper
+      - Brest
+      - Valves
+      réponse: Brest
+      anecdote: The arsenal of Brest is a set of military and naval installations located in the Penfeld river, in Brest, in Finistère.
+    - id: 16
+      question: In which city of Brittany can you admire the Saint-Pierre-et-Saint-Paul cathedral ?
+      propositions:
+      - Lorient
+      - Brest
+      - Nantes
+      - Saint-Brieuc
+      réponse: Nantes
+      anecdote: You can admire the tomb and recumbent figures of Duke François II of Brittany and his wife Marguerite de Foix.
+    - id: 17
+      question: What was the old name of the Côtes-d'Armor department ?
+      propositions:
+      - Chopped ribs
+      - Côtes du Roi
+      - Free ribs
+      - Côtes-du-Nord
+      réponse: Côtes-du-Nord
+      anecdote: The Côtes-d'Armor borders on Finistère to the west, Morbihan to the south and Ille-et-Vilaine to the east.
+    - id: 18
+      question: What famous French navigator and explorer was born in Saint-Malo in 1491 ?
+      propositions:
+      - Jean Dugain
+      - Charles Levasseur
+      - Jacques Cartier
+      - Albert Falco
+      réponse: Jacques Cartier
+      anecdote: A boulevard and a metro station in Rennes bear the name of Jacques Cartier, as well as a public high school in Saint-Malo.
+    - id: 19
+      question: What will you eat when you buy a Rennes squirrel on a Breton market ?
+      propositions:
+      - Melon
+      - Sausage
+      - Candy
+      - Sandwich
+      réponse: Melon
+      anecdote: It is characterized by a small fruit size, a gray-green color and a very sweet taste.
+    - id: 20
+      question: Which Breton town is nicknamed The City of Painters ?
+      propositions:
+      - Valves
+      - Concarneau
+      - Pont-Aven
+      - Carnac
+      réponse: Pont-Aven
+      anecdote: Pont-Aven was once a bustling town: in 1900, there were 40 hotels, inns and cafes.
+  - expert:
+    - id: 21
+      question: For a Breton, what does Gwenn ha Du, symbol of his region represent ?
+      propositions:
+      - Boat
+      - Cake
+      - Castle
+      - Flag
+      réponse: Flag
+      anecdote: Other flags are still used today to represent this region.
+    - id: 22
+      question: In Brittany, what can you contemplate while looking at the Table des Marchand ?
+      propositions:
+      - Table
+      - Fortified castle
+      - Dolmen
+      - Statue
+      réponse: Dolmen
+      anecdote: Property of the State, the dolmen has been classified as a historical monument since 1889.
+    - id: 23
+      question: In which city can you admire the castle of the Dukes of Brittany ?
+      propositions:
+      - Nantes
+      - Morlaix
+      - Quimper
+      - Lorient
+      réponse: Nantes
+      anecdote: Owned by the city of Nantes in 1915, the castle has been used for tourism and museums since 1924.
+    - id: 24
+      question: Which writer was buried facing the sea on the rock of the great Bé, in Saint-Malo ?
+      propositions:
+      - Rousseau
+      - Balzac
+      - Montesquieu
+      - Chateaubriand
+      réponse: Chateaubriand
+      anecdote: Chateaubriand is considered to be one of the forerunners of French Romanticism.
+    - id: 25
+      question: What culture is the city of Paimpol famous for ?
+      propositions:
+      - Apple
+      - Dry bean
+      - White grape
+      - Cherry yellow
+      réponse: Dry bean
+      anecdote: Built around its basins, Paimpol is one of the main fishing and marina ports overlooking the English Channel.
+    - id: 26
+      question: In which commune of France is the megalithic monument La Roche-aux-Fées located ?
+      propositions:
+      - Pont-Aven
+      - Essé
+      - Sainte-Colombe
+      - Retiers
+      réponse: Essé
+      anecdote: Its name comes from a legend claiming that the stones were brought by fairies.
+    - id: 27
+      question: What is the most important and most touristic city of Belle-Île-en-Mer ?
+      propositions:
+      - The Palace
+      - Sauzon
+      - Bangor
+      - Essé
+      réponse: The Palace
+      anecdote: Belle-Île is a plateau of volcanic origin mainly made up of decomposed shale.
+    - id: 28
+      question: What culinary specialty is the town of Guémené-sur-Scorff known for ?
+      propositions:
+      - Sausage
+      - Blood sausage
+      - Andouille
+      - Dry bean
+      réponse: Andouille
+      anecdote: Guémené andouille is a charcuterie made from pork meats strung one on top of the other to form an andouille.
+    - id: 29
+      question: In which town in Brittany is the Keroman submarine base located ?
+      propositions:
+      - Nantes
+      - Lorient
+      - Landerneau
+      - Saint-Malo
+      réponse: Lorient
+      anecdote: Since the end of the 1990s, the site has been converted into a nautical center specializing in yachting and offshore racing.
+    - id: 30
+      question: What Renaissance architectural masterpiece does the city of Pontivy house ?
+      propositions:
+      - Mill
+      - Castle
+      - Farm
+      - Church
+      réponse: Castle
+      anecdote: The castle of Pontivy is the site of the Breton declaration of independence of 1940.
+  de:
+  - débutant:
+    - id: 1
+      question: Wie viele Abteilungen gibt es in der Bretagne am westlichen Ende Frankreichs ?
+      propositions:
+      - Drei
+      - Fünf
+      - Zwei
+      - Vier
+      réponse: Vier
+      anecdote: Die Bretagne liegt zwischen dem Ärmelkanal im Norden, dem Keltischen Meer im Westen und dem Golf von Biskaya im Süden.
+    - id: 2
+      question: Wie sagt man auf Bretonisch Bretagne, eine Sprache, die von 200.000 Menschen in der Bretagne gesprochen wird ?
+      propositions:
+      - Kerne
+      - Breizh
+      - Gomz
+      - Fenoz
+      réponse: Breizh
+      anecdote: Die traditionelle bretonische Praxis konzentriert sich hauptsächlich auf den Westen der Halbinsel.
+    - id: 3
+      question: Welche bretonische Stadt ist bekannt für ihre Ausrichtung von mehreren tausend Menhire ?
+      propositions:
+      - Rumengol
+      - Carnac
+      - Lorient
+      - Brest
+      réponse: Carnac
+      anecdote: Diese außergewöhnliche Megalithstätte besteht aus Reihen von Menhiren, Dolmen und überdachten Gassen.
+    - id: 4
+      question: Welche bretonische Stadt hat Briochins und Briochines als Einwohner ?
+      propositions:
+      - Brest
+      - Betton
+      - Bruz
+      - Saint-Brieuc
+      réponse: Saint-Brieuc
+      anecdote: Die Präfektur Côtes-d'Armor, Saint-Brieuc, ist auch die bevölkerungsreichste Stadt.
+    - id: 5
+      question: Welches dreizackige keltische Symbol ist in der Bretagne sehr beliebt geworden ?
+      propositions:
+      - Pfeil
+      - Sanduhr
+      - Distel
+      - Triskelion
+      réponse: Triskelion
+      anecdote: Das Triskelion gilt während der Tene als wichtiges Merkmal der keltischen Kunst.
+    - id: 6
+      question: Welche Arten von Musik werden in Lorient jedes Jahr gefeiert ?
+      propositions:
+      - Klassiker
+      - Religiös
+      - Kubaner
+      - Keltisch
+      réponse: Keltisch
+      anecdote: Das Lorient Interceltic Festival hat seinen Ursprung in der Ausrichtung eines Bagadou-Wettbewerbs im Jahr 1971.
+    - id: 7
+      question: Welches Segelrennen wird sehr oft mit dem Hafen von Saint-Malo in Verbindung gebracht ?
+      propositions:
+      - Vendée Globe
+      - Route du Rhum
+      - Englischer Liegestuhl
+      - Spinnaker Dauphine
+      réponse: Route du Rhum
+      anecdote: Der Rekord für die Überfahrt wird seit 2014 von Loïck Peyron auf der Maxi Solo BP VII gehalten.
+    - id: 8
+      question: Was ist die Präfektur Finistère, eine Abteilung in der Bretagne ?
+      propositions:
+      - Nantes
+      - Quimper
+      - Ventile
+      - Brest
+      réponse: Quimper
+      anecdote: Finistère wurde 1790 wie die meisten französischen Abteilungen gegründet.
+    - id: 9
+      question: Wie viele schwarz-weiße Streifen kann es auf der bretonischen Flagge geben ?
+      propositions:
+      - Fünf
+      - Neu
+      - Drei
+      - Sieben
+      réponse: Neu
+      anecdote: Ein weißer oberer Abschnitt (Hebeseite) ist mit einer Vielzahl von Hermelinflecken übersät.
+    - id: 10
+      question: Aus welcher Substanz wird Chouchen in der Nähe von Met hergestellt ?
+      propositions:
+      - Milch
+      - Honig
+      - Minzsirup
+      - Foie Gras
+      réponse: Honig
+      anecdote: In der Vergangenheit wurde Chouchen insbesondere aus Buchweizenhonig hergestellt, der einst in der Bretagne sehr präsent war.
+  - confirmé:
+    - id: 11
+      question: Was bezeichnet Gallo in der Oberbretagne, was Gegenstand eines Universitätsstudiums ist ?
+      propositions:
+      - Ein Dessert
+      - Eine Sprache
+      - Ein Vogel
+      - Ein Symbol
+      réponse: Eine Sprache
+      anecdote: Im Gegensatz zu Breton hat Gallo keine lange Tradition der Verteidigung und des Schutzes.
+    - id: 12
+      question: Welches Festival findet jedes Jahr in der Stadt Carhaix-Plouguer in Finistère statt ?
+      propositions:
+      - Alte Pflüge
+      - Musicalarue
+      - Europavox
+      - Rocklang
+      réponse: Alte Pflüge
+      anecdote: Dieses jährliche Festival dauert vier Tage und beginnt Mitte Juli in der Stadt Carhaix-Plouguer.
+    - id: 13
+      question: In welcher französischen Abteilung befindet sich der Leuchtturm Île Vierge ?
+      propositions:
+      - Morbihan
+      - Île et Vilaine
+      - Côtes-d'Armor
+      - Finistère
+      réponse: Finistère
+      anecdote: Dieser Leuchtturm ist seit dem 23. Mai 2011 als historisches Denkmal eingestuft.
+    - id: 14
+      question: Welche Stadt ist die traditionelle Hauptstadt von Cornwall ?
+      propositions:
+      - Saint-Malo
+      - Morlaix
+      - Quimper
+      - Lorient
+      réponse: Quimper
+      anecdote: Laut einer 2005 durchgeführten Studie belegte Quimper den 22. Platz unter den französischen Städten, in denen das Leben gut war.
+    - id: 15
+      question: In welcher Stadt der Bretagne befindet sich der zweite französische Militärhafen ?
+      propositions:
+      - Nantes
+      - Ventile
+      - Brest
+      - Quimper
+      réponse: Brest
+      anecdote: Das Arsenal von Brest besteht aus einer Reihe von Militär- und Marineanlagen im Fluss Penfeld in Brest in Finistère.
+    - id: 16
+      question: In welcher Stadt der Bretagne können Sie die Kathedrale Saint-Pierre-et-Saint-Paul bewundern ?
+      propositions:
+      - Lorient
+      - Brest
+      - Nantes
+      - Saint-Brieuc
+      réponse: Nantes
+      anecdote: Sie können das Grab und die liegenden Figuren von Herzog François II.
+    - id: 17
+      question: Wie war der alte Name des Departements Côtes-d'Armor ?
+      propositions:
+      - Côtes-du-Nord
+      - Côtes du Roi
+      - Gehackte Rippen
+      - Freie Rippen
+      réponse: Côtes-du-Nord
+      anecdote: Die Côtes-d'Armor grenzt im Westen an Finistère, im Süden an Morbihan und im Osten an Ille-et-Vilaine.
+    - id: 18
+      question: Welcher berühmte französische Seefahrer und Entdecker wurde 1491 in Saint-Malo geboren ?
+      propositions:
+      - Charles Levasseur
+      - Albert Falco
+      - Jacques Cartier
+      - Jean Dugain
+      réponse: Jacques Cartier
+      anecdote: Ein Boulevard und eine U-Bahnstation in Rennes tragen den Namen Jacques Cartier sowie ein öffentliches Gymnasium in Saint-Malo.
+    - id: 19
+      question: Was wirst du essen, wenn du ein Rennes-Eichhörnchen auf einem bretonischen Markt kaufst ?
+      propositions:
+      - Sandwich
+      - Süßigkeiten
+      - Wurst
+      - Melone
+      réponse: Melone
+      anecdote: Es zeichnet sich durch eine kleine Fruchtgröße, eine graugrüne Farbe und einen sehr süßen Geschmack aus.
+    - id: 20
+      question: Welche bretonische Stadt trägt den Spitznamen Die Stadt der Maler ?
+      propositions:
+      - Ventile
+      - Carnac
+      - Pont-Aven
+      - Concarneau
+      réponse: Pont-Aven
+      anecdote: Pont-Aven war einst eine geschäftige Stadt: 1900 gab es 40 Hotels, Gasthäuser und Cafés.
+  - expert:
+    - id: 21
+      question: Was repräsentiert Gwenn ha Du, Symbol seiner Region, für einen Bretonen ?
+      propositions:
+      - Flagge
+      - Kuchen
+      - Boot
+      - Schloss
+      réponse: Flagge
+      anecdote: Andere Flaggen werden heute noch verwendet, um diese Region darzustellen.
+    - id: 22
+      question: Was können Sie in der Bretagne beim Betrachten des Table des Marchand beachten ?
+      propositions:
+      - Statue
+      - Dolmen
+      - Tabelle
+      - Befestigte Burg
+      réponse: Dolmen
+      anecdote: Der Dolmen ist Eigentum des Staates und wird seit 1889 als historisches Denkmal eingestuft.
+    - id: 23
+      question: In welcher Stadt können Sie die Burg der Herzöge der Bretagne bewundern ?
+      propositions:
+      - Lorient
+      - Nantes
+      - Quimper
+      - Morlaix
+      réponse: Nantes
+      anecdote: Das Schloss wurde 1915 Eigentum der Stadt Nantes und wird seit 1924 für Tourismus und Museen genutzt.
+    - id: 24
+      question: Welcher Schriftsteller wurde mit Blick auf das Meer auf dem Felsen des großen Bé in Saint-Malo beigesetzt ?
+      propositions:
+      - Balzac
+      - Montesquieu
+      - Chateaubriand
+      - Rousseau
+      réponse: Chateaubriand
+      anecdote: Chateaubriand gilt als einer der Vorläufer der französischen Romantik.
+    - id: 25
+      question: Für welche Kultur ist die Stadt Paimpol berühmt ?
+      propositions:
+      - Weiße Traube
+      - Apple
+      - Trockene Bohne
+      - Kirschgelb
+      réponse: Trockene Bohne
+      anecdote: Paimpol wurde um seine Becken herum erbaut und ist einer der wichtigsten Fischerei- und Yachthafenhäfen mit Blick auf den Ärmelkanal.
+    - id: 26
+      question: In welcher französischen Gemeinde befindet sich das Megalithdenkmal La Roche-aux-Fées ?
+      propositions:
+      - Pont-Aven
+      - Retier
+      - Essé
+      - Sainte-Colombe
+      réponse: Essé
+      anecdote: Sein Name stammt von einer Legende, die behauptet, die Steine seien von Feen gebracht worden.
+    - id: 27
+      question: Was ist die wichtigste und touristischste Stadt von Belle-Île-en-Mer ?
+      propositions:
+      - Bangor
+      - Der Palast
+      - Sauzon
+      - Essé
+      réponse: Der Palast
+      anecdote: Belle-Île ist ein Plateau vulkanischen Ursprungs, das hauptsächlich aus zersetztem Schiefer besteht.
+    - id: 28
+      question: Für welche kulinarische Spezialität ist die Stadt Guémené-sur-Scorff bekannt ?
+      propositions:
+      - Wurst
+      - Blutwurst
+      - Andouille
+      - Trockene Bohne
+      réponse: Andouille
+      anecdote: Guémené andouille ist eine Wurstwaren aus Schweinefleisch, die zu einer Andouille übereinandergereiht sind.
+    - id: 29
+      question: In welcher Stadt in der Bretagne befindet sich die U-Boot-Basis Keroman ?
+      propositions:
+      - Saint-Malo
+      - Landerneau
+      - Lorient
+      - Nantes
+      réponse: Lorient
+      anecdote: Seit Ende der 90er Jahre wurde der Standort in ein auf Yachting und Offshore-Rennen spezialisiertes Seezentrum umgewandelt.
+    - id: 30
+      question: Welches architektonische Meisterwerk der Renaissance beherbergt die Stadt Pontivy ?
+      propositions:
+      - Schloss
+      - Bauernhof
+      - Mühle
+      - Kirche
+      réponse: Schloss
+      anecdote: In der Burg von Pontivy fand 1940 die bretonische Unabhängigkeitserklärung statt.
+  es:
+  - débutant:
+    - id: 1
+      question: ¿Cuántos departamentos hay en Bretaña, en el extremo occidental de Francia ?
+      propositions:
+      - Dos
+      - Tres
+      - Cinco
+      - Cuatro
+      réponse: Cuatro
+      anecdote: Bretaña se encuentra entre el Canal de la Mancha al norte, el Mar Céltico al oeste y el Golfo de Vizcaya al sur.
+    - id: 2
+      question: ¿Cómo se dice Bretaña en bretón, un idioma que hablan 200.000 personas en Bretaña ?
+      propositions:
+      - Kerne
+      - Breizh
+      - Fenoz
+      - Gomz
+      réponse: Breizh
+      anecdote: La práctica tradicional del bretón se concentra principalmente en el oeste de la península.
+    - id: 3
+      question: ¿Qué ciudad bretona es conocida por sus alineaciones de varios miles de menhires ?
+      propositions:
+      - Brest
+      - Rumengol
+      - Carnac
+      - Lorient
+      réponse: Carnac
+      anecdote: Este sitio megalítico excepcional consta de hileras de menhires, dólmenes y callejones cubiertos.
+    - id: 4
+      question: ¿Qué ciudad bretona tiene brioquinas y brioquinas como habitantes ?
+      propositions:
+      - Saint-Brieuc
+      - Brest
+      - Bruz
+      - Betton
+      réponse: Saint-Brieuc
+      anecdote: Prefectura de Côtes-d'Armor, Saint-Brieuc es también la ciudad más poblada.
+    - id: 5
+      question: ¿Qué símbolo celta de tres puntas se ha vuelto muy popular en Bretaña ?
+      propositions:
+      - Reloj de arena
+      - Flecha
+      - Thistle
+      - Triskelion
+      réponse: Triskelion
+      anecdote: El triskelion se considera una característica importante del arte celta durante la época de los Tene.
+    - id: 6
+      question: ¿Qué tipo de música se celebra en Lorient cada año ?
+      propositions:
+      - Celta
+      - Religiosa
+      - Cubanos
+      - Clásicos
+      réponse: Celta
+      anecdote: El Festival Intercéltico de Lorient tiene sus orígenes en la celebración en 1971 de una competición bagadou.
+    - id: 7
+      question: ¿Qué regata se asocia muy a menudo con el puerto de Saint-Malo ?
+      propositions:
+      - Tumbona inglesa
+      - Route du Rhum
+      - Spinnaker Dauphine
+      - Vendée Globe
+      réponse: Route du Rhum
+      anecdote: Loïck Peyron ostenta el récord del cruce desde 2014 en el Maxi Solo BP VII.
+    - id: 8
+      question: ¿Qué es la prefectura de Finisterre, un departamento ubicado en la región de Bretaña ?
+      propositions:
+      - Brest
+      - Válvulas ","Vannes
+      - Nantes
+      - Quimper
+      réponse: Quimper
+      anecdote: Finisterre fue creado en 1790 como la mayoría de los departamentos franceses.
+    - id: 9
+      question: ¿Cuántas franjas blancas y negras puede haber en la bandera bretona ?
+      propositions:
+      - Cinco
+      - Nuevo
+      - Tres
+      - Siete
+      réponse: Nuevo
+      anecdote: Una sección superior blanca (lado del polipasto) está salpicada de una multitud de motas de armiño.
+    - id: 10
+      question: ¿De qué sustancia se hace el chouchen, cercano al hidromiel ?
+      propositions:
+      - Miel
+      - Jarabe de menta
+      - Foie gras
+      - Leche
+      réponse: Miel
+      anecdote: En el pasado, el chouchen se hacía más particularmente con miel de trigo sarraceno, una vez muy presente en Bretaña.
+  - confirmé:
+    - id: 11
+      question: En la Alta Bretaña, ¿qué designa gallo, que es la asignatura de estudios universitarios ?
+      propositions:
+      - Un pájaro
+      - Un símbolo
+      - Un idioma
+      - Un postre
+      réponse: Un idioma
+      anecdote: A diferencia de Breton, Gallo no tiene una larga tradición de defensa y protección.
+    - id: 12
+      question: ¿Qué festival se celebra cada año en la localidad de Carhaix-Plouguer, en Finisterre ?
+      propositions:
+      - Rocklang
+      - Europavox
+      - Musicalarue
+      - Arados viejos
+      réponse: Arados viejos
+      anecdote: Este festival anual dura cuatro días y comienza a mediados de julio en la ciudad de Carhaix-Plouguer.
+    - id: 13
+      question: ¿En qué departamento francés se encuentra el faro de Île Vierge ?
+      propositions:
+      - Finisterre
+      - Île et Vilaine
+      - Morbihan
+      - Côtes-d'Armor
+      réponse: Finisterre
+      anecdote: Este faro está clasificado como monumento histórico desde el 23 de mayo de 2011.
+    - id: 14
+      question: ¿Qué ciudad es la capital tradicional de Cornualles ?
+      propositions:
+      - Quimper
+      - Morlaix
+      - Lorient
+      - Saint-Malo
+      réponse: Quimper
+      anecdote: Según un estudio realizado en 2005, Quimper ocupó el puesto 22 entre las ciudades francesas donde la vida era buena.
+    - id: 15
+      question: ¿En qué ciudad de Bretaña se encuentra el segundo puerto militar francés ?
+      propositions:
+      - Nantes
+      - Brest
+      - Quimper
+      - Válvulas
+      réponse: Brest
+      anecdote: El arsenal de Brest es un conjunto de instalaciones militares y navales ubicadas en el río Penfeld, en Brest, en Finisterre.
+    - id: 16
+      question: ¿En qué ciudad de Bretaña se puede admirar la catedral de Saint-Pierre-et-Saint-Paul ?
+      propositions:
+      - Lorient
+      - Saint-Brieuc
+      - Brest
+      - Nantes
+      réponse: Nantes
+      anecdote: Puede admirar la tumba y las figuras yacentes del duque François II de Bretaña y su esposa Marguerite de Foix.
+    - id: 17
+      question: ¿Cuál era el antiguo nombre del departamento de Côtes-d'Armor ?
+      propositions:
+      - Côtes-du-Nord
+      - Costillas libres
+      - Costillas picadas
+      - Côtes du Roi
+      réponse: Côtes-du-Nord
+      anecdote: La Côtes-d'Armor limita con Finisterre al oeste, Morbihan al sur e Ille-et-Vilaine al este.
+    - id: 18
+      question: ¿Qué famoso navegante y explorador francés nació en Saint-Malo en 1491 ?
+      propositions:
+      - Charles Levasseur
+      - Albert Falco
+      - Jean Dugain
+      - Jacques Cartier
+      réponse: Jacques Cartier
+      anecdote: Un bulevar y una estación de metro en Rennes llevan el nombre de Jacques Cartier, así como una escuela secundaria pública en Saint-Malo.
+    - id: 19
+      question: ¿Qué vas a comer cuando compres una ardilla de Rennes en un mercado bretón ?
+      propositions:
+      - Candy
+      - Sandwich
+      - Melon
+      - Salchicha
+      réponse: Melon
+      anecdote: Se caracteriza por un tamaño de fruto pequeño, un color gris verdoso y un sabor muy dulce.
+    - id: 20
+      question: ¿Qué pueblo bretón recibe el sobrenombre de La ciudad de los pintores ?
+      propositions:
+      - Concarneau
+      - Pont-Aven
+      - Válvulas
+      - Carnac
+      réponse: Pont-Aven
+      anecdote: Pont-Aven fue una vez una ciudad bulliciosa: en 1900, había 40 hoteles, posadas y cafés.
+  - expert:
+    - id: 21
+      question: Para un bretón, ¿qué representa Gwenn ha Du, símbolo de su región ?
+      propositions:
+      - Pastel
+      - Barco
+      - Bandera
+      - Castillo
+      réponse: Bandera
+      anecdote: Todavía se utilizan otras banderas para representar esta región.
+    - id: 22
+      question: En Bretaña, ¿qué se puede contemplar contemplando la Table des Marchand ?
+      propositions:
+      - Tabla
+      - Castillo fortificado
+      - Dolmen
+      - Estatua
+      réponse: Dolmen
+      anecdote: Propiedad del Estado, el dolmen está clasificado como monumento histórico desde 1889.
+    - id: 23
+      question: ¿En qué ciudad se puede admirar el castillo de los duques de Bretaña ?
+      propositions:
+      - Nantes
+      - Morlaix
+      - Lorient
+      - Quimper
+      réponse: Nantes
+      anecdote: Propiedad de la ciudad de Nantes en 1915, el castillo se ha utilizado para turismo y museos desde 1924.
+    - id: 24
+      question: ¿Qué escritor fue enterrado frente al mar en la roca del gran Bé, en Saint-Malo ?
+      propositions:
+      - Montesquieu
+      - Chateaubriand
+      - Balzac
+      - Rousseau
+      réponse: Chateaubriand
+      anecdote: Chateaubriand es considerado uno de los precursores del romanticismo francés.
+    - id: 25
+      question: ¿Por qué cultura es famosa la ciudad de Paimpol ?
+      propositions:
+      - Frijol seco
+      - Amarillo cereza
+      - Apple
+      - Uva blanca
+      réponse: Frijol seco
+      anecdote: Construido alrededor de sus cuencas, Paimpol es uno de los principales puertos pesqueros y deportivos con vistas al Canal de la Mancha.
+    - id: 26
+      question: ¿En qué municipio de Francia se encuentra el monumento megalítico de La Roche-aux-Fées ?
+      propositions:
+      - Essé
+      - Retiers
+      - Pont-Aven
+      - Sainte-Colombe
+      réponse: Essé
+      anecdote: Su nombre proviene de una leyenda que afirma que las piedras fueron traídas por hadas.
+    - id: 27
+      question: ¿Cuál es la ciudad más importante y turística de Belle-Île-en-Mer ?
+      propositions:
+      - Sauzon
+      - El palacio
+      - Bangor
+      - Essé
+      réponse: El palacio
+      anecdote: Belle-Île es una meseta de origen volcánico formada principalmente por esquisto descompuesto.
+    - id: 28
+      question: ¿Por qué especialidad culinaria es conocida la ciudad de Guémené-sur-Scorff ?
+      propositions:
+      - Frijol seco
+      - Andouille
+      - Morcilla
+      - Salchicha
+      réponse: Andouille
+      anecdote: Guémené andouille es una charcutería hecha de carnes de cerdo ensartadas una encima de otra para formar una andouille.
+    - id: 29
+      question: ¿En qué ciudad de Bretaña se encuentra la base de submarinos Keroman ?
+      propositions:
+      - Saint-Malo
+      - Lorient
+      - Landerneau
+      - Nantes
+      réponse: Lorient
+      anecdote: Desde finales de la década de 1990, el sitio se ha convertido en un centro náutico especializado en navegación y regatas en alta mar.
+    - id: 30
+      question: ¿Qué obra maestra de la arquitectura renacentista alberga la ciudad de Pontivy ?
+      propositions:
+      - Iglesia
+      - Mill
+      - Castillo
+      - Granja
+      réponse: Castillo
+      anecdote: El castillo de Pontivy es el lugar de la declaración de independencia bretona de 1940.
+  it:
+  - débutant:
+    - id: 1
+      question: Quanti dipartimenti ci sono in Bretagna, all'estremità occidentale della Francia ?
+      propositions:
+      - Tre
+      - Due
+      - Cinque
+      - Quattro
+      réponse: Quattro
+      anecdote: La Bretagna si trova tra il Canale della Manica a nord, il Mar Celtico a ovest e il Golfo di Biscaglia a sud.
+    - id: 2
+      question: Come si dice Bretagna in bretone, una lingua parlata da 200.000 persone in Bretagna ?
+      propositions:
+      - Fenoz
+      - Breizh
+      - Gomz
+      - Kerne
+      réponse: Breizh
+      anecdote: La pratica tradizionale del bretone è concentrata principalmente nella parte occidentale della penisola.
+    - id: 3
+      question: Quale città bretone è nota per i suoi allineamenti di diverse migliaia di menhir ?
+      propositions:
+      - Lorient
+      - Carnac
+      - Brest
+      - Rumengol
+      réponse: Carnac
+      anecdote: Questo eccezionale sito megalitico è costituito da file di menhir, dolmen e vicoli coperti.
+    - id: 4
+      question: Quale città bretone ha come abitanti briochine e briochine ?
+      propositions:
+      - Betton
+      - Saint-Brieuc
+      - Bruz
+      - Brest
+      réponse: Saint-Brieuc
+      anecdote: Prefettura di Côtes-d'Armor, Saint-Brieuc è anche la città più popolosa.
+    - id: 5
+      question: Quale simbolo celtico a tre punte è diventato molto popolare in Bretagna ?
+      propositions:
+      - Freccia
+      - Clessidra
+      - Triskelion
+      - Cardo
+      réponse: Triskelion
+      anecdote: Il triskelion è considerato una caratteristica importante dell'arte celtica durante il tempo del Tene.
+    - id: 6
+      question: Che tipo di musica si celebra ogni anno a Lorient ?
+      propositions:
+      - Classici
+      - Religiosi
+      - Cubani
+      - Celtico
+      réponse: Celtico
+      anecdote: Il Festival Interceltico di Lorient ha le sue origini nell'ospitare nel 1971 un concorso di bagadou.
+    - id: 7
+      question: Quale regata velica è molto spesso associata al porto di Saint-Malo ?
+      propositions:
+      - Route du Rhum
+      - Spinnaker Dauphine
+      - Sdraio inglese
+      - Vendée Globe
+      réponse: Route du Rhum
+      anecdote: Il record per la traversata è detenuto dal 2014 da Loïck Peyron sul Maxi Solo BP VII.
+    - id: 8
+      question: Qual è la prefettura del Finistère, un dipartimento situato nella regione della Bretagna ?
+      propositions:
+      - Nantes
+      - Valvole
+      - Brest
+      - Quimper
+      réponse: Quimper
+      anecdote: Finistère è stato creato nel 1790 come la maggior parte dei dipartimenti francesi.
+    - id: 9
+      question: Quante strisce bianche e nere possono esserci sulla bandiera bretone ?
+      propositions:
+      - Seven
+      - Tre
+      - Cinque
+      - Nuovo
+      réponse: Nuovo
+      anecdote: Una sezione superiore bianca (lato paranco) è punteggiata da una moltitudine di punti di ermellino.
+    - id: 10
+      question: Da quale sostanza viene prodotto il chouchen, vicino all'idromele ?
+      propositions:
+      - Miele
+      - Sciroppo di menta
+      - Latte
+      - Foie gras
+      réponse: Miele
+      anecdote: In passato, il chouchen veniva prodotto in particolare dal miele di grano saraceno, un tempo molto presente in Bretagna.
+  - confirmé:
+    - id: 11
+      question: In Alta Bretagna, cosa designa gallo, che è oggetto di studi universitari ?
+      propositions:
+      - Una lingua
+      - Un uccello
+      - Un dessert
+      - Un simbolo
+      réponse: Una lingua
+      anecdote: A differenza di Breton, Gallo non ha una lunga tradizione di difesa e protezione.
+    - id: 12
+      question: Quale festival si svolge ogni anno nella città di Carhaix-Plouguer, nel Finistère ?
+      propositions:
+      - Musicalarue
+      - Europavox
+      - Vecchi aratri
+      - Rocklang
+      réponse: Vecchi aratri
+      anecdote: Questo festival annuale dura quattro giorni e inizia a metà luglio nella città di Carhaix-Plouguer.
+    - id: 13
+      question: In quale dipartimento francese si trova il faro dell'Île Vierge ?
+      propositions:
+      - Finistère
+      - Île et Vilaine
+      - Côtes-d'Armor
+      - Morbihan
+      réponse: Finistère
+      anecdote: Questo faro è stato classificato come monumento storico dal 23 maggio 2011.
+    - id: 14
+      question: Quale città è la capitale tradizionale della Cornovaglia ?
+      propositions:
+      - Morlaix
+      - Saint-Malo
+      - Quimper
+      - Lorient
+      réponse: Quimper
+      anecdote: Secondo uno studio del 2005, Quimper si è classificata al 22 ° posto tra le città francesi dove la vita era bella.
+    - id: 15
+      question: In quale città della Bretagna si trova il secondo porto militare francese ?
+      propositions:
+      - Quimper
+      - Brest
+      - Valvole
+      - Nantes
+      réponse: Brest
+      anecdote: L'arsenale di Brest è un insieme di installazioni militari e navali situate nel fiume Penfeld, a Brest, nel Finistère.
+    - id: 16
+      question: In quale città della Bretagna si può ammirare la cattedrale di Saint-Pierre-et-Saint-Paul ?
+      propositions:
+      - Lorient
+      - Nantes
+      - Brest
+      - Saint-Brieuc
+      réponse: Nantes
+      anecdote: Si possono ammirare la tomba e le figure sdraiate del duca Francesco II di Bretagna e di sua moglie Marguerite de Foix.
+    - id: 17
+      question: Qual era il vecchio nome del dipartimento della Côtes-d'Armor ?
+      propositions:
+      - Costolette tritate
+      - Côtes-du-Nord
+      - Costine gratis
+      - Côtes du Roi
+      réponse: Côtes-du-Nord
+      anecdote: La Côtes-d'Armor confina con il Finistère a ovest, il Morbihan a sud e Ille-et-Vilaine a est.
+    - id: 18
+      question: Quale famoso navigatore ed esploratore francese nacque a Saint-Malo nel 1491 ?
+      propositions:
+      - Jacques Cartier
+      - Jean Dugain
+      - Albert Falco
+      - Charles Levasseur
+      réponse: Jacques Cartier
+      anecdote: Un viale e una stazione della metropolitana a Rennes portano il nome di Jacques Cartier, così come un liceo pubblico a Saint-Malo.
+    - id: 19
+      question: Cosa mangerete quando comprerete uno scoiattolo di Rennes in un mercato bretone ?
+      propositions:
+      - Salsiccia
+      - Melone
+      - Candy
+      - Sandwich
+      réponse: Melone
+      anecdote: È caratterizzato da una piccola pezzatura del frutto, un colore grigioverde e un sapore molto dolce.
+    - id: 20
+      question: Quale città bretone è soprannominata La città dei pittori ?
+      propositions:
+      - Carnac
+      - Valvole
+      - Concarneau
+      - Pont-Aven
+      réponse: Pont-Aven
+      anecdote: Pont-Aven era una volta una vivace città: nel 1900 c'erano 40 hotel, locande e caffè.
+  - expert:
+    - id: 21
+      question: Per un bretone cosa rappresenta Gwenn ha Du, simbolo della sua regione ?
+      propositions:
+      - Barca
+      - Torta
+      - Bandiera
+      - Castello
+      réponse: Bandiera
+      anecdote: Altre bandiere sono ancora utilizzate oggi per rappresentare questa regione.
+    - id: 22
+      question: In Bretagna, cosa puoi contemplare guardando la Table des Marchand ?
+      propositions:
+      - Castello fortificato
+      - Statua
+      - Dolmen
+      - Tabella
+      réponse: Dolmen
+      anecdote: Proprietà dello Stato, il dolmen è classificato monumento storico dal 1889.
+    - id: 23
+      question: In quale città si può ammirare il castello dei Duchi di Bretagna ?
+      propositions:
+      - Quimper
+      - Nantes
+      - Morlaix
+      - Lorient
+      réponse: Nantes
+      anecdote: Di proprietà della città di Nantes nel 1915, il castello è stato utilizzato per turismo e musei dal 1924.
+    - id: 24
+      question: Quale scrittore fu sepolto di fronte al mare sulla roccia del grande Bé, a Saint-Malo ?
+      propositions:
+      - Rousseau
+      - Chateaubriand
+      - Balzac
+      - Montesquieu
+      réponse: Chateaubriand
+      anecdote: Chateaubriand è considerato uno dei precursori del romanticismo francese.
+    - id: 25
+      question: Per quale cultura è famosa la città di Paimpol ?
+      propositions:
+      - Apple
+      - Fagiolo secco
+      - Uva bianca
+      - Giallo ciliegia
+      réponse: Fagiolo secco
+      anecdote: Costruito attorno ai suoi bacini, Paimpol è uno dei principali porti di pesca e marina affacciati sul Canale della Manica.
+    - id: 26
+      question: In quale comune della Francia si trova il monumento megalitico La Roche-aux-Fées ?
+      propositions:
+      - Pont-Aven
+      - Retiers
+      - Essé
+      - Sainte-Colombe
+      réponse: Essé
+      anecdote: Il suo nome deriva da una leggenda secondo la quale le pietre furono portate dalle fate.
+    - id: 27
+      question: Qual è la città più importante e più turistica di Belle-Île-en-Mer ?
+      propositions:
+      - Bangor
+      - Sauzon
+      - Essé
+      - Il Palazzo
+      réponse: Il Palazzo
+      anecdote: Belle-Île è un altopiano di origine vulcanica costituito principalmente da scisti decomposti.
+    - id: 28
+      question: Per quale specialità culinaria è nota la città di Guémené-sur-Scorff ?
+      propositions:
+      - Fagiolo secco
+      - Salsiccia di sangue
+      - Andouille
+      - Salsiccia
+      réponse: Andouille
+      anecdote: Guémené andouille è un salume a base di carni di maiale infilate una sull'altra a formare un'andouille.
+    - id: 29
+      question: In quale città della Bretagna si trova la base dei sottomarini Keroman ?
+      propositions:
+      - Landerneau
+      - Nantes
+      - Saint-Malo
+      - Lorient
+      réponse: Lorient
+      anecdote: Dalla fine degli anni '90 il sito è stato trasformato in un centro nautico specializzato in nautica da diporto e regate d'altura.
+    - id: 30
+      question: Quale capolavoro architettonico rinascimentale ospita la città di Pontivy ?
+      propositions:
+      - Chiesa
+      - Castello
+      - Mill
+      - Fattoria
+      réponse: Castello
+      anecdote: Il castello di Pontivy è il sito della dichiarazione d'indipendenza bretone del 1940.
+  nl:
+  - débutant:
+    - id: 1
+      question: Hoeveel departementen zijn er in Bretagne, aan de westkant van Frankrijk ?
+      propositions:
+      - Drie
+      - Vier
+      - Vijf
+      - Twee
+      réponse: Vier
+      anecdote: Bretagne ligt tussen het Engelse Kanaal in het noorden, de Keltische Zee in het westen en de Golf van Biskaje in het zuiden.
+    - id: 2
+      question: Hoe zeg je Bretagne in het Bretons, een taal die in Bretagne door 200.000 mensen wordt gesproken ?
+      propositions:
+      - Gomz
+      - Kerne
+      - Fenoz
+      - Breizh
+      réponse: Breizh
+      anecdote: De traditionele praktijk van Bretons is voornamelijk geconcentreerd in het westen van het schiereiland.
+    - id: 3
+      question: Welke Bretonse stad staat bekend om zijn uitlijning van enkele duizenden menhirs ?
+      propositions:
+      - Rumengol
+      - Brest
+      - Carnac
+      - Lorient
+      réponse: Carnac
+      anecdote: Deze uitzonderlijke megalithische site bestaat uit menhirs, dolmens en overdekte steegjes.
+    - id: 4
+      question: Welke Bretonse stad heeft briochins en briochines als inwoners ?
+      propositions:
+      - Betton
+      - Brest
+      - Bruz
+      - Saint-Brieuc
+      réponse: Saint-Brieuc
+      anecdote: Saint-Brieuc, de prefectuur Côtes-d'Armor, is ook de meest bevolkte stad.
+    - id: 5
+      question: Welk driepuntig Keltisch symbool is erg populair geworden in Bretagne ?
+      propositions:
+      - Triskelion
+      - Zandloper
+      - Distel
+      - Pijl
+      réponse: Triskelion
+      anecdote: Het triskelion wordt beschouwd als een belangrijk kenmerk van de Keltische kunst in de tijd van de Tene.
+    - id: 6
+      question: Welke soorten muziek worden er elk jaar in Lorient gevierd ?
+      propositions:
+      - Cubanen
+      - Keltisch
+      - Klassiekers
+      - Religieus
+      réponse: Keltisch
+      anecdote: Het Lorient Interceltic Festival vindt zijn oorsprong in de hosting in 1971 van een bagadou-wedstrijd.
+    - id: 7
+      question: Welke zeilrace wordt heel vaak geassocieerd met de haven van Saint-Malo ?
+      propositions:
+      - Vendée Globe
+      - Route du Rhum
+      - Engelse ligstoel
+      - Spinnaker Dauphine
+      réponse: Route du Rhum
+      anecdote: Het record voor de overtocht wordt sinds 2014 gehouden door Loïck Peyron op de Maxi Solo BP VII.
+    - id: 8
+      question: Wat is de prefectuur van Finistère, een departement in de regio Bretagne ?
+      propositions:
+      - Kleppen
+      - Brest
+      - Quimper
+      - Nantes
+      réponse: Quimper
+      anecdote: Finistère werd in 1790 opgericht zoals de meeste Franse departementen.
+    - id: 9
+      question: Hoeveel zwart-witte strepen mogen er op de Bretonse vlag zijn ?
+      propositions:
+      - Vijf
+      - Drie
+      - Zeven
+      - Nieuw
+      réponse: Nieuw
+      anecdote: Een wit bovendeel (takelzijde) is bezaaid met een veelvoud aan hermelijnspikkels.
+    - id: 10
+      question: Van welke substantie wordt chouchen gemaakt, dicht bij mede ?
+      propositions:
+      - Melk
+      - Ganzenlever
+      - Muntsiroop
+      - Honing
+      réponse: Honing
+      anecdote: In het verleden werd chouchen vooral gemaakt van boekweithoning, ooit heel aanwezig in Bretagne.
+  - confirmé:
+    - id: 11
+      question: Wat duidt gallo in Boven-Bretagne aan, dat onderwerp is van universitaire studies ?
+      propositions:
+      - Een vogel
+      - Een taal
+      - Een symbool
+      - Een toetje
+      réponse: Een taal
+      anecdote: In tegenstelling tot Breton heeft Gallo geen lange traditie van verdediging en bescherming.
+    - id: 12
+      question: Welk festival vindt elk jaar plaats in de stad Carhaix-Plouguer, in Finistère ?
+      propositions:
+      - Europavox
+      - Oude ploegen
+      - Musicalarue
+      - Rocklang
+      réponse: Oude ploegen
+      anecdote: Dit jaarlijkse festival duurt vier dagen en begint half juli in de stad Carhaix-Plouguer.
+    - id: 13
+      question: In welk Franse departement bevindt zich de vuurtoren van Île Vierge ?
+      propositions:
+      - Île et Vilaine
+      - Finistère
+      - Côtes-d'Armor
+      - Morbihan
+      réponse: Finistère
+      anecdote: Deze vuurtoren is sinds 23 mei 2011 geclassificeerd als historisch monument.
+    - id: 14
+      question: Welke stad is de traditionele hoofdstad van Cornwall ?
+      propositions:
+      - Saint-Malo
+      - Quimper
+      - Morlaix
+      - Lorient
+      réponse: Quimper
+      anecdote: Volgens een onderzoek dat in 2005 werd uitgevoerd, stond Quimper op de 22e plaats van de Franse steden waar het goed toeven was.
+    - id: 15
+      question: In welke stad van Bretagne ligt de tweede Franse militaire haven ?
+      propositions:
+      - Nantes
+      - Brest
+      - Kleppen
+      - Quimper
+      réponse: Brest
+      anecdote: Het arsenaal van Brest is een reeks militaire en marine-installaties in de rivier de Penfeld, in Brest, in Finistère.
+    - id: 16
+      question: In welke stad van Bretagne kun je de kathedraal Saint-Pierre-et-Saint-Paul bewonderen ?
+      propositions:
+      - Nantes
+      - Lorient
+      - Brest
+      - Saint-Brieuc
+      réponse: Nantes
+      anecdote: U kunt het graf en de liggende figuren van hertog François II van Bretagne en zijn vrouw Marguerite de Foix bewonderen.
+    - id: 17
+      question: Wat was de oude naam van het departement Côtes-d'Armor ?
+      propositions:
+      - Côtes-du-Nord
+      - Gehakte ribben
+      - Gratis ribben
+      - Côtes du Roi
+      réponse: Côtes-du-Nord
+      anecdote: De Côtes-d'Armor grenst in het westen aan Finistère, in het zuiden aan Morbihan en in het oosten aan Ille-et-Vilaine.
+    - id: 18
+      question: Welke beroemde Franse zeevaarder en ontdekkingsreiziger werd in 1491 in Saint-Malo geboren ?
+      propositions:
+      - Jean Dugain
+      - Charles Levasseur
+      - Jacques Cartier
+      - Albert Falco
+      réponse: Jacques Cartier
+      anecdote: Een boulevard en een metrostation in Rennes dragen de naam van Jacques Cartier, evenals een openbare middelbare school in Saint-Malo.
+    - id: 19
+      question: Wat eet je als je een Rennes-eekhoorn koopt op een Bretonse markt ?
+      propositions:
+      - Broodje
+      - Snoep
+      - Worst
+      - Meloen
+      réponse: Meloen
+      anecdote: Het kenmerkt zich door een kleine vruchtmaat, een grijsgroene kleur en een zeer zoete smaak.
+    - id: 20
+      question: Welke Bretonse stad heeft de bijnaam The City of Painters ?
+      propositions:
+      - Pont-Aven
+      - Carnac
+      - Concarneau
+      - Kleppen
+      réponse: Pont-Aven
+      anecdote: Pont-Aven was ooit een bruisende stad: in 1900 waren er 40 hotels, herbergen en cafés.
+  - expert:
+    - id: 21
+      question: Wat vertegenwoordigt Gwenn ha Du, het symbool van zijn regio, voor een Bretonse ?
+      propositions:
+      - Taart
+      - Vlag
+      - Kasteel
+      - Boot
+      réponse: Vlag
+      anecdote: Andere vlaggen worden nog steeds gebruikt om deze regio te vertegenwoordigen.
+    - id: 22
+      question: Waar kun je in Bretagne aan denken terwijl je naar de Table des Marchand kijkt ?
+      propositions:
+      - Tafel
+      - Standbeeld
+      - Versterkt kasteel
+      - Hunebed
+      réponse: Hunebed
+      anecdote: Het hunebed is eigendom van de staat en is sinds 1889 geclassificeerd als historisch monument.
+    - id: 23
+      question: In welke stad kun je het kasteel van de hertogen van Bretagne bewonderen ?
+      propositions:
+      - Lorient
+      - Quimper
+      - Nantes
+      - Morlaix
+      réponse: Nantes
+      anecdote: Het kasteel was in 1915 eigendom van de stad Nantes en wordt sinds 1924 gebruikt voor toerisme en musea.
+    - id: 24
+      question: Welke schrijver werd met uitzicht op zee begraven op de rots van de grote Bé, in Saint-Malo ?
+      propositions:
+      - Balzac
+      - Chateaubriand
+      - Rousseau
+      - Montesquieu
+      réponse: Chateaubriand
+      anecdote: Chateaubriand wordt beschouwd als een van de voorlopers van de Franse romantiek.
+    - id: 25
+      question: Om welke cultuur is de stad Paimpol beroemd ?
+      propositions:
+      - Appel
+      - Kersengeel
+      - Witte druif
+      - Droge boon
+      réponse: Droge boon
+      anecdote: Paimpol is gebouwd rond zijn bassins en is een van de belangrijkste vissers- en jachthavens met uitzicht op het Engelse Kanaal.
+    - id: 26
+      question: In welke gemeente van Frankrijk bevindt zich het megalithische monument La Roche-aux-Fées ?
+      propositions:
+      - Pont-Aven
+      - Essé
+      - Sainte-Colombe
+      - Retiers
+      réponse: Essé
+      anecdote: De naam komt van een legende die beweert dat de stenen door feeën zijn meegebracht.
+    - id: 27
+      question: Wat is de belangrijkste en meest toeristische stad Belle-Île-en-Mer ?
+      propositions:
+      - Het paleis
+      - Bangor
+      - Sauzon
+      - Essé
+      réponse: Het paleis
+      anecdote: Belle-Île is een plateau van vulkanische oorsprong dat voornamelijk bestaat uit afgebroken schalie.
+    - id: 28
+      question: Om welke culinaire specialiteit staat de stad Guémené-sur-Scorff bekend ?
+      propositions:
+      - Worst
+      - Andouille
+      - Droge boon
+      - Bloedworst
+      réponse: Andouille
+      anecdote: Guémené andouille is een charcuterie gemaakt van varkensvlees dat op elkaar is geregen om een andouille te vormen.
+    - id: 29
+      question: In welke stad in Bretagne bevindt zich de onderzeebootbasis Keroman ?
+      propositions:
+      - Landerneau
+      - Lorient
+      - Saint-Malo
+      - Nantes
+      réponse: Lorient
+      anecdote: Sinds het einde van de jaren negentig is de site omgebouwd tot een nautisch centrum gespecialiseerd in zeilen en offshore racen.
+    - id: 30
+      question: Welk architectonisch meesterwerk uit de Renaissance huisvest de stad Pontivy ?
+      propositions:
+      - Kasteel
+      - Boerderij
+      - Kerk
+      - Molen
+      réponse: Kasteel
+      anecdote: Het kasteel van Pontivy is de plaats van de Bretonse onafhankelijkheidsverklaring van 1940.
